@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2017-07-20"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2019 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE JULIO DE 2017.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -121,7 +121,9 @@ XIII. Intervenir en la forma y términos que la ley disponga, en los juicios que
 
 XIV. Instrumentar los mecanismos de coordinación y colaboración con las dependencias federales y estatales relacionadas con la seguridad pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
 
-XV. Establecer mecanismos de prevención del delito en el ámbito de su competencia; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Establecer mecanismos de prevención del delito en el ámbito de su competencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -183,17 +185,17 @@ IX. Subprocuraduría Jurídica y de Amparo;
 
 X. Dirección de Servicios Periciales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XI. Dirección de la Policía Ministerial;
+XI. Dirección de la Agencia Estatal de Investigación Criminal;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
 XII. Dirección de Atención a Víctimas del Delito;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIII. Órgano de Control Interno;
+XIII. Órgano Interno de Control;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -237,9 +239,11 @@ El procurador podrá designar directamente a determinados servidores públicos p
 
 El procurador emitirá las circulares, acuerdos, manuales de organización y de procedimientos, protocolos de actuación demás (sic) disposiciones reglamentarias que rijan la actuación de los servidores públicos de la Procuraduría.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
-Cada Subprocuraduría tendrá las direcciones, coordinaciones, unidades de atención inmediata, unidades de investigación y judicialización, unidades mixtas del Ministerio Público, y demás personal necesario para el cumplimiento de sus funciones, de acuerdo a la disponibilidad presupuestaria, y ejercerán las atribuciones que el Reglamento Interior y demás disposiciones les confieran.
+Cada Subprocuraduría tendrá las direcciones, coordinaciones, unidades de atención temprana, unidades de investigación y judicialización, unidades mixtas del Ministerio Público, y demás personal necesario para el cumplimiento de sus funciones, de acuerdo a la disponibilidad presupuestaria, y ejercerán las atribuciones que el Reglamento Interior y demás disposiciones les confieran.
 
 ###### ARTÍCULO 10.
 
@@ -261,9 +265,11 @@ La institución del Ministerio Público constituye una entidad única e indivisi
 
 El procurador intervendrá por sí o por conducto de los servidores públicos de las áreas derivadas de esta Ley Orgánica y su Reglamento Interior.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-Tendrán el carácter de agentes del Ministerio Público para todos los efectos legales y ejercerán las atribuciones que en términos de la presente Ley se le confiere a esta institución, el procurador, los subprocuradores, los Agentes del Ministerio Público, Coordinadores Generales de Investigación, de Justicia Alternativa, así como los titulares de las Coordinaciones de Unidades de Investigación y de las Unidades Especializadas a las que expresamente les confiera ese carácter el Reglamento Interior.
+Tendrán el carácter de agentes del Ministerio Público para todos los efectos legales y ejercerán las atribuciones que en términos de la presente Ley se le confiere a esta institución, el procurador, los subprocuradores, los Agentes del Ministerio Público, Coordinadores Generales de Investigación, de los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal, así como los titulares de las Coordinaciones de Unidades de Investigación y de las Unidades Especializadas a las que expresamente les confiera ese carácter el Reglamento Interior.
 
 ###### ARTÍCULO 14.
 
@@ -295,7 +301,9 @@ III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona
 
 IV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de ello deberán denunciarlo inmediatamente ante la autoridad competente;
 
-V. Abstenerse de desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, en los gobiernos del Distrito Federal o en los Estados y Municipios, así como trabajos de servicios en instituciones privadas, salvo las de carácter docente y aquellas que autorice la institución siempre y cuando no sean incompatibles con sus funciones en la misma;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Abstenerse de desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, en los gobiernos de las Entidades Federativas y Municipios, así como trabajos de servicios en instituciones privadas, salvo las de carácter docente y aquellas que autorice la institución siempre y cuando no sean incompatibles con sus funciones en la misma;
 
 VI. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
@@ -365,19 +373,29 @@ XVI. Ejercer la autoridad jerárquica sobre todo el personal de la Procuraduría
 
 XVII. Conceder licencias y aceptar las renuncias de los servidores públicos de la Procuraduría;
 
-XVIII. Calificar las excusas o recusaciones planteadas por el Ministerio Público, peritos, policías ministeriales, o las partes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Calificar las excusas o recusaciones planteadas por el Ministerio Público, peritos, agentes estatales de investigación criminal, o las partes;
 
 XIX. Presidir el Ministerio Público y ejercer las facultades que correspondan a esta Institución;
 
-XX. Ejercer mando sobre la Policía Ministerial;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XX. Ejercer mando sobre la Dirección de la Agencia Estatal de Investigación Criminal;
 
 XXI. Emitir instrucciones al personal a su cargo, sobre el ejercicio de sus funciones y delegar las atribuciones propias de su cargo al subordinado que corresponda;
 
-XXII. Emitir las órdenes de rotación de los Agentes del Ministerio Público, y aprobar la rotación que pongan a su consideración el Director de Servicios Periciales y el Director de la Policía Ministerial, cuando las necesidades del servicio así lo requieran;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXIII. Suspender temporalmente con carácter preventivo al personal de la procuraduría cuando le sea solicitado por el titular del Órgano de Control Interno;
+XXII. Emitir las órdenes de rotación y de cambio de adscripción de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo a su cargo, o en su caso aprobar la rotación o cambio de adscripción que pongan a su consideración los Subprocuradores, el Director de Servicios Periciales y el Director de la Agencia Estatal de Investigación Criminal, cuando las necesidades del servicio así lo requieran;
 
-XXIV. Separar temporalmente con carácter preventivo del área donde presuntamente se originó la conducta infractora cuando así le sea solicitado por el titular del Órgano de Control Interno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Suspender temporalmente con carácter preventivo al personal de la procuraduría cuando le sea solicitado por el titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIV. Separar temporalmente con carácter preventivo del área donde presuntamente se originó la conducta infractora cuando así le sea solicitado por el titular del Órgano Interno de Control;
 
 XXV. Autorizar la emisión de dictámenes periciales que sean solicitados por otras autoridades diversas de las ministeriales;
 
@@ -455,7 +473,9 @@ VII. Atender y orientar al público acerca de los derechos y obligaciones de los
 
 VIII. Coordinarse con el Subprocurador Jurídico y de Amparo a fin de que los agentes del Ministerio Público a su cargo cumplan con los lineamientos generales emitidos por éste y que deban ser de observancia para el seguimiento de las investigaciones y judicializaciones;
 
-IX. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de la Policía Ministerial y peritos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IX. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de los Agentes Estatales de Investigación Criminal y peritos;
 
 X. Asignar comisiones que el servicio demande, al personal adscrito a la región de su competencia;
 
@@ -471,15 +491,21 @@ XV. Solicitar a los concesionarios, permisionarios o comercializadoras del servi
 
 XVI. Pronunciarse respecto de la acusación al vencimiento del cierre de la investigación complementaria, cuando el Ministerio Público de su adscripción omita cumplir con dicha obligación;
 
-XVII. Someter a consideración del Procurador los cambios de adscripción del personal a su cargo, dentro del territorio del Estado.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVII. Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo, dentro del territorio del Estado.
 
 XVIII. Conceder o negar las licencias y vacaciones, al personal del Ministerio Publico a su cargo, conforme a las necesidades del servicio y disposiciones legales aplicables.
 
 XIX. Formular el anteproyecto del Presupuesto y Programa Operativo Anual, correspondiente a la región de su competencia, con acuerdo del Procurador;
 
-XX. Dirigir el desempeño de la Coordinación Regional de su adscripción;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXI. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, utilización de información policial, para conformar base de datos que permitan la aplicación de esta en contra de la delincuencia, a través del Área de Inteligencia de la Procuraduría; y
+XX. Dirigir el desempeño de las Coordinaciones Regionales y Coordinaciones de su adscripción;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXI. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, utilización de información policial, para conformar base de datos que permitan la aplicación de esta en contra de la delincuencia, a través de la Unidad de Análisis de la Información de la Procuraduría; y
 
 XXII. Las demás que le asigne el Procurador y otras disposiciones aplicables.
 
@@ -489,15 +515,21 @@ XXIII. Las atribuciones previstas en las fracciones I, II, IV, V, VI, VII y X la
 
 El Subprocurador de Justicia Alternativa tiene las siguientes atribuciones:
 
-I. Coordinar a las diversas áreas a su cargo, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General relativas a (sic) funcionamiento de las Unidades de Atención Inmediata y de la difusión de los beneficios de la justicia alternativa;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Coordinar y supervisar las acciones de los agentes del Ministerio Público adscritos a las Unidades de Atención Inmediata, Unidades de Justicia Alternativa y áreas adscritas a la misma, y vigilar que las actuaciones de los servidores públicos se apeguen a los ordenamientos legales vigentes.
+I. Coordinar a las diversas áreas a su cargo, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General relativas a (sic) funcionamiento de las Unidades de Atención Temprana y de la difusión de los beneficios de la justicia alternativa;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Coordinar y supervisar las acciones de los agentes del Ministerio Público adscritos a las Unidades de Atención Temprana, a los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal y áreas adscritas a la misma, y vigilar que las actuaciones de los servidores públicos se apeguen a los ordenamientos legales vigentes.
 
 III. Coordinar y supervisar las acciones de los agentes del Ministerio Público que participen en la fase de ejecución de sanciones penales;
 
 IV. La resolución de los asuntos que de manera expresa les encomiende el Procurador;
 
-V. Vigilar que se cumplan con las disposiciones establecidas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los mecanismos alternativos que se instauren ante las Unidades de Justicia Alternativa;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Vigilar que se cumplan con las disposiciones establecidas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los mecanismos alternativos que se instauren ante los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal;
 
 VI. Atender y orientar al público acerca de los derechos y obligaciones de los particulares frente a la propia Institución, especialmente en torno a los Acuerdos Reparatorios como mecanismo alternativo de solución de controversias;
 
@@ -517,11 +549,15 @@ XIII. Vigilar que el Ministerio Público funde y motive adecuadamente las resolu
 
 XIV. Coordinarse con el Subprocurador Jurídico y de Amparo a fin de que los agentes del Ministerio Público a su cargo cumplan con los lineamientos generales emitidos por éste y que deban ser de observancia para el seguimiento de sus actuaciones;
 
-XV. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de la Policía Ministerial y facilitadores de justicia alternativa;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de los Agentes Estatales de Investigación Criminal y facilitadores de los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal;
 
 XVI. Difundir y promover al interior de la Institución y en la ciudadanía la utilización de los mecanismos alternativos de solución de controversias, así como realizar acciones tendientes al fomento de la cultura de la paz;
 
-XVII. Estandarizar en coordinación con el Instituto Interdisciplinario de Ciencias Penales, programas de capacitación permanente en materia de justicia alternativa, al personal que integre las Unidades de Atención Inmediata y de Justicia Alternativa;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVII. Estandarizar en coordinación con el Instituto Interdisciplinario de Ciencias Penales, programas de capacitación permanente en materia de justicia alternativa, al personal que integre las Unidades de Atención Temprana y de los Órganos Especializados en Mecanismos de Solución de Controversia en Materia Penal;
 
 XVIII. Asignar comisiones que el servicio demande, al personal adscrito a la región de su competencia;
 
@@ -533,7 +569,9 @@ XXI. Celebrar convenios con las diversas instituciones públicas y privadas que 
 
 XXII. Verificar que los facilitadores cuenten con la certificación correspondiente, y cumplan para la continuación de su encargo con la renovación de la misma cada tres años;
 
-XXIII. Someter a consideración del Procurador los cambios de adscripción del personal a su cargo, dentro del territorio del Estado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo, dentro del territorio del Estado;
 
 XXIV. Conceder o negar las licencias y vacaciones, al personal del Ministerio Publico a su cargo, conforme a las necesidades del servicio y disposiciones legales aplicables;
 
@@ -557,15 +595,23 @@ IV. Conocer de las investigaciones y su prosecución penal en las que se adviert
 
 V. Dirigir y vigilar las Unidades de Investigación y Judicialización, y demás áreas de su adscripción y vigilar que las actuaciones de los servidores públicos se apeguen a los ordenamientos legales vigentes.
 
-VI. Realizar en coordinación con otras instancias de gobierno, operativos especiales derivados de las investigaciones que se tramiten en la misma;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII. Dirigir y coordinar a la Policía Ministerial adscrita a dicha Subprocuraduría en la investigación y ejecución de mandamientos de la autoridad;
+VI. Realizar por sí mismo, en conjunto con las unidades de investigación adscritas a esa Subprocuraduría o en coordinación con otras instancias de gobierno, operativos especiales derivados de las investigaciones que se tramiten en la misma;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Dirigir y coordinar a los agentes estatales de investigación criminal adscritos a dicha Subprocuraduría en la investigación y ejecución de mandamientos de la autoridad;
 
 VIII. Coordinarse con el Subprocurador Jurídico y de Amparo a fin de que los agentes del Ministerio Público a su cargo cumplan con los lineamientos generales emitidos por éste y que deban ser de observancia para el seguimiento de las investigaciones y judicializaciones;
 
-IX. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de la Policía Ministerial y peritos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-X. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de de (sic) información policial, para conformar bancos de datos que permitan la aplicación de esta en contra de la delincuencia, a través del Área de Inteligencia de la Procuraduría;
+IX. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de los Agentes Estatales de Investigación Criminal y peritos;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+X. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de información policial, para conformar bancos de datos que permitan la aplicación de esta en contra de la delincuencia, a través de la Unidad de Análisis de la Información de la Procuraduría;
 
 XI. Atender y orientar al público acerca de los derechos y obligaciones de los particulares frente a la propia Institución, especialmente a las víctimas de los delitos, con propósitos tutelares y preventivos dentro de sus atribuciones;
 
@@ -579,21 +625,31 @@ XV. Solicitar a los concesionarios, permisionarios o comercializadoras del servi
 
 XVI. Pronunciarse respecto de la acusación al vencimiento del cierre de la investigación complementaria, cuando el Ministerio Público de su adscripción omita cumplir con dicha obligación;
 
-XVII. Someter a consideración del Procurador los cambios de adscripción del personal a su cargo, dentro del territorio del Estado.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Conceder o negar las licencias y vacaciones, al personal del Ministerio Publico a su cargo, conforme a las necesidades del servicio y disposiciones legales aplicables.
+XVII.- Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo dentro del territorio del Estado.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Conceder o negar las licencias y vacaciones, al personal del Ministerio Publico, personal administrativo y Agentes Estatales de Investigación Criminal a su cargo, conforme a las necesidades del servicio y disposiciones legales aplicables.
 
 XIX. Formular el anteproyecto del Presupuesto y Programa Operativo Anual, correspondiente a la región de su competencia, con acuerdo del Procurador;
 
-XX. Dirigir el desempeño de la Coordinación Regional de su adscripción;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXI. Asignar comisiones que el servicio demande, al personal adscrito a esta Área;
+XX. Dirigir el desempeño de la Coordinación de Ministerios Públicos de su adscripción;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXI. Asignar comisiones que el servicio demande, al personal adscrito a esta Área; y
 
 XXII. Las demás que le asigne el Procurador y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-La Subprocuradora de Atención a Delitos contra la Libertad Sexual y la Familia, tiene las siguientes atribuciones:
+La Subprocuradora de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia, tiene las siguientes atribuciones:
 
 I. Resolver los asuntos que de manera expresa le encomiende el Procurador;
 
@@ -613,7 +669,9 @@ VIII. Coordinar con el Instituto Interdisciplinario de Ciencias Penales, la capa
 
 IX. Coordinarse con el Subprocurador Jurídico y de Amparo a fin de que los agentes del Ministerio Público a su cargo cumplan con los lineamientos generales emitidos por éste para el seguimiento de las investigaciones y judicializaciones;
 
-X. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de la Policía Ministerial y peritos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+X. Emitir su opinión dentro del ámbito de su competencia, al Subprocurador Jurídico y de Amparo para la elaboración de anteproyectos de reglamentos, acuerdos, circulares, instructivos manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de los Agentes Estatales de Investigación Criminal y peritos;
 
 XI. Coordinarse con otras dependencias, para la elaboración de programas que involucren acciones sobre la atención individual, grupal o familiar, que se deban brindar a los integrantes de la familia y menores víctimas de delitos de su competencia;
 
@@ -627,7 +685,9 @@ XV. Promover y organizar la participación ciudadana en coordinación con la soc
 
 XVI. Dirigir y coordinar el área de psicología y trabajo social de su adscripción, para la adecuada atención a las víctimas del delito;
 
-XVII. Dirigir y vigilar el cumplimiento de las facultades de las Unidades de atención inmediata, de investigación y Judicialización, así como la (sic) demás áreas de su adscripción y, vigilar que sus actuaciones se apeguen a los protocolos y ordenamientos legales vigentes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVII. Dirigir y vigilar el cumplimiento de las facultades de las unidades de investigación y Judicialización, así como la (sic) demás áreas de su adscripción y, vigilar que sus actuaciones se apeguen a los protocolos y ordenamientos legales vigentes;
 
 XVIII. Autorizar las solicitudes de: desistimiento de la Acción Penal, cancelación de la orden de aprehensión y aplicación de un criterio de oportunidad a los Agentes del Ministerio Público que estén dentro del área de su adscripción;
 
@@ -639,23 +699,31 @@ XXI. Solicitar a los concesionarios, permisionarios o comercializadoras del serv
 
 XXII. Pronunciarse respecto de la acusación al vencimiento del cierre de la investigación complementaria, cuando el Ministerio Público de su adscripción omita cumplir con dicha obligación;
 
-XXIII. Someter a consideración del Procurador los cambios de adscripción del personal a su cargo, dentro del territorio del Estado.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo, dentro del territorio del Estado.
 
 XXIV. Conceder o negar las licencias y vacaciones, al personal del Ministerio Publico a su cargo, conforme a las necesidades del servicio y disposiciones legales aplicables.
 
 XXV. Formular el anteproyecto del Presupuesto y Programa Operativo Anual, correspondiente a la región de su competencia, con acuerdo del Procurador;
 
-XXVI. Dirigir el desempeño de la Coordinación Regional de su adscripción;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Dirigir el desempeño de la Coordinación de Ministerios Públicos de su adscripción;
 
 XXVII. Asignar comisiones que el servicio demande, al personal adscrito a esta Subprocuraduría;
 
-XXVIII. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de información policial, para conformar bancos de datos que permitan la aplicación de esta en contra de la delincuencia, a través del Área de Inteligencia de la Procuraduría; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVIII. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de información policial, para conformar bancos de datos que permitan la aplicación de esta en contra de la delincuencia, a través de la Unidad de Análisis de la Información de la Procuraduría; y
 
 XXIX. Las demás que le asigne el Procurador y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-El Subprocurador de (sic) Jurídico y de Amparo tiene las siguientes atribuciones:
+El Subprocurador Jurídico y de Amparo tiene las siguientes atribuciones:
 
 I. Integrar los asuntos legales que deba emitir o aprobar el Procurador y someter a la aprobación de éste los lineamientos o resoluciones correspondientes;
 
@@ -671,7 +739,9 @@ VI. Formular querellas y denuncias por hechos probablemente constitutivos de del
 
 VII. Formular proyectos de leyes o reformas a las disposiciones legales competencia de la Procuraduría;
 
-VIII. Elaborar proyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de la Policía Ministerial, facilitadores de justicia alternativa y peritos, para lo cual recabará la opinión de las áreas involucradas y validará el marco jurídico de los manuales administrativos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Elaborar proyectos de reglamentos, acuerdos, circulares, instructivos, manuales y demás instrumentos jurídicos para regular la actuación de los agentes del Ministerio Público, de los Agentes Estatales de Investigación Criminal, facilitadores de los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal y peritos, para lo cual recabará la opinión de las áreas involucradas y validará el marco jurídico de los manuales administrativos;
 
 IX. Compilar la legislación estatal y las disposiciones legales de carácter federal relativas a las materias penal, civil y familiar, así como los Tratados Internacionales en materia de Derechos Humanos suscritos por el Estado Mexicano;
 
@@ -701,19 +771,27 @@ XXI. Las demás que le confieran el Procurador en el ámbito de su competencia, 
 
 ### CAPÍTULO V. DE LOS COORDINADORES REGIONALES DE MINISTERIOS PÚBLICOS
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-Los Coordinadores Regionales dependerán directamente del Subprocurador al que estén adscritos y se auxiliarán, para el ejercicio de sus funciones del personal técnico y administrativo, conforme a las necesidades del servicio y de acuerdo a la disponibilidad presupuestaria, y ejercerán las atribuciones que el Reglamento Interior y demás disposiciones les confieran.
+Los Coordinadores Regionales y Coordinadores dependerán directamente del Subprocurador al que estén adscritos y se auxiliarán, para el ejercicio de sus funciones del personal técnico y administrativo, conforme a las necesidades del servicio y de acuerdo a la disponibilidad presupuestaría, y ejercerán las atribuciones que el Reglamento Interior y demás disposiciones les confieran.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 30.
 
-Para ser Coordinador Regional se deberán cumplir con los requisitos establecidos para ser Subprocurador.
+Para ser Coordinador Regional o Coordinador se deberán cumplir con los requisitos establecidos para ser Subprocurador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 31.
 
-Los Coordinadores Regionales de Agentes del Ministerio Público, por sí o a través de éstos, serán los responsables de investigar y perseguir los hechos probablemente constitutivos de delitos y tendrán las siguientes atribuciones:
+Los Coordinadores Regionales de Agentes del Ministerio Público y Coordinadores de Agentes del Ministerio Público, por sí o a través de éstos, serán los responsables de investigar y perseguir los hechos probablemente constitutivos de delitos y tendrán las siguientes atribuciones:
 
-I. Coordinar y vigilar las actividades y el funcionamiento de las Unidades de Atención Inmediata, de Justicia Alternativa y, de Investigación y Judicialización según corresponda;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Coordinar y vigilar las actividades y el funcionamiento de las Unidades de Atención Temprana, de los Órganos de Mecanismos Alternativos de Solución de Controversias en Materia Penal y, de Investigación y Judicialización según corresponda;
 
 II. Mantener un estricto control y seguimiento de las investigaciones y judicializaciones que se practiquen por los agentes del Ministerio Público de la región de su adscripción;
 
@@ -731,7 +809,9 @@ Los Agentes del Ministerio Público, serán autónomos en el ejercicio de sus fa
 
 I. Recibir las denuncias o querellas sobre hechos presuntamente constitutivos de delito e iniciar la integración de la carpeta de investigación;
 
-II. Conducir la Investigación de los hechos materia de la denuncia o querella que les correspondan, para lo cual en su caso, se deberá coordinar con las policías y los peritos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Conducir la Investigación de los hechos materia de la denuncia o querella que les correspondan, para lo cual en su caso, se deberá coordinar con los agentes estatales de investigación criminal y los peritos;
 
 III. Llevar un registro de todos los actos de investigación por cualquier medio que permita garantizar que la información recabada esté completa;
 
@@ -821,7 +901,9 @@ XLIV. Promover la recusación de jueces o magistrados que tengan impedimento leg
 
 XLV. Autenticar copia de los datos de prueba, actuaciones, documentos y medios de investigación que obren en su poder con motivo o en ejercicio de sus funciones;
 
-XLVI. Coadyuvar con el Ministerio Público de la Federación, del Distrito Federal y de las demás Entidades Federativas en los términos de las leyes y de los convenios de colaboración respectivos; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XLVI. Coadyuvar con el Ministerio Público de la Federación, y de las demás Entidades Federativas en los términos de las leyes y de los convenios de colaboración respectivos; y
 
 XLVII. Las demás que les otorguen las leyes correspondientes.
 
@@ -831,7 +913,11 @@ Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de
 
 ### CAPITULO VII. DE LA DIRECCIÓN DE SERVICIOS PERICIALES
 
-### CAPÍTULO VIII. DE LA DIRECCIÓN DE LA POLICÍA MINISTERIAL
+### CAPÍTULO VIII
+
+DE LA DIRECCIÓN DE LA AGENCIA ESTATAL DE INVESTIGACIÓN CRIMINAL.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
@@ -849,9 +935,29 @@ I. Un Director;
 
 II. Un Subdirector;
 
-III. Las Coordinaciones; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. Peritos y demás áreas que determine el Reglamento Interior.
+III. Perito Profesional Responsable de Laboratorio;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Perito Profesional "A";
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Perito Profesional "B";
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Perito Técnico Responsable de Laboratorio;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Perito Técnico "A";
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Perito Técnico "B" y demás áreas que determine el Reglamento Interior.
 
 El Procurador velará porque los servicios periciales cuenten con la tecnología necesaria para el desempeño de sus funciones, debiendo celebrar por sí o por conducto del Director de Servicios Periciales los convenios con otras instituciones públicas o privadas para el caso de que se requiera su apoyo en la emisión de dictámenes.
 
@@ -883,7 +989,9 @@ El Director de Servicios Periciales tiene las siguientes atribuciones:
 
 I. Auxiliar al Ministerio Público en la Investigación de los delitos, a través de la búsqueda, preservación, levantamiento y embalaje de los indicios con el fin de identificar a la víctima, la mecánica y dinámica de los hechos y, al autor de los mismos;
 
-II. Coordinar y evaluar de acuerdo con cada especialidad, la atención de solicitudes de intervención pericial requeridas por el Ministerio Público, la Policía de Investigación y demás autoridades competentes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Coordinar y evaluar de acuerdo con cada especialidad, la atención de solicitudes de intervención pericial requeridas por el Ministerio Público, los Agentes Estatales de Investigación Criminal y demás autoridades competentes;
 
 III. Supervisar que la atención de las solicitudes del Ministerio Público y demás autoridades competentes en las diversas intervenciones Periciales se realice con respeto a los derechos humanos;
 
@@ -903,15 +1011,23 @@ X. Supervisar permanentemente al personal técnico-científico de las diversas e
 
 XI. Proponer al Procurador y al Oficial Mayor, la contratación de peritos no oficiales, cuando dentro de la Procuraduría no existan especialistas en una determinada disciplina, ciencia o arte que se requiera;
 
-XII. Emitir los criterios y lineamientos de los programas y acciones especiales que permitan el intercambio de experiencias, conocimientos y avances tecnológicos con las Unidades de Servicios Periciales de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de los Estados y del Distrito Federal, así como de las instituciones de procuración de justicia del extranjero, para capacitar y adiestrar a los peritos de la Procuraduría en técnicas de peritajes que coadyuven a una mayor especialización de estos servidores públicos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIII. Vigilar la correcta alimentación de los (sic) base de datos biométricos de acuerdo a las normas aplicables y los criterios establecidos por la Ley General del Sistema Nacional de Seguridad Pública.
+XII. Emitir los criterios y lineamientos de los programas y acciones especiales que permitan el intercambio de experiencias, conocimientos y avances tecnológicos con las Unidades de Servicios Periciales de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de los Estados, así como de las instituciones de procuración de justicia del extranjero, para capacitar y adiestrar a los peritos de la Procuraduría en técnicas de peritajes que coadyuven a una mayor especialización de estos servidores públicos;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIII. Vigilar la correcta alimentación de la base de datos biométricos de acuerdo a las normas aplicables y los criterios establecidos por la Ley General del Sistema Nacional de Seguridad Pública.
 
 XIV. Realizar el análisis que permita adscribir peritos en las Agencias Foráneas de la Procuraduría, para estar en posibilidades de desconcentrar funciones de acuerdo con las necesidades del servicio y la incidencia delictiva en cada una de ellas;
 
-XV. Emitir, previo acuerdo con el Procurador, las órdenes de rotación del personal de la Dirección a su cargo;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XVI. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de información policial, para conformar bases de datos que permitan la aplicación de esta en contra de la delincuencia, a través del Área de Inteligencia de la Procuraduría; y
+XV. Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo, dentro del territorio del Estado;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, manejo de información policial, para conformar bases de datos que permitan la aplicación de esta en contra de la delincuencia, a través de la Unidad de Análisis de la Información de la Procuraduría; y
 
 XVII. Las que le encomiende el Procurador de acuerdo a la naturaleza de sus funciones, y las demás disposiciones aplicables.
 
@@ -921,9 +1037,13 @@ Para el cumplimiento de sus atribuciones, el Director se auxiliará del Subdirec
 
 La Dirección de Servicios Periciales tiene a su cargo la rendición de dictámenes y certificados en los casos y condiciones establecidas por la ley.
 
-Los Peritos deberán emitir sus dictámenes por escrito en las diversas especialidades pertinentes a petición del Ministerio Público o de la Policía de Investigación, según sea el caso, y deberán concurrir a declarar a la audiencia donde se lleve a cabo su desahogo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Los certificados médicos se emitirán a petición del Ministerio Público y de las Policías.
+Los Peritos deberán emitir sus dictámenes por escrito en las diversas especialidades pertinentes a petición del Ministerio Público o de Agentes Estatales de Investigación Criminal, según sea el caso, y deberán concurrir a declarar a la audiencia donde se lleve a cabo su desahogo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los certificados médicos se emitirán a petición del Ministerio Público y de Agentes Estatales de Investigación Criminal.
 
 ###### ARTÍCULO 40.
 
@@ -931,61 +1051,89 @@ Los peritos de la Procuraduría podrán elaborar dictámenes a petición de otra
 
 Para el esclarecimiento de los hechos y con acuerdo del Procurador se podrá habilitar a peritos en cualquier área, siempre y cuando lo permitan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 41.
 
-El Procurador podrá adscribir a los peritos en las agencias del Ministerio Público, las Unidades Especializadas o en áreas centrales de la Institución, atendiendo a las cargas de trabajo y a las necesidades del servicio.
+El Procurador podrá adscribir a los peritos en las Unidades de Investigación, en las Unidades Especializadas o en áreas centrales de la Institución, atendiendo a las cargas de trabajo y a las necesidades del servicio.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 42.
 
-La Dirección de Servicios periciales contará con un área que llevará a cabo a solicitud del Ministerio Público, el reconocimiento de personas, bajo el procedimiento establecido en el Código Nacional de Procedimientos Penales y se auxiliará para su desarrollo, de los agentes de la policía ministerial.
+La Dirección de Servicios periciales contará con un área que llevará a cabo a solicitud del Ministerio Público, el reconocimiento de personas, bajo el procedimiento establecido en el Código Nacional de Procedimientos Penales y se auxiliará para su desarrollo, de los Agentes Estatales de Investigación Criminal.
+
+> <small>(REFORMADA SU DOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE ATENCIÓN A VÍCTIMAS DEL DELITO
 
 ###### ARTÍCULO 43.
 
-Los agentes de la policía ministerial actuarán bajo la conducción y mando inmediato del Ministerio Público en la investigación de los delitos del fuero común en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+Los Agentes Estatales de Investigación Criminal actuarán bajo la conducción y mando inmediato del Ministerio Público en la investigación de los delitos del fuero común en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 44.
 
-Para ser Director de la Policía Ministerial se deberán cumplir con los requisitos establecidos para ser Director de Servicios Periciales, pudiendo contar con licenciatura en Ciencias Forenses o Jurídicas.
+Para ser Director de la Agencia Estatal de Investigación Criminal se deberán cumplir con los requisitos establecidos para ser Director de Servicios Periciales, pudiendo contar con licenciatura en Ciencias Forenses o Jurídicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 45.
 
-El Director de la Policía Ministerial tendrá las siguientes atribuciones:
+El Director de la Agencia Estatal de Investigación Criminal tendrá las siguientes atribuciones:
 
 I. Vigilar que la actuación de los agentes a su cargo se lleve a cabo bajo los principios de honestidad, eficiencia, objetividad, profesionalismo, legalidad y respeto a los derechos humanos
 
-II. Proponer al Procurador las políticas generales de operación de la Policía, vigilando que sus miembros actúen bajo la conducción y mando del Ministerio Público y su conducta y desempeño se realice con respeto a los derechos humanos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Proponer al Procurador las políticas generales de operación de la Dirección de la Agencia Estatal de Investigación Criminal, vigilando que sus miembros actúen bajo la conducción y mando del Ministerio Público y su conducta y desempeño se realice con respeto a los derechos humanos;
 
 III. Vigilar la debida aplicación de los protocolos de investigación y de cadena de custodia existente;
 
-IV. Vigilar el pleno respeto a la integridad física y psicológica de las personas que se encuentren detenidas bajo la custodia de los agentes de la policía ministerial;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Vigilar el pleno respeto a la integridad física y psicológica de las personas que se encuentren detenidas bajo la custodia de Agentes Estatales de Investigación Criminal;
 
 V. Vigilar que se lleve a cabo el registro inmediato de las detenciones y se informe de las mismas sin demora al Ministerio Público o al Juez de Control según corresponda, así como se ponga a disposición al imputado de manera inmediata ante la autoridad competente;
 
-VI. Verificar que se lleve a cabo el registro de las actividades e investigaciones en el Informe Policial Homologado, que realicen los agentes de la policía ministerial;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Verificar que se lleve a cabo el registro de las actividades e investigaciones en el Informe Policial Homologado, que realicen los Agentes Estatales de Investigación Criminal;
 
 VII. Realizar la planeación estratégica de la Dirección, mediante la explotación de la información, derivada de la recolección, clasificación, análisis, evaluación de la misma;
 
 VIII. Coordinar y vigilar la ejecución de las órdenes de aprehensión, cateos y otros mandamientos que emita la autoridad judicial y las que dicte el Ministerio Público en el ejercicio de su función con pleno respeto de las normas y medidas que rijan esas actuaciones;
 
-IX. Coordinar con el Director del Instituto Interdisciplinario de Ciencias Penales y de la Academia Estatal de Seguridad Pública, la aplicación de programas y cursos de formación inicial, capacitación, profesionalización, especialización y actualización de la policía ministerial;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IX. Coordinar con el Director del Instituto Interdisciplinario de Ciencias Penales y de la Academia Estatal de Seguridad Pública, la aplicación de programas y cursos de formación inicial, capacitación, profesionalización, especialización y actualización de los Agentes Estatales de Investigación Criminal;
 
 X. Apoyar al Procurador, en la integración de diagnósticos, objetivos, programas, proyectos, líneas de acción, metas e indicadores que contribuyan a conformar la política criminológica del Estado, en congruencia con el Plan Nacional y Estatal de Desarrollo;
 
-XI. Vigilar que los agentes de la dirección a su cargo ejerzan sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado civil, estado de salud, condición económica, preferencia sexual, ideología política y cualquier otra que atente contra la dignidad humana;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XII. Emitir, previo acuerdo con el Procurador, los cambios de adscripción del personal de la Dirección a su cargo;
+XI. Vigilar que los Agentes Estatales de Investigación Criminal de la dirección a su cargo ejerzan sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado civil, estado de salud, condición económica, preferencia sexual, ideología política y cualquier otra que atente contra la dignidad humana;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XII. Someter a consideración del Procurador la rotación y los cambios de adscripción del personal a su cargo, dentro del territorio del Estado;
 
 XIII. Dirigir y coordinar los procesos de información policial que permitan ubicar a las personas, grupos, organizaciones, zonas delictivas y modos de operación, con la finalidad de dar cumplimiento a los mandamientos judiciales y ministeriales;
 
-XIV. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, utilización de información policial, para conformar base (sic) de datos que permitan la aplicación de esta en contra de la delincuencia, a través del Área de Inteligencia de la Procuraduría; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XV. Las demás que le confieran el Reglamento Interior y otras disposiciones legales aplicables, así como aquellas que se encuentren conferidas a los integrantes de la Policía.
+XIV. Coadyuvar en el diseño y operación de los sistemas de recopilación, clasificación, registro, utilización de información generada al realizar actos de investigación criminal, para conformar (sic) base de datos que permitan la aplicación de esta en contra de la delincuencia, a través de la Unidad de Análisis de la Información de la Procuraduría; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Las demás que le confieran el Reglamento Interior, el Reglamento Interior de la Dirección de la Agencia Estatal de Investigación Criminal y otras disposiciones legales aplicables, así como aquellas que se encuentren conferidas a los integrantes de la Dirección de la Agencia Estatal de Investigación Criminal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 46.
 
-Son obligaciones de los Agentes de la Policía Ministerial, las siguientes:
+Son obligaciones de los Agentes Estatales de Investigación Criminal, las siguientes:
 
 I. Observar en el desempeño de sus funciones, los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos,
 
@@ -1051,7 +1199,9 @@ I. Proponer e instrumentar las políticas institucionales para el respeto, capac
 
 II. Generar mecanismos de coordinación entre las Instituciones estatales y municipales en materia de seguridad pública, a fin de generar protocolos de actuación homologados para los miembros de las instituciones policiales en los cuales se respeten los derechos humanos reconocidos por la Constitución, los Tratados, la Constitución del Estado y las leyes que de ellas emanen;
 
-III. Atender las denuncias o quejas en contra de los servidores públicos de la Procuraduría a los que se les atribuyan presuntos actos de violación a los derechos humanos de las víctimas u ofendidos del delito y, en su caso, dar vista al Órgano de Control Interno para los efectos conducentes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Atender las denuncias o quejas en contra de los servidores públicos de la Procuraduría a los que se les atribuyan presuntos actos de violación a los derechos humanos de las víctimas u ofendidos del delito y, en su caso, dar vista al Órgano Interno de Control para los efectos conducentes;
 
 IV. Generar mecanismos de colaboración con las Coordinaciones Regionales de Asesores Jurídicos a fin de llevar a cabo una adecuada protección de los derechos de las víctimas u ofendidos del delito;
 
@@ -1099,13 +1249,15 @@ XXV. Promover, fomentar, impulsar y aplicar acciones, programas o estrategias pa
 
 XXVI. Las que le encomiende el Procurador y le otorguen el Reglamento Interior y demás disposiciones legalmente aplicables.
 
+> <small>[N. DE E. DE ACUERDO CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 2580 MEDIANTE EL CUAL SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. 31 DE DICIEMBRE DE 2018, LAS REFERENCIAS O ACTOS REALIZADOS CON ANTERIORIDAD A LA PUBLICACIÓN DEL PRESENTE DECRETO POR EL ÓRGANO DE CONTROL INTERNO, SE ENTENDERÁN COMO EJECUTADOS POR EL ÓRGANO INTERNO DE CONTROL.]</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN. B.O. 27 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO X BIS. DE LA VISITADURÍA
 
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
 
-ARTÍCULO 52 BIS. La Procuraduría contará con la adscripción de Visitaduría, que tendrá a su cargo llevar a cabo las revisiones técnicas jurídicas y las administrativas.
+ARTÍCULO 52 BIS.- La Procuraduría contará con la adscripción de Visitaduría, que tendrá a su cargo llevar a cabo las revisiones técnicas jurídicas y las administrativas.
 
 El Visitador dependerá directamente del Procurador y es el responsable de vigilar la legalidad de las actividades desarrolladas por las partes integrantes de la Procuraduría, siendo competente para:
 
@@ -1115,23 +1267,25 @@ II. Practicar las visitas ordinarias de revisiones técnico-jurídicas y adminis
 
 III. Llevar a cabo visitas de inspección y revisión extraordinarias, con motivo de quejas o denuncias de particulares o de servidores públicos de la Institución presentadas;
 
-IV. Solicitar en auxilio a los Coordinadores Regionales Zona Norte y Zona Sur, sea llevada a cabo la visita extraordinaria al área de la Procuraduría de su adscripción que corresponda, cuando por la urgencia de los hechos que motivaron la queja tratándose de violaciones de derechos humanos, ésta deba realizarse inmediatamente;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+IV. Solicitar en auxilio al Coordinador de Ministerios Públicos del Municipio de Comondú, a los Coordinadores Regionales Zona Norte y Zona Sur, sea llevada a cabo la visita extraordinaria al área de la Procuraduría de su adscripción que corresponda, cuando por la urgencia de los hechos que motivaron la queja tratándose de violaciones de derechos humanos, ésta deba realizarse inmediatamente;
 
-V. Intervenir para efectos de verificación, en los actos de entrega-recepción, de las agencias del Ministerio Público, Comandancias y Dirección de Servicios Periciales;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+V. Intervenir para efectos de verificación, en los actos de entrega recepción, de las agencias del Ministerio Público, Jefaturas de Grupo y Dirección de Servicios Periciales;
 
-VI. Verificar a través de visitas técnico-jurídicas el cumplimiento de la Constitución, los tratados, las leyes que de ella emanan, así como de las demás disposiciones normativas a que estén constreñidos los Agentes del Ministerio Público, Policía Ministerial y Dirección de Servicios Periciales;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+VI. Verificar a través de visitas técnico-jurídicas el cumplimiento de la Constitución, los tratados, las leyes que de ella emanan, así como de las demás disposiciones normativas a que estén constreñidos los Agentes del Ministerio Público, los Agentes Estatales de Investigación Criminal y Dirección de Servicios Periciales;
 
-VII. Realizar, la práctica de visitas de inspección y revisión a las direcciones, coordinaciones, unidades y, a las diversas áreas de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor, así como con los criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes, y en su caso dar vista al Órgano de Control Interno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+VII. Realizar, la práctica de visitas de inspección y revisión a las direcciones, coordinaciones, unidades y, a las diversas áreas de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor, así como con los criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes, y en su caso dar vista al Órgano Interno de Control;
 
-VIII. Realizar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, policial, pericial y administrativa derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Realizar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, de investigación criminal, pericial y administrativa derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
 
 IX. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
 
@@ -1143,7 +1297,9 @@ XII. Formular las actas recomendaciones e instrucciones a los servidores públic
 
 XIII. Denunciar ante el Agente del Ministerio Público si de los hechos puestos de su conocimiento se desprende la posible comisión de conductas que pudiera (sic) constituir un hecho sancionado como delito;
 
-XIV. Formular opinión en la elaboración de los manuales de procedimientos de actuación del Ministerio Público, facilitadores, policía ministerial y servicios periciales;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. Formular opinión en la elaboración de los manuales de procedimientos de actuación del Ministerio Público, facilitadores, de los Agentes Estatales de Investigación Criminal y servicios periciales;
 
 XV. Al momento de concluir la visita de revisión en la cual se haya detectado alguna falta administrativa o hechos probablemente constitutivos de delito, acordará en la misma acta de visita, dar vista mediante oficio al que acompañará con copia autenticada del acta de revisión a la autoridad correspondiente, la cual remitirá dentro de las veinticuatro horas siguientes, y
 
@@ -1189,7 +1345,9 @@ III. Responsabilidades administrativas.
 
 El procedimiento de responsabilidad se iniciará de oficio, por denuncia o por queja, cuando se tenga conocimiento de conductas que puedan constituir responsabilidad administrativa, de conformidad con lo previsto en la presente Ley Orgánica, el Reglamento Interno y las demás disposiciones aplicables. En cualquier caso su prosecución será oficiosa.
 
-Será de oficio cuando, de una visita resulte alguna irregularidad que pueda constituir una conducta materia del procedimiento de responsabilidad administrativa o cuando algún servidor público adscrito a la institución tenga conocimiento del hecho y lo haga saber formalmente al Órgano de Control Interno.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Será de oficio cuando, de una visita resulte alguna irregularidad que pueda constituir una conducta materia del procedimiento de responsabilidad administrativa o cuando algún servidor público adscrito a la institución tenga conocimiento del hecho y lo haga saber formalmente al Órgano Interno de Control.
 
 Será por queja, cuando el conocimiento del hecho presumiblemente infractor se formule por parte de quien considere ser agraviado por la conducta presumiblemente infractora.
 
@@ -1217,9 +1375,11 @@ I. Deberá presentarse la denuncia o queja dentro del término de treinta días 
 
 II. Si el procedimiento se iniciara de oficio, deberá substanciarse dentro del plazo de seis meses, contado a partir de la fecha en que se haya cometido la conducta presumiblemente infractora, o de que ésta haya cesado si fuera de carácter continuo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 58.
 
-Con independencia de si el motivo de la queja, la denuncia o del procedimiento oficioso, da o no lugar a la responsabilidad administrativa, el Procurador, a propuesta del titular del Órgano de Control Interno dictará, en su caso, las medidas preventivas, siempre que a su juicio así convenga para el mejor cumplimiento del servicio público de procuración de justicia, o para la conducción o continuación de las investigaciones.
+Con independencia de si el motivo de la queja, la denuncia o del procedimiento oficioso, da o no lugar a la responsabilidad administrativa, el Procurador, a propuesta del titular del Órgano Interno de Control dictará, en su caso, las medidas preventivas, siempre que a su juicio así convenga para el mejor cumplimiento del servicio público de procuración de justicia, o para la conducción o continuación de las investigaciones.
 
 Las medidas preventivas deberán contener:
 
@@ -1271,51 +1431,75 @@ e. El señalamiento del término para que rinda el informe referido en esta Ley 
 
 f. El número de expediente, así como lugar y horario en el que puede ser consultado;
 
-g. El señalamiento de la obligación del servidor público de indicar domicilio para oír y recibir notificaciones en el procedimiento, ubicado en la residencia del Órgano de Control Interno o del lugar de residencia a donde se encuentre adscrito dentro de la Procuraduría, o podrá designar dirección electrónica para ser notificado por ese medio, bajo el apercibimiento que de no hacerlo las subsecuentes, aún las de carácter personal le serán hechas por lista que se fije en los estrados del Órgano de Control Interno;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+g. El señalamiento de la obligación del servidor público de indicar domicilio para oír y recibir notificaciones en el procedimiento, ubicado en la residencia del Órgano Interno de Control o del lugar de residencia a donde se encuentre adscrito dentro de la Procuraduría, o podrá designar dirección electrónica para ser notificado por ese medio, bajo el apercibimiento que de no hacerlo las subsecuentes, aún las de carácter personal, le serán hechas por lista que se fije en los estrados del Órgano Interno de Control;
 
 h. El fundamento y motivación de la vista; y
 
 i. El nombre, cargo y firma de la autoridad que ordenó la vista, así como la fecha y el lugar donde se emitió.
 
-IV. La notificación del acuerdo indicado en la fracción que antecede se realizará de manera personal en el lugar de adscripción del servidor público denunciado y de no encontrarlo, en el último domicilio por él registrado ante la Procuraduría o de manera directa si acudiera a las instalaciones del Órgano de Control Interno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. La notificación del acuerdo indicado en la fracción que antecede se realizará de manera personal en el lugar de adscripción del servidor público denunciado y de no encontrarlo, en el último domicilio por él registrado ante la Procuraduría o de manera directa si acudiera a las instalaciones del Órgano Interno de Control;
 
 V. Al rendir el informe el servidor público deberá referirse a todos y cada uno de los hechos que se le atribuyen, afirmándolos o negándolos, señalando aquellos que no le sean propios o que ignore y refiriéndose a los mismos como considere que tuvieron lugar. Si el servidor público no rindiera el informe o lo hiciera después de vencido el plazo otorgado, se le tendrán por negados los hechos u omisiones que se le imputan.
 
 Si del informe que rinda el servidor público se desprende alguna causa de notoria improcedencia, se procederá a decretar el sobreseimiento;
 
-VI. Con el informe al que se refieren las fracciones anteriores, el servidor público denunciado ofrecerá las pruebas que estime convenientes para su defensa. Se admitirán toda (sic) las pruebas ofrecidas por el incoado, siempre y cuando éstas sean pertinentes y no sean contrarias a derecho; cuando el órgano de control interno lo estime indispensable para la investigación de la verdad, podrá llamar a declarar a servidores públicos para recepcionar su testimonio.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII. El órgano de control interno podrá solicitar cualquier aclaración al servidor público imputado o a quienes presenten la queja o denuncia, o agregar al procedimiento las demás pruebas que a su juicio tengan por objeto dilucidar los hechos o calificar la gravedad de la falta.
+VI. Con el informe al que se refieren las fracciones anteriores, el servidor público denunciado ofrecerá las pruebas que estime convenientes para su defensa. Se admitirán todas las pruebas ofrecidas por el incoado, siempre y cuando éstas sean pertinentes y no sean contrarias a derecho; cuando el Órgano Interno de Control lo estime indispensable para la investigación de la verdad, podrá llamar a declarar a servidores públicos para recepcionar su testimonio.
 
-En este caso, se deberá notificar al servidor público denunciado, sobre la recepción de los nuevos elementos de prueba agregados al expediente, para que alegue lo que a su interés convenga, pueda objetarlos u ofrecer nuevas probanzas favorables para su defensa, siempre y cuando éstas sean lícitas y tengan relación inmediata con los hechos contenidos en los nuevos medios probatorios. Si el servidor público en términos de lo dispuesto en esta fracción ofrece nuevas pruebas habiéndose desahogado la audiencia a que se refiere la fracción siguiente, el órgano de control interno deberá fijar fecha y hora para la recepción de aquéllas en diligencia especial, dentro de un término no mayor a diez días hábiles;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VIII. Recibido el informe o vencido el plazo para su rendición, el Órgano de Control Interno acordará sobre su recepción o sobre la no presentación del mismo. En el primer supuesto proveerá sobre la admisión o desechamiento de las pruebas ofrecidas por el servidor público. Cuando no se rinda el informe, el Órgano de Control Interno acordará que no existen pruebas por verificar. En todo caso el acuerdo contendrá la orden de citar a una audiencia en la que se haga saber que si existen, se desahogarán las pruebas admitidas y se rendirán alegatos, la cual deberá celebrarse dentro de los diez días hábiles que sigan a dicho proveído.
+VII. El Órgano Interno de Control podrá solicitar cualquier aclaración al servidor público imputado o a quienes presenten la queja o denuncia, o agregar al procedimiento las demás pruebas que a su juicio tengan por objeto dilucidar los hechos o calificar la gravedad de la falta.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En este caso, se deberá notificar al servidor público denunciado, sobre la recepción de los nuevos elementos de prueba agregados al expediente, para que alegue lo que a su interés convenga, pueda objetarlos u ofrecer nuevas probanzas favorables para su defensa, siempre y cuando éstas sean lícitas y tengan relación inmediata con los hechos contenidos en los nuevos medios probatorios. Si el servidor público en términos de lo dispuesto en esta fracción ofrece nuevas pruebas habiéndose desahogado la audiencia a que se refiere la fracción siguiente, el Órgano Interno de Control deberá fijar fecha y hora para la recepción de aquéllas en diligencia especial, dentro de un término no mayor a diez días hábiles;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Recibido el informe o vencido el plazo para su rendición, el Órgano Interno de Control acordará sobre su recepción o sobre la no presentación del mismo. En el primer supuesto proveerá sobre la admisión o desechamiento de las pruebas ofrecidas por el servidor público. Cuando no se rinda el informe, el Órgano Interno de Control acordará que no existen pruebas por verificar. En todo caso el acuerdo contendrá la orden de citar a una audiencia en la que se haga saber que si existen, se desahogarán las pruebas admitidas y se rendirán alegatos, la cual deberá celebrarse dentro de los diez días hábiles que sigan a dicho proveído.
 
 A la audiencia deberá ser citado el servidor público denunciado, pero su ausencia no será motivo para diferir la celebración de la misma si obra constancia de la notificación.
 
 El desahogo de pruebas, deberá llevarse a cabo conforme a las reglas establecidas en el Código de Procedimientos Civiles para el Estado de Baja California Sur.
 
-Una vez desahogados los medios de prueba, éstos deberán ser valorados por el Órgano de Control Interno de manera libre y lógica debiendo llevar a su motivación.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Una vez desahogados los medios de prueba, éstos deberán ser valorados por el Órgano Interno de Control de manera libre y lógica debiendo llevar a su motivación.
 
 IX. Concluido el desahogo o no existiendo probanzas que desahogar, el servidor público denunciado o su defensor presentarán por escrito o en forma oral sus alegatos, en caso de inasistencia se les tendrá por expresado su deseo a no rendirlos;
 
-X. Una vez terminada la audiencia a que se refiere este artículo, dentro de los diez días hábiles siguientes el Órgano de Control Interno emitirá la resolución en que se determine si a su juicio si existió o no la conducta infractora denunciada y si ésta amerita la imposición de un correctivo disciplinario o la imposición de una sanción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-De determinarse la existencia de medios de convicción que establezcan la necesidad de una corrección disciplinaria, el titular del Órgano de Control Interno previa dictaminación, impondrá la amonestación correspondiente.
+X. Una vez terminada la audiencia a que se refiere este artículo, dentro de los diez días hábiles siguientes el Órgano Interno de Control emitirá la resolución en que se determine si a su juicio si existió o no la conducta infractora denunciada y si ésta amerita la imposición de un correctivo disciplinario o la imposición de una sanción.
 
-Si se determinara la necesidad de imponer una sanción administrativa, el Órgano de Control Interno deberá exponer los motivos de ello por escrito al Procurador, y a su vez solicitará a la Comisión de Honor y Justicia el inicio del procedimiento disciplinario para la imposición de la sanción que corresponda.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+De determinarse la existencia de medios de convicción que establezcan la necesidad de una corrección disciplinaria, el titular del Órgano Interno de Control previa dictaminación, impondrá la amonestación correspondiente.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Si se determinara la necesidad de imponer una sanción administrativa, el Órgano Interno de Control deberá exponer los motivos de ello por escrito al Procurador, y a su vez solicitará a la Comisión de Honor y Justicia el inicio del procedimiento disciplinario para la imposición de la sanción que corresponda.
 
 ###### ARTÍCULO 61.
 
 La corrección disciplinaria y las sanciones a imponer, serán aquellas establecidas en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, procediendo la amonestación a los servidores públicos de la Procuraduría independientemente de la función que desempeñen.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 62.
 
-En aquellos casos en que se amerite corrección disciplinaria diversa a la amonestación o, sanción administrativa a servidores públicos de la Procuraduría, diversos a los Ministerios Públicos, Peritos o Policías, se deberá dar vista a la Contraloría General del Gobierno del Estado de Baja California Sur.
+En aquellos casos en que se amerite corrección disciplinaria diversa a la amonestación o, sanción administrativa a servidores públicos de la Procuraduría, diversos a los Ministerios Públicos, Peritos o los Agentes Estatales de Investigación Criminal, se deberá dar vista a la Contraloría General del Gobierno del Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 63.
 
-En los casos en que el Órgano de Control Interno haya dictaminado la existencia de la conducta infractora y encuentre responsable al servidor público denunciado, deberá atender lo previsto en el Artículo 86 de la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+En los casos en que el Órgano Interno de Control haya dictaminado la existencia de la conducta infractora y encuentre responsable al servidor público denunciado, deberá atender lo previsto en el Artículo 86 de la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
 
 ###### ARTÍCULO 64.
 
@@ -1397,15 +1581,19 @@ XXVIII. La contravención de cualquiera de los principios contemplados en la Ley
 
 XXIX. Así como la contravención a las obligaciones que señalen el Código Nacional de Procedimientos Penales, la presente Ley Orgánica, el Reglamento Interior y la Ley de Responsabilidades de los Servidores Públicos para el Estado y los Municipios.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 66.
 
-El Órgano Colegiado encargado de conocer y resolver la procedencia de las sanciones administrativas aplicables a los Ministerios Públicos, Peritos y Policías de la Procuraduría, será la Comisión de Honor y Justicia, la cual se integrará y funcionara de conformidad con lo previsto en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+El Órgano Colegiado encargado de conocer y resolver la procedencia de las sanciones administrativas aplicables a los Ministerios Públicos, Peritos y Agentes Estatales de Investigación Criminal de la Procuraduría, será la Comisión de Honor y Justicia, la cual se integrará y funcionará de conformidad con lo previsto en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
 
-El titular del Órgano de Control Interno deberá constituirse como Secretario Técnico de la Comisión de Honor y Justicia y actuará en los términos previstos en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+El titular del Órgano Interno de Control deberá constituirse como Secretario Técnico de la Comisión de Honor y Justicia, y actuará en los términos previstos en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 67.
 
-En caso de incumplimiento de alguno de los requisitos de permanencia señalados para los agentes del (sic) Ministerios Públicos, Peritos o Policía Ministerial, el Procurador denunciará tal circunstancia al Órgano de Control Interno para que inicie el procedimiento correspondiente.
+En caso de incumplimiento de alguno de los requisitos de permanencia señalados para los agentes del (sic) Ministerios Públicos, Peritos o Agentes Estatales de Investigación Criminal, el Procurador denunciará tal circunstancia al Órgano Interno de Control para que inicie el procedimiento correspondiente.
 
 Cuando la Comisión de Honor y Justicia resuelva la terminación del servicio de carrera, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
@@ -1485,7 +1673,9 @@ XI. Auxiliar a la oficina del Procurador, a los Subprocuradores, Coordinadores, 
 
 XII. Cuidar que las Unidades y demás áreas operativas estén proveídas del material suficiente para su buen funcionamiento;
 
-XIII. Vigilar que se cumplan las correcciones disciplinarias que ordene el Órgano de Control Interno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIII. Vigilar que se cumplan las correcciones disciplinarias que ordene el Órgano Interno de Control;
 
 XIV. Ejecutar las determinaciones del Comité Administrador del Fondo Auxiliar para la Procuración de Justicia; y
 
@@ -1509,7 +1699,9 @@ III. El Director de Atención a Víctimas del Delito;
 
 IV. El Oficial Mayor de la Procuraduría;
 
-V. El Titular del Órgano de Control Interno;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. El Titular del Órgano Interno de Control;
 
 VI. Un representante de la Contraloría General de Gobierno del Estado; y
 
@@ -1615,11 +1807,15 @@ XII. Conducir la investigación para la obtención de datos o medios de prueba v
 
 XIII. Nombrar, previo acuerdo con el Procurador General de Justicia (sic) Estado, a los titulares de las unidades administrativas de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
 
-XIV. Contar con los agentes del Ministerio Público y policías de investigación, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. Contar con los agentes del Ministerio Público y Agentes Estatales de Investigación Criminal, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo;
 
 XV. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización para los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
 
-XVI. Coordinar y supervisar la actuación de la policía de investigación en materia de su competencia;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI. Coordinar y supervisar la actuación de los Agentes Estatales de Investigación Criminal en materia de su competencia;
 
 XVII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
 
@@ -1667,7 +1863,9 @@ III. La selección del personal por sus cualidades, capacidad y conocimientos t�
 
 IV. Diseñar y llevar a cabo los concursos de ingreso y de promoción de los servidores públicos de la Procuraduría;
 
-V. Elaborar y desarrollar los programas para la formación, permanencia, especialización y evaluación de los Agentes del Ministerio Público, Secretarios Auxiliares del Ministerio Público, Agentes de la Policía Ministerial, de los Peritos, facilitadores y de los demás servidores públicos que disponga el Procurador;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Elaborar y desarrollar los programas para la formación, permanencia, especialización y evaluación de los Agentes del Ministerio Público, Auxiliares del Ministerio Público, Agentes Estatales de Investigación Criminal, de los Peritos, facilitadores y de los demás servidores públicos que disponga el Procurador;
 
 VI. Intervenir en el sistema integral de evaluación de los servidores públicos de la Institución, con el objeto de obtener la información necesaria para su formación y evaluación, así como coadyuvar con las demás áreas competentes en la promoción, mediante la evaluación académica;
 
@@ -1697,9 +1895,13 @@ XVIII. Proponer la celebración de convenios con organismos e instituciones púb
 
 XIX. Proponer los procedimientos de selección y formación de los aspirantes a miembros del servicio de carrera, atendiendo las normas y políticas institucionales, en coordinación con las autoridades competentes;
 
-XX. Llevar a cabo acciones para la formación y profesionalización de los aspirantes a agentes de la policía, peritos y secretarios auxiliares ministeriales;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXI. Proponer al Procurador un sistema de profesionalización del personal ministerial, policial y pericial del servicio de carrera;
+XX. Llevar a cabo acciones para la formación y profesionalización de los aspirantes a Agentes Estatales de Investigación Criminal, peritos y secretarios auxiliares ministeriales;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXI. Proponer al Procurador un sistema de profesionalización del personal ministerial, de la Dirección de la Agencia Estatal de Investigación Criminal y de Servicios Periciales del servicio de carrera;
 
 XXII. Elaborar, en coordinación con las unidades administrativas y áreas competentes, los planes y programas académicos del Instituto, con base en los lineamientos que para tal efecto se establezcan en el sistema de profesionalización, de conformidad con las disposiciones aplicables;
 
@@ -1713,7 +1915,7 @@ XXIV. Las demás que de acuerdo a sus funciones le ordene el Procurador, así co
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
-### CAPITULO XVII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICO (SIC), PERITOS Y POLICIAS MINISTERIALES
+### CAPITULO XVII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICOS, PERITOS Y AGENTES ESTATALES DE INVESTIGACIÓN CRIMINAL
 
 ### CAPÍTULO XVIII. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
@@ -1743,7 +1945,11 @@ Corresponde a la Unidad de Análisis de la Información la conformación de banc
 
 Para el desempeño de sus funciones la Unidad de Análisis de la Información contará con un Manual Interno de operación, conforme a lo establecido en el Reglamento Interior y demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ### CAPÍTULO IV (SIC). INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 82.
 
@@ -1813,7 +2019,9 @@ IV. Aprobar los procesos de evaluación de control de confianza y del desempeño
 
 V. Contar con la certificación y registro actualizados del Registro Nacional de Personal de Seguridad Pública;
 
-VI. Cumplir con las órdenes de cambio de adscripción que emita el Procurador o el Director de Servicios Periciales, en su caso;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Cumplir con las órdenes de rotación o en su caso, cambio de adscripción, que el Procurador emita;
 
 VII. No ausentarse del servicio sin causa justificada por un periodo de tres días consecutivos, o de cinco días dentro del término de treinta días;
 
@@ -1821,9 +2029,11 @@ VIII. Participar en los procesos de ascenso que se convoquen conforme a las disp
 
 IX. Los demás requisitos que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 85.
 
-Para ingresar como Agente de la Policía Ministerial, se requiere:
+Para ingresar como Agente Estatal de Investigación Criminal, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, y que no adquiera otra nacionalidad;
 
@@ -1851,9 +2061,11 @@ XI. No hacer uso de sustancias psicotrópicas, estupefacientes, inhalantes u otr
 
 XII. Cumplir con los deberes establecidos en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 86.
 
-Para permanecer como Policía Ministerial, se requiere:
+Para permanecer como Agente Estatal de Investigación Criminal, se requiere:
 
 I. Conservar los requisitos de ingreso;
 
@@ -1871,7 +2083,9 @@ V. Someterse a exámenes para comprobar la ausencia de alcoholismo y para compro
 
 VI. Contar con la certificación y registro actualizados del Registro Nacional de Personal de Seguridad Pública;
 
-VII. Cumplir con las órdenes de cambio de adscripción que emita el Procurador o el Director de Servicios Periciales, en su caso;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Cumplir con las órdenes de rotación y cambio de adscripción que emita el Procurador o el Director de Servicios Periciales, en su caso;
 
 VIII. Cumplir los programas de actualización y profesionalización a que estén obligados;
 
@@ -1885,19 +2099,37 @@ XI. Los demás requisitos que establezcan las disposiciones aplicables.
 
 El incumplimiento de cualquiera de los requisitos de ingreso o permanencia por el personal de la Procuraduría, será suficiente para que el Procurador remueva del cargo al servidor público respectivo.
 
-Los agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes y reglamentos vigentes en el momento del acto señalen para permanecer en la Procuraduría; o ser removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría sólo estará obligada a pagar las indemnizaciones a que haya lugar, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los agentes del Ministerio Público, Peritos y Agentes Estatales de Investigación Criminal, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes y reglamentos vigentes en el momento del acto señalen para permanecer en la Procuraduría; o ser removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría sólo estará obligada a pagar las indemnizaciones a que haya lugar, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 88.
 
-Los servidores públicos de la Procuraduría, los Agentes del Ministerio Público, sus auxiliares y agentes, que estén sujetos a proceso penal como imputados de algún delito, serán separados de sus cargos y suspendidos de sus derechos, desde que se dicte el auto de vinculación a proceso y hasta que se pronuncie sentencia ejecutoriada. En caso de que ésta fuere condenatoria serán destituidos en forma definitiva del cargo y en caso contrario procederá su remoción de así determinarlo el Procurador, debiendo cubrir la indemnización legal correspondiente o en su caso las percepciones a que tuviere derecho.
+Los servidores públicos de la Procuraduría, los Agentes del Ministerio Público, sus auxiliares, peritos y Agentes Estatales de Investigación Criminal, que estén sujetos a proceso penal como imputados de algún delito, serán separados de sus cargos y suspendidos de sus derechos, desde que se dicte el auto de vinculación a proceso y hasta que se pronuncie sentencia ejecutoriada. En caso de que ésta fuere condenatoria serán destituidos en forma definitiva del cargo y en caso contrario procederá su remoción de así determinarlo el Procurador, debiendo cubrir la indemnización legal correspondiente o en su caso las percepciones a que tuviere derecho.
 
 ###### ARTÍCULO 89.
 
 Todos los aspirantes a ingresar a la Procuraduría, deberán contar con el Certificado y Registro de Control de Confianza, de conformidad con las disposiciones normativas aplicables. Ninguna persona podrá ingresar o permanecer en la Procuraduría sin contar con el Certificado y Registro vigentes.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 90.
 
-Previo al ingreso como Agente del Ministerio Público, Agente de la Policía Ministerial o Perito, será obligatorio que la Procuraduría consulte los antecedentes de la persona respectiva en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y, en su caso, en el Sistema Estatal de Información para la Seguridad Pública en los términos previstos en las disposiciones normativas aplicables.
+Previo al ingreso como Agente del Ministerio Público, Agente Estatal de Investigación Criminal o Perito, será obligatorio que la Procuraduría consulte los antecedentes de la persona respectiva en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y, en su caso, en el Sistema Estatal de Información para la Seguridad Pública en los términos previstos en las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 90 BIS.- Los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo de la institución están sujetos a la rotación o cambio de adscripción según corresponda, las cuales responderán a las necesidades de la Procuraduría.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 90 TER.- La rotación es el cambio en la asignación de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo, a los lugares en que deban desempeñar sus funciones dentro de la misma unidad administrativa en que se desempeñan dentro de la Procuraduría, sin que ello implique un cambio de adscripción.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 90 QUATER.- El cambio de adscripción es la asignación de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo a una unidad administrativa distinta u órgano en el que se desempeñaban dentro de la Procuraduría, y podrá variar por disposición del Procurador o de quien se encuentre facultado para ello.
 
 ###### ARTÍCULO 91.
 
@@ -1943,7 +2175,7 @@ VIII. Las demás que en el ámbito de su competencia ordene el Procurador y las 
 
 ###### ARTÍCULO 97.
 
-El Procurador, Subprocuradores, Coordinadores Regionales, Directores, Jefes de Departamento, Titulares de área, Agentes del Ministerio Público, los elementos de la Policía Ministerial, personal de la Secretaría Técnica y Peritos, no podrán:
+El Procurador, Subprocuradores, Coordinadores Regionales, Coordinadores, Directores, Jefes de Departamento, Titulares de área, Agentes del Ministerio Público, los Agentes Estatales de Investigación Criminal, personal de la Secretaría Técnica y Peritos, no podrán:
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en dependencias o entidades públicas federales, del Distrito Federal, estatales o municipales, ni trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Institución, siempre y cuando no sean incompatibles con sus funciones en la misma;
 
@@ -1955,9 +2187,11 @@ IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, s�
 
 V. En caso de incumplir con estas prohibiciones se aplicarán las sanciones que se establecen en la presente ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 98.
 
-El Procurador, los Subprocuradores, Directores, Coordinadores Regionales, Directores, Ministerios Públicos y Peritos, deben excusarse en las investigaciones y judicializaciones en que intervengan cuando exista alguna causal de las previstas para el caso de los Magistrados o Jueces del (sic) Control establecidas en el Código Nacional de Procedimientos Penales, inmediatamente tengan conocimiento del impedimento; de no hacerlo, serán sancionados en los términos de la legislación vigente.
+El Procurador, los Subprocuradores, Directores, Coordinadores Regionales, Coordinadores, Directores, Ministerios Públicos y Peritos, deben excusarse en las investigaciones y judicializaciones en que intervengan cuando exista alguna causal de las previstas para el caso de los Magistrados o Jueces del (sic) Control establecidas en el Código Nacional de Procedimientos Penales, inmediatamente tengan conocimiento del impedimento; de no hacerlo, serán sancionados en los términos de la legislación vigente.
 
 ###### ARTÍCULO 99.
 
@@ -2046,3 +2280,39 @@ CUARTO. Los asuntos que se encuentren en trámite en la Unidad Especializada de 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto a partir de su entrada en vigor.
 
 SEXTO. El Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaría de Finanzas y Administración, deberá realizar los ajustes presupuestales necesarios para efecto de poder dar cumplimiento a lo previsto en esta Ley, y en su momento remitir al H. Congreso del Estado, la Iniciativa con Proyecto de Decreto mediante la que proponga se realicen modificaciones al Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal 2017, con el fin de establecer las previsiones presupuestales necesarias para la operación de la Fiscalía Especializada en Combate a la Corrupción y demás áreas que se crean con éste decreto.
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2580 SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR.”]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur, entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias o actos realizados con anterioridad a la publicación del presente decreto por la Dirección de la Policía Ministerial se entenderán como ejecutados por la Dirección de la Agencia Estatal de Investigación Criminal.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias o actos realizados con anterioridad a la publicación del presente decreto por Agentes de Investigación de la Policía Ministerial, se entenderán como ejecutados por Agentes Estatales de Investigación Criminal.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias o actos realizados con anterioridad a la publicación del presente decreto por el Órgano de Control Interno, se entenderán como ejecutados por el Órgano Interno de Control.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias o actos realizados por las Unidades de Atención Inmediata se entenderán como ejecutados por la Unidad de Atención Temprana.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias o actos realizados por las Unidades de Justicia Alternativa se entenderán como ejecutados por los Órganos Especializados en Mecanismos Alternativos de Solución de Controversia en Materia Penal.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias o actos realizados por el Área de Inteligencia se entenderán como ejecutados por la Unidad de Análisis de la Información.
+
+###### ARTÍCULO OCTAVO.
+
+Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
