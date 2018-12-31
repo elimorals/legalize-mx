@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2017-12-31"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -143,1269 +143,67 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 ## Título Segundo. De los Derechos
 
-### Capítulo I. Derechos por los Servicios que presta el Instituto de la Consejería Jurídica y de Asistencia Legal
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### Sección Primera. Servicios que presta la Dirección del Registro Civil del Estado
+### Capítulo I
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Primera
 
 ###### Artículo 12.
 
-Por los servicios que presta la Dirección del Registro Civil del Estado, relativos a los actos del estado civil de las personas, se causarán y pagarán por cada uno, los siguientes derechos:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-Servicios Tarifa
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-I. De los nacimientos, reconocimiento y adopción:
-
-a) Por el registro de nacimiento por adopción
-
-plena o inscripción de sentencia. $190.00
-
-b) Por el registro de reconocimiento de hijos. $220.00
-
-c) Por el registro de nacimiento a domicilio. $900.00
-
-d) Por los trámites administrativos para los registros
-
-extemporáneos de nacimiento mayores de 18 años;
-
-los registros extemporáneos de defunción; y por la
-
-reposición de actas del estado civil. $370.00
-
-II. De los matrimonios:
-
-a) Por el registro de matrimonio en la oficialía,
-
-en días y horas hábiles. $1,300.00
-
-b) Por el registro de matrimonio en la oficialía,
-
-en días y horas inhábiles. $1,500.00
-
-c) Por el registro de matrimonio a domicilio,
-
-en días y horas hábiles. $2,000.00
-
-d) Por el registro de matrimonio a domicilio,
-
-en días y horas inhábiles. $3,000.00
-
-e) Por el registro de matrimonio a domicilio, fuera
-
-de la cabecera municipal, en días y horas hábiles. $3,200.00
-
-f) Por el registro de matrimonio a domicilio, fuera
-
-de la cabecera municipal, en días y horas inhábiles. $3,700.00
-
-g) Por el registro de matrimonios colectivos. $600.00
-
-III. De los divorcios:
-
-a) Por el registro de divorcio administrativo. $2,600.00
-
-b) Por el registro de divorcio judicial. $370.00
-
-IV. De los otros servicios:
-
-a) Por el trámite de aclaración de actas del
-
-registro del estado civil. $40.00
-
-b) Por la expedición de certificadas de actas y/o
-
-constancias de inexistencia del estado civil, con
-
-datos concretos, mediante base de datos o
-
-búsqueda manual. $110.00
-
-c) Por la expedición de certificadas de actas y/o
-
-constancias de inexistencia del estado civil,
-
-sin datos concretos, período de búsqueda manual
-
-hasta 5 años. $220.00
-
-d) Por la expedición de certificadas de actas y/o
-
-constancias de inexistencia del estado civil,
-
-sin datos concretos, período de búsqueda manual
-
-de 5 hasta 15 años. $260.00
-
-e) Por la expedición de certificadas de actas y/o constancias
-
-de inexistencia del estado civil sin datos concretos, período
-
-de búsqueda manual, de más de 15 años. $300.00
-
-f) Por la expedición de copia certificada de nacimiento
-
-a través de brigadas. $75.00
-
-g) Por la expedición de constancia de inexistencia de
-
-actas de nacimiento por brigadas, búsqueda hasta
-
-15 años. $190.00
-
-h) Por la expedición de constancias de extemporaneidad. $110.00
-
-i) Por la expedición de fotocopia certificada de actas
-
-del estado civil de libro original o duplicado. $110.00
-
-j) Por la certificación de fotocopias de resoluciones
-
-administrativas de aclaración de actas; por anotación
-
-marginal o en anexo, en razón de cambio de régimen
-
-matrimonial; por rectificación o nulidad de actas;
-
-por certificación de documentos de apéndice de actas. $110.00
-
-k) Por la inserción de actas del estado civil, adquirido
-
-por mexicanos en el extranjero. $550.00
-
-l) Por la inscripción de sentencias ejecutorias que
-
-declaren la ausencia, presunción de muerte, pérdida
-
-o limitación de la capacidad legal para administrar
-
-bienes y tutela; y otras sentencias judiciales. $370.00
-
-m) Por la certificación de resoluciones de registros
-
-extemporáneos del estado civil; reposición y
-
-expedición de constancia de trámite. $190.00
-
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2017)</small>
-
-El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las Oficialías y por el Departamento de Brigadas, se otorgarán gratuitamente, de conformidad a lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
-
-#### Sección Segunda. Servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio
+#### Sección Segunda
 
 ###### Artículo 13.
 
-Por los servicios de inscripción, refrendo y cancelación que presta la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por la inscripción de documentos por los que:
-
-a) Se adquiera o transmita el dominio o la posesión de bienes
-
-inmuebles o derechos reales, incluyendo compraventas en las
-
-que el vendedor se reserve el dominio. $1,500.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-b) Se realicen daciones en pago o adjudicaciones judiciales
-
-derivadas de juicios ejecutivos mercantiles o
-
-adjudicaciones fiduciarias a personas que por disposición
-
-legal no puedan conservar la propiedad de los bienes
-
-dados en pago o adjudicados. $1,200.00
-
-c) Por la cancelación de las inscripciones ordenadas
-
-por la autoridad competente o por voluntad de las partes. $1,100.00
-
-d) Títulos de propiedad expedidos por el Registro
-
-Agrario Nacional (RAN) provenientes de terrenos
-
-ejidales y comunales. $500.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-e) Adjudicaciones por herencia, por cada inmueble. $1,200.00
-
-II. Por la inscripción de:
-
-a) Documentos por los que se constituyan servidumbres
-
-o usufructos vitalicios. $650.00
-
-b) Por la cancelación de documentos por los que se
-
-constituyan servidumbres o usufructos vitalicios. $650.00
-
-III. Por la inscripción de:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-a) Contratos y operaciones de crédito o mutuo con garantía
-
-hipotecaria o prendaria, que se destinen a la adquisición
-
-de una vivienda, pagarán derechos, conforme a lo
-
-siguiente:
-
-1. Cuando el monto del crédito sea para la adquisición
-
-de una vivienda de interés social. $650.00
-
-2. Cuando el valor del crédito es mayor al valor de una
-
-vivienda de interés social y menor a cuatro veces el
-
-valor de la vivienda de interés social. $1,500.00
-
-3. Cuando el valor del crédito sea mayor a cuatro veces
-
-el valor de la vivienda de interés social, pagarán. $1,900.00
-
-b) Contrato de constitución de hipotecas derivado de
-
-los contratos de crédito. $650.00
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-c) Contratos y operaciones de créditos destinados al
-
-financiamiento de la producción agrícola o cualquier otro
-
-objeto distinto a la adquisición de viviendas. $700.00
-
-IV. Por la inscripción de los convenios que modifiquen
-
-los contratos u operaciones de crédito o mutuo señalados
-
-en la fracción III de este artículo. $1,000.00
-
-V. Por el refrendo o la cancelación de gravámenes
-
-derivados de los contratos u operaciones de
-
-crédito o mutuo o de los convenios mencionados en
-
-las fracciones III y IV, de este artículo. $700.00
-
-VI. Por la inscripción de contratos de fideicomiso
-
-sobre bienes inmuebles. $2,300.00
-
-VII. Por la inscripción de los convenios que
-
-modifiquen los contratos de fideicomiso mencionados
-
-en la fracción VI, de este artículo. $1,000.00
-
-VIII. Por la cancelación de las inscripciones derivadas
-
-de los contratos de fideicomiso o convenios mencionados
-
-en las fracciones VI y VII, de este artículo. $700.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-IX. Por la inscripción preventiva de embargos sobre
-
-bienes inmuebles por cada bien inmueble a afectar. $1,200.00
-
-X. Por la inscripción de embargo derivado de juicio
-
-de alimentos. $190.00
-
-XI. Por la inscripción o cancelación de cédulas hipotecarias. $1,500.00
-
-XII. Por el refrendo o cancelación de gravámenes a que
-
-se refiere la fracción IX de este artículo. $750.00
-
-Cuando por resolución judicial o administrativa se adjudique un bien y reporte varios gravámenes, el pago de derechos por cancelación se hará por cada gravamen, salvo que los gravámenes se encuentren relacionados con el mismo negocio, en este caso solo se pagarán derechos por la cancelación del primer gravamen y este dejará sin efecto la inscripción de los gravámenes subsecuentes.
-
-XIII. Por la inscripción de documentos en que consten fianzas,
-
-contrafianzas u obligaciones solidarias con el fiador. $1,600.00
-
-XIV. Por la cancelación de inscripciones derivadas de
-
-los contratos, actos u obligaciones mencionados en la
-
-fracción que antecede. $1,000.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XV. Por la inscripción de cada acto correspondiente al
-
-cumplimiento de la condición o cancelación de
-
-la reserva de dominio. $700.00
-
-XVI. Por la inscripción de escrituras:
-
-a) Por las que se constituyan sociedades mercantiles,
-
-con excepción de las sociedades cooperativas y de las
-
-sociedades mercantiles comprendidas en la Ley
-
-Federal para el Fomento de la Microindustria. $2,300.00
-
-b) Por las que se protocolicen actas de asambleas
-
-o de sesiones de los órganos de administración de
-
-sociedades mercantiles, con excepción de las
-
-sociedades cooperativas y de las sociedades
-
-mercantiles comprendidas en la Ley Federal para
-
-el Fomento de la Microindustria. $1,000.00
-
-XVII. Por la inscripción de documentos:
-
-a) Por los que se constituyan sociedades civiles. $950.00
-
-b) Por los que se protocolicen actas de asambleas
-
-o de sesiones de los órganos de administración
-
-de sociedades civiles. $480.00
-
-XVIII. Por la inscripción de los documentos en que
-
-consten los actos que a continuación se señalan:
-
-a) Por poderes o sustitución de los mismos, otorgados
-
-por personas físicas. $650.00
-
-b) Por poderes o sustitución de los mismos, otorgados
-
-por personas morales. $1,000.00
-
-c) Por la revocación o renuncia de poderes. $480.00
-
-d) Por los que se constituyan asociaciones civiles. $950.00
-
-e) Por los que se modifiquen los estatutos de las
-
-asociaciones civiles. $480.00
-
-XIX. Por la inscripción de los documentos en que consten
-
-los actos que a continuación se relacionan:
-
-a) Patrimonio familiar. $480.00
-
-b) Por la cancelación del patrimonio familiar. $330.00
-
-c) Capitulaciones matrimoniales. $260.00
-
-d) Documentos o resoluciones judiciales relativas a
-
-las sucesiones, independientemente de los derechos
-
-que se causen por el registro de la transmisión de los
-
-bienes hereditarios. $700.00
-
-e) Inscripción del auto declaratorio de herederos. $800.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-f) Inscripción del inicio del trámite de sucesiones
-
-testamentarias o intestamentarias ante Notario Público. $1,500.00
-
-XX. Por la inscripción de los documentos en que consten
-
-los actos que a continuación se señalan:
-
-a) Actos, contratos, convenios o resoluciones judiciales
-
-o administrativas por los que se constituya un
-
-fraccionamiento, se lotifique, relotifique, divida o
-
-subdivida un inmueble, por cada lote. $600.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-b) Por el acto de Fusión de bienes inmuebles $1,100.00
-
-c) Constitución del régimen de propiedad en condominio,
-
-por cada unidad privativa. $600.00
-
-XXI. Por la inscripción de documentos en que consten
-
-los actos que a continuación se relacionan:
-
-a) Fideicomisos que no incluyan inmuebles, por cada
-
-inscripción. $1,100.00
-
-b) Cesión de derechos hereditarios o de fideicomisarios
-
-que no incluyan inmuebles. $1,100.00
-
-c) Corresponsalía mercantil, por su registro o cancelación. $1,100.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XXII. Por la inscripción de quiebras, secuestros, intervenciones o
-
-sentencias interlocutorias o definitivas, que no resuelvan
-
-sobre la transmisión de dominio de un bien inmueble. $1,100.00
-
-XXIII. Por la inscripción o cancelación de convenios de
-
-suplencia notarial. $1,500.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXIV. Por cada bien inmueble sobre el cual se solicite
-
-se asiente la anotación marginal relativa al primer
-
-aviso preventivo solicitado por el Notario Público
-
-o Autoridad competente. $500.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXV. Por la anotación marginal de cada segundo aviso
-
-preventivo subsecuente, solicitado por Notario
-
-Público o autoridad competente en los registros
-
-inmobiliarios involucrados, independientemente
-
-de que se trate de una misma operación. $500.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXVI. Por cada anotación marginal o su cancelación
-
-que se realice o se ordene, se pagará por cada
-
-registro o folio real en el que se deba realizar
-
-dicha anotación o cancelación, independientemente
-
-que se ordene en un mismo documento. $500.00
-
-XXVII. Por la inscripción de documentos que
-
-modifiquen, aclaren o sean simples consecuencias legales
-
-de actos o contratos que ya causaron derechos de
-
-registro y que se otorguen por las mismas personas
-
-que celebraron dichos actos o contratos, sin aumentar o
-
-disminuir el valor, precio o monto consignados en estos y
-
-sin transferir derechos. $1,000.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXVIII. Por la inscripción de testamento. $500.00
-
-XXIX. Por la inscripción de:
-
-a) Documentos por los que se constituyan
-
-sociedades cooperativas, sociedades de solidaridad
-
-social, sociedades rurales, sociedades mercantiles
-
-comprendidas en la Ley Federal para el Fomento de
-
-la Microindustria y otro tipo de personas morales
-
-distintas de las señaladas en las fracciones XV y
-
-XVI del presente artículo. $800.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-b) Actas de asamblea o de sesiones de los
-
-órganos de administración de las sociedades,
-
-asociaciones o personas morales señaladas en
-
-el inciso anterior. $500.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXX. Por la inscripción y cancelación de la Patente de
-
-Notario Público Titular, Adjunto, Sustituto y por
-
-cambio de Adscripción. $700.00
-
-XXXI. Por la inscripción de actos de cesión onerosa de
-
-crédito y derechos litigiosos.
-
-a) Por la inscripción. $1,500.00
-
-b) Por su cancelación. $800.00
-
-XXXII. Por el reconocimiento de adeudo de créditos
-
-previamente otorgados y por créditos no inscritos. $700.00
-
-XXXIII. Por la cancelación del reconocimiento de adeudo
-
-descrito en la fracción XXXII. $480.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXXIV. Por acto de división de hipotecas (aquellos casos en
-
-que un inmueble general es otorgado en garantía
-
-hipotecaria; posteriormente se lotifica o
-
-subdivide, y cada fracción de terreno se le asigna
-
-un valor para responder a la garantía hipotecaria
-
-total). $500.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXXV. Por la cancelación de cada acto de división de
-
-hipotecas descrita en la fracción XXXIV. $500.00
-
-XXXVI. Por la corrección o cancelación de cada primer
-
-o segundo aviso preventivo. $480.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XXXVII. Por la consolidación que se derive de cualquier
-
-tipo de enajenación entre copropietarios,
-
-reuniéndose los derechos de propiedad en uno
-
-solo, el pago se efectuara por cada inmueble
-
-objeto de la operación. $500.00
-
-Tratándose de consolidaciones que se deriven de
-
-la tramitación de alguna sucesión, sea
-
-testamentaria o intestamentaria. El pago se
-
-realizará únicamente por cada inmueble que se
-
-consolide.
-
-En el caso de consolidaciones que se deriven de
-
-cualquier acto inscribible y que con ello se
-
-termine la copropiedad entre cónyuges,
-
-reuniéndose los derechos en uno solo. El pago
-
-se realizará únicamente por cada inmueble que
-
-se consolide.
-
-XXXVIII. Por la inscripción de documentos por los
-
-que se realicen la escisión de asociaciones y
-
-sociedades civiles. $950.00
-
-XXXIX. Por la inscripción de documentos por los que
-
-se realicen la fusión de asociaciones y sociedades civiles. $950.00
-
-XL. Por la inscripción de documentos por los que
-
-se realicen la reserva de usufructo vitalicio. $650.00
-
-XLI. Por la inscripción de documentos que se realicen
-
-en la Sección Novena de todos aquellos actos relativos
-
-a la inscripción de asociaciones religiosas y actas
-
-celebradas por las diferentes cámaras de la industria. $480.00
-
-XLII. Por la inscripción de documentos por los
-
-que se otorguen poderes generales o especiales que
-
-amparen concesiones de autotransporte. $480.00
-
-XLIII. Por el registro de sellos de autorización de los
-
-notarios públicos titulares, así como el registro de sus
-
-firmas y antefirmas. $480.00
-
-XLIV. Por la inscripción de documentos por los que
-
-se realicen la cesión de derechos inmobiliarios. $1,500.00
-
-XLV. Por la inscripción de documentos por los
-
-cuales se realicen convenios extrajudiciales dentro
-
-de los fideicomisos. $1,000.00
-
-XLVI. Por la inscripción de la Patente de Corredor Público. $650.00
-
-XLVII. Por el registro de los sellos de autorización
-
-de corredores públicos, así como el registro de sus
-
-firmas y antefirmas. $480.00
-
-XLVIII. Por el registro de fianza de Corredor Público. $480.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 14.
 
-Por los servicios de certificación y expedición que preste la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán, por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por el certificado de libertad o existencias de
-
-gravámenes. $650.00
-
-II. Por cada copia certificada de asientos o documentos
-
-existentes en el archivo de la dependencia, hasta 20 hojas. $480.00
-
-Por hoja adicional se cobrará. $5.00
-
-III. Por cada copia simple de asientos o documentos
-
-existentes en el archivo de la dependencia, hasta 20 hojas. $190.00
-
-IV. Por la constancia de no propiedad registrada o de
-
-no inscripción de un bien inmueble. $480.00
-
-V. Por los informes o constancias solicitadas por
-
-autoridades de la Federación, de las Entidades
-
-Federativas, municipios u organismos de ellos. $480.00
-
-VI. Por cada informe respecto al registro o depósito de
-
-testamentos que se rindan a solicitud de jueces o notarios. $550.00
-
-VII. Por las constancias de no revocación de poderes. $480.00
-
-VIII. Por la constancia conteniendo datos regístrales
-
-de una propiedad inmobiliaria. $750.00
-
-IX. Por la historias traslativas de dominio. $1,200.00
-
-X. Por la verificación de datos regístrales por libro
-
-o índice que realice el usuario en oficina. $150.00
-
-XI. Por la ratificación de firmas ante el registrador. $750.00
-
-XII. Por búsqueda de bienes a nombre de personas. $220.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 15.
 
-Tratándose de pago de derechos por trámites ante la Dirección del Registro Público de la Propiedad y de Comercio, relativos al traslado de dominio de bienes inmuebles, será obligación del interesado demostrar con el comprobante autorizado, que no tiene adeudos fiscales de impuestos inmobiliarios.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-#### Sección Tercera. Servicios que presta la Dirección de Archivo General y Notarías
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Tercera
 
 ###### Artículo 16.
 
-Por los servicios de certificación y expedición que preste la Dirección de Archivo General y Notarías, se causarán y pagarán, por cada uno, los siguientes derechos:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-Servicios Tarifa
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-I. Por la expedición de:
-
-a) Autorización de aspirante al ejercicio del notariado. $7,500.00
-
-b) Nombramiento de notario adjunto, provisional y
-
-sustituto. $7,500.00
-
-II. Por la expedición de patente de Notario Público
-
-del Estado. $22,000.00
-
-III. Por la expedición de copias certificadas de
-
-documentos del Archivo de Notarías hasta 20 hojas. $480.00
-
-Por hoja adicional se cobrará. $5.00
-
-IV. Por la certificación de firmas y/o sellos en
-
-documentos notariales. $440.00
-
-V. Por la expedición de testimonios de escrituras
-
-notariales protocolizadas. $1,500.00
-
-VI. Por la autorización de libros de protocolo abierto
-
-o cerrado en la modalidad de ordinarios, especiales y
-
-libro de registros de cotejos. $220.00
-
-VII. Por el registro de sello, firma, rúbrica de Notarios
-
-Públicos Adjuntos, Provisional o Sustitutos. $440.00
-
-VIII. Por la autorización de permisos especiales
-
-a los notarios para salir fuera de su adscripción a
-
-dar fe de hechos. $300.00
-
-IX. Por la expedición de copias certificadas
-
-de expedientes de procedimientos administrativos
-
-en contra de Notarios, hasta 20 hojas. $480.00
-
-Por hoja adicional se cobrará. $5.00
-
-X. Por el registro de Convenio de Suplencia Notarial
-
-o Convenio de Asociación Notarial. $300.00
-
-XI. Por la búsqueda de documentos comprobatorios de
-
-antigüedad que obren en el Archivo General del Estado. $150.00
-
-XII. Por la expedición de copias certificadas de
-
-documentos que obren en el Archivo General del Estado,
-
-hasta 15 hojas. $480.00
-
-Por cada hoja adicional. $5.00
-
-XIII. Por la búsqueda de escrituras asentadas en
-
-protocolos notariales que están bajo resguardo del
-
-Archivo de Notarias. $550.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-XIV. Por la expedición de copias certificadas de
-
-testimonios por su inscripción registral. $480.00
-
-XV. Por la constancia de práctica notarial de vigencia
-
-en el ejercicio de la función notarial o de no haber sido
-
-cesado o suspendido de la misma. $800.00
-
-XVI. Por la (sic) constancias de disposiciones testamentarias. $480.00
-
-XVII. Por la expedición de copias simples de documentos
-
-del Archivo de Notarías, hasta 20 hojas. $190.00
-
-Por cada hoja adicional $5.00
-
-#### Sección Cuarta. Servicios que presta la Dirección de Catastro Urbano y Rural
+#### Sección Cuarta
 
 ###### Artículo 17.
 
-Las personas físicas o morales que constituyan fraccionamientos, régimen de propiedad en condominio o predios resultantes de la regularización de la tenencia de la tierra, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio o regularización, en la forma siguiente:
-
-Servicio Tarifa
-
-I. Habitacionales urbanos de interés social, de tipo
-
-popular, campestres y granjas de explotación
-
-agropecuaria, condominios horizontales y verticales
-
-de tipo interés social o popular. $440.00
-
-II. Habitacionales urbanos tipo medio, industriales e
-
-industriales de tipo selectivo. $600.00
-
-III. Habitacionales urbanos de primera, horizontal y
-
-vertical tipo residencial. $1,100.00
-
-IV. Colonias, barrios o asentamientos humanos regularizados
-
-por los municipios o las dependencias facultadas. $150.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 18.
 
-Por los servicios que presta la Dirección de Catastro Urbano y Rural se causarán y pagarán, por cada uno de los conceptos, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por la expedición de la Cédula Avalúo Catastral:
-
-Valor del inmueble:
-
-a) De $00,001 hasta $ 50,000. $600.00
-
-b) De $50,001 hasta $ 100,000. $700.00
-
-c) De $100,001 hasta $ 200,000. $950.00
-
-d) De $200,001 hasta $ 300,000. $1,400.00
-
-e) De $300,001 hasta $ 400,000. $1,900.00
-
-f) De $400,001 hasta $ 500,000. $2,400.00
-
-g) De $500,001 hasta $ 1,000,000. $3,000.00
-
-h) De $1,000,001 hasta $ 5,000,000. $4,400.00
-
-i) De $ 5,000,001 en adelante. $6,000.00
-
-II. Expedición de cédula catastral, por predio:
-
-a) Tratándose de predios de interés social. $150.00
-
-b) En los demás casos. $220.00
-
-III. Por la verificación de avalúos efectuados por peritos
-
-autorizados por el Instituto de la Consejería Jurídica y
-
-de Asistencia Legal; de conformidad con el valor
-
-del inmueble objeto del avalúo, de acuerdo a lo siguiente:
-
-a) De $00.001 hasta $ 100,000. $300.00
-
-b) De $100,001 hasta $ 200,000. $600.00
-
-c) De $200,001 hasta $ 300,000. $900.00
-
-d) De $300,001 hasta $ 400,000. $1,200.00
-
-e) De $400,001 hasta $ 500,000. $1,500.00
-
-f) De $500,001 hasta $ 600,000. $1,800.00
-
-g) De $600,001 hasta $800,000. $2,400.00
-
-h) De $800,001 hasta $1'000,000. $3,000.00
-
-i) De $1'000,001 hasta $1'500,000. $4,400.00
-
-j) De $1'500,001 hasta $2'000,000. $6,000.00
-
-k) De $2'000,001 hasta $2'500,000. $7,500.00
-
-l) De $2'500,001 hasta $3'000,000. $9,000.00
-
-m) De $3'000,001 hasta $3'500,000. $10,500.00
-
-n) De $3'500,001 hasta $4'000,000. $12,000.00
-
-o) De $4'000,001 hasta $5'000,000. $15,000.00
-
-p) De $5'000,001 hasta $10'000,000. $18,000.00
-
-q) De $10'000,001 en adelante. $37,000.00
-
-El pago de este derecho deberá ser enterado antes de la presentación del avalúo ante las autoridades catastrales.
-
-IV. Por la expedición de constancias y reportes catastrales,
-
-por predio:
-
-a) De medidas y colindancias. $370.00
-
-b) De registro de datos catastrales. $220.00
-
-V. Por las búsquedas catastrales, por predio:
-
-a) Por la búsqueda en el sistema de gestión catastral. $220.00
-
-b) Por la búsqueda de documentos, que sean competencia
-
-de esta Dirección y que obren en sus archivos. $300.00
-
-VI. Por la expedición de:
-
-a) Copias simples de documentos con los que se registró
-
-catastralmente un predio, por cada predio, hasta 20 hojas. $190.00
-
-Por hoja adicional se cobrarán. $5.00
-
-b) Certificación de los documentos a que se refiere
-
-está fracción, hasta 20 hojas. $480.00
-
-Por hoja certificada adicional se pagará $5.00
-
-VII. Por la expedición de plano catastral de predio
-
-urbano que figure en el registro gráfico a escala solicitada,
-
-con medidas y colindancias: En tamaño carta u oficio. $300.00
-
-VIII. Por la expedición de plano catastral, con
-
-información general y en niveles de información
-
-específica de localidades, impresas por decímetro cuadrado:
-
-a) A nivel manzana que figure en el registro gráfico. $25.00
-
-b) Temáticos cartográficos especiales, impresos con
-
-niveles de información extra. $10.00
-
-IX. Por la certificación de planos topográficos
-
-presentados incluyendo verificación de campo:
-
-a) Hasta cinco hectáreas. $950.00
-
-b) Mayor de cinco hasta diez hectáreas. $1,900.00
-
-c) Por cada hectárea o fracción adicional, después de diez. $75.00
-
-X. Por el levantamiento con equipo topográfico y
-
-elaboración de planos correspondientes:
-
-a) Hasta una hectárea. $1,100.00
-
-b) Mayor de una hasta cinco hectáreas. $2,200.00
-
-c) Mayor de cinco hasta diez hectáreas. $3,000.00
-
-d) Mayor de diez hasta veinte hectáreas. $4,400.00
-
-e) Mayor de veinte hasta cuarenta hectáreas. $7,500.00
-
-f) Mayor de cuarenta, se cobrará por hectárea o
-
-fracción adicional. $220.00
-
-El levantamiento con curvas de nivel implicará un costo adicional del 50%.
-
-Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
-
-XI. Por el deslinde catastral y elaboración de planos correspondientes:
-
-a) Hasta una hectárea. $2,200.00
-
-b) Mayor de una hasta cinco hectáreas. $3,000.00
-
-c) Mayor de cinco hasta diez hectáreas. $4,400.00
-
-d) Mayor de diez hasta veinte hectáreas. $5,500.00
-
-e) Mayor de veinte hasta cuarenta hectáreas. $11,000.00
-
-f) Mayor de cuarenta, se cobrará por hectárea o
-
-fracción adicional. $370.00
-
-Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
-
-XII. Por la información de coordenadas geográficas de
-
-puntos monumentados de la red geodésica estatal por punto. $150.00
-
-XIII. Por el establecimiento de puntos monumentados
-
-GPS, por punto, sin incluir la construcción del monumento. $1,500.00
-
-XIV. Por el registro catastral de fusión de predios y
-
-expedición de cédula catastral:
-
-a) Urbano:
-
-1. De dos hasta cinco. $600.00
-
-2. De seis en adelante. $1,500.00
-
-b) Rústico, por cada predio fusionado. $150.00
-
-XV. Por el registro de cada lote resultante de la subdivisión
-
-de un predio y expedición de cédula catastral. $440.00
-
-XVI. Por la captura gráfica digital (vectorización) en
-
-2d de información no contenida en archivos catastrales
-
-sobre levantamientos topográficos:
-
-a) Plano topográfico a color de poligonales, curvas
-
-de nivel y temáticos. $750.00
-
-b) Plano topográfico blanco y negro de poligonales,
-
-curvas de nivel y temáticos. $440.00
-
-c) Respaldo magnético en formato gráfico DGN. $1,900.00
-
-XVII. Por la captura gráfica digital (vectorización)
-
-en 2d de información no contenida en archivos
-
-catastrales de colonias y fraccionamientos, en respaldo
-
-en CD magnético con características estandarizadas en
-
-niveles de información y en formato gráfico DGN. $2,800.00
-
-XVIII. Por impresiones de captura gráfica digital
-
-en 2d de información no contenida en archivos catastrales
-
-de fraccionamientos y colonias:
-
-a) Impresiones a escalas solicitadas en blanco y negro
-
-o en color estandarizado, hasta tamaño doble legal. $150.00
-
-b) Por la expedición de planos en blanco y negro
-
-o a color estándar, por decímetro cuadrado. $15.00
-
-XIX. Por la conversión de formatos gráficos de lectura
-
-cartográfica a específicos por DGN A, DXF A o DWG A. $330.00
-
-XX. Por la impresión de Orthofoto en papel bond, 1 (uno)
-
-metro cuadrado de cubrimiento cartográfico. $5.00
-
-El tamaño de la hoja de impresión de este servicio, queda a
-
-juicio de la Autoridad Catastral.
-
-XXI. Por la línea base de control GPS modo estático
-
-(Línea de Control Azimutal). Entrega de un informe
-
-ejecutivo escrito de las coordenadas resultantes del levantamiento:
-
-a) Levantamiento Foráneo. $7,500.00
-
-b) Levantamiento Local. $6,000.00
-
-Este servicio no incluye los gastos por traslado y estancia del personal mismos que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
-
-XXII. Por punto de levantamiento Geodésico con receptor
-
-GPS en modo RTK (cinemática-tiempo real). Local
-
-y Foráneo. Entregando un informe ejecutivo escrito
-
-de las coordenadas resultantes del levantamiento:
-
-a) Foráneo. $3,000.00
-
-b) Local. $1,500.00
-
-Este servicio no incluye los gastos por traslado y estancia del personal mismos que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
-
-XXIII. Por el replanteo de un punto geodésico con
-
-equipos GPS, incluyendo el levantamiento y proceso
-
-para cálculo de coordenadas en proyección UTM de
-
-puntos de apoyo terrestre, Local y Foráneo. Entrega
-
-de informe ejecutivo escrito de las coordenadas resultantes
-
-del levantamiento, verificación del expediente técnico
-
-proporcionado por el contribuyente, ubicación del control
-
-terrestre para ser utilizado en la fase inicial del replanteo,
-
-verificación del inicio de los trabajos, conversión y/o
-
-transformación de coordenadas en el sistema WGS84,
-
-calibración de coordenadas y líneas para el inicio de replanteo,
-
-verificación de coordenadas replanteadas:
-
-a) Foráneo. $7,500.00
-
-b) Local. $6,000.00
-
-Este servicio no incluye los gastos por traslado y estancia del personal del mismo que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
-
-XXIV. Por la verificación de levantamiento topográfico
-
-(planimétricos) efectuados por peritos topógrafos
-
-y/o geomáticos autorizados, se cobrará de acuerdo
-
-a lo siguiente:
-
-a) Hasta por una hectárea. $165.00
-
-b) Mayor de una hasta cinco hectáreas. $330.00
-
-c) Mayor de cinco hasta diez hectáreas. $450.00
-
-d) Mayor de diez hasta veinte hectáreas. $660.00
-
-e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
-
-f) Mayor de cuarenta, se cobrará por hectárea
-
-o fracción adicional. $30.00
-
-XXV. Por la verificación de levantamientos topográficos
-
-(altimétricos-curvas de nivel), efectuados por
-
-peritos topógrafos y/o geomáticos autorizados, se
-
-cobrará de acuerdo a lo siguiente:
-
-a) Hasta por una hectárea. $165.00
-
-b) Mayor de una hasta cinco hectáreas. $330.00
-
-c) Mayor de cinco hasta diez hectáreas. $450.00
-
-d) Mayor de diez hasta veinte hectáreas. $660.00
-
-e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
-
-f) Mayor de cuarenta, se cobrará por hectárea
-
-o fracción adicional. $15.00
-
-XXVI. Por la verificación de línea de control azimutal
-
-(LCA), efectuados por peritos topógrafos y/o
-
-geomáticos autorizados, se cobrará de acuerdo
-
-a lo siguiente:
-
-a) Local. $900.00
-
-b) Foránea. $1,100.00
-
-XXVII. Por la verificación del establecimiento de puntos
-
-GPS, efectuados por peritos topógrafos y/o
-
-geomáticos autorizados, se cobrará por punto: $250.00
-
-XXVIII. Por la información de la Red Geodésica Estatal
-
-Activa de Chiapas (REGECH), de las lecturas de
-
-los satélites que capta la estación de monitoreo
-
-continua GPS, se cobrará por hora: $50.00
-
-El solicitante del servicio, deberá proporcionar
-
-el medio magnético en el cual se entregará la
-
-información digital.
-
-XXIX. Por curso de capacitación en materia catastral,
-
-para peritos autorizados, por participante se
-
-cobrará de acuerdo a lo siguiente:
-
-a) Para curso máximo de 30 horas $500.00
-
-b) Para curso máximo de 60 horas. $1,000.00
-
-c) Para curso máximo de 120 horas. $2,000.00
-
-El curso de capacitación, incluye material
-
-digital exclusivo, así como constancia de
-
-participación.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 19.
 
-Por los servicios de autorización y registro de licencias para peritos valuadores que preste la Dirección de Catastro Urbano y Rural, se causarán y pagarán, por cada especialidad, los siguientes derechos:
-
-Servicio Tarifa
-
-I. Por el registro definitivo en todas las especialidades. $4,400.00
-
-II. Por el registro provisional en todas las especialidades. $2,600.00
-
-III. Por la revalidación anual del registro en todas las
-
-especialidades. $3,700.00
-
-IV. Por la aplicación de examen a aspirantes a perito
-
-valuador. $600.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 20.
 
-Para el registro en el padrón del Catastro Urbano y Rural del Estado, como ingeniero topógrafo en cualquiera de sus especialidades así como ingenieros en geomática, para realizar levantamientos topográficos con fines catastrales, causarán y pagarán los siguientes derechos:
-
-Servicio Tarifa
-
-I. Por el registro por 1 (uno) año. $4,400.00
-
-II. Por la revalidación anual del registro. $3,700.00
-
-III. Por la aplicación de examen a aspirantes para
-
-estar inscritos en el padrón de profesionistas especializados
-
-en materia de levantamientos topográficos catastrales. $600.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### Capítulo II. Derechos por los Servicios que presta la Secretaría General de Gobierno
 
-#### Sección Única. Servicios que presta la Dirección de Legalización y Publicaciones Oficiales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Primera. Servicios que presta la Dirección de Legalización y Publicaciones Oficiales
 
 ###### Artículo 21.
 
@@ -1451,37 +249,1503 @@ que deben surtir efectos en el extranjero. $1,100.00
 
 Quedan exceptuados del pago de derechos por publicaciones, las Dependencias y Órganos Desconcentrados de la Administración Pública Centralizada.
 
-#### Sección Primera. Servicios que presta la Dirección de Adquisiciones
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### Sección Segunda. Servicios que presta la Dirección de Administración de Personal
+#### Sección Segunda. Servicios que presta la Dirección de Registro Civil del Estado
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### Sección Tercera. Servicios que Presta la Dirección de Ingresos
+###### Artículo 21 Bis.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+Por los servicios que presta la Dirección del Registro Civil del Estado, relativos a los actos del estado civil de las Personas, se causarán y pagarán por cada uno, los siguientes derechos:
 
-#### Sección Cuarta. Servicios que presta Control Vehicular
+Servicios Tarifas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+I. De los nacimientos, reconocimiento y adopción:
 
-#### Sección Quinta. Servicios que presta la Dirección de Cobranza
+a) Por el registro de nacimiento por adopción
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+plena o inscripción de sentencia. $190.00
+
+b) Por el registro de reconocimiento de hijos. $220.00
+
+c) Por el registro de nacimiento a domicilio. $900.00
+
+d) Por los trámites administrativos para los registros
+
+extemporáneos de nacimiento mayores de 18 años;
+
+los registros extemporáneos de defunción; y por la
+
+reposición de actas del estado civil. $370.00
+
+II. De los matrimonios:
+
+a) Por el registro de matrimonio en la oficialía,
+
+en días y horas hábiles. $1,300.00
+
+b) Por el registro de matrimonio en la oficialía,
+
+en días y horas inhábiles. $1,500.00
+
+c) Por el registro de matrimonio a domicilio,
+
+en días y horas hábiles. $2,000.00
+
+d) Por el registro de matrimonio a domicilio,
+
+en días y horas inhábiles. $3,000.00
+
+e) Por el registro de matrimonio a domicilio,
+
+fuera de la cabecera municipal, en días y
+
+horas hábiles. $3,200.00
+
+f) Por el registro de matrimonio a domicilio,
+
+fuera de la cabecera municipal, en días y horas
+
+inhábiles. $3,700.00
+
+g) Por el registro de matrimonios colectivos. $600.00
+
+III. De los divorcios:
+
+a) Por el registro de divorcio administrativo. $2,600.00
+
+b) Por el registro de divorcio judicial. $370.00
+
+IV. De los otros servicios:
+
+a) Por el trámite de aclaración de actas del registro
+
+del estado civil. $40.00
+
+b) Por la expedición de (sic)certificadas de actas y/o
+
+constancias de inexistencia del estado civil, con
+
+datos concretos, mediante base de datos o
+
+búsqueda manual. $110.00
+
+c) Por la expedición de (sic) certificadas de actas y/o
+
+constancias de inexistencia del estado civil, sin datos
+
+concretos, período de búsqueda manual hasta 5 años. $220.00
+
+d) Por la expedición de (sic) certificadas de actas y/o
+
+constancias de inexistencia del estado civil, sin datos
+
+concretos, período de búsqueda manual de 5 hasta
+
+15 años. $260.00
+
+e) Por la expedición de (sic) certificadas de actas y/o
+
+constancias de inexistencia del estado civil sin datos
+
+concretos, período de búsqueda manual, de más de
+
+15 años. $300.00
+
+f) Por la expedición de copia certificada de nacimiento
+
+a través de brigadas. $75.00
+
+g) Por la expedición de constancia de inexistencia de
+
+actas de nacimiento por brigadas, búsqueda hasta
+
+15 años. $190.00
+
+h) Por la expedición de constancias de
+
+extemporaneidad. $110.00
+
+i) Por la expedición de fotocopia certificada de actas
+
+del estado civil de libro original o duplicado. $110.00
+
+j) Por la certificación de fotocopias de resoluciones
+
+administrativas de aclaración de actas; por anotación
+
+marginal o en anexo, en razón de cambio de régimen
+
+matrimonial; por rectificación o nulidad de actas; por
+
+certificación de documentos de apéndice de actas. $110.00
+
+k) Por la inserción de actas del estado civil, adquirido
+
+por mexicanos en el extranjero. $550.00
+
+l) Por la inscripción de sentencias ejecutorias que
+
+declaren la ausencia, presunción de muerte, pérdida
+
+o limitación de la capacidad legal para administrar
+
+bienes y tutela; y otras sentencias judiciales. $370.00
+
+m) Por la certificación de resoluciones de registros
+
+extemporáneos del estado civil; reposición y
+
+expedición de constancia de trámite. $190.00
+
+El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías y por el Departamento de Brigadas se otorgarán gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Tercera. Servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Ter.
+
+Por los servicios de inscripción, refrendo y cancelación que presta la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Por la inscripción de documentos por los que:
+
+a) Se adquiera o transmita el dominio o la
+
+posesión de bienes inmuebles o derechos reales,
+
+incluyendo compraventas en las que el vendedor
+
+se reserve el dominio. $1,500.00
+
+b) Se realicen daciones en pago o adjudicaciones
+
+judiciales derivadas de juicios ejecutivos
+
+mercantiles o adjudicaciones fiduciarias a personas
+
+que por disposición legal no puedan conservar la
+
+propiedad de los bienes dados en pago o adjudicados. $1,200.00
+
+c) Por la cancelación de las inscripciones ordenadas
+
+por la autoridad competente o por voluntad de las
+
+partes. $1,100.00
+
+d) Títulos de propiedad expedidos por el Registro
+
+Agrario Nacional (RAN) provenientes de terrenos
+
+ejidales y comunales. $500.00
+
+e) Adjudicaciones por herencia, por cada inmueble. $1,200.00
+
+II. Por la inscripción de:
+
+a) Documentos por los que se constituyan servidumbres
+
+o usufructos vitalicios. $650.00
+
+b) Por la cancelación de documentos por los que se
+
+constituyan servidumbres o usufructos vitalicios. $650.00
+
+III. Por la inscripción de:
+
+a) Contratos y operaciones de crédito o mutuo con
+
+garantía hipotecaria o prendaria, que se destinen a
+
+la adquisición de una vivienda, pagarán derechos,
+
+conforme a lo siguiente
+
+1. Cuando el monto del crédito sea para la
+
+adquisición de una vivienda de interés social. $650.00
+
+2. Cuando el valor del crédito es mayor al valor de
+
+una Vivienda de interés social y menor a cuatro
+
+veces el valor de la vivienda de interés social. $1,500.00
+
+3. Cuando el valor del crédito sea mayor a Cuatro
+
+veces el valor de la vivienda de interés social, pagarán $1,900.00
+
+b) Contrato de constitución de hipotecas derivado de
+
+los contratos de crédito. $650.00
+
+c) Contratos y operaciones de créditos destinados
+
+al financiamiento de la producción agrícola o
+
+cualquier otro objeto distinto a la adquisición de
+
+viviendas. $700.00
+
+IV. Por la inscripción de los convenios que
+
+modifiquen los contratos u operaciones de crédito
+
+o mutuo señalados en la fracción III de este artículo. $1,000.00
+
+V. Por el refrendo o la cancelación de gravámenes
+
+derivados de los contratos u operaciones de crédito
+
+o mutuo o de los convenios mencionados en las
+
+fracciones III y IV, de este artículo. $700.00
+
+VI. Por la inscripción de contratos de fideicomiso
+
+sobre bienes inmuebles. $2,300.00
+
+VII. Por la inscripción de los convenios que
+
+modifiquen los contratos de fideicomiso mencionados
+
+en la fracción VI, de este artículo. $1,000.00
+
+VIII. Por la cancelación de las inscripciones
+
+derivadas de los contratos de fideicomiso o
+
+convenios mencionados en las fracciones VI y VII,
+
+de este artículo. $700.00
+
+IX. Por la inscripción preventiva de embargos sobre
+
+Bienes inmuebles por cada bien inmueble a afectar. $1,200.00
+
+X. Por la inscripción de embargo derivado de juicio
+
+de alimentos. $190.00
+
+XI. Por la inscripción o cancelación de cédulas
+
+hipotecarias. $1,500.00
+
+XII. Por el refrendo o cancelación de gravámenes a que
+
+se refiere la fracción IX de este artículo. $750.00
+
+Cuando por resolución judicial o administrativa se adjudique
+
+un bien y reporte varios gravámenes, el pago de derechos por
+
+cancelación se hará por cada gravamen, salvo que los
+
+gravámenes se encuentren relacionados con el mismo negocio,
+
+en este caso solo se pagarán derechos por la cancelación del
+
+primer gravamen y este dejará sin efecto la inscripción de los
+
+gravámenes subsecuentes.
+
+XIII. Por la inscripción de documentos en que consten
+
+fianzas, contrafianzas u obligaciones solidarias con el
+
+fiador. $1,600.00
+
+XIV. Por la cancelación de inscripciones derivadas de
+
+los contratos, actos u obligaciones mencionados en la
+
+fracción que antecede. $1,000.00
+
+XV. Por la inscripción de cada acto correspondiente al
+
+cumplimiento de la condición o cancelación de la reserva
+
+de dominio. $700.00
+
+XVI. Por la inscripción de escrituras:
+
+a) Por las que se constituyan sociedades mercantiles,
+
+con excepción de las sociedades cooperativas y de las
+
+sociedades mercantiles comprendidas en la Ley Federal
+
+para el Fomento de la Microindustria. $2,300.00
+
+b) Por las que se protocolicen actas de asambleas o de
+
+sesiones de los órganos de administración de sociedades
+
+mercantiles, con excepción de las sociedades
+
+cooperativas y de las sociedades mercantiles comprendidas
+
+en la Ley Federal para el Fomento de la Microindustria. $1,000.00
+
+XVII. Por la inscripción de documentos:
+
+a) Por los que se constituyan sociedades civiles. $950.00
+
+b) Por los que se protocolicen actas de asambleas o de
+
+sesiones de los órganos de administración de sociedades
+
+civiles. $480.00
+
+XVIII. Por la inscripción de los documentos en que
+
+consten los actos que a continuación se señalan:
+
+a) Por poderes o sustitución de los mismos, otorgados
+
+por personas físicas $650.00
+
+b) Por poderes o sustitución de los mismos, otorgados
+
+por personas morales. $1,000.00
+
+c) Por la revocación o renuncia de poderes. $480.00
+
+d) Por los que se constituyan asociaciones civiles. $950.00
+
+e) Por los que se modifiquen los estatutos de las
+
+asociaciones civiles. $480.00
+
+XIX. Por la inscripción de los documentos en que consten los
+
+actos que a continuación se relacionan:
+
+a) Patrimonio familiar. $480.00
+
+b) Por la cancelación del patrimonio familiar. $330.00
+
+c) Capitulaciones matrimoniales. $260.00
+
+d) Documentos o resoluciones judiciales relativas
+
+a las sucesiones, independientemente de los derechos
+
+que se causen por el registro de la transmisión de los
+
+bienes hereditarios. $700.00
+
+e) Inscripción del auto declaratorio de herederos. $800.00
+
+f) Inscripción del inicio del trámite de sucesiones
+
+testamentarias o intestamentarias ante Notario Público. $1,500.00
+
+XX. Por la inscripción de los documentos en que consten
+
+los actos que a continuación se señalan:
+
+a) Actos, contratos, convenios o resoluciones judiciales
+
+o administrativas por los que se constituya un
+
+fraccionamiento, se lotifique, relotifique, divida o
+
+subdivida un inmueble, por cada lote. $600.00
+
+b) Por el acto Fusión de bienes inmuebles. $1,100.00
+
+c) Constitución del régimen de propiedad en condominio,
+
+por cada unidad privativa. $600.00
+
+XXI. Por la inscripción de documentos en que consten
+
+los actos que a continuación se relacionan:
+
+a) Fideicomisos que no incluyan inmuebles, por cada
+
+inscripción. $1,100.00
+
+b) Cesión de derechos hereditarios o de fideicomisarios
+
+que no incluyan inmuebles. $1,100.00
+
+c) Corresponsalía mercantil, por su registro o cancelación. $1,100.00
+
+XXII. Por la inscripción de quiebras, secuestros,
+
+intervenciones o sentencias interlocutorias o definitivas,
+
+que no resuelvan sobre la transmisión de dominio de un
+
+bien inmueble. $1,100.00
+
+XXIII. Por la inscripción o cancelación de convenios de
+
+suplencia notarial. $1,500.00
+
+XXIV. Por cada bien inmueble sobre el cual se solicite
+
+se asiente la anotación marginal relativa al primer aviso
+
+preventivo solicitado por el Notario Público o Autoridad
+
+competente. $500.00
+
+XXV. Por la anotación marginal de cada segundo aviso
+
+preventivo subsecuente, solicitado por Notario Público
+
+o autoridad competente en los registros inmobiliarios
+
+involucrados, independientemente de que se trate de una
+
+misma operación. $500.00
+
+XXVI. Por cada anotación marginal o su cancelación
+
+que se realice o se ordene, se pagará por cada
+
+registro o folio real en el que se deba realizar dicha
+
+anotación o cancelación, independientemente que
+
+se ordene en un mismo documento. $500.00
+
+XXVII. Por la inscripción de documentos que modifiquen,
+
+aclaren o sean simples consecuencias legales de actos
+
+o contratos que ya causaron derechos de registro y que
+
+se otorguen por las mismas personas que celebraron
+
+dichos actos o contratos, sin aumentar o disminuir el valor,
+
+precio o monto consignados en estos y sin transferir
+
+derechos. $1,000.00
+
+XXVIII. Por la inscripción de testamento. $500.00
+
+XXIX. Por la inscripción de:
+
+a) Documentos por los que se constituyan
+
+sociedades cooperativas, sociedades de
+
+solidaridad social, sociedades rurales, sociedades
+
+mercantiles comprendidas en la Ley Federal para
+
+el Fomento de la Microindustria y otro tipo de
+
+personas morales distintas de las señaladas en las
+
+fracciones XV y XVI del presente artículo. $800.00
+
+b) Actas de asamblea o de sesiones de los órganos
+
+de administración de las sociedades, asociaciones o
+
+personas morales señaladas en el inciso anterior. $500.00
+
+XXX. Por la inscripción y cancelación de la Patente de
+
+Notario Público Titular, Adjunto, Sustituto y por cambio
+
+de Adscripción. $700.00
+
+XXXI. Por la inscripción de actos de cesión onerosa de
+
+crédito y derechos litigiosos.
+
+a) Por la inscripción. $1,500.00
+
+b) Por su cancelación. $800.00
+
+XXXII. Por el reconocimiento de adeudo de créditos
+
+previamente otorgados y por créditos no inscritos. $700.00
+
+XXXIII. Por la cancelación del reconocimiento de
+
+adeudo descrito en la fracción XXXII. $480.00
+
+XXXIV. Por acto de división de hipotecas (aquellos casos
+
+en que un inmueble general es otorgado en garantía
+
+hipotecaria; posteriormente se lotifica o subdivide, y
+
+cada fracción de terreno se le asigna un valor para
+
+responder a la garantía hipotecaria total). $500.00
+
+XXXV. Por la cancelación de cada acto de división de
+
+hipotecas descrita en la fracción XXXIV. $500.00
+
+XXXVI. Por la corrección o cancelación de cada primer
+
+o segundo aviso preventivo. $480.00
+
+XXXVII. Por la consolidación que se derive de
+
+cualquier tipo de enajenación entre copropietarios,
+
+reuniéndose los derechos de propiedad en uno solo,
+
+el pago se efectuara por cada inmueble objeto de la
+
+operación. $500.00
+
+Tratándose de consolidaciones que se deriven de la
+
+Tramitación de alguna sucesión, sea testamentaria o
+
+intestamentaria. El pago se realizará únicamente
+
+por cada inmueble que se consolide.
+
+En el caso de consolidaciones que se deriven de
+
+cualquier acto inscribible y que con ello se termine la
+
+copropiedad entre cónyuges, reuniéndose los derechos
+
+en uno solo. El pago se realizará únicamente por cada
+
+inmueble que se consolide.
+
+XXXVIII. Por la inscripción de documentos por los
+
+que se realicen la escisión de asociaciones y
+
+sociedades civiles. $950.00
+
+XXXIX. Por la inscripción de documentos por los
+
+que se realicen la fusión de asociaciones y sociedades
+
+civiles. $950.00
+
+XL. Por la inscripción de documentos por los que
+
+se realicen la reserva de usufructo vitalicio. $650.00
+
+XLI. Por la inscripción de documentos que se
+
+realicen en la Sección Novena de todos aquellos
+
+actos relativos a la inscripción de asociaciones
+
+religiosas y actas celebradas por las diferentes
+
+cámaras de la industria. $480.00
+
+XLII. Por la inscripción de documentos por los que
+
+se otorguen poderes generales o especiales que
+
+amparen concesiones de autotransporte. $480.00
+
+XLIII. Por el registro de sellos de autorización de
+
+los notarios públicos titulares, así como el registro
+
+de sus firmas y antefirmas. $480. 00
+
+XLIV. Por la inscripción de documentos por los
+
+que se realicen la cesión de derechos inmobiliarios. $1,500.00
+
+XLV. Por la inscripción de documentos por los
+
+cuales se realicen convenios extrajudiciales
+
+dentro de los fideicomisos. $1,000.00
+
+XLVI. Por la inscripción de la Patente de Corredor
+
+Público. $650.00
+
+XLVII. Por el registro de fianza de Corredor Público. $480.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Quater.
+
+Por los servicios de certificación y expedición que preste la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Por el certificado de libertad o existencias de
+
+gravámenes. $650.00
+
+II. Por cada copia certificada de asientos o
+
+documentos existentes en el archivo de la
+
+dependencia, hasta 20 hojas. $480.00
+
+Por hoja adicional se cobrará. $5.00
+
+III. Por cada copia simple de asientos o documentos
+
+existentes en el archivo de la dependencia, hasta 20
+
+hojas. $190.00
+
+IV. Por la constancia de no propiedad registrada
+
+o de no inscripción de un bien inmueble. $480.00
+
+V. Por los informes o constancias solicitadas por
+
+autoridades de la Federación, de las Entidades
+
+Federativas, municipios u organismos de ellos. $480.00
+
+VI. Por cada informe respecto al registro o depósito
+
+De testamentos que se rindan a solicitud de jueces
+
+o notarios. $550.00
+
+VII. Por las constancias de no revocación de poderes. $480.00
+
+VIII. Por la constancia conteniendo datos regístrales
+
+de una propiedad inmobiliaria. $750.00
+
+IX. Por la historias (sic) traslativas de dominio. $1,200.00
+
+X. Por la verificación de datos regístrales por libro o
+
+Índice que realice el usuario en oficina. $150.00
+
+XI. Por la ratificación de firmas ante el registrador. $750.00
+
+XII. Por búsqueda de bienes a nombre de personas. $220.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Quinquies.
+
+Tratándose de pago de derechos por trámites ante la Dirección del Registro Público de la Propiedad y de Comercio, relativos al traslado de dominio de bienes inmuebles, será obligación del interesado demostrar con el comprobante autorizado, que no tiene adeudos fiscales de impuestos inmobiliarios.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Cuarta. Servicios que presta la Dirección de Archivo General y Notarías
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Sexies.
+
+Por los servicios de certificación y expedición que preste la Dirección de Archivo General y Notarías, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Por la expedición de:
+
+a) Autorización de aspirante al ejercicio del
+
+notariado. $7,500.00
+
+b) Nombramiento de notario adjunto, provisional
+
+y sustituto. $7,500.00
+
+II. Por la expedición de patente de Notario Público
+
+del Estado. $22,000.00
+
+III. Por la expedición de copias certificadas de
+
+Documentos del Archivo de Notarías hasta 20
+
+hojas. $480.00
+
+Por hoja adicional se cobrará. $5.00
+
+IV. Por la certificación de firmas y/o sellos en
+
+Documentos notariales. $440.00
+
+V. Por la expedición de testimonios de escrituras
+
+Notariales protocolizadas. $1,500.00
+
+VI. Por la autorización de libros de protocolo abierto
+
+o cerrado en la modalidad de ordinarios, especiales
+
+y libro de registros de cotejos. $220.00
+
+VII. Por el registro de Sello, Firma, Rúbrica de
+
+Notarios Públicos Titulares, Adjuntos, Provisionales
+
+o Sustitutos $440.00
+
+VIII. Por la autorización de permisos especiales a
+
+los Notarios para salir fuera de su adscripción a dar
+
+fe de hechos. $300.00
+
+IX. Por la expedición de copias certificadas de
+
+expedientes de procedimientos administrativos en
+
+contra de Notarios, hasta 20 hojas. $480.00
+
+Por hoja adicional se cobrará. $5.00
+
+X. Por el registro de Convenio de Suplencia Notarial o
+
+Convenio de Asociación Notarial. $300.00
+
+XI. Por la búsqueda de documentos comprobatorios
+
+de Antigüedad Laboral que obren en el Archivo General
+
+del Estado. $150.00
+
+XII. Por la expedición de copias certificadas de
+
+Documentos que obren en el Archivo General del
+
+Estado, hasta 15 hojas. $480.00
+
+Por cada hoja adicional. $5.00
+
+XIII. Por la búsqueda de escrituras asentadas en
+
+Protocolos notariales que están bajo resguardo del
+
+Archivo de Notarias. $550.00
+
+XIV. Por la expedición de copias certificadas de
+
+Testimonios por su inscripción registral. $480.00
+
+XV. Por la constancia de Prácticas Notariales de
+
+vigencia en el ejercicio de la Función Notarial o de no
+
+haber sido cesado o suspendido de la misma. $800.00
+
+XVI. Por la constancias de disposiciones testamentarias $480.00
+
+XVII. Por la expedición de copias simples de
+
+documentos Del Archivo de Notarías, hasta 20 hojas. $190.00
+
+Por cada hoja adicional $5.00
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Quinta. Servicios que presta la Dirección de Catastro Urbano y Rural
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Septies.
+
+Las personas físicas o morales que constituyan fraccionamientos, régimen de propiedad en condominio o predios resultantes de la regularización de la tenencia de la tierra, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio o regularización, en la forma siguiente:
+
+Servicio Tarifa
+
+I. Habitacionales urbanos de interés social, de tipo
+
+popular, campestres y granjas de explotación
+
+agropecuaria, condominios horizontales y verticales
+
+de tipo interés social o popular. $440.00
+
+II. Habitacionales urbanos tipo medio, industriales e
+
+industriales de tipo selectivo. $600.00
+
+III. Habitacionales urbanos de primera, horizontal y
+
+Vertical tipo residencial. $1,100.00
+
+IV. Colonias, barrios o asentamientos humanos
+
+regularizados por los municipios o las dependencias
+
+facultadas. $150.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Octies.
+
+Por los servicios que presta la Dirección de Catastro Urbano y Rural se causarán y pagarán, por cada uno de los conceptos, los siguientes derechos:
+
+Servicio Tarifa
+
+I. Por la expedición de la Cédula Avalúo Catastral:
+
+Valor del inmueble:
+
+a) De $00,001 hasta $ 50,000. $600.00
+
+b) De $50,001 hasta $ 100,000. $700.00
+
+c) De $100,001 hasta $ 200,000. $950.00
+
+d) De $200,001 hasta $ 300,000. $1,400.00
+
+e) De $300,001 hasta $ 400,000. $1,900.00
+
+f) De $400,001 hasta $ 500,000. $2,400.00
+
+g) De $500,001 hasta $ 1,000,000. $3,000.00
+
+h) De $1,000,001 hasta $ 5,000,000. $4,400.00
+
+i) De $ 5,000,001 en adelante. $6,000.00
+
+II. Expedición de cédula catastral, por predio:
+
+a) Tratándose de predios de interés social. $150.00
+
+b) En los demás casos. $220.00
+
+III. Por la verificación de avalúos efectuados por peritos
+
+autorizados por la Secretaría General de Gobierno; de
+
+conformidad con el valor del inmueble objeto del avalúo,
+
+de acuerdo a lo siguiente:
+
+a) De $00.001 hasta $ 100,000. $300.00
+
+b) De $100,001 hasta $ 200,000. $600.00
+
+c) De $200,001 hasta $ 300,000. $900.00
+
+d) De $300,001 hasta $ 400,000. $1,200.00
+
+e) De $400,001 hasta $ 500,000. $1,500.00
+
+f) De $500,001 hasta $ 600,000. $1,800.00
+
+g) De $600,001 hasta $800,000. $2,400.00
+
+h) De $800,001 hasta $1’000,000. $3,000.00
+
+i) De $1’000,001 hasta $1’500,000. $4,400.00
+
+j) De $1’500,001 hasta $2’000,000. $6,000.00
+
+k) De $2’000,001 hasta $2’500,000. $7,500.00
+
+l) De $2’500,001 hasta $3’000,000. $9,000.00
+
+m) De $3’000,001 hasta $3’500,000. $10,500.00
+
+n) De $3’500,001 hasta $4’000,000. $12,000.00
+
+o) De $4’000,001 hasta $5'000,000. $15,000.00
+
+p) De $5’000,001 hasta $10’000,000. $18,000.00
+
+q) De $10’000,001 en adelante. $37,000.00
+
+El pago de este derecho deberá ser enterado antes de la
+
+presentación del avalúo ante las autoridades catastrales.
+
+IV. Por la expedición de constancias y reportes catastrales,
+
+por predio:
+
+a) De medidas y colindancias. $370.00
+
+b) De registro de datos catastrales. $220.00
+
+V. Por las búsquedas catastrales, por predio:
+
+a) Por la búsqueda en el sistema de gestión catastral. $220.00
+
+b) Por la búsqueda de documentos, que sean
+
+competencia de esta Dirección y que obren en
+
+sus archivos $300.00
+
+VI. Por la expedición de:
+
+a) Copias simples de documentos con los que se
+
+registró catastralmente un predio, por cada predio,
+
+hasta 20 hojas $190.00
+
+Por hoja adicional se cobrarán. $5.00
+
+b) Certificación de los documentos a que se refiere
+
+está fracción, hasta 20 hojas. $480.00
+
+Por hoja certificada adicional se pagará $5.00
+
+VII. Por la expedición de plano catastral de predio
+
+urbano que figure en el registro gráfico a escala
+
+solicitada, con medidas y colindancias: En tamaño
+
+carta u oficio. $300.00
+
+VIII. Por la expedición de plano catastral, con
+
+información general y en niveles de información
+
+específica de localidades, impresas por decímetro
+
+cuadrado:
+
+a) A nivel manzana que figure en el registro gráfico $25.00
+
+b) Temáticos cartográficos especiales, impresos con
+
+niveles de información extra. $10.00
+
+IX. Por la certificación de planos topográficos
+
+presentados incluyendo verificación de campo:
+
+a) Hasta cinco hectáreas. $950.00
+
+b) Mayor de cinco hasta diez hectáreas. $1,900.00
+
+c) Por cada hectárea o fracción adicional, después de
+
+diez. $75.00
+
+X. Por el levantamiento con equipo topográfico y
+
+elaboración de planos correspondientes
+
+a) Hasta una hectárea $1,100.00
+
+b) Mayor de una hasta cinco hectáreas. $2,200.00
+
+c) Mayor de cinco hasta diez hectáreas. $3,000.00
+
+d) Mayor de diez hasta veinte hectáreas. $4,400.00
+
+e) Mayor de veinte hasta cuarenta hectáreas. $7,500.00
+
+f) Mayor de cuarenta, se cobrará por hectárea o
+
+fracción adicional. $220.00
+
+El levantamiento con curvas de nivel implicará un costo
+
+adicional del 50%.
+
+Los gastos de traslado y estancia del personal corren
+
+a cargo del solicitante del levantamiento, el personal que
+
+ejecuta el trabajo no realiza las labores de limpia de callejones
+
+o linderos.
+
+XI. Por el deslinde catastral y elaboración de planos
+
+correspondientes:
+
+a) Hasta una hectárea. $2,200.00
+
+b) Mayor de una hasta cinco hectáreas. $3,000.00
+
+c) Mayor de cinco hasta diez hectáreas. $4,400.00
+
+d) Mayor de diez hasta veinte hectáreas. $5,500.00
+
+e) Mayor de veinte hasta cuarenta hectáreas. $11,000.00
+
+f) Mayor de cuarenta, se cobrará por hectárea o
+
+fracción adicional. $370.00
+
+Los gastos de traslado y estancia del personal corren
+
+a cargo del solicitante del levantamiento, el personal
+
+que ejecuta el trabajo no realiza las labores de limpia de
+
+callejones o linderos.
+
+XII. Por la información de coordenadas geográficas de
+
+puntos monumentados de la red geodésica estatal por
+
+punto. $150.00
+
+XIII. Por el establecimiento de puntos monumentados
+
+GPS, por punto, sin incluir la construcción del
+
+monumento. $1,500.00
+
+XIV. Por el registro catastral de fusión de predios y
+
+expedición de cédula catastral:
+
+a) Urbano:
+
+1. De dos hasta cinco. $600.00
+
+2. De seis en adelante $1,500.00
+
+b) Rústico, por cada predio fusionado. $150.00
+
+XV. Por el registro de cada lote resultante de la
+
+subdivisión de un predio y expedición de cédula
+
+catastral. $440.00
+
+XVI. Por la captura gráfica digital (vectorización) en
+
+2d de información no contenida en archivos catastrales
+
+sobre levantamientos topográficos:
+
+a) Plano topográfico a color de poligonales, curvas de
+
+nivel y temáticos $750.00
+
+b) Plano topográfico blanco y negro de poligonales,
+
+curvas de nivel y temáticos. $440.00
+
+c) Respaldo magnético en formato gráfico DGN. $1,900.00
+
+XVII. Por la captura gráfica digital (vectorización)
+
+en 2d de información no contenida en archivos
+
+catastrales de colonias y fraccionamientos, en
+
+respaldo en CD magnético con características
+
+estandarizadas en niveles de información y en
+
+formato gráfico DGN. $2,800.00
+
+XVIII. Por impresiones de captura gráfica digital en 2d
+
+de información no contenida en archivos catastrales de
+
+fraccionamientos y colonias:
+
+a) Impresiones a escalas solicitadas en blanco y negro
+
+o en color estandarizado, hasta tamaño doble legal. $150.00
+
+b) Por la expedición de planos en blanco y negro o
+
+a color estándar, por decímetro cuadrado. $15.00
+
+XIX. Por la conversión de formatos gráficos de
+
+lectura cartográfica a específicos por DGN A,
+
+DXF A o DWG A. $330.00
+
+XX. Por la impresión de Orthofoto en papel bond, 1
+
+(uno) metro cuadrado de cubrimiento cartográfico. $5.00
+
+El tamaño de la hoja de impresión de este servicio,
+
+queda a juicio de la Autoridad Catastral.
+
+XXI. Por la línea base de control GPS modo estático
+
+(Línea de Control Azimutal). Entrega de un informe
+
+ejecutivo escrito de las coordenadas resultantes del
+
+levantamiento:
+
+a) Levantamiento Foráneo. $7,500.00
+
+b) Levantamiento Local. $6,000.00
+
+Este servicio no incluye los gastos por traslado y estancia del
+
+personal mismos que correrán por cuenta del solicitante del
+
+servicio, el personal no realiza labores de limpia de callejones o
+
+linderos ni la construcción del monumento
+
+XXII. Por punto de levantamiento Geodésico con receptor
+
+GPS en modo RTK (cinemática-tiempo real). Local y
+
+Foráneo.
+
+Entregando un informe ejecutivo escrito de las coordenadas
+
+resultantes del levantamiento:
+
+a) Foráneo. $3,000.00
+
+b) Local. $1,500.00
+
+Este servicio no incluye los gastos por traslado y estancia
+
+del personal mismos que correrán por cuenta del solicitante
+
+del servicio, el personal no realiza labores de limpia de
+
+callejones o linderos ni la construcción del monumento.
+
+XXIII. Por el replanteo de un punto geodésico con equipos
+
+GPS, incluyendo el levantamiento y proceso para cálculo
+
+de coordenadas en proyección UTM de puntos de apoyo
+
+terrestre, Local y Foráneo. Entrega de informe ejecutivo
+
+escrito de las coordenadas resultantes del levantamiento,
+
+verificación del expediente técnico proporcionado por el
+
+contribuyente, ubicación del control terrestre para ser utilizado
+
+en la fase inicial del replanteo, verificación del inicio de los
+
+trabajos, conversión y/o transformación de coordenadas en el
+
+sistema WGS84, calibración de coordenadas y líneas para el
+
+inicio de replanteo, verificación de coordenadas replanteadas:
+
+a) Foráneo. $7,500.00
+
+b) Local. $6,000.00
+
+Este servicio no incluye los gastos por traslado y estancia
+
+del personal del mismo que correrán por cuenta del solicitante
+
+del servicio, el personal no realiza labores de limpia de
+
+callejones o linderos ni la construcción del monumento.
+
+XXIV. Por la verificación de levantamiento topográfico
+
+(planimétricos) efectuados por peritos topógrafos y/o
+
+geomáticos autorizados, se cobrará de acuerdo a lo
+
+siguiente:
+
+a) Hasta por una hectárea. $165.00
+
+b) Mayor de una hasta cinco hectáreas. $330.00
+
+c) Mayor de cinco hasta diez hectáreas. $450.00
+
+d) Mayor de diez hasta veinte hectáreas. $660.00
+
+e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
+
+f) Mayor de cuarenta, se cobrará por hectárea o
+
+fracción adicional. $30.00
+
+XXV. Por la verificación de levantamientos topográficos
+
+(altimétricos curvas de nivel), efectuados por peritos
+
+topógrafos y/o geomáticos autorizados, se cobrará de
+
+acuerdo a lo siguiente:
+
+a) Hasta por una hectárea. $165.00
+
+b) Mayor de una hasta cinco hectáreas. $330.00
+
+c) Mayor de cinco hasta diez hectáreas. $450.00
+
+d) Mayor de diez hasta veinte hectáreas. $660.00
+
+e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
+
+f) Mayor de cuarenta, se cobrará por hectárea o
+
+fracción adicional. $15.00
+
+XXVI. Por la verificación de línea de control azimutal
+
+(LCA), efectuados por peritos topógrafos y/o geomáticos
+
+autorizados, se cobrará de acuerdo a lo siguiente:
+
+a) Local. $900.00
+
+b) Foránea. $1,100.00
+
+XXVII. Por la verificación del establecimiento de
+
+puntos GPS, efectuados por peritos topógrafos y/o
+
+geomáticos autorizados, se cobrará por punto: $250.00
+
+XXVIII. Por la información de la Red Geodésica
+
+Estatal Activa de Chiapas (REGECH), de las lecturas
+
+de los satélites que capta la estación de monitoreo
+
+continua GPS, se cobrará por hora: $50.00
+
+El solicitante del servicio, deberá proporcionar el medio
+
+magnético en el cual se entregará la información digital.
+
+XXIX. Por curso de capacitación en materia catastral,
+
+para peritos autorizados, por participante se cobrará
+
+de acuerdo a lo siguiente:
+
+a) Para curso máximo de 30 horas. $500.00
+
+b) Para curso máximo de 60 horas. $1,000.00
+
+c) Para curso máximo de 120 horas. $2,000.00
+
+El curso de capacitación, incluye material digital exclusivo,
+
+así como constancia de participación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Nonies.
+
+Por los servicios de autorización y registro de licencias para peritos valuadores que preste la Dirección de Catastro Urbano y Rural, se causarán y pagarán, por cada especialidad, los siguientes derechos:
+
+Servicio Tarifa
+
+I. Por el registro definitivo en todas las
+
+especialidades. $4,400.00
+
+II. Por el registro provisional en todas las
+
+especialidades. $2,600.00
+
+III. Por la revalidación anual del registro en todas
+
+las especialidades. $3,700.00
+
+IV. Por la aplicación de examen a aspirantes
+
+a perito valuador. $600.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Decies.
+
+Para el registro en el padrón del Catastro Urbano y Rural del Estado, como ingeniero topógrafo en cualquiera de sus especialidades así como ingenieros en geomática, para realizar levantamientos topográficos con fines catastrales, causarán y pagarán los siguientes derechos:
+
+Servicio Tarifa
+
+I. Por el registro por 1 (uno) año. $4,400.00
+
+II. Por la revalidación anual del registro. $3,700.00
+
+III. Por la aplicación de examen a aspirantes para
+
+estar inscritos en el padrón de profesionistas
+
+especializados en materia de levantamientos
+
+topográficos catastrales. $600.00
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Sexta. Servicios que presta el Instituto de Bomberos
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Artículo 21 Undecies.- Por los servicios que presta el Instituto de Bomberos, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicio Tarifa
+
+I. Elaboración del plan de emergencia, para prestadores
+
+de servicios públicos y privados, comercios, industrias,
+
+centros educativos de todos los niveles públicos y privados,
+
+Hoteles, Moteles y Hostales, Hospitales públicos y privados:
+
+a) De 1 mts hasta 50 mts cuadrados $1,500.00
+
+b) De 50.1 mts hasta 100 mts cuadrados. $2,000.00
+
+c) De 100.1 mts hasta 300 mts cuadrados. $3,500.00
+
+d) De 301 mts hasta 400 mts cuadrados. $7,000.00
+
+Por cada metro cuadrado adicional a 400 mts $100.00
+
+e) A particulares, Casa habitación $500.00
+
+II. Dictamen de Grado de incendio por el manejo, uso
+
+y almacenamiento de sustancias químicas y tecnológicas,
+
+para prestadores de servicios públicos y privados,
+
+comercios, industrias, centros educativos de todos los
+
+niveles públicos y privados, Hoteles, Moteles y Hostales,
+
+Hospitales públicos y privados, Municipios y/o
+
+Ayuntamientos:
+
+a) De Riesgo bajo: quienes manejen, almacenen
+
+o manipulen materiales o sustancias químicas
+
+clasificación (A) según la PROY-NOM-005-STPS-2017 $ 3,500.00
+
+b) De Riesgo alto: quienes manejen, almacenen
+
+o manipulen materiales o sustancias químicas
+
+clasificación (B, C, D, E, F) según la
+
+PROY-STPS-NOM-005-STPS-2017 $ 20,000.00
+
+III. Peritaje de incendios que realiza el Instituto
+
+de Bomberos a Local o inmueble siniestrado por
+
+incendio:
+
+a) De 1 mts hasta 50 mts cuadrados $ 3,500.00
+
+b) De 50.1 mts hasta 100 mts cuadrados $ 8,500.00
+
+c) De 100.1 mts hasta 300 mts cuadrados $ 12,500.00
+
+d) De 301 mts hasta 500 mts cuadrados. $ 15,000.00
+
+Por cada metro cuadrado adicional a 500 mts. $ 200.00
+
+e) A particulares. Casa habitación. $ 1,000.00
+
+IV. Capacitación Anual por persona con Constancia
+
+oficial, del sector público o privado:
+
+a) Combate y Prevención de Incendios $ 1,000.00
+
+b) Curso de Bombero Industrial $ 5,000.00
+
+c) Primer respondiente (primeros auxilios) $ 500.00
+
+d) Extricación vehicular. $1,000.00
+
+e) Búsqueda y rescate. $ 500.00
+
+f) Rescate en alturas. $1,000.00
+
+g) Evacuación de inmuebles $500.00
+
+h) Identificación de riego (sic) en inmuebles $ 500.00
+
+i) Formación de brigadas en atención de
+
+emergencias: $ 500.00
+
+j) trabajo seguro en alturas $1,000.00
+
+V. Atlas de Riesgo por Municipio, para determinar el
+
+grado de peligrosidad en materia de los diferentes
+
+tipos de incendios, por la concentración de los diversos
+
+materiales o sustancias químicas o tecnológicas tales como;
+
+(clasificación A, B, C, D, E, F, etc.) en el territorio (sic)
+
+municipio que se puedan generar o que representan un
+
+riesgo latente o potencial en el Municipio, según la normas
+
+oficiales en la materia, tales como; PROY-NOM-005-2017,
+
+PROY-NOM-018-2015 Y PROY-NOM-026-2008. $150,000.00
+
+VI. Dictamen de validación de red de equipos y
+
+semi fijos contra incendio empresas y/o particulares. $2,000.00
 
 ### Capítulo III. Derechos por los Servicios que Presta la Secretaría de Hacienda
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### Sección Sexta. Servicios que presta la Dirección de Auditoría Fiscal
+#### Sección Primera. Por otros Servicios que presta la Secretaría
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
+Por los servicios que presta la Secretaría de Hacienda, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicio Tarifa
+
+I. Por el pago de bases conforme a lo siguiente:
+
+a) Invitación Abierta. $1,250.00
+
+b) Licitación Pública Estatal. $1,975.00
+
+c) Licitación Pública Nacional. $2,395.00
+
+II. Por la acreditación en el Registro Voluntario de
+
+Proveedores, tomando en cuenta lo siguiente:
+
+a) Expedición de la credencial para el registro. $1,250.00
+
+b) Expedición de credenciales adicionales
+
+(cada ejemplar) o reposición. $575.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Séptima. Servicios que presta la Dirección de Obligaciones Fiscales y Retenciones
+#### Sección Segunda. Servicios que presta la Dirección de Administración de Personal
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1495,7 +1759,7 @@ I. Por la expedición de constancia de sueldos, se
 
 cobrará: $110.00
 
-#### Sección Única. Servicios que presta la Dirección de Regulación Pecuaria
+#### Sección Tercera. Servicios que Presta la Dirección de Ingresos
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1661,11 +1925,19 @@ documentación oficial, incluyendo la búsqueda, hasta
 
 Por hoja adicional se cobrará. $25.00
 
-XI. Por expedición de licencia de conducir de automovilista
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-por un año, a extranjeros que acrediten su legal
+XI. Por la expedición de licencia de conducir a
 
-estancia en el país, por dicho periodo, se cobrará: $500.00
+extranjeros por el tiempo que acrediten su legal
+
+estancia en el país, se le cobrará hasta por un año:
+
+a) Chofer. $600.00
+
+b) Automovilista $500.00
+
+c) Motociclista. $300.00
 
 XII. Por la expedición de licencias de conducir por 2 años, se cobrará de acuerdo a lo siguiente:
 
@@ -1747,15 +2019,23 @@ c) Automovilista. $1,300.00
 
 d) Motociclista. $600.00
 
-XX. Por la reposición de licencia de conducir por pérdida o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-extravío de las contempladas en las fracciones de la
+XX. Por la reposición de licencia de conducir por
 
-XI a la XIX, del presente artículo, se cobrará: $220.00
+pérdida o extravío de las contempladas en las
+
+fracciones de la XI a la XIX del presente artículo, se
+
+cobrará: $250.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXI. Por la expedición de constancias de antigüedad
 
-de licencia de conducir, se cobrará: $150.00
+de licencia de conducir, incluyendo su búsqueda, se
+
+cobrará $250.00
 
 XXII. Por la expedición de permisos provisionales para
 
@@ -1781,7 +2061,11 @@ c) Automovilista. $600.00
 
 d) Motociclista. $400.00
 
-#### Sección Primera. Servicios que Presta la Subsecretaría de Servicios Estratégicos de Seguridad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Cuarta. Servicios que presta por Control Vehicular
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
@@ -1791,53 +2075,59 @@ Servicios Tarifa
 
 I. Servicio privado:
 
-a) Por la expedición de placas, calcomanía y tarjeta de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-circulación para automóviles, camiones, omnibuses y
+a) Por la expedición de placas, calcomanía y tarjeta
 
-remolques. $1,050.00
+de circulación para automóviles, camiones, omnibuses
 
-b) Por la expedición de placas y tarjeta de circulación para
+y remolques. $1,100.00
 
-motocicletas y vehículos similares con motor. $900.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-c) Por el cambio de placas, incluyendo calcomanía y tarjeta
+b) Por la expedición de placas y tarjeta de circulación
 
-de circulación para automóviles, camiones, omnibuses y
+para motocicletas y vehículos similares con motor. $950.00
 
-remolques. $1,050.00
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-d) Por el cambio de placas, incluyendo tarjeta de circulación
-
-para motocicletas y vehículos similares con motor. $900.00
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. Servicio Público:
 
-a) Por la expedición de placas, calcomanía y tarjeta de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-circulación para automóviles, camiones y omnibuses. $2,200.00
+a) Por la expedición de placas, calcomanía y tarjeta
 
-b) Por la expedición de placas y tarjeta de circulación para
+de circulación para automóviles, camiones y
 
-motocicletas y vehículos similares con motor. $1,200.00
+omnibuses. $2,250.00
 
-c) Vehículos similares sin motor; exceptuándose las bicicletas. $250.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-d) Por la expedición de placa de bicicleta con carro anexo. $1,200.00
+b) Por la expedición de placas y tarjeta de circulación
 
-e) Por el cambio de placas, incluyendo calcomanía y tarjeta
+para motocicletas y vehículos similares con motor. $1,250.00
 
-de circulación para automóviles, camiones y omnibuses. $2,200.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-f) Por el cambio de placas, incluyendo tarjeta de circulación
+c) Vehículos similares sin motor; exceptuándose
 
-para motocicletas y vehículos similares con motor. $1,200.00
+las bicicletas. $300.00
 
-g) Por el cambio de placas de vehículos similares sin motor;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-exceptuándose las bicicletas. $200.00
+d) Por la expedición de placa de bicicleta con carro
 
-h) Por el cambio de placas de bicicleta con carro anexo. $1,200.00
+anexo. $1,250.00
+
+e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 III. Baja de placas. $150.00
 
@@ -1851,29 +2141,43 @@ IV. Refrendo anual o reposición de tarjeta de circulación:
 
 a) Servicio privado.
 
-1. Para automóviles, camiones, omnibuses y remolques. $680.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-2. Motocicletas y vehículos similares con motor. $530.00
+1. Para automóviles, camiones, omnibuses y remolques. $730.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+2. Motocicletas y vehículos similares con motor. $580.00
 
 b) Servicio público:
 
-1. Para automóviles, camiones, omnibuses y remolques. $1,180.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-2. Motocicletas y vehículos similares con motor. $680.00
+1. Para automóviles, camiones, omnibuses y remolques. $1,230.00
 
-3. Bicicleta con carro anexo. $155.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. Por la expedición o canje de placas para vehículos de prueba
+2. Motocicletas y vehículos similares con motor. $730.00
 
-o demostración. $2,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VI. Revalidación anual de placas para vehículos de prueba o
+3. Bicicleta con carro anexo. $205.00
 
-demostración. $2,250.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Por la expedición de placas para vehículos de
+
+prueba o demostración. $2,050.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Por la revalidación anual de placas para vehículos
+
+de prueba o demostración $2,300.00
 
 Para el otorgamiento de las placas de demostración y de placas especiales a vehículos destinados y adaptados a personas con discapacidad, los solicitantes deberán cumplir con los requisitos que mediante Reglas de Carácter General emita la Secretaría de Hacienda.
 
-#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
+#### Sección Quinta. Servicios que presta la Dirección de Cobranza
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1909,7 +2213,7 @@ Código de la Hacienda Pública para el Estado de Chiapas, por día. $30.00
 
 V. Por la expedición de constancia de no adeudos fiscales. $270.00
 
-#### Sección Tercera. Servicios que presta el Instituto de Formación Policial
+#### Sección Sexta. Servicios que presta la Dirección de Auditoría Fiscal
 
 ###### Artículo 27.
 
@@ -1935,7 +2239,9 @@ de esta Dirección y que obren en sus archivos. $110.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-#### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
+#### Sección Séptima. Servicios que presta la Dirección de Obligaciones Fiscales y Retenciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 28.
 
@@ -1947,61 +2253,69 @@ I. Por la expedición de constancias de liquidez
 
 salarial, se cobrará. $110.00
 
-II. Por la búsqueda de documentos comprobatorios
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-de antigüedad laboral que obren en el Departamento
+II. Por la búsqueda de documentos que constan en
+
+los expedientes que resguarda el Departamento
 
 de Archivo de Expedientes Laborales, se cobrará: $110.00
 
-III. Por la expedición de copias simples de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-documentos comprobatorios de antigüedad laboral
+III. Por la expedición de copias simples de documentos
 
-que obren en el Departamento de Archivo de
+que constan en los expedientes que resguarda el
 
-Expedientes Laborales, hasta 20 hojas, se cobrará: $150.00
+Departamento de Archivo de Expedientes Laborales,
+
+hasta 20 hojas, se cobrará: $150.00
 
 Por hoja adicional se cobrará $1.00
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la expedición de copias certificadas de
 
-documentos comprobatorios de antigüedad laboral
+documentos que constan en los expedientes
 
-que obren en el Departamento de Archivo de Expedientes
+que resguarda el Departamento de Archivo de
 
-Laborales, hasta 5 hojas, se cobrará: $175.00
+Expedientes Laborales, hasta 10 hojas del mismo
 
-V. Por expedición de copias certificadas de documentos
+asunto, se cobrará: $175.00
 
-comprobatorios de antigüedad laboral que obren en el
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Departamento de Archivo de Expedientes Laborales, hasta
+V. Por la expedición de copias certificadas de
 
-15 hojas, se cobrará: $480.00
+documentos que constan en los expedientes
+
+que resguarda el Departamento de Archivo de
+
+Expedientes Laborales, hasta 15 hojas, se cobrará: $480.00
 
 Por hoja adicional se cobrará: $5.00
 
-### Capítulo IV. Derechos por los Servicios que presta la Secretaría del Campo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### Capítulo IV. Derechos por los Servicios que presta la Secretaría de Agricultura, Ganadería y Pesca
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
+#### Sección Única. Servicios que presta la Dirección de Regulación Pecuaria
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-Por los servicios que presta la Secretaría del Campo a través de la Dirección de Regulación Pecuaria, a los Ayuntamientos, las Uniones y Asociaciones Ganaderas, así como el Comité de Fomento y Protección Pecuaria, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Dirección de Regulación Pecuaria, a los Ayuntamientos, las Uniones y Asociaciones Ganaderas, así como el Comité de Fomento y Protección Pecuaria, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicio Tarifa
 
-I. Por la expedición de la guía de tránsito para la
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-movilización de equinos para deporte y charrería,
-
-semovientes para repasto, abasto y comercialización,
-
-así como de los productos y subproductos de origen
-
-animal, se cobrará: $10.00
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 II. Por la acreditación de:
 
@@ -2015,31 +2329,43 @@ c) Inspectores Pecuarios. $600.00
 
 d) Verificadores pecuarios. $600.00
 
-e) Reposición por extravío de acreditación, se cobrará: $400.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Por la expedición de documentos que acreditan la
+e) Reposición de Acreditación por extravió. $500.00
 
-propiedad de fierros, marcas y tatuajes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-a) Título o patente de propiedad. $20.00
+III.- Por la autorización de juego de libros nuevos anuales:
 
-b) Identificación de propiedad y revalidación. $30.00
+a) Dentro de los tres primeros meses del año
 
-c) Reposición de documentos (título de propiedad
+en curso, por el registro de fierros, marcas,
 
-o identificación). $55.00
+tatuajes o aretes. $ 600.00
 
-#### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
+b) A partir del cuarto mes del año en curso, por
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+el registro de fierros, marcas, tatuajes o aretes. $800.00
 
-#### Sección Tercera. Servicios que presta la Dirección de Capacitación al Sector
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Por la autorización extemporánea de juego de
+
+libros utilizados durante el año en curso, para el
+
+registro de fierros, marcas, tatuajes o aretes. $1,200.00
+
+#### Sección Primera. Servicios que Presta la Subsecretaría de Servicios Estratégicos de Seguridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+#### Sección Tercera. Servicios que presta el Instituto de Formación Policial
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+#### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
 ### Capítulo V. Derechos por los Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
@@ -2061,9 +2387,11 @@ derivados de los procedimientos administrativos disciplinarios
 
 hasta por 20 hojas. $70.00
 
+#### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
+
 ###### Artículo 31.
 
-Por los servicios que presta el Área de Servicios Privados de Seguridad en materia de seguridad privada, a las personas físicas y morales que prestan servicios de seguridad privada en el Estado, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta el Departamento de Regulación de Servicios Privados de Seguridad en materia de seguridad privada, a las personas físicas y morales que prestan servicios de seguridad privada en el Estado, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
@@ -2123,11 +2451,13 @@ de bienes o valores, custodia, vigilancia, cuidado y protección
 
 de bienes muebles o valores, incluyendo su traslado. $9,500.00
 
-VIII. Por la autorización o revalidación anual, para prestar
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-el servicio de seguridad privada en la modalidad de
+VIII. Por la autorización para prestar el servicio de
 
-servicio de alarmas y monitoreo electrónico, tales como:
+seguridad privada en la modalidad de servicio de
+
+alarmas y monitoreo electrónico, tales como:
 
 a) Comercialización de alarmas. $9,500.00
 
@@ -2137,29 +2467,57 @@ c) Instalación y monitoreo de sistema de circuito cerrado
 
 de televisión. $9,500.00
 
-IX. Por la autorización o revalidación anual, para prestar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-los servicios en las demás actividades que se relacionen
+IX. Por la revalidación anual para prestar el servicio
 
-directamente con servicios de seguridad privada.
+de seguridad privada en la modalidad de servicio
+
+de alarmas y monitoreo electrónico, tales como:
+
+a) Comercialización de alarmas. $4,750.00
+
+b) Instalación y monitoreo de alarmas. $4,750.00
+
+c) Instalación y monitoreo de sistema de circuito
+
+cerrado de televisión. $4,750.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+X. Por la autorización o revalidación anual, para
+
+prestar los servicios en las demás actividades que
+
+se relacionen directamente con servicios de seguridad
+
+privada.
 
 a) Instalación o comercialización de sistemas de
 
 blindaje en todo tipo de vehículos automotores. $9,500.00
 
-b) Vigilancia de áreas interna y externa de instalaciones. $9,500.00
+b) Vigilancia de áreas interna y externa de
 
-c) Vigilancia de instalaciones en sus entradas y salidas. $9,500.00
+instalaciones $9,500.00
+
+c) Vigilancia de instalaciones en sus entradas y
+
+salidas. $9,500.00
 
 d) Vigilancia de vehículos y su traslado y vigilancia
 
 de personal laboral. $9,500.00
 
-X. Por la expedición de constancias a empresas de seguridad
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-que no han sido sancionadas o amonestadas. $110.00
+XI. Por la expedición de constancias a empresas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+de seguridad que no han sido sancionadas o
+
+amonestadas. $110.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 32.
 
@@ -2167,91 +2525,97 @@ Por los servicios que presta la Dirección de Control de Servicios de Seguridad,
 
 Servicios Tarifa
 
-I. Por servicio armado por elemento de 12 horas, de
+I. Por servicio armado por elemento de 12 horas,
 
-lunes a sábado, por mes. $13,000.00
-
-Cuando el servicio referido en esta fracción sea menor
-
-de un periodo de 30 días, se cobrarán $500.00, por cada
-
-día proporcionado.
-
-II. Por servicio armado por elementos de 12 horas, de
-
-lunes a domingo, por mes. $14,700.00
+de lunes a sábado, por mes. $14,000.00
 
 Cuando el servicio referido en esta fracción sea menor
 
-de un periodo de 30 días, se cobrarán $500.00 por cada
+de un periodo de 30 días, se cobrarán $520.00 por cada
 
-día proporcionado.
+día proporcionado
 
-III. Por servicio desarmado por elemento de 12 horas, de
+II. Por servicio armado por elementos de 12 horas,
 
-lunes a sábado por mes. $11,900.00
+de lunes a domingo, por mes. $15,700.00
 
 Cuando el servicio referido en esta fracción sea menor
 
-de un periodo de 30 días, se cobrarán $500.00 por cada
+de un periodo de 30 días, se cobrarán $520.00 por cada
 
 día proporcionado.
 
-IV. Por Servicio desarmado por elemento de 12 horas, de
+III. Por servicio desarmado por elemento de 12 horas,
 
-lunes a domingo, por mes. $13,000.00
+de lunes a sábado por mes. $12,900.00
 
-Cuando el servicio referido en esta fracción sea menor de
+Cuando el servicio referido en esta fracción sea menor
 
-un periodo de 30 días, se cobrarán $500.00 por cada día
+de un periodo de 30 días, se cobrarán $520.00 por cada
 
-proporcionado.
+día proporcionado.
+
+IV. Por Servicio desarmado por elemento de 12 horas,
+
+de lunes a domingo, por mes. $14,000.00
+
+Cuando el servicio referido en esta fracción sea menor
+
+de un periodo de 30 días, se cobrarán $520.00 por cada
+
+día proporcionado.
 
 V. Por servicio extraordinario por elemento de 12 horas:
 
-a) Armado. $1,600.00
+a) Armado. $1,700.00
 
-b) Desarmado. $1,500.00
+b) Desarmado $1,600.00
 
-VI. Por servicio de 6 rondines en turno de 12 horas,
+VI. Por Servicio de 6 rondines en turno de 12 hrs,
 
-con patrulla. $1,500.00
+con patrulla. $1,700.00
 
-VII. Por servicio de patrulla establecida, en turno
+VII. Por Servicio de patrulla establecida, en turno
 
-de 12 horas. $3,300.00
+de 12 hrs. $3,500.00
 
-VIII. Por el servicio de traslado de valores dentro
+VIII. Por el servicio de traslado de valores dentro de
 
-de la localidad, si el valor a trasladar es por la cantidad
+la localidad, si el valor a trasladar es por la cantidad
 
-de $0.00 a $25,000.00, se cobrará. $1,100.00
+de $0 a $25,000.00, se cobrará. $1,600.00
 
 IX. Por el servicio de traslado de valores dentro de la
 
 localidad, si el valor a trasladar es por la cantidad de
 
-$25,001.00 a $50,000.00, se cobrará. $2,200.00
+$25,001.00 a $50,000.00, se cobrará. $2,700.00
 
 X. Por el servicio de traslado de valores dentro de la
 
 localidad, si el valor a trasladar es por la cantidad de
 
-$50,001.00 a $75,000.00, se cobrará. $3,300.00
+$50,001.00 a $75,000.00, se cobrará. $3,800.00
 
 XI. Por el servicio de traslado de valores dentro de la
 
 localidad, si el valor a trasladar es por la cantidad de
 
-$75,001.00 a $100,000.00, se cobrará. $4,400.00
+$75,001.00 a $100,000.00, se cobrará. $4,900.00
 
-Por cada $25,000.00 adicionales, se pagará. $1,100.00
+Por cada $25,000.00 adicionales, se pagará. $1,600.00
 
-XII. Se cobrará $85.00 por cada cinco kilómetros
+XII. Se cobrará $100.00 por cada cinco kilómetros
 
-recorridos, tratándose de localidades que se encuentren
+recorridos, tratándose de localidades que se
 
-fuera del lugar en donde se contrate el servicio.
+encuentren fuera del lugar en donde se contrate el
+
+servicio.
+
+#### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
@@ -2309,6 +2673,10 @@ VIII. Por la expedición de constancias de no
 
 infracción para el servicio público. $300.00
 
+#### Sección Tercera. Servicios que presta la Unidad de Planeación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 34.
 
 Por los servicios que presta el Instituto de Formación Policial, se causarán y pagarán, por cada uno, los siguientes derechos:
@@ -2349,6 +2717,10 @@ b) Constancia de Estudios. $75.00
 
 c) Credencial de Estudiante. $40.00
 
+#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
 Por los servicios que presta el Centro Estatal de Control de Confianza Certificado, se causarán y pagarán, por cada uno, los siguientes derechos:
@@ -2367,7 +2739,9 @@ IV. Por examen en la especialidad Médica. $1,300.00
 
 V. Por examen en la especialidad Toxicológico. $850.00
 
-### Capítulo VI. Derechos por los Servicios que Presta la Secretaría de Transportes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### Capítulo VI. Derechos por los Servicios que Presta la Secretaría de Movilidad y Transporte
 
 ###### Artículo 36.
 
@@ -2619,9 +2993,27 @@ en el módulo de cobro, del recibo oficial de pago anterior por
 
 concepto de expedición de permiso de paso o penetración. $960.00
 
-XI. Por la autorización de reposición de placas, para la prestación
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-del servicio público de transporte, en cualquier modalidad. $8,000.00
+XI. Por la autorización de nueva asignación de placas,
+
+para la prestación del servicio público de transporte,
+
+a los concesionarios y permisionarios en cualquier
+
+modalidad, en el caso de:
+
+a) Robo o siniestro de su vehículo y placas. $3,000.00
+
+b) Robo o extravío de placas. $8,000.00
+
+En cualquiera de los casos señalados, deberá exhibirse
+
+documento idóneo expedido por la Fiscalía de Robo de
+
+Vehículos, de la Fiscalía General del Estado, en el que
+
+conste el hecho.
 
 XII. Por la autorización de reposición de tarjeta de circulación para
 
@@ -2649,9 +3041,11 @@ destinados a la prestación del servicio público de transporte,
 
 en cualquier modalidad. $400.00
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-Por los servicios que presta la Dirección de Capacitación al Sector, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Unidad de Planeación, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
@@ -2957,7 +3351,9 @@ a) Elaboración, expedición y registro de
 
 título profesional medio superior y superior particulares. $1,200.00
 
-b) Gestión para la expedición de cedula profesional. $1,200.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Gestión para la expedición de cedula profesional. $600.00
 
 c) Por las visitas de supervisión a instalaciones
 
@@ -3019,11 +3415,21 @@ II. Por la revalidación anual de licencias de
 
 funcionamiento para venta de bebidas alcohólicas. $1,500.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Por la visita de Verificación Sanitaria para el cambio de
+III. Por la visita de Verificación Sanitaria por cada
 
-domicilio, por cada establecimiento. $750.00
+establecimiento con venta y/o suministro de bebidas
+
+alcohólicas:
+
+a) Por cambio de domicilio. $1,500.00
+
+b) Por cambio de giro. $1,500.00
+
+c) Por la expedición o refrendo de la licencia de
+
+funcionamiento. $1,500.00
 
 El pago del derecho por expedición de licencia para venta de bebidas alcohólicas, deberá cubrirse al momento de solicitar la expedición de la constancia de inscripción señaladas en los incisos a) numeral 1 al 3 y b) numeral 1 al 5 de la fracción VII del artículo 24 de esta Ley, lo cual será requisito indispensable para que la Secretaría de Salud del Estado otorgue la licencia, con independencia de que el contribuyente cumpla con los demás requisitos que las leyes aplicables y la autoridad sanitaria le impongan.
 
@@ -3157,19 +3563,11 @@ del establecimiento que tenga como actividad
 
 el giro de guarderías infantiles. $7,500.00
 
-XIV. Por la visita de verificación sanitaria, para:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-a) El cambio de giro, por cada establecimiento
+XIV. Por la visita de verificación sanitaria, para la
 
-que expenda o suministre bebidas alcohólicas. $1,500.00
-
-b) La expedición o refrendo de la licencia de
-
-funcionamiento de establecimiento que expenda
-
-o suministre bebidas alcohólicas. $1,500.00
-
-c) La validación de la expedición de la licencia de
+validación de la expedición de la licencia de
 
 funcionamiento de guarderías infantiles. $1,500.00
 
@@ -3207,19 +3605,21 @@ Las personas físicas que utilicen los servicios que presta la Secretaría de Sa
 
 El monto de las cuotas citadas, se determinarán atendiendo a las condiciones socioeconómicas del contribuyente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### Capítulo IX. Derechos por los Servicios que Presta la Secretaría de la Contraloría General
+### Capítulo IX. Derechos por los Servicios que Presta la Secretaría de la Honestidad y Función Pública
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-Por los servicios que preste la Secretaría de la Contraloría General, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que preste la Secretaría de la Honestidad y Función Pública, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
-I. Por la expedición de constancias de no inhabilitación. $130.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Por la expedición de constancias de no inhabilitación. $135.00
 
 II. Por la expedición de constancias de inscripción en el
 
@@ -3247,23 +3647,31 @@ segundo o posteriores ejemplares de constancias de
 
 inscripción en el Registro de Supervisores, se cobrará: $1,100.00
 
-IV. Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Honestidad y Función Pública, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 Los órganos ejecutores de obras públicas al hacer el pago de las estimaciones de obra, retendrán el importe del derecho al que se refiere el párrafo anterior. Los recursos que se implican en la ejecución de las obras a que se refiere el párrafo primero de la presente fracción, son aquellos que por su origen se consideren distintos a los federales.
 
-V. Por la expedición de copias certificadas de documentos
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-que se encuentren en los archivos de la Secretaría
+V. Por la expedición de copias certificadas de
 
-de la Contraloría General, hasta 20 hojas. $485.00
+documentos que se encuentren en los archivos
+
+de la Secretaría de la Honestidad y Función
+
+Pública, hasta 20 hojas. $500.00
 
 Por hoja adicional se cobrará. $5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VI. Por el cotejo y devolución de documentos
 
 integrados en los procedimientos administrativos
 
-disciplinarios, presentados por los solicitantes. $155.00
+disciplinarios, presentados por los solicitantes. $160.00
 
 ### Capítulo X. Derechos por los Servicios que presta la Secretaría de Medio Ambiente e Historia Natural
 
@@ -3285,11 +3693,13 @@ Ambiental Modalidad General. $23,100.00
 
 III. Por la evaluación del Estudio de Riesgo. $17,850.00
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la evaluación del Manifiesto de Impacto
 
-Ambiental para Fraccionamientos, Unidades
+Ambiental modalidad particular por tipo de obra o
 
-Habitacionales y Nuevos Centros de Población. $25,725.00
+actividad $25,725.00
 
 V. Por la actualización de las Resoluciones en
 
@@ -3347,17 +3757,9 @@ presentación de los estudios en materia de
 
 impacto y/o riesgo ambiental. $10,500.00
 
-XIII. Por la inscripción al Registro de
+XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Prestadores de Servicios Ambientales
-
-del Gobierno del Estado de Chiapas. $8,925.00
-
-XIV. Por el refrendo anual de la inscripción
-
-al Registro de Prestadores de Servicios
-
-Ambientales del Gobierno del Estado de Chiapas. $6,825.00
+XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XV. Por la actualización de la licencia de
 
@@ -3401,17 +3803,7 @@ Natural, hasta 20 hojas. $480.00
 
 Por hoja adicional se cobrará $5.00
 
-XXI. Por la información derivada de los programas
-
-de ordenamiento ecológico y territorial:
-
-a) CD con mapa temático en torno al shapefile
-
-para los sistemas de información geográfica. $75.00
-
-b) CD con el documento en formato electrónico de los
-
-Programas de Ordenamiento Ecológico y Territorial. $75.00
+XXI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XXII. Por la evaluación del manifiesto para la recolección,
 
@@ -3669,33 +4061,11 @@ protección civil, dirigida a instituciones, organismos y
 
 asociaciones privadas y del sector social. $1,200.00
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### Capítulo XII. Derechos por los servicios que presta la Oficialía Mayor del Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-Artículo 47 A.- Por los servicios que presta la Oficialía Mayor del Estado, se causarán y pagarán, por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por el pago de bases conforme a lo siguiente:
-
-a) Invitación Abierta. $1,250.00
-
-b) Licitación Pública Estatal. $1,975.00
-
-c) Licitación Pública Nacional. $2,395.00
-
-II. Por la acreditación en el Registro Voluntario
-
-de Proveedores, tomando en cuenta lo siguiente:
-
-a) Expedición de la credencial para el registro. $1,250.00
-
-b) Expedición de credenciales adicionales
-
-(cada ejemplar) o reposición. $575.00
+Artículo 47 A.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO XII], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3831,7 +4201,7 @@ El Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cump
 
 Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 17 días del mes de Mayo del año dos mil dieciséis.- D.P.C. EDUARDO RAMÍREZ AGUILAR.- D.S.C. ALEJANDRA CRUZ TOLEDO ZEBADÚA.- Rúbricas.
 
-De conformidad con la fracción I, del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 17 días del mes de Mayo del año dos mil dieciséis, con los refrendos de los CC. Scretario General de Gobierno y Secretario de Hacienda.
+De conformidad con la fracción I, del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 17 días del mes de Mayo del año dos mil dieciséis, con los refrendos de los CC. Secretario General de Gobierno y Secretario de Hacienda.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Humberto Pedrero Moreno, Secretario de Hacienda.- Rúbricas.
 
@@ -3862,3 +4232,15 @@ P.O. 31 DE DICIEMBRE DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor el día uno de enero del año dos mil dieciocho.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 036 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- En un plazo máximo de 180 días contados a partir de la aprobación del presente Decreto, el Congreso del Estado a través de la Comisión de Hacienda, deberá crear el Programa Especial de Apoyo para la Regularización de los Derechos Reales de la Propiedad y el establecimiento de un esquema de exención, parcial o total de los derechos e impuestos correspondientes, con el propósito de efectuar todos los actos jurídicos y administrativos necesarios, orientados a facilitar, simplificar y ejecutar en el programa social tendiente a la regularización de los derechos reales de propiedad.
+
+Los Ayuntamientos deberán signar junto a la Comisión antes referida, que manifiestan por escrito su interés de adherirse al Programa Especial de Apoyo para la Regularización de los Derechos Reales de la Propiedad, sujetándose a los lineamientos que para tal efecto se emitan, así como a las disposiciones legales correspondientes al caso.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
