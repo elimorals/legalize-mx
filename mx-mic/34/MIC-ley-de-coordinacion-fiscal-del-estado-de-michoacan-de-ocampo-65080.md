@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2017-12-28"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -357,9 +357,13 @@ REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 Para efectos de la determinación del coeficiente a que se refiere el artículo 10 de esta Ley, las autoridades del ayuntamiento respectivo, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, mensualmente, dentro de los 15 días siguientes al mes de que se trate, una copia del estado de cuenta emitido por la Comisión Federal de Electricidad, en el que se consigne el monto de la facturación de los derechos por la prestación del servicio de alumbrado público, así como el monto del costo del servicio prestado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPÍTULO III. De los Fondos de Aportaciones Federales y Estatales
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN I. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -513,13 +517,21 @@ La Auditoría Superior de la Federación, en el ámbito de sus atribuciones, rea
 
 Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales por el manejo o aplicación indebida de los recursos recibidos de los Fondos Federales señalados en este Capítulo, serán sancionados en los términos de los ordenamientos estatales y municipales correspondientes.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN II. DEL FONDO DE APORTACIONES ESTATALES
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ARTÍCULO 35 BIS. Con independencia de lo establecido en el Capítulo II de esta Ley, respecto de los recursos que los Municipios reciben del Fondo Participable y del Fondo de Gasolinas y Diesel, se establece una aportación estatal, como recurso que el Estado transfiere a los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para dicha aportación establece el presente artículo, para un Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, el cual se destinará a las inversiones públicas productivas de los Municipios.
 
 El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de lo que corresponde al Estado en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley.
 
-La distribución entre los municipios, del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales a que se refiere este artículo, se realizará conforme a lo dispuesto por los artículos 5° fracciones I, II, II.I y II.II, 7° y 12 de la presente Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La distribución del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se realizará entre los municipios de conformidad con la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 4]</small>
 
 La entrega del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, estará sujeto al resultado de la recaudación de los conceptos participables; a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio que efectúe la Federación para el Estado; a la cartera de proyectos que presenten respectivamente los Municipios para la aplicación y ejecución de dicho Fondo; y a los Lineamientos del Fondo que para tal efecto emita la Secretaría de Finanzas y Administración, en atención a las disposiciones jurídicas aplicables.
 
@@ -814,3 +826,11 @@ P.O. 28 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 118.- ARTÍCULO ÚNICO.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DE LOS FONDOS DE APORTACIONES FEDERALES Y ESTATALES; EL ARTÍCULO 35 BIS PÁRRAFO TERCERO Y; SE ADICIONA LA DENOMINACIÓN DE "LA SECCIÓN I DE LOS FONDOS DE APORTACIONES FEDERALES", ANTES DEL ARTÍCULO 23 Y LA DENOMINACIÓN DE "LA SECCIÓN II DE LOS FONDOS DE APORTACIONES ESTATALES", ANTES DEL ARTÍCULO 35 BIS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
