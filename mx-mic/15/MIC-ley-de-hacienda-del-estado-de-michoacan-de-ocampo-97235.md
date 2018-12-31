@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-97235"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2016-12-31"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 282, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, TODA REFERENCIA HECHA A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, SE ENTENDERÁ COMO HECHA A LA SECRETARÍA DE FINANZAS.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 282, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, TODA REFERENCIA HECHA A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, SE ENTENDERÁ COMO HECHA A LA SECRETARÍA DE FINANZAS.]
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Octagésima Sección, del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2013.
 
@@ -1128,3 +1130,33 @@ PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero del añ
 SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
 
 El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno, de conformidad con lo dispuesto por la primera parte del artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 116 POR EL QUE “SE EXPIDE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1º de enero de 2019, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda del Estado de Michoacán de Ocampo Publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 31 de Diciembre de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Cuando algún gravamen no se encuentre previsto en la presente Ley, pero se establezca en alguna Ley, Acuerdo, o Reglamento Estatal, respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos.
+
+Asimismo, cuando en alguna Ley, Acuerdo o Reglamento se establezca alguno de los ingresos previstos en esta Ley, y además señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+
+###### ARTÍCULO CUARTO.
+
+El 35 por ciento de honorarios, por los conceptos referidos en la fracción I, inciso A), numerales 2 y 3; inciso D), numerales 2, 3, 4 y 5; e Inciso E), numeral 1, del artículo 118 de esta Ley, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su (sic) Direcciones de Contabilidad, y de Operación de Fondos y Valores.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a los titulares de las Dependencias y Unidades Administrativas del Poder Ejecutivo del Estado, que las actividades que lleven a cabo como consecuencia de sus atribuciones les generen algún ingreso por la prestación de servicios que señala este ordenamiento, llámese derechos, productos, o aprovechamientos, así como cualquier otro ingreso que obtengan de la recaudación por cualquier concepto, deberán ser enterados y depositados a la Secretaría de Finanzas y Administración, en términos de lo previsto en el artículo Quinto Transitorio de la Ley de Ingresos del Estado de Michoacán de Ocampo para el ejercicio fiscal 2019.
+
+###### ARTÍCULO SEXTO.
+
+Los estímulos fiscales y económicos previstos para la zona económica especial de Lázaro Cárdenas- La Unión se aplicarán conforme a la presente Ley y demás disposiciones fiscales aplicables al origen u objeto generador del estímulo, incluyendo sus reformas, siempre que así lo permitan las mismas.
