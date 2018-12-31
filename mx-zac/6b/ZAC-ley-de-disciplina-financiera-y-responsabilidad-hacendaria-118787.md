@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11878
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "ZAC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -91,13 +89,19 @@ VII. Dependencias: las Secretarías de la Administración Pública Centralizada 
 
 VIII. Disciplina financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo, y la estabilidad del sistema financiero;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Bis. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
+
 IX. Entes Públicos: los Poderes Ejecutivo, Legislativo y Judicial, los órganos autónomos del Estado; los Municipios; los Organismos Descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
 X. Ejecutores del gasto: son los Entes Públicos que tengan control sobre sus decisiones o acciones, que realizan las erogaciones reguladas en esta Ley, con cargo al Presupuesto de Egresos;
 
 XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XII. Financiamiento neto: diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas de la Deuda pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XII. Financiamiento neto: la suma de las disposiciones realizadas de un financiamiento y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda pública;
 
 XIII. Fuente de pago: recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
@@ -120,6 +124,10 @@ XXI. Ingresos totales: la totalidad de los Ingresos provenientes de participacio
 XXII. Inversión pública productiva: toda erogación que se genere de conformidad a la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios;
 
 XXIII. Ley de Ingresos: la Ley de Ingresos del Estado o de los Municipios, aprobadas por la Legislatura del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Bis. Lineamiento: Lineamiento para la integración del Anteproyecto de Presupuesto de Egresos del Estado de Zacatecas, con perspectiva de Género y con base en el Modelo de Presupuesto basado en Resultados;
 
 XXIV. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
@@ -149,11 +157,9 @@ Las disposiciones de esta Ley tienen base y fundamento en las disposiciones cons
 
 A falta de disposición expresa en esta Ley, se aplicarán supletoriamente el Código Fiscal del Estado de Zacatecas y sus Municipios, la Ley de Hacienda del Estado de Zacatecas, la Ley de Hacienda Municipal del Estado de Zacatecas, la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Proceso de presupuestación.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -165,11 +171,9 @@ Gasto Público.
 
 El gasto público comprenderá las erogaciones por tipo de gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos, pensiones y jubilaciones y participaciones.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LOS ENTES PÚBLICOS DEBERÁN PLANEAR, PROGRAMAR, PRESUPUESTAR, CONTROLAR Y EVALUAR SUS ACTIVIDADES RESPECTO AL GASTO PÚBLICO. TRATÁNDOSE DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DEBERÁN EFECTUAR SUS ACTIVIDADES DE ACUERDO CON EL SECTOR PROGRAMÁTICO QUE LES CORRESPONDA EN TÉRMINOS DEL ACUERDO DE SECTORIZACIÓN QUE EMITA EL EJECUTIVO O DEL RESPECTIVO ACUERDO, DECRETO O LEY DE SU CREACIÓN.
+Los Entes Públicos deberán planear, programar, presupuestar, controlar y evaluar sus actividades respecto al gasto público. Tratándose de Organismos Públicos Descentralizados, deberán efectuar sus actividades de acuerdo con el sector programático que les corresponda en términos del Acuerdo de Sectorización que emita el Ejecutivo o del respectivo acuerdo, decreto o Ley de su creación.
 
 Los Entes Públicos responsables del Gasto están obligados a la transparencia y rendición de cuentas, de la administración de los recursos públicos, en los términos de esta Ley y demás disposiciones aplicables
 
@@ -203,13 +207,25 @@ La Ley de Ingresos y el Decreto del Presupuesto de Egresos del Estado, se formul
 
 El gasto total propuesto por el Ejecutivo del Estado, y el propuesto por los Municipios, en sus correspondientes iniciativas de Ley de Ingresos y Proyecto de Presupuesto de Egresos, será aquél que apruebe la Legislatura del Estado o los Ayuntamientos de los Municipios, respectivamente, para que se ejerza durante el ejercicio fiscal y deberá contribuir al Balance presupuestario sostenible.
 
-Los Entes Públicos elaborarán sus respectivos proyectos de presupuestos de egresos, conforme a lo establecido en esta Ley, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el CONAC, con base en objetivos, parámetros cuantificables e indicadores del desempeño, y deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los Entes Públicos elaborarán sus respectivos proyectos de presupuestos de egresos, conforme a lo establecido en esta Ley, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el CONAC, con base en objetivos, parámetros cuantificables e indicadores del desempeño, y deberán ser congruentes con el Plan Estatal de Desarrollo, los programas derivados del mismo y el Lineamiento.
 
 El proyecto de presupuesto de egresos de los Entes Públicos será integrado por la Secretaría, atendiendo a la proyección futura de disponibilidad presupuestaria estatal en un solo documento que conformará la iniciativa de Decreto del Presupuesto de Egresos del Estado, el que se enviará a la Legislatura del Estado, por conducto del Ejecutivo, para su análisis, discusión y aprobación, a más tardar el treinta de noviembre del año inmediato anterior a su ejecución.
 
-Para tales efectos, los Entes Públicos enviarán sus respectivos proyectos de presupuesto de egresos a la Secretaría a más tardar el décimo día hábil del mes de octubre del año inmediato anterior al que deban ejercerse, y deberá ser formulado atendiendo a todas las leyes que regulan su construcción y bajo los principios de disciplina financiera.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para tales efectos, los Entes Públicos enviarán sus respectivos proyectos de presupuesto de egresos a la Secretaría a más tardar el último día hábil del mes de septiembre del año inmediato anterior al que deban ejercerse, y deberá ser formulado atendiendo a todas las leyes que regulan su construcción y bajo los principios de disciplina financiera.
 
 La omisión en la presentación del proyecto de presupuesto de los Entes Públicos en el término fijado, facultará a la Secretaría a elaborarlo con base en estimaciones históricas y proyecciones futuras. La Secretaría podrá modificar el proyecto de presupuesto que presenten los Entes Públicos, de acuerdo con las circunstancias financieras que presente el Estado y las proyecciones futuras de disponibilidad presupuestaria estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En los casos en que la Legislatura del Estado apruebe la Ley de Ingresos y Presupuestos de Egresos del Estado después de la publicación de la Ley de Ingresos de la Federación y el Presupuesto de Egresos de la Federación, las estimaciones de participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la Ley de Ingresos y Presupuesto de la Federación, del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para aquellas Transferencias federales etiquetadas cuya distribución no se encuentre disponible en el Presupuesto de Egresos de la Federación, se podrá realizar una estimación con base en los Criterios Generales de Política Económica, el monto nacional y la distribución realizada en ejercicios fiscales anteriores.
 
 Presupuesto de Egresos para obtener un balance presupuestario sostenible.
 
@@ -263,11 +279,13 @@ Tipo y fuente de recursos.
 
 La Secretaría, al hacer la integración de los proyectos de presupuestos de egresos, cuidará que simultáneamente se defina el tipo y fuente de recursos para el financiamiento y que se ajusten a las previsiones del proyecto de Ley de Ingresos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 Ley de Ingresos y Presupuesto de Egresos del Estado.
 
 ###### Artículo 16.
 
-La Secretaría es la dependencia competente para elaborar los proyectos de (sic) Ley de Ingresos y el Decreto del Presupuesto de Egresos del Estado, los cuales deberán contener apartados específicos con la información siguiente:
+La Secretaría es la dependencia competente para elaborar las iniciativas de Ley de Ingresos y de Decreto del Presupuesto de Egresos de los Entes públicos que correspondan, los cuales deberán contener apartados específicos con la información siguiente:
 
 A. Ley de Ingresos:
 
@@ -277,11 +295,17 @@ II. Las obligaciones de garantía o pago causante de deuda pública u otros pasi
 
 B. Decreto del Presupuesto de Egresos:
 
-I. Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de Asociaciones Público-Privadas y proyectos de prestación de servicios, entre otros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. El listado de programas, así como sus indicadores estratégicos y de gestión aprobados, y
+I. Las prioridades de gasto, los programas y proyectos deberán contemplar la perspectiva de género, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de Asociaciones Público-Privada; proyectos de prestación de servicios; subsidios y ayudas sociales; medidas de mitigación y adaptación del cambio climático; y desastres naturales, entre otros;
 
-III. La aplicación de los recursos conforme a las clasificaciones administrativa, funcional, programática, económica y, en su caso, geográfica y sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. El listado de programas y su asignación, así como sus indicadores estratégicos y de gestión aprobados, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. La aplicación de los recursos conforme a la clasificación administrativa, clasificación funcional y programática, la clasificación económica, por objeto del gasto a nivel capítulo, concepto y partida genérica y, en su caso, geográfica con sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
 
 En el proceso de integración de la información financiera para la elaboración de los presupuestos se deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -299,25 +323,89 @@ V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como míni
 
 La Ley de Ingresos y el Decreto del Presupuesto de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Facultad de la Secretaría para formular proyectos de presupuesto.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-La Secretaría está facultada para formular el Proyecto de Presupuesto de Egresos de las entidades y dependencias del Poder Ejecutivo cuando éstas no los presentaran en el plazo que establece esa Ley, o en los casos en que habiendo presentado no se apeguen a las disposiciones legales emitidas para tal efecto. En el caso de los demás Entes Públicos, les asignará el presupuesto aprobado para el ejercicio fiscal inmediato anterior. La omisión señalada en este articulo será informada a la Secretaría de la Función Pública o al órgano interno de control del Ente Público incumplido, para los efectos de responsabilidad administrativa de los servidores públicos.
+La Secretaría está facultada para formular el Proyecto de Presupuesto de Egresos de las entidades y dependencias del Poder Ejecutivo cuando éstas no los presentaran en el plazo que establece esa Ley, o en los casos en que habiendo presentado no se apeguen a las disposiciones legales emitidas para tal efecto. En el caso de los demás Entes Públicos, les asignará el presupuesto aprobado para el ejercicio fiscal inmediato anterior. La omisión señalada en este artículo será informada a la Secretaría de la Función Pública o al órgano interno de control del Ente Público incumplido, para los efectos de responsabilidad administrativa de los servidores públicos.
 
 Impacto presupuestario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de leyes o decretos que se presenten a la consideración de la Legislatura del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+El Ejecutivo del Estado, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de leyes o decretos que se presenten a la consideración de la Legislatura del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo y además impliquen costos para su implementación.
 
 Todo proyecto de ley o decreto que sea sometido a votación del Pleno de la Legislatura del Estado, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
 
 La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación estatal, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría deberá emitir los Lineamientos para la Evaluación del Impacto Presupuestario de los proyectos de iniciativas de leyes o decretos y demás disposiciones administrativas, a que hace referencia el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Estimación impacto presupuestario
+
+###### Artículo 18 Bis.
+
+Las Dependencias y Entes Públicos deberán contar con una estimación de la Secretaría sobre el impacto presupuestario a que se refiere el artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 18 de esta Ley.
+
+Los proyectos de disposiciones administrativas que así lo requieran, deberán contar con la autorización sobre la estructura orgánica y ocupacional de la Dependencia o Entes Públicos de que se trate, que apruebe la Secretaría de la Función Pública o su equivalente en los Municipios, previo dictamen presupuestal favorable que emita la Secretaría o su equivalente municipal, en términos de las leyes señalas (sic) en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Evaluación del impacto presupuestario
+
+###### Artículo 18 Ter.
+
+Las Dependencias y Entes Públicos que presenten proyectos en términos del artículo anterior, en términos de lo dispuesto por el artículo 18 de esta Ley, realizarán una evaluación sobre su impacto presupuestario en los términos de los Lineamientos que establezca la Secretaría.
+
+La evaluación del impacto presupuestario considerará, cuando menos, los aspectos siguientes:
+
+I. Impacto en el gasto de las Dependencias y Entes Públicos por la creación, extinción, modificación o fusión de unidades administrativas y plazas o, en su caso, creación de nuevos Entes Públicos, Dependencias o unidades administrativas;
+
+II. Impacto presupuestario en los programas aprobados de las Dependencias y entidades;
+
+III. Determinación de destinos específicos de gasto público. En este caso, solamente podrán preverse destinos específicos en ordenamientos de naturaleza fiscal;
+
+IV. Establecimiento de nuevas atribuciones y actividades que deberán realizar las dependencias y entidades que requieran de mayores asignaciones presupuestarias para llevarlas a cabo, y
+
+V. Inclusión de disposiciones generales que incidan en la regulación en materia presupuestaria.
+
+Las Dependencias y Entes Públicos deberán estimar el costo total del proyecto respectivo con base en los aspectos señalados en las fracciones anteriores, para lo cual, podrán tomar como referencia el costo que hayan tenido reformas similares o semejantes. Asimismo, señalarán si los costos serán financiados con sus propios presupuestos y sin generar presiones de gasto en los subsecuentes ejercicios fiscales. En caso de tener impacto en su presupuesto, los Entes Públicos y Dependencias deberán señalar la posible fuente de financiamiento de los nuevos gastos en términos del artículo 20 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Requisitos impacto presupuestario
+
+###### Artículo 18 Quáter.
+
+La Secretaría o su equivalente en los municipios, emitirá la estimación del impacto presupuestario de los proyectos a que se refiere el artículo 18 de esta ley.
+
+Los Entes Públicos y Dependencias presentarán a la Secretaría, por conducto de su unidad o área jurídica correspondiente, la solicitud acompañada del proyecto y de la evaluación de impacto presupuestario respectiva, suscrita por los servidores públicos competentes de sus coordinaciones administrativas o sus equivalentes.
+
+Cuando algún proyecto tenga impacto presupuestario en dos o más Dependencias o entidades, o en una distinta de la responsable de su elaboración, las evaluaciones de impacto correspondientes deberán estar suscritas por los servidores públicos competentes de cada Dependencia o entidad involucrada; el responsable de la elaboración del proyecto será el encargado de integrar las distintas evaluaciones. Lo anterior, con excepción de los proyectos que establezcan regulación aplicable para la Administración Pública, caso en el cual, la Dependencia competente para elaborar dicho proyecto será la responsable de presentar y suscribir la evaluación de impacto correspondiente.
+
+La Secretaría o sus equivalentes en los municipios, emitirá su estimación de impacto presupuestario, en un plazo que no excederá de 20 días hábiles, contados a partir del día siguiente a la presentación de la documentación señalada en los párrafos anteriores.
+
+Cuando la Secretaría reciba una solicitud que no reúna los requisitos a que se refiere la presente Ley, podrá solicitar a los Entes Públicos o Dependencias para que en un plazo de tres días hábiles, subsane la información, en cuyo caso se suspenderá el plazo a que se refiere el párrafo anterior; de no subsanarse las omisiones en el plazo otorgado, se tendrá por no presentada dicha solicitud.
+
+La Secretaría o sus equivalentes en los municipios, podrá emitir recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a dictamen que incidan en el ámbito presupuestario, cuando así lo considere.
+
+Tanto la evaluación como la estimación correspondiente se anexarán a la iniciativa de ley o decreto que se presente a la Legislatura del Estado o, en su caso, a las disposiciones administrativas a que se refiere el artículo 18 Bis de la presente Ley que se sometan a firma del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Revisión legal de proyectos
+
+###### Artículo 18 Quinquies.
+
+Los Entes Públicos y Dependencias, previo a la presentación de iniciativas de leyes, decretos o disposiciones administrativas, a que hace referencia el primer párrafo del artículo 18 de esta Ley, que realicen ante la Coordinación General Jurídica del Gobierno del Estado para la revisión legal y, en su caso, aprobación, deberán acompañar la evaluación y estimación de impacto presupuestario.
 
 Presentación de Ley de Ingresos y Presupuesto de Egresos.
 
@@ -325,11 +413,13 @@ Presentación de Ley de Ingresos y Presupuesto de Egresos.
 
 Los plazos de presentación y aprobación de la Ley de Ingresos y el Decreto de Presupuesto de Egresos del Estado a la Legislatura del Estado, serán los establecidos en la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 Correspondencia de ingreso y gasto.
 
 ###### Artículo 20.
 
-A toda proposición de aumento o creación de gasto del Presupuesto de Egresos deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente fuente de ingresos distinta al Financiamiento o compensarse con reducciones en otras previsiones de gasto.
 
 No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. El Estado y los municipios deberán revelar, en la cuenta pública y en los informes que periódicamente entreguen a la Legislatura del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
@@ -409,7 +499,9 @@ I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, conta
 
 II. Podrán realizar erogaciones adicionales a las aprobadas en el Decreto del Presupuesto de Egresos con cargo a los Ingresos excedentes que obtengan y con la autorización previa de la Secretaría o sus equivalentes;
 
-III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso de Gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la legislación aplicable a la materia.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso de Gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la legislación aplicable a la materia y sea financiado con Ingresos de libre disposición.
 
 Para los propósitos señalados en el párrafo anterior, la Coordinación Estatal de Planeación, en el caso del Poder Ejecutivo evaluará el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como integrará y administrará el registro de proyectos de inversión pública productiva del Estado.
 
@@ -419,15 +511,19 @@ Dichas evaluaciones deberán ser públicas a través de la página oficial de In
 
 IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
 
-V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-La Secretaría, en coordinación con la Secretaría de Administración y sus equivalentes en los Entes Públicos que no sean el Poder Ejecutivo, contará con un sistema de registro y control de las erogaciones de servicios personales;
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal, salvo con autorización de la Secretaría o el Cabildo en tratándose de los Municipios, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el artículo 54 de esta Ley. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Secretaría, en coordinación con la Secretaría de Administración y sus equivalentes en los Entes Públicos que no sean el Poder Ejecutivo, contará con un sistema de registro y control presupuestal de las erogaciones de servicios personales;
 
 VI. Deberán tomar medidas para racionalizar el Gasto corriente. Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance presupuestario de recursos disponibles negativo y, en segundo lugar, a los programas prioritarios del Estado;
 
 VII. En materia de subsidios, se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente. La información señalada en el párrafo anterior deberá hacerse pública a través de la (sic) páginas oficiales de Internet de la Secretaría o sus equivalentes, y
 
-VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las transferencias federales etiquetadas se estará a lo dispuesto en el artículo 39 de esta Ley.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos comprometidos o efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el artículo 39 de esta Ley.
 
 En el caso de los Municipios y otros Entes Públicos diferentes al Poder Ejecutivo, deberán observar lo previsto en este artículo. Lo anterior, con excepción de la fracción III, segundo párrafo, del presente artículo la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Las autorizaciones que se señalan en las fracciones de este artículo serán realizadas por las Tesorerías Municipales correspondientes o equivalentes.
 
@@ -437,7 +533,13 @@ Destino de ingresos excedentes.
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado y de los municipios, deberán ser destinados a los siguientes conceptos:
 
-I. Por lo menos el 50% para la amortización anticipada de la deuda pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Para la amortización anticipada de la deuda pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones, conforme a lo siguiente:
+
+a) Cuando el Estado se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50%, y
+
+b) Cuando el Estado se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30%;
 
 II. En su caso, el remanente para:
 
@@ -447,6 +549,14 @@ b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de
 
 Los ingresos excedentes derivados de Ingresos de libre disposición del Estado y de los municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, podrá utilizar hasta un 5% de los recursos a los que se refiere el presente artículo para cubrir Gasto corriente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en el presente artículo.
+
 Análisis mensual de ingresos de libre disposición.
 
 ###### Artículo 28.
@@ -455,13 +565,19 @@ Para los efectos del artículo anterior, se deberá llevar a cabo un análisis m
 
 De acuerdo con los resultados obtenidos durante el ejercicio fiscal, se deberán realizar las acciones presupuestales correspondientes, conforme a lo siguiente:
 
-I. Primer Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 7.5% del importe estimado acumulado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Segundo Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 5% del importe estimado acumulado;
+I. Primer Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 4.5% del importe estimado acumulado;
 
-III. Tercer Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 2.5% del importe estimado acumulado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. Cuarto Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 1% del importe estimado acumulado.
+II. Segundo Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 3% del importe estimado acumulado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Tercer Trimestre, se realizarán ampliaciones o reducciones siempre y cuando la variación hacia arriba o hacia abajo, sea superior al 1.5% del importe estimado acumulado, y
+
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ## TÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO ESTATAL
 
@@ -469,7 +585,7 @@ IV. Cuarto Trimestre, se realizarán ampliaciones o reducciones siempre y cuando
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-EJERCICIO DEL GASTO DEL PODER EJECUTIVO.
+Ejercicio del gasto del Poder Ejecutivo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -483,11 +599,9 @@ A LAS DEPENDENCIAS DEL PODER EJECUTIVO DEL ESTADO, LA SECRETARÍA LE REALIZARÁ 
 
 EXCEPCIONALMENTE Y PARA EFECTOS DE AGILIZAR LA EJECUCIÓN DE LOS RECURSOS PÚBLICOS, LA SECRETARÍA PODRÁ EFECTUAR LAS TRANSFERENCIAS DE RECURSOS A LAS DEPENDENCIAS CON BASE EN EL PRESUPUESTO DE EGRESOS Y DE ACUERDO CON LOS CALENDARIOS DE MINISTRACIÓN CORRESPONDIENTES, DE PROGRAMAS O FONDOS ESPECÍFICOS, A UNA CUENTA PRODUCTIVA Y ESPECÍFICA A CARGO DEL TITULAR Y EL COORDINADOR ADMINISTRATIVO, DE LOS QUE SERÁN ESTRICTAMENTE RESPONSABLES DE SU EJECUCIÓN, CONFORME A ESTA LEY, Y DENTRO DEL MARCO LEGAL QUE LOS REGULA CONFORME A SU NATURALEZA Y A LA FUENTE DE FINANCIAMIENTO ASÍ COMO A LOS PLAZOS DE EJECUCIÓN. PARA SU EJERCICIO ATENDERÁN LAS NORMAS Y POLÍTICAS DEL EJERCICIO DEL GASTO QUE EMITA LA COMISIÓN INTERSECRETARIAL DE GASTO-FINANCIAMIENTO.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LA SECRETARÍA PODRÁ HACER USO DE LOS SUBEJERCICIOS, CUANDO ESTOS TENGAN UNA ANTIGÜEDAD DE 30 DÍAS Y NO HAYAN SIDO JUSTIFICADOS POR LAS DEPENDENCIAS O ENTES PÚBLICOS, EN ESTE CASO SERÁN REASIGNADOS A PROGRAMAS PRIORITARIOS EMITIDOS POR EL TITULAR DEL EJECUTIVO A TRAVÉS DE LA SECRETARÍA.
+La Secretaría podrá hacer uso de los subejercicios, cuando estos tengan una antigüedad de 30 días y no hayan sido comprometidos por las dependencias o Entes Públicos, en este caso serán reasignados a programas prioritarios emitidos por el titular del Ejecutivo a través de la Secretaría.
 
 Ejercicio del gasto público de otros Entes Públicos.
 
@@ -495,11 +609,17 @@ Ejercicio del gasto público de otros Entes Públicos.
 
 Los Poderes Legislativo y Judicial, los órganos Autónomos, los Organismos descentralizados y los Municipios, para el fortalecimiento de su autonomía, ejecutarán su presupuesto a través de sus propias unidades de administración o coordinaciones administrativas o equivalentes y bajo su más estricta responsabilidad; corresponde a sus titulares la rectoría en la ejecución de los recursos públicos bajos (sic) la normatividad que los regula.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 Transferencias de recursos.
 
 ###### Artículo 31.
 
-La Secretaría efectuará las transferencias de recursos a los Entes Públicos con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; estos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos a través de sus estructuras administrativas; los Entes Públicos deberán atender la Ley General de Contabilidad Gubernamental para la contabilización de su gasto y la emisión de su información financiera.
+La Secretaría en su carácter de ente administrador y con efectos de suficiencia presupuestal, efectuará las transferencias de recursos a los Entes Públicos en su calidad de entes ejecutores del gasto con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; éstos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos a través de sus estructuras administrativas o coordinaciones administrativas; los Entes Públicos deberán atender la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones relativas a la contabilización de su gasto y la emisión de su información financiera.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de que la Secretaría realice pagos a nombre de los Entes Públicos o Dependencias por cualquier concepto, para dar cumplimiento a resoluciones judiciales, jurisdiccionales o administrativas, éstas deberán reintegrarse a la Secretaría mediante la afectación de sus partidas presupuestales.
 
 ### Capítulo II. Obligaciones en materia presupuestaria y ejercicio del gasto público
 
@@ -551,9 +671,7 @@ Las partidas del presupuesto podrán ampliarse por el Ejecutivo del Estado en el
 
 Por ingresos extraordinarios entre otros, se entenderán:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. Remanentes que tengan los organismos descentralizados, entre sus ingresos y egresos netos, que se consignen como erogaciones recuperables dentro de sus presupuestos;
 
@@ -565,21 +683,17 @@ V. Los provenientes de los acuerdos y convenios que el Estado celebre con el Eje
 
 El ejercicio de los mencionados recursos extraordinarios se considerará de ampliación automática, por lo que el Ejecutivo del Estado deberá informar a la Legislatura del Estado de las correspondientes asignaciones, transferencias y aplicaciones, cuando rinda la Cuenta Pública de cada ejercicio fiscal.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Ingresos extraordinarios y su asignación.
 
-> <small>(REFORMADO [N. DE E ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 35.
+###### Artículo 35.
 
-TRATÁNDOSE DE INGRESOS EXTRAORDINARIOS:
+Tratándose de ingresos extraordinarios:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-EN USO DE SUS FACULTADES EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARÍA, PODRÁ ASIGNAR LOS RECURSOS EXTRAORDINARIOS, A LOS PROGRAMAS QUE CONSIDERE PRIORITARIOS Y QUE CONTRIBUYAN AL BALANCE PRESUPUESTARIO.
+En uso de sus facultades el Ejecutivo del Estado, por conducto de la Secretaría, podrá asignar los recursos extraordinarios, a los programas que considere prioritarios y que contribuyan al balance presupuestario.
 
 De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará a la Legislatura del Estado al rendir la cuenta pública estatal.
 
@@ -637,13 +751,57 @@ Remanentes y economías presupuestarias.
 
 Las dependencias del Poder Ejecutivo y los Organismos descentralizados del Ejecutivo que por cualquier motivo, al término del ejercicio fiscal que corresponda, conserven recursos presupuestarios, los reintegrarán a la Secretaría dentro de los primeros cinco días hábiles del mes de enero inmediato siguiente, con los rendimientos obtenidos en su caso.
 
-Cuando finalizado el ejercicio fiscal, las dependencias no hubieren comprometido, devengado o ejercido, algún recurso en los términos de la normativa que regula dichos recursos, quedará cancelada su ejecución, a menos que se trate de compromisos u obligaciones plurianuales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Devengo como condición de pago.
+Cuando finalizado el ejercicio fiscal, las dependencias no hubieren comprometido o devengado, algún recurso en los términos de la normativa que regula dichos recursos, quedará cancelada su ejecución, a menos que se trate de compromisos u obligaciones plurianuales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Queda prohibido establecer fondos de contingencias o con cualquier otra denominación que tenga por objeto o como propósito evitar el reintegro de recursos no comprometidos o devengados al final del ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del presupuesto que tengan por objeto evitar la concentración de recursos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría queda facultada para crear las provisiones o pasivos que representen compromisos formales de pago o gasto, adquisiciones devengadas, la construcción de obras públicas, pedidos debidamente fincados a proveedores de bienes o servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Devengo como condición de pago
 
 ###### Artículo 41.
 
-Una vez concluida la vigencia de los presupuestos de egresos del Estado, sólo procederá hacer pagos con base en el presupuesto de egresos inmediato anterior, por los conceptos efectivamente devengados a más tardar el 31 de diciembre del año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes.
+Una vez concluida la vigencia de un presupuesto de egresos del Estado, sólo procederá hacer pagos, con base en éste, por los conceptos comprometidos o efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y hayan estado contempladas en dicho presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las erogaciones previstas en el presupuesto de egresos que no se encuentren comprometidas o devengadas al 31 de diciembre, no podrán ejercerse.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+No podrán ejercerse las erogaciones previstas en el presupuesto de egresos que no se encuentren comprometidas o devengadas al 31 de diciembre del ejercicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Sin perjuicio de lo anterior, los subsidios federales y Transferencias federales etiquetadas que, al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer trimestre del ejercicio fiscal siguiente, o bien, de conformidad con el calendario de ejecución establecido en el convenio correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la Tesorería de la Federación, a más tardar dentro de los 15 días naturales siguientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los Poderes Legislativo y Judicial, los órganos autónomos, las dependencias, así como las entidades respecto a las transferencias federales etiquetadas que reciban, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Tesorería de la Federación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las Transferencias federales etiquetadas que reciban los Entes Públicos y Dependencias, que por cualquier motivo al 31 de diciembre del ejercicio fiscal que corresponda, no se hayan comprometido o devengado, deberán reintegrar a la Tesorería de la Federación el importe disponible, incluyendo los rendimientos obtenidos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para los efectos de este artículo, se entenderá que el Estado ha devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Queda prohibido realizar erogaciones al final del ejercicio fiscal con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
 
 Prohibición de contraer obligaciones de subsecuentes ejercicios fiscales.
 
@@ -651,17 +809,23 @@ Prohibición de contraer obligaciones de subsecuentes ejercicios fiscales.
 
 Los Entes Públicos no deben contraer obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios fiscales, así como la celebración de contratos, convenios, el otorgamiento de concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga que impliquen la posibilidad de algún gasto contingente o adquirir obligaciones futuras, salvo con la previa autorización de la Secretaría o su equivalente y que alguna otra Ley lo permita o que se trate de contratos plurianuales que se celebren en términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En el caso de documentos contractuales se suscribirán con vigencia anual y deberá establecerse en ellos la instancia ejecutora, no procederá la renovación automática y deberán atender a lo convenido en el calendario de ejecución establecido en el documento contractual respectivo, debiendo sujetarse a la verificación previa condicionada de disponibilidad financiera prevista en el artículo 44 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En el caso de que no sea posible especificar la instancia ejecutora deberán celebrarse convenios interinstitucionales de delimitación de competencias entre las Dependencias de la administración pública estatal, en su caso, con la participación de las entidades paraestatales que correspondan para determinar la instancia ejecutora de los recursos. Del mismo modo podrá procederse, en tratándose de modificación a compromisos de la competencia de dependencias y entidades que provengan de convenios en los cuales no se haya podido establecer el alcance de los mismos.
+
 Para el Poder Ejecutivo, en casos excepcionales, debidamente justificados, el Ejecutivo del Estado podrá recomendar, a través de la Comisión lntersecretarial Gasto-Financiamiento, que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año correspondiente.
 
 En estos casos los compromisos excedentes no cubiertos quedarán sujetos para los fines de su liquidación y pago a la disponibilidad presupuestal del año o años subsecuentes, haciéndose mención de ellos en la siguiente o siguientes iniciativas de Decreto del Presupuesto de Egresos del Estado.
 
 En los casos de los pagos que se generen en cumplimiento de los contratos de obligaciones que se deriven de esquemas de Asociaciones Público-Privadas, éstos se regirán por lo establecido en la Constitución Política del Estado Libre y Soberano de Zacatecas, la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios y legislación de la materia.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Celebración de convenios.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
 
@@ -669,11 +833,9 @@ Los Entes Públicos podrán celebrar convenios de coordinación, colaboración, 
 
 Cuando se trata de mezcla de recursos estatales, la celebración de estos convenios, deberá tener la aprobación presupuestaria de la Secretaría, evitando comprometer recursos que excedan la capacidad financiera del ente público, y en todos los casos, atenderá a la disponibilidad financiera, suficiencia presupuestaria y flujo de efectivo, contenidos en sus propios presupuestos autorizados para el ejercicio fiscal correspondiente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Aprobación para celebración de contratos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
@@ -721,7 +883,9 @@ Serán consideradas instancias ejecutoras de estos recursos, aquellas dependenci
 
 Las dependencias y entidades ejecutoras de gasto deberán ajustar su actuación a lo establecido en las leyes, reglamentos, lineamientos, reglas de operación y demás marco jurídico aplicable y, en su caso, a los convenios que al efecto se celebren.
 
-En el supuesto de que al término del ejercicio fiscal existan recursos no devengados, independientemente del origen de los mismos, la instancia ejecutora deberá informar a la Secretaría dentro de los 5 días hábiles siguientes al cierre del ejercicio, con el propósito de que ésta proceda, en su caso, al reintegro o devolución del recurso no devengado a la Tesorería de la Federación, cuando sea procedente por mandato del precitado marco jurídico o contractual.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En el supuesto de que al término del ejercicio fiscal existan recursos no devengados, independientemente del origen de los mismos, la instancia ejecutora deberá a la Secretaría al cierre del ejercicio, con el propósito de que ésta proceda, en su caso, al reintegro o devolución del recurso no devengado a la Tesorería de la Federación, cuando sea procedente por mandato del precitado marco jurídico o contractual.
 
 Ejecutores del gasto, diferentes del Poder Ejecutivo.
 
@@ -741,11 +905,9 @@ La Secretaría podrá entregar adelantos de participaciones a los Municipios, pr
 
 La Secretaría podrá autorizar o negar las peticiones a que se refiere el párrafo anterior, en función de la situación de las finanzas públicas del Gobierno del Estado y del resultado que arroje el análisis practicado a la capacidad financiera del Municipio, Entidad u Organismo solicitante.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LOS RECURSOS SERÁN TRANSFERIDOS POR LA SECRETARÍA A LOS MUNICIPIOS PREVIA FIRMA DEL CONVENIO DE TRANSFERENCIA DE LOS RECURSOS PÚBLICOS ESTATALES, CON LA TRANSFERENCIA DEL RECURSO, LA SECRETARÍA EFECTUARÁ EL MOMENTO CONTABLE DEL EGRESO PAGADO.
+Los recursos serán transferidos por la Secretaría a los municipios previa firma del convenio de transferencia de los recursos públicos estatales, con la transferencia del recurso, la Secretaría efectuará el momento contable del egreso pagado.
 
 ### Capítulo III. Prohibiciones en materia de ejecución del gasto
 
@@ -756,6 +918,38 @@ Prohibición para fungir como ejecutores del gasto.
 La Secretaría y los servidores públicos adscritos a ésta, en ningún caso podrán tener el carácter de instancia ejecutora o fungir con ese mismo carácter por la ministración de los recursos pertenecientes a los fondos de aportaciones federales, gasto federalizado, gasto concurrente o paripassu, ni en ningún otro recurso federal o estatal de los establecidos en esta Ley.
 
 El correcto ejercicio de los recursos destinados a infraestructura, obras, adquisiciones de bienes y servicios, acciones y programas desde el proceso de adjudicación, contratación y entrega será de la exclusiva responsabilidad de la dependencia u organismo público descentralizado ejecutora de los recursos, quien a su vez deberá obtener la documentación comprobatoria del ejercicio de tales recursos conforme a la legislación, convenio o contrato que le sea aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los municipios no podrán destinar recursos públicos para ferias, bailes, fiestas patronales, eventos, torneos deportivos u otros de naturaleza análoga cuando tengan fines de lucro, con excepción de los eventos culturales que estén debidamente presupuestados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Dicha limitante no opera cuando se cumplan los siguientes supuestos:
+
+I. Cuando los recursos públicos que se destinen a los eventos feriales, serán hasta de un 20% de sus ingresos de libre disposición producto de su esfuerzo recaudatorio, sin considerar los ingresos que provengan o tengan su origen de los fondos de participaciones y aportaciones federales;
+
+II. Cuando el ejercicio de los recursos públicos que se destinen a los eventos feriales estén debidamente presupuestados;
+
+III. Cuando no se ponga en riesgo la prestación de los servicios públicos establecidos en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, 119 de la propia del Estado, las que le confieran las leyes generales y otras disposiciones legales; y
+
+IV. Cuando el equilibrio financiero o balance presupuestario del Municipio no se ponga en riesgo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para acreditar los supuestos a que se refieren las fracciones anteriores, deberá contarse con el dictamen aprobatorio del ayuntamiento que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los recursos destinados para este fin deberán justificarse en la cuenta pública y los informes que presente el Municipio respectivo, de acuerdo con la Ley de Fiscalización y Rendición de Cuentas del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los patronatos, comités, asociaciones o cualquier otro ente, sea cual fuere su denominación, así como las personas físicas que organicen, realicen, administren o ejecuten actividades con recursos públicos por cuenta de los Municipios, así como la Feria Nacional de Zacatecas, deberán sujetarse, en lo conducente, a la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones relativas a la contabilización de su gasto y la emisión de su información financiera.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El incumplimiento de estas disposiciones será sancionado en los términos de la Ley General de Responsabilidades Administrativas, la presente Ley y otros ordenamientos aplicables.
 
 Responsabilidades para los ejecutores del gasto
 
@@ -771,11 +965,13 @@ Servicios personales.
 
 ### Capítulo 1000 del gasto público
 
-Sistema de registro y control presupuestario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Sistema de registro y control presupuestario
 
 ###### Artículo 52.
 
-Para el Poder Ejecutivo, la Secretaría será responsable de establecer y operar un sistema de registro y control presupuestario de los servicios personales con el fin de optimizarlos; este se enlazará con el sistema integral de información financiera del Poder Ejecutivo.
+Para el Poder Ejecutivo, la Secretaría será responsable de establecer y operar un sistema de registro y control presupuestario de los servicios personales con el fin de optimizarlos.
 
 Los Poderes Legislativo y Judicial, los Órganos Autónomos y los Municipios, deberán contar con su propio sistema de registro y control presupuestario de servicios personales con el mismo fin.
 
@@ -785,29 +981,21 @@ Dictámenes presupuestales.
 
 La Secretaría deberá emitir los dictámenes presupuestales antes de la aprobación de las estructuras orgánicas y ocupacionales de las dependencias y entidades.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Tratándose de estructuras orgánicas de nueva creación, las dependencias y los organismos públicos descentralizados, enviarán a la Coordinación General Jurídica y la Secretaría de la Función Pública, la propuesta adjuntando un proyecto de impacto presupuestario, debidamente firmados por los titulares y coordinadores administrativos, para que éstas otorguen su autorización.
 
-TRATÁNDOSE DE ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN, LAS DEPENDENCIAS Y LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, ENVIARÁN A LA COORDINACIÓN GENERAL JURÍDICA Y LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, LA PROPUESTA ADJUNTANDO UN PROYECTO DE IMPACTO PRESUPUESTARIO, DEBIDAMENTE FIRMADOS POR LOS TITULARES Y COORDINADORES ADMINISTRATIVOS, PARA QUE ÉSTAS OTORGUEN SU AUTORIZACIÓN.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La Secretaría de Finanzas, podrá autorizar la disponibilidad presupuestaria de estructuras orgánicas de nueva creación siempre y cuando exista suficiencia de recursos disponibles para tal fin y cumpla con las obligaciones en materia de servicios personales que alude esta Ley.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-LA SECRETARÍA DE FINANZAS, PODRÁ AUTORIZAR LA DISPONIBILIDAD PRESUPUESTARIA DE ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN SIEMPRE Y CUANDO EXISTA SUFICIENCIA DE RECURSOS DISPONIBLES PARA TAL FIN Y CUMPLA CON LAS OBLIGACIONES EN MATERIA DE SERVICIOS PERSONALES QUE ALUDE ESTA LEY.
+Las estructuras orgánicas de nueva creación deberán conformarse preferentemente con el personal que ya se encuentre laborando en el Gobierno del Estado mediante las reasignaciones que designe la Secretaría de Administración, optimizando los recursos humanos y perfiles profesionales existentes.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LAS ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN DEBERÁN CONFORMARSE PREFERENTEMENTE CON EL PERSONAL QUE YA SE ENCUENTRE LABORANDO EN EL GOBIERNO DEL ESTADO MEDIANTE LAS REASIGNACIONES QUE DESIGNE LA SECRETARÍA DE ADMINISTRACIÓN, OPTIMIZANDO LOS RECURSOS HUMANOS Y PERFILES PROFESIONALES EXISTENTES.
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LOS ENTES PÚBLICOS, DEBERÁN ATENDER DE IGUAL MANERA LOS PÁRRAFOS ANTERIORES, A TRAVÉS DE SUS UNIDADES DE ADMINISTRACIÓN.
+Los Entes Públicos, deberán atender de igual manera los párrafos anteriores, a través de sus unidades de administración.
 
 Obligaciones en materia de servicios personales.
 
@@ -889,6 +1077,10 @@ I. Sujetarse a los tabuladores de sueldos o remuneraciones autorizados por la Le
 
 Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión que deberá ser proporcional a sus responsabilidades;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos que no sean incompatibles entre sí; que su remuneración sea producto de las condiciones generales de trabajo; derivado de un trabajo técnico calificado o por especialización en su función, en estos casos la suma de dichas retribuciones, no deberá exceder la mitad de la remuneración establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado, en términos del artículo 160 de la Constitución Política del Estado Libre y Soberano de Zacatecas;
+
 II. En el caso del Poder Ejecutivo, todos los pagos relativos al capítulo 1000 de servicios personales, del clasificador por objeto del gasto emitido por el CONAC, correspondientes a las dependencias centralizadas, deberán contar con la aprobación de la Secretaría, incluyendo: nóminas normales y extraordinarias de sueldos, compensaciones, primas, aguinaldos, quinquenios, bonos de productividad, incentivos, estímulos, listas de raya, pago a trabajadores eventuales, pagos de honorarios asimilables a salarios, entre otros, con la finalidad de garantizar que el cálculo de la retención del Impuesto Sobre la Renta y el proceso de timbrado de los Comprobantes Fiscales Digitales por Internet CFDI, sea realizado en forma correcta y oportuna;
 
 En el caso de los Entes Públicos diferentes al Poder Ejecutivo, esta obligación la cumplirán a través de sus coordinaciones administrativas, direcciones de tesorerías o equivalentes;
@@ -897,11 +1089,15 @@ III. En materia de incrementos en las percepciones, deberán sujetarse estrictam
 
 IV. Sujetarse, en lo que les corresponda, a lo dispuesto en las leyes laborales y las leyes que prevean el establecimiento de servicios profesionales de carrera, así como observar las demás disposiciones generales aplicables. En el caso de las dependencias y entidades, deberán observar adicionalmente la política de servicios personales que establezca el Ejecutivo Estatal;
 
-V. No se autorizarán bonos o percepciones extraordinarias salvo previa autorización del titular del Ejecutivo, o los titulares de los Poderes Legislativo y Judicial y entes autónomos, en los términos de las disposiciones que les resulten aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. No se autorizarán bonos o percepciones extraordinarias salvo previa autorización del titular del Ejecutivo, los titulares de los Poderes Legislativo y Judicial o Ayuntamientos; respecto de los entes autónomos, la autorización estará a cargo de sus órganos de gobierno o su equivalente. Dichas autorizaciones deberán realizarse con estricto apego a las disposiciones en materia de disciplina financiera, responsabilidad hacendaria, contabilidad gubernamental y sistema anticorrupción;
 
 VI. Las dependencias del Poder Ejecutivo deberán cubrir los pagos relativos a percepciones extraordinarias en los términos autorizados por la Secretaría;
 
-VII. En el caso de los organismos descentralizados del Poder Ejecutivo, incluso los del sector educativo, no se podrán autorizar percepciones extraordinarias en juntas, consejos u órganos de gobierno, si no cuentan previamente con la autorización de nuevos conceptos de pago o incremento en compensaciones, tanto de la Secretaría de Administración como de la Secretaría; para tal efecto se deberá contar con recursos que estén previsto (sic) en el Presupuesto de Egresos.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. En el caso de los organismos descentralizados del Poder Ejecutivo, incluso los del sector educativo, no se podrán autorizar percepciones extraordinarias en juntas, consejos u órganos de gobierno, si no cuentan previamente con la autorización de nuevos conceptos de pago o incremento en compensaciones de la Secretaría; para tal efecto, se deberá contar con recursos que estén previstos en el Presupuesto de Egresos.
 
 Asimismo, los organismos descentralizados del Poder Ejecutivo, deberán enviar a la Secretaría, su tabulador con la totalidad de sus trabajadores aun cuando se trate de personal que se considere federalizado.
 
@@ -909,7 +1105,7 @@ Para las negociaciones salariales con sus sindicatos, los organismos descentrali
 
 Los Entes Públicos deberán abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se encuentren previstas en el Presupuesto de Egresos y sólo podrán ser autorizadas las que deriven de mandatos legales o reglamentarios obligatorios para el Estado. Respecto de los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto, la Secretaría o sus equivalentes deberán constituir las reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
 
-VIII. Los tabuladores de sueldo aplicables para el sector educativo, deberán ser autorizados por la Secretaría de Administración, y deberán ser homologados a los del Poder Ejecutivo;
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. En el Poder Ejecutivo y sus organismos descentralizados, no se autorizarán comisiones laborales con cargo a su Presupuesto de Egresos ni de cualquier dependencia u organismo paraestatal, a otro ente público, sindicato o partido político;
 
@@ -917,7 +1113,9 @@ X. Los Entes Públicos deberán abstenerse de contratar trabajadores eventuales,
 
 XI. Los Entes Públicos deberán sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el desempeño de comisiones oficiales;
 
-XII. No realizar traspasos de recursos de otros capítulos presupuestales al Capítulo 1000 de Servicios Personales o viceversa. Los recursos del Capítulo 1000 son intransferibles, excepto cuando exista autorización de la Secretaría de Administración y de la Secretaría, o sus equivalentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XII. No realizar traspasos de recursos de otros capítulos presupuestales al Capítulo 1000 de Servicios Personales o viceversa. Los recursos del Capítulo 1000 son intransferibles, excepto cuando exista autorización de la Secretaría o sus equivalentes;
 
 XIII. Las dependencias y organismos descentralizados del Poder Ejecutivo, deberán sujetarse a la estructura orgánica y ocupacional autorizada por la Secretaría de Administración y al dictamen presupuestal emitido por la Secretaría, o sus equivalentes en las demás entidades públicas;
 
@@ -961,7 +1159,9 @@ I. Los recursos destinados a celebrar tales contratos deberán estar expresament
 
 II. Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos;
 
-III. La persona que se contrate no deberá realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupe una plaza presupuestaria, salvo los casos autorizados por la Secretaría de Administración o equivalente, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. La persona que se contrate no deberá realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupe una plaza, salvo los casos autorizados por la Secretaría de Administración o equivalente, y
 
 IV. El monto mensual bruto que se pacte por concepto de honorarios no podrá rebasar los límites autorizados conforme a los tabuladores que se emitan en los términos de las disposiciones aplicables, quedando bajo la estricta responsabilidad de las dependencias y entidades que la retribución que se fije en el contrato guarde estricta congruencia con las actividades encomendadas al prestador del servicio. En el caso de los Poderes Legislativo y Judicial y de los entes autónomos, no podrán rebasar los límites fijados por sus respectivas unidades de administración.
 
@@ -983,7 +1183,9 @@ Ejecución del gasto público en materiales y suministros.
 
 Los Entes Públicos implementarán un control interno, para el uso y rendimiento de los combustibles utilizados en el parque vehicular, para garantizar que sea razonable.
 
-Se instalarán dispositivos de los disponibles en el mercado, para monitorear los recorridos y la real comprobación de los combustibles, como lo (sic) se determine en las normas de políticas de ejecución del gasto que emitan la Secretaría de Administración, las coordinaciones administrativas o sus equivalentes, deberán formular bitácoras de combustible para el análisis del gasto anual. Los ejecutores del gasto, formularán proyectos para reducirlo y hacerlo eficiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Se instalarán dispositivos de los disponibles en el mercado, para monitorear los recorridos y la real comprobación de los combustibles, como se determine en las normas de políticas de ejecución del gasto que emitan la Secretaría de Administración, las coordinaciones administrativas o sus equivalentes, deberán formular bitácoras de combustible para el análisis del gasto anual. Los ejecutores del gasto, formularán proyectos para reducirlo y hacerlo eficiente.
 
 Combustible y vehículos oficiales
 
@@ -1077,21 +1279,17 @@ Transporte y hospedaje.
 
 Los pasajes aéreos y terrestres, así como los servicios de hospedaje, deberán adquirirse garantizando los esquemas, programas o paquetes que resulten más económicos en su contratación, conforme a las políticas establecidas en los documentos que normen la ejecución del gasto de los Entes Públicos.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Asesoría y otros.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 75.
+###### Artículo 75.
 
-EN EL PODER EJECUTIVO, SE ELIMINA LA CONTRATACIÓN EN SERVICIOS DE ASESORÍA, CONSULTA, ASISTENCIA E INTERCAMBIO EN MATERIA JURÍDICA, ECONÓMICA, CONTABLE, DE INGENIERÍA, ARQUITECTÓNICA, ENTRE OTRAS, QUE PUDIESEN SER REQUERIDAS PARA EL CUMPLIMIENTO DE LAS OBLIGACIONES DEL PODER EJECUTIVO; SALVO LOS CASOS QUE SE ENCUENTRAN DEBIDAMENTE JUSTIFICADOS Y SÓLO CON LA AUTORIZACIÓN PRESUPUESTARIA DE LA SECRETARÍA.
+En el Poder Ejecutivo, se elimina la contratación en servicios de asesoría, consulta, asistencia e intercambio en materia jurídica, económica, contable, de ingeniería, arquitectónica, entre otras, que pudiesen ser requeridas para el cumplimiento de las obligaciones del Poder Ejecutivo; salvo los casos que se encuentran debidamente justificados y sólo con la autorización presupuestaria de la Secretaría.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-RESPECTO DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, LA CONTRATACIÓN DE SERVICIOS PODRÁ REALIZARSE, SOLO CUANDO SE ENCUENTREN DEBIDAMENTE JUSTIFICADOS Y CON LA AUTORIZACIÓN DE SUS JUNTAS U ÓRGANOS DE GOBIERNO, BAJO SU ESTRICTA RESPONSABILIDAD.
+Respecto de los Organismos Públicos Descentralizados, la contratación de servicios podrá realizarse, solo cuando se encuentren debidamente justificados y con la autorización de sus juntas u órganos de gobierno, bajo su estricta responsabilidad.
 
 Asimismo, se elimina la contratación de servicios de limpieza u otros que puedan realizarse con el personal con que actualmente cuenta el Poder Ejecutivo del Estado.
 
@@ -1115,11 +1313,9 @@ Convenios o pari-passus.
 
 Los Entes Públicos, dentro del ejercicio fiscal, podrán realizar convenios de reasignación de recursos con la Federación, otros Estados, Municipios, o Asociaciones Público Privadas, en los que se comprometa la aportación de recursos o pari-passu, siempre y cuando exista disposición y suficiencia presupuestal.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LAS DEPENDENCIAS, EN EL CASO DEL PODER EJECUTIVO, PROPONDRÁN AL TITULAR DEL EJECUTIVO, POR CONDUCTO DE LA COORDINACIÓN GENERAL JURÍDICA, LA FIRMA DE DICHOS CONVENIOS; LA SECRETARÍA DEBERÁ EXPEDIR LA AUTORIZACIÓN PRESUPUESTARIA YA SEA POR ESCRITO O MEDIANTE LA FIRMA DE SU TITULAR EN DICHO CONVENIO DE APORTACIÓN DE RECURSOS ESTATALES, SIEMPRE Y CUANDO EXISTA SUFICIENCIA PRESUPUESTAL Y NO AFECTE EL EQUILIBRIO FINANCIERO, O BIEN QUE SE REALICEN LOS AJUSTES AL PRESUPUESTO EN CAPÍTULOS Y PARTIDAS QUE OTORGUEN SUFICIENCIA PRESUPUESTAL PARA SU APORTACIÓN.
+Las dependencias, en el caso del Poder Ejecutivo, propondrán al Titular del Ejecutivo, por conducto de la Coordinación General Jurídica, la firma de dichos convenios; la Secretaría deberá expedir la autorización presupuestaria ya sea por escrito o mediante la firma de su titular en dicho Convenio de aportación de recursos estatales, siempre y cuando exista suficiencia presupuestal y no afecte el equilibrio financiero, o bien que se realicen los ajustes al presupuesto en capítulos y partidas que otorguen suficiencia presupuestal para su aportación.
 
 Aportaciones para convenios o pari-passu de organismos descentralizados.
 
@@ -1147,11 +1343,9 @@ El Ejecutivo del Estado, por conducto de la Secretaría, autorizará la ministra
 
 Los titulares de las dependencias y entidades serán responsables, en el ámbito de sus competencias, de que la ministración de subsidios y transferencias que se les haya autorizado con cargo a sus presupuestos se otorguen y ejerzan conforme a lo establecido en esta Ley y demás disposiciones aplicables.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 Padrón de beneficiarios de subsidios y ayudas.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 82.
 
@@ -1199,11 +1393,9 @@ Subsidios y transferencias excepcionales.
 
 Los subsidios y las transferencias destinados a cubrir deficiencias de operación serán otorgados excepcionalmente, siempre que se justifique ante la Secretaría su beneficio económico y social. Las entidades que los reciban deberán presentar un informe en los términos y condiciones que establezca la Secretaría, en el cual se detallarán las acciones que ejecutarán para eliminar la necesidad de su posterior otorgamiento.
 
-Informe de las variaciones en subsidios y transferencias.
-
 ###### Artículo 87.
 
-Las dependencias y entidades deberán informar a la Secretaría de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y las transferencias presupuestados, o en los resultados de su balance primario. Cuando dichas modificaciones conlleven a una adecuación presupuestaria, deberán obtener la autorización previa de la Secretaría.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 Verificación de las dependencias coordinadoras de sector.
 
@@ -1393,13 +1585,17 @@ I. Sueldos, salarios, honorarios, emolumentos, dietas, aguinaldos, bonos, premio
 
 II. Recompensas y pensiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 Depósitos al cuidado de los Entes Públicos.
 
 ###### Artículo 103.
 
-Los depósitos al cuidado o constituidos ante la Secretaría en su carácter de autoridad fiscal, o el equivalente de los Entes Públicos, inclusive los rendimientos que en su caso generen, prescribirán a favor del erario de los Entes Públicos en el plazo de dos años, contados a partir de la fecha en que pudo ser exigida jurídicamente su devolución o entrega por el depositante o por sus legítimos beneficiarios.
+Los depósitos al cuidado o constituidos ante la Secretaría en su carácter de autoridad fiscal, o el equivalente de los Entes Públicos, inclusive los rendimientos que en su caso generen, prescribirán a favor del erario de los Entes Públicos en el plazo de un año, contados a partir de la fecha en que pudo ser exigida jurídicamente su devolución o entrega por el depositante o por sus legítimos beneficiarios.
 
-Cuando no sea posible determinar la fecha a que se refiere el párrafo anterior, el plazo de prescripción será de tres años contado a partir de la fecha en que se recibió el depósito por las citadas instancias.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando no sea posible determinar la fecha a que se refiere el párrafo anterior, el plazo de prescripción será de dos años contado a partir de la fecha en que se recibió el depósito por las citadas instancias.
 
 El término de prescripción a que se refiere este artículo se interrumpe por cada gestión de devolución o entrega que, mediante escrito, lleve a cabo el depositante o sus legítimos beneficiarios y se suspenderá a partir del ejercicio de las acciones promovidas con ese objeto ante los tribunales competentes y hasta que resuelvan en definitiva.
 
@@ -1489,17 +1685,13 @@ Las dependencias, por conducto de la Secretaría en su carácter de fideicomiten
 
 El propósito de los fideicomisos señalados en el párrafo anterior, deberá relacionarse invariablemente con alguna de las áreas prioritarias o estratégicas indicadas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Zacatecas, en las leyes estatales, o decretos, o bien, con las áreas prioritarias que se establezcan en el Plan Estatal de Desarrollo, en los programas que deriven del mismo, en las previstas en las disposiciones de carácter general emitidas por el Ejecutivo Estatal, o las tendientes a la satisfacción de los intereses del Estado y necesidades populares.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Queda prohibido constituir fideicomisos que pretendan eludir el principio de anualidad en la ejecución de los recursos. Sólo se podrán constituir fideicomisos que estén mandatados por ley o decreto, sujetos a la Ley General de Contabilidad Gubernamental.
 
-QUEDA PROHIBIDO CONSTITUIR FIDEICOMISOS QUE PRETENDAN ELUDIR EL PRINCIPIO DE ANUALIDAD EN LA EJECUCIÓN DE LOS RECURSOS. SÓLO SE PODRÁN CONSTITUIR FIDEICOMISOS QUE ESTÉN MANDATADOS POR LEY O DECRETO, SUJETOS A LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LAS MINISTRACIONES DESTINADAS AL FIDEICOMISO DEBERÁN SER PRESUPUESTADAS Y AFECTAR EL PRESUPUESTO DE LAS DEPENDENCIAS O ENTES PÚBLICOS QUE LO VAYAN A CONSTITUIR.
+Las ministraciones destinadas al fideicomiso deberán ser presupuestadas y afectar el presupuesto de las dependencias o entes públicos que lo vayan a constituir.
 
 ### Capítulo V. Cuenta Pública
 
@@ -1777,7 +1969,7 @@ JORGE MIRANDA CASTRO
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
@@ -1785,6 +1977,30 @@ P.O. 20 DE DICIEMBRE DE 2017.
 
 Artículo Único.- Las presentes reformas, adiciones y derogaciones a la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 112.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+PRIMERO. Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el 1° de enero de 2019, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para expedir los formatos que deberán ser utilizados en su llenado por los Entes Públicos, para la evaluación del impacto presupuestario, de conformidad con lo establecido en el artículo 18-Ter de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, mismos que deberá actualizar la propia Secretaría.
+
+Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los Ejercicios Fiscales 2019, 2020 y 2021.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
