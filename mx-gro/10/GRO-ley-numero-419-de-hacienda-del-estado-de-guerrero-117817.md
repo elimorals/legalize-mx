@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2018-08-14"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -339,6 +339,10 @@ a).- Para fines distintos de lo señalado en la fracción I, sobre el valor nomi
 
 b).- Por loterías, rifas, sorteos y concursos de toda clase, ocasionales en que no se emitan billetes o boletos, sobre el importe individual de suscripción.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c).- En los casos de actos ocasionales o eventuales, el impuesto deberá pagarse a más tardar al siguiente día hábil de realizado el evento, mediante declaración ante las oficinas fiscales y por los medios autorizados.
+
 ###### ARTÍCULO 33.
 
 Los contribuyentes habituales de este Impuesto tendrán las siguientes obligaciones:
@@ -433,7 +437,9 @@ El impuesto se determinará aplicando la tasa del 2%.
 
 Los contribuyentes habituales de este impuesto, además de las obligaciones establecidas en otras disposiciones fiscales, tendrán las siguientes:
 
-I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, nóminas, listas de raya, recibos de remuneraciones, avisos de altas, bajas y modificación de salario ante el Instituto Mexicano del Seguro Social de los trabajadores a su servicio y, otros de naturaleza análoga.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, comprobantes fiscales digitales por internet de los pagos hechos a los trabajadores establecidos en el Código Fiscal de la Federación, avisos de altas, bajas y modificación de salario ante el Instituto Mexicano del Seguro Social de los trabajadores a su servicio y, otros de naturaleza análoga.
 
 II.- Llevar contabilidad y efectuar los registros en la misma de las remuneraciones a que se refiere el artículo 38 de esta Ley.
 
@@ -447,7 +453,7 @@ V.- Inscribir a las personas que contraten para prestar servicios subordinados e
 
 Las personas físicas y morales que celebren contratos de prestación de servicios de personal con otra empresa, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia de contrato de prestación de servicios ante la Administración o Agencia Fiscal Estatal que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona física o moral que haga dichas erogaciones, así como el número total de personas que presten el servicio.
 
-VI.- Proporcionar a la autoridad fiscal estatal, anualmente durante el mes de marzo, un ejemplar del Anexo 1 de la Declaración Informativa Múltiple o de su equivalente en el futuro, correspondiente al año inmediato anterior, que hayan presentado ante el Servicio de Administración Tributaria.
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 46.
 
@@ -455,7 +461,7 @@ Los retenedores de este impuesto deberán enterarlo mediante declaración mensua
 
 ###### ARTÍCULO 47.
 
-El Impuesto Sobre Remuneraciones al Trabajo Personal, se causará con la tasa del 2.0%.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 48.
 
@@ -467,17 +473,31 @@ Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organi
 
 La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal con: las Dependencias, Entidades, Fideicomisos Públicos, Organismos Públicos Descentralizados, Organismos Autónomos, así como con Empresas de Participación Pública de los Gobiernos Federal y de los Municipios del Estado, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Federales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 En el caso de las Dependencias, Secretarías, Organismos Públicos Descentralizados y demás Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención y el entero del Impuesto Sobre Remuneraciones al Trabajo Personal, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en los términos a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 La recaudación obtenida en términos de los párrafos que anteceden, deberá enterarse a más tardar el día 17 del mes siguiente, mediante declaración que presentarán ante las oficinas o por los medios autorizados.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 La retención a que se refiere este artículo se hará sobre la estimación que de los sueldos le presente el contratista en la proporción en que éstas le sean total o parcialmente pagadas.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 Los retenedores, deberán presentar a más tardar dentro de los tres primeros meses del ejercicio siguiente, declaración informativa proporcionando información sobre las personas a quienes les hayan efectuado dichas retenciones, en las formas autorizadas para tal efecto ante las Administraciones o Agencia Fiscal Estatal y oficinas autorizadas.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 Serán sujetos de retención del Impuesto Sobre Remuneraciones al Trabajo Personal, los derechos de cobro que tienen los contratistas o subcontratistas, sobre las estimaciones por trabajos ejecutados, que se deriven de los contratos de obra pública y servicios relacionados; así también los derechos cedidos parcial o totalmente para el cobro a favor de otra persona distinta de estos, el contrato podrá acreditar contra el pago de este impuesto las cantidades retenidas.
 
-La Secretaría de Finanzas podrá verificar en cualquier momento, el cumplimiento de la obligación fiscal como resultado de la contratación de obras públicas y servicios relacionados con las mismas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría de Finanzas y Administración, a través de la Subsecretaría de Ingresos, podrá verificar en cualquier momento, que los Titulares y/o responsables de las Secretarías, Organismos Públicos Descentralizados y demás entidades del Gobierno del Estado, cumplan con la obligación del párrafo segundo de este artículo, caso contrario, incurrirán en responsabilidad administrativa conforme a la ley de la materia, para lo cual se integrará el expediente del incumplimiento y se turnará a la Secretaría de Contraloría y Transparencia Gubernamental, a fin de substanciar el procedimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 El retenedor deberá comunicar dentro de los quince días siguientes a la conclusión de la obra a la Secretaría de Finanzas, sobre la conclusión de los trabajos encomendados al contratista o subcontratista.
 
@@ -661,9 +681,11 @@ CONTRIBUCIÓN ESTATAL.
 
 Sobre los impuestos, excepto predial y adquisición de inmuebles, derechos, con excepción de servicios catastrales, multas y rezagos que perciban los municipios del Estado, se cobrará una contribución estatal, del 15%.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 64.
 
-Las Tesorerías Municipales serán las responsables de hacer efectiva la contribución Estatal, dándose ingreso en caja al importe total; mensualmente entregarán el producto de esta contribución en las oficinas o por los medios autorizados, durante los primeros 17 días del mes siguiente, mediante la presentación de la declaración correspondiente.
+Las Tesorerías Municipales, serán las responsables de hacer efectiva la contribución Estatal, dándose ingreso en caja el (sic) importe total; mensualmente entregarán la recaudación de esta contribución, a través de las instituciones bancarías autorizadas, terceros o mediante las administraciones y agencias fiscales o por los medios autorizados, durante los primeros 17 días del mes siguiente, mediante la presentación de la declaración correspondiente.
 
 ### CAPÍTULO X. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -671,7 +693,9 @@ Las Tesorerías Municipales serán las responsables de hacer efectiva la contrib
 
 Es objeto del impuesto de esta Ley la tenencia y uso de vehículos que se efectúe en el territorio del Estado.
 
-Para efectos de este impuesto, se entiende por vehículo entre otros: los automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para efectos de este impuesto, se entiende por vehículo entre otros: los automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, eléctrica e híbrida, tabla de oleaje con motor, automóviles eléctricos e híbridos y motocicletas.
 
 Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se inscriba en el registro vehicular del Estado, cuando el domicilio fiscal en materia federal del tenedor o usuario del vehículo se localice en el Estado, o en su defecto, cuando el domicilio del contribuyente se encuentre en el Estado.
 
@@ -829,7 +853,21 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-Los contribuyentes tendrán derecho a solicitar la devolución cuando ocurra la pérdida total por robo o siniestro. La devolución procedente del impuesto a que se refiere este Capítulo será la parte proporcional correspondiente a los meses del año, a partir del mes en que se solicite y acredite ante la autoridad competente de conformidad con las reglas que al efecto expida la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En los casos de pérdida total del vehículo por robo o siniestro, el impuesto sobre tenencia o uso de vehículos a que se refiere éste capítulo, se atenderá de acuerdo a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los propietarios del vehículo pagarán el impuesto en la parte proporcional correspondiente a los meses del año en que se tuvo la tenencia del vehículo, la cual deberá acreditarse con la documentación correspondiente ante la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En los casos en que el propietario del vehículo, haya efectuado el pago del impuesto antes del robo o siniestro, tendrá derecho a la devolución del mismo en la parte proporcional correspondiente a los meses del año, a partir del mes en que suceda el hecho ante la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para determinar la parte proporcional de la devolución, se aplicarán los factores señalados en la tabla que antecede.
 
 ###### ARTÍCULO 74.
 
@@ -1091,7 +1129,7 @@ A).- Expedición o reposición por extravío o deterioro, por 3 años:
 
 2.- Automovilista; 3.55
 
-3.- Motociclistas, operadores de motonetas o similares, y (sic) 2.13
+3.- Motociclistas, operadores de motonetas o similares, y 2.13
 
 4.- Duplicado de licencias por extravío 2.45
 
@@ -1101,7 +1139,7 @@ B).- Expedición o reposición por extravío, por 5 años:
 
 2.- Automovilista; 5.10
 
-3.- Motociclistas, operadores de motonetas o similares, y (sic) 2.80
+3.- Motociclistas, operadores de motonetas o similares, y 2.80
 
 4.- Duplicado de Licencias por extravío, 3.32
 
@@ -1349,6 +1387,8 @@ B).- Tarjeta de identificación del operador del servicio público de transporte
 
 DE LOS DERECHOS POR REGISTRO PÚBLICO DE LA PROPIEDAD, DEL COMERCIO Y CRÉDITO AGRÍCOLA.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 13.]</small>
+
 ###### ARTÍCULO 107.
 
 Los Servicios que presta la Dirección del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, causarán derechos conforme a las tasas, tarifas y cuotas siguientes:
@@ -1361,9 +1401,7 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 16 DE ENERO DE 2018, PÁGINA 6.]</small>
 
-Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
-
-Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]</small>
 
 ### CAPÍTULO VII
 
@@ -1437,17 +1475,27 @@ I).- Otros:
 
 No se causarán los impuestos adicionales a que se refieren los artículos 51 en su inciso F), 52, 53 y 54 de la presente Ley de Hacienda del Estado de Guerrero, en los conceptos del inciso l) de esta fracción y de la fracción VII.
 
-10).- Autorización de Registro Extemporáneo de Defunción 4.80
+10.- Autorización de Registro Extemporáneo de Defunción 4.80
 
-11).- Rectificación Administrativa 14.50
+11.- Rectificación Administrativa 14.50
 
-12).- Por la expedición de Actas en cajeros de servicios electrónicos y oficialías de Registro Civil; Expedición de Actas del Sistema de Impresión de Actas en Línea (SIDEA´S); y Expedición de Actas en Línea 1.11
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-13).- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
+12.- Expedición de actas del Registro Civil por Kioscos de Servicios electrónicos y actas en línea $90.00 pesos.
+
+13.- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+14.- Por la expedición de Actas de Sistemas interestatales del Sistema de Impresión de Actas en Línea (SIDEA) 1.86
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+15.- Constancia de inexistencia interestatal 3.10
 
 III.- Certificados a ministros de las distintas religiones que estén autorizados para oficiar 1.31
 
-IV.- Certificados de “no adeudo” por cada concepto 1.31
+IV.- Certificados de "no adeudo" por cada concepto 1.31
 
 V.- Certificados de fechas de pago de créditos fiscales 1.31
 
@@ -1651,73 +1699,31 @@ II.- POR LA EXPEDICIÓN DE CERTIFICADOS DE SALUD O INCAPACIDAD.
 
 Centro o unidad móvil 0.30
 
-III.- POR LOS PERMISOS QUE SE OTORGUEN PARA EL TRASLADO DE CADÁVERES O RESTOS ÁRIDOS.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- LOS ESTABLECIMIENTOS QUE REALICEN ALGUNA DE LAS SIGUIENTES ACTIVIDADES, POR SERVICIOS SANITARIOS PAGARÁN LA CUOTA DE RECUPERACIÓN SEÑALADA EN EL SIGUIENTE TABULADOR:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 67.]</small>
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE 9 A LA 10.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 16; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 18 A LA 21.]</small>
 
-IV.- VISITAS DE VERIFICACIÓN, CURSOS DE CAPACITACIÓN, Y AVISO DE FUNCIONAMIENTO SIGUIENTES:
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 68.]</small>
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 10 A LA 11.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 70.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 16 A LA 17.]</small>
-
-> <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 16 DE ENERO DE 2018, PÁGINAS DE LA 7 A LA 8.]</small>
-
-V.- POR LOS SERVICIOS QUE PRESTA LA AUTORIDAD SANITARIA POR ACTIVIDADES REGULADAS POR LA MISMA, PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS.
-
-Las actividades a las que se hace alusión, se refieren a las señaladas en el Acuerdo Específico de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios que celebró la Secretaría de Salud, con la participación de la Comisión Federal Para La Protección Contra Riesgos Sanitarios, y el Estado de Guerrero, publicado en el Diario Oficial de la Federación el 28 de julio del 2004.
-
-a) Por apertura todos los establecimientos y personas que no requieran de autorización sanitaria, están obligados a presentar por escrito el aviso a la autoridad sanitaria, para el trámite del comprobante correspondiente, en los términos que establece el Artículo 174 de la Ley No. 159 de Salud del Estado.
-
-- Por la modificación de datos en el comprobante de aviso se pagará el 50% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-- Por el duplicado del comprobante de aviso se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-b) Por apertura todos los establecimientos que requieran de Licencia Sanitaria están obligados a presentar por escrito la solicitud para el trámite del comprobante correspondiente en los términos que establecen los artículos 254, 255 y 256 de la Ley de Salud del Estado.
-
-- Por la modificación de datos en la Licencia Sanitaria se pagará el 50% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-- Por el duplicado de la Licencia Sanitaria se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-La vigencia de los comprobantes de aviso de funcionamiento y Licencias Sanitarias que se señalan en los incisos a y b es por tiempo indeterminado, debiendo refrendarse anualmente con el pago del 50% del monto inicial.
-
-En el caso del Comprobante de Aviso de Importación, la vigencia es por un año.
-
-c) Todos los establecimientos, personas y actividades que requieren de un permiso sanitario, están obligados a presentar por escrito la solicitud para el trámite del comprobante correspondiente, en los términos que establece el artículo 375 de la Ley General de Salud.
-
-- Por la modificación de datos en el Permiso Sanitario, se pagará el 50% del derecho que le corresponda, conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-- Por el duplicado del Permiso Sanitario, se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
-
-Los derechos que establece este artículo, se pagarán de acuerdo a los montos establecidos para cada establecimiento, cuya actividad está sujeta a regulación y que serán publicados por la Secretaría de Finanzas y Administración.
-
-d) Visitas de Verificación Sanitaria.
-
-- Por las visitas de verificación que la autoridad sanitaria realice a los establecimientos para comprobar la corrección de anomalías detectadas, se pagarán derechos de acuerdo a lo señalado en el tabulador de cobro, que publicará la Secretaría de Finanzas y Administración.
-
-- Por cada solicitud de visita de verificación para constatar la destrucción de estupefacientes o psicotrópicos, pagarán derechos de acuerdo a lo señalado en el tabulador de cobro.
-
-El monto de las cuotas señaladas en esta fracción, se cobrarán conforme al tabulador que publique la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VI.- POR LAS CUOTAS DE RECUPERACIÓN POR LA PRESTACIÓN DE SERVICIOS MÉDICOS.
 
 Las personas físicas y morales que utilicen los servicios médicos que prestan las instituciones dependientes de la Secretaría de Salud del Gobierno del Estado de Guerrero pagarán Derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
 
-El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante, conforme al siguiente Tabulador:
+El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante, conforme al siguiente Tabulador, en Unidades de Medida y Actualización:
 
-> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 70 A LA 103.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 18 A LA 74.]</small>
-
-Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta dos veces la Unidad de Medida y Actualización vigente en el momento de la prestación del servicio.
-
-La autoridad competente elaborará y aprobará los dictámenes por virtud de los cuales se establezcan las condiciones socioeconómicas de las personas que se mencionan en esta fracción.
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 18 A LA 74; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 70.]</small>
 
 ### CAPÍTULO X
 
@@ -1755,23 +1761,39 @@ c) Por el refrendo bimestral de la credencial a promotores de tiempo compartido,
 
 ### CAPÍTULO XII. DERECHOS DE AUTORIZACIÓN DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 70 A LA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 113.
 
-Por los trámites de recepción, revisión, evaluación, dictamen o en su caso resolución en materia de Impacto Ambiental y Análisis de Riesgo, a personas físicas o morales que realicen obras o actividades industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas, que se calcula en Unidad de Medida y Actualización vigente:
+Por los trámites de recepción, revisión, evaluación, dictamen o en su caso resolución en materia de Impacto y daño Ambiental y Análisis de Riesgo, a personas físicas o morales que realicen obras o actividades industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas, que se calcula en Unidad de Medida y Actualización vigente:
 
-I.- A la micro industria o servicio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Por la recepción, evaluación y dictamen del Informe Preventivo 50.0
+I.- A la micro y pequeña industria o servicio:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Por la recepción, evaluación y autorización del Estudio de Riesgo 55.0
 
 En caso de que el proyecto en cuestión implique la necesidad de mayores estudios, se ajustarán a la tarifa de la pequeña industria.
 
-II.- A la pequeña industria o servicio:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II.- A la mediana y gran industria o servicio:
 
 Por recepción, evaluación y dictamen del Informe Preventivo 50.0
 
 Por recepción, evaluación y resolución de la Manifestación de Impacto ambiental.
 
-General 62.5
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+General 97.6
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Particular 238.0
 
 Intermedia 78.1
 
@@ -1779,7 +1801,9 @@ Específica 97.6
 
 Por recepción, evaluación y autorización del Estudio de Riesgo 55.0
 
-III.- A la mediana industria o servicios. Por recepción, evaluación y dictamen del Informe Preventivo. 50.0
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- Evaluación del estudio de daño ambiental 30.0
 
 Por recepción, evaluación y resolución de la Manifestación de Impacto ambiental.
 
@@ -1791,7 +1815,9 @@ Específica 152.6
 
 Por recepción, evaluación y autorización del Estudio de Riesgo. 68.8
 
-IV.- A la gran industria o servicio:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV.- Cesión de derechos de autorización vigente en materia de impacto ambiental 10.0
 
 Por recepción, evaluación y autorización del Informe Preventivo. 50.0
 
@@ -1805,6 +1831,88 @@ Específica 238.4
 
 Por percepción, evaluación y autorización del Estudio de Riesgo. 86.0
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V.- Exención del procedimiento en materia de impacto ambiental 20.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI.- Análisis, revisión y emisión de modalidad 5.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 113 BIS.- Por los trámites de recepción, evaluación, registro, divulgación, ejecución y actualización de los planes de manejo en materia de Residuos Sólidos Urbanos y/o de Manejo Especial, se autoriza el cobro de las siguientes tarifas, que se calculan en Unidad de Medida y Actualización vigente:
+
+I.- Por los tramites de recepción, evaluación y registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial, categoría generadores
+
+A los generadores de 27.3 a 100 Kg/día
+
+30.0
+
+A los generadores de 101 a 200 Kg/día (Tiendas Departamentales y de Autoservicio, Plazas Comerciales, Cadenas Comerciales, Hoteles, Restaurantes)
+
+60.0
+
+A los generadores a partir de 201 Kg/día
+
+80.0
+
+A los generadores de 80 a 300 m3/obra Residuos de construcción 70.0
+
+A los generadores a partir de 300 m3/obra Residuos de construcción 120.0
+
+II.- Por los tramites de recepción, evaluación y registro de Plan de Manejo de Residuos sólidos Urbanos y/o de Manejo Especial, categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje, coprocesamiento).
+
+Recolección, Transporte, Acopio, compra y venta
+
+30.0
+
+Recolección y Transporte empresas foráneas
+
+40.00
+
+Reutilización, Reciclaje, Coprocesamiento, Tratamiento
+
+35.00
+
+III.- Por los trámites para Expedición de Constancia de Factibilidad de predio para Construcción de Relleno Sanitario, 200.0
+
+IV.- Por los trámites para la expedición de la licencia ambiental de funcionamiento. fuentes fijas de jurisdicción estatal. 60.0
+
+V.- Por la cédula de operación anual Estatal, fuentes fijas de jurisdicción estatal.
+
+30.0
+
+VI.- Por la revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y de Manejo Especial.
+
+A los generadores de 27.3 a 100 Kg/día
+
+25.0
+
+A los generadores de 101 a 200 Kg/día (Tiendas Departamentales y de Autoservicio, Plazas Comerciales, Cadenas Comerciales, Hoteles, Restaurantes) 45.0
+
+A los generadores de 201 Kg/día
+
+60.0
+
+A los generadores de 80 a 300 m3/obra Residuos de construcción 50.0
+
+A los generadores de 300 m3/obra Residuos de construcción 80.0
+
+VII.- Por la Revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial. categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje, coprocesamiento y tratamiento).
+
+Recolección, Transporte, Acopio, compra y venta
+
+25.0
+
+Recolección y Transporte empresas foráneas
+
+35.0
+
+Reutilización, Reciclaje, Coprocesamiento, Tratamiento.
+
+30.0
+
 ###### ARTÍCULO 114.
 
 Por la exploración, extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de terrenos, tales como rocas o productos de su descomposición que sólo pueden utilizarse para la fabricación de materiales para la construcción u ornamentos, se calculará en Unidad de Medida y Actualización vigente.
@@ -1815,7 +1923,9 @@ Recepción, evaluación y dictamen del Informe Preventivo. 50.0
 
 Recepción, evaluación y resolución de Manifestación de Impacto Ambiental:
 
-General 62.5
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+General 97.0
 
 Intermedia 78.1
 
@@ -1825,13 +1935,23 @@ II.- Por la extracción en superficies de una a menos de tres hectáreas:
 
 Recepción, evaluación y dictamen del Informe Preventivo 50.0
 
-Recepción, evaluación y resolución de Impacto Ambiental
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-General 97.6
+Recepción, evaluación y resolución de Impacto Ambiental.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+General 97.0
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Particular 152.0
 
 Intermedia 122.0
 
 Específica 152.6
+
+Recepción, evaluación y resolución de Impacto Ambiental. General 97.0 Particular 152.0
 
 III.- Por la extracción en superficies de tres hectáreas o más hectáreas:
 
@@ -1841,6 +1961,10 @@ Recepción, evaluación y resolución de Impacto Ambiental:
 
 General 152.6
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Particular 238.4
+
 Intermedia 190.7
 
 Específica 238.4
@@ -1849,37 +1973,33 @@ Específica 238.4
 
 Por la recepción y dictamen o en su caso resolución de Impacto Ambiental a desarrollos urbanos y habitacionales, se autoriza el cobro de las siguientes tarifas en Unidad de Medida y Actualización vigente:
 
-I.- Por recepción, evaluación y dictamen del Informe Preventivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Menor a 5 ha. 62.5
+I.- Por recepción, evaluación y resolución de Manifestación de Impacto Ambiental General:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Menor a 5 ha. 122
 
 De 5.1 al 15 ha. 78.1
 
 Mayor de 15.1 ha. 97.
 
-II.- Por recepción, evaluación y resolución de Manifestación de Impacto Ambiental General:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Menor a 5 ha. 97.6
+II.- Por recepción, evaluación y resolución de Manifestación de Impacto Ambiental Particular:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Mayor a 5.1 ha. 372.5
 
 De 5.1 a 15 ha. 122.0
 
 Mayor a 15.1 ha. 152.6
 
-III.- Por recepción, evaluación y resolución (sic) autorización de Manifestaciones de Impacto Ambiental Intermedia:
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Menor a 5 ha. 152.6
-
-De 5.1 a 15 ha. 190.0
-
-Mayor a 15.1 ha. 238.4
-
-IV.- Por recepción, evaluación y resolución de Manifestación de Impacto Ambiental Específica:
-
-Menor a 5 ha. 238.4
-
-De 5.1 a 15 ha. 298.0
-
-Mayor a 15.1 ha. 372.5
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 116.
 
@@ -1887,11 +2007,15 @@ Por la revalidación del dictamen o resoluciones, se autoriza el cobro en Unidad
 
 I.- Informe preventivo 50.0
 
-II.- Manifestación de Impacto Ambiental General 80.0
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III.- Manifestación de Impacto Ambiental Intermedia 124.0
+II.- Manifestación de Impacto Ambiental General 124
 
-IV.- Manifestación de Impacto Ambiental Específica 194.0
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV.- Manifestación de Impacto Ambiental Particular 194.0
 
 ###### ARTÍCULO 117.
 
@@ -1899,7 +2023,7 @@ Por la revalidación de la resolución del estudio de riesgo ambiental cuya eval
 
 ###### ARTÍCULO 118.
 
-Por la opinión técnica a estudios de impacto ambiental reservados a la Federación, se autoriza el cobro de 152.6 Unidades de Medida y Actualización.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 119.
 
@@ -2191,6 +2315,8 @@ Por los servicios prestados a los sectores públicos y privados que soliciten a 
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 118 A LA 120.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 72 A LA 75.]</small>
+
 ### CAPÍTULO XVI
 
 DERECHOS POR REPRODUCCIÓN Y ENVÍO DE MATERIALES QUE CONTENGAN INFORMACIÓN PÚBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO Y DE SUS ENTIDADES PÚBLICAS.
@@ -2361,7 +2487,9 @@ a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el 
 
 b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones que se suministren en las oficinas rentísticas, las que serán previstas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
-Formato de permiso para circular sin placas a los H. Ayuntamientos por 30 días, 0.45 Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Formato de permiso para circular sin placas a los H. Ayuntamientos por 30 días, 0.45 Unidad de Medida y Actualización. Estas formas valoradas deberán adquirirse por los H. Ayuntamientos en las Administraciones o agencias fiscales, de la Subsecretaria de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 La Secretaría de Finanzas y Administración proveerá y controlará los formatos utilizados para la prestación de los diversos servicios a cargo de la Dirección General del Registro Público de la Propiedad y del Comercio.
 
@@ -2539,6 +2667,8 @@ Por la prestación de los servicios proporcionados por el Hospital del Niño y l
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 130 A LA 137.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 75 A LA 82.]</small>
+
 ###### ARTÍCULO 150.
 
 Por la prestación de los servicios proporcionados por la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero, se aplicarán las siguientes tarifas:
@@ -2567,7 +2697,7 @@ Por la prestación de los servicios proporcionados por la Universidad Tecnológi
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 137 A LA 138.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 82 A LA 83.]</small>
 
 ###### ARTÍCULO 152.
 
@@ -2603,49 +2733,129 @@ Camastro 40.00
 
 Por la prestación de los servicios proporcionados por el Instituto de Vivienda y Suelo Urbano de Guerrero, se aplicarán las siguientes tarifas:
 
-SERVICIOS TARIFAS
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(Pesos)
+N.P. CONCEPTO UMA
 
-INSPECCIÓN Y ESTUDIO SOCIOECONÓMICO 444.00
+1 INSPECCIÓN Y 5.5087
 
-CONSTANCIA DE NO ADEUDO Y POSESIÓN 419.00
+ESTUDIOS
 
-ESCRITURACIÓN HASTA 200M2 4,189.00
+SOCIOECONOMICO
 
-EXCEDENTE POR METRO CUADRADO 19.00
+2 CONSTANCIA DE NO 5.1985
 
-CESIÓN DE DERECHOS ENTRE FAMILIARES 3,808.00
+ADEUDO Y POSESIÓN
 
-CESIÓN DE DERECHOS ENTRE PARTICULARES 6,347.00
+3 ESCRITURACIÓN HASTA 51.9727
 
-CANCELACIÓN DE CLAUSULAS, PATRIMONIO Y 6,347.00
+200 M2
 
-DERECHO DE TANTO
+4 EXCEDENTE POR 0.2357
 
-CANCELACIÓN DE ESCRITURAS 3,808.00
+METRO CUADRADO
 
-RECTIFICACIÓN DE ESCRITURAS 3,808.00
+5 CESIÓN DE DERECHOS 47.2457
 
-SUBSIVISIÓN O FUSIÓN DE ACUERDO A LA SUPERFICIE
+ENTRE FAMILIARES
 
-REPLANTEO DE MEDIDAS 444.00
+6 CESIÓN DE DERECHOS 78.7469
 
-COPIAS DE EXPEDIENTE 381.00
+ENTRE PARTICULARES
 
-COPIAS DE PLANO GENERAL 127.00
+7 CANCELACIÓN DE 78.7469
 
-COMISIÓN POR COBRANZA 0.50 A 2.00
+CLAUSULAS, PATRIMONIO
 
-(REDONDEO DE CIFRA)
+Y DERECHO DE TANTO
 
-TRABAJOS DE REGULARIZACIÓN SEGÚN CONVENIO
+8 CANCELACIÓN DE 47.2457
 
-FIRMADO POR EL
+ESCRITURAS
 
-PROPIETARIO
+9 RECTIFICACIÓN DE 47.2457
 
-(Según servicios)
+ESCRITURAS
+
+10 INSPECCIÓN OCULAR 5.5087
+
+Y/O FISICA
+
+11 RECONOCIMIENTOS 78.7469
+
+DE DERECHOS
+
+12 CERTIFICACIÓN DE 1.2407
+
+RECIBO DE COBRO
+
+13 RATIFICACIÓN DE 14.8883
+
+CONVENIO ANTE NOTARIO
+
+14 CANCELACIÓN DE 6.2035
+
+TRAMITE DE ESCRITURA
+
+15 CONSTANCIA PARA 2.4814
+
+CATASTRO POR CAMBIO
+
+DE PROPIETARIO
+
+16 CONSTANCIA DE 4.9074
+
+PROPIEDAD
+
+17 TRABAJOS TÉCNICOS 5.5087
+
+Y SOCIALES
+
+18 ELABORACIÓN DE 1.2407
+
+CROQUIS
+
+19 INGRESOS POR 16.1290
+
+SERVICIOS DE
+
+REGULARIZACIÓN
+
+20 SUBDIVISIÓN O DE ACUERDO
+
+FUSIÓN A LA
+
+SUPERFICIE
+
+21 REPLANTEO DE 5.5087
+
+MEDIDAS
+
+22 COPIAS DE 4.7270
+
+EXPEDIENTE
+
+23 COPIAS DE 1.5757
+
+PLANO GENERAL
+
+24 COMISIÓN POR $ 0.50 A 2.00
+
+COBRANZA
+
+(REDONDEO DE
+
+CIFRA)
+
+25 TRABAJOS DE DE ACUERDO
+
+REGULARIZACIÓN AL CONVENIO
+
+FIRMADO
+
+POR EL PRO
+
+PIETARIO
 
 ###### ARTÍCULO 155.
 
@@ -2653,7 +2863,7 @@ Por la prestación de los servicios proporcionados por el Parque Papagayo, se ap
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 144 A LA 145.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 79 A LA 80.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 79 A LA 80; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 84.]</small>
 
 ###### ARTÍCULO 156.
 
@@ -2783,6 +2993,8 @@ Por la prestación de los servicios proporcionados por el Instituto del Deporte 
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 161 A LA 162.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 85 A LA 86.]</small>
+
 ###### ARTÍCULO 168.
 
 Por la prestación de los servicios proporcionados por el Instituto Guerrerense de la Infraestructura Física Educativa, se aplicarán las siguientes tarifas:
@@ -2873,7 +3085,7 @@ Por la prestación de los servicios proporcionados por el Centro Estatal de Ofta
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 173 A LA 176.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 81 A LA 84.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 81 A LA 84; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 86 A LA 92.]</small>
 
 ###### ARTÍCULO 173.
 
@@ -2919,19 +3131,33 @@ ARTÍCULO 175 BIS.- Por la prestación de los servicios proporcionados por el Fi
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 86.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 92 A LA 93.]</small>
+
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ARTÍCULO 175 BIS I.- Por la prestación de los servicios proporcionados por el Fideicomiso Guerrero Industrial, se aplicarán las siguientes tarifas:
 
-Relación de lotes y naves industriales del “Parque Industrial Guerrero”, disponibles para renta y venta.
-
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 87 A LA 90.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 93 A LA 95.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ARTÍCULO 175 BIS II.- Por la prestación de los servicios proporcionados por la Universidad Policial del Estado de Guerrero, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 91 A LA 92.]</small>
+
+> <small>(ADICIONADO, P.O. DE 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 175 BIS III.- Por la prestación de los servicios proporcionados por el Fideicomiso Bahía de Zihuatanejo, se aplicarán las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 102 A LA 103.]</small>
+
+> <small>(ADICIONADO, P.O. DE 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 175 BIS IV.- Por la prestación de los servicios proporcionados por el Instituto de Capacitación para el Trabajo del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 103 A LA 104.]</small>
 
 ###### ARTÍCULO 176.
 
@@ -3786,3 +4012,19 @@ Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 180, POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto de reformas, adiciones y derogaciones a la Ley número 419 de Hacienda del Estado de Guerrero, entrarán (sic) en vigor el día primero de enero del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+###### ARTÍCULO TERCERO.
+
+Comuniquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
