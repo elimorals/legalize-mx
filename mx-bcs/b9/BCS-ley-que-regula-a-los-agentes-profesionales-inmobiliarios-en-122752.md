@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-a-los-agentes-profesionales-inmobiliarios-en-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2018-09-10"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2018 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE REGULA A LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE DICIEMBRE DE 2018.]</small>
 
 Ley publicada en el Número 28 del Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -549,7 +549,9 @@ VI.- Los necesarios para la debida prestación del servicio en materia de Operac
 
 El programa de especialidad versará sobre la actualización y capacitación en las ramas que comprenden la promoción, administración, comercialización, consultoría o cualquier otra especialidad relacionada a la prestación del servicio en materia de Operaciones Inmobiliarias.
 
-Las especificaciones de los programas, periodicidad, convocatorias y demás características se establecerán en el Reglamento de la presente Ley.
+> <small>(F. DE E., B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 T R A N S I T O R I O S:
 
