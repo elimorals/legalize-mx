@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2018-10-17"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -147,9 +147,13 @@ Aprovechamientos son los ingresos que percibe el Estado, por funciones de derech
 
 Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código que se aplique en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Los honorarios y gastos de ejecución a que se refiere el último párrafo del artículo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaria, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
+Los honorarios, el 50% de las multas y los gastos de ejecución a que se refiere el último párrafo del artículo 3º de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaría, conforme al reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+No se otorgará el beneficio a que se refiere el párrafo anterior al personal que se incorpore a los órganos desconcentrados de nueva creación adscritos a la Secretaría de Finanzas y Administración con independencia de su denominación, salvo que dicho personal cuente ya con el citado beneficio, el cual se seguirá otorgando en los términos del reglamento a que se refiere el párrafo anterior, las condiciones generales de trabajo que los rijan y los acuerdos celebrados en dicha materia.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -557,9 +561,9 @@ La determinación de los créditos fiscales corresponde a los contribuyentes, sa
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional; asimismo, se pagarán en moneda nacional los productos y aprovechamientos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Se aceptarán como medios de pago los cheques certificados, giros postales, telegráficos o bancarios, tarjetas de crédito y los que se realicen vía internet.
+Se aceptarán como medios de pago los cheques certificados, giros postales, depósitos telegráficos, bancarios y en tiendas de conveniencia, tarjetas de crédito, débito y los que se realicen vía internet.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución, y antes del adeudo principal, a los accesorios en el siguiente orden:
 
@@ -569,7 +573,9 @@ II. Recargos;
 
 III. Multas; y
 
-IV. La indemnización a que se refiere el artículo 20 de este Código.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. La indemnización a que se refiere el artículo 20-A de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal, impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
 
@@ -579,9 +585,9 @@ Cuando el contribuyente interponga algún medio de defensa legal, impugnando alg
 
 El monto de las contribuciones, así como de las devoluciones a cargo del Fisco estatal derivados de pagos indebidos de las mismas, o los aprovechamientos, cuando no se cubran en la fecha o dentro del plazo fijado por las disposiciones fiscales, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el País, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar. Dicho factor se obtendrá dividiendo el INPC del mes anterior al más reciente del período, entre el citado INPC correspondiente al mes anterior al más antiguo de dicho período.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Las contribuciones, así como las devoluciones a cargo del Fisco Estatal, no se actualizarán por fracción de mes.
+Las contribuciones, aprovechamientos, así como las devoluciones a cargo del Fisco Estatal, no se actualizarán por fracción de mes.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -668,6 +674,10 @@ No causarán recargos las multas impuestas por autoridades no fiscales, ni las d
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Las multas por responsabilidades administrativas y las impuestas por autoridades no fiscales en su caso, se actualizarán de acuerdo con las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los gastos de ejecución, indemnización, multas y recargos, son accesorios que se generan cuando no se cubran las cantidades que tiene derecho a percibir el Estado en ejercicio de su función pública derivados de contribuciones y aprovechamientos, por lo que gozan de la misma naturaleza de aquellos y se deben destinar a satisfacer el gasto público.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -813,9 +823,7 @@ III. Los Directores Generales de: Política Tributaria, y Jurídico;
 
 IV. Los Directores de: Recaudación, de Auditoría y Revisión Fiscal, Catastro, de lo Contencioso; y de Técnica y Legislación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-V. Los Subprocuradores Técnico Legal, de lo Contencioso y de Legislación y Consulta;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1057,9 +1065,11 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Las autoridades fiscales facultadas debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 34.
 
-Las resoluciones fiscales favorables a los particulares, sólo podrán ser modificadas, revocadas o nulificadas, por las autoridades fiscales, previa audiencia de aquellos.
+Las resoluciones fiscales favorables a los particulares, sólo podrán ser modificadas, revocadas o nulificadas, por los tribunales competentes, mediante juicio iniciado por las autoridades fiscales.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1069,9 +1079,9 @@ Las autoridades fiscales podrán revisar las resoluciones administrativas de car
 
 No será materia de esta revisión administrativa, las que se soliciten por violaciones de forma o de procedimiento.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Lo señalado en el segundo párrafo de este artículo no constituirá instancia, y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
+Lo señalado en el segundo párrafo de este artículo no constituirá instancia, y las resoluciones que dicte la Secretaría al respecto no podrán ser impugnadas por los contribuyentes.
 
 ###### ARTICULO 35.
 
@@ -1799,7 +1809,9 @@ I. No solicitar el empadronamiento de personas o negociaciones cuando se esté o
 
 II. No tener en lugar visible la cédula de empadronamiento, cuando lo exijan las disposiciones fiscales estatales; y
 
-III. No presentar avisos o manifestaciones a que esté obligado a hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. No presentar o hacerlo extemporáneamente los avisos o manifestaciones a que esté obligado.
 
 ###### ARTICULO 60.
 
@@ -1847,9 +1859,17 @@ II. Recaudar, permitir u ordenar que se reciba el pago de contribuciones en form
 
 III. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales;
 
-IV. Autorizar actas constitutivas de fusión o liquidación de personas morales, sin cumplir con las obligaciones previstas en las disposiciones fiscales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. Exigir una prestación que no esté prevista en la Ley, aún cuando se aplique a la realización de las funciones públicas.
+IV. Autorizar actas constitutivas de fusión o liquidación de personas morales, sin cumplir con las obligaciones previstas en las disposiciones fiscales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Exigir una prestación que no esté prevista en la Ley, aun cuando se aplique a la realización de las funciones públicas; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Revelar a terceros, en contravención a lo dispuesto por el artículo 51 penúltimo párrafo de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
 ###### ARTICULO 64.
 
@@ -1859,9 +1879,9 @@ A quien cometa las infracciones a las disposiciones fiscales a que se refiere el
 
 I. Del equivalente de 75 a 120 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y V; y,
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Del equivalente de 200 a 300 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II y IV.
+II. Del equivalente de 200 a 300 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II, IV y VI.
 
 ###### ARTICULO 65.
 
@@ -1933,9 +1953,17 @@ II. No renovar la tarjeta de circulación y calcomanía anualmente;
 
 III. No registrar la sustitución de un vehículo por otro similar, para la prestación del servicio de que se trate, en el plazo que establecen las disposiciones fiscales;
 
-IV. No exhibir el documento que acredite la baja de las placas particulares al sustituir o incorporar al servicio público un vehículo; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. No revalidar las concesiones de servicio público.
+IV. No exhibir el documento que acredite la baja de las placas particulares al sustituir o incorporar al servicio público un vehículo o hacerlo extemporáneamente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. No revalidar las concesiones de servicio público, o hacerlo extemporáneamente; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. No renovar su licencia para conducir vehículo automotor de servicio público o hacerlo extemporáneamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1947,9 +1975,9 @@ A quien cometa las infracciones señaladas en el artículo anterior, se impondr�
 
 I. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I y II;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Del equivalente de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y IV; y,
+II. Del equivalente de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III, IV y VI; y,
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1989,9 +2017,9 @@ VII. No presentar la baja del vehículo automotor o remolque;
 
 VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado por el artículo 42 de la Ley de Hacienda del Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos;
+IX. No tramitar o hacerlo extemporáneamente la obtención original de placas de circulación de vehículos nuevos;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2281,7 +2309,9 @@ III. Impongan una sanción por infracción a las leyes fiscales.
 
 El recurso de oposición al procedimiento administrativo de ejecución, procederá contra los actos que:
 
-I. Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 20 de este Código;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 20-A de este Código;
 
 II. Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley. En este caso las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material.
 
@@ -3446,3 +3476,9 @@ TERCERO. La colocación de las constancias de inscripción al Registro Público 
 CUARTO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, deberá proporcionar información de su base de datos conforme a las reglas establecidas en la Ley del Registro Público Vehicular, a la Entidad pública encargada del registro, en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
 
 QUINTO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 117.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 5° PÁRRAFO TERCERO, 19 PÁRRAFO SEGUNDO Y FRACCIÓN IV, 19-A PÁRRAFO SEGUNDO, 34 PÁRRAFOS PRIMERO Y ÚLTIMO, 59 FRACCIÓN III, 63 FRACCIONES IV Y V, 64 FRACCIÓN II, 69 FRACCIONES IV Y V, 70 FRACCIÓN II, 71 FRACCIÓN IX Y 101 FRACCIÓN I; SE ADICIONAN UN CUARTO PÁRRAFO AL ARTÍCULO 5°, UN DÉCIMO PRIMER PÁRRAFO AL ARTÍCULO 20, UNA FRACCIÓN VI AL ARTÍCULO 63 Y AL ARTÍCULO 69 UNA FRACCIÓN VI; Y, SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 26, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
