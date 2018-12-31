@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-129824
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-10"
-last_updated: "2018-08-10"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 9.- POR EL QUE SE ABROGA EL DECRETO 317, DE LA H. "LIX" LEGISLATURA DEL ESTADO DE MÉXICO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 31 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 9, PUBLICADO EN LA G.G. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de México, el viernes 10 de agosto de 2018.
 
@@ -2090,3 +2090,25 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL “DECRETO NÚMERO 9.- POR EL QUE SE ABROGA EL DECRETO NÚMERO 317, DE LA H. “LIX” LEGISLATURA DEL ESTADO DE MÉXICO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA GACETA DEL GOBIERNO EL DÍA 10 DE AGOSTO DE 2018”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga el Decreto número 317, de la H. “LIX” Legislatura del Estado de México, mediante el cual se expide la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, publicado en la Gaceta del Gobierno el día 10 de agosto de 2018.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la “Gaceta del Gobierno” del Estado Libre y Soberano de México.
+
+SEGUNDO. Derivado de la abrogación del Decreto número 317, publicado en la “Gaceta del Gobierno” del Estado Libre y Soberano de México el día 10 de agosto de 2018, se abroga la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, expedida mediante dicho decreto por la H. “LIX” Legislatura del Estado de México, la cual estaba prevista para entrar en vigor el 1° de enero de 2019, así como cualquier disposición que se oponga a lo establecido en el presente Decreto.
+
+TERCERO. Se mantiene en vigor la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, expedida mediante Decreto número 57 de la H. “LIV” Legislatura del Estado de México, publicado en la “Gaceta del Gobierno” el día 3 de enero de 2002.
+
+CUARTO. Los actos que, en su caso, se hayan realizado con base en el Decreto número 317 de expedición de la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, publicada en la “Gaceta del Gobierno” el día 10 de agosto de 2018, quedarán sin efectos.
+
+QUINTO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado Libre y Soberano de México.
