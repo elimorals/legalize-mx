@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2016-12-27"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -207,11 +209,11 @@ Son ingresos derivados de la coordinación hacendaria los que perciba el Estado 
 
 ARTICULO 10 BIS. Cuando en las leyes fiscales se haga referencia a la Unidad de Medida y Actualización, será la que determine el Instituto Nacional de Estadística y Geografía en los términos que establece la constitución del país y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 11.
 
-Son autoridades fiscales del Estado de Guerrero, las cuales tendrán competencia dentro del territorio del Estado conforme al artículo 5 de la Constitución Política del Estado de Guerrero.
+Son autoridades fiscales del Estado de Guerrero, las cuales tendrán competencia dentro del territorio del Estado conforme al artículo 27 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
 I.- El Gobernador del Estado;
 
@@ -247,15 +249,13 @@ IX.- Los Coordinadores y Auditores Fiscales Estatales;
 
 X.- Los subadministradores fiscales estatales.
 
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 11 BIS.- Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 25, 26 y 27 de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08, y en el Reglamento Interior de la Secretaria de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero, el Reglamento Interior de la Secretaría de Finanzas y Administración del Estado y las Leyes Fiscales del Estado, cumpliendo con los requisitos que para tal efecto se señalen.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-###### ARTÍCULO 11
-
-BIS.- Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 4o y 5o de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 433, y en el Reglamento Interior de la Secretaria de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
 
 Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales Estatales el presente Código, se considerará competencia territorial en donde se ejercerán las facultades de las Coordinaciones Fiscales Estatales de la Dirección General de Fiscalización dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, será la que corresponda conforme a este al Código.
 
@@ -589,9 +589,13 @@ No serán considerados intermediarios, sino patrones, las empresas establecidas 
 
 Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en esta Ley en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando se hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido; y
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVII. Los Titulares y/o Encargados de las Tesorerías Municipales, por las obligaciones que tiene el Municipio, en el pago de las contribuciones a la Hacienda Pública Estatal, como sujeto directo o como retenedor.
+
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XVII.- Las demás personas que señalen las leyes fiscales.
+XVIII.- Las demás personas que señalen las leyes fiscales.
 
 ###### ARTICULO 31.
 
@@ -1059,7 +1063,7 @@ VI. A que las actuaciones de las autoridades fiscales que requieran su intervenc
 
 VII. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden.
 
-Se propone, asimismo, reformar el primer párrafo del artículo 78, para señalar que las autoridades fiscales a efecto de proteger y salvaguardar los derechos humanos de los contribuyentes, así como para preservar sus garantías, y para el mejor cumplimiento de sus facultades, estarán a lo dispuesto en dicho numeral.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -1409,6 +1413,32 @@ XIII. Cuando las autoridades fiscales en el ejercicio de sus facultades de compr
 
 Asimismo, podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Asignar un buzón tributario a las personas físicas y morales inscritas en el padrón de contribuyentes del Estado, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Finanzas y Administración, a través del cual:
+
+a). La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido.
+
+b). Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+
+c). La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de los contribuyentes, la Cedula Única de Registro Poblacional, el Registro Federal de Contribuyentes y la e.firma emitida por el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Finanzas y Administración mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando la autoridad en términos de este artículo, inicie facultades de comprobación, con los municipios del Estado y en su caso se lleguen a determinar créditos fiscales, derivados del incumplimiento de sus obligaciones fiscales, la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá convenir con los Municipios afecte sus participaciones o aportaciones para efecto de lo establecido en el artículo 9º de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones I y II de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquel, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 Artículo 86 A. Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan, impidan u obstaculicen el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar como medidas de apremio, las siguientes observando estrictamente el siguiente orden:
@@ -1729,17 +1759,19 @@ En los casos en que al practicarse una auditoría, inspección o revisión, los 
 
 Se levantará acta indicando el número de sellos y su localización ya sea en muebles, cuartos, oficinas y en qué lugar de la empresa se encuentran.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-ARTICULO 91 BIS.- Las personas físicas con actividades empresariales y las personas morales que se encuentren en alguno de los supuestos previstos en este artículo, están obligadas a dictaminar sus obligaciones fiscales estatales, en los términos del artículo 92 de éste Código y de las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración, por contador público autorizado.
+ARTICULO 91 BIS. Las personas físicas con actividades empresariales y las personas morales que se encuentren en alguno de los supuestos previstos en este artículo, podrán optar por dictaminar sus obligaciones fiscales estatales, por contador público autorizado, en los términos de lo que establece el presente Código Fiscal; así como de las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 I.- Las que en el ejercicio anterior hayan obtenido ingresos acumulables superiores a $25´000,000.00 para efecto del impuesto sobre la renta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 II.- O que por lo menos cien de sus trabajadores en promedio mensual les hayan prestado servicio en el ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Las personas físicas y las personas morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
@@ -1883,11 +1915,15 @@ X.- El dictamen y la documentación correspondiente, se deberá presentar ante l
 
 XI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XII.- Esta autoridad fiscal deberá concluir anticipadamente las revisiones fiscales que haya ordenado, cuando el contribuyente se encuentre obligado y este cumpliendo con los requisitos establecidos para la presentación del dictamen fiscal estatal.
+XII. Esta autoridad fiscal deberá concluir anticipadamente las revisiones fiscales que haya ordenado, cuando el contribuyente haya optado por dictaminar sus obligaciones fiscales estatales y esté cumpliendo con los requisitos establecidos para la presentación del dictamen fiscal estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Asimismo deberá concluir anticipadamente las revisiones fiscales que haya ordenado, cuando el contribuyente haya optado por presentar el dictamen fiscal estatal, siempre y cuando el aviso para dictaminar hubiera sido presentado dentro del plazo establecido.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 En ambos casos se deberá comunicar al contribuyente la conclusión anticipada de la revisión.
 
@@ -2313,7 +2349,9 @@ I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de i
 
 No citar correctamente en la solicitud de inscripción o avisos al Registro Estatal de Contribuyentes, las actividades por las que sea contribuyente habitual, no citar la clave de Registro Federal de Contribuyentes o utilizar alguna distinta, de cinco a quince Unidades de Medida y Actualización.
 
-No cumplir con la garantía establecida en la fracción VIII del artículo 17 de la Ley de Hacienda del Estado, para la realización de espectáculos públicos, se aplicará la sanción establecida en el párrafo que antecede, la cual deberá cubrirse al concluir el acto de intervención.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+No cumplir con la garantía establecida en la fracción VIII del artículo 24 de la Ley de Hacienda del Estado, para la realización de espectáculos públicos, se aplicará la sanción establecida en el párrafo que antecede, la cual deberá cubrirse al concluir el acto de intervención;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -2739,7 +2777,7 @@ IV.- Se sirvan de otras personas como instrumento para ejecutarlos;
 
 V.- Induzcan dolosamente a otra persona a cometerlo;
 
-VI.- Ayuden dolosamente a otra persona su comisión; y
+VI.- Ayuden dolosamente a otra persona para su comisión; y
 
 VII.- Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
 
@@ -2893,8 +2931,6 @@ Las notificaciones se harán en el último domicilio que la persona a quien se d
 
 La diligencia de notificación se entenderá con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si el domicilio se encuentra cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de la policía.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 En el momento de la notificación se entregará al notificado o, a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por el notificador.
@@ -2903,19 +2939,19 @@ Las notificaciones practicadas en los términos de los párrafos anteriores se t
 
 b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-c).- Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 5 días el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación, la autoridad dejará constancia de ello en el expediente respectivo.
+c) Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 15 días hábiles el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 d).- En los demás casos por medio de oficios o telegramas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 e).- Por instructivo cuando la persona a quien haya de notificarse no atendiere el citatorio, y la persona que se encuentre en el domicilio en que se realice la diligencia se niegue a recibirla, la notificación se realizará fijando el documento en la puerta del domicilio, asentando las circunstancias que dieron origen a la notificación por instructivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+f) Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad de 5.29 unidades de medidas y actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3721,9 +3757,25 @@ Contra los actos administrativos dictados en materia fiscal estatal, se podrán 
 
 La tramitación del Recurso Administrativo de Revocación, se sujetará a las normas siguientes:
 
-I.- Se interpondrá por el recurrente mediante escrito, el cual deberá satisfacer los requisitos del artículo 76, mismo que se presentará ante la autoridad que dicto o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquél le cause, y ofreciendo las pruebas que se proponga rendir;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días lo indique; en caso de incumplimiento, se tendrá por no presentado el recurso.
+I. Se interpondrá por el recurrente, el cual deberá satisfacer los requisitos del artículo 76, mismo que se presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquél le cause, y ofreciendo las pruebas que se proponga rendir.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de diez días lo indique; en caso de incumplimiento, se tendrá por no presentado el recurso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El recurrente podrá presentar su Recurso Administrativo de Revocación por escrito ante la autoridad que emitió el acto, por Buzón Tributario o de forma directa ante la Procuraduría Fiscal dependiente de la Subsecretaría de Ingresos de la Secretaria de Finanzas y Administración; mediante las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para el Buzón Tributario, su presentación se sujetará a la verificación de la firma electrónica, expresando el recurrente su opción al momento de presentar su recurso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando el recurrente haya optado cualquiera de las opciones, por ninguna causa podrá variarla.
 
 II.- El promovente deberá acompañar al escrito en que se interponga el recurso:
 
@@ -3841,11 +3893,11 @@ Determinen en (sic) valor de los bienes embargados.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 212.
 
-El interesado podrá optar por impugnar un acto mediante el Recurso de Revocación o promover directamente contra dicho acto, juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, debiendo intentar la misma vía si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro.
+El interesado podrá optar por impugnar un acto mediante el Recurso de Revocación o promover directamente contra dicho acto, juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Guerrero, debiendo intentar la misma vía si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro.
 
 ## TITULO SEXTO. DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -3859,15 +3911,19 @@ Se suspenderá el procedimiento administrativo de ejecución durante la tramitac
 
 La solicitud se formulará por escrito, con copia del escrito con el que se promueva el recurso o medio ordinario de defensa en cualquier tiempo y hasta antes de dictar sentencia ante la Secretaría de Finanzas y Administración, la que otorgando para ello un plazo de quince días, aceptará la garantía que se ofrezca, si fuera procedente, y suspenderá de plano el procedimiento hasta que se comunique la resolución del Tribunal que ponga fin al juicio. Si transcurren treinta días desde la fecha de la suspensión sin que la Secretaría de Finanzas y Administración tenga noticia oficial de la admisión de la demanda, podrá continuar el procedimiento administrativo de ejecución, a menos que el afectado demuestre que la demora no le es imputable.
 
-La suspensión provisional concedida queda sujeta, en todo caso, a la resolución del Tribunal de lo Contencioso Administrativo, que ponga fin al juicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La suspensión provisional concedida queda sujeta, en todo caso, a la resolución del Tribunal de Justicia Administrativa del Estado de Guerrero, que ponga fin al juicio.
 
 La garantía se otorgará directamente ante la Secretaría de Finanzas y Administración, la que al recibirla lo comunicará a la oficina ejecutora, para los efectos legales correspondientes.
 
 No se exigirá la constitución de garantía si el interés fiscal está asegurado con anterioridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 215.
 
-Si la autoridad fiscal, sin causa justificada, niega la suspensión o rechaza la garantía ofrecida, se podrá impugnar dicha resolución ante el Tribunal de lo Contencioso Administrativo en un término de quince días.
+Si la autoridad fiscal, sin causa justificada, niega la suspensión o rechaza la garantía ofrecida, se podrá impugnar dicha resolución ante el Tribunal de Justicia Administrativa del Estado de Guerrero, en un término de quince días.
 
 La Secretaría de Finanzas y Administración tendrá a su alcance el mismo recurso para combatir dentro del plazo señalado, las decisiones citadas en materia de suspensión que no se ajusten a las normas legales aplicables.
 
@@ -4020,3 +4076,15 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Públiquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 181 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Para la aplicación de las fracciones XIV y XV del artículo 86 de este Código será supletorio en lo conducente las disposiciones contenidas en el Código Fiscal de la Federación.
+
+TERCERO. Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
