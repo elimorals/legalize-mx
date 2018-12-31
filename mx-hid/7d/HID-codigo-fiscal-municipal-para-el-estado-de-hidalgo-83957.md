@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2017-01-09"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL ARTÍCULO PRIMERO DEL DECRETO 80 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -47,7 +45,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -781,7 +781,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Son obligaciones de los contribuyentes:
 
-I.- Inscribirse en el padrón municipal de contribuyentes que corresponda, en un término que no exceda de un mes a partir de la fecha de iniciación de operaciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I.- Inscribirse en el padrón municipal de contribuyentes que corresponda, en un término que no exceda de un mes, a partir de que inicien operaciones o que se actualice el supuesto jurídico o de hecho que lo motive; así como presentar su constancia de situación fiscal en el Registro Federal de Contribuyentes;
 
 II.- Declarar y pagar los créditos fiscales a su cargo en los términos que dispongan las leyes fiscales;
 
@@ -833,7 +835,13 @@ Las personas morales, así como las personas físicas que deban presentar declar
 
 I.- Cambio de nombre, denominación o razón social;
 
-II.- Cambio de domicilio fiscal y en caso de tenerlo, del correo electrónico;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II.- Cambio de domicilio fiscal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- Actualización de actividades económicas y obligaciones;
 
 III.- Cambio de actividad preponderante;
 
@@ -841,11 +849,15 @@ IV.- Liquidación, fusión o escisión;
 
 V.- Suspensión o reanudación de actividades;
 
-VI.- Apertura o cierre de establecimientos o de locales que se utilicen como base tipo, para el desempeño de sus servicios o actividades; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII.- Aumento o disminución de obligaciones.
+VI.- Apertura o cierre de establecimientos, sucursales, locales y, en general, cualquier lugar que se utilice para el desempeño de sus servicios o actividades; y
 
-Los avisos a que se refiere este Artículo, deberán presentarse dentro del mes siguiente al día en que se realicen las situaciones jurídicas o de hecho que corresponda.
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los avisos a que se refiere este artículo, deberán presentarse en un plazo que no exceda de un mes a partir del día siguiente en que se realicen las situaciones jurídicas o de hecho que los motive.
 
 La Tesorería Municipal llevará los padrones de contribuyentes en base a los datos que las personas le proporcionen de conformidad con este Artículo y en los que la propia tesorería obtenga por cualquier otro medio, asimismo, asignará el número que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Tesorería Municipal sea parte. Las personas inscritas, deberán conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
 
@@ -3334,3 +3346,11 @@ PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones re
 PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 88 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
