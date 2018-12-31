@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-12519
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-20"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 272 POR EL QUE SE EXPIDE ESTA LEY, PUBLICADO EL 20 DE DICIEMBRE DE 2017, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2019, PUBLICADA EN EL P.O DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DE ESTE DECRETO 272 POR EL QUE SE EXPIDE ESTA LEY, PUBLICADO EL 20 DE DICIEMBRE DE 2017, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento 2 al Número 101 del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de diciembre de 2017.
 
@@ -39,7 +41,7 @@ LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 R E S U L T A N D O S :
 
-[.]
+[…]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -210,3 +212,29 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los dieciocho días día del mes de diciembre del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 99.- LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL 2019".]
+
+PRIMERO. La presente Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2019, entrará en vigor el día uno de enero del año dos mil diecinueve; y bajo el principio de reconducción presupuestal estará en vigente en tanto no se apruebe su similar del ejercicio fiscal 2020.
+
+SEGUNDO. Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2018, contenida en el decreto número 272, publicado el 20 de diciembre del 2017, en el Suplemento número 2 al número 101 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Asimismo, se derogan las disposiciones legislativas y administrativas que se opongan a la presente Ley.
+
+TERCERO. Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, que se abroga mediante "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios" publicado en el Diario Oficial de la Federación del 21 de diciembre de 2007, con vigencia a partir del 1° de enero del 2012 según disposición transitoria, que se hubieren causado durante su vigencia, deberán ser cumplidas en las formas y plazos establecidos en las leyes aplicables.
+
+CUARTO. Las instituciones de salud pública a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Zacatecas, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellas personas que carezcan de recursos para cubrirlas con base en criterios de capacidad contributiva, las disposiciones normativas que regulen directamente a la institución de salud pública y demás factores que permitan adoptar las medidas de compensación necesarias para hacer efectivo el derecho a la salud, como eje de responsabilidad social.
+
+QUINTO. Los ingresos que perciba o recaude el Estado de Zacatecas, se acreditarán mediante el Comprobante Fiscal Digital por Internet (CFDI) o cualquier otra documentación impresa o digital que expida la Secretaría de Finanzas o los Organismos Descentralizados de la Administración Pública Estatal, según el caso conforme a las disposiciones jurídicas aplicables y a las reglas que para esos efectos publique la propia Secretaría de Finanzas.
+
+SEXTO. Las Participaciones y los Fondos de Aportaciones Federales, se presentan con un monto estimado, establecido en el Artículo 1 de esta Ley, los cuales se ajustarán con base en las publicaciones oficiales que para esos efectos realice la Secretaría de Hacienda y Crédito Público.
+
+SÉPTIMO. Por lo que hace al importe a recaudar correspondiente a los impuestos: Por Remediación Ambiental en la Extracción de Materiales; De la Emisión de Gases a la Atmósfera; De la Emisión de Contaminantes al Suelo, Subsuelo y Agua; y Al Depósito o Almacenamiento de Residuos; son montos estimados por lo que, ante las variaciones que pudieran darse durante su recaudación, derivado de su cumplimiento y las sentencias dictadas por los órganos jurisdiccionales competentes, así como de la Controversia Constitucional presentada por el Titular del Ejecutivo Federal, se faculta al Secretario de Finanzas a realizar las adecuaciones contables y presupuestales que se requieran, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, así como en el Decreto de Presupuesto de Egresos del Estado de Zacatecas para el ejercicio fiscal 2019.
+
+Los contribuyentes que opten por desistirse de los amparos interpuestos por sus obligaciones de las contribuciones establecidas en el párrafo anterior podrán optar por solicitar la adopción del acuerdo anticipado de pago, en los términos establecidos en el artículo 158-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+OCTAVO. Los datos, cifras y manifestaciones presentados en los Anexos 1, 2 y 3 del presente Decreto, son parte integrante de la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2019, en cumplimiento con lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, así como a los lineamientos establecidos por el Consejo Nacional de Armonización Contable (CONAC).
