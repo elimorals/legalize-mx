@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2016-12-21"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -43,13 +45,13 @@ LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de observancia general en los Municipios de Bacalar, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Cárdenas, Othón P. Blanco, Solidaridad y Tulum del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
+La presente Ley es de observancia general en los Municipios de Bacalar,
+
+Felipe Carrillo Puerto, José María Morelos, Lázaro Cárdenas, Solidaridad y Tulum del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
 
 ###### Artículo 2.
 
@@ -290,3 +292,9 @@ P.O. 21 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 289 POR EL QUE SE EXPIDE AL (SIC) LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA EL ARTÍCULO 1° DE LA LEY DEL IMPUESTO SOBRE LA ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
