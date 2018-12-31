@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2018-05-21"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -595,6 +595,8 @@ El Presidente presidirá al H. Ayuntamiento y al Gobierno Municipal. Tendrá a s
 
 El Presidente Municipal es el ejecutor de las determinaciones emanadas del H. Ayuntamiento, y el encargado de realizar la administración del municipio, atribuciones que le conceden la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado de Aguascalientes y la Ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 42.
 
 El Presidente Municipal, tendrá las atribuciones que le confieran este Código, las leyes federales y estatales y disposiciones aplicables. En forma enunciativa y no limitativa tendrá las facultades de:
@@ -605,7 +607,7 @@ II.- Dar publicidad a las normas de carácter general aprobadas por el H. Ayunta
 
 III.- Vigilar que la recaudación de la Hacienda Municipal, en todas sus ramas se realice con estricto apego a la Ley de Ingresos Municipal de Rincón de Romos, en el ejercicio fiscal del año en que se actúe;
 
-IV. Vigilar que el manejo y la inversión de los fondos municipales se realice con estricto apego al Presupuesto de Egresos;
+IV.- Vigilar que el manejo y la inversión de los fondos municipales se realice con estricto apego al Presupuesto de Egresos;
 
 V.- Dar trámite y seguimiento a los asuntos que se presenten a su consideración;
 
@@ -619,7 +621,7 @@ IX.- Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y re
 
 X.- Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
 
-XI.- Tomar la protesta de ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
+XI.- Tomar la protesta de ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio en términos de ley;
 
 XII.- Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento y Director General de Gobierno, Tesorero Municipal y proponer la terna para la elección del Comisario General (Director) de Seguridad Pública y Vialidad Municipal;
 
@@ -639,11 +641,9 @@ XIX.- Celebrar a nombre del H. Ayuntamiento todos los convenios, contratos y act
 
 XX.- Expedir a la Tesorería Municipal las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúe; firmado en unión del Regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizaran algún gasto no previsto en dicho presupuesto;
 
-XXI.- Informar anualmente al H. Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
+XXI.- Informar anualmente al H. Ayuntamiento, del estado que guarda la Administración Pública Municipal y de las actividades realizadas, en Sesión Solemne de Cabildo a celebrarse dentro de los primeros quince días hábiles del mes de noviembre de cada año, a excepción del año en que termina el periodo constitucional, éste deberá ser a más tardar el día 30 de septiembre del mismo año;
 
 XXII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
-
-XXIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar o recibir por sí o por persona interpósita, dinero, bienes muebles, inmuebles mediante la enajenación a su favor en un precio o condiciones notoriamente inferiores a las reales, así como la aceptación para sí o para sus parientes de donaciones;
 
 ###### ARTÍCULO 43.
 
@@ -763,13 +763,17 @@ XXII.- Las demás que expresamente le otorgue el presente Código, demás leyes 
 
 ### CAPÍTULO I. Del Procedimiento y Protocolo
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico tanto del H. Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones.
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal los Regidores y Síndicos tanto del H Ayuntamiento en funciones como el electo, se reunirán dentro de las setenta y dos horas anteriores at inicio del periodo constitucional, en el lugar y la hora que determine el H. Ayuntamiento en funciones.
 
 A esta sesión asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
 
-La toma de protesta surtirá efectos a partir de la primera hora del día primero de enero del año siguiente.
+La toma de protesta surtirá efectos a partir de la primera hora del día quince de octubre del año en que resultaron electos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 53.
 
@@ -785,15 +789,15 @@ IV.- Reiniciada la sesión, ante la representación acreditada del Poder Ejecuti
 
 V.- El Presidente Municipal electo solicitará a los Regidores y Síndico electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos:
 
-«"Yo... (Nombre del Presidente)…..protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Rincón de Romos, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande"»;
+«"Yo ... (Nombre del Presidente) ..... protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Rincón de Romos, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande"»;
 
 VI.- Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndico electos, a quienes los interrogará en la forma siguiente:
 
-«"Ciudadanos... (Regidores y Síndico)…Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Rincón de Romos, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"»;
+«"Ciudadanos ... (Regidores y Síndico) ... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Rincón de Romos, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"»;
 
 VII.- Contestarán los Regidores y Síndico levantando su mano derecha:
 
-«…"Sí Protesto"»;
+« ... "Sí Protesto"»;
 
 Dirá entonces el Presidente Municipal:
 
@@ -801,7 +805,7 @@ Dirá entonces el Presidente Municipal:
 
 VIII.- Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-"El H. Ayuntamiento del Municipio de Rincón de Romos se declara constituido para el Período Constitucional del 1° de enero de… al 31 de diciembre de… (Deberá citar los años en los cuales se ostentará como gobierno)";
+"El H. Ayuntamiento del Municipio de Rincón de Romos, Aguascalientes, se declara constituido para el Período Constitucional del 15 de octubre de ... (Deberá citar el año en que se está tomando protesta) al 14 de octubre de ... (Deberá citar el año en el que termina el periodo constitucional)";
 
 IX.- El Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal;
 
@@ -17438,3 +17442,23 @@ SEGUNDO.- La Tesorería Municipal y la Dirección de Administración; deberán l
 TERCERO.- Se faculta al Titular del Órgano Interno de Control del Municipio de Rincón de Romos, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la substanciación de los procedimientos con antelación a la vigencia de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 CUARTO.- Las referencias a la Contraloría Municipal o a su titular contenidas en este Código, así como en otras disposiciones reglamentarias, administrativas, contractuales o en procedimientos de responsabilidades de servidores públicos que se hayan iniciado con la Ley de Responsabilidades de Servidores Públicos del Estado de Aguascalientes, se entenderán hechas al Órgano Interno de Control y a su titular, según corresponda.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 42 FRACCIÓN XXI, 52 PRIMERO Y ÚLTIMO PÁRRAFO Y 53 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Rincón de Romos, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+
+PUNTOS RESOLUTIVOS
+
+Primero.- Con fundamento en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 1º, 3º, 8º, 66, 68 y 72 de la Constitución Política del Estado de Aguascalientes; y de más (sic) relativos y aplicables del Código Municipal de Rincón de Romos, Aguascalientes, se APRUEBA la presente INICIATIVA POR LA QUE SE REFORMAN LOS ARTÍCULOS 42 FRACCIÓN XXI, 52 PRIMERO Y ÚLTIMO PÁRRAFO, 53 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES.
