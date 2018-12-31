@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2018-02-23"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2009-12-28"
 ---
 # LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -2465,3 +2467,23 @@ G.O. 23 DE FEBRERO DE 2018.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno de la Ciudad de México, deberán emitir, de acuerdo a su competencia, las disposiciones administrativas necesarias a efecto de cumplir la presente Ley en un plazo de sesenta días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las remuneraciones de las y los Magistrados del Tribunal de Justicia Administrativa, Magistrados y Jueces del Tribunal Superior de Justicia, Integrantes del Consejo de la Judicatura, Titulares de Organismos Autónomos y Organismos Descentralizados, cuyo desempeño del cargo esté sujeto a un plazo determinado previsto expresamente en la normatividad aplicable, y que a la fecha de la entrada en vigor de este Decreto ya se encuentren en funciones, no podrán ser disminuidas, pudiendo concluir su encargo con las remuneraciones que actualmente perciben, surtiendo efectos la presente Ley hasta que una diversa persona sea nombrada en el cargo de que se trate.
+
+CUARTO. Aquellos servidores públicos que, a la entrada en vigor de la presente Ley, perciban remuneración salarial igual o mayor a la o el Titular de la Jefatura de Gobierno de la Ciudad de México, seguirán percibiendo la misma remuneración hasta que termine su mandato o encargo.
+
+QUINTO. Los procedimientos de responsabilidad administrativa que al momento de entrar en vigor la presente Ley se encuentren en procedimiento, se substanciaran con las leyes y normas vigentes al momento del inicio de los mismos.
+
+SEXTO. Se abroga la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México a partir de la entrada en vigor de esta Ley. Las referencias a la primer Ley en los ordenamientos legales vigentes, se deberán entender realizadas a la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
+
+SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, se continuará aplicando en lo que no se contraponga con la presente Ley, hasta en tanto el titular de la Jefatura de Gobierno, emita el Reglamento de esta Ley, en un plazo no mayor a 90 días naturales.
+
+OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
