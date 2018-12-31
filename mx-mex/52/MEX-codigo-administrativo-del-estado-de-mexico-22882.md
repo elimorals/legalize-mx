@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2018-09-20"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6711,6 +6711,14 @@ Para tal efecto, solicitará a las autoridades de tránsito el retiro de la circ
 
 II. Realizar en sus respectivos registros de vehículos, las anotaciones, observaciones, aclaraciones o comentarios relacionados con las irregularidades de los vehículos registrados, de tal manera que impida llevar a cabo cualquier trámite de control vehicular, hasta que se aclare la situación jurídica de los mismos.
 
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 7.
+
+8 Ter.- La Secretaría de Finanzas cancelará de oficio la matrícula y la inscripción, respecto de aquellos vehículos destinados al transporte de uso particular cuya placa no se encuentre vigente conforme a lo establecido en el Código Financiero del Estado de México y Municipios.
+
+En este supuesto, las autoridades de tránsito realizarán el retiro de las placas de circulación y envío de las mismas a la Secretaría de Finanzas, permitiendo por única ocasión la circulación del vehículo para traslado y resguardo del mismo por el infractor.
+
 > <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
@@ -6733,6 +6741,10 @@ Asimismo, podrá otorgar permisos para transportar carga comercial en vehículos
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las concesiones y permisos
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 7.
 
 12.- Los conductores de unidades de las distintas clases de transporte tendrán las obligaciones siguientes:
@@ -6746,10 +6758,6 @@ III. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstanc
 > <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 IV. Informar a los propietarios o poseedores de las unidades de manera pronta y expedita cuando se cometa cualquier delito al interior de la unidad o del que sean víctima los pasajeros.
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO TERCERO. De las concesiones y permisos
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6777,17 +6785,17 @@ V. Denunciar la comisión de cualquier delito al interior de la unidad o del que
 
 I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Tramitar la matriculación, baja de vehículos, cambio de propietario o reposición de tarjeta de circulación, así como dar aviso del cambio de domicilio, de motor y cualquier otra modificación, actualización del vehículo o de su propietario que altere el Registro Vehicular, ante la Secretaría de Finanzas o de Movilidad, según corresponda.
+II. Tramitar la matriculación, renovación de placas, baja de vehículos, cambio de propietario o reposición de tarjeta de circulación, así como dar aviso del cambio de domicilio, de motor y cualquier otra modificación, actualización del vehículo o de su propietario que altere el Registro Vehicular, ante la Secretaría de Finanzas o de Movilidad, según corresponda.
 
 > <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 Asimismo, deberán entregar a la autoridad administrativa competente las placas, cuando realicen el trámite de baja o cualquier otro por el que se le expidan unas nuevas.
 
-> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-En caso de que no se entreguen una o ambas placas de circulación o documento jurídico que acredite la falta o carencia de las mismas, se pagarán los aprovechamientos que autorice la Secretaría de Finanzas, por concepto de indemnización al erario del Estado.
+En caso de que no se entreguen una o ambas placas de circulación o documento jurídico que acredite la falta o carencia de las mismas, se pagarán los aprovechamientos que autorice la Secretaría de Finanzas, por concepto de indemnización al erario del Estado, salvo en los casos en que se realice baja por robo de vehículo.
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo; y
 
@@ -6796,6 +6804,10 @@ IV. Contar con un seguro de viajero vigente, durante el tiempo que dure la conce
 > <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 V. Hacer del conocimiento de las autoridades correspondientes, de manera pronta y expedita, la comisión de cualquier delito ocurrido dentro de la unidad y poner a su disposición el dispositivo de almacenamiento de imágenes a que hace referencia el artículo 7.6 del presente Código.
+
+> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Cumplir con las disposiciones legales, administrativas y reglamentarias que las autoridades en materia de movilidad determinen en función de la operación del Sistema Integral de Movilidad Sustentable.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6811,17 +6823,17 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 7.
-
-16.- El transporte de pasajeros colectivo, de alta capacidad o masivo, individual, mixto; el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos; el servicio de pago tarifario anticipado y los Centros de Gestión y Control Común, constituyen un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
 ## TITULO TERCERO. De las concesiones, permisos y autorizaciones
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO CUARTO. De la terminación y revocación
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+16.- El transporte de pasajeros colectivo, de alta capacidad o masivo, individual, mixto; el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos; el servicio de pago tarifario anticipado y los Centros de Gestión y Control Común, constituyen un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6905,6 +6917,10 @@ Queda prohibido el otorgamiento de concesión, permiso o autorización a vehícu
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7.
 
 26.- Son obligaciones de los concesionarios y permisionarios:
@@ -6983,10 +6999,6 @@ XXIII. Las demás que señalen este Libro y otras disposiciones legales, reglame
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 7.
 
 27.- Adicionalmente a lo establecido en el artículo anterior, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por la Secretaría de Movilidad; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
@@ -7023,6 +7035,10 @@ La garantía podrá constituirse por un lapso que en ningún caso comprenderá l
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+
 ###### Artículo 7.
 
 31.- El Gobernador del Estado queda facultado para decretar la intervención de un servicio público o de un bien del dominio público concesionados, cuando se interrumpa o afecte la prestación eficiente del servicio o la explotación del bien.
@@ -7030,10 +7046,6 @@ La garantía podrá constituirse por un lapso que en ningún caso comprenderá l
 La intervención durará estrictamente el tiempo por el que subsista la causa que lo motivó, para el solo efecto de que no se interrumpa el servicio o la explotación del bien.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -7052,6 +7064,10 @@ II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o en
 III. Requerirán autorización previa para la constitución de garantías. Bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión, lo cual se hará constar en las escrituras públicas correspondientes.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO TERCERO. De las Concesiones
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7078,10 +7094,6 @@ IX. Las demás causas que se establezcan en la concesión, permiso o en el regla
 La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno Estatal y con terceros.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO TERCERO. De las Concesiones
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7135,6 +7147,10 @@ XVI. El titular de una concesión o permiso que hubiere sido revocado estará im
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
+## TITULO CUARTO. Del Registro Estatal de Transporte Público
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 7.
 
 36.- El Registro Estatal de Transporte tiene por objeto integrar la información relacionada con el transporte; contendrá la información siguiente:
@@ -7157,9 +7173,13 @@ El Registro Estatal de Transporte será público, tendrá efectos declarativos y
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO CUARTO. Del Registro Estatal de Transporte Público
+## TITULO QUINTO. De los Servicios Auxiliares
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7195,11 +7215,7 @@ XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO QUINTO. De los Servicios Auxiliares
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
+### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7241,9 +7257,13 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
+### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. De la prestación del servicio
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7264,14 +7284,6 @@ VI. Presentar la solicitud por escrito;
 VII. Cubrir las contribuciones que, en su caso, establezcan las disposiciones fiscales aplicables;
 
 VIII. Las establecidas por otras disposiciones generales administrativas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION SEGUNDA. De la prestación del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7437,6 +7449,10 @@ En el caso del servicio público auxiliar de depósito y guarda vehicular, una v
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+#### SECCION PRIMERA. Condiciones del servicio
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7.
 
 52.- Son obligaciones de los concesionarios del servicio público auxiliar de depósito y guarda vehicular:
@@ -7476,10 +7492,6 @@ XII. Acatar y dar cumplimiento a las resoluciones que emita la Secretaría de Mo
 XIII. Las demás que se establezcan en otras disposiciones legales y administrativas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
-
-#### SECCION PRIMERA. Condiciones del servicio
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7527,6 +7539,10 @@ IX. Las demás que establezcan otras disposiciones legales y administrativas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+#### SECCION SEGUNDA. De los lugares de depósito
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7.
 
 56.- Son derechos de los concesionarios del servicio público auxiliar de depósito y guarda vehicular los siguientes:
@@ -7538,10 +7554,6 @@ I. Cobrar la tarifa autorizada por la prestación del servicio, a quienes acredi
 II. Proponer a la Secretaría de Movilidad, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
 
 III. Los demás que le otorguen otras disposiciones jurídicas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION SEGUNDA. De los lugares de depósito
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7559,6 +7571,10 @@ III. Los demás que le otorguen otras disposiciones jurídicas.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
 
+#### SECCION TERCERA. De la recepción de los vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7.
 
 57 Bis.- Para obtener la licencia de operación estatal que emitirá la Secretaria de Finanzas, el prestador de servicios electrónicos deberá cumplir con los requisitos siguientes:
@@ -7567,21 +7583,21 @@ I. Ser persona jurídica colectiva conforme a las leyes mexicanas.
 
 II. Tener domicilio legal en el Estado de México.
 
-III. Presentar solicitud de registro ante la Secretaria de Finanzas o por medio electrónico a través del portal de dicha dependencia.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Acreditar su inscripción al Registro Estatal de Contribuyentes, de acuerdo con las reglas de carácter general expedidas por la Secretaría de Finanzas.
 
 IV. Acompañar a la solicitud electrónica el padrón de unidades vehiculares y de proveedores privados de transporte que se vinculará a la aplicación tecnológica, el cual será actualizado mensualmente por el prestador de servicios electrónicos a través de la página oficial de la Secretaría de Finanzas.
 
-V. Acompañar informe técnico de la aplicación tecnológica que señale nombre, logotipo y características indispensables para su localización.
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Acompañar informe técnico de la aplicación tecnológica cumpliendo con los requisitos establecidos en las reglas de carácter general emitidas por la Secretaría de Finanzas.
 
 Una vez que se cumpla con los requisitos anteriores y el pago de derechos correspondiente, se expedirá la licencia de operación estatal.
 
 El prestador de servicios tecnológicos tendrá la obligación del pago por concepto del número de viajes realizados, conforme a lo dispuesto por el Código Financiero del Estado de México.
 
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
-
-#### SECCION TERCERA. De la recepción de los vehículos
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7605,6 +7621,14 @@ No será limitado el número de unidades mínimo o máximo, ni se impondrán req
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+### CAPITULO PRIMERO. De las medidas de seguridad
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7.
 
 58.- Para las operaciones de salvamento y arrastre de vehículos, se consideran tres tipos de grúas, de acuerdo a su capacidad de remolque, siendo las siguientes:
@@ -7616,14 +7640,6 @@ II. Equipos con plumas;
 III. Vehículos con equipos hidráulicos sujetadores de llantas, eje o chasis.
 
 Las especificaciones para los equipos de salvamento y arrastre quedarán establecidas en la Norma Técnica respectiva y demás disposiciones generales administrativas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO PRIMERO. De las medidas de seguridad
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7643,15 +7659,15 @@ Las unidades deben contar con una placa legible e indeleble de 0.15 m por 0.20 m
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+#### SECCION PRIMERA. Consideraciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
 61.- Durante la realización de las maniobras necesarias para realizar el salvamento y arrastre de vehículos que deban de ser trasladados, el permisionario deberá establecer la señalización preventiva necesaria mediante abanderamiento, ya sea manual o a través de cualquier artefacto luminoso, que permita advertir a los usuarios de las calles, caminos y puentes, sobre la presencia de vehículos averiados.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION PRIMERA. Consideraciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -7693,14 +7709,6 @@ La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los f
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-###### Artículo 7.
-
-63.- Los vehículos recuperados por robo, deberán ser trasladados a los depósitos vehiculares estatales, cada Fiscalía Regional contará al menos con una unidad de arrastre con la finalidad de que el usuario recupere su vehículo sin tener que realizar erogaciones por concepto de arrastre, salvamento, guarda, custodia y depósito de vehículos.
-
-Únicamente con motivo de las dimensiones del vehículo robado, que exceda de la capacidad de arrastre de las grúas con que cuente la Fiscalía Regional correspondiente, se solicitará el servicio de grúas permisionado, quienes cobrarán el servicio prestado con cargo al propietario del vehículo o medio de transporte recuperado conforme a las tarifas vigentes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
 ### CAPÍTULO SEGUNDO. De las infracciones y sanciones
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
@@ -7711,11 +7719,21 @@ La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los f
 
 ###### Artículo 7.
 
+63.- Los vehículos recuperados por robo, deberán ser trasladados a los depósitos vehiculares estatales, cada Fiscalía Regional contará al menos con una unidad de arrastre con la finalidad de que el usuario recupere su vehículo sin tener que realizar erogaciones por concepto de arrastre, salvamento, guarda, custodia y depósito de vehículos.
+
+Únicamente con motivo de las dimensiones del vehículo robado, que exceda de la capacidad de arrastre de las grúas con que cuente la Fiscalía Regional correspondiente, se solicitará el servicio de grúas permisionado, quienes cobrarán el servicio prestado con cargo al propietario del vehículo o medio de transporte recuperado conforme a las tarifas vigentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
 64.- En los lugares en que se encuentren dos o más concesionarios autorizados para prestar el servicio de depósito y guarda de vehículos, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo a depositar.
 
 En los lugares, en los que no se cuente con establecimientos autorizados para prestar el servicio de depósito y guarda de vehículos, el vehículo en cuestión, se depositará en el más próximo, donde haya un concesionario autorizado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
 ###### Artículo 7.
 
@@ -7737,17 +7755,15 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7.
 
 66.- Los concesionarios podrán promover y suscribir entre sí y con las corporaciones de policía estatales y municipales, convenios de coordinación para optimizar la adecuada cobertura y condiciones de prestación del servicio, así como garantizar la efectiva protección y custodia de los vehículos y proporcionar a las autoridades en materia de seguridad, información para el debido cumplimiento de sus fines.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Articulo 7.
 
@@ -7805,13 +7821,13 @@ La Secretaría de Movilidad elaborará y comunicará a los concesionarios, forma
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+
 ###### Artículo 7.
 
 69.- Los concesionarios deberán devolver el vehículo que tengan bajo su guarda y custodia, en las condiciones que consten en el inventario del mismo, haciéndose responsables de cualquier parte o accesorio faltante, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del propietario del vehículo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
-
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 7.
 
@@ -7833,6 +7849,12 @@ De no lograrse la conciliación, la Secretaría de Movilidad emitirá la resoluc
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+
 ###### Artículo 7.
 
 72.- Se consideran de utilidad pública, aquellas acciones que tiendan a evitar el hacinamiento o saturación de vehículos, tráileres, autobuses y cualquier tipo de remolques en los establecimientos de depósito vehicular, a fin de evitar riesgos a la seguridad o a la salud pública.
@@ -7843,12 +7865,6 @@ Las autoridades estatales competentes en materia de salubridad y preservación d
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
-
 ###### Artículo 7.
 
 73.- Para los efectos de este Libro, se consideran vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados, aquellos que hayan sido puestos a disposición de autoridad competente y depositados en alguno de los establecimientos concesionados que regula este Libro, siempre que no sean recuperados por persona alguna y que encuadren en cualquiera de los supuestos previstos por este ordenamiento.
@@ -7857,15 +7873,15 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 7.
 
 74.- Los vehículos, tráileres, autobuses y cualquier tipo de remolques asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por tres meses, aplican a favor del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 7.
 
@@ -7941,14 +7957,6 @@ La Secretaría del Medio Ambiente podrá diseñar programas para el reciclaje de
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-###### Artículo 7.
-
-79.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros.
-
-La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
-
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
 ## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
@@ -7959,17 +7967,25 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 ###### Artículo 7.
 
+79.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros.
+
+La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
 80.- La autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
 81.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Libro.
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -8501,9 +8517,9 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 IV. Imponer la infracción correspondiente que deberá registrarse en la base de datos única, a cargo de la Secretaría de Seguridad.
 
-> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-Para garantizar el pago de las sanciones con motivo de las infracciones, las autoridades o concesionarios facultados con los trámites administrativos relacionados con el vehículo, tales como la verificación, licencia, cambio de propietario, emplacamiento, proveerán lo necesario para negar la realización del trámite de que se trate, en tanto no se cubra el pago de dicha sanción o sanciones.
+Para garantizar el pago de las sanciones con motivo de las infracciones, las autoridades o concesionarios facultados con los trámites administrativos relacionados con el vehículo, tales como la verificación y licencia, proveerán lo necesario para negar la realización del trámite de que se trate, en tanto no se cubra el pago de dichas sanciones.
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
@@ -18096,3 +18112,19 @@ TERCERO. La Secretaría de Comunicaciones tendrá un plazo no mayor a ciento och
 CUARTO. Toda referencia al dictamen de impacto vial o su equivalente en otros ordenamientos de igual o menor jerarquía se entenderá a la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial.
 
 QUINTO. Para efectos del segundo párrafo del artículo 17.13 del Código Administrativo del Estado de México, la Secretaría de Finanzas publicará las reglas de carácter general en el Periódico Oficial "Gaceta del Gobierno”, dentro de los primeros veinte días hábiles del Ejercicio Fiscal de 2019.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
+
+TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
+
+CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
+
+QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
+
+SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
