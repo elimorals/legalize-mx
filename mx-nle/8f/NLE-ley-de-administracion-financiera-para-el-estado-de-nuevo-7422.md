@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2014-02-05"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -65,7 +65,9 @@ c) Los fideicomisos públicos; y
 
 IV.- Las personas físicas o morales públicas o privadas, que reciban o manejen, en administración, recursos públicos de las entidades mencionadas en las fracciones I a III de este artículo.
 
-Las autoridades municipales ejercerán sus funciones relativas a las finanzas públicas, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Municipal del Estado y demás ordenamientos aplicables, sin perjuicio de lo que dispongan los preceptos de esta Ley que expresamente hagan mención de los municipios, sus instituciones o autoridades.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las autoridades municipales ejercerán sus funciones relativas a las finanzas públicas, conforme a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley General de Contabilidad Gubernamental, la Ley de Gobierno Municipal del Estado de Nuevo León y demás ordenamientos aplicables, sin perjuicio de lo que dispongan los preceptos de esta Ley que expresamente hagan mención de los municipios, sus instituciones o autoridades.
 
 ###### ARTICULO 3o.
 
@@ -79,11 +81,17 @@ Para que surtan efectos las resoluciones, acuerdos, convenios o disposiciones, d
 
 ###### ARTICULO 5o.
 
-La aplicación de esta ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, en sus respectivos ámbitos de competencia.
+La aplicación de esta Ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, en sus respectivos ámbitos de competencia.
 
-###### ARTICULO 6o.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-La reglamentación, interpretación y aplicación de esta ley, tendrá como principio fundamental considerar al ejercicio de las funciones inherentes a las finanzas públicas como un instrumento ágil y eficiente para la consecución de los fines del Estado.
+###### ARTICULO 6.
+
+La reglamentación, interpretación y aplicación de esta ley, tendrá como principio fundamental el estricto cumplimiento de las disposiciones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental. Las entidades a que se refiere el artículo 2°, se sujetarán a las disposiciones establecidas en la citada Ley y administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En los Capítulos relativos al Ejercicio del Gasto Público y al Financiamiento a través del crédito Público, se aplicarán los criterios generales de responsabilidad hacendaria y financiera que establece la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, para un manejo sostenible de sus finanzas públicas.
 
 En la interpretación jurídica de los preceptos contenidos en la presente Ley se utilizarán los métodos reconocidos en Derecho, atendiendo a su finalidad económica, prevaleciendo el principio fundamental a que hace referencia el párrafo anterior. Las demás disposiciones relacionadas con la materia que regula esta ley, serán aplicadas en forma supletoria y, en caso de no existir norma alguna que regule determinado caso, ésta se integrará conforme a Derecho, siempre que no sea contraria a la naturaleza de esta Ley.
 
@@ -215,7 +223,7 @@ El Estado impulsará la igualdad entre mujeres y hombres a través de la incorpo
 
 Los titulares de las dependencias y entidades, serán responsables de que se ejecuten con eficiencia, eficacia, efectividad y perspectiva de equidad de género, las acciones previstas en sus respectivos programas y presupuestos.
 
-Sera obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, con un impacto diferenciado de género.
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, con un impacto diferenciado de género.
 
 La Contraloría y Transparencia Gubernamental, verificará periódicamente los resultados de la ejecución de los programas y presupuestos de las dependencias y de las entidades, en materia de perspectiva de equidad de género.
 
@@ -229,7 +237,7 @@ III.- Fomentar la perspectiva de equidad de género en el diseño y la ejecució
 
 IV.- Establecer o consolidar en los programas bajo su responsabilidad, las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de equidad de género;
 
-V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los programas, con los criterios que emitan la Secretaria de Finanzas y Tesorería General del Estado y el Instituto Estatal de las Mujeres; e
+V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Finanzas y Tesorería General del Estado y el Instituto Estatal de las Mujeres; e
 
 VI.- Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto Estatal de las Mujeres coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
@@ -245,11 +253,15 @@ En consecuencia, el presupuesto se elaborará en función a que los egresos sean
 
 Conforme a lo previsto en la Constitución Política del Estado, durante el primer período ordinario de sesiones del Congreso del Estado, el titular del Ejecutivo presentará una iniciativa de Ley de Egresos, en la que se contenga el presupuesto de egresos para el año siguiente, clasificándose el gasto público conforme a lo previsto en el artículo 19 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 21.
 
-Para la elaboración del proyecto de Presupuesto de Egresos Estatal, el cual formará parte de la Iniciativa de Ley de Egresos, a más tardar en el mes de Octubre de cada año, los Poderes Legislativo y Judicial enviarán al titular del Ejecutivo, las proyecciones, presupuestos y planes financieros para el año siguiente, quien a su vez girará las instrucciones respectivas al Secretario de Finanzas y Tesorero General del Estado, para su ponderación, análisis e inclusión en el citado proyecto de presupuesto.
+Para la elaboración del proyecto de Presupuesto de Egresos Estatal, el cual formará parte de la Iniciativa de Ley de Egresos, a más tardar en el mes de Octubre de cada año, los Poderes Legislativo y Judicial y los Organismos Autónomos enviarán al titular del Ejecutivo, las proyecciones, presupuestos y planes financieros para el año siguiente, quien a su vez girará las instrucciones respectivas al Secretario de Finanzas y Tesorero General del Estado, para su ponderación, análisis e inclusión en el citado proyecto de presupuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, los Poderes Legislativo y Judicial, y los Organismos Autónomos, deberán presentar a la Secretaría de Finanzas y Tesorería General del Estado, a más tardar en el mes de Octubre de cada año, el tabulador de remuneraciones para los servidores públicos de base, que determine los montos brutos de la porción monetaria y no monetaria, de la remuneración de dichos servidores públicos por nivel, categoría, grupo o puesto, en los términos de la Ley de Remuneraciones de los Servidores Públicos del Estado de Nuevo León.
 
 Las dependencias de los sectores centralizado y paraestatal del Ejecutivo del Estado, así como aquellas personas físicas o morales, públicas o privadas, que reciban fondos públicos del Estado, deberán presentar a la Secretaría de Finanzas y Tesorería General del Estado, a más tardar en el mes de Octubre de cada año, sus necesidades de gasto público para el año siguiente, cuando así lo requieran, conforme a los lineamientos financieros que establezca el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
 
@@ -739,7 +751,7 @@ I.- Celebrar, con sujeción a lo establecido en el artículo 106 de esta Ley y p
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Efectuar, respecto de bienes inmuebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
+II.- Efectuar, respecto de bienes muebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -811,7 +823,7 @@ La Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y 
 
 El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Secretaría de Finanzas y Tesorería General del Estado. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
 
-La Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaria de Finanzas y Tesorería General del Estado, la información a que se refiere el párrafo que antecede.
+La Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaría de Finanzas y Tesorería General del Estado, la información a que se refiere el párrafo que antecede.
 
 ###### ARTICULO 83.
 
@@ -1137,7 +1149,7 @@ El Ejecutivo del Estado y sus organismos descentralizados, fideicomisos y demás
 
 ###### ARTICULO 118.
 
-Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaria de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117 de ésta Ley, lo hará del conocimiento de la Contraloría Interna, acompañando la documentación que justifica tal situación.
+Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaría de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117 de ésta Ley, lo hará del conocimiento de la Contraloría Interna, acompañando la documentación que justifica tal situación.
 
 ###### ARTICULO 119.
 
@@ -1611,11 +1623,11 @@ P.O. 7 DE JULIO DE 1995.
 
 ###### ARTICULO PRIMERO
 
-- El Reglamento señalado en el artículo 82 de este Decreto deberá elaborarse y ponerse en práctica en un plazo no mayor de cuatro meses a partir de la publicación del presente Decreto.
+- El Reglamento señalado en el Artículo 82 de este Decreto deberá elaborarse y ponerse en práctica en un plazo no mayor de cuatro meses a partir de la publicación del presente Decreto.
 
 ###### ARTICULO SEGUNDO
 
-- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE ENERO DE 1996.
 
@@ -1686,3 +1698,15 @@ P.O. 4 DE JULIO DE 2013.
 P.O. 5 DE FEBRERO DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN, SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN.”]
+
+Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
+
+Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
+
+Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
