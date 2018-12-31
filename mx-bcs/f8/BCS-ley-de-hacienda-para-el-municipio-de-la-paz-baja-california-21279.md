@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2017-12-10"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -3240,3 +3242,23 @@ B.O. 10 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las autoridades municipales a través de las dependencias de la administración pública municipal, deberán proveer lo necesario administrativamente para la regularización de las disposiciones contenidas en el presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2584 SE EXPIDE LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda para el Municipio de La Paz, Baja California Sur, publicada mediante Decreto 1306 el 31 de Marzo de 2001, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, así como sus subsecuentes reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El H. XVI Ayuntamiento de La Paz deberá llevar a cabo los ajustes correspondientes a su normatividad municipal en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las contribuciones municipales, así como, los productos y aprovechamientos que se paguen en ejercicios fiscales posteriores a la entrada en vigor del presente Decreto, se pagarán conforme a las disposiciones vigentes al momento de su causación.
