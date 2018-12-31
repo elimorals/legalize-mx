@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2018-12-19"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -879,7 +879,9 @@ IX. Desarrollo Urbano;
 
 X. Transporte;
 
-XI. Fomento Económico;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XI. Comisión de Economía, Emprendimiento y Turismo
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1542,3 +1544,9 @@ P.O. 19 DE DICIEMBRE DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Para efectos de lo señalado en el Artículo 80 Bis I, la Comisión de Coordinación y Régimen Interno, tendrá 120 días hábiles a partir del nombramiento del Titular del Órgano Interno de Control, para emitir el procedimiento marcado en dicho numeral.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 048. SE REFORMA POR MODIFICACIÓN A LA FRACCIÓN XI DEL ARTÍCULO 70 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
