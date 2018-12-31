@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-firma-electronica-de-la-ciudad-de-mexico-antes-ley-70690
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2014-10-08"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70690&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-10-30"
 
 LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -62,45 +62,43 @@ El uso de la firma electrónica y de la firma electrónica avanzada tiene como f
 
 A falta de disposición expresa de esta Ley será de aplicación supletoria la normatividad de la materia, aplicable al acto o trámite a realizarse.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+I. Agencia: La Agencia Digital de Innovación Pública de la Ciudad de México
 
-I. Certificado Electrónico: El documento firmado por un prestador de servicios de certificación, mediante el cual se confirma el vínculo informático existente entre el firmante y la firma electrónica.
+II. Certificado Electrónico: El documento firmado por un prestador de servicios de certificación, mediante el cual se confirma el vínculo informático existente entre el firmante y la firma electrónica.
 
-II. Contraloría: La Contraloría General del Distrito Federal;
+III. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2018)
 
-III. Datos de creación de firma electrónica: Los datos únicos, las claves o llaves criptográficas privadas, que el titular obtiene del prestador de servicios de certificación y se utilizan para crear la firma electrónica;
+IV. Datos de creación de firma electrónica: Los datos únicos, las claves o llaves criptográficas privadas, que el titular obtiene del prestador de servicios de certificación y se utilizan para crear la firma electrónica;
 
-IV. Dispositivo de creación de firma electrónica: El mecanismo o instrumento por medio del cual se capta o recepta la firma electrónica o mensaje de datos y que al firmar el mismo le dan a éste un carácter único que asocia de manera directa el contenido del documento con la firma electrónica del firmante;
+V. Dispositivo de creación de firma electrónica: El mecanismo o instrumento por medio del cual se capta o recepta la firma electrónica o mensaje de datos y que al firmar el mismo le dan a éste un carácter único que asocia de manera directa el contenido del documento con la firma electrónica del firmante;
 
-V. Dispositivo de verificación de firma electrónica: La aplicación por medio de la cual se verifican los datos de creación de firma electrónica para determinar si un documento o mensaje de datos, ha sido firmado utilizando la clave o llave criptográfica privada controlada por el firmante, permitiendo asociar la identidad del firmante con el contenido del documento o mensaje de datos por tener éste el resguardo físico y el control personal del certificado electrónico;
+VI. Dispositivo de verificación de firma electrónica: La aplicación por medio de la cual se verifican los datos de creación de firma electrónica para determinar si un documento o mensaje de datos, ha sido firmado utilizando la clave o llave criptográfica privada controlada por el firmante, permitiendo asociar la identidad del firmante con el contenido del documento o mensaje de datos por tener éste el resguardo físico y el control personal del certificado electrónico;
 
-VI. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o audio el cual sea firmado con un certificado electrónico con validez jurídica;
+VII. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o audio el cual sea firmado con un certificado electrónico con validez jurídica;
 
-VII. Entes Públicos: Los órganos Ejecutivo, Legislativo, Judicial y Autónomos del Distrito Federal;
+VIII. Entes Públicos: Los órganos Ejecutivo, Legislativo, Judicial y Autónomos del Distrito Federal;
 
-VIII. Fecha electrónica: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
+IX. Fecha electrónica: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
 
-> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+X. Firma Electrónica: Al conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor.
 
-IX. Firma Electrónica: Al conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor.
+XI. Firma Electrónica Avanzada: A la firma electrónica que permite la identificación del signatario y ha sido creada por medios que éste mantiene bajo su exclusivo control, de manera que está vinculada al mismo. Es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa.
 
-> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+XII. Ley: La Ley de Firma Electrónica del Distrito Federal.
 
-X. Firma Electrónica Avanzada: A la firma electrónica que permite la identificación del signatario y ha sido creada por medios que éste mantiene bajo su exclusivo control, de manera que está vinculada al mismo. Es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa.
+XIII. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
 
-XI. Ley: La Ley de Firma Electrónica del Distrito Federal.
+XIV. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide certificados electrónicos.
 
-XII. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+XV. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privados (sic) y servidores públicos que posean un certificado electrónico con validez jurídica.
 
-XIII. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide certificados electrónicos.
-
-XIV. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privados y servidores públicos que posean un certificado electrónico con validez jurídica.
-
-XV. Unidad de Firma Electrónica: La Unidad administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 5 de esta Ley. En el caso de la Administración Pública del Distrito Federal estará adscrita la Oficialía Mayor.
+XVI. Unidad de Firma Electrónica: La Unidad administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 5 de esta Ley. En el caso de la Administración Pública del Distrito Federal estará adscrita a la Agencia.
 
 ###### Artículo 3.
 
@@ -132,9 +130,11 @@ III.- Gestionar la obtención de los recursos e implementos para la habilitació
 
 IV.- Asesorar a los Entes Públicos para el funcionamiento de los programas que utilicen firma electrónica;
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-Corresponde a la Contraloría General emitir las disposiciones normativas para la incorporación de la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Distrito Federal, dando prioridad a los procesos internos y a los que se refieran a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía.
+Corresponde a la Agencia emitir las disposiciones normativas para la incorporación de la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Distrito Federal, dando prioridad a los procesos internos y a los que se refieran a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía.
 
 ### Capítulo II. De los alcances de la firma electrónica
 
@@ -152,17 +152,11 @@ Serán válidos los documentos con firma electrónica emitidos por las personas 
 
 Los documentos que contengan información digital en formatos de audio y video serán válidos cuando se emitan con firma electrónica.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
-La firma electrónica tendrá validez jurídica en los siguientes documentos:
-
-I. Los que contengan información digital en formatos de audio y video
-
-II. Los que emitan los servidores públicos en ejercicio de sus funciones
-
-III. Los emitidos por particulares
-
-IV. Los demás que establezca esta Ley y otros ordenamientos aplicables
+La firma electrónica tendrá validez jurídica en los términos que la Agencia determine en ejercicio de sus facultades de normatividad tecnológica, así como en los términos de los demás ordenamientos aplicables.
 
 ###### Artículo 10.
 
@@ -222,29 +216,15 @@ Los Entes Públicos deberán habilitar una oficialía de partes electrónica, qu
 
 Tales datos determinarán para todos los efectos de Ley la vigencia y vencimiento de los plazos.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
 Los Entes Públicos habilitarán, en sus respectivos ámbitos de competencia, un Portal de Internet y un correo electrónico, podrán asimismo habilitar cuentas en redes sociales de Internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos prestados en el ámbito de sus respectivas competencias.
 
-Corresponderá a la Contraloría General del Distrito Federal la habilitación y gestión de un Portal de Internet único, bajo la denominación “Gobierno en línea 2.0”, que concentrará la información de los servicios públicos y trámites administrativos prestados por cada uno de los entes públicos de la Administración Pública del Distrito Federal.
+Corresponderá a la Agencia la habilitación y gestión de un Portal de Internet único, bajo la denominación que la Jefatura de Gobierno, por sí o por conducto de la Agencia determine, mismo que concentrará la información de los servicios públicos y trámites administrativos prestados por cada uno de los entes públicos de la Administración Pública del Distrito Federal.
 
-El sistema de gobierno electrónico se regirá por los siguientes principios rectores:
-
-a) Acceso universal: Disponer el acceso al sistema en cualquier momento sin mayores restricciones a las establecidas para atender, o, en su caso, sustanciar, servicios públicos o trámites administrativos que los expresamente establecidos en los ordenamientos aplicables.
-
-b) Amigabilidad: Diseñar un sistema caracterizado por la facilidad en su consulta y la sencillez en su interacción de acuerdo con las preferencias y necesidades de los usuarios.
-
-c) Confiabilidad: Asegurar que la información proveída sea auténtica a efecto de garantizar su seguridad y eficacia jurídica.
-
-d) Innovación: Incorporar continuamente nuevas tecnologías de la información con base en la eficiencia de resultados y la optimización de costos.
-
-e) Participación multisectorial: Impulsar la colaboración del sector privado y el sector social en la implementación y la vigilancia del gobierno electrónico.
-
-f) Seguridad: Disponer de adecuados niveles de seguridad que garanticen la protección de datos personales de conformidad con lo establecido en los ordenamientos aplicables.
-
-g) Simplificación administrativa: Procurar la reducción de los requisitos y formalidades para la atención, y en su caso, sustanciación electrónica de los servicios públicos y trámites administrativos.
+El sistema de gobierno electrónico se regirá por los principios rectores que establezca la Agencia en cumplimiento de sus atribuciones en la materia, aplicando en lo conducente la Ley de Operación e Innovación Digital.
 
 ### Capítulo IV. De los Derechos y Obligaciones de los Titulares de Certificados de Firma Electrónica y de los prestadores del servicio de certificación
 
@@ -493,3 +473,21 @@ G.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de sui (sic) publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 25, 29, 33 Y 37 Y SE DEROGAN LOS ARTÍCULOS 22, 30, 31 Y 32, TODOS DE LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 2, 6, 9 Y 22 DE LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2019.
+
+SEGUNDO. Se abroga la Ley para hacer de la Ciudad de México una Ciudad abierta.
+
+TERCERO. Las referencias hechas a la Unidad de Mejora Regulatoria en la Ley de Mejora Regulatoria de la Ciudad de México, se entenderán hechas a la Agencia, sin detrimento de la capacidad jurídica y autonomía técnica, de gestión y operación señaladas en el artículo 39 del presente ordenamiento.
+
+Todas las disposiciones aplicables a las atribuciones normativas en materia de Firma Electrónica enlistadas en la Ley de Firma Electrónica de la Ciudad de México, se entenderán hechas a la Agencia.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+QUINTO. La persona titular de la Jefatura de Gobierno emitirá el Reglamento de la presente Ley; en ejercicio de las atribuciones que le otorga el artículo 32; Apartado C; Numeral 1; inciso a) de la Constitución Política de la Ciudad de México en un plazo máximo de 180 días.
+
+SEXTO. La Agencia tendrá un plazo de 180 días para la expedición de la política de gestión de datos, la política de gobierno abierto, la política digital, la política de gobernanza tecnológica y la política de gobernanza de la conectividad y la gestión de la infraestructura.
