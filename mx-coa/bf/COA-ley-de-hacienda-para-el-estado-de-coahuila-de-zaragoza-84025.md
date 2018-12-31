@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2017-12-19"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COA"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
 
-[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]
+NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -64,8 +64,6 @@ Las cuotas y tarifas de las contribuciones que establece esta ley en cantidades 
 Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor distinto al señalado.
 
 Cuando esta ley establezca una forma o período distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -247,19 +245,13 @@ I. Los honorarios a miembros del consejo directivo, a los administradores, comis
 
 II. El pago de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 III. Los pagos realizados a cooperativas, personas físicas, sociedades de cualquier tipo o asociaciones por proporcionar servicios de personal a otras personas físicas o morales, para que dentro del territorio del Estado le presten servicios de personal ya sea temporal, a destajo o en forma indefinida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Quien contrate a las cooperativas, personas físicas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción, estará obligado a retener y enterar el impuesto sobre nóminas que se cause por los pagos correspondientes al personal que preste los servicios personales. La determinación del impuesto a retener deberá realizarse con base a la información que del personal que lleva a cabo los servicios entregue el prestador a quien realiza los pagos, y en caso de que no se le proporcione, el cálculo se hará tomando como base del impuesto cada pago que realice, sin incluir el impuesto al valor agregado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -268,8 +260,6 @@ El impuesto sobre nóminas que se retenga en términos de los párrafos anterior
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 Quien tenga la obligación de efectuar la retención prevista en el párrafo anterior tendrá la opción de no efectuarla, cuando la cooperativa, sociedad o asociación de cualquier tipo que le proporcione el personal tenga su domicilio fiscal en el territorio del Estado de Coahuila de Zaragoza y además cumpla con los requisitos siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -280,8 +270,6 @@ Quien tenga la obligación de efectuar la retención prevista en el párrafo ant
 3.- Que presente ante las autoridades fiscales del Estado, en las formas aprobadas para tal efecto, una declaración informativa acerca de los pagos realizados a las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción en las formas oficiales aprobadas por ésta, a más tardar en el mes de marzo de cada año, correspondiente a los pagos que se les hubiera realizado en el año de calendario anterior.
 
 4.- Que mantenga los registros contables y la documentación correspondientes para la correcta identificación de las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción que reciban los pagos y de los importes que les haya pagado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -387,23 +375,7 @@ I. Las erogaciones que se cubran por concepto de:
 
 13. Contraprestaciones cubiertas a trabajadores domésticos.
 
-II. Las erogaciones que efectúen:
-
-1. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-2. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-3. Partidos y asociaciones políticas constituidos conforme a la ley de la materia;
-
-4. Ejidos y comunidades;
-
-5. Uniones de ejidos y comunidades;
-
-6. La empresa social, constituida por avecindados e hijos de ejidatarios con derechos a salvo;
-
-7. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-8. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -499,45 +471,9 @@ OBJETO
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
-ARTICULO 51 A.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+###### ARTICULO 51- A.
 
-###### ARTÍCULO 51-A.
-
-Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelos anteriores al de aplicación a que se refieren los artículos 38, fracción II y 47 de esta Ley, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor
-
-antigüedad
-
-1 1.000
-
-2 0.889
-
-3 0.889
-
-4 0.857
-
-5 0.857
-
-6 0.800
-
-7 0.800
-
-8 0.667
-
-9 0.667
-
-10 0.000
-
-II. Al resultado obtenido conforme a la fracción anterior, se multiplicara por el factor de 0.245% si el peso bruto vehicular es menor a 15 toneladas o por 0.50% si el peso bruto vehicular esta entre 15 y 35 toneladas, multiplicados por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo esta cantidad.
-
-III. La cantidad obtenida conforme a la fracción anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de conformidad a los (sic) dispuesto en el artículo 3 de esta Ley, obteniendo el importe a pagar.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 52.
 
@@ -554,6 +490,8 @@ OBJETO
 ## TITULO III. DE LOS DERECHOS
 
 ### CAPITULO PRIMERO. POR SERVICIOS DE LA SECRETARIA DE GOBIERNO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCIÓN PRIMERA. AUTOMOVILES
 
@@ -695,11 +633,13 @@ II. Inscribirse en el Registro Estatal de Contribuyentes y presentar la autoriza
 
 III. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION CUARTA. OBLIGACIONES
 
 ###### ARTICULO 72.
 
-El Servicio de Administración Tributaria del Estado de Coahuila podrá establecer procedimientos para:
+La Administración Fiscal General podrá establecer procedimientos para:
 
 I. El pago anticipado del impuesto, mediante la presentación de la declaración anual en el mes de enero correspondiente a todo el ejercicio fiscal, con base en las previsiones sobre producción anual, con sus ajustes anuales.
 
@@ -759,33 +699,53 @@ Los servicios prestados por el Registro Público, relativos a la propiedad, caus
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SESENTA Y UN PESOS 00/100 M.N.).
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Se pagará una cuota de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.) en los siguientes supuestos:
-
-1). Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, aun cuando el valor del documento a inscribir sea indeterminado.
-
-2). Por la inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva.
-
-3). Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento.
-
-4). La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas.
-
-5). Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales.
-
-6). Cuando las inscripciones a que se refiere el primer párrafo del artículo 79, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV y 82-A, de la Sección de Comercio.
-
-7). La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos.
-
-8). La inscripción del título o contrato cuando se aumente el capital o se transfiera algún derecho.
+II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
+1). Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, aun cuando el valor del documento a inscribir sea indeterminado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+2). Por la inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+3). Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+4). La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+5). Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+6). Las inscripciones que deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción II y 82-A, de la Sección de Comercio.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+7). La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+8). La inscripción del título o contrato cuando se aumente el capital o se transfiera algún derecho.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción y al Código Civil para el Estado de Coahuila de Zaragoza deban registrarse, se incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición para su consulta de los asientos registrales, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y todo aquello que se requiere para una adecuada conservación y archivo perene de los documentos que se resguardan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 79-A.
 
-En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
+En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $1'309,515.00 (UN MILLÓN TRESCIENTOS NUEVE MIL QUINIENTOS QUINCE PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
 
 ###### ARTICULO 79-B.
 
@@ -811,13 +771,15 @@ En la inscripción o registro de los documentos que se describen en la fracción
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 79-H.
 
 Por otros servicios:
 
-I. La inscripción de las autorizaciones para fraccionamiento, $362.00 (TRESCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. El depósito de cualquier otro documento, $186.00 (CIENTO OCHENTA Y SEIS PESOS 00/100 M.N.).
 
@@ -845,7 +807,7 @@ VII. La cancelación de inscripciones en el Registro causará el 10% de los dere
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VIII. La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $58.00 (CINCUENTA Y OCHO PESOS 00/100 M.N.); y,
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
@@ -871,9 +833,9 @@ III. En los casos de información ad-perpetuam, el valor catastral de los inmueb
 
 IV. En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, cuyas comisiones, cuotas, derechos u otros conceptos no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituye a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. En toda transmisión de bienes o derechos reales que se realizan por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
+V. En relación al artículo 79-A de esta Ley, toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -883,17 +845,19 @@ VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, re
 
 VII. Para los efectos del cálculo de los derechos la nuda propiedad se valuará con el 75% de los derechos que se causen y el usufructo con el 25% del mismo;
 
-VIII. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+VIII. En relación al artículo 79-A de esta Ley, cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
 
-IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a 1,095 (Mil Noventa y Cinco) veces Unidad de Medida y Actualización (UMA).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a 600 (Seiscientas) veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 SEGUNDA PARTE
 
 DEL COMERCIO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -905,25 +869,31 @@ TARIFA
 
 I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Se pagará una cuota de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.) en los siguientes supuestos:
-
-1). La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social.
-
-2). Tratándose de sociedades mercantiles de capital variable, por los aumentos de capital en su parte variable, que se presente para su inscripción y sus modificaciones;
-
-3). La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares.
-
-III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
-
-IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
+II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
+1). La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+2). Tratándose de sociedades mercantiles de capital variable, por los aumentos de capital en su parte variable, que se presente para su inscripción y sus modificaciones;
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+3). La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción deban registrarse, incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición de los asientos registrales, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y en lo general todo aquello que genere una adecuada conservación y archivo perene de los documentos que se resguardan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 82-A.
 
-Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 82 de esta Ley, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
+Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 82 de esta Ley, si el valor excede de $1'767,805.00 (UN MILLÓN SETECIENTOS SESENTA Y SIETE MIL OCHOCIENTOS CINCO PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -932,6 +902,8 @@ Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II
 La inscripción de reestructuración de créditos, causará derechos conforme a la fracción II, artículo 82 y al artículo 82-A, únicamente sobre el monto en el que se incremente el crédito ya inscrito.
 
 El mismo procedimiento se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -967,7 +939,9 @@ El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o 
 
 La determinación del pago del derecho que establece el artículo 82, se sujetará además a las siguientes reglas:
 
-I. Los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. En relación al artículo 82-A de esta Ley, los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
 
 II. Cuando un mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
 
@@ -982,6 +956,66 @@ V. En ningún caso los derechos por los servicios prestados por el Registro Púb
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VI. Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones 82, fracción II, 82-A y 82B.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+TERCERA PARTE
+
+DE LOS SERVICIOS CATASTRALES
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTICULO 84-A.
+
+Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Registral y Catastral del Estado de Coahuila, por concepto de:
+
+I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada predio.
+
+II. Por la realización y emisión del avalúo catastral de predios urbanos y rústicos, el 1.8 al millar del valor concluido. El avalúo tendrá vigencia exclusivamente durante el ejercicio fiscal en el que sea emitido.
+
+III. Certificados catastrales
+
+1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
+
+2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $141.00 (CIENTO CUARENTA Y UN PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
+
+IV. Servicios fotogramétricos consistentes en:
+
+1. Copia de la información existente en los archivos digitales
+
+a) Fotografía aérea, copias de contacto de 23 x 23 cms $376.00 (TRESCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) cada una.
+
+b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,036.00 (DOS MIL TREINTA Y SEIS PESOS 00/100 M.N.) cada una.
+
+V. Servicios de copiado
+
+1. Copias xerográficas de planos que obren en los archivos del departamento
+
+a) Hasta 30 x 30 cms $32.00 (TREINTA Y DOS PESOS 00/100 M.N.)
+
+b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción $8.00 (OCHO PESOS 00/100 M.N.)
+
+2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $23.00 (VEINTITRÉS PESOS 00/100 M.N.) por cada uno
+
+3. Copia xerográfica del plano urbano general catastral
+
+a) Escala 1:10000 $705.00 (SETECIENTOS CINCO PESOS 00/100 M.N.)
+
+b) Escalas mayores a 1:10000 $417.00 (CUATROCIENTOS DIECISIETE PESOS 00/100 M.N.)
+
+4. Copia de la cartografía catastral urbana
+
+a) De la lámina catastral escala 1:1000 a $1,331.00 (UN MIL TRESCIENTOS TREINTA Y UN PESOS 00/100 M.N.)
+
+b) De la manzana catastral escala 1:1000 a $391.00 (TRESCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
+
+VI. Por servicios no incluidos en fracciones anteriores de $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.) a $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.)
+
+VII. Formatos catastrales valorados
+
+a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control $265.00 (DOSCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.), por cada juego.
 
 ###### ARTICULO 85.
 
@@ -1023,11 +1057,11 @@ X. Anotaciones en los registros por mandato judicial o a petición de la parte i
 
 XI. Expedición de copias certificadas, $99.00 (NOVENTA Y NUEVE PESOS 00/100 M.N.), por hoja;
 
-Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $60.00 (SESENTA PESOS 00/100 M.N.) por la expedición del formato correspondiente.
+Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por la expedición del formato correspondiente.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.)
+XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $163.00 (CIENTO SESENTA Y TRES PESOS 00/100 M.N.)
 
 XIII. Rectificaciones relativas a actas del Registro Civil, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.);
 
@@ -1061,6 +1095,10 @@ II. Apostillar documentos, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
 
 III. Presentación de examen para obtener patente de aspirante a notario, $43,364.00 (CUARENTA Y TRES MIL TRESCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. A. Presentación de examen de Notario Adjunto $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 IV. Expedición de patente de aspirante a notario, $57,820.00 (CINCUENTA Y SIETE MIL OCHOCIENTOS VEINTE PESOS 00/100 M.N.);
@@ -1068,6 +1106,10 @@ IV. Expedición de patente de aspirante a notario, $57,820.00 (CINCUENTA Y SIETE
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $72,275.00 (SETENTA Y DOS MIL DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. A. Designación de Notario Adjunto $25,000.00 (VEINTICINCO MIL PESOS 00/100 M.N.).
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -1161,7 +1203,7 @@ Las autorizaciones a que se refieren las fracciones XXV, XXVI, XXVII y XXVIII se
 
 XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,000.00 (MIL PESOS 00/100 M.N.)
 
-XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.), y (sic)
+XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.), y
 
 XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
@@ -1203,7 +1245,7 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 19. Autorizaciones en materia de explosivos, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
 
-XXXII. Por Taller de orientación prematrimonial que imparte la Defensoría Jurídica Integral del Estado, $100.00 (CIEN PESOS 00/100 M.N.);
+XXXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -1227,13 +1269,15 @@ Son sujetos de este derecho, las personas que soliciten los servicios que se est
 
 PAGO
 
-#### SECCION PRIMERA. POR SERVICIOS DEL REGISTRO PUBLICO
+#### SECCION PRIMERA. POR SERVICIOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 PRIMERA PARTE
 
-DE LA PROPIEDAD
+DEL REGISTRO DE LA PROPIEDAD
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -1243,7 +1287,7 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 ###### ARTICULO 90.
 
-Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado "Periódico Oficial del Gobierno del Estado", causarán derechos conforme a la siguiente:
+Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado “Periódico Oficial del Gobierno del Estado”, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1269,7 +1313,7 @@ V. Número del día, $20.00 (VEINTE PESOS 00/100 M.N.);
 
 VI. Números atrasados hasta 6 años, $70.00 (SETENTA PESOS 00/100 M.N.);
 
-VII. Números atrasados de más de 6 años, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); y (sic)
+VII. Números atrasados de más de 6 años, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); y
 
 VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
@@ -1315,7 +1359,7 @@ La omisión de esta obligación se considerará como infracción en términos de
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 96.
 
@@ -1377,13 +1421,13 @@ La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 104.
 
 Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 102 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 105.
 
@@ -1429,9 +1473,7 @@ Se entenderá por giro de miscelánea, la compraventa al público en general, de
 
 ### CAPITULO TERCERO. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-OBJETO
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1455,15 +1497,13 @@ Cuando el establecimiento cuente con licencia y habiendo presentado aviso de sus
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-OBJETO
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 109.
 
@@ -1505,25 +1545,21 @@ Los servicios relativos a control vehicular causarán derechos conforme a la sig
 
 TARIFA
 
-> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
 1. Para automóviles, camiones y camionetas, $1,360.00 (MIL TRECIENTOS (SIC) SESENTA PESOS 00/100 M.N.).
 
-2. Los vehículos de carga de tres o más toneladas, ómnibus y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $773.00 (SETECIENTOS SETENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+2. Los vehículos de carga de tres o más toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $773.00 (SETECIENTOS SETENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
 Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-3. Expedición de la tarjeta con vigencia anual, $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
+3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 4. Reposición por pérdida de la tarjeta de circulación, $100.00 (CIEN PESOS 00/100 M.N.).
-
-Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 II. Expedición de juego de placas para demostración de vehículos $2,070.00 (DOS MIL SETENTA PESOS 00/100 M.N.);
 
@@ -1533,15 +1569,39 @@ II-A. Refrendo anual de placas para demostración de vehículos $2,154.00 (DOS M
 
 III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
 
-IV. Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Expedición de placa y tarjeta de circulación, o refrendo anual para motocicleta, motocicleta todo terreno de cuatro llantas o vehículo utilitario recreacional, $268.00 (DOSCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-V. Tarjetón Estatal de Registro Vehicular $300.00 (TRESCIENTOS PESOS 00/100 M.N.)
+V. Tarjetón Estatal de Registro Vehicular $300.00 (TRESCIENTOS PESOS 00/100 M.N).
 
 VI. Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
 1. Automóviles, camiones y camionetas, $600.00 (SEISCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El otorgamiento de placas especiales para personas con discapacidad o de un familiar, cuando dicho vehículo sea utilizado para trasladarlo deberá sujetarse a lo siguiente:
+
+a) Se otorgarán placas metálicas solamente a un vehículo que sea propiedad de personas con discapacidad o de un familiar, cuando dicho vehículo sea utilizado para trasladarlo.
+
+b) Se otorgarán placas metálicas, de igual forma, a personas morales que atiendan a personas con discapacidad y utilicen vehículos para su traslado. En este caso no aplicará la limitante de un solo vehículo.
+
+c) Cuando el vehículo no sea propiedad de la persona con discapacidad, el propietario del vehículo deberá acreditar mediante información testimonial, el grado de parentesco y dependencia, el que en todo caso deberá ser por consanguinidad en línea recta o su cónyuge.
+
+d) En todos los casos, deberá presentarse constancia médica expedida por institución oficial, con la que se acredite que el tipo y grado de la discapacidad es permanente.
+
+e) Contar con licencia de conducir vigente y estar al corriente en los pagos de los Derechos de Control Vehicular.
+
+f) En todos los casos, se deberá requisitar el formato autorizado por las autoridades competentes y acompañar la documentación que en él se indica.
+
+g) Realizar el pago de derechos correspondientes para la dotación de las placas especiales para personas con discapacidad, el cual será el mismo costo señalado en el numeral 1, de la presente fracción.
+
+h) Las personas físicas que padezcan una incapacidad parcial temporal, podrán solicitar ante la Administración Fiscal General, el otorgamiento de un tarjetón el cual podrá tener vigencia hasta por tres meses, que les permitirá ocupar lugares preferentes en los estacionamientos públicos o privados, reservados para personas con discapacidad.
+
+Para el otorgamiento del tarjetón que se describe en el párrafo que antecede, los interesados deberán presentar constancia médica expedida por institución oficial, con la que se acredite que el tipo y grado de la discapacidad es parcial temporal, además deberán contar con licencia de conducir vigente y estar al corriente de sus obligaciones relativas a control vehicular.
 
 2. Vehículos de servicio público, $680.00 (SEISCIENTOS OCHENTA PESOS 00/100 M.N.); y
 
@@ -1558,6 +1618,20 @@ IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $40.00 (CUARENTA PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
 XI. La baja de placas del Estado y de otros Estados $10.00. (DIEZ PESOS 00/100 M.N.)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los contribuyentes que realicen la enajenación de los vehículos objeto de los derechos previstos en el presente artículo, así como los propietarios de vehículos que hayan perdido la funcionalidad para seguir circulando en el Estado, están obligados a llevar a cabo ante las autoridades correspondientes la baja del Padrón Vehicular de los vehículos en cuestión, dentro de los quince días hábiles siguientes a que se dé el supuesto correspondiente, en caso omiso serán responsables de las contribuciones que se causen y se sigan causando, entre tanto no tramiten la baja.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Son solidariamente responsables del pago de los derechos establecidos en esta Sección:
+
+1. Quienes por cualquier título, adquieran la propiedad, del vehículo, por el adeudo de los derechos que en su caso existieran.
+
+2. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo de los derechos que en su caso existieran.
+
+3. Las autoridades, que autoricen el registro de vehículos, o altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por estos derechos, correspondientes a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 OBLIGACIONES
 
@@ -1599,7 +1673,7 @@ Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en es
 
 #### SECCION SEGUNDA. DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
 
 OBJETO
 
@@ -1637,11 +1711,11 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 #### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 124.
 
-Los servicios prestados por el Servicio de Administración Fiscal General, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
+Los servicios prestados por la Administración Fiscal General, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1673,9 +1747,11 @@ PAGO
 
 El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por Administración Fiscal General.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 191 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, SE ADVIERTE QUE LOS ANTERIORES CAPÍTULOS CUARTO Y QUINTO QUEDARON COMPRENDIDOS EN EL ACTUAL CAPÍTULO CUARTO]</small>
 
-### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA Y TRANSPORTE
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO QUINTO-BIS
 
 ###### ARTÍCULO 127.
 
@@ -1765,17 +1841,21 @@ El pago de los derechos a que se refiere este Capítulo deberá efectuarse en la
 
 EXENCIONES
 
-### CAPITULO QUINTO-BIS. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 130.
 
 Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 131.
 
-Los servicios prestados por la Secretaría de Infraestructura y Transporte, causarán derechos conforme a la siguiente:
+Los servicios prestados por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, relativos al control de transporte público, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1785,39 +1865,37 @@ I. Expedición de tarjetas de circulación y calcomanía con número identificat
 
 2. Remolque de servicio público, $620.00 (SEISCIENTOS VEINTE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Tarjetón de identificación del servicio público de transporte, $328.00 (TRESCIENTOS VEINTIOCHO PESOS 00/100 M.N)
+II. Tarjetón de identificación para operadores del servicio público de transporte, $358.00 (TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N).
 
 III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $160.00 (CIENTO SESENTA PESOS 00/100 M.N.); y
 
-IV. Expedición de licencias para conducir vehículos:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+IV. Expedición de licencias para conducir vehículos con vigencia de dos años:
 
-1. Motociclista $112.00 (CIENTO DOCE PESOS 00/100 M.N.);
+1. Tipo A: Chofer particular $447.00 (CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+2. Tipo B: Chofer de transporte público $424.00 (CUATROCIENTOS VEINTICUATRO PESOS 00/100 M.N.)
 
-2. Chofer servicio particular $410.00 (CUATROCIENTOS DIEZ PESOS 00/100 M.N.);
+3. Tipo C: Motociclista $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.).
 
-3. Automovilista:
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+V. Examen Pericial de manejo y de conocimientos reglamentarios y fotografía digitalizada en la licencia, $86.00 (OCHENTA Y SEIS PESOS 00/100 M.N.).
 
-a. $371.00 (TRESCIENTOS SETENTA Y UN PESOS 00/100 M.N.) expedida con una vigencia de 2 años;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $50.00 (CINCUENTA PESOS 00/100 M.N.).
 
-c. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-4. Chofer de servicio público $400.00 (CUATROCIENTOS PESOS 00/100 M.N.);
+VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $50.00 (CINCUENTA PESOS 00/100 M.N.).
 
-5 Chofer para transporte de materiales peligrosos, $500.00 (QUINIENTOS PESOS 00/100 M.N.); y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-V. Examen teórico-práctico de conocimientos viales y fotografía digitalizada en la licencia, $79.00 (SETENTA Y UN PESOS 00/100 M.N.).
+VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
 
 OBLIGACIONES
 
@@ -1827,11 +1905,7 @@ El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajena
 
 Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+### CAPITULO SEXTO BIS. POR SERVICIOS DE LA SECRETARIA DE CULTURA
 
 ###### ARTICULO 133.
 
@@ -1859,7 +1933,9 @@ Los documentos relativos a los servicios de control vehicular serán entregados 
 
 La falta de pago oportuno de los derechos a que se refiere el artículo 131 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-### CAPITULO SEXTO BIS. POR SERVICIOS DE LA SECRETARIA DE CULTURA
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 137.
 
@@ -1875,11 +1951,13 @@ En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal pod
 
 Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo en que se hubiere practicado sobre su vehículo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 138-A.
 
-Los servicios que presta la Secretaría de Infraestructura y Transporte, causarán los derechos siguientes:
+Los servicios que presta la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, relativos a la infraestructura causarán los derechos siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
@@ -1890,6 +1968,8 @@ I. Por la expedición del permiso para la instalación de anuncios publicitarios
 3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 veces el valor diario de la Unidad de Medida y Actualización.
 
 4. Señales informativas: 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -1917,7 +1997,11 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 12. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
 
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
 III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
@@ -1941,33 +2025,41 @@ El pago de los derechos a que se refiere este Capítulo deberá efectuarse en la
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
-
 ###### ARTICULO 138-E.
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 22 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN TERCERA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+#### SECCION CUARTA. POR OTROS SERVICIOS
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 139.
 
-Los servicios prestados por la Secretaría de Infraestructura y Transporte, causarán derechos conforme a la siguiente:
+Los otros servicios prestados por la (sic) de Infraestructura, Desarrollo Urbano y Movilidad, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-I. Concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras locales:
+I. Concesiones de ruta para explotar el servicio de transporte de pasajeros en vías públicas del Estado:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 1. Expedición, por 30 años derivada de licitación, $30,000.00 (TREINTA MIL PESOS 00/100 M.N.); y
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 2. Renovación de concesión (prórroga de concesión por 30 años) $30,000.00 (TREINTA MIL PESOS 00/100 M.N.)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
 
@@ -1977,7 +2069,7 @@ II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta año
 
 3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 III. Concesión estatal para servicio de transporte de agua:
 
@@ -1987,7 +2079,7 @@ III. Concesión estatal para servicio de transporte de agua:
 
 3. Refrendo anual de concesión, $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
 
@@ -1995,7 +2087,7 @@ IV. Permiso con vigencia de cinco años para servicio de transporte especializad
 
 2. Refrendo $920.00 (NOVECIENTOS VEINTE PESOS 00/100 M.N.); y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 V. Permiso con vigencia de cinco años para servicio de transporte especializado para trabajadores (TRANSPORTE DE PERSONAL)
 
@@ -2019,15 +2111,23 @@ VI. Permiso con vigencia de 5 años para el servicio de transporte de personal p
 
 VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,176.00 (DOS MIL CIENTO SETENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VIII. Permiso anual para servicio de transporte especializado de carga:
+VIII. Permiso anual para servicio de transporte de carga:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 1. De comestibles, $1,025.00 (MIL VEINTICINCO PESOS 00/100 M.N);
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 2. De minerales, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
 
-3. Material de construcción, $2,165.00 (DOS MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.); y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+3. Distribuidores de materiales de construcción, $2,642.00 (DOS MIL SEISCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 4. Otros productos, $1,025.00 (MIL VEINTICINCO PESOS 00/100 M.N.);
 
@@ -2035,9 +2135,9 @@ VIII. Permiso anual para servicio de transporte especializado de carga:
 
 IX. Permiso anual para grúas, $2,165.00 (DOS MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-X. Transferencia de concesiones, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+X. Cesión o transmisión de concesiones, $3,164.00 (TRES MIL CIENTO SESENTA Y CUATRO PESOS 00/100 M.N.);
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2047,13 +2147,13 @@ XI. Autorización de nueva ruta $12,970.00 (DOCE MIL NOVECIENTOS SETENTA PESOS 0
 
 XII. Ampliación de ruta del servicio de transporte de pasajeros, $6,381.00 (SEIS MIL TRESCIENTOS OCHENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIII. Permiso temporal hasta por treinta días naturales para circular fuera de ruta, $659.00 (SEISCIENTOS CINCUENTA Y NUEVE PESOS 001100 M.N.);
+XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $802.00 (OCHOCIENTOS DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIV. Revisión mecánica a vehículos de servicio público, $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.);
+XIV. Revisión físico mecánica a vehículos de servicio público, $165.00 (CIENTO SESENTA Y CINCO PESOS 00/100 M.N.);
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2063,9 +2163,7 @@ XV. Verificación de emisiones de contaminantes, $105.00 (CIENTO CINCO PESOS 00/
 
 XVI. Constancia de extravío de documentos $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.); y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XVII. Por la autorización para operar y por prórroga para operar las Escuelas de Manejo, conforme al Reglamento de la Ley de Tránsito y Transporte $24,016.00 (VEINTICUATRO MIL DIECISEIS PESOS 00/100 M.N.);
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2075,9 +2173,9 @@ XVIII. Derecho de preferencia por parcela, $567.39 (QUINIENTOS SESENTA Y SIETE P
 
 XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $1,702.17 (MIL SETECIENTOS DOS PESOS 17/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $8,900.00 (OCHO MIL NOVECIENTOS PESOS M/N) por vehículo.
+XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $27,000.00 (VEINTISIETE MIL 00/100 M.N.).
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -2107,6 +2205,14 @@ XXV. Permiso anual para el transporte mixto y de pasaje $1,100.00 (MIL CIEN PESO
 
 XXVI. Permiso anual para el transporte de carga de agua potable $1,725.00 (MIL SETECIENTOS VEINTICINCO PESOS M/N)
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $8,900.00 (OCHO MIL NOVECIENTOS PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,000.00 (TRES MIL PESOS 00/100 M.N.).
+
 SUJETO
 
 ###### ARTICULO 140.
@@ -2133,13 +2239,11 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
+### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 142.
 
@@ -2163,7 +2267,7 @@ III. Constancia de registro de título y no sanción $250.00 (DOSCIENTOS CINCUEN
 
 IV. Constancia de registro de título y expedición de cédula profesional en trámite $100.00 (CIEN PESOS 00/100 M.N,);
 
-V. (DEROGADA. P.O. 20 DE DICIEMBRE DE 2013)
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 VI. Registro de institución educativa $6,000.00 (SEIS MIL PESOS 00/100 M.N.):
 
@@ -2189,19 +2293,7 @@ XVI. Por trámite de reconocimiento de validez oficial de estudios de educación
 
 XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.);
 
-XVIII. (DEROGADA. P.O. 20 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
-
-1. De las escuelas particulares de educación inicial, preescolar, primaria, formación para el trabajo, y secundaria, $45.00 (CUARENTA Y CINCO PESOS 00/100 M.N.) por alumno.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
-
-2. Bachillerato, academias comerciales, técnico medio, técnico superior y educación superior $45.00 (CUARENTA y CINCO PESOS 00/100 M.N.) por alumno.
-
-Los derechos que establece esta fracción deberán pagarse dentro del mes de octubre de cada año.
-
-La omisión en el pago de este derecho dentro del plazo establecido en el párrafo anterior, causara recargos conforme a la tasa establecido en la Ley de Ingresos para el Estado de Coahuila de Zaragoza.
+XVIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 XIX. Por autorización de examen a título de suficiencia de educación media y superior $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por alumno;
 
@@ -2247,6 +2339,20 @@ XXXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
 
 XXXII. Por constancia de estudio y certificación parcial de estudios $100.00 (CIEN PESOS 00/100 M.N.).
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXIII. Preparatoria abierta.
+
+1. Inscripción $130.00 (CIENTO TREINTA PESOS 00/100 M.N.).
+
+1 (SIC). Credencial $100.00 (CIEN PESOS 00/100 M.N.).
+
+2. Evaluación $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.).
+
+3. Certificado $630.00 (SEISCIENTOS TREINTA PESOS 00/100 M.N.).
+
+4. Constancias $160.00 (CIENTO SESENTA PESOS 00/100 M.N.).
+
 SUJETO
 
 ###### ARTICULO 143.
@@ -2258,8 +2364,6 @@ PAGO
 ###### ARTICULO 144.
 
 El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2279,9 +2383,9 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
+### CAPITULO NOVENO. POR LOS SERVICIOS DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+OBJETO
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2357,6 +2461,14 @@ XXVIII. Muestra de viabilidad, $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.)
 
 XXIX. Muestra de germinación, $167.00 (CIENTO SESENTA Y SIETE PESOS 00/100 M.N.)
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $7,813.00 (SIETE MIL OCHOCIENTOS TRECE PESOS 00/100 M.N.), por dos años.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $11,720.00 (ONCE MIL SETECIENTOS VEINTE PESOS 00/100 M.N), por dos años.
+
 SUJETO
 
 ###### ARTICULO 146.
@@ -2369,15 +2481,13 @@ PAGO
 
 El pago de los derechos a que se refiere este capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 148.
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Fiscalización y Rendición de Cuentas en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 149.
 
@@ -2393,13 +2503,13 @@ IV. Por la expedición de copias certificadas $40.00 (CUARENTA PESOS 00/100 M.N.
 
 SUJETO
 
-### CAPITULO NOVENO. POR LOS SERVICIOS DE LA SECRETARIA DE DESARROLLO ECONOMICO
+### CAPITULO DECIMO. POR SERVICIOS DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 150.
 
@@ -2412,8 +2522,6 @@ PAGO
 La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 148 de esta ley.
 
 El pago de los derechos por los servicios a que se refiere el artículo 149 de esta Ley, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2429,23 +2537,19 @@ Son sujetos a este derecho las personas físicas y morales, explotadores tratado
 
 BASE
 
-### CAPITULO DECIMO. POR SERVICIOS DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
 
 OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
 #### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 154.
 
 La base para este derecho será la tonelada o equivalencia de mineral beneficiado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 155.
 
@@ -2463,127 +2567,7 @@ PAGO
 
 #### SECCION QUINTA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACION TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
-
-ARTICULO 123 BIS.- Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Coahuilense del Catastro y la Información Territorial, por concepto de:
-
-I. Registros catastrales:
-
-1.- Revisión, cálculo y registro sobre planos de fraccionamientos y lotificaciones, incluyendo los fideicomisos de administración.
-
-a).- Urbano en general $0.44 (44/100 M.N.) por M2 vendible
-
-b).- Urbanos, viviendas populares $0.22 (22/100 M.N.) por M2 vendible
-
-c).- Campestre e industriales $0.29 (29/100 M.N.) por M2 vendible
-
-2.- Revisión, cálculo y registro sobre planos de predios
-
-a).- Urbanos sobre el valor catastral el 1.5 al millar
-
-b).- Rústicos, sobre el valor catastral el 1.5 al millar
-
-II. Certificados catastrales
-
-1.- La certificación de valores catastrales, de superficies catastrales, a nombre de propietario, poseedor o de detentador de un predio, de colindancia y dimensiones, de inexistencias de registro a nombre del solicitante y en general del manifestado datos de las que figuran en los archivos del departamento $67.00 (SESENTA Y SIETE PESOS 00/100 MN.), por cada uno.
-
-2.- Certificación de planos de predios urbanos y rústicos de los que coinciden con la información cartográfica catastral; para el trámite de adquisición de inmuebles $133.00 (CIENTO TREINTA Y TRES 00/100 M.N) por cada uno.
-
-3.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbanos de interés social $222.00 (DOSCIENTOS VEINTIDÓS PESOS 00/100 M.N.) por cada una.
-
-4.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbano y rústico $296.00 (DOSCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.) cada una.
-
-III. Servicios de inspección de campo:
-
-1.- Verificación de información $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.)
-
-2.- La visita al predio $2.22 (DOS PESOS 22/100 M.N.) por M2
-
-IV. Servicios topográficos
-
-1.- Deslinde de predios urbanos $2.96 (DOS PESOS 96/100 M.N.) por M2
-
-2.- Deslinde de predios en breña $0.37 (37/100 M.N.) por M2
-
-3.- Deslinde de predios rústicos
-
-a).- Terrenos planos desmontados $30.00 (TREINTA PESOS 00/100 M.N.) por hectárea
-
-b).- Terrenos planos con monte $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.) por hectárea
-
-c).- Terrenos con accidentes topográficos con monte $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por hectárea
-
-d).- Terrenos con accidentes topográficos desmontados $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) por hectárea
-
-e).- Terrenos accidentados $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.) por hectárea
-
-4.- Para los dos incisos anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
-
-V. Servicios fotogramétricos consistentes en:
-
-1.- Copia de la información existente en los archivos digitales
-
-a).- Fotografía aérea, copias de contacto de 23 x 23 cms. $355.00 (TRESCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.) cada una.
-
-b).- Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $1,921.00 (UN MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.) cada una.
-
-c).- Restitución fotogramétrica escala 1:5000 con curva de nivel cada 5 mts., $3,547.00 (TRES MIL QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.) Km2.
-
-VI. Servicios de dibujo
-
-1.- Dibujo de planos urbanos, escalas hasta de 1:500
-
-a).- Tamaño del plano hasta 30 x 30 cms., $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.).
-
-b).- Sobre el excedente del tamaño anterior por decímetro cuadrado o fracción $9.00 (NUEVE PESOS 00/100 M.N.).
-
-2.- Dibujo de planos topográficos suburbanos y rústicos, escala mayor a 1:500 y tamaño del plano hasta 50 x 50 cms.
-
-a).- Polígono de hasta seis vértices $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.)
-
-b).- Por cada vértice adicional $9.00 (NUEVE PESOS 00/100 M.N.)
-
-c).- Planos que exceden de 50 x 50 cms. Sobre los dos incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción $16.00 (DIECISÉIS PESOS 00/100 M.N).
-
-3.- Croquis de localización $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.)
-
-4.- Servicios de digitalización y graficación de información cartográfica
-
-a).- De información catastral existente de $ 1,626.00 (UN MIL SEISCIENTOS VEINTISÉIS PESOS 00/100 M.N.) por Km2.
-
-b).- De proyectos especiales $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.) por Km2.
-
-c).- Plano de la ciudad digitalizado $5,173.00 (CINCO MIL CIENTO SETENTA Y TRES PESOS 00/100 M.N.)
-
-d).- Lámina catastral digitalizada $6,651.00 (SEIS MIL SEISCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.)
-
-VII. Servicios de copiado
-
-1.- Copias xerográficas de planos que obren en los archivos del departamento
-
-a).- Hasta 30 x 30 cms. $30.00 (TREINTA PESOS 00/100 M.N.)
-
-b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción $7.40 (SIETE PESOS 40/100 M.N.).
-
-2.- Copias fotostáticas de planos o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $ 22.00 (VEINTIDÓS PESOS 00/100 M.N.) por cada uno.
-
-3.- Copia xerográfica del plano urbano general catastral
-
-a).- Escala 1:10000 $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
-
-b).- Escalas mayores a 1:10000 a $393.00 (TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.)
-
-4.- Copia de la cartografía catastral urbana
-
-a).- De la lámina catastral escala 1:1000 a $ 1,256.00 (UN MIL DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.)
-
-b).- De la manzana catastral escala 1: 1000 a $369.00 (TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.)
-
-5.- Por otros servicios catastrales no incluidos en fracciones anteriores de $49.00 (CUARENTA Y NUEVE PESOS 00/100 M.N.) a $689.00 (SEISCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
-
-VIII. Formatos catastrales valorados
-
-1.- Forma de declaración para el pago del ISAI, en original y cinco copias así como folio de control $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada juego.
+ARTICULO 123 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 156.
 
@@ -2611,39 +2595,41 @@ III. Por otros servicios no especificados, $239.00 (DOSCIENTOS TREINTA Y NUEVE P
 
 PAGO
 
-### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO DÉCIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-OBJETO
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
 
-#### SECCION TERCERA (SIC). POR OTROS SERVICIOS
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
 
 #### SECCION PRIMERA
 
 POR SERVICIOS DE LA COMISION ESTATAL DE VIVIENDA Y COMISION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA Y RUSTICA DE COAHUILA.
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
 
-#### SECCION PRIMERA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
+#### SECCION SEGUNDA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN SEGUNDA. POR SERVICIOS DE INFRAESTRUCTURA
+#### SECCIÓN TERCERA. POR SERVICIOS DE INFRAESTRUCTURA
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
-### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+
+OBJETO
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
 
 OBJETO
 
@@ -2661,7 +2647,7 @@ SUJETO
 
 Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 161.
 
@@ -2697,47 +2683,85 @@ El pago de los servicios y gastos a que se refiere este Capítulo, deberá efect
 
 La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 164.
 
-(DEROGADO, P.O. 8 DE MAYO DE 2012)
+Los servicios que se presten por el Poder Judicial del Estado distintos a los materialmente jurisdiccionales, en cualquiera de sus órganos.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 165.
 
-(DEROGADO, P.O. 8 DE MAYO DE 2012)
+Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
-OBJETO
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
 
 ###### ARTICULO 166.
 
-(DEROGADO, P.O. 8 DE MAYO DE 2012)
+Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $200.00 (DOSCIENTOS PESOS 00/100 M.N.) por pareja.
+
+II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
+
+III. Búsqueda de datos en el Archivo General Judicial, $50.00 (CINCUENTA PESOS 00/100 M.N.)
+
+IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
+
+V. Certificación de mediadores, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
+
+VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias. $500.00 (QUINIENTOS PESOS 00/100 M.N.)
+
+VII. Certificación como mediador privado capacitado por otras instituciones, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
+
+VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $300.00 (TRESCIENTOS PESOS 00/100 M.N.)
+
+IX. Copia simple $1.50 (UN PESO 50/100 M.N.)
+
+X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.)
+
+XI. Constancia de no registro en el REDAM, $100.00 (CIEN PESOS 00/100 M.N.).
+
+XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $30.00 (TREINTA PESOS 00/100 M.N)
+
+XIII. Reposición de credencial institucional $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.)
+
+XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.)
+
+XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $500.00 (QUINIENTOS PESOS 00/100 M.N.) por hora.
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 167.
 
-(DEROGADO, P.O. 8 DE MAYO DE 2012)
+El pago de los servicios a que se refiere este Capítulo, deberán efectuarse en las Instituciones de Crédito o establecimientos o medios autorizados, previamente a la prestación del servicio.
 
 ###### ARTICULO 168.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 169.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 170.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
+OBJETO
 
 ###### ARTICULO 171.
 
@@ -2746,10 +2770,6 @@ OBJETO
 #### SECCION SEGUNDA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 OBJETO
-
-#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 172.
 
@@ -2761,7 +2781,7 @@ SUJETO
 
 Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 174.
 
@@ -2891,7 +2911,9 @@ En lo no previsto en este Capítulo, la aplicación y recaudación de las contri
 
 Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
-No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Tenencia o Uso de Vehículos, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos teatrales y de circo, al Impuesto Sobre Hospedaje, al Impuesto Sobre Ingresos por Permisos Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los Servicios que presta el Registro Público, los Derechos que se causen por los Servicios que presta la Secretaría de Educación Pública, y los que se causen por los Servicios prestados por las Dependencias de la Administración Pública Centralizada, relativas al Derecho de Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Tenencia o Uso de Vehículos, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos teatrales y de circo, al Impuesto Sobre Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los Servicios de Registro Público, así como los Derechos que se causen por los servicios que presta el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, previstos en los artículos 79, fracción II y 82, fracción II de esta Ley, los Derechos que se causen por los Servicios que presta la Secretaría de Educación Pública, y los que se causen por los Servicios prestados por las Dependencias de la Administración Pública Centralizada, relativas al Derecho de Acceso a la Información Pública.
 
 El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación y de la seguridad pública en el Estado.
 
@@ -2915,7 +2937,7 @@ La tasa correspondiente a esta contribución para el fomento a la educación y d
 
 PAGO
 
-### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
 
 OBJETO
 
@@ -2961,15 +2983,13 @@ El pago de esta contribución deberá efectuarse en las autoridades fiscales, In
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015, EL ARTÍCULO 192 MUESTRA UNA ACTUALIZACIÓN.]</small>
-
 ###### ARTICULO 192.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ## TITULO V. PRODUCTOS
 
-PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
 
 ###### ARTICULO 216.
 
@@ -3055,7 +3075,7 @@ VII. Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donacione
 
 VIII. Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o de particulares;
 
-IX. Honorarios de notificación; y (sic)
+IX. Honorarios de notificación; y
 
 X. Recursos provenientes de ahorros presupuestales; así como aquellos recaudados por cualquier otro concepto, que exceda del presupuesto de operación autorizado para los organismos y entidades públicas, incluso los provenientes de financiamientos; y
 
@@ -3124,8 +3144,6 @@ BASE
 ###### ARTICULO 219.
 
 Quedan comprendidos dentro de esta clasificación los ingresos cuya percepción se decrete excepcionalmente para proveer el pago de gastos o inversiones accidentales, extraordinarias o especiales del Estado, así como los derivados de créditos o empréstitos contratados para este fin.
-
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 ###### ARTICULO 196.
 
@@ -3237,10 +3255,6 @@ Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el pro
 
 Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
-
-OBJETO
-
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -3251,9 +3265,13 @@ El presente Decreto entrará en vigor el día primero de enero de 2012.
 
 Se abroga la Ley de Hacienda para el Estado de Coahuila de Zaragoza contenida en el Decreto No. 453, publicada en el Periódico Oficial del Estado No. 102 de fecha 22 de diciembre de 1995.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO TERCERO.
 
-Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
+Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, establecidos en esta ley.
+
+No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes a los Derechos que se causen por los servicios de Registro Público de la Propiedad y del Comercio, previstos en los artículos 79, fracción II y 82, fracción II de esta Ley.
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -3291,7 +3309,7 @@ LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 8 DE MAYO DE 2012.
 
@@ -3399,7 +3417,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 22 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 333.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 333.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3427,7 +3445,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 23 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 715.- SE REFORMAN LOS NUMERALES 1, 2, 3, Y 4 DE LA FRACCIÓN I, ASÍ COMO LOS NUMERALES 1, 4, 6 Y 8 DE LA FRACCIÓN II DEL ARTÍCULO 141-A; SE DEROGAN LOS ARTÍCULOS 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 51- A, 52, 53, 54, 55, 56 Y 57, ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 142, TODOS DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, CONTENIDA EN EL DECRETO NO. 541, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NO. 94 DE FECHA 25 DE NOVIEMBRE DE 2011".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 715.- SE REFORMAN LOS NUMERALES 1, 2, 3, Y 4 DE LA FRACCIÓN I, ASÍ COMO LOS NUMERALES 1, 4, 6 Y 8 DE LA FRACCIÓN II DEL ARTÍCULO 141-A; SE DEROGAN LOS ARTÍCULOS 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 51- A, 52, 53, 54, 55, 56 Y 57, ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 142, TODOS DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, CONTENIDA EN EL DECRETO NO. 541, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NO. 94 DE FECHA 25 DE NOVIEMBRE DE 2011”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3447,7 +3465,7 @@ Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 17 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3459,11 +3477,27 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 19 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1152.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1152.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día primero de enero de dos mil dieciocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 191.- DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil diecinueve.
 
 ###### ARTÍCULO SEGUNDO.
 
