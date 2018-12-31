@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2018-07-30"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -189,11 +189,19 @@ Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadam
 
 A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, se podrá transferir hasta dieciséis días del mes de descanso previo al parto para después del mismo, en caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dieciséis días de los dos meses adicionales posterior al parto, previa presentación del certificado médico correspondiente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los períodos de descanso a que se refiere el párrafo anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, percibiendo su remuneración de acuerdo a lo que prevé el artículo 170 de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Durante el período del embarazo y lactancia, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso.
+
 Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Las mujeres trabajadoras gozarán de un día hábil al año con goce íntegro de sueldo a fin de someterse a la realización de exámenes médicos de prevención de cáncer de mama y cervicouterino. Para justificar este permiso, deberán presentar el certificado médico correspondiente, expedido por una institución de salud pública o privada.
+Las servidoras y los servidores públicos, gozarán de un día hábil al año con goce íntegro de sueldo a fin de someterse a la realización de exámenes médicos de prevención de cualquier tipo de cáncer. Para justificar este permiso, deberán presentar el certificado médico correspondiente, expedido por una institución de salud pública o privada.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1304,3 +1312,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Tribunal Estatal de Conciliación y Arbitraje sustituirá las funciones del Tribunal de Arbitraje, previsto en la ya abrogada Ley de los Trabajadores al Servicio del Gobierno del Estado de Hidalgo, y funcionará de acuerdo con el reglamento interior que expida.
 
 TERCERO. Queda derogada cualquier disposición que contravenga lo establecido con los principios, bases, procedimientos y derechos reconocidos en la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 1.- QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
