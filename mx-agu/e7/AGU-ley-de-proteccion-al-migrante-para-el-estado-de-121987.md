@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-para-el-estado-de-121987"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-19"
-last_updated: "2018-12-24"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de junio de 2017.
 
@@ -69,9 +69,13 @@ II. No discriminación: El otorgamiento de los beneficios establecidos en la pre
 
 III. Interés superior de la niñez y la adolescencia: Se prestará primordial atención a la niñez y adolescencia, promoviendo acciones de coordinación interinstitucional que coadyuven a su desarrollo físico, psicológico y social, para lograr la plena garantía de sus derechos; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. Codesarrollo: Implica una manera positiva de vincular la migración con el desarrollo, reconociendo a la persona Migrante como agentes para el mismo, en el cual existe responsabilidad del estado de origen en la formulación de políticas públicas adecuadas al tema migratorio.
+IV. Codesarrollo: Implica una manera positiva de vincular la migración con el desarrollo, reconociendo al Migrante como agentes para el mismo, en el cual existe responsabilidad del estado de origen en la formulación de políticas públicas adecuadas al tema migratorio; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Unidad Familiar: Se promoverá y defenderá la no separación de las familias por motivos migratorios o por su condición de refugiado, salvo los casos en los que se acredite fehacientemente ser necesaria para garantizar el interés superior de la niñez y la adolescencia.
 
 ###### ARTÍCULO 3°.
 
@@ -215,11 +219,15 @@ V. Recibir los servicios y prestaciones de los programas de atención y protecci
 
 VI. Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII. Mantenerse al margen de cualquier condicionamiento de tipo político o partidista en la ejecución de las acciones, políticas y programas de atención a personas migrantes; y
+VII. Mantenerse al margen de cualquier condicionamiento de tipo político o partidista en la ejecución de las acciones, políticas y programas de atención a migrantes;
 
-VIII. Las demás que le confieren la presente Ley y las normas jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata; y
+
+IX. Las demás que le confieren la presente Ley y las normas jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -530,3 +538,11 @@ P.O. 24 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 78.- SE REFORMAN LOS ARTÍCULOS 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10, 11, 12, 14, 15, 16, 18, 19, 22, 24, 27, 28 Y 29; SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 1° LAS FRACCIONES DE LA IV A LA XV AL ARTÍCULO 3°, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6° Y UNA FRACCIÓN XXI AL ARTÍCULO 22, RECORRIÉNDOSE LA SUBSECUENTE, TODOS DE LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 87.- SE REFORMA LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
