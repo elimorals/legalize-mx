@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-salud-y-bienestar-5894"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-05-09"
-last_updated: "1989-05-09"
+last_updated: "2019-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD Y BIENESTAR SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD Y BIENESTAR SOCIAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SALUD DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 1 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 9 de mayo de 1989.
 
@@ -1204,3 +1206,19 @@ Lic. Enrique Romero González
 EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL
 
 Dr. Palemón Rodríguez Gómez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ENERO DE 2019.
+
+[TRANSITORIOS DEL "ACUERDO DIELAG ACU 006/2018 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO QUE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA DE SALUD DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Salud y Bienestar Social publicado en el Periódico Oficial "El Estado de Jalisco" el 09 de mayo de 1989, y sus posteriores reformas, así como las demás disposiciones reglamentarias o acuerdos administrativos expedidos por el titular del Ejecutivo del Estado en materia de salud y hospitales, que se opongan al mismo.
+
+TERCERO. Se faculta a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para que, de conformidad con el artículo Quinto Transitorio del Decreto 27225/LXII/18 mediante el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1° de enero al 31 de diciembre de 2019, sus Anexos y la Plantilla de Personal, lleven a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Acuerdo.
+
+CUARTO. La estructura orgánica y la plantilla de personal de la Secretaría de Salud señalada en este acuerdo, quedará sujeta a la disponibilidad de recursos conforme al Presupuesto de Egresos autorizado.
+
+QUINTO. La Secretaría de Salud deberá llevar a cabo la revisión y actualización de los manuales administrativos correspondientes, con la participación que corresponda a otras dependencias, dentro de los 180 días posteriores a que el presente Reglamento entre en vigor.
