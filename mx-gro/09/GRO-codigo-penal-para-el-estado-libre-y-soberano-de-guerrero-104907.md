@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2017-12-15"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -37,7 +37,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local, 8º fracción I y 127 párrafos primero y tercero de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso decreta y expide el siguiente:
 
@@ -2551,6 +2553,8 @@ Cuando el sujeto activo sea servidor público, se le impondrá, además, destitu
 
 ### Capítulo VI. Extorsión
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2019)</small>
+
 ###### Artículo 223.
 
 Robo
@@ -2823,9 +2827,9 @@ A quien se coloque en estado de insolvencia, con el objeto de eludir las obligac
 
 ###### Artículo 243.
 
-Extorsión
+Extorsión.
 
-A quien obligue a otra persona a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro indebido para sí o para una tercera persona, causando a alguien un perjuicio patrimonial, se le impondrán de cinco a quince años de prisión y de doscientos cincuenta a mil quinientos días multa.
+A quien obligue a otra persona a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro indebido para sí o para una tercera persona, causando a alguien un perjuicio patrimonial, se le impondrán de diez a veinticinco años de prisión y de doscientos cincuenta a mil Unidades de Medida y Actualización.
 
 ###### Artículo 244.
 
@@ -2835,11 +2839,17 @@ La sanción se incrementará hasta en dos terceras partes más cuando el delito 
 
 I. En la comisión del delito intervengan dos o más personas armadas;
 
-II. El agente sea o se ostente como miembro de una asociación delictuosa;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2019)</small>
+
+II. El agente sea o se ostente como miembro de una asociación delictuosa y, o emplee cualquier mecanismo coercitivo de intimidación o amenaza, con el objeto de consumar el delito.
 
 III. Se cometa en contra de menor de edad o de persona mayor de sesenta años o cuando no tenga la capacidad para comprender el significado del hecho, y
 
 IV. El sujeto activo sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las instituciones de prevención o persecución de delitos, administración de justicia o reinserción social; asimismo, cuando porte vestimentas o instrumentos de identificación de los utilizados por integrantes de instituciones de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2019)</small>
+
+V. Cuando el delito se cometa en contra de quien realice actividades comerciales, empresariales, de servicios públicos o privados, y cuya personalidad legal sea física o moral así como los vinculados a la docencia.
 
 Además de las sanciones que correspondan conforme a los párrafos anteriores, si el agente es servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
 
@@ -4634,3 +4644,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el portal oficial del Congreso del Estado, para su difusión.
+
+P.O. 1 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 15 POR EL CUAL SE REFORMA EL ARTÍCULO 243, Y ADICIONA TEXTO A LA FRACCIÓN II Y CREA LA FRACCIÓN V DEL ARTÍCULO 244 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
