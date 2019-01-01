@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-transparencia-e-informacion-publica-464
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-24"
-last_updated: "2005-09-24"
+last_updated: "2019-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "JAL"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 1 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO DE LA LEY DE TRANSPARENCIA E INFORMACION PUBLICA PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO
+REGLAMENTO DE LA LEY DE TRANSPARENCIA E INFORMACIÓN PÚBLICA PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado, el sábado 24 de septiembre de 2005
 
@@ -473,3 +473,37 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU 013/2018 DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO QUE EXPIDE EL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Acuerdo DIGELAG 044/2005 a través del cual se expide el Reglamento de la Ley de Transparencia e Información Pública para el Poder Ejecutivo del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco" el 24 de septiembre de 2005, sección III.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Acuerdo DIGELAG ACU 017/2012 mediante el cual se establece que el Despacho del Gobernador y la Secretaría General de Gobierno tendrán una sola Unidad de Transparencia, publicado en el Periódico Oficial "El Estado de Jalisco" el 31 de marzo de 2012, sección VI.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Decreto 01/2013 mediante el cual se crea la Coordinación General de Transparencia e Información Pública como Unidad Administrativa de Apoyo al Gobernador del Estado, publicado en el Periódico Oficial "El Estado de Jalisco" el 20 de abril de 2013, sección II.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a los titulares de las unidades administrativas y dependencias señaladas en el presente reglamento para que realicen las gestiones para las adecuaciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del presente.
+
+###### ARTÍCULO SEXTO.
+
+El portal estatal oficial donde se publica y actualiza la información fundamental deberá habilitarse para reflejar la estructura señalada en el artículo 13 del presente reglamento, en un plazo máximo de 8 ocho meses a partir de su entrada en vigor; correspondiendo a la Coordinación General de Transparencia, coordinar su implementación. Mientras las adecuaciones necesarias se realizan, se continuará con la publicación y actualización de la información fundamental en los términos previos a la entrada en vigor del presente.
+
+###### ARTÍCULO SÉPTIMO.
+
+El presente reglamento deberá ser notificado al Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, para los efectos legales que haya a lugar, así como las adecuaciones administrativas necesarias que permitan el funcionamiento de la estructura en la materia.
