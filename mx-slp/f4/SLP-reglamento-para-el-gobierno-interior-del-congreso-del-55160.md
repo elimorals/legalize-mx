@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2018-07-30"
+last_updated: "2019-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -953,11 +953,11 @@ III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en fo
 
 IV. La discusión en el Pleno de los dictámenes será una sola vez en lo general y en lo particular, conforme a lo dispuesto y su votación será nominal.
 
-REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 89.
 
-Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será remitida vía electrónica a los diputados.
+Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, así como el proyecto del orden del día de la sesión correspondiente, serán remitidos vía electrónica a los·diputados.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -2692,3 +2692,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A la entrada en vigor del presente Decreto, se abroga el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí, publicado en el Periódico Oficial del Gobierno del Estado el 20 de noviembre de 2008.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0049 BIS.- SE REFORMA EL ARTÍCULO 89 EN SU PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
