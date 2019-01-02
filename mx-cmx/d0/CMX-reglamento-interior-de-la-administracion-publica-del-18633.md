@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2018-10-17"
+last_updated: "2019-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 2 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
-NOTA 2: DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 17 DE OCTUBRE DE 2018, LAS REFERENCIAS HECHAS A LA DIRECCIÓN GENERAL DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A UNA DIRECCIÓN DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A LA DIRECCIÓN DE SEGUIMIENTO DE OBRAS DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A LAS CONTRALORÍAS INTERNAS EN ALGUNA DELEGACIÓN, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LA DIRECCIÓN DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LA DIRECCIÓN DE SEGUIMIENTO DE OBRAS DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LAS CONTRALORÍAS INTERNAS EN ALCALDÍAS.
+NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 3: DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 17 DE OCTUBRE DE 2018, LAS REFERENCIAS HECHAS A LA DIRECCIÓN GENERAL DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A UNA DIRECCIÓN DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A LA DIRECCIÓN DE SEGUIMIENTO DE OBRAS DE CONTRALORÍAS INTERNAS EN DELEGACIONES O A LAS CONTRALORÍAS INTERNAS EN ALGUNA DELEGACIÓN, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LA DIRECCIÓN DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LA DIRECCIÓN DE SEGUIMIENTO DE OBRAS DE CONTRALORÍAS INTERNAS EN ALCALDÍAS O A LAS CONTRALORÍAS INTERNAS EN ALCALDÍAS.
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -21017,3 +21019,47 @@ QUINTO.- Los asuntos, procedimientos, contratos, convenios, derechos y obligacio
 SEXTO.- Las referencias en este Reglamento y demás disposiciones jurídicas y administrativas aplicables, hechas a la Dirección General de Contralorías Internas en Delegaciones o a una Dirección de Contralorías Internas en Delegaciones o a la Dirección de Seguimiento de Obras de Contralorías Internas en Delegaciones o a las contralorías internas en alguna delegación, se entenderán hechas a la Dirección General de Contralorías Internas en Alcaldías o a la Dirección de Contralorías Internas en Alcaldías o a la Dirección de Seguimiento de Obras de Contralorías Internas en Alcaldías o a las Contralorías Internas en Alcaldías.
 
 SÉPTIMO.- En tanto el Congreso de la Ciudad de México emite nuevas leyes en el ámbito de las Alcaldías acordes a la Constitución Política de la Ciudad de México, todo nuevo procedimiento o asunto relativo a las Alcaldías que sea competencia o esté a cargo del Órgano Interno de Control de la Administración Pública y sus unidades administrativas, se tramitará atendiendo a las disposiciones jurídicas aplicables a las delegaciones en lo que no se oponga al régimen de las Alcaldías.
+
+G.O. 2 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Reglamento Interior de la Administración Pública del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 28 de diciembre de 2000.
+
+CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Reglamento, y en particular aquellos Acuerdo o Decretos mediante los cuales se crean Órganos Desconcentrados de la Administración Pública distintos de los que aparecen en este Reglamento.
+
+QUINTO.- Los recursos humanos, materiales, técnicos y financieros de las direcciones generales que se extinguen, por virtud de este Reglamento, se transferirán a las Unidades Administrativas que asumen sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables y la Secretaría de Administración y Finanzas.
+
+SEXTO.- Los asuntos, competencia de las nuevas Unidades Administrativas, que antes de la entrada en vigor del presente Reglamento correspondían a otra Unidad Administrativa distinta, seguirán siendo tramitados y resueltos por las Unidades Administrativas que adquieren las atribuciones de aquellas.
+
+SÉPTIMO.- Las Unidades Administrativas que por virtud de este Reglamento se modifican, deberán adecuar sus estructuras orgánicas y actualizar sus Manuales de Organización y Procedimientos en los plazos y condiciones que establezca la Secretaría de Administración y Finanzas.
+
+OCTAVO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Reglamento hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+NOVENO.- Por lo que se refiere al Órgano Desconcentrado denominado Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal, en tanto no se expida la Ley del Sistema Integral de Derechos Humanos, se seguirá rigiéndose por la Ley del Programa de Derechos Humanos del Distrito Federal.
+
+DÉCIMO.- El Centro de Comando, Control, Comunicaciones y Contacto Ciudadano de la Ciudad de México, la Agencia Digital de Innovación Pública de la Ciudad de México y la Secretaría de Administración y Finanzas, realizarán en el ámbito de sus respectivas competencias, las adecuaciones jurídico-administrativas y presupuestales necesarias para la transferencia y asignación de los recursos humanos, materiales y financieros con los que actualmente cuenta la Dirección General del Servicio Público de Localización Telefónica (LOCATEL), a la referida Agencia.
+
+DÉCIMO PRIMERO.- Los asuntos en trámite a cargo de los órganos internos de control que se extinguen derivado de la extinción de los entes públicos por virtud del presente decreto, se continuarán hasta su conclusión por el órgano interno de control correspondiente en el ente público que asume las atribuciones del ente público extinto o por las Unidades Administrativas o Unidades Administrativas De Apoyo Técnico Operativo de la Secretaría de la Contraloría General en el ámbito de sus respectivas atribuciones.
+
+DÉCIMO SEGUNDO.- Por lo que hace a las Unidades Administrativas de la Secretaría de la Contraloría General y respecto a las referencias a la Ley Federal de Responsabilidades de los Servidores Públicos, al Procedimiento Administrativo Disciplinario y demás instituciones de dicha legislación, se entenderán aplicables hasta la conclusión de los procedimientos respectivos, de conformidad con el Artículo Tercero Transitorio, párrafo cuarto de la Ley General de Responsabilidades Administrativas y Artículos Segundo y Octavo Transitorios de la Ley de Responsabilidades Administrativas de la Ciudad de México.
+
+La persona Titular de la Dirección General de Responsabilidades Administrativas, así como cada titular de un órgano interno de control definirán dentro de las Unidades Administrativas de Apoyo Técnico Operativo que tienen adscritas, las que atenderán los procedimientos administrativos disciplinarios, señalados en párrafo anterior.
+
+DÉCIMO TERCERO. Con motivo de la reforma a la Ley Orgánica de la Administración Pública de la Ciudad de México, de septiembre de 2017 por virtud de la cual la Contraloría General cambia de atribuciones y denominación por Secretaría de la Contraloría General de la Ciudad de México y en atención a los principios de economía y austeridad, resultan igualmente validos los documentos, instrumentos, actos, logotipos, formatos, papelería, formas valoradas para trámites, leyendas, y demás insumos que desde la fecha indicada y hasta la entrada del presente Reglamento, se hayan utilizado con la imagen oficial y denominación de la Contraloría General de la Ciudad de México o de la Secretaría de la Contraloría General.
+
+A partir de la entrada en vigor del presente Reglamento, sólo podrá utilizarse la denominación de la Secretaría de la Contraloría General.
+
+DÉCIMO CUARTO.- Hasta en tanto siga en funciones la Junta Local de Conciliación y Arbitraje de la Ciudad de México corresponde a la Secretaría de Trabajo y Fomento al Empleo, por conducto de la Dirección General de Trabajo y Previsión Social, llevar a cabo las actividades necesarias para la coordinación de la integración y establecimiento de esa Junta.
+
+DÉCIMO QUINTO.- Las referencias hechas a la Dirección General de Imagen, Alumbrado Público y Gestión de los Residuos Sólidos Urbanos, y a la Dirección General de Infraestructura Vial, ambas de la entonces Agencia de Gestión Urbana, en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del artículo Transitorio Vigésimo de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y del presente Reglamento, a la Secretaría de Obras y Servicios, se entenderán referidas a esta última Dependencia, quien las ejercerá a través de la Dirección General de Servicios Urbanos y Sustentabilidad y la Dirección General de Obras de Infraestructura Vial, en el ámbito de sus respectivas competencias.
+
+Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite en la Dirección General de Imagen, Alumbrado Público y Gestión de los Residuos Sólidos Urbanos, y en la Dirección General de Infraestructura Vial, ambas de la entonces Agencia de Gestión Urbana, y se relacionan con las atribuciones que se confieren a la Dirección General de Servicios Urbanos y Sustentabilidad y la Dirección General de Obras de Infraestructura Vial, ambas adscritas a la Secretaría de Obras y Servicios por virtud de este ordenamiento, serán atendidos y resueltos por estas últimas Direcciones Generales en el ámbito de sus respectivas competencias.
+
+Los recursos humanos, financieros y materiales asignados a la Dirección General de Imagen, Alumbrado Público y Gestión de los Residuos Sólidos Urbanos y a la Dirección General de Infraestructura Vial, ambas de la entonces Agencia de Gestión Urbana al momento de su transferencia a la Secretaria de Obras y Servicios, y con la finalidad de que se realice de manera ordenada y se continúe con el cumplimiento de las obligaciones contraídas, continuará operando con los recursos disponibles, en tanto que la Secretaría de Administración y Finanzas disponga lo necesario para que las funciones o servicios se transfieran a la Secretaría de Obras y Servicios de manera ordenada, dicha trasferencia se dará dentro de un plazo máximo de 180 días hábiles a partir de la entrada en vigor del presente Reglamento, de conformidad con el Artículo Transitorio Vigésimo de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+DÉCIMO SEXTO.- Hasta en tanto no entre en funciones el Instituto de Defensoría Pública, de conformidad con el artículo Décimo Octavo Transitorio de la Constitución Política de la Ciudad de México, la Dirección General de Servicios Legales tendrá las atribuciones indicadas en las fracciones XIV, XV y XVI del artículo 228 de este Reglamento.
