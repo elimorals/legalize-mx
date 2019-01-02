@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2018-09-05"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 05 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -385,11 +383,23 @@ En los supuestos en que una persona física o moral en su carácter de promotor,
 
 Son responsables solidarios de este impuesto los retenedores del mismo, así como los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
 
 ###### Artículo 25.
 
 El impuesto a que se refiere este Capítulo se causará y trasladará a las personas a quienes se preste servicios de hospedaje en el momento que se perciba el pago por los servicios de hospedaje independientemente del lugar o medio electrónico donde se acuerde, contrate o realice el pago o contraprestación por dichos servicios.
+
+Para el Fideicomiso Público Turismo Morelos, se destinará una cantidad equivalente al 100% de los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje, en cualquiera de sus modalidades, que se aplicará en gastos de promoción turística en general, así como en los servicios prestados para la recuperación del impuesto a que se refiere este Capítulo.
+
+Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación tales como periódico, televisión, radio, entre otros; campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
+
+El Comité Técnico del Fideicomiso Público Turismo Morelos se conformará por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad, cuatro representantes más designados por el Titular del Poder Ejecutivo; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad, un representante del sector turístico de ocio, un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
+
+La Secretaría enterará bimestralmente al Fideicomiso la cantidad equivalente al 100% de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente ejercicio fiscal.
+
+A las reuniones del Comité Técnico del Fideicomiso asistirán como invitados permanentes los representantes de la Secretaría de la Contraloría, de la Secretaría de Gobierno y de la Consejería Jurídica con voz pero sin voto.
+
+Adicionalmente, el Gobierno del Estado aportará al Fideicomiso Turismo Morelos, sólo para efectos de referencia, un monto equivalente al 50% de la recaudación que se haya obtenido por este impuesto, para lograr su objeto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -761,9 +771,15 @@ V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la co
 
 La Autoridad Fiscal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, en los términos que señale el Código.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+
 ###### Artículo 48.
 
-(DEROGADO, P.O. 13 DE JULIO DE 2018)
+Una cantidad equivalente al 100% de los recursos que se recauden por el impuesto sobre los servicios de parques acuáticos y balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, será aplicada para la promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; para los gastos administrativos y de operatividad del Fideicomiso Público Turismo Morelos, se podrá destinar hasta el 6% del monto total destinado para la promoción turística en general.
+
+Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación tales como periódico, televisión, radio, entre otros; campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
+
+La Secretaría enterará bimestralmente al Fideicomiso Público, una cantidad equivalente al 95% de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente.
 
 ### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
@@ -1127,15 +1143,19 @@ DISPOSICIONES GENERALES
 
 8.- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+
+Artículo 58 BIS-9.- Una cantidad equivalente al 50% del total de los recursos que se recauden por el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de la Federación, del Estado y de los Municipios, en los términos del artículo 4 de esta Ley; así como los Poderes Legislativo y Judicial y Organismos Públicos Autónomos que no se integrará al referido Fondo. Excepcionalmente, cuando en el ejercicio fiscal se requiera destinar recursos financieros para la atención de daños ocasionados por contingencias o desastres naturales oficialmente declarados en términos de la normativa aplicable, que hubieren acontecido hasta en dos ejercicios anteriores al que se trate, podrá determinarse la cancelación, total o parcial, de la asignación establecida en el párrafo primero de este artículo, con el objeto exclusivo de destinarse a los fines de atención señalados.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+
+Artículo 58 BIS-10.- Para la administración de los recursos a que se refiere el artículo anterior, se constituirá un Fideicomiso Ejecutivo. Para la aplicación y destino de los recursos del Fideicomiso, se conformará un Comité Técnico, integrado por un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá voto de calidad, dos representantes más del Poder Ejecutivo y tres miembros del sector empresarial organizado. La Secretaría enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 58 Bis
 
 9.- (DEROGADO, P.O. 13 DE JULIO DE 2018)
-
-###### Artículo 58 Bis
-
-10.- (DEROGADO, P.O. 13 DE JULIO DE 2018)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
 
@@ -5788,3 +5808,19 @@ DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municip
 DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 En consecuencia, los anexos relativos a los clasificadores del gasto y otros de carácter referencial que no se modifican en virtud de este instrumento se ajustarán en los términos de las reorientaciones ordenadas por el mismo, a efecto de guardar la debida congruencia, reportándose, en su caso, en la cuenta pública correspondiente.
+
+P.O. 2 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SESENTA Y UNO.- POR EL QUE SE REFORMA EL ARTÍCULO 25, Y SE ADICIONAN LOS ARTÍCULOS 48, 58 BIS-9 Y 58 BIS-10, TODOS DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y SE ADICIONA LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Poder Ejecutivo Estatal, a través de su Secretaría de Hacienda, realizará las transferencias, ministraciones y ajustes presupuestarios necesarios para los efectos de que los fideicomisos reciban los ingresos que les correspondan de conformidad con el presente Decreto.
+
+CUARTA. El Poder Ejecutivo, a través de la Secretaría de Hacienda, deberá verificar los ajustes presupuestarios necesarios para que los fideicomisos Turismo Morelos y del Fondo de Competitividad y Promoción del Empleo, dispongan de los recursos que la normativa dispone.
+
+QUINTA. Se deja sin efectos el procedimiento de liquidación y extinción de los fideicomisos referidos en el Decreto número tres mil doscientos cincuenta que se deja sin efectos.
+
+SEXTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto."
