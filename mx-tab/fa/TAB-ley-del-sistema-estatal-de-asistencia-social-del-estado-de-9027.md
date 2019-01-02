@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2018-10-20"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -387,7 +387,9 @@ En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, inc
 
 En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las Dependencias y Entidades del Gobierno del Estado y de los Municipios, según la competencia que a éstas otorgan las Leyes.
 
-El Organismo, a través de la Secretaría de Salud Pública, promoverá el establecimiento de Centros y Servicios de Rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de invalidez, minusvalidez o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
+
+El Organismo, a través de la Secretaria de Salud, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de invalidez, minusvalidez o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis , órtesis y otras ayudas funcionales.
 
 El Organismo observará una vinculación sistemática entre los Servicios de Rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los Sectores Social y Privado.
 
@@ -417,27 +419,49 @@ VI.- En general, los demás bienes, derechos e ingresos que obtenga por cualquie
 
 Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo contará con los siguientes órganos superiores:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE ENERO DE 2019)</small>
+
 I. Junta de Gobierno, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE ENERO DE 2019)</small>
 
 II. Coordinación General.
 
-La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+Para promover, evaluar y fortalecer el buen funcionamiento del Organismo tendrá un Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 21.
 
-La Junta de Gobierno es la máxima autoridad del Organismo. Será presidida por el Gobernador del Estado, o por quien éste designe, y estará integrada por los titulares de las Secretarías de Salud; de Gobierno; de Desarrollo Social; de Educación; de Desarrollo Agropecuario, Forestal y Pesquero; de Administración; de Planeación y Finanzas; de la Secretaría Técnica de la Gubernatura del Estado; y del Instituto Estatal de las Mujeres. Será invitado permanente a las sesiones de la Junta de Gobierno, con voz pero sin voto, el Fiscal General del Estado.
+la Junta de Gobierno es la máxima autoridad del Organismo. Será presidida por el Gobernador del Estado, o por quien éste designe. Se integrará por los Titulares de la Secretaría de Salud, la Secretaría de Bienestar, Sustentabilidad y Cambio Climático; de Educación; de Cultura; de Administración e Innovación Gubernamental y de la Coordinación General Ejecutiva de la Gubernatura. Podrá ser invitado a las sesiones de la Junta de Gobierno para un tema específico, con voz pero sin voto, el Fiscal General del Estado.
 
-Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
 
-La Junta de Gobierno designará un Secretario Técnico.
+Los miembros de la Junta de Gobierno podrán ser suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma, que en ningún caso podrán ser funcionarios con categorías menores a Directores A.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
 
-El Presidente de la Junta de Gobierno ejercerá el cargo de manera honorífica, sin retribución de emolumento o compensación.
+La Junta de Gobierno designará un Secretario Técnico que será el Coordinador General del Organismo.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
+
+El desempeño del cargo de integrante de la Junta de Gobierno será honorífico, sin retribución de emolumento o compensación.
 
 La Junta de Gobierno sesionará por lo menos tres veces al año.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+
+###### ARTICULO 21 Bis.
+
+Para fortalecer la autonomía del Organismo, la esposa o esposo de el o la Titular del Ejecutivo Estatal no se considerará servidora o servidor público y no recibirá honorario, salario o compensación económica alguna, por lo que estará desvinculada o desvinculado legal, presupuestal y administrativamente de las acciones que realicen las autoridades sobre la operación interna y la administración patrimonial del Organismo.
+
+Se considerará honorífica la labor que realice relacionada con las atribuciones que tiene el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, las contenidas en esta Ley y en general aquellas en materia de asistencia social.
+
+A los eventos, giras, actos protocolarios y reuniones del Organismo a las que sea convocada su presencia, acudirá de manera voluntaria y en calidad de invitada o invitado.
+
+La esposa o esposo de el o la Titular del Ejecutivo Estatal no podrá ser Presidenta o Presidente de la Junta de Gobierno, Coordinadora o Coordinador General o Presidenta o Presidente del Consejo Ciudadano Consultivo del Organismo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -453,7 +477,9 @@ III. Establecer las bases para la coordinación de las acciones de las instituci
 
 IV. Aprobar el proyecto de presupuesto anual, informes de actividades y estados financieros trimestrales y anuales que le presente el Coordinador General;
 
-V. Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2019)</small>
+
+V. Conocer los informes, dictámenes y recomendaciones de el o la Titular del Órgano Interno de Control y en su caso del Auditor Externo;
 
 VI. Aprobar el Reglamento Interior, y los Manuales de Procedimientos y de Servicios al Público;
 
@@ -503,7 +529,9 @@ I. Administrar y representar legalmente al Organismo; así como otorgar, sustitu
 
 II. Ejecutar los acuerdos y disposiciones que la Junta de Gobierno ordene por conducto de su Presidente;
 
-III. Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2019)</small>
+
+III. Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el o la Titular del Órgano Interno de Control y en su caso del Auditor Externo;
 
 IV. Formular de conformidad con las directrices de la Junta de Gobierno los proyectos de programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales;
 
@@ -531,19 +559,21 @@ XIII. Elaborar anualmente el informe de actividades del DIF Tabasco y someterlo 
 
 XIV. Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 25.
 
-El Comisario será designado por la Junta de Gobierno, a propuesta de la Secretaría de Contraloría. Deberá ser ciudadano mexicano y con experiencia en la materia no menor de cinco años.
+El Titular o la Titular del Órgano Interno de Control será designado o designada por el Gobernador del Estado a propuesta del Titular de la Secretaría de la Función Pública, en términos de lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco. Deberá ser ciudadano o ciudadana mexicana y con experiencia en la materia no menor a cinco años.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 26.
 
-El Comisario tendrá las siguientes facultades:
+El Titular o la Titular del Órgano Interno de Control tendrá las atribuciones que establece la Ley General de Responsabilidades Administrativas. Adicionalmente tendrá las siguientes:
 
-I. Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2019)</small>
+
+I. Vigilar que la administración de los recursos humanos, financieros y materiales asignados, se realice con sujeción a las políticas y normatividad que determine el Ejecutivo bajo principios de racionalidad, austeridad, disciplina presupuestal, eficiencia y eficacia administrativa;
 
 II. Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
@@ -552,6 +582,12 @@ III. Recomendar a la Junta de Gobierno y al Coordinador General las medidas prev
 IV. Asistir a las sesiones de la Junta de Gobierno; y
 
 V. Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+
+###### ARTICULO 26 Bis.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco se sujetará a los lineamientos y políticas de austeridad y eficiencia administrativa y financiera que emita la Secretaría de Administración e Innovación Gubernamental en su papel de dependencia consolidadora responsable de conducir y ejecutar la política general en materia de contrataciones públicas, de bienes y servicios; así como de la planeación y administración sobre recursos humanos.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -906,3 +942,11 @@ Se derogan todas las disposiciones que se opongan al contenido de la presente re
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
+
+P.O. 2 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 061 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 18, 20, 21, 22, FRACCIÓN V, 24, FRACCIÓN III, 25 Y 26; Y SE ADICIONAN LOS ARTÍCULOS 21 BIS Y 26 BIS; TODOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia el 1° de enero de 2019, previa publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
