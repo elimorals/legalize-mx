@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-132605"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Trigésima Cuarta Sección al Número 20 del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2018.
 
@@ -5255,4 +5255,6 @@ Respecto de los créditos que se ubiquen en el supuesto a que se refiere el pár
 
 EL SECRETARIO GENERAL DE GOBIERNO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de diciembre de dos mil dieciocho. Diputado Presidente. JOSÉ JUAN ESPINOSA TORRES. Rúbrica. Diputado Vicepresidente. HÉCTOR EDUARDO ALONSO GRANADOS. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
-En términos por lo dispuesto por los artículos 77 y 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; y 22 de la Ley Orgánica de la Administración Pública del Estado, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de diciembre de dos mil dieciocho. El Secretario General de Gobierno y Encargado de Despacho de la Gubernatura del Estado Libre y Soberano de Puebla. C. JESÚS RODRÍGUEZ ALMEIDA. Rúbrica. El Secretario de Finanzas y Administración del Gobierno del Estado. C. EDUARDO TOVILLA LARA. Rúbrica.
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2019)</small>
+
+En términos por lo dispuesto por los artículos 77 y 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; y 22 de la Ley Orgánica de la Administración Pública del Estado, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de diciembre de dos mil dieciocho. El Secretario General de Gobierno y Encargado de Despacho de la Gubernatura del Estado Libre y Soberano de Puebla. C. JESÚS RODRÍGUEZ ALMEIDA. Rúbrica. El Secretario de Finanzas y Administración del Gobierno del Estado. C. EDUARDO HOMERO TOVILLA LARA. Rúbrica.
