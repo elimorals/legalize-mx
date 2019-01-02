@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2018-12-28"
+last_updated: "2019-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTINENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -1069,6 +1069,10 @@ VII. Proponer, ejecutar y supervisar los acuerdos de coordinación y los conveni
 
 VIII. Gestionar y promover la atracción de recursos que aporten los organismos nacionales e internacionales y las organizaciones no gubernamentales, para constituir fondos que apoyen el desarrollo de los programas en beneficio de los grupos en situación de vulnerabilidad de la Entidad;
 
+> <small>(F. DE E., 2 DE ENERO DE 2019)</small>
+
+Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra Dependencia o Entidad Paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban;
+
 IX. Proponer y gestionar, proyectos y acciones para ejecutarse en coordinación con los tres órdenes de gobierno, organizaciones internacionales, nacionales y ciudadanas, en materia de seguridad alimentaria;
 
 X. Fortalecer la coordinación institucional con los tres órdenes de gobierno para la implementación de programas, proyectos y acciones orientadas a fomentar el bienestar de los pueblos y comunidades indígenas, respetando las manifestaciones de su cultura y el ejercicio de sus derechos;
@@ -1103,7 +1107,7 @@ XXI. Coordinar y dirigir la integración del Padrón de Beneficiarios de los Pro
 
 XXII. Coordinar, en conjunto con la Coordinación General de Programas para el Desarrollo del Estado de Campeche, las Delegaciones Municipales de Programas para el Desarrollo, así como la planeación, ejecución y evaluación de los planes, programas y acciones que desarrollen; y
 
-XXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado
+XXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -1161,9 +1165,9 @@ XXIV. Promover en el ámbito de su competencia, proyectos de educación y sensib
 
 XXV. Promover acciones de apoyo para el aprovechamiento de las energías renovables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018) (F. DE E., 2 DE ENERO DE 2019)
 
-XXVI. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra Dependencia o Entidad Paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban; y
+XXVI. Brindar apoyo a la Secretaría de Desarrollo Social y Humano, cuando ésta así lo requiera, en la tramitación de la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
 
