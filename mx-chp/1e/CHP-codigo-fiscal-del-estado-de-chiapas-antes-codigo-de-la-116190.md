@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2018-12-31"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIAPAS -- ANTES CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2019 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2019.]</small>
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -39,7 +39,7 @@ La Honorable Sexagésima Sexta Legislatura Constitucional del Estado Libre y Sob
 
 C O N S I D E R A N D O
 
-[.]
+[…]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -3821,7 +3821,7 @@ El Fondo General Municipal se constituirá con las cantidades de las fracciones 
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 12.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3.]</small>
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones de los fondos que constituyen el Fondo General Municipal sean iguales o menores a la observada en el año 2015. En tales supuestos, la distribución se realizara en función de la cantidad efectivamente recibida por el estado en el año de cálculo, en proporción al monto asignado para cada municipio en el año 2015.
 
