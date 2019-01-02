@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2018-09-26"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -437,7 +437,9 @@ Para cubrir los costos derivados de la ejecución de los planes, programas y acc
 
 I. Aquellos asignados a la Secretaría en el Presupuesto de Egresos de manera anual, y que sean destinados por la misma, para tal efecto;
 
-II. (DEROGADA, P.O. 13 DE JULIO DE 2018)
+> <small>(ADICIONADA P.O. 2 DE ENERO DE 2019)</small>
+
+II. Aquellos que para tal efecto determine anualmente el Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, no pudiendo ser, en todo caso, menores a un monto equivalente al 20% del total de los recursos que lo integran; y
 
 III. Aquellos fondos federales relacionados con el objeto de esta Ley, que puedan ser destinados a dicho fin por la persona titular del Poder Ejecutivo del Estado.
 
@@ -764,3 +766,19 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 PRIMERA. Remítase al Ejecutivo del Estado para los efectos de su divulgación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+P.O. 2 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “INICIATIVA DE DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 25, Y SE ADICIONAN LOS ARTÍCULOS 48, 58 BIS-9 Y 58 BIS-10, TODOS DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y SE ADICIONA LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS.”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Poder Ejecutivo Estatal, a través de su Secretaría de Hacienda, realizará las transferencias, ministraciones y ajustes presupuestarios necesarios para los efectos de que los fideicomisos reciban los ingresos que les correspondan de conformidad con el presente Decreto.
+
+CUARTA. El Poder Ejecutivo, a través de la Secretaría de Hacienda, deberá verificar los ajustes presupuestarios necesarios para que los fideicomisos Turismo Morelos y del Fondo de Competitividad y Promoción del Empleo, dispongan de los recursos que la normativa dispone.
+
+QUINTA. Se deja sin efectos el procedimiento de liquidación y extinción de los fideicomisos referidos en el Decreto número tres mil doscientos cincuenta.
+
+SEXTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
