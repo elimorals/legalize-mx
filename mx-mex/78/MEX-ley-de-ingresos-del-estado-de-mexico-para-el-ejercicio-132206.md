@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-del-estado-de-mexico-para-el-ejercicio-132206"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 2 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 31 de diciembre de 2018.
 
@@ -39,9 +39,17 @@ DECRETO NÚMERO 15
 
 LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
+> <small>(F. DE E., G.G. 2 DE ENERO DE 2019)</small>
+
+###### Artículo 1.
+
+La Hacienda Pública del Estado de México percibirá durante el ejercicio fiscal de 2019, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
+
 > <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN PRIMERA DE LA G.G. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 39 A LA 48.]</small>
 
-Artículo 2 (SIC).- De conformidad con el Fideicomiso autorizado por la Legislatura Estatal mediante los Decretos Números 48 y 84 publicados respectivamente en el Periódico Oficial “Gaceta del Gobierno” en fechas 4 de junio de 2004 y 29 de octubre de 2007, así como por el Decreto 318 publicado el 10 de agosto de 2018, y conforme a lo establecido en los artículos 262 y 262 Bis del Código Financiero del Estado de México y Municipios, previo análisis del destino y capacidad de pago del Gobierno del Estado de México, y del otorgamiento de recursos como fuente o garantías de pago y destino de los financiamientos, por el voto de más de las dos terceras partes de los miembros presentes de la Legislatura Estatal, se autoriza al Gobernador del Estado, por sí o por conducto de la Secretaría de Finanzas, para que obtenga un endeudamiento neto en términos del Título Octavo del Código Financiero del Estado de México y Municipios, por un monto de $1,900’000,000.00 (Mil novecientos millones de pesos 00/100 M.N.), siempre y cuando no rebase el techo de financiamiento establecido en el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, con un plazo de financiamiento hasta de 25 años, que será destinado exclusivamente a inversión pública productiva en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y del Código Financiero del Estado de México y Municipios, en los rubros de Agua, Obra Pública, Comunicaciones, Salud, Cultura, Justicia, Desarrollo Social, Educación, Seguridad, Vivienda y Desarrollo Agropecuario.
+###### Artículo 2.
+
+De conformidad con el Fideicomiso autorizado por la Legislatura Estatal mediante los Decretos Números 48 y 84 publicados respectivamente en el Periódico Oficial “Gaceta del Gobierno” en fechas 4 de junio de 2004 y 29 de octubre de 2007, así como por el Decreto 318 publicado el 10 de agosto de 2018, y conforme a lo establecido en los artículos 262 y 262 Bis del Código Financiero del Estado de México y Municipios, previo análisis del destino y capacidad de pago del Gobierno del Estado de México, y del otorgamiento de recursos como fuente o garantías de pago y destino de los financiamientos, por el voto de más de las dos terceras partes de los miembros presentes de la Legislatura Estatal, se autoriza al Gobernador del Estado, por sí o por conducto de la Secretaría de Finanzas, para que obtenga un endeudamiento neto en términos del Título Octavo del Código Financiero del Estado de México y Municipios, por un monto de $1,900’000,000.00 (Mil novecientos millones de pesos 00/100 M.N.), siempre y cuando no rebase el techo de financiamiento establecido en el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, con un plazo de financiamiento hasta de 25 años, que será destinado exclusivamente a inversión pública productiva en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y del Código Financiero del Estado de México y Municipios, en los rubros de Agua, Obra Pública, Comunicaciones, Salud, Cultura, Justicia, Desarrollo Social, Educación, Seguridad, Vivienda y Desarrollo Agropecuario.
 
 El Gobernador del Estado, por conducto de la Secretaría de Finanzas, podrá obtener el endeudamiento a que se refiere este artículo, mediante la contratación de cualquier tipo de créditos con instituciones financieras o mediante la emisión de valores, en términos de lo dispuesto en el Código Financiero del Estado de México y Municipios, incluyendo la contratación de los Instrumentos Derivados para mitigar los riesgos de tasa de interés.
 
