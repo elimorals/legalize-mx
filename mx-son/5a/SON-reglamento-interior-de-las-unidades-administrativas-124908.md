@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-las-unidades-administrativas-124908"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-11-30"
-last_updated: "2017-11-30"
+last_updated: "2019-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de noviembre de 2017.
 
@@ -61,7 +61,7 @@ iii. Representación del Gobierno de Sonora en la Ciudad de México.
 
 II. Oficina del Ejecutivo del Estado; y
 
-i. Coordinación de Asesores.
+i. (DEROGADO, B.O. 3 DE ENERO DE 2019)
 
 ii. Coordinación Técnica del Gabinete.
 
@@ -345,15 +345,7 @@ IV. Las demás que le señale las disposiciones legales aplicables y las que le 
 
 ###### ARTÍCULO 15.
 
-La Coordinación de Asesores estará adscrita a la Oficina del Ejecutivo Estatal y tendrá las siguientes atribuciones:
-
-I. Asesorar y coordinar en los programas y proyectos de la Administración Pública Estatal que le sean encomendados por la o el Titular de la Oficina del Ejecutivo Estatal.
-
-II. Formular los estudios, análisis, opiniones y recomendaciones en temas relevantes para el desarrollo del Estado de Sonora.
-
-III. Proponer acciones y proyectos de políticas públicas para el logro de los objetivos establecidos en los planes y programas.
-
-IV. Las demás inherentes a sus funciones y las que le encomiende la o el Titular de la Oficina del Ejecutivo del Estado.
+(DEROGADO, B.O. 3 DE ENERO DE 2019)
 
 ###### ARTÍCULO 16.
 
@@ -375,7 +367,21 @@ VII. Proporcionar a la o el Titular de la Oficina del Ejecutivo Estatal informac
 
 VIII. Generar la información periódica de la situación que guarda la Administración Pública Estatal, así como coordinar el sistema de seguimiento de los asuntos recibidos para la o el Titular del Poder Ejecutivo y la o el Titular de la Oficina del Ejecutivo y turnarlos a las dependencias y entidades que corresponda, para su atención.
 
-IX. Las demás inherentes a sus funciones y las que le encomiende la o el Titular de la Oficina del Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE ENERO DE 2019)</small>
+
+IX. Asesorar y coordinar en los programas y proyectos de la Administración Pública Estatal que le sean encomendados por la o el Titular de la Oficina del Ejecutivo Estatal;
+
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 2019)</small>
+
+X. Formular los estudios, análisis, opiniones y recomendaciones en temas relevantes para el desarrollo del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 2019)</small>
+
+XI. Proponer acciones y proyectos de políticas públicas para el logro de los objetivos establecidos en los planes y programas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 3 DE ENERO DE 2019)</small>
+
+XII. Las demás inherentes a sus funciones y las que le encomiende la o el Titular de la Oficina del Ejecutivo del Estado.
 
 ###### ARTÍCULO 17.
 
@@ -542,3 +548,13 @@ EL SECRETARIO DE GOBIERNO
 LIC. MANUEL ERNESTO POMPA CORELLA
 
 > <small>[N. DE E. VÉASE ORGANIGRAMA EN EL B.O. DE 30 DE NOVIEMBRE DE 2017, PÁGINA 26.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior.
