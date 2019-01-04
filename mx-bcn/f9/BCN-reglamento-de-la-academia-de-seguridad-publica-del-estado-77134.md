@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-academia-de-seguridad-publica-del-estado-77134
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-15"
-last_updated: "2015-07-10"
+last_updated: "2019-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -1101,11 +1101,13 @@ b) Tener edad mínima de 19 años y máxima de 35 años;
 
 c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
-(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2019)</small>
 
-d) Tener residencia mínima en el Estado de tres años;
+d) Tener una residencia mínima en el Estado de dos años;
 
-e) No contar con tatuajes antisociales o visibles portando el uniforme, y
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2019)</small>
+
+e) No contar con tatuajes antisociales; y
 
 f) No utilizar accesorios en perforaciones cutáneas visibles portando el uniforme;
 
@@ -1119,11 +1121,13 @@ b) Tener edad mínima de 21 años y máxima de 40 años;
 
 c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
-(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2019)</small>
 
-d) Tener residencia mínima en el Estado de tres años;
+d) Tener una residencia mínima en el Estado de dos años;
 
-e) No contar con tatuajes antisociales o visibles portando el uniforme, y
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2019)</small>
+
+e) No contar con tatuajes antisociales; y
 
 f) No utilizar accesorios en perforaciones cutáneas visibles portando el uniforme;
 
@@ -1139,7 +1143,9 @@ c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
 d) Tener residencia mínima en el Estado de dos años;
 
-e) No contar con tatuajes antisociales o visibles portando el uniforme, y
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2019)</small>
+
+e) No contar con tatuajes antisociales; y
 
 f) No utilizar accesorios en perforaciones cutáneas visibles portando el uniforme.
 
@@ -1250,3 +1256,11 @@ P.O. 10 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 53 DEL REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE FECHA 15 DE OCTUBRE DE 2010".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
