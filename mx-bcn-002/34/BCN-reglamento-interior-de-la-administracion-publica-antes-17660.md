@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-04-27"
+last_updated: "2019-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -693,7 +693,9 @@ XV.- Presidir en representación del Presidente Municipal, organizar y vigilar e
 
 XVI.- Expedir certificaciones de los documentos que obren en archivos de las dependencias de la administración pública centralizada;
 
-XVII.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2019)</small>
+
+XVII.- Asignar al defensor que asumirá la representación legal de quienes no cuenten con la asesoría de un defensor en los procedimientos que se substancien en contra de aquéllos ante la Dirección de Responsabilidades Administrativas de la Sindicatura Municipal o ante la Comisión de Honor y Justicia, en aquellos casos en que así lo requiera la Sindicatura Municipal.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -767,9 +769,17 @@ VI.- Auxiliar al Secretario en las atribuciones que le corresponden respecto de 
 
 VII.- Representar al Secretario en sesiones de gabinetes, comisiones, comités, órganos de gobierno de entidades, órganos desconcentrados y organismos similares;
 
-VIII.- Expedir las constancias de vecindad y residencia que sean solicitadas por los habitantes del municipio; y,
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2019)</small>
 
-IX.- Participar en la mediación y resolución de conflictos de carácter social, que requieren la intervención de la Secretaria del Ayuntamiento.
+VIII.- Expedir las constancias de vecindad y residencia que sean solicitadas por los habitantes del municipio;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2019)</small>
+
+IX.- Participar en la mediación y resolución de conflictos de carácter social, que requieren la intervención de la Secretaría del Ayuntamiento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2019)</small>
+
+X.- Supervisar las acciones y evaluar el desempeño del defensor que asigne la Secretaría del Ayuntamiento para la representación legal de quienes no cuenten con la asesoría de un defensor en los procedimientos que se substancien en contra de aquéllos ante la Dirección de Responsabilidades Administrativas de la Sindicatura Municipal o ante la Comisión de Honor y Justicia.
 
 ARTICULO 41 BIS.- (DEROGADO, P.O. 2 DE FEBRERO DE 2018)
 
@@ -3512,3 +3522,13 @@ PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente 
 SEGUNDO.- Comuníquese el presente acuerdo a la Tesorería Municipal así como a la Oficialía Mayor del XXII Ayuntamiento, a efecto de que realicen las modificaciones presupuestales y administrativas pertinentes para la generación y funcionamiento de la Coordinación de Contraloría Social.
 
 TERCERO.- En un período no mayor a 30 días hábiles el Ayuntamiento de Mexicali, Baja California, deberá expedir el Reglamento de Operación del Comisario Social Honorario.
+
+P.O. 4 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 40 FRACCIÓN XVII Y 41 FRACCIONES VIII, IX Y X DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Tesorería Municipal deberá tomar las previsiones y realizar las adecuaciones pertinentes, para cubrir los emolumentos del defensor público administrativo.
+
+TERCERO.- La Oficialía Mayor deberá llevar a cabo las acciones necesarias para formalizar la contratación del defensor público administrativo, conforme a las disposiciones aplicables en la materia.
