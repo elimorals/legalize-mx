@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-10-29"
+last_updated: "2019-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -717,7 +717,9 @@ La convocatoria que se expida para la celebración de sesiones de Cabildo deber�
 
 I.- Lista de Asistencia y Declaración de Quórum Legal;
 
-II.- Lectura y aprobación del Orden del Día;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2019)</small>
+
+II.- Lectura, aprobación o en su caso modificación del Orden del Día;
 
 III.- Lectura, discusión, y aprobación en su caso, del acta de la sesión anterior, excepto en los casos de dispensa;
 
@@ -2460,3 +2462,9 @@ P.O. 29 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PROYECTO POR EL QUE SE REFORMA EL ARTÍCULO 43 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 59 FRACCIÓN II DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
