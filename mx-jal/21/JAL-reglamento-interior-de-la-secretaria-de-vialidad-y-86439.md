@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-vialidad-y-86439"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-25"
-last_updated: "2013-01-10"
+last_updated: "2019-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE VIALIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DEL TRANSPORTE DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE VIALIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 2012.
 
@@ -39,7 +41,9 @@ Guadalajara, Jalisco, a 23 de enero de 2012
 
 Emilio González Márquez, Gobernador Constitucional del Estado de Jalisco, con fundamento en los artículos 36, 46 y 50 fracciones VIII, XXII y XXV de la Constitución Política del Estado de Jalisco; 1, 2, 3, 5, 6, 11, 19 fracción II, 21, 22 fracciones XIV y XXIV, 23 fracción XI, 24, 25, 28 y 37 de la Ley Orgánica del Poder Ejecutivo del Estado del Estado de Jalisco; y con base en los siguientes:
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 En mérito a los fundamentos y razonamientos expuestos, tengo a bien emitir el siguiente:
 
@@ -776,3 +780,107 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones en las que se haga mención a la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se hace referencia a la Secretaría de Seguridad Pública, Prevención y Reinserción Social.
 
 TERCERO. Las disposiciones en las que se haga mención de las Direcciones Generales de Policía de Vialidad y Tránsito en la Zona Metropolitana de Guadalajara; y de Policía de Vialidad en las Delegaciones Foráneas; se entenderá que se refiere a las Comisarías Generales de Vialidad de la Zona Metropolitana de Guadalajara, y de Vialidad en las Delegaciones Foráneas, respectivamente.
+
+P.O. 5 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU 010/2019 DEL GOBERNADOR DEL ESTADO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA DE TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor el día de su expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Jalisco”.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Vialidad y Transporte, publicado en el Periódico Oficial “El Estado de Jalisco”, el 25 de febrero de 2012 y sus reformas posteriores.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones del Área de Folios y Folderas en tanto se transfieren parcialmente a la Secretaría de Seguridad en los términos de lo establecido por el artículo séptimo transitorio de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, estarán a cargo de la Dirección General Jurídica de conformidad con el presente acuerdo.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se lleva a cabo el proceso de transferencia de la Dirección General de Planeación y Profesionalización a la Secretaría de Seguridad de conformidad por lo dispuesto por el artículo séptimo transitorio de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, las atribuciones de dicha Dirección se llevarán a cabo por la Dirección General Administrativo (sic) de la Secretaría del Transporte y serán las siguientes:
+
+I. Administrar racional y eficientemente los recursos informáticos asignados a la Secretaría para el pleno cumplimiento de sus atribuciones, de conformidad con las políticas, lineamientos y normas vigentes en la materia;
+
+II. Definir, implementar, verificar y evaluar las políticas, normas y directrices aplicables para el desarrollo tecnológico y red informática en las unidades administrativas;
+
+III. Proponer al Secretario sistemas de simplificación, desregulación y modernización administrativa;
+
+IV. Elaborar e instrumentar, en coordinación con las unidades administrativas, los proyectos de organización que garanticen eficiencia de los esfuerzos y recursos para el cumplimiento de las atribuciones asignadas;
+
+V. Definir y establecer, en coordinación y bajo los lineamientos establecidos con las dependencias y unidades administrativas involucradas, un sistema interno de planeación, programación, presupuestación, seguimiento y evaluación de acciones institucionales para el desarrollo del sector;
+
+VI. Analizar, evaluar y proponer la estructura orgánica, sistemas y procedimientos de trabajo de las unidades administrativas de la Secretaría;
+
+VII. Mantener actualizados, en coordinación con las unidades administrativas, los manuales administrativos de organización, procesos y de servicios, así como promover su difusión a los servidores públicos de la Secretaría;
+
+VIII. Recabar la información para la planeación y seguimiento de procesos y proyectos estratégicos de los organismos públicos del sector, para su análisis, verificación y validación y remitirla a las dependencias estatales de la Hacienda Pública, de Administración, al Despacho del Gobernador, así como otras instancias que lo requieran;
+
+IX. Definir, instrumentar y establecer programas de capacitación y profesionalización que propicien el desarrollo integral de los servidores públicos de la Secretaría;
+
+X. Garantizar la estandarización de niveles de calidad y atención de los servicios de vigilancia vial, con policías viales profesionales, en cumplimiento de las disposiciones establecidas por el Sistema de Seguridad Pública;
+
+XI. Coordinar, dirigir y controlar la expedición de permisos para la ocupación o uso temporal de las vialidades del Área Metropolitana de Guadalajara e interior del Estado de Jalisco; y
+
+XII. Las demás que por delegación o disposición legal se le asignen.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se lleva a cabo el proceso de transferencia de la Dirección General de Infraestructura Vial al Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara de conformidad por lo dispuesto en los artículos 81, 81 bis y 87 de la Constitución Política del Estado de Jalisco, las atribuciones de dicha Dirección se llevarán a cabo por la Secretaría del Transporte que contará con las siguientes:
+
+I. Planear, dirigir y coordinar, en acuerdo con el Secretario, los proyectos y programas que en materia de infraestructura vial requiera el Estado de Jalisco, relativos a la construcción y reparación de las obras de transporte y vialidad, en coordinación con la Secretaría de Infraestructura y Obra Pública, de conformidad a las atribuciones conferidas por las diferentes disposiciones legales;
+
+II. Promover y solicitar en acuerdo con el Secretario la coparticipación de las Dependencias de los tres órdenes de Gobierno, para compatibilizar las acciones y proyectos de inversión que inciden en la infraestructura vial;
+
+III. Definir, promover y mantener la infraestructura vial de acuerdo a los requerimientos del Área Metropolitana de Guadalajara y del Interior del Estado de Jalisco;
+
+IV. Garantizar la seguridad de conductores y peatones, al optimizar la operación de las vialidades de la (sic) Área Metropolitana de Guadalajara e Interior del Estado, mediante el desarrollo de proyectos de infraestructura vial;
+
+V. Identificar las obras viales necesarias, priorizarlas y promover su ejecución; participar en la elaboración de los proyectos respectivos y en su ejecución;
+
+VI. Definir, analizar y coordinar la evaluación de vialidades existentes, así como proyectos de crecimiento urbano en materia de infraestructura vial;
+
+VII. Participar con las dependencias encargadas de la planeación del desarrollo urbano, con la finalidad de proponer acciones para que las obras viales armonicen con el trazo integral de la vialidad básica;
+
+VIII. Impulsar e instrumentar los estudios técnicos de ingeniería vial que faciliten la aplicación de medidas correctivas a problemas viales a corto, mediano y largo plazo;
+
+IX. Proponer la ejecución de programas relativos a la construcción y mantenimiento de las obras de movilidad y transporte, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
+
+X. Participar en materia de infraestructura vial en los programas gubernamentales;
+
+XI. Promover, implementar y mantener la señalización vertical y horizontal en las vialidades del Estado de Jalisco, de competencia Estatal;
+
+XII. Dirigir y coordinar la instalación y operación de los dispositivos de control de tráfico, promoviendo ampliar su cobertura, a efecto de favorecer la fluidez y seguridad en la circulación vehicular y peatonal en la entidad;
+
+XIII. Promover y mantener la participación de colonos en el mejoramiento de la movilidad, incorporándolos a programas de coparticipación en acciones de protección, instalación y mantenimiento de dispositivos de control de tráfico;
+
+XIV. Supervisar los programas de bicicleta pública y de los sistemas de transporte individual en red en el Estado;
+
+XV. Hacerse cargo de la operación, mantenimiento y supervisión de los equipos de control de velocidad para vehículos automotores o de fotoinfracción;
+
+XVI. Coordinar acciones con las Unidades Administrativas de la Secretaría para la implementación de proyectos y programas que sean de su competencia; y
+
+XVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+Para el apoyo de sus actividades contará con las direcciones: Dirección de Control de Tráfico, Dirección de Transporte Activo Compartido, Dirección de Sistemas de Control de Velocidad y Director de Área de Proyectos de Infraestructura Vial.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las unidades administrativas de nueva creación iniciarán el ejercicio de sus atribuciones de acuerdo al presente reglamento, conforme se les dote de la estructura, equipamiento y personal que permita el presupuesto correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se faculta a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para que, de conformidad con el artículo Quinto Transitorio del Decreto 27225/LXII/18 mediante el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1° de enero al 31 de diciembre de 2019, sus Anexos y la Plantilla de Personal, lleven a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Acuerdo.
+
+###### ARTÍCULO NOVENO.
+
+La estructura orgánica y la plantilla de personal de la Secretaría del Transporte señalada en este acuerdo, quedará sujeta a la disponibilidad de recursos conforme al Presupuesto de Egresos autorizado.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría del Transporte, deberá llevar a cabo la revisión y actualización de los manuales administrativos correspondientes, con la participación que corresponda a otras dependencias, dentro de los 180 días posteriores a que el presente Reglamento entre en vigor
