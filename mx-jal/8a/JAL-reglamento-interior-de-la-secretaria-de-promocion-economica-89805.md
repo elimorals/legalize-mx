@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-promocion-economica-898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-20"
-last_updated: "2012-10-20"
+last_updated: "2019-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROMOCIÓN ECONÓMICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 20 de octubre de 2012.
 
@@ -37,7 +39,9 @@ Guadalajara, Jalisco, a 3 de octubre de 2012
 
 Emilio González Márquez, Gobernador Constitucional del Estado de Jalisco, con fundamento en lo dispuesto por los artículos 36, 46 y 50 fracciones VIII y XXVI de la Constitución Política; 1, 2, 3, 5, 6, 8, 11, 12, 19 fracción II, 21, 22, 24, 25, 30 y 33 de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco, y con base en los siguientes
 
-C O N S I D E R A N D O S:..
+C O N S I D E R A N D O S:
+
+[...]
 
 En mérito de los fundamentos y razonamientos expuestos, tengo a bien emitir el siguiente
 
@@ -418,3 +422,21 @@ LRI. JAIME EDUARDO MARTÍNEZ FLORES
 Secretario de Promoción Económica
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU 006/2019 DEL GOBERNADOR DEL ESTADO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Este acuerdo entrará en vigor el día de su expedición.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Jalisco”.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de Promoción Económica publicado en el periódico oficial “El Estado de Jalisco” con fecha 03 de octubre de 2012, así como sus reformas; y se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
+
+CUARTO. Se faculta a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para que, de conformidad con el artículo Quinto Transitorio del Decreto 27225/LXII/18 mediante el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1 de enero al 31 de diciembre de 2019, sus Anexos y la Plantilla de Personal, lleven a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Acuerdo.
+
+QUINTO. La estructura orgánica y la plantilla de personal de la Secretaría de Desarrollo Económico señalada en este acuerdo, quedará sujeta a la disponibilidad de recursos conforme al Presupuesto de Egresos autorizado, por lo que en caso de no contar con ello, el superior jerárquico asumirá las atribuciones del área que no tenga respaldo financiero.
+
+SEXTO. La Secretaría de Desarrollo Económico deberá llevar a cabo la revisión y actualización de los manuales administrativos correspondientes, con la participación que corresponda a otras dependencias, dentro de los 180 días posteriores a que el presente Reglamento entre en vigor
