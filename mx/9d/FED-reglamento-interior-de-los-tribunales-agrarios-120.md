@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2013-04-05"
+last_updated: "2019-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1992-05-08"
 ---
 # REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL NUEVO REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS, PUBLICADO EN EL D.O.F. DE 8 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -49,7 +51,7 @@ Para los efectos del presente Reglamento, se entiende por Ley a la Ley Agraria, 
 
 ###### Artículo 2º.
 
-El Tribunal Superior esta integrado por cinco magistrados numerarios, uno de los cuales lo presidirá y un supernumerario que suplirá las ausencias de los titulares, contará además con los siguientes órganos.
+El Tribunal Superior está integrado por cinco magistrados numerarios, uno de los cuales lo presidirá y un supernumerario que suplirá las ausencias de los titulares, contará además con los siguientes órganos.
 
 I.- Secretario General de Acuerdos;
 
@@ -493,7 +495,7 @@ III.- Someter a la consideración del Presidente las instrucciones para el cumpl
 
 IV.- Recopilar la información sobre los juicios de amparo que se interpongan contra los magistrados de los tribunales unitarios e informar al Presidente sobre las ejecutorias y la jurisprudencia que en materia agraria se integren;
 
-V.- Presentar las copias certificadas de los documentos que soliciten los órganos del Poder Judicial del la Federación en los juicios de amparo;
+V.- Presentar las copias certificadas de los documentos que soliciten los órganos del Poder Judicial de la Federación en los juicios de amparo;
 
 VI.- Informar al Presidente sobre las multas que se impongan a los servidores del Tribunal Superior y de los tribunales unitarios;
 
@@ -1095,7 +1097,7 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 SEGUNDO.- La ubicación y ámbito de competencia de los Tribunales Unitarios quedarán definidos por el Tribunal Superior Agrario antes del 30 de junio del presente año. Dentro del mismo período se procederá al establecimiento de la unidades técnicas y administrativas a que se refiere el presente Reglamento.
 
-Así lo aprobó el Tribunal Superior Agraria, en sesión celebrada el día 8, del mes de mayo de 1992.- El C. Magistrado, Dr. Sergio García Ramírez, Presidente del Tribunal Superior Agrario.- Rúbrica.- Los CC. Magistrados Dr. Gonzalo M. Armienta Calderón, Lic. Arely Madrid Tovilla, Lic. Luis Porte Petit Moreno y Lic. Rodolfo Veloz Bañuelos, integrantes del Tribunal Superior Agrario; y el Dr. Luis Ponce de León, Secretario General de Acuerdos,.- Rúbricas.
+Así lo aprobó el Tribunal Superior Agraria, en sesión celebrada el día 8, del mes de mayo de 1992.- El C. Magistrado, Dr. Sergio García Ramírez, Presidente del Tribunal Superior Agrario.- Rúbrica.- Los CC. Magistrados Dr. Gonzalo M. Armienta Calderón, Lic. Arely Madrid Tovilla, Lic. Luis Porte Petit Moreno y Lic. Rodolfo Veloz Bañuelos, integrantes del Tribunal Superior Agrario; y el Dr. Luis Ponce de León, Secretario General de Acuerdos,. (sic)- Rúbricas.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -1194,3 +1196,13 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “NUEVO REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS”.]
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el anterior reglamento interior de los tribunales agrarios.
+
+Tercero. Los manuales y disposiciones expedidos con fundamento en el reglamento interior de los tribunales agrarios que se abroga seguirán surtiendo sus efectos hasta en tanto se emitan los nuevos.
