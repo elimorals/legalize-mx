@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2018-12-11"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -492,6 +492,10 @@ I.- Organizar las oficinas y departamentos encargados de la administración y se
 II.- Iniciar leyes o decretos ante el Congreso del Estado para los asuntos de sus respectivas localidades.
 
 III.- Formular y aprobar los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, guarderías infantiles, siempre que no sean materia de competencia de otra autoridad.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+En tratándose de la expedición de los reglamentos referentes a nomenclatura de calles, estos deberán de basarse en lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal.
 
 Los bandos y reglamentos sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento, previa consulta pública y se publiquen en el Periódico Oficial del Estado.
 
@@ -1205,7 +1209,9 @@ IV.- Intervenir en la celebración y vigilar el cumplimiento de los contratos y 
 
 V.- Otorgar licencias o permisos para la construcción, reparación y demolición de fincas, así como para la ocupación temporal de vías públicas.
 
-VI.- Prestar el servicio de nomenclatura, numeración oficial y alineamiento de construcciones.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+VI.- Prestar el servicio de nomenclatura basándose en lo dispuesto por el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal; y en su caso, el Reglamento Municipal de la materia si lo hubiere, numeración oficial y alineamiento de construcciones.
 
 VII.- Construir y conservar los servicios públicos de alumbrado, mercados, panteones, rastros, calles, parques, plazas, jardines y los demás que estén a cargo del Municipio.
 
@@ -6188,3 +6194,15 @@ P.O. 11 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-719 MEDIANTE EL CUAL SE REFORMA EL INCISO B), DE LA FRACCIÓN III, DEL ARTÍCULO 51, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; Y SE ADICIONA EL PÁRRAFO SEGUNDO, A LA FRACCIÓN III, DEL ARTÍCULO 49, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL Y SE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 73, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
