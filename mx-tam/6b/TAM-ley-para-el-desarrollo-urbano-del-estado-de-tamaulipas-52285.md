@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2018-11-22"
+last_updated: "2019-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -33,13 +33,13 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTÍCULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y EL ARTÍCULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
 D E C R E T O No. LIX-520
 
 MEDIANTE EL CUAL SE EXPIDE LEY DE DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS.
 
-###### ARTICULO PRIMERO
+###### ARTÍCULO PRIMERO
 
 Se expide la Ley de Desarrollo Urbano del Estado de Tamaulipas.
 
@@ -1519,7 +1519,9 @@ III. ETAPA 3.- PROYECTO EJECUTIVO Y VENTAS: El fraccionador deberá presentar lo
 
 a) Proyecto de lotificación;
 
-b) Proyecto de señalización, incluyendo nomenclatura de calles;
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+b) Proyecto de señalización, incluyendo nomenclatura de calles, de acuerdo a lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal; y en su caso, el Reglamento Municipal de la materia si lo hubiere, acorde al municipio en el que se encuentre realizando la obra;
 
 c) Proyecto de la red de agua potable;
 
@@ -1647,7 +1649,9 @@ V.- El alumbrado público, conforme a las especificaciones municipales;
 
 VI.- La nomenclatura, señalización vial y mobiliario urbano;
 
-VII.- Las guarniciones y banquetas de concreto conforme a las especificaciones que señale el municipio;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+VII.- Las guarniciones, y las banquetas de concreto conforme a las especificaciones previstas en las Normas Oficiales Mexicanas en materia de accesibilidad y los lineamientos que para tal efecto emita el Ayuntamiento.
 
 VIII.- La habilitación de las vías públicas conforme a las especificaciones que la autoridad competente establezca;
 
@@ -1657,7 +1661,9 @@ IX.- Las obras de infraestructura troncal o de servicios básicos que se requier
 
 X.- Las obras y previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones a las personas con discapacidad;
 
-XI.- La habilitación, equipamiento y arbolado de áreas verdes, camellones y banquetas de concreto, conforme los lineamientos que señale la autoridad municipal correspondiente;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XI.- La habilitación, equipamiento y arbolado de áreas verdes, camellones y banquetas de concreto, conforme a los criterios de diseño de accesibilidad para obras de urbanización que señale el Ayuntamiento atendiendo a lo dispuesto en las Normas Oficiales Mexicanas de la materia.
 
 XII.- Las redes generales para telefonía y televisión por cable, las cuales deberán ser preferentemente subterráneas; y
 
@@ -2626,3 +2632,27 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-718 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y XI, DEL ARTÍCULO 52 BIS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-719 MEDIANTE EL CUAL SE REFORMA EL INCISO B), DE LA FRACCIÓN III, DEL ARTÍCULO 51, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; Y SE ADICIONA EL PÁRRAFO SEGUNDO, A LA FRACCIÓN III, DEL ARTÍCULO 49, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL; Y SE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 73, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
