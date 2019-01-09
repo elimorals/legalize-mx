@@ -4,7 +4,7 @@ identifier: "LMV"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2018-03-09"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2019.
 
 Ley publicada en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -3162,11 +3162,15 @@ Las casas de bolsa responderán frente a sus clientes de los actos realizados po
 
 #### Sección V. De la contratación
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2019)</small>
+
 ###### Artículo 199.
 
-Las operaciones que las casas de bolsa celebren con su clientela inversionista y por cuenta de la misma, se regirán por las previsiones contenidas en los contratos de intermediación bursátil que al efecto celebren por escrito, salvo que, como consecuencia de lo dispuesto en ésta u otras leyes, se establezca una forma de contratación distinta.
+Las operaciones que las casas de bolsa celebren con su clientela inversionista y por cuenta de la misma, se regirán por las previsiones contenidas en los contratos de intermediación bursátil, que al efecto podrán ser celebrados por escrito, mediante firma autógrafa, o bien mediante firma electrónica avanzada de sus clientes, otorgada conforme al mecanismo de certificación previsto por el Código Fiscal de la Federación ante el Servicio de Administración Tributaria y conforme a lo establecido en el Código de Comercio, salvo que, como consecuencia de lo dispuesto en esta u otras leyes, se establezca una forma de contratación distinta.
 
 Por medio del contrato de intermediación bursátil, el cliente conferirá un mandato para que, por su cuenta, la casa de bolsa realice las operaciones autorizadas por esta Ley, a nombre de la misma casa de bolsa, salvo que, por la propia naturaleza de la operación, deba convenirse a nombre y representación del cliente, sin que en ambos casos sea necesario que el poder correspondiente se otorgue en escritura pública.
+
+Los clientes que suscriban contratos de intermediación bursátil celebrados mediante firma electrónica avanzada producirán los mismos derechos y obligaciones que los celebrados mediante firma autógrafa y sujetos a la normatividad administrativa aplicable.
 
 ###### Artículo 200.
 
@@ -6605,3 +6609,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 199 DE LA LEY DEL MERCADO DE VALORES".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2019.
+
+Segundo. Para los efectos de lo dispuesto por el Código Fiscal de la Federación, el Servicio de Administración Tributaria dispondrá de ciento ochenta días a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones de carácter general.
+
+Tercero. El Servicio de Administración Tributaria, la Comisión Nacional Bancaría y de Valores y las Entidades Financieras deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes ciento ochenta días, contados a partir de la expedición del presente Decreto.
+
+Cuarto. Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
