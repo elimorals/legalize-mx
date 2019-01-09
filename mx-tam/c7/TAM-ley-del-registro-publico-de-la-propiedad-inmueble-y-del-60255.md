@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2017-04-20"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -483,7 +483,9 @@ II. Mediante información posesoria; o
 
 III. Mediante otra forma que pudiera determinar la autoridad judicial, por razones suficientes y con fundamento en derecho.
 
-3. La inmatriculación por resolución administrativa se obtiene mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+3. La inmatriculación por resolución administrativa se obtiene mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble o el título expedido con base en ese decreto, así como mediante la inscripción del acuerdo administrativo que contenga la declaratoria de un bien inmueble vacante y su incorporación al patrimonio público del Estado.
 
 ###### ARTICULO 36.
 
@@ -595,7 +597,7 @@ Cuando proceda, ya sea el notario o el interesado, deberá tramitar el registro 
 
 ### CAPÍTULO VIII. DE LA CALIFICACION
 
-#### SECCION PRIMERA. DE LA CALlFICACION EN GENERAL
+#### SECCION PRIMERA. DE LA CALIFICACION EN GENERAL
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
@@ -1556,6 +1558,14 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y en
 P.O. 20 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-155 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 51, NUMERAL 2 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-722 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
 
 ###### ARTÍCULO ÚNICO.
 
