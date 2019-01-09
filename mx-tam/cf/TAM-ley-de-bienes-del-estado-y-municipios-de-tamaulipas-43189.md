@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2016-12-21"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -85,7 +85,13 @@ f) Ley para el Desarrollo Urbano del Estado de Tamaulipas;
 
 g) Código Fiscal del Estado de Tamaulipas;
 
-h) Código Civil para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+h) Código Civil para el Estado de Tamaulipas; e
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+i) Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
 
 2. La supletoriedad de los ordenamientos previstos en los incisos a) a c) del párrafo anterior se entiende restringida a los Poderes Legislativo, Ejecutivo y Judicial, respectivamente.
 
@@ -94,6 +100,10 @@ h) Código Civil para el Estado de Tamaulipas.
 1. El Estado y los Municipios de Tamaulipas podrán adquirir bienes por vías de derecho público y derecho privado.
 
 2. Las adquisiciones por vías de derecho público se regirán por la presente ley, las leyes especiales y los reglamentos respectivos. Las adquisiciones por vías de derecho privado se regularán por las disposiciones de esta ley, las aplicables a las adquisiciones de bienes y servicios, el Código Civil para el Estado y los reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+3. Pertenecen al Estado de Tamaulipas como bienes patrimoniales,.(sic) los inmuebles vacantes o que no tengan dueño cierto y conocido que se ubiquen dentro de su territorio, los cuales se incorporarán al patrimonio del Estado mediante acuerdo administrativo emitido en los términos de la presente ley, o, por adjudicación judicial en el supuesto de denuncia ante el Ministerio Público, conforme a la legislación civil del Estado de Tamaulipas.
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES DE LAS AUTORIDADES
 
@@ -299,9 +309,39 @@ h) Los que el Estado o los Municipios adquieran fuera de su territorio;
 
 i) Las Servidumbres que se constituyan o adhieran a los bienes inmuebles del dominio privado cuando éste sea el predio dominante; y
 
-j) Los bienes inmuebles que se encuentren dentro del territorio de la Entidad, considerados mostrencos;
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+j) Los bienes inmuebles que se encuentren dentro del territorio de la Entidad considerados vacantes.
 
 2. También se consideran bienes inmuebles del dominio privado del Estado o de los Municipios, aquellos que formen ya parte de su patrimonio y que por su naturaleza sean susceptibles de ser destinados a la solución de necesidades habitacionales de interés social.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+3. Para el caso de los bienes inmuebles referidos en el párrafo 1 inciso j) de este artículo, el Ejecutivo del Estado por conducto de la Secretaría de Administración, realizará mediante acuerdo administrativo la declaratoria del bien vacante, ordenando su incorporación al patrimonio público estatal y solicitando su inscripción ante el Instituto Registral y Catastral del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+4. Para emitir la declaratoria citada en el párrafo que antecede, la Secretaría de Administración se ceñirá a lo que disponen los artículos 49 inciso a) y 50 de la presente ley, debiendo integrar previamente un expediente administrativo de acuerdo a lo siguiente:
+
+a) Constancias emitidas por el Instituto Registral y Catastral del Estado y del Instituto Tamaulipeco de Vivienda y Urbanismo, por las que se informe sobre los datos o antecedentes con que cuenten dichas dependencias sobre el bien inmueble en cuestión;
+
+b) Constancia emitida por el Registro Agrario Nacional, por la cual informe sobre los datos o antecedentes del bien inmueble cuya declaratoria de vacante se pretende;
+
+c) Certificación de búsqueda en el Sistema de Información Inmobiliaria Federal y Paraestatal del Instituto de Administración y Avalúos de Bienes Nacionales, a fin de hacer constar que el bien inmueble de que se trate no se encuentra en el Inventario del Patrimonio Inmobiliario Federal y Paraestatal;
+
+d) Publicación en el Periódico Oficial del Estado por tres días consecutivos, el hallazgo del bien inmueble vacante señalando su ubicación, superficie y medidas, a fin de convocar a las personas que consideren tener algún derecho, para que comparezcan ante la Secretaría de Administración dentro de un plazo de quince días hábiles contados a partir de la fecha de la última publicación, a fin de que hagan valer su derecho aportando las pruebas que lo acrediten;
+
+e) Constancia de la Procuraduría General de Justicia del Estado, en la que informe sobre la existencia de denuncias relativas a bienes inmuebles vacantes, que se hubieren presentado en los términos de la legislación civil del Estado de Tamaulipas ante las oficinas del Ministerio Público del lugar de ubicación del inmueble cuya declaración de vacancia se pretende; y
+
+f) Copia certificada de la Secretaría de Obras Públicas del Estado, del plano oficial que señale la superficie del inmueble, medidas y colindancias, datos de los predios colindantes y aquéllos que faciliten su localización y ubicación.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+5. Una vez hecha la primera publicación a que se refiere el inciso d) del párrafo 4 de este artículo, no se admitirá denuncia alguna sobre bienes vacantes a que se refieren los artículos 772, 773 y 774 del Código Civil para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+6. En el supuesto señalado en el inciso d) del párrafo 4 que antecede, si la persona que ocurriera ante la Secretaría de Administración a hacer valer algún derecho, se considera afectada por la declaratoria de bien vacante dictada en los términos del presente dispositivo, podrá interponer el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda, de conformidad a las disposiciones contenidas en el Título Cuarto de la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
 
 ###### Artículo 21.
 
@@ -535,11 +575,17 @@ f) Cambio de usuario: acto por el que se cambia de usuario un bien del dominio p
 
 ###### Artículo 50.
 
-Los actos a que se refiere el artículo anterior deberán documentarse en un acuerdo administrativo, que deberá reunir los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2019)</small>
+
+1. Los actos a que se refiere el artículo anterior deberán documentarse en un acuerdo administrativo, que deberá reunir los siguientes requisitos:
 
 a) Ser emitido por el Secretario de Administración, o por los Ayuntamientos, según proceda; y
 
 b) Estar fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+2. El acuerdo administrativo sobre declaratoria del bien inmueble vacante deberá cumplir con lo establecido por el párrafo 4 del artículo 20 de esta ley.
 
 ###### Artículo 51.
 
@@ -701,9 +747,11 @@ Cuando las obras e instalaciones hechas sin concesión, permiso o autorización 
 
 ### CAPITULO DECIMO PRIMERO. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### Artículo 78.
 
-Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades administrativas del Estado y de los Municipios en la aplicación de la presente ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio de nulidad ante el Tribunal Fiscal del Estado.
+Los particulares afectados por los actos y resoluciones de las autoridades administrativas, en la aplicación de la presente ley, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer el recurso de revisión o el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas, de conformidad con la legislación aplicable.
 
 T R A N S I T O R I O S
 
@@ -772,3 +820,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-722 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
