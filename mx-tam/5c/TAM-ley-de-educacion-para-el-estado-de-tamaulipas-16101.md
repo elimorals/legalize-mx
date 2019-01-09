@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2018-06-12"
+last_updated: "2019-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -395,13 +395,13 @@ XIV.- Fomentar las actividades de educación física, de cuidado al medio ambien
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas y atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de la realización de estudios clínicos, buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
+XVI.- Establecer, en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y atendiendo a sus respectivos ámbitos de competencia, protocolos para la detección y seguimiento de los casos de violencia física, emocional, psicológica o sexual contra niñas, niños y adolescentes, y las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo, para el fomento de la realización de estudios clínicos, buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XVII.- Promover entre los padres de familia o tutores la realización de estudios clínicos en los educandos, cuando se advierta la necesidad de efectuarlos;
+XVII.- Promover entre los padres de familia, tutores, docentes y educandos, medidas de prevención de casos de violencia física, emocional, psicológica o sexual contra niñas, niños y adolescentes; así como la realización de estudios clínicos en los educandos por parte de los padres de familia o tutores, cuando se advierta la necesidad de efectuarlos;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -479,7 +479,7 @@ VII.- No permitir el establecimiento de comercio ambulante en las inmediaciones 
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Velar, en particular mediante campañas de mentalización e información, por que las familias desistan de dar un trato preferente a los varones cuando envíen a sus hijos a la escuela;
+VIII.- Velar, en particular mediante campañas de mentalización e información, por que (sic) las familias desistan de dar un trato preferente a los varones cuando envíen a sus hijos a la escuela;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -734,6 +734,10 @@ XI.- La infraestructura educativa.
 Las instituciones del sistema educativo estatal impartirán educación de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al sistema educativo estatal, se entenderán como sinónimos los conceptos de educador, docente, profesor y maestro.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTICULO 20 BIS.- Las instituciones educativas de nivel básico pertenecientes al Sistema Educativo Estatal, así como aquellas en donde se imparte la educación inicial, deberán contar con un especialista en psicología dentro de su personal, para brindarle apoyo a las niñas, niños y adolescentes que así lo requieran y que formen parte de éstas, a fin de que los menores alcancen su pleno desarrollo integral.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2264,3 +2268,15 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIII-543 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12, FRACCIONES XVI Y XVII; Y SE ADICIONA UN ARTÍCULO 20 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO DE TAMAULIPAS; ASIMISMO, SE REFORMA EL ARTÍCULO 35, DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educativo del Estado de Tamaulipas.
