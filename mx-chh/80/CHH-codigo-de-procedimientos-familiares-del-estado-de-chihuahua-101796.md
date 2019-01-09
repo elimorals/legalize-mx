@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-familiares-del-estado-de-chihuahua-101
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2017-02-22"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Código publicado en el folleto anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -277,17 +277,15 @@ Las órdenes de protección, pueden ser modificadas en la audiencia preliminar, 
 
 El juez o jueza tiene la obligación de dar seguimiento a las órdenes de protección dictadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-Respecto de la fe y valor legal que deba darse a los actos de los estados y del Distrito Federal, son aplicables las siguientes reglas:
+Respecto de la fe y valor legal que deba darse a los actos de los estados y de la Ciudad de México, son aplicables las siguientes reglas:
 
-I. Se dará entera fe y valor legal a los actos, registros públicos y procedimientos judiciales de los estados y del Distrito Federal, sin que para probarlos se requiera previa legalización de las firmas que los autoricen.
+I. Se dará entera fe y valor legal a los actos, registros públicos y procedimientos judiciales de los estados y de la Ciudad de México, sin que para probarlos se requiera previa legalización de las firmas que los autoricen.
 
-II. La fuerza ejecutoria de las sentencias pronunciadas por los tribunales de los estados y del Distrito Federal, se determinará de acuerdo con las bases establecidas por el artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
+II. La fuerza ejecutoria de las sentencias pronunciadas por los tribunales de los estados y de la Ciudad de México, se determinará de acuerdo con las bases establecidas por el artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1845,7 +1843,7 @@ VI. De los demás casos previstos por otras disposiciones jurídicas.
 
 En la reconvención, las cuestiones de tercería, los actos preparatorios a juicio y providencias precautorias, será competente el juez o jueza que lo sea para conocer del asunto principal.
 
-Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria la autoridad jurisdiccional que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se halle la persona o la cosa objeto de la providencia y efectuada esta, se remitirán las actuaciones al tribunal competente.
+Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria la autoridad jurisdiccional que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se halle a la persona o la cosa objeto de la providencia y efectuada esta, se remitirán las actuaciones al tribunal competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5297,11 +5295,9 @@ IV. La rendición de cuentas y las diferencias que de ellas surgieren se sustanc
 
 V. La parte acreedora podrá separarse de la administración de los bienes cuando esta lo crea conveniente y pedir se saquen de nuevo a subasta pública y, si no hubiere parte postora, podrá pedir que se le adjudique en los términos fijados en este código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
-
-### CAPÍTULO IV. EJECUCIÓN DE SENTENCIAS Y DEMÁS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DEL DISTRITO FEDERAL, DE LOS ESTADOS Y TRIBUNALES EXTRANJEROS
+### CAPÍTULO IV. EJECUCIÓN DE SENTENCIAS Y DEMÁS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LA CIUDAD DE MÉXICO, DE LOS ESTADOS Y TRIBUNALES EXTRANJEROS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6512,3 +6508,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXVI/RFCOD/0264/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 8, Y DEL TÍTULO NOVENO, LA DENOMINACIÓN DEL CAPÍTULO IV, DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DE ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
