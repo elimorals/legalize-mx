@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2017-12-21"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -37,11 +37,11 @@ Que el Honorable Congreso del Estado, se ha servido expedir el siguiente Decreto
 
 "Al margen un sello que dice: Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58, fracción I, de la Constitución Política local, tiene a bien expedir el siguiente
+LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58, fracción I, de la Constitución Política local, tiene a bien expedir el siguiente
 
 DECRETO No. 78
 
-LEY DE TRANSITO Y TRANSPORTE
+LEY DE TRÁNSITO Y TRANSPORTE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -85,9 +85,17 @@ I. Establecer y ejecutar los lineamientos de tránsito y vialidad en los caminos
 
 II. Transmitir a las autoridades municipales de tránsito, las órdenes y disposiciones que correspondan en términos del segundo párrafo del artículo 136 de la Constitución Política del Estado de Tamaulipas;
 
-III. Celebrar convenios con los municipios del Estado, con otros Estados o con la Federación, para el mejor cumplimiento de esta ley; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-IV. Las demás atribuciones que ésta y otras disposiciones legales le asignen;
+III. Celebrar convenios con los municipios del Estado, con otros Estados o con la Federación, para el mejor cumplimiento de esta ley;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+IV. Elaborar y colocar, de acuerdo con las Normas Oficiales Mexicanas aplicables, señalética vial preventiva en las zonas urbanas y rurales de su jurisdicción; y
+
+(REUBICADA, P.O. 9 DE ENERO DE 2019)
+
+V. Las demás atribuciones que ésta y otras disposiciones legales le asignen.
 
 A los Ayuntamientos del Estado les compete:
 
@@ -99,9 +107,17 @@ III. Emitir los manuales y reglamentos internos de tránsito municipal que consi
 
 IV. Establecer y ejecutar los lineamientos de tránsito y vialidad en las vías públicas de comunicación de su circunscripción;
 
-V. Celebrar convenios con la Federación, con el Estado u otros municipios del Estado o de otros Estados, cumpliendo los términos constitucionales o legales que correspondan, para el mejor cumplimiento de esta ley o de sus disposiciones reglamentarias municipales; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-VI. Las demás atribuciones que ésta y otras disposiciones legales les asignen.
+V. Celebrar convenios con la Federación, con el Estado u otros municipios del Estado o de otros Estados, cumpliendo los términos constitucionales o legales que correspondan, para el mejor cumplimiento de esta ley o de sus disposiciones reglamentarias municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+VI. Elaborar y colocar, de acuerdo con las Normas Oficiales Mexicanas aplicables, señalética vial preventiva en las áreas urbanas y rurales de su jurisdicción, de manera general, y en particular en las zonas escolares, hospitalarias o de salud, recreativas y comerciales; y
+
+(REUBICADA, P.O. 9 DE ENERO DE 2019)
+
+VII. Las demás atribuciones que ésta y otras disposiciones legales les asignen.
 
 ###### ARTICULO 4º.
 
@@ -152,6 +168,10 @@ En el desempeño de sus atribuciones reglamentarias, darán satisfacción a los 
 Estos contendrán, entre otras, las previsiones que regulen y faciliten el tránsito seguro y responsable de los peatones y automovilistas.
 
 Al efecto, preveerán (sic) aquéllas disposiciones que resulten necesarias para cumplir el propósito de privilegiar la seguridad de las personas, el fortalecimiento y desarrollo de la cultura cívica y del respeto en la circulación y conducción de automotores, y de todas aquéllas disposiciones que garanticen el cumplimiento de la responsabilidad civil en caso de daños, lesiones o muerte con motivo del tránsito de vehículos.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+Los Ayuntamientos deberán establecer en sus Reglamentos, la obligación de las autoridades municipales competentes, de elaborar y colocar, de acuerdo a las Normas Oficiales Mexicanas aplicables, en cantidad suficiente en sus respectivas jurisdicciones, en general, y de manera particular, en zonas escolares, hospitalarias o de salud, recreativas y comerciales.
 
 ###### ARTICULO 7º.
 
@@ -297,7 +317,9 @@ b).- Estado de ebriedad: la condición física y mental ocasionada por la ingest
 
 c).- Evidente Estado de Ebriedad: cuando a través de los sentidos por las manifestaciones externas aparentes, se pueda apreciar razonablemente que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico y que además pueda ser confirmado por exámen de alcoholemia;
 
-II. Conducir usando dispositivos de comunicación, tales como radios, teléfonos celulares y otros, que disminuyen la habilidad y capacitad de reacción al conductor de un vehículo, impidiendo la máxima seguridad en la conducción de los vehículos automotores; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+II. Conducir usando dispositivos de comunicación, tales como radios, teléfonos celulares y otros, que disminuyen la habilidad y capacidad de reacción al conductor de un vehículo, impidiendo la máxima seguridad en la conducción de los vehículos automotores. Las autoridades estatales y municipales, según corresponda, colocarán en sus respectivas jurisdicciones, con base en las normas oficiales mexicanas aplicables, señalética vial específica que indique la prohibición del uso de estos aparatos al conducir, y la colocarán sin excepción, en zonas escolares, hospitalarias, de salud, recreativas y comerciales; y
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -447,11 +469,11 @@ Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a l
 
 ###### ARTICULO 39.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002).
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 40.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002).
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
 
@@ -523,9 +545,9 @@ I. Multa equivalente a:
 
 a).- Desde dos veces el valor diario de la Unidad de Medida y Actualización, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad competente, la que deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
 
-b).- Desde una vez el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
+b) Desde una vez el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 19 Bis; y, desde diez veces el valor diario de la Unidad de Medida y Actualización a quien infrinja lo establecido en el artículo 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -834,3 +856,15 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTICULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-539 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo y Los Ayuntamientos dispondrán de un término de 90 días contados a partir del inicio de vigencia del presente decreto, para colocar, en las vialidades de su competencia, la señalética vial que indique la prohibición del uso de dispositivos de comunicación, tales como radios, teléfonos celulares y otros, al conducir un vehículo, de acuerdo con las Normas Oficiales Mexicanas aplicables.
