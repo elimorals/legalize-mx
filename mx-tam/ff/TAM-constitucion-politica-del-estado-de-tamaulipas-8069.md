@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2018-12-11"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -74,6 +74,10 @@ La ley facultará al Ejecutivo para establecer los procedimientos de participaci
 Los Municipios podrán celebrar en el ámbito de su competencia convenios y acuerdos con la Federación para la planeación, coordinación y ejecución de los programas de desarrollo económico y social, con la aprobación del Congreso del Estado.
 
 El sistema de planeación democrática del desarrollo incluirá la planeación estratégica. La ley conformará el Consejo Económico y Social, órgano consultivo del Gobierno del Estado en el que concurrirán los sectores público, social, privado y académico, y establecerá las normas para su funcionamiento. En dicho Consejo estarán representadas las diversas regiones de desarrollo del Estado, conforme lo señale la ley. El Consejo alentará la planeación de largo plazo basada en el acuerdo social más amplio para dar continuidad a los procesos de desarrollo del Estado. Dicha planeación no limitará los contenidos y alcances del Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, deberán implementar de manera permanente políticas públicas de mejora regulatoria, para la simplificación de regulaciones, trámites, servicios y procedimientos. La ley de la materia que expida el Congreso del Estado, dispondrá lo necesario para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, garanticen beneficios superiores a sus costos, fortalezcan la competitividad económica, la creación de empleos en el Estado y, en consecuencia, su desarrollo económico. Asimismo, deberá sujetar sus disposiciones a lo dispuesto por la ley expedida para tal efecto por el Congreso de la Unión, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -319,13 +323,17 @@ VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacim
 
 VIII.- El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-IX.- El derecho de acceder de manera libre y universal a internet; y
+IX.- El derecho de acceder de manera libre y universal a internet;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XI.- El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; el Estado establecerá como garantía para ello, los mecanismos necesarios y suficientes para su desarrollo, promoción, fomento, estímulo y abasto oportuno conforme a las leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
@@ -1303,13 +1311,17 @@ LIX. Llamar a las autoridades o servidores públicos de la administración públ
 
 LX. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-LXI. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas; y
+LXI. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+LXII. Expedir la Ley en materia de Mejora Regulatoria, de conformidad con los artículos 25, último párrafo y 73, fracción XXIX-Y de la Constitución Política de los Estados Unidos Mexicanos; y
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-LXII. Legislar en materia de identidad personal y su protección, así como establecer el Instituto Estatal de Protección a la Identidad.
+LXIII. Legislar en materia de identidad personal y su protección, así como establecer el Instituto Estatal de Protección a la Identidad.
 
 ###### Art. 59.
 
@@ -4039,7 +4051,7 @@ Las reformas a que se contrae el presente Decreto entrarán en vigor a los trein
 
 ###### ARTÍCULO SEGUNDO.
 
-Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario. los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
 
 P.O. 3 DE JUNIO DE 2003.
 
@@ -5018,6 +5030,30 @@ I.- Un comisionado electo por 7 años;
 II.- Un comisionado electo por 5 años; y
 
 III.- Un comisionado electo por 3 años.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-541 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 58, FRACCIÓN LXI; Y SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4o., Y UNA FRACCIÓN LXII, RECORRIÉNDOSE LA ACTUAL PARA SER LXIII AL ARTÍCULO 58, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan a las reformas y adiciones materia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado Libre y Soberano de Tamaulipas, dentro de un plazo de 180 días deberá realizar la armonización legislativa en materia de mejora regulatoria, de conformidad con los artículos 25, último párrafo y 73, fracción XXIX-Y de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-542 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO NOVENO.
 
