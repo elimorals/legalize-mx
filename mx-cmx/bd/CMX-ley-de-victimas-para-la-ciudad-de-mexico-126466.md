@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-victimas-para-la-ciudad-de-mexico-126466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2018-02-19"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-15"
 
 LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 19 febrero de 2018.
 
@@ -1064,13 +1064,21 @@ l) La Consejería Jurídica y de Servicios Legales; y,
 
 m) El Consejo para Prevenir y Eliminar la Discriminación.
 
-II. La Asamblea Legislativa o el Congreso de la Ciudad de México por la persona que presida:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 9 DE ENERO DE 2019)</small>
 
-a) La Comisión de Gobierno;
+II. El Congreso de la Ciudad de México por la persona que presida:
 
-b) La Comisión de Derechos Humanos; y,
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2019)</small>
 
-c) La Comisión de Administración y Procuración de Justicia.
+a) La o el Presidente de la Mesa Directiva en funciones;
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2019)</small>
+
+b) La Comisión de Atención Especial a Víctimas; y,
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2019)</small>
+
+c) La Comisión de Derechos Humanos.
 
 III. La persona que presida el Tribunal Superior de Justicia de la Ciudad de México;
 
@@ -1850,7 +1858,9 @@ La Comisión de Víctimas cuenta con una persona Comisionada para su administrac
 
 La Comisión de Víctimas estará a cargo de una persona Comisionada, nombrada por la o el Jefe de Gobierno.
 
-Para tal efecto, la Asamblea Legislativa o el Congreso de la Ciudad de México conformará una terna para garantizar que esté representada por personas especialistas y expertas en la materia de atención a víctimas, por lo que las Comisiones de Administración y Procuración de Justicia y de Derechos Humanos recibirán las solicitudes de candidatura de manera directa, a efecto de depurarlas con los tres mejores perfiles, que enviarán a la o al Jefe de Gobierno para su designación correspondiente.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2019)</small>
+
+Para tal efecto, el Congreso de la Ciudad de México conformará una terna para garantizar que esté representada por personas especialistas y expertas en la materia de atención a víctimas, por lo que la Comisión de Atención Especial a Víctimas recibirá las solicitudes de candidatura de manera directa, y las Comisiones Unidas de Atención Especial a Víctimas y de Derechos Humanos quienes seleccionen la terna con los mejores perfiles, que enviaran a la o el Jefe de Gobierno para su designación correspondiente.
 
 Dicha persona Comisionada será nombrada por un periodo de cinco años, pudiendo ser ratificada por la Asamblea Legislativa o el Congreso de la Ciudad de México para un segundo periodo. Además, durante su encargo no podrá tener ningún otro empleo, cargo o comisión, salvo actividades docentes, científicas o de beneficencia. La persona titular podrá ser destituida y, en su caso, sujeta a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y por la normatividad aplicable en la Ciudad de México.
 
@@ -2605,3 +2615,13 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los quince días del mes de febrero del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO.- MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA,
 
 FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, EVANGELINA HERNÁNDEZ DUARTE.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, ROMÁN ROSALES AVILÉS.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS INCISOS A), B) Y C), DE LA FRACCIÓN II, DEL ARTÍCULO 80 Y SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 115 DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Congreso de la Ciudad de México, a través de las Comisiones Unidas de Atención Especial a Victimas y la de Derechos Humanos, cuentan con un término de 15 días hábiles, para emitir la convocatoria para la elección de la terna, que será enviada a la o el Jefe de Gobierno, quien designará a la o el titular de la Comisión de Atención a Víctimas de la Ciudad de México, una vez que sea publicado en la Gaceta Oficial de la Ciudad de México el presente decreto.
