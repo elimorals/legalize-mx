@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2018-10-31"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -91,9 +89,17 @@ IX. La distinción entre las diversas manifestaciones o modalidades del deporte 
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XII. La existencia de una adecuada cooperación a nivel nacional e internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XII. La existencia de una adecuada cooperación a nivel nacional e internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de la paz, de la legalidad y de la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### ARTÍCULO 4.
 
@@ -107,7 +113,9 @@ III. La creación, conservación, mejoramiento, protección, difusión, promoci�
 
 IV. La preservación de la salud y prevención de enfermedades;
 
-V. Ser un medio importante en la prevención del delito;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+V. Ser un medio importante en la prevención del delito y otras actividades ilegales, para lograr un ambiente de paz y bienestar social;
 
 VI. La promoción de medidas necesarias para erradicar la violencia y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
 
@@ -119,13 +127,17 @@ IX. Incentivar la actividad deportiva que se desarrolla en forma organizada y pr
 
 X. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XI. Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; y
+XI. Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XII. La no discriminación de los deportistas con discapacidad, siempre que las actividades a realizar no pongan en peligro su integridad física y seguridad.
+XII. La no discriminación de los deportistas con discapacidad, siempre que las actividades a realizar no pongan en peligro su integridad física y seguridad; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XIII. Fortalecer la interacción e integración de la sociedad para el desarrollo de aptitudes físicas e intelectuales que fomenten los valores y principios.
 
 ###### ARTÍCULO 5.
 
@@ -165,13 +177,17 @@ XIV. Medicina del Deporte: Especialidad científica multidisciplinaria dentro de
 
 XV. Organismo Deportivo: Toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica, cuyo propósito sea la práctica de un deporte o tengan por objeto desarrollar y fomentar actividades que se vinculen con el deporte, sin que ello implique necesariamente competencias deportivas;
 
-XVI. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XVII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+XVI. Programas institucionales: el Programa de Deporte de Alto Rendimiento y el Programa de Impulso a la Cultura del Deporte y la Activación Física;
 
-XVIII. Sistema: El Sistema Estatal del Deporte; y
+XVII. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-XIX. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte.
+XVIII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+
+XIX. Sistema: El Sistema Estatal del Deporte; y
+
+XX. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -225,7 +241,9 @@ c) Deporte en la rehabilitación; y
 
 d) Deporte a la población en general;
 
-III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte y a los programas institucionales;
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas Asociaciones Deportivas Estatales y Municipales y de acuerdo a las Normas Oficiales y demás disposiciones que para tal efecto expidan las dependencias y entidades correspondientes;
 
@@ -257,9 +275,13 @@ I. Formular, conducir y evaluar la política de cultura física y deporte estata
 
 II. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacionales, regionales y Municipales, así como el Plan Estatal de Desarrollo;
 
-III. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-IV. Celebrar convenios o acuerdos de coordinación y colaboración con la Comisión Nacional del Deporte y con los Municipios en materia de cultura física y deporte;
+III. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte y los programas institucionales;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+IV. Celebrar convenios o acuerdos de coordinación y colaboración con la Comisión Nacional del Deporte, entidades federativas, con los municipios y con los sectores público y privado, en materia de cultura física y deporte;
 
 V. Integrar el Sistema Estatal de Cultura Física y Deporte, para promover y fomentar el desarrollo de la cultura física y deporte;
 
@@ -269,7 +291,9 @@ VII. Promover la participación de los sectores social y privado para el desarro
 
 VIII. Ser el órgano rector de la política deportiva estatal;
 
-IX. Formular el Programa Estatal del Deporte, mismo que debe de contemplar el deporte para todos, el deporte estudiantil, deporte federado, deporte de alto rendimiento, deporte especial y deporte para personas adultas mayores;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+IX. Formular el Programa Estatal de Cultura Física y Deporte, el cual contendrá el Programa de Deporte de Alto Rendimiento y el Programa de Impulso a la Cultura del Deporte y la Activación Física, mismos que debe de contemplar el deporte social, deporte federado, deporte de alto rendimiento, deporte adaptado y deporte para personas adultas mayores;
 
 X. Normar la participación de los deportistas representantes del Estado en competencias oficiales, nacionales y estatales;
 
@@ -283,7 +307,9 @@ XIV. Promover y apoyar la inducción, en materia deportiva, en los planes y prog
 
 XV. Convocar anualmente a competencias deportivas estatales, en el ámbito estudiantil en todos sus niveles, en coordinación con los Consejos Estatales del Deporte Estudiantil y las Asociaciones Deportivas Estatales;
 
-XVI. Coordinar la elaboración del Programa Estatal de Educación Física;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XVI. Colaborar con la Secretaría de Educación de Tamaulipas en la elaboración del Programa Estatal de Educación Física;
 
 XVII. Apoyar el desarrollo de la educación física, la iniciación deportiva y la difusión de sus beneficios entre la comunidad escolar y la población abierta;
 
@@ -293,7 +319,7 @@ XIX. Impulsar la práctica de actividades físicas y deportivas entre la poblaci
 
 XX. Identificar y seleccionar a los talentos deportivos, mediante la organización de competencias que reúnan lo mejor del deporte estudiantil y asociado;
 
-XXI. Integrar y mantener actualizado el Registro Estatal del Deporte;
+XXI. (DEROGADA, P.O. 9 DE ENERO DE 2019)
 
 XXII. Participar con las organizaciones deportivas estatales en la definición de sus programas y en lo referente a que los deportistas que se desarrollan dentro del concepto de alto rendimiento y talentos deportivos mediante la celebración de convenios específicos;
 
@@ -309,11 +335,55 @@ XXVII. Formular programas para promover y fomentar el deporte realizado por pers
 
 XXVIII. Promover e incrementar, conforme a las previsiones presupuestales existentes, el Fondo Estatal del Deporte, así como organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
 
-XXIX. Convocar anualmente a los eventos deportivos contemplados en el Programa Estatal del Deporte;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-XXX. Otorgar el Premio Estatal del Deporte, conforme a lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado; y
+XXIX. Convocar anualmente a los eventos deportivos contemplados en los programas institucionales;
 
-XXXI. Las demás que señale la Ley General, esta Ley, su Decreto de creación y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXX. Otorgar el Premio Estatal del Deporte, conforme a lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXI. Definir los lineamientos para prevenir la violencia y fomentar la cultura de la paz en el deporte;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXII. Otorgar el registro correspondiente a las Asociaciones y Sociedades a que hace referencia esta Ley, así como sancionar sus estatutos y promover la práctica institucional y reglamentada del deporte a través de las Asociaciones Deportivas Estatales;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXIII. Atender y orientar permanentemente a las Asociaciones Deportivas y Organismos afines en la creación y actualización de su estructura, así como brindar la asesoría necesaria para que sus estatutos no contravengan lo dispuesto en la presente Ley y en su Reglamento;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXIV. Vigilar y asegurar que los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas y Organismos Afines, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal les son delegadas, se realicen con estricto cumplimiento de las disposiciones legales y estatutarias vigentes;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXV. Supervisar que las Asociaciones Deportivas y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXVI. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación así como los procedimientos disciplinarios y sanciones aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXVII. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXVIII. Atender y orientar permanentemente a las Asociaciones Deportivas y Organismos Afines en la formulación de sus programas deportivos, creación y actualización de su estructura, así como brindar la asesoría necesaria para que sus estatutos no contravengan lo dispuesto en la presente Ley y en su Reglamento;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XXXIX. Promover en coordinación con la Secretaría de Desarrollo Económico, la Secretaría del Trabajo y la Secretaría de Salud programas de activación física en las empresas establecidas en el Estado, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+
+XL. Suscribir, en su caso, los contratos que regulen las relaciones laborales del Instituto con sus trabajadores, mismos que se regirán por lo señalado en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas; y
+
+XLI. Las demás que señale la Ley General, esta Ley, su Decreto de creación y los demás ordenamientos aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -351,7 +421,9 @@ XIII. Las demás que señale la Ley General, esta Ley y los demás ordenamientos
 
 1. Para la eficaz y eficiente promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones existirá un Sistema Estatal de Cultura Física y Deporte que tendrá los siguientes objetivos:
 
-I. Asesorar en la elaboración del Programa Estatal de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+I. Asesorar en la elaboración del Programa Estatal de Cultura Física y Deporte y los programas institucionales; y
 
 II. Coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
 
@@ -483,9 +555,35 @@ En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar
 
 ### CAPÍTULO V. DE LAS ASOCIACIONES DEPORTIVAS ESTATALES
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-Las Asociaciones Deportivas Estatales regularán su estructura interna y funcionamiento, de conformidad con sus Estatutos Sociales, la Ley General, la presente Ley y demás ordenamientos jurídicos aplicables, observando en todo momento los principios de democracia, representatividad, equidad, legalidad, transparencia y rendición de cuentas.
+Las Asociaciones Deportivas Estatales regularán su estructura interna y funcionamiento, de conformidad con sus Estatutos Sociales, la Ley General, la presente Ley y demás ordenamientos jurídicos aplicables, observando en todo momento los principios de democracia, representatividad, equidad, legalidad, transparencia y rendición de cuentas, los cuales deberán contener:
+
+A) Derechos:
+
+I. Recibir, cuando así corresponda, apoyos para destinarlos a los fines establecidos en su objeto social;
+
+II. Participar en las actividades convocadas por el Instituto, cumpliendo con los requisitos establecidos en la convocatoria respectiva; y
+
+III. Los que se deriven de la Ley y de los demás ordenamientos jurídicos aplicables.
+
+B) Obligaciones:
+
+I. Tener su domicilio social en territorio Estatal;
+
+II. Estar registrado en el Registro Nacional de Cultura Física y Deporte y afiliar a sus asociados o socios;
+
+III. Elaborar su estatuto y, en su caso, su reglamento, manteniéndolos actualizados sin contravenir lo dispuesto por los ordenamientos jurídicos aplicables;
+
+IV. Elaborar y aplicar un programa de actividades con el objeto de promover, practicar y contribuir al desarrollo de la Cultura Física o el Deporte de que se trate;
+
+V. Contar con la documentación normativa, contable, fiscal y operativa que acredite su debida gestión administrativa, atendiendo lo dispuesto en la Ley, y demás ordenamientos aplicables;
+
+VI. Capacitar y fomentar la profesionalización de sus directivos atendiendo las particularidades del desarrollo de la Cultura Física, el Deporte, la recreación y la rehabilitación; y
+
+VII. Las que se deriven de la Ley y del presente Reglamento, así como de los demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 36.
 
@@ -515,9 +613,11 @@ Las Asociaciones Deportivas Estatales son la máxima instancia técnica de su di
 
 Las Asociaciones Deportivas Estatales se rigen por lo dispuesto en la Ley General, la presente Ley y las demás disposiciones jurídicas que les sean aplicables y por sus estatutos y reglamentos.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 39.
 
-Las Asociaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que otorgue el Estado, deberán estar registradas como tales por el Sistema, cumplir con lo previsto en la Ley General, la presente ley y su reglamento, así como el Programa Estatal de Cultura Física y Deporte, con las obligaciones que se les imponga como integrantes del Sistema y demás disposiciones aplicables en materia presupuestaria.
+Las Asociaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que otorgue el Estado, deberán estar registradas como tales por el Sistema, cumplir con lo previsto en la Ley General, la presente ley y su reglamento, así como con los programas institucionales, y, con las obligaciones que se les imponga como integrantes del Sistema y demás disposiciones aplicables en materia presupuestaria y demás legislación aplicable.
 
 ###### ARTÍCULO 40.
 
@@ -527,9 +627,25 @@ Las Asociaciones Deportivas Estatales serán las únicas facultadas para convoca
 
 Para la realización de competencias deportivas oficiales dentro del territorio estatal, las Asociaciones Deportivas Estatales, tienen la obligación de registrarlas ante el Sistema, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 42.
 
-Con el fin de garantizar el cumplimiento efectivo de las funciones como colaboradoras de la administración pública estatal les son delegadas a las Asociaciones Deportivas Estatales en términos de la presente ley, el Instituto, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos.
+Con el fin de garantizar el cumplimiento efectivo de las funciones como colaboradoras de la administración pública estatal que les son delegadas a las Asociaciones Deportivas Estatales en términos de la presente ley, el Instituto, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de fiscalización, supervisión, vigilancia de los recursos públicos y evaluación de los resultados.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTÍCULO 42 BIS.
+
+La Participación de los deportistas en las competiciones, se sujetará a:
+
+I. Asistir a las convocatorias de las preselecciones o selecciones deportivas estatales y/o nacionales para la participación en competiciones de carácter regional, nacional e internacional, o para la preparación de las mismas;
+
+II. Si fuesen estudiantes, el Instituto gestionará ante la Secretaría de Educación de Tamaulipas el otorgamiento de permisos escolares durante el tiempo requerido para la participación en competiciones o la preparación de las mismas, verificando la no afectación en el rendimiento académico de los mismos, en los términos que reglamentariamente se establezcan;
+
+III. En caso de ser sujetos de una relación laboral, el Instituto tramitará ante las instancias correspondientes las facilidades para que se conserve tal carácter durante el tiempo requerido para la participación en competiciones o la preparación de las mismas, si bien se suspenderá el ejercicio de las facultades de dirección y control de la actividad laboral y las obligaciones o responsabilidades relacionadas con dicha facultad, en los términos que reglamentariamente se establezcan; y
+
+IV. Los Clubes y Ligas Deportivas brindarán las facilidades necesarias para que los deportistas, entrenadores, técnicos o jueces que sean parte de sus plantillas, participen en las competiciones oficiales o en la preparación de las mismas.
 
 ###### ARTÍCULO 43.
 
@@ -587,11 +703,15 @@ VII. Las demás que establezca la presente ley y otras disposiciones reglamentar
 
 2. El Ejecutivo Estatal a través de (sic) Instituto procurará establecer en el Plan Estatal de Desarrollo a su cargo, los objetivos, alcances y límites del desarrollo del sector; así como, el deber de las dependencias y entidades de la administración pública estatal en relación con la cultura física y el deporte.
 
-3. El Programa Estatal de Cultura Física y Deporte será expedido por el Ejecutivo del Estado a propuesta del Instituto, conforme a las disposiciones de la presente ley, y tendrá el carácter de instrumento rector de las actividades deportivas del Sistema.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+3. El Programa Estatal de Cultura Física y Deporte y los programas institucionales se realizarán conforme a las disposiciones de la presente ley, y tendrán el carácter de instrumentos rectores de las actividades deportivas del Sistema.
 
 ###### ARTÍCULO 48.
 
-1. El Instituto elaborará el Programa Estatal de Cultura Física y Deporte con base en un diagnóstico estatal y municipal, debiendo contener al menos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+
+1. El Instituto elaborará el Programa Estatal de Cultura Física y Deporte y sus programas institucionales con base en un diagnóstico estatal y municipal, debiendo contener al menos:
 
 I. Una clara definición de objetivos y metas;
 
@@ -603,9 +723,11 @@ IV. El plan de inversiones con los presupuestos de los principales programas y p
 
 2. Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-Las ligas y clubes deportivos, a través de sus asociaciones respectivas, deberán registrar ante el Sistema el programa anual de actividades para su inclusión y seguimiento en el Programa Estatal de Cultura Física y Deporte.
+Las ligas y clubes deportivos, a través de sus asociaciones respectivas, deberán registrar ante el Sistema el programa anual de actividades para su inclusión y seguimiento en los programas institucionales.
 
 ###### ARTÍCULO 50.
 
@@ -637,7 +759,9 @@ Las autoridades deportivas del Estado se apoyarán en las opiniones de metodólo
 
 Los deportistas y entrenadores de alto rendimiento que gocen de los apoyos económicos y materiales, a que se refiere el presente Capítulo, deberán participar en los eventos estatales y nacionales a que convoquen las autoridades deportivas respectivas.
 
-### CAPÍTULO IX. DEL DEPORTE PROFESIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ENERO DE 2019)</small>
+
+### CAPÍTULO IX. DEL DEPORTE PROFESIONAL, DEPORTE ADAPTADO Y DE LA ACTIVACÍON FÍSICA Y EL DEPORTE DE LAS PERSONAS ADULTAS MAYORES
 
 ###### ARTÍCULO 56.
 
@@ -654,6 +778,28 @@ Los deportistas profesionales que integren preselecciones y selecciones estatale
 ###### ARTÍCULO 59.
 
 El Instituto coordinará y promoverá la constitución de Comisiones Estatales de Deporte Profesional, quienes se integrarán al Sistema de acuerdo a lo establecido en el reglamento de esta ley.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTÍCULO 59 BIS.
+
+El Instituto, apoyará, promoverá y facilitará, la participación de las personas con discapacidad en las distintas disciplinas deportivas y deberá contar con personal calificado para brindar la atención que requiere este sector de la población.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTÍCULO 59 TER.
+
+El Instituto, en sus instalaciones deportivas deberá contar con:
+
+I. Las facilidades de acceso, desplazamiento y orientación para personas con discapacidad; y
+
+II. Con servicios médicos otorgados por personal calificado.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTÍCULO 59 QUÁTER.
+
+El Instituto, apoyará, promoverá y facilitará la participación de las personas adultas mayores en las distintas disciplinas deportivas.
 
 ### CAPÍTULO X. DE LA CULTURA FÍSICA Y EL DEPORTE
 
@@ -729,7 +875,9 @@ Las instalaciones públicas de cultura física y deporte deben garantizar, adem�
 
 1. En los términos de los convenios de coordinación y colaboración respectivos, el Gobierno Estatal y los Ayuntamientos inscribirán sus instalaciones destinadas a la activación física, la cultura física y deporte al Registro Estatal del Deporte, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación nacional.
 
-2. Las instalaciones deportivas del Estado deberán estar registradas en el Registro Estatal del Deporte, en concordancia con el Registro Nacional del Deporte.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
+2. Las instalaciones deportivas del Estado deberán estar registradas en el Registro Estatal del Deporte, en concordancia con el Registro Nacional de Cultura Física y Deporte.
 
 3. El Instituto podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, ordenamientos técnicos de las disciplinas deportivas correspondientes y demás disposiciones aplicables, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta ley.
 
@@ -791,19 +939,29 @@ La Secretaría de Salud del Estado y el Instituto, procurarán la existencia y a
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
 ARTÍCULO 80 BIS.
 
-El Instituto promoverá e impulsará el desarrollo de la medicina del deporte mediante su inclusión en la elaboración del Programa Estatal de Cultura Física y Deporte, teniendo como objetivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+
+El Instituto promoverá e impulsará el desarrollo de la medicina del deporte y de las ciencias aplicadas mediante su inclusión en la elaboración del Programa Estatal de Cultura Física y Deporte y de los programas institucionales, teniendo como objetivos:
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Impulsar el desarrollo de programas especiales de investigación técnica del deporte y de medicina del deporte;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 II. Proponer los mecanismos de colaboración y trabajo entre las diferentes dependencias y entidades de la administración pública, así como instituciones educativas públicas y privadas, en lo relativo a los programas de investigación en ciencias y técnicas del deporte y de la medicina del deporte;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. Asesorar y capacitar al personal técnico que participe en competencias oficiales con cursos, talleres, ponencias y demás actividades de capacitación y actualización profesional;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 IV. Desarrollar programas especiales para la atención médica de los deportistas tamaulipecos que participen en competencias oficiales; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Las demás que le confiera el Director General y otras disposiciones legales.
 
@@ -843,7 +1001,9 @@ IX. Realizar cualquier actividad que contribuya al desarrollo de las competicion
 
 I. Formar parte del Sistema; y
 
-II. Ser propuesto por la Asociación Deportiva Estatal correspondiente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+II. Ser propuesto por la Asociación Deportiva Estatal correspondiente, a excepción de los deportes que no cuenten con asociación.
 
 2. El trámite y demás requisitos para ser acreedores de los estímulos a que se refiere este Capítulo, se especificarán en el reglamento de la presente ley y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, los Reglamentos Técnicos y Deportivos de su disciplina deportiva, así como a las bases que establezca el Ejecutivo Estatal por conducto del Instituto.
 
@@ -957,9 +1117,13 @@ VII. Las que establezca la presente ley, su reglamento, los Códigos de Conducta
 
 Las atribuciones de la Comisión Estatal Contra la Violencia en el Deporte además de las que se establezcan en el reglamento respectivo, serán:
 
-I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+I. Promover e impulsar acciones de prevención contra la violencia y la cultura de la paz en el deporte;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, así como de propiciar la cultura de la paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
 
 III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
 
@@ -1008,6 +1172,14 @@ Los deportistas, entrenadores, técnicos, directivos y demás personas, en el á
 1. Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
 
 2. Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+
+ARTÍCULO 102 BIS.
+
+Para los efectos señalados en este Capítulo, se instituye el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Instituto, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del sancionado.
 
 ### CAPÍTULO XVII. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
@@ -1262,6 +1434,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-537 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
