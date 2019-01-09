@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-centros-de-atencion-infantil-del-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2018-06-12"
+last_updated: "2019-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -567,25 +567,29 @@ Los prestadores de servicios en los Centros de Atención del Estado de Tamaulipa
 
 ### CAPÍTULO III. DEL PERSONAL DE LOS CENTROS DE ATENCIÓN
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
 En los Centros de Atención se contará como mínimo con el siguiente personal:
 
-I. Educadora;
+I. Asistente educativa o su equivalente;
 
-II. Enfermera;
+II. Cocinera;
 
-III. Asistente educativa o su equivalente;
+III. Educadora;
 
-IV. Cocinera;
+IV. Enfermera;
 
-V. Nutrióloga;
+V. Intendente;
 
-VI. Vigilante;
+VI. Nutrióloga;
 
-VII. Trabajador social; y
+VII. Psicólogo;
 
-VIII. Intendente.
+VIII. Trabajador social; y
+
+IX. Vigilante.
 
 ###### ARTÍCULO 36.
 
@@ -1064,3 +1068,15 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-543 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12, FRACCIONES XVI Y XVII; Y SE ADICIONA UN ARTÍCULO 20 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO DE TAMAULIPAS; ASIMISMO, SE REFORMA EL ARTÍCULO 35, DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educativo del Estado de Tamaulipas.
