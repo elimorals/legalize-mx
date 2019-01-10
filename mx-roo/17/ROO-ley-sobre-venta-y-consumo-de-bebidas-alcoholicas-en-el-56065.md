@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2017-12-27"
+last_updated: "2019-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -47,7 +47,9 @@ LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
 Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo y tiene por objeto regular la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades, de conformidad con lo establecido en la presente Ley.
 
-El consumo que se regulará en la presente Ley, será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Hacienda del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+El consumo que se regulará en la presente Ley será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Hacienda del Estado de Quintana Roo, y en su caso, con instalaciones que cuenten con servicios mínimos para garantizar la Seguridad Técnica y Protocolos de Seguridad Interna a que se refiere la fracción X del artículo 4 de esta Ley, enlazadas con la Secretaría de Seguridad Pública en su operación.
 
 ###### ARTÍCULO 2.
 
@@ -91,23 +93,59 @@ V.- Venta al mayoreo: Es la actividad comercial de compra - venta continua de be
 
 VI.- Venta al menudeo: Es la actividad comercial de compra - venta de bebidas alcohólicas cuya finalidad está dirigida únicamente al último consumidor o público en general.
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VII. Secretaría de Seguridad: A la Secretaría de Seguridad Pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VIII. Dictamen de Anuencia: Documento que acredita el cumplimiento de los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX. Establecimientos de Consumo Responsable: A los establecimientos que cuenten con certificación expedida por la Secretaría de Seguridad, la que se obtiene por participar en programas de prevención, información y consumo responsable de bebidas alcohólicas, y acrediten lo siguiente:
+
+a. Que ofrezcan el servicio de transporte alternativo, por su propia cuenta, a fin de trasladar a las personas que consuman bebidas alcohólicas en este establecimiento hasta su domicilio;
+
+b. Que proporcionen capacitación a su personal a fin de evitar que se sirva o expendan bebidas alcohólicas a personas menores de edad o en evidente estado de ebriedad, y en el conocimiento de esta Ley;
+
+c. Que participen en forma conjunta con las autoridades en campañas contra el abuso en el consumo del alcohol, en las que se informe a la sociedad de los daños que este provoca;
+
+d. Que tenga el establecimiento a disposición de su clientela al menos un aparato alcoholímetro para medir el grado de alcohol consumido, y
+
+e. Que no hayan sido sancionados, durante el último año, por actos relacionados con el objeto de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X. Seguridad Técnica: Conjunto de disposiciones que tutelan la vida e integridad corporal humana, así como el estado del equipo, enlaces de comunicación y demás condiciones de funcionamiento mecánico, tratándose de seguridad mínima, en los servicios de empresas con giro de venta, consumo y/o distribución de bebidas alcohólicas, y en general servicios y procedimientos mínimos para garantizar y obtener una imagen gravada, o su interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo" conforme a los protocolos de seguridad interna para validación de la Secretaría de Seguridad, y los requisitos, perfiles y estándares del personal de seguridad privada para operar los protocolos.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-La interpretación, aplicación y vigilancia del cumplimiento de esta Ley, será competencia exclusiva del Ejecutivo, a través de la Secretaría.
+La interpretación, aplicación y vigilancia del cumplimiento de esta Ley, será competencia exclusiva del Ejecutivo, a través de la Secretaría y de la Secretaría de Seguridad en el ámbito de sus respectivas competencias.
 
-Los Ayuntamientos únicamente tendrán competencia en lo que corresponda a licencias de funcionamiento, horarios, determinación de zonas turísticas y uso de suelo, siendo éste expedido de conformidad con las disposiciones municipales y lo que señale esta Ley.
+Los Ayuntamientos únicamente tendrán competencia en lo que corresponda a licencias de funcionamiento, determinación de zonas turísticas y uso de suelo, siendo éste expedido de conformidad con las disposiciones municipales y lo que señale esta Ley.
+
+Es requisito indispensable el Dictamen de Anuencia para que la Secretaría autorice la extensión de los horarios de la venta de alcohol en los establecimientos contemplados en los giros que contienen las fracciones I, II, III y IV del artículo 17 de esta Ley. Incurrirá en falta administrativa grave con la responsabilidad a que se refiere el párrafo segundo, fracción IV, del artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, el funcionario o autoridad que autorice la extensión de horario para la venta de alcohol sin verificar que el establecimiento cuente con el Dictamen de Anuencia correspondiente.
+
+La Secretaría de Seguridad tendrá las facultades para emitir las normas, básicas de Seguridad Técnica, lineamientos y Protocolos de Seguridad Interna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 6.
 
-Para llevar a cabo la actividad señalada en el Artículo 1 de esta Ley, las personas físicas o morales, deberán obtener previamente la Licencia de Bebidas Alcohólicas, Permiso Provisional o Especial en los términos que la misma establece.
+Para llevar a cabo la actividad señalada en el Artículo 1 de la presente Ley, las personas físicas o morales, deberán obtener previamente la Licencia de Bebidas Alcohólicas, Permiso Provisional o Especial en los términos que la misma establece, y contar con Dictamen de Anuencia.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 Los derechos por el otorgamiento, modificación, transferencia, refrendo, renovación o reposición de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta Ley, se causarán con base a las tarifas establecidas en la Ley de Hacienda del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 7.
 
-A falta de disposición expresa en esta ley, siempre que no contravenga la misma, serán aplicables supletoriamente las disposiciones del Código Fiscal del Estado y en su defecto las normas del derecho común.
+A falta de disposición expresa en esta Ley, siempre que no contravenga la misma, serán aplicables supletoriamente las disposiciones del Código Fiscal del Estado y en su defecto las normas del derecho común, y en materia de Seguridad Técnica, la Ley de Seguridad Pública del Estado de Quintana Roo, así como los Lineamientos y Protocolos que emita la Secretaría de Seguridad.
 
 ###### ARTÍCULO 8.
 
@@ -132,6 +170,10 @@ VII.- Los Recaudadores de Rentas;
 VIII.- Los Jefes del Departamento de Ejecución;
 
 IX.- Los Inspectores y Notificadores - Ejecutores.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X. El Secretario de Seguridad Pública.
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.]</small>
 
@@ -169,6 +211,30 @@ XII.- Determinar la aplicación de los recursos de los fondos a que se refiere e
 
 XIII.- Las demás que le correspondan conforme a esta Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+ARTÍCULO 9 BIS.- Son atribuciones del Ejecutivo por sí o a través de la Secretaría de Seguridad las siguientes:
+
+I. Validar el Dictamen de Anuencia cuando se cumpla con los requisitos de Seguridad Técnica y Protocolos de Seguridad Interna, requisitos que serán revisados trimestralmente;
+
+II. En el caso que se presenten Dictámenes de Anuencia y estos no sean satisfactorias a juicio de la Secretaría de Seguridad por no cumplir con los lineamientos y Protocolos de Seguridad Interna, o no cuente con condiciones para atender los Protocolos de Seguridad Interna, o de que existieren causas que pudieran afectar la Seguridad Pública, en estos casos, se denegará la validación y se otorgará un plazo de hasta 30 días para su corrección y cumplimiento;
+
+III. Supervisar las condiciones de seguridad con que deben contar las personas a que se refiere la Ley;
+
+IV. Supervisar el cumplimiento de los requisitos de Seguridad Técnica e implementación de los Protocolos de Seguridad Pública, y
+
+V. Solicitar a la Secretaría la clausura temporal o definitiva de instalaciones, cuando:
+
+a) No se reúnan las condiciones de Seguridad Técnica para su funcionamiento;
+
+b) No sea proporcionada la información que se le requiera, y
+
+c) No sean atendidos los Protocolos de Seguridad Interna.
+
+En el caso de clausura definitiva, se procederá a la suspensión de la Licencia y/o el permiso provisional y/o el especial para la venta de bebidas alcohólicas por un periodo mínimo de un año y máximo de cuatro años, o bien, a la revocación de la misma, tomando en cuenta los elementos de gravidez que sean señalados.
+
+Cuando proceda la revocación y se cometa delito doloso dentro del establecimiento que opere una Licencia de Bebidas Alcohólicas y/o un Permiso Provisional o Especial si el establecimiento no contare con los requisitos de Seguridad Técnica o el personal de seguridad privada y/o quien ejerza estas funciones y/o quien sea el Titular y/o el responsable y/o el encargado o atienda el establecimiento, no llevare a cabo los protocolos de seguridad interna, en este supuesto, la resolución del procedimiento administrativo, debe indicar que no podrá otorgarse a la persona física y/o socios de la persona moral una nueva Licencia para la venta de bebidas alcohólicas en el mismo domicilio, por un periodo de hasta cuatro años posteriores a la clausura definitiva.
+
 ###### ARTÍCULO 10.
 
 La Secretaría, podrá acordar la suspensión temporal para la venta de bebidas alcohólicas, en los casos y términos a que se refieren las leyes aplicables en materia electoral, así como por razones de interés público que se considere necesario.
@@ -195,7 +261,7 @@ Se entenderá por transferencia temporal cuando el titular de la Licencia otorgu
 
 En ambos casos, la transferencia de la Licencia de Bebidas Alcohólicas se sujetará en lo general a los alcances establecidos en esta ley, y en lo particular a lo siguiente:
 
-I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo.
+I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo;
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
@@ -247,13 +313,17 @@ a) Copia simple del acta de nacimiento del interesado, en el caso de personas f�
 
 b) Copia de identificación oficial con fotografía del solicitante o del representante legal de la persona moral solicitante, según sea el caso.
 
-c) Copia simple del título de propiedad o contrato de arrendamiento del establecimiento, o en su caso, algún documento donde se acredita la legal posesión u ocupación del inmueble.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+c) Copia simple del título de propiedad y, en su caso, contrato de arrendamiento del establecimiento, o en su caso, el documento que acredite la legal posesión u ocupación del inmueble;
 
 d) Croquis de ubicación, que indique en forma clara y precisa el domicilio del establecimiento en el que se pretenda establecer el giro.
 
 e) Constancia de uso de suelo de vigencia definitiva expedida por la autoridad municipal competente, en términos de lo señalado en la presente ley, así como el giro para el establecimiento que se pretenda instalar.
 
-f) Certificado de antecedentes no penales expedido por la autoridad competente del lugar o de los lugares en los que el solicitante haya radicado los últimos 5 años, y cuya antigüedad no sea mayor de tres meses a la fecha de la solicitud.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+f) Certificado de no antecedentes penales expedido por la autoridad competente del lugar o de los lugares en los que el solicitante haya radicado los últimos 5 años, y cuya antigüedad no sea mayor a tres meses a la fecha de la solicitud. En el caso de las personas morales, el certificado deberá corresponder a alguno de los integrantes de la misma y no al apoderado legal;
 
 g) En caso de autorización de la Licencia de Bebidas Alcohólicas, pagar los derechos que en la materia prevea la Ley de Hacienda del Estado de Quintana Roo.
 
@@ -263,6 +333,18 @@ h) Fotografías del exterior e interior del establecimiento.
 
 i) Cédula catastral del domicilio en el que se pretenda crear el establecimiento con venta de bebidas alcohólicas.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+j) Original y copia simple del Dictamen de Anuencia validado por la Secretaría de Seguridad, únicamente cuando se encuentren en los giros I, II, III, IV del artículo 17 de la Ley;
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+k) Establecer un protocolo de seguridad Interior para dar aviso a la policía en forma oportuna de intentos de escándalo o de riña o de delitos en el interior del local, y
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+l) Cumplir con las disposiciones específicas que para cada giro del establecimiento se señalen en esta Ley, sus reglamentos y demás disposiciones aplicables, en especial las de Seguridad Técnica que emita la Secretaría de Seguridad para obtener y en su caso, refrendar el Dictamen de Anuencia.
+
 ###### ARTÍCULO 16.
 
 El titular de la Licencia de Bebidas Alcohólicas que requiera efectuar alguna modificación en la misma se sujetará a lo establecido en los Artículos 11, 12, 13, 14, 15 y 26 de esta Ley y su Reglamento según sea el caso, y solamente en lo que expresamente aplique y señale la fracción correspondiente.
@@ -271,33 +353,21 @@ De manera particular, en el caso de que el titular de una Licencia de Bebidas Al
 
 De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Hacienda del Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
-Los giros que se podrán autorizar en la Licencia para la venta de bebidas alcohólicas, serán los siguientes:
+Los giros que se podrán autorizar en la Licencia para la venta de bebidas alcohólicas serán los siguientes:
 
-I.- Venta de cervezas en envase abierto exclusivamente con alimentos;
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos;
 
-II.- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo exclusivamente con alimentos;
+II. Venta de bebidas alcohólicas en envase abierto o al copeo;
 
-III.- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo;
+III. Venta de bebidas alcohólicas en envase cerrado;
 
-IV.- Venta de cervezas en envase abierto;
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo, y
 
-V.- Venta de cervezas, vinos y licores en envase cerrado;
-
-VI.- Venta de vinos y licores en envase cerrado;
-
-VII.- Venta de cervezas en envase cerrado;
-
-VIII.- Venta de vinos y licores en envase cerrado para distribución al mayoreo;
-
-IX.- Venta de cervezas en envase cerrado para distribución al mayoreo;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-X.- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+V. Bodega o almacén de bebidas alcohólicas como sucursal sin venta directa al público.
 
 #### SECCIÓN TERCERA. DE LA LICENCIA ÚNICA
 
@@ -313,7 +383,9 @@ Esta licencia única deberá especificar cada uno de los giros y establecimiento
 
 El refrendo es el acto administrativo que tiene por objeto prorrogar por un año los derechos y obligaciones conferidos por la vía de la Licencia de Bebidas Alcohólicas.
 
-El titular de la licencia que decida seguir contando con dichos derechos y obligaciones, deberá solicitar el refrendo, a la Secretaría, dentro de los dos primeros meses de cada año. Para lo cual, deberá presentar la Licencia de Bebidas Alcohólicas en original a fin de acreditar no tener adeudo alguno por concepto de refrendos anteriores, así como realizar el pago por concepto del derecho que corresponda. Esta obligación no cesará aún cuando exista la suspensión de actividades debidamente formalizada por la Secretaría.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+El titular de la licencia que decida seguir contando con dichos derechos y obligaciones, deberá solicitar el refrendo a la Secretaría, dentro de los dos primeros meses de cada año. Para lo cual, deberá acreditar no tener adeudo alguno por cualquier concepto que se derive del uso y aprovechamiento de la licencia, así como realizar el pago por concepto del derecho que corresponda. Esta obligación no cesará aun cuando exista la suspensión de actividades debidamente formalizada por la Secretaría.
 
 #### SECCIÓN QUINTA. DE LOS PERMISOS
 
@@ -343,13 +415,19 @@ b) Cuando el contribuyente enajene bebidas alcohólicas en envase cerrado con pr
 
 c) Cuando el contribuyente preste el servicio público especializado a que se refiere el Artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas, y que por la naturaleza de su actividad comercial, no cuente con Licencia de Bebidas Alcohólicas. Este permiso tendrá una vigencia de un año, y se deberá pagar el derecho que determine la Ley de Hacienda del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 22.
 
-El Permiso Provisional tendrá una vigencia de sesenta días naturales, contados a partir de la fecha de su otorgamiento, y podrá ser renovado en una ocasión más por un período de treinta días.
+El Permiso Provisional tendrá una vigencia de sesenta días naturales, contados a partir de la fecha de su otorgamiento, y podrá ser renovado por dos ocasiones más por un período de treinta días.
 
 El Permiso Especial señalado en el inciso a) del Artículo anterior en ningún caso tendrá una vigencia superior al tiempo de duración de la actividad pública que le dio origen.
 
 Para el otorgamiento de los permisos a que se refiere el Artículo anterior, el solicitante deberá reunir las características y cumplir los requisitos que se establezcan en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+No se le otorgará permiso provisional a la persona que hay sido multada por venta clandestina de bebidas alcohólicas.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -357,11 +435,11 @@ ARTÍCULO 22 BIS.- Los titulares de permisos provisionales o especiales para la 
 
 ### CAPÍTULO III. DE LOS ESTABLECIMIENTOS
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 23.
 
-Para los efectos de esta Ley se entenderá por establecimiento el lugar donde se vendan, consuman, almacenen, distribuyan y exhiban bebidas alcohólicas, para lo cual deberán contar previamente, con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
+Para los efectos de esta Ley se entenderá por establecimiento el lugar donde se vendan, consuman, almacenen, distribuyan o exhiban bebidas alcohólicas, para lo cual deberán contar previamente, con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
 
 ###### ARTÍCULO 24.
 
@@ -369,43 +447,69 @@ Todo establecimiento deberá apegarse al giro que le fue autorizado en la Licenc
 
 En todos los establecimientos sujetos a la presente Ley, se responsabiliza al titular de la Licencia de Bebidas Alcohólicas, administrador o responsable del mismo, a preservar en su interior el orden público, evitando actos que afecten la vida privada de la comunidad.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 25.
 
 Los establecimientos que podrán vender bebidas alcohólicas son los siguientes:
 
-I.- Fábrica.- Lugar de elaboración y envase de bebidas alcohólicas para su distribución y venta al mayoreo;
+a) En envase cerrado:
 
-II.- Microfábrica.- Lugar con o sin espacio abierto al público, cuyos fines son la elaboración, envasado y comercialización directa y/o con fines promocionales y publicitarios preponderantemente, cuyos volúmenes no serán significativos en relación con lo señalado en la fracción anterior;
+I. Fábrica y/o micro fábrica: Lugar con o sin espacio abierto al público, cuyos fines son la elaboración, envasado y comercialización directa y/o con fines promocionales y publicitarios preponderantemente.
 
-III.- Distribuidora, Agencia.- Lugar de recepción directa de fábrica de bebidas alcohólicas, para su venta y distribución de mayoreo a temperatura ambiente, en envase cerrado a negocios subsecuentes y a clientes comerciales;
+II. Agencia: Lugar de recepción directa de fábrica de bebidas alcohólicas, para su venta y distribución de mayoreo a temperatura ambiente, en envase cerrado a negocios subsecuentes y a clientes comerciales.
 
-IV.- Depósito.- Lugar de recepción directa de una Distribuidora o Agencia de bebidas alcohólicas, para su venta y distribución de mayoreo en envase cerrado a negocios subsecuentes y a clientes comerciales;
+III. Depósito: Lugar de recepción directa de una Distribuidora o Agencia de bebidas alcohólicas, para su venta y distribución de mayoreo en envase cerrado a negocios subsecuentes y a clientes comerciales.
 
-V.- Vinatería, Licorería.- Lugar donde se pueden vender bebidas alcohólicas en envase cerrado al público en general, en donde de manera complementaria se venden mercancías diversas;
+IV. Minisúper: Lugar donde se pueden vender bebidas alcohólicas en envase cerrado a clientes comerciales o a particulares, en donde de manera relevante se venden mercancías diversas contando con un área de 59 metros cuadrados como máximo y que deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas.
 
-VI.- Minisuper.- Lugar donde se pueden vender bebidas alcohólicas en envase cerrado a clientes comerciales o a particulares, en donde de manera relevante se venden mercancías diversas contando con un área de 59 metros cuadrados como máximo y que deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas;
+V. Tienda de Autoservicio Mayor: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimentos, ropa, telas, latería y bebidas alcohólicas en envase cerrado.
 
-VII.- Cabaret, Centro Nocturno, Centro de Espectáculos, Piano - Bar, Discoteca, Bar, Peña.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, y se distinguen porque pueden presentar espectáculos y música en vivo, o por medios electrónicos;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Cervecería, Cantina.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, distinguiéndose en que no se requiere la venta y consumo de alimentos;
-
-IX.- Billar, Boliche, Balneario, Café Cantante, Club Social, Karaoke-bar.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo, y se distinguen porque se realizan actividades de esparcimiento como culturales, deportivas, acuáticas, sociales o de entretenimiento;
-
-X.- Restaurante, Café, Taquería, Coctelería.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo exclusivamente con alimentos;
-
-XI.- Restaurante - Bar.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo con o sin alimentos, para lo cual deberá tener un espacio anexo en donde se vendan bebidas alcohólicas sin alimentos.
-
-XII.- Hotel, o Servicios Similares de Hospedaje.- Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo a través de uno o varios establecimientos, en donde se podrá contar con servicio de servi - bar en las habitaciones, en cuyo caso todos los servi - bares serán considerados como un solo establecimiento;
-
-XIII.- Motel.- Lugar de hospedaje donde se pueden vender bebidas alcohólicas en envase abierto o al copeo únicamente a través de servicio a las habitaciones;
-
-XIV.- Tienda de Autoservicio Mayor.- Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimentos, ropa, telas, latería y bebidas alcohólicas en envase cerrado;
-
-XV.- Tienda de Conveniencia.- Son los establecimientos cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas de contenido alcohólico. En estos establecimientos podrán enajenarse indistintamente cervezas, vinos y licores, para su consumo en lugar diferente, debiendo contar con un área de 60 metros cuadrados como mínimo, cuando menos con 5 giros comerciales como son: artículos básicos, carnes, frutas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, locería, cristalería y otros, independientemente del destinado a vinos y licores y deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. En los casos en que cuenten con neveras y/o enfriadores para bebidas alcohólicas, estas deberán ser a lo sumo en la misma cantidad que para productos perecederos.
+VI. Tienda de Conveniencia: Son los establecimientos cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas de contenido alcohólico. En estos establecimientos podrán enajenarse indistintamente cervezas, vinos y licores, para su consumo en lugar diferente, debiendo contar con un área de 60 metros cuadrados como mínimo, cuando menos con 5 giros comerciales como son: artículos básicos, carnes, frutas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, locería, cristalería y otros, independientemente del destinado a vinos y licores y deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. En los casos en que cuenten con neveras y/o enfriadores para bebidas alcohólicas, estas deberán ser a lo sumo en la misma cantidad que para productos perecederos.
 
 El Consejo Estatal Consultivo, podrá rendir opinión sobre la inclusión de aquellos establecimientos no señalados en el presente artículo.
+
+b) En envase abierto o al copeo:
+
+I. Restaurante: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo exclusivamente con alimentos.
+
+II. Restaurante - Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo con o sin alimentos, según el horario que la presente ley indique.
+
+III. Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+ARTICULO 25 BIS.- Los establecimientos que expenden bebidas alcohólicas se clasifican en dos grupos en razón de su lugar de consumo y deberán observar los horarios ordinarios de funcionamiento establecidos en la presente ley, siendo los siguientes:
+
+I. Establecimientos que expenden bebidas alcohólicas para su consumo en otro lugar como:
+
+a) Las vinaterías, licorerías, sub-agencias, minisúper, tienda de autoservicio mayor y tienda de conveniencia, solo podrán ofrecer y vender sus productos de 10:00 a 23:00 horas de lunes a sábado y de 10:00 a 17:00 horas los domingos.
+
+b) Las fábricas, micro fábricas, agencias, bodegas y depósitos. Los horarios para que los establecimientos contenidos en el presente inciso abastezcan y realicen las maniobras de carga y descarga a los contenidos en el inciso a) del presente artículo, estarán a lo dispuesto por la ley y reglamento en la materia.
+
+II. Establecimientos que expenden u ofrecen bebidas alcohólicas para su consumo en el mismo lugar:
+
+a. Restaurante: De lunes a sábado a partir de las 10:00 horas a las 23:00 horas, y domingo a partir de las 11:00 horas a las 17:00 horas.
+
+b. Restaurante-Bar: Venta de bebidas alcohólicas con alimentos obligatoriamente de las 11:00 horas a las 23:00 horas de lunes a sábado, y los días domingo a partir de las 11:00 horas a las 17:00 horas.
+
+Cuando operen este tipo de establecimientos en horario extraordinario, no será obligatorio el consumo de alimentos con bebidas alcohólicas, pero el vendedor deberá garantizar la disponibilidad de alimentos al público.
+
+c. Bar: De las 11:00 horas a las 23:00 horas de lunes a sábado, y de las 11:00 horas a las 17:00 horas, el domingo.
+
+La autorización para la venta de bebidas alcohólicas en horario extraordinario deberá ser solicitado a la Secretaría, quien previa anuencia de la Secretaría de Seguridad, será quien evalúe y en su caso, autorice la viabilidad de la solicitud conforme a lo dispuesto en el Reglamento de la presente ley y demás normas aplicables. La venta de bebidas alcohólicas en horario extraordinario será aplicable a los establecimientos contenidos en la fracción II del presente artículo.
+
+Para los efectos del párrafo anterior, los horarios extraordinarios deberán autorizarse dentro de los siguientes horarios:
+
+a) De las 23:00 horas a las 03:00 horas del día siguientes, de lunes a sábado.
+
+b) De las 17:00 horas a las 23:00 horas, el domingo.
+
+Cuando los establecimientos señalados en la fracción II del presente articulo se encuentren ubicados en Zona Turística, la venta de bebidas alcohólicas se sujetará a los siguientes horarios:
+
+I. Horario Ordinario: De las 11:00 horas a las 23:00 horas, de lunes a domingo.
+
+II. Horario Extraordinario: De las 23:00 horas a las 03:00 horas del día siguiente, de lunes a domingo.
 
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
@@ -415,21 +519,21 @@ El Consejo Estatal Consultivo, podrá rendir opinión sobre la inclusión de aqu
 
 No se otorgará la licencia de bebidas alcohólicas en los siguientes casos:
 
-I.- Cuando el solicitante haya sido condenado y la sentencia haya causado ejecutoria, dentro de los últimos diez años, por alguno de los delitos considerados como graves por el Código Federal de Procedimientos Penales y el Código de Procedimientos Penales del Estado. El plazo a que este artículo se refiere, se computará desde la fecha en que hayan quedado compurgadas todas las sanciones impuestas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+I.- Cuando el solicitante haya sido condenado y la sentencia haya causado ejecutoria dentro de los últimos diez años, por alguno de los delitos considerados como dolosos por el Código Penal para el Estado Libre y Soberano de Quintana Roo. El Plazo a que este artículo se refiere, se computará desde la fecha en que haya quedado compurgadas todas las sanciones impuestas.
 
 II.- Cuando el solicitante haya sido sancionado por autoridad competente por ser o haber sido dueño o administrador de casas de juegos prohibidos, de prostitución, o por la venta clandestina de bebidas alcohólicas;
 
 III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y haya transferido sus derechos permanentemente a terceras personas; salvo que dicha solicitud, sea presentada con posterioridad a dos años de haberse realizado la transferencia y que el solicitante cumpla con lo señalado en los Artículos 14 y 15 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas, para los establecimientos previstos en las fracciones V, VI, VIII y XV del artículo 25 de esta ley, en un inmueble que se encuentre ubicado dentro de un rango de 500 metros radiales de otro del mismo tipo o de los demás señalados en esta fracción, excepto en las zonas turísticas. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, subagencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 500 metros radiales de otro del mismo tipo, se encuentre ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamientos. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+Se exceptuará de lo dispuesto en el presente artículo a los establecimientos ubicados en zonas turísticas y zonas comerciales.
 
-V.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII, IX y X del artículo 17 de esta ley, en un inmueble ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
-
-Para efectos del párrafo anterior, se entenderá por área de equipamiento lo dispuesto en el artículo 2 fracción XII de la Ley de Asentamientos Humanos del Estado de Quintana Roo;
+V.- (DEROGADA, P.O. 10 DE ENERO DE 2019)
 
 VI.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas en unidades habitacionales, y colonias de nueva creación que no cuenten con los servicios primarios de electricidad y agua potable y cuando menos dos de los siguientes, parque público, cancha deportiva, plantel educativo, centro de salud, o áreas de equipamiento destinadas para ellos;
 
@@ -461,15 +565,17 @@ De igual manera deberá tener en un lugar visible el documento original autoriza
 
 III.- Permitir a los notificadores y/o inspectores designados por las autoridades fiscales competentes el acceso al lugar, así como mantener a su disposición los documentos que le soliciten relacionados con el motivo de la visita. También deberán permitir la verificación de las mercancías que se encuentran en el establecimiento, relacionadas con la venta de bebidas alcohólicas;
 
-IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que pongan en peligro la seguridad e integridad de los habitantes del área y/o el orden de los establecimientos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que pongan en peligro la seguridad e integridad de los habitantes del área y/o el orden de los establecimientos, así como por no contar en las instalaciones con servicios mínimos para garantizar la Seguridad Técnica tales como interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo y Protocolos de Seguridad Interna de su operación";
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley.
+V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VI.- No permitir el consumo dentro de los límites del establecimiento en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente.
+VI.- No permitir el consumo dentro de los límites del establecimiento, estacionamiento o sus alrededores, en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente, y
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -569,11 +675,17 @@ XIX.- Permitir el consumo dentro de los limites del establecimiento en los casos
 
 XX.- No tener la licencia de bebidas alcohólicas, el permiso o la autorización de comodato correspondiente en los lugares que señalen las disposiciones fiscales respectivas.
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXI. No contar con el Dictamen de Anuencia, o su refrendo correspondiente.
+
 #### SECCIÓN SEGUNDA. DE LA IMPOSICIÓN DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
-Las sanciones por violaciones a la presente ley, se aplicarán y se harán efectivas a través de la Secretaría.
+Las sanciones por violaciones a la presente Ley se aplicarán y se harán efectivas a través de, la Secretaría y de la Secretaría de Seguridad en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 34.
 
@@ -603,9 +715,11 @@ II.- Que se haga uso de documentos falsos o que declare con falsedad;
 
 III.- Que la comisión de las infracciones sea en forma continuada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 37.
 
-Cuando se cometan las infracciones establecidas en las fracciones I, IV, VIII, X y XIV, del Artículo 32 de esta Ley, y proceda la clausura del establecimiento, se podrá ordenar el decomiso del producto en existencia, materia de esta ley, independientemente de las sanciones que correspondan.
+Cuando se cometan las infracciones establecidas en las fracciones I, IV, VIII, X, XIV, y XXI del Artículo 32 de esta Ley, y proceda la clausura del establecimiento, se podrá ordenar el decomiso del producto en existencia, materia de esta ley, independientemente de las sanciones que correspondan.
 
 Los casos de reincidencia se sancionarán aplicando el doble de la multa que le corresponda al infractor, y en su caso, con clausura definitiva del establecimiento y la revocación de la Licencia de Bebidas Alcohólicas.
 
@@ -676,6 +790,10 @@ I.- Hasta por treinta días cuando se hayan cometido alguna de las infracciones 
 II.- Hasta por 45 días por reincidir en segunda ocasión a las infracciones señaladas en la presente ley;
 
 III.- De forma definitiva cuando se haya ordenado la revocación de la Licencia de Bebidas Alcohólicas en los términos de esta Ley o cuando cometa la infracción prevista en la fracción I del Artículo 32 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IV.- Cuando se cometa algún delito doloso en el establecimiento y/o en las áreas públicas de acceso al establecimiento y éste no cuente con los requisitos de Seguridad Técnica o el personal que atienda el mismo no lleve a cabo los protocolos de seguridad, en este supuesto la resolución del procedimiento administrativo que emita la Secretaría deberá establecer la clausura definitiva. No se otorgará a la persona física o socios de la persona moral una nueva licencia por un periodo mínimo de seis años contados a partir del día en que se verifique la clausura definitiva.
 
 Lo anterior se realizará independientemente de la aplicación de las sanciones que correspondan por las infracciones en que se haya incurrido.
 
@@ -766,6 +884,10 @@ VII.- En los casos de reincidencia por tercera ocasión a las infracciones a que
 VIII.- La omisión de pago del refrendo en términos de lo establecido en el Artículo 19 de esta Ley, después de haber transcurrido seis meses de la fecha en que éste se debió haber realizado;
 
 IX.- Cuando se hayan cometido alguna de las infracciones previstas en las Fracciones II, VIII, X y XVIII del Artículo 32 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X.- No contar con la validación o refrendo trimestral del Dictamen de Anuencia o en los supuestos del artículo 43 fracción IV.
 
 ###### ARTÍCULO 56.
 
@@ -859,7 +981,7 @@ La integración y funcionamiento del Consejo Municipal Consultivo, se contemplar
 
 ###### ARTÍCULO 71.
 
-El Ejecutivo, a través de la Secretaría, deberá constituir uno o más fondos destinados a prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
+El Ejecutivo, a través de la Secretaria, deberá constituir uno o más fondos destinados a prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
 
 ###### ARTÍCULO 72.
 
@@ -871,13 +993,183 @@ II.- Aportación municipal, la que establezcan los Ayuntamientos, preferentement
 
 III.- Aportaciones de la iniciativa privada.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 73.
 
-El Ejecutivo aplicará los fondos que se constituyan para prevenir y combatir el abuso en el consumo de bebidas alcohólicas, en el programa a que se refiere el Capítulo I del Título Décimo de la Ley de Salud del Estado de Quintana Roo.
+El Ejecutivo aplicará los fondos que se constituyan para el funcionamiento del instituto a que hace referencia el artículo 9 de la Ley para la Prevención y el Tratamiento de las Adicciones del Estado de Quintana Roo.
 
 ###### ARTÍCULO 74.
 
 La desviación o transferencia injustificada de estos recursos será causa de responsabilidad, de conformidad con las Leyes aplicables en el Estado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2019)</small>
+
+### CAPÍTULO XII. DE LA SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LA SEGURIDAD INTERNA Y LA SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 75.
+
+La seguridad interna de las instalaciones en que se opere con licencia, permiso provisional o especial para la venta de bebidas alcohólicas, será responsabilidad del Titular de la Licencia o Permiso, y se prestará conforme a las disposiciones legales aplicables en la materia y a los lineamientos que al efecto establezca la Secretaría de Seguridad, la cual contará con un cuerpo encargado de verificar que la seguridad y vigilancia en los mismos se lleve a cabo conforme a las disposiciones establecidas.
+
+Los Titulares de una licencia, permiso provisional o especial para la venta de bebidas alcohólicas, deberán poner en práctica programas de Seguridad Técnica y colaborar en los dispositivos de Seguridad Pública en las operaciones de la Secretaría de Seguridad con los equipos y cámaras en óptimas condiciones de operación que en su caso, permitan su enlace con el Centro de Comando, Control, Comunicaciones y Cómputo.
+
+Asimismo, la Secretaría de Seguridad hará del conocimiento de la Secretaría, cualquier situación en que los Titulares de una Licencia, Permiso Provisional o Especial para la venta de bebidas alcohólicas, no cuenten con la validación o refrendo trimestral del Dictamen de Anuencia, o sin los equipos y cámaras de vigilancia en óptimas condiciones de operación, o no hayan atendido o realizado el Protocolos (sic) de Seguridad Interna o el Protocolo de Seguridad Pública que corresponda, para la cancelación de la Licencia de Funcionamiento.
+
+Para la Validación o revisión ordinaria cada tres meses o extraordinarias o refrendo anual del Dictamen de Anuencia de la Secretaría de Seguridad a que hace referencia el artículo 4 fracción VIII de la presente Ley que acredita el cumplimiento de los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna, se estará al siguiente procedimiento:
+
+I. Los Titulares de una licencia, permiso provisional o especial para la venta de bebidas alcohólicas, una vez implementados en su local comercial los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna deben elaborar el Dictamen conforme al formato que emita la Secretaría de Seguridad y presentarlo ante la misma para su validación en original, y sus anexos, en copia simple, en un tanto. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto.
+
+II. Todo documento original puede presentarse en copia certificada y éstos podrán acompañarse de copia simple, para cotejo, caso en el que se regresará al interesado el documento cotejado;
+
+III. En vez de entregar copia de los permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia u organismo descentralizado de la administración pública federal, estatal o municipal, los interesados podrán señalar los datos de identificación de dichos documentos;
+
+IV. Excepto cuando un procedimiento se tenga que dar vista a terceros, los interesados no estarán obligados a proporcionar datos o entregar juegos adicionales de documentos entregados previamente a la dependencia u organismo descentralizado de la administración pública federal, estatal o municipal, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite lo realicen ante la propia Secretaría de Seguridad, y
+
+V. Salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo, no podrá exceder de quince días el tiempo para que la Secretaría de Seguridad valide o refrende la validación del Dictamen de Anuencia. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la Secretaría de Seguridad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DEL COMITÉ LOCAL DE SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 76.
+
+Se crea el Comité Local de Seguridad Técnica que estará integrado de la siguiente manera:
+
+I. El Titular de la Subsecretaría de Seguridad Pública del Estado, quien lo Presidirá indistintamente;
+
+II. El Titular de la Dirección de Registro y Supervisión a Empresas y Servicios de Seguridad Privada, quien fungirá como el Secretario Técnico del Comité;
+
+III. El Titular de la Dirección General de Auditoría Fiscal de la Secretaría, quien fungirá como vocal;
+
+IV. El Titular de la Secretaría o Dirección de Seguridad Pública Municipal correspondiente, quien fungirá como vocal;
+
+V. El Titular de la Dirección de Fiscalización Municipal correspondiente, quien fungirá como vocal.
+
+Los miembros del Comité Local de Seguridad tendrán el carácter de honoríficos sin retribución o emolumento alguno, por cada miembro propietario se designará un suplente, los cuales tendrán derecho a voz y voto, en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 77.
+
+Son facultades del Comité Local de Seguridad Técnica emitir:
+
+I. El documento base que sustente la solicitud de revocación por falta de Seguridad Técnica a La Secretaría, de la licencia de bebidas alcohólicas y/o permiso provisional y/o especial;
+
+II. La resolución del Recurso de Revisión de la Revocación del Dictamen de Anuencia, y
+
+III. El levantamiento de las medidas de seguridad en materia de Seguridad Técnica.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN TERCERA. DE LAS VISITAS DE VERIFICACIÓN DE SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 78.
+
+La Secretaría de Seguridad, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de Seguridad Técnica podrán llevar a cabo visitas de verificación, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 79.
+
+Los verificadores, para practicar visitas relacionadas con la Seguridad Técnica, deberán estar previstos de una identificación oficial con fotografía y una orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que lo fundamenten.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 80.
+
+Los Titulares de una licencia y/o permiso provisional y/o especial para la venta de bebidas alcohólicas objeto de verificación de Seguridad Técnica, así como de los responsables o encargados de los establecimientos que exploten la Licencia y/o Permiso para la venta de bebidas alcohólicas, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 81.
+
+Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a la que se refiere el artículo 86 de la presente Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 82.
+
+De toda visita de verificación de Seguridad Técnica, se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
+
+De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 83.
+
+En las actas de verificación de Seguridad Técnica, se hará constar:
+
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, municipio, código postal en que se encuentre ubicado el lugar en que se practique la visita;
+
+IV. Número y fecha del oficio de comisión que la motivó;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombre y domicilio de las personas que fungieron como testigos;
+
+VII. Datos pormenorizados relativos a la actuación;
+
+VIII. Declaración del visitado, si quisiera hacerla, y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien la hubiere llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 84.
+
+Los visitados a quienes se haya levantado acta de verificación de Seguridad Técnica, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 85.
+
+La Secretaría de Seguridad podrá, de conformidad con las disposiciones aplicables, verificar bienes, personas choferes y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales de Seguridad Técnica, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 86.
+
+Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y las resoluciones administrativas definitivas de verificación en materia de Seguridad Técnica, deben realizarse conforme a las disposiciones que establezca el Reglamento correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 87.
+
+Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente de Seguridad Técnica para proteger la salud pública, la integridad física, y la Seguridad Pública. Las medidas de Seguridad Técnica se establecerán en cada caso por esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 88.
+
+Las autoridades administrativas con base en los resultados de la visita de verificación de Seguridad Técnica o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas que no podrán ser menores de 6 días hábiles ni superior a 30 días hábiles.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN QUINTA. DEL RECURSO DE REVISIÓN EN PROCEDIMIENTOS DE SEGURIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 89.
+
+Los interesados afectados por los actos y resoluciones de las autoridades administrativas de la Secretaría de Seguridad que soliciten la revocación de una licencia y/o permiso provisional y/o especial a la Secretaría, para la venta de bebidas alcohólicas, o pongan fin a una instancia o resuelvan un expediente, a los que se les niegue la expedición del Dictamen de Anuencia, podrán interponer recurso de revisión conforme a lo dispuesto en el Código de Justicia Administrativa del Estado de Quintana Roo.
 
 T R A N S I T O R I O S:
 
@@ -1046,3 +1338,31 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Las presentes disposiciones no serán aplicables a los establecimientos que, una vez entrado en vigor el presente decreto, se encuentren en funcionamiento y cuenten con sus licencias o permisos de venta de bebidas alcohólicas, de conformidad con la ley aplicable.
+
+P.O. 10 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 300 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ETADO (SIC) DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+La fracción I del artículo 25 bis del presente decreto, entrará en vigor en los treinta y un días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+A partir de la entrada en vigor del presente decreto, los Municipios podrán autorizar horarios extraordinarios con relación a los giros establecidos en la fracción II del artículo 25 bis de esta ley. Dicha autorización podrá otorgarse por parte de los municipios sin que se exija el cumplimiento de lo previsto por el capítulo XII de esta Ley, y hasta en tanto, no fenezcan los plazos y se concreten los mandatos contenidos en los artículos transitorios tercero, sexto y séptimo previstos en el presente decreto.
+
+SEGUNDO. Los procedimientos relativos a la expedición, revocación o modificación por cambios de patentes, así como a la imposición de sanciones derivadas de infracciones, que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciándose conforme a las disposiciones anteriores a su entrada en vigor hasta el dictado de la resolución correspondiente.
+
+TERCERO. Las personas físicas o morales que cuenten con Licencia de Bebidas Alcohólicas para dedicarse a actividades comerciales que impliquen la venta de bebidas alcohólicas en giros, que en la Ley no se encontraban regulados, tendrán un plazo de 90 días hábiles, contados a partir de la emisión y publicación en el Periódico Oficial del Estado de Quintana Roo de los reglamentos, lineamientos y protocolos en materia de Seguridad Técnica y Seguridad Interna, pudiendo ampliar dicho plazo hasta por un término de 45 días hábiles para solicitar el Dictamen de Anuencia a la Secretaría de Seguridad Pública o para suspender dichas actividades.
+
+CUARTO. El formato que actualmente ampara la existencia y titularidad de los derechos de una patente para la venta de bebidas alcohólicas deberá ser sustituido por el nuevo formato de Licencia de Bebidas Alcohólicas en el momento que proceda la renovación de los derechos de la misma.
+
+Dicho trámite, se hará en los términos y condiciones que mediante reglas de carácter general establezca y publique la Secretaría en el Periódico Oficial del Estado de Quintana Roo y en un periódico de mayor circulación, las reglas deberán ser emitidas a más tardar en los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Cuando en otras disposiciones se haga referencia a Patentes, Licencias y Permisos para la Venta de Bebidas Alcohólicas, se entenderá que se trata de la Licencia de Bebidas Alcohólicas que regula la presente Ley.
+
+SEXTO. En un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto, deberán expedirse los reglamentos, lineamientos y protocolos en materia de Seguridad Técnica y Seguridad Interna.
+
+SÉPTIMO. En un plazo no mayor de 30 días posteriores a la expedición del Reglamento, lineamientos de Seguridad Técnica, Protocolos de Seguridad Interna y protocolos de seguridad pública a que se refiere el artículo que antecede, deberán constituirse el Comité Local de Seguridad Técnica que determine la Secretaría de Seguridad.
+
+OCTAVO. En un plazo no mayor de 60 días hábiles contados a partir de la entrada en vigor del presente decreto, los Municipios actualizarán sus zonas turísticas.
+
+NOVENO. Se dejan sin efectos todas aquellas disposiciones normativas de igual o menor jerarquía que se opongan al presente Decreto.
