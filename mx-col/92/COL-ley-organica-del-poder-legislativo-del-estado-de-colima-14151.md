@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2018-12-21"
+last_updated: "2019-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -679,25 +679,31 @@ DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
 La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
 
-La Comisión de Gobierno se integrará por los Coordinadores de los Grupos Parlamentarios acreditados y por los diputados únicos de un partido político o diputados independientes; se formará con un Presidente, uno o dos Secretarios, y vocales en su caso.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+La Comisión de Gobierno Interno se integrará por los Coordinadores de los Grupos Parlamentarios o sus suplentes acreditados y Diputadas o Diputados Únicos; se formará con un Presidente, uno o dos Secretarios y vocales, en su caso.
 
 Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios, en función del número de diputados que representen cada uno de ellos, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios y Diputados Únicos, en función del número de Diputados que representen cada uno de ellos, en relación con el total que integren el Congreso, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+ARTICULO 47 BIS.- La Diputada o el Diputado que asuma la Presidencia de la Comisión de Gobierno Interno no podrá, simultáneamente, ocupar la Presidencia de la Directiva del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 48.
 
-Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que corresponda al número de diputados que formen parte de su grupo parlamentario.
+Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 49.
 
-La Comisión de Gobierno deberá reunirse cuando menos una vez por semana durante los períodos ordinarios y, fuera de éstos, cuando sea necesario. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión. Sus trabajos los desarrollará de conformidad a lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
+La Comisión de Gobierno Interno deberá reunirse cuando menos una vez por semana durante los períodos ordinarios y, fuera de estos, cuando sea necesario. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
 
 ###### ARTICULO 50.
 
@@ -705,13 +711,13 @@ Son facultades de la Comisión de Gobierno:
 
 I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, durante el primer período de sesiones;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-II.- Proponer a la Asamblea la designación del Oficial Mayor, así como pedir su remoción y vigilar el funcionamiento de la citada dependencia;
+II.- Proponer a la Asamblea la designación de las personas titulares de la Oficialía Mayor, de la Contraloría Interna y del Instituto de Profesionalización e Investigaciones Parlamentarias, así como pedir su remoción y vigilar el funcionamiento de las citadas dependencias;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-III.- Aprobar el nombramiento y remoción del Contralor, directores, titular de la Unidad de Igualdad de Género, servidores públicos y demás empleados del Poder Legislativo;
+III.- Aprobar el nombramiento, remoción y cambio de adscripción de las personas titulares de las Direcciones, Jefaturas, Unidades y demás servidores públicos del Poder Legislativo;
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
@@ -761,9 +767,11 @@ III.- Las demás que le confieran esta Ley, el Reglamento o de las disposiciones
 
 Es atribución de la Comisión de Gobierno, llevar a cabo los acuerdos parlamentarios, entendiéndose por acuerdo parlamentario toda resolución emitida por los Diputados en el seno de la propia comisión o de la Asamblea, en aquellos asuntos no contemplados en alguna disposición legal y que tenga por objeto promover la gobernabilidad del Congreso y el mejor desarrollo de las labores legislativas.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
 ###### ARTICULO 54.
 
-Corresponde a la Comisión de Gobierno así como al Oficial Mayor, el control y la vigilancia de los servidores públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la legislación aplicable.
+Corresponde a la Comisión de Gobierno Interno, por conducto de la Contraloría Interna, el control y la vigilancia de los servidores públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la legislación aplicable.
 
 ### CAPITULO VI
 
@@ -805,11 +813,15 @@ VIII.- Seguridad Pública;
 
 IX.- Prevención y Reinserción Social;
 
-X.- Planeación, Fomento Económico y Turismo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X.- Planeación y Turismo;
 
 XI.- Desarrollo Rural, Fomento Agropecuario y Pesquero;
 
-XII.- Planeación del Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XII.- Desarrollo Urbano, Municipios y Zonas Metropolitanas;
 
 XIII.- Derechos Humanos, Asuntos Indígenas y Atención al Migrante;
 
@@ -821,11 +833,13 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones, Transportes y Movilidad;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XVII.- Igualdad de Género;
+XVII.- Igualdad y Equidad de Género;
 
-XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XVIII.- Economía;
 
 XIX.- Participación Ciudadana y Peticiones;
 
@@ -837,29 +851,45 @@ XX.- Trabajo y Previsión Social;
 
 XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XXII.- Deporte y Fomento del Sano Esparcimiento; y
+XXII.- Deporte y Fomento del Sano Esparcimiento;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XXIII.- Protección Civil.
+XXIII.- Protección Civil;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXIV.- Sistema Estatal Anticorrupción; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXV.- Transparencia y Acceso a la Información.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional. A petición de uno de sus miembros o de un Grupo Parlamentario, podrán proponerse cambios en su conformación.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 57.
 
-Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento, que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las Comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada Comisión presentarán anualmente lo que corresponde a cada ejercicio constitucional el programa de trabajo correspondiente, presentar un informe a la Comisión de Gobierno Interno, que por lo menos debe contener:
+Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea, y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento, que iniciarán a partir del día siguiente de recibir los expedientes respectivos. El Presidente de cada comisión presentará anualmente, al inicio de cada ejercicio constitucional, el programa de trabajo correspondiente; además, al finalizar el segundo periodo de sesiones de cada año, rendirá un informe a la Comisión de Gobierno Interno, que por lo menos debe contener:
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 a) Si les fueron o no turnadas iniciativas;
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 b) La investigación legislativa que al respecto de sus enfoques hayan realizado para la presentación de subsecuentes iniciativas;
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 c) Reuniones de trabajo y demás actividades realizadas; y
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 d) Las iniciativas o puntos de acuerdo presentadas.
 
@@ -875,31 +905,47 @@ Las comisiones serán electas por mayoría simple y estarán integradas por tres
 
 En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre los grupos parlamentarios en proporción al número de Diputados que los integran en relación con el total de los que conforman al Congreso.
 
-Las Comisiones de Responsabilidades y de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado estará integrará por cinco Diputados y será asignada la presidencia de la misma al grupo parlamentario que represente la primera minoría. En caso de que el titular del Poder Ejecutivo pertenezca al partido político de primera minoría esta responsabilidad recaerá a la segunda minoría.
+Las Comisiones de Responsabilidades; de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; del Sistema Estatal Anticorrupción; de Transparencia y Acceso a la Información; y de Planeación y Turismo, se integrarán por cinco Diputados, de conformidad con los términos que señalen esta Ley y el Reglamento.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Las Comisiones de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y del Sistema Estatal Anticorrupción, serán presididas por Diputadas o Diputados pertenecientes a grupos parlamentarios de partidos políticos distintos al del titular del Poder Ejecutivo. Un grupo parlamentario no podrá ostentar al mismo tiempo la presidencia de más de una de las comisiones mencionadas con antelación; en caso de que no fuera posible cumplir con la condición señalada, la presidencia de las comisiones citadas podrá recaer en una Diputada o en un Diputado único, siempre y cuando sea de un partido político distinto al que pertenezca el titular del Poder Ejecutivo.
 
 La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia. La Comisión de Derechos Humanos, Asuntos Indígenas y Atención al Migrante estará integrada por siete Diputados.
 
-El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma y en el caso de que quien presida la Comisión sea Diputado Único de un partido político, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de Diputados será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y si varios coinciden en éste, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma y, en el caso de que quien presida la Comisión sea una Diputada o un Diputado Único de un partido político, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de integrantes será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de integrantes, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y, si varios coinciden en este, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
 
 ###### ARTICULO 59.
 
 Las comisiones especiales tendrán la competencia que se les atribuya en el acto de su designación, mismas que contarán con el número de miembros que la Asamblea determine y fungirán por el tiempo que se requiera para el despacho de los asuntos que les dieron origen.
 
-### CAPITULO VI (SIC)
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
-DE LOS ORGANOS DE FISCALIZACION Y ADMINISTRACION DEL CONGRESO.
+ARTICULO 59 BIS.- Las Comisiones, por medio de su Presidente, de estimarlo conveniente para el despacho de los asuntos sobre su ramo, podrán solicitar la comparecencia de servidores públicos, así como la rendición de informes que deban remitirse al Congreso del Estado o cuando se discuta una iniciativa relativa a las materias que les corresponde atender, de conformidad con las disposiciones jurídicas aplicables; asimismo, podrán solicitar información o documentación a los Ayuntamientos, Organismos Descentralizados, órganos autónomos, así como también a los Poderes Ejecutivo y Judicial del Estado de Colima o sus dependencias, la cual deberá remitirse en un plazo máximo de diez días hábiles, contados a partir del siguiente al en que se reciba la solicitud, a reserva de aquellos planteamientos que se formulen informando la urgencia debida, supuesto en el cual el plazo será de cinco días hábiles; si la petición no fuere atendida en tiempo, se hará del conocimiento del titular respectivo, para la instauración del correspondiente procedimiento de responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+### CAPÍTULO VII. DE LOS ÓRGANOS DE APOYO A LA FUNCIÓN LEGISLATIVA
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 60.
 
-Los órganos de fiscalización y administración del Congreso son:
+El Congreso del Estado, para el ejercicio de sus atribuciones, contará con los siguientes Órganos:
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+I. El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
-I.- El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
+II. La Oficialía Mayor;
 
-II.- La Oficialía Mayor.
+III. La Contraloría Interna; y
+
+IV. El Instituto de Profesionalización e Investigaciones Parlamentarias.
+
+No podrán ser nombrados como titulares o encargados de los órganos de apoyo a la función legislativa quienes desempeñen o hayan desempeñado un cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores. Durante el ejercicio de su cargo, tampoco podrán desempeñar actividades profesionales privadas, ni desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los Municipios, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -921,35 +967,95 @@ Para elegir al Auditor Superior del Estado el Congreso emitirá la convocatoria 
 
 Las facultades, atribuciones y organización del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, se regulan conforme a lo establecido en su Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 63.
 
-La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, para la atención y realización de los asuntos legislativos del mismo. Tendrá las atribuciones que el Reglamento de esta Ley le señale. Asimismo, este órgano contará con las Direcciones y las Unidades necesarias para el eficaz desempeño de sus funciones, en términos del artículo 87 del Reglamento.
+La Oficialía Mayor es el órgano técnico administrativo dependiente del Congreso, responsable de asistir puntualmente en las actividades del mismo. Sus atribuciones, estructura organizativa, operativa y funcional se determinarán en el Reglamento de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por mayoría absoluta.
 
-Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 años, estar en pleno ejercicio de sus derechos, profesionista titulado, preferentemente Licenciado en Derecho y ser de reconocida capacidad y probidad en el ejercicio de su profesión.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Para ser titular de la Oficialía Mayor, se requiere:
+
+I. Contar con la nacionalidad mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditar, además, residencia en el Estado no menor de dos años;
+
+II. Tener mínimo treinta años de edad;
+
+III. No haber sido dictada sentencia en su contra en un proceso penal por delito doloso; no haber sido declarado en concurso mercantil o suspensión de pagos; ni haber sido inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por resolución administrativa firme;
+
+IV. Disponer de título y cédula profesional, debidamente registrados, en áreas afines al cargo; y
+
+V. Acreditar experiencia profesional mínima de cinco años.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 Las faltas temporales hasta por treinta días de la persona titular de la Oficialía Mayor serán suplidas, con el carácter de Encargado del Despacho, por la persona que designe la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
-###### ARTICULO 63 Bis.
+ARTICULO 63 BIS.- La Contraloría Interna es el órgano técnico de control y evaluación de los servidores públicos del Poder Legislativo; dispondrá de facultades de fiscalización, auditoría interna, vigilancia, transparencia, rendición de cuentas, investigación, substanciación y sanción de las responsabilidades administrativas en que estos incurran. Sus atribuciones, facultades y estructura orgánica estarán consignadas en el Reglamento respectivo.
 
-La Contraloría es el órgano técnico administrativo auxiliar de la Oficialía Mayor, en el desempeño de sus facultades de vigilancia y supervisión del ejercicio presupuestal que ejerce funciones de auditoría, vigilancia, control, evaluación e inspección y coadyuva en la substanciación de los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Congreso del Estado, además de promover la aplicación de medios que contribuyan a mejorar los procedimientos administrativos.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-La Contraloría estará a cargo de un titular denominado Contralor, quién será nombrado por acuerdo de la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+La Contraloría Interna estará a cargo de una persona titular de la misma, quien será nombrada por la Asamblea, a propuesta de la Comisión de Gobierno Interno.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO [CON SUS FRACCIONES], P.O. 10 DE ENERO DE 2019)</small>
 
-###### ARTICULO 63 Ter.
+Para ser titular de la Contraloría Interna, se requiere:
 
-Para ser contralor se debe cumplir con los requisitos señalados en el artículo 63 de la presente ley, con excepción de lo relativo a la profesión, la cual deberá estar relacionada con las áreas de contabilidad y administración.
+I. Contar con la nacionalidad mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditar, además, residencia en el Estado no menor de dos años;
+
+II. Tener mínimo treinta años de edad;
+
+III. No haber sido dictada sentencia en su contra en un proceso penal por delito doloso; no haber sido declarado en concurso mercantil o suspensión de pagos; ni haber sido inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por resolución administrativa firme;
+
+IV. Disponer de título y cédula profesional, debidamente registrados, en áreas afines al cargo; y
+
+V. Acreditar experiencia profesional mínima de cinco años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+
+ARTICULO 63 TER.- El Instituto de Profesionalización e Investigaciones Parlamentarias tiene a su cargo realizar las tareas de investigación jurídica y legislativa que requiera el Congreso; de igual manera, le corresponde la capacitación, profesionalización y asesoría parlamentaria, así como el resguardo de los archivos históricos del Poder Legislativo. Sus atribuciones, facultades y estructura orgánica se regularán conforme a lo establecido en su Reglamento.
+
+> <small>(ADICIONADO [CON SUS FRACCIONES], P.O. 10 DE ENERO DE 2019)</small>
+
+El Instituto de Profesionalización e Investigaciones Parlamentarias se regirá por una Junta de Gobierno, la cual estará integrada por:
+
+I. Una Presidencia, que estará a cargo de la persona titular de la Presidencia de la Comisión de Gobierno Interno;
+
+II. Una Secretaría, que estará a cargo de la persona titular de la Dirección del Instituto de Profesionalización e Investigaciones Parlamentarias; y
+
+III. Cinco vocalías, que corresponderán:
+
+a) A la persona titular de la Presidencia o integrante de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
+
+b) A la persona titular de la Presidencia o integrante de la Comisión de Estudios Legislativos y Puntos Constitucionales;
+
+c) A la persona titular de la Presidencia o integrante de la Comisión de Educación y Cultura;
+
+d) A la persona titular de la Presidencia o integrante de la Comisión de Justicia, Gobernación y Poderes; y
+
+e) A la persona titular de la Presidencia o integrante de la Comisión de Economía.
+
+La Dirección del Instituto estará a cargo de una persona titular de la misma, quien será nombrada por el Congreso, a propuesta de la Comisión de Gobierno Interno, misma que, para tal efecto, emitirá una convocatoria pública y, además, entrevistará a cada una de las personas interesadas en ocupar el cargo.
+
+> <small>(ADICIONADO [CON SUS FRACCIONES], P.O. 10 DE ENERO DE 2019)</small>
+
+Para ser titular de la Dirección del Instituto, se requiere:
+
+I. Contar con la nacionalidad mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditar, además, residencia en el Estado no menor de dos años;
+
+II. Tener mínimo treinta años de edad;
+
+III. No haber sido dictada sentencia en su contra en un proceso penal por delito doloso; no haber sido declarado en concurso mercantil o suspensión de pagos; ni haber sido inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por resolución administrativa firme;
+
+IV. Disponer de título y cédula profesional, debidamente registrados, en áreas afines a las actividades propias del Instituto; y
+
+V. Acreditar experiencia profesional mínima de cinco años.
 
 ### CAPITULO VIII
 
@@ -1674,3 +1780,15 @@ P.O. 21 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 07 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 63 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor en el momento de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 26 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
+
+PRIMERO.- El Decreto entrará en vigor el día 01 de enero de 2019, y deberá ser publicado en el Periódico Oficial "El Estado de Colima", con las salvedades apuntadas en los transitorios siguientes.
+
+SEGUNDO.- La Dirección de Servicios Documentarios continuará realizando las facultades consignadas en el actual numeral 90 del Reglamento de la Ley Orgánica del Poder Legislativo, en tanto se efectúan los ajustes presupuestarios requeridos para la creación del Instituto de Profesionalización e Investigaciones Parlamentarias. Realizado lo anterior, la actual plantilla de capital humano adscrita a la Dirección de Servicios Documentarios pasará a formar parte del referido Instituto.
+
+TERCERO.- En un término no mayor a 30 treinta días hábiles posterior a la aprobación del presente dictamen, deberán ser expedidos los Reglamentos internos de la Contraloría Interna y del Instituto de Profesionalización e Investigaciones Parlamentarias, ambos del H. Congreso del Estado, así como aprobado el tabulador salarial correspondiente al ejercicio fiscal 2019, en el que se incluyan los ajustes correspondientes a las dependencias que fueron creadas en términos del presente decreto.
+
+CUARTO.- La Oficialía Mayor y las Direcciones de Proceso Legislativo, de Finanzas, Administración y Servicios Generales, y Jurídica, por conducto de sus titulares, en un término improrrogable de 60 días naturales posteriores al inicio de vigencia del presente Decreto, deberán expedir los manuales de procedimientos de sus áreas, a efecto de determinar la máxima eficiencia de las tareas del personal a su cargo.
