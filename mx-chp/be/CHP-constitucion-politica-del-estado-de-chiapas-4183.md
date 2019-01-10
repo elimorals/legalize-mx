@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2018-12-04"
+last_updated: "2019-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2351,7 +2351,9 @@ De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupci�
 
 Para los efectos de las responsabilidades a que alude este capítulo se considerarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado de Chiapas, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública Estatal, municipal, así como de los órganos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. Asimismo, serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
-El Gobernador del Estado, los Diputados del Congreso del Estado, los Magistrados y Consejeros del Poder Judicial del Estado, los Presidentes, Síndicos y Regidores Municipales, así como los miembros de los organismos a los que esta Constitución les otorga autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución del Estado, a las leyes que de ellas emanen, así como por el manejo y aplicación indebidos de fondos y recursos públicos.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+El Gobernador del Estado, los Diputados del Congreso del Estado, los Magistrados y Consejeros del Poder Judicial del Estado, los Presidentes, Síndicos y Regidores Municipales, así como los miembros de los organismos a los que esta Constitución les otorga autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución del Estado, a las leyes que de ellas emanen, así como por el manejo y aplicación indebidos de fondos y recursos públicos, con independencia de los delitos que de esas conductas resulten.
 
 Toda persona que desempeñe una función de servicio público en los tres poderes, en los órganos autónomos o en los municipios tienen (sic) la obligación de presentar su declaración patrimonial, fiscal y de intereses. La ley regulará dicha obligación.
 
@@ -2413,13 +2415,17 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 112.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; el Fiscal General del Estado; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Presidentes, Síndicos y Regidores Municipales; los miembros de los organismos a los que esta Constitución les otorga autonomía; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; el Fiscal General del Estado; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Presidentes, Síndicos y Regidores Municipales; los miembros de los organismos a los que esta Constitución les otorga autonomía; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación. No será necesaria la declaración de procedencia a que este precepto se refiere, cuando se trate de delitos por hechos de corrupción.
 
-Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Poder Judicial y Consejeros de la Judicatura, incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás servidores públicos, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la solicitud de declaratoria de procedencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Poder Judicial y Consejeros de la Judicatura, incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás servidores públicos, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la solicitud de declaratoria de procedencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación. No será necesaria la declaración de procedencia a que este precepto se refiere, cuando se trate de delitos por hechos de corrupción.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de reparar los daños y resarcir los perjuicios causados por su conducta ilícita.
 
@@ -4502,3 +4508,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 El Titular del Poder Ejecutivo del Estado, determinará las instancias administrativas y de gobierno, encargadas de las regiones socioeconómicas.
+
+P.O. 10 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 131 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente Decreto.
