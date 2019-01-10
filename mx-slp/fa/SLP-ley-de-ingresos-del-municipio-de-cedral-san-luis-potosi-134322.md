@@ -1,0 +1,550 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE CEDRAL, SAN LUIS POTOSI PARA EL EJERCICIO FISCAL DEL AÑO 2019"
+identifier: "SLP-ley-de-ingresos-del-municipio-de-cedral-san-luis-potosi-134322"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2019-01-10"
+last_updated: "2019-01-10"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134322&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-slp"
+scjn_id: "134322"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "EDICION EXTRAORDINARIA"
+reform_count: "0"
+scjn_last_update: "2019-01-10"
+issue_date: "2019-01-03"
+municipality: "Cedral"
+municipality_inegi: "24007"
+state: "SLP"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE CEDRAL, SAN LUIS POTOSI PARA EL EJERCICIO FISCAL DEL AÑO 2019
+
+LEY DE INGRESOS DEL MUNICIPIO DE CEDRAL, SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL DEL AÑO 2019
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de enero de 2019.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO 44.
+
+Constituyen el ramo de multas a favor del fisco municipal las siguientes:
+
+I. MULTAS DE POLICÍA Y TRÁNSITO. Los ingresos de este ramo provienen de las que se impongan por las autoridades correspondientes y en uso de sus facultades, por violación a las leyes, reglamentos, y Bando de Policía y Gobierno, relativos, las que no podrán ser mayores a las señaladas en el artículo 21 de la Constitución Política de Jos Estados Unidos Mexicanos, y se cobrarán conforme a los siguientes costos:
+
+COSTO UMA
+
+1 Si excede la velocidad más de 40 Km por hora en zona urbana de la cabecera municipal 3.10
+
+2 Si no respeta los topes, señalamientos o indicaciones del agente de tránsito en zona escolar 3.15
+
+3 Ruido en escape 1.90
+
+4 Manejar en sentido contrario en cualquier viabilidad 3.10
+
+5 Manejar en estado de ebriedad 10.25
+
+6 Cometer cualquier infracción con aliento alcohólico 5.22
+
+7 No obedecer las indicaciones del agente de tránsito 2.14
+
+8 No obedecer las indicaciones de no dar vuelta en u 2.14
+
+9 No obedecer señalamiento restrictivo 2.14
+
+10 Falta de engomado en lugar visible 1.80
+
+11 Falta de placas 3.60
+
+12 Falta de tarjeta de circulación 2.00
+
+13 Falta de licencia 2.85
+
+14 Circular con exceso de ruido ambiental, emitido mediante bocinas internas o externas del vehículo 3.12
+
+15 Estacionarse en lugar prohibido 3.68
+
+16 Estacionarse en doble fila 2.10
+
+17 Si excede el tiempo permitido en estacionamiento regulado. 1.90
+
+18 Chocar y causar daños de manera dolosa o culposa 5.10
+
+19 Chocar y causar lesiones de manera culposa o dolosa 8.44
+
+20 Chocar y ocasionar lesiones de manera culposa o dolosa 12.00
+
+21 Chocar y ocasionar una muerte de manera culposa 31.255
+
+22 Chocar y ocasionar una muerte de manera dolosa 68.42
+
+23 Negar licencia o tarjeta de circulación, c/u 3.10
+
+24 Abandono de vehículo por accidente 4.85
+
+25 Placas en el interior del vehículo 6.55
+
+26 Placas sobrepuestas 7.50
+
+27 Estacionarse en retorno 2.60
+
+28 Si el conductor es menor de edad y sin permiso, conducido vehículo automotor 5.35
+
+29 Si el conductor es menor de 16 años y conduce motoneta, motocicleta o cuatrimoto 4.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL NUMERAL 30 DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+30 INSULTO, AMENAZA O ULTRAJE A LAS AUTORIDADES DE TRÁNSITO 4.15
+
+31 Bajar o subir pasaje en lugar prohibido 8.20
+
+32 Obstruir parada de servicios de trasporte público 8.20
+
+33 Falta de casco protector en motonetas, motocicletas o cuatrimotos el conductor o el pasajero 2.14
+
+34 Circular más de 2 personas en motonetas, motocicletas o cuatrimotos 2.14
+
+35 Circular con uno o ambos faros delanteros apagados en vehículo automotor 2.85
+
+36 Circular con una o ambas luces traseras apagadas en vehículo automotor 2.85
+
+37 Circular con las luces delanteras apagadas en motonetas, motocicletas o cuatrimotos 2.85
+
+38 Circular con las luces traseras apagadas en motonetas, motocicletas o cuatrimotos 2.85
+
+39 Remolcar vehículos con cadena o cuerdas u otro medio sin permiso de la autoridad 5.00
+
+40 Transportar personas en la parte exterior de la carrocería en vehículos cuyo uso no lo permita 3.80
+
+41 Placas pintadas, rotuladas, dobladas, ilegibles, remachadas, soldadas o lugar distinto al destinado 2.14
+
+42 Traer carga en exceso de las dimensiones del vehículo o que esté descubierta e insegura 3.80
+
+43 Intento de fuga 2.00
+
+44 Falta de precaución en vía de preferencia 2.14
+
+45 Circular con carga sin permiso correspondiente 3.50
+
+46 Circular con puertas abiertas 3.10
+
+47 Uso de carril contrario para rebasar por la extrema derecha 3.85
+
+48 Vehículo abandonado en vía pública, remolque por la grúa de tránsito .85
+
+49 Circular con mayor número de personas de las que señala la tarjeta de circulación 3.90
+
+50 Circular con pasaje en el estribo 2.78
+
+51 No ceder el paso al peatón 2.14
+
+52 Consumir cualquier tipo de bebidas alcohólicas dentro de un vehículo automotor, aun encontrándose estacionado en la vía pública 3.15
+
+53 Provocar lesiones al oficial de tránsito de manera dolosa 4.80
+
+54 Provocar lesiones al oficial de tránsito de manera dolosa con el vehículo automotor 12.00
+
+55 Vehículo que sea ingresado a la Pensión Municipal cuando lo amerite la infracción, pagará por día 11.50
+
+56 Detenerse o estacionarse sobre los carriles de circulación 5.00
+
+57 Estacionar vehículo sobre la banqueta 3.00
+
+58 Portar placas de circulación con alteraciones, mutilaciones o ilegibles o colocadas en área distinta a la permitida 6.00
+
+59 Falta de cinturón de seguridad 1.0
+
+60 No obedecer y respetar las señales indicaciones y señalamientos de transito 5.00
+
+61 No conservar distancia de seguridad 5.00
+
+62 Pasar intempestivamente de carril de circulación 5.00
+
+63 Dar vuelta en un crucero sin hacer precaución 6.00
+
+64 No ceder el paso al peatón 2.00
+
+65 No ceder el paso a vehículos de emergencia 5.00
+
+66 Circular en reversa innecesariamente 2.00
+
+67 Rebasar en lugares no permitidos 6.00
+
+68 No conceder cambios de luces 3.00
+
+69 Utilizar luces direccionales o de emergencia innecesariamente 5.00
+
+70 Arrojar basura en la vía pública 4.00
+
+71 Obstruir la vía pública con el vehículo 8.00
+
+72 Acelerara innecesariamente la marcha del motor o usarlo como claxon 3.00
+
+73 Circular con exceso de humo 5.00
+
+74 Transitar con vidrios polarizados que obstaculicen la visibilidad 5.00
+
+75 Obstruir el tránsito o entorpecer la marcha de columnas militares, escolares, desfiles cívicos y cortejos fúnebres 3.00
+
+76 Conducir vehículo con más personas de las que marca la tarjeta de circulación 6.00
+
+77 Transportar personas en la parte exterior de la carrocería 7.00
+
+78 Transitar equipados con bandas de oruga metálicos 5.00
+
+79 Conducir en estado de ebriedad o bajo el influjo de sustancias estupefacientes 100.00
+
+80 Conducir con aliento Alcohólico 3.00
+
+81 Circular por otro lado que no sea derecho de vía pública para el transito 5.00
+
+82 Remolcar vehículos con cadenas o cuerdas 7.00
+
+83 Transitar en vehículos automotores, remolques y semirremolques con llantas lisas o con rotura 2.00
+
+84 Transitar sobre las calles longitudinales marcadas en la superficie de rodamiento y que delimiten los carriles 2.00
+
+85 Circular en sentido contrario al establecido 8.00
+
+86 Dar vuelta en "U" 8.00
+
+87 Adelantar o rebasar en zona de paso peatonal 3.00
+
+88 Invadir carril opuesto para adelantar hileras de vehículos 2.00
+
+89 Rebasar vehículos peor el acotamiento 5.00
+
+90 Circular con un infante en la parte delantera sin la protección adecuada 10.00
+
+91 Conducir hablando por celular 5.00
+
+92 Circular sin el cinturón de seguridad el conductor 2.00
+
+93 Circular sin el cinturón de seguridad los pasajeros por cada uno 1.00
+
+94 Abandonar vehículos en la vía pública 8.00
+
+95 Abandonar vehículos en caso de accidente 12.00
+
+96 Insultar o amenazar al agente de transito 12.00
+
+97 Darse a la fuga 10.00
+
+98 Circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones 5.00
+
+99 Conducir a exceso de velocidad en zona escolar 10.00
+
+100 No respetar semáforo 5.00
+
+101 Colocar basura en la vía de rodamiento que impida el libre tránsito de los vehículos 8.00
+
+102 Colocar puestos de venta y/o ambulantes sobre la vía pública de rodamiento que impida el libre transito (sic) 8.00
+
+DE LAS MOTOCICLETAS Y BICICLETAS
+
+103 No usar casco protector el conductor 7.00
+
+104 No usar casco protector el acompañante 5.00
+
+105 No maniobrar con cuidado al rebasar vehículo 5.00
+
+106 No rebasar por carril izquierdo 3.00
+
+107 Circular en sentido contrario 5.00
+
+108 No circular por extrema derecha 2.00
+
+109 No transitar las motos con las luces encendidas 10.00
+
+110 Circular sobre las banquetas y áreas reservadas para el uso exclusivo de peatones 3.00
+
+111 Circular entre carriles 2.00
+
+112 Sujetarse de vehículos en movimiento 6.00
+
+113 Transportar un número mayor de pasajeros indicados por el fabricante y/o en lugar intermedio el conductor y el manubrio 2.00
+
+114 Transportar carga que impida mantener ambas manos sobre el manubrio y tener un debido control del vehículo 2.00
+
+115 Usar radios, reductores de sonido y demás mecanismos que propicien distracción del conductor 2.00
+
+116 Efectuar piruetas o zigzaguear 5.00
+
+117 Remolcar o empujar otro vehículo 7.00
+
+118 Circular por las vías rápidas cuando no estén diseñadas para ello 4.00
+
+DEL TRANSPORTE PÚBLICO
+
+119 Transitar con las puertas abiertas 8.00
+
+120 Rebasar los límites de velocidad establecidos 12.00
+
+121 Llevar los pasajeros en ·los estribos o en las partes exteriores del vehículo 5.00
+
+122 Cargar combustible llevado pasajeros a bordo 10.00
+
+123 Conducir el vehículo de forma temeraria, de tal forma que ponga en peligro la seguridad de los pasajeros 10.00
+
+124 Estacionarse en doble fila o bloqueando la viabilidad o el paso de los peatones 8.00
+
+125 Rebasar a otro vehículo sin la debida precaución 8.00
+
+126 Permitir el ascenso y descenso de pasaje cuando el vehículo se encuentre en movimiento 6.00
+
+127 Uso de equipo de audio. Equipo reproductor de imagen, radio comunicación portátil, telefonía móvil y cualquier otro equipo que pueda distraerlo 2.00
+
+128 Transitar por el primer cuadro y segundo cuadro sin previa autorización 8.00
+
+DEL TRANSPORTE PÚBLICO DE CARGA
+
+129 Utilizar la vía pública como terminal para el vehículo de carga 5.00
+
+130 Transportar carga sobresaliente hacia atrás o a las lados sin autorización 5.00
+
+131 Transitar con carga insegura o esparciéndola en la vía pública 5.00
+
+132 Falta de permiso para trasportar carga peligrosa 5.00
+
+133 Utilizar personas para sujetar o proteger la carga 2.00
+
+134 Transportar carga que despida mal olor o repugnante 5.00
+
+135 Transportar cadáveres de animales en el comportamiento de pasajeros 5.00
+
+136 Transportar carga que arrastre y pueda caerse 2.00
+
+137 Transitar en zonas y horarios restringidos, sin el permiso de la autoridad correspondiente 8.00
+
+138 Cargar o descargar materiales explosivos, flamables, tóxicos y peligrosos en vía publica o en lugares que puedan poner en peligro la seguridad de los peatones, conductores y las propiedades 15.00
+
+DE LOS ACCIDENTES
+
+139 Ocasionar un accidente 5.25
+
+140 Chocar o participar en accidente y causar daños 20.00
+
+141 chocar o participar en accidente y ocasionar lesiones 25.00
+
+142 Chocar o participar en accidente y ocasionar muerte 73.50
+
+143 Mover vehículo posterior al accidente 10.00
+
+144 Ocasionar accidente al obstruir la superficie de rodamiento sin abanderamiento por emergencia 10.00
+
+145 Abandono de victima por accidente 50.00
+
+MULTAS DE SEGURIDAD PUBLICA
+
+COSTO UMA
+
+1 Faltas administrativas 3.10
+
+2 Ingerir bebidas alcohólicas en la vía publica 3.10
+
+3 Alteración del orden publico 3.10
+
+4 Detención por reporte de violencia domestica 3.10
+
+5 Realizar necesidades fisiológicas en la vía publica 3.10
+
+6 Riña en la vía publica 3.10
+
+7 Intoxicación con estupefacientes en la vía publica 3.10
+
+8 Insulto, amenaza o ultraje a la autoridad 3.10
+
+En caso de que la infracción sea cometida en un vehículo prestador del servicio del transporte público la cuota se incrementará en un 50%
+
+sin perjuicio de que al momento de la infracción no se estuviere prestando el servicio, sin derecho al beneficio de descuento previsto en el párrafo siguiente.
+
+En caso de que el infractor liquide la multa del término de diez días siguientes a la infracción cometida se le considerará un descuento del 50%
+
+con excepción de las multas inciso: 6, 19, 20, 22, 28, 41, 50, 51 y 52
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. MULTAS POR INFRACCIONES DE RASTRO MUNICIPAL.
+
+COSTO UMA
+
+a) POR MATANZA DE CUALQUIER TIPO DE GANADO, EXCEPTO AVES DE CORRAL, NO AUTORIZADA FUERA DEL RASTRO MUNICIPAL 3.17
+
+b) POR VENTA DE CARNES SIN RESELLOS O DOCUMENTOS QUE NO AMPAREN SU PROCEDENCIA (EN COMERCIO) 4.21
+
+c) VENTA DE CARNE NO AUTORIZADA PARA EL CONSUMO HUMANO 20.85
+
+d) VENTA DE CARNES SIN RESELLO O INFECTADA CON ALGUNA ENFERMEDAD 41.65
+
+e) REALIZAR LA COMERCIALIZACIÓN DE CORTES DENTRO DE LAS INSTALACIONES DEL RASTRO MUNICIPAL SIN AUTORIZACIÓN DE LA AUTORIDAD 4.21
+
+f) POR VENTA DE CARNE DE UNA ESPECIE QUE NO CORRESPONDA A LA QUE SE OFERTA 31.25
+
+g) POR DETECTARSE CARNE EN VEHÍCULO DE REPARTO EN CONDICIONES DE INSALUBRIDAD 52.05
+
+h) POR FALTA DE PAGO Y DECLARACIÓN FALSA DE CANTIDAD DE INTRODUCCIÓN DE PRODUCTOS CÁRNICOS 4.54
+
+i) MANIFESTAR DATOS O INFORMACIÓN FALSA AL INTRODUCIR O RESELLAR CARNE FRESCA O REFRIGERADA 4.54
+
+j) CAUSAR DESORDEN DENTRO DE LAS INSTALACIONES DEL RASTRO 3.42
+
+k) REALIZAR LA COMERCIALIZACIÓN DE CORTES DENTRO DE LAS INSTALACIONES DEL RASTRO MUNICIPAL SIN AUTORIZACIÓN DEL MISMO 3.42
+
+l) REALIZAR DESLONJE DE CANALES PORCINOS DE LAS INSTALACIONES DEL RASTRO MUNICIPAL 3.17
+
+EN CASOS DE REINCIDENCIA LA SANCIÓN APLICABLE SERÁ EL DOBLE DE LA PREVISTA, ADEMÁS DE LAS SANCIONES DE LAS LEYES DE LA MATERIA;
+
+III. MULTAS POR INFRACCIONES A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI.
+
+Se cobrarán multas por violación a la Ley Ambiental del Estado de San Luis Potosí de acuerdo a lo dispuesto por dicha ley.
+
+IV. MULTAS POR INFRACCIONES A LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI.
+
+Se cobrarán multas por violaciones a la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí de acuerdo a lo dispuesto por dicha ley.
+
+V. MULTAS POR INFRACCIONES AL REGLAMENTO PARA REGULAR LAS ACTIVIDADES COMERCIALES DEL MUNICIPIO CEDRAL, S.L.P.
+
+COSTO UMA
+
+a) Los comerciantes semifijos que al término de su jornada laboral no retiren de la vía pública sus utensilios de trabajo y sus estructuras, conforme lo ordena el artículo 68 fracción XIV de la legislación municipal de la materia se harán acreedores a una sanción equivalente a 2.08
+
+b) Se cobrarán multas por violaciones al Reglamento para Regular las Actividades Comerciales del Municipio de CEDRAL, S.L.P. de acuerdo al tabulador.
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMER DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VI. MULTAS DE ECOLOGÍA. ESTAS MULTAS SE CAUSARÁN POR VIOLACIONES AL REGLAMENTO DE ECOLOGÍA MUNICIPAL, Y LEYES QUE RIJAN LA MATERIA:
+
+CONCEPTO COSTO UMA
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+a) NO CONTAR CON EL EQUIPO NECESARIO PARA MITIGAR EMISIONES CONTAMINANTES REQUERIDO POR LAS AUTORIDADES 3.40
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) DISPOSICIÓN ILÍCITA DE ÁREAS VERDES Y/O DESTRUCCIÓN DE LA VEGETACIÓN, POR METRO CUADRADO 1.15
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+c) NO CONTAR CON EL REGISTRO AMBIENTAL MUNICIPAL PARA A COMPRA-VENTA DE ANIMALES 1.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+d) REALIZAR COMBUSTIONES AL AIRE LIBRE SIN AUTORIZACIÓN DE LAS AUTORIDADES 2.15
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO e) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+e) POR TRANSPORTAR MATERIAL PELIGROSO EN VEHÍCULOS DESCUBIERTOS Y/O SIN LAS MEDIDAS ECOLÓGICAS SEGÚN LA NORMATIVIDAD VIGENTE 2.15
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO f) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+f) POR DESCARGAS DE RESIDUOS LÍQUIDOS, SÓLIDOS Y/O SEMISÓLIDOS EN SITIOS NO AUTORIZADOS 4.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO g) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+g) POR DESCARGAS, DEPOSITAR O INFILTRAR RESIDUOS INDUSTRIALES CONTAMINANTES NO PELIGROSOS EN EL SUELO DENTRO DEL TERRITORIO NACIONAL, SIN EL CUMPLIMIENTO DE LA NORMATIVIDAD ECOLÓGICA VIGENTE 4.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO h) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+h) POR GENERAR, ALMACENAR, RECOLECTAR, APROVECHAR O DISPONER DE RESIDUOS NO PELIGROSOS, SIN AJUSTARSE A LA NORMATIVIDAD ECOLÓGICA 3.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO i) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+i) POR TRASPORTAR Y DEPOSITAR RESIDUOS SIN EL PERMISO DE LAS AUTORIDADES 3.50
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO j) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+j) POR PRODUCIR EMISIONES DE RUIDO, OLORES, GASES, VIBRACIONES, ENERGÍA TÉRMICA Y LUMÍNICA QUE AFECTEN A LA SALUD, AL AMBIENTE O QUE PROVOQUEN MOLESTIAS A LA POBLACIÓN 2.75
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO k) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+k) POR OPERAR CENTRO DE ACOPIO SIN EL REGISTRO AMBIENTAL MUNICIPAL. 5.88
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO l) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+l) EXPLOTACIÓN DE BANCOS DE MATERIALES SIN EL PERMISO DE LA AUTORIDAD MUNICIPAL 10.12
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO m) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+m) POR CONDUCIR VEHÍCULOS CON TRACCIÓN ANIMAL Y MECÁNICA SIN LONA, SIN AJUSTE 2.10
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO n) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+n) EXPLOTACIÓN DE BANCOS DE MATERIALES SIN CONTAR SON EL REFRENDO CORRESPONDIENTE, O TENIÉNDOLO NO SE CUMPLIERAN LAS ESPECIFICACIONES REALIZADAS EN EL PERMISO, POR EVENTO 1.70
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO ñ) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+ñ) POR TENER BASURA, RESIDUOS SÓLIDOS NO PELIGROSOS EN PREDIOS BARDEADOS O NO, CERCADOS O NO. POR TONELADA O FRACCIÓN 15.12
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO o) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+o) TALA DE ÁRBOL O ARBUSTO, SIN EL PERMISO CORRESPONDIENTE, O TENIÉNDOLO NO SE CUMPLIERAN LAS ESPECIFICACIONES REALIZADAS EN EL PERMISO, POR UNIDAD 1.20
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO p) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+p) POR REALIZAR DESCARGAS DE SUSTANCIAS NO PELIGROSAS, AL DRENAJE, MANTOS FREÁTICOS, CAUCES DE RÍOS, ETCÉTERA, POR EVENTO 6.15
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO q) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+q) POR DERRAMAR O DEPOSITAR SUSTANCIAS PELIGROSAS O EXPLOSIVAS, EN SITIOS NO AUTORIZADOS POR LA AUTORIDAD, POR EVENTO 6.15
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO r) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+r) POR PRODUCIR EMISIONES DE OLORES, GASES, VIBRACIONES, ENERGÍA TÉRMICA Y LUMÍNICA SIN EL PERMISO, POR HORA O FRACCIÓN 1.4
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO s) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+s) POR NO DESPINTAR Y/O RETIRAR LOS ANUNCIOS PUBLICITARIOS DE EVENTOS Y/O ESPECTÁCULOS ARTÍSTICOS, DENTRO DE LAS 72 HORAS SIGUIENTES A LA CELEBRACIÓN DEL EVENTO, DE COBRARÁ EL DOBLE DEL DEPÓSITO QUE REALIZÓ EL PARTICULAR O PROMOTOR, PARA GARANTIZAR QUE LOS ANUNCIOS AUTORIZADOS SEAN RETIRADOS, DESPINTADOS Y/O SUSPENDIDOS
+
+t) Por la falta de verificación vehicular, tratándose de atraso de semestres completos, se cobrará por cada uno, atendiendo el costo que tuvieron durante el año de vigencia de la respectiva Ley de Ingresos, elevando al doble. Se deberá cubrir la multa correspondiente y no se entregará certificado, ni calcomanía del semestre o semestre en que no haya realizado la verificación.
+
+Por realizar la verificación vehicular fuera del mes al que le correspondía realizarla, pero sin exceder del próximo mes al que corresponda realizar la siguiente verificación, de deberá cubrir el monto de la verificación y la multa, y ésta se cobrará de acuerdo a lo siguiente:
+
+1. Con retraso de 1 a 30 días naturales 4.00
+
+2. Con atraso de 31 a 60 días naturales 6.00
+
+3. Con atraso de 61 a 90 días naturales 8.00
+
+4. Con atraso de 91 a 151 días naturales 10.00
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO u) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+u) POR REALIZAR OBRAS O ACTIVIDADES SIN CONTAR NI/O PRESENTAR EL INFORME PREVENTIVO DE IMPACTO AMBIENTAL, 10.21
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO v) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+v) POR REALIZAR OBRAS O ACTIVIDADES, SIN CONTAR NI/O PRESENTAR LA RESOLUCIÓN DEL INFORME PREVENTIVO DE IMPACTO AMBIENTAL, 10.21
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO w) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+w) POR REALIZAR OBRAS O ACTIVIDADES, SIN CONTAR NI/O PRESENTAR LA MANIFESTACIÓN DEL IMPACTO AMBIENTAL, 10.21
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO x) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+x) POR REALIZAR OBRAS O ACTIVIDADES, SIN CONTAR NI/O PRESENTAR EL OTORGAMIENTO DE LA AUTORIZACIÓN DE LA MANIFESTACIÓN DEL IMPACTO AMBIENTAL, 10.21
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO y) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+y) POR LA MODIFICACIÓN DE PROYECTOS AUTORIZADOS EN MATERIA DE IMPACTO AMBIENTAL, SIN LA AUTORIZACIÓN CORRESPONDIENTE, POR EVENTO 6.45
+
+(NOTA: EL 2 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2019, DECLARÓ LA INVALIDEZ DEL INCISO z) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+z) POR PRODUCIR EMISIONES DE RUIDO DENTRO DE LOS PARÁMETROS AUTORIZADOS SIN EL PERMISO CORRESPONDIENTE O TENIÉNDOLO NO SE AJUSTEN O RESPETEN LAS CONDICIONES ESTABLECIDAS:
+
+1. ACTIVIDADES CONTINUAS DURANTE UN PERIODO MENOR DE TRES MESES, QUE SE REALICEN EN LUGAR ABIERTO O AIRE LIBRE, POR EVENTO 2.42
+
+2. ACTIVIDADES CONTINUAS DURANTE UN PERIODO MAYOR DE TRES MESES, QUE SE REALICEN EN LUGAR ABIERTO O AIRE LIBRE, POR MES O FRACCIÓN 6.80
+
+3. ACTIVIDADES CONTINUAS DURANTE UN PERIODO MENOR DE TRES MESES, QUE SE REALICEN EN LUGAR CERRADO, POR PERIODO 8.10
+
+4. ACTIVIDADES CONTINUAS DURANTE UN PERIODO MAYOR DE TRES MESES, QUE SE REALICEN EN LUGAR CERRADO, POR MES O FRACCIÓN 10.00
+
+VII. MULTAS DIVERSAS.
+
+Estas multas corresponden a infracciones a leyes, reglamentos, ordenamientos y disposiciones, acuerdos y convenios municipales y se determinarán de conformidad con la Ley de Hacienda para los Municipios del Estado de San Luis Potosí.
