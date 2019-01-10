@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-finanzas-del-poder-13013
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-31"
-last_updated: "2018-05-31"
+last_updated: "2019-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 31 de mayo de 2018.
 
@@ -851,9 +851,17 @@ XIV. Proponer al Secretario la política interna, directrices, lineamientos y cr
 
 XV. Proponer al Secretario los montos de participaciones que les corresponda a los Municipios;
 
-XVI. Autorizar a la Tesorería los contratos de inversión de fondos; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XVII. Las demás que le confieran las leyes, este Reglamento y demás disposiciones normativas aplicables, así como, las que expresamente le sean conferidas por el Secretario.
+XVI. Autorizar a la Tesorería los contratos de inversión de fondos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2019)</small>
+
+XVII. Autorizar y suscribir conjuntamente con el Director de Presupuesto y el Tesorero, los Acuerdos de voluntades para el otorgamiento de apoyos financieros que se celebren con los Municipios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 10 DE ENERO DE 2019)</small>
+
+XVIII. Las demás que le confieran las leyes, este Reglamento y demás disposiciones normativas aplicables, así como las que expresamente le sean conferidas por el Secretario.
 
 #### Sección Primera. De la Dirección de Contabilidad Gubernamental
 
@@ -989,9 +997,21 @@ XIII. Organizar la formulación del calendario de cierre de ejercicio presupuest
 
 XIV. Supervisar que se proporcione orientación y asesoría técnica en materia de ejercicio presupuestario a los ejecutores de gasto;
 
-XV. Proponer al Subsecretario de Egresos, Contabilidad y Tesorería los procedimientos administrativos para la mejora de la gestión presupuestaria; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XVI. Las demás que le confiera este Reglamento y demás disposiciones normativas aplicables, así como, las que expresamente le confiera su superior jerárquico.
+XV. Proponer al Subsecretario de Egresos, Contabilidad y Tesorería los procedimientos administrativos para la mejora de la gestión presupuestaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2019)</small>
+
+XVI. Verificar la suficiencia presupuestaria para la celebración de los Acuerdos de voluntades para el otorgamiento de apoyos financieros que se celebren con los municipios;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XVII. Suscribir con el Subsecretario de Egresos, Contabilidad y Tesorería, conjuntamente con el Tesorero, los Acuerdos de voluntades para el otorgamiento de apoyos financieros que se celebren con los Municipios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 10 DE ENERO DE 2019)</small>
+
+XVIII. Las demás que le confiera este Reglamento y demás disposiciones normativas aplicables, así como las que expresamente le confiera su superior jerárquico.
 
 ###### Artículo 24.
 
@@ -1143,7 +1163,9 @@ XXXI. Suscribir, conjuntamente con el Coordinador de Control Financiero, los con
 
 XXXII. Suscribir las instrucciones irrevocables de afectación de participaciones federales y demás documentos relacionados con la deuda pública y otras obligaciones de pago;
 
-XXXIII. Suscribir, conjuntamente con el Subsecretario de Egresos, Contabilidad y Tesorería los Convenios de Apoyo Financiero que se celebren con los Municipios;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXXIII. Suscribir con el Subsecretario de Egresos, Contabilidad y Tesorería, conjuntamente con el Director de Presupuesto los Acuerdos de voluntades para el otorgamiento de apoyos financieros que se celebren con los Municipios;
 
 XXXIV. Efectuar los pagos correspondientes a proveedores, contratistas y prestadores de servicio del Poder Ejecutivo, de acuerdo a su disponibilidad financiera y presupuestaria, y
 
@@ -2452,3 +2474,13 @@ MAESTRO CARLOS MELGOZA MARTÍN DEL CAMPO.
 EL CONSEJERO JURÍDICO DEL GOBIERNO DEL ESTADO
 
 MAESTRO JOSÉ OCTAVIO TINAJERO ZENIL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO.- QUE REFORMA EL REGLAMENTO INTERNO DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO”.]
+
+Primero. El presente Reglamento entrará en vigor al día que sea publicado en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Las disposiciones del Presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
