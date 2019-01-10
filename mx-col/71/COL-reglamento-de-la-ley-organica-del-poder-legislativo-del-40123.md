@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2018-10-20"
+last_updated: "2019-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA -- ANTES REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -85,17 +87,15 @@ g) Asamblea: al Pleno del Congreso del Estado; y
 
 h) Grupos parlamentarios: a los Diputados de un mismo partido que se unen para sostener los principios y lineamientos de sus respectivos partidos y coadyuvar al mejor desarrollo del proceso legislativo;
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-i) Recinto Legislativo: Lugar habilitado para que sesione el Pleno del Congreso del Estado de Colima. También puede entenderse como el conjunto arquitectónico que alberga el Congreso del Estado de Colima, incluyendo Salón de Sesiones, Edificio de Oficinas, Estacionamientos, Sala de Juntas y demás bienes inmuebles destinados para su funcionamiento;
+i) Recinto Legislativo: Lugar habilitado para que sesione el Pleno del Congreso del Estado de Colima. También puede entenderse como el conjunto arquitectónico que alberga el Congreso del Estado de Colima, incluyendo Salón de Sesiones, Edificio de Oficinas, Estacionamientos, Sala de Juntas y demás bienes inmuebles destinados para su funcionamiento; y
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 j) Galerías: Las butacas establecidas dentro del Recinto Legislativo, destinadas para que las ocupen invitados y público en general; y
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
-
-k) Unidad de Género: La Unidad de Igualdad de Género del H. Congreso del Estado.
+k) (DEROGADO, P.O. 10 DE ENERO DE 2019)
 
 ###### Artículo 3º.
 
@@ -513,11 +513,11 @@ La Comisión de Gobierno se integrará por los coordinadores de los grupos parla
 
 La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 39.
 
-La Comisión de Gobierno Interno será presidida en los términos previstos por el artículo 47 de la ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría. Cuando existan tres o más grupos parlamentarios se elegirán dos secretarías y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios restantes que ocupen el primer y segundo lugar por el número de diputados que representen; los demás coordinadores tendrán el carácter de vocales.
+La Comisión de Gobierno Interno será presidida en los términos previstos por los artículos 39, 47 y 47 bis de la Ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría. Cuando existan tres o más grupos parlamentarios se elegirán dos secretarías y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios restantes que ocupen el primer y segundo lugar por el número de Diputados que representen; los demás coordinadores y Diputados Únicos tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
@@ -527,17 +527,19 @@ En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, l
 
 En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión de Gobierno, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes que no se hayan adherido o conformado un grupo parlamentario, tendrán exclusivamente derecho a voz.
+Tendrán derecho a voz y voto los Coordinadores de los Grupos Parlamentarios o sus Suplentes acreditados y los Diputados Únicos; los Diputados que sin ser parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, asistan a las sesiones de ésta, tendrán exclusivamente derecho a voz.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 40.
 
-La Comisión de Gobierno se reunirá por lo menos una vez por semana, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
+La Comisión de Gobierno Interno se reunirá por lo menos una vez por semana, durante los períodos ordinarios de sesiones; y fuera de estos las veces que sean necesarias. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
 
-Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá celebrar extraordinarias cuantas veces sea necesario o existan asuntos que lo ameriten a juicio del Presidente o de alguno de los Secretarios, previa convocatoria enviada, por lo menos, con veinticuatro horas de anticipación.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá celebrar reuniones extraordinarias cuantas veces sea necesario o existan asuntos que lo ameriten a juicio del Presidente o de alguno de los Secretarios, previa convocatoria enviada por el Presidente, por lo menos, con seis horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
@@ -555,6 +557,42 @@ Las reuniones de la Comisión de Gobierno se desarrollarán de acuerdo al orden 
 
 La Comisión de Gobierno se auxiliará de una Secretaría Técnica, cuyo titular será nombrado por la mayoría de los integrantes de ésta a propuesta de su Presidente. Dependerá directamente de la Comisión de Gobierno, para auxiliar a ésta en las sesiones, reuniones, minutas, acuerdos y demás atribuciones que expresamente se le encomienden.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Artículo 41 Bis (sic).- Para el adecuado desarrollo de sus sesiones, la Comisión de Gobierno Interno contará con el apoyo de una Secretaría Técnica que, además, dará trámite y seguimiento a los acuerdos y disposiciones que emanen de la misma, para su debido cumplimiento.
+
+Para ser titular de la Secretaría Técnica de la Comisión de Gobierno Interno, se requiere:
+
+I. Contar con la nacionalidad mexicana, en pleno ejercicio de sus derechos civiles y políticos; deberá acreditar, además, residencia en el Estado no menor de dos años;
+
+II. Tener mínimo treinta años de edad;
+
+III. No haber sido dictada sentencia en su contra en un proceso penal por delito doloso; no haber sido declarado en concurso mercantil o suspensión de pagos; ni haber sido inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por resolución administrativa firme;
+
+IV. Contar con título y cédula profesional, debidamente registrados, en la Licenciatura en derecho;
+
+Son facultades y obligaciones de la persona titular de la Secretaría Técnica de la Comisión de Gobierno Interno y Acuerdos Parlamentarios:
+
+I.- La planeación y programación técnica de las sesiones, elaborar el protocolo y ceremonial de su desarrollo y la asistencia a la Presidencia de la Comisión para el desarrollo de las mismas;
+
+II.- Elaboración y revisión de las minutas que elabore la comisión, así como su remisión correspondiente;
+
+III.- Integrar el anteproyecto de orden del día, al que deberá acompañar el acta de la sesión anterior, debiendo enviarlos a las Diputadas y los Diputados integrantes de la Comisión de Gobierno Interno, así como preparar el demás material propio de las sesiones;
+
+IV.- Asistir a todas las sesiones de la Comisión, elaborando el guión correspondiente de la misma;
+
+V.- Asistir a la persona titular de la Presidencia de la Comisión, en el cumplimiento de sus funciones;
+
+VI.- Proporcionar a la Comisión de Gobierno el apoyo jurídico que requieran para el ejercicio de sus facultades y atribuciones;
+
+VII.- Llevar libros de control y seguimiento de los acuerdos y demás comunicaciones de la competencia de la Comisión de Gobierno Interno;
+
+VIII.- Recabar las firmas correspondientes a los acuerdos y las actas de las sesiones de la Comisión de Gobierno Interno;
+
+IX.- Recibir de la Oficialía Mayor o de las direcciones que dependen de la misma toda clase de documentos dirigidos a la Comisión o que deban ser del conocimiento de esta; y
+
+X.- Las demás que le señalen este ordenamiento, la Asamblea, la Comisión de Gobierno o la persona titular de la Presidencia de la misma.
+
 ###### Artículo 42.
 
 Además de las facultades que al Presidente de la Comisión de Gobierno le confiere el artículo 51 de la Ley, tendrá las siguientes:
@@ -567,7 +605,9 @@ II.- Presidir las reuniones ordinarias y extraordinarias que celebre la Comisió
 
 III.- Presentar el plan de trabajo a que se refiere la fracción I del artículo 50 de la Ley; y
 
-IV.- Vigilar el desempeño de la Oficialía Mayor.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IV.- Vigilar el desempeño de los Órganos de Apoyo a la Función Legislativa.
 
 ###### Artículo 43.
 
@@ -603,17 +643,25 @@ El Presidente de cada Comisión presentará en el mes de noviembre de cada año 
 
 Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Asuntos Indigenas y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 47.
 
-Las Comisiones del Congreso, serán las siguientes:
+Las Comisiones del Congreso serán las siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 I.- Justicia, Gobernación y Poderes;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 II.- Responsabilidades;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 III.- Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 IV.- Ciencia, Tecnología e Innovación Gubernamental;
 
@@ -621,7 +669,11 @@ IV.- Ciencia, Tecnología e Innovación Gubernamental;
 
 V.- Salud y Bienestar Social;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 VI.- Estudios Legislativos y Puntos Constitucionales;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VII.- Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
@@ -629,17 +681,31 @@ VII.- Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
 VIII.- Seguridad Pública;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 IX.- Prevención y Reinserción Social;
 
-X.- Planeación, Fomento Económico y Turismo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X.- Planeación y Turismo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XI.- Desarrollo Rural, Fomento Agropecuario y Pesquero;
 
-XII.- Planeación del Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XII.- Desarrollo Urbano, Municipios y Zonas Metropolitanas;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XIII.- Derechos Humanos, Asuntos Indígenas y Atención al Migrante;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XIV.- Protección y Mejoramiento Ambiental;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
@@ -647,11 +713,15 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones, Transportes y Movilidad;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XVII.- Igualdad de Género;
+XVII.- Igualdad y Equidad de Género;
 
-XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XVIII.- Economía;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XIX.- Participación Ciudadana y Peticiones;
 
@@ -663,13 +733,21 @@ XX.- Trabajo y Previsión Social;
 
 XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XXII.- Deporte y Fomento del Sano Esparcimiento; y
+XXII. Deporte y Fomento del Sano Esparcimiento;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XXIII.- Protección Civil.
+XXIII. Protección Civil;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXIV.- Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XXV.- Transparencia y Acceso a la Información.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -879,39 +957,63 @@ IV.- Legislar en materia de Justicia para adolescentes; y
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 57.
 
-Corresponde a la Comisión de Planeación, Fomento Económico y Turismo conocer de los siguientes asuntos:
+Corresponde a la Comisión de Planeación y Turismo conocer de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 I.- El estudio, análisis y dictamen de las iniciativas que se refieran al Sistema Estatal de Planeación Democrática en sus aspectos generales;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 II.- Los que se refieran a las observaciones que se estimen pertinentes al Plan Estatal de Desarrollo y los programas que de él se deriven, cuando el Gobernador del Estado remita dichos documentos para su examen y opinión;
 
-III.- Los relacionados con los programas y acciones encaminados a la consolidación y promoción de las actividades económicas del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IV.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de las Secretarías de Planeación, de Turismo y de Fomento Económico, en los términos de la legislación aplicable; y
+III.- Dictaminar conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, iniciativas en materia de Planeación y Turismo;
 
-V.- Dictaminar conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, iniciativas en materia de Fomento Económico y Turismo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VI.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de la Secretaría de Turismo, en los términos de la legislación aplicable;
+IV.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de las Secretarías de Planeación y Turismo, en los términos de la legislación aplicable;
 
-VII.- Los relacionados con los programas y acciones encaminadas a la consolidación y promoción de la actividad turística;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VIII.- En coordinación con la Comisión, y de Protección y Mejoramiento Ambiental, revisar y analizar periódicamente la Ley de Turismo del Estado de Colima, así como impulsar y formular reformas y adecuaciones necesarias derivadas del dinamismo y diversificación de la actividad, las cuales fortalezcan los esquemas de regulación de la actividad y el desarrollo continuo en el Estado;
+V.- Los relacionados con los programas y acciones encaminadas a la consolidación y promoción de la actividad turística;
 
-IX.- Promover la participación de la Comisión, en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, los Planes Municipales de Desarrollo, así como en la formulación, seguimiento y evaluación del Programa Sectorial de Turismo, ante el Subcomité Sectorial de Ciencia y Tecnología de Comité de Planeación para el Desarrollo del Estado de Colima;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-X.- Participar en Congresos, Simposios, Conferencias y eventos que promuevan las legislaturas de los Estado (sic), los Gobiernos Federal, Estatal o Municipales, los Congresos estatales, así como organizaciones o asociaciones civiles, que promuevan el intercambio de experiencias legislativas exitosas en materia turística y valorar con las dependencias del sector en la entidad, la viabilidad de su aplicación en el Estado;
+VI.- En coordinación con la Comisión de Protección y Mejoramiento Ambiental, revisar y analizar periódicamente la Ley de Turismo del Estado de Colima, así como impulsar y formular reformas y adecuaciones necesarias derivadas del dinamismo y diversificación de la actividad, las cuales fortalezcan los esquemas de regulación de la actividad y el desarrollo continuo en el Estado;
 
-XI.- Promover reformas reglamentarias en los ayuntamientos, congruentes con el marco jurídico vigente en el país y el Estado, en la materia;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XII.- En coordinación con las dependencias federales, estatales y municipales del sector, conocer de los asuntos relacionados con concesiones y el establecimiento de desarrollos turísticos que para tal efecto expidan las autoridades competentes, los términos de las leyes respectivas;
+VII.- Promover la participación de la Comisión, en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, los Planes Municipales de Desarrollo, así como en la formulación, seguimiento y evaluación del Programa Sectorial de Turismo, ante el Subcomité Sectorial de Ciencia y Tecnología de (sic) Comité de Planeación para el Desarrollo del Estado de Colima;
 
-XIII.- En el ámbito de su competencia legislativa, promover el fortalecimiento de la actividad turística en los municipios con recursos turísticos potenciales, como alternativa al turismo tradicional de sol y playa; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XIV.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+VIII.- Participar en Congresos, Simposios, Conferencias y eventos que promuevan las legislaturas de los Estados, los Gobiernos Federal, Estatal o Municipales, así como organizaciones o asociaciones civiles, que promuevan el intercambio de experiencias legislativas exitosas en materia turística y valorar con las dependencias del sector en la entidad, la viabilidad de su aplicación en el Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX.- Promover reformas reglamentarias en los ayuntamientos, congruentes con el marco jurídico vigente en el país y el Estado, en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X.- En coordinación con las dependencias federales, estatales y municipales del sector, conocer de los asuntos relacionados con concesiones y el establecimiento de desarrollos turísticos que para tal efecto expidan las autoridades competentes, en los términos de las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XI.- En el ámbito de su competencia legislativa, promover el fortalecimiento de la actividad turística en los municipios con recursos turísticos potenciales, como alternativa al turismo tradicional de sol y playa; y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XII.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+XIII.- (DEROGADA, P.O. 10 DE ENERO DE 2019)
+
+XIV.- (DEROGADA, P.O. 10 DE ENERO DE 2019)
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -935,29 +1037,67 @@ VII.- Promoverá la gestión y la autogestión de la población de las localidad
 
 VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 59.
 
-Corresponde a la Comisión de Planeación del Desarrollo Urbano y Vivienda conocer de los siguientes asuntos:
+Corresponde a la Comisión de Desarrollo Urbano, Municipios y Zonas Metropolitanas conocer de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 I.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Hacienda, Presupuesto y Fiscalización de Recursos Públicos, sobre la creación de impuestos o derechos especiales, indispensables para la realización de las obras que se contemplen en los planes de urbanización;
 
-II.- El estudio, análisis y dictamen, en coordinación con la Comisión de Hacienda, Presupuesto y Fiscalización de Recursos Públicos, de las iniciativas relacionadas con las (sic) desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+II.- El estudio, análisis y dictamen, en coordinación con la Comisión de Hacienda, Presupuesto y Fiscalización de Recursos Públicos, de las iniciativas relacionadas con la desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 III.- Impulsar, en coordinación con las dependencias del sector, del Gobierno del Estado y los Ayuntamientos, reformas y adecuaciones al marco jurídico estatal en materia de Planeación del Desarrollo Urbano, que le permita a las entidades de la administración pública estatal, inducir eficazmente el fenómeno de urbanización, impulsar un crecimiento más ordenado y equilibrado de las principales ciudades de nuestro estado, en la visión de que el reordenamiento territorial, opere, a la vez, como un mecanismo para el impulso del desarrollo regional y económico de la entidad;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 IV.- Participar en la promoción de la creación o actualización de los planes y programas de desarrollo urbano del Estado y de los Municipios, así como de sus reglamentos de zonificación respectivos;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 V.- Impulsar la realización de estudios técnicos en materia de desarrollo urbano, que le permita al gobierno del Estado, conocer las tendencias y los índices de crecimiento del fenómeno de urbanización, que le permitan eficientar la toma de decisiones, en materia de inversión pública, para la creación de infraestructura social o productiva o como parte de sus estrategias y políticas en materia de fomento de la inversión productiva y de promoción económica;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 VI.- Contribuir en el impulso de programas institucionales en materia de urbanización, para la consolidación de los principales centros de población, sobre la base de un sólido sistema de ciudades, a partir del cual se esté en posibilidades de materializar los proyectos de urbanización necesarios, que hagan posible, en el mediano y largo plazo, la integración (sic) un sistema metropolitano de ciudades y municipios, que mejore las expectativas de crecimiento y desarrollo de las diversas regiones del estado, basado en la cooperación y la coordinación interinstitucional e intersectorial;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VII.- Revisar y adecuar, en su caso, la legislación vigente en materia de vivienda en el Estado, así como en materia de asentamientos humanos, que privilegie la regulación y la inducción del fenómeno de urbanización conforme a los planes y programas de desarrollo urbano del gobierno del estado y los municipios de la entidad;
 
-VIII.- Coadyuvar en el análisis sobre esquemas de financiamiento público y privado para que la población tenga mejores condiciones para la adquisición y mejoramiento de vivienda; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IX.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+VIII.- Coadyuvar en el análisis sobre esquemas de financiamiento público y privado para que la población tenga mejores condiciones para la adquisición y mejoramiento de vivienda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2019)</small>
+
+IX.- Fomentar la cultura y la profesionalización de los servidores públicos municipales, impulsando el servicio civil de carrera en los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+X.- Promover e impulsar en su ámbito de competencia legislativa, el desarrollo municipal y el fortalecimiento de las administraciones municipales, a partir de programas institucionales conjuntos con el poder legislativo y otras entidades públicas del gobierno federal o estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XI.- Desde su ámbito de competencia legislativa, la comisión conocerá de los asuntos que en materia de reforma municipal, impulsen a nivel estatal o federal los gobiernos respectivos;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XII.- Revisar y analizar periódicamente las reformas o adecuaciones que en materia municipal impulse el Congreso de la Unión;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XIII.- Conocer de los asuntos que en materia territorial y conurbada se impulsen, con el propósito de hacer más eficiente la prestación de servicios públicos comunes entre dos o más municipios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2019)</small>
+
+XIV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1051,15 +1191,15 @@ III.- Lo relacionado con la materia de movilidad urbana, sus causas y consecuenc
 
 IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 64.
 
-Corresponde a la Comisión de Igualdad de Género, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Igualdad y Equidad de Género, conocer de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-I.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre el hombre y la mujer, formulando las propuestas que considere convenientes;
+I.- Los programas encaminados a crear una conciencia ciudadana de igualdad y equidad entre el hombre y la mujer, formulando las propuestas que considere convenientes;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -1069,33 +1209,33 @@ II.- Conocer lo relacionado con programas y acciones de los tres órdenes de gob
 
 III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IV.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, las iniciativas en materia de igualdad de género y de acceso de las mujeres a una vida libre de violencia;
+IV.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, las iniciativas en materia de igualdad y equidad de género y de acceso de las mujeres a una vida libre de violencia;
 
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
 V.- Proponer acciones orientadas a lograr la igualdad sustantiva de género en el Honorable Congreso del Estado de Colima;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VI.- Crear espacios de diálogo, así como de intercambio parlamentario con instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de la igualdad de género y de la erradicación de la violencia contra las mujeres;
+VI.- Crear espacios de diálogo, así como de intercambio parlamentario con instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de la igualdad y equidad de género y de la erradicación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VII.- Promover la armonización legislativa en materia de igualdad de género y acceso de las mujeres a una vida libre de violencia, para que el marco jurídico estatal esté acorde a los tratados, convenios y acuerdos internacionales de los que el Estado Mexicano sea parte, y a la legislación nacional;
+VII.- Promover la armonización legislativa en materia de igualdad y equidad de género y acceso de las mujeres a una vida libre de violencia, para que el marco jurídico estatal esté acorde con los tratados, convenios y acuerdos internacionales de los que el Estado Mexicano sea parte, y a la legislación nacional;
 
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
 VIII.- Colaborar con instituciones de educación superior, organizaciones de la sociedad civil, centros de estudio, empresas privadas y con los Poderes Ejecutivo y Judicial, para la elaboración y promoción de publicaciones y contenidos editoriales sobre perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IX.- Podrá participar con voz en el proceso de dictaminación de las demás comisiones legislativas cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género y el acceso de las mujeres a una vida libre de violencia;
+IX.- Podrá participar con voz en el proceso de dictaminación de las demás comisiones legislativas, cuando el asunto o iniciativa en análisis tenga relación con la igualdad y la equidad de género y el acceso de las mujeres a una vida libre de violencia;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-X.- Los referentes a la creación, organización y funcionamiento de las dependencias e instituciones que impulsen la igualdad de género y el acceso de las mujeres a una vida libre de violencia, así como conocer los asuntos en materia normativa y financiera que éstas requieran;
+X.- Los referentes a la creación, organización y funcionamiento de las dependencias e instituciones que impulsen la igualdad y la equidad de género y el acceso de las mujeres a una vida libre de violencia, así como conocer los asuntos en materia normativa y financiera que estas requieran;
 
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -1105,23 +1245,35 @@ XI.- Tener participación en los trabajos de formulación del Plan Estatal de De
 
 XII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 65.
 
-Corresponde a la Comisión de Desarrollo Municipal y Zonas Metropolitanas, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Economía conocer de los siguientes asuntos:
 
-I.- Fomentar la cultura y la profesionalización de los servidores públicos municipales, impulsando el servicio civil de carrera en los Ayuntamientos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-II.- Promover e impulsar en el ámbito de las competencias legislativas, el desarrollo municipal y el fortalecimiento de las administraciones municipales, a partir de programas institucionales conjuntos con el poder legislativo y otras entidades públicas del gobierno federal o estatal;
+I. Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
-III.- Desde el ámbito de sus respectivas competencias legislativas, la comisión conocerá de los asuntos que en materia de reforma municipal, impulsen a nivel estatal o federal los gobiernos respectivos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IV.- Revisar y analizar periódicamente las reformas o adecuaciones que en materia municipal impulse el Congreso de la Unión;
+II. Los asuntos referentes a la sustentabilidad del fomento y desarrollo económico, social, cultural, energético, ambiental y científico;
 
-V.- Conocer de los asuntos que en materia territorial y conurbada se impulsen, con el propósito de eficientar la prestación de servicios públicos comunes entre dos o más municipios; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+III. Los temas relacionados con los bienes y servicios para el mantenimiento de las cadenas productivas, de bienes y servicios del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IV. Los asuntos relacionados con la promoción del desarrollo y fomento económico;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+V. Representar al Congreso ante los organismos gubernamentales, del sector productivo, económico, de servicios y de la sociedad civil en materia económica; y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VI. Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1186,6 +1338,38 @@ II.- Participar en los Planes y Programas que se establezcan dentro del Sistema 
 III.- Proponer acciones y políticas que se consideren deben ajustarse en el marco de Sistema Estatal de Protección Civil; y
 
 IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### Artículo 67 Quater.
+
+Corresponde a la Comisión del Sistema Estatal Anticorrupción, conocer de los siguientes asuntos:
+
+I.- Dar cumplimiento a las obligaciones que competen al Congreso del Estado, derivadas de la Ley del Sistema Anticorrupción del Estado de Colima;
+
+II.- Dar seguimiento a la investigación de casos de corrupción de los servidores públicos;
+
+III.- Solicitar la revisión de contratos o convenios celebrados por cualquier entidad o dependencia de carácter estatal o municipal;
+
+IV.- Solicitar a los órganos que integran el Sistema Anticorrupción del Estado de Colima la información necesaria para el debido ejercicio de sus atribuciones; y
+
+V.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### Artículo 67 Quinquies.
+
+Corresponde a la Comisión de Transparencia y Acceso a la Información, conocer de los siguientes asuntos:
+
+I.- Dar cumplimiento a las obligaciones que correspondan al Congreso del Estado, derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
+
+II.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, las iniciativas que le sean turnadas por la mesa Directiva, relacionadas con los temas de transparencia y rendición de cuentas;
+
+III.- Los relativos con el nombramiento y remoción, en su caso, de las personas que se desempeñen como Presidenta y Comisionados del Instituto de Transparencia y Acceso a la Información Pública del Estado de Colima;
+
+IV.- Los relacionados con el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima por parte de las distintas dependencias y entidades de las administraciones públicas estatal y municipales; y
+
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1271,9 +1455,9 @@ Cuando alguna comisión creyere conveniente demorar o suspender el curso de un e
 
 En los recesos del Congreso, las comisiones continuarán estudiando y despachando los expedientes que se les turnen.
 
-### CAPÍTULO VIII
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2019)</small>
 
-DE LOS ÓRGANOS DE FISCALIZACIÓN Y ADMINISTRACIÓN DEL CONGRESO.
+### CAPÍTULO VIII. DE LOS ÓRGANOS DE APOYO A LA FUNCIÓN LEGISLATIVA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -1299,121 +1483,129 @@ SECCIÓN B
 
 DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 84.
 
-Para el adecuado desempeño de las actividades legislativas, administrativas y jurisdiccionales del Congreso, contará con el apoyo profesional, técnico, y administrativo de la Oficialía Mayor, que estará a cargo de un funcionario llamado Oficial Mayor, que dependerá jerárquicamente de la Comisión de Gobierno.
+Para el adecuado desempeño de sus actividades, el Congreso contará con el apoyo profesional técnico de la Oficialía Mayor, que estará a cargo de una persona titular de la misma, quien dependerá jerárquicamente de la Comisión de Gobierno.
 
-La designación y remoción del Oficial Mayor será propuesta por la Comisión de Gobierno y sometida a consideración de la Asamblea, quien decidirá por mayoría absoluta de sus integrantes.
+La designación y remoción de la persona titular de la Oficialía Mayor corresponde a la Asamblea, por mayoría absoluta, a propuesta de la Comisión de Gobierno Interno. El nombramiento y remoción de las personas titulares de las Direcciones, Jefaturas, Unidades y demás servidores públicos de la Oficialía Mayor será facultad de la Comisión de Gobierno.
 
-El nombramiento de los responsables de área de la Oficialía Mayor, serán hechos por la Comisión de Gobierno con el voto de la mayoría de sus integrantes.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 85.
 
-Para ser Oficial Mayor se requiere:
+Para asumir la titularidad de la Oficialía Mayor, se deberá estar a lo dispuesto por la Ley Orgánica.
 
-I.- Ser mayor de 25 años de edad, en pleno goce de sus derechos, no tener antecedentes penales;
-
-II.- Tener título profesional a nivel de licenciatura, en alguna de las especialidades relacionadas con la función, preferentemente en el área de derecho; y
-
-III.- Tener el perfil profesional y la experiencia para ocupar dicho cargo.
-
-El Oficial Mayor no podrá prestar servicios profesionales en ningún nivel de la administración pública, federal, estatal o municipal, ni desempeñar actividades profesionales privadas.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 86.
 
-Son facultades y obligaciones del Oficial Mayor:
+Son facultades y obligaciones de la persona titular de la Oficialía Mayor:
 
-I.- Coordinar y supervisar el trabajo de las unidades bajo su mando, para el cumplimiento de las responsabilidades, acuerdos y resoluciones de la Asamblea, la Directiva y la Comisión de Gobierno;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+I.- Coordinar y supervisar el trabajo de las Direcciones, Jefaturas y Unidades bajo su mando, para el cumplimiento de las responsabilidades, acuerdos y resoluciones de la Asamblea, la Directiva y la Comisión de Gobierno;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Elaborar y mantener actualizado el inventario general de bienes del Congreso y encargarse del mantenimiento preventivo y correctivo que se requiera;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 III.- Recibir y dar curso a la correspondencia oficial del Congreso;
 
-IV.- Atender los asuntos administrativos y de personal, conjuntamente con el área de administración y aplicar, previo acuerdo de la Comisión de Gobierno, las sanciones administrativas al personal;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-V.- Apoyar a la Secretaría en la elaboración de las actas de las sesiones de la Asamblea y, en su caso, en las de reuniones de las comisiones;
+IV.- Atender los asuntos relativos al personal bajo su mando y aplicar, previo acuerdo de la Comisión de Gobierno, las sanciones respectivas;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+V.- Apoyar, por medio de la Dirección Jurídica, en los trabajos propios de las comisiones;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VI.- Llevar los libros, registros y demás documentos necesarios para el control y seguimiento de los asuntos del Congreso;
 
-VII.- Ser el responsable directo de la elaboración y cuidado del Diario de los Debates;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VII.- Tener bajo su cuidado la elaboración del Diario de Debates, misma que estará a cargo de la Secretaría Técnica de la Oficialía Mayor, en coordinación con la Jefatura de Informática;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VIII.- Responsabilizarse de la entrega de los citatorios a los Diputados;
 
-IX.- Expedir los nombramientos del personal de la Oficialía Mayor, previo acuerdo de la Comisión de Gobierno y encargarse del manejo de todo el personal adscrito al Congreso;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX.- Expedir los nombramientos de los servidores públicos adscritos al Congreso o a sus órganos de apoyo, previo acuerdo de la Comisión de Gobierno;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 X.- Proporcionar a todos los Diputados el apoyo necesario para que cuenten con los documentos indispensables para el desempeño de sus actividades;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XI.- Acordar con la Comisión de Gobierno y la Directiva, los asuntos que serán incluidos en el orden del día de una sesión;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XII.- Coordinar los servicios de apoyo necesarios para la celebración de las sesiones de la Asamblea, de las Comisiones y demás reuniones que celebre el Congreso;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XIII.- Acordar con la Comisión de Gobierno las cuestiones administrativas, financieras y de suministros de bienes y servicios a los Diputados, grupos parlamentarios y Comisiones;
 
-XIV.- Supervisar la expedición y envío de los documentos legislativos que deban publicarse en el Periódico Oficial “El estado de Colima”;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-XV.- Vigilar y supervisar el ejercicio del presupuesto de egresos del Poder Legislativo;
+XIV.- Supervisar la expedición y envío de los documentos legislativos que deban publicarse en el Periódico Oficial "El estado de Colima";
 
-XVI.- Coadyuvar con la Comisión de Gobierno en la elaboración del presupuesto de ingresos y egresos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XVII.- Ser el responsable de dar respuesta a las solicitudes de información que formulen los ciudadanos en los términos de la Ley de Trasparencia y Acceso a la Información Pública y mantener actualizada la página web del Poder Legislativo con la información mínima que señala la propia ley; y
+XV.- Supervisar el ejercicio del presupuesto de egresos del Poder Legislativo;
 
-XVIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-#### SECCIÓN C. DE LOS ÓRGANOS DE APOYO DE LA OFICIALÍA MAYOR
+XVI.- Coadyuvar con la Comisión de Gobierno en la elaboración del presupuesto de ingresos y egresos del Poder Legislativo; y
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+XVII.- (DEROGADA, P.O. 10 DE ENERO DE 2019)
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XVIII.- Las demás que le confieran la Ley, este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2019)</small>
+
+#### SECCIÓN C. DE LAS ÁREAS DE APOYO DE LA OFICIALÍA MAYOR
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones de Proceso Legislativo; Administración, Finanzas y de Servicios Generales; Servicios Documentarios; Jurídica y de Comunicación Social. Además, contará con una Contraloría y una Unidad de Igualdad de Género.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y Servicios Generales, y Jurídica. Asimismo, tendrá una Jefatura de Comunicación Social y las siguientes Unidades: de Igualdad y Equidad de Género, y de Seguridad y Logística; además, la persona titular de la Oficialía Mayor será apoyada por una Secretaría Técnica y una Oficialía de Partes.
 
 ###### Artículo 87 Bis.
 
-Corresponde a la Contraloría:
+(DEROGADO, P.O. 10 DE ENERO DE 2019)
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
-
-I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley General de Responsabilidades Administrativas, tratándose del personal administrativo del Poder Legislativo, poniéndolos en estado de resolución para someterlos a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y hacer efectiva las sanciones que esta determine;
-
-II.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación del personal del Poder Legislativo;
-
-III.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
-
-IV.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
-
-V.- Asesorar en el ámbito de su competencia a los Órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
-
-VI.- Evaluar los criterios que regulen el funcionamiento, de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
-
-VII.- Vigilar que los procesos de las licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, se ajusten a las disposiciones contenidas en la ley de la materia;
-
-VIII.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
-
-IX.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, así como las dependencias del Poder Legislativo;
-
-X.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como los recursos materiales y financieros del Poder Legislativo;
-
-XI.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
-
-XII.- Informar anualmente a la Asamblea, por conducto del Presidente de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, de las labores desarrolladas; y
-
-XIII.- Las demás que le señalen los ordenamientos legales aplicables o que determine la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 88.
 
-Corresponde a la Dirección de Proceso Legislativo:
+La Dirección de Proceso Legislativo tiene como objetivo proveer a las Diputadas y los Diputados, así como a las áreas y unidades legislativas, los servicios de apoyo jurídico para la realización de las sesiones y actos del Congreso. Su titular dependerá jerárquicamente de la Oficialía Mayor. Esta Dirección contará con dos Jefaturas: una de Asistencia Técnica a la Mesa Directiva y otra de Servicios de las Sesiones del Pleno.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Para ser titular de la Dirección de Proceso Legislativo, se requiere cumplir con los requisitos señalados en el tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá contar con Licenciatura en Derecho.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y REUBICADO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO], P.O. 10 DE ENERO DE 2019)</small>
+
+Son facultades y obligaciones de la persona titular de la Dirección de Proceso Legislativo:
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 I. La planeación y programación técnica de las sesiones, elaborar el protocolo y ceremonial de su desarrollo y la asistencia a la Mesa Directiva para el desarrollo de las mismas;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 II. La realización de minutas y su remisión correspondiente;
 
@@ -1421,161 +1613,275 @@ II. La realización de minutas y su remisión correspondiente;
 
 III. Asistir a todas las sesiones de la Asamblea, elaborando el guión correspondiente de la misma;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IV. Integrar el Proyecto de orden del día, acta y síntesis de comunicaciones, debiéndolos enviar a los Diputados por medio electrónico, así como realizar el demás material propio de las sesiones;
+IV. Integrar el anteproyecto de orden del día, acta y síntesis de comunicaciones, debiendo enviarlos con la anticipación necesaria a las Diputadas y los Diputados, por medio electrónico, así como recopilar el demás material propio de las sesiones;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 V.- Llevar libros de control y seguimiento que se dé a las iniciativas de Ley, Decreto, Acuerdo, y acuerdos económicos y demás comunicaciones de la competencia del Congreso;
 
-VI. Asistir al Oficial Mayor en el cumplimiento de sus funciones dentro del proceso legislativo, mediante la elaboración del Libro de Actas y Decretos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VII. Enviar para su publicación en el Periódico Oficial del Estado las Actas de las sesiones;
+VI. Asistir a la persona titular de la Oficialía Mayor en el cumplimiento de sus funciones dentro del proceso legislativo, mediante la elaboración del Libro de Actas y Decretos;
 
-VIII. Elaborar las certificaciones de documentos propios del proceso legislativo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IX. Recibir del Oficial Mayor toda clase de documentos para información, archivo o trámite legislativo;
+VII. Enviar para su publicación en el Periódico Oficial “El Estado de Colima” las Actas de las sesiones del Congreso;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VIII. Elaborar las certificaciones de documentos propios del proceso legislativo, las cuales deberán ser firmadas por quienes desempeñen las Secretarías de la Directiva del Congreso;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX. Recibir de la persona titular de la Oficialía Mayor toda clase de documentos relacionados con el proceso legislativo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 X. Llevar el registro y control de expedientes, iniciativas, leyes, decretos y acuerdos que expida el Congreso;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XI. Registrar y tramitar los expedientes que deban ser sometidos al conocimiento de la Asamblea y dar seguimiento a los trámites y resoluciones que sobre ellos se tomen;
 
-XII. Proporcionar a los Diputados el apoyo que requieran para el desempeño de sus actividades legislativas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-XIII. Preparar, con el apoyo del área de informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial "El Estado de Colima";
+XII. Proporcionar a la Asamblea, a la Mesa Directiva y a la Comisión de Gobierno el apoyo jurídico legislativo que requieran para el ejercicio de sus facultades y atribuciones;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+XIII. Preparar, con el apoyo de la Jefatura de Informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial “El Estado de Colima”;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XIV. Revisar, en coordinación con la Dirección Jurídica, los dictámenes que elaboren las comisiones, antes de su presentación a la Asamblea; y
 
-XV. Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+XV. Las demás que en materia jurídico legislativa le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 89.
 
-Corresponde a la Dirección de Administración, Finanzas y Servicios Generales:
+La Dirección de Administración, Finanzas y Servicios Generales tiene como objetivo brindar apoyo al Congreso del Estado de Colima en materia administrativa, financiera, contable, de informática y de servicio técnico. La persona titular de la misma dependerá jerárquicamente de la Oficialía Mayor. Esta dirección contará con las siguientes Jefaturas: de Recursos Materiales y Patrimonio; de Servicios Generales; de Recursos Humanos; de Finanzas y Contabilidad; y de Informática.
 
-I.- Encargarse de la organización y control del personal adscrito a las diferentes áreas del Congreso, conforme a las disposiciones legales aplicables y a los criterios que sobre el particular establezcan la Comisión de Gobierno y el Oficial Mayor;
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Para ser titular de la Dirección de Administración, Finanzas y Servicios Generales, se requiere cumplir con los requisitos señalados en el tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá contar con Licenciatura en Contaduría Pública, Administración, Finanzas o carrera afín.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y REUBICADO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO], P.O. 10 DE ENERO DE 2019)</small>
+
+Son facultades y obligaciones de la persona titular de la Dirección de Administración, Finanzas y Servicios Generales:
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+I.- Encargarse de la organización y control del personal adscrito a las diferentes áreas del Congreso, conforme a las disposiciones legales aplicables y a los criterios que sobre el particular establezcan la Comisión de Gobierno y la persona titular de la Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Elaborar y ejecutar programas de capacitación y adiestramiento de personal administrativo y efectuar, de acuerdo con las disposiciones de protección civil, los simulacros de evacuación y seguridad, dentro de las instalaciones del Congreso;
 
-III.- Elaborar el anteproyecto de presupuesto de egresos del Poder Legislativo, bajo los lineamientos que le señale la Comisión de Gobierno y el Oficial Mayor;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+III.- Elaborar el anteproyecto de presupuesto de egresos del Poder Legislativo, bajo los lineamientos que le señalen la Comisión de Gobierno y la persona titular de la Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 IV.- Tramitar ante las autoridades correspondientes, los recursos necesarios para ejercer el presupuesto de egresos del Poder Legislativo;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 V.- Efectuar todos los pagos que se requieran de acuerdo con los programas y presupuestos aprobados;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VI.- Vigilar y controlar el ejercicio presupuestal, mediante registro contable de todos los egresos;
 
-VII.- Informar bimestralmente a la Comisión de Gobierno, sobre el estado de origen y aplicación de recursos y proporcionar en general los informes que le requiera;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VIII.- Vigilar que los fondos sean aplicados correctamente, así como efectuar las auditorías internas que se requieran o cuando la Comisión de Gobierno lo estime conveniente;
+VII.- Informar trimestralmente a la Comisión de Gobierno y a la persona titular de la Oficialía Mayor sobre el estado de origen y aplicación de recursos, y proporcionar en general los informes que le requieran;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VIII.- Supervisar que los fondos sean aplicados correctamente;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 IX.- Llevar el registro de los bienes muebles e inmuebles propiedad del Congreso o asignados al mismo;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 X.- Suministrar los recursos materiales que le soliciten las unidades administrativas o los Diputados y proporcionar los servicios generales;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XI.- Programar y supervisar las acciones de mantenimiento preventivo para todos los bienes muebles e inmuebles propiedad del Congreso;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XII.- Programar y ejecutar las adquisiciones de bienes y servicios que requiera el Congreso;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 XIII.- Encargarse de las labores de mantenimiento, limpieza y fumigación; y
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XIV.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
 
 El Director de Administración, Finanzas y Servicios generales deberá ser preferentemente Contador Público o Licenciado en Administración de Empresas, con una experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir con los requisitos que señala el artículo 85 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
 ###### Artículo 90.
 
-La Dirección de Servicios Documentarios tendrá las facultades y obligaciones siguientes:
+(DEROGADO, P.O. 10 DE ENERO DE 2019)
 
-I.- Custodiar, organizar y clasificar el material documentario del archivo histórico, administrativo y de la biblioteca legislativa;
-
-II.- Apoyar, en materia de información y documentación histórico-legislativa, a los Diputados, grupos parlamentarios y comisiones;
-
-III.- Proporcionar servicios de consulta al público en general;
-
-IV.- Proporcionar a la Dirección de Procesos Legislativos, en los términos que requiera, la información necesaria para el cumplimiento de sus obligaciones con los Diputados;
-
-V.- Crear y mantener actualizado un Programa de Sistema de Información, que permita establecer una base de datos para el control de la estadística y archivo de los decretos emitidos por el Pleno en cada Legislatura, para que pueda ser útil a la labor parlamentaria.
-
-El programa deberá contener mínimo 3 vértices:
-
-1.- Por número de Decreto;
-
-2.- Por nominación de modificaciones, adiciones o derogaciones; y
-
-3.- Por descripción general del contenido; y
-
-VI.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
-
-El Director de Servicios Documentarios deberá ser licenciado en cualquiera de las especialidades de la materia, con una experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir con los requisitos que señala el artículo 85 de este Reglamento.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 91.
 
-La Dirección Jurídica tendrá las facultades y obligaciones siguientes:
+La Dirección Jurídica tiene como objetivo atender los asuntos jurídicos del Congreso, tanto de carácter consultivo como contencioso. Su titular dependerá jerárquicamente de la persona titular de la Oficialía Mayor. Esta Dirección contará con dos Jefaturas, una contenciosa y otra de carácter consultivo.
 
-I.- Asesorar en materia jurídica al Congreso, así como en lo particular a los Diputados que lo soliciten;
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
-II.- Apoyar al área de proceso legislativo en la elaboración de los proyectos de leyes, decretos y acuerdos;
+Para ser titular de la Dirección Jurídica, se requiere cumplir con los requisitos señalados en el tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá contar con Licenciatura en Derecho.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y REUBICADO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO], P.O. 10 DE ENERO DE 2019)</small>
+
+Son facultades y obligaciones de la persona titular de la Dirección Jurídica:
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+I.- Asesorar en materia jurídica al Congreso, así como en lo particular a las Diputadas y los Diputados que lo soliciten;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+II.- Elaborar los proyectos de leyes, decretos y acuerdos;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 III.- Revisar los dictámenes que elaboren las comisiones, cuando así se lo soliciten sus Presidentes o la Oficialía Mayor;
 
-IV.- Intervenir, previo acuerdo de la Comisión de Gobierno, en los juicios en los que el Congreso sea parte;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IV.- Intervenir, previo acuerdo de la Comisión de Gobierno, o previa habilitación del Presidente de la Mesa Directiva, en los juicios en los que el Congreso sea parte;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 V.- Llevar el control de los juicios en que sea parte el Congreso, cuidando de que las promociones que deban presentarse en los mismos se hagan dentro de los términos que marca la legislación respectiva;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 VI.- Elaborar, conjuntamente con la Oficialía Mayor y el Presidente de la Directiva, los informes previos y justificados que deba rendir el Congreso en los juicios de amparo en que sea señalado como autoridad responsable:
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 VII.- Apoyar a la Comisión de Responsabilidades y a la Oficialía Mayor en la integración de los expedientes de Juicio Político y Jurado de Procedencia y encargarse a petición de la mencionada Comisión, de efectuar las notificaciones que (sic) a las partes y apoyar el desahogo de las audiencias respectivas; y
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
 
 El Director Jurídico deberá ser licenciado en derecho, con una experiencia profesional de por lo menos 5 años anterior a la designación y cumplir con los requisitos que señale el artículo 85 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 92.
 
-La Dirección de Comunicación Social tendrá las facultades y obligaciones siguientes:
+La persona titular de la Jefatura de Comunicación Social tendrá las facultades y obligaciones siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 I.- Encargarse de la atención a los reporteros que cubren la fuente, proporcionándoles la información sobre las actividades del Congreso;
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 II.- Ser instancia de apoyo para la Asamblea, la Directiva, la Comisión de Gobierno y las comisiones en cuanto a la elaboración y difusión de sus actividades legislativas;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 III.- Encargarse de preparar diariamente la síntesis local y nacional de noticias, que deberá entregar a los Diputados al inicio de las labores del día; y
 
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 IV.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
 
-El Director de Comunicación Social, deberá ser preferentemente un licenciado en Comunicación Social con una experiencia profesional de por lo menos 5 años de experiencia y cumplir los requisitos que señala el artículo 85.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+Para ser titular de la Jefatura de Comunicación Social se requiere cumplir los requisitos señalados en las fracciones del tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá ser Licenciado en Comunicación Social o áreas afines.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 92 Bis.
 
-La Unidad de Igualdad de Género tendrá las facultades y obligaciones siguientes:
+La Unidad de Igualdad y Equidad de Género tendrá las facultades y obligaciones siguientes:
 
-l.- Promover acciones para institucionalizar y transversalizar las materias de igualdad entre mujeres y hombres y de acceso de las mujeres a una vida libre de violencia en el Congreso del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-II.- Coordinar esfuerzos con la Comisión de Igualdad de Género del Congreso, para auxiliar a ésta en sus funciones;
+I.- Promover acciones para institucionalizar la Igualdad y la Equidad entre mujeres y hombres, y para hacer efectivo en el Congreso del Estado el acceso de las mujeres a una vida libre de violencia;
 
-III.- Informar mensualmente a la Comisión de Igualdad de Género del Congreso de las acciones, políticas y programas efectuados para alcanzar la igualdad de género dentro del Congreso;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+II.- Coordinar esfuerzos con la Comisión de Igualdad y Equidad de Género del Congreso, para auxiliar a esta en sus funciones;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+III.- Informar mensualmente a la Comisión de Igualdad y Equidad de Género del Congreso de las acciones, políticas y programas efectuados para alcanzar la igualdad y equidad de género dentro del Congreso;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
 IV.- Impulsar las acciones y las estrategias encaminadas a institucionalizar el lenguaje incluyente como parte del trabajo cotidiano de todas las áreas que integran el Congreso del Estado, para contribuir a que los documentos legislativos se redacten evitando un uso sexista del lenguaje;
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
 V.- Gestionar la incorporación y transversalidad de la perspectiva de género en la planeación, programación y presupuestación del Congreso;
 
-VI.- Coordinar la formación, capacitación y certificación del personal en materia de género e igualdad;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-VII.- Crear y administrar un sistema informativo, de registro, seguimiento y evaluación de la situación de igualdad entre mujeres y hombres, así como de violencia contra las mujeres, al interior del Congreso; y
+VI.- Coordinar la formación, capacitación y certificación del personal en materia de igualdad y equidad de género;
 
-VIII.- Elaborar y remitir a la Comisión de Igualdad de Género del Congreso del Estado, los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
-El Titular de la Unidad de Igualdad de Género del Congreso, deberá cumplir con los mismos requisitos que señalan las fracciones I y II del artículo 85 de este Reglamento, y tener cuando menos 3 años de experiencia en materia de género.
+VII.- Crear y administrar un sistema informativo, de registro, seguimiento y evaluación de la situación de igualdad sustantiva entre mujeres y hombres, así como de violencia contra las mujeres, al interior del Congreso;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+
+VIII.- Elaborar y remitir a la Comisión de Igualdad y Equidad de Género del Congreso los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad y equidad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Para ser titular de la Unidad de Igualdad y Equidad de Género del Congreso, se requiere cumplir con los requisitos señalados en las fracciones del tercer párrafo del artículo 63 de la Ley; por lo que ve a la experiencia profesional, deberá acreditar mínimo tres años en materia de igualdad y equidad de género.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+
+###### Artículo 92 Ter.
+
+La Unidad de Seguridad y Logística tendrá las facultades y obligaciones siguientes:
+
+I.- Tener a su cargo la seguridad del recinto legislativo, tanto en lo que ve a las instalaciones, como a los servidores públicos que laboran dentro del mismo;
+
+II.- La planificación a corto, mediano y largo plazo de todo tipo de actividades referentes a seguridad dentro del recinto legislativo;
+
+III.- Capacitar, mediante cursos y conferencias, al personal a su cargo en diversas áreas relacionadas con el buen funcionamiento del orden y la seguridad dentro del recinto legislativo;
+
+IV.- Mantener coordinación con las diversas áreas y unidades de la Oficialía Mayor, en cuanto al protocolo, orden y seguridad, para cumplir eficazmente con sus funciones;
+
+V.- Mantener informada a la persona titular de la Oficialía Mayor en todo lo referente a la seguridad del Poder Legislativo, así como lo relativo a la consecución de logros y metas propuestos;
+
+VI.- Efectuar prácticas que permitan poner en ejecución planes de contingencia, referentes a siniestros, desastres naturales o cualquier eventualidad que pudiera ocurrir dentro del recinto legislativo;
+
+VII.- Instrumentar controles para el registro e identificación del ingreso de personas al Recinto Legislativo;
+
+VIII.- Ser el responsable directo de la guarda, custodia y almacenaje de las videograbaciones del circuito cerrado y vigilancia con que cuente el Congreso, las cuales en modo alguno serán difundidas sin que al efecto se otorgue autorización expresa por parte de la Comisión de Gobierno; y
+
+IX.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
+
+Para ser titular de la Unidad de Seguridad y Logística se requiere cumplir con los requisitos señalados en las fracciones del tercer párrafo del artículo 63, de la Ley. Tratándose de la IV, deberá acreditar experiencia mínima de cinco años en materia de seguridad.
 
 ### CAPÍTULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1877,7 +2183,7 @@ Las iniciativas dictaminadas y no aprobadas, no podrán volverse a presentar sin
 
 Las comisiones a las que se turnen las iniciativas, rendirán su dictamen al Congreso por escrito en la forma y términos que señalan los artículos 91 y 92 de la Ley y 44 y 75 de este Reglamento.
 
-En los casos en que la Ley, este Reglamento o cualquier otra disposición normativa específica señale (sic) un término diferente para la elaboración y presentación a la Asamblea de los dictámenes a cargo de las Comisiones, se estará a lo dispuesto en esos ordenamientos.
+En los casos en que la Ley, este Reglamento o cualquier otra disposición normativa específica señale un término diferente para la elaboración y presentación a la Asamblea de los dictámenes a cargo de las Comisiones, se estará a lo dispuesto en esos ordenamientos.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1975,7 +2281,7 @@ Formulada la proposición, será puesta a discusión inmediatamente, pudiendo ha
 
 Se necesita el voto de la mayoría de los Diputados presentes para:
 
-l.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por el Ejecutivo; y
+I.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por el Ejecutivo; y
 
 II.- Discutir con preferencia cualquier dictamen de los designados por el Presidente.
 
@@ -2155,7 +2461,9 @@ En casos análogos, el Supremo Tribunal de Justicia será representado por su Pr
 
 Durante el debate, pedirán y harán uso de la palabra, bajo las mismas reglas y condiciones establecidas para los Diputados.
 
-Para los efectos de este artículo, el Oficial Mayor del Congreso avisará oportunamente y de manera fehaciente, a las autoridades señaladas, de la fecha de la sesión y del asunto respectivo. De la misma manera, las autoridades acreditarán a sus representantes. Las comisiones, a través de sus Presidentes, invitarán o citarán a las autoridades y representantes mencionados, a las sesiones en la que discutirán algún asunto de su competencia.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+
+Para los efectos de este artículo, la persona titular de la Oficialía Mayor del Congreso avisará oportunamente y de manera fehaciente, a las autoridades señaladas, de la fecha de la sesión y del asunto respectivo. De la misma manera, las autoridades acreditarán a sus representantes. Las comisiones, a través de sus Presidentes, invitarán o citarán a las autoridades y representantes mencionados, a las sesiones en las que discutirán algún asunto de su competencia.
 
 Los servidores públicos señalados en el presente artículo, no podrán hacer proposiciones ni adicionar las presentadas por los Diputados, únicamente expondrán las opiniones de los Poderes Ejecutivo y Judicial o de los Ayuntamientos y se limitarán a rendir los informes que se les pidan y a contestar las interpelaciones que se les dirijan, en relación con el asunto a discusión.
 
@@ -2555,11 +2863,11 @@ El Congreso también se erigirá en Colegio Electoral cuando designe Concejo Mun
 
 En los términos de los artículos 37 de la Constitución y 104 de la Ley, durante los períodos de receso del Congreso, funcionará una Comisión Permanente, que se integrará por 7 Diputados, electos dentro de los 3 días anteriores a la clausura de un período ordinario de sesiones; dos que serán el Presidente y Vicepresidente, dos Secretarios y los últimos tres tendrán el carácter de vocales.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
 ###### Artículo 207.
 
-La Comisión Permanente entrará en función inmediatamente después de clausurados los trabajos del período ordinario y su sesión de instalación será al día siguiente, debiendo sesionar a partir de ese día por lo menos una vez a la semana, preferentemente los miércoles, pudiendo ser diferidas las sesiones, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Comisión Permanente.
+La Comisión permanente entrará en función inmediatamente después de clausurados los trabajos del periodo ordinario y de que se haya efectuado su sesión de instalación, debiendo sesionar por lo menos una vez a la semana.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3042,3 +3350,15 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS; 12; 15; FRACCIONES XI Y XVII DEL ARTÍCULO 23; 24; FRACCIÓN II DEL 25; 30; FRACCIONES I Y XX DEL 42; FRACCIÓN XIII DEL 45; FRACCIÓN V DEL 50; 57; PÁRRAFO PRIMERO DEL 61; 80; FRACCIÓN VIII DEL 91; FRACCIÓN II DEL 95; PÁRRAFO PRIMERO DEL 99; PÁRRAFO TERCERO DEL 100; 101 Y 106; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 76; UN PÁRRAFO SEGUNDO Y LA FRACCIÓN VI AL ARTÍCULO 83, Y SE DEROGAN LOS ARTÍCULOS 16; 17; LA FRACCIÓN I DEL 77; 102, Y 103 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1°; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 14; LOS ARTÍCULOS 19; 34; FRACCIÓN III DEL 37; 46; FRACCIÓN XIV DEL 48; 49; FRACCIÓN III DEL 53; 54; 70; 83; 87; FRACCIÓN I DEL 87 BIS; FRACCIÓN V DEL 88; PÁRRAFO PRIMERO DEL 105; 109; 113; 173; 206; EL CAPÍTULO XXIII DENOMINADO DEL JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA QUEDAR “DEL JUICIO POLÍTICO”; 215; 242; 243, 244, 245; ASÍ MISMO SE ADICIONA EL ARTÍCULO 196 BIS; Y SE_DEROGA EL ARTÍCULO 18; LA SECCIÓN A DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 216, 217, 218, 219, 220, 221, 222 Y 223; LA SECCIÓN B DEL CAPÍTULO XXXIII (SIC) QUE INTEGRAN LOS ARTÍCULOS 224, 225, 226 Y 227; LA SECCIÓN C DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238 Y 239 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 26 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
+
+PRIMERO.- El Decreto entrará en vigor el día 01 de enero de 2019, y deberá ser publicado en el Periódico Oficial "El Estado de Colima", con las salvedades apuntadas en los transitorios siguientes.
+
+SEGUNDO.- La Dirección de Servicios Documentarios continuará realizando las facultades consignadas en el actual numeral 90 del Reglamento de la Ley Orgánica del Poder Legislativo, en tanto se efectúan los ajustes presupuestarios requeridos para la creación del Instituto de Profesionalización e Investigaciones Parlamentarias. Realizado lo anterior, la actual plantilla de capital humano adscrita a la Dirección de Servicios Documentarios pasará a formar parte del referido Instituto.
+
+TERCERO.- En un término no mayor a 30 treinta días hábiles posterior a la aprobación del presente dictamen, deberán ser expedidos los Reglamentos internos de la Contraloría Interna y del Instituto de Profesionalización e Investigaciones Parlamentarias, ambos del H. Congreso del Estado, así como aprobado el tabulador salarial correspondiente al ejercicio fiscal 2019, en el que se incluyan los ajustes correspondientes a las dependencias que fueron creadas en términos del presente decreto.
+
+CUARTO.- La Oficialía Mayor y las Direcciones de Proceso Legislativo, de Finanzas, Administración y Servicios Generales, y Jurídica, por conducto de sus titulares, en un término improrrogable de 60 días naturales posteriores al inicio de vigencia del presente Decreto, deberán expedir los manuales de procedimientos de sus áreas, a efecto de determinar la máxima eficiencia de las tareas del personal a su cargo.
