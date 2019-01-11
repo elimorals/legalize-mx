@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-132157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-08"
-last_updated: "2019-01-08"
+last_updated: "2019-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-11-29"
 ---
 # REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE ENERO DE 2019.]
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 8 de enero de 2019.
 
@@ -997,4 +997,6 @@ Tercero. Los manuales y disposiciones expedidos con fundamento en el reglamento 
 
 Así se aprobó por mayoría de los integrantes del pleno del tribunal superior agrario, en sesión de 29 de noviembre de 2018.- Firma la magistrada presidente ODILISA GUTIÉRREZ MENDOZA, ante el secretario general de acuerdos, JOSÉ GUADALUPE RAZO ISLAS quien da fe.
 
-Ciudad de México, a 29 de noviembre de 2018.- La Magistrada Presidente, Odilia Gutiérrez Mendoza.- Rúbrica.
+> <small>(F. DE E., D.O.F. 11 DE ENERO DE 2019)</small>
+
+Ciudad de México, a 29 de noviembre de 2018.- magistrada presidente, doctora Odilisa Gutiérrez Mendoza.
