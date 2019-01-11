@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-761
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-06"
-last_updated: "2018-03-30"
+last_updated: "2019-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2010.
 
@@ -1873,73 +1873,161 @@ XIV.- Las demás que les encomienden sus superiores jerárquicos y aquellas que 
 
 ### CAPÍTULO SEGUNDO. DIRECCIÓN DE ESTRATEGIAS CONTRA EL CRIMEN
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 83.
 
-La Dirección de Estrategias contra el Crimen contará con un titular, el cual dependerá directamente del Procurador, y tendrá a su cargo las áreas de información, análisis y estrategias, y los servidores públicos necesarios para el desempeño de sus funciones.
+La Dirección de Estrategias contra el Crimen contará con un titular, el cual dependerá directamente del Procurador, y tendrá a su cargo las áreas siguientes:
+
+I.- Unidad de Análisis de Información;
+
+II.- Unidad de Estadística y Análisis Delictivo;
+
+III.- Unidad de Política Criminal, Planeación y Evaluación.
+
+La Dirección contará con los analistas y demás servidores públicos necesarios para el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 84.
 
 La Dirección de Estrategias contra el Crimen tendrá las siguientes atribuciones:
 
-I.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de la Dirección;
+I.- Planear, programar, organizar, evaluar y dirigir su funcionamiento;
 
-II.- Proponer al Procurador la celebración de acuerdos de colaboración con instituciones similares, referente a los índices de criminalidad de la entidad e intercambio de información;
+II.- Proponer al Procurador la celebración de convenios y/o acuerdos para el intercambio de información con agencias de los tres órdenes de gobierno, instituciones y organismos de los sectores social y privado;
 
-III.- Coordinar el intercambio de información con autoridades federales, estatales, municipales, y del extranjero, en materia de estudios estadísticos, criminológicos y de innovación tecnológica;
+III.- Diseñar y proponer mecanismos e instrumentos de coordinación interinstitucional en materia de política criminal y dar seguimiento a aquellos que involucren a la institución, así como articular el intercambio de información con autoridades federales, estatales, municipales y del extranjero en materia de estudios estadísticos, criminológicos e innovación tecnológica;
 
-IV.- Coordinarse para la realización de estudios y análisis de información, con los titulares de las Unidades de Investigación o Agentes del Ministerio Público, en seguimiento a la integración de las investigaciones;
+IV.- Coordinarse para la realización de estudios y análisis de información, con los titulares de las unidades de investigación y Agencias del Ministerio Público, en seguimiento a la integración de las investigaciones, registros de investigación y demás actuaciones ministeriales, estableciendo líneas de investigación policial, construyendo las teorías del caso y fortaleciendo acusaciones mediante medios de prueba que vinculen al imputado con la comisión del hecho delictivo, según sea el caso;
 
-V.- Proponer estrategias basadas en modelos estadísticos y utilización de tecnologías de la información para el combate a la delincuencia;
+V.- Proponer estrategias basadas en los modelos estadísticos y la utilización de tecnologías de la información, para el combate a la delincuencia;
 
-VI.- Evaluar permanentemente los resultados obtenidos en la implementación de operativos preventivos, de vigilancia e investigación, que como estrategias haya recomendado la propia Dirección, con la finalidad de emitir nuevos replanteamientos;
+VI.- Evaluar permanentemente los resultados obtenidos en la implementación de operativos preventivos, de vigilancia e investigación, que como estrategias haya recomendado la propia Dirección, con la finalidad de emitir nuevos planteamientos;
 
-VII.- Sugerir acciones que permitan diseñar y mantener actualizadas las bases de datos de estadística delictiva y otro tipo de información de apoyo a la toma de decisiones en materia de seguridad pública, seguridad ciudadana y política criminal;
+VII.- Sugerir acciones que permitan diseñar y mantener actualizadas las bases de datos de estadística delictiva y todo tipo de información de apoyo a la toma de decisiones en materia de seguridad pública, seguridad ciudadana y política criminal;
 
 VIII.- Proponer la creación de bases de datos sistematizados y actualizados que habrán de acompañarse a los programas de investigación científica en la materia;
 
-IX.- Informar al Procurador de los comportamientos delictuales que se generen en la entidad, las medidas aplicadas, los resultados obtenidos y evaluaciones efectuadas, así como la estadística general;
+IX.- Informar al Procurador de los comportamientos delictuales que se generen en la Entidad, las medidas aplicadas, los resultados obtenidos, las evaluaciones efectuadas y, la estadística general;
 
 X.- Rendir informe mensual al Procurador de las actividades realizadas en el ámbito de sus atribuciones;
 
-XI.- Coordinar con el Departamento de Informática el acceso a las bases de la información a su cargo, para los servidores públicos del Ministerio Público y de investigación ministerial, bajo criterios de seguridad;
+XI.- Coordinar, establecer y proponer las políticas, instrumentos y protocolos de seguridad para el acceso a las bases de información por parte de los Agentes del Ministerio Público, Agentes de la Policía Ministerial, peritos y demás servidores públicos de la Procuraduría;
 
-XII.- Instrumentar estrategias de obtención de información veraz de las unidades de la Procuraduría para alimentar bases de datos;
+XII.- Proponer al Procurador la infraestructura de cómputo y telecomunicaciones óptima para generar el flujo de información entre las Unidades de dicha Dirección, instrumentar estrategias de obtención de información veraz de los órganos y unidades de la Procuraduría y, alimentar las bases de datos;
 
-XIII.- Intercambiar información con autoridades federales, estatales, municipales y del extranjero, para fines de investigación, así como en relación al comportamiento delictual en el Estado;
+XIII.- Intercambiar información con autoridades federales, estatales, municipales y del extranjero para fines de investigación, así como en relación al comportamiento delictual en el Estado, coordinando las acciones entre la Procuraduría y las agencias de gobiernos federales, estatales y municipales, organizaciones no gubernamentales, sociales y privadas para la propuesta, diseño, control, seguimiento y evaluación de políticas públicas orientadas al combate a la delincuencia y la disminución del índice delictivo, promoviendo a su vez la comunicación e intercambio de experiencias e información con instituciones nacionales y extranjeras para la cooperación y fortalecimiento de las acciones en materia de política criminal;
 
-XIV.- Recomendar a los Subprocuradores estrategias especiales para el combate a la delincuencia;
+XIV.- Recomendar a los Subprocuradores las estrategias especiales para el combate a la delincuencia, estableciendo los métodos de análisis de información y estrategias para generar inteligencia que lleve a la identificación de personas, grupos, organizaciones, zonas prioritarias y modos de operación vinculados con los delitos;
 
-XV.- Recopilar la estadística generada en cada una de las Comandancias de la Policía Ministerial en el Estado, con la finalidad de alimentar la base de datos;
+XV.- Recopilar la estadística generada en cada una de las Subprocuradurías y Comandancias de la Policía Ministerial en el Estado con la finalidad de alimentar la base de datos, recolectar y concentrar información en materia de procuración de justicia proveniente de los órganos y unidades de la Procuraduría así como de las agencias públicas de orden federal, estatal y municipal, conforme a las disposiciones jurídicas aplicables;
 
-XVI.- Proporcionar la información y apoyo que le requieran los Agentes del Ministerio Público, policías ministeriales y las distintas unidades de la Procuraduría, sobre los estudios y análisis de la información delictiva y, en general, aquella proveniente de la base de datos a que tengan acceso según convenios y cumpliendo con los lineamientos establecidos;
+XVI.- Proporcionar la información y apoyo que le requieran los Agentes del Ministerio Público, Agentes de la Policía Ministerial, peritos así como las distintas unidades de la Procuraduría sobre los estudios y análisis de la información delictiva y, en general, aquella proveniente de las bases de datos a las cuales tenga acceso según los convenios e instrumentos jurídicos, y cumpliendo con los lineamientos establecidos; realizar los análisis de apoyo a la investigación policial y persecución penal conforme a las disposiciones legales con el fin de asegurar la legalidad de la información cuando sea utilizada en investigaciones o procedimientos judiciales, sugiriendo líneas de investigación policial a partir del análisis de la información de la estructura y los modos de operación de las organizaciones criminales; investigar, desarrollar e implementar la aplicación de métodos analíticos, técnicas, procedimientos y equipos para coadyuvar a la efectiva investigación y persecución de los delitos;
 
-XVII.- Consolidar la información delictiva derivada de las denuncias o querellas, para determinar las estrategias necesarias a implementar en las investigaciones;
+XVII.- Realizar análisis estadísticos periódicos para identificar los patrones y tendencias del comportamiento criminal así como determinar los factores criminógenos en atención a la incidencia delictiva en las diferentes zonas y sectores sociales de la Entidad, consolidando la información delictiva derivada de las denuncias, querellas y demás actuaciones ministeriales, para determinar las estrategias necesarias a implementar en las investigaciones;
 
-XVIII.- Realizar estudios y análisis basándose en la información generada en materia de incidencia delictiva, en la investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales, para la formulación de planes y estrategias en contra de la delincuencia;
+XVIII.- Realizar estudios y análisis interdisciplinarios basándose en la información generada en materia de incidencia delictiva, investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales e, identificación de grupos, organizaciones, patrones delictivos, perfiles de víctimas y victimarios, zonas prioritarias y modos de operación vinculados con delitos, para la formulación de planes y estrategias en contra de la delincuencia;
 
-XIX.- Elaborar y difundir información vinculada con estadísticas sobre el fenómeno delictivo en el Estado;
+XIX.- Solicitar a las instituciones públicas o privadas información sobre hechos delictivos no denunciados e incorporar esta variable en el diseño de las políticas públicas, así como en materia de estrategias y combate a la delincuencia;
 
-XX.- Solicitar a las instituciones públicas o privadas información sobre hechos delictivos no denunciados, e incorporar esta variable en el diseño de las políticas en materia de estrategias y combate a la delincuencia;
+XX.- Diseñar, integrar, operar y mantener actualizados los sistemas de información, de conformidad a las disposiciones normativas aplicables;
 
-XXI.- Integrar, operar y mantener actualizados los sistemas de información a su cargo de conformidad a las disposiciones normativas aplicables;
+XXI.- Concentrar la información y elaborar el proyecto de informe anual de la Procuraduría;
 
-XXII.- Concentrar la información y elaborar el proyecto de informe anual de la Procuraduría;
+XXII.- Consultar las bases de datos de Plataforma México, el sistema único de información criminal y el resto de la información de apoyo al Sistema Nacional de Procuración de Justicia;
 
-XXIII.- Proporcionar la información relativa a transparencia, acorde a la normatividad aplicable;
+XXIII.- Diseñar la planimetría del delito atendiendo a la estadística criminológica en toda la Entidad y por Subprocuradurías, a fin de precisar las zonas de mayor incidencia delictiva, su impacto social y costo económico;
 
-XXIV.- Administrar las bases de datos de plataforma México, el sistema único de información criminal y el resto de la información de apoyo al Sistema Nacional de Procuración de Justicia, que le proporcione la Dirección Administrativa;
+XXIV.- Proponer lineamientos que permitan mejorar la capacidad de respuesta institucional a las demandas de la sociedad en materia de procuración de justicia así como verificar y evaluar periódicamente o cuando el Procurador lo requiera, conforme a la estadística de incidencia delictiva, los avances en la eficiencia y eficacia de la procuración de justicia;
 
-XXV.- Diseñar la planimetría del delito atendiendo a la estadística criminológica en toda la Entidad y por Subprocuradurías, a fin de precisar las zonas de mayor incidencia delictiva, su impacto social y costo económico;
+XXV.- Implementar estudios interdisciplinarios de hechos delictuosos que permitan la identificación de patrones de operación, redes delictivas, perfil de delincuentes, víctimas, instrumentos utilizados e incidencia delictual;
 
-XXVI.- Verificar y evaluar periódicamente o cuando el Procurador lo requiera, conforme a la estadística de incidencia delictiva los avances en la eficiencia y eficacia de la Procuración de Justicia;
+XXVI.- Realizar análisis interdisciplinarios que permitan determinar los perfiles de las víctimas del delito atendiendo a la planimetría criminógena estatal, estableciendo similitudes y diferencias de acuerdo a las zonas detectadas;
 
-XXVII.- Implementar estudios interdisciplinarios de hechos delictuosos que permitan la identificación de patrones de operación, perfil de delincuentes, instrumentos utilizados y la incidencia delictual;
+XXVII.- Elaborar estudios comparativos sobre la investigación y persecución de los delitos así como en materia de seguridad pública en el Estado con relación a otras Entidades Federativas así como autoridades del extranjero, analizando su factibilidad de aplicación en el Estado y, a su vez, promover el intercambio de información en las materias antes referidas;
 
-XXVIII.- Realizar análisis interdisciplinarios que permitan determinar los perfiles de las víctimas del delito atendiendo la planimetría criminógena estatal, estableciendo similitudes y diferencias de acuerdo a las zonas detectadas;
+XXVIII.- Las demás que le sean encomendadas por el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
 
-XXIX.- Elaborar estudios comparativos sobre la investigación y persecución de los delitos, así como en materia de seguridad pública en el Estado, con relación a otras entidades federativas, así como con autoridades del extranjero, analizando su factibilidad de aplicación en el Estado; así como promover el intercambio de información en las materias antes referidas; y,
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2019)</small>
 
-XXX.- Las demás que le sean encomendadas por el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
+ARTÍCULO 84 BIS.- La Unidad de Análisis de Información tendrá las siguientes atribuciones:
+
+I.- Colaborar en la elaboración de estudios y análisis interdisciplinarios y asesorar en la creación de planes y estrategias en contra de la delincuencia;
+
+II.- Someter a consideración de su superior jerárquico el diseño, integración, operación y actualización de los sistemas de información;
+
+III.- Revisar las bases de datos de Plataforma México, el sistema único de información criminal y el resto de la información de apoyo al Sistema Nacional de Procuración de Justicia e informar lo conducente a la Dirección de Estrategias contra el Crimen;
+
+IV.- Apoyar en la ejecución de estudios interdisciplinarios de hechos delictuosos para identificar patrones de operación, redes delictivas, perfil de los delincuentes, víctimas, instrumentos utilizados e incidencia delictual;
+
+V.- Intervenir en la realización de análisis interdisciplinarios que permitan determinar los perfiles de las víctimas del delito;
+
+VI.- Someter a consideración de su superior jerárquico los anteproyectos de convenios y/o acuerdos para el intercambio de información con agencias de los tres órdenes de gobierno, instituciones y organismos de los sectores social y privado;
+
+VII.- Elaborar los informes sobre el comportamiento delictual, sus avances, resultados y estadísticas;
+
+VIII.- Sugerir estrategias para obtener información veraz de las unidades administrativas u órganos de la Procuraduría así como coadyuvar en el enriquecimiento de las bases de datos;
+
+IX.- Las demás que le sean encomendadas por el superior jerárquico y aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2019)</small>
+
+ARTÍCULO 84 TER.- La Unidad de Estadística y Análisis Delictivo tendrá las siguientes atribuciones:
+
+I.- Recomendar acciones para la actualización de la información de apoyo a la toma de decisiones en la materia;
+
+II.- Compilar la estadística de las Subprocuradurías y Comandancias de la Policía Ministerial en el Estado que habrá de enriquecer la base de datos de la Procuraduría;
+
+III.- Proponer los anteproyectos de análisis estadísticos que permitan detectar los patrones y tendencias del comportamiento criminal así como los factores criminógenos;
+
+IV.- Someter a consideración de su superior jerárquico la planimetría del delito, debiendo precisar las zonas de mayor incidencia delictiva así como su impacto social y económico;
+
+V.- Elaborar y entregar la propuesta de infraestructura de cómputo y telecomunicaciones para generar el flujo de información entre las Unidades de la Dirección de Estrategias contra el Crimen;
+
+VI.- Coadyuvar en el intercambio de experiencias, información con las autoridades nacionales y extranjeras en materia de investigación, comportamiento delictual en el Estado y política criminal;
+
+VII.- Apoyar en la presentación, control, seguimiento y evaluación de las políticas públicas de la Institución;
+
+VIII.- Las demás que le sean encomendadas por el superior jerárquico y aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2019)</small>
+
+ARTÍCULO 84 QUATER.- La Unidad de Política Criminal, Planeación y Evaluación tendrá las siguientes atribuciones:
+
+I.- Apoyar en la planeación, programación, organización y evaluación interna de su funcionamiento;
+
+II.- Ayudar en la valoración interna de avances y resultados respecto de la aplicación de los operativos institucionales sugeridos por la Dirección de Estrategias contra el Crimen;
+
+III.- Participar en la elaboración de las bases de datos de los programas de investigación en la materia;
+
+IV.- Aconsejar las políticas y demás instrumentos de seguridad para el acceso a las bases de información del personal de la Institución;
+
+V.- Proponer las estrategias para el combate a la delincuencia y para generar inteligencia que permita la identificación de personas, grupos, organizaciones, zonas y modos de operación vinculados a los delitos, así como los métodos de análisis de dicha información;
+
+VI.- Elaborar los requerimientos de información a las instituciones públicas o privadas sobre hechos delictivos no denunciados, observando se tome en cuenta dicha variable en los asuntos a cargo de la Dirección;
+
+VII.- Solicitar a las unidades administrativas y órganos de la Institución la información que le permita redactar el proyecto de informe anual que la Dirección entregará a la Procuraduría;
+
+VIII.- Coadyuvar en el estudio y elaboración de lineamientos que respalden la capacidad de respuesta y los avances en la materia por parte de la Institución;
+
+IX.- Proponer estudios comparativos en la materia tomando en cuenta factores nacionales y del extranjero y la viabilidad de aplicarlos en la Entidad;
+
+X.- Recopilar la información respecto de los estudios y análisis delictivos así como bases de datos a las cuales tenga acceso;
+
+XI.- Elaborar el informe anual de actividades que la Dirección entregará a la Institución;
+
+XII.- Respaldar en la recomendación de líneas de investigación policial, para los fines que establezca la Institución;
+
+XIII.- Asistir en el desarrollo e instauración de métodos, técnicas, procedimientos y equipos que eficienticen la investigación y persecución del delito;
+
+XIV.- Coadyuvar en la elaboración, proposición, supervisión y control de los instrumentos de coordinación interinstitucional en materia de política criminal;
+
+XV.- Respaldar en el agrupamiento de la información en la materia;
+
+XVI.- Incentivar el intercambio de información en los rubros de su competencia;
+
+XVII.- Las demás que le sean encomendadas por el superior jerárquico y aquellas que le confieran las disposiciones normativas aplicables.
 
 ### CAPÍTULO TERCERO. DIRECCIÓN DE ATENCIÓN A VICTIMAS Y TESTIGOS
 
@@ -3019,9 +3107,11 @@ II.- Para fungir como Director de Justicia para Adolescentes se deberá contar c
 
 III.- Para desempeñarse como Director del Sistema Estatal de Justicia Alternativa se deberá contar con constancia de capacitación especializada en mediación, conciliación y proceso restaurativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 144.
 
-Para ocupar el cargo de Director de Servicios Periciales, Director de Estrategias contra el Crimen, Director de Planeación y Evaluación, Director de Servicios Administrativos, Director de Capital Humano, se requerirá:
+Para ocupar el cargo de Director de Servicios Periciales, Director de Estrategias contra el Crimen, Director de Planeación y Evaluación, Director de Servicios Administrativos, así como Director de Capital Humano, se requerirá:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -4182,3 +4272,11 @@ La Procuraduría, en conjunto con la Secretaría de Planeación y Finanzas y la 
 ###### ARTICULO TERCERO.
 
 Las referencias que se hacen o se hagan y las atribuciones establecidas asimismo en los reglamentos, decretos y demás disposiciones legales a la Subprocuraduría contra la Delincuencia Organizada, se entenderán realizadas a la Subprocuraduría de Investigaciones Especiales.
+
+P.O. 11 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 83, 84 Y 144, Y SE ADICIONAN LOS ARTÍCULOS 84 BIS, 84 TER Y 84 QUATER DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
