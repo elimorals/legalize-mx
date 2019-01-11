@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-investigacion-y-41547"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-27"
-last_updated: "2015-01-30"
+last_updated: "2019-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN AGROPECUARIA, ACUÍCOLA Y FORESTAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 27 de octubre de 2004.
 
 EL CONSEJO DIRECTIVO DEL INSTITUTO DE INVESTIGACION Y CAPACITACION AGROPECUARIA, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO 9.11 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -181,7 +183,9 @@ ll. Dirección de Investigación.
 
 III. Dirección de Administración y Finanzas.
 
-IV. Contraloría Interna.
+> <small>(REFORMADA, G.G. 11 DE ENERO DE 2019)</small>
+
+IV. Órgano Interno de Control.
 
 La Dirección General contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Instituto; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
@@ -229,7 +233,9 @@ XIII. Cumplir en el ámbito de su competencia, con las disposiciones en materia 
 
 XIV. Las demás que le señalen otras disposiciones legales y las que le encomiende el Director General.
 
-### CAPITULO V. DE LAS DIRECCIONES Y DE LA CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE ENERO DE 2019)</small>
+
+### CAPITULO V. DE LAS DIRECCIONES
 
 ###### Artículo 14.
 
@@ -329,31 +335,19 @@ XII. Coordinar y supervisar las funciones del personal adscrito a la unidad admi
 
 XIII. Las demás que le señalen otras disposiciones legales y las que le encomiende el Director General.
 
-### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], G.G. 11 DE ENERO DE 2019)</small>
+
+### CAPITULO VI. DEL ORGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, G.G. 11 DE ENERO DE 2019)</small>
 
 ###### Artículo 17.
 
-Corresponde a la Contraloría Interna:
+Al frente del Órgano Interno de Control habrá un titular designado en términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los titulares de las áreas correspondientes, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones jurídicas aplicables.
 
-I. Vigilar el cumplimiento de los programas, subprogramas de las unidades administrativas del Organismo y elaborar los reportes correspondientes.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO VI], G.G. 11 DE ENERO DE 2019)</small>
 
-II. Vigilar el ejercicio del presupuesto del Instituto, atendiendo a las disposiciones en materia de racionalidad, austeridad y disciplina presupuestaria.
-
-III. Realizar las acciones de control y evaluación a las unidades administrativas del Organismo, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro y contabilidad, contratación y pago de personal; contratación de servicios, obra pública; programas de inversión, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos asignados al Instituto.
-
-IV. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este Organismo de Control Interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su instrucción y resolución.
-
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
-
-V. Realizar las denuncias correspondientes y/o dar vista al ministerio público cuando el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Organismo.
-
-VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Organismo, sujetos a esta obligación.
-
-VII. Proponer al Director General la aplicación de normas complementarias en materia de control.
-
-VIII. Difundir entre el personal del Instituto toda disposición en materia de control que incida en el desarrollo de sus labores.
-
-IX. Las demás que le señalan otros ordenamientos aplicables y las que le encomiende el Secretario de la Contraloría.
+### CAPITULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 18.
 
@@ -398,3 +392,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.-Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 11 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN AGROPECUARIA, ACUÍCOLA Y FORESTAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza al Reglamento Interno del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México, publicado el 27 de octubre de 2004, en el Periódico Oficial "Gaceta del Gobierno".
