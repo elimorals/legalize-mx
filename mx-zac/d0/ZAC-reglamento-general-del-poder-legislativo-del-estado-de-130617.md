@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-130617"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-09-05"
-last_updated: "2018-09-05"
+last_updated: "2019-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2019.
 
 Reglamento publicado en el Suplemento 2 al Número 71 del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de septiembre de 2018.
 
@@ -184,6 +184,14 @@ IV. Solicitar licencia en los términos de la Constitución, así como permisos 
 V. Percibir la dieta o remuneración, la cual no deberá incluir ayudas sociales, en los términos del artículo 65 fracción IV párrafo segundo de la Constitución y 129 fracción I de la Ley, y
 
 VI. Proponer la celebración de convenios, para optimizar el funcionamiento de la Legislatura.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2019)</small>
+
+VII. Adherirse a las Iniciativas que hayan sido presentadas por otro diputado, siempre y cuando medie el consentimiento expreso del proponente, debiendo quedar asentado en el acta de la sesión correspondiente.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 12 DE ENERO DE 2019]</small>
+
+La adhesión a alguna iniciativa no surte efectos para lo dispuesto en los artículos 29 fracción XIII y 39 fracción V de la Ley Orgánica del Poder Legislativo del Estado de Zacatecas.
 
 ### Capítulo II. Responsabilidades y disciplina
 
@@ -793,9 +801,17 @@ VII. A los ciudadanos zacatecanos radicados en el Estado.
 
 Para efectos del presente Reglamento, se entenderá por iniciativa, el acto a través del cual los sujetos a que se refiere el artículo anterior, someten a la consideración de la Legislatura, un proyecto de ley, decreto o punto de acuerdo.
 
-Las iniciativas deberán ser dirigidas a la Legislatura, presentarse por escrito ante la Secretaría General, debidamente firmadas por el suscrito o suscritos y anexar la versión en medio magnético.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2019)</small>
 
-Los ciudadanos a los que se refiere la fracción VII del artículo que antecede, al presentar una iniciativa deberán señalar domicilio para oír y recibir notificaciones en la ciudad de Zacatecas o, en su caso, en la zona conurbada.
+Las iniciativas deberán ser dirigidas a la Legislatura, presentarse por escrito ante la Secretaría General, debidamente firmadas por el promovente o promoventes y anexar la versión en medio magnético; se entenderá por promovente al diputado o diputada que presenta y suscribe originalmente la iniciativa; y será adherente el diputado o diputada que, sin haberla suscrito originalmente, manifieste su intención de hacerlo, una vez presentada al pleno.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2019)</small>
+
+Los ciudadanos a los que se refiere la fracción VII del artículo 96 que antecede, al presentar una iniciativa deberán señalar domicilio para oír y recibir notificaciones en la ciudad de Zacatecas o, en su caso, en la zona conurbada.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2019)</small>
+
+Los diputados o diputadas podrán adherirse a las iniciativas presentadas por los ciudadanos a que se refiere la fracción VII del artículo que antecede, para lo cual no requerirán de la anuencia del o los promoventes.
 
 ###### Artículo 98.
 
@@ -2714,3 +2730,13 @@ Artículo cuarto. Los manuales de organización y procedimientos, así como la d
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PUBLICACIÓN.
 
 DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado, a los diecisiete días del mes de agosto del año dos mil dieciocho. DIPUTADA PRESIDENTA.- LORENA ESPERANZA OROPEZA MUÑOZ. DIPUTADAS SECRETARIAS.- MARÍA ISAURA CRUZ DE LIRA Y GUADALUPE ISADORA SANTIVAÑEZ RÍOS. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 4.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 11 Y 97 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
