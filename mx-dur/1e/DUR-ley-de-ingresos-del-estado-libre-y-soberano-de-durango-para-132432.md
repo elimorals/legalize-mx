@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-132
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-30"
-last_updated: "2018-12-30"
+last_updated: "2019-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2019.
 
 Ley publicada en el Número 104 del Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2018.
 
@@ -282,3 +282,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+[N. DE E. A CONTINUACIÓN SE CITAN LOS ANEXOS PUBLICADOS EN EL P.O. 13 DE ENERO DE 2019.
+
+> <small>[N. DE E. VÉASE ANEXO 1 EN EL P.O. 13 DE ENERO DE 2019, PÁGINAS 4, 5, 9 Y 10]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. 13 DE ENERO DE 2019, PÁGINAS 6 Y 11]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 3 EN EL P.O. 13 DE ENERO DE 2019, PÁGINAS 7 Y 12]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 4 EN EL P.O. 13 DE ENERO DE 2019, PÁGINAS 8 Y 13]</small>
