@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2017-08-03"
+last_updated: "2019-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE INTEGRACION SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 14 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE ENERO DE 2019 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -1430,3 +1432,31 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a los 90 días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 186, de Integración Social para Personas con Discapacidad, publicada en el Boletín Oficial del Gobierno del Estado número 4, sección III, de fecha 12 de julio de 1999.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado tendrá un plazo de 90 días contados a partir de la fecha de entrada en vigor de la presente Ley, para nombrar al Vocal Ejecutivo del Consejo para la Inclusión al Desarrollo de las Personas con discapacidad o personas en situación de discapacidad.
+
+###### ARTÍCULO CUARTO.
+
+La Fiscalía General de Justicia del Estado deberá dar cumplimiento a la presente Ley, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+La Dirección General de Transporte deberá dar cumplimiento a lo establecido en la presente Ley, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado publicará el Reglamento de la presente Ley a más tardar 120 días después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
