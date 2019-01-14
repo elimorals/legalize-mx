@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-consejeria-juridica-del-poder-124558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-10-23"
-last_updated: "2017-10-23"
+last_updated: "2019-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección Primera del Número 079 del Periódico Oficial del Estado de Nayarit, el lunes 23 de octubre de 2017.
 
@@ -41,13 +41,31 @@ REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO D
 
 ### Capítulo I. Competencia y Organización
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
+
 ###### Artículo 1.
 
-Se crea la Consejería Jurídica del Titular del Poder Ejecutivo del Estado de Nayarit, en adelante la Consejería, como Unidad Administrativa dependiente directamente del Titular del Poder Ejecutivo del Estado y tiene a su cargo la función consistente en brindar asesoría y apoyo técnico jurídico al Gobernador del Estado, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+Se crea la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit, como Unidad Administrativa dependiente directamente del titular del Poder Ejecutivo del Estado y tiene a su cargo la función consistente en brindar asesoría y apoyo técnico jurídico al Gobernador del Estado, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+
+Para efectos del presente Reglamento se entenderá por:
+
+I. Consejería.- Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+
+II. Consejerías Adjuntas.- Las Consejerías Adjuntas de Estudios Jurídicos, Estudios Normativos y de Transparencia y Protección de Datos Personales;
+
+III. Consejero.- Titular de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+
+IV. Consejeros Adjuntos.- Los titulares de las Consejerías Adjuntas de Estudios Jurídicos, Estudios Normativos y de Transparencia y Protección de Datos Personales;
+
+V. Reglamento.- Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit, y
+
+VI. Subconsejero.- Subconsejero Jurídico de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 2.
 
-Al frente de la Consejería estará el Consejero Jurídico del Gobernador del Estado, en lo sucesivo el Consejero.
+Al frente de la Consejería estará el Consejero.
 
 El Consejero dependerá en forma directa y será nombrado y removido libremente por el Gobernador del Estado, quien determinará las comisiones intersecretariales y grupos de trabajo a los que aquél deba ser incorporado.
 
@@ -55,15 +73,25 @@ El Consejero dependerá en forma directa y será nombrado y removido libremente 
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, se crean las siguientes unidades administrativas:
 
-I. Subconsejería General Adjunta;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
-II. Consejería Adjunta de Consulta y Estudios Constitucionales;
+I. Subconsejería Jurídica;
 
-III. Consejería Adjunta de Legislación y Estudios Normativos;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
-IV. Consejería Adjunta de Control Constitucional y de lo Contencioso;
+II. Consejería Adjunta de Estudios Jurídicos;
 
-V. Coordinación Administrativa.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+III. Consejería Adjunta de Estudios Normativos;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+IV. Consejería Adjunta de Transparencia y Protección de Datos Personales, y
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+V. Dirección Administrativa.
 
 Sus titulares serán designados y removidos libremente por el Consejero, previo acuerdo con el Gobernador.
 
@@ -81,7 +109,9 @@ La Consejería, por conducto de sus servidores públicos, conducirá sus activid
 
 El ingreso, desempeño, permanencia y evaluación de los servidores públicos y del personal profesional de la Consejería se regirá por los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, conforme a los lineamientos que para ese efecto emita el Consejero en términos de la legislación correspondiente, sin perjuicio de las demás disposiciones que resulten aplicables.
 
-### Capítulo II. De las Facultades del Consejero
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+### Capítulo II. Del Consejero Jurídico
 
 ###### Artículo 7.
 
@@ -121,15 +151,21 @@ En caso contrario, someter a consideración del Gobernador del Estado, el proyec
 
 XIII. Las demás que con tal carácter, le atribuyan expresamente las disposiciones legales y reglamentarias.
 
-### Capítulo III. De las Facultades del Subconsejero General adjunto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+### Capítulo III. De la Subconsejería Jurídica
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 9.
 
-Para una mejor organización y despacho de los asuntos encomendados al Consejero, éste se auxiliará del Subconsejero General Adjunto, quien tendrá las facultades que le otorga el presente Reglamento y las demás que le sean delegadas.
+Para una mejor organización y despacho de los asuntos encomendados al Consejero, éste se auxiliará del Subconsejero, quien tendrá las facultades que le otorga el presente Reglamento y las demás que le sean delegadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 10.
 
-El Subconsejero tendrá las facultades siguientes:
+Compete al Subconsejero:
 
 I. Coadyuvar y asesorar en el ámbito de su competencia con el Consejero y suplirlo en sus ausencias en los casos en que éste lo determine;
 
@@ -153,35 +189,75 @@ X. Las demás que le confiera el Consejero o deriven de las disposiciones normat
 
 ### Capítulo IV. De las Consejerías Adjuntas
 
-#### Sección I. De la Consejería Adjunta de Consulta y Estudios Constitucionales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+#### Sección I. De la Consejería Adjunta de Estudios Jurídicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 11.
 
-Compete a la Consejería Adjunta de Consulta y Estudios Constitucionales:
+Compete a la Consejería Adjunta de Estudios Jurídicos:
 
-I. Revisar, en coordinación con las Consejerías Adjuntas de Legislación y Estudios Normativos y de Control Constitucional y de lo Contencioso, los instrumentos jurídicos que sean sometidos a firma del Gobernador del Estado y que disponga el Consejero;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
-II. Elaborar y proponer al Consejero, los proyectos de decretos, acuerdos, nombramientos y ratificaciones que sean competencia del Gobernador;
+I. Revisar, en coordinación con la Consejería Adjunta de Estudios Normativos, los instrumentos jurídicos que sean sometidos a firma del Gobernador del Estado y que disponga el Consejero;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+II. Elaborar y proponer al Consejero los proyectos de decretos, acuerdos, nombramientos, designaciones y ratificaciones que sean competencia del Gobernador;
 
 III. Dar seguimiento y coordinar las actividades relacionadas con la elaboración, revisión y trámite de los anteproyectos y proyectos de iniciativa de decretos de reformas constitucionales, que se pretendan someter a la consideración y, en su caso, firma del Gobernador del Estado, y formular al Consejero la opinión que corresponda;
 
-IV. Opinar sobre la constitucionalidad de los proyectos de leyes o decretos enviados por el Poder Legislativo para su promulgación que, en su caso, le remita la Consejería Adjunta de Legislación y Estudios Normativos;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+IV. Opinar sobre la constitucionalidad de los proyectos de leyes o decretos enviados por el Poder Legislativo para su promulgación que, en su caso, le remita la Consejería Adjunta de Estudios Normativos;
 
 V. Realizar estudios sobre interpretación constitucional, la constitucionalidad de las leyes secundarias y de los actos de autoridad de los servidores públicos de la Administración Pública Estatal que sean solic tados (sic) por el Consejero o el Gobernador;
 
 VI. Estudiar los asuntos relativos al apoyo técnico jurídico que requiera el Gobernador del Estado y someter los dictámenes correspondientes a la consideración del Consejero;
 
-VII. Desahogar las consultas jurídicas solicitadas por las unidades administrativas del Despacho del Gobernador del Estado, las cuales deberán realizarse por escrito, y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
-VIII. Las demás que le confiera el Consejero o deriven de las disposiciones normativas aplicables.
+VII. Desahogar las consultas jurídicas solicitadas por las unidades administrativas del Despacho del Gobernador del Estado, las cuales deberán realizarse por escrito;
 
-La Consejería Adjunta de Consulta y Estudios Constitucionales, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2019)</small>
 
-#### Sección II. De la Consejería Adjunta de Legislación y Estudios Normativos
+VIII. Disponer, coordinar y fungir como delegado en la atención de las controversias constitucionales y de las acciones de inconstitucionalidad en las que el Consejero represente al Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2019)</small>
+
+IX. Asesorar al Gobernador del Estado y, en su caso, a las dependencias y entidades de la Administración Pública Estatal cuando lo soliciten, para el adecuado cumplimiento de las resoluciones en materia de controversias constitucionales y de las acciones de inconstitucionalidad;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2019)</small>
+
+X. Disponer de la colaboración y asistencia técnico jurídica necesarias para fortalecer la defensa de la constitucionalidad de los actos o normas reclamados, en los casos de controversias constitucionales y de las acciones de inconstitucionalidad, y los demás medios de control previstos en los capítulos I, II y III del Título Segundo de la Ley de Control Constitucional del Estado de Nayarit, en que se represente al Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2019)</small>
+
+XI. Evaluar los actos y normas de carácter general que puedan ameritar la interposición de controversias constitucionales y de las acciones de inconstitucionalidad y, en su caso, proponer al Consejero las medidas pertinentes;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2019)</small>
+
+XII. Intervenir, cuando así lo determine el Consejero en la elaboración o dictamen de anteproyectos o proyectos, decretos o actos del Ejecutivo Estatal con objeto de prevenir reclamaciones judiciales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE ENERO DE 2019)</small>
+
+XIII. Las demás que le confiera el Consejero o deriven de las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
+
+La Consejería Adjunta de Estudios Jurídicos, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+#### Sección II. De la Consejería Adjunta de Estudios Normativos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 12.
 
-Compete a la Consejería Adjunta de Legislación y Estudios Normativos:
+Compete a la Consejería Adjunta de Estudios Normativos:
 
 I. Desahogar las consultas jurídicas que soliciten las dependencias y entidades de la Administración Pública Estatal, respecto a la elaboración de anteproyectos de reglamentos y decretos que reforman, adicionan o derogan aquéllos;
 
@@ -195,7 +271,9 @@ V. Informar al Consejero del trámite legislativo de las iniciativas de ley o de
 
 VI. Apoyar, por instrucción del Gobernador del Estado o el Consejero, en la conducción de los acuerdos específicos que se efectúen, sobre iniciativas de ley o decreto, con las comisiones legislativas del Congreso del Estado, o bien con los grupos y representaciones parlamentarias;
 
-VII. Elaborar, en coordinación con la Consejería Adjunta de Consulta y Estudios Constitucionales, el proyecto de documento por el que, en su caso, el Gobernador del Estado devuelve con observaciones al Congreso del Estado los proyectos de ley o decreto;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+VII. Elaborar, en coordinación con la Consejería Adjunta de Estudios Jurídicos, el proyecto de documento por el que, en su caso, el Gobernador del Estado devuelve con observaciones al Congreso del Estado los proyectos de ley o decreto;
 
 VIII. Elaborar informes que contengan datos y estadísticas sobre la presentación y trámite de las iniciativas de ley o decreto en el Congreso del Estado;
 
@@ -205,61 +283,117 @@ X. Crear y mantener actualizada la biblioteca especializada en legislación y te
 
 XI. Organizar y coordinar, previo acuerdo con el Consejero, actividades de capacitación y actualización sobre temas inherentes a las funciones de la Consejería;
 
-XII. Auxiliar a la Coordinación Administrativa en materia de transparencia y acceso a la información pública, y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
+
+XII. Auxiliar a la Consejería Adjunta de Transparencia y Protección de Datos Personales, en la elaboración de instrumentos normativos en la materia, cuando ésta así lo requiera, y
 
 XIII. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
 
-El Consejero Adjunto de Legislación y Estudios Normativos, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
-#### Sección III. De la Consejería Adjunta de Control Constitucional y de lo Contencioso
+La Consejería Adjunta de Estudios Normativos, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+#### Sección III. De la Consejería Adjunta de Transparencia y Protección de Datos Personales
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 13.
 
-Compete a la Consejería Adjunta de Control Constitucional y de lo Contencioso:
+Compete a la Consejería Adjunta de Transparencia y Protección de Datos Personales:
 
-I. Disponer, coordinar y fungir como delegado en la atención de las controversias constitucionales y de las acciones de inconstitucionalidad en las que el Consejero represente al Gobernador del Estado;
+A. En materia de transparencia y acceso a la información:
 
-II. Asesorar al Gobernador del Estado y, en su caso, a las dependencias y entidades de la Administración Pública Estatal cuando lo soliciten, para el adecuado cumplimiento de las resoluciones en materia de controversias constitucionales y acciones de inconstitucionalidad;
+I. Encabezar la Unidad de Transparencia del Despacho del Ejecutivo;
 
-III. Disponer de la colaboración y asistencia técnico jurídica necesarias para fortalecer la defensa de la constitucionalidad de los actos o normas reclamados, en los casos de controversias constitucionales o acciones de inconstitucionalidad, y los demás medios de control previstos en los capítulos I, II, III y IV del Título Segundo de la Ley de Control Constitucional del Estado de Nayarit, en que se represente al Gobernador del Estado;
+II. Formar parte del Comité de Transparencia del Despacho del Ejecutivo;
 
-IV. Atender y dar seguimiento en coordinación con las unidades administrativas del Despacho del Ejecutivo, a los asuntos encomendados por el Consejero, a fin de garantizar su adecuada implementación y desahogo;
+III. Coordinar la difusión de la información correspondiente a las obligaciones en materia de transparencia del Despacho del Ejecutivo, propiciando que las unidades administrativas la actualicen periódicamente, conforme a la normatividad aplicable;
 
-V. Evaluar los actos y normas de carácter general que puedan ameritar la interposición de controversias constitucionales o acciones de inconstitucionalidad y, en su caso, proponer al Consejero las medidas pertinentes;
+IV. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-VI. Intervenir, cuando así lo determine el Consejero en la elaboración o dictamen de anteproyectos o proyectos, decretos o actos del Ejecutivo Estatal con objeto de prevenir reclamaciones jurisdiccionales, y
+V. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-VII. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
+VI. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-El Consejero Adjunto de Control Constitucional y de lo Contencioso, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+VII. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-#### Sección IV. De la Coordinación Administrativa
+VIII. Efectuar las notificaciones a los solicitantes;
+
+IX. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío, a efecto de emitir bimestralmente por escrito ante el órgano garante en la materia, dentro de los primeros diez días posteriores al vencimiento, informe estadístico, de conformidad con lo establecido en la normatividad aplicable;
+
+X. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes (sic) acceso a la información, conforme a la normatividad aplicable;
+
+XI. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+XII. Fomentar la transparencia y accesibilidad al interior del Despacho del Ejecutivo;
+
+XIII. Dar aviso al superior jerárquico de aquellas unidades administrativas del Despacho del Ejecutivo, que se nieguen a colaborar con la unidad de transparencia, a fin de que por su conducto realice las acciones conducentes;
+
+XIV. En caso de subsistir la conducta señalada en el párrafo anterior, hacer del conocimiento de la autoridad competente, la probable responsabilidad por el incumplimiento de las obligaciones en materia de transparencia;
+
+XV. Auxiliar al Coordinador General de Transparencia en el desempeño de sus funciones y atribuciones, y
+
+XVI. Las demás que se desprendan de la normatividad aplicable.
+
+B. En materia de protección de datos personales:
+
+I. Auxiliar y orientar al titular de datos personales que lo requiera con relación al ejercicio del derecho a la protección de datos personales;
+
+II. Recibir y dar trámite a las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+III. Realizar los trámites internos necesarios para la atención de las solicitudes de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+IV. Efectuar las notificaciones al titular de los datos personales o a su representante;
+
+V. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
+
+VI. Informar al titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
+
+VII. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+VIII. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+IX. Asesorar a unidades administrativas del Despacho del Ejecutivo en materia de protección de datos personales, y
+
+X. Las demás que se desprendan de la normatividad aplicable.
+
+La Consejería Adjunta de Transparencia y Protección de Datos Personales, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2019)</small>
+
+#### Sección IV. De la Dirección Administrativa
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 14.
 
-Compete a la Coordinación Administrativa:
+Compete a la Dirección Administrativa:
 
-I. Determinar las políticas, normas y procedimientos para la eficiente administración de los recursos humanos, materiales y financieros de la Consejería;
+I. Llevar a cabo los procedimientos para la eficiente administración (sic) los recursos humanos y materiales de la Consejería;
 
-II. Autorizar previo acuerdo con el Consejero, el uso de los recursos humanos, materiales y financieros de la Consejería;
+II. Autorizar previo acuerdo con el Consejero, el uso de los recursos materiales de la Consejería;
 
-III. Preparar y poner a consideración del Consejero la documentación necesaria para el ejercicio y cumplimiento del presupuesto autorizado para la Consejería;
+III. Preparar y poner a consideración del Consejero el anteproyecto de presupuesto de la Consejería, así como la documentación necesaria para el ejercicio y cumplimiento del presupuesto autorizado;
 
-IV. Representar a la Consejería en materia de transparencia y acceso a la información pública;
+IV. Elaborar y actualizar el Manual de Organización General de la Consejería y demás instrumentos administrativos de conformidad con las disposiciones jurídicas aplicables, y
 
-V. Integrar y formular el anteproyecto de presupuesto de la Consejería con base en los lineamientos establecidos por (sic) Secretaria de Administración y Finanzas y enviarlos para su autorización, previo acuerdo del Consejero, y
-
-VI. Las demás que determine el Consejero.
+V. Las demás que determine el Consejero.
 
 ### Capítulo V. De la Suplencia de los Servidores Públicos de la Consejería
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
+
 ###### Artículo 15.
 
-Las ausencias del Consejero serán suplidas por el Subconsejero General Adjunto, y a falta de éste último, los Consejeros Adjuntos y el Coordinador Administrativo, en el orden en que los enumera el artículo 3 de este Reglamento.
+Las ausencias del Consejero serán suplidas por el Subconsejero, y a falta de éste último, los Consejeros Adjuntos y el titular de la Dirección Administrativa, en el orden en que los enumera el artículo 3 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
 ###### Artículo 16.
 
-Las ausencias de cualquiera de los titulares de las Consejerías Adjuntas, previo acuerdo, serán suplidas por quien determine el Consejero.
+Las ausencias de cualquiera de los titulares de las Consejerías Adjuntas y de la Dirección Administrativa, serán suplidas por quien determine el Consejero.
 
 ## Transitorios
 
@@ -272,3 +406,17 @@ Tercero. En tanto se expida el Manual de Organización General de la Consejería
 Dado en la Residencia del Poder Ejecutivo Estatal, en la ciudad de Tepic, Nayarit; el día 23 veintitrés de octubre de dos mil diecisiete.
 
 ATENTAMENTE "SUFRAGIO EFECTIVO. NO REELECCIÓN" L.C. ANTONIO ECHEVARRÍA GARCÍA, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. JORGE ANISAL MONTENEGRO IBARRA, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ENERO DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- El Manual de Organización General de la Consejería y demás instrumentos administrativos a que hace referencia este Reglamento, deberán de expedirse dentro de un plazo no mayor de noventa días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- En tanto se expidan los instrumentos de organización, normativos y administrativos señalados en el numeral anterior, el Consejero tomará las decisiones que procedan, y en su caso resolverá lo conducente.
+
+CUARTO.- Para efectos administrativos y presupuestarios toda referencia que se haga a la Subconsejería General Adjunta, Consejería Adjunta de Consulta y Estudios Constitucionales, Consejería Adjunta de Legislación y Estudios Normtativos (sic), Consejería Adjunta de Control Constitucional y de lo Contencioso y Coordinación Administrativa, se entenderán por realizadas a la Subconsejería Jurídica, Consejería Adjunta de Estudios Jurídicos, Consejería Adjunta de Estudios Normativos, Consejería Adjunta de Transparencia y Protección de Datos Personales y Dirección Administrativa, respectivamente.
