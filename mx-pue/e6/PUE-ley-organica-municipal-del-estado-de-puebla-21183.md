@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2018-11-08"
+last_updated: "2019-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -3441,9 +3441,9 @@ Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo
 
 El Ayuntamiento podrá celebrar convenio con el Instituto Electoral del Estado, en términos de la legislación aplicable, para que éste coadyuve con la elección para elegir a las personas que formarán parte de las Juntas Auxiliares.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
-Los Ayuntamientos, en los reglamentos respectivos, fijarán las bases mínimas que contendrán las convocatorias para el registro de candidatos, mismas que deberán observar las disposiciones constitucionales y legales en materia electoral aplicables.
+Los Ayuntamientos, en los reglamentos respectivos, fijarán las bases mínimas que contendrán las convocatorias para el registro de candidatos, mismas que deberán observar las disposiciones constitucionales y legales aplicables en donde se deberá prohibir el apoyo o postulación de los candidatos a integrar la o las Juntas Auxiliares Respectivas por parte de los Partidos Políticos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4172,3 +4172,13 @@ P.O. 8 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 225 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Notifíquese el presente Decreto a los Ayuntamientos y Concejos Municipales del Estado Libre y Soberano de Puebla.
