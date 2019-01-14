@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2018-12-31"
+last_updated: "2019-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -3381,7 +3381,9 @@ c) Evaluación de informes de descargas de
 
 aguas residuales 25 cuotas
 
-V.- En el rubro de Saneamiento Ambiental:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE ENERO DE 2019)
+
+V.- En el rubro de Emisiones a la Atmósfera:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3393,9 +3395,13 @@ dependencia competente en materia ambiental
 
 o práctica de extinguidores 25 cuotas
 
-b) Evaluación para actualización de datos
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE ENERO DE 2019)
 
-e información 95 cuotas
+b) Evaluación de factibilidad de operaciones de
+
+fuentes fijas de emisión de competencia
+
+estatal 134 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3403,13 +3409,7 @@ c) Validación de Cédula de Operación
 
 anual 95 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-d) Evaluación de la factibilidad de
-
-aprovechamiento de recursos minerales
-
-no reservados a la Federación 150 cuotas
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE ENERO DE 2019)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
