@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-cultura-del-7865
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-16"
-last_updated: "2010-12-16"
+last_updated: "2019-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE CULTURA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE CULTURA, PUBLICADO EN EL B.O. DE 14 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 16 de diciembre de 2010.
 
@@ -350,3 +352,21 @@ LIC. MARÍA DOLORES CORONEL GÁNDARA
 Directora General Instituto (sic) Sonorense de Cultura
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B. O. DE 16 DE DICIEMBRE DEL 2010, PAGINA 11.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior publicado en el Boletín Oficial número 49 de fecha 16 de diciembre de 2010 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicio al público, deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. El Director General del Instituto queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
