@@ -4,7 +4,7 @@ identifier: "COA-ley-de-profesiones-para-el-estado-de-coahuila-de-zaragoza-13083
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-06"
-last_updated: "2017-12-26"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de noviembre de 1998.
 
@@ -106,6 +106,10 @@ XVI.- Difundir por los medios más idóneos, los nombres de los profesionistas y
 XVII.- Hacer del conocimiento de la autoridad competente y actuar ante cualquier tipo de discriminación hacia estudiantes o profesionistas, mencionadas (sic) en la presente ley; y
 
 XVIII.- Las demás que deriven de las leyes o reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+El ejercicio de las atribuciones previstas en esta Ley, que corresponden a la Secretaría de Educación, se realizará, cuando así se requiera, tomando en consideración la opinión y participación de otras autoridades, cuando existan criterios, normas, lineamientos y procedimientos de evaluación específicos que así lo indiquen.
 
 ###### ARTICULO 7º.
 
@@ -211,9 +215,35 @@ Registrado el título, se expedirá con efectos de patente la cédula correspond
 
 Para realizar la función de perito se deberá tener título de la profesión o especialidad que comprenda los actos sujetos al dictamen. Cuando en un procedimiento de carácter arbitral o jurisdiccional se requiera la opinión de un especialista y no exista en la entidad, se llamará a quién ejerza en la rama general de la profesión.
 
-### CAPITULO IV. DE LOS DERECHOS Y OBLIGACIONES DE QUIENES EJERCEN UNA PROFESIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2019)</small>
 
-### CAPITULO V. DEL FOMENTO DE LA CALIDAD EN EL EJERCICIO DE LAS PROFESIONES
+### CAPITULO III BIS. DE LA CERTIFICACION DE PROFESIONISTAS
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 15 BIS.- La certificación profesional consiste en el proceso de evaluación que acredita la pericia, habilidad, destreza, capacidad y debida actualización para el ejercicio de una rama profesional o especialidad profesional, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 15 BIS 1.- Son objetivos de la certificación profesional los siguientes:
+
+I. Mejorar las condiciones del ejercicio profesional y de especialidad;
+
+II. Promover la competitividad en el ejercicio profesional;
+
+III. Proporcionar servicios profesionales atendiendo los principios éticos que deben observarse en cada rama profesional y de especialidad;
+
+IV. Brindar certeza jurídica al ejercicio profesional y de especialidad en el Estado;
+
+V. Promover la certificación, cuando así proceda, de los establecimientos que ofrezcan servicios de tipo profesional y/o de especialidad profesional, y
+
+VI. Las demás previstas en las disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 15 BIS 2.- Las profesiones y las especialidades profesionales que, conforme a la normativa que les aplica requieran de un proceso de certificación profesional, deberán cumplir con dichos procedimientos para poder ejercer en el Estado de Coahuila de Zaragoza.
+
+### CAPITULO IV. DE LOS DERECHOS Y OBLIGACIONES DE QUIENES EJERCEN UNA PROFESIÓN
 
 ###### ARTICULO 16.
 
@@ -231,7 +261,9 @@ II.- Cobrar honorarios por el servicio efectuado, en consideración a lo previst
 
 III.- Agruparse en colegios, en los términos del Capítulo VI de esta ley;
 
-IV.- Participar en los procesos de certificación voluntaria que se organicen, según lo previsto en el ARTICULO 23 de esta ley.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+IV.- Participar en los procesos de certificación voluntaria que se organicen, según lo previsto en el artículo 23 de esta ley, y cumplir con la certificación que, de acuerdo al ejercicio profesional o de especialidad que ejerzan, sea obligatoria;
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -253,7 +285,9 @@ V.- Informar con toda oportunidad al destinatario de los servicios, la imposibil
 
 VI.- Expedir comprobantes por concepto de honorarios o gastos y cumplir con las obligaciones que impongan las leyes de carácter fiscal;
 
-VII.- Citar en el local donde ofrece sus servicios y en cualquier medio de publicidad que utilice, su grado académico, la institución educativa que se lo otorgó, la clave de registro profesional y, en su caso, el colegio al cual pertenece; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+VII.- Citar en el local donde ofrece sus servicios y en cualquier medio de publicidad que utilice, un anuncio que indique la institución que les expidió el título profesional y de especialidad, en su caso, la cédula profesional y de especialidad, en su caso, los documentos que acrediten la certificación vigente del ejercicio profesional, la cédula profesional, y demás documentos que acrediten el legal ejercicio de su profesión, y
 
 VIII.- Cualquier otra derivada de las leyes o reglamentos aplicables en la materia.
 
@@ -275,9 +309,15 @@ b) Lo realice para evitar la comisión de un ilícito; o
 
 c) Exista obligación legal de rendir informes a una autoridad en el ejercicio de sus funciones.
 
-V.- Disponer o hacer uso de dinero, bienes muebles o inmuebles, o documentos que le sean confiados por sus clientes en el ejercicio profesional; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
 
-VI.- Cualquier otra derivada de las leyes o reglamentos aplicables.
+V.- Disponer o hacer uso de dinero, bienes muebles o inmuebles, o documentos que le sean confiados por sus clientes en el ejercicio profesional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ENERO DE 2019)</small>
+
+VI.- Realizar su ejercicio profesional sin contar con los títulos, cédulas y certificaciones necesarios que conforme a esta ley y demás ordenamientos aplicables, deba tener y mantener vigentes, y
+
+VII.- Cualquier otra derivada de las leyes o reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -291,7 +331,7 @@ Lo dispuesto en el presente artículo, será independiente de lo que señala la 
 
 Los profesionistas que realizan su actividad como asalariados en el sector público o privado, quedan sujetos por lo que a su contrato se refiere, a la legislación laboral aplicable.
 
-### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
+### CAPITULO V. DEL FOMENTO DE LA CALIDAD EN EL EJERCICIO DE LAS PROFESIONES
 
 ###### ARTICULO 22.
 
@@ -317,7 +357,7 @@ La evaluación o certificación podrán confiarse a entidades privadas o públic
 
 En la organización de los procesos de certificación, se garantizará la confidencialidad, aplicación responsable y veracidad de los resultados. En ningún caso, los procesos de evaluación y certificación podrán realizarse por la misma entidad.
 
-### CAPITULO VII. DEL SERVICIO SOCIAL
+### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### ARTICULO 24.
 
@@ -407,7 +447,7 @@ El Consejo para el Fomento y Vigilancia de las Profesiones a que se refiere el C
 
 Las partes que se sometan voluntariamente al arbitraje, podrán ofrecer las pruebas que a su interés convenga y, desahogadas las mismas, se resolverá en un término de 10 días hábiles.
 
-### CAPITULO VIII. DEL CONSEJO PARA EL FOMENTO Y VIGILANCIA DE LAS PROFESIONES
+### CAPITULO VII. DEL SERVICIO SOCIAL
 
 ###### ARTICULO 31.
 
@@ -459,7 +499,7 @@ El servicio a que se refiere esta Sección, podrá ser remunerado, pero siempre 
 
 Los profesionistas que presten servicio social, están obligados a ofrecerlo con la calidad del que brindan en su ejercicio regular, y estarán sujetos sin excepción, a las obligaciones que ésta y otras leyes les imponen.
 
-### CAPITULO IX. DE LA RESPONSABILIDAD PROFESIONAL Y LAS SANCIONES
+### CAPITULO VIII. DEL CONSEJO PARA EL FOMENTO Y VIGILANCIA DE LAS PROFESIONES
 
 ###### ARTICULO 37.
 
@@ -523,7 +563,7 @@ El Consejo a que se refiere este Capítulo, contará con instancias de apoyo y c
 
 El Consejo para el Fomento y Vigilancia de las Profesiones expedirá los lineamientos para el funcionamiento de los comités técnicos.
 
-### CAPITULO X. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO IX. DE LA RESPONSABILIDAD PROFESIONAL Y LAS SANCIONES
 
 ###### ARTICULO 43.
 
@@ -598,6 +638,8 @@ La resolución que imponga sanción a un profesionista, será agregada a su expe
 ###### ARTICULO 52.
 
 La Secretaría de Educación Pública del Estado procederá a cancelar el registro de títulos profesionales, cuando se compruebe que no fueron expedidos con los requisitos que esta ley señala. La cancelación producirá efectos de revocación de la cédula expedida para ejercer profesionalmente.
+
+### CAPITULO X. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 53.
 
@@ -736,3 +778,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 186.- SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
