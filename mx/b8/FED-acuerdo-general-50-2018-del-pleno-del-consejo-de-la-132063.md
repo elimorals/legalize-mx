@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-50-2018-del-pleno-del-consejo-de-la-132063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-21"
-last_updated: "2018-12-21"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-12-12"
 ---
 # ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN CIUDAD DEL CARMEN; LA MODIFICACION DE LA JURISDICCION TERRITORIAL DE LOS JUZGADOS DE DISTRITO PRIMERO Y SEGUNDO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN SAN FRANCISCO DE CAMPECHE; LA CONFORMACION EN EL TRIGESIMO PRIMER CIRCUITO JUDICIAL FEDERAL DE LOS DISTRITOS JUDICIALES DE CARMEN Y SAN FRANCISCO DE CAMPECHE Y LOS MUNICIPIOS QUE LOS INTEGRARAN; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA, Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 50/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN CIUDAD DEL CARMEN; LA MODIFICACIÓN DE LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO PRIMERO Y SEGUNDO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN SAN FRANCISCO DE CAMPECHE; LA CONFORMACIÓN EN EL TRIGÉSIMO PRIMER CIRCUITO JUDICIAL FEDERAL DE LOS DISTRITOS JUDICIALES DE CARMEN Y SAN FRANCISCO DE CAMPECHE Y LOS MUNICIPIOS QUE LOS INTEGRARÁN; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de diciembre de 2018.
 
@@ -118,3 +120,13 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. A la plantilla laboral autorizada del nuevo órgano jurisdiccional, deberá adicionarse una plaza de defensor público y su oficial administrativo de apoyo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 50/2018, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Juzgado Tercero de Distrito en el Estado de Campeche, con residencia en Ciudad del Carmen; la modificación de la jurisdicción territorial de los juzgados de Distrito primero y segundo en el estado de Campeche, con residencia en San Francisco de Campeche; la conformación en el trigésimo primer Circuito judicial federal de los distritos judiciales de Carmen y San Francisco de Campeche y los municipios que los integrarán; y que reforma el similar 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la república mexicana, y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de catorce de noviembre de dos mil dieciocho, por mayoría de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández; con el voto en contra de la señora Consejera Rosa Elena González Tirado.- Ciudad de México, a doce de diciembre de dos mil dieciocho.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE ENERO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEJA SIN EFECTOS EL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN CIUDAD DEL CARMEN, CONTEMPLADO EN EL ACUERDO GENERAL 50/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.]</small>
+
+PRIMERO.- Se deja sin efectos el inicio de funciones del Juzgado Tercero de Distrito en el Estado de Campeche, con residencia en Ciudad del Carmen, contemplado en el Acuerdo General 50/2018, del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
