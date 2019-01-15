@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-01-14"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,13 +25,13 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
+ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
 
 CONSIDERANDO
 
@@ -151,9 +151,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Ocho Tribunales Unitarios: cinco con sede en Toluca, dos con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 39/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 53/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2019)</small>
 
-3. Veintinueve Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales, siete especializados en materia de Amparo y Juicios Federales y uno en materia Mercantil Federal, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
+3. Treinta y un Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales, siete especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
 
 III. TERCER CIRCUITO:
 
@@ -489,9 +489,9 @@ XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
 2. Un tribunal unitario con sede en Apizaco, Tlaxcala.
 
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 56/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2019)</small>
 
-3. Tres juzgados de Distrito con residencia en Apizaco, Tlaxcala.
+3. Cuatro juzgados de Distrito en el Estado de Tlaxcala, tres mixtos y uno en Materia Mercantil Federal, todos con residencia en Apizaco.
 
 XXIX. VIGESIMO NOVENO CIRCUITO:
 
@@ -7282,3 +7282,41 @@ El Juzgado de Distrito de nueva creación, deberá registrar los asuntos que le 
 CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 53/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DE LOS JUZGADOS DECIMOQUINTO Y DECIMOSEXTO DE DISTRITO EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NAUCALPAN DE JUÁREZ; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADA; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Dentro de los tres días hábiles siguientes a la fecha señalada en el artículo 7 de este Acuerdo, los Juzgados Primero, Segundo, Tercero, Cuarto, Séptimo, Octavo, Décimo, Decimoprimero, Decimotercero y Decimocuarto de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, deberán proceder de la siguiente forma:
+
+I. Remitir por conducto de la Oficina de Correspondencia Común de los Juzgados de Distrito que les presta servicio a los órganos jurisdiccionales de nueva creación 10 juicios de amparo indirecto en trámite (a cada uno), con las características siguientes.
+
+- Que sean los más recientes, incluyendo sus anexos, valores y objetos;
+
+- No se deberán incluir aquellos que sean urgentes; los que se encuentren con audiencia celebrada; los turnados de manera relacionada, en términos de los artículos 45 y 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales;
+
+II. Los Titulares de los órganos jurisdiccionales, con asistencia de un secretario deberán levantar un acta en la que conste la entrega-recepción de expedientes y sus anexos y deberán asentar la entrega efectuada en los libros de control correspondientes; y,
+
+III. Los órganos jurisdiccionales que entreguen y el que reciba los expedientes a que se refiere este Acuerdo, deberán informar a la Dirección General de Estadística Judicial, el movimiento estadístico originado en razón del envío o recepción de expedientes.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que inician funciones.
+
+D.O.F. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 56/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, COMPETENCIA, RESIDENCIA, DOMICILIO, JURISDICCIÓN TERRITORIAL Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE TLAXCALA, CON RESIDENCIA EN APIZACO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los Juzgados de Distrito en el Estado de Tlaxcala, con residencia (sic) Apizaco, conservarán su actual denominación, jurisdicción territorial y competencia y continuarán conociendo de los asuntos en materia mercantil que se les haya turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de Tlaxcala, con residencia en Apizaco, hasta su total conclusión y archivo.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
