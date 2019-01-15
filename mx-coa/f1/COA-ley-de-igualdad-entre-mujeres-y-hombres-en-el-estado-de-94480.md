@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2018-07-06"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -245,7 +245,9 @@ A.- Corresponde al Poder Ejecutivo:
 
 I. Conducir la política estatal en materia de igualdad entre mujeres y hombres;
 
-II. Incorporar en el presupuesto de egresos del Estado la asignación de recursos para el cumplimiento de las normas y objetivos para el logro de la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+II. Incorporar en el presupuesto de egresos del Estado la asignación de recursos para el cumplimiento de las normas y objetivos para el logro de la igualdad entre mujeres y hombres; observando que dicha asignación no sea inferior a la correspondiente al ejercicio fiscal que termina.
 
 III. Crear, vigilar el cumplimiento y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres por medio de instancias administrativas que promuevan la igualdad sustantiva mediante el enfoque de género;
 
@@ -1221,7 +1223,7 @@ Se derogan todas las disposiciones que se opongan al siguiente Decreto
 
 P.O. 21 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1328,3 +1330,13 @@ P.O. 6 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 188.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA.”
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicac (sic)
+
+(sic) ión en el Periódico Oficial del Estado.
