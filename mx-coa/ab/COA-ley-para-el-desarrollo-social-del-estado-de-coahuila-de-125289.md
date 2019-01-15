@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2017-12-26"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -113,7 +113,9 @@ II. Respeto a la dignidad: La persona es el fundamento, objetivo y base de las a
 
 III. Transversalidad: Participación de más de una dependencia o entidades en la implementación de políticas de desarrollo social, para mejorar la calidad de vida de las personas;
 
-IV. Participación Social: El derecho de las personas a organizarse, intervenir e integrarse individual o colectivamente en la formulación, ejecución y evaluación de las políticas, programas y acciones;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+IV. Participación Social: El derecho de las personas a organizarse, intervenir e integrarse individual o colectivamente en la formulación, ejecución y evaluación de las políticas, programas y acciones mediante mecanismos legales que les permitan tener una participación activa y vinculante.
 
 V. Subsidiaridad: El apoyo brindado por el estado de Coahuila al municipio o población, por un tiempo determinado, cuando estos se encuentran imposibilitados para resolver sus propias necesidades, debido a su limitación o carencia de recursos o a su propia circunstancia; y
 
@@ -203,6 +205,14 @@ Como principio, los programas sociales, en el marco de la inclusión social, dar
 
 Las reglas de operación de los programas sociales especificarán la población objetivo y las condiciones, criterios y requisitos previstos para acceder a cada programa.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Los programas que sean autorizados en el Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente deberán contar con Reglas de Operación antes de su inicio, puestas en marcha u operación.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+El padrón de beneficiarios de los programas sociales se integrará con datos de las personas que cumplan los requisitos establecidos en las Reglas de Operación de los programas sociales y que, por tal motivo, son incorporadas para obtener sus beneficios.
+
 ###### Artículo 12.
 
 Los sujetos del desarrollo social podrán beneficiarse de los programas de desarrollo social, cumpliendo con la elegibilidad y la normatividad que cada programa establezca. El Gobierno del estado y los Gobiernos municipales deberán cumplir y hacer cumplir los derechos sociales en el ejercicio de sus atribuciones.
@@ -215,7 +225,9 @@ I. Recibir información de programas sociales, así como un trato oportuno, resp
 
 II. Acceder a los programas que ofrezcan el gobierno estatal y los gobiernos municipales, a través de sus dependencias u organismos de acuerdo con la normativa que cada programa exige;
 
-III. Obtener la información pública, clara y disponible sobre las reglas de operación de los programas sociales;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+III. Obtener, en los términos previstos en la ley de la materia, la información de los programas sociales del Estado y los municipios, las Reglas de Operación, los padrones de beneficiarios y la información mínima que señala la ley de la materia, la cual deberá ser clara y accesible para su consulta.
 
 IV. Gozar de la reserva, confidencialidad y protección de la información y datos personales;
 
@@ -629,6 +641,10 @@ XVII. Las demás que señale el reglamento interno, la presente ley y demás dis
 
 La Secretaría fomentará el derecho de las personas a colaborar en el desarrollo social, así como el de los beneficiarios de programas sociales a participar y colaborar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de los programas sociales, así como de la política social en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, la Ley General de Desarrollo Social, la presente ley y demás ordenamientos legales que los prevean.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+La Secretaría y los municipios, en el ámbito de sus respectivas competencias, deberán expedir los lineamientos que establezcan de modo imparcial y preciso la forma en que los ciudadanos participarán en el ejercicio de los derechos antes mencionados.
+
 Se reconoce a la Contraloría Social como mecanismo de los beneficiarios, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social.
 
 Sin perjuicio de lo dispuesto en la Ley General de Desarrollo Social, las Contraloría Social tendrán la estructura y atribuciones que se establezcan en los lineamientos que el Titular del Ejecutivo emita para su funcionamiento y organización.
@@ -932,3 +948,11 @@ EL SECRETARIO DE GOBIERNO
 JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 183.- SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 6 Y LA FRACCIÓN III DEL ARTÍCULO 13 Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 11 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 54 RECORRIENDO LOS DEMÁS, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
