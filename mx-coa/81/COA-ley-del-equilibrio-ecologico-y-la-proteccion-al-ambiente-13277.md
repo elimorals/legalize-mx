@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2018-01-05"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -71,6 +71,10 @@ IX.- Establecer los mecanismos de coordinación, inducción y concertación de a
 
 X.- Establecer las atribuciones que, en el ámbito de sus respectivas competencias, correspondan al Gobierno del Estado y a los gobiernos municipales en materia ambiental, así como las que les competan bajo el principio de fidelidad municipal, conforme lo previsto por el artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+XI.- Implementar políticas públicas encaminadas a la eliminación del uso de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, así como las que impulsen su sustitución definitiva por productos elaborados con materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos composteables.
+
 (ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
 En todo lo no previsto en la presente Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza y en su defecto el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
@@ -90,6 +94,10 @@ III.- La regulación ecológica del aprovechamiento de los recursos naturales no
 IV.- El establecimiento, protección y preservación de las áreas naturales protegidas y zonas de restauración ecológica;
 
 V.- El establecimiento de museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones y exhibiciones similares, destinados a promover el cumplimiento de la presente ley.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+VI.- Las acciones encaminadas a la prohibición y eliminación del uso de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos.
 
 ###### ARTICULO 3º.
 
@@ -247,6 +255,18 @@ LIX.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
 
 LX.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+LXI.- Biodegradable (s): Calificativo para productos hechos a base de sustancias (macromoléculas o polímeros) susceptibles a degradación por actividad biológica. Se entiende por degradación a la pérdida progresiva de las características ya sean físicas y/o químicas de una sustancia, el proceso de biodegradación depende de la cantidad de oxígeno, el grado de humedad y de la temperatura, y puede ser descompuesto por microorganismos.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+LXII.- Bolsa plástico desechable: Tipo de empaque fabricado con derivados del petróleo y el cual es distribuido por establecimientos comerciales para el acarreo, carga, envoltura o empaque de productos de los consumidores.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+LXIII.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
+
 ###### ARTICULO 4º.
 
 Las autoridades encargadas de la aplicación de esta ley, podrán solicitar asesoría y apoyo profesional a dependencias y entidades federales y estatales, así como a instituciones nacionales que, por razón de su competencia o autoridad en el tema, puedan proporcionarlos; así mismo, propiciarán la participación de los organismos, asociaciones y sociedades científicas o culturales, regionales y nacionales, interesados en la materia.
@@ -327,7 +347,19 @@ IV.- Celebrar convenios en materia ambiental con la Federación, otros estados y
 
 V.- Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los recursos materiales utilizados por los servidores públicos de las diversas dependencias y organismos del Gobierno estatal, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos del Estado la educación ambiental y el fortalecimiento de una cultura ecológica; y
 
-VI.- Las demás que le confiera esta ley, sus reglamentos y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+VI.- Establecer, los criterios, lineamientos y normas técnicas ecológicas ambientales para el estado, referentes a la producción y el consumo sustentable de productos plásticos incluyendo popotes y poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes.
+
+Estos criterios, lineamientos y normas técnicas ecológicas ambientales deberán emitirse bajo esquemas de participación ciudadana e integrarse en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza; en su elaboración se considerará lo siguiente:
+
+a) Establecer principios de reducción, reciclaje y reutilización en el manejo de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos;
+
+b) Garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de los productos plásticos mencionados en el párrafo anterior, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables; por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, minimizando la disposición final;
+
+c) Garantizar que los popotes, bolsas de plástico y poliestireno expandido, se sustituyan por la utilización de materiales provenientes de recursos renovables, para su pronta biodegradación en los destinos finales.
+
+VII.- Las demás que le confiera esta ley, sus reglamentos y otras disposiciones legales.
 
 ###### ARTICULO 9°.
 
@@ -367,9 +399,11 @@ XIII.- Vigilar en el ámbito de su competencia el debido cumplimiento de las nor
 
 XIV.- Las demás que las disposiciones legales le atribuyan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 10.
 
-La Dirección, tendrá las siguientes atribuciones:
+Además, la Secretaría, tendrá las siguientes atribuciones:
 
 I.- Vigilar el debido cumplimiento de las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico;
 
@@ -473,9 +507,21 @@ XXXIV.- Vigilar en el ámbito de su competencia, el debido cumplimiento de las n
 
 XXXV.- Difundir los proyectos de educación ambiental y de conservación y desarrollo ecológico de alcance general en la entidad, a fin de desarrollar una mayor conciencia ambiental en estas materias; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ENERO DE 2019).
 
-XXXVI.- Las demás que las disposiciones legales le atribuyan.
+XXXVI. Establecer las bases que permitan la transición del uso de bolsas de plástico de uso único y popotes, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final, al uso de materiales biodegradables;
+
+(ADICIONADA, P.O. 15 DE ENERO DE 2019).
+
+XXXVII. Verificar que las bolsas de plástico y popotes biodegradables que se entreguen en los establecimientos mercantiles y comerciales, cumplan con los criterios sustentables de reducción, reciclaje y reutilización, garantizando la disminución del impacto ambiental; promoviendo el uso de materias primas provenientes de los recursos naturales reciclables o en su caso renovables;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+XXXVIII. Vigilar que los establecimientos comerciales y restaurantes cumplan con las disposiciones referentes a la prohibición de entrega de bolsas de plástico y popotes, señaladas en la presente ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ENERO DE 2019)</small>
+
+XXXIX. Las demás que las disposiciones legales le atribuyan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -553,7 +599,11 @@ XXIV.- Otorgar autorizaciones para uso de suelo, licencias de construcción u op
 
 XXV.- Establecer y aplicar las medidas correctivas e imponer las sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y
 
-XXVI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente determine esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+XXVI.- Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, de conformidad con esta ley y las reglas establecidas en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza y la norma técnica ecológica ambiental de la materia;
+
+XXVII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente determine esta ley u otros ordenamientos aplicables.
 
 #### SECCION II. De la Coordinación de Competencias entre el Estado y los Municipios
 
@@ -971,7 +1021,7 @@ IX.- Las demás obras y actividades que se determinen en los reglamentos; así c
 
 El reglamento de la presente ley determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente y que, por lo tanto, no deban sujetarse al procedimiento de evaluación del manifiesto de impacto ambiental sino al informe preventivo previsto en este ordenamiento.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 Para los efectos a que se refiere la fracción VIII del presente artículo la Secretaría notificará a los Interesados la determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda explicando las razones que lo justifiquen con el propósito de (sic) aquellos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días hábiles contados a partir de dicha notificación. Una vez recibida la documentación de los interesados, la Secretaría, en un plazo no mayor de veinte días hábiles les comunicará si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y el plazo para hacerla En caso de que la Secretaría no emita la comunicación correspondiente dentro del plazo señalado, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
 
@@ -1863,6 +1913,14 @@ XI.- Ejercer las demás facultades que les confieran las disposiciones legales y
 
 No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán de ser observadas las previsiones de esta ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas así como de las normas técnicas estatales que se emitan.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 104 BIS.- Se prohíbe a todo establecimiento comercial dentro del territorio del Estado de Coahuila, proporcionar a los consumidores cualquier tipo de bolsa de plástico desechable para acarreo, carga, envoltura o empaque de productos, ya sea de manera gratuita a la venta para este fin.
+
+No se aplicará lo dispuesto en el párrafo anterior, cuando las bolsas de plástico sean fabricadas con materiales que permitan su reciclado, reutilización o pronta degradación.
+
+En todo caso el ciclo de vida de las bolsas de plastico no será mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. En el caso de las bolsas que cuenten con un aditivo que se (sic) incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años.
+
 #### SECCION II. Del Control de Emisiones Provenientes de Fuentes Fijas
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
@@ -1979,7 +2037,7 @@ Para la aplicación de las disposiciones del presente capítulo, se considerará
 
 ###### ARTICULO 121.
 
-Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los limites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaria de Medio Ambiente Recursos Naturales, así como de las normas técnicas estatales que se emitan, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades estatales o municipales, en los ámbitos de sus competencias, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los limites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaria de Medio Ambiente (sic) Recursos Naturales, así como de las normas técnicas estatales que se emitan, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades estatales o municipales, en los ámbitos de sus competencias, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2175,6 +2233,10 @@ III.- Que es necesario prevenir y reducir la generación de residuos sólidos e 
 
 IV.- Que en los suelos contaminados por la presencia de materiales o residuos no peligrosos, deberán llevarse a cabo las acciones para recuperar o reestablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el plan de desarrollo urbano o de ordenamiento ecológico que resulte aplicable.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+
+V.- Es necesario normar y regular el uso de bolsas, popotes, envases, empaques y embalajes de materiales no biodegradables o no reciclables.
+
 ###### ARTICULO 143.
 
 Los criterios para prevenir y controlar la contaminación del suelo se considerarán, particularmente en:
@@ -2227,6 +2289,10 @@ Toda descarga o depósito de residuos sólidos no peligrosos en los suelos de co
 
 Para la localización, instalación y funcionamiento de sistemas de manejo de residuos sólidos no peligrosos, se tomará en cuenta el ordenamiento ecológico y los planes y programas de desarrollo urbano estatal y municipal.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 148 BIS.- Las autoridades estatales y los municipios deberán promover en base a las leyes de la materia, la utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos y la clasificación de los mismos de acuerdo a las normas técnicas ecológicas correspondientes.
+
 ###### ARTICULO 149.
 
 Las autoridades municipales competentes adoptarán las medidas necesarias a fin de racionalizar la generación de residuos sólidos municipales e industriales no peligrosos e incorporarán técnicas y procedimientos para su clasificación, reuso y reciclaje. En tratándose de materiales o residuos peligrosos, se sujetarán a lo dispuesto en la LGEEPA, sobre la materia.
@@ -2238,6 +2304,16 @@ Los municipios, cuando así lo estimen necesario, podrán solicitar a la Federac
 I.- La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos no peligrosos; y
 
 II.- La identificación de alternativas de reuso y disposición final de los referidos residuos, incluyendo la elaboración de inventarios de los mismos y de sus fuentes generadoras.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 150 BIS.- En el estado de Coahuila de Zaragoza, se restringe la venta, facilitación y obsequio de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares.
+
+Toda persona física o jurídica que infrinja lo establecido en el presente artículo será acreedor a las sanciones que se prevén en la presente ley.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 150 TER.- El estado y municipios en coordinación con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre el uso y destino final de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos que incluyan educación sobre el impacto ambiental producido por los plásticos no biodegradables y biodegradables y de los recipientes elaborados con poliestireno expandido, así como fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos composteables.
 
 #### SECCION II. De los Servicios Públicos Municipales
 
@@ -2291,13 +2367,37 @@ El estado y los municipios deberán, en los términos de las disposiciones aplic
 
 Los municipios promoverán ante la Secretaría la atención de los asuntos relacionados con actividades consideradas como no altamente riesgosas.
 
-### CAPITULO I. DE LA PARTICIPACION SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VII. DEL USO DEL PLASTICO EN ESTABLECIMIENTOS MERCANTILES Y COMERCIALES
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 156 BIS.- Para el resguardo y traslado de la mercancía adquirida en establecimientos mercantiles y comerciales, queda prohibida la entrega y/o uso de bolsas de plástico no biodegradables.
+
+Queda prohibida la entrega y/o uso de popotes de plástico a los consumidores en restaurantes, cafeterías, bares y en cualquier otro establecimiento mercantil o comercial, salvo aquellos que sean biodegradables.
+
+La Secretaría deberá de realizar las acciones necesarias, para que la población prefiera utilizar alternativas que tengan mínimo impacto ambiental, para el traslado de sus compras y desarrolle mejores prácticas en el consumo de líquidos.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 156 TER.- Además de las atribuciones establecidas en el artículo 10 de esta ley, la Secretaría tendrá a su cargo la implementación de un programa adecuado de sustitución y alternativas viables para reemplazar las bolsas de plástico y popotes por productos degradables o biodegradables, bajo los siguientes lineamientos:
+
+I. Informar a la sociedad de manera oportuna, así como llevar a cabo campañas de asistencia gratuita para capacitar a los consumidores en general, sobre las posibles alternativas con las que podrán sustituir las bolsas de plástico y popotes no degradables o no biodegradables;
+
+II. Realizar diversas campañas de difusión y concientización sobre los beneficios que se obtendrán al utilizar materiales degradables o biodegradables.
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos.
+
+IV. Promover el otorgamiento de incentivos y estímulos para aquellos que realicen acciones tendientes a reemplazar las bolsas de plásticos y popotes por artículos degradables o biodegradables con el fin de procurar mantener el equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+ARTICULO 156 QUATER.- La utilización de bolsas de plástico y popotes sólo se permitirá en caso de que sean creadas bajo procedimientos tecnológicos que les den la calidad de biodegradables.
 
 ## TITULO QUINTO. DE LA PARTICIPACION SOCIAL Y DE LA INFORMACION AMBIENTAL
 
-### CAPITULO II. DEL DERECHO A LA INFORMACION AMBIENTAL
+### CAPITULO I. DE LA PARTICIPACION SOCIAL
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2337,7 +2437,9 @@ Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en ma
 
 Cuando el Ejecutivo del Estado o los municipios deban resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL DERECHO A LA INFORMACION AMBIENTAL
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 160.
 
@@ -2391,15 +2493,13 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ## TITULO SEXTO. DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y DE LAS SANCIONES
 
-### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 165.
 
 Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia; ejecución de medidas de seguridad; determinación de infracciones; de la comisión de delitos y sus sanciones; procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal regulados por esta ley. En las materias anteriormente señaladas se aplicarán en su caso, de manera supletoria las disposiciones previstas en leyes estatales u ordenamientos municipales que regulen en forma específica dichas cuestiones.
 
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -2549,9 +2649,9 @@ En la resolución administrativa correspondiente, se señalarán o, en su caso, 
 
 En los casos en que el infractor realice las medidas correctivas que subsanen las irregularidades detectadas en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 180 de esta ley, dicha autoridad podrá revocar o modificar la sanción o sanciones impuestas.
 
-### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 180.
 
@@ -2563,9 +2663,9 @@ Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterio
 
 Cuando la Procuraduría, o la autoridad que corresponda de los municipios, ordene alguna de las medidas de seguridad previstas en esta ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPITULO V. DEL RECURSO DE REVISION
+### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 182.
 
@@ -2653,7 +2753,7 @@ La Secretaría proporcionará, en las materias de su competencia, los dictámene
 
 La Procuraduría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
 
-### CAPITULO VI. DE LA DENUNCIA POPULAR
+### CAPITULO V. DEL RECURSO DE REVISION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -2784,6 +2884,10 @@ Para tal efecto, deberán interponer el recurso administrativo de revisión a qu
 ###### ARTICULO 203.
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
+
+### CAPITULO VI. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 204.
 
@@ -3057,7 +3161,7 @@ TERCERO.- Las dependencias estatales y municipales correspondientes deberán lle
 
 P.O. 26 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE "SE REFORMAN LA FRACCIÓN LIX DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 68, EL PRIMER PÁRRAFO DEL ARTÍCULO 78, EL PRIMER PÁRRAFO DEL ARTÍCULO 79, EL PRIMER PÁRRAFO DEL ARTÍCULO 80, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 82 BIS, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE "SE REFORMAN LA FRACCIÓN LIX DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 68, EL PRIMER PÁRRAFO DEL ARTÍCULO 78, EL PRIMER PÁRRAFO DEL ARTÍCULO 79, EL PRIMER PÁRRAFO DEL ARTÍCULO 80, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 82 BIS, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
@@ -3071,7 +3175,7 @@ Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e I
 
 QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
 
-SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+SEXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
 
 Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
 
@@ -3105,8 +3209,32 @@ DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere
 
 P.O. 5 DE ENERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1149.- SE ADICIONA EL ARTÍCULO 20 BIS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA Y ADICIONA EL ARTÍCULO 10 FRACCIÓN XXIII DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1149.- SE ADICIONA EL ARTÍCULO 20 BIS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA Y ADICIONA EL ARTÍCULO 10 FRACCIÓN XXIII DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado;
 
 SEGUNDO.- Los manuales de sistemas de manejo ambiental deberán expedirse a más tardar 30 días hábiles después de la publicación del presente decreto.
+
+P.O. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 187.- SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor dentro de los 12 meses contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Sin perjuicio de lo dispuesto en el artículo transitorio primero, para la transición paulatina de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, se permitirá temporalmente la venta, facilitación y obsequio de aquellos productos elaborados con materiales biogradables, sujeta a la gradualidad establecida en el presente artículo transitorio.
+
+La entrada en vigor de la restricción definitiva de venta, facilitación y obsequio de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos de conformidad con lo establecido en el primer párrafo del artículo 150 bis, se ajustará a la siguiente gradualidad:
+
+a) En supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de ocho meses a la entrada en vigor del presente decreto;
+
+b) En establecimientos dedicados a la venta de mayoreo y de menudeo de los productos señalados, en un plazo de ocho meses a la entrada en vigor del presente decreto;
+
+Concluidos los plazos señalados en los incisos anteriores, todos los establecimientos comerciales señalados en el primer párrafo del artículo 150 bis, deberán de llevar a cabo la sustitución definitiva de los productos elaborados con materiales biogradables por los fabricados solamente con materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos composteables.
+
+Tercero.- El gobierno del estado de Coahuila de Zaragoza, en un plazo no mayor de seis meses a la entrada en vigor del presente decreto, deberá adecuar el programa estatal para la prevención y gestión integral de residuos para el estado de Coahuila de Zaragoza, para efectos de armonizarlos a las disposiciones contenidas en el presente.
+
+Así también deberá expedir una norma técnica ecológica ambiental, cuya elaboración por parte de la autoridad competente se realice bajo esquemas de participación ciudadana en la que se considere la participación de las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general.
+
+Cuarto.- Los ayuntamientos del estado en un plazo no mayor de seis meses siguientes a la entrada en vigor del presente decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las dispocisiones (sic) contenidas en el presente y expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos.
+
+Quinto.- Se derogan todas las disposiciones que se opongan al presente decreto.
