@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-administracion-publica-del-municipio-de-80236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-23"
-last_updated: "2017-11-15"
+last_updated: "2019-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 23 de febrero de 2011.
 
@@ -79,35 +79,41 @@ g) La Dirección General de Desarrollo Urbano y Medio Ambiente;
 
 h) La Dirección General de Desarrollo Social;
 
-i) La Dirección de Gobierno;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+i) La Dirección General de Desarrollo Humano;
 
-j) Unidad de Vinculación para la Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+j) La Dirección de Gobierno
 
-k) La Dirección General de Obras Públicas;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+k) La Unidad de Vinculación para la Transparencia y Acceso a la Información Pública;
 
-l) La Dirección General de Servicios Públicos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+l) La Dirección General de Obras Públicas;
 
-m) La Dirección General de Desarrollo Económico;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+m) La Dirección General de Servicios Públicos;
 
-n) La Dirección General de Asuntos Jurídicos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+n) La Dirección General de Desarrollo Económico;
 
-o) La Dirección General de Turismo; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+o) La Dirección General de Asuntos Jurídicos;
 
-p) La instancia de la Mujer.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
+
+p) La Dirección General de Turismo; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2019)</small>
+
+q) La instancia de la Mujer.
 
 II. Organismo Descentralizado:
 
@@ -115,13 +121,9 @@ II. Organismo Descentralizado:
 
 a) Sistema Municipal para el Desarrollo Integral de la Familia;
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+b) (DEROGADO, P.O. 15 DE ENERO DE 2019)
 
-b) Instituto Municipal de la Juventud, Deporte y Recreación: y
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-c) Instituto de la Cultura y Las Artes.
+c) (DEROGADO, P.O. 15 DE ENERO DE 2019)
 
 Y demás que se requieren de acuerdo a la estructura y crecimiento del Municipio de Isla Mujeres.
 
@@ -1749,7 +1751,9 @@ V. Dar seguimiento a la operación del Comité Municipal del Comercio, como un �
 
 VI. Realizar acciones que modifiquen los procesos y procedimientos que realiza la autoridad municipal para dar un adecuado registro, vigilancia y seguimiento a las actividades de los particulares que estén sujetos a regulación; buscando una reingeniería en los procesos municipales a través de una evaluación de satisfacción del cliente;
 
-VII. Establecer y dar seguimiento al sistema de apertura rápida de empresas, buscando eliminar las barreras administrativas en el interior del Municipio y en su caso, entre los diferentes ámbitos de gobierno, con la finalidad de reducir el tiempo y esfuerzo que los ciudadanos tienen que invertir para encontrar y obtener los servicios que requieren;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+VII. Establecer y dar seguimiento al sistema de apertura rápida de empresas, buscando eliminar las barreras administrativas en el interior del Municipio y en su caso, entre los diferentes ámbitos de gobierno, con la finalidad de reducir el tiempo y esfuerzo que los ciudadanos tienen que invertir para encontrar y obtener los servicios que requieren, así como coordinando la administración de los centros comunitarios del Municipio.
 
 VIII. Dar seguimiento a los convenios de colaboración que el Municipio celebre entre los Gobiernos Federal y Estatal, o con los organismos públicos o privados, siempre y cuando sean de su competencia y tengan relación con la mejora regulatoria del municipio;
 
@@ -1759,11 +1763,11 @@ X. Elaborar su programa operativo anual, debidamente proyectado conforme al Plan
 
 XI. Las demás que le confieran las leyes, decretos, reglamentos, acuerdos o convenios, o le atribuya directamente el Presidente Municipal;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Económico, se auxiliará en la Dirección de Promoción Pesquera y la Dirección de Desarrollo Empresarial y Productividad, así como en las demás munidades (sic) Administrativas que requiera para su desempeño.
+Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Económico, se auxiliará en la Dirección de Promoción Pesquera y la Dirección de Desarrollo Empresarial y Productividad y las Coordinaciones Administrativas de los Centros de Desarrollo Comunitario en Zona insular y Zona Continental, así como en las demás unidades Administrativas que requiera para su desempeño.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1789,7 +1793,9 @@ VI. Las demás que le asigne el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Tercera. La Dirección de Deporte
+#### Sección Tercera. De la Coordinación Administrativa Del Centro De Desarrollo Comunitario
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 59.
 
@@ -1811,13 +1817,23 @@ VII. Llevar a cabo acciones que fomenten el crecimiento de la economía municipa
 
 VIII. Las demás que le asigne el Presidente Municipal.
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
 
 #### Sección Cuarta. La Dirección de Turismo
 
 ###### Artículo 60.
 
-(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2016)
+Son facultades del (sic) titulares de la coordinación administrativa de los centros de desarrollo comunitario de la Zona Insular y de la Zona Continental:
+
+I. Administrar de forma óptima los recursos humanos y materiales.
+
+II. Coordinar los horarios de las actividades a realizar en los centros comunitarios;
+
+III. Proveer las necesidades de los centros de desarrollo comunitarios;
+
+IV. Reportar las faltas del personal al Titular de la Dirección General de Desarrollo Económico y;
+
+V. Las demás encomiendas que el Director General de Desarrollo Económico le confiera.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1877,7 +1893,9 @@ VIII. Promover la celebración de convenios o acuerdos de coordinación con las 
 
 IX. Representar al Ayuntamiento ante las dependencias federales y estatales encargadas de los programas de combate a la pobreza;
 
-X. Dirigir y controlar las acciones municipales tendientes a la promoción de capacidades laborales y productivas a través de talleres y cursos, así como coordinando la administración de los centros comunitarios del Municipio;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+
+X. Dirigir y controlar las acciones municipales tendientes a la promoción de capacidades laborales y productivas a través de talleres y cursos.
 
 XI. Elaborar estudios, planes y proyectos orientados al mejoramiento de la calidad de vida de la población;
 
@@ -1959,6 +1977,148 @@ V. Crear los órganos de participación y colaboración ciudadana, así como los
 
 VI. Las demás facultades que le asigne el Director General.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2019)</small>
+
+#### Sección Primera. Dirección de Arte y Cultura
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Artículo 61 NOVIES.- La Dirección de Arte y Cultura tendrá los siguientes objetivos:
+
+I.- Promover, preservar, difundir e investigar las manifestaciones culturales y artísticas y en especial las étnicas;
+
+II.- Promover la creación de talleres o grupos en atención a las distintas manifestaciones culturales y artísticas;
+
+III.- Fomentar la entrega de reconocimientos y estímulos, a favor de las personas que se hayan distinguido en el campo de la Cultura y las Artes por impulsar los valores y tradiciones del Estado; y,
+
+IV.- Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente
+
+V.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal;
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
+
+### Capítulo VIII TER. La Dirección General De Desarrollo Humano
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Artículo 61 SEPTIES.- Son facultades y obligaciones del titular de la Dirección General de Desarrollo Humano las siguientes:
+
+I. Formular, conducir y evaluar la política general de desarrollo humano en el Municipio, a través de mecanismos para el mejoramiento de las condiciones de vida de la población mediante la incorporación plena de los individuos, grupos y sectores de la sociedad, comunidades y regiones al desenvolvimiento integral y sustentable de sus capacidades productivas y su calidad de vida, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos;
+
+II. Coordinar los servicios de desarrollo humano, tales como los culturales, los artísticos, los deportivos, los recreativos y los de atención a la juventud a cargo del Municipio;
+
+III. Proyectar y coordinar, con la participación que corresponda a la ciudadanía y organismos competentes, la planeación del desarrollo humano en concordancia con los planes y programas de la entidad y la Federación;
+
+IV. Coordinarse con las dependencias y entidades federales y estatales en la aplicación de los programas sociales, para el combate a la pobreza, y atención a grupos vulnerables, rescate de espacios públicos, preservación del patrimonio cultural e histórico
+
+V. Fomentar y apoyar la participación de la ciudadanía organizada en el desarrollo humano a través de los órganos, consejos, comités, ligas, redes y demás instancias previstas en las leyes del Estado y en las disposiciones del propio Municipio;
+
+VI. Informar a la sociedad sobre las acciones en torno al (sic) humano, por conducto de las instancias o medios que determine el Presidente Municipal o se prevean en las disposiciones legales respectivas;
+
+VII. Proponer al Presidente Municipal normas en materia de desarrollo humano al (sic) tomando en cuenta las particularidades del Municipio y las disposiciones de la legislación federal y estatal en la materia;
+
+VIII. Promover la celebración de convenios o acuerdos de coordinación con las dependencias o entidades de la Federación o del Estado, así como con organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
+
+IX. Representar al Ayuntamiento ante las dependencias federales y estatales encargadas de los programas de combate a la pobreza;
+
+X. Dirigir y controlar las acciones municipales tendientes a la promoción de capacidades artísticas, deportivas e intelectuales a través de talleres y cursos, así como coordinando la administración de los centros culturales, espacios artísticos y recreativos; instalaciones deportivos (sic) y centros de atención a la juventud;
+
+XI. Elaborar estudios, planes y proyectos orientados al mejoramiento de la calidad de vida de la población;
+
+XII. Participar en el Comité de Planeación y Desarrollo Municipal en el ámbito de su competencia y fomentar que los órganos de participación y colaboración ciudadana, lo hagan;
+
+XIII. Coordinar la vinculación interinstitucional del Ayuntamiento con las dependencias estatales y federales encargadas de programas de desarrollo humano y de combate a la pobreza, combate a los (sic) adicciones y fomento a la cultura física y al deporte representando a la Administración Pública Municipal en las instancias de coordinación respectivas;
+
+XIV. Auxiliar al Presidente Municipal en la participación de las comisiones, consejos de cultura, deporte y juveniles que funcionen en el Municipio;
+
+XV. Coordinar y supervisar el seguimiento de los planes, programas y obras deportivas, así como de carácter cultural y artístico en el Municipio;
+
+XVI. Administrar y operar las casas de la cultura, museos, teatros;
+
+XVII. Ejercer las funciones que en materia deportiva, cultural le correspondan al Ayuntamiento, las cuales estarán determinadas por los convenios que se celebren con la Federación, el Gobierno del Estado y por lo que dispongan los ordenamientos en la materia;
+
+XVIII. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas artísiticos y culturales en el Municipio;
+
+XIX. Proponer al Presidente Municipal, a los ciudadanos y vecinos del Municipio que puedan ser considerados para formar el Consejo Consultivo previsto en la Ley de los Municipios;
+
+XX. Brindar apoyo a grupos culturales y artísticos así como los deportivos y de atención a la juventud con perfiles que se orienten a desarrollar una actividad productiva por cuenta propia ligada a un proyecto productivo sustentado e integrado; y
+
+XXI. Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Artículo 61 OCTIES.- Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Humano, se auxiliará en la Dirección de Arte y Cultura, la Dirección de Deporte y Cultura Física, y la Dirección de Atención a la Juventud, así como en las demás unidades Administrativas que requiera para su desempeño.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
+
+#### Sección Segunda. Dirección de Deporte y Cultura física
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Artículo 61 DECIES.- La Dirección de Deporte y Cultura Física tendrá los siguientes objetivos:
+
+I.- Coordinar y promover en el ámbito del deporte, acciones conjuntas con otros ayuntamientos de la entidad para propiciar el aprovechamiento del potencial administrativo y humano en beneficio de sus comunidades;
+
+II.- Fomentar la capacidad y actualización de instructores y maestros de educación física, directores deportivos, así como toda persona que realice actividades deportivas y toda actividad relacionada con el deporte dentro del municipio;
+
+III.- Participar en el ámbito de sus atribuciones en el cumplimiento de los programas, derivados de los convenios que este celebre con las diversas dependencias y entidades públicas, privadas y sociales dedicadas al quehacer deportivo, relacionados con el deporte del municipio;
+
+IV.- Administrar, dirigir, coordinar y conservar en su caso, todas aquellas áreas y espacios donde se lleven a cabo los servicios de atención social y centros deportivos, parques y canchas y todos los espacios en los que se practiquen el deporte, los centros de reunión de la población, así como los espacios en los que la población participe en diferentes actividades deportivas;
+
+V.- Fomentar, gestionar, administrar la apertura de nuevos centros deportivos;
+
+VI.- Alentar la participación ciudadana en la promoción, fomento y difusión de los valores deportivos de toda la población;
+
+VII.- Promover y fomentar la adquisición de material deportivo mediante donativos para personas con capacidades diferentes y para los adultos mayores en centros deportivo (sic) apropiados para tales fines;
+
+VIII.- Impulsar y fortalecer el cultivo y creación de los deportes, de excelencia deportiva, el desarrollo de la comunicación social, así como toda actividad que propicie el perfeccionamiento armónico, espiritual e intelectual de los habitantes del municipio;
+
+IX.- Promover y fomentar en la población de todas las edades y de personas con capacidades diferentes, el deporte en todos los órdenes, a fin de que participen en competencias;
+
+X.- Impulsar y apoyar a personas o grupos interesados en el deporte, dentro de los lineamientos adecuados a las necesidades de expresión, su potencial competitivo y su capacidad para ganar en competencia a nivel municipal, estatal y nacional, que tiendan a formar y reafirmar la calidad deportiva de los habitantes del municipio;
+
+XI.- Fomentar el deporte entre el personal al servicio de las diversas dependencias del municipio promover y fomentar la creación de equipos y competencias deportivas;
+
+XII.- Impulsar programas especiales de capacitación y desarrollo, actividades deportivas en las comunidades rurales, para propiciar la superación en este sector;
+
+XIII.- Promover la realización de programas audiovisuales y fomentar el aprovechamiento de los medios de comunicación, para fortalecer la difusión del deporte y en su caso, realizar actos de reconocimiento a todos (sic) aquellas personas destacados (sic) que hayan contribuido directa o indirectamente al desarrollo deportivo del municipio que incluirán premios en el campo del deporte en todas las disciplinas que se practiquen en el municipio, así como los estímulos necesarios para fomentar e impulsar su desarrollo, publicando las convocatorias y realizando la organización y ceremonias para el otorgamiento de los premios y estímulos;
+
+XIV.- Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños, jóvenes y personas con capacidades diferentes en la iniciación de actividades deportivas y creativas, en coordinación con instituciones, sindicatos, sociedades y asociaciones civiles afines (sic) establecer intercambios en las disciplinas deportivas en el orden municipal, estatal, nacional e internacional, con las instituciones afines a sus objetivos;
+
+XV.- Promover, coordinar y gestionar la realización de eventos deportivos de alto rendimiento en el Municipio; y
+
+XVI.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
+
+#### Sección Tercera. Dirección de Atención a la Juventud
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+
+Artículo 61 UN DECIES.- La Dirección de Atención tendrá los siguientes objetivos:
+
+I.- Formular, recibir y canalizar propuestas sugerencias e inquietudes, diseños e iniciativas de la Juventud en los distintos niveles de la vida nacional, tendientes a elevar la calidad de vida de la población joven residente en el Municipio;
+
+II.- Promover la comprensión de los valores de la identidad Municipal, Estatal y Nacional entre las y los jóvenes;
+
+III.- Planear, desarrollar, vigilar, fomentar y estimular el desarrollo integral de la juventud, así como ejecutar las actividades encaminadas a la realización de eventos de carácter municipal que promuevan o permitan su desarrollo integral;
+
+IV.- Proponer, crear, administrar, regular y supervisar centros municipales enfocados a la atención de la juventud, procurando su óptimo aprovechamiento así como establecer los mecanismos que garanticen la conservación y el buen uso de los mismos;
+
+V.- Estar en constante comunicación y relación de trabajo con las diferentes dependencias del Municipio principalmente con las áreas de Cultura, Educación y Deporte para elaborar planes y programas de trabajo en forma conjunta, que fomenten la formación integral de la juventud y sin duplicidad de funciones;
+
+VI.- Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles, así como de sus consecuencias y posibles soluciones;
+
+VII.- Auxiliar cuando lo requieran, a las dependencias y entidades de la Administración Pública Municipal, así como a los gobiernos Federal, Estatal y Municipal, en la difusión y promoción de los servicios y beneficios que presten a la juventud;
+
+VIII.- Coadyuvar con las dependencias y entidades de la Federación y del Estado de Quintana Roo para el otorgamiento de becas y/o estímulos, así como con los sectores social y privado para acercar a los beneficiarios de éstas a las convocatorias o concursos que para tal efecto emitan;
+
+IX.- Coordinar los trabajos de las convocatorias que emita el Ayuntamiento, el Estado para la participación de la juventud en eventos, concursos, certámenes entre otros; Promover y ejecutar acciones para el reconocimiento público y la difusión de las actividades sobresalientes de los jóvenes en distintos ámbitos del acontecer municipal;
+
+X.- Proponer programas de capacitación y formación en materia de desarrollo integral de la juventud y;
+
+XI.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal.
+
 #### Sección Primera. De la Dirección Consultiva
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -1982,6 +2142,188 @@ VII. Las demás facultades que le confiera el Director General.
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPÍTULO IX. DE LA DIRECCION DE GOBIERNO DEL AYUNTAMIENTO
+
+###### Artículo 62.
+
+A la Dirección de Gobierno le corresponde las siguientes funciones y obligaciones:
+
+I. Coordinar en conjunto con la Dirección de Desarrollo Social las Audiencias Públicas.
+
+II. Coordinar y concentrar la información relativa al funcionamiento y operación de las Direcciones Municipales.
+
+III. Coordinar los trabajos, dentro del ámbito de competencia, del Consejo Consultivo de la Ciudad.
+
+IV. Coordinar con las Direcciones la instalación de los consejos técnicos, comités ciudadanos y vecinales que correspondan; y
+
+V. Auxiliar al Presidente Municipal en la conducción de las relaciones con las dependencias y entidades de la Administración Pública Federal y Estatal
+
+VI. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento y las leyes y reglamentos vigentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO X. DE LA UNIDAD DE VINCULACIÓN PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 63.
+
+A la Unidad de Vinculación Para la Transparencia y Acceso a la Información Pública le corresponden las siguientes funciones y obligaciones:
+
+I. Garantizar el principio democrático de publicidad de los actos del Gobierno Municipal;
+
+II. Dar cumplimiento al “Derecho de Acceso a la Información Pública", que corresponde a toda persona que habite o se encuentre en tránsito en el Municipio para allegarse información;
+
+III. Informar de toda actividad desarrollada en el ámbito de sus funciones por las Dependencias y Unidades, que conforman el Gobierno Municipal;
+
+IV. Regular el comportamiento, atribuciones y responsabilidades de los Servidores Públicos en materia de transparencia y acceso a la información;
+
+V. Emitir los acuerdos que resuelvan las solicitudes de información y determinar su entrega, debidamente fundado y motivado;
+
+VI. Establecer el procedimiento general para tener acceso a la Información Pública por parte del peticionario;
+
+VII. Integrar un catálogo de la información con que cuenta en las Direcciones Generales y Direcciones de área y mantenerlo actualizado;
+
+VIII. Verificar si la Dirección General o Dependencia Paramunicipal a la que se pretende remitir la solicitud es competente para darle trámite;
+
+IX. Requerir a las Direcciones Generales o a la Dependencia Paramunicipal competentes, la respuesta a la solicitud de información pública antes del vencimiento del plazo señalado para tramitarla. En caso de que dichas Direcciones Generales y Dependencias Paramunicipales no den cumplimiento a la misma, dar vista a la Contraloría Municipal, para los efectos a que haya lugar de acuerdo a la normatividad aplicable;
+
+X. Notificar a la Contraloría Municipal, de la falta de respuesta por parte de la Dependencia o Unidad que deba generarla o bien de alguna violación a la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo o a las disposiciones que en materia de Transparencia y Acceso a la Información Pública se encuentren vigentes en el Municipio, a fin de que se impongan las sanciones correspondientes independientemente del recurso que interponga el solicitante afectado ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+XI. Establecer de manera permanente la rendición de cuentas por parte de la Administración Pública Municipal a los ciudadanos a través de la Unidad de Vinculación de esta, así como facilitar la evaluación objetiva sobre el desempeño de la Administración Pública; brindando los elementos necesarios al conjunto de ciudadanos para fomentar una participación informada;
+
+XII. Representar a la Unidad de Vinculación Para la Transparencia y Acceso a la Información, ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo en los recursos de revisión previstos por la ley, que se interpongan en el mencionado Instituto;
+
+XIII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
+
+XIV. Vigilar que el personal adscrito a la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, cumpla cabalmente con lo establecido en las leyes, reglamentos, acuerdos y demás disposiciones que tengan relación con el objeto de su cargo, así como también cumplan con los planes y programas fijados;
+
+XV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus funciones;
+
+XVI. Determinar que Dependencia dentro de su área, deberá coordinar sus acciones con las autoridades Estatales y Federales para el buen desarrollo de los programas que así se requieran;
+
+XVII. Realizar estudios, proponer iniciativas, reformas o adiciones a los Reglamentos Municipales que se refieran a sus facultades, acordándolas con el Presidente Municipal, para su trámite correspondiente;
+
+XVIII. Previo acuerdo con el Presidente Municipal, podrá gestionar la creación o suprimir las jefaturas de departamento y demás cargos que se requieran para la buena administración de la Unidad de Vinculación Para la Transparencia y Acceso a la Información y asignarles las facultades y obligaciones que crea convenientes, mismos que deberán ajustarse a la suficiencia del presupuesto;
+
+XIX. De acuerdo a la fracción XI del artículo 15 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, con la información que las Dependencias, Unidades y demás obligados de la Administración Pública Municipal, deberá mandar publicar a través de la página de Internet la información relativa a los contratos que hayan celebrado en materia de adquisiciones, arrendamientos, licitaciones y prestación de servicios de dichas dependencias, unidades y demás obligados de la administración Pública Municipal;
+
+XX. Mandar publicar, los resultados finales de las auditorias que se practiquen a los sujetos obligados, dando especial cuidado del contenido evitando la información que pueda causar un serio perjuicio a las actividades que tengan por objeto la verificación del cumplimiento de leyes que se relacionen con presuntas responsabilidades o de otra índole y, en general, aquélla que tenga el carácter de reservada o confidencial en los términos de dicha Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+
+XXI. La información de observaciones de auditorías a que se refiere la fracción anterior, que puedan dar lugar a procedimientos administrativos o jurisdiccionales, serán públicas una vez que los procedimientos sean resueltos de manera definitiva y las resoluciones correspondientes hayan causado estado y no sean recurribles en forma alguna;
+
+XXII. Dado que el acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los gastos propios de la reproducción y entrega que correspondan según los medios utilizados para este fin. Por lo que la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, deberá procurar reducir al máximo los costos de los materiales utilizados para la reproducción y envío en su caso de la información solicitada a dicha Unidad de Vinculación, de conformidad a lo dispuesto en el Artículo 36 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, lo anterior con la finalidad de reducir los montos por cuotas de acceso, mismos que se deberán de informar al solicitante previamente a su otorgamiento;
+
+XXIII. Rendir al Presidente Municipal, independientemente de las veces que este así se lo requiera, un informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Ayuntamiento, cuando este así se lo requiera;
+
+XXIV. Difundir las iniciativas que el Ayuntamiento, remita al poder Legislativo para su aprobación; llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones;
+
+XXV. Proporcionar la información que le sea solicitada, en su caso emitir negativas a las solicitudes, las respuestas deberán estar fundadas y motivadas e indicar al solicitante las causas por las que no es posible emitir dicha información, a excepción de los casos en que se aplique el principio de negativa ficta, por tratarse de información reservada y confidencial, así como aquella que ponga en peligro la estabilidad, económica o social o ponga en peligro la seguridad pública del Municipio y;
+
+XXVI. Las demás que resulten compatibles al ejercicio de cargo y que le confieren las Leyes, Reglamentos y demás disposiciones vigentes.
+
+###### Artículo 64.
+
+Con la información que las Dependencias, Entidades y demás sujetos obligados de la Administración Pública Municipal, actualicen y publiquen bimestralmente, la Unidad de Vinculación a la Transparencia y Acceso a la Información Pública, deberá poner a disposición del público aquella información que resulte obligatoria según el Artículo 15 de la Ley, conforme a lo siguiente:
+
+I. La Unidad de Vinculación para la Transparencia y Acceso a la Información; recabará y será la responsable de difundir poniendo a disposición del público dicha información;
+
+II. La información deberá estar contenida en una página de Internet de acceso al público en general, visible desde el portal principal de Internet del Municipio, indicando siempre la fecha de su actualización;
+
+III. La información deberá presentarse de manera clara y completa, de forma tal (sic) que se asegure su calidad, veracidad, oportunidad y confiabilidad;
+
+IV. La página de Internet deberá contener la dirección electrónica, el domicilio para recibir correspondencia y el número telefónico de la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, así como el nombre de su Titular y funcionarios de la misma.
+
+V. En la página electrónica se incorporará un formato a fin (sic) poder realizar la solicitud por este medio.
+
+### CAPÍTULO XI. DE LA INSTANCIA MUNICIPAL DE LA MUJER
+
+###### Artículo 65.
+
+A la Instancia Municipal de la Mujer le corresponden las siguientes funciones y obligaciones:
+
+I. Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de (sic) gobierno municipal;
+
+II. Coadyuvar para integrar el apartado relativo al programa operativo anual de acciones gubernamentales en favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquéllas en las cuales la mujer deba tener una participación efectiva;
+
+III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y a la equidad de género;
+
+IV. Apoyar a las y los representantes del municipio ante las autoridades estatales y con la Instancia de la Mujer en el Estado, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
+
+V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
+
+VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
+
+VII. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, como método para unir esfuerzos participativos en favor de una política de género de igualdad entre mujeres y hombres;
+
+VIII. Coordinar los trabajos del tema de mujeres, entre el Ayuntamiento con el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique por separado información sobre hombres y mujeres, base fundamental para la elaboración de diagnósticos municipales, regionales y del Estado;
+
+IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
+
+X. Promover la capacitación y actualización de servidores públicos responsables de emitir políticas públicas de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
+
+XI. Brindar orientación a las mujeres del municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
+
+XII. Promover ante las autoridades del sector salud los servicios de salud antes, durante y después del embarazo, así como promover campañas de prevención y atención de cáncer de mama y cérvicouterino;
+
+XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
+
+XV. Estimular la capacidad productiva de la mujer;
+
+XVI. Promover la elaboración de programas que fortalezcan la familia como ámbito de promoción de la igualdad de derechos, oportunidades y responsabilidades sin distinción de sexo,
+
+XVII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
+
+XVIII. Rendir al Presidente Municipal, independientemente de las veces que este así se lo requiera, los informes de actividades y del grado de avance de los programas de trabajo; y
+
+XIX. Las demás que resulten compatibles al ejercicio de cargo y que le confieren las Leyes, Reglamentos y demás disposiciones vigentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO XII. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 66.
+
+Son facultades y obligaciones del titular de la Dirección General de Asuntos Jurídicos, las siguientes:
+
+I. Asesorar al Presidente Municipal en materia legal;
+
+II. Intervenir por instrucciones del Presidente y del Síndico Municipal en toda controversia jurisdiccional en la que el Municipio sea parte;
+
+III. Asesorar a las áreas administrativas que soliciten su intervención;
+
+IV. Aceptar poderes de representación que le confiera el Ayuntamiento a través del Síndico Municipal, las dependencias y las unidades administrativas;
+
+V. Atender los asuntos jurídicos que requieran las dependencias o entidades del Ayuntamiento, así como el seguimiento de los asuntos judiciales y contenciosos-administrativos en los que el Ayuntamiento sea parte y que no sea competencia de otra unidad administrativa;
+
+VI. Asesorar en el estudio, formulación y modificación de los convenios y contratos en los que el Ayuntamiento sea parte, así como en los concursos de obra pública relativos;
+
+VII. Opinar sobre la procedencia jurídica de los documentos que habrán de publicarse en la Gaceta Oficial del Municipio;
+
+VIII. Prestar asesoría y defensa legal mediante patrocinio y defensoría, a través de sus integrantes, a personas de escasos recursos que lo soliciten;
+
+IX. Intervenir en el estudio y formulación de las concesiones administrativas de los servicios públicos que corresponda otorgar al Ayuntamiento, así como en los procedimientos administrativos de revocación o cancelación de las mismas;
+
+X. Tramitar y resolver los recursos administrativos previstos en la Ley de los Municipios del Estado de Quintana Roo, en el Bando de Policía y Gobierno y los que se interpongan en contra de resoluciones que dicten las unidades administrativas del Ayuntamiento, así como aquellos que deriven de las leyes y reglamentos de competencia municipal o de aquellos derivados de convenios de coordinación o de delegación de facultades federales y estatales, por acuerdo del Presidente Municipal;
+
+XI. Intervenir en los juicios de nulidad de los contratos y revisar a solicitud del Presidente Municipal o de cualquier área del Ayuntamiento y sus unidades administrativas las declaraciones de caducidad o de nulidad de concesiones;
+
+XII. Revisar las declaraciones administrativas de rescisión de los contratos y conocer de las reclamaciones que se formulen de conformidad con la ley aplicable;
+
+XIII. Representar y encargarse jurídicamente de la defensa de las autoridades administrativas y de los servidores públicos del Municipio, en los procedimientos de carácter civil, penal, laboral o administrativos por actos derivados del ejercicio de sus funciones, con todas las facultades generales y las especiales que para su ejercido (sic) se requieran;
+
+XIV. Asesorar y formular los proyectos de leyes, reglamentos, circulares, y acuerdos administrativos que le encomienden el Presidente Municipal y los miembros del Ayuntamiento, así como las que le soliciten las unidades administrativas del mismo;
+
+XV. Certificar los documentos que hayan sido emitidos por la Dirección General o por sus directores; y
+
+XVI. Las demás facultades que le confiera el Presidente Municipal.
+
+Para el despacho de los asuntos que competen a la Dirección General de Asuntos Jurídicos, se auxiliará de la Dirección Consultiva y la Dirección de Asuntos Contenciosos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 #### Sección Segunda. De la Dirección de Asuntos Contenciosos
 
@@ -2099,191 +2441,27 @@ X. Coordinarse con la policía turística para proporcionarle a los turistas la 
 
 XI. Realizar estudios encaminados a conocer el potencial de los destinos turísticos para desarrollar nuevos productos a ofrecer;
 
-### CAPÍTULO X. DE LA UNIDAD DE VINCULACIÓN PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Tercera. Dirección de Asuntos Internacionales
 
-###### Artículo 62.
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
-A la Dirección de Gobierno le corresponde las siguientes funciones y obligaciones:
+Artículo 66 SEPTIES.- Corresponde a la Dirección de Asuntos Internacionales
 
-I. Coordinar en conjunto con la Dirección de Desarrollo Social las Audiencias Públicas.
+I. Coordinar las acciones de cooperación y difusión Internacional del Municipio de Isla Mujeres;
 
-II. Coordinar y concentrar la información relativa al funcionamiento y operación de las Direcciones Municipales.
+II. Participar en reuniones, Foros y eventos, binacionales, regionales que traten temas propios de su competencia;
 
-III. Coordinar los trabajos, dentro del ámbito de competencia, del Consejo Consultivo de la Ciudad.
+III. Promover, difundir, fomentar y facilitar el intercambio cultural y turístico, mostrando lo más destacado del Municipio de Isla Mujeres en el exterior;
 
-IV. Coordinar con las Direcciones la instalación de los consejos técnicos, comités ciudadanos y vecinales que correspondan; y
+IV. Gestionar Y Promover la Suscripción de Convenios en materia de asuntos internacionales y ciudades hermanas.
 
-V. Auxiliar al Presidente Municipal en la conducción de las relaciones con las dependencias y entidades de la Administración Pública Federal y Estatal
-
-VI. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento y las leyes y reglamentos vigentes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-### CAPÍTULO XI. DE LA INSTANCIA MUNICIPAL DE LA MUJER
-
-###### Artículo 63.
-
-A la Unidad de Vinculación Para la Transparencia y Acceso a la Información Pública le corresponden las siguientes funciones y obligaciones:
-
-I. Garantizar el principio democrático de publicidad de los actos del Gobierno Municipal;
-
-II. Dar cumplimiento al “Derecho de Acceso a la Información Pública", que corresponde a toda persona que habite o se encuentre en tránsito en el Municipio para allegarse información;
-
-III. Informar de toda actividad desarrollada en el ámbito de sus funciones por las Dependencias y Unidades, que conforman el Gobierno Municipal;
-
-IV. Regular el comportamiento, atribuciones y responsabilidades de los Servidores Públicos en materia de transparencia y acceso a la información;
-
-V. Emitir los acuerdos que resuelvan las solicitudes de información y determinar su entrega, debidamente fundado y motivado;
-
-VI. Establecer el procedimiento general para tener acceso a la Información Pública por parte del peticionario;
-
-VII. Integrar un catálogo de la información con que cuenta en las Direcciones Generales y Direcciones de área y mantenerlo actualizado;
-
-VIII. Verificar si la Dirección General o Dependencia Paramunicipal a la que se pretende remitir la solicitud es competente para darle trámite;
-
-IX. Requerir a las Direcciones Generales o a la Dependencia Paramunicipal competentes, la respuesta a la solicitud de información pública antes del vencimiento del plazo señalado para tramitarla. En caso de que dichas Direcciones Generales y Dependencias Paramunicipales no den cumplimiento a la misma, dar vista a la Contraloría Municipal, para los efectos a que haya lugar de acuerdo a la normatividad aplicable;
-
-X. Notificar a la Contraloría Municipal, de la falta de respuesta por parte de la Dependencia o Unidad que deba generarla o bien de alguna violación a la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo o a las disposiciones que en materia de Transparencia y Acceso a la Información Pública se encuentren vigentes en el Municipio, a fin de que se impongan las sanciones correspondientes independientemente del recurso que interponga el solicitante afectado ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
-
-XI. Establecer de manera permanente la rendición de cuentas por parte de la Administración Pública Municipal a los ciudadanos a través de la Unidad de Vinculación de esta, así como facilitar la evaluación objetiva sobre el desempeño de la Administración Pública; brindando los elementos necesarios al conjunto de ciudadanos para fomentar una participación informada;
-
-XII. Representar a la Unidad de Vinculación Para la Transparencia y Acceso a la Información, ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo en los recursos de revisión previstos por la ley, que se interpongan en el mencionado Instituto;
-
-XIII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
-
-XIV. Vigilar que el personal adscrito a la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, cumpla cabalmente con lo establecido en las leyes, reglamentos, acuerdos y demás disposiciones que tengan relación con el objeto de su cargo, así como también cumplan con los planes y programas fijados;
-
-XV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus funciones;
-
-XVI. Determinar que Dependencia dentro de su área, deberá coordinar sus acciones con las autoridades Estatales y Federales para el buen desarrollo de los programas que así se requieran;
-
-XVII. Realizar estudios, proponer iniciativas, reformas o adiciones a los Reglamentos Municipales que se refieran a sus facultades, acordándolas con el Presidente Municipal, para su trámite correspondiente;
-
-XVIII. Previo acuerdo con el Presidente Municipal, podrá gestionar la creación o suprimir las jefaturas de departamento y demás cargos que se requieran para la buena administración de la Unidad de Vinculación Para la Transparencia y Acceso a la Información y asignarles las facultades y obligaciones que crea convenientes, mismos que deberán ajustarse a la suficiencia del presupuesto;
-
-XIX. De acuerdo a la fracción XI del artículo 15 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, con la información que las Dependencias, Unidades y demás obligados de la Administración Pública Municipal, deberá mandar publicar a través de la página de Internet la información relativa a los contratos que hayan celebrado en materia de adquisiciones, arrendamientos, licitaciones y prestación de servicios de dichas dependencias, unidades y demás obligados de la administración Pública Municipal;
-
-XX. Mandar publicar, los resultados finales de las auditorias que se practiquen a los sujetos obligados, dando especial cuidado del contenido evitando la información que pueda causar un serio perjuicio a las actividades que tengan por objeto la verificación del cumplimiento de leyes que se relacionen con presuntas responsabilidades o de otra índole y, en general, aquélla que tenga el carácter de reservada o confidencial en los términos de dicha Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
-
-XXI. La información de observaciones de auditorías a que se refiere la fracción anterior, que puedan dar lugar a procedimientos administrativos o jurisdiccionales, serán públicas una vez que los procedimientos sean resueltos de manera definitiva y las resoluciones correspondientes hayan causado estado y no sean recurribles en forma alguna;
-
-XXII. Dado que el acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los gastos propios de la reproducción y entrega que correspondan según los medios utilizados para este fin. Por lo que la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, deberá procurar reducir al máximo los costos de los materiales utilizados para la reproducción y envío en su caso de la información solicitada a dicha Unidad de Vinculación, de conformidad a lo dispuesto en el Artículo 36 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, lo anterior con la finalidad de reducir los montos por cuotas de acceso, mismos que se deberán de informar al solicitante previamente a su otorgamiento;
-
-XXIII. Rendir al Presidente Municipal, independientemente de las veces que este así se lo requiera, un informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Ayuntamiento, cuando este así se lo requiera;
-
-XXIV. Difundir las iniciativas que el Ayuntamiento, remita al poder Legislativo para su aprobación; llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones;
-
-XXV. Proporcionar la información que le sea solicitada, en su caso emitir negativas a las solicitudes, las respuestas deberán estar fundadas y motivadas e indicar al solicitante las causas por las que no es posible emitir dicha información, a excepción de los casos en que se aplique el principio de negativa ficta, por tratarse de información reservada y confidencial, así como aquella que ponga en peligro la estabilidad, económica o social o ponga en peligro la seguridad pública del Municipio y;
-
-XXVI. Las demás que resulten compatibles al ejercicio de cargo y que le confieren las Leyes, Reglamentos y demás disposiciones vigentes.
-
-###### Artículo 64.
-
-Con la información que las Dependencias, Entidades y demás sujetos obligados de la Administración Pública Municipal, actualicen y publiquen bimestralmente, la Unidad de Vinculación a la Transparencia y Acceso a la Información Pública, deberá poner a disposición del público aquella información que resulte obligatoria según el Artículo 15 de la Ley, conforme a lo siguiente:
-
-I. La Unidad de Vinculación para la Transparencia y Acceso a la Información; recabará y será la responsable de difundir poniendo a disposición del público dicha información;
-
-II. La información deberá estar contenida en una página de Internet de acceso al público en general, visible desde el portal principal de Internet del Municipio, indicando siempre la fecha de su actualización;
-
-III. La información deberá presentarse de manera clara y completa, de forma tal (sic) que se asegure su calidad, veracidad, oportunidad y confiabilidad;
-
-IV. La página de Internet deberá contener la dirección electrónica, el domicilio para recibir correspondencia y el número telefónico de la Unidad de Vinculación para la Transparencia y Acceso a la Información Pública, así como el nombre de su Titular y funcionarios de la misma.
-
-V. En la página electrónica se incorporará un formato a fin (sic) poder realizar la solicitud por este medio.
-
-### CAPÍTULO XII. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 65.
-
-A la Instancia Municipal de la Mujer le corresponden las siguientes funciones y obligaciones:
-
-I. Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de (sic) gobierno municipal;
-
-II. Coadyuvar para integrar el apartado relativo al programa operativo anual de acciones gubernamentales en favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquéllas en las cuales la mujer deba tener una participación efectiva;
-
-III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y a la equidad de género;
-
-IV. Apoyar a las y los representantes del municipio ante las autoridades estatales y con la Instancia de la Mujer en el Estado, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
-
-V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
-
-VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
-
-VII. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, como método para unir esfuerzos participativos en favor de una política de género de igualdad entre mujeres y hombres;
-
-VIII. Coordinar los trabajos del tema de mujeres, entre el Ayuntamiento con el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique por separado información sobre hombres y mujeres, base fundamental para la elaboración de diagnósticos municipales, regionales y del Estado;
-
-IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
-
-X. Promover la capacitación y actualización de servidores públicos responsables de emitir políticas públicas de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
-
-XI. Brindar orientación a las mujeres del municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
-
-XII. Promover ante las autoridades del sector salud los servicios de salud antes, durante y después del embarazo, así como promover campañas de prevención y atención de cáncer de mama y cérvicouterino;
-
-XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
-
-XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
-
-XV. Estimular la capacidad productiva de la mujer;
-
-XVI. Promover la elaboración de programas que fortalezcan la familia como ámbito de promoción de la igualdad de derechos, oportunidades y responsabilidades sin distinción de sexo,
-
-XVII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
-
-XVIII. Rendir al Presidente Municipal, independientemente de las veces que este así se lo requiera, los informes de actividades y del grado de avance de los programas de trabajo; y
-
-XIX. Las demás que resulten compatibles al ejercicio de cargo y que le confieren las Leyes, Reglamentos y demás disposiciones vigentes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-### CAPÍTULO ÚNICO. DE LOS ORGANISMOS DESCENTRALIZADOS DE CARÁCTER MUNICIPAL
-
-###### Artículo 66.
-
-Son facultades y obligaciones del titular de la Dirección General de Asuntos Jurídicos, las siguientes:
-
-I. Asesorar al Presidente Municipal en materia legal;
-
-II. Intervenir por instrucciones del Presidente y del Síndico Municipal en toda controversia jurisdiccional en la que el Municipio sea parte;
-
-III. Asesorar a las áreas administrativas que soliciten su intervención;
-
-IV. Aceptar poderes de representación que le confiera el Ayuntamiento a través del Síndico Municipal, las dependencias y las unidades administrativas;
-
-V. Atender los asuntos jurídicos que requieran las dependencias o entidades del Ayuntamiento, así como el seguimiento de los asuntos judiciales y contenciosos-administrativos en los que el Ayuntamiento sea parte y que no sea competencia de otra unidad administrativa;
-
-VI. Asesorar en el estudio, formulación y modificación de los convenios y contratos en los que el Ayuntamiento sea parte, así como en los concursos de obra pública relativos;
-
-VII. Opinar sobre la procedencia jurídica de los documentos que habrán de publicarse en la Gaceta Oficial del Municipio;
-
-VIII. Prestar asesoría y defensa legal mediante patrocinio y defensoría, a través de sus integrantes, a personas de escasos recursos que lo soliciten;
-
-IX. Intervenir en el estudio y formulación de las concesiones administrativas de los servicios públicos que corresponda otorgar al Ayuntamiento, así como en los procedimientos administrativos de revocación o cancelación de las mismas;
-
-X. Tramitar y resolver los recursos administrativos previstos en la Ley de los Municipios del Estado de Quintana Roo, en el Bando de Policía y Gobierno y los que se interpongan en contra de resoluciones que dicten las unidades administrativas del Ayuntamiento, así como aquellos que deriven de las leyes y reglamentos de competencia municipal o de aquellos derivados de convenios de coordinación o de delegación de facultades federales y estatales, por acuerdo del Presidente Municipal;
-
-XI. Intervenir en los juicios de nulidad de los contratos y revisar a solicitud del Presidente Municipal o de cualquier área del Ayuntamiento y sus unidades administrativas las declaraciones de caducidad o de nulidad de concesiones;
-
-XII. Revisar las declaraciones administrativas de rescisión de los contratos y conocer de las reclamaciones que se formulen de conformidad con la ley aplicable;
-
-XIII. Representar y encargarse jurídicamente de la defensa de las autoridades administrativas y de los servidores públicos del Municipio, en los procedimientos de carácter civil, penal, laboral o administrativos por actos derivados del ejercicio de sus funciones, con todas las facultades generales y las especiales que para su ejercido (sic) se requieran;
-
-XIV. Asesorar y formular los proyectos de leyes, reglamentos, circulares, y acuerdos administrativos que le encomienden el Presidente Municipal y los miembros del Ayuntamiento, así como las que le soliciten las unidades administrativas del mismo;
-
-XV. Certificar los documentos que hayan sido emitidos por la Dirección General o por sus directores; y
-
-XVI. Las demás facultades que le confiera el Presidente Municipal.
-
-Para el despacho de los asuntos que competen a la Dirección General de Asuntos Jurídicos, se auxiliará de la Dirección Consultiva y la Dirección de Asuntos Contenciosos.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+V. Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal.
 
 ## TÍTULO III.. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA
+
+### CAPÍTULO ÚNICO. DE LOS ORGANISMOS DESCENTRALIZADOS DE CARÁCTER MUNICIPAL
 
 ###### Artículo 67.
 
@@ -2378,3 +2556,11 @@ P.O. 15 DE NOVIEMBRE DE 2017.
 PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Publíquese el presente en el Periódico Oficial del Estado de Quintana Roo para los efectos legales a que corresponda.
+
+P.O. 15 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACTA DE LA SEGUNDA SESIÓN ORDINARIA DEL HONORABLE AYUNTAMIENTO DE ISLA MUJERES 2018-2021".]
+
+Primero: Las presentes, reformas y adiciones entraran en vigor al día siguiente de su publicación, con excepción de las descritas en el siguiente punto
+
+Segundo: la reforma y adiciones (sic) Artículo 4 en su Fracción I: incisos i), j), k), l), m), o) p) y q), la derogación en su Fracción II, b) y c), las siguientes adiciones al Título II el Capítulo VIII TER, y los artículos 61 SEPTIES, 61 OCTIES, 61 NOVIES, 61 DECIES Y 61 UNDECIES, previa su publicación en el periódico oficial del estado de Quintana Roo, entraran en vigor a partir del 1° de Enero del 2019.
