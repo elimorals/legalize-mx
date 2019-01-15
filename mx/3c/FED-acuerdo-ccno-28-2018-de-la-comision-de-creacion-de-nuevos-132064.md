@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-28-2018-de-la-comision-de-creacion-de-nuevos-13206
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-21"
-last_updated: "2018-12-21"
+last_updated: "2019-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132064&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-12-03"
 ---
 # ACUERDO CCNO/28/2018 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL CAMBIO DE DOMICILIO DE LOS JUZGADOS NOVENO Y DECIMO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN TAMPICO Y DE LA OFICINA DE CORRESPONDENCIA COMUN QUE LES PRESTA SERVICIO]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO CCNO/28/2018 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DE LOS JUZGADOS NOVENO Y DÉCIMO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN TAMPICO Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE ENERO DE 2019.]</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de diciembre de 2018.
 
@@ -51,13 +51,17 @@ Se autoriza el cambio de domicilio de los Juzgados Noveno y Décimo de Distrito 
 
 El nuevo domicilio de los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en Tampico y de la Oficina de Correspondencia Común que les presta servicio, es en Avenida Hidalgo, número 2303, colonia Smith, código postal 89140, Tampico, Tamaulipas.
 
+> <small>(F. DE E., D.O.F. 15 DE ENERO DE 2019)</small>
+
 ###### Artículo 3.
 
-Los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en Tampico y la Oficina de Correspondencia Común que les presta servicio, inician funciones en su nuevo domicilio el dieciséis de enero de dos mil diecinueve.
+Los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en Tampico y la Oficina de Correspondencia Común que les presta servicio, inician funciones en su nuevo domicilio el veintiuno de enero de dos mil diecinueve.
+
+> <small>(F. DE E., D.O.F. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 4.
 
-A partir del dieciséis de enero de dos mil diecinueve, toda la correspondencia, trámites y diligencias relacionadas con los asuntos de la competencia de los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en Tampico, deben dirigirse y realizarse en el domicilio señalado en el artículo 2 de este Acuerdo.
+A partir del veintiuno de enero de dos mil diecinueve, toda la correspondencia, trámites y diligencias relacionadas con los asuntos de la competencia de los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en Tampico, deben dirigirse y realizarse en el domicilio señalado en el artículo 2 de este Acuerdo.
 
 ## TRANSITORIOS
 
