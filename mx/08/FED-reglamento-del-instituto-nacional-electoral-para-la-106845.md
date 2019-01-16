@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2017-12-20"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-03-11"
 
 REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2019.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -115,89 +115,69 @@ g) Los Organismos Públicos Locales Electorales, y
 
 h) Las Juntas Ejecutivas Locales y Distritales.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
 Artículo 5
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
 1. Para los efectos del presente Reglamento, se entenderá:
 
 I. Por lo que se refiere a los ordenamientos jurídicos:
 
-a) Constitución. La Constitución Política de los Estados Unidos Mexicanos;
+a) Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-b) Ley General. La Ley General de Instituciones y Procedimientos Electorales;
+b) Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-c) Ley de Medios. La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
+c) Ley de Medios: La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
 
-d) Reglamento de Quejas. El Reglamento de Quejas y Denuncias del Instituto Nacional Electoral.
+d) Reglamento de Quejas: El Reglamento de Quejas y Denuncias del Instituto Nacional Electoral.
 
 II. Por lo que hace a las autoridades, organismos, órganos, estructura central y desconcentrada:
 
-a) Instituto. El Instituto Nacional Electoral;
+a) Instituto: El Instituto Nacional Electoral;
 
-b) Consejo General. El Consejo General del Instituto;
+b) Consejo General: El Consejo General del Instituto;
 
-c) Comisión de Vinculación. La Comisión de Vinculación con los Organismos Públicos Locales del Instituto;
+c) Comisión de Vinculación: La Comisión de Vinculación con los Organismos Públicos Locales del Instituto;
 
-d) Secretaría Ejecutiva. La Secretaría Ejecutiva del Instituto;
+d) Secretaría Ejecutiva: La Secretaría Ejecutiva del Instituto;
 
-e) Unidad de lo Contencioso. La Unidad Técnica de lo Contencioso Electoral del Instituto;
+e) Unidad de lo Contencioso: La Unidad Técnica de lo Contencioso Electoral del Instituto;
 
-f) Unidad de Vinculación. La Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto;
+f) Unidad de Vinculación: La Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto;
 
-g) Oficialía Electoral. La Oficialía Electoral del Instituto;
+g) Oficialía Electoral: La Oficialía Electoral del Instituto;
 
-h) Organismos Públicos. Los Organismos Públicos Locales Electorales de las entidades federativas;
+h) Organismos Públicos: Los Organismos Públicos Locales Electorales de las entidades federativas;
 
-i) Juntas. Las Juntas Ejecutivas del Instituto, Locales y Distritales.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+i) Juntas: Las Juntas Ejecutivas del Instituto, Locales y Distritales.
 
 III. Por lo que hace a la terminología:
 
-a) Aspirante. La o el ciudadano mexicano que, una vez publicada la Convocatoria para el proceso de selección y designación para la integración de los órganos superiores de dirección de los Organismos Públicos, requisite el formato de solicitud de registro proporcionado por el Instituto;
+a) Aspirante: La o el ciudadano mexicano que, una vez publicada la Convocatoria para el proceso de selección y designación para la integración de los órganos superiores de dirección de los Organismos Públicos, requisite el formato de solicitud de registro proporcionado por el Instituto;
 
-b) Causa grave. Las establecidas en el artículo 102, párrafo 2 de la Ley General;
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+b) Causa grave: Las establecidas en el artículo 102, párrafo 2 de la Ley General;
 
 c) Convocatoria: Es el documento que aprueba el Consejo General del Instituto, y que se dirige a la ciudadanía interesada para participar en un procedimiento de selección y designación de la o el Consejero Presidente y las o los Consejeros Electorales de un Organismo Público;
 
-d) Cotejo documental o compulsa. Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
+d) Cotejo documental o compulsa: Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+e) Designación: Es la atribución del Consejo General de nombrar a las y los Consejeros Presidentes, y Consejeros Electorales de los Organismos Públicos;
 
-e) Designación. Es la atribución del Consejo General de nombrar a las y los Consejeros Presidentes y Consejeros Electorales de los Organismos Públicos;
+f) Entrevista virtual: Forma de concurrir a distancia y no de manera presencial a la entrevista con la o el Consejero Presidente, y las o los Consejeros Electorales del Instituto;
 
-f) Entrevista virtual. Forma de concurrir a distancia y no de manera presencial a la entrevista con la o el Consejero Presidente, y las o los Consejeros Electorales del Instituto;
+g) Grupos de Trabajo: Los integrados por Consejeros Electorales para auxiliar los trabajos de la Comisión de Vinculación dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales;
 
-g) Grupos de Trabajo. Los integrados por Consejeros Electorales para auxiliar los trabajos de la Comisión de Vinculación dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales;
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
-
-h) Portal. La página de Internet del Instituto;
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+h) Portal: La página de Internet del Instituto;
 
 i) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+j) Sistema de Registro: Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
 
-j) Sistema de Registro. Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público;
+k) Instructivo: Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+l) Vacante: Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluir el periodo del nombramiento.
 
-k) Instructivo. Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
-
-l) Vacante. Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluír el periodo del nombramiento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
-
-m) Ausencia temporal. Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
+m) Ausencia temporal: Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN I CONTENÍA HASTA EL INCISO F) Y CON LA PRESENTE MODIFICACIÓN SE PRECISA ÚNICAMENTE HASTA EL INCISO E), LA FRACCIÓN II, PUNTO 2 CONTENÍA HASTA EL INCISO S), AHORA SE MENCIONA HASTA EL INCISO Q).]</small>
 
@@ -499,25 +479,39 @@ Artículo 9
 
 1. Los requisitos que deberán cubrir quienes aspiren a los cargos de Consejera o Consejero Presidente y Consejera o Consejero Electoral del Organismo Público, son los siguientes:
 
-a) Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
-b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
+a) Tener ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+b) Estar inscrita o inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
 
 c) Tener más de 30 años de edad al día de la designación;
 
 d) Poseer al día de la designación, con una antigüedad mínima de cinco años, título profesional de nivel licenciatura;
 
-e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
-f) Ser originario de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo en el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+e) Gozar de buena reputación y no haber sido condenada o condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-g) No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+f) Ser originaria u originario de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo en el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+g) No haber sido registrado como candidata o candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
 
 h) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
 
-i) No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
-j) No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno federal como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefe de Gobierno de la Ciudad de México, ni Gobernador, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, y
+i) No estar inhabilitada o inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local; y
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+j) No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno federal como de las entidades federativas, ni subsecretaria, subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni Gobernadora o Gobernador, ni Secretaria o Secretario de Gobierno o su equivalente a nivel local. No ser Presidenta o Presidente Municipal, Síndica o Síndico o Regidora o Regidor o titular de dependencia de los ayuntamientos.
 
 k) (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
 
@@ -557,9 +551,13 @@ d) Curriculum vitae firmado por la o el aspirante, el cual deberá contener, ent
 
 e) Carta con firma autógrafa en la que la o el aspirante manifieste bajo protesta de decir verdad:
 
-i. Ser ciudadana o ciudadano mexicano por nacimiento y no haber adquirido otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
-ii. No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+i. Tener ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+ii. No haber sido condenada o condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
 iii. No haber sido registrado como candidata o candidato a cargo alguno de elección popular durante los cuatro años anteriores a la designación;
 
@@ -571,11 +569,25 @@ vi. No haberse desempeñado durante los cuatro años previos a la designación c
 
 vii. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni Gobernadora o Gobernador, ni Secretaria o Secretario de Gobierno o su equivalente a nivel local;
 
-viii. No ser jefe o jefa delegacional, presidenta o presidente municipal, síndica o síndico o regidora o regidor o titular de dependencia de los ayuntamientos;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
-ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser designado como Consejero Presidente o Consejero Electoral; y
+viii. No ser jefe o jefa delegacional, presidenta o presidente municipal, síndica o síndico o regidora o regidor o titular de dependencia de los ayuntamientos; y
 
-x. (DEROGADA, D.O.F. 29 DE AGOSTO DE 2017)
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser designado como Consejero Presidente o Consejero Electoral.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+2. A solicitud expresa de un o una aspirante que con motivo de alguna convocatoria anterior hubiera presentado originales o copias certificadas del acta de nacimiento, título o cédula profesional señalados en los incisos a) y c) del presente numeral, y los mismos obraran en los archivos del Instituto, se ubicará en una situación de excepción para exhibirlos, una vez que la Unidad Técnica de Vinculación verifique su resguardo documental e idoneidad. En todo caso, dicha documentación quedará integrada en el expediente específico del procedimiento de designación que se encuentre en curso.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+3. La información y documentación que con motivo del procedimiento de selección se proporcione al Instituto, deberá ser veraz y auténtica. De no ser así, el aspirante no podrá continuar en el procedimiento de selección.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+4. Al momento de presentar la solicitud de registro, las y los aspirantes recibirán un acuse con la descripción de la información y documentación entregada al Instituto, el cual deberán firmar de conformidad. El mencionado comprobante tendrá como único propósito acusar de recibo la documentación ahí referida, sin que ello implique que se tenga por acreditado el cumplimiento de requisitos; lo anterior deberá asentarse en cada uno de los comprobantes de recepción que se emitan.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -873,19 +885,27 @@ Artículo 33
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REMOCIÓN
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 37], D.O.F. 29 DE AGOSTO DE 2017)
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
 Artículo 34
 
-1. Son causas por las que se puede generar una vacante de Consejera o Consejero Presidente o Consejeras o Consejeros Electorales antes de la conclusión del periodo de designación, entre otras, las siguientes:
+1. Las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución.
 
-a) Renuncia;
+2. Las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos podrán ser removidos por el Consejo General, por incurrir en alguna de las siguientes causas graves, señaladas en el artículo 102 de la Ley General:
 
-b) Fallecimiento;
+a) Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
-c) Incapacidad permanente total;
+b) Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
 
-d) Remoción.
+c) Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+d) Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
+
+e) Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento y no haberse excusado del mismo;
+
+f) Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo; y
+
+g) Violar de manera grave o reiterada las reglas, lineamientos, criterios y formatos que emita el Instituto en términos de la Base V, Apartado B), inciso a), numeral 5 del artículo 41 de la Constitución. Para los efectos de este inciso se considerará violación grave, aquella que dañe los principios rectores de la elección de que se trate.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 38], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -1147,9 +1167,19 @@ Artículo 52
 
 2. De todas las actuaciones que se realicen en los procedimientos de remoción se dejará constancia, la que deberá contener invariablemente la firma del o los funcionarios que en ellas intervengan.
 
-(ADICIONADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 60], D.O.F. 29 DE AGOSTO DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE ENERO DE 2019)</small>
 
-Artículo 54 (SIC)
+Artículo 53
+
+1. Para que proceda la remoción de la o el Consejero Electoral denunciado, se requiere de al menos ocho votos de los integrantes del Consejo General.
+
+2. Si se resolviera la remoción, el propio Consejo General deberá ejecutar la separación del cargo de Consejero Electoral y declarar la vacante en el Organismo Público correspondiente.
+
+3. En el supuesto anterior, se deberá proveer lo necesario para la debida integración del Organismo Público, atendiendo a lo dispuesto en el artículo 116, fracción IV, inciso c), párrafo segundo de la Constitución, 100 y 101 de la Ley General y el presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
+
+Artículo 54
 
 1. Si se resolviera rechazar el proyecto de resolución, en un plazo no mayor a diez días hábiles la Secretaría Ejecutiva, a través de la Unidad de lo Contencioso, elaborará y remitirá una nueva propuesta, debiendo considerar los razonamientos y argumentos que hubiese formulado el Consejo General en la sesión correspondiente. En caso de que sean requeridas nuevas diligencias, el plazo comenzará a correr a partir de que se hayan agotado las mismas.
 
@@ -1216,3 +1246,15 @@ CUARTO. El presente Reglamento entrará en vigor a partir de su aprobación por 
 > <small>[N. DE E. VÉASE EL ANEXO 1 EN LA TERCERA SECCIÓN DEL D.O.F. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 39 A LA 45.]</small>
 
 > <small>[N. DE E. VÉASE EL ANEXO 2 EN LA TERCERA SECCIÓN DEL D.O.F. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 50.]</small>
+
+D.O.F. 16 DE ENERO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES, EN CUMPLIMIENTO DE LO ESTABLECIDO EN EL RESOLUTIVO QUINTO DEL ACUERDO INE/CG1303/2018, PARA SUPRIMIR EL PRECEPTO CORRESPONDIENTE A LA NO ADQUISICISIÓN DE OTRA NACIONALIDAD”.]</small>
+
+PRIMERO. Se aprueba el presente Acuerdo por el que se modifica el Reglamento.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica haga del conocimiento de los órganos máximos de dirección de los OPL el contenido del presente Acuerdo.
+
+TERCERO. Publíquese el presente Acuerdo y el Reglamento, en el Diario Oficial de la Federación.
+
+CUARTO. El presente Acuerdo entrará en vigor al momento de su aprobación, modificándose el Reglamento.
