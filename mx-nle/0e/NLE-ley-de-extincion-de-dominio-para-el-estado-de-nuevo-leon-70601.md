@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-extincion-de-dominio-para-el-estado-de-nuevo-leon-70601"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2013-07-10"
+last_updated: "2019-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 25 de septiembre de 2009.
 
@@ -55,21 +55,19 @@ I. Acción: Acción de extinción de dominio;
 
 II. Bienes: Todos los que puedan ser objeto de apropiación que no estén excluidos del comercio, ya sean muebles e inmuebles, y todo aquel derecho real o personal, sus objetos, frutos y productos, que se encuentren en los supuestos señalados en el artículo 8 de esta Ley;
 
-III. Hecho Ilícito: Conjunto de elementos objetivos o externos que constituyen la materialidad del hecho que la ley establece como delito;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+III. Hecho ilícito: conjunto de elementos objetivos o externos que constituyen la materialidad del hecho que la ley establece como delito y respecto del cual procede la acción por extinción de dominio en términos de lo establecido en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
 
 IV. Juez: Juez de lo Civil o Mixto competente para conocer de la extinción de dominio;
 
 V. Ministerio Público: Ministerio Público del Estado;
 
-VI. Robo de Vehículo: Delito contemplado en los artículos 365 bis y 374 último párrafo del Código Penal para el Estado de Nuevo León;
+VI. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+VII. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
-VII. Secuestro: Delito contemplado en cualquiera de sus modalidades en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
-
-VIII. Trata de personas: Delito contemplado en cualquiera de sus modalidades en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+VIII. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 3.
 
@@ -89,15 +87,19 @@ Toda la información referente al procedimiento de extinción de dominio se cons
 
 ### CAPÍTULO SEGUNDO. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 5.
 
-La extinción de dominio es la pérdida de los derechos de propiedad y demás sobre los bienes mencionados en el artículo 8 de esta Ley, sin contraprestación ni compensación alguna para el afectado para que los mismos se apliquen a favor del Estado, cuando se acredite el hecho ilícito en los casos de robo de vehículos, secuestro o trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
+La extinción de dominio es la pérdida de los derechos de propiedad y demás sobre los bienes mencionados en el artículo 8 de esta Ley, sin contraprestación ni compensación alguna para el afectado para que los mismos se apliquen a favor del Estado, cuando se acredite el hecho ilícito en los casos descritos en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20 de la Constitución Política del Estado Libre y Soberano de Nuevo León, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
 
 La acción de extinción de dominio corresponde al Ministerio Público.
 
 El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento cuando detecte causales de Improcedencia de la acción fundando y motivando la misma, antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de Justicia del Estado. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
-A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los delitos de robo de vehículos, secuestro o trata de personas, de conformidad con los plazos establecidos en el artículo 139 párrafo primero del Código Penal para el Estado de Nuevo León, excepto en el caso de los bienes que sean producto del delito que será imprescriptible.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+A la acción de extinción de dominio se aplicará las reglas de prescripción previstas para el hecho ilícito que corresponda, de conformidad con los plazos establecidos en el artículo 139 párrafo primero del Código Penal para el Estado de Nuevo León, excepto en el caso de los bienes que sean producto del delito que será imprescriptible.
 
 La extinción de dominio es de naturaleza jurisdiccional, de carácter real o personal y de contenido patrimonial, y procederá sobre cualquier derecho real, principal o accesorio, independientemente de quien los tenga en su poder, o los haya adquirido.
 
@@ -117,9 +119,11 @@ El ejercicio de la acción de extinción de dominio se sustentará en la informa
 
 La muerte del o los probables responsables no cancela la acción de extinción de dominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 8.
 
-Tratándose de los delitos de robo de vehículos, secuestro y trata de personas, la acción de extinción de dominio procede respecto de los bienes siguientes:
+La acción de extinción de dominio procede respecto de los bienes siguientes:
 
 I. Aquellos que sean instrumento, objeto o producto del delito, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -409,7 +413,9 @@ La absolución del afectado en el proceso penal por no haberse establecido su re
 
 El Juez, al dictar la sentencia, determinará procedente la extinción de dominio de los bienes materia del procedimiento siempre que el Ministerio Público:
 
-I. Acredite plenamente el hecho ilícito por el que se ejerció la acción, tratándose de los delitos de robo de vehículos, secuestro o trata de personas;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+I. Acredite plenamente el hecho ilícito por el que se ejerció la acción;
 
 II. Acredite que los bienes son de los señalados en el artículo 8 de la Ley;
 
@@ -560,3 +566,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 73. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 2, EL PRIMER Y CUARTO PÁRRAFOS DEL ARTÍCULO 5, EL PRIMER PÁRRAFO DEL ARTÍCULO 8 Y LA FRACCIÓN I DEL ARTÍCULO 45 Y SE DEROGAN LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 2, TODOS DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
