@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-los-servidores-publicos-de-las-123465"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-09-13"
-last_updated: "2017-09-13"
+last_updated: "2019-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el miércoles 13 de septiembre de 2017.
 
@@ -156,3 +158,17 @@ QUINTO. Se abroga el Acuerdo del Ejecutivo del Estado por el que se establece el
 Dado en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, siendo el primer día del mes de septiembre del año dos mil diecisiete.
 
 MTRA. LAURA LUNA GARCÍA, SECRETARIA DE LA CONTRALORÍA.-RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de la Contraloría, las dependencias y entidades llevarán a cabo acciones que permitan el cumplimiento del presente Acuerdo.
+
+TERCERO. Se abroga el Código de Ética de los Servidores Públicos de las dependencias y Entidades de la Administración Pública del Estado de Campeche y las Reglas de Integridad para el ejercicio de la Función Pública en el Estado de Campeche, emitidos mediante Acuerdo de fecha 01 de septiembre de 2017, publicado en el Periódico Oficial del Estado el 13 de septiembre de 2017.
+
+CUARTO. Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
