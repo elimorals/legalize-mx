@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2018-10-26"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1919,7 +1919,7 @@ El aprovechamiento de los recursos naturales en áreas que sean el hábitat de e
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-La Secretaría, de conformidad con los ordenamientos aplicables, promoverá y apoyará el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, y la información técnica, científica y económica disponible, con el propósito de hacer un aprovechamiento sustentable de las especies. Además, promoverá ante la autoridad federal competente el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especimenes de la flora y fauna silvestres e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del (sic) y destinadas al extranjero.
+La Secretaría, de conformidad con los ordenamientos aplicables, promoverá y apoyará el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, y la información técnica, científica y económica disponible, con el propósito de hacer un aprovechamiento sustentable de las especies. Además, promoverá ante la autoridad federal competente el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del (sic) y destinadas al extranjero.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -3373,9 +3373,11 @@ En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces 
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 233.
 
-El plazo de prescripción para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiere cometido la infracción si fuera consumada, o desde que cesó; si fuera continua.
+El plazo de prescripción para la aplicación de las sanciones será de diez años y empezará a computarse desde el día en que se hubiere cometido la infracción si fuera consumada, o desde que cesó; si fuera continúa.
 
 ###### Artículo 234.
 
@@ -3661,7 +3663,9 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 Toda persona que contamine o deteriore el ambiente, o afecte los recursos naturales de competencia estatal, será responsable y estará obligada a reparar los daños causados, de conformidad con lo dispuesto en la legislación civil aplicable.
 
-La acción para exigir la reparación por daños al ambiente prescribirá en los términos que establezca el Código Civil para el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+La acción para exigir la reparación por daños al ambiente prescribirá en el término de diez años y empezará a computarse desde el día en que se hubiere cometido el daño ambiental.
 
 ###### Artículo 259.
 
@@ -3697,7 +3701,9 @@ Comete el delito ambiental, quien por si o por interpósita persona, desobedezca
 
 Se entiende por deterioro grave cuando simultáneamente se cause daño a la salud y a la calidad de vida de las personas, al mantenimiento del equilibrio de los ecosistemas y a la disponibilidad cuantitativa y cualitativa de los recursos naturales para el aprovechamiento sustentable.
 
-Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrá una pena de prisión de uno a cinco años y multa de cien a veinte mil cuotas.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrá una pena de prisión de dos a seis años y multa de cien a veinte mil cuotas.
 
 Si los daños ambientes (sic) fueren reversibles, al responsable de este delito se le sancionará con prisión de seis meses a tres años de prisión y multa de cincuenta a diez mil cuotas.
 
@@ -3886,5 +3892,11 @@ Tercero.- Las autoridades estatales deberán elaborar en un plazo no mayor a 360
 P.O. 26 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 006. SE REFORMA POR ADICIÓN DE UN PÁRRAFO LA FRACCIÓN I DEL ARTÍCULO 120 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 045. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 233, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 258 Y EL TERCER PÁRRAFO DEL ARTÍCULO 264 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
