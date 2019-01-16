@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2018-07-12"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -73,7 +73,9 @@ Todo vehículo de Servicio Público o Privado de Transporte, que utilicen las v�
 
 Asimismo, la prestación del servicio público de transporte contratado a través de plataformas tecnológicas o digitales requerirá contar con la concesión del Instituto, mediante el documento que al efecto otorgue el titular de éste, únicamente conforme a la regulación prevista en el Capítulo Séptimo del Título Cuarto de esta Ley y su Reglamento.
 
-El tránsito y vialidad municipal, estarán regulados por la Ley de los Municipios del Estado y los Reglamentos municipales correspondientes. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a la reglamentación municipal en los términos previstos en este ordenamiento.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+El tránsito y vialidad Estatal y Municipal, estarán regulados por el Reglamento de Tránsito correspondiente. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a su reglamentación municipal en los términos previstos en este ordenamiento.
 
 En la observancia de esta Ley se atenderán y aplicarán, en lo conducente, las disposiciones aplicables en las materias de equilibrio ecológico y la protección al ambiente, en particular la evaluación del impacto ambiental, las emisiones contaminantes a la atmósfera, la prevención y control del ruido y el manejo integral de residuos; asentamientos humanos; obras públicas; protección de derechos humanos; mejora regulatoria, y todas las demás que se vinculen directamente con la materia de movilidad a que se refiere el presente ordenamiento.
 
@@ -102,6 +104,10 @@ II. Auditoría de movilidad y seguridad vial: Procedimiento sistemático en el q
 III. Autorregulación: Esquema voluntario que le permite a personas morales llevar a cabo la verificación técnica de los vehículos de carga, previa autorización de la autoridad competente para el cumplimiento de la normatividad vigente;
 
 IV. Ayudas técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
+
+IV Bis. Ayuntamientos: A los Ayuntamientos de los Municipios del Estado de Quintana Roo;
 
 V. Banco de proyectos: Plataforma informática que permite almacenar, actualizar y consultar documentos técnicos referentes a estudios y proyectos en materia de movilidad y seguridad vial;
 
@@ -175,7 +181,9 @@ XXXIX. Legislatura: La Legislatura del Estado de Quintana Roo;
 
 XL. Ley: Ley de Movilidad del Estado de Quintana Roo;
 
-XLI. Licencia de conducir: Documento que concede el Instituto a una persona física y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en esta Ley y demás ordenamientos jurídicos y administrativos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XLI. Licencia de conducir: Documento que expiden los ayuntamientos a una persona física y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos, incluyendo las licencias para el servicio público de transporte de pasajeros en autobuses urbanos. Las demás licencias de conducir para servicio público solo podrán ser expedidas por el Instituto, previa validación de la Secretaría de Seguridad Pública del Estado;
 
 XLII. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna de cuatro tiempos con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, que es inclinado por su conductor hacia el interior de una curva para contrarrestar la fuerza centrifuga y que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
 
@@ -193,7 +201,9 @@ XLVIII. Parque vehicular: Conjunto de unidades vehiculares destinados a la prest
 
 XLIX. Peatón: Persona que transita por la vialidad a pie y/o que utiliza de ayudas técnicas por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos;
 
-L. Permiso para conducir: Documento que concede el Instituto a una persona física mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en esta Ley y demás ordenamientos jurídicos y administrativos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+L. Permiso para conducir: Documento que expiden los Ayuntamientos a una persona mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos;
 
 LI. Personas con movilidad limitada: Personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a niños, mujeres en periodo de gestación, adultos mayores, adultos que transitan con niños pequeños, personas con discapacidad, personas con equipaje o paquetes;
 
@@ -211,7 +221,9 @@ LVI. Remolque: Vehículo no dotado de medios de propulsión y destinado a ser ll
 
 LVII. Revista vehicular: Es la revisión documental y la inspección física y mecánica de las unidades, equipamiento auxiliar de las unidades de transporte de pasajeros y carga, a fin de comprobar el cumplimiento de las disposiciones en materia de seguridad, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
 
-LVIII. Seguridad Vial: Conjunto de políticas y sistemas orientados a la prevención de hechos de tránsito;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+LVIII. Seguridad Vial: Conjunto de políticas y sistemas orientados a establecer las normas de circulación de transporte de personas y objetos; el estacionamiento y tránsito de vehículos en las vías de comunicación Estatal y Municipal; y la prevención de hechos de tránsito, conforme al Reglamento de Tránsito correspondiente y demás normas legales aplicables;
 
 LIX. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter, que se colocan en la vialidad;
 
@@ -240,6 +252,12 @@ LXX. Vehículo: Todo medio autopropulsado que se usa para transportar personas o
 LXXI. Vía pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano; y en general todo terreno del dominio público y de uso común que se encuentre o ubique dentro de los límites del Estado de Quintana Roo; y
 
 LXXII. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana del Estado de Quintana Roo, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 5 Bis.
+
+En todo lo no previsto en la presente Ley, se aplicará en lo conducente en forma supletoria, el Código de Justicia Administrativa para el Estado de Quintana Roo, Código de Procedimientos Civiles del Estado de Quintana Roo y demás disposiciones que resulten aplicables.
 
 ### CAPÍTULO SEGUNDO. De la Jerarquía y los Principios de Movilidad
 
@@ -321,13 +339,17 @@ Las políticas y acciones en materia de movilidad deberán garantizar el ejercic
 
 El Instituto, a través de los servidores públicos competentes, determinarán los criterios que garanticen que los servicios públicos de transporte sean incluyentes para las personas con discapacidad y personas con movilidad limitada; de igual forma, instrumentarán las políticas y acciones necesarias que les faciliten su libre desplazamiento con seguridad en las vialidades, coordinando la instalación de ajustes necesarios en la infraestructura y señalamientos existentes que se requieran para cumplir con dicho fin.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 14.
 
-El Instituto promoverá, impulsará y fomentará el uso de vehículos limpios, no motorizados y/o eficientes, sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos, en el ámbito de sus competencias.
+El Instituto promoverá, impulsará y fomentará el uso de vehículos eléctricos y de energía renovable o limpia, no motorizados y/o eficientes, sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos, en el ámbito de sus competencias.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 15.
 
-Los servidores públicos deberán denunciar ante la autoridad competente cualquier hecho que probablemente constituya un delito relacionado con la presente Ley y, en su caso, constituirse como coadyuvantes del Ministerio Público, conforme a la normatividad aplicable.
+Las autoridades competentes en materia de movilidad y de tránsito deberán denunciar ante la autoridad competente cualquier hecho que probablemente constituya un delito relacionado con la presente Ley.
 
 ### CAPÍTULO TERCERO. Del Instituto
 
@@ -443,7 +465,9 @@ El Instituto contará con las siguientes facultades en materia de movilidad:
 
 I. Elaborar y expedir el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, conforme a lo previsto en este ordenamiento, previa aprobación del Gobernador del Estado en los términos del Reglamento de la presente Ley;
 
-II. Emitir las tarifas a que deba sujetarse la prestación del Servicio Público de Transporte, con excepción del transporte urbano de pasajeros en autobuses en ruta establecida. El Instituto emitirá las tarifas correspondientes y, en su caso, su actualización, mismas que contemplarán las del servicio de carga especializada de arrastre, arrastre y salvamento y depósito de vehículos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+II. Emitir las tarifas a que deba sujetarse la prestación del Servicio Público de Transporte, con excepción del transporte urbano de pasajeros en autobuses en ruta establecida. El Instituto emitirá las tarifas correspondientes y, en su caso, su actualización, mismas que contemplarán las del servicio de carga especializada de arrastre, arrastre y salvamento y depósito de vehículos. Las tarifas de arrastre y salvamento deberán ser de menor cuantía a las tarifas de arrastre;
 
 III. Actualizar permanentemente el Registro Público del Transporte, conforme a lo establecido por el Reglamento;
 
@@ -503,7 +527,17 @@ XXVIII. Determinar las infracciones a la presente Ley, su Reglamento y demás di
 
 XXIX. Imponer a los infractores las sanciones administrativas previstas en el presente ordenamiento;
 
-XXX. Otorgar licencias y permisos para conducir en todas las modalidades de transporte, así como la documentación para que los vehículos circulen conforme a las Leyes y reglamentos vigentes;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XXX. En coordinación con la Secretaría de Seguridad Pública del Estado en:
+
+a) El otorgamiento de licencias para conducir del tipo servicio público, excepto las licencias para el servicio público de transporte de pasajeros en autobuses urbanos;
+
+b) Contar con acceso a la información generada de los movimientos al padrón vehicular a cargo de la Secretaría de Finanzas y Planeación del Estado;
+
+c) La integración del registro público de transporte, y
+
+d) La expedición de la documentación para que los vehículos circulen conforme a las leyes y reglamentos vigentes, en el ámbito de su competencia;
 
 XXXI. Regular, permitir, supervisar y sancionar administrativamente a las personas;
 
@@ -567,11 +601,17 @@ IX. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
 
 El Instituto diseñará y ejecutará un programa que fomente la cultura de donación de órganos y tejidos en la expedición o renovación de la licencia de conducir, diseñando mecanismos para incluir una anotación que exprese la voluntad del titular de la misma respecto a la donación de sus órganos o tejidos, conforme a la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Para efecto de lo anterior, los ayuntamientos y el Instituto en el ámbito de su competencia, al expedir la licencia correspondiente, harán la anotación que indica el párrafo anterior.
+
 #### Sección III. De la Dirección General del Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 30.
 
-La Dirección General deberá, conforme a lo establecido por el Estatuto Orgánico, cumplir con las atribuciones del Instituto, así como con lo siguiente:
+El titular de la Dirección General deberá, conforme a lo establecido por el Estatuto Orgánico, cumplir con las atribuciones del Instituto, así como con lo siguiente:
 
 I. Calificar y determinar, en los casos en que exista controversia, respecto a la representatividad de los concesionarios y/o permisionarios y la titularidad de los derechos derivados de las concesiones, permisos y autorizaciones, en el ámbito de sus competencias;
 
@@ -613,13 +653,21 @@ XVIII. Expedir concesiones, permisos y autorizaciones en los términos previstos
 
 XIX. Modificar, anular, suspender, revocar, determinar la extinción y rescatar, concesiones, permisos y autorizaciones, en los términos previstos en esta Ley y su Reglamento;
 
-XX. Otorgar licencias y permisos de competencia del Instituto;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XX. Auxiliar en el otorgamiento de licencias de conducir de servicio público, competencia del Instituto;
 
 XXI. Ordenar la realización de actos de supervisión y resolver los expedientes administrativos correspondientes;
 
 XXII. Determinar las infracciones a la presente Ley, su Reglamento y demás disposiciones que de ella deriven, así como imponer las sanciones administrativas que resulten aplicables, y
 
-XXIII. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2019)</small>
+
+XXIII. Administrar y representar legalmente al Instituto, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2019)</small>
+
+XXIV. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
 
 ###### Artículo 31.
 
@@ -639,9 +687,17 @@ III. Secretaría de Ecología y Medio Ambiente;
 
 IV. Secretaría de Seguridad Pública;
 
-V. Secretaría de Finanzas y Planeación; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-VI. Secretaría de Turismo.
+V. Secretaría de Finanzas y Planeación;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+VI. Secretaría de Turismo, y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
+
+VII. Secretaría de Obras Públicas.
 
 De igual forma, la Oficialía Mayor del Gobierno del Estado de Quintana Roo, a través de su titular o un representante, integrará la Junta de Gobierno.
 
@@ -659,7 +715,7 @@ II. Aprobar cada año los estados financieros del Instituto y autorizar su publi
 
 III. Aprobar el Estatuto Orgánico del Instituto, el proyecto de estructura orgánica, así como los manuales necesarios para el funcionamiento administrativo;
 
-IV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Finanzas y Planeación, por conducto del Instituto;
+IV. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
 V. Aprobar, de acuerdo con la normatividad aplicable, la elaboración de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Instituto con terceros en materia de contrataciones públicas y servicios relacionados con las mismas;
 
@@ -701,15 +757,19 @@ Las sesiones de la Junta de Gobierno podrán iniciarse cuando se reúna la asist
 
 ### CAPÍTULO QUINTO. De los Esquemas de Coordinación entre el Instituto y los Municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 37.
 
 Los Municipios del Estado de Quintana Roo son instituciones responsables de garantizar el derecho humano a la movilidad, por lo que sus políticas y acciones deberán diseñarse y ejecutarse conforme a lo dispuesto por la Jerarquía de Movilidad, los principios en materia de Movilidad y las disposiciones de la presente Ley.
 
 Los planes de desarrollo urbano municipal deberán ser congruentes con lo establecido en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 38.
 
-Son facultades en materia de movilidad de los Municipios:
+Son facultades en materia de movilidad de los Ayuntamientos:
 
 I. Administrar y controlar el corralón de tránsito y la pensión Municipal de vehículos, de acuerdo a lo prescrito en la presente Ley, su Reglamento, los convenios y las Normas Administrativas que al efecto dicte el Ayuntamiento respectivo;
 
@@ -723,27 +783,37 @@ V. Determinar las políticas en materia de estacionamientos públicos establecid
 
 VI. Regular, aplicar y resolver todo lo relativo a las concesiones, tarifas, inspección y vigilancia y sanciones, en el ámbito de sus competencias, para la prestación de Servicio Público de Transporte Urbano de Pasajeros en Autobuses en ruta establecida, así como autorizar el uso de los carriles exclusivos, mecanismos y elementos de confinamiento, emitiendo dictamen que motive mediante Acuerdo del Ayuntamiento correspondiente, y
 
-VII. Las demás que establezcan la presente Ley y la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2019)</small>
+
+VII. Practicar exámenes de aptitud y capacidad a los solicitantes de licencias y permisos de conducir, en el ámbito de sus competencias, de conformidad con lo establecido en la presente Ley y demás disposiciones que al respecto emita la Secretaría de Seguridad Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
+
+VIII. Otorgar licencias y permisos de conducir, incluyendo las de servicio público de transporte de pasajeros en autobuses urbanos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE ENERO DE 2019)</small>
+
+IX. Las demás que se establezcan en la presente Ley y la normatividad aplicable.
 
 ### CAPÍTULO SEXTO. De los Órganos Auxiliares
 
 ###### Artículo 39.
 
-El Gobierno del Estado, a través del Instituto, podrá suscribir acuerdos o convenios de coordinación con los Ayuntamientos municipales, con el objeto de que asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+El Poder Ejecutivo del Estado a través del Instituto en coordinación con la Secretaría de Finanzas y Planeación, podrá suscribir acuerdos o convenios de coordinación con los Ayuntamientos municipales, con el objeto de que asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
 
-I. Autorizar la expedición de licencias para choferes, automovilistas, motociclistas y para conductores de los demás vehículos de propulsión, automotores y eléctricos;
+I. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
 II. Autorizar los colores que deban llevar los vehículos destinados al servicio público, de conformidad con el Reglamento;
 
 III. Determinar, la verificación periódica de las revistas o cuando las circunstancias lo ameriten de los vehículos destinados al servicio público;
 
-IV. Llevar el control del alta y baja de vehículos dentro de los municipios;
+IV. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
 V. Ordenar la verificación de las revistas y las condiciones en que se encuentren los motores de toda clase de vehículos, en forma periódica o cuando las circunstancias lo exijan, a efecto del retiro de circulación de aquellos vehículos que de forma manifiesta incumplen con las disposiciones contenidas en la presente Ley o su Reglamento;
 
 VI. La supervisión del cumplimiento de esta Ley y demás disposiciones que de ella deriven;
 
-VII. Practicar exámenes de aptitud y capacidad a los solicitantes de licencias de automovilistas, choferes, y demás vehículos de propulsión, automotores y eléctricos, y
+VII. (DEROGADA, P.O. 16 DE ENERO DE 2019)
 
 VIII. Las demás que ésta y otras disposiciones legales expresamente le confieran.
 
@@ -1105,9 +1175,13 @@ Toda persona debe contribuir a preservar en condiciones óptimas la infraestruct
 
 El Gobernador del Estado, a propuesta del Instituto, que será quien coordine con el resto de la Administración Pública Estatal las propuestas, establecerá el Reglamento de Tránsito, mismo que contendrá, entre otros aspectos, las normas para la circulación de peatones y vehículos en las vialidades de conformidad con la jerarquía de movilidad y los principios establecidos en la presente Ley.
 
-El Reglamento de Tránsito determinará los requisitos legales y administrativos que deben cubrir los conductores y las características de seguridad con las que deberán contar los vehículos y conductores para circular en el territorio del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
-Es facultad de la Secretaría de Seguridad Pública del Gobierno del Estado de Quintana Roo vigilar el cumplimiento de las reglas de tránsito y aplicar las sanciones establecidas en dicho ordenamiento.
+El Reglamento de Tránsito correspondiente determinará los requisitos legales y administrativos que deben cubrir los conductores y las características de seguridad con las que deberán contar los vehículos y conductores para transitar en el territorio del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Es facultad de la Secretaría de Seguridad Pública del Estado de Quintana Roo, por conducto de la Dirección de la Policía de Tránsito del Estado y de las correspondientes autoridades de tránsito municipales, en el ámbito de sus competencias, vigilar el cumplimiento del Reglamento de Tránsito correspondiente y aplicar las sanciones establecidas en esta ley y dicho reglamento.
 
 ###### Artículo 78.
 
@@ -1217,7 +1291,13 @@ I. De Carga Regular: es el transporte de productos de materiales que no necesita
 
 II. De Carga Especializada: es el transporte de productos y materiales que requieren de mayor especialización del conductor y del vehículo, tales como pipas, grúas, plataformas, maquinaria, tolvas y remolques especializados, incluyendo el servicio de arrastre, arrastre y salvamento y depósito de vehículos.
 
-El servicio de arrastre y salvamento, consiste en llevar a cabo las maniobras mecánicas y/o manuales necesarios para rescatar y colocar sobre el camino o carretera a los vehículos accidentados, sus partes o carga.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 2019)</small>
+
+El servicio de arrastre, consiste en remolcar los vehículos averiados que no puedan movilizarse de manera autónoma, derivado de descomposturas mecánicas, eléctricas y algún otro averío.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+El servicio de arrastre y salvamento, consiste en llevar a cabo las maniobras mecánicas y/o manuales necesarios para rescatar vehículos, sus partes y carga, involucrados en accidentes vehiculares, hechos de tránsito o siniestros, ocurridos sobre o fuera de la carpeta asfáltica de las carreteras o caminos, o bien, colocar sobre el camino o carretera a los vehículos accidentados, sus partes o carga y/o que requieran ser remolcados a petición de la autoridad competente.
 
 El servicio de depósito de vehículos consiste en la guarda y custodia en locales comisionados o permisionados por el Ejecutivo del Estado, de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos o carreteras de jurisdicción estatal y/o en su caso, remitidos por la autoridad competente.
 
@@ -1228,6 +1308,28 @@ IV. De Carga para la Construcción: es el transporte de productos y materiales t
 Las maniobras de carga y descarga deberán efectuarse en horario autorizado por el Instituto, con la mayor celeridad y con los medios apropiados que impidan que los artículos se esparzan o derramen en la vía pública. Asimismo no debe impedirse ni entorpecerse la circulación de peatones y vehículos, debiendo reducirse al mínimo las externalidades negativas que dichas operaciones puedan causar.
 
 En el caso de la fracción II del presente artículo, cuando se trate del servicio de grúas para arrastre, arrastre y salvamento y depósito de vehículos, el usuario podrá decidir libremente respecto a la prestación del servicio, que a sus intereses convenga. Atendiendo siempre a la presente Ley y sus reglamentos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 16 DE ENERO DE 2019)</small>
+
+Se exceptúa de lo dispuesto en el párrafo anterior, cuando los vehículos se vean detenidos por autoridad competente Estatal o Municipal y que estén involucrados en:
+
+a) Un hecho de tránsito;
+
+b) En una operación de revisión y/o falta administrativa de tránsito y/o vialidad y/o de alcoholímetro;
+
+c) La aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos;
+
+d) Cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito;
+
+e) El decomiso que ordene la autoridad judicial de los bienes;
+
+f) La aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia, y
+
+g) En el caso de extinción de dominio, en tanto se lleva a cabo el debido proceso ante autoridad jurisdiccional competente.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 16 DE ENERO DE 2019)</small>
+
+El servicio de arrastre y salvamento, en los casos de las fracciones anteriores, se llevará a cabo en términos del reglamento de esta Ley, y debe sujetarse a un rol consecutivo que incluya a todos los concesionarios de la circunscripción municipal que corresponda, que cuenten con la capacidad operativa y el equipo de grúas donde haya ocurrido el o los actos antes establecidos, y de no existir en la circunscripción territorial del municipio correspondiente, debe incluir a cualquiera de los concesionarios de los municipios más próximos.
 
 ###### Artículo 90.
 
@@ -1247,7 +1349,9 @@ A fin de satisfacer las necesidades de la población y la demanda de los usuario
 
 El tránsito de vehículos en el Estado de Quintana Roo, se condiciona al cumplimiento de los siguientes requisitos:
 
-I. Que estén matriculados y registrados en las oficinas Recaudadoras de Rentas, y de Tránsito del Estado de Quintana Roo, de cualquier Entidad Federativa o del extranjero;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+I. Que estén matriculados y registrados ante las oficinas autorizadas por la Secretaría de Finanzas y Planeación del Estado en coordinación con el Instituto, o bien, ante otras autoridades de tránsito de cualquier entidad federativa o del extranjero;
 
 II. Que reúnan los requisitos de seguridad y salubridad exigidas por la normatividad aplicable;
 
@@ -1465,11 +1569,15 @@ La falta de solicitud no afectará el ejercicio de las facultades de extinción 
 
 Los derechos y obligaciones derivados de la concesión para la prestación del Servicio Público de Transporte, no podrán enajenarse o negociarse bajo ninguna circunstancia; sólo podrán cederse o transmitirse previo análisis y consideración de los instrumentos jurídicos idóneos que presenten los solicitantes y posterior autorización del Instituto. Cualquier acto que se realice sin cumplir con este requisito, será nulo y no surtirá efecto legal alguno.
 
-Las concesiones otorgadas a personas morales, no son susceptibles de cesión o transmisión.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Las concesiones otorgadas a personas morales, solo serán susceptibles de cesión o transmisión a las personas físicas que sean integrantes de la persona moral.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 113.
 
-La persona física titular de una concesión, tendrá derecho a nombrar hasta tres beneficiarios, para que en caso de incapacidad física o mental, ausencia declarada judicialmente o muerte, puedan sustituirlo en el orden de prelación señalado por el concesionario, en los derechos y obligaciones derivados de la concesión, previa solicitud por escrito, en los términos establecidos por el Reglamento.
+La persona física titular de una concesión, tendrá derecho a nombrar hasta tres beneficiarios, para que en caso de incapacidad física o mental, puedan sustituirlo en el orden de prelación señalado por el concesionario, en los derechos y obligaciones derivados de la concesión, previa solicitud por escrito, en los términos establecidos por el Reglamento.
 
 ###### Artículo 114.
 
@@ -1517,7 +1625,9 @@ X. En caso de personas morales, capacitar a sus operadores y demás personas que
 
 XI. Cumplir con las disposiciones jurídicas y administrativas aplicables en materia ambiental y a las prioridades que determine el Instituto;
 
-XII. Vigilar que los conductores de sus vehículos, cuenten con la licencia exigida por las disposiciones jurídicas y administrativas aplicables para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad e informar por escrito al Instituto y a cualquier otra dependencia o entidad de la Administración Pública del Estado que lo requiera, los datos de identificación y localización de sus conductores;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XII. Vigilar que los conductores de sus vehículos, cuenten con la licencia de conducir del tipo servicio público exigida por las disposiciones jurídicas y administrativas aplicables para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad e informar por escrito al Instituto y a cualquier otra dependencia o entidad de la Administración Pública del Estado que lo requiera, los datos de identificación y localización de sus conductores;
 
 XIII. Contar con póliza de seguro vigente de cobertura amplia para responder por los daños que con motivo de la prestación del servicio, pudieran ocasionarse a los usuarios y terceros en su persona y/o patrimonio, conforme a lo dispuesto por el Reglamento;
 
@@ -1525,7 +1635,11 @@ XIV. Acatar los protocolos de comportamiento y actuación que emita el Instituto
 
 XV. Contar con unidades acondicionadas con ayudas técnicas, conforme a la normatividad aplicable, que permitan el óptimo servicio para que las personas con discapacidad puedan hacer uso del Servicio Público de Transporte en condiciones de seguridad, comodidad, higiene y eficiencia.
 
-XVI. Asegurarse que las unidades de nueva adquisición destinadas a la prestación del Servicio Público de Transporte colectivo y el Servicio de Transporte Público Individual de Pasajeros se ajusten a las condiciones que se establezcan en la concesión correspondiente, así como al Manual de lineamientos técnicos para vehículos del Servicio Público de Transporte de Pasajeros, con especial atención a las condiciones de diseño universal que permitan satisfacer las necesidades de movilidad de las personas con discapacidad y movilidad limitada;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XVI. Asegurarse que las unidades de nueva adquisición destinadas a la prestación del servicio público de transporte colectivo y el servicio de transporte público individual de pasajeros se ajusten a las condiciones que se establezcan en la concesión correspondiente, así como al (sic) normas oficiales mexicanas para vehículos del servicio público de transporte de pasajeros, con especial atención a las condiciones de diseño universal que permitan satisfacer las necesidades de movilidad de las personas con movilidad limitada;
+
+Las personas morales concesionarias o las que lleguen a formar personas físicas titulares de concesión, son responsables solidariamente con los socios y asociados, del cumplimiento de las obligaciones que impone esta Ley y su Reglamento.
 
 XVII. Mantener actualizados sus registros, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con la concesión otorgada, debiendo utilizar los lineamientos que al efecto autorice la Administración Pública;
 
@@ -1617,7 +1731,9 @@ VII. La suspensión de la prestación del Servicio Público de Transporte;
 
 VIII. Que el concesionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, se haga acreedor a infracciones calificadas como graves, en términos de la presente Ley y su Reglamento;
 
-IX. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha sido instrumento para la comisión de algún delito;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+IX. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha cometido algún delito;
 
 X. Modificar o alterar las tarifas, horarios y demás condiciones en que fue originalmente entregada la concesión o permiso, sin aprobación previa y por escrito, en lo que se aplique a cada tipo de servicio;
 
@@ -1631,7 +1747,9 @@ XIV. Cuando se compruebe por la autoridad competente y en última instancia, que
 
 XV. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ejerza violencia física a los ocupantes o a terceros;
 
-XVI. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado sea consumidor de sustancias psicotrópicas, estupefacientes o enervantes incluyendo medicamento que produzca los mismo efectos que los anteriores o se encuentre en estado de ebriedad al momento de hacer uso o explotación de la concesión, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XVI. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público, al momento de conducir el vehículo haciendo uso o explotación de la concesión, haya consumido sustancias psicotrópicas, estupefacientes o enervantes incluyendo medicamento que produzca los mismos efectos que los anteriores o se encuentre en estado de ebriedad, y
 
 XVII. Las demás que se establezcan en la presente Ley y su Reglamento.
 
@@ -1641,9 +1759,11 @@ En los casos previstos en las fracciones XIV, XV y XVI del presente artículo, e
 
 La extinción de una concesión por cualquiera de las causas establecidas en la normatividad aplicable, será declarada administrativamente por el Instituto, de acuerdo con el procedimiento establecido en el Reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 124.
 
-Los concesionarios o permisionarios de los Servicios Públicos de Transporte del Estado de Quintana Roo tendrán la obligación de acudir al proceso anual de revista vehicular, en la cual se realizará la inspección documental y físico-mecánica de las unidades, equipamiento auxiliar o infraestructura, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio, en los términos que establezca el Reglamento.
+Los concesionarios o permisionarios de los servicios públicos de transporte del Estado de Quintana Roo tendrán la obligación de acudir al proceso anual de revista vehicular, en la cual se realizará la inspección documental y físicomecánica de las unidades, equipamiento auxiliar o infraestructura, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas que señalen las normas oficiales mexicanas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio, en los términos que establezca el Reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1652,6 +1772,14 @@ Los concesionarios o permisionarios de los Servicios Públicos de Transporte del
 La prestación de los servicios de transporte público y privado de pasajeros y de carga, así como para el establecimiento de sitios, bases, lanzaderas y su equipamiento auxiliar en el Estado de Quintana Roo, que de acuerdo a las leyes de la materia no estén regulados como Concesión Federal, Estatal o Municipal, requerirán de un permiso expedido por el Instituto, previo cumplimiento de los requisitos y del pago de los derechos correspondientes.
 
 En términos de los Artículos 7 y 19 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, los derechos de tránsito y movilidad por el Estado de los prestadores del Servicio Público y Privado de Transporte de pasajeros o de carga federales en sus diversas modalidades, implica el libre tránsito por vías de comunicación estatal y/o municipales sin requerir concesiones o permisos o autorizaciones estatales o municipales para el descenso de pasajeros en terminales de destino, o bien, de descarga de mercancías en cualquier punto de destino cumpliendo lo establecido en el Artículo 117 fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos. Es aplicable lo anterior, para el libre tránsito a los prestadores del Servicio Público y Privado de Transporte para el descenso de pasajeros en terminales de destino o descarga de mercancías en cualquier destino por las calles y vías de comunicación de jurisdicción municipal. La contravención dará lugar a la nulidad de pleno derecho de los actos administrativos por establecer una barrera a la libre competencia, concurrencia, tránsito y movilidad dentro del Estado de Quintana Roo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE ENERO DE 2019)</small>
+
+Para los efectos de los párrafos anteriores se entenderá que:
+
+I. Los vehículos que efectúen el servicio de autotransporte federal, pueden ingresar, transitar, salir y realizar el ascenso y descenso de pasajeros, o bien, realizar maniobras de carga o descarga en el Estado de Quintana Roo, sin contar con permiso del Instituto, siempre que en los puntos de origen y/o destino de su carta de porte o documento de embarque se realicen en apego al permiso federal, o bien, que los puntos de origen y/o destino de su carta de porte o documento de embarque de bienes y mercancías, se encuentren dentro de bienes inmuebles de propiedad privada, y
+
+II. Para atender la demanda y provisión de abasto para la población y turismo del Estado de Quintana Roo, como derecho humano fundamental, el servicio de transporte (sic) alimentos perecederos y no perecederos que se realice con vehículos de hasta 12,000 kilogramos con permiso Estatal, pueden ingresar, transitar, salir y realizar maniobras de carga o descarga con un tiempo máximo de descarga sin obstruir las aceras o paso peatonal en las vías de jurisdicción Municipal del Estado de Quintana Roo, sin requerir de permisos o autorizaciones Municipales, siempre que los puntos de origen y destino de su carta de porte o documento de embarque sean en vías de comunicación de jurisdicción Estatal y/o Municipal y/o particular.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1729,7 +1857,9 @@ V. Cuando se exhiba documentación apócrifa, alterada o se proporcionen informe
 
 VI. Hacerse acreedor a infracciones calificadas como graves, en los términos del Reglamento;
 
-VII. Cuando se compruebe por la autoridad competente y en última instancia que el permisionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha sido instrumento para la comisión de algún delito. El Instituto podrá declarar la suspensión de la autorización o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+VII. Cuando se compruebe por la autoridad competente y en última instancia que el permisionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha cometido algún delito. El Instituto podrá declarar la suspensión de la autorización o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente, y
 
 VIII. Las demás que se establezcan en la presente Ley y su Reglamento.
 
@@ -2069,7 +2199,7 @@ Los conductores de vehículos mediante los que se preste el servicio público de
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-l. Contar y portar, durante la prestación del servicio, el documento de la concesión y el certificado vehicular vigente expedidos por el Instituto;
+I. Contar y portar, durante la prestación del servicio, el documento de la concesión y el certificado vehicular vigente expedidos por el Instituto;
 
 II. Portar, durante la prestación del servicio, con la licencia de conducir expedida por el Instituto, así como con la tarjeta de circulación;
 
@@ -2237,11 +2367,15 @@ El Instituto propondrá, para su aprobación, al Gobernador del Estado, con base
 
 ### CAPITULO DÉCIMO. Del Registro Público del Transporte
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 172.
 
 Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas, deberá contar y portar licencia para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
 
-El Instituto otorgará permisos para conducir vehículos motorizados de uso particular a personas físicas menores de dieciocho y mayores de quince años de edad, conforme a lo establecido por la normatividad en la materia.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Los ayuntamientos podrán otorgar permisos para conducir vehículos motorizados de uso particular a personas físicas menores de dieciocho y mayores de quince años de edad, conforme a lo establecido en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos.
 
 ###### Artículo 173.
 
@@ -2257,9 +2391,11 @@ II. Expiración del plazo por el que fue otorgada, y
 
 III. Las demás previstas en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 175.
 
-El Instituto está facultada para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
+Los Ayuntamientos y el Instituto, en el ámbito de sus competencias, están facultados para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
 
 I. Cuando el titular sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo en estado de ebriedad;
 
@@ -2271,15 +2407,19 @@ IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del per
 
 V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente, y
 
-VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios.
+VI. (DEROGADA, P.O. 16 DE ENERO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 176.
 
-El Instituto suspenderá en forma temporal el uso de licencia o permiso para conducir, por un término de seis meses a tres años, en los siguientes casos:
+Los Ayuntamientos y el Instituto, en el ámbito de sus competencias, podrán suspender en forma temporal el uso de licencia o permiso para conducir, por un término de seis meses a tres años, en los siguientes casos:
 
 I. Si el conductor acumula tres infracciones a la presente Ley o sus reglamentos en el transcurso de un año;
 
-II. Cuando el titular de la misma haya causado algún daño a terceros o a sus bienes sin resarcirlo, al conducir un vehículo;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+II. Cuando el titular de la misma haya causado algún daño a terceros o a sus bienes sin resarcirlo, al conducir un vehículo, por resolución que haya causado estado dictada por autoridad competente;
 
 III. Por un año cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, y
 
@@ -2295,7 +2435,9 @@ A ninguna persona se le reexpedirá un permiso o licencia para conducir en los s
 
 I. Si el permiso o licencia para conducir está suspendida o cancelada;
 
-II. Cuando el Instituto compruebe que el solicitante ha sido calificado de incapacitad mental o física que le impida conducir vehículos motorizados y no compruebe mediante certificado médico haberse rehabilitado. Entendiendo que en caso de discapacidad física, la movilidad en vehículos motorizados podría superarse con adaptaciones de diversa índole que permitan conducirles de forma segura y eficiente. La incapacidad mental sólo podrá avalarse por autoridad facultada para ello;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+II. Cuando se compruebe que el solicitante ha sido calificado de incapacitad mental o física que le impida conducir vehículos motorizados y no compruebe mediante certificado médico haberse rehabilitado. Entendiendo que en caso de discapacidad física, la movilidad en vehículos motorizados podría superarse con adaptaciones de diversa índole que permitan conducirles de forma segura y eficiente. La incapacidad mental sólo podrá avalarse por autoridad facultada para ello;
 
 III. Cuando presente documentación falsa o alterada o proporcione informes falsos, en la solicitud correspondiente;
 
@@ -2319,7 +2461,7 @@ Los vehículos motorizados de uso particular que circulen en el Estado de Quinta
 
 ###### Artículo 181.
 
-El Registro Público del Transporte estará a cargo del Instituto y tiene como objeto el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y su Reglamento.
+El Registro Público del Transporte estará a cargo del Instituto y tiene como objeto el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y su Reglamento, así como las funciones de seguridad pública y de seguridad nacional que le señalen las Autoridades competentes conforme a la normatividad del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 182.
 
@@ -2687,6 +2829,10 @@ Los concesionarios o permisionarios serán responsables solidarios de las infrac
 
 En los casos de infracciones graves, además de los supuestos previstos en esta ley, el Instituto podrá suspender o revocar la concesión, permiso o autorización.
 
+### CAPÍTULO PRIMERO. DEL TRANSITO Y VIALIDAD
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 201.
 
 Las sanciones administrativas que resulten con motivo de infracciones y faltas a la presente Ley, así como su clasificación, serán establecidas por el Reglamento, así como su procedimiento de verificación, y, conforme a la naturaleza de las mismas, sancionadas con cualquiera de los siguientes supuestos:
@@ -2741,7 +2887,459 @@ III. Las infracciones graves se sancionarán con multa de 300 (trescientas) a 10
 
 En la determinación del monto de las multas se deberán considerar las resoluciones anuales del Instituto Nacional de Estadística y Geografía, en las que fija la Unidad de Medida y Actualización vigente en todo el territorio nacional.
 
-Los Ayuntamientos de los Municipios establecerán las sanciones que correspondan a infracciones de su competencia en sus Reglamentos municipales.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Los Ayuntamientos establecerán el monto de las sanciones que correspondan a infracciones de su competencia en el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+## TÍTULO SÉPTIMO. DEL TRANSITO Y VIALIDAD EN EL ESTADO Y LOS MUNICIPIOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES DE TRÁNSITO Y VIALIDAD
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 205.
+
+El tránsito en las vías públicas abiertas a la circulación en el Estado de Quintana Roo y sus Municipios y a la explotación de las mismas, que no sean de la competencia federal, se consideran y declaran de interés público, así como su planeación y ordenación, las cuales se regirán por las disposiciones generales de esta Ley y las disposiciones del Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 206.
+
+Las autoridades del Estado competentes en la materia de tránsito y vialidad sin perjuicio de las funciones de seguridad pública y/o de seguridad nacional, en los términos dispuestos en esta Ley son:
+
+I. El Gobernador del Estado de Quintana Roo;
+
+II. El Titular de la Secretaría de Gobierno del Poder Ejecutivo;
+
+III. El Titular de la Secretaría de Seguridad Pública del Estado;
+
+IV. El Titular de la Dirección de la Policía de Tránsito, de la Secretaría de Seguridad Pública del Estado de Quintana Roo;
+
+V. La Policía de Tránsito de la Secretaría de Seguridad Pública del Estado de Quintana Roo, y las Policías Preventivas Municipales y Tránsito, de cada Ayuntamiento;
+
+VI. Los Presidentes Municipales en su jurisdicción;
+
+VII. Las oficinas autorizadas de la Secretaría de Finanzas y Planeación del Estado y con las facultades que expresamente le delegue el Titular del Ejecutivo del Estado y las que expresamente señalen las leyes fiscales y convenios con la federación que son aplicables;
+
+VIII. Aquellos a quienes las leyes generales o estatales de seguridad pública señalen, y
+
+IX. Los servidores públicos municipales a quienes de acuerdo a la normatividad aplicable se les atribuyan esas facultades en sus respectivos Municipios.
+
+Son autoridades auxiliares de tránsito y transporte el personal médico legista y del servicio médico de las Policía de Tránsito, y las fuerzas de Seguridad Pública del Estado y de los Ayuntamientos.
+
+En cada uno de los Ayuntamientos habrá una Dirección de la Policía de Tránsito encargada de la aplicación de tránsito y vialidad. En la ciudad de Chetumal del Municipio de Othón P. Blanco por ser el recinto de los Poderes Estatales, corresponderá a la Dirección de la Policía de Tránsito, de la Secretaría de Seguridad Pública del Estado de Quintana Roo, la aplicación de tránsito y vialidad.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 207.
+
+Son facultades del Director de Tránsito del Estado:
+
+I. Ejercer la titularidad de la Dirección de la Policía de Tránsito del Estado;
+
+II. Vigilar el exacto cumplimiento de las disposiciones de esta Ley en materia de tránsito y vialidad en el ámbito de su competencia;
+
+III. Ejercer el control administrativo de las oficinas de la Dirección de la Policía de Tránsito del Estado, cuidar del buen funcionamiento de esta, vigilar la conducta del personal administrativo de las mismas, para asegurar al máximo un eficiente servicio al público;
+
+IV. Coordinar la realización de acciones operativas con las Direcciones de la Policía Preventiva Municipal y Tránsito;
+
+V. Planificar y ordenar el tránsito Estatal, proponiendo a través del Titular de la Secretaría de Seguridad Pública del Estado, los proyectos respectivos para su aprobación, cuando esta sea necesaria;
+
+VI. Ordenar la inspección y disponer las medidas de seguridad técnica adecuadas para una vigilancia, supervisión y control de vehículos automotores para preservar el ambiente y salvaguardar la seguridad de las personas;
+
+VII. Expedir autorizaciones provisionales para circular sin placas o en los casos que determine el (sic) presente Ley y el Reglamento de Tránsito correspondiente;
+
+VIII. Mediante convenios con los Ayuntamientos respectivos, ejercer el control estadístico sobre actualización en hechos de tránsito;
+
+IX. Coordinar a las autoridades auxiliares en materia de tránsito y validar sus intervenciones;
+
+X. Señalar en el ámbito de su jurisdicción y competencia el sentido de la circulación, así como determinar la zona de establecimiento, ubicación de señales de tránsito, límites de velocidad y demás modalidades que conduzcan a satisfacer el interés social, la prevención de accidentes y la mayor fluidez en el tránsito de personas y de vehículos;
+
+XI. Imponer, calificar o cancelar las sanciones establecidas en la presente Ley y el Reglamento de Tránsito correspondiente en el ámbito de su competencia, y
+
+XII. Las demás que le confieran la presente Ley, el Reglamento, el Reglamento de Tránsito correspondiente, los convenios, acuerdos e instrucciones del titular del ejecutivo y demás leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 208.
+
+Son facultades de:
+
+I. Los Directores de la Policía Preventiva Municipal y Tránsito:
+
+a) Ejercer la titularidad y mando de la Dirección de la Policía Preventiva Municipal y Tránsito en su respectiva jurisdicción;
+
+b) Vigilar el exacto cumplimiento de las disposiciones de esta Ley y el Reglamento de Tránsito correspondiente, así como las que, en materia de tránsito, estatal y municipal se emitan y se disponga su observancia y ejecución;
+
+c) Ejercer dentro de su jurisdicción, el mando, el control y la vigilancia inmediatos de la Policía de Tránsito y demás personal adscrito a su Dirección, para ajustar su conducta a los mandatos de esta Ley y el Reglamento de Tránsito correspondiente;
+
+d) Dictar y hacer cumplir las disposiciones necesarias para la mejor organización del tránsito en su Municipio;
+
+e) Coordinarse con la Dirección de Policía de Tránsito del Estado y otras autoridades Estatales y federales;
+
+f) Disponer las medidas adecuadas para una vigilancia, supervisión y control de vehículos automotores para preservar el ambiente y salvaguardar la seguridad de las personas;
+
+g) Planificar, coordinar y ordenar el tránsito municipal proponiendo al Presidente Municipal los proyectos respectivos para su aprobación, cuando esto sea necesario;
+
+h) Expedir las licencias de conducir competencia del Ayuntamiento;
+
+i) Expedir autorizaciones provisionales para circular sin placas en los casos que determine la presente Ley y el Reglamento de Tránsito correspondiente;
+
+j) Implementar nuevas modalidades en el manejo del tránsito, mediante convenios de coordinación con autoridades federales, estatales y otros Ayuntamientos;
+
+k) Señalar en el ámbito de su jurisdicción y competencia el sentido de la circulación, así como determinar la zona de estacionamiento, ubicación de señales de tránsito, límites de velocidad y demás modalidades que conduzcan a satisfacer el interés social, la prevención de accidentes y la mayor fluidez en el tránsito de personas y de vehículos;
+
+l) Imponer, calificar o cancelar las sanciones establecidas en la Ley y el Reglamento de Tránsito correspondiente en el ámbito de su jurisdicción y competencia;
+
+m) Las demás que se señalen en la presente Ley, el Reglamento de Tránsito correspondiente y las demás disposiciones y reglamentos aplicables.
+
+II. Son facultades y obligaciones de los Policías de Tránsito en el Estado y de los Municipios:
+
+a) Cuidar que la circulación de las personas, el manejo y tránsito de vehículos, semovientes y los servicios de transporte de pasajeros o de carga, se realicen conforme a los mandatos de esta Ley y su Reglamento de Tránsito, de la cual emanan las disposiciones que con fundamentos en estos les dicten sus superiores para lograr al máximo el correcto desenvolvimiento de esas actividades;
+
+b) Sancionar las faltas que se comentan (sic) a esta Ley y el Reglamento del (sic) Tránsito correspondiente conforme al procedimiento que en cada uno de ellos esté establecido;
+
+c) Procurar inmediato auxilio a las personas que resulten lesionadas con motivo de accidentes de tránsito;
+
+d) Intervenir en los hechos de tránsito, para prestar el auxilio indispensable y detener, en su caso, a los presuntos responsables de los mismos, poniéndolos de inmediato a disposición de la autoridad correspondiente y rendir el parte informativo a sus superiores jerárquicos.
+
+e) Cumplir con lo establecido por los Protocolos de actuación policial vigentes;
+
+f) Cumplir y hacer cumplir las disposiciones de esta Ley y su Reglamento de Tránsito correspondiente y las que dicten sus superiores, y
+
+g) Las demás que se señalen en la presente Ley, el Reglamento de Tránsito correspondiente y las demás disposiciones y reglamentos aplicables.
+
+III. Corresponde a los integrantes del cuerpo médico de la Policía (sic) Tránsito Estatal o Municipal:
+
+a) Realizar la certificación médica de las personas que deseen tramitar su licencia de conducir;
+
+b) Realizar el examen de las personas cuando con motivo de infracciones o hechos de tránsito, sea necesario dictaminar sobre la posible ingestión de substancias embriagantes o psicotrópicas, y
+
+c) Realizar el examen de las personas que con motivo de la conducción y operación realicen jornadas dentro de las rutas concesionadas por el Estado o del Municipio, con la periodicidad que acuerde la Dirección de la Policía de Tránsito del Estado o Municipal y bajo las condiciones que establece el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 209.
+
+Todo usuario de las vías públicas está obligado a obedecer indicaciones de los dispositivos para el control del tránsito y vialidad, así como las indicaciones de la Policía de Tránsito Estatal o Municipal, en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 210.
+
+Los vehículos al transitar en la vía pública deberán hacerlo con el número de personas permitidas en la tarjeta de Circulación expedida por la autoridad competente.
+
+El tránsito de vehículos con carga que circule en la vía pública deberá realizarse conforme a lo dispuesto en el Reglamento de Tránsito correspondiente y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 211.
+
+Todo vehículo que circule en la vía pública deberá tener como máximo las siguientes dimensiones:
+
+I. Altura 4.00 metros incluyendo la carga del vehículo.
+
+II. Anchura 2.50 metros incluyendo la carga del vehículo.
+
+III. Longitud 12.00 metros.
+
+El vehículo que exceda estas dimensiones para circular dentro del Estado y los Municipios, deberá hacerlo previo permiso especial concedido por la Dirección de la Policía Preventiva Municipal y Tránsito o la Dirección de la Policía de Tránsito del Estado y únicamente por las calles que se autorice, pudiendo suspender la circulación de todo aquel que no reúna los requisitos antes señalados.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 212.
+
+Para que los vehículos de servicio particular circulen en la vía pública con polarizados en cristales, deberán cumplir los requisitos y obtener el permiso de conformidad con lo establecido en el Reglamento de Tránsito correspondiente y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 213.
+
+Queda prohibido obstruir o utilizar los espacios destinados al estacionamiento de los vehículos de personas con movilidad limitada, mujeres embarazadas y adultos mayores, así como las rampas de acceso a las banquetas y vías peatonales o estacionar un vehículo frente a esos lugares.
+
+La violación a la disposición prevista en el presente artículo, se sancionará conforme al reglamento de tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 214.
+
+La Dirección de la Policía de Tránsito Municipal o la Dirección de la Policía de Tránsito del Estado autorizará permisos tipo gafete o calcomanía para personas con movilidad limitada, adultos mayores o en estado de gravidez, de acuerdo con lo establecido en esta Ley y en el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 215.
+
+Para conducir vehículos automotores en vías y carreteras del Estado, será necesario portar o llevar consigo la licencia o permiso de conducir vigente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 216.
+
+Los Ayuntamientos expedirán las licencias de conducir de vehículos de servicio particular, para lo cual se deberán observar las disposiciones del Reglamento de Tránsito correspondiente, así como aquellas que emita la Secretaría de Seguridad Pública del Estado y las demás disposiciones aplicables.
+
+En el caso de licencias de conducir del tipo de Servicio Público que regula la presente Ley, sólo podrán ser expedidas por el Instituto, con una vigencia de hasta dos años, con excepción de las licencias de servicio público de transporte de pasajeros en autobuses urbanos que serán expedidas por los Ayuntamientos en términos de lo dispuesto en el Reglamento de Tránsito correspondiente y demás normas jurídicas aplicables.
+
+Las licencias y permisos de conducir expedidos por los Ayuntamientos deberán ser registrados ante el Instituto, a través del Registro Público del Transporte, apegándose a la normatividad en materia de Protección de Datos Personales.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 217.
+
+Los vehículos que transiten en las vías primarias deberán observar lo dispuesto por la presente Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 218.
+
+Los conductores de vehículos están obligados a:
+
+I. Mostrar a las autoridades de tránsito cuando se le solicite, la licencia o permiso para conducir, así como la documentación que faculte la circulación del vehículo;
+
+II. Obedecer todas las disposiciones de esta Ley, Reglamento de Tránsito correspondiente y las indicaciones que emitan las autoridades de tránsito que deriven de ellas.
+
+III. Respetar las reglas de circulación especialmente las que se refieren a preferencias, velocidad y uso restringido de las vías públicas como lo regule el Reglamento de Tránsito correspondiente;
+
+IV. Sujetarse a los exámenes médicos y de pericia exigidos por la Ley y el Reglamento de Tránsito correspondiente;
+
+V. En el caso de los vehículos sujetos a concesión mostrar los documentos que lo acreditan o los permisos correspondientes y demás documentos establecidos en el Reglamento de Tránsito correspondiente;
+
+VI. Usar cinturón de seguridad, esta medida también la deberán atender todos los ocupantes de automóviles de uso público o privado;
+
+VII. Usar sillas porta infantes cuando a bordo del vehículo se encuentran uno o varios menores de cinco años de edad;
+
+VIII. Ubicar a los menores en el asiento posterior del vehículo;
+
+IX. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas;
+
+X. Abstenerse el conductor o chofer de utilizar mientras se encuentra en circulación o transitando con un vehículo un dispositivo de comunicación móvil, tales como radios, teléfonos y otros, que disminuyan la habilidad y capacidad de reacción al conductor de un vehículo;
+
+XI. No arrojar basura a la vía pública y evitar que los pasajeros o acompañantes del vehículo a su cargo lo hagan;
+
+XII. Respetar las señales de tránsito restrictivas y dispositivos para el control de tránsito, y
+
+XIII. Las obligaciones que se establezcan en la presente Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+Artículo 220 (sic). El estacionamiento de los vehículos en la vía pública, deberá atender a lo dispuesto en el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 221.
+
+El tránsito de los vehículos en el territorio de los Municipios que conforman el Estado de Quintana Roo, se condiciona a que estén inscritos en el registro público de transporte conforme a la presente Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 222.
+
+Los daños a las vías públicas serán sancionadas (sic) en términos del Reglamento de Tránsito correspondiente. El dueño de un vehículo es responsable solidario del Conductor de un vehículo de la reparación de los daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 223.
+
+Las autoridades de tránsito y transporte en todo momento podrán ordenar la detención de vehículos que contaminen el ambiente, o bien por seguridad técnica al estar en peligro la seguridad de sus ocupantes, de los demás vehículos o de los peatones. Asimismo, podrán ordenar la no circulación y detención de los vehículos que no cuenten con los documentos exigidos por esta Ley y los Reglamentos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 224.
+
+Todo vehículo deberá contar con placas y tarjeta de circulación vigente expedidas por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 225.
+
+Los vehículos que porten placas de circulación de otras entidades federativas, transitarán libremente en el Estado de Quintana Roo, mientras estén vigentes y en todos los casos respetando las normas que establece (sic) la presente Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 226.
+
+Todos los conductores de vehículos estarán obligados a acceder a la aplicación de las pruebas que se establezcan para detectar posibles intoxicaciones derivadas del consumo de alcohol.
+
+De igual forma estarán obligados a la aplicación de dichas pruebas los usuarios de las vías públicas implicados en un hecho o accidente de tránsito.
+
+Los conductores que se nieguen a ser sometidos a la prueba de detección de alcohol, serán inmediatamente puestos a disposición de la autoridad competente por la probable comisión del delito que regule el Código Penal para el Estado Libre y Soberano de Quintana Roo como delitos contra la seguridad del tránsito de vehículos, o bien, de ataques a las vías de comunicación y a los medios de transporte, según corresponda.
+
+Los conductores de vehículos destinados al servicio público de transporte o de transporte de sustancias toxicas o peligrosas, no deben presentar, ningún síntoma simple de aliento etílico o estar bajo los efectos del alcohol o narcóticos, drogas, psicotrópicos o estupefacientes.
+
+El incumplimiento de lo dispuesto en este artículo se sancionará con arresto administrativo y/o multa de acuerdo a lo establecido en el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 227.
+
+La Dirección de la Policía Preventiva Municipal y Tránsito, así como la Dirección de la Policía de Tránsito del Estado, de acuerdo a su competencia, podrá llevar a cabo la instrumentación de programas viales y programas preventivos de alcoholimetría a conductores a través de la prueba de detección del grado de intoxicación etílica, con el instrumento alcoholímetro, así como para la detección de posibles intoxicaciones derivadas por narcóticos, drogas, sicotrópicos estupefacientes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 228.
+
+Las pruebas para detectar la posible intoxicación por alcohol se practicarán por médico con cédula profesional facultado por la Dirección de la Policía de Tránsito competente, conforme a lo dispuesto por el reglamento de tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 229.
+
+En el supuesto de que el resultado de las pruebas a que se refieren los artículos anteriores, fueren positivas o el conductor se negare a efectuar las pruebas de detección derivadas de los programas viales, el vehículo detenido será remitirlo (sic) al depósito vehicular correspondiente.
+
+Los gastos ocasionados por el traslado del vehículo al depósito vehicular correspondiente, serán cubiertos por el conductor o por quien legalmente deba de responder por las responsabilidades en que incurra el vehículo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 230.
+
+La Dirección de la Policía Preventiva Municipal y Tránsito o la del Estado según sea la competencia, a fin de prevenir todo tipo de accidentes y evitar la pérdida de vidas y daños materiales a los usuarios de las vías públicas, implementará equipos y dispositivos tecnológicos siguientes:
+
+I. Cámaras electrónicas para detectar a los vehículos que infrinjan los artículos establecidos en el Reglamento de Tránsito correspondiente;
+
+II. Dispositivos de radar y láser, mediante pizarras electrónicas o pistolas para detectar el exceso en los límites de velocidad permitidos por el Reglamento de Tránsito correspondiente;
+
+III. Radares detectores para identificar los vehículos y las placas de los mismos, que excedan los límites de velocidad establecidos en el Reglamento de Tránsito y en las vías públicas, a través de la toma de fotografías que reportarán el lugar, la fecha, la hora y la velocidad a la cual transita el vehículo;
+
+IV. Sistemas electrónicos de video-vigilancia, fijos o móviles, para identificar a los vehículos infractores de los límites de velocidad, y de los Dispositivos para el Control del Tránsito y la Vialidad, de acuerdo a lo establecido en el Reglamento de Tránsito correspondiente;
+
+V. Sistemas y equipos electrónicos instalados en cruces, que emitirán secuencias fotográficas de los vehículos que participen en un hecho o accidente de tránsito previsto en el Reglamento de Tránsito correspondiente; y,
+
+VI. Demás dispositivos afines a los programas viales.
+
+En las vialidades donde se encuentren dispositivos fijos o semifijos de equipos y sistemas tecnológicos se instalarán señalizaciones de los mismos, cerca del lugar en donde se encuentren.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 231.
+
+Las señales de Tránsito se clasificarán en:
+
+I. Preventivas: Aquéllas que tienen por objeto advertir la existencia y naturaleza de un peligro en el camino.
+
+II. Restrictivas: Aquéllas que tienen por objeto indicar la existencia de ciertas limitaciones y prohibiciones que regulan el tránsito.
+
+III. Informativas: Aquéllas que tienen por objeto guiar al usuario a lo largo de la ruta e informarle sobre las calles o caminos que se encuentren y los nombres de las poblaciones, lugares de interés y sus distancias.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 232.
+
+Está prohibido alterar, modificar o destruir parcial o totalmente las señales de tránsito o dispositivos para el control del tránsito. Las personas que violen esta disposición se harán acreedores independientemente de la responsabilidad que se derive como consecuencia de ello y de las sanciones que establece la tabla del Reglamento de Tránsito, y a las sanciones que consigne el Código Penal para el Estado Libre y Soberano de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 233.
+
+El conductor de cualquier vehículo implicado en un hecho de Tránsito debe inmediatamente detener su marcha en el lugar del hecho tan cerca como le sea posible y permanecer en dicho sitio, hasta que tome conocimiento la autoridad competente. La detención deberá ser hecha sin crear un peligro más para la circulación, procurando colocar las señales de protección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA DE TRÁNSITO Y VIALIDAD
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 234.
+
+La acción u omisión que contravenga esta Ley y el Reglamento de Tránsito correspondiente se considerará como una infracción administrativa y se sancionará de conformidad a lo previsto en las mismas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 235.
+
+Los conductores que cometan alguna infracción a esta Ley o su Reglamento de Tránsito y además realicen una acción u omisión que pueda dar lugar a la tipificación de un delito, serán puestos a disposición de la autoridad competente por conducto de los policías de tránsito que tuvieron conocimiento del hecho, sin perjuicio de las sanciones que les corresponda por la infracción de tránsito.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 236.
+
+Sin perjuicio de lo establecido en el artículo 201 de esta Ley, las sanciones que se aplicarán por contravenir las disposiciones de este Título y del Reglamento de Tránsito correspondiente, serán las siguientes:
+
+I. Amonestación o apercibimiento;
+
+II. Multa conforme lo señale el Reglamento de Tránsito correspondiente;
+
+III. Arresto hasta por treinta y seis horas;
+
+IV. Suspensión de licencia o permiso de conducir;
+
+V. Revocación de licencia o permiso de conducir, y
+
+VI. Retención de vehículos.
+
+El Reglamento de Tránsito correspondiente, establecerá los parámetros para la aplicación de las sanciones establecidas en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 237.
+
+Las multas que impongan la Dirección de Policía Preventiva Municipal y Tránsito o la Dirección de Policía de Tránsito del Estado, se deberán cubrir dentro de los quince días hábiles siguientes a su notificación. Pasado ese plazo sin ser pagadas adquirirán el carácter de crédito fiscal para su cobro, en términos del Código Fiscal del Estado y el Código Fiscal Municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 238.
+
+Las multas formuladas por la Policía de Tránsito por cualquier infracción al Reglamento (sic) Tránsito, se notificarán por regla general en el momento inmediato al de su comisión al Conductor, dándole a conocer la disposición de la Ley o Reglamento de Tránsito que se esté violando, o en su caso, de manera posterior de acuerdo a lo que establezca el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 239.
+
+Las infracciones al Reglamento de Tránsito correspondiente en caso de reincidencia en un periodo de seis meses, serán sancionadas hasta por el doble de la cantidad señalada por las violaciones de que se trate.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 240.
+
+La Dirección de la Policía Preventiva Municipal y Tránsito o la del Estado para efectos de la calificación de Infracciones, se ajustará a las tarifas establecidas en el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 241.
+
+Los propietarios de vehículos son responsables en los siguientes casos:
+
+I. Por todo género de infracciones a la presente Ley y Reglamento de Tránsito correspondiente cometidas por cualquier persona que maneje su vehículo;
+
+II. Por los daños que ocasione su vehículo, directamente o por responsabilidad civil;
+
+III. Por las infracciones que resultarán si al cambiar de propietario, no se realizan las bajas y altas de acuerdo al Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 242.
+
+A ninguna persona se le expedirá o reexpedirá una licencia cuando se encuentre en los siguientes casos:
+
+I. Cuando la licencia o permiso estén suspendidos o cancelados;
+
+II. Cuando la autoridad correspondiente compruebe que el solicitante ha sido previamente calificado de cualquier incapacidad mental o física que le impida conducir vehículos de motor y no demuestre mediante certificado médico, lo contrario;
+
+III. Cuando la documentación exhibida sea falsa o bien proporcione informes falsos en la solicitud correspondiente;
+
+IV. Cuando tenga una licencia infraccionada o exista duplicidad de licencias, y
+
+V. Cuando así lo ordene la autoridad judicial o administrativa.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 243.
+
+Procede la suspensión de la licencia por los periodos y por las causas que al efecto señale el Reglamento de esta Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 244.
+
+En los casos de suspensión de la licencia, el interesado podrá solicitar la devolución o renovación de la licencia, cuando hayan desaparecido las causas que motivaron dicha suspensión o cancelación, previo pago de las multas y derechos correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 245.
+
+Los particulares afectados por los actos y resoluciones de la Policía Preventiva Municipal y Tránsito o la del Estado, podrán interponer el medio de impugnación que para tal efecto se establezca en las normas relativas estatales o municipales o en su caso, el recurso de revisión ante el Tribunal de Justicia Administrativa del Estado de Quintana Roo.
 
 ## TRANSITORIOS
 
@@ -2818,3 +3416,13 @@ P.O. 12 DE JULIO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el mismo día en que entre en vigor la Ley de Movilidad del Estado de Quintana Roo, expedida mediante el Decreto Número 213 de la H. XV Legislatura del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo el día 14 de junio de 2018.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 298 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las facultades de administración y representación legal establecidas en el artículo 30 fracción XXIII de este decreto, podrán ser ejercidas por el titular de la Dirección General, de conformidad al Decreto 213 emitido por la Honorable XV Legislatura del Estado Libre y Soberano de Quintana Roo por el que se expide la Ley de Movilidad del Estado de Quintana Roo, por medio de la cual se creó el Instituto de Movilidad del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado en fecha 14 de junio de 2018.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto, de igual o inferior jerarquía.
