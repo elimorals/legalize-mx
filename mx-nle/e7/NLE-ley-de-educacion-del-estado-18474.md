@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2018-12-19"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -377,13 +377,17 @@ XVI.- Fortalecerán la educación especial y la educación inicial, incluyendo a
 
 XVII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-XVIII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para los educandos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria; y
+XVIII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para los educandos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-XIX.- Aplicar los programas compensatorios implementados por la autoridad educativa federal, a través de los recursos específicos asignados, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones especificas que la autoridad educativa estatal deba realizar para reducir y superar dichos rezagos.
+XIX.- Aplicar los programas compensatorios implementados por la autoridad educativa federal, a través de los recursos específicos asignados, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones específicas que la autoridad educativa estatal deba realizar para reducir y superar dichos rezagos; y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XX.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la capacitación hacia los maestros y personal educativos en la atención a las niñas, niños y adolescentes con discapacidad.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -537,13 +541,17 @@ XVII.- Promover la congruencia de los planes, programas y acciones que emprenda 
 
 XVIII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
+XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2019)</small>
 
-XX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XX.- Ofrecer en coordinación con las autoridades competentes la orientación y capacitación a los padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los planteles educativos del Estado, con el objeto de contar con las condiciones necesarias para la atención de las niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2019)</small>
+
+XXI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2174,3 +2182,9 @@ P.O. 19 DE DICIEMBRE DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- En caso de que el Municipio no cuente con la Defensoría Municipal para la Protección de Niñas, Niños y Adolescentes, la Alerta Temprana será remitida al Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda, a fin de que pueda realizar las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 070. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 16 Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 21; Y POR ADICIÓN DE UNA FRACCIÓN XX DEL ARTÍCULO 16 Y UNA FRACCIÓN XXI DEL ARTÍCULO 21, TODAS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
