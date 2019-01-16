@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-y-la-inclusion-de-las-personas-con-95742
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-30"
-last_updated: "2013-07-30"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de julio de 2013.
 
@@ -75,31 +75,45 @@ XII. La transversalidad; y
 
 XIII. Los demás que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta ley, además de las señaladas en la Ley General para la Inclusión de las Personas con Discapacidad y su Reglamento, se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas: Los apoyos y programas de apoyo de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la inclusión y participación plena en los ámbitos de la vida política, económica, social, cultural y deportiva;
+I. Acciones Afirmativas: Los apoyos y programas de apoyo de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la inclusión y participación plena en los ámbitos de la vida política, económica, social, cultural y deportiva;
 
-II. Barreras: Los obstáculos que dificultan, entorpecen o impiden el libre tránsito, o que ponen en riesgo la integridad corporal de las personas con discapacidad en su desplazamiento, comunicación o ejercicio efectivo de sus derechos, en espacios interiores o exteriores, sean públicos o privados, así como las que dificultan el uso de herramientas, dispositivos y servicios comunitarios;
+II. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-En general se entenderá que las barreras son la principal causa que genera la discapacidad y es labor de las autoridades eliminarlas de manera progresiva;
+III. Ajustes razonables: Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-III. Consejo: Consejo Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+IV. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
-IV. Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le imponen el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con las demás;
+V. Barreras: Los obstáculos que dificultan, entorpecen o impiden el libre tránsito, o que ponen en riesgo la integridad corporal de las personas con discapacidad en su desplazamiento, comunicación o ejercicio efectivo de sus derechos, en espacios interiores o exteriores, sean públicos o privados, así como las que dificultan el uso de herramientas, dispositivos y servicios comunitarios;
 
-V. Elementos de apoyo: Los dispositivos tecnológicos, materiales, humanos o animales que permitan habilitar, rehabilitar o compensar una o más discapacidades de la persona;
+VI. Consejo Consultivo: el Consejo Consultivo para el Desarrollo y la Inclusión de las personas con Discapacidad del Estado de Quintana Roo;
 
-VI. Igualdad de Oportunidades: Al proceso de adecuaciones, mejoras, ajustes o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que permitan a las personas con discapacidad su inclusión, integración, convivencia y participación en igualdad de oportunidades con el resto de la población en todos los ámbitos de la vida;
+VII. Educación especial: la educación que tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad, de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes;
 
-VII. Habilitación: Al proceso mediante el cual se dota por primera vez a la persona de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar apoyos multidisciplinarios y especializados a la persona con discapacidad:
+VIII. Elementos de Apoyo: Los dispositivos tecnológicos, materiales, humanos o animales, que permitan habilitar, rehabilitar o compensar una o más limitaciones funcionales de las personas con discapacidad;
 
-VIII. Ley: Ley para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo;
+IX. Habilitación: Al proceso mediante el cual se dota por primera vez a la persona de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar apoyos multidisciplinarios y especializados a la persona con discapacidad;
 
-IX. Medidas contra la discriminación: La prohibición de conductas que tengan como objetivo o efecto atentar contra la dignidad de una persona con discapacidad, crear un entorno intimidatorio, hostil, degradante u ofensivo, por la discapacidad que ésta posee; así como la realización de ajustes razonables, y
+X. Inclusión: la integración de las personas con discapacidad en todos los ámbitos de la vida en comunidad;
 
-X. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga económica desproporcionada o indebida a los particulares o entes del Gobierno del Estado que las deban realizar, cuando se requieran en un caso particular para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+XI. Instituto: El instituto para el Desarrollo y la inclusión de las Personas con Discapacidad del Estado de Quintana Roo;
+
+XII. Junta Directiva: El órgano de gobierno del Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo;
+
+XIII. Ley: Ley para el Desarrollo y la inclusión de las Personas con Discapacidad del Estado de Quintana Roo;
+
+XIV. Medidas contra la discriminación: La prohibición de conductas que tengan como objetivo o efecto atentar contra la dignidad de una persona con discapacidad, crear un entorno intimidatorio, hostil, degradante u ofensivo, por la discapacidad que ésta posee; así como la realización de ajustes razonables;
+
+XV. Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con las demás;
+
+XVI. Perspectiva de inclusión: el conjunto de acciones encaminadas a incluir en los programas, políticas públicas y presupuestos, el enfoque de atención y desarrollo dirigido a personas con discapacidad, y
+
+XVII. Rehabilitación: Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -159,9 +173,11 @@ XIX. Los demás que establezcan los ordenamientos que resulten aplicables.
 
 ### CAPÍTULO II. SALUD Y ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 7.
 
-El sector salud, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado y demás instituciones competentes, elaborará un programa de prevención y atención de discapacidades que tendrá por objeto establecer las actividades de prevención primaria, tendentes a evitar la aparición de enfermedades que se relacionan con la discapacidad; de prevención secundaria que deben ser dirigidas a un diagnóstico temprano, tratamiento oportuno y limitación del daño que eviten la aparición de complicaciones que generen discapacidad y, prevención terciaria que debe dirigirse a evitar la estructuración de secuelas mediante acciones de rehabilitación integrales que maximicen las capacidades residuales. De igual manera el mencionado programa preverá las acciones que se deban llevar a cabo en el caso de cuidados paliativos a las personas con discapacidad.
+El sector salud, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado, el Instituto, y demás instituciones competentes, elaborará un programa de prevención y atención de discapacidades que tendrá por objeto establecer las actividades de prevención primaria, tendientes a evitar la aparición de enfermedades que se relacionan con la discapacidad; de prevención secundaria que deben ser dirigidas a un diagnóstico temprano, tratamiento oportuno y limitación del daño que eviten la aparición de complicaciones que generen discapacidad y, prevención terciaria que debe dirigirse a evitar la estructuración de secuelas mediante acciones de rehabilitación integrales que maximicen las capacidades residuales. De igual manera el mencionado programa preverá las acciones que se deban llevar a cabo en el caso de cuidados paliativos a las personas con discapacidad.
 
 ###### Artículo 8.
 
@@ -201,9 +217,11 @@ XV. Las demás que sean necesarias para el cumplimiento de la presente ley.
 
 Queda prohibido cualquier tipo de discriminación contra las personas con discapacidad en el otorgamiento de seguros de salud o de vida, así como en cualquier programa o actividad de asistencia médica pública o privada en el Estado.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Salud podrá expedir un certificado de reconocimiento y calificación de discapacidad cuando le sea solicitado, o bien referir a la persona con discapacidad a las instancias federales que emitan dicha certificación.
+La Secretaría de Salud expedirá un certificado de reconocimiento y calificación de discapacidad cuando le sea solicitado. En el caso de no estar en aptitud de cumplir con esta expedición, deberá justificar su imposibilidad y referir a la persona con discapacidad a las instancias federales de salud que emitan dicha certificación.
 
 ### CAPÍTULO III. EDUCACIÓN
 
@@ -333,9 +351,11 @@ VIII. Las demás que sean necesarias para el cumplimiento de esta ley.
 
 Tratándose de accesibilidad, barreras arquitectónicas y urbanísticas, las personas con discapacidad tendrán derecho al libre acceso y facilidad de desplazamiento en los espacios abiertos y de atención públicos, mediante construcciones, procesos, ayudas técnicas y diseño universal que cuenten con las especificaciones apropiadas, así como el disfrute de los servidos públicos en igualdad de circunstancias que cualquier otra persona.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 27.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, gestionará ante las autoridades municipales el establecimiento conforme al principio de progresividad, de las facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, en los espacios destinados al público, a fin de facilitar su libre tránsito, desplazamiento y uso.
+El Instituto, gestionará ante las autoridades municipales el establecimiento conforme al principio de progresividad, de las facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, en los espacios destinados al público, a fin de facilitar su libre tránsito, desplazamiento y uso.
 
 Para tal efecto las autoridades municipales del Estado en el ámbito de su competencia, podrán considerar como requisito para expedir las licencias de construcción de edificios públicos y privados con acceso al público, que se encuentren satisfechas las facilidades urbanísticas, arquitectónicas y de libre acceso en interiores y exteriores a favor de las personas con discapacidad.
 
@@ -343,9 +363,11 @@ Para tal efecto las autoridades municipales del Estado en el ámbito de su compe
 
 Todo edificio de acceso público deberá contar por lo menos con un cubículo de servicios sanitarios para hombres y otro para mujeres que permitan el acceso de una silla de ruedas y demás adecuaciones y ajustes razonables, de conformidad con los estándares nacionales que faciliten de una mejor manera el uso de dichos servicios por parte de todas las personas con discapacidad; lo anterior tomando en consideración para su establecimiento el principio de progresividad.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 29.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, con opinión y en su caso, en coordinación con la Dirección General de Seguridad Pública y Tránsito, diseñará programas y campañas permanentes acerca de educación vial, cortesía urbana y respeto a las personas con discapacidad, en su tránsito por vía pública y lugares de acceso al público, con el objetivo de que la población en general respete y brinde el apoyo necesario. Estos programas y campañas se difundirán de manera continua y sistemática a través de los medios masivos de comunicación existentes en la comunidad.
+El Instituto, con opinión y, en su caso, en coordinación con el Instituto de Movilidad del Estado de Quintana Roo, diseñará programas y campañas permanentes acerca de educación vial, cortesía urbana y respeto a las personas con discapacidad, en su tránsito por vía pública y lugares de acceso al público, con el objetivo de que la población en general respete y brinde el apoyo necesario. Estos programas y campañas se difundirán de manera continua y sistemática a través de los medios masivos de comunicación existentes en la comunidad.
 
 ### CAPÍTULO VI. DESARROLLO URBANO
 
@@ -413,9 +435,11 @@ Tratándose de transporte marítimo de pasajeros, la Secretaría de Infraestruct
 
 ### CAPÍTULO VIII. DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 36.
 
-El Sistema para el Desarrollo Integral de la Familia en coordinación con la Secretaría de Desarrollo Social, promoverá el derecho de las personas con discapacidad a un mayor índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
+El Instituto en coordinación con la Secretaría de Desarrollo Social promoverá el derecho de las personas con discapacidad a un mayor índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad a todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de la ley para el desarrollo social;
 
@@ -431,13 +455,13 @@ VI. Promover ante las Instituciones educativas técnicas y de nivel superior la 
 
 VII. Promover que en las dependencias estatales y municipales se imparta al personal cursos de sensibilización en materia de discapacidad;
 
-VIII. Promover la difusión y defensa de los derechos de las personas con discapacidad así como las disposiciones legales que los contemplan a fin de garantizar su aplicación;
+VIII. Promover la difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan a fin de garantizar su aplicación;
 
-IX. Promover el registro inmediato después del nacimiento de las niñas o niños con discapacidad, en respeto al derecho que tienen de un nombre, a conocer a sus padres y a adquirir una nacionalidad;
+IX. Promover el registro inmediato después del nacimiento de las niñas o niños con discapacidad, en respeto al derecho que tienen de un nombre, a conocer a sus padres y adquirir una nacionalidad;
 
-X. Promover el establecimiento de políticas públicas e impulsar las acciones necesarias para dar cumplimiento a los programas, cuyo objetivo sea el desarrollo integral y la inclusión de las personas con discapacidad;
+X. Promover el establecimiento de políticas públicas e impulsar las acciones necesarias para dar cumplimiento a los programas, cuyo objetivo sea el desarrollo integral y la inclusión de las personas con discapacidad, y
 
-XII (sic). Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
+XI. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
 
 ### CAPÍTULO IX. DEPORTE
 
@@ -467,9 +491,11 @@ X. Promover el desarrollo de asociaciones de deporte adaptado y su participació
 
 XI. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 38.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, en coordinación con las instancias del deporte estatal y municipal, procurará que las personas con discapacidad tengan la oportunidad de organizar y desarrollar actividades deportivas y recreativas específicas para dichas personas, y que se les ofrezca en igualdad de condiciones, instrucción, formación y los recursos adecuados, facilitando el acceso a instalaciones deportivas, independientemente de que se encuentren integrados o no a los programas de rehabilitación. Para tales efectos, se procurará contar con entrenadores deportivos debidamente capacitados para la atención y manejo de personas con discapacidad, de conformidad con el principio de progresividad así como gestionar la obtención de los uniformes e instrumentos necesarios para la práctica de los deportes de que se trate.
+El Instituto, en coordinación con las instancias del deporte estatal y municipal, procurará que las personas con discapacidad tengan la oportunidad de organizar y desarrollar actividades deportivas y recreativas específicas para dichas personas, y que se les ofrezca, en igualdad de condiciones, instrucción, formación y los recursos adecuados, facilitando el acceso a instalaciones deportivas, independientemente de que se encuentren integrados o no a los programas de rehabilitación. Para tales efectos, se procurará contar con entrenadores deportivos debidamente capacitados para la atención y manejo de personas con discapacidad, de conformidad con el principio de progresividad así como gestionar la obtención de los uniformes e instrumentos necesarios para la práctica de los deportes de que se trate.
 
 ### CAPÍTULO X. RECREACIÓN, CULTURA Y TURISMO
 
@@ -497,13 +523,17 @@ IX. Fomentar la elaboración de materiales de lectura, inclusive en sistema brai
 
 X. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 40.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, en coordinación con las instituciones públicas y privadas en la materia promoverá, de acuerdo a las actividades que las mismas puedan desarrollar, la formación de grupos de lectura, teatro, análisis cinematográfico, apreciación musical, pintura y demás actividades culturales, recreativas y artísticas. Para ello se impulsará que los espacios para el desarrollo de estas actividades cuenten con áreas y equipamientos apropiados para las personas con discapacidad, de conformidad con el principio de progresividad.
+El Instituto en coordinación con las instituciones públicas y privadas en la materia, promoverá, de acuerdo a las actividades que las mismas puedan desarrollar, la formación de grupos de lectura, teatro, análisis cinematográfico, apreciación musical, pintura y demás actividades culturales, recreativas y artísticas. Para ello se impulsará que los espacios para el desarrollo de estas actividades cuenten con áreas y equipamientos apropiados para las personas con discapacidad, de conformidad con el principio de progresividad.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 41.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, en colaboración con las instituciones públicas y privadas de la materia, establecerán programas permanentes de cultura, brindando de esta manera espacios de expresión a todas las personas con discapacidad que así lo soliciten.
+El Instituto en colaboración con las instituciones públicas y privadas de la materia, establecerán programas permanentes de cultura, brindando de esta manera espacios de expresión a todas las personas con discapacidad que así lo soliciten.
 
 ###### Artículo 42.
 
@@ -521,13 +551,17 @@ V. Promover convenios con hoteles y restaurantes para permitir el ingreso de per
 
 VI. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 43.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, proporcionará a la Secretaría de Turismo la información necesaria para tomar en consideración en los servicios turísticos de mercado, las necesidades especiales de las personas con discapacidad, a efecto de que se realicen las modificaciones necesarias a los paquetes turísticos.
+El Instituto proporcionará a la Secretaría de Turismo, la información necesaria para tomar en consideración en los servicios turísticos de mercado, las necesidades especiales de las personas con discapacidad, a efecto de que se realicen las modificaciones necesarias a los paquetes turísticos.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 44.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, promoverá que en las playas existan instalaciones adaptadas para las personas con discapacidad.
+El Instituto promoverá que en las playas existan instalaciones adaptadas para las personas con discapacidad.
 
 ###### Artículo 45.
 
@@ -574,6 +608,8 @@ IV. Alentar a los medios de comunicación y las instituciones del sector privado
 ## TÍTULO TERCERO. POLÍTICA EN MATERIA DE DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO II. REGISTRO ESTATAL DE PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 52.
 
@@ -635,9 +671,11 @@ V. Coadyuvar en la creación y actualización del Registro Estatal de Personas c
 
 VI. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 56.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, promoverá la credencialización con fotografía de las personas con discapacidad, informando de los beneficios de la misma, con la finalidad de contar con una base de datos confiable para la elaboración de estadísticas.
+El Instituto, promoverá la credencialización con fotografía de las personas con discapacidad, informando de los beneficios de la misma, con la finalidad de contar con una base de datos confiable para la elaboración de estadísticas.
 
 ###### Artículo 57.
 
@@ -645,17 +683,23 @@ La Secretaría de Planeación en coordinación con el Comité de Planeación par
 
 ### CAPÍTULO III. CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 58.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, contará con un registro estatal de personas con discapacidad dentro del Sistema de Información Básica en materia de asistencia social, cuyo objetivo será reunir y mantener los datos estadísticos de las personas con discapacidad de la entidad y de los organismos de la sociedad civil que colaboren en la inclusión de este sector de la sociedad.
+El Instituto contará con un Registro Estatal de Personas con Discapacidad, cuyo objetivo será reunir y mantener los datos estadísticos de las personas con discapacidad de la entidad y de los organismos de la sociedad civil que colaboren en la inclusión de este sector de la sociedad.
 
-Para la integración del registro estatal de personas con discapacidad se atenderá a lo dispuesto por lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado, por cuanto a la protección de datos, a fin de asegurar la confidencialidad y el respeto de la privacidad de las personas con discapacidad.
+Para la integración del Registro Estatal de Personas con Discapacidad, se atenderá a lo dispuesto por lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado, y la Ley de Protección de Datos Personales en posesión de Sujetos Obligados, a fin de asegurar la confidencialidad y el respeto de la privacidad de las personas con discapacidad.
 
-El Sistema para el Desarrollo Integral de la Familia, deberá proporcionar la información necesaria para integrar el sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+El Instituto deberá proporcionar la información necesaria para integrar el Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 59.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, en coordinación con el Consejo Estatal de Población, la Secretaría de Salud y la Secretaría de Educación, establecerá el registro estatal de personas con discapacidad, con la finalidad de identificar y jerarquizar las necesidades, programar recursos, acciones y dar seguimiento a los programas establecidos.
+El Instituto, en coordinación con el Consejo Estatal de Población, la Secretaría de Salud y la Secretaría de Educación, establecerá el Registro Estatal de Personas con Discapacidad, con la finalidad de identificar y jerarquizar las necesidades, programar recursos, acciones y dar seguimiento a los programas establecidos.
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
 ### CAPÍTULO IV. PARTICIPACIÓN SOCIAL
 
@@ -663,131 +707,51 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, en coordinació
 
 ###### Artículo 60.
 
-Se Crea el Consejo Consultivo para las Personas con Discapacidad, como instrumento de coordinación entre el Gobierno del Estado y las organizaciones de y para personas con discapacidad que tiene por objeto contribuir al establecimiento de una política pública en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración, desarrollo e inclusión de las personas con discapacidad.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 61.
 
-El Consejo tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
-I. Elaborar un Plan Estratégico que garantice la realización de los objetivos de esta ley de manera eficiente, así como el acceso a los servicios y atención del cuidado de la salud de las personas con discapacidad;
-
-II. Proponer estrategias, políticas y programas en materia de discapacidad, emitiendo opiniones técnicas a las diversas instituciones del sector público cuando le sea solicitado, así como aquellas que correspondan a los sectores social y privado;
-
-III. Proponer en el marco del Plan Estatal de Desarrollo, el Programa Estatal de Desarrollo de las Personas con Discapacidad, promoviendo acuerdos o convenios con las dependencias de la administración pública estatal y los municipios;
-
-IV. Evaluar el estricto cumplimiento de las disposiciones de esta ley por las autoridades encargadas de su aplicación;
-
-V. Sugerir acciones y programas a corto, mediano y largo plazo, así como de visión estratégica para la atención, habilitación, rehabilitación e integración social de las personas con discapacidad;
-
-VI. Proponer las estrategias que promuevan la adecuada coordinación de las acciones que sean responsabilidad de cada uno los sectores público, social y privado en materia de discapacidad;
-
-VII. Promover acciones que fomenten la igualdad de las personas con discapacidad y el ejercicio pleno de sus derechos, haciendo de su conocimiento los canales institucionales para ejercerlos mediante los mecanismos correspondientes ante la autoridad competente;
-
-VIII. Fomentar la cultura de igualdad, respeto y dignidad de las personas con discapacidad a través de programas y campañas de prevención, educación y conciencia a la ciudadanía en general;
-
-IX. Promover la realización de programas de investigación y desarrollo tecnológico para beneficio de las personas con discapacidad, solicitando la participación de instituciones de educación superior, de investigación y tecnológicas;
-
-X. Fomentar la capacitación de funcionarios y servidores públicos en atención a las personas con discapacidad;
-
-XI. Proponer al Ejecutivo del Estado la inclusión en el Proyecto de Presupuesto de Egresos partidas para la aplicación y ejecución de los programas dirigidos a las personas con discapacidad;
-
-XII. Rendir un informe anual sobre el cumplimiento de sus objetivos, de conformidad con el Programa de Desarrollo de las Personas con Discapacidad a que hace referencia la fracción III de este artículo;
-
-XIII. Expedir su reglamento interno; y
-
-XIV. Las demás que se establezcan en esta ley, su reglamento y demás disposiciones aplicables.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
 #### Sección Segunda. De su integración y funcionamiento
 
 ###### Artículo 62.
 
-El Consejo estará integrado por los titulares de:
-
-I. El Sistema para el Desarrollo Integral de la Familia;
-
-II. La Secretaría de Salud;
-
-III. La Secretaría de Desarrollo Social;
-
-IV. La Secretaría de Educación;
-
-V. La Secretaría del Trabajo y Previsión Social;
-
-VI. La Secretaría de Infraestructura y Transporte;
-
-VII. La Secretaría de Desarrollo Urbano y Vivienda;
-
-VIII. La Secretaría de Turismo;
-
-IX. La Procuraduría General de Justicia del Estado;
-
-X. La Comisión de Derechos Humanos del Estado de Quintana Roo;
-
-XI. El Presidente de la Comisión de Desarrollo Familiar y Grupos Vulnerables del Congreso del Estado; y
-
-XII. Seis representantes de organizaciones de y para personas con discapacidad, las cuales tienen que ser representativas de una discapacidad distinta y que serán elegidas mediante la convocatoria que el Sistema para el Desarrollo Integral de la Familia del Estado expida para tal efecto, cuyo cargo tendrá una duración de tres años con la posibilidad de ser ratificados hasta por otro periodo igual.
-
-El Consejo podrá invitar a las sesiones ordinarias o extraordinarias que realice, a dos representantes de organizaciones sociales de reconocido prestigio y en el ámbito de las personas con discapacidad, las cuales contarán con voz pero sin voto, atendiendo al tema que se vaya a desarrollar.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 63.
 
-Los integrantes propietarios del sector público podrán designar suplentes, quienes deberán tener un nivel mínimo de director.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 64.
 
-El cargo de integrante del Consejo es honorífico, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 65.
 
-El Consejo sesionará ordinariamente, por lo menos cada tres meses y extraordinariamente en cualquier tiempo a solicitud de su Presidente o de la mayoría de sus miembros.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 66.
 
-El Consejo determinará las ciudades sede para sesionar, tomando en cuenta el principio de equidad y empleando las instalaciones que para tal efecto proporcione el Sistema para el Desarrollo Integral de la Familia del Estado.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 67.
 
-El Consejo se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo previsto en la presente ley, por lo que establezca el reglamento interno.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 68.
 
-El Consejo será presidido por el titular del Sistema para el Desarrollo Integral de la Familia del Estado, teniendo como funciones y obligaciones las siguientes:
-
-I. Presidir las sesiones del Consejo;
-
-II. Conducir y organizar el funcionamiento del Consejo;
-
-III. Supervisar que se cumpla con el objetivo del Consejo y que los acuerdos adoptados por el mismo no contravengan esta ley;
-
-IV. Promover la celebración de los convenios que el Consejo determine, que sean necesarios para el cumplimiento de sus objetivos;
-
-V. Presentar anualmente al titular del Poder Ejecutivo un informe de labores;
-
-VI. Convocar, previo acuerdo con el Secretario Técnico, a la celebración de las sesiones ordinarias y extraordinarias;
-
-VII. Presentar al Consejo las propuestas que resulten de los trabajos y estudios realizados por las comisiones; y
-
-VIII. Las demás que le otorgue esta ley y demás ordenamientos aplicables.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 69.
 
-El Consejo contará con un Secretario Técnico que será el titular de la Secretaría de Salud, quien tendrá las siguientes funciones:
-
-I. Presentar a consideración del Consejo propuestas de programas necesarios para el cumplimiento de los objetivos del Consejo;
-
-II. Presentar al Consejo el informe de las actividades realizadas y los resultados obtenidos;
-
-III. Coordinar los trabajos que corresponda desarrollar a las comisiones;
-
-IV. Convocar a los integrantes del Consejo, previo acuerdo con el presidente, a la celebración de las sesiones ordinarias o extraordinarias, a solicitud de la mayoría de sus miembros;
-
-V. Dar seguimiento a los acuerdos adoptados por el Consejo e informar periódicamente a éste el cumplimiento y ejecución de los mismos; y
-
-VI. Las demás que le confiera el Presidente del Consejo.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ###### Artículo 70.
 
-El Consejo podrá determinar la creación de comisiones tanto de carácter permanente, como transitorio, según lo estime conveniente, para el estudio y solución de los asuntos específicos relacionados con su objeto. La integración de cada una de las comisiones, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
+(DEROGADO, P.O. 16 DE ENERO DE 2019)
 
 ### CAPÍTULO V. ESTÍMULOS E INCENTIVOS
 
@@ -803,7 +767,9 @@ II. Proporcionen los datos necesarios para el desarrollo de investigaciones y es
 
 El Estado y los municipios, colaborarán con las asociaciones de y para personas con discapacidad cuyas acciones tiendan a una mayor inclusión de las mismas en todos los ámbitos, con el objeto de brindar asesoría, capacitación y difusión de sus actividades.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DENOMINACIÓN, OBJETO, DOMICILIO Y PATRIMONIO
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 73.
 
@@ -817,59 +783,315 @@ El Estado y los Municipios, otorgarán preseas y reconocimientos, a las personas
 
 El Estado y los municipios podrán otorgar, además de los reconocimientos anteriormente descritos, estímulos fiscales a las personas con discapacidad que tengan un negocio propio para su auto sustento o aquéllas instituciones, empresas u organizaciones del sector privado que se destaquen por la contratación de personas con discapacidad mediante la implementación de programas específicos, en términos de las leyes fiscales aplicables.
 
-## TÍTULO CUARTO. RESPONSABILIDAD Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2019)</small>
+
+## TÍTULO CUARTO. INSTITUTO PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
+
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO II. ATRIBUCIONES
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 76.
 
-Las violaciones a lo establecido por la presente ley y demás disposiciones que de ella emanen, podrán ser sancionadas por las autoridades estatales o municipales en el ámbito de sus respectivas competencias.
+Se crea el Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, como un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Salud, con personalidad jurídica y patrimonio propios, que para el cumplimiento de sus atribuciones gozará de autonomía técnica y de gestión para formular políticas, acciones, estrategias y programas derivados de esta Ley.
+
+El Instituto tiene por objeto el establecimiento de la política pública para las personas con discapacidad, mediante la coordinación institucional e interinstitucional; así como promover, fomentar y evaluar la participación del sector público, social y privado, en las acciones, estrategias, políticas públicas y programas derivados de la presente Ley y demás ordenamientos.
+
+El domicilio del Instituto será en la ciudad de Chetumal, Quintana Roo y podrá contar con las unidades administrativas necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 77.
 
-El Estado o los municipios, en el ámbito de sus respectivas competencias aplicarán, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
+El patrimonio del Instituto se constituirá por:
 
-I. Multa, con el monto que señalen sus ordenamientos aplicables, cuando:
+I. Los recursos que anualmente se establezcan en el Presupuesto de Egresos del Gobierno del Estado;
 
-a. Ocupen indebidamente los espacios de estacionamiento preferencial u obstruyan las rampas o accesos para las personas con discapacidad;
+II. Los bienes muebles e inmuebles que le sean asignados;
 
-b. Destruyan cualquier tipo de acceso o rampa de uso exclusivo de las personas con discapacidad, sin perjuicio de pagar por la reparación del daño material causado a dichas construcciones;
+III. Los bienes que adquiera por cualquier otro título lícito, y
 
-c. Los prestadores en cualquier modalidad del servicio del transporte público nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad o no les permitan el uso del transporte acompañados de perros guías;
+IV. Los rendimientos por virtud de sus operaciones financieras, aportaciones, donaciones, legados, y demás liberalidades que reciba de personas físicas y morales.
 
-d. Los empresarios, administradores u organizadores de espectáculos públicos omitan o ubiquen discriminatoriamente los espacios reservados para personas con discapacidad;
+> <small>(ADICIONADO [N. DE E. COMPRENDE EL ARTÍCULO 78], P.O. 16 DE ENERO DE 2019)</small>
 
-II. En caso de reincidencia la multa se duplicará, y
+### CAPÍTULO III. DIRECCIÓN GENERAL
 
-III. Suspensión temporal o definitiva de la licencia de funcionamiento;
-
-Si el infractor fuese jornalero, obrero o trabajador no asalariado o persona desempleada, la multa será equivalente a un día de trabajo en favor de la comunidad.
-
-Independientemente de la aplicación de las sanciones antes señaladas, la autoridad competente podrá dictar las medidas de seguridad que estime pertinentes.
-
-La aplicación de una sanción deberá estar fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiese lugar.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 78.
 
-Para aplicarse una sanción deberá tenerse en cuenta los siguientes extremos y circunstancias:
+Para el cumplimiento de la presente Ley, el Instituto tendrá las siguientes atribuciones:
 
-I. La gravedad de la infracción;
+I. Elaborar el Programa para el Desarrollo y la Inclusión de las Personas con Discapacidad;
 
-II. Los daños que la misma haya producido o pueda producir;
+II. Formular las políticas públicas de atención a las personas con discapacidad, así como el diseño y evaluación de los programas especializados en la materia, en coadyuvancia con las autoridades de la administración pública estatal y municipal;
 
-III. Las condiciones socioeconómicas del infractor; y
+III. Promover en coordinación con las autoridades de la administración pública estatal y municipal, así como con la sociedad en general, la cultura de respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
 
-IV. Si la conducta del infractor implica reincidencia.
+IV. Promover el goce y ejercicio pleno de los derechos de las personas con discapacidad, así como hacer de su conocimiento los canales institucionales para hacerlos exigibles ante la autoridad competente;
+
+V. Elaborar, presentar y difundir anualmente el informe de avances y resultados del Programa;
+
+VI. Crear y mantener actualizado el Registro Estatal de Personas con Discapacidad del Estado de Quintana Roo;
+
+VII. Suscribir convenios con el sector gubernamental y los sectores productivos y empresariales, para que se otorguen descuentos, facilidades económicas o administrativas en la adquisición de bienes y servicios públicos o privados, a las personas con discapacidad o sus familias;
+
+VIII. Promover el acceso a apoyos económicos para que las personas con discapacidad puedan adquirir las adaptaciones y gestionar los apoyos razonables para facilitar su accesibilidad, seguridad e inclusión;
+
+IX. Coadyuvar con las autoridades competentes, en la elaboración de los lineamientos que garanticen la accesibilidad, seguridad, comodidad y calidad en los medios de transporte público para las personas con discapacidad;
+
+X. Promover ante los prestadores de servicios privados, el cumplimiento de los requerimientos de accesibilidad, para proporcionar un servicio adecuado a las personas con discapacidad;
+
+XI. Promover la accesibilidad en la infraestructura física de instalaciones públicas y el diseño, adecuación, instalación y supresión de barreras arquitectónicas dentro de la vía pública, para permitir el fácil desplazamiento de las personas con discapacidad;
+
+XII. Promover el reconocimiento de las organizaciones de la sociedad civil, especializadas en la atención de personas con discapacidad;
+
+XIII. Celebrar acuerdos de colaboración con organismos públicos, privados y sociales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
+
+XIV. Promover en la elaboración del proyecto de presupuesto de egresos, se contemplen los recursos necesarios para llevar a cabo los programas de adquisición de órtesis, prótesis, ayudas técnicas para la movilidad, la comunicación, medicamentos y demás necesarios para la inclusión de las personas con discapacidad;
+
+XV. Establecer la vinculación con el Mecanismo de Monitoreo de la Convención sobre los Derechos de las Personas con Discapacidad, en el Estado, y
+
+XVI. Las demás que le otorgue la presente Ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS 79 AL 80], P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO IV. JUNTA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 79.
 
-En caso de que cualquier persona realice algún acto de discriminación contra alguna persona con discapacidad, se estará a lo dispuesto por la Ley para Prevenir, Atender y Eliminar la Discriminación en el Estado de Quintana Roo.
+La Dirección General estará a cargo de una persona designada por el Titular del Poder Ejecutivo del Estado, quien durará en el cargo tres años, con posibilidad de ser ratificado por otro periodo igual, debiendo reunir además de aquellos señalados en el artículo 28 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, los siguientes requisitos:
+
+I. Ser mexicano por nacimiento, con residencia efectiva no menor de 5 años en el Estado, anteriores a la fecha de designación;
+
+II. Tener 30 años cumplidos al día de la designación;
+
+III. Tener título profesional de nivel licenciatura, preferentemente;
+
+IV. Contar con experiencia en políticas públicas, administración y en materia de discapacidad;
+
+V. No haber desempeñado cargo de elección popular en los últimos 3 años, y
+
+VI. Tener prestigio reconocido en el tema de discapacidad.
+
+Se dará prioridad al nombramiento, si el candidato vive con alguna discapacidad.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 80.
 
-El incumplimiento de los preceptos establecidos por esta ley por parte de los servidores públicos, será sancionado conforme lo prevé la Ley de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos aplicables.
+La persona que ocupe la Dirección General del Instituto tendrá además de aquellas que establecen los artículos 29 y 64 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, las siguientes atribuciones:
+
+I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Instituto, con sujeción a las disposiciones aplicables;
+
+II. Presentar a la consideración de la Junta Directiva el proyecto del Programa;
+
+III. Elaborar y someter a la aprobación de la Junta Directiva el informe anual de actividades y el informe sobre el ejercicio presupuestal;
+
+IV. Ejecutar los acuerdos y demás disposiciones del Instituto y de la Junta Directiva, así como supervisar su cumplimiento por parte de las unidades administrativas competentes del Instituto;
+
+V. Elaborar y someter a la aprobación de la Junta Directiva el proyecto del Estatuto Orgánico;
+
+VI. Elaborar y presentar a la Junta Directiva, el anteproyecto del presupuesto de egresos, para su aprobación;
+
+VII. Celebrar toda clase de actos, contratos, y convenios inherentes al objeto del Instituto;
+
+VIII. Ejercer la representación legal del Instituto;
+
+IX. Nombrar a los servidores públicos del Instituto que ocupen dos niveles jerárquicos inferiores inmediatos al titular, y
+
+X. Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
+
+> <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS 81 AL 84], P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO V. CONSEJO CONSULTIVO PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 81.
 
-Contra las sanciones impuestas con motivo del presente título, se podrá interponer el recurso de revisión que se substanciará en términos de lo señalado en la Ley de Procedimiento Administrativo del Estado de Quintana Roo o la Ley de los Municipios del Estado de Quintana Roo, según corresponda.
+La Junta Directiva estará integrada por:
+
+I. Titular de la Secretaría de Salud;
+
+II. Titular de la Secretaría de Desarrollo Social;
+
+III. Titular de la Secretaría de Educación;
+
+IV. Titular de la Secretaría de Finanzas y Planeación;
+
+V. Titular de la Secretaría del Trabajo y Previsión Social;
+
+VI. Titular de la Oficialía Mayor, y
+
+VII. Un representante del Consejo Consultivo.
+
+El integrante designado por el Consejo Consultivo durará en su encargo dos años, pudiendo ser ratificado por otro periodo igual. Este cargo tendrá el carácter de honorífico.
+
+El Director General del Instituto participará con voz, pero sin derecho a voto.
+
+Asimismo, serán invitados permanentes a la Junta Directiva con derecho a voz, pero no a voto, un representante de la Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad de la Legislatura del Estado de Quintana Roo, de la Comisión de los Derechos Humanos del Estado, y del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+La Junta Directiva será presidida por la persona Titular de la Secretaría de Salud. Los integrantes propietarios contarán con suplentes, quienes deberán tener un nivel mínimo de Subsecretario o Director General o su equivalente. Los integrantes propietarios o suplentes, en el ejercicio de sus funciones contarán con derecho a voz y voto.
+
+Los suplentes que se designe deberán recaer siempre en la misma persona, a efecto de dar continuidad a los acuerdos tomados en la Junta Directiva.
+
+La Junta Directiva con la aprobación de la mayoría de sus asistentes, podrá convocar a otras dependencias o entidades públicas estatales o municipales, así como a otros organismos privados o sociales, los que tendrán solo derecho a voz en la sesión o sesiones correspondientes, para tratar asuntos de su competencia.
+
+El cargo de los integrantes de la Junta Directiva será honorífico, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 82.
+
+La Junta Directiva se regirá en su estructura, organización y funcionamiento, por lo dispuesto en la presente Ley y el Estatuto Orgánico que al efecto se expida.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 83.
+
+La Junta Directiva sesionará válidamente cuando en la sesión estén presentes la mitad más uno de los miembros.
+
+Las resoluciones se tomarán por mayoría de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+
+Las sesiones que celebre la Junta Directiva serán ordinarias y extraordinarias; las ordinarias se llevarán a cabo cada tres meses, y las extraordinarias se celebrarán cuando lo convoque el Presidente de la Junta o a petición de la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 84.
+
+La Junta Directiva tendrá, además de las señaladas en el artículo 63 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, las siguientes atribuciones:
+
+I. Aprobar el Estatuto Orgánico y los Manuales del Instituto, con base en las propuestas que presente el Director General, así como sus modificaciones y actualizaciones;
+
+II. Aprobar el Programa para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+III. Aprobar el informe anual de actividades, el informe sobre el ejercicio presupuestal y el presupuesto de egresos del Instituto, que le presente el Director General;
+
+IV. Nombrar y remover, a propuesta de la Dirección General del Instituto, a los servidores públicos de éste, que ocupen cargos en dos jerarquías administrativas inferiores a la de aquél;
+
+V. Expedir y publicar el informe anual de la Junta, y
+
+VI. Las demás que le confieran éste y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO VI. ORGANO DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 85.
+
+El Consejo Consultivo es un órgano de asesoría y consulta del Instituto, que tendrá por objeto analizar y proponer programas y acciones que incidan en el desarrollo de las personas con discapacidad.
+
+El Consejo Consultivo se regirá en su organización, estructura y funcionamiento, por lo dispuesto en esta Ley y por el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 86.
+
+El Consejo Consultivo estará integrado por:
+
+I. Un representante de cada uno de los Ayuntamientos del Estado;
+
+II. Una persona, entre expertos, académicos o investigadores electos por convocatoria pública realizada en los términos previstos en el Estatuto Orgánico, y
+
+III. Cinco representantes de organizaciones estatales de y para personas con discapacidad, que representen las discapacidades establecidas en la Convención, electos a convocatoria que expida el Comité.
+
+El Comité establecido en la fracción III estará integrado por el Director General del Instituto, la persona que presida la Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad de la Legislatura del Estado y el Titular de la Comisión de los Derechos Humanos del Estado, el cual, para elegir a los representantes de las organizaciones estatales emitirá la convocatoria respectiva.
+
+El Consejo Consultivo será presidido por un representante electo de entre sus miembros.
+
+El Consejo Consultivo podrá asistirse de profesionales con experiencia en discapacidad de los sectores público, social y privado, quienes lo podrán auxiliar en determinados temas o asuntos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 87.
+
+El Consejo Consultivo tendrá las siguientes atribuciones:
+
+I. Atender las consultas y formular las opiniones que les sean solicitadas por la Junta Directiva o por el Director General del Instituto;
+
+II. Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Pública para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+III. Impulsar la participación ciudadana y de las organizaciones de y para personas con discapacidad en el seguimiento, operación y evaluación del Programa;
+
+IV. Apoyar al Instituto en la promoción y cumplimiento del Programa;
+
+V. Proponer al Instituto los temas que por su importancia ameriten ser incorporados en el Programa;
+
+VI. Promover la realización de estudios e investigaciones en la materia;
+
+VII. Nombrar a la persona, propietario y suplente, que formará parte de la Junta Directiva, debiendo recaer este nombramiento en un integrante de las asociaciones civiles, y
+
+VIII. Las demás que dispongan otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 88.
+
+El cargo de los integrantes del Consejo Consultivo es de naturaleza honorífica, por lo cual no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
+
+Durarán en su cargo dos años y podrán ser ratificados por un periodo igual, en términos de lo dispuesto en el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 89.
+
+El Consejo Consultivo podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Estatal, de los Gobiernos Municipales, de organizaciones civiles y de particulares.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 90.
+
+El Consejo Consultivo sesionará válidamente cuando en la sesión estén presentes más de la mitad de los miembros.
+
+Las resoluciones se tomarán por mayoría de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+
+Las sesiones que celebre el Consejo serán ordinarias y extraordinarias; las ordinarias se llevarán a cabo por lo menos cada tres meses, y las extraordinarias se celebrarán cuando lo convoque el Presidente del Consejo o a petición de la mayoría de sus miembros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO VII. RÉGIMEN DE TRABAJO
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 91.
+
+El Instituto contará con una contraloría, órgano interno de control al frente de la cual estará la persona designada por la Secretaría de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 92.
+
+Corresponderá a la Secretaría de la Contraloría el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, sin perjuicio de las facultades que corresponden a la Auditoría Superior del Estado.
+
+El órgano de vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designado por la Secretaría de la Contraloría, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 93.
+
+Las relaciones de trabajo del Instituto y su personal se regirán por lo establecido en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+
+## TÍTULO QUINTO. RESPONSABILIDAD Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2019)</small>
+
+###### Artículo 94.
+
+El incumplimiento de los preceptos establecidos por esta Ley será sancionado conforme lo prevé la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -914,3 +1136,21 @@ DR. JUAN LORENZO ORTEGÓN PACHECO.
 EL DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO.
 
 LIC. ROLANDO JESÚS RODRÍGUEZ HERRERA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 299 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Una vez en funciones el Instituto, el Consejo Consultivo para personas con Discapacidad, creado mediante Decreto 292 publicado en el Periódico Oficial del Estado de Quintana Roo de fecha 30 de julio de 2013, quedará sin efectos.
+
+TERCERO. La Secretaría de Finanzas y Planeación definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos al Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, conforme a sus atribuciones.
+
+CUARTO. La Junta Directiva del Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberá quedar instalada dentro de los 30 días siguientes a la entrada en funciones del Instituto.
+
+QUINTO. La Junta Directiva del Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberá expedir el estatuto orgánico del Instituto dentro de los 180 días hábiles siguientes a su constitución.
+
+SEXTO. El Director o Directora del Instituto contará con un plazo de 90 días contados a partir de su nombramiento para instalar el Consejo Consultivo para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
