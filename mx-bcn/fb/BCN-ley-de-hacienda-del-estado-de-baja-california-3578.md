@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2018-11-30"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1529,7 +1529,7 @@ Para practicar la estimación a que se refiere la Fracción II de este Artículo
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
-El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el periodo revisado.
+El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
@@ -2563,11 +2563,11 @@ Los estímulos fiscales corresponderán a aquellos que la Empresa solicite y que
 
 En caso de que la fecha de inicio indicada por la empresa solicitante, sea anterior a la notificación de la resolución de procedencia, el estímulo fiscal iniciará a partir del día siguiente a aquel en que se haya realizado dicha notificación.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
 
 ###### ARTICULO 177.
 
-Las Empresas que contraten personas productivas con discapacidad y/o personas adultas mayores, consideradas como tales en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, estarán exentas del pago del impuesto sobre remuneraciones al trabajo personal que les corresponda cubrir periódicamente por las remuneraciones relativas a estos empleados, siempre que la empresa no se encuentre recibiendo una exención sobre este impuesto en los términos del artículo 175 de esta Ley.
+Las Empresas que contraten personas productivas con discapacidad, personas adultas mayores y/o personas egresadas de albergue, casa hogar o institución de asistencia social para niña, niño y adolescente, consideradas como tales en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, estarán exentas del pago del impuesto sobre remuneraciones al trabajo personal que les corresponda cubrir periódicamente por las remuneraciones relativas a estos empleados, siempre que la empresa no se encuentre recibiendo una exención sobre este impuesto en los términos del artículo 175 de esta Ley.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -3258,3 +3258,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
