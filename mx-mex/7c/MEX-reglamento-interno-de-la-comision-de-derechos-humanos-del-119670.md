@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2018-10-19"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE ENERO DE 2019.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -119,9 +119,21 @@ Quedan adscritas directamente a la Presidencia las unidades administrativas sigu
 
 I. Unidad Jurídica y Consultiva;
 
-II. Unidad de Información, Planeación, Programación y Evaluación; y
+> <small>(REFORMADA, G.G. 18 DE ENERO DE 2019)</small>
 
-III. Unidad de Comunicación Social.
+II. Unidad de Información, Planeación, Programación y Evaluación;
+
+> <small>(REFORMADA, G.G. 18 DE ENERO DE 2019)</small>
+
+III. Unidad de Comunicación Social;
+
+> <small>(ADICIONADA, G.G. 18 DE ENERO DE 2019)</small>
+
+IV. Unidad de Difusión de la Cultura; y
+
+> <small>(ADICIONADA, G.G. 18 DE ENERO DE 2019)</small>
+
+V. Unidad de Igualdad de Género y Erradicación de la Violencia.
 
 Áreas auxiliares de la Primera Visitaduría General
 
@@ -305,7 +317,7 @@ II. Proponer y ejecutar, en el ámbito de su competencia, los programas de la Co
 
 III. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
 
-IV. Coordinar la realización de eventos en materia de derechos humanos, en que tenga injerencia el Organismo;
+IV. (DEROGADA, G.G. 18 DE ENERO DE 2019)
 
 V. Coordinar el funcionamiento y operatividad del Archivo de Concentración del Organismo;
 
@@ -343,7 +355,7 @@ I. Proponer y ejecutar los programas para prevenir y eliminar la discriminación
 
 II. Elaborar el anteproyecto del programa de promoción de los derechos humanos;
 
-III. Coordinar y organizar la realización de eventos en materia de derechos humanos, en los que tenga injerencia la Comisión;
+III. (DEROGADA, G.G. 18 DE ENERO DE 2019)
 
 IV. Coordinar acciones con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
 
@@ -692,6 +704,50 @@ III. Informar con oportunidad a los medios de comunicación sobre las acciones y
 IV. Coordinar las reuniones y conferencias de prensa de la Presidencia y demás servidores públicos de la Comisión; y
 
 V. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+
+> <small>(ADICIONADO, G.G. 18 DE ENERO DE 2019)</small>
+
+Atribuciones de la Unidad de Difusión de la Cultura
+
+###### Artículo 28 Bis.
+
+Corresponde a la Unidad de Difusión de la Cultura:
+
+I. Proponer y establecer estrategias, programas y acciones que permitan difundir la Cultura y el Arte, desde la perspectiva de los Derechos Humanos;
+
+II. Coordinarse, previa autorización de Presidencia, con instituciones estatales y municipales para diseñar y realizar actividades artísticas y culturales encaminadas a promocionar los Derechos Humanos;
+
+III. Implementar mecanismos encaminados a procurar el acceso de toda la población a los bienes y servicios culturales;
+
+IV. Colaborar, dentro del ámbito de su competencia, en la protección de los bienes artísticos e históricos de la Comisión;
+
+V. Fomentar convenios y apoyos para instaurar en la Comisión la oferta de actividades culturales y artísticas a la población en general;
+
+VI. Coordinar las acciones procedentes en torno a la organización y logística de eventos en los que tenga injerencia la Comisión y aquéllos que determine la Presidencia; y
+
+VII. Las demás que le confieran otras disposiciones y aquellas que le encomiende la Presidencia.
+
+> <small>(ADICIONADO, G.G. 18 DE ENERO DE 2019)</small>
+
+Atribuciones de la Unidad de Igualdad de Género y Erradicación de la Violencia
+
+###### Artículo 28 Ter.
+
+Corresponde a la Unidad de Igualdad de Género y Erradicación de la Violencia:
+
+I. Promover y vigilar que sus planes, programas y acciones sean realizados con perspectiva de género;
+
+II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
+
+III. Dar cumplimiento a los instrumentos internacionales, nacionales y estatales en materia de derechos humanos garantizando en todo momento la igualdad de trato y oportunidades entre mujeres y hombres; así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el ámbito de su competencia;
+
+IV. Coadyuvar en la elaboración de sus presupuestos con perspectiva de género, con la finalidad de incorporar acciones relacionadas con la materia;
+
+V. Informar periódicamente, en el marco del Sistema Estatal, los resultados de la ejecución de sus planes y programas, con el propósito de integrar y rendir el informe anual correspondiente;
+
+VI. Ser el primer contacto para los casos de acoso y hostigamiento sexual; y
+
+VII. Las demás que se establezcan en otras disposiciones jurídicas.
 
 ### Capítulo IV. De la suplencia de los titulares
 
@@ -1664,3 +1720,11 @@ G.G. 19 DE OCTUBRE DE 2018.
 PRIMERO. El presente acuerdo entrará en vigor a partir de la publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 SEGUNDO. Se deja sin efectos el Acuerdo 2/2017 de fecha treinta de enero del año 2017, emitido por este Organismo Autónomo, en donde se instruye que los expedientes de queja sean formalmente concluidos en un plazo no mayor a 180 días naturales a partir de su iniciación.
+
+G.G. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 12/2018-37, POR EL QUE SE REFORMA EL REGLAMENTO INTERNO Y SE ACTUALIZA EL MANUAL GENERAL DE ORGANIZACIÓN, ORGANIGRAMA Y ESTRUCTURA ORGÁNICA, DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO, CON LA CREACIÓN DE LA UNIDAD DE DIFUSIÓN DE LA CULTURA Y DE LA UNIDAD DE IGUALDAD DE GÉNERO Y ERRADICACIÓN DE LA VIOLENCIA, LA MODIFICACIÓN DE LA DENOMINACIÓN DE LA SUBDIRECCIÓN DE PROMOCIÓN Y EVENTOS, ASÍ COMO EL DEPARTAMENTO DE CONCERTACIÓN Y LOGÍSTICA, PARA QUEDAR COMO SUBDIRECCIÓN DE PROMOCIÓN Y DEPARTAMENTO DE DIVULGACIÓN DE DERECHOS HUMANOS, RESPECTIVAMENTE, Y LA ELIMINACIÓN DEL DEPARTAMENTO DE VINCULACIÓN CULTURAL”.]
+
+PRIMERO. Publíquese este Acuerdo en el periódico oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
