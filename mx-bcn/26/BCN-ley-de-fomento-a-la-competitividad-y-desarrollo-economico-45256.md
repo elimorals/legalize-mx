@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2018-11-30"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -91,11 +91,17 @@ XI. PDE: La Política de Desarrollo Empresarial del Estado;
 
 XII. Persona Adulta Mayor: Persona de 60 años de edad o más, que lo haga constar con los documentos públicos correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
 
-XIII.- Persona con Discapacidad: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
+XIII. Persona Egresada de Albergue, Casa Hogar o Institución de Asistencia Social para Niñas, Niños y Adolescentes: Toda persona que, al cumplir su mayoría de edad, se le expida constancia de haber concluido su estancia en un albergue, casa hogar o institución de asistencia social para niña, niño y adolescente, pública o privada que se encuentre debidamente registrada ante las autoridades competentes en el Estado, susceptible de ser contratada por una empresa;
 
-XIV. Proyecto de Inversión: La inversión privada destinada a la instalación de una nueva Empresa, a la ampliación de las operaciones productivas, a la investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado en productos, procesos, materiales y/o servicios, de conformidad con la siguiente clasificación:
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+XIV. Persona Productiva con Capacidades Diferentes: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+XV. Proyecto de Inversión: La inversión privada destinada a la instalación de una nueva Empresa, a la ampliación de las operaciones productivas, a la investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado en productos, procesos, materiales y/o servicios, de conformidad con la siguiente clasificación:
 
 a) Inversión Nueva: La que se destina a la instalación de una empresa para iniciar operaciones productivas en el Estado;
 
@@ -103,29 +109,35 @@ b) Inversión en Ampliación: La que se destina a ampliar las operaciones produc
 
 c) Inversión en Tecnología: Inversiones cuyo modelo de negocios se basa en el conocimiento científico y tecnológico, que destinan un porcentaje de sus ventas anuales a la investigación y/o el desarrollo experimental, y se clasifican a su vez en:
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
-
 1. Bienes de Capital: Las orientadas al diseño, procesamiento y/o manufactura de nuevos productos, servicios de alta tecnología o la implementación de procesos de producción innovadores que incrementan su capacidad, reduzcan tiempos y/o ahorren energía.
 
 2. Capital Humano: Las orientadas en desarrollar, atraer y lograr la permanencia del capital humano altamente calificado, capaz de realizar acciones encaminadas a la investigación y desarrollo tecnológico y científico de productos o servicios.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
-
 3. Recursos Materiales: Todos aquellos bienes que utiliza una empresa para la consecución de sus fines.
 
-XV. Reglamento: El Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
-XVI. RETE: El Registro Estatal de Trámites Empresariales en el que se inscriben los trámites y servicios a cargo de las dependencias y entidades, sujetos a un proceso de mejora regulatoria;
+XVI. Reglamento: El Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
-XVII. UMA: Unidad de Medida y Actualización Vigente;
+XVII. RETE: El Registro Estatal de Trámites Empresariales en el que se inscriben los trámites y servicios a cargo de las dependencias y entidades, sujetos a un proceso de mejora regulatoria;
 
-XVIII. Secretaría: La Secretaría de Desarrollo Económico del Estado;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-XIX.- Ventanilla Única: Las oficinas de la Secretaría, para la recepción de las solicitudes de las empresas interesadas en obtener estímulos;
+XVIII. SMG: El salario mínimo general vigente en el Estado;
 
-XX.- Vocaciones regionales: Los sectores productivos con potencial de crecimiento que tiene cada región del Estado, las que se identifican como:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+XIX. Secretaría: La Secretaría de Desarrollo Económico del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+XX.- Ventanilla Única: Las oficinas de la Secretaría, para la recepción de las solicitudes de las empresas interesadas en obtener estímulos,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+XXI.- Vocaciones regionales: Los sectores productivos con potencial de crecimiento que tiene cada región del Estado, las que se identifican como:
 
 a) Vocaciones Razonables: Actividades productivas cuya participación en el valor del producto interno bruto del Estado sobrepasa a la media nacional.
 
@@ -155,9 +167,9 @@ b) El impulso a la creación de Empresas regionales mediante la promoción de la
 
 c) Un marco jurídico que aliente y consolide la inversión;
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
 
-d) La incorporación al mercado laboral de personas con discapacidad, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+d) La incorporación al mercado laboral de personas adultas mayores y personas productivas con capacidades diferentes, personas egresadas de albergues, casa hogar o institución de asistencia social para niñas, niños y adolescentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
 
 e) La generación de nuevas fuentes de empleo formales y la conservación de los existentes;
 
@@ -289,9 +301,9 @@ I. Realicen un Proyecto de Inversión;
 
 II. Operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, siempre que su descarga final no se realice en el sistema de alcantarillado; o,
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-III. Contraten Personas Adultas Mayores y/o Personas con discapacidad.
+III. Contraten Personas Adultas Mayores, Personas Productivas con Capacidades Diferentes y/o personas egresadas de albergue, casa hogar o institución de asistencia social para niñas, niños y adolescentes.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -387,13 +399,19 @@ c) Más de 15 a 25 estudiantes 4 puntos
 
 d) Mas de 25 estudiantes 5 puntos
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ENERO DE 2019)</small>
 
-Esquema 4. Contratación de Personas Adultas Mayores y/o Personas Discapacitadas, que representen:
+Esquema 4. Contratación de Personas Adultas Mayores, Personas Productivas con Capacidades Diferentes y/o personas egresadas de albergue, casa hogar o institución de asistencia social para niñas, niños y adolescentes, que representen:
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 a) Al menos el 5% del total del personal 1 puntos (sic)
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
 b) Entre 6 y 10% del total del personal 3 puntos
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 c) Más del 10% del total del personal 6 puntos
 
@@ -1196,3 +1214,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
