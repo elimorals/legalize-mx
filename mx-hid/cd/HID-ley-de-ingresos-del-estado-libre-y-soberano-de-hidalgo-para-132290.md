@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-132
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ENERO DE 2019.]</small>
 
 Ley publicada en el Alcance al Número 53 del Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2018.
 
@@ -67,7 +67,9 @@ para el Ejercicio Fiscal 2019 Ingreso Estimado
 
 Total 46,271,736,282.66
 
-Impuestos 1,274,230,579.04
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
+Impuestos 1,274,230,579.03
 
 Impuestos sobre los Ingresos 8,504,605.13
 
@@ -95,7 +97,9 @@ Impuestos Ecológicos 0.00
 
 Accesorios de Impuestos 30,108,436.22
 
-Actualizaciones 2,953,923,. (sic)84
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
+Actualizaciones 2,953,923.84
 
 Recargos 23,395,728.30
 
@@ -163,7 +167,9 @@ Derechos por el Uso, Goce, Aprovechamiento
 
 o Explotación de Bienes de Dominio Público 5,461,296.75
 
-Uso de bienes del dominio público 5,461,269.75
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
+Uso de bienes del dominio público 5,461,296.75
 
 Derechos por Prestación de Servicios 847,727,174.38
 
@@ -177,7 +183,9 @@ Publicaciones, certificaciones y legalizaciones 15,815,390.90
 
 Verificaciones, supervisiones y avalúos 4,459,218.19
 
-Expedición de constancias e información 9,970,054.50
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
+Expedición de constancias e Información 9,970,054.51
 
 Inscripciones, Exámenes, Capacitación
 
@@ -551,15 +559,19 @@ Ingresos por Ventas de Bienes, Prestación
 
 de Servicios y Otros Ingresos 2,013,251,065.00
 
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
 Ingresos por Venta de Bienes y Prestación
 
 de Servicios de Instituciones Públicas de
 
-Seguridad Social
+Seguridad Social 0.00
+
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
 
 Ingresos por Venta de Bienes y Prestación
 
-de Servicios de Empresas Productivas del Estado
+de Servicios de Empresas Productivas del Estado 0.00
 
 Ingresos por Venta de Bienes y Prestación
 
@@ -611,7 +623,9 @@ Judicial, y de los Órganos Autónomos 0.00
 
 Otros Ingresos 0.00
 
-Subtotal Sector Paraestatal
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
+Subtotal Sector Paraestatal 2,013,251,065.00
 
 Nota:
 
@@ -737,9 +751,11 @@ g) Los inmuebles cuyo valor catastral sea de hasta 130 Unidades de Medida y Actu
 
 h) Los inmuebles cuyo valor catastral sea mayor a 130 Unidades de Medida y Actualización UMAS elevadas al mes, y de hasta 384 Unidades de Medida y Actualización (UMAS) elevadas al mes, tendrán un beneficio consistente en una reducción de 33 Unidades de Medida y Actualización (UMAS) en las tarifas establecidas en las fracciones I, inciso b), III, VI, VII, X y XII del artículo 8 de la Ley Estatal de Derechos, vigente para el Ejercicio Fiscal 2019.
 
-i) En ningún caso, los contribuyentes pagarán más de lo que correspondería de aplicárseles las disposiciones contenidas en la Ley Estatal de Derechos vigente para 2018. Los Fedatarios Públicos y funcionarios del Registro Público de la Propiedad del Estado de Hidalgo y/o el Instituto de la Función Registral, deberán ajustarse a lo dispuesto por la referida Ley vigente para 2019 y el presente artículo.
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
 
-j) En virtud de privilegiar la certeza, seguridad jurídica y económica y las condiciones para la adquisición de los bienes inmuebles, en aplicación del principio de "prelación y/o prioridad registral” de estos actos traslativos de dominio, y que los mismos incluyan actos conexos, anexos y accesorios, como por ejemplo, cancelación parcial de hipoteca, crédito hipotecario, etc., siempre y cuando estén contenidos en el mismo instrumento público notarial, durante el proceso de inicio a través de la solicitud de la anotación del primer aviso preventivo, que fuere procedente a petición del fedatario público, del certificado sobre la existencia o no de limites o gravámenes que pesen sobre el bien raíz, cuya vigencia del aviso tendrá una duración de 30 días naturales, acto seguido perfeccionándose el acto jurídico durante la vigencia del primer aviso y presentando la solicitud ante el registro del segundo aviso preventivo, cuya anotación por disposición legal tiene una vigencia de noventa días naturales para el segundo, de conformidad con los artículos 17 y 112 así como relativos y aplicables de la Ley del Registro Público de la Propiedad del Estado de Hidalgo y su TRANSITORIO CUARTO, publicada en el Alcance Dos al Periódico Oficial de fecha 22 de Diciembre de 2014; 3024 del Código Civil para el Estado de Hidalgo y 86 fracción I del Reglamento del Registro Público de la Propiedad del Estado de Hidalgo, tomando en cuenta que el pago por concepto de la procedencia de la inscripción mantuviera vigente el principio registral de referencia, se realizará en los términos antes mencionados y el monto que se pagará será el establecido en el valor correspondiente a las UMAS del ejercicio fiscal anterior, es decir, hasta el 31 de mayo del año en curso permanecerá vigente la cantidad que resulte para aquellos actos traslativos de dominio, iniciados hasta el 31 de enero del 2019.
+i) En ningún caso, los contribuyentes pagarán más de lo que correspondería de aplicárseles las disposiciones contenidas en la Ley Estatal de Derechos vigente para 2019. Los Fedatarios Públicos y funcionarios del Registro Público de la Propiedad del Estado de Hidalgo y/o el Instituto de la Función Registral, deberán ajustarse a lo dispuesto por la referida Ley vigente para 2019 y el presente artículo.
+
+j) En virtud de privilegiar la certeza, seguridad jurídica y económica y las condiciones para la adquisición de los bienes inmuebles, en aplicación del principio de "prelación y/o prioridad registral" de estos actos traslativos de dominio, y que los mismos incluyan actos conexos, anexos y accesorios, como por ejemplo, cancelación parcial de hipoteca, crédito hipotecario, etc., siempre y cuando estén contenidos en el mismo instrumento público notarial, durante el proceso de inicio a través de la solicitud de la anotación del primer aviso preventivo, que fuere procedente a petición del fedatario público, del certificado sobre la existencia o no de limites o gravámenes que pesen sobre el bien raíz, cuya vigencia del aviso tendrá una duración de 30 días naturales, acto seguido perfeccionándose el acto jurídico durante la vigencia del primer aviso y presentando la solicitud ante el registro del segundo aviso preventivo, cuya anotación por disposición legal tiene una vigencia de noventa días naturales para el segundo, de conformidad con los artículos 17 y 112 así como relativos y aplicables de la Ley del Registro Público de la Propiedad del Estado de Hidalgo y su TRANSITORIO CUARTO, publicada en el Alcance Dos al Periódico Oficial de fecha 22 de Diciembre de 2014; 3024 del Código Civil para el Estado de Hidalgo y 86 fracción I del Reglamento del Registro Público de la Propiedad del Estado de Hidalgo, tomando en cuenta que el pago por concepto de la procedencia de la inscripción mantuviera vigente el principio registral de referencia, se realizará en los términos antes mencionados y el monto que se pagará será el establecido en el valor correspondiente a las UMAS del ejercicio fiscal anterior, es decir, hasta el 31 de mayo del año en curso permanecerá vigente la cantidad que resulte para aquellos actos traslativos de dominio, iniciados hasta el 31 de enero del 2019.
 
 #### SECCIÓN III. CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA.
 
@@ -755,9 +771,11 @@ III. El Centro Estatal de Evaluación y Control de Confianza aplicará las evalu
 
 IV. Las evaluaciones médico toxicológico, psicológico, poligráfico y la de entorno social y situación patrimonial, que se practiquen en el Centro Estatal de Evaluación y Control de Confianza, tendrán un beneficio del 40%, para quedar como sigue:
 
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2019)</small>
+
 Conforme a la Ley Estatal Con el beneficio del 40% a corporaciones de
 
-de Derechos seguridad privada
+de Derechos seguridad pública y privada
 
 Concepto UMAS Concepto UMAS
 
