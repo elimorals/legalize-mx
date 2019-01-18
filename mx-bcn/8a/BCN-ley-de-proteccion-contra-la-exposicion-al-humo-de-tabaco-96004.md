@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-96004"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-20"
-last_updated: "2016-10-21"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de septiembre de 2013.
 
@@ -255,11 +255,17 @@ Dentro del Programa contra el Tabaquismo, se deberán desarrollar acciones para 
 
 Dentro del territorio del Estado de Baja California, para asegurar el derecho a la protección de la salud de toda la población, queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, definidos en la presente ley, así como en las escuelas públicas y privadas de educación básica y media superior.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2018)</small>
+
+Queda prohibida la venta de tabaco en cualquiera de sus modalidades a niñas, niños y adolescentes, así como la venta de cigarros sueltos o por unidad, y la instalación y operación de máquinas automáticas expendedoras de cigarros.
+
 Los espacios 100% libres de humo de tabaco deberán estar permanentemente señalizados.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2018)</small>
 
 ###### Artículo 16.
 
-Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas públicas, sociales o privadas, industrias, servicios y empresas serán sancionados conforme lo establecido en esta Ley por permitir, tolerar o autorizar que se fume en el interior de los mismos.
+Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas públicas, sociales o privadas, industrias, servicios y empresas serán sancionados conforme lo establecido en esta Ley por permitir, tolerar o autorizar que se fume y/o se vendan cigarros sueltos o por unidad en el interior de los mismos.
 
 ###### Artículo 17.
 
@@ -409,6 +415,10 @@ La autoridad competente salvaguardará la identidad e integridad del ciudadano q
 
 La Secretaría pondrá en operación o vinculará con una línea telefónica preferentemente de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios 100% libres de humo de tabaco así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, así como un domicilio electrónico en donde los ciudadanos podrán presentar sus quejas o enviar las fotografías testimoniales de las violaciones, con los datos del lugar, fecha y hora en que ocurrió dicho incumplimiento. Las fotografías testimoniales a que se refiere este artículo tendrán presunción de validez como prueba, siempre y cuando sean completamente comprobables, salvo que se demuestre lo contrario.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2018)</small>
+
+Cualquier ciudadano podrá denunciar ante la autoridad correspondiente a los establecimientos fijos o semifijos, sitios o personas que vendan cualquier producto de tabaco a niñas, niños y adolescentes, así como los lugares en los se vendan cigarros sueltos o por unidad y/o que operen máquinas expendedoras de cigarros.
+
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
 ###### Artículo 39.
@@ -463,6 +473,14 @@ V.- La inducción de cualquier persona para hacer fumar o promover la dependenci
 
 VI.- Tener publicidad de productos de tabaco o cualquier elemento de marca en el establecimiento o en el servicio de valet parking.
 
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2018)</small>
+
+VII.- La venta de tabaco en cualquiera de sus modalidades a niñas, niños y adolescentes, así como la venta de cigarros sueltos o por unidad y la instalación y operación de máquinas expendedoras de cigarros.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2018)</small>
+
+VIII.- Adulterar, falsificar, contaminar, alterar cualquier producto de tabaco para su venta, comercialización o distribución en cualquier modalidad, así como su almacenamiento y/o transporte.
+
 ###### Artículo 43.
 
 Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el Estado de Baja California.
@@ -514,3 +532,9 @@ P. O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 621 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2018.
+
+## N. DE E. TRANSITORIO DEL “DECRETO NO. 287 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 15; SE REFORMA EL ARTÍCULO 16; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 Y SE ADICIONA LA FRACCIÓN VII Y VIII AL ARTÍCULO 42, TODOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado Baja California.
