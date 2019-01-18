@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2018-11-30"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -117,7 +117,7 @@ Los bienes de dominio público del Estado son inalienables, imprescriptibles e i
 
 Corresponden al Ejecutivo del Estado, las facultades siguientes:
 
-l.- Vigilar, administrar y controlar el correcto uso y aprovechamiento de los bienes del Estado;
+I.- Vigilar, administrar y controlar el correcto uso y aprovechamiento de los bienes del Estado;
 
 II.- Dictar las reglas o normas para la vigilancia, aprovechamiento y preservación de los bienes del Estado;
 
@@ -357,21 +357,39 @@ La posesión, conservación y administración de los bienes del Estado, correspo
 
 Los inmuebles de dominio privado que no sean adecuados o aprovechables para destinarlos a los fines a que se refiere el Artículo anterior, se podrán enajenar, previo Decreto del Congreso del Estado, cuando corresponda:
 
-I.- En favor de las Entidades oficiales que tengan a su cargo resolver el problema de habitación popular para atender necesidades colectivas;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+I.- En favor de las Entidades oficiales dedicadas a la urbanización de terrenos y construcción de vivienda para atender necesidades colectivas, o bien a favor de particulares beneficiarios de los programas de regularización de la tenencia del suelo que promueva el Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 II.- Para disponer del importe de su enajenación, en la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias del Gobierno del Estado;
 
-III.- En favor de personas de derecho privado que requieran disponer indispensablemente del inmueble, por razón de su ubicación u otras características, para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-IV.- En los demás casos en que la enajenación se justifique por razones de interés general o de beneficio colectivo.
+III.- En favor de personas de derecho privado que requieran disponer indispensablemente del inmueble, por razón de su ubicación u otras características, para el desarrollo de un proyecto de carácter económico, turístico, educativo, cultural o social, en beneficio de la colectividad;
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
+
+IV.- Permuta con las dependencias y entidades de la administración pública central o paraestatal del gobierno federal, estatal, o municipal o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
+
+V.- Dar cumplimiento con la trasmisión del bien o bienes, a resoluciones o convenios judiciales, exceptuando aquellos que deriven de juicios laborales, cuando su incumplimiento o inejecución pudiera causar un perjuicio al erario.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
+
+VI.- Para disponer del importe de su enajenación para el pago de obligaciones contraídas por la administración pública estatal cuyo incumplimiento pudiera provocar pérdidas o costos adicionales importantes al erario, debidamente justificados. Dichas obligaciones deben ser distintas a las contempladas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+VII.- En los demás casos en que la enajenación se justifique por razones de interés general o de beneficio colectivo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2019)</small>
 
 No podrán ser enajenados inmuebles de dominio privado del Estado, a favor de ningún funcionario federal, estatal o municipal, sus cónyuges, sus parientes consanguíneos en línea recta, sin limitación de grado, los colaterales hasta el cuarto y los afines hasta el segundo. Las enajenaciones que se efectúen en contravención de esta prohibición, serán nulas de pleno derecho.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2019)</small>
 
 La iniciativa de Decreto por la que se solicite la autorización previa del Congreso del Estado para la enajenación de bienes, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
@@ -403,9 +421,13 @@ Los instrumentos o documentos mediante los cuales se realicen las operaciones de
 
 Salvo lo dispuesto en el Artículo anterior cualquier otra clase de enajenación de bienes se hará en la forma ordinaria con sujeción a las reglas del derecho común en lo que respecta a condiciones esenciales y seguridades, pero con la clara obligación por parte del Gobierno de salvaguardar, en cada caso concreto, los intereses generales, dándole siempre a las enajenaciones un sentido práctico en beneficio de la colectividad.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
 
-Para enajenar los inmuebles de dominio privado a que se refieren las fracciones II y IV del artículo 33, se sujetarán al procedimiento previsto por el artículo 19 de esta Ley.
+Para enajenar los inmuebles de dominio privado a que se refieren las fracciones II, VI y VII del artículo 33, se sujetaran al procedimiento previsto por el artículo 19 de esta Ley, salvo en el caso de que ésta no sea idónea para asegurar las mejores condiciones para la transmisión de la propiedad, supuesto que deberá acreditarse en la iniciativa de autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2019)</small>
+
+En el caso de las fracciones V y VI del artículo 33, deberá acreditarse mediante informe de la Secretaría de Planeación y Finanzas, que acorde a las condiciones financieras del Estado, no se cuenta con recursos públicos en numerario suficientes para dar cumplimiento a la obligación correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
@@ -535,7 +557,7 @@ El Ejecutivo Estatal expedirá las disposiciones reglamentarias para el otorgami
 
 Las personas físicas o morales interesadas en obtener una concesión presentarán a la Oficialía Mayor una propuesta de proyecto de concesión, acompañando un estudio que contenga al menos los siguientes elementos:
 
-l.- Viabilidad, finalidad y justificación del objeto de la concesión;
+I.- Viabilidad, finalidad y justificación del objeto de la concesión;
 
 II.- Análisis de la demanda de uso e incidencia económica y social de la actividad o bien de que se trate en su área de influencia;
 
@@ -727,7 +749,7 @@ Serán admisibles toda clase de pruebas, excepto las de posiciones y la declarac
 
 Para efectos de su admisión, las pruebas ofrecidas deberán reunir los siguientes elementos, o de lo contrario, se desecharán de plano:
 
-l. - No ser contrarias a lo moral y al derecho, y
+I. - No ser contrarias a lo moral y al derecho, y
 
 II.- Tener relación inmediata y directa con los puntos controvertidos.
 
@@ -930,3 +952,11 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 300 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 33 Y 37 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
