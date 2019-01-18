@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2018-07-04"
+last_updated: "2019-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 18 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 7 de diciembre de 2012.
 
@@ -552,3 +554,13 @@ Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 Segundo. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS".]
+
+Artículo primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 07 de diciembre de 2012.
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
