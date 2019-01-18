@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2015-11-13"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -135,9 +135,21 @@ III. Crear y fortalecer los mecanismos institucionales de promoción y procuraci
 
 IV. Elaborar las políticas públicas locales con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley;
 
-V. Aprobar y aplicar el Programa Estatal, y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-VI. Promover, en coordinación con las dependencias de la Administración Pública Estatal, la aplicación de la presente Ley.
+V. Aprobar y aplicar el Programa Estatal;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+VI. Promover, en coordinación con las dependencias de la Administración Pública Estatal, la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
+
+VII. Promover la capacitación continua de los servidores públicos de la administración pública del Estado en materia de igualdad entre mujeres y hombres, así como el trabajo conjunto entre autoridades estatales y sociedad civil en la materia, y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
+
+VIII. Establecer lineamientos de observancia obligatoria para los servidores públicos de la administración pública del estado, en materia de igualdad entre mujeres y hombres.
 
 ### CAPÍTULO TERCERO. INSTITUTO
 
@@ -177,9 +189,17 @@ II. Coadyuvar con los gobiernos federal y estatal en la consolidación de los pr
 
 III. Elaborar Presupuestos de Egresos incorporando la asignación de recursos para el cumplimiento en el ámbito de su competencia de las políticas de igualdad;
 
-IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere, y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-V. Fomentar la participación ciudadana en el diseño e implementación de la planeación municipal del desarrollo en materia de igualdad.
+IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+V. Fomentar la participación ciudadana en el diseño e implementación de la planeación municipal del desarrollo en materia de igualdad, y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
+
+VI. Promover la capacitación continua de los servidores públicos de la administración pública municipal en materia de igualdad entre mujeres y hombres.
 
 ## TÍTULO III. POLÍTICA ESTATAL
 
@@ -467,7 +487,9 @@ I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las no
 
 II. Promover investigaciones con perspectiva de igualdad en materia de salud y de seguridad en el trabajo;
 
-III. Impulsar la capacitación a las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+III. Impulsar la capacitación de los servidores públicos estatales y municipales en materia de igualdad entre mujeres y hombres;
 
 IV. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
 
@@ -524,3 +546,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 18 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
