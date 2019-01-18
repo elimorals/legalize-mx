@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-direccion-de-pensiones-de-piedras-negras-antes-110680
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2015-12-01"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE LA DIRECCION DE PENSIONES DE PIEDRAS NEGRAS -ANTES LEY DE PENSIONES DE PIEDRAS NEGRAS -ANTES LEY DE LA DIRECCION DE PENSIONES DE PIEDRAS NEGRAS FRONTERA FUERTE, COAHUILA DE ZARAGOZA-
 
-LEY DE LA DIRECCIÓN DE PENSIONES DE PIEDRAS NEGRAS FRONTERA FUERTE DEL ESTADO DE COAHUILA
+LEY DE PENSIONES DE PIEDRAS NEGRAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 1 de diciembre de 2015.
 
@@ -37,13 +37,17 @@ NÚMERO 190.-
 
 ÚNICO.- Se crea la Ley de la Dirección de Pensiones de Piedras Negras Frontera Fuerte, para quedar como sigue:
 
-LEY DE LA DIRECCIÓN DE PENSIONES DE PIEDRAS NEGRAS FRONTERA FUERTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2019)</small>
+
+LEY DE PENSIONES DE PIEDRAS NEGRAS
 
 ### CAPÍTULO PRIMERO. DENOMINACIÓN Y OBJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley crea el Organismo Público Descentralizado de la Administración Municipal, denominado "Dirección de Pensiones de Piedras Negras Frontera Fuerte'' con personalidad jurídica y patrimonio propio.
+La presente Ley crea el Organismo Público Descentralizado de la Administración Municipal, denominado "Dirección de Pensiones de Piedras Negras", con personalidad jurídica y patrimonio propio.
 
 Esta Ley es de orden público, observancia obligatoria y tiene por objeto regular la organización, funcionamiento y beneficios otorgados por el Organismo.
 
@@ -67,7 +71,9 @@ III.- A los Pensionados.
 
 IV.- A los Beneficiarios tanto de los trabajadores como de los pensionados.
 
-No serán sujetos a los beneficios que se establecen en esta Ley, aquellas personas que perciban emolumentos mediante recibo de honorarios, por contrato de obra, mediante interinatos o a quienes el Ayuntamiento de Piedras Negras pague cuotas para el pago de pensiones a otra institución diversa de la Dirección de Pensiones de Piedras Negras Frontera Fuerte.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
+
+No serán sujetos a los beneficios que se establecen en esta Ley, aquellas personas que perciban emolumentos mediante recibo de honorarios, por contrato de obra, mediante interinatos o a quienes el Ayuntamiento de Piedras Negras pague cuotas para el pago de pensiones a otra institución diversa de la Dirección de Pensiones de Piedras Negras.
 
 ###### ARTÍCULO 5.
 
@@ -77,7 +83,9 @@ I.- Por patrón, el Ayuntamiento de Piedras Negras, sus órganos centralizados, 
 
 II.- Por trabajador, toda persona física que presta un servicio físico o intelectual al municipio, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos.
 
-III.- Por Dirección de Pensiones o Dirección, a la Dirección de Pensiones de Piedras Negras Frontera Fuerte.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+
+III.- Por Dirección de Pensiones o Dirección, a la Dirección de Pensiones de Piedras (sic).
 
 IV.- Por pensionado, toda persona que habiendo cumplido los requisitos señalados en esta Ley, tenga derecho a una pensión y se retire del servicio, para gozar de los mismos.
 
@@ -778,3 +786,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LA LEY DE PENSIONES DEL MUNICIPIO DE PIEDRAS NEGRAS, COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+PRIMERO (SIC).- Se deroga cualquier disposición municipal que se oponga a lo dispuesto en esta reforma.
