@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-06-09"
+last_updated: "2019-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -133,25 +133,29 @@ VI.- Ejercer el derecho de previa observación de los acuerdos que se pretendan 
 
 VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leyes y reglamentos federales, estatales y municipales, dentro del ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-VIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la perspectiva de género y la protección de los derechos de los pueblos indígenas;
+VIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la igualdad de trato y oportunidades entre mujeres y hombres y la protección de los derechos de los pueblos indígenas;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
 
-IX. Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado;
+IX. Promover la capacitación continua de los servidores públicos de la administración pública municipal, y el desarrollo de trabajo conjunto entre autoridades municipales y sociedad civil, en materia de igualdad de trato y oportunidades entre mujeres y hombres, así como su difusión;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
-X. Garantizar y cumplir con el principio de interés superior de la niñez, así como impulsar e implementar conforme a las normas y las bases competenciales concurrentes en materia federal y estatal, el Sistema de Protección a Menores; y
+X. Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-XI.- Rendir anualmente durante la primera semana del mes de octubre un informe público sobre el estado que guarda la Administración Pública Municipal; el informe correspondiente al último año de gestión municipal deberá rendirse dentro de la primera semana del mes de agosto.
+XI. Garantizar y cumplir con el principio de interés superior de la niñez, así como impulsar e implementar conforme a las normas y las bases competenciales concurrentes en materia federal y estatal, el Sistema de Protección a Menores;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
-XII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+XII.- Rendir anualmente durante la primera semana del mes de octubre un informe público sobre el estado que guarda la Administración Pública Municipal; el informe correspondiente al último año de gestión municipal deberá rendirse dentro de la primera semana del mes de agosto, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+
+XIII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -388,6 +392,10 @@ IV.- Los Ayuntamientos no podrán otorgar concesiones sobre bienes, o para la pr
 De los Reglamentos Municipales.- Los reglamentos municipales que expidan los Ayuntamientos deberán ser aprobados por la mayoría absoluta de sus miembros y sus normas deberán ser generales, abstractas, impersonales y vinculantes a la aplicación de leyes federales y estatales y al ejercicio de atribuciones de los Municipios.
 
 Para su correspondiente publicidad e inicio de vigencia, deberán publicarse en el Periódico Oficial del Gobierno del Estado. Los Municipios estarán exentos del pago de derechos por la publicación de sus reglamentos y demás acuerdos y disposiciones de observancia general en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ENERO DE 2019)</small>
+
+En cuanto a su redacción y contenido, se procurará utilizar en los reglamentos municipales lenguaje que promueva la igualdad de trato y oportunidades entre mujeres y hombres.
 
 ###### ARTÍCULO 19.
 
@@ -983,7 +991,7 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 
 P.O. 10 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 147 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 147 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -1052,3 +1060,9 @@ P.O. 9 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL”, ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 18 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
