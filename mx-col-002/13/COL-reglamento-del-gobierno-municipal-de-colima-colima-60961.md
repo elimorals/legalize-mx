@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2018-12-29"
+last_updated: "2019-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2019.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -2861,7 +2861,9 @@ VII.1.3.a. Jefatura de Área de Inspección y Supervisión de Obras
 
 VII.2 Dirección de Ecología y Medio Ambiente
 
-VII.2.1 Jefatura de Área de Calidad Ambiental
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2019)</small>
+
+VII.2.1 Jefatura de Departamento de Calidad Ambiental
 
 > <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -3365,11 +3367,11 @@ De acuerdo con el artículo 70 de la Ley Municipal, las faltas del Secretario de
 
 En ausencia del Presidente Municipal, el Secretario del Ayuntamiento estará facultado para autorizar con su firma la correspondencia oficial, los movimientos de alta, baja y cambios necesarios, con relación al personal que labore para el Ayuntamiento, exceptuando los Jefes Departamentales y de las Unidades, así como los Directores Generales y de Áreas; igual tratamiento se dará para la expedición de cartas y certificados de residencia que soliciten los ciudadanos y las demás que le asigne el Presidente Municipal, este reglamento, los ordenamientos aplicables y el propio cabildo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2019)</small>
 
 ###### Artículo 201.
 
-El Secretario del Ayuntamiento, además de las facultades y obligaciones que le señala la Ley Municipal en su artículo 69, las referidas en las Leyes Estatales, los demás ordenamientos legales que emita el Cabildo y las que le asigne el Presidente Municipal, ejercerá las siguientes atribuciones:
+El Secretario del Ayuntamiento, además de las facultades y obligaciones que le señala la Ley Municipal en su artículo 69, las referidas en las Leyes Estatales, los demás ordenamientos legales que emita el cabildo y las que le asigne el Presidente Municipal, ejercerá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3379,9 +3381,9 @@ I.- Ejercer las atribuciones que señale la Ley.
 
 II.- Ser el vínculo de comunicación entre el Presidente Municipal y la comunidad.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2019)</small>
 
-III.- Coordinar las labores de las Oficinas del Registro Civil, del Juzgado Calificador, y de la Junta Municipal de Reclutamiento.
+III.- Coordinar las labores de las Oficinas del Registro Civil y de la Junta Municipal de Reclutamiento.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3693,41 +3695,47 @@ q) Aplicar el Diagnóstico de Necesidades de Capacitación al personal del Ayunt
 
 r) Proporcionar al trabajador los conocimientos, para eficientar sus habilidades, aptitudes y destrezas para dar cumplimiento a las competencias requeridas por el puesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2019)</small>
 
-Artículo 216 BIS.- La Jefatura de Departamento de Innovación y Calidad tendrá a su cargo las siguientes funciones:
+###### Artículo 216 Bis.
 
-I.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Calidad y Mejora Continua.
+La Jefatura de Departamento de Innovación y Calidad tendrá a su cargo las siguientes funciones:
 
-II.- Ser un facilitador en el establecimiento, implementación y mantenimiento de los procesos necesarios para el Sistema de Gestión de la Calidad, con la finalidad de preservar la certificación de los procesos a través de la mejora continua.
+I.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Innovación, Calidad y Mejora Continua.
+
+II.- Ser un facilitador en el establecimiento y mantenimiento de los procesos necesarios para los Sistemas de Innovación y Calidad que sean implementados.
 
 III.- Promover la toma de conciencia de los requisitos del cliente en todos los niveles del gobierno local a través de la capacitación adecuada, de la comunicación interna y del seguimiento de la percepción del cliente.
 
-IV.- Realizar semestralmente revisiones al Sistema de Gestión de la Calidad e implementar acciones de mejora continua.
+IV.- Realizar semestralmente revisiones a los Sistemas de Innovación y Calidad e implementar acciones de mejora continua.
 
-V.- Informar al Presidente Municipal todas las actividades derivadas del Sistema de Gestión de la Calidad ISO 90012000.
+V.- Informar al Presidente Municipal todas las actividades derivadas de los Sistemas de Innovación y Calidad.
 
-VI.- Analizar los datos que proporcionan información sobre: satisfacción del cliente, requisitos del producto, acciones preventivas y correctivas
+VI.- Analizar los datos que proporcionan información sobre: satisfacción del cliente, requisitos del producto, acciones preventivas y correctivas.
 
-VII.- Integrar el Comité de Calidad, el cual deberá estar conformado por los titulares del más alto nivel de cada una de las dependencias municipales, así como por el Presidente Municipal.
+VII.- Integrar el Comité de Innovación y Calidad, que será presidido por el Presidente Municipal, así como participar en el mismo en los términos establecidos en su Manual de integración y funcionamiento.
 
-VIII.- Coordinar y llevar a cabo sesiones ordinarias y extraordinarias del Comité de Calidad.
+VIII.- Coadyuvar, en términos del manual, en la realización de las sesiones ordinarias y extraordinarias del Comité de Innovación y Calidad.
 
 IX.- Capacitar y definir el cuerpo de Auditores Internos del Ayuntamiento, en coordinación con el área de Capacitación.
 
 X.- Programar, coordinar y llevar a cabo Auditorías Internas.
 
-XI.- Vigilar la implementación del Sistema de Gestión de la Calidad en todas las áreas del Ayuntamiento, derivado de los resultados de auditorías realizadas y el análisis de datos de los procesos.
+XI.- Vigilar la implementación de los Sistemas de Innovación y Calidad en todas las áreas del Ayuntamiento, derivado de los resultados de auditorías realizadas y el análisis de datos de los procesos.
 
-XII.- Coordinar la Oficina de Servicios Múltiples, así como entidades que participen en la recepción y expedición de trámites y servicios que se otorgan en la misma, para la que tendrán como objetivo conjuntar esfuerzos de las dependencias participantes, con la finalidad de cumplir los siguientes objetivos:
+XII.- Coordinar, junto con el Comité de Innovación y Calidad a los auditores líderes de las diferentes áreas del H. Ayuntamiento, así como a las entidades que participen en la recepción y expedición de trámites y servicios que se otorgan, mediante un esfuerzo coordinado con las dependencias participantes, con la finalidad de cumplir los siguientes objetivos:
 
-a) Coordinar a las dependencias y entidades con las autoridades de los diferentes niveles de Gobierno Municipal para promover la pronta resolución de trámites municipales.
+a) Coordinar a las dependencias y entidades con las autoridades de los diferentes niveles de gobierno municipal para promover la pronta resolución de trámites municipales.
 
-b) Establecer los mecanismos para disminuir plazos, requisitos y documentos, teniendo como objetivo el establecimiento de un sistema de calidad y mejora continua, que permita la atención oportuna, amable y en el menor tiempo posible dar una respuesta al ciudadano; y
+b) Establecer los mecanismos para disminuir plazos, requisitos y documentos, teniendo como objetivo el establecimiento de Sistemas de Innovación y Calidad, que permitan la atención oportuna y amable para otorgar al ciudadano una respuesta en el menor tiempo posible; y
 
-c) Colaborar en el otorgamiento de información requisitoria de los diversos trámites que ahí se expidan a través de un módulo, al igual que el apoyo en la gestión de trámites solicitados, teniendo como objetivo el cumplimiento de los tiempos de respuesta, así como la respuesta por escrito.
+c) Colaborar con las dependencias participantes, brindando información sobre los requisitos y trámites que se soliciten al ciudadano, orientándolo mediante un módulo, y apoyar en la gestión de los trámites solicitados, teniendo como objetivo el cumplimiento de los tiempos de respuesta, y que esta sea entregada por escrito.
 
-XIII.- Las dependencias que brindan servicios en la Oficina de Servicios Múltiples (OSM) deberán mantener una estrecha coordinación con la Coordinación de Calidad para que los trámites y servicios que se otorguen en la OSM cumplan con el horario de atención, amabilidad, así como los tiempos de respuesta, debiendo observar el cumplimiento de la normatividad aplicable.
+XIII.- Mantener una estrecha comunicación con las dependencias que brindan servicios en el Centro Municipal de Negocios para que los trámites y servicios que se otorguen cumplan con el horario de atención, amabilidad, así como los tiempos de respuesta, debiendo observar el cumplimiento de la normatividad aplicable.
+
+XIV.- Aplicar, junto con el Comité, las prácticas de buen gobierno y tecnologías, aprobadas, que permitan optimizar los procesos de cada área, tales como, ahorro de energía, infraestructura, finanzas sanas, equidad de género, seguridad, medio ambiente, transparencia, gobierno digital, gobierno confiable ISO, visión territorial de ciudades prósperas, entre otras, y
+
+XV.- Por instrucción del presidente o vicepresidente del Comité, representarlos en las auditorías concernientes a los Sistemas de Innovación y Calidad que se hubieren implementado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -6642,3 +6650,9 @@ P.O. 29 DE DICIEMBRE DE 2018.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "ACUERDO QUE MODIFICA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre, artículos 140, 180, fracción I, incisos a) y f) del Reglamento de (sic) Gobierno Municipal de Colima.
+
+P.O. 19 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA”.]
+
+> <small>[N. DE E. EL “ACUERDO QUE REFORMA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE COLIMA.]</small>
