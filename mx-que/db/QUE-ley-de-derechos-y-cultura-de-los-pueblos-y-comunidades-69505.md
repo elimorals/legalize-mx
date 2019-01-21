@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2016-11-30"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -63,33 +63,33 @@ Para los efectos de ésta Ley y para todos los niveles de gobierno, los pueblos 
 
 I. Amealco de Bonfil: Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio de Sta. Teresa (Santiago Mexquititlán Barrio 6o.), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Santiago Mexquititlán Barrio 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dehedó, El Bothé, El Cacahuate (Santiago Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San Miguel Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Cañada del Varal, La Joya del Capulín, La Manzana, La Piní, La Purísima, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Las Salvas, Llano Largo, Loma de las Víboras (Santiago Mexquititlán Barrio 6o.), Loma de los Blases, Loma de los Julianes, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Bartolomé del Pino, San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Juan Dehedó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Santiago Mexquititlán Barrio 5°., Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerta del Chivato), Tierras Negras (Santiago Mexquititlán Barrio 6o.), Veinte de Noviembre, Xahay y Yosphí;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-II. Arroyo Seco: Concá, El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura, Santa María de los Cocos, Tierras Prietas y Tuna Manza;
+II. Arroyo Seco: Concá, El Aguacate, El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, La Lagunita, Las Trancas, Río del Carrizal, San José de las Flores, San Juan Buenaventura, Santa María de los Cocos, Tierras Prietas y Tuna Manza;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
 III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho de Guadalupe, Rancho Nuevo Sombrerete, Santo Domingo, Taxidhó, Tzibanzá, Xidhí, Xodhé y Yonthé;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-IV. Colón: Ejido Patria, El Álamo Cuate, El Arte, El Carrizal, El Fuenteño, El Leoncito, El Poleo, El Potrero, El Zamorano, Los Trigos, Nuevo Álamos, Peña Blanca, Peña Colorada, Pueblo Nuevo, Puerto del Coyote, Salitrera (Presa de la Soledad), Santa Rosa de Lima, Tierra Adentro y Urecho;
+IV. Colón: Ejido Patria, El Álamo Cuate, El Arte, El Carrizal, El Fuenteño, El Leoncito, El Mezote, El Poleo, El Potrero, El Saucillo, El Zamorano, La Carbonera, La Joya, La Zorra, Los Trigos, Nuevo Álamos, Peña Blanca, Peña Colorada, Pueblo Nuevo, Puerta de Enmedio, Puerto del Coyote, Salitrera (Presa de la Soledad), Santa Rosa de Lima, Tierra Adentro y Urecho;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
 V. Ezequiel Montes: Barreras, El Bondotal, El Cardonal, El Ciervo, El Coyote, El Gallito, El Jagüey Grande, Guanajuatito, La Higuera, La Nueva Unidad, La Purísima, Las Rosas, Loberas, Los Pérez, Los Ramírez, Los Sánchez, Los Velázquez, Palo Seco, Punta de la Loma, San Antonio, San José del Jagüey, San José de los Trejo, Sombrerete y Villa Progreso (Barrios Santa María, San José y San Miguel);
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VI. Huimilpan: Carranza, El Garruñal, La Haciendita, Los Bordos, Los Cues, Puerta del Tepozán, El Vegil y Zorrillo;
+VI. Huimilpan: Apapátaro, Carranza, El Garruñal, La Haciendita, Los Bordos, Los Cues, Puerta del Tepozán, El Vegil, San José Tepuzas, Santa Teresa y Zorrillo;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VII. Jalpan de Serra: Carrizal de los Durán, Carrizalito, El Cañón, El Pocito, El Rincón, Espadañuela, Guayabos de Saucillo, La Cercada, La Esperanza, Laguna de Pitzquintla, Las Flores, Las Nuevas Flores, Los Jasso, Mesa de Pino, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, Salvideña, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol, Tierra Fría, Valle Verde y Zoyapilca;
+VII. Jalpan de Serra: Agua Fría, Carrizal de los Durán, Carrizalito, El Cañón, El Pocito, El Rincón, Espadañuela, Guayabos de Saucillo, La Arena, La Cercada, La Esperanza, Laguna de Pitzquintla, Las Flores, Las Nuevas Flores, Los Jasso, Mesa de Pino, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, Salvideña, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol, Tierra Fría, Valle Verde y Zoyapilca;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VIII. Landa de Matamoros: Neblinas, Rincón de Piedra Blanca y Tres Lagunas del Valle;
+VIII. Landa de Matamoros: El Sabinito, Lagunita de San Diego, Mesa del Corozo, Neblinas, Rincón de Piedra Blanca y Tres Lagunas del Valle;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
@@ -111,9 +111,9 @@ XII. Querétaro: Extensión las Margaritas, Las Margaritas, San José el Alto, S
 
 XIII. San Joaquín: El Deconí, El Plátano, Llanos de Santa Clara, Puerto de la Garita, San Francisco Gatos y Santa Mónica las Tinajas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-XIV. Tequisquiapan: La Fuente, San José la Laja, San Nicolás;
+XIV. Tequisquiapan: El Tejocote, La Fuente, San José la Laja y San Nicolás; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
 
@@ -644,5 +644,13 @@ P.O. 30 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, LEY DE SALUD DEL ESTADO DE QUERÉTARO Y LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 3 DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
