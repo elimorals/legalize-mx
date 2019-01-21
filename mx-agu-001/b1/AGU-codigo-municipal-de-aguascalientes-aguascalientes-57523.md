@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-12-24"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2417,6 +2417,8 @@ APARTADO OCTAVO
 
 De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 107.
 
 Son facultades y obligaciones del Secretario del H. Ayuntamiento y Director General de Gobierno las siguientes:
@@ -2425,9 +2427,7 @@ I. Fungir como Secretario del H. Ayuntamiento.
 
 II. Vigilar el adecuado funcionamiento del archivo general del H. Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipiocon (sic) especial atención y cuidado hacia las mujeres;
+III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipio con (sic) especial atención y cuidado hacia las mujeres;
 
 IV. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento.
 
@@ -2435,55 +2435,31 @@ V. Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servi
 
 VI. Llevar el control y distribución de la correspondencia oficial y dar cuenta diaria al Presidente Municipal, de todos los asuntos que deban acordarse para su inmediato trámite.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
 VII. Expedir las constancias de residencia y vecindad que soliciten los habitantes del Municipio a través de la Coordinación de Calidad en la Gestión, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento.
 
 VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayuntamiento o de cualquiera de sus miembros; sin este requisito los acuerdos tomados no serán válidos.
 
-IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos, de la administración pública municipal.
 
 X. Regir las políticas jurídicas del Municipio por si o a través de la Dirección de Asuntos Jurídicos, sin que esto signifique en ningún caso que asuma la representación legal del Municipio, misma que corresponde al Síndico Procurador en términos de Ley.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XI. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las Dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XI. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las Dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por si o a través de la Dirección de Asuntos Jurídicos.
 
 XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por si o a través de la Dirección de Asuntos Jurídicos, llevando el registro de las mismas desagregado por sexo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
-
 XIII. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos de las dependencias de la Secretaría del H. Ayuntamiento y Dirección de Gobierno a efecto de evaluar su desempeño y articular las acciones necesarias para salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Coordinación de Calidad en la Gestión.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+XIV. Expedir las constancias de notorio arraigo que acrediten los extremos que señala el artículo 7 fracción II de la Ley de Asociaciones Religiosas y Culto Público, así como el artículo 8 fracción V del Reglamento de la Ley de Asociaciones Religiosas y Culto Público.
 
-XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
+XV. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública, llevando el registro de las denuncias motivadas por algún tipo de discriminación o negación de servicio en casos de violencia de género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2015)</small>
+XVI. Planear, ordenar y ejecutar todas las acciones que tengan relación con la verificación en la aplicación de la normatividad que en materia municipal establezcan las Leyes, el Código Municipal, Reglamentos y demás disposiciones legales aplicables.
 
-XV. Expedir las constancias de notorio arraigo que acrediten los extremos que señala el artículo 7 fracción II de la Ley de Asociaciones Religiosas y Culto Público, así como el artículo 8 fracción V del Reglamento de la Ley de Asociaciones Religiosas y Culto Público.
+XVII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XVIII. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública, llevando el registro de las denuncias motivadas por algún tipo de discriminación o negación de servicio en casos de violencia de género;
-
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2012)</small>
-
-XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la verificación en la aplicación de la normatividad que en materia municipal establezcan las Leyes, el Código Municipal, Reglamentos y demás disposiciones legales aplicables.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2018)</small>
-
-XVIII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MAYO DE 2018)</small>
-
-XIX. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 107
 
@@ -2493,7 +2469,9 @@ I. Suplir las ausencias temporales del Secretario del H. Ayuntamiento y Director
 
 II. Auxiliar al Secretario del H. Ayuntamiento y Director General de Gobierno en la firma, legalización y certificación de los documentos y el despacho de los asuntos que, por competencia, le correspondan suscribir y atender al Secretario, y por acuerdo del mismo.
 
-III. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
+III. Asesorar, Coordinar y establecer las directrices jurídicas a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+IV. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
 
 ###### ARTÍCULO 107
 
@@ -24355,6 +24333,12 @@ P.O. 29 DE OCTUBRE DE 2018.
 
 P.O. 24 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; REFORMA A LOS ARTÍCULOS 39, 46, 52, 54 Y FRACCIÓN IV DEL ARTÍCULO 57 DEL REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; REFORMA A LOS ARTÍCULOS 39, 46, 52, 54 Y FRACCIÓN IV DEL ARTÍCULO 57 DEL REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA DE AGUASCALIENTES”.]
 
 ÚNICO.- Las presentes reformas, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ENERO DE 2019.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “REFORMA A LOS ARTÍCULOS 107 Y 107 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
