@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-de-cultura-fisica-y-deporte-del-103450"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-27"
-last_updated: "2018-04-02"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 octubre de 2014.
 
@@ -43,15 +43,15 @@ Con fundamento en los Artículos 115 de la Constitución Política de los Estado
 
 EXPOSICÍÓN DE MOTIVOS:
 
-[…]
+[...]
 
 ANTECEDENTES:
 
-[…]
+[...]
 
 CONSIDERANDOS:
 
-[…]
+[...]
 
 De acuerdo a la exposición de motivos y antecedentes, esta Comisión Permanente de Educación, Juventud y Deporte considera que es necesario llevar a cabo la reforma a la fracción X del artículo 15 del Código Municipal de Aguascalientes, quedando de la siguiente manera:
 
@@ -59,11 +59,11 @@ De acuerdo a la exposición de motivos y antecedentes, esta Comisión Permanente
 
 Los organismos auxiliares ejercerán las atribuciones que les confieran las autoridades municipales, sus integrantes tendrán cargos honorarios y serán los siguientes:
 
-…
+...
 
 X. Consejo de Cultura Física y Deporte del Municipio de Aguascalientes.
 
-….
+...
 
 TRANSITORIOS:
 
@@ -116,6 +116,18 @@ X. Secretario: Titular de la Dirección de Educación, Cultura Física y Deporte
 XI. Segundo Vocal: Titular de la Secretaria de Finanzas Publicas del Municipio de Aguascalientes; y
 
 XII. Vicepresidente: Titular de la Secretaría de Desarrollo Social del Municipio de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XIII. Oriundo: Persona originaria del estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XIV. Residente: La persona que acredite su domicilio actual dentro de los límites del Municipio en términos de lo que establece la normativa municipal;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XV. Mérito deportivo: Cualidad destacable en el logro individual y la promoción, fomento, difusión y apoyo a la cultura física y el deporte en el Municipio.
 
 ### CAPÍTULO II. De la integración del Consejo
 
@@ -421,7 +433,9 @@ II.- En el caso de los ciudadanos y agrupaciones, se tomarán en cuenta su respo
 
 III.- Para cualquiera de los casos, deberán de ser originarios del Municipio de Aguascalientes o bien, comprobar una residencia mínima de tres años en el mismo;
 
-IV.- Como deportista o entrenador, estar inscrito en el Registro Municipal o Estatal del Deporte, acreditando dicha inscripción o en su defecto mediante un escrito de la Agrupación Deportiva de la Disciplina correspondiente; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+IV.- Como deportista o entrenador que se acredite de acuerdo a lo que establece el artículo 4 fracción I del Reglamento.
 
 V.- Presentar el aval de su Agrupación.
 
@@ -448,6 +462,10 @@ V) Personas con Discapacidad;
 VI) Entrenador; y
 
 VII) Especial.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VIII) Promotor y/o instructor de Academias Deportivas municipales.
 
 ###### ARTÍCULO 32.
 
@@ -542,3 +560,11 @@ P.O. 2 DE ABRIL DE 2018.
 PRIMERO.- Las presentes reformas, iniciarán su vigencia el 1º de enero de 2019.
 
 SEGUNDO.- Se abroga el Reglamento del Premio Municipal al Mérito Deportivo del Municipio de Aguascalientes, Aguascalientes, publicado en el Periódico Oficial del Estado el 4 de febrero de 2008.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE
+
+DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
