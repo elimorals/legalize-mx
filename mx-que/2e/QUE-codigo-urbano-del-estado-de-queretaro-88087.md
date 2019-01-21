@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2018-12-19"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -1697,11 +1697,17 @@ Para los efectos de este Código, se entiende por infraestructura urbana las red
 
 Las obras de urbanización deberán contener áreas para el adecuado desplazamiento de peatones, en los que, en tratándose de vialidades primarias, se contemplen banquetas que tengan por lo menos 1.80 metros de ancho libres de cualquier obstáculo; en las demás vialidades, las banquetas deberán tener por lo menos 1.20 metros de ancho libres de cualquier obstáculo; también deberán contemplar rampas para personas con discapacidad e infraestructura ciclista.
 
-Por equipamiento urbano se entiende los edificios y espacios públicos, a través de los cuales se brindan diversos servicios tales como educación, salud, cultura, recreación, deporte, abasto, transporte, administración pública, seguridad, comercio y servicios públicos en general.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
+
+Por equipamiento urbano se entiende los edificios y espacios públicos, a través de los cuales se brindan diversos servicios, tales como educación, salud, cultura, recreación, deporte, abasto, transporte, administración pública, seguridad, comercio, electrolineras para carga de vehículos eléctricos y servicios públicos en general.
 
 Por servicios urbanos se entiende, entre otras, las actividades públicas operativas, tales como transporte, recolección de basura, policía y bomberos.
 
 Por mobiliario urbano se entiende el conjunto de objetos y piezas instalados en los edificios y espacios públicos que conforman el equipamiento urbano y la vía pública, entre los que se encuentran las mesas, bancas, cestos de basura, juegos infantiles, cabinas telefónicas y paradas de autobús.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2019)</small>
+
+Por electrolineras se entiende a las estaciones de carga para autos eléctricos, y para vehículos híbridos recargables. Pueden instalarse en espacios públicos y se alimentan de red eléctrica.
 
 ###### Artículo 153.
 
@@ -5992,3 +5998,11 @@ c) El testimonio en el que conste la adquisición de negociaciones en operación
 d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes, y
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 152 DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO, EN MATERIA DE ELECTROLINERAS”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
