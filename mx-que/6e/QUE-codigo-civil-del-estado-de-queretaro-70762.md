@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2018-12-19"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -879,9 +879,15 @@ El Oficial del Registro Civil que, sin motivo justificado, retarde la celebraci�
 
 ### Capítulo Sexto. De las actas de divorcio
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
+
 ###### Artículo 112.
 
-Dictada la sentencia de divorcio, el juez remitirá copia certificada de ésta y del auto en que cause ejecutoria al Director del Registro Civil, quien ordenará al Oficial correspondiente, que levante el acta respectiva.
+Dictada la sentencia de divorcio, el juez a instancia de parte, remitirá copia certificada de ésta y del auto en que cause ejecutoria a la Dirección del Registro Civil, quien ordenará al Oficial correspondiente, que levante el acta respectiva.
+
+No obstante lo anterior, el juez de forma oficiosa remitirá a la brevedad, oficio donde se incluya por lo menos un extracto de los resolutivos de la sentencia, la fecha de su dictado y la fecha en que causó ejecutoria la misma, a la Dirección Estatal del Registro Civil, a efecto de que se realicen las anotaciones marginales correspondientes, al acta de matrimonio respectiva.
+
+Cuando el juez reciba exhorto donde se informe de la tramitación de divorcio fuera de esta Entidad Federativa, el oficio a que se refiere el párrafo anterior deberá generarse y remitirse para los mismos efectos señalados, a la Dirección Estatal del Registro Civil.
 
 ###### Artículo 113.
 
@@ -1919,11 +1925,13 @@ Se presume que el cónyuge que solicite la compensación, contribuyó a la forma
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, conservando el cónyuge supérstite y los herederos del fallecido, los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
 ###### Artículo 272.
 
-Ejecutoriada la sentencia de divorcio voluntario o dictada la resolución que decreta el divorcio según lo dispuesto por el artículo 247 del presente Código, el juez competente remitirá copia de ella a la oficina del Registro Civil donde se celebró el matrimonio, para que levante, en su caso, el acta correspondiente y además para que publique un extracto de la resolución, durante quince días, en los lugares destinados al efecto.
+Ejecutoriada la sentencia de divorcio voluntario o dictada la resolución que decreta el divorcio según lo dispuesto por el artículo 247 del presente Código, el juez competente, a instancia de parte, remitirá copia certificada de ella a la Dirección Estatal del Registro Civil, quien ordenará al Oficial correspondiente, que levante el acta respectiva y publique un extracto de la resolución, durante quince días, en los lugares destinados al efecto.
+
+No obstante lo anterior, el juez de forma oficiosa remitirá a la brevedad, oficio donde se incluya por lo menos un extracto de los resolutivos de la sentencia, la fecha de su dictado y la fecha en que causó ejecutoria la misma, a la Dirección Estatal del Registro Civil, a efecto de que se realicen las anotaciones marginales correspondientes, al acta de matrimonio respectiva.
 
 Capítulo Decimoprimero
 
@@ -16232,3 +16240,11 @@ c) El testimonio en el que conste la adquisición de negociaciones en operación
 d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes, y
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 112 Y 272 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
