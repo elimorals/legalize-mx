@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-65075
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2015-11-27"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -59,7 +59,9 @@ III. Atención integral: Satisfacción de las necesidades físicas, materiales, 
 
 IV. Consejo: Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro;
 
-V. Género: Conjunto de roles, atribuciones y representaciones de hombres y mujeres en nuestra cultura, que toman como base la diferencia sexual;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+V. Género: Construcción simbólica de la diferencia sexual acompañada de los conceptos sociales de las funciones, comportamientos, actividades y atributos que cada sociedad considera apropiados para mujeres y hombres;
 
 VI. Geriatría: Especialidad médica dedicada al estudio de los aspectos fisiológicos y las enfermedades propias de la vejez;
 
@@ -649,7 +651,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE NOVIEMBRE DE 2015.
 
@@ -660,3 +662,11 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. El titular del Poder Ejecutivo del Estado, deberá de emitir el reglamento del Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro, en el que se incluya sus lineamientos de operación y organización, en un plazo de 90 días naturales siguientes a la publicación de la presente Ley.
 
 Artículo Cuarto. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
