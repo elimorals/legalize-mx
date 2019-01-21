@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2018-06-25"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE ENERO DE 2019.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -135,35 +135,35 @@ No obstante, si el matrimonio no se celebra, tienen derecho los prometidos y los
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 2019)</small>
+
 ###### Artículo 15.
 
-Para contraer matrimonio se requiere haber cumplido dieciocho años. El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de quienes ejerzan la patria potestad o la tutela.
+Para contraer matrimonio se requiere haber cumplido dieciocho años.
 
 ###### Artículo 16.
 
-Los jueces de Primera Instancia pueden conceder dispensas de edad por causas graves y justificadas, sin perjuicio de la autorización que deben otorgar quienes ejercen la patria potestad o la tutela.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 17.
 
-Cuando el menor carezca de representación, o cuando los que ejercen la patria potestad o la tutela nieguen su consentimiento o revoquen el que hubieren concedido, el Juez del domicilio del menor podrá suplir el consentimiento después de oír a los interesados.
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 18.
 
-Si el Juez, en el caso del artículo anterior, se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados podrán ocurrir al Tribunal de Alzada, en los términos que disponga la legislación procesal correspondiente.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 19.
 
-El ascendiente o tutor que haya prestado su consentimiento, firmando y ratificando la solicitud respectiva ante el Oficial del Registro Civil, no puede revocarlo después a menos que haya justa causa para ello.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 20.
 
-Si el ascendiente o tutor hubiese firmado o ratificado la solicitud de matrimonio y falleciere antes de que el acto se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, siempre que el matrimonio se verifique dentro de los tres meses de otorgado el consentimiento.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 21.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ### CAPITULO III. DE LOS IMPEDIMENTOS PARA EL MATRIMONIO
 
@@ -171,11 +171,11 @@ El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá rev
 
 Son impedimentos para celebrar el contrato de matrimonio y pueden ser denunciados al Oficial del Registro Civil por cualquier persona:
 
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 2019)</small>
 
-I.- La edad menor a dieciséis años en la mujer y en el varón, cuando no haya sido dispensada por el Juez de Primera Instancia;
+I.- La edad menor a dieciocho años en la mujer y en el varón.
 
-II.- La falta de consentimiento de quien o quienes ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
+II.- (DEROGADA, B.O. 21 DE ENERO DE 2019)
 
 III.- El parentesco por consanguinidad legítima o natural, sin limitación de grado en línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos;
 
@@ -205,9 +205,7 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en la primera pa
 
 XI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre.
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
-
-De estos impedimentos, sólo es dispensable la minoridad de 16 años en la mujer y en el varón.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 21 DE ENERO DE 2019)</small>
 
 ###### Artículo 23.
 
@@ -2325,7 +2323,7 @@ Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por
 
 El derecho de administración y usufructo concedido a quienes ejercen la patria potestad, se extingue, debiendo entregar bienes y cuentas:
 
-I.- Por la emancipación derivada del matrimonio;
+I.- (DEROGADA, B.O. 21 DE ENERO DE 2019)
 
 II.- Por la mayor edad de los descendientes;
 
@@ -2341,7 +2339,7 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación del hijo derivada del matrimonio;
+II.- (DEROGADA, B.O. 21 DE ENERO DE 2019)
 
 III.- Por haber alcanzado el hijo la mayoría de edad, y
 
@@ -3159,7 +3157,7 @@ Los menores de edad no pueden alegar la nulidad a que se refiere el artículo 45
 
 ###### Artículo 454.
 
-El matrimonio de un menor de dieciocho años produce automáticamente su emancipación y aunque el matrimonio se disuelva, el cónyuge emancipado no quedará sometido a la patria potestad.
+(DEROGADO, B.O. 21 DE ENERO DE 2019)
 
 ###### Artículo 455.
 
@@ -3763,7 +3761,7 @@ Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el mun
 
 ###### Artículo 541.
 
-Cada familia sólo puede constituir un patrimonio. Los que se constituyan despúes del primero, no producirán efecto legal alguno.
+Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producirán efecto legal alguno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -4058,3 +4056,11 @@ B.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 4, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
