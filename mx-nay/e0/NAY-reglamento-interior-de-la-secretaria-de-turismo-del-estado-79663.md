@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-turismo-del-estado-7966
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-05"
-last_updated: "2011-02-05"
+last_updated: "2019-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 5 de febrero de 2011.
 
@@ -618,3 +618,19 @@ En tanto se designa al titular de la Contraloría Interna, la Secretaría de la 
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los diecisiete días del mes de Enero de 2011.
 
 "SUFRAGIO EFECTIVO NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. ANGELICA PATRICIA SÁNCHEZ MEDINA, SECRETARIA GENERAL DE GOBIERNO.- Rúbrica.- ARQ. EDWIN HERNÁNDEZ QUINTERO, SECRETARIO DE TURISMO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Turismo Publicado el 5 de febrero de 2011 en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+TERCERO. En tanto se expiden el Manual de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la Secretaría de Turismo, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
+
+CUARTO. En tanto son realizadas las previsiones presupuestales y administrativas necesarias para integrar al Órgano Interno de Control de la Secretaría de Turismo, se atenderán las indicaciones y lineamientos que, con respecto al tema, tenga a bien emitir la Secretaría de la Contraloría General.
+
+QUINTO. Los asuntos que se encuentren en trámite al entrar en vigor este Reglamento Interior, que estén a cargo de las Unidades Administrativas que se suprimen, modifican su denominación o cambian su adscripción dentro de la propia Secretaría, serán continuados en su tramitación y resolución por la Unidad Administrativa a quien corresponda tal atribución en los términos de este Reglamento.
