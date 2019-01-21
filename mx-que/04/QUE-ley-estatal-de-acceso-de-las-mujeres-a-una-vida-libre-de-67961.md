@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2015-09-25"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -83,65 +83,73 @@ I. Acciones afirmativas: Las medidas específicas de carácter temporal, encamin
 
 II. Agresor: Persona que inflige la violencia contra la mujer;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-III. Alerta de género: El conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado;
+III. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Daño: Es la afectación o menoscabo que sufre una persona en su integridad física, psicoemocional, sexual, patrimonial o de cualquier naturaleza, como consecuencia de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
 
-V. Empoderamiento de las mujeres: Proceso mediante el cual las mujeres adquieren herramientas para la toma de decisiones, autodeterminación y autonomía, el cual se manifiesta en el ejercicio y el pleno goce de sus derechos y libertades;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
-
-VI. Estado de riesgo: Es la situación transitoria que implica la probabilidad de sufrir una agresión social, sexual, delictiva, o de cualquier tipo, en forma individual o colectiva, que genera miedo, intimidación, incertidumbre o ansiedad ante la posibilidad de tal agresión;
+V. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Interés superior de la víctima: Pauta de decisión ante un conflicto de intereses y criterio para la intervención institucional destinada a proteger los derechos y la integridad de las víctimas por medio de su priorización, atendiendo a la relación de desigualdad en que se encuentran frente al agresor;
+VI. Empoderamiento de las mujeres: Proceso mediante el cual las mujeres adquieren herramientas para la toma de decisiones, autodeterminación y autonomía, el cual se manifiesta en el ejercicio y el pleno goce de sus derechos y libertades;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Ley: La Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
+VII. Estado de riesgo: Es la situación transitoria que implica la probabilidad de sufrir una agresión social, sexual, delictiva, o de cualquier tipo, en forma individual o colectiva, que genera miedo, intimidación, incertidumbre o ansiedad ante la posibilidad de tal agresión;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VIII. Estereotipos o roles de género: Aquellos comportamientos o actividades que, históricamente y culturalmente, se consideran propios para hombres y mujeres por el hecho de pertenecer a un género;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+IX. Interés superior de la víctima: Pauta de decisión ante un conflicto de intereses y criterio para la intervención institucional destinada a proteger los derechos y la integridad de las víctimas por medio de su priorización, atendiendo a la relación de desigualdad en que se encuentran frente al agresor;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-X. Modalidades de violencia: Los ámbitos de ocurrencia en los cuales acontece la violencia contra las mujeres, ya sea conforme al espacio físico o situación estructural en el cual se presente, tales como la violencia familiar, laboral, en la comunidad, cometida por servidores públicos, feminicida, hostigamiento y acoso sexual, docente, en el noviazgo u obstétrica;
+X. Ley: La Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XII. Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres, ya sea conforme al espacio físico o situación estructural en el cual se presente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XIII. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XIV. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Sexualidad: son las manifestaciones comportamentales y actitudinales de los seres humanos asociados a los procesos biológicos, psicológicos, sociales y culturales del sexo y de género;
+XV. Sexualidad: Son las manifestaciones comportamentales y actitudinales de los seres humanos asociados a los procesos biológicos, psicológicos, sociales y culturales del sexo y de género;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVI. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XVII. Tipos de violencia: Son las formas en que se inflige la violencia contra las mujeres, tales como psicológica, física, patrimonial, económica, sexual, simbólica o mediática;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XV. Tipos de violencia: Son las formas en que se inflige la violencia contra las mujeres, tales como psicológica, física, patrimonial, económica o sexual.
+XVIII. Víctima: La mujer que sufre cualquier tipo de violencia contra las mujeres; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-XVI. Víctima: La mujer que sufre cualquier tipo de violencia contra las mujeres; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
-
-XVII. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica o sexual.
+XIX. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica, sexual o la muerte.
 
 ###### Artículo 5.
 
@@ -163,11 +171,19 @@ III. Violencia patrimonial: Actos u omisiones que afectan el patrimonio de la v�
 
 IV. Violencia económica: Acciones u omisiones del victimario que afectan el equilibrio económico de la víctima; se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-V. Violencia Sexual: Actos de poder que degradan, controlan o dañan el cuerpo y/o la sexualidad de la víctima y atentan contra la libertad, autonomía, seguridad, dignidad e integridad física y psicológica de la mujer, al denigrarla y concebirla como objeto; y
+V. Violencia sexual: Actos de poder que degradan, controlan o dañan el cuerpo y/o la sexualidad de la víctima y atentan contra la libertad, autonomía, seguridad, dignidad e integridad física y psicológica de la mujer, al denigrarla y concebirla como objeto;
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VI. Violencia política: Acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VII. Violencia simbólica: Acto que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita, reproduzca o incite la dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -207,17 +223,19 @@ V. La autorización para la práctica de cualquier procedimiento médico o inter
 
 ### Capítulo Segundo. De la violencia laboral
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
 ###### Artículo 10.
 
-Se entiende por violencia laboral, todo acto u omisión ejercidos por la persona o personas que tienen un vínculo laboral o análogo con la mujer, mediante los cuales pretende impedir u obstaculizar sus derechos, dañar la o las diferentes dimensiones de la autoestima, salud, integridad, libertad y seguridad de la víctima, limitar o impedir su desarrollo y atentar contra la igualdad.
+Se entiende por violencia laboral, todo acto u omisión ejercidos por la persona o personas que tienen un vínculo laboral o análogo con la mujer, independientemente de la relación jerárquica que exista entre éstos, consistente en un acto o una omisión en abuso de poder o psicológico, mediante los cuales pretende impedir u obstaculizar sus derechos, dañar la o las diferentes dimensiones de la autoestima, salud, integridad, libertad; atentar contra su sexualidad o seguridad de la víctima, limitar o impedir su desarrollo y atentar contra la igualdad.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2019)</small>
 
 ###### Artículo 11.
 
-Constituye violencia laboral, la negativa injustificada a contratar a la víctima, incluyendo por embarazo, no respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, incluyendo por embarazo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, y todo tipo de discriminación por condición de género.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 Consecuentemente no se impedirá el periodo de lactancia en cuanto a tiempo y espacio, ni se solicitará información sobre el estado civil y/o embarazo de ninguna mujer.
 
@@ -245,13 +263,15 @@ III. El establecimiento de un registro de órdenes de protección a favor de las
 
 IV. La delimitación georreferenciada de zonas que sufren violencia comunitaria, que permitan elaborar diagnósticos, análisis estadísticos, y el plan de acción para su acotamiento y adopción de medidas para la disminución de la misma.
 
-### Capítulo Cuarto. De la violencia cometida por servidores públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+### Capítulo Cuarto. De la violencia institucional
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
 ###### Artículo 14.
 
-La violencia cometida por servidores públicos, es la relativa a los actos u omisiones que realicen en ejercicio de sus funciones, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Es Violencia institucional los actos u omisiones de los servidores públicos de cualquier orden de gobierno, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -315,9 +335,11 @@ Los Poderes del Estado y los municipios, en su respectivo ámbito de competencia
 
 ### Capítulo Sexto. Del hostigamiento y acoso sexual
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2019)</small>
+
 ###### Artículo 19.
 
-El hostigamiento sexual es el ejercicio abusivo del poder, en una relación de subordinación real de la víctima frente al agresor. Se expresa en conductas verbales, físicas y visuales, relacionadas con la sexualidad de la víctima de connotación lasciva e independientemente de que se realice en uno o varios eventos.
+El hostigamiento sexual es el ejercicio abusivo del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar. Se expresa en conductas verbales, físicas y visuales relacionadas con la sexualidad de la víctima, de connotación lasciva e independientemente de que se realice en uno o varios eventos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -331,11 +353,11 @@ El acoso sexual es una forma de violencia en la que, sin existir una relación d
 
 ### Capítulo Séptimo. De las modalidades análogas de violencia contra las mujeres
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
-###### Artículo 20. Bis.
+###### Artículo 20.
 
-Constituyen violencia docente: aquellas conductas que dañan las diferentes dimensiones de la autoestima de las alumnas mediante la discriminación por razones de sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen docentes, personal directivo o personal administrativo de la institución académica a la cual asistan, pudiendo ejecutarse dentro o fuera del recinto escolar.
+bis. Constituyen violencia docente, aquellas conductas que dañan las diferentes dimensiones de la autoestima de las alumnas mediante actos de discriminación por razones de sexo, edad, condición social, académica, origen étnico, limitaciones o características físicas, que les infligen docentes, personal directivo o personal administrativo de la institución académica a la cual asistan, pudiendo ejecutarse dentro o fuera del recinto escolar.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -373,6 +395,12 @@ X. No propiciar el apego precoz del niño o niña con la madre, negándole la po
 
 Al efecto, la Secretaría de Salud del Estado deberá emitir el protocolo conducente para la acreditación e investigación de estas conductas ejecutadas por personas o instituciones sanitarias de carácter público o de índole privado, debiendo para el caso de que las conductas u omisiones sean realizadas por quienes pertenezcan al servicio público, incluir los mecanismos para dar vista al órgano interno de control.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2019)</small>
+
+###### Artículo 20.
+
+quinquies. Se considera violencia mediática a las conductas que a través de cualquier medio de comunicación impreso, electrónico o publicidad local, promueva la explotación de mujeres, adolescentes y niñas o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra su dignidad y fomenten la desigualdad entre hombres y mujeres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia, estas acciones serán vigiladas y sancionadas por las autoridades competentes.
+
 ## Título Tercero. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 ### Capítulo Primero. Del Sistema Estatal y su integración
@@ -399,7 +427,9 @@ V. El Titular de la Secretaría de Salud del Estado;
 
 VI. El Titular de la Secretaría de Seguridad Ciudadana del Estado;
 
-VII. El Titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VII. El Titular de la Fiscalía General del Estado de Querétaro;
 
 VIII. El Titular de la Secretaría del Trabajo del Estado;
 
@@ -479,9 +509,9 @@ VI. Diseñar e implementar un modelo integral de atención para las mujeres víc
 
 VII. Fomentar y apoyar programas de educación pública y privada destinados a concienciar a los jóvenes y sociedad en general, sobre las causas y consecuencias de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VIII. Capacitar en materia de igualdad de género y derechos humanos de las mujeres, al personal encargado de las políticas de prevención, atención, sanción y erradicación de la violencia en contra de las mujeres, así como de procuración y administración de justicia;
+VIII. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
 IX. Educar y capacitar en materia de los principios y derechos establecidos por esta Ley, al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
 
@@ -617,33 +647,37 @@ IV. Promover el estudio e investigación de las causas y efectos sociales de la 
 
 V. Impulsar la participación de las organizaciones no gubernamentales, civiles y sociales dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
-VI. Turnar a quien corresponda o atender directamente los casos de violencia contra la mujer; que sean de su conocimiento;
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VII. Brindar atención psicológica y asesoría legal a las mujeres en riesgo o receptoras de violencia;
+VI. Promover el empoderamiento de las mujeres e impulsar el respeto a sus derechos políticos electorales;
 
-VIII. Celebrar convenios de colaboración con dependencias, a efecto de capacitar y sensibilizar al personal de las mismas en la atención y prevención de la violencia contra la mujer;
+VII. Turnar a quien corresponda o atender directamente los casos de violencia contra la mujer; que sean de su conocimiento;
 
-IX. Acceder a la información contenida dentro del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+VIII. Brindar atención psicológica y asesoría legal a las mujeres en riesgo o receptoras de violencia;
+
+IX. Celebrar convenios de colaboración con dependencias, a efecto de capacitar y sensibilizar al personal de las mismas en la atención y prevención de la violencia contra la mujer;
+
+X. Acceder a la información contenida dentro del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-X. Participar en las comisiones que el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres establezca en los rubros de su competencia;
+XI. Participar en las comisiones que el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres establezca en los rubros de su competencia;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Emitir las valoraciones diagnósticas que le sean solicitadas para acreditar la existencia de violencia familiar;
+XII. Emitir las valoraciones diagnósticas que le sean solicitadas para acreditar la existencia de violencia familiar;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Establecer un registro de profesionales en psicología, que puedan elaborar valoraciones psicológicas en materia de violencia de género;
+XIII. Establecer un registro de profesionales en psicología, que puedan elaborar valoraciones psicológicas en materia de violencia de género;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Proporcionar representación legal a mujeres que manifiesten ser receptoras de violencia familiar, que se encuentren en situación de riesgo, vulnerabilidad económica y no cuenten con la posibilidad de pagar por estos servicios jurídicos a profesionales del derecho del ejercicio privado, debiendo auxiliarles en la tramitación de medidas de protección; y
+XIV. Proporcionar representación legal a mujeres que manifiesten ser receptoras de violencia familiar, que se encuentren en situación de riesgo, vulnerabilidad económica y no cuenten con la posibilidad de pagar por estos servicios jurídicos a profesionales del derecho del ejercicio privado, debiendo auxiliarles en la tramitación de medidas de protección; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Las demás facultades y obligaciones que establece la presente Ley.
+XV. Las demás facultades y obligaciones que establece la presente Ley.
 
 ###### Artículo 38.
 
@@ -803,9 +837,11 @@ XI. Auxiliar en el seguimiento de las medidas cautelares o de protección otorga
 
 XII. Las demás facultades y obligaciones que le confieren la presente Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2019)</small>
+
 ###### Artículo 42.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado de Querétaro:
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -843,7 +879,9 @@ X. Las demás facultades y obligaciones que le confieren la presente Ley y demá
 
 Corresponde a la Secretaría del Trabajo del Estado para el cumplimiento de esta Ley:
 
-I. Establecer programas y acciones que impidan las prácticas discriminatorias en el ámbito laboral en contra de las mujeres;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+I. Establecer programas y acciones que propicien la igualdad de oportunidades e impidan las prácticas discriminatorias en materia de trabajo y previsión social;
 
 II. Establecer programas y acciones que fomenten la igualdad de salarios para hombres y mujeres, cuando realizan el mismo trabajo;
 
@@ -853,11 +891,13 @@ III. Eliminar tanto en el sector público, social y privado la imposición de ce
 
 IV. Establecer programas y acciones que fomenten la participación de las mujeres en todas las áreas laborales;
 
-V. Impulsar programas y acciones de gobierno para prevenir y erradicar el hostigamiento y acoso sexual de las mujeres en los centros de trabajo;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+V. Impulsar con una visión transversal programas y acciones de gobierno con perspectiva de género, orientados a la prevención, atención, sanción y erradicación de la violencia laboral, el hostigamiento y acoso sexual contra las mujeres en los centros de trabajo;
 
-VI. Asesorar jurídicamente a las mujeres que vivan hostigamiento u acoso sexual para el ejercicio de sus derechos independientemente de canalizar a las mujeres trabajadoras víctimas de violencia laboral, a las instituciones que prestan atención y protección a las víctimas;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+
+VI. Asesorar jurídicamente a las mujeres que vivan violencia laboral, hostigamiento y/o acoso sexual para el ejercicio de sus derechos independientemente de canalizar a las mujeres trabajadoras víctimas de violencia laboral, a las instituciones, que prestan atención y protección a las víctimas;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -871,13 +911,31 @@ VIII. Capacitar al personal de la Secretaría en materia de perspectiva de géne
 
 IX. Dar a conocer las disposiciones de la Ley Federal del Trabajo en materia de igualdad sustantiva y de obligaciones de los patrones en los casos de acoso y hostigamiento sexual a las pequeñas y medianas empresas del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-X. Establecer un comité conjunto con el Instituto Queretano de las Mujeres, para la elaboración de valoraciones e impresiones diagnósticas, que establezcan el impacto en las víctimas del acoso y hostigamiento sexual, para los efectos de los despidos y separaciones por causa justificada, previstos en la Ley Federal de la materia; y
+X. Establecer un comité conjunto con el Instituto Queretano de las Mujeres, para la elaboración de valoraciones e impresiones diagnósticas, que establezcan el impacto en las víctimas del acoso y hostigamiento sexual, para los efectos de los despidos y separaciones por causa justificada, previstos en la Ley Federal de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente Ley.
+XI. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XII. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XIII. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XIV. En su caso, participar en la celebración de convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
+
+XV. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa Estatal; y
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1264,3 +1322,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
 
 Artículo Tercero. Dentro de los siguientes 120 días naturales posteriores a la publicación de la presente Ley, el titular del Poder Ejecutivo del Estado expedirá la reglamentación correspondiente.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
