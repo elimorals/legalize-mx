@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-para-el-municipio-de-paras-18512
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-26"
-last_updated: "2018-08-10"
+last_updated: "2019-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE PARAS, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIOTERCERO DEL REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPIO DE PARÁS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2018 Y FE DE ERRATAS EN EL P.O. DE 21 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE PARÁS, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2019.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 26 de enero de 2000.
 
@@ -1022,3 +1026,7 @@ P.O. DE 10 DE AGOSTO DE 2018.
 PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado a fin de que se produzcan sus efectos legales correspondientes.
 
 SEGUNDO.- El Consejo Municipal de Protección Civil emitirá el Manual de Organización y Operación del Sistema Municipal de Protección Civil en un plazo de 90 -noventa- días a partir de la publicación del presente Reglamento.
+
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2019)</small>
+
+TERCERO:- Se abroga el Reglamento de Protección Civil de éste municipio en todas sus partes, publicado en el Periódico Oficial Tomo CXXXVII del 26 de Enero del al\ o 2000, Num. 11.
