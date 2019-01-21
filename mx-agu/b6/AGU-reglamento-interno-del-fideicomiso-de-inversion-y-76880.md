@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-del-fideicomiso-de-inversion-y-76880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-04"
-last_updated: "2010-10-04"
+last_updated: "2019-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,15 +20,19 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO DEL FIDEICOMISO DE INVERSION Y ADMINISTRACION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERNO DEL FIDEICOMISO DE INVERSION Y ADMINISTRACION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL FIDEICOMISO DE INVERSIÓN Y ADMINISTRACIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL FIDEICOMISO DE INVERSIÓN Y ADMINISTRACIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de octubre de 2010.
 
 C. ING. LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes y Presidente del Comité Técnico del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, con fundamento en lo dispuesto por la Cláusula Séptima del Contrato de Fideicomiso, así como (sic) artículo 41, fracción VIII de la Ley de Control de Entidades Paraestatales, y con el refrendo del Dr. Armando Jiménez San Vicente, Secretario de Desarrollo Económico y Secretario Técnico del FIADE y C.P. Pablo Giacinti Olavarrieta, Secretario de Finanzas y Tesorero del FIADE, de conformidad con la Ley Orgánica del Estado de Aguascalientes, se autoriza y ordena publicar el presente Reglamento Interno del Fideicomiso de Inversión y Administración para el Desarrollo Económico aprobado por acuerdo tomado en reunión del Comité Técnico del FIADE de fecha 28 de mayo de 2010
 
-C O N S I D E R A N D O S :.
+C O N S I D E R A N D O S :
+
+[...]
 
 XII. En ese orden de ideas, los ciudadanos Integrantes del Comité Técnico del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, en ejercicio de la facultad conferida por la Cláusula Novena, numeral 13 del Contrato de Fideicomiso y la Regla Décima Quinta, fracción XIII de las Reglas de Operación del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, así como el artículo 41 fracción XVIII de la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes, en la reunión celebrada el 28 de mayo de 2010 aprobaron el presente Reglamento e instruyeron al Presidente, Secretario Técnico y Tesorero del FIADE para que procedieran a su autorización y publicación.
 
@@ -456,7 +460,7 @@ V. Representar legalmente al Fideicomiso;
 
 VI. Realizar los actos urgentes necesarios para preservar el patrimonio del fideicomiso;
 
-VII. Otorgar, por instrucciones del Comité Técnico poder para pleitos y cobranzas a favor de la persona o personas que se precisen en dicha instrucción, a efecto de que las personas designadas se hagan cargo de la defensa del patrimonio del fideicomiso; y (sic)
+VII. Otorgar, por instrucciones del Comité Técnico poder para pleitos y cobranzas a favor de la persona o personas que se precisen en dicha instrucción, a efecto de que las personas designadas se hagan cargo de la defensa del patrimonio del fideicomiso; y
 
 VIII. Realizar los actos jurídicos que reciba del Presidente, Secretario Técnico y/o Tesorero del Comité Técnico del Fideicomiso, en términos del Contrato Constitutivo del Fideicomiso;
 
@@ -646,7 +650,7 @@ XI. Llevar a cabo registro de sus actividades con la finalidad de integrar el in
 
 XII. Asistir a las sesiones a las que sean citados en asuntos de su competencia;
 
-XIII. Acordar con su superior inmediato los asuntos que tenga asignados;y (sic)
+XIII. Acordar con su superior inmediato los asuntos que tenga asignados; y
 
 XIV. Coordinarse y prestar apoyo a los (sic) demás áreas y departamentos que integran el FIADE, para el mejor cumplimiento de su objeto y fines.
 
@@ -754,7 +758,7 @@ Podrán ser beneficiarios de los apoyos e incentivos otorgados por el FIADE, de 
 
 Para el otorgamiento de financiamientos, apoyos e incentivos por parte del FIADE, se valorará el cumplimiento de las siguientes características en los proyectos, de conformidad con la cláusula quinta y sexta de las Reglas de Operación del Fideicomiso, siendo:
 
-I. La proyección del impacto en la generación de empleos ;cuando (sic) se trate de conservación de empleos, la su (sic) aceptación estará sujeta a la aprobación del Comité Técnico;
+I. La proyección del impacto en la generación de empleos; cuando se trate de conservación de empleos, la su (sic) aceptación estará sujeta a la aprobación del Comité Técnico;
 
 II. La población objetivo o beneficiaria que se tendrá de aprobarse el proyecto;
 
@@ -1045,3 +1049,13 @@ Secretario de Desarrollo Económico del Gobierno del Estado Secretario Técnico 
 C.P. Pablo Giacinti Olavarrieta,
 
 Secretario de Finanzas de (sic) Gobierno del Estado Tesorero del FIADE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL FIDEICOMISO DE INVERSIÓN Y ADMINISTRACIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE AGUASCALIENTES”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo.- Se abroga el Reglamento Interior publicado el 04 de octubre de 2010 en el Periódico Oficial del Estado de Aguascalientes.
