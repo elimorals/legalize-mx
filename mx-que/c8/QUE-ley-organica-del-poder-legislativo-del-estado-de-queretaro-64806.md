@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2018-10-17"
+last_updated: "2019-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE OCTUBRE DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1987,9 +1985,9 @@ VI. Ciencia, Tecnología e innovación. Tiene a su cargo la atención de asuntos
 
 VII. Educación y Cultura. Tiene a su cargo la atención de asuntos en materia formativa, de enseñanza e infraestructura educativa, así como los relacionados con el fomento de las actividades culturales y artísticas en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-VIII. Derechos Humanos. Tiene a su cargo la atención de asuntos para el respeto, promoción y defensa de los derechos humanos;
+VIII. Igualdad de Género y Derechos Humanos. Tiene a su cargo la atención de asuntos en materia de promoción, respeto, protección y garantía de los Derechos Humanos, así como de los relacionados con la igualdad sustantiva entre hombres y mujeres, la perspectiva de género, la no discriminación y la erradicación de la violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3128,3 +3126,13 @@ Artículo Séptimo. A partir de la vigencia de la presente Ley, las dependencias
 Para tal efecto deberá considerarse en los procesos de entrega recepción tal situación y condiciones que requiera ser aclarada o manifiesta.
 
 Artículo Octavo. Los recursos humanos, materiales y financieros considerados para el ejercicio fiscal 2018 se seguirán ejerciendo según lo aprobado para tal efecto, la legislatura deberá considerar los ajustes necesarios para el correcto funcionamiento de sus órganos y dependencias en los ejercicios posteriores, de conformidad con las disposiciones legales aplicables.
+
+P.O. 21 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
