@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-12-30"
+last_updated: "2019-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA, COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -37,7 +39,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33 FRACCION IV Y 39, DE LA CONSTITUCION POLITICA LOCAL, Y
 
-...
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -1099,7 +1101,61 @@ Son sujetos de este derecho las personas físicas o morales que requieran servic
 
 Las personas físicas o morales a quienes se presten los servicios especiales que en esta sección se enumeran, pagarán los derechos correspondientes conforme a las siguientes tarifas:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+UMA
+
+I. Por recolección y traslado de residuos no peligrosos, previo dictamen de la autoridad competente:
+
+a) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+
+b) Quienes realicen actividades comerciales, industriales o de prestación de servicios que cuenten con licencia municipal de funcionamiento, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas medidas se estará a lo dispuesto por las siguientes:
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2019)</small>
+
+1) Traslado, por tonelada 5.59
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2019)</small>
+
+2) Recolección, por tonelada 4.00
+
+3) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+4) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+5) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2019)</small>
+
+II. Cuando se requiera el servicio de camiones de aseo en forma exclusiva, por cada metro cúbico 2.00
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2019)</small>
+
+III. Por los servicios de recepción de residuos no peligrosos, en estaciones de transferencia o rellenos sanitarios del Ayuntamiento, transportados por terceros en sus propios medios, por tonelada o fracción 2.48
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2019)</small>
+
+IV. Por realizar servicios especiales de limpieza, recolección de maleza, y/o residuos sólidos, así como el transporte de los mismos en lotes no edificados, o edificaciones ruidosas o inhabitables, en rebeldía de los obligados a mantenerlos limpios, por metro cuadrado, cada vez 0.08
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2019)</small>
+
+a) Tratándose de escombros, material de construcción o pétreos, por metro cuadrado, cada vez 2.00
+
+V. Por depositar residuos en el relleno sanitario:
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2019)</small>
+
+a) Por tonelada 2.48
+
+b) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+c) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+d) (DEROGADO, P.O. 22 DE ENERO DE 2019)
+
+VI. (DEROGADA, P.O. 22 DE ENERO DE 2019)
 
 ###### ARTICULO 97.
 
@@ -1666,3 +1722,9 @@ P.O. 30 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 430 POR EL QUE SE ADICIONA (SIC) TRES PÁRRAFOS AL INCISO A) DEL ARTÍCULO 81 DE LA LEY DE HACIENDA DEL MUNICIPIO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 34 POR EL QUE SE REFORMAN LOS NUMERALES 1 Y 2 DEL INCISO B) DE LA FRACCIÓN I, LAS FRACCIONES II, III Y IV E INCISO A) DE LA FRACCIÓN V; SE ADICIONA EL INCISO A) A LA FRACCIÓN IV; Y SE DEROGAN EL INCISO A) DE LA FRACCIÓN I, LOS NUMERALES 3, 4 Y 5 DEL INCISO B) DE LA FRACCIÓN I, INCISOS B), C) Y D) DE LA FRACCIÓN V Y LA FRACCIÓN VI; TODOS DEL ARTÍCULO 96 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
