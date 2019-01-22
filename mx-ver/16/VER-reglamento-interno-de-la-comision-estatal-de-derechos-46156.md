@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-de-la-comision-estatal-de-derechos-46156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-26"
-last_updated: "2017-07-03"
+last_updated: "2019-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 22 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ENERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 26 de agosto de 2005.
 
@@ -317,7 +319,7 @@ Durante las ausencias del presidente de la Comisión Estatal que no excedan de t
 
 ### Capítulo III. Del Consejo Consultivo
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -2097,14 +2099,28 @@ Lic. Julio César Sosa Miros
 
 Rúbrica
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 30 DE SEPTIEMBRE DE 2011.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
 
 G.O. 3 DE JULIO DE 2017.
 
 > <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
 
 Segundo. Se ordena se publiquen las reformas y adiciones en la Gaceta Oficial del Estado, que entrarán en vigor al día siguiente de su publicación.
+
+G.O. 22 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+Artículo Primero. El presente Reglamento Interno, deberá ser publicado en la Gaceta Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+Artículo Segundo. Se abroga el Reglamento Interno de la Comisión Estatal de Derechos Humanos de Veracruz, publicado en la Gaceta Oficial del Estado, el 26 de agosto de 2005 en el número extraordinario 159, Tomo CLXXIII, o cualquier otro aprobado con anterioridad al presente Reglamento, así como sus reformas y adiciones.
+
+Artículo Tercero. Los trámites iniciados a la fecha de entrada en vigor del presente Reglamento se sustanciarán de conformidad con lo que establece este Reglamento Interno.
+
+Artículo Cuarto. Los Manuales respectivos se expedirán o adecuarán para el debido cumplimiento del presente Reglamento.
+
+Artículo Quinto. Dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento Interno, deberán expedirse los Manuales correspondientes.
