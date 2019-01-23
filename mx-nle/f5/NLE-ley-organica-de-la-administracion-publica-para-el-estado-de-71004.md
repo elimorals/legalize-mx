@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2018-01-19"
+last_updated: "2019-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -70,6 +70,10 @@ Son facultades exclusivas del Ejecutivo:
 Proponer en los términos del Artículo 63, fracción VIII de la Constitución Política del Estado, la creación de las dependencias, organismos públicos descentralizados y demás entidades necesarias para el despacho de los asuntos de orden administrativo y la eficaz atención de los servicios públicos así como, en su caso, la supresión de las mismas. Dentro de las disposiciones presupuestales de la Ley de Egresos, y con fundamento en la presente Ley, crear y modificar su estructura administrativa.
 
 Asimismo, nombrar y remover libremente a los titulares de la Administración Pública Central y Paraestatal, y demás servidores públicos cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado o en otras Leyes del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2019)</small>
+
+En el caso de ausencias mayores a quince días hábiles sin causa justificada, de los Titulares de los cargos anteriores, se deberá de realizar la designación correspondiente, por parte del titular del Poder Ejecutivo, dentro del término de noventa días naturales.
 
 ###### Artículo 4.
 
@@ -695,7 +699,7 @@ XXI. Las demás que le confieran el Titular del Ejecutivo del Estado y otras dis
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
 
-###### Articulo 24 Bis 1.
+###### Artículo 24 Bis 1.
 
 La Representación del Gobierno del Estado en la Ciudad de México, contará con un titular que dependerá directamente del Gobernador, la cual tendrá a su cargo cinco unidades administrativas con facultades necesarias para su operación, Coordinación General, Coordinación de Comunicación Social y Promoción Turística, Coordinación de Gestión, Coordinación de Gestión Internacional y Administrativa, de conformidad con el reglamento interno que expida el Ejecutivo, y cuyos titulares serán designados por el Gobernador del Estado.
 
@@ -1379,6 +1383,10 @@ IV. Vigilar, en coordinación con las autoridades federales competentes, que se 
 
 V. Vigilar el correcto cumplimiento de los convenios de coordinación que el Estado celebre con los municipios de la Entidad en cuanto de ellos se derive la inversión de fondos estatales;
 
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2019)</small>
+
+V Bis. Conformar la integración del Comité Coordinador del Sistema Estatal Anticorrupción, siendo facultad indelegable del Contralor General su participación ante dicho Comité;
+
 VI. Someter a la consideración del Ejecutivo la designación de comisarios o sus equivalentes como órganos de vigilancia, en los consejos de administración, juntas de gobierno o comités técnicos de los organismos y entidades de la Administración Pública Paraestatal, y opinar sobre el nombramiento de los titulares de las áreas de control interno de las dependencias y entidades de la Administración Pública Estatal;
 
 VII. Ordenar las revisiones, auditorías, verificaciones o acciones de vigilancia, por iniciativa propia o a solicitud de los titulares de las dependencias y entidades de la Administración Pública Estatal, informando al Ejecutivo del Estado del resultado de las mismas, en los términos de la Ley de Administración Financiera para el Estado;
@@ -1829,7 +1837,7 @@ Octavo.- Se abroga la Ley, que crea el Comité para el Desarrollo del Estado de 
 
 P.O. 5 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 254. SE REFORMA EL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 254. SE REFORMA EL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreta (sic) entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1844,3 +1852,15 @@ Segundo.- La convocatoria para la integración del Consejo Técnico Consultivo d
 Tercero.- La Junta de Gobierno dispondrá de un plazo de hasta 120 días naturales contados a partir de su instalación para llevar a cabo su Primera Sesión de Trabajo en la que se aprobará el Reglamento a que se refiere esta Ley y presentarlo ante el Titular del Poder Ejecutivo del Estado para su expedición.
 
 Cuarto.- La Secretaría de Finanzas y Tesorería General del Estado asignará la partida presupuestal aprobada para el ejercicio fiscal 2018 y necesaria para la creación y operación del Instituto.
+
+P.O. 23 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 055. SE REFORMA EL ARTÍCULO 55 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DE LA FRACCIÓN II, RECORRIENDO EL TEXTO ORIGINAL DE LA FRACCIÓN II A LA FRACCIÓN III Y SUBSECUENTEMENTE LAS DEMÁS, ADICIONANDO LA FRACCIÓN VIII; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN V BIS, EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 077. SE REFORMA POR ADICIÓN DE UN CUARTO PÁRRAFO EL ARTÍCULO 3 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al momento de la aprobación de las reformas constitucionales que derivan del presente asunto y su publicación en el Periódico Oficial.
