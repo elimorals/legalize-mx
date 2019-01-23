@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2016-12-05"
+last_updated: "2019-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -737,17 +737,23 @@ El Presidente de la Comisión tendrá las siguientes facultades:
 
 I. Representar legalmente a la Comisión con facultades de mandatario para actos de administración, pleitos y cobranzas, así como otorgar y sustituir poderes generales y especiales para estos actos, de conformidad con las disposiciones jurídicas aplicables y previa autorización del Pleno;
 
-II. Vigilar el correcto desempeño de las actividades de la Comisión;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2019)</small>
 
-III. Convocar a sesiones al Pleno y conducir las mismas, en los términos del reglamento respectivo;
+II. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción;
 
-IV. Cumplir y hacer cumplir los acuerdos adoptados por el Pleno;
+III. Vigilar el correcto desempeño de las actividades de la Comisión;
 
-V. Emitir los acuerdos necesarios para el cumplimiento de sus funciones;
+IV. Convocar a sesiones al Pleno y conducir las mismas, en los términos del reglamento respectivo;
 
-VI. Ejercer, por sí, o a través, de los órganos designados en el reglamento interior, el presupuesto de egresos de la Comisión, bajo la supervisión del Pleno; y
+V. Cumplir y hacer cumplir los acuerdos adoptados por el Pleno;
 
-VII. Las demás que le confiera esta Ley y su reglamento interior.
+VI. Emitir los acuerdos necesarios para el cumplimiento de sus funciones;
+
+VII. Ejercer, por sí, o a través, de los órganos designados en el reglamento interior, el presupuesto de egresos de la Comisión, bajo la supervisión del Pleno; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2019)</small>
+
+VIII. Las demás que le confiera esta Ley y su reglamento interior.
 
 ### Capítulo III. De los Comités de Transparencia
 
@@ -2812,3 +2818,9 @@ P.O. 5 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 173. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 46 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 23 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 055. SE REFORMA EL ARTÍCULO 55 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DE LA FRACCIÓN II, RECORRIENDO EL TEXTO ORIGINAL DE LA FRACCIÓN II A LA FRACCIÓN III Y SUBSECUENTEMENTE LAS DEMÁS, ADICIONANDO LA FRACCIÓN VIII; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN V BIS, EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
