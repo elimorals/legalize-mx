@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-20"
-last_updated: "2018-12-20"
+last_updated: "2019-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA CONTRALORIA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERESES DE LA CONTRALORÍA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2019.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 20 de diciembre de 2018.
 
@@ -780,6 +780,18 @@ Tratados Internacionales: Tratados o convenios suscritos por los Estados Unidos 
 Valores: Características que distinguen la actuación de los servidores públicos tendientes a lograr la credibilidad y el fortalecimiento de las instituciones públicas y del servicio público.
 
 Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los órganos constitucionales autónomos que, conforme a sus respectivas Leyes, sean competentes para aplicar las Leyes en materia de responsabilidades de las y los servidores públicos.
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2019)</small>
+
+## TRANSITORIOS
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2019)</small>
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2019)</small>
+
+SEGUNDO.- Se abroga el Código de Conducta de la Contraloría Gubernamental del Estado de Tamaulipas, publicado en el anexo al Periódico Oficial del Estado N° 83 el 13 de julio de 2016.
 
 Dado en Ciudad Victoria, capital del Estado de Tamaulipas, a los 19 días del mes de diciembre de dos mil dieciocho.
 
