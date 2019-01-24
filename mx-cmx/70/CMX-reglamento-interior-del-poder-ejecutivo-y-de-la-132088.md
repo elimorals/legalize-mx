@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-01-02"
+last_updated: "2019-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-01-02"
 ---
 # REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 24 DE ENERO DE 2019.]</small>
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -54,7 +54,9 @@ Además de las definiciones que expresamente señala el artículo 3º de la Ley 
 
 I.- Unidades Administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias son las Subsecretarias, la Tesorería de la Ciudad de México, la Procuraduría Fiscal de la Ciudad de México, la Unidad de Inteligencia Financiera de la Ciudad de México, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los Órganos Desconcentrados, las Direcciones Ejecutivas, los Órganos Internos de Control Internas, así como cualquier otra que realice este tipo de atribuciones conforme a lo previsto en este Reglamento;
 
-II. Unidades Administrativas de Apoyo Técnico-Operativo: Las que asisten técnica y operativamente a las Unidades Administrativas de las Dependencias, a los Órganos Desconcentrados, y que son las Direcciones de Área, las Subdirecciones, las Jefaturas de Unidad Departamental, de acuerdo a las necesidades del servicio, siempre que no cuenten con atribuciones de decisión y ejecución, que estén autorizadas en el presupuesto y con funciones determinadas en este Reglamento o en los manuales administrativos de cada Unidad Administrativa; y.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Unidades Administrativas de Apoyo Técnico-Operativo: Las que asisten técnica y operativamente a las Unidades Administrativas de las Dependencias, a los Órganos Desconcentrados, y que son las Direcciones de Área, las Coordinaciones, las Subdirecciones, las Jefaturas de Unidad Departamental, de acuerdo a las necesidades del servicio, siempre que cuenten con atribuciones de decisión y ejecución, que estén autorizadas en el presupuesto y con funciones determinadas en este Reglamento o en los manuales administrativos de cada Unidad Administrativa; y
 
 III. Órganos Desconcentrados: Los dotados de atribuciones de decisión, ejecución y autonomía de gestión, distintos a los señalados en la fracción que antecede y cuyas atribuciones se señalan en sus instrumentos de creación o en este Reglamento.
 
@@ -82,9 +84,13 @@ La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos q
 
 A) Secretaría Particular de la Jefatura de Gobierno;
 
-B) Coordinación General de Gabinete de Seguridad Ciudadana y Procuración de Justicia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-C) Dirección General Técnica e Institucional, a la que queda adscrita la:
+B) Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+C) Dirección General de Organización Técnica e Institucional, a la que queda adscrita la:
 
 1. Dirección Ejecutiva de Organización, Operación y Logística;
 
@@ -96,7 +102,9 @@ D) Coordinación General de Asesores y Asuntos Internacionales, a la que quedan 
 
 E) Dirección General de Resolución a la Demanda Ciudadana;
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Junta de Asistencia Privada, Agencia Digital de Innovación Pública y Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México. Así como el órgano denominado Comisión para la Reconstrucción de la Ciudad de México.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Junta de Asistencia Privada, Agencia Digital de Innovación Pública de la Ciudad de México y Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5). Así como el órgano denominado Comisión para la Reconstrucción de la Ciudad de México.
 
 ###### Artículo 7°.
 
@@ -216,7 +224,9 @@ B) Tesorería de la Ciudad de México, a la que quedan adscritas:
 
 3.2. Dirección de Determinación de Auditorías;
 
-3.3. Dirección de Procesos de Auditorías;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+3.3. Dirección de Procesos de Auditoría;
 
 3.4. Dirección de Verificaciones Fiscales;
 
@@ -224,11 +234,17 @@ B) Tesorería de la Ciudad de México, a la que quedan adscritas:
 
 4.1. Dirección Ejecutiva de Investigación y Programación en Comercio Exterior
 
-4.1.1. Dirección de Procedimientos Legales; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-4.1.1.1. Subdirección del Recinto Fiscalizado.
+4.2. Dirección de Procedimientos Legales;
 
-4.2. Dirección Ejecutiva de Verificación y Revisión de Comercio Exterior; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+4.3. Subdirección del Recinto Fiscal; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+4.4. Dirección Ejecutiva de Verificación y Revisión de Comercio Exterior;
 
 5. Subtesorería de Política Fiscal a la que queda adscrita:
 
@@ -248,7 +264,9 @@ D) Dirección General de Administración Financiera;
 
 E) Unidad de Inteligencia Financiera;
 
-F) Dirección General de Tecnologías de la Información y Comunicaciones, a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+F) Dirección General de Tecnologías y Comunicaciones, a la que quedan adscritas:
 
 1. Dirección Ejecutiva de Comunicaciones y Servicios de Infraestructura; y
 
@@ -272,19 +290,25 @@ H) Subsecretaría de Capital Humano y Administración, a la que quedan adscritas
 
 1.3. Dirección Ejecutiva de Evaluación y Registro Ocupacional;
 
-2. Dirección General de Administración de Personal y Uninómina Administrativo a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+2. Dirección General de Administración de Personal y Uninómina, a la que quedan adscritas:
 
 2.1. Dirección Ejecutiva de Sistemas de Nómina; y
 
 2.2. Dirección Ejecutiva de Bienestar y Previsión Social;
 
-3. Dirección General de Política y Relaciones Laborales Administrativo a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+3. Dirección General de Política y Relaciones Laborales, a la que quedan adscritas:
 
 3.1. Dirección Ejecutiva de Desarrollo de la Competencia Laboral; y
 
 3.2. Dirección Ejecutiva de Atención y Control de Asuntos Laborales;
 
-4. Dirección General de Recursos Materiales y Servicios Generales Administrativo a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+4. Dirección General de Recursos Materiales y Servicios Generales, a la que quedan adscritas:
 
 4.1. Dirección Ejecutiva de Adquisiciones de Bienes y Servicios;
 
@@ -292,7 +316,9 @@ H) Subsecretaría de Capital Humano y Administración, a la que quedan adscritas
 
 4.3. Dirección Ejecutiva de Aseguramiento y Servicios;
 
-5. Dirección General de Patrimonio Inmobiliario Administrativo, a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+5. Dirección General de Patrimonio Inmobiliario, a la que quedan adscritas:
 
 5.1. Dirección Ejecutiva de Avalúos;
 
@@ -322,7 +348,9 @@ A) Dirección General de Responsabilidades Administrativas, a la que quedan adsc
 
 3. Dirección de Seguimiento a Resoluciones;
 
-4. Dirección de Seguimiento de Procesos y Procedimientos Administrativos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+4. Dirección de Supervisión de Procesos y Procedimientos Administrativos;
 
 5. Dirección de Situación Patrimonial;
 
@@ -342,25 +370,25 @@ D) Dirección General de Normatividad y Apoyo Técnico a la que quedan adscritas
 
 2.1. Subdirección de Revisión de Obras; y
 
-2.1.1. Jefatura de Unidad Departamental de Pruebas de Laboratorio “A”;
+2.1.1. Jefatura de Unidad Departamental de Pruebas de Laboratorio "A";
 
-2.1.2. Jefatura de Unidad Departamental de Pruebas de Laboratorio “B”; y
+2.1.2. Jefatura de Unidad Departamental de Pruebas de Laboratorio "B"; y
 
-2.1.3. Jefatura de Unidad Departamental de Pruebas de Laboratorio “C”;
+2.1.3. Jefatura de Unidad Departamental de Pruebas de Laboratorio "C";
 
 E) Dirección General de Coordinación de Órganos Internos de Control en Alcaldías, a la quedan adscritas:
 
-1. Dirección de Coordinación en Órganos Internos de Control en Alcaldías “A”; y
+1. Dirección de Coordinación en Órganos Internos de Control en Alcaldías "A"; y
 
-2. Dirección de Coordinación en Órganos Internos de Control en Alcaldías “B”;
+2. Dirección de Coordinación en Órganos Internos de Control en Alcaldías "B";
 
 F) Dirección General de Coordinación de Órganos Internos de Control Sectorial, a la que quedan adscritas:
 
-1. Dirección de Coordinación de Órganos Internos de Control Sectorial “A”;
+1. Dirección de Coordinación de Órganos Internos de Control Sectorial "A";
 
-2. Dirección de Coordinación de Órganos Internos de Control Sectorial “B”; y
+2. Dirección de Coordinación de Órganos Internos de Control Sectorial "B"; y
 
-3. Dirección de Coordinación de Órganos Internos de Control Sectorial “C”;
+3. Dirección de Coordinación de Órganos Internos de Control Sectorial "C";
 
 4. Dirección de Comisarios y Control de Auditores Externos; y
 
@@ -376,7 +404,9 @@ C) Dirección General de Vinculación Cultural Comunitaria;
 
 D) Dirección General de Grandes Festivales Comunitarios;
 
-E) Dirección General de Educación Artística y Cultura Comunitarios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+E) Dirección General de Educación Artística y Cultura Comunitaria;
 
 F) Dirección General de Patrimonio Histórico, Artístico y Cultural; y
 
@@ -414,7 +444,9 @@ B) Dirección General de Control y Administración Urbana; y
 
 C) Dirección General de Asuntos Jurídicos;
 
-D) Dirección General para la Planeación del Desarrollo de la Ciudad de México.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+D) Dirección General de Planeación de Desarrollo y Ordenamiento Territorial.
 
 VII. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
@@ -424,21 +456,29 @@ B) Dirección General de Desarrollo e Innovación Tecnológica;
 
 C) Dirección General de Enlace Interinstitucional;
 
-F) (SIC) Dirección Ejecutiva Jurídico Normativa;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-G) Subsecretaría de Educación, a la que quedan adscritas:
+D) Dirección Ejecutiva Jurídico Normativa;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+E) Subsecretaría de Educación, a la que quedan adscritas:
 
 1. Dirección General de Desarrollo Institucional;
 
 2. Dirección Ejecutiva de Educación de Bachillerato y Estudios Superiores;
 
-H) Subsecretaría de Ciencia, Tecnología e Innovación, a la que quedan adscritas:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+F) Subsecretaría de Ciencia, Tecnología e Innovación, a la que quedan adscritas:
 
 1. Dirección General de Ciencia, Divulgación y Transferencia de Conocimiento; y
 
 2. Dirección General de Cómputo y Tecnologías de la Información;
 
-I) Coordinación General de Inclusión Educativa e Innovación.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+G) Coordinación General de Inclusión Educativa e Innovación.
 
 VIII. A la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
@@ -494,15 +534,25 @@ C) Dirección General de Coordinación de Políticas y Cultura Ambiental a la qu
 
 D) Dirección General de Zoológicos y Conservación de la Fauna Silvestre;
 
-F) Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural a la que queda adscrita:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-1. Dirección Ejecutiva de la Zona Patrimonio Mundial, Natural y Cultural Xochimilco, Tláhuac y Milpa Alta.
+E) Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural a la que queda adscrita:
 
-G) Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-H) Dirección General de Inspección y Vigilancia Ambiental.
+1. Dirección Ejecutiva de la Zona Patrimonio Mundial, Natural y Cultural de la Humanidad Xochimilco, Tláhuac y Milpa Alta.
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Sistema de Aguas de la Ciudad de México y la Agencia de Atención Animal.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+F) Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+G) Dirección General de Inspección y Vigilancia Ambiental.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Sistema de Aguas de la Ciudad de México y la Agencia de Atención Animal, ambos de la Ciudad de México.
 
 XI. A la Secretaría de Movilidad:
 
@@ -528,7 +578,9 @@ D) Dirección General de Seguimiento, Proyectos y Asuntos Estratégicos de Movil
 
 2. Dirección Ejecutiva de Tecnologías de la Información y Comunicación; y
 
-F) Coordinación General de Enlace Interinstitucional Territorial y Ciudadano.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+E) Coordinación General de Enlace Interinstitucional Territorial y Ciudadano.
 
 Asimismo, se le adscribe el Órgano Desconcentrado denominado Órgano Regulador de Transporte.
 
@@ -682,9 +734,13 @@ I. Declarar administrativamente la nulidad, caducidad o revocación de las conce
 
 II. Aprobar los anteproyectos de los Presupuestos de Egresos e Ingresos de la Ciudad de México.
 
-III. Adscribir los Órganos Desconcentrados y sectorizar a las Entidades, a las Dependencias de la Administración Pública de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IV. Nombrar y remover libremente a las personas Titulares de las Dependencias, Subsecretarías, Coordinaciones Generales y Direcciones Generales, y órganos de apoyo de la Administración Pública cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución Política de la Ciudad de México o en otras disposiciones legales:
+III. Adscribir los Órganos Desconcentrados y sectorizar las Entidades, a las Dependencias de la Administración Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Nombrar y remover libremente a las personas Titulares de las Dependencias, Subsecretarías, Coordinaciones Generales, Direcciones Generales u homólogos, así como de los Órganos Desconcentrados y de Apoyo de la Administración Pública cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución Política de la Ciudad de México o en otras disposiciones legales y/o administrativas;
 
 V. Nombrar y remover libremente a las personas servidoras públicas de la Administración Pública Paraestatal en términos de los ordenamientos jurídicos correspondientes;
 
@@ -704,15 +760,21 @@ XII. Designar a las personas servidoras públicas que participarán en el comit�
 
 XIII. Nombrar y remover a las y los Jueces del Registro Civil y a quienes deban sustituirlos en sus faltas temporales, así como autorizar el funcionamiento de nuevos juzgados, tomando en cuenta las necesidades del servicio registral;
 
-XIV. Nombrar y remover a las y los Jueces y Secretarios de los Juzgados Cívicos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XV. Resolver lo procedente cuando exista duda o controversia sobre la competencia de alguna o algunas de las Dependencias; y
+XIV. Nombrar y remover a las y los Jueces y Secretarias y Secretarios de los Juzgados Cívicos;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Resolver lo procedente cuando exista duda o controversia sobre la competencia de alguna o algunas de las Dependencias, Órganos Desconcentrados o Entidades de la Administración Pública de la Ciudad de México;
 
 XVI. Nombrar y Remover al Presidente de la Junta de Asistencia Privada de la Ciudad de México, de acuerdo con lo que disponga la ley.
 
 XVII. Celebrar Convenios de Coordinación con la Federación; Estados y Municipios; y
 
-XVIII. Las demás que le atribuyan expresamente con carácter de indelegables otros ordenamientos jurídicos y administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Las demás que le atribuyan expresamente con carácter de indelegables otros ordenamientos jurídicos y/o administrativos.
 
 ### CAPÍTULO V. DE LOS MANUALES
 
@@ -1134,7 +1196,9 @@ XXII. Dirigir, en coordinación con la Subsecretaría de Capital Humano y Admini
 
 XXIII. Analizar y, en su caso, someter a consideración del superior la propuesta de respuesta a las solicitudes presentadas por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para comprometer recursos presupuestales en proyectos cuya ejecución comprenda más de un ejercicio fiscal;
 
-XXIV. Formular y presentar a consideración de la persona titular de la Secretaría de Finanzas el techo presupuestal al que deberán sujetarse las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en la formulación de su correspondiente anteproyecto de presupuesto de egresos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIV. Formular y presentar a consideración de la persona titular de la Secretaría de Administración y Finanzas el techo presupuestal al que deberán sujetarse las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en la formulación de su correspondiente anteproyecto de presupuesto de egresos;
 
 XXV. Comunicar a las dependencias, órganos desconcentrados, alcaldías y entidades el techo presupuestal que deberán atender para la formulación de su correspondiente anteproyecto de presupuesto de egresos; así como comunicar el techo presupuestal a las Unidades Responsables del Gasto, conforme a los montos que a estas les establezca el correspondiente Decreto de Presupuesto de Egresos;
 
@@ -1178,7 +1242,9 @@ IX. Administrar, recaudar, comprobar, determinar, notificar y cobrar las contrib
 
 X. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados, con base en los acuerdos y convenios del Ejecutivo Federal;
 
-XI. Expedir las constancias o credenciales del personal que se autorice para llevar a cabo visitas domiciliarias, auditorías, inspecciones o verificaciones, avalúos, liquidaciones de créditos fiscales, citatorios, notificaciones y todos los actos inherentes al procedimiento administrativo de ejecución, así como autorizar a las personas físicas y morales, como auxiliares de la Tesorería de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Expedir las constancias o credenciales del personal que se autorice para llevar a cabo visitas domiciliarias, auditorías, inspecciones o verificaciones, avalúos, liquidaciones de créditos fiscales, citatorios, notificaciones y todos los actos inherentes al procedimiento administrativo de ejecución y en materia aduanera, así como autorizar a las personas físicas y morales, como auxiliares de la Tesorería de la Ciudad de México;
 
 XII. Ordenar la práctica de visitas domiciliarias, auditorias, la revisión de dictámenes y declaraciones, así como visitas de inspección y verificación, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia fiscal;
 
@@ -1484,7 +1550,9 @@ XXV. Difundir entre las Unidades Administrativas de la Secretaría los programas
 
 XXVI. Promover la capacitación en materia de calidad al personal que forma parte del Sistema Educativo de la Ciudad de México;
 
-XXVII. Fomentar en las escuelas del Sistema Educativo de la Ciudad de México y a las distintas Unidades Administrativas de la Secretaría, los conceptos de calidad y mejora continua de los servicios educativos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVII. Fomentar en las escuelas del Sistema Educativo de la Ciudad de México y en las distintas Unidades Administrativas de la Secretaría, los conceptos de calidad y mejora continua de los servicios educativos;
 
 XXVIII. Supervisar y verificar que la educación que impartan los particulares con estudios incorporados al sistema educativo de la Ciudad de México o bien, aquellas instituciones educativas a quienes la Secretaría de Educación, Ciencia, Tecnología e Innovación les otorgue reconocimiento de validez oficial de estudios, se sujeten a la normativa vigente;
 
@@ -1496,7 +1564,9 @@ XXXI. Planear, organizar y dirigir las actividades de regulación, inspección y
 
 XXXII. Realizar visitas de inspecciones ordinarias o extraordinarias a los particulares, para el otorgamiento o vigencia del Reconocimiento de Validez Oficial de Estudios;
 
-XXXIII. Llevar un registro de las escuelas particulares a las que la Secretaría haya otorgado el Reconocimiento de Validez Oficial de Estudios para impartir Educación Media Superior, Educación Superior y de Formación para el Trabajo, que permita su identificación; así como mantener actualizado los movimientos y modificaciones a los mismos, incluyendo aquellas que hayan solicitado la terminación voluntaria resguardando la información y documentación generada, a fin de expedir la certificación y cotejo que soliciten autoridades judiciales y administrativas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXXIII. Llevar un registro de las escuelas particulares a las que la Secretaría haya otorgado el Reconocimiento de Validez Oficial de Estudios para impartir Educación Media Superior, Educación Superior y de Formación para el Trabajo, que permita su identificación; así como mantener actualizados los movimientos y modificaciones a los mismos, incluyendo aquellas que hayan solicitado la terminación voluntaria resguardando la información y documentación generada, a fin de expedir la certificación y cotejo que soliciten autoridades judiciales y administrativas;
 
 XXXIV. Suscribir y emitir los acuerdos de modificación de los reconocimientos de validez oficial de estudios otorgados a las Instituciones de Educación Media Superior y Superior, y de Formación para el Trabajo, respecto de los cambios de titulares, de domicilio, apertura de nuevos planteles, así como de los planes y programas de estudio;
 
@@ -1520,7 +1590,9 @@ I. Proponer a la persona titular de la Secretaría la suscripción de contratos,
 
 II. Administrar los sistemas de información y seguimiento de los proyectos estratégicos de la Secretaría;
 
-III. Diseñar a (sic) normatividad para la regulación, evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos científicos y tecnológicos, para someterlos a aprobación del Consejo de Fomento y Desarrollo Científico, Tecnológico e Innovación de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Diseñar la normatividad para la regulación, evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos científicos y tecnológicos, para someterlos a aprobación del Consejo de Fomento y Desarrollo Científico, Tecnológico e Innovación de la Ciudad de México;
 
 IV. Coadyuvar con el Instituto de Planeación Democrática y Prospectiva en la formulación del Programa de Desarrollo Científico, Tecnológico y de Innovación de la Ciudad de México, así como en lo que se refiere a la integración, coordinación y homologación de la información.
 
@@ -1558,7 +1630,9 @@ XX. Emitir convocatorias a la comunidad científica y académica, el sector soci
 
 XXI. Promover otorgamiento de premios, estímulos y cualquier otro tipo de reconocimiento a los académicos, investigadores, docentes, científicos y en general cualquier persona que haya contribuido al mejoramiento de la Ciudad de México, en materia de ciencia, tecnología e innovación;
 
-XXII. Captar recursos económicos o de cualquier índole provenientes de organismos públicos, privados, nacionales o extranjeros cuya actividad educativa o científica, que sea complementaria con los objetivos de esta Secretaria.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXII. Captar recursos económicos o de cualquier índole provenientes de organismos públicos, privados, nacionales o extranjeros cuya actividad educativa o científica sea complementaria con los objetivos de esta Secretaría.
 
 XXIII. Desarrollar sistemas de consulta para el manejo de información geográfica y estadística competencia de la Secretaría;
 
@@ -1896,21 +1970,31 @@ XIII. Dar seguimiento a los acuerdos tomados en las sesiones de Gabinete, presid
 
 XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 43.
 
-Corresponde a la Coordinación General de Gabinete de Seguridad Ciudadana y Procuración de Justicia:
+Corresponde a la Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia:
 
 I. Coordinar y convocar a las reuniones matutinas de Seguridad Ciudadana y Procuración de Justicia que encabezará la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-II. Convocar y coordinar los trabajos de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de los representantes de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-III. Coordinar la participación de los representantes de la persona Titular de la Jefatura de Gobierno de la Ciudad de México en los Gabinetes Matutinos Regionales del Gobierno Federal que se realizarán en las 16 Alcaldías de la Ciudad de México;
+II. Convocar y coordinar los trabajos de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de las personas representantes de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Coordinar la participación de las personas representantes de la Jefatura de Gobierno de la Ciudad de México en los Gabinetes Matutinos Regionales del Gobierno Federal que se realizarán en las 16 Alcaldías de la Ciudad de México;
 
 IV. Coordinar la recepción, procesamiento, análisis y evaluación de la información que se genere en materia de seguridad ciudadana y procuración de justicia para la elaboración de estadísticas que permitan dar seguimiento puntual a los avances logrados; así como tomar las decisiones necesarias para realizar los ajustes correspondientes;
 
-V. Planear, programar, organizar, coordinar y evaluar el funcionamiento de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VI. Proponer el nombramiento y remoción de los representantes de la persona Titular de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+V. Planear, programar, organizar, coordinar y evaluar el desempeño de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Proponer el nombramiento y remoción de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
 
 VII. Emitir lineamientos y establecer procedimientos para el mejor desempeño de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
 
@@ -1934,13 +2018,17 @@ XVI. Presentar de manera periódica informes y reportes a la persona Titular de 
 
 XVII. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 44.
 
-Corresponde a la Dirección General Técnica e Institucional:
+Corresponde a la Dirección General de Organización Técnica e Institucional:
 
 I. Participar en la organización de las actividades de la agenda, derivada de los compromisos y asuntos oficiales de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-II. Colaborar para que sean agendadas las actividades institucionales y eventos públicos de la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y en su caso, para que se realice la comunicación al servidor público designado para que asista en representación de aquella;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Colaborar para que sean agendadas las actividades institucionales y eventos públicos de la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y en su caso, para que se realice la comunicación la persona servidora pública designada para que asista en representación de aquella;
 
 III. Participar en la integración del Informe de Gobierno correspondiente;
 
@@ -1952,17 +2040,25 @@ VI. Colaborar en el establecimiento de la comunicación y cooperación de las re
 
 VII. Proponer acciones en beneficio de la optimización de la organización al interior de la Jefatura de Gobierno de la Ciudad de México;
 
-VIII. Impulsar y proponer el establecimiento de la cultura organizacional como parte del desarrollo e interacción dentro de la jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Impulsar y proponer el establecimiento de la cultura organizacional como parte del desarrollo e interacción dentro de la Jefatura de Gobierno de la Ciudad de México;
 
 IX. Solicitar información y documentos a las instancias de la Administración Pública de la Ciudad de México, cuando sea necesario para atender los asuntos de su competencia;
 
-X. Instruir al área correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que se éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XI. Instruir al área correspondiente para que realice el análisis de los actos administrativos que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que se (sic) éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+X. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los actos administrativos que sean competencia de la Oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
 
 XII. Establecer mecanismos en materia jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de la Oficina de la Jefatura de Gobierno de la Ciudad de México;
 
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
 XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la Jefa o Jefe de Gobierno de la Ciudad de México.
 
@@ -1974,15 +2070,21 @@ I. Definir las estrategias de apoyo logístico requeridas, para el desarrollo de
 
 II. Programar con la Secretaría Particular, la agenda de eventos tanto públicos como privados en que tomará parte la persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-III. Coordinar con las instancias de los diversos sectores y niveles de gobierno, los procesos logísticos y administrativos a seguir para la realización de eventos públicos y privados a los que asiste la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Coordinar con las instancias de los diversos sectores y niveles de gobierno, los procesos logísticos y/o administrativos a seguir para la realización de eventos públicos y/o privados a los que asiste la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
 IV. Dar seguimiento a la organización y desarrollo de los eventos en los que participa la persona Titular de la Jefatura de Gobierno de la Ciudad de México, mediante la vinculación con las instancias de los diversos sectores y niveles de gobierno;
 
 V. Definir las estrategias de apoyo logístico, que salvaguarden la integridad física de la persona Titular de la Jefatura de Gobierno de la Ciudad de México, durante su participación en eventos que se llevan a cabo en espacios públicos y privados;
 
-VI. Coordinar la implementación de las medidas de seguridad necesarias, durante los eventos públicos y privados en los que participa la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Revisar las condiciones físicas, de seguridad y posibles riesgos, de los espacios en que se realizarán eventos públicos y privados con la presencia de la persona Titular del Gobierno de la Ciudad de México;
+VI. Coordinar la implementación de las medidas de seguridad necesarias, durante los eventos públicos y/o privados en los que participa la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Revisar las condiciones físicas, de seguridad y posibles riesgos, de los espacios en que se realizarán eventos públicos y/o privados con la presencia de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
 VIII. Establecer coordinación interinstitucional con las instancias de los diversos sectores y niveles de gobierno, para contar con los apoyos logísticos y humanos para aplicar los protocolos de seguridad que permitan salvaguardar la integridad física de la persona Titular de la Jefatura de Gobierno de la Ciudad de México y asistentes a los eventos;
 
@@ -1990,7 +2092,9 @@ IX. Establecer líneas de comunicación, con todas las áreas de seguridad inter
 
 X. Evaluar con las instancias de los diversos sectores, el seguimiento a los acuerdos y compromisos tomados en los eventos a los que asiste el o la Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XI. Designar al enlace institucional que dará seguimiento, con los enlaces de las instancias de los sectores de Gobierno de la Ciudad de México, al cumplimiento de los acuerdos tomados en los eventos públicos y privados en los que participa la persona Titular de la Jefatura de Gobierno;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Designar al enlace institucional que dará seguimiento, con los enlaces de las instancias de los sectores de Gobierno de la Ciudad de México, al cumplimiento de los acuerdos tomados en los eventos públicos y/o privados en los que participa la persona Titular de la Jefatura de Gobierno;
 
 XII. Dirigir el registro y seguimiento de los acuerdos que se generan en los eventos en que participa la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2006,13 +2110,21 @@ XVII. Evaluar y autorizar previo al evento, el montaje y que se cuente con todos
 
 XVIII. Controlar con la participación del personal a su cargo, que el evento se lleve a cabo en el orden del programa definido y autorizado previamente;
 
-XIX. Determinar las avanzadas necesarias para revisar montaje, apoyos logísticos, integración de presídium y ubicación de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XX. Establecer con el área de seguridad correspondiente, los filtros para el ingreso y recepción de los integrantes del presídium, invitado especial y público en general, así como recepción de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+XIX. Determinar las avanzadas necesarias para revisar montaje, apoyos logísticos, integración de presidium y ubicación de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XXI. Asegurar que la persona Titular de la Jefatura de Gobierno de la Ciudad de México, cuente previo al evento, con la información del objetivo del evento, integrantes del presídium e invitados especiales presentes y programa de actividades final;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXII. Coordinar el registro y seguimiento, de los acuerdos tomados durante los eventos a los que asiste la persona Titular de la Jefatura de Gobierno de la Ciudad de México y, demás instancias participantes.
+XX. Establecer con el área de seguridad correspondiente, los filtros para el ingreso y recepción de los integrantes del presidium, invitado especial y público en general, así como recepción de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXI. Asegurar que la persona Titular de la Jefatura de Gobierno de la Ciudad de México, cuente previo al evento, con la información del objetivo del evento, integrantes del presidium e invitados especiales presentes y programa de actividades final;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXII. Coordinar el registro y seguimiento, de los acuerdos tomados durante los eventos a los que asiste la persona Titular de la Jefatura de Gobierno de la Ciudad de México y, demás instancias participantes;
 
 XXIII. Establecer una base de datos, para el registro y avance de acuerdos y compromisos tomados en los eventos a los que asiste la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2028,13 +2140,19 @@ I. Dirigir y coordinar los trabajos de asesoría a la oficina de la persona titu
 
 II. Dirigir y coordinar la elaboración de informes y reportes estratégicos para dar seguimiento al Programa de Gobierno 2018-2024;
 
-III. Dirigir y coordinar los estudios necesarios para facilitar la implementación de las políticas de desarrollo social del gobierno para maximizar su impacto;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IV. Promover el establecimiento de vínculos institucionales con organismos públicos y privados de investigación y de educación superior, nacionales e internacionales, fungiendo como enlace institucional del Gobierno de la Ciudad de México para fortalecer la investigación en áreas relevantes a la gestión de las políticas públicas en la Ciudad de México;
+III. Dirigir y coordinar los estudios necesarios para facilitar la implementación de las políticas de desarrollo del gobierno para maximizar su impacto;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Promover el establecimiento de vínculos institucionales con organismos públicos y/o privados de investigación y/o de educación superior, nacionales y/o internacionales, fungiendo como enlace institucional del Gobierno de la Ciudad de México para fortalecer la investigación en áreas relevantes a la gestión de las políticas públicas en la Ciudad de México;
 
 V. Dirigir y coordinar la Acción Internacional del Gobierno de la Ciudad de México para posicionarlo como un actor global que mediante el diálogo y la cooperación internacional, sea capaz de promover los temas estratégicos para la ciudad, contribuyendo a alcanzar sus objetivos y metas en materia de crecimiento y desarrollo;
 
-VI. Dirigir y promover la acción internacional de la Ciudad de México, fungiendo como enlace institucional del Gobierno de la Ciudad de México ante otros gobiernos locales y nacionales extranjeros, redes regionales e internacionales de ciudades, organismos internacionales, el cuerpo diplomático acreditado en México y las misiones de México en el extranjero;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Dirigir y promover la acción internacional de la Ciudad de México, fungiendo como enlace institucional del Gobierno de la Ciudad de México ante otros gobiernos locales y/o nacionales extranjeros, redes regionales y/o internacionales de ciudades, organismos internacionales, el cuerpo diplomático acreditado en México y/o las misiones de México en el extranjero;
 
 VII. Promover que la persona Titular de la Jefatura de Gobierno, en representación de la Ciudad de México, suscriba convenios de cooperación específica a nivel internacional, a fin de fortalecer vínculos de amistad y cooperación internacional, previa revisión por parte de la Consejería Jurídica y de Servicios Legales;
 
@@ -2046,7 +2164,9 @@ X. Impulsar la internacionalización y reconocimiento de las mejores prácticas 
 
 XI. Fomentar el intercambio de experiencias entre el Gobierno de la Ciudad de México con diversos actores internacionales en temas estratégicos y prioritarios tanto en la agenda local de la Ciudad de México como en la agenda global;
 
-XII. Dar continuidad y mayor alcance de los actuales programas y proyectos de la Coordinación General, orientados a promover la inclusión y participación de los sectores público, privado, académico y de la sociedad civil;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Dar continuidad y mayor alcance de los actuales programas y proyectos de esta Coordinación General, orientados a promover la inclusión y/o participación de los sectores público, privado, académico y/o de la sociedad civil;
 
 XIII. Promover esquemas, mecanismos e instrumentos para la creación, fortalecimiento y diversificación de los vínculos de cooperación bilateral y multilateral de la Ciudad de México con distintos actores internacionales;
 
@@ -2058,7 +2178,9 @@ XVI. Dirigir la creación de estrategias que impulsen y fortalezcan la cooperaci
 
 XVII. Proponer las acciones del Gobierno de la Ciudad de México en el ámbito de cooperación internacional;
 
-XVIII. Impulsar el intercambio de experiencias entre las instituciones nacionales y extranjeras en materia económica, educativa, cultural, técnica y científica;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Impulsar el intercambio de experiencias entre las instituciones nacionales y/o extranjeras en materia económica, educativa, cultural, técnica y/o científica;
 
 XIX. Planear y coordinar las actividades de protocolo que la persona Titular de la Jefatura de Gobierno lleva a cabo con la comunidad internacional, a fin de contribuir con el trabajo diplomático y la Acción Internacional de la Ciudad de México;
 
@@ -2068,7 +2190,9 @@ XXI. Proponer a los diplomáticos acreditados en México y a personalidades extr
 
 XXII. Coordinar la implementación del protocolo diplomático de manera adecuada y eficiente en los actos oficiales de carácter internacional que organice o en los que participe la Jefatura de Gobierno de la Ciudad de México;
 
-XXIII. Apoyar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para la realización de actividades protocolarias, diplomáticas y ceremoniales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIII. Apoyar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para la realización de actividades protocolarias, diplomáticas y/o ceremoniales;
 
 XXIV. Asegurar la aplicación de los lineamientos protocolarios y diplomáticos conforme a la particularidad de cada una de las visitas y eventos realizados por la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2084,7 +2208,9 @@ XXIX. Verificar y dar seguimiento a los procesos que se requieren para el correc
 
 XXX. Dar seguimiento a los principales eventos internacionales de gobiernos locales, redes y principales organismos;
 
-XXXI. Formular propuestas de participación de la persona Titular de la Jefatura de Gobierno de la Ciudad de México en eventos internacionales y diplomáticos en la Ciudad de México y en el extranjero;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXXI. Formular propuestas de participación de la persona Titular de la Jefatura de Gobierno de la Ciudad de México en eventos internacionales y/o diplomáticos en la Ciudad de México y/o en el extranjero;
 
 XXXII. Elaborar y mantener actualizado un calendario de actividades internacionales;
 
@@ -2102,7 +2228,9 @@ XXXVIII. Elaborar y presentar proyectos que contribuyan a fortalecer, ampliar y 
 
 XXXIX. Generar, facilitar y difundir información en torno a la Acción Internacional de la Ciudad de México;
 
-XL. Apoyar con información a las Alcaldías y a personas servidoras públicas del Gobierno de la Ciudad de México que realicen visitas o giras oficiales al extranjero, así como en los casos de las visitas o giras que realicen diversos actores internacionales a la Ciudad de México; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XL. Apoyar con información a las Alcaldías y a las personas servidoras públicas del Gobierno de la Ciudad de México que realicen visitas o giras oficiales al extranjero, así como en los casos de las visitas o giras que realicen diversos actores internacionales a la Ciudad de México; y
 
 XLI. Las demás que le señalen las disposiciones jurídicas y/o administrativas y/o aquellas que instruya la Jefa o Jefe de Gobierno de la Ciudad de México.
 
@@ -2114,21 +2242,33 @@ I. Colaborar con la persona titular de la Coordinación General de Asesores y As
 
 II. Acompañar las actividades de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, para lograr programas y proyectos del Gobierno de la Ciudad de México en materia de cooperación internacional;
 
-III. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, en la Dirección de la creación de estrategias que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y científico, entre otros;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, en la creación de estrategias que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y/o científico, entre otros;
 
 IV. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la propuesta de las acciones del Gobierno de la Ciudad de México en el ámbito de cooperación internacional;
 
-V. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el impulso del intercambio de experiencias entre las instituciones nacionales y extranjeras en materia económica, educativa, cultural, técnica y científica;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el impulso del intercambio de experiencias entre las instituciones nacionales y extranjeras en materia económica, educativa, cultural, técnica y/o científica;
 
 VI. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el Diseño e implementación de esquemas, mecanismos e instrumentos para la creación, fortalecimiento y diversificación de los vínculos de cooperación bilateral de la Ciudad de México con distintos actores internacionales;
 
-VII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la proposición de las actividades que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y científico;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la supervisión de la ejecución de los programas de cooperación internacional e impulsar el intercambio de experiencias en materia económica, educativa, cultural, técnica y científica;
+VII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la proposición de las actividades que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y/o científico;
 
-IX. Colaborar con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el Apoyo que debe brindar a la persona titular de la Jefatura de Gobierno de la Ciudad de México en la celebración de convenios e instrumentos de cooperación internacional;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para dar seguimiento y verificación de la continuidad de los acuerdos de cooperación internacional adquiridos por la persona titular de la Jefatura de Gobierno de la Ciudad de México mediante la celebración de diversos instrumentos y herramientas internacionales;
+VIII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la supervisión de la ejecución de los programas de cooperación internacional e impulsar el intercambio de experiencias en materia económica, educativa, cultural, técnica y/o científica;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Colaborar con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el Apoyo que debe brindar a la persona titular de la Jefatura de Gobierno de la Ciudad de México en la celebración de convenios y/o instrumentos de cooperación internacional;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para dar seguimiento y verificación de la continuidad de los acuerdos de cooperación internacional adquiridos por la persona titular de la Jefatura de Gobierno de la Ciudad de México mediante la celebración de diversos instrumentos y/o herramientas internacionales;
 
 XI. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la coordinación de la negociación de los acuerdos de participación internacional en los que la Jefatura de Gobierno de la Ciudad de México sea parte;
 
@@ -2154,11 +2294,15 @@ II. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de l
 
 III. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la atención y respuesta a las solicitudes de las diferentes instancias de la Administración Pública Local sobre actos de ceremonial relacionados con el ámbito internacional;
 
-IV. Atender puntualmente el seguimiento de los principales eventos internacionales de gobiernos locales, redes y principales organismos, así como de los compromisos que de ellos se deriven;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Atender puntualmente el seguimiento de los principales eventos internacionales de gobiernos locales, redes y/o principales organismos, así como de los compromisos que de ellos se deriven;
 
 V. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la elaboración y actualización del calendario de actividades internacionales;
 
-VI. Participar como enlace y dar seguimiento a las agendas y procesos globales en las áreas temáticas de interés para la persona Titular de la Jefatura de Gobierno de la Ciudad de México y la implementación del Programa de Desarrollo 2018-2024;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Participar como enlace y dar seguimiento a las agendas y procesos globales en las áreas temáticas de interés para la persona Titular de la Jefatura de Gobierno de la Ciudad de México y la implementación del Programa de Gobierno 2018-2024;
 
 VII. Participar y dar seguimiento a la relación que tiene el Gobierno de la Ciudad de México con las redes de ciudades a nivel internacional;
 
@@ -2168,13 +2312,17 @@ IX. En colaboración con la persona Titular de la Coordinación General de Aseso
 
 X. Coordinar la identificación de convocatorias internacionales para facilitar la participación del Gobierno de la Ciudad de México en foros y concursos internacionales;
 
-XI. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para generar iniciativas de formación y generación de conocimiento sobre temas globales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para generar iniciativas de formación y/o generación de conocimiento sobre temas globales;
 
 XII. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la planificación y ejecución de la agenda internacional de la persona Titular de la Jefatura de Gobierno, a efecto de difundirla a nivel local e internacional, contribuyendo en la instrumentación de la estrategia de comunicación social con la finalidad de divulgar la actividad internacional de la Ciudad de México en plataformas y publicaciones propias, así como en medios impresos y electrónicos;
 
 XIII. Emprender las acciones necesarias a efecto de garantizar la gestión administrativa oportuna y eficiente de los asuntos en materia internacional del Gobierno de la Ciudad de México;
 
-XIV. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la programación, desarrollo y seguimiento de las tareas de investigación para presentar propuestas que impulsen y fortalezcan las posibilidades de cooperación técnica, cultural, económica y comercial del Gobierno de la Ciudad de México con gobiernos extranjeros;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la programación, desarrollo y seguimiento de las tareas de investigación para presentar propuestas que impulsen y/o fortalezcan las posibilidades de cooperación técnica, cultural, económica y/o comercial del Gobierno de la Ciudad de México con gobiernos extranjeros; y
 
 XV. Las demás que le señalen las disposiciones jurídicas y/o administrativas, y/o aquellas que instruyan las personas Titulares de la Coordinación General de Asesores y Asuntos Internacionales y/o de la Jefatura de Gobierno de la Ciudad de México.
 
@@ -2182,7 +2330,9 @@ XV. Las demás que le señalen las disposiciones jurídicas y/o administrativas,
 
 Corresponde a la Dirección General de Resolución a la Demanda Ciudadana:
 
-I. Establecer políticas y directrices para la atención a la ciudadanía que acuden (sic) a la Jefatura de Gobierno;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+I. Establecer políticas y directrices para la atención a la ciudadanía que acude a la Jefatura de Gobierno;
 
 II. Coordinar la gestión de las peticiones dirigidas a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, mediante los lineamientos interinstitucionales con Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México;
 
@@ -2206,7 +2356,9 @@ XI. Supervisar y someter a consideración de la Consejería Jurídica y de Servi
 
 XII. Coordinar la presentación periódica de los informes de las actividades desarrolladas en las Unidades Administrativas y/o Unidades Administrativas de Apoyo técnico Operativo a su cargo y solicitar, recibir, analizar y evaluar los de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, en materia de atención ciudadana;
 
-XIII. Supervisar y evaluar las estrategias, convenios y acuerdos establecidos interinstitucionalmente con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, para el seguimiento a los compromisos establecidos por la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Supervisar y evaluar las estrategias, convenios y/o acuerdos establecidos interinstitucionalmente con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para el seguimiento a los compromisos establecidos por la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
 XIV. Analizar los informes depurados de demandas ciudadanas no atendidas o en trámite, comunicándolo a las Dependencias, Alcaldías, Órganos Desconcentrados y/o Entidades de la Ciudad de México para que se atiendan de acuerdo a lo establecido en el seguimiento a los compromisos de la Jefatura de Gobierno de la Ciudad de México, mediante audiencia pública, recorridos, cédulas de atención ciudadana u otros medios;
 
@@ -2214,7 +2366,9 @@ XV. Mantener el seguimiento a las demandas ciudadanas y los compromisos adquirid
 
 XVI. Instrumentar procedimientos que permitan el adecuado seguimiento a las demandas ciudadanas, comprobando que el seguimiento a la demanda ciudadana corresponda a la petición solicitada;
 
-XVII. Coordinar acciones y compromisos de colaboración con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México para la gestión a la demanda ciudadana presentada a la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Coordinar acciones y/o compromisos de colaboración con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México para la gestión a la demanda ciudadana presentada a la Jefatura de Gobierno de la Ciudad de México;
 
 XVIII. Diseñar y coordinar acciones conjuntas con los enlaces de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, que tienen Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de atención ciudadana y/o requieran una comunicación estrecha para mejorar la atención de las demandas presentadas a la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2228,9 +2382,13 @@ XXII. Coordinar el proceso de análisis, clasificación y gestión de la documen
 
 XXIII. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y gestionar la documentación que ingresa por recepción documental, y evaluar los mecanismos de trabajo operativo que se aplican;
 
-XXIV. Administrar la recepción, codificación, clasificación, cómputo y gestión de las peticiones que presentan los ciudadanos dirigidas a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXV. Planear mecanismos de supervisión y control de la gestión documental canalizada ante las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, de Entidades Federativas o del Gobierno de la República;
+XXIV. Administrar la recepción, codificación, clasificación, cómputo y gestión de las peticiones que presenta la ciudadanía dirigidas a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXV. Planear mecanismos de supervisión y control de la gestión documental canalizada ante las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, de Entidades Federativas o del Gobierno de México;
 
 XXVI. Establecer mecanismos de evaluación y supervisión del tratamiento administrativo aplicado a los documentos sobresalientes, peticiones ciudadanas, seguimientos, copias de conocimiento y correo certificado recibido; dirigir su canalización y atención, hasta su resguardo en los sistemas de archivos y de información;
 
@@ -2244,7 +2402,9 @@ XXX. Ejecutar los procedimientos de trabajo y las acciones necesarias para que l
 
 XXXI. Asegurar la aplicación de los lineamientos institucionales bajo los cuales se debe brindar la atención personal, estableciendo los procedimientos del trabajo operativo;
 
-XXXII. Atender las audiencias solicitadas por los ciudadanos, y canalizar a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México para el adecuado seguimiento de su problemática;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXXII. Atender las audiencias solicitadas por la ciudadanía, y canalizarlas a las Dependencias, Alcaldías, Órganos Desconcentrados y/o Entidades de la Ciudad de México para el adecuado seguimiento de su problemática;
 
 XXXIII. Asesorar directamente o con la participación de las instancias competentes, cuando por la complejidad del asunto lo requiera a personas o grupos ciudadanos para formalizar en términos adecuados y precisos la petición que plantean a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2516,9 +2676,11 @@ XI. Promover, respetar, proteger y garantizar los derechos humanos de las person
 
 XII. Las demás facultades previstas en este Reglamento y en otros ordenamientos aplicables, así como las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que se le adscriban.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 59.
 
-Corresponde a la Dirección Ejecutiva Jurídica y de Derechos Humanos:
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y Derechos Humanos:
 
 I. Proponer los criterios generales y las normas que regulen los Centros Penitenciarios;
 
@@ -2800,17 +2962,17 @@ I. Acordar con la persona Titular de la Subsecretaría de Programas de Alcaldía
 
 II. Planear, reorganizar y hacer propuestas de acciones tendientes a reordenar las actividades que se realizan en la vía pública del Centro Histórico;
 
-III. Coordinar las acciones interinstitucionales con las demás Dependencias, Unidades Administrativas, Alcaldías Y Órganos Desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales, en materia de Reordenamiento en vía pública, en los Perímetros "A" y "B" del Centro Histórico de la Ciudad de México;
+III. Coordinar las acciones interinstitucionales con las demás Dependencias, Unidades Administrativas, Alcaldías Y Órganos Desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales, en materia de Reordenamiento en vía pública, en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México;
 
-IV. Determinar junto con las diversas Unidades Administrativas las medidas y acciones necesarias para el uso adecuado de la vía pública en los Perímetros "A" y "B" del Centro Histórico de la Ciudad de México;
+IV. Determinar junto con las diversas Unidades Administrativas las medidas y acciones necesarias para el uso adecuado de la vía pública en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México;
 
 V. Coordinar con las Unidades Administrativas que regulan el uso de la vía pública y los espectáculos mercantiles, la elaboración de proyectos y actividades que permitan el uso del espacio público;
 
-VI. Participar en la Comisión de Reordenamiento del Comercio en Vía Pública a fin de elaborar planteamientos que permitan implementar medidas para el adecuado desarrollo de las actividades que se lleven a cabo en los perímetros "A" y "B" del Centro Histórico;
+VI. Participar en la Comisión de Reordenamiento del Comercio en Vía Pública a fin de elaborar planteamientos que permitan implementar medidas para el adecuado desarrollo de las actividades que se lleven a cabo en los perímetros “A” y “B” del Centro Histórico;
 
 VII. Recopilar y mantener actualizada la información de los locatarios y de quienes realizan actividades públicas en el Centro Histórico; y
 
-VIII. Participar y opinar sobre las propuestas de reglamentos, disposiciones jurídicas y administrativas en coordinación con la Secretaría de Gobierno, las Alcaldías y la Autoridad del Centro Histórico en materia de asuntos relativos a la vía pública de los Perímetros "A" y "B" del Centro Histórico.
+VIII. Participar y opinar sobre las propuestas de reglamentos, disposiciones jurídicas y administrativas en coordinación con la Secretaría de Gobierno, las Alcaldías y la Autoridad del Centro Histórico en materia de asuntos relativos a la vía pública de los Perímetros “A” y “B” del Centro Histórico.
 
 ###### Artículo 69.
 
@@ -2882,7 +3044,9 @@ I. Normar y establecer los lineamientos para la captación de información progr
 
 II. Efectuar, conforme a la normatividad en la materia, los registros contables de la administración pública central adicionalmente a los que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Administración y Finanzas, así como los necesarios para la consolidación de la información para la emisión y presentación de informes financieros del Poder Ejecutivo;
 
-III. Revisar que los asientos contables que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Finanzas, se realicen conforme a la normatividad en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Revisar que los asientos contables que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Administración y Finanzas, se realicen conforme a la normatividad en la materia;
 
 IV. Consolidar la información financiera de la Administración Pública Centralizada, así como la emitida por las Entidades Paraestatales y los Órganos Autónomos y de Gobierno, para la presentación de los informes de la Entidad Federativa que establezca la normatividad aplicable en la materia;
 
@@ -2894,7 +3058,9 @@ VII. Establecer los lineamientos que deberán observar los Órganos de Gobierno 
 
 VIII. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, respecto de la información programático-presupuestal y de otra índole que deberán remitir para efectos de la integración de los informes trimestrales de la Ciudad de México que establezca la normatividad aplicable;
 
-IX. Fungir como enlace de la Secretaría de Administración y Finanzas para recibir las solicitudes de información que realicen los Órganos de Fiscalización Externos, por si o en coordinación con los entes competentes de la Ciudad de México, como parte de los ejercicios de revisión y fiscalización que lleven a cabo, así como para realizar la integración y entrega de la documentación que generen en el ámbito de su competencia las Unidades Administrativas de la Secretaría de Finanzas, otorgando el correspondiente seguimiento;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Fungir como enlace de la Secretaría de Administración y Finanzas para recibir las solicitudes de información que realicen los Órganos de Fiscalización Externos, por si o en coordinación con los entes competentes de la Ciudad de México, como parte de los ejercicios de revisión y fiscalización que lleven a cabo, así como para realizar la integración y entrega de la documentación que generen en el ámbito de su competencia las Unidades Administrativas de la Secretaría de Administración y Finanzas, otorgando el correspondiente seguimiento;
 
 X. Asesorar y dar seguimiento en el proceso de armonización contable a los entes públicos de la Ciudad de México, y fungir como Secretario Técnico en la operación del Consejo de Armonización Contable Local;
 
@@ -2936,7 +3102,7 @@ III. Supervisar las acciones de integración y revisión de la información prog
 
 ###### Artículo 75.
 
-Corresponde a la Dirección General de Gasto Eficiente "A":
+Corresponde a la Dirección General de Gasto Eficiente “A”:
 
 I. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
 
@@ -2974,7 +3140,7 @@ XVII. Las demás que le fijen expresamente las leyes y reglamentos, así como la
 
 ###### Artículo 76.
 
-Corresponde a la Dirección Ejecutiva de Análisis y Seguimiento Presupuestal "A":
+Corresponde a la Dirección Ejecutiva de Análisis y Seguimiento Presupuestal “A”:
 
 I. Dirigir el análisis y la integración de los anteproyectos de presupuesto de egresos de las Unidades Responsables del Gasto asignadas, para la integración y elaboración del proyecto de presupuesto de egresos del Gobierno de la Ciudad de México, así como la calendarización del presupuesto aprobado;
 
@@ -3006,7 +3172,7 @@ VI. Coordinar, en el ámbito de las Unidades Responsables del Gasto asignadas, l
 
 ###### Artículo 78.
 
-Corresponde a la Dirección General de Gasto Eficiente “B”:
+Corresponde a la Dirección General de Gasto Eficiente "B":
 
 I. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
 
@@ -3018,29 +3184,53 @@ IV. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignada
 
 V. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
 
-VII (SIC). Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
+VI. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
 
-IX. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Plan General de Desarrollo de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
+VII. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
 
-XI. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
+VIII. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Plan General de Desarrollo de la Ciudad de México;
 
-XIII. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
+IX. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
 
-XV. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVI. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
+X. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
 
-XVII. Emitir la opinión que soliciten las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XI. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Emitir la opinión que soliciten las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 ###### Artículo 79.
 
@@ -3422,7 +3612,9 @@ XVIII. Acordar con su superior jerárquico la designación como depositarias de 
 
 XIX. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
-XX. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XX. Acordar con su superior jerárquico el destino y uso de los vehículos y de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
 
 XXI. Intercambiar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, con otras entidades federativas de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
 
@@ -3444,7 +3636,9 @@ XXIX. Aceptar y calificar las garantías que otorguen los contribuyentes para as
 
 XXX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Ciudad de México;
 
-XXXI. Intercambiar información, con motivo del ejercicio de sus atribuciones en materia de comercio exterior, con la Tesorería de la Ciudad de México o con cualquier otra autoridad municipal, local o federal;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXXI. Intercambiar información, con motivo del ejercicio de sus atribuciones en materia de comercio exterior, con otras autoridades de la Ciudad de México o con cualquier otra autoridad municipal, local o federal;
 
 XXXII. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera;
 
@@ -3506,9 +3700,13 @@ XI. Imponer las multas que correspondan, en el ámbito de su competencia, relaci
 
 XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus atribuciones, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial y en el acta final que al efecto se levante;
 
-XIII. Acordar con su superior jerárquico la designación a cargo de terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera, embargadas precautoriamente, debiendo informar a la Subdirección del Recinto Fiscal dicha situación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+XIII. Acordar con su superior jerárquico la designación como depositario a terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera, embargadas precautoriamente, debiendo informar a la Subdirección del Recinto Fiscal dicha situación;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Acordar con su superior jerárquico el destino y uso de los vehículos y de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
 
 XV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades de la Ciudad de México, para el ejercicio de sus funciones;
 
@@ -3776,9 +3974,11 @@ XV. Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financ
 
 XVII (SIC). Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 99.
 
-Corresponde a la Dirección General de Tecnologías de la Información y Comunicaciones:
+Corresponde a la Dirección General de Tecnologías y Comunicaciones:
 
 I. Establecer el programa institucional de desarrollo en materia de Tecnologías de la Información y Comunicación (TIC) de la Secretaría de Administración y Finanzas;
 
@@ -4414,7 +4614,9 @@ III. Dar seguimiento a las adquisiciones, arrendamientos y prestación de servic
 
 IV. Someter a las sesiones del Comité de Autorizaciones de Adquisiciones, Arrendamientos y Prestación de Servicios u órgano respectivo, los asuntos a tratar para su autorización o conocimiento, desempeñando las funciones inherentes de Secretario Técnico;
 
-V. Atender las solicitudes de autorizaciones para la adquisición de bienes y contratación de servicios restringidos, presentados ante la Dirección General por las Unidades Ejecutoras de Gasto;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Atender las solicitudes de autorizaciones para la adquisición de bienes y contratación de servicios restringidos, presentados ante la Dirección General por las Unidades Responsables de Gasto;
 
 VI. Analizar y emitir los comentarios correspondientes a las carpetas de las sesiones de los subcomités de adquisiciones, arrendamientos y prestación de servicios de las unidades responsables de gasto;
 
@@ -4522,9 +4724,11 @@ XXVII. Practicar el avalúo solicitado por la autoridad competente respecto de b
 
 XXVIII. Practicar el avalúo de las empresas o negociaciones agrícolas, pecuarias, forestales, industriales, comerciales y de servicios, que por cualquier concepto adquieran, enajenen o graven las Dependencias, Unidades Administrativas, los Órganos Desconcentrados y Entidades de la Administración Pública, así como las Alcaldías;
 
-XIX (SIC). Practicar los avalúos que le solicite la autoridad fiscal de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXX (SIC). Practicar el avalúo de los bienes muebles e inmuebles para los efectos de la contratación de seguros de daños y responsabilidad civil;
+XXIX. Practicar los avalúos que le solicite la autoridad fiscal de la Ciudad de México;
+
+XXX. Practicar el avalúo de los bienes muebles e inmuebles para los efectos de la contratación de seguros de daños y responsabilidad civil;
 
 XXXI. Practicar los avalúos que requieran los particulares para cumplir con las obligaciones fiscales vinculadas a los bienes muebles e inmuebles, apegándose en la práctica de dichos avalúos al Código Fiscal de la Ciudad de México, así como a los procedimientos y lineamientos técnicos y manuales de valuación;
 
@@ -5476,9 +5680,11 @@ XI. Otorgar el apoyo logístico para la realización de los diversos eventos cul
 
 XII. Recuperar espacios públicos a través de la programación de actividades artístico-culturales.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 141.
 
-Corresponde a la Dirección General de Educación Artística y Cultura Comunitarios:
+Corresponde a la Dirección General de Educación Artística y Cultura Comunitaria:
 
 I. Diseñar e instrumentar las, estrategias, programas y proyectos que permitan fomentar y difundir la educación artística formal y cultural entre la población de la Ciudad de México;
 
@@ -5498,7 +5704,9 @@ I. Organizar, coordinar e implantar las acciones necesarias para la realización
 
 II. Realizar directamente o en coordinación con otras instituciones, agrupaciones o particulares, acciones para promover el conocimiento de la historia, la geografía, las tradiciones y los demás valores que forman parte del patrimonio cultural urbano y rural de la Ciudad de México;
 
-III. Colaborar con las instituciones federales, en especial con el Instituto Nacional de Antropología e Historia y con el Instituto Nacional de Bellas Artes y Literatura, en toda acción tendiente a conservar los bienes patrimoniales a cargo de la Secretaría de Salud (Históricos o Artísticos);
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Colaborar con las instituciones federales, en especial con el Instituto Nacional de Antropología e Historia y con el Instituto Nacional de Bellas Artes y Literatura, en toda acción tendiente a conservar los bienes patrimoniales a cargo de la Secretaría de Cultura (Históricos o Artísticos);
 
 IV. Organizar y desarrollar, programas que permitan rendir homenaje a nuestros símbolos patrios, héroes nacionales y gestas heroicas;
 
@@ -5542,7 +5750,9 @@ XXIII. Valorar y en su caso publicar y difundir las investigaciones sobre sitios
 
 XXIV. Elaborar, actualizar y difundir el catálogo de bienes que tengan la categoría de patrimonio cultural comunitario de la Ciudad de México;
 
-XXV. Apoyar las actividades de la Secretaría de Pueblos y Barrios Originarios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXV. Apoyar las actividades de la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
 XXVI. Apoyar y promover las actividades de los cronistas de la Ciudad de México y sus organizaciones;
 
@@ -5550,9 +5760,11 @@ XXVII. Coadyuvar con la Dirección General de Patrimonio Inmobiliario en la asig
 
 XXVIII. Coordinarse con las Dependencias de la Administración Pública local, en las acciones de mantenimiento mayor a los inmuebles y espacios culturales de la Ciudad de México, con la finalidad de conservar y mantener en buen estado su patrimonio histórico y cultural.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 143.
 
-Corresponde al Director General del Instituto de los Derechos Culturales de la Ciudad de México:
+Corresponde a la Dirección General del Instituto de los Derechos Culturales de la Ciudad de México:
 
 I. Atender y resolver las quejas que por motivo de trasgresión de los derechos culturales presente cualquier persona individual o colectiva ante la Secretaría, mediante el procedimiento establecido en esta Ley;
 
@@ -5680,7 +5892,7 @@ II.- Proponer, coordinar, colaborar y dar seguimiento a los proyectos; así como
 
 III.- Diseñar una política pública que fomente y proteja los canales tradicionales de abasto, comercio y distribución;
 
-IV.- Diseñar e implementar instrumentos jurídico-administrativos para la realización de proyectos y acciones específicas en materia de abasto, comercio y distribución. Los proyectos pueden ser de reconstrucción, rehabilitación, de promoción y fomento, de regulación, capacitación y/o modernización, entre otros;
+IV.- Diseñar e implementar instrumentos jurídico–administrativos para la realización de proyectos y acciones específicas en materia de abasto, comercio y distribución. Los proyectos pueden ser de reconstrucción, rehabilitación, de promoción y fomento, de regulación, capacitación y/o modernización, entre otros;
 
 V.- Planear, coordinar y realizar acciones tendientes a monitorear y difundir los precios de venta de productos de la canasta básica al público, con el fin de fomentar el consumo en los canales de abasto, estableciendo relaciones de coordinación con las diferentes Entidades de la Administración Pública Local y Federal;
 
@@ -6062,9 +6274,11 @@ XXIII. Llevar a cabo verificaciones administrativas en los casos que por su rele
 
 XXIV. Las demás atribuciones que le confieran otros ordenamientos aplicables.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 156.
 
-Corresponde a la Dirección General para la Planeación del Desarrollo de la Ciudad de México:
+Corresponde a la Dirección General de Planeación de Desarrollo y Ordenamiento Territorial:
 
 I.- Realizar proyectos relacionados con el sistema de planeación del desarrollo y ordenamiento territorial, así como participar, en su caso, con las autoridades competentes en la elaboración del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de las Alcaldías; y el Programa de Gobierno de la Ciudad de México;
 
@@ -6152,41 +6366,75 @@ II. Proponer a la persona Titular de la Secretaría, instrumentar y participar e
 
 III. Diseñar los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, innovación, productos, servicios y proyectos de desarrollo tecnológico y de innovación que beneficien a los habitantes de la Ciudad;
 
-IV. Propiciar la creación y participar en los Centros de Investigación de la Ciudad de México
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IV (SIC). Establecer las bases y participar en los grupos de trabajo que se integren para la evaluación, aprobación y seguimiento de los proyectos de desarrollo tecnológico y de innovación, prioritarios de la Ciudad de México;
+IV. Propiciar la creación y participar en los Centros de Investigación de la Ciudad de México;
 
-V. Supervisar, de conformidad con la normatividad de la materia, el desarrollo de los proyectos de (sic) tecnológicos y de innovación que sean autorizados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VI. Coordinar el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos de desarrollo tecnológico y de innovación a cargo de la Secretaría;
+V. Establecer las bases y participar en los grupos de trabajo que se integren para la evaluación, aprobación y seguimiento de los proyectos de desarrollo tecnológico y de innovación, prioritarios de la Ciudad de México;
 
-VII. Fomentar la formación, apoyo y desarrollo de científicos, académicos, tecnólogos, investigadores y profesionales de alto nivel académico, en el ámbito de su competencia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Promover la participación de la comunidad científica y de los sectores público, social y privado para el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
+VI. Supervisar, de conformidad con la normatividad de la materia, el desarrollo de los proyectos de tecnológicos (sic) y de innovación que sean autorizados;
 
-IX. Proponer y ejecutar las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Proponer, dar seguimiento y continuidad a las acciones para la organización de eventos, ferias, exposiciones y congresos relacionados con el desarrollo de la ciencia, tecnología e innovación;
+VII. Coordinar el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos de desarrollo tecnológico y de innovación a cargo de la Secretaría;
 
-XI. Establecer mecanismos de colaboración con la Administración Pública Local y los Órganos Político Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de ciencia, tecnología e Innovación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Atender las consultas que realicen las Dependencias y Entidades de la Administración Pública de la Ciudad de México, sobre la instrumentación de los proyectos de ciencia, tecnología e innovación así como las que formulen las Alcaldías, las personas físicas y los organismos de los sectores social o privado en esta materia;
+VIII. Fomentar la formación, apoyo y desarrollo de científicos, académicos, tecnólogos, investigadores y profesionales de alto nivel académico, en el ámbito de su competencia;
 
-XIII. Promover la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en la Ciudad de México, para proteger la propiedad intelectual y las patentes;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Realizar los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con la (sic) en materias de Propiedad Industrial y Patentes en la Ciudad de México, que permitan orientar el apoyo a proyectos de desarrollo científico, tecnológico y de innovación;
+IX. Promover la participación de la comunidad científica y de los sectores público, social y privado para el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
 
-XV. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría incidan en el desarrollo de inversiones estratégicas en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVI. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con apoyos otorgados por la Secretaría;
+X. Proponer y ejecutar las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
 
-XVII. Fomentar entre los entes públicos o privados el intercambio, movilidad o estancias de investigadores, científicos, académicos o profesionistas de alto nivel, en materia de ciencia, tecnología, e innovación, cumpliendo para ello con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVIII. Impulsar y promover el establecimiento de redes científicas a fin de establecer sistemas de cooperación en esas materias;
+XI. Proponer, dar seguimiento y continuidad a las acciones para la organización de eventos, ferias, exposiciones y congresos relacionados con el desarrollo de la ciencia, tecnología e innovación;
 
-VIII (SIC). Establecer los mecanismos necesarios para el intercambio de profesores e investigadores, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo científico, tecnológico y de innovación, en coordinación con la (sic) diferentes Unidades Administrativas de la Secretaría.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXI (SIC). Fomentar la aplicación y el desarrollo de la ciencia, tecnología e innovación de la Información y Comunicación en temas estratégicos para la ciudad;
+XII. Establecer mecanismos de colaboración con la Administración Pública Local y los Órganos Político Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de ciencia, tecnología e Innovación;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Atender las consultas que realicen las Dependencias y Entidades de la Administración Pública de la Ciudad de México, sobre la instrumentación de los proyectos de ciencia, tecnología e innovación así como las que formulen las Alcaldías, las personas físicas y los organismos de los sectores social o privado en esta materia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Promover la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en la Ciudad de México, para proteger la propiedad intelectual y las patentes;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Realizar los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con la (sic) en materias de Propiedad Industrial y Patentes en la Ciudad de México, que permitan orientar el apoyo a proyectos de desarrollo científico, tecnológico y de innovación;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría incidan en el desarrollo de inversiones estratégicas en la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con apoyos otorgados por la Secretaría;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Fomentar entre los entes públicos o privados el intercambio, movilidad o estancias de investigadores, científicos, académicos o profesionistas de alto nivel, en materia de ciencia, tecnología, e innovación, cumpliendo para ello con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Impulsar y promover el establecimiento de redes científicas a fin de establecer sistemas de cooperación en esas materias;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XX. Establecer los mecanismos necesarios para el intercambio de profesores e investigadores, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo científico, tecnológico y de innovación, en coordinación con la (sic) diferentes Unidades Administrativas de la Secretaría.
+
+XXI. Fomentar la aplicación y el desarrollo de la ciencia, tecnología e innovación de la Información y Comunicación en temas estratégicos para la ciudad;
 
 XXII. Asesorar y en su caso, apoyar los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y el conocimiento;
 
@@ -6237,6 +6485,8 @@ XVIII. Fomentar la participación de las instituciones no gubernamentales en los
 XIX. Coordinar la difusión de los eventos y programas sociales que la Secretaría implementa en la Ciudad de México; y
 
 XX. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 160.
 
@@ -6510,7 +6760,9 @@ XIV. Desarrollar acciones que promuevan la educación incluyente y la educación
 
 XV. Promover el reconocimiento de educadores y educandos, que permitan consolidar sus logros y sean ejemplo en sus áreas de acción o comunidades; y
 
-XVII (SIC). Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
 #### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
@@ -7112,7 +7364,9 @@ IV. Generar, sistematizar y difundir la información en materia de educación am
 
 V. Proponer a las personas Titulares de la Secretaría y de la Jefatura de Gobierno la celebración de convenios de colaboración y otros instrumentos jurídicos en materia de cultura y educación ambiental, con instituciones públicas y privadas;
 
-VI. Elaborar el análisis de la información que solicite la persona Ttitular (sic) de la Secretaría del Medio Ambiente, con la finalidad de hacer propuestas para fortalecer la protección del medio ambiente;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Elaborar el análisis de la información que solicite la persona Titular de la Secretaría del Medio Ambiente, con la finalidad de hacer propuestas para fortalecer la protección del medio ambiente;
 
 VII. Elaborar campañas de comunicación que tengan como propósito el cuidado y protección del medio ambiente;
 
@@ -7298,9 +7552,9 @@ a) Fiestas; y
 
 b) Tradiciones.
 
-V. Representar en los ámbitos local, federal e internacional a las denominadas ciudades declaradas "Patrimonio Mundial de la Humanidad" por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura de las Naciones Unidas (UNESCO), incorporadas en la superficie declarada como Zona Patrimonial Mundial;
+V. Representar en los ámbitos local, federal e internacional a las denominadas ciudades declaradas “Patrimonio Mundial de la Humanidad” por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura de las Naciones Unidas (UNESCO), incorporadas en la superficie declarada como Zona Patrimonial Mundial;
 
-VI. Operar en los ámbitos local, federal e internacional el Programa "Ciudades Mexicanas del Patrimonio Mundial", respecto de las denominadas ciudades localizadas en la Zona Patrimonio Mundial;
+VI. Operar en los ámbitos local, federal e internacional el Programa “Ciudades Mexicanas del Patrimonio Mundial”, respecto de las denominadas ciudades localizadas en la Zona Patrimonio Mundial;
 
 VII. Elaborar el Programa Especial de la Zona Patrimonio Mundial, así como coordinar su ejecución y proporcionar la información conducente para el monitoreo y evaluación de su cumplimiento;
 
@@ -7450,33 +7704,61 @@ I. Dirigir las acciones para que el Registro Público del Transporte, sea integr
 
 II. Establecer, desarrollar, impulsar y mantener actualizado el Registro Público del Transporte en la Ciudad de México, en todos sus registros: concesiones, permisos, autorizaciones, licencias para conducir, tarjetones, permisos para conducir, permisos para circular, placas, tarjetas de circulación y la prórroga o revocación de estos actos administrativos que generen las Unidades Administrativas competentes, y sistematizar la información en forma coordinada con éstas;
 
-IV (SIC). Actualizar y sistematizar de manera permanente en coordinación con las Unidades Administrativas responsables, la información en medios electrónico y/o documental del Registro Público del Transporte: permisos, autorizaciones, placas, tarjetas de circulación, permisos para circular, licencias de conducir, permisos para conducir y la prórroga y revocación de estos actos administrativos, del servicio de corredores de transporte y toda la documentación necesaria de los vehículos y conductores en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-V. Satisfacer los requerimientos de información en medios electrónicos y documental de los particulares, usuarios, permisionarios, concesionarios y titulares de las autorizaciones, Entidades Federativas, Administración Pública Federal y demás autoridades que así lo soliciten, en su caso; y desarrollar en coordinación con el área competente, procedimientos que faciliten la entrega de la información solicitada en forma rápida y oportuna;
+III. Actualizar y sistematizar de manera permanente en coordinación con las Unidades Administrativas responsables, la información en medios electrónico y/o documental del Registro Público del Transporte: permisos, autorizaciones, placas, tarjetas de circulación, permisos para circular, licencias de conducir, permisos para conducir y la prórroga y revocación de estos actos administrativos, del servicio de corredores de transporte y toda la documentación necesaria de los vehículos y conductores en la Ciudad de México;
 
-VI. Determinar los criterios y estudios para el establecimiento de las cuotas y tarifas por los requerimientos de información al Registro Público del Transporte, para proponerlos al área que corresponda;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Establecer la normatividad administrativa y/o reglas de operación que determinen los criterios para determinar tarifas, horarios de atención al público y procedimientos claros para el personal en la integración de la información, actualización y manejo de los productos;
+IV. Satisfacer los requerimientos de información en medios electrónicos y documental de los particulares, usuarios, permisionarios, concesionarios y titulares de las autorizaciones, Entidades Federativas, Administración Pública Federal y demás autoridades que así lo soliciten, en su caso; y desarrollar en coordinación con el área competente, procedimientos que faciliten la entrega de la información solicitada en forma rápida y oportuna;
 
-VIII. Desarrollar un sistema de información que sea de calidad, confiable, suficiente, claro y disponible, que facilite la consulta por parte de los particulares, usuarios, permisionarios, concesionarios, Entidades Federativas y, en su caso, la Administración Pública Federal, en forma coordinada con la Dirección Ejecutiva de Tecnologías de la Información y Comunicación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IX. Preparar, en coordinación con la Dirección General de Asuntos Jurídicos, los convenios que se formalicen con las Entidades Federativas y la Administración Pública Federal, en el caso de que requieran en forma regular, información del Registro Público del Transporte;
+V. Determinar los criterios y estudios para el establecimiento de las cuotas y tarifas por los requerimientos de información al Registro Público del Transporte, para proponerlos al área que corresponda;
 
-X. Coordinar las labores de actualización de datos con el Registro Público Vehicular (REPUVE);
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XI. Registrar peritos en materia de transporte, tránsito y vialidad, acreditados ante las instancias correspondientes;
+VI. Establecer la normatividad administrativa y/o reglas de operación que determinen los criterios para determinar tarifas, horarios de atención al público y procedimientos claros para el personal en la integración de la información, actualización y manejo de los productos;
 
-XII. Registrar las normas técnicas y operacionales del servicio de transporte de pasajeros particular, así como de la infraestructura y equipamiento auxiliar del mismo y evaluar su cumplimiento;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIII. Realizar los estudios técnicos basados en el registro público vehicular y necesidades de atención de la demanda de usuarios, que justifiquen incrementar autorizaciones, permisos y/o concesiones para la prestación del servicio público de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
+VII. Desarrollar un sistema de información que sea de calidad, confiable, suficiente, claro y disponible, que facilite la consulta por parte de los particulares, usuarios, permisionarios, concesionarios, Entidades Federativas y, en su caso, la Administración Pública Federal, en forma coordinada con la Dirección Ejecutiva de Tecnologías de la Información y Comunicación;
 
-XIV. Dictar y registrar acuerdos para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XV. Diseñar la arquitectura tecnológica y administrar los sistemas de información y bases de datos del Registro Público Vehicular y Padrones de Transporte particular; transporte de pasajeros público de pasajeros (sic) en sus diferentes modalidades; carga en todas sus modalidades (público, mercantil, privado y particular); transporte especializado y; otros sistemas alternativos que requieran su registro. Todo lo anterior en Coordinación con la Dirección Ejecutiva de Sistemas;
+VIII. Preparar, en coordinación con la Dirección General de Asuntos Jurídicos, los convenios que se formalicen con las Entidades Federativas y la Administración Pública Federal, en el caso de que requieran en forma regular, información del Registro Público del Transporte;
 
-XVI. Participar con la Dirección Ejecutiva de Sistemas, en lo que corresponde al Registro Público Vehicular y sistemas y procesos vinculados licencias, tarjetón-licencia, concesiones, permisos, control vehicular, revista y autorizaciones, para implementar, directamente o por conducto de terceros, lo que competa al Programa Estratégico de Tecnologías de la Información y Comunicación (PETIC) de la Secretaría; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Subsecretaría o de la Secretaría.
+IX. Coordinar las labores de actualización de datos con el Registro Público Vehicular (REPUVE);
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Registrar peritos en materia de transporte, tránsito y vialidad, acreditados ante las instancias correspondientes;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI Registrar las normas técnicas y operacionales del servicio de transporte de pasajeros particular, así como de la infraestructura y equipamiento auxiliar del mismo y evaluar su cumplimiento;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Realizar los estudios técnicos basados en el registro público vehicular y necesidades de atención de la demanda de usuarios, que justifiquen incrementar autorizaciones, permisos y/o concesiones para la prestación del servicio público de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Dictar y registrar acuerdos para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Diseñar la arquitectura tecnológica y administrar los sistemas de información y bases de datos del Registro Público Vehicular y Padrones de Transporte particular; transporte de pasajeros público de pasajeros en sus diferentes modalidades; carga en todas sus modalidades (público, mercantil, privado y particular); transporte especializado y; otros sistemas alternativos que requieran su registro. Todo lo anterior en Coordinación con la Dirección Ejecutiva de Sistemas;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Participar con la Dirección Ejecutiva de Sistemas, en lo que corresponde al Registro Público Vehicular y sistemas y procesos vinculados licencias, tarjetón-licencia, concesiones, permisos, control vehicular, revista y autorizaciones, para implementar, directamente o por conducto de terceros, lo que competa al Programa Estratégico de Tecnologías de la Información y Comunicación (PETIC) de la Secretaría; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Subsecretaría o de la Secretaría.
 
 ###### Artículo 193.
 
@@ -7560,21 +7842,37 @@ XXXVIII. Promover acciones que tiendan a satisfacer y a regular el servicio de t
 
 XXXIX. Evaluar la aplicación y eficiencia del marco regulatorio del transporte de pasajeros particular y mantenerlo actualizado y, en su caso; en forma coordinada con la Dirección General de Asuntos Jurídicos, proponer las modificaciones necesarias a las leyes, reglamentos y demás ordenamientos jurídicos en materia de transporte particular para la Ciudad de México;
 
-XXX (SIC). Regular las plataformas digitales de cobro de servicios y cualquier otro instrumento de aplicación de la tarifa de servicio para todas las modalidades de servicio de transporte público de pasajeros en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXXI. Coordinar la realización de los trámites de control vehicular, licencias y permisos en los centros de servicios de la Secretaría, Tesorería y Alcaldías;
+XL. Regular las plataformas digitales de cobro de servicios y cualquier otro instrumento de aplicación de la tarifa de servicio para todas las modalidades de servicio de transporte público de pasajeros en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
 
-XXXII. Diseñar, mejorar y adecuar la infraestructura y equipo tanto en el exterior como en el interior de los centros y espacios públicos en donde se presten los servicios de la Secretaría por la mejor calidad y transparencia de los servicios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXXIII. Promover la sistematización de procesos y la expansión de plataformas y red digital en coordinación con la Dirección Ejecutiva de Tecnologías de Información y Comunicación para la realización de los diferentes trámites y servicios de la Secretaría que le correspondan, para que éstos se lleven a cabo de forma rápida y segura;
+XLI. Coordinar la realización de los trámites de control vehicular, licencias y permisos en los centros de servicios de la Secretaría, Tesorería y Alcaldías;
 
-XXXIV. Implementar, coordinar y establecer nuevas áreas de atención para brindar los servicios de la Secretaria de Movilidad que le correspondan;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXXV. Actualizar, la información de los requisitos para cada uno de los trámites y facilitar la transmisión de expedientes y datos al Registro Público Vehicular y a la Dirección Ejecutiva de Sistemas;
+XLII. Diseñar, mejorar y adecuar la infraestructura y equipo tanto en el exterior como en el interior de los centros y espacios públicos en donde se presten los servicios de la Secretaría por la mejor calidad y transparencia de los servicios;
 
-XXXVI. Resguardar y tutelar datos personales y claves de servicio en responsabilidad pública de conformidad con las normas aplicables para la realización de trámites y la gestión de la información en sus áreas de responsabilidad; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXXVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Subsecretaría o de la Secretaría.
+XLIII. Promover la sistematización de procesos y la expansión de plataformas y red digital en coordinación con la Dirección Ejecutiva de Tecnologías de Información y Comunicación para la realización de los diferentes trámites y servicios de la Secretaría que le correspondan, para que éstos se lleven a cabo de forma rápida y segura;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XLIV. Implementar, coordinar y establecer nuevas áreas de atención para brindar los servicios de la Secretaria de Movilidad que le correspondan;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XLV. Actualizar, la información de los requisitos para cada uno de los trámites y facilitar la transmisión de expedientes y datos al Registro Público Vehicular y a la Dirección Ejecutiva de Sistemas;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XLVI. Resguardar y tutelar datos personales y claves de servicio en responsabilidad pública de conformidad con las normas aplicables para la realización de trámites y la gestión de la información en sus áreas de responsabilidad; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XLVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Subsecretaría o de la Secretaría.
 
 ###### Artículo 194.
 
@@ -7790,17 +8088,25 @@ VI. Proponer a la persona Titular de la Secretaría, iniciativas de reformas leg
 
 VII. Proponer la realización de foros, congresos, diplomados, cursos y certificación en materia igualdad sustantiva y autonomía física, económica y política de las mujeres que habitan y transitan en la Ciudad de México para garantizar sus derechos humanos plenos;
 
-VIII. Dirigir y supervisar la oportunidad, calidad, eficacia y eficiencia de los servicios de prevención y atención a la violencia de género, que se brinden en las Unidades territoriales de atención, (LUNAS), en los módulos de orientación instalados por la Secretaría de las Mujeres, en las estrategias de intervención territorial, en los hogares de mujeres en situación de riesgo, en los Centros de Justicia para las Mujeres, casas de emergencia y Refugio, de acuerdo con el modelo de atención diseñado para tal efecto;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Dirigir y supervisar la oportunidad, calidad, eficacia y eficiencia de los servicios de prevención y atención a la violencia de género, que se brinden en las Unidades territoriales de atención, (LUNAS), en los módulos de orientación instalados por la Secretaría de las Mujeres, en las estrategias de intervención territorial, en los hogares de mujeres en situación de riesgo, en las casas de emergencia y Refugio, de acuerdo con el modelo de atención diseñado para tal efecto;
 
 IX. Promover programas y acciones en materia de prevención a la violencia contra las mujeres y las niñas en las Alcaldías de la Ciudad de México, en coordinación con otros entes de la Administración Pública del Gobierno de la Ciudad;
 
-X. Dirigir y vigilar la consolidación de la la (sic) Red de Información de violencia contra las Mujeres en la Ciudad de México y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública y las Alcaldías, de conformidad con los Lineamientos de Operación emitidos para tal efecto, promoviendo la participación de los entes Públicos involucrados en la atención de mujeres y niñas en situación de violencia de género;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Dirigir y vigilar la consolidación de la Red de Información de violencia contra las Mujeres en la Ciudad de México y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública y las Alcaldías, de conformidad con los Lineamientos de Operación emitidos para tal efecto, promoviendo la participación de los entes Públicos involucrados en la atención de mujeres y niñas en situación de violencia de género;
 
 XI. Dirigir e impulsar programas y acciones orientadas a la reeducación de los hombres, a efecto promover relaciones de respeto, libres de violencia hacia su pareja, las y los hijos, amigas, amigos y comunidad;
 
-XII. Establecer mecanismos de comunicación permanente con las autoridades de procuración, administración e impartición de justicia, para fortalecer el acceso a la justicia y a la reparación del daño de mujeres víctimas de violencia, promovendo (sic) la cultura de la denuncia por actos que violenten los derechos humanos de mujeres, niñas, niños, adolescentes y mujeres de la diversidad sexual;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIII. Dirigir y promover programas y acciones orientadas (sic) difundir y mejorar la salud integral de las mujeres, así como el ejercicio pleno de los derechos sexuales y reproductivos en la Ciudad de México, preveniedo (sic) el abuso sexual a niños, niñas y el embarazo de adolescentes;
+XII. Establecer mecanismos de comunicación permanente con las autoridades de procuración, administración e impartición de justicia, para fortalecer el acceso a la justicia y a la reparación del daño de mujeres víctimas de violencia, promoviendo la cultura de la denuncia por actos que violenten los derechos humanos de mujeres, niñas, niños, adolescentes y mujeres de la diversidad sexual;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Dirigir y promover programas y acciones orientadas (sic) difundir y mejorar la salud integral de las mujeres, así como el ejercicio pleno de los derechos sexuales y reproductivos en la Ciudad de México, previniendo el abuso sexual a niños, niñas y el embarazo de adolescentes;
 
 XIV. Dirigir y organizar las acciones necesarias para sentar las bases de creación de un Sistema Público de Cuidados en la Ciudad de México;
 
@@ -7818,9 +8124,11 @@ XX. Elaborar informes que den cuenta de los resultados en el cumplimiento de las
 
 XXI. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 203.
 
-Corresponde a la Dirección General para una Vida Libre de Violencia de Género:
+Corresponde a la Dirección General para una Vida Libre de Violencia:
 
 I. Formular, promover y ejecutar políticas, programas y acciones que favorezcan la prevención y atención para una vida libre de violencia hacia las niñas y las mujeres en la Ciudad de México;
 
@@ -7834,7 +8142,9 @@ V. Formular y, en su caso, celebrar o proponer instrumentos jurídicos con insti
 
 VI. Coordinarse de manera permanente con las autoridades de procuración y administración de justicia; así como proponer y en su caso coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia de mujeres y niñas en la Ciudad;
 
-VII. Desarrollar, operar, y dar seguimiento al sistema de Atención y Prevención de la violencia de género, integrado por las Unidades Territoriales de Atención (LUNAS), los Centros de Justicia para las Mujeres, Casas de Emergencia y Refugio, de acuerdo con el modelo de atención diseñado para tal efecto;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Desarrollar, operar, y dar seguimiento al sistema de Atención y Prevención de la violencia de género, integrado por las Unidades Territoriales de Atención (LUNAS), de acuerdo con el modelo de atención diseñado para tal efecto;
 
 VIII. Promover y realizar programas y acciones para la cultura de paz y no violencia de los hombres, para que detengan las prácticas de violencia y discriminación contra la pareja, las hijas y los hijos; así como en todas sus relaciones en los diferentes ámbitos de la vida social;
 
@@ -7848,7 +8158,9 @@ XII. Fomentar que todos los programas, mecanismos, medidas, lineamientos y estra
 
 XIII. Fomentar la participación de la sociedad civil organizada, impulsando políticas públicas con perspectiva de género, destinadas a mejorar las condiciones de vida de las mujeres en todos los ámbitos;
 
-XIV. Coordinar la prestación de los servicios integrales, multidisciplinarios y de calidad que bridan los Centros de Justicia para las Mujeres, el Refugio y las Casas de Emergencia de la Ciudad de México a las mujeres víctimas de alguna forma de violencia o delito por condición de género de acuerdo con el modelo de atención;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Coordinar la prestación de los servicios integrales, multidisciplinarios y de calidad que bridan las Unidades Territoriales de Atención (LUNAS) a las mujeres víctimas de alguna forma de violencia o delito por condición de género de acuerdo con el modelo de atención;
 
 XV. Promover la coordinación interna e interinstitucional, desde el marco de los derechos humanos, protección integral a la niñez y con perspectiva de género, para la promoción de la autonomía de las mujeres;
 
@@ -7856,7 +8168,9 @@ XVI. Promover y realizar acciones para el acceso a la justicia, brindando servic
 
 XVII. Elaborar informes que den cuenta de los resultados en el cumplimiento de los programas y acciones, objetivos y estrategias del Programa de Trabajo de la Secretaría de las Mujeres, en el ámbito de sus atribuciones;
 
-XVIII. Proponer a la persona Titular de la Secretaría de las Mujeres, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación de las LUNAS, los Centro de Justicia para las Mujeres, del Refugio y de las Casas de Emergencia de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Proponer a la persona Titular de la Secretaría de las Mujeres, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación de las LUNAS de la Ciudad de México;
 
 XIX. Dirigir, implementar, coordinar y dar seguimiento a los procedimientos y acciones de intervención territorial, impulsando procesos de empoderamiento y Ciudadanía que contribuya de forma directa e indirecta a la prevención e identificación de las violencias contra las mujeres y las niñas, a través de metodologías de intervención comunitaria e incluyentes, desde un enfoque intercultural e intergeneracional para promover los derechos humanos y la igualdad, generando condiciones para construir una Ciudad Segura;
 
@@ -7878,7 +8192,9 @@ IV. Elaborar y operar líneas de investigación y documentación para contribuir
 
 V. Coordinar el diseño de indicadores, mecanismos de seguimiento y evaluación para incidir en los entes públicos de la Ciudad de México, a fin de generar, potenciar y desarrollar insumos para las personas servidoras públicas responsables de diseñar, ejecutar y en su caso evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos orientada a lograr la igualdad sustantiva entre mujeres y hombres;
 
-VI. Dirigir la estrategia de institucionalización de la perspectiva de género y cultura organizacional de la Secretaría para la Autonomía de las Mujeres;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Dirigir la estrategia de institucionalización de la perspectiva de género y cultura organizacional de la Secretaría de las Mujeres;
 
 VII. Promover la elaboración de metodologías, indicadores y estudios de investigación desde un enfoque transversal de género en colaboración con instituciones públicas, privadas, sociales y académicas para garantizar los derechos humanos de las mujeres;
 
@@ -7888,9 +8204,13 @@ IX. Fortalecer la participación de los actores estratégicos en el diseño, for
 
 X. Coordinar las tareas derivadas de los Programas de Coinversión para el Desarrollo Social y de Financiamiento para Instituciones y Organizaciones dedicadas a la asistencia, integración y promoción social que en el marco de la corresponsabilidad y promoción de la participación Ciudadana coadyuven a abatir las desigualdades, eliminar la exclusión y discriminación, promoviendo el reconocimiento y respeto a la diversidad, que le remita la persona Titular de la Secretaría de las Mujeres orientada a la concreción de la igualdad sustantiva entre mujeres y hombres;
 
-XI. Desarrollar acciones encaminadas a fortalecer la vinculación con las OSC con acciones hacia las mujeres, a efectos de trabajar de manera coordinada en beneficio de los distintos grupos de mujeres;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Coordinar la gestión y operación de los apoyos y estímulos dirigidos a fomentar las actividades de las OSC que trabajan en favor de las mujeres, a fin de que puedan continuar incidiendo en la solución de las distintas problemáticas que enfrentan los grupos más vulnerables de la población femenina;
+XI. Desarrollar acciones encaminadas a fortalecer la vinculación con las Organizaciones de la Sociedad Civil con acciones hacia las mujeres, a efectos de trabajar de manera coordinada en beneficio de los distintos grupos de mujeres;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Coordinar la gestión y operación de los apoyos y estímulos dirigidos a fomentar las actividades de las Organizaciones de la Sociedad Civil que trabajan en favor de las mujeres, a fin de que puedan continuar incidiendo en la solución de las distintas problemáticas que enfrentan los grupos más vulnerables de la población femenina;
 
 XIII. Diseñar y operar campañas dirigidas a promover la Igualdad sustantiva entre mujeres y hombres;
 
@@ -7900,7 +8220,9 @@ XV. Coordinarse con las diferentes áreas de la Secretaría de las Mujeres para 
 
 XVI. Coordinar las acciones interinstitucionales orientadas a garantizar la igualdad sustantiva entre mujeres y hombres;
 
-XVII. Establecer acciones para el funcionamiento, así como lineamientos de operación del CEDOC, mejoras a los sistemas implementados y promover vínculos y convenios con organizaciones afines para proporcionar servicios de información al personal del Instituto y público en general;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Establecer acciones para el funcionamiento, así como lineamientos de operación del Centro de Documentación de la Secretaría de las Mujeres, mejoras a los sistemas implementados y promover vínculos y convenios con organizaciones afines para proporcionar servicios de información al personal del Instituto y público en general;
 
 XVIII. Participar en la elaboración de los lineamientos generales en materia de Igualdad Sustantiva para los fines que la Jefatura de Gobierno y la normatividad vigente mandaten;
 
@@ -7912,7 +8234,9 @@ XX. Coordinar la sistematización y elaboración de informes para el seguimiento
 
 Corresponde a la Dirección General para el Acceso a la Justicia y Espacios de Refugio:
 
-I. Formular, promover y ejecutar políticas, programas y acciones que favorezcan la atención, la protección y el acceso a la justicia de mujeres y niñas en situación de violencia en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+I. Formular, promover y ejecutar políticas, programas y acciones que favorezcan la atención, la protección y el acceso a la justicia de mujeres y niñas en situación de violencia en el Refugio, la Casa de Emergencia, y a través de los y las Abogadas para las mujeres en las agencias del Ministerio Público en la Ciudad de México;
 
 II. Promover y realizar acciones para el acceso a la justicia de las mujeres brindando servicios de orientación jurídica en las Agencias Desconcentradas y Especializadas del Ministerio Público, que favorezca el ejercicio de los derechos de las mujeres, así como proporcionar información sobre los servicios sociales y de protección que requieran las mujeres en situación de violencia de género;
 
@@ -7922,7 +8246,9 @@ IV. Consolidar equipos de trabajo multidisciplinarios, con el objeto de brindar 
 
 V. Coordinarse de manera permanente con la Dirección resposable (sic) de las Unidades Territoriales de Atención (LUNAS), como parte del Sistema de Atención y Prevención de la Violencia de Género, así como con otras unidades administrativas del Gobierno de la Ciudad de México que brindan atención a las mujeres y niñas en situación de violencia de género, que permita fortalecer el sistema de referencia y contrarreferencia.
 
-VI. Establecer y mantener coordinación con las autoridades de procuración y administración de justicia, así como proponer y en su caso coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia y la protección de mujeres y niñas en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Establecer y mantener coordinación con las autoridades de procuración y administración de justicia, así como proponer y en su caso coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia y la protección de mujeres y niñas en la Ciudad de México, a través de los y las Abogadas para las mujeres en las agencias del Ministerio Público en la Ciudad de México;
 
 VII. Gestionar y realizar las acciones necesarias para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y Gobierno Local; las organizaciones sociales y las instituciones de asistencia pública y privada, dirigido a mejorar las condiciones de atención integral, protección y acceso a la justicia de las mujeres y niñas en el Refugio y la Casa de Emergencia, para contribuir al logro de su autonomía física, económica y política;
 
@@ -7930,11 +8256,15 @@ VIII. Promover, operar y vigilar las acciones necesarias para que el personal pr
 
 IX. Establecer las actividades que deben realizar las diferentes áreas que integran la Dirección General para el Acceso a la Justicia y Espacios de Refugio, orientadas a dar respuesta oportuna y con la debida diligencia a las necesidades de las mujeres víctimas de violencia de género, que favorezcan su acceso a la justicia.
 
-X. Promover proyectos y programas en materia de prevención, atención y acceso a la justicia orientadas a fortalecer las políticas públicas de la Secretaría de las Mujeres.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Promover proyectos y programas en materia de acceso a la justicia y protección de las mujeres orientadas a fortalecer las políticas públicas de la Secretaría de las Mujeres.
 
 XI. Diseñar estrategias orientadas a coadyuvar con las autoridades ministeriales y judiciales de la Ciudad de México que favorezcan el acceso a la procuración e impartición de justicia de las mujeres y niñas víctimas de violencia de género.
 
-XII. Formular, celebrar y proponer instrumentos jurídicos con instituciones públicas, privadas, sociales, organismos internacionales, agencias multilaterales e instituciones académicas, en materia de derechos humanos de las mujeres y las niñas, igualdad de género, atención y protección a los tipos y modalidades de violencia contra las mujeres y niñas, para el logro de sus objetivos y de acuerdo a la legislación aplicable;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Formular, celebrar y proponer instrumentos jurídicos con instituciones públicas, privadas, sociales, organismos internacionales, agencias multilaterales e instituciones académicas, en materia de atención y protección de las mujeres en todos los tipos y modalidades de violencia, de acuerdo a la legislación aplicable;
 
 XIII. Participar en representación de la Secretaría de las Mujeres en actividades y eventos diversos, realizados por los entes públicos y dependencias del Gobierno de la Ciudad de México, la administración pública federal, gobiernos estatales o municipales, así como la sociedad civil y comunidad académica en temas relacionados con el derecho a las mujeres a una vida libre de violencia, a la protección y al acceso a la justicia con el fin (sic) promover y fomentar acciones que mejoren la condición social de las mujeres, así como hacia la eliminación de todas las formas de violencia y discriminación de las mujeres.
 
@@ -8038,9 +8368,11 @@ X. Evaluar el análisis costo-beneficio de las obras públicas que realicen las 
 
 XI. Emitir y difundir el Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México, así como realizar las actualizaciones mensuales;
 
-XIII (SIC). Verificar la aplicación de los criterios para el análisis y autorización de precios unitarios con base en las disposiciones aplicables en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIII (SIC). Elaborar y administrar el registro de Concursantes y mantenerlo actualizado;
+XII. Verificar la aplicación de los criterios para el análisis y autorización de precios unitarios con base en las disposiciones aplicables en la materia;
+
+XIII. Elaborar y administrar el registro de Concursantes y mantenerlo actualizado;
 
 XIV. Supervisar y verificar la entrega-recepción de las obras ejecutadas por las diferentes Unidades Administrativas de la Secretaría a las áreas usuarias para que éstas las administren de acuerdo a sus facultades;
 
@@ -8470,7 +8802,7 @@ XII. Determinar las necesidades de recursos humanos y materiales para la prestac
 
 XIII. Diseñar e instrumentar programas específicos para la Secretaría de Salud de la Ciudad de México en materia de Protección Civil;
 
-XIV. Aplicar la normatividad vigente del programa "Hospital Seguro", ampliándola a Centros de Salud, Centros Toxicológicos, Clínicas de Especialidades y al Centro Regulador de Urgencias Médicas; y
+XIV. Aplicar la normatividad vigente del programa “Hospital Seguro”, ampliándola a Centros de Salud, Centros Toxicológicos, Clínicas de Especialidades y al Centro Regulador de Urgencias Médicas; y
 
 XV. Las demás que señalen las disposiciones legales aplicables.
 
@@ -8724,21 +9056,37 @@ XX. Fomentar acciones de concertación para prevenir o solucionar conflictos ent
 
 XXI. Concertar acciones con representantes de las organizaciones de trabajadores no asalariados en su relación con los comerciantes establecidos, industriales, prestadores de servicios e instituciones públicas y vecinos, para conciliar los intereses de todos los sectores en la solución de problemas específicos que se presenten en las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de su competencia;
 
-XXV (SIC). Llevar un registro de los trabajadores no asalariados y sus organizaciones;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXVI. Brindar capacitación a los trabajadores no asalariados sobre sus derechos y obligaciones que los ordenamientos legales de la Ciudad de México les confiere;
+XXII. Llevar un registro de los trabajadores no asalariados y sus organizaciones;
 
-XXVII. Promover la igualdad sustantiva entre hombres y mujeres mediante acciones con perspectiva de género;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXVIII. Propiciar la inclusión laboral de los grupos y personas trabajadoras, tales como personas discapacidad, de sectores vulnerables;
+XXIII. Brindar capacitación a los trabajadores no asalariados sobre sus derechos y obligaciones que los ordenamientos legales de la Ciudad de México les confiere;
 
-XXIX. Promover acciones para la prevención y denuncia del acoso y hostigamiento laboral;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXX. Promover acciones para coadyuvar al reconocimiento económico y social del sistema de cuidados de la Ciudad de México;
+XXIV. Promover la igualdad sustantiva entre hombres y mujeres mediante acciones con perspectiva de género;
 
-XXXI. Formar parte de las comisiones que las leyes, reglamentos o disposiciones administrativas establezcan para regular las relaciones obrero-patronales que sean del ámbito local y en las que se dé intervención a la Secretaría de Trabajo y Fomento al Empleo, cuando así lo determine la persona Titular de la Secretaría De Trabajo y Fomento al Empleo de la Ciudad de México; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXXII. Llevar a cabo el Registro de los empleadores que den trabajo a domicilio al que se refiere el artículo 317 de la Ley Federal del Trabajo.
+XXV. Propiciar la inclusión laboral de los grupos y personas trabajadoras, tales como personas discapacidad (sic), de sectores vulnerables;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVI. Promover acciones para la prevención y denuncia del acoso y hostigamiento laboral;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVII. Promover acciones para coadyuvar al reconocimiento económico y social del sistema de cuidados de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVIII. Formar parte de las comisiones que las leyes, reglamentos o disposiciones administrativas establezcan para regular las relaciones obrero-patronales que sean del ámbito local y en las que se dé intervención a la Secretaría de Trabajo y Fomento al Empleo, cuando así lo determine la persona Titular de la Secretaría De Trabajo y Fomento al Empleo de la Ciudad de México; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIX. Llevar a cabo el Registro de los empleadores que den trabajo a domicilio al que se refiere el artículo 317 de la Ley Federal del Trabajo.
 
 ###### Artículo 221.
 
@@ -8990,7 +9338,9 @@ XII. Tramitar el procedimiento previsto en las fracciones III a V del artículo 
 
 XIII. Substanciar y emitir el dictamen correspondiente a los procedimientos administrativos de reversión, así como la tramitación y resolución de los recursos de revocación, motivados por expropiaciones a favor de la Ciudad de México;
 
-XIV. Substanciar y emitir el dictamen correspondiente a las solicitudes de pago de indemnización por expropiaciones; o bien por afectaciones realizadas con la finalidad de subsanar las necesidades de la Ciudad de México, a efecto de formalizar la adquisición de los inmuebles afectados; corresponderá a la Dirección General de Asuntos Jurídicos de la Secretaría de Desarrollo Urbano y Vivienda efectuar el pago indemnizatorio por estos conceptos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Substanciar y emitir el dictamen correspondiente a las solicitudes de pago de indemnización por expropiaciones; o bien por afectaciones realizadas con la finalidad de subsanar las necesidades de la Ciudad de México, a efecto de formalizar la adquisición de los inmuebles afectados; corresponderá a la Dirección General de Asuntos Jurídicos de la Secretaría de Desarrollo Urbano y Vivienda y a las Entidades beneficiadas efectuar el pago indemnizatorio por estos conceptos;
 
 XV. Supervisar la elaboración, trámite y seguimiento de las solicitudes de expropiación de bienes ejidales o comunales en favor de la Ciudad de México;
 
@@ -9044,11 +9394,17 @@ XII. Llevar a cabo los estudios y análisis jurídicos de la problemática de or
 
 XIII. Tramitar los indultos que se concedan, cuando se trate de delitos del orden común;
 
-XIV. Llevar y autorizar los libros y otros mecanismos de registro que se implementen en la defensoría de oficio, incluyendo sistemas computarizados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XV. Dirigir, organizar, y llevar a cabo el control y supervisión de la defensoría de oficio de la Ciudad de México, de conformidad con la Ley de la materia, así como prestar los servicios de defensa, orientación y asistencia jurídica gratuitos;
+XIV. Llevar y autorizar los libros y otros mecanismos de registro que se implementen en la Defensoría Pública, incluyendo sistemas computarizados;
 
-XVI. Ordenar la realización de visitas a las Unidades Administrativas de Apoyo Técnico-Operativo encargadas de prestar los servicios de defensoría de oficio, en el ámbito jurisdiccional de la Ciudad de México; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Dirigir, organizar, y llevar a cabo el control y supervisión de la Defensoría Pública de la Ciudad de México, de conformidad con la Ley de la materia, así como prestar los servicios de defensa, orientación y asistencia jurídica gratuitos;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Ordenar la realización de visitas a las Unidades Administrativas de Apoyo Técnico-Operativo encargadas de prestar los servicios de Defensoría Pública, en el ámbito jurisdiccional de la Ciudad de México; y
 
 XVII. Coadyuvar en la coordinación y vigilancia del cumplimiento de las disposiciones jurídicas en materia de consejos de tutelas y bienes mostrencos.
 
@@ -9396,7 +9752,9 @@ XI. Verificar la aplicación de los manuales administrativos;
 
 XII. Informar a la Procuraduría Fiscal de la Ciudad de México, los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
 
-XIV (SIC). Expedir copias certificadas de la documentación que obre en los expedientes que integren sus archivos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Expedir copias certificadas de la documentación que obre en los expedientes que integren sus archivos.
 
 ###### Artículo 243.
 
@@ -9404,7 +9762,9 @@ Corresponde a las Administraciones Divisionales de Operación Tributaria por Reg
 
 I. Acordar con la persona Titular de la Subtesorería de Administración Tributaria los asuntos de su competencia en el ámbito regional que se les atribuya;
 
-II. Coordinar, supervisar, dirigir y evaluar la aplicación de las normas, procedimientos, acuerdos e instrucciones en materia de las atribuciones que correspondan a la (sic) Administraciones Tributarias ubicadas en el ámbito regional que se les atribuya y proponer las medidas correctivas al incumplimiento de la citada normatividad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Coordinar, supervisar, dirigir y evaluar la aplicación de las normas, procedimientos, acuerdos e instrucciones en materia de las atribuciones que correspondan a las Administraciones Tributarias ubicadas en el ámbito regional que se les atribuya y proponer las medidas correctivas al incumplimiento de la citada normatividad;
 
 III. Definir necesidades de capacitación del personal de las Administraciones Tributarias ubicadas en el ámbito regional que se les atribuya, para el mejoramiento del ejercicio de sus atribuciones y proponer los anteproyectos de programas de capacitación a la persona Titular de la Subtesorería de Administración Tributaria;
 
@@ -9446,9 +9806,13 @@ XI. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos qu
 
 Corresponde a la Dirección de Determinación de Créditos y Obligaciones Fiscales:
 
-I. Programar y controlar la vigilancia del cumplimiento de obligaciones fiscales de las y los contribuyentes;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-II. Notificar los actos administrativos relacionados con las obligaciones fiscales de las y los contribuyentes, responsables solidarios y demás obligados;
+I. Programar y controlar la vigilancia del cumplimiento de obligaciones fiscales de los contribuyentes;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Notificar los actos administrativos relacionados con las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados;
 
 III. Determinar, notificar y cobrar las contribuciones, aprovechamientos y productos, actualización y sus respectivos accesorios, señalados en la Ley de Ingresos de la Ciudad de México, en los términos de las disposiciones fiscales aplicables y en los acuerdos del Ejecutivo Federal;
 
@@ -9488,7 +9852,9 @@ III. Hacer efectivas a través del Procedimiento Administrativo de Ejecución la
 
 IV. Aceptar, previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal cuando soliciten la suspensión del procedimiento administrativo de ejecución, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente;
 
-V. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales de la Ciudad de México, y las de caracteres federales aplicables;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Ordenar la práctica de los embargos, así como su cancelación, en los términos de las disposiciones fiscales de la Ciudad de México, y las de carácter federal aplicables;
 
 VI. Coordinar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
 
@@ -9518,9 +9884,11 @@ V. Expedir copias certificadas de la documentación que obre en sus archivos; y
 
 VI. Informar los avances en los programas de visitas domiciliarias, verificación, auditorías, comprobación, revisión y cualquier otro programa que implemente la Subtesorería de Fiscalización.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 248.
 
-Corresponde a la Dirección de Procesos de Auditorías:
+Corresponde a la Dirección de Procesos de Auditoría:
 
 I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales de la Ciudad de México y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal, en materia de las contribuciones previstas en las leyes fiscales de la Ciudad de México y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal;
 
@@ -9550,9 +9918,11 @@ XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades 
 
 XIV. Llevar a cabo todos los actos y procedimientos de control administrativo con el propósito de combatir la evasión y elusión fiscal, sujetándose, para el efecto, a las normas establecidas por las disposiciones fiscales.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 249.
 
-Corresponde a la Dirección de Verificación Fiscales (sic):
+Corresponde a la Dirección de Verificaciones Fiscales:
 
 I. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales de la Ciudad de México y de las contribuciones federales coordinadas, en los términos de los acuerdos del Ejecutivo Federal;
 
@@ -9622,7 +9992,9 @@ XVII. Dar aviso a la Secretaría de Hacienda y Crédito Público, en caso de sin
 
 XVIII. Informar en todos los casos a la Procuraduría Fiscal de la Federación sobre la comisión o presunta comisión de cualquier infracción administrativa, delito fiscal federal o en materia aduanera, de que tenga conocimiento con motivo de sus actuaciones;
 
-XIX. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público;
 
 XX. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio de la Ciudad de México, de conformidad con los instrumentos y disposiciones jurídicas aplicables en materia de comercio exterior, para comprobar el correcto:
 
@@ -9640,9 +10012,11 @@ XXIII. Acordar con el superior jerárquico el desarrollo de sistemas de informac
 
 XXIV. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 251.
 
-Corresponde a la Subdirección del Recinto Fiscalizado:
+Corresponde a la Subdirección del Recinto Fiscal:
 
 I. Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, así como su correcta clasificación arancelaria, de conformidad con las disposiciones legales aplicables y emitir el dictamen de clasificación arancelaria correspondiente;
 
@@ -9656,15 +10030,23 @@ V. Solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, 
 
 VI. Supervisar la organización y funcionamiento de los lugares de almacenamiento necesarios para el depósito de mercancías, medios de transporte o vehículos de procedencia extranjera embargados precautoriamente, de conformidad con las disposiciones aplicables;
 
-VII. Acordar con su superior jerárquico la designación a cargo de terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera embargadas precautoriamente, debiendo informar a la Secretaría de Hacienda y Crédito Público sobre dicha situación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Acordar con su superior jerárquico la designación como depositario a terceras personas e incluso al propio interesado, de las mercancías de procedencia extranjera embargadas precautoriamente, debiendo informar a la Secretaría de Hacienda y Crédito Público sobre dicha situación;
 
 VIII. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
-IX. Acordar con su superior jerárquico el destino y uso de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII (SIC). Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público; y
+IX. Acordar con su superior jerárquico el destino y uso de vehículos y de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
 
-IX. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera ante la autoridad competente en términos de las disposiciones legales aplicables.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera ante la autoridad competente en términos de las disposiciones legales aplicables.
 
 #### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
 
@@ -9695,6 +10077,8 @@ DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINIST
 #### SECCION I
 
 ADSCRITO A LA JEFATURA DE GOBIERNO.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 253.
 
@@ -9976,7 +10360,9 @@ IX. Desechar de plano las reclamaciones de indemnización por responsabilidad pa
 
 X. Hacer del conocimiento de las autoridades competentes, los actos u omisiones que puedan ser constitutivos de delito, de responsabilidad administrativa o violación a cualquier otra disposición jurídica o administrativa y que se desprendan del procedimiento administrativo en materia de responsabilidad patrimonial;
 
-XI. Determinar la distribución de la indemnización, en los casos en que dos o más Dependencias, Órganos Desconcentrados, Alcaldías y Entidades concurran en la producción de los daños patrimoniales reclamados; oyendo la opinión de la Secretaría de Finanzas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Determinar la distribución de la indemnización, en los casos en que dos o más Dependencias, Órganos Desconcentrados, Alcaldías y Entidades concurran en la producción de los daños patrimoniales reclamados; oyendo la opinión de la Secretaría de Administración y Finanzas;
 
 XII. Aprobar los convenios que celebren las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, con los reclamantes de responsabilidad patrimonial afectados, a fin de dar por concluida la controversia;
 
@@ -10136,7 +10522,7 @@ IX. Las demás que le instruya la persona Titular de la Secretaría de la Contra
 
 ###### Artículo 263.
 
-Corresponde a las Jefaturas de Unidad Departamental de Pruebas de Laboratorio "A", "B" y C":
+Corresponde a las Jefaturas de Unidad Departamental de Pruebas de Laboratorio “A”, “B” y C”:
 
 I. Coordinar la elaboración del programa de pruebas de laboratorio y de campo, así como vigilar su cumplimiento;
 
@@ -10156,7 +10542,7 @@ VIII. Las demás que le instruya la persona Titular de la Secretaría de la Cont
 
 ###### Artículo 264.
 
-Corresponde a las Direcciones de Coordinación de Órganos Internos de Control en Alcaldías "A" y "B":
+Corresponde a las Direcciones de Coordinación de Órganos Internos de Control en Alcaldías “A” y “B”:
 
 I. Revisar la integración de los programas anuales de Auditoría y de Control Interno para su presentación a autorización, y en su caso, elaborar los proyectos de programas correspondientes, cuando el órgano interno de control no cuente con Titular, lo anterior atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
@@ -10210,7 +10596,7 @@ XXV. Las demás que le instruya la persona Titular de la Dirección General de C
 
 ###### Artículo 265.
 
-Corresponde a las Direcciones de Coordinación de Órganos Internos de Control Sectorial "A", "B" y "C", respecto a las Dependencias, Órganos Desconcentrados y Entidades:
+Corresponde a las Direcciones de Coordinación de Órganos Internos de Control Sectorial “A”, “B” y “C”, respecto a las Dependencias, Órganos Desconcentrados y Entidades:
 
 I. Revisar la integración de los programas anuales de Auditoría y de Control Interno para su presentación a autorización, y en su caso, elaborar los proyectos de programas correspondientes, cuando el Ente no se (sic) cuente con órgano interno de control, lo anterior atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
@@ -10264,7 +10650,11 @@ XXV. Participar conjuntamente con la Dirección de Comisarios y Control de Audit
 
 XXVI. Las demás que le instruya la persona Titular de la Dirección General de Coordinación de Órganos Internos de Control Sectorial, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-Artículo 265 (SIC).- Corresponde a la Dirección de Comisarios y Control de Auditores Externos:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+###### Artículo 266.
+
+Corresponde a la Dirección de Comisarios y Control de Auditores Externos:
 
 I. Vigilar que los recursos públicos del presupuesto autorizado para las entidades, independientemente de su origen, se ejerzan para el cumplimiento de su objeto de creación, así como que las actividades institucionales se realicen conforme a lo programado;
 
@@ -10320,7 +10710,9 @@ VIII. Instrumentar actas administrativas para constancia de hechos y circunstanc
 
 IX. Autorizar el uso de recursos humanos, materiales y financieros asignados a la Dirección, para el desempeño de las funciones encomendadas, a través del personal que le está adscrito o que sea comisionado para el apoyo de sus funciones;
 
-X. Solicitar el apoyo y auxilio de las autoridades competentes tanto locales como federales, para el cumplimiento de sus atribuciones y en su caso, el de la Secretaría de Seguridad Pública de la Ciudad de México, para salvaguardar la integridad del personal de la Secretaría de la Contraloría General;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Solicitar el apoyo y auxilio de las autoridades competentes tanto locales como federales, para el cumplimiento de sus atribuciones y en su caso, el de la Secretaría de Seguridad Ciudadana de la Ciudad de México, para salvaguardar la integridad del personal de la Secretaría de la Contraloría General;
 
 XI. Comisionar por escrito al personal a su cargo, para la realización de las funciones y atribuciones específicas de la Dirección;
 
@@ -10468,6 +10860,8 @@ XX. Las demás que las disposiciones legales y administrativas le confieran y la
 
 #### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 271.
 
 Además de las atribuciones que corresponden a las autoridades resolutoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de responsabilidades administrativas, corresponde a las personas titulares de las unidades resolutoras de responsabilidades administrativas de la Secretaría de la Contraloría General en Dependencias, Órganos Desconcentrados, Alcaldías, Entidades y órganos de apoyo y asesoría de la Administración Pública de la Ciudad de México:
@@ -10564,7 +10958,7 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 ###### Artículo 276.
 
-La Junta de Asistencia Privada es el Órgano Desconcentrado que tiene por objeto ejercer la vigilancia, asesoría y coordinación de las instituciones de asistencia privada y cuenta con las siguientes atribuciones:
+La Junta de Asistencia Privada es el Órgano Desconcentrado que tiene por objeto el cuidado, fomento, apoyo, vigilancia, asesoría y coordinación de las instituciones de asistencia privada y cuenta con las siguientes atribuciones:
 
 I. Vigilar que las instituciones de asistencia privada cumplan con lo establecido en la Ley de Instituciones de Asistencia Privada para el Distrito Federal, en sus Estatutos y demás disposiciones jurídicas y administrativas aplicables;
 
@@ -10572,15 +10966,21 @@ II. Promover ante las autoridades competentes el otorgamiento de estímulos fisc
 
 III. Representar y defender los intereses de las instituciones en los supuestos previstos en la Ley de Instituciones de Asistencia Privada para el Distrito Federal;
 
-IV. Coordinarse con las demás Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Publica que tengan a su cargo programas y que presten servicios de apoyo social, de conformidad con las disposiciones jurídicas aplicables, con el fin de unificar esfuerzos y hacer más eficiente la atención de las necesidades asistenciales existentes, mediante el intercambio de experiencias y la aplicación conjunta de recursos humanos, financieros y materiales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-V. Organizar servicios de asesoría jurídica, fiscal y administrativa para las instituciones de asistencia privada, así (sic) actividades de capacitación para el personal de dichas instituciones; y
+IV. Coordinarse con las demás Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que tengan a su cargo programas y que presten servicios de apoyo social, de conformidad con las disposiciones jurídicas y/o administrativas aplicables, con el fin de unificar esfuerzos y hacer más eficiente la atención de las necesidades asistenciales existentes, mediante el intercambio de experiencias y la aplicación conjunta de recursos humanos, financieros y materiales;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Organizar servicios de asesoría jurídica, fiscal y/o administrativa para las instituciones de asistencia privada, así como actividades de capacitación para el personal de dichas instituciones; y
 
 VI. Establecer un registro de las instituciones de asistencia privada y con base en éste, publicar anualmente un directorio de las mismas.
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 277.
 
-La Agencia Digital de Innovación Pública es el Órgano Desconcentrado que tiene por objeto diseñar, coordinar, supervisar y evaluar las políticas relacionadas con la gestión de datos, el gobierno abierto, el gobierno digital, la gobernanza tecnológica y la gobernanza de la conectividad y la gestión de la infraestructura, así como la mejora regulatoria del Gobierno de la Ciudad de México.
+La Agencia Digital de Innovación Pública de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto diseñar, coordinar, supervisar y evaluar las políticas relacionadas con la gestión de datos, el gobierno abierto, el gobierno digital, la gobernanza tecnológica, la gobernanza de la conectividad y la gestión de la infraestructura, así como la mejora regulatoria y simplificación administrativa del Gobierno de la Ciudad de México.
 
 ###### Artículo 278.
 
@@ -10590,33 +10990,49 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 2. Dirección General de Centro de Gobierno Honesto;
 
-3. Dirección General de Centro de Gobierno Digital:
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-4. Dirección General de Centro de Conectividad e Infraestructura Tecnológica
+3. Dirección General de Centro de Gobierno Digital;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+4. Dirección General de Centro de Conectividad e Infraestructura Tecnológica;
 
 5. Dirección General de Atención Ciudadana;
 
-6. Dirección General de Centro de Tecnología e Inteligencia
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+6. Dirección General de Centro de Tecnología e Inteligencia;
 
 7. Dirección General de Centro de Normatividad Tecnológica;
 
 8. Coordinación General de Proyectos e Innovación;
 
-9. Dirección Ejecutiva de Innovación y Desarrollo Tecnológico;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-10. Dirección General (sic) Centro de Reingeniería Gubernamental
+9. Dirección Ejecutiva de Desarrollo Tecnológico; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+10. Dirección General Centro de Reingeniería Gubernamental.
 
 ###### Artículo 279.
 
 Corresponde a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México:
 
-I. Conducir, diseñar, coordinar y vigilar la implementación de las políticas de gestión de datos, gobierno abierto, gobierno digital, gobernanza tecnológica, gobernanza de la infraestructura tecnológica y mejora regulatoria de observación obligatoria para la Administración Pública de la Ciudad de México en el ámbito de sus facultades;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-II. Coordinar, con otros entes públicos en el ámbito federal y local, los mecanismos y herramientas necesarias para la implementación de las políticas de gestión de datos, gobierno abierto, gobierno digital, gobernanza tecnológica, conectividad y gobernanza de la infraestructura tecnológica en la Ciudad de México;
+I. Conducir, diseñar, coordinar y vigilar la implementación de las políticas de gestión de datos, el gobierno abierto, el gobierno digital, la gobernanza tecnológica, la gobernanza de la conectividad y la gestión de la infraestructura y la mejora regulatoria de observación obligatoria para la Administración Pública de la Ciudad de México en el ámbito de sus facultades;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Coordinar, con otros entes públicos en el ámbito federal y local, los mecanismos y herramientas necesarias para la implementación de las políticas de gestión de datos, el gobierno abierto, el gobierno digital, la gobernanza tecnológica, la gobernanza de la conectividad y la gestión de la infraestructura y la mejora regulatoria en la Ciudad de México;
 
 III. Diseñar, implementar y gestionar la Identificación Digital Única en coordinación con otros Entes Públicos federales y de la Ciudad de México;
 
-IV. Diseñar en coordinación con las Dependencias, soluciones tecnológicas que permitan resolver los problemas de la Ciudad de México de una manera más eficiente y eficaz;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Diseñar en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México soluciones tecnológicas que permitan resolver los problemas de la Ciudad de México de una manera más eficiente y eficaz;
 
 V. Diseñar y gestionar las plataformas de participación e incidencia Ciudadana en materia de trámites y servicios de la Ciudad de México;
 
@@ -10630,33 +11046,53 @@ IX. Diseñar, coordinar y gestionar la estrategia de operación del número úni
 
 X. Dictaminar, en los términos que la política en la materia señale, la adquisición de tecnología de la información y la comunicación en las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-XI. Solicitar a cada Dependencia; órgano desconcentrado o entidad de la Administración Pública de la Ciudad de México toda la información generada por las mismas; en estricto apego a las disposiciones relativas a la protección de datos personales y seguridad establecidas en las leyes y políticas en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Realizar estudios y análisis de la información de cada Dependencia; órgano desconcentrado o entidad de la Administración Pública de la Ciudad de México, de manera individual o en coordinación con otros organismos públicos o privados y emitir propuestas de política pública basadas en la evidencia obtenida de los mismos;
+XI. Solicitar a cada Dependencia, Órgano Desconcentrado o Entidad de la Administración Pública de la Ciudad de México toda la información generada por las mismas; en estricto apego a las disposiciones relativas a la protección de datos personales y seguridad establecidas en las leyes y políticas en la materia;
 
-X (SIC). En materia de seguridad; tener acceso en tiempo real a las bases de datos generadas por cualquier Dependencia; órgano desconcentrado o entidad de la Administración Pública de la Ciudad de México con el fin de realizar estudios y análisis en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV (SIC). Diseñar, coordinar e implementar la normatividad relacionada con la conectividad tecnológica de la Ciudad;
+XII. Realizar estudios y análisis de la información de cada Dependencia; Órgano Desconcentrado o Entidad de la Administración Pública de la Ciudad de México, de manera individual o en coordinación con otros organismos públicos o privados y emitir propuestas de política pública basadas en la evidencia obtenida de los mismos;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. En materia de seguridad; tener acceso en tiempo real a las bases de datos generadas por cualquier Dependencia; órgano desconcentrado o entidad de la Administración Pública de la Ciudad de México con el fin de realizar estudios y análisis en la materia;
+
+XIV. Diseñar, coordinar e implementar la normatividad relacionada con la conectividad tecnológica de la Ciudad;
 
 XV. Diseñar, coordinar e implementar la normatividad relacionada con la propiedad y el acceso a la infraestructura tecnológica de la Ciudad;
 
-XVI. Establecer, por sí misma o en colaboración con otras Dependencias, Órganos Desconcentrados, Entidades y organizaciones públicas o privadas, laboratorios de innovación en las materias de su competencia o en otras materias de interés prioritario para la Ciudad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Establecer, por sí misma o en colaboración con otras Dependencias, Órganos Desconcentrados, Entidades y/u organizaciones públicas y/o privadas, laboratorios de innovación en las materias de su competencia o en otras materias de interés prioritario para la Ciudad de México;
 
 XVII. Difundir por los medios necesarios los estudios y análisis realizados por la Agencia, de estimarlo pertinente;
 
 XVIII. Realizar propuestas de adecuación normativa en materia de gestión de datos, gobierno abierto, gobierno digital y gobernanza tecnológica en la Ciudad de México;
 
-XIX. Celebrar acuerdos interinstitucionales con entes y organismos públicos o privados, nacionales o extranjeros, para el desarrollo de proyectos en las materias de su ámbito de competencia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XX. Implementar esquemas de fondeo vía fondos semilla o asociaciones público-privadas con el único fin de cumplir con sus objetivos;
+XIX. Celebrar acuerdos interinstitucionales con entes y/u organismos públicos o privados, nacionales y/o extranjeros, para el desarrollo de proyectos en las materias de su ámbito de competencia;
 
-XXI. Generar esquemas de cooperación técnica y económica con instituciones públicas y privadas para la satisfacción de sus objetivos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXII. Realizar la representación de la Jefatura de Gobierno en foros nacionales e internacionales en materia de gobierno abierto, gobierno digital, gobernanza tecnológica, gestión de datos, conectividad y gobernanza de la infraestructura tecnológica y mejora regulatoria;
+XX. Implementar esquemas de fondeo vía fondos semilla y/o asociaciones público-privadas con el único fin de cumplir con sus objetivos;
 
-XXIII. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar y suscribir los contratos, convenios, y demás actos jurídicos de carácter administrativo dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones; lo anterior sin perjuicio de su ejecución directa por parte de la persona titular de la Jefatura de Gobierno y;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXIV. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
+XXI. Generar esquemas de cooperación técnica y/o económica con instituciones públicas y/o privadas para la satisfacción de sus objetivos;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXII. Realizar la representación de la Jefatura de Gobierno en foros nacionales e internacionales en materia de gestión de datos, el gobierno abierto, el gobierno digital, la gobernanza tecnológica, la gobernanza de la conectividad, la gestión de la infraestructura y la mejora regulatoria;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIII. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar y suscribir los contratos, convenios, y/o demás actos jurídicos de carácter administrativo dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones; lo anterior sin perjuicio de su ejecución directa por parte de la persona titular de la Jefatura de Gobierno; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIV. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
 ###### Artículo 280.
 
@@ -10668,7 +11104,9 @@ II. Establecer los mecanismos de coordinación y participación ciudadana necesa
 
 III. Diseñar, implementar, coordinar, publicar, difundir y evaluar la política y las soluciones digitales en materia de presupuesto, fiscalización del ejercicio de gasto público, obligaciones en transparencia presupuestaria, datos abiertos, sistema nacional anticorrupción, contrataciones públicas, compras públicas y cumplimiento de los compromisos de Gobierno Abierto; de conformidad con las leyes en las respectivas materias;
 
-IV. Auxiliar a la persona Titular en la celebración de acuerdos interinstitucionales y convenios en materia de contrataciones abiertas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Auxiliar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la celebración de acuerdos interinstitucionales y convenios en materia de contrataciones abiertas;
 
 V. Desarrollar, gestionar y actualizar herramientas de interoperabilidad entre los sistemas de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
 
@@ -10680,29 +11118,43 @@ VIII. Coadyuvar con los (sic) Dependencias, Órganos Desconcentrados, Entidades 
 
 IX. Diseñar e implementar proyectos, estudios y programas permanentes de transparencia y acceso a la información en los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 X. Generar lineamientos, reglas de operación, manuales de usuario criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos; en coordinación con las Dependencias competentes para diseñar e implementar proyectos, estudios y programas permanentes de rendición de cuentas de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
 
-XI. Representar a la persona Titular en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en materia de transparencia presupuestaria, contrataciones abiertas, gobierno abierto, transparencia y acceso a la información y rendición de cuentas; sin perjuicio de las atribuciones que en la materia correspondan a otros (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías públicos; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Las demás que instruya la persona Titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+XI. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales y/o internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en materia de transparencia presupuestaria, contrataciones abiertas, gobierno abierto, transparencia y acceso a la información y rendición de cuentas; sin perjuicio de las atribuciones que en la materia correspondan a otras Dependencias, Órganos Desconcentrados, Entidades y Alcaldías; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Las demás que instruyan las personas Titulares de la Agencia Digital de Innovación Pública y de la Jefatura de Gobierno y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
 
 ###### Artículo 281.
 
 Corresponde a la Dirección General de Centro de Gobierno Digital:
 
-I. Diseñar, dirigir y coordinar las estrategias y agendas, así como formular la normatividad e implementar políticas, y conducir las estrategias, proyectos y acciones para regular e impulsar el Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-II. Apoyar a la persona Titular de la Agencia de Operación e Innovación Digital, en la organización, conducción, difusión y supervisión del avance y cumplimiento de las actividades para el desarrollo e implementación (sic) Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales y participar en todas aquellas actividades que emanen de la normatividad aplicable y sea de su competencia;
+I. Diseñar, dirigir y coordinar las estrategias, así como formular la normatividad con apoyo de la Dirección General de Centro de Normatividad Tecnológica e implementar políticas, y conducir las estrategias, proyectos y acciones para regular e impulsar el Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Apoyar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México Digital, en la organización, conducción, difusión y supervisión del avance y cumplimiento de las actividades para el desarrollo e implementación del Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales y participar en todas aquellas actividades que emanen de la normatividad aplicable que sea de su competencia;
 
 III. Coordinar e instrumentar el registro de los proyectos estratégicos en materia de Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales, estableciendo los mecanismos y acciones para su desarrollo, seguimiento, control y evaluación;
 
-IV. Proponer a la persona Titular de la Agencia de Operación e Innovación Digital, los lineamientos administrativos que deberán guiar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, para el diseño, desarrollo y administración, de los programas y proyectos en materia de Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales, así como los procedimientos de medición, evaluación y monitoreo que hagan posible conocer el desempeño, nivel de servicio y opinión ciudadana;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Proponer a la persona Titular de la Agencia de Operación e Innovación Digital de la Ciudad de México, los lineamientos administrativos que deberán guiar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, para el diseño, desarrollo y administración, de los programas y proyectos en materia de Gobierno Electrónico y la Gestión de Trámites y Servicios Digitales, así como los procedimientos de medición, evaluación y monitoreo que hagan posible conocer el desempeño, nivel de servicio y opinión ciudadana;
 
 V. Brindar asesoría y apoyo técnico a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que lo soliciten, respecto de los programas y acciones que se pongan en práctica para mejorar la organización, el desarrollo, la modernización y la innovación administrativas, para el rediseño de los procedimientos, sistemas e instrumentos de atención al público usuario de los trámites y servicios, con la participación de las instancias que resulten competentes;
 
 VI. Realizar estudios y propuestas de innovación que contribuyan a la simplificación y mejora de la gestión administrativa, para hacer más eficiente la administración de los recursos, a través de estrategias de desarrollo organizacional, mejora de los procesos y de innovación normativa, así como proponer los instrumentos normativos que en el ámbito de su competencia les den soporte;
 
-VII. Asesorar a las Unidades Administrativas, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, en el diseño de manuales administrativos, procesos y procedimientos y programas para el cumplimiento y la implementación de los objetivos de Gobierno Electrónico, la Gestión de Trámites y Servicios Digitales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Asesorar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, en el diseño de manuales administrativos, procesos, procedimientos y programas para el cumplimiento y la implementación de los objetivos de Gobierno Electrónico, la Gestión de Trámites y Servicios Digitales;
 
 VIII. Coordinar el uso estratégico de la información para la planeación, la evaluación, la toma de decisiones, la colaboración, el aprendizaje y la profesionalización de la función pública en materia de simplificación administrativa y digitalización de trámites y servicios;
 
@@ -10718,13 +11170,19 @@ XIII. Diseñar las estrategias e impulsar la simplificación administrativa, mod
 
 XIV. Impulsar y dirigir las acciones, estudios y propuestas que realicen las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, organizaciones del sector privado y el público en general, para mantener permanentemente actualizada la normatividad de trámites y servicios;
 
-XV. Diseñar la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública de la Ciudad de México, en coordinación con la Unidad Administrativa competente en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Diseñar la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública de la Ciudad de México, en coordinación con la Unidad Administrativa o Unidad Administrativa de Apoyo Técnico Operativo competente en la materia;
 
 XVI. Participar en la conducción de la estrategia de gobierno electrónico, las bases y principios para la elaboración de la política en la Administración Pública de la Ciudad de México;
 
-XVII. Apoyar a la persona Titular de la Agencia de Operación e Innovación Digital, en las sesiones de aquellos órganos colegiados que coordine y dirija la participación de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, en los programas y proyectos competencia de la Dirección General del Centro de Gobierno Digital;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVIII. Colaborar con la Unidad Administrativa correspondiente a fin de incorporar la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública de la Ciudad de México;
+XVII. Apoyar a la persona Titular de la Agencia Digital de Innovación Pública, en las sesiones de aquellos órganos colegiados que coordine y dirija la participación de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, en los programas y proyectos competencia de la Dirección General de (sic) Centro de Gobierno Digital;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Colaborar con la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente a fin de incorporar la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública de la Ciudad de México;
 
 XIX. Coordinar y conducir las acciones relativas a la mejora de procesos y sistemas de gestión de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, a través del uso de servicios digitales y supervisar su cumplimiento;
 
@@ -10736,17 +11194,27 @@ XXII. Brindar asesoría técnica y capacitación en materia de simplificación a
 
 XXIII. Promover la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de gobierno electrónico, la gestión de trámites y servicios digitales, simplificación administrativa, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias; y
 
-XXIV. Las demás que instruya la persona Titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIV. Las demás que instruyan las personas Titulares de la Agencia Digital de Innovación Pública y de la Jefatura de Gobierno, y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 282.
 
-Corresponde a la Dirección General de Centro de Conectividad e Infraestructura de Telecomunicaciones:
+Corresponde a la Dirección General de Centro de Conectividad e Infraestructura Tecnológica:
 
-I. Diseñar, desarrollar, supervisar y evaluar la política de conectividad y, del uso, aprovechamiento y explotación eficiente y efectiva de la infraestructura activa y pasiva existente y futura de la Administración Publica de la Ciudad y, en su caso, de las Alcaldías;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-II. Diseñar, desarrollar e implementar criterios y políticas de inclusión digital, en la que se incluyan los objetivos y metas en materia de infraestructura, accesibilidad, conectividad y un mejor aprovechamiento, en términos de telecomunicaciones de la infraestructura activa y pasiva de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, con base en las necesidades de las habilidades digitales, gobierno abierto, gobierno digital, gestión de datos, gobernanza tecnológica, de conformidad con lo establecido en las leyes en la materia;
+I. Diseñar, desarrollar, supervisar y evaluar la política de conectividad y, del uso, aprovechamiento y explotación eficiente y efectiva de la infraestructura activa y pasiva existente y futura de la Administración Pública de la Ciudad de México y, en su caso, de las Alcaldías;
 
-III. Auxiliar a la persona Titular en la administración del uso y aprovechamiento de todas las redes de telecomunicaciones de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, así como de la infraestructura y capacidades de sus redes de telecomunicaciones del gobierno de la Ciudad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Diseñar, desarrollar e implementar criterios y políticas de inclusión digital, en la que se incluyan los objetivos y metas en materia de infraestructura, accesibilidad, conectividad y un mejor aprovechamiento, en términos de telecomunicaciones de la infraestructura activa y pasiva de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, con base en las necesidades de las habilidades digitales, gobierno abierto, gobierno digital, gestión de datos, gobernanza tecnológica, de conformidad con lo establecido en las leyes de la materia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Auxiliar a la persona Titular de la Agencia Digital de Innovación Tecnológica en la administración del uso y aprovechamiento de todas las redes de telecomunicaciones de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, así como de la infraestructura y capacidades de las redes de telecomunicaciones del gobierno de la Ciudad;
 
 IV. Adquirir, establecer y operar por sí misma y/o con participación de terceros, infraestructura, redes de telecomunicaciones y sistemas satelitales para la prestación de servicios de telecomunicaciones y radiodifusión;
 
@@ -10754,15 +11222,23 @@ V. Diseñar, desarrollar, implementar, supervisar y evaluar un Modelo de Conecti
 
 VI. Evaluar la viabilidad técnica, económica, operativa, administrativa y jurídica de los proyectos de conectividad de la Ciudad, por sí misma o a través de terceros;
 
-VII. Auxiliar a la persona Titular en la celebración de convenios de colaboración, para el uso y aprovechamiento de infraestructura entre la Agencia, los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, los poderes legislativo y judicial, los organismos autónomos de la Ciudad de México, con la Federación y los gobiernos de las Entidades federativas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Auxiliar a la persona Titular de la Agencia Digital de Innovación Tecnológica de la Ciudad de México en la celebración de convenios de colaboración, para el uso y aprovechamiento de infraestructura entre la Agencia, las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, los poderes legislativo y judicial, los organismos autónomos de la Ciudad de México, con la Federación y/o los gobiernos de las Entidades Federativas;
 
 VIII. Regular el uso y aprovechamiento de las redes de telecomunicaciones de la Administración Pública de la Ciudad;
 
-IX. Auxiliar a la persona Titular en la relación con el Instituto Federal de Telecomunicaciones para cualquier tipo de comunicación que sea necesaria para el cumplimiento de las obligaciones y los objetivos de la Agencia de conformidad con las leyes en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Desarrollar, por sí misma o con la colaboración de terceros del sector público o privado, nacionales o internacionales, estudios en materia de conectividad e infraestructura de telecomunicaciones que permitan el mejor cumplimiento de las obligaciones y atribuciones de la Agencia;
+IX. Auxiliar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la relación con el Instituto Federal de Telecomunicaciones para cualquier tipo de comunicación que sea necesaria para el cumplimiento de las obligaciones y los objetivos de la referida Agencia de conformidad con las leyes en la materia;
 
-XI. Auxiliar a la persona Titular en la celebración de convenios, acuerdos, y programas interinstitucionales en materia de conectividad e infraestructura de telecomunicaciones;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Realizar, por sí misma o con la colaboración de terceros del sector público y/o privado, nacionales y/o internacionales, estudios en materia de conectividad e infraestructura de telecomunicaciones que permitan el mejor cumplimiento de las obligaciones y atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Auxiliar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la celebración de convenios, acuerdos, programas interinstitucionales y cualquier instrumento jurídico y/o administrativo en materia de conectividad e infraestructura de telecomunicaciones;
 
 XII. Celebrar y suscribir todo tipo de contratos, acuerdos, convenios y programas interinstitucionales con el sector público, social y privado, nacionales e internacionales, en las materias de su competencia y en consecución de los fines de la Agencia de acuerdo con lo establecido en las leyes en la materia;
 
@@ -10770,23 +11246,37 @@ XIII. Solicitar a los órganos de la Administración Pública local, federal, es
 
 XIV. Establecer las condiciones y lineamientos para la administración, uso, disposición, contratación y/o comercialización de los bienes y productos existentes de la infraestructura activa y pasiva, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos que sean generados de la explotación, tratamiento y/o manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia;
 
-XVI (SIC). Administrar, usar, disponer, contratar y/o comercializar, los bienes y productos existentes de la infraestructura activa y pasiva, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos que sean generados de la explotación, tratamiento y/o manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVII. Representar a la persona Titular en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+XV. Administrar, usar, disponer, contratar y/o comercializar, los bienes y productos existentes de la infraestructura activa y pasiva, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos que sean generados de la explotación, tratamiento y/o manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia;
 
-XVIII. Las demás que instruya la persona titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Las demás que instruyan las personas Titulares de la Agencia Digital de Innovación Pública y de la Jefatura de gobierno, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 283.
 
-Corresponde a la Dirección General de Centro de Atención Ciudadana:
+Corresponde a la Dirección General de Atención Ciudadana:
 
 I. Administrar, gestionar y operar el número único de atención de no emergencias de la Ciudad de México;
 
-II. Celebrar acuerdos, convenios y programas interinstitucionales con el sector público y privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las leyes en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-III. Representar a la persona Titular en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+II. Celebrar acuerdos, convenios y/o programas interinstitucionales con el sector público y/o privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las disposiciones jurídicas y/o administrativas en la materia;
 
-IV. Las demás que instruya el titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Representar a la persona Titular de la Agencia Digital de Innovación Pública en foros y/o instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Las demás que instruyan las personas Titulares de la Agencia Digital de Innovación Pública y de la Jefatura de Gobierno, y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
 
 ###### Artículo 284.
 
@@ -10794,23 +11284,37 @@ Corresponde a la Dirección General de Centro de Tecnología e Inteligencia:
 
 I. Elaborar y proponer el desarrollo de estrategias innovadoras integrales que favorezcan la eficiencia, eficacia y transparencia de los recursos, y que tengan por objeto buscar el crecimiento y desarrollo económico de la Ciudad, y el bienestar de los ciudadanos;
 
-II. Diseñar, supervisar y evaluar la política de gestión de datos de la Ciudad; así como los criterios, estándares técnicos, lineamientos, manuales y demás normatividad necesaria para el cumplimiento de los objetivos y atribuciones de la Agencia, de conformidad con las leyes en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Diseñar, supervisar y evaluar la política de gestión de datos de la Ciudad; así como los criterios, estándares técnicos, lineamientos, manuales y demás normatividad necesaria para el cumplimiento de los objetivos y atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México, de conformidad con las disposiciones jurídicas y/o administrativas en la materia;
 
 III. Diseñar e implementar la Identificación Digital Única;
 
-IV. Diseñar y operar el riel de interoperabilidad de la Ciudad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Diseñar y operar el riel de interoperabilidad de la Ciudad de México;
 
 V. Recabar, procesar y utilizar a partir de los mecanismos establecidos en la política de gestión de datos del Gobierno de la Ciudad de México, los datos generados y almacenados por los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
 
-VI. Realizar análisis y propuestas de políticas públicas basadas en evidencia a partir de los datos que la Agencia obtenga de los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías para difusión pública o consumo interno, según sea el caso;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Diseñar y ejecutar, por sí misma o en colaboración con el sector público y privado, nacional e internacional, soluciones tecnológicas para la Ciudad;
+VI. Realizar el análisis y las propuestas de políticas públicas basadas en evidencia a partir de los datos que la Agencia Digital de Innovación Pública de la Ciudad de México obtenga de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías para difusión pública o consumo interno, según sea el caso;
 
-VIII. Celebrar acuerdos, convenios y programas interinstitucionales con el sector público y privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las leyes en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IX. Representar a la persona Titular en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia;
+VII. Diseñar y ejecutar, por sí misma o en colaboración con el sector público y/o privado, nacional y/o internacional, soluciones tecnológicas para la Ciudad de México;
 
-X. Las demás que instruya el titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Celebrar acuerdos, convenios y/o programas interinstitucionales con el sector público y/o privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las disposiciones jurídicas y/o administrativas en la materia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Las demás que instruyan las personas Titulares de la Agencia Digital de Innovación Pública de la Ciudad de México y de la Jefatura de Gobierno, y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
 
 XI. Dirigir la entrega y soporte oportuno de servicios tecnológicos de información y comunicaciones (sic) interdependencias, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
 
@@ -10820,7 +11324,9 @@ XIII. Coordinar los servicios de asesoría, capacitación, seguimiento y vigilan
 
 XIV. Coordinar la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública de la Ciudad de México, en los aspectos de identificación, categorización, evaluación, selección y priorización;
 
-XV. Planear y dirigir los trabajos de implantación de sistemas de información (sic) interdependencias, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Planear y dirigir los trabajos de implantación de sistemas de información interdependencial, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
 
 XVI. Fungir como Unidad de Firma Electrónica de la Administración Pública de la Ciudad de México;
 
@@ -10842,15 +11348,21 @@ XXIV. Desarrollar proyectos de infraestructura que generen trámites y servicios
 
 XXV. Solicitar las bases de datos y sistemas de información de Dependencias, Órganos Desconcentrados, Entidades y Alcaldías con el objetivo de integrar el sistema unificado de información.
 
-XXVI. Coordinar y administrar la operación de los sistemas de información de la Agencia Digital de Innovación Pública.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVI. Coordinar y administrar la operación de los sistemas de información de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
 XXVII. Coordinar y administrar las instalaciones del Centro de Datos Institucional de la Administración Pública de la Ciudad de México;
 
-XXVIII. Proporcionar el servicio de hospedaje de sitios Web y sistemas de información a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVIII. Proporcionar el servicio de hospedaje de sitios web y sistemas de información a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
 
 XXIX. Coordinar con las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías el desarrollo de una nube de cómputo compartida de la Administración Pública de la Ciudad de México.
 
-XXX. Coordinar y administrar los servicios de Internet institucionales: Web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXX. Coordinar y administrar los servicios de Internet institucionales: web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros.
 
 ###### Artículo 285.
 
@@ -10858,25 +11370,41 @@ Corresponde a la Dirección General de Centro de Normatividad Tecnológica:
 
 I. Diseñar, implementar y supervisar la política de gobernanza tecnológica del Gobierno de la Ciudad de México y proponer la normatividad necesaria para su implementación;
 
-II. Elaborar, instrumentar y vigilar el cumplimiento a las políticas y lineamientos en materia de Tecnologías de la Información y Comunicaciones así como mejores prácticas que deberán observar los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Elaborar, revisar, instrumentar y vigilar el cumplimiento a las políticas y lineamientos en materia de Tecnologías de la Información y Comunicaciones así como mejores prácticas que deberán observar los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
 
 III. Dictaminar técnicamente la adquisición de Tecnologías de la Información y Comunicaciones que realicen los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
 
 IV. Elaborar la normatividad necesaria en las materias de su competencia;
 
-V. Auxiliar a la persona Titular en la celebración de convenios, acuerdos y programas relacionados con las materias competencia de la Agencia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VI. Coordinar la participación de instituciones públicas y privadas en la realización de proyectos de Tecnologías de la Información y Comunicaciones;
+V. Auxiliar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la celebración de convenios, acuerdos y programas relacionados con las materias competencia de la Agencia;
 
-VII. Formular los lineamientos de seguridad informática y vigilar su implementación en los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Realizar la vinculación interinstitucional de la Agencia;
+VI. Coordinar la participación de instituciones públicas y/o privadas en la realización de proyectos de Tecnologías de la Información y Comunicaciones;
 
-IX. Celebrar acuerdos, convenios y programas interinstitucionales con el sector público y privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las leyes en la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Representar a la persona Titular en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+VII. Formular los lineamientos de seguridad informática y vigilar su implementación en los (sic) Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública de la Ciudad de México;
 
-XI. Las demás que instruya el titular de la Agencia de Operación e Innovación Digital, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Realizar la vinculación interinstitucional de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Celebrar acuerdos, convenios y/o programas interinstitucionales con el sector público y/o privado, nacionales e internacionales, en las materias de su competencia, de acuerdo con lo establecido en las disposiciones jurídicas y/o administrativas en la materia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Las demás que instruyan las personas Titular de la Agencia Digital de Innovación Pública de la Ciudad de México y de la Jefatura de Gobierno, y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
 
 ###### Artículo 286.
 
@@ -10884,39 +11412,65 @@ Corresponde a la Coordinación General de Proyectos e Innovación:
 
 I. Proporcionar a la Secretaría Particular de la Jefatura de Gobierno los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen;
 
-II. Establecer, previo acuerdo con la Secretaría Particular de la Jefatura de Gobierno, directrices y mecanismos de coordinación y colaboración entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Establecer, previo acuerdo con las personas Titulares de la Secretaría Particular de la Jefatura de Gobierno y/o de la Agencia Digital de Innovación Pública de la Ciudad de México, directrices y mecanismos de coordinación y colaboración entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad de México;
 
 III. Turnar y dar seguimiento a los acuerdos, instrucciones y peticiones transmitidas por la Jefatura de Gobierno, a través de la Secretaría Particular de la Jefatura de Gobierno;
 
-IV. Apoyar a la persona Titular de la Jefatura de Gobierno en la coordinación y supervisión en las tareas acordadas con el Gabinete de la Administración Pública de la Ciudad de México, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-V. Brindar información de apoyo para la toma de decisiones informada de las personas Titulares de la Jefatura de Gobierno y de la Secretaría Particular;
+IV. Apoyar a las personas Titulares de la Jefatura de Gobierno, de la Secretaría Particular de la Jefatura de Gobierno y/o de la Agencia Digital de Innovación Pública de la Ciudad de México en la coordinación y supervisión en las tareas acordadas con el Gabinete de la Administración Pública de la Ciudad de México, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-VI. Planear, organizar y coordinar, conjuntamente con la Secretaría Particular de la Jefatura de Gobierno y el apoyo de las Direcciones y Secretarías Técnicas a su cargo, mecanismos para el seguimiento y monitoreo del cumplimiento de programas, proyectos prioritarios y acciones ejecutadas por las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Coordinar y dar seguimiento, con el apoyo de las Direcciones y secretarías técnicas a su cargo, a la gestión de Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública, para verificar el cumplimiento de programas, proyectos prioritarios y acciones, y, en su caso, apoyar en el cumplimiento de los objetivos propuestos;
+IV. Apoyar a las personas Titulares de la Jefatura de Gobierno, de la Secretaría Particular de la Jefatura de Gobierno y/o de la Agencia Digital de Innovación Pública de la Ciudad de México en la coordinación y supervisión en las tareas acordadas con el Gabinete de la Administración Pública de la Ciudad de México, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México (sic);
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Brindar información de apoyo para la toma de decisiones informada de las personas Titulares de la Jefatura de Gobierno, de la Secretaría Particular y/o de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Planear, organizar y coordinar, conjuntamente con la Secretaría Particular de la Jefatura de Gobierno y el apoyo de las Unidades Administrativas de Apoyo Técnico Operativo a su cargo, mecanismos para el seguimiento y monitoreo del cumplimiento de programas, proyectos prioritarios y acciones ejecutadas por las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Coordinar y dar seguimiento, con el apoyo de las Unidades Administrativas de Apoyo Técnico a su cargo, a la gestión de Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública, para verificar el cumplimiento de programas, proyectos prioritarios y acciones, y, en su caso, apoyar en el cumplimiento de los objetivos propuestos;
 
 VIII. Establecer mecanismos para la evaluación de la gestión pública que permitan el mejoramiento y logro de los objetivos establecidos por Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-IX. Estudiar, desarrollar y evaluar opciones, y propuestas de aplicación informática para el mejor desempeño (sic) los proyectos de Innovación Tecnológica encomendados por la Secretaría Particular;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Estudiar, desarrollar y evaluar opciones, y propuestas de aplicación informática para el mejor desempeño (sic) los proyectos de Innovación Tecnológica encomendados por las personas Titulares de la Jefatura de Gobierno, de la Secretaría Particular de la Jefatura de Gobierno y/o de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
 X. Elaborar documentos que contengan el análisis de implementación de los proyectos tecnológicos para apoyar la toma de decisiones informada de la Secretaría Particular la Secretaría Particular (sic);
 
-XI. Realizar el diagnóstico técnico de las condiciones de la infraestructura tecnológica, desarrollo informático y necesidades que soliciten las Dependencias, Órganos Desconcentrados y Entidades de la administración pública a través de la Secretaría Particular y con el apoyo de la Dirección de Innovación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Coordinar y dar seguimiento, a través de la Dirección correspondiente, a los acuerdos de las reuniones de trabajo interinstitucionales, que se realicen para la recopilación de la información estadística de los diversos programas y proyectos;
+XI. Realizar el diagnóstico técnico de las condiciones de la infraestructura tecnológica, desarrollo informático y necesidades que soliciten las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con el apoyo de la Dirección de Innovación y Desarrollo Tecnológico;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Coordinar y dar seguimiento, a través de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo correspondientes, a los acuerdos de las reuniones de trabajo interinstitucionales, que se realicen para la recopilación de la información estadística de los diversos programas y proyectos;
 
 XIII. Coordinar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, el flujo de información estadística relacionada con los resultados de la ejecución de los programas y proyectos realizados, con el apoyo de la Dirección de Estudios Estadísticos;
 
 XIV. Realizar el análisis de la información estadística proporcionada por las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y presentar los resultados obtenidos;
 
-XV. Realizar informes periódicos respecto al análisis de la información estadística proporcionada por las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México correspondiente a los programas y proyectos encomendados para su seguimiento por la Coordinación General de Programas e Innovación; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVI. Las demás que instruya la persona titular de la Jefatura de Gobierno, por sí o a través de la Secretaría Particular, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+XV. Realizar informes periódicos respecto al análisis de la información estadística proporcionada por las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México correspondiente a los programas y proyectos encomendados para su seguimiento; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Las demás que instruyan las personas titulares de la Jefatura de Gobierno, de la Secretaría Particular de la Jefatura de Gobierno y/o de la Agencia Digital de Innovación Pública de la Ciudad de México, y las que se le confieran en otros instrumentos jurídicos y/o administrativos.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 287.
 
-Corresponde a la Dirección Ejecutiva de Innovación y Desarrollo Tecnológico:
+Corresponde a la Dirección Ejecutiva de Desarrollo Tecnológico:
 
 I. Estudiar, desarrollar y evaluar opciones, y propuestas de aplicación informática para el mejor desempeño (sic) los proyectos de Innovación Tecnológica encomendados por la Coordinación General de Proyectos e Innovación;
 
@@ -10930,7 +11484,9 @@ IV. Las demás que instruya la persona que ocupe el cargo de Coordinadora Genera
 
 Corresponde a la Dirección General Centro de Reingeniería Gubernamental:
 
-I. Proponer a la persona Titular de la Agencia Digital de Innovación Pública las políticas de mejora regulatoria en la Administración Pública;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+I. Proponer a la persona Titular de la Agencia Digital de Innovación Pública las políticas de mejora regulatoria en la Administración Pública de la Ciudad de México;
 
 II. Apoyar a la persona Titular de la Agencia Digital de Innovación Pública en el desempeño de sus funciones como titular de la Unidad de Mejora Regulatoria de la Ciudad de México;
 
@@ -10938,23 +11494,35 @@ III. Normar, vigilar y evaluar programas de simplificación administrativa y mej
 
 IV. Diseñar, coordinar y normar las políticas y criterios para el desarrollo y simplificación en materia de administración interna que deben observar las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública de la Ciudad de México;
 
-V. Conducir las políticas de desregulación administrativa de la Administración Pública de la Ciudad de México, vigilando que las acciones y programas que formulen y ejecuten en estas materias las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades se orienten a cumplir con esas políticas; asimismo, deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emitan el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Conducir las políticas de desregulación administrativa de la Administración Pública de la Ciudad de México, vigilando que las acciones y programas que formulen y ejecuten en estas materias las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades se orienten a cumplir con esas políticas; asimismo, deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México;
 
 VI. Participar en el estudio normativo de las manifestaciones de impacto regulatorio; emitiendo opinión respecto de los trámites y servicios que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México remitan para su inscripción en el Registro Electrónico de los Trámites y Servicios;
 
-VII. Someter a consideración del titular de la Agencia Digital de Innovación Pública la inscripción, actualización, modificación o baja en el Registro Electrónico de los Trámites y Servicios, los trámites, servicios y sus formatos, cuando éstos hayan cumplido con los requisitos y formalidades para ello;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Órganos Desconcentrados, órganos político-administrativos y Entidades de la Administración Pública de la Ciudad de México, cuando así lo estime necesario;
+VII. Someter a consideración del Titular de la Agencia Digital de Innovación Pública la inscripción, actualización, modificación o baja en el Registro Electrónico de los Trámites y Servicios, los trámites, servicios y sus formatos, cuando éstos hayan cumplido con los requisitos y formalidades para ello;
 
-IX. Practicar visitas de supervisión a las Unidades Administrativas en las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, a fin de verificar la inscripción, actualización, modificación o baja de trámites y servicios en el Registro Electrónico de los Trámites y Servicios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Organizar y dar seguimiento a los procesos administrativos de trámites y servicios para la evaluación del desempeño, cumplimiento y ejecución de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México estableciendo metas encaminadas a la reducción de requisitos, homologación de formatos e información disponible de trámites y servicios, entre otras acciones, mediante la mejora regulatoria;
+VIII. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, cuando así lo estime necesario;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Practicar visitas de supervisión a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo en las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, a fin de verificar la inscripción, actualización, modificación o baja de trámites y servicios en el Registro Electrónico de los Trámites y Servicios;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Organizar y dar seguimiento a los procesos administrativos de trámites y servicios para la evaluación del desempeño, cumplimiento y ejecución por parte de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México estableciendo metas encaminadas a la reducción de requisitos, homologación de formatos e información disponible de trámites y servicios, entre otras acciones, mediante la mejora regulatoria;
 
 XI. Gestionar, desarrollar e impulsar, la Plataforma Única de Gestión de Trámites y Servicios digital de la Administración Pública, garantizando en todo caso su accesibilidad y disponibilidad a la población en general, con independencia de sus circunstancias personales, en la forma que se estimen adecuados;
 
 XII. Conducir las estrategias, proyectos y acciones para regular e impulsar las herramientas de mejora regulatoria en la Administración Pública de la Ciudad de México, a través de mecanismos como la estandarización de la información, la homologación de datos, la interoperabilidad y la realización de proyectos estratégicos transversales, entre otras herramientas, acorde con lo establecido en el Plan General de Desarrollo de la Ciudad de México y los programas que deriven de éste;
 
-XIII. Celebrar convenios entre los tres órdenes de gobierno, sector social, privado, académico y organismos especializados nacionales e internacionales, para el uso de las herramientas de Mejora Regulatoria en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Celebrar convenios entre los tres órdenes de gobierno, sector social, privado, académico y organismos especializados nacionales e internacionales, para el uso de las herramientas de mejora regulatoria en la Ciudad de México;
 
 XIV. Proponer a la persona Titular de la Agencia Digital de Innovación Pública los instrumentos normativos y administrativos dentro del ámbito de su competencia en materia de mejora regulatoria que garanticen el cumplimiento de la Ley de Mejora Regulatoria de la Ciudad de México y su reglamento;
 
@@ -10962,19 +11530,27 @@ XV. Participar, en su caso, en la elaboración de proyectos de acuerdos o conven
 
 XVI. Coadyuvar en la implementación de una operación eficiente de la Administración Pública de la Ciudad de México, mediante la innovación, mejora de procesos y el uso de tecnologías de información y comunicaciones;
 
-XVII. Participar con las Unidades Administrativas de la Secretaría de Desarrollo Económico en la realización de estudios y la formulación de propuestas para adecuar las disposiciones jurídicas y administrativas que rigen la actividad empresarial en la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVII. Participar con las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Desarrollo Económico en la realización de estudios y la formulación de propuestas para adecuar las disposiciones jurídicas y administrativas que rigen la actividad empresarial en la Ciudad de México;
 
 XVIII. Integrar, actualizar y difundir por medios electrónicos el padrón de verificadores administrativos, de la Administración Pública de la Ciudad de México;
 
-XIX. Las demás que le instruya la persona Titular de la Agencia Digital de Innovación Pública, y las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Las demás que le instruyan las personas Titulares de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Jefatura de Gobierno, y las que expresamente le otorguen otros ordenamientos jurídicos y/o administrativos.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 289.
 
-El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5), es el órgano desconcentrado que tiene por objeto la captación de información integral para la toma de decisiones en las materias de protección civil, procuración de justicia, seguridad ciudadana, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, emergencias y desastres, mediante la integración y análisis de información captada a través de su centro integral de video monitoreo, de la utilización de herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización de que disponga; la vinculación con los órganos de Gobierno Local, Federal, Estatal o Municipal e Instituciones y Organismos privados, así como la administración de los Servicios de Atención de Llamadas a Emergencias 9-1-1 y Denuncia Anónima 089.
+El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5), es el Órgano Desconcentrado que tiene por objeto la captación de información integral para la toma de decisiones en las materias de protección civil, procuración de justicia, seguridad ciudadana, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, emergencias y desastres, mediante la integración y análisis de información captada a través de su centro integral de video monitoreo, de la utilización de herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización de que disponga; la vinculación con los órganos de Gobierno Local, Federal, Estatal o Municipal e Instituciones y Organismos privados, así como la administración de los Servicios de Atención de Llamadas a Emergencias 9-1-1 y Denuncia Anónima 089.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 290.
 
-Para el despacho de los asuntos que competen al Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México tiene adscritas:
+Para el despacho de los asuntos que competen al Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5) tiene adscritas:
 
 1. Coordinación General del Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México;
 
@@ -10990,35 +11566,55 @@ Para el despacho de los asuntos que competen al Centro de Comando, Control, Cóm
 
 Corresponde a la Coordinación General del Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México:
 
-I. Administrar y operar el Centro, así como el patrimonio que le sea asignado para el cumplimiento de su objeto;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-II. Establecer acciones y estrategias para la operación del Centro;
+I. Administrar y operar el C5, así como el patrimonio que le sea asignado para el cumplimiento de su objeto;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+II. Establecer acciones y estrategias para la operación del C5;
 
 III. Llevar a cabo la formulación, ejecución y evaluación de programas;
 
 IV. Formular los dictámenes e informes determinados por las autoridades competentes;
 
-V. Nombrar y remover libremente al capital humano adscrito a las Unidades Administrativas del Centro;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Nombrar y remover libremente al capital humano adscrito a las Unidades Administrativas y a las Unidades Administrativas de Apoyo Técnico Operativo del C5;
 
 VI. Acordar con los Titulares de las Unidades Administrativas que se les adscriban, los asuntos que sean de sus respectivas competencias;
 
-VII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con la (sic) leyes locales y federales en materia de adquisiciones, arrendamientos, servicios y obras públicas, así como aquellos que le sean señalados por delegación;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos, y demás actos jurídicos y/o administrativos o de cualquier otra índole que se celebren de conformidad con las leyes locales y federales en materia de adquisiciones, arrendamientos, servicios y obras públicas, así como aquellos que le sean señalados por delegación;
 
 VIII. Dirigir la administración y operación de los Servicios de Atención de Llamadas a Emergencia 9-1-1 y Denuncia Anónima 089;
 
 IX. Establecer y aplicar mecanismos de coordinación con dependencias de seguridad ciudadana, procuración de justicia y servicios de emergencia, en materia de Atención de Llamadas a Emergencia 9-1-1 y Denuncia Anónima 089, para la homologación de los servicios;
 
-X. Representar legalmente al Centro ante cualquier autoridad, ya sea judicial o administrativa;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XI. Suscribir los acuerdos, convenios y mecanismos de colaboración y coordinación con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, así como con las instancias del ámbito Federal, Estatal o Municipal e Instituciones y Organismos privados que resulten necesarios para el cumplimiento de las atribuciones del Centro;
+X. Representar legalmente al C5 ante cualquier autoridad, ya sea judicial o administrativa;
 
-XII. Difundir a la población información captada a través del centro integral de video monitoreo, para fines de comunicación social, programas de prevención del delito, difusión de resultados, entre otros, relacionados con las materias señaladas en el objeto del C5, así como para el ejercicio de sus atribuciones;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIII. Integrar un sistema de información para la toma de decisiones en las materias de protección civil, procuración de justicia, seguridad ciudadana, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, emergencias y desastres, mediante el servicio de atención de llamadas a emergencias 9-1-1 y la captación de información a través del centro integral de monitoreo, herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización, así como de la vinculación con los órganos de Gobierno Local, Federal, Estatal o Municipal e Instituciones y Organismos privados;
+XI. Suscribir los acuerdos, convenios y mecanismos de colaboración y coordinación con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, así como con las instancias del ámbito Federal, Estatal o Municipal e instituciones y/u organismos privados que resulten necesarios para el cumplimiento de las atribuciones del C5;
 
-XIV. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, los servidores públicos que les estén subordinados; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XV. Las demás que le sean asignadas por la persona Titular de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+XII. Difundir a la población, información captada a través del Centro Integral de Video Monitoreo, para fines de comunicación social, programas de prevención del delito, difusión de resultados, entre otros, relacionados con las materias señaladas en el objeto del C5, así como para el ejercicio de sus atribuciones;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Integrar un sistema de información para la toma de decisiones en las materias de protección civil, procuración de justicia, seguridad ciudadana, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, emergencias y desastres, mediante el servicio de atención de llamadas a emergencias 9-1-1 y la captación de información a través del Centro Integral de Video Monitoreo, herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización, así como de la vinculación con los órganos de Gobierno Local, Federal, Estatal o Municipal e instituciones y/u organismos privados;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, las personas servidoras públicas de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo que les estén subordinadas; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Las demás que le sean asignadas por la persona Titular de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
 ###### Artículo 292.
 
@@ -11028,23 +11624,35 @@ I. Aprobar los proyectos de contratos, convenios y demás instrumentos jurídico
 
 II. Dirigir la representación legal del C5 ante las autoridades judiciales o administrativas del fuero Federal o Local;
 
-III. Asesorar jurídicamente a las unidades administrativas del C5 para que sus actuaciones se encuentren dentro del marco legal vigente;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Asesorar jurídicamente a las Unidades Administrativas del C5 para que sus actuaciones se encuentren dentro del marco legal vigente;
 
 IV. Coordinar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información pública y ejercicio de derechos (sic) acceso, rectificación, cancelación y oposición del C5;
 
-V. Requerir información a las unidades administrativas del C5, para el cumplimiento de sus funciones;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VI. Elaborar proyectos normativos relacionados con las atribuciones del C5, a fin de someterlos a consideración de la persona titular de la Coordinación General;
+V. Requerir información a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo del C5, para el cumplimiento de sus funciones;
 
-VII. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, los servidores públicos que les estén subordinados; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Las demás que le sean encomendadas por la persona titular de la Coordinación General del C5 y las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+VI. Elaborar proyectos normativos relacionados con las atribuciones del C5, a fin de someterlos a consideración de la persona Titular de la Coordinación General del C5;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, las personas Titulares de las Unidades Administrativas de Apoyo Técnico Operativo que le estén subordinadas; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
 ###### Artículo 293.
 
 Corresponde a la Dirección General de Administración Operativa:
 
-I. Coordinar la operación del Centro (sic) Atención de Llamadas a Emergencias 9-1-1 y Denuncia Anónima 089 para su debida atención y canalización a las instancias correspondientes;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+I. Coordinar la operación del Centro de Atención de Llamadas a Emergencias 9-1-1 y Denuncia Anónima 089 para su debida atención y canalización a las instancias correspondientes;
 
 II. Establecer niveles de calidad para seguimiento de las líneas de Atención de Llamadas a Emergencias 9-1-1 y Denuncia Anónima 089;
 
@@ -11054,9 +11662,13 @@ IV. Promover la vinculación, integración y cooperación con entes públicos de
 
 V. Rendir los informes que sean requeridos por autoridades judiciales o administrativas, relacionados con el ámbito de sus funciones;
 
-VI. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, los servidores públicos que les estén subordinados; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Las demás que le sean encomendadas por la persona titular de la Coordinación General del C5 y las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+VI. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, las personas Titulares de las Unidades Administrativas de Apoyo Técnico Operativo que le estén subordinadas; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
 ###### Artículo 294.
 
@@ -11070,15 +11682,21 @@ III. Planear las funciones multidisciplinarias para el cumplimiento de objetivos
 
 IV. Coordinar los procedimientos de integración y funcionamiento de elementos tecnológicos de sistemas, equipamiento, comunicaciones y de ingeniería del C5;
 
-V. Coordinar la atención de los requerimientos de las áreas operativas en la implementación de soluciones tecnológicas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Coordinar la atención de los requerimientos de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo en la implementación de soluciones tecnológicas;
 
 VI. Evaluar el funcionamiento de los elementos tecnológicos de sistemas, equipamiento, sistemas electromecánicos, comunicaciones y de ingeniería, así como sus procedimientos de operación;
 
-VII. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, los servidores públicos que les estén subordinados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, las personas Titulares de las Unidades Administrativas de Apoyo Técnico Operativo que le estén subordinadas;
 
 VIII. Analizar la información de las herramientas de medición de niveles de servicio, en los equipamientos de misión crítica y de comunicaciones, a fin de monitorear el rendimiento óptimo de los servicios; y
 
-IX. Las demás que le sean encomendadas por la persona titular de la Coordinación General del C5 y las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
 ###### Artículo 295.
 
@@ -11088,23 +11706,33 @@ I. Dirigir la elaboración de análisis estadísticos y cartográficos para comp
 
 II. Coordinar el análisis e integración de la información generada por el C5, para realizar estadísticas e investigaciones que contribuyan al mejoramiento de los servicios de atención ciudadana y emergencias;
 
-III. Dirigir la generación de reportes diarios, a través de sistemas estadísticos y cartográficos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Dirigir la elaboración de reportes diarios, a través de sistemas estadísticos y cartográficos;
 
 IV. Establecer criterios y metodologías para la elaboración de reportes e informes, que aporten elementos para la prevención e investigación de la incidencia delictiva y la atención de emergencias;
 
 V. Definir la metodología a seguir para la elaboración de planes y estrategias que permitan mejorar la operación de los servicios de emergencias;
 
-VI. Coordina la recopilación y depuración de datos generados sobre los incidentes atendidos relacionados con los servicios de atención ciudadana y emergencias;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VI. Coordinar la recopilación y depuración de datos generados sobre los incidentes atendidos relacionados con los servicios de atención ciudadana y emergencias;
 
 VII. Instruir la detección de puntos conflictivos para proponer consignas de video monitoreo, planes estratégicos de atención y combate a fenómenos delictivos;
 
 VIII. Aprobar los reportes e informes, de los incidentes y otros temas relacionados con los servicios de atención ciudadana y emergencias;
 
-IX. Autorizar documentos informativos que contribuyan a planificar las acciones para la atención ciudadana y de emergencias;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, los servidores públicos que les estén subordinados; y
+IX. Autorizar los documentos informativos que contribuyan a planificar las acciones para la atención ciudadana y de emergencias;
 
-XI. Las demás que le sean encomendadas por la persona titular de la Coordinación General del C5 y las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan en el ejercicio de sus atribuciones, las personas Titulares de las Unidades Administrativas de Apoyo Técnico Operativo que le estén subordinadas; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
 ###### Artículo 296.
 
@@ -11154,9 +11782,11 @@ IX. Informar al Congreso de la Ciudad de México a través de su Comisión de Cu
 
 X. Las demás funciones que le atribuyan las leyes y reglamentos, así como las que le encomiende la persona que ocupe la Jefatura de Gobierno de la Ciudad de México;
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 300.
 
-El Sistema Público de Radiodifusión de la Ciudad de México tiene por objeto transmitir los programas y contenidos de radio y televisión digital del Gobierno de la Ciudad de México.
+El Sistema Público de Radiodifusión de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto transmitir los programas y contenidos de radio y televisión digital del Gobierno de la Ciudad de México.
 
 ###### Artículo 301.
 
@@ -11174,9 +11804,11 @@ V. Informar sobre los principales programas y acciones de los órganos de gobier
 
 VI. Coadyuvar, con las instancias competentes, en la revisión y producción de los programas transmitidos sobre la Ciudad de México
 
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
 ###### Artículo 302.
 
-El órgano desconcentrado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal, contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente.
+El Órgano Desconcentrado Sistema Público de Radiodifusión de la Ciudad de México, contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes del Congreso de la Ciudad de México o, en sus recesos, de la Comisión Permanente.
 
 ###### Artículo 303.
 
@@ -11198,7 +11830,9 @@ VI. Las demás que le confieran otras disposiciones jurídicas y administrativas
 
 Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de México se le adscriben:
 
-1. Coordinación General del Sistema de Aguas de la Ciudad de México
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+1. Coordinación General del Sistema de Aguas de la Ciudad de México;
 
 2. Gerencia General de Coordinación Institucional de Operación y Servicios;
 
@@ -11260,11 +11894,15 @@ V. Colaborar en la determinación de los montos relativos al cobro de derechos d
 
 VI. Intervenir en las acciones que se requieran en materia de tratamiento obligatorio de aguas residuales y el manejo de lodos, a las personas físicas o morales que utilicen y contaminen el agua con motivo de los procesos industriales, comerciales o de servicios que realicen;
 
-VII. Coordinar las acciones que se realicen en materia de suspensión o restricción de los servicios hidráulicos a inmuebles y tomas conforme a las disposiciones establecidas en la Ley y el Código Fiscal del Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Coordinar las acciones que se realicen en materia de suspensión o restricción de los servicios hidráulicos a inmuebles y tomas conforme a las disposiciones establecidas en la Ley y el Código Fiscal de la Ciudad de México;
 
 VIII. Organizar la aplicación de política de extracción de las fuentes de abastecimiento y recarga de acuíferos, así como del uso y explotación de pozos particulares, expedidas por la autoridad competente;
 
-IX. Colaborar en el establecimiento de los criterios técnicos para la prestación de servicios hidráulicos por las Alcaldías y proporcionar la coordinación entre los programas sectorial y de las Alcaldías, atendiendo tanto a las políticas de gobierno como a las disponibilidades presupuestales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Colaborar en el establecimiento de los criterios técnicos para la prestación de servicios hidráulicos por las Alcaldías y propiciar la coordinación entre los programas sectorial y de las Alcaldías, atendiendo tanto a las políticas de gobierno como a las disponibilidades presupuestales;
 
 X. Coadyuvar en la promoción para la sustitución del agua potable por agua tratada en cualquier actividad, incluyendo la agropecuaria;
 
@@ -11272,7 +11910,9 @@ XI. Apoyar las acciones para la ejecución de programas urbanos de drenaje y eva
 
 XII. Coordinar las acciones que se realicen para proyectar, ejecutar y supervisar las obras hidráulicas necesarias, así como colaborar en la atención de las inundaciones, hundimientos y movimientos de suelo cuando su origen sea hidráulico;
 
-XIII. Coordinar las acciones que se lleven a cabo para la construcción de presas de capacitación y almacenamiento de agua pluvial, así como colectores marginales a lo largo de las barrancas y cauces para la capacitación de agua;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Coordinar las acciones que se lleven a cabo para la construcción de presas de captación y almacenamiento de agua pluvial, así como colectores marginales a lo largo de las barrancas y cauces para la captación de agua;
 
 XIV. Coordinar las acciones que se realicen para evitar el azolve de la red de alcantarillado y rescatar, sanear, proteger y construir las instalaciones para aprovechar las aguas de los manantiales y pluviales que circulan por barrancas y cauces naturales;
 
@@ -11284,7 +11924,9 @@ XVII. Suscribir los contratos, convenios y demás actos jurídicos y administrat
 
 XVIII. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia;
 
-XIX. Expedir y certificar copias de los documentos que obren sus archivos; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 XX. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
@@ -11306,7 +11948,9 @@ VI. Someter a consideración del Coordinador General, proyectos y programas de a
 
 VII. Establecer las políticas y acciones para la elaboración y cumplimiento de los programas de mantenimiento preventivo y correctivo a instalaciones civiles, equipos mecánicos, electromecánicos y electrónicos, así como del parque vehicular y maquinaria pesada del Sistema de Aguas de la Ciudad de México;
 
-VIII. Llevar a cabo los procesos de contratación de obra pública y servicios relacionados con la misma con cargo total a recursos del Presupuesto de Egresos de la Ciudad de México, así como las obras financiadas total o parcialmente con fondos federales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VIII. Llevar a cabo los procesos de contratación de obra pública y servicios relacionados con la misma con cargo total a los recursos del Presupuesto de Egresos de la Ciudad de México, así como las obras financiadas total o parcialmente con fondos federales;
 
 IX. Establecer y dirigir las políticas y acciones para la atención de fallas en los sistemas de agua potable;
 
@@ -11314,9 +11958,13 @@ X. Formalizar los mecanismos de coordinación con las Alcaldías, para la presta
 
 XI. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para revocarlos, suspenderlos y/o terminarlos con apego a la normatividad aplicable;
 
-XII. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto; (antes XIV)
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIII. Expedir y certificar copias de los documentos que obren en sus archivos de la Unidad Administrativa a su cargo; y
+XII. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 XIV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
@@ -11332,7 +11980,9 @@ III. Planear y dirigir el funcionamiento de los sistemas de distribución de agu
 
 IV. Elaborar, conjuntamente con la Dirección General de Apoyo Técnico y Planeación, las políticas y acciones relativas al monitoreo y control del agua tratada, de acuerdo con las disposiciones legales y normativas vigentes;
 
-V. Someter a consideración del Coordinar General, proyectos y programas de adecuaciones a la infraestructura hidráulica de los sistemas de drenaje, tratamiento y reúso, para la mejora de los servicios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Someter a consideración del Coordinador General, proyectos y programas de adecuaciones a la infraestructura hidráulica de los sistemas de drenaje, tratamiento y reúso, para la mejora de los servicios;
 
 VI. Establecer las políticas y acciones para la elaboración y cumplimiento de los programas de mantenimiento preventivo y correctivo a instalaciones civiles, equipos mecánicos, electromecánicos y electrónicos, así como del parque vehicular y maquinaria pesada del Sistema de Aguas de la Ciudad de México;
 
@@ -11346,7 +11996,9 @@ X. Suscribir los contratos, convenios y demás actos jurídicos y administrativo
 
 XI. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de su competencia, previa opinión de la Dirección Ejecutiva de Asuntos Jurídicos al respecto;
 
-XII. Expedir y certificar copias de los documentos que obren (sic) sus archivos;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Expedir y certificar copias de los documentos que obren en sus archivos;
 
 XIII. Diseñar e instrumentar las acciones necesarias para que se cuente con el hardware y software para la implementación y mantenimiento de las estaciones de automatización y medición del sistema hidráulico de drenaje, tratamiento y reúso;
 
@@ -11356,9 +12008,13 @@ XV. Integrar la documentación necesaria para llevar a cabo los procesos licitat
 
 XVI. Conciliar la medición para la facturación de la descarga de agua residual;
 
-XVII. Ejecutar las acciones necesarias para (sic) los sistemas de drenaje y tratamiento cuenten con equipos de automatización, así como los sistemas de información para la trasmisión y manejo de los datos generados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVIII. Llevar a cabo la contratación y ejecución de obra pública y servicios relacionados con la misma con cargo total de recursos de Presupuesto de Egresos de la Ciudad de México, así como las obras financiadas total o parcialmente con fondos federales;
+XVII. Ejecutar las acciones necesarias para que los sistemas de drenaje y tratamiento cuenten con equipos de automatización, así como los sistemas de información para la trasmisión y manejo de los datos generados;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVIII. Llevar a cabo la contratación y ejecución de obra pública y servicios relacionados con la misma con cargo total a los recursos del Presupuesto de Egresos de la Ciudad de México, así como las obras financiadas total o parcialmente con fondos federales;
 
 XIX. Realizar los procedimientos de revisión y autorización de ajuste de costos, de precios unitarios, precios unitarios extraordinarios y volumetría adicional, de conformidad con las disposiciones legales y términos contractuales;
 
@@ -11448,13 +12104,17 @@ II. Supervisar las actividades realizadas por terceros en concesión o cualquier
 
 III. Supervisar y ordenar la suspensión y/o restricción del servicio de agua a los usuarios domésticos, no domésticos y mixtos y de la descarga a la red de drenaje en los términos previstos en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
 
-IV. Planear, establecer y ordenar los programas de práctica de visitas domiciliaras, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IV. Planear, establecer y ordenar los programas de práctica de visitas domiciliarias, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
 
 V. Dirigir y controlar la recaudación de derechos por suministro de agua, servicios de construcción y operación hidráulica, descarga en la red de drenaje y sus accesorios;
 
 VI. Programar y ordenar la emisión de las órdenes de inspección relativas a los consumos de agua potable y descargas a la red de drenaje, conforme a las disposiciones legales y reglamentarias de la materia y demás disposiciones administrativas;
 
-VII. Programar, ordenar, dirigir y ejecutar los actos de verificación administrativa, inspección y vigilancia, además de la suspensión de las tomas no autorizadas, conforme a lo establecido en la Ley de Aguas del Distrito Federal y demás disposiciones legales y reglamentarias de la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+VII. Programar, ordenar y dirigir los actos de verificación administrativa, inspección y vigilancia, además de la suspensión de las tomas no autorizadas, conforme a lo establecido en la Ley de Aguas del Distrito Federal y demás disposiciones legales y reglamentarias de la materia;
 
 VIII. Autorizar la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial;
 
@@ -11478,7 +12138,9 @@ XVII. Establecer y supervisar las políticas que garanticen el entero y oportuno
 
 XVIII. Coordinar y evaluar las solicitudes presentadas por las y los contribuyentes relativas a certificaciones de pagos, constancias de adeudos, devoluciones y compensaciones de pagos indebidos, de acuerdo a las normas jurídicas aplicables;
 
-XIX. Dictaminar, administrar y controlar el cobro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga de la red de drenaje;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Determinar, administrar y controlar el cobro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga de la red de drenaje;
 
 XX. Coordinar la atención a usuarios en las oficinas de atención al público del Sistema de Aguas de la Ciudad de México;
 
@@ -11508,7 +12170,9 @@ III. Atender solicitudes de conexión de los servicios hidráulicos para trámit
 
 IV. Emitir las órdenes de inspección y verificación a las instalaciones hidráulicas conforme a las atribuciones contenidas en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
 
-V. Emitir los requerimientos de documentación necesaria para acreditar la legalidad de las instalaciones hidráulicas de los usuarios del servicio en términos de la Ley de Aguas del Distrito Federal y del Código Fiscal de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+V. Emitir los requerimientos de documentación necesaria para acreditar la legalidad de las instalaciones hidráulicas de los usuarios del servicio en términos de la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
 
 VI. Emitir y ejecutar las órdenes de supresión de tomas de agua potable y de descargas a la red de drenaje irregular, detectadas en el ejercicio de sus atribuciones, de conformidad con lo establecido en la Ley de Aguas del Distrito Federal y el Código Fiscal de la Ciudad de México;
 
@@ -11548,11 +12212,17 @@ XI. Formular y presentar ante el Ministerio Público competente, las denuncias o
 
 XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
-XIII. Prestar apoyo técnico a la preparación de las sesiones del Consejo Directivo del Sistema de Aguas de la Ciudad de México; y,
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Expedir copias certificadas, previo cotejo de los originales de los documentos que obren en sus archivos.
+XIII. Prestar apoyo técnico a la preparación de las sesiones del Consejo Directivo del Sistema de Aguas de la Ciudad de México;
 
-XIV (SIC). Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Coordinador General.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Expedir copias certificadas, previo cotejo de los originales de los documentos que obren en sus archivos; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Coordinador General.
 
 ###### Artículo 314.
 
@@ -11626,9 +12296,9 @@ Para el despacho de los asuntos que competen al Órgano Regulador de Transporte 
 
 2. Dirección Ejecutiva de la Coordinación de los Centros de Transferencia Modal;
 
-3. Dirección Ejecutiva de Administración y Supervisión "A";
+3. Dirección Ejecutiva de Administración y Supervisión “A”;
 
-4. Dirección Ejecutiva de Administración y Supervisión "B"; y
+4. Dirección Ejecutiva de Administración y Supervisión “B”; y
 
 5. Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México.
 
@@ -11704,7 +12374,7 @@ XIV. Las demás que le confieran las disposiciones legales aplicables y los que 
 
 ###### Artículo 320.
 
-Corresponde a la Dirección Ejecutiva de Administración y Supervisión "A":
+Corresponde a la Dirección Ejecutiva de Administración y Supervisión “A”:
 
 I. Implementar mecanismos de operación y administración, y fijar las bases e instrumentar los procedimientos necesarios para la adecuada coordinación de actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
 
@@ -11732,7 +12402,7 @@ XII. Coordinar la ubicación y reubicación de los prestadores de servicios del 
 
 XIII. Supervisar y ordenar a los prestadores de servicios del transporte público de pasajeros, dentro de los espacios físicos asignados en los Centros de Transferencia Modal, para hacer más eficiente la operación en las áreas de transferencia modal.
 
-XIV. Emitir los "Elementos Operativos para la Autorización de Acceso Vehicular", para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
+XIV. Emitir los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
 
 XV. Coordinar la operación de los concesionarios y permisionarios que hacen uso de las instalaciones competencia del Órgano Regulador de Transporte, para que cumplan con los lineamientos establecidos (sic) normatividad competente;
 
@@ -11744,7 +12414,7 @@ XVIII. Las demás que le confieran las disposiciones legales aplicables y los qu
 
 ###### Artículo 321.
 
-Corresponde a la Dirección Ejecutiva de Administración y Supervisión "B":
+Corresponde a la Dirección Ejecutiva de Administración y Supervisión “B”:
 
 I. Implementar mecanismos de operación y administración, y fijar las bases e instrumentar los procedimientos necesarios para la adecuada coordinación de actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
 
@@ -11772,7 +12442,7 @@ XII. Coordinar la ubicación y reubicación de los prestadores de servicios del 
 
 XIII. Supervisar y ordenar a los prestadores de servicios del transporte público de pasajeros, dentro de los espacios físicos asignados en los Centros de Transferencia Modal, para hacer más eficiente la operación en las áreas de transferencia modal.
 
-XIV. Emitir los "Elementos Operativos para la Autorización de Acceso Vehicular", para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
+XIV. Emitir los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
 
 XV. Coordinar la operación de los concesionarios y permisionarios que hacen uso de las instalaciones competencia del Órgano Regulador de Transporte, para que cumplan con los lineamientos establecidos (sic) normatividad competente;
 
@@ -11886,13 +12556,17 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 325.
 
-La Comisión de Reconstrucción de la Ciudad de México tiene por objeto coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción, a fin de atender a las personas damnificadas (sic) el sismo y llevar a cabo la Reconstrucción de la Ciudad.
+La Comisión para la Reconstrucción de la Ciudad de México tiene por objeto coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción, a fin de atender a las personas damnificadas por el sismo y llevar a cabo la Reconstrucción de la Ciudad en términos de la Ley para la Reconstrucción Integral de la Ciudad de México.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 326.
 
-Para el despecho de los asuntos que competen a la Comisión de Reconstrucción se le adscriben:
+Para el despecho de los asuntos que competen a la Comisión para la Reconstrucción de la Ciudad de México se le adscriben:
 
-1. Coordinación General de la Comisión de Reconstrucción de la Ciudad de México;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+1. Coordinación General de la Comisión para la Reconstrucción de la Ciudad de México;
 
 2. Dirección General de Atención a Personas Damnificadas; y
 
@@ -11904,9 +12578,13 @@ Corresponde a la Coordinación General de la Comisión para la Reconstrucción d
 
 I. Coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México;
 
-II. Coordinar las estrategias que las Dependencias, Entidades y Órganos de la Administración Pública de la Ciudad de México, destinan para la Rehabilitación, Demolición, Reconstrucción y Supervisión;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-III. Coordinar y dar seguimiento a las acciones y avances del equipo de trabajo conformado por los enlaces de las Dependencias involucradas en los procesos de rehabilitación, demolición y reconstrucción;
+II. Coordinar las estrategias que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías de la Administración Pública de la Ciudad de México, destinan para la Rehabilitación, Demolición, Reconstrucción y Supervisión;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+III. Coordinar y dar seguimiento a las acciones y avances del equipo de trabajo conformado por los enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías involucradas en los procesos de rehabilitación, demolición y reconstrucción;
 
 IV. Nombrar, con cargo honorifico, a los subcomisionados;
 
@@ -11916,19 +12594,29 @@ VI. Llevar a cabo las acciones de mando y coordinación para alcanzar los objeti
 
 VII. Representar a la Comisión ante las instancias públicas y/o privadas respecto a los temas que conforman el Plan y la Ley, así como verificar el cumplimiento de los acuerdos con las mismas;
 
-VIII. Celebrar, suscribir y expedir los instrumentos y actos jurídicos necesarios para el cumplimiento de las atribuciones de la Comisión;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IX. Gestionar la obtención de recursos o fuentes de financiamiento público o privado, para la ejecución de acciones definidas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+VIII. Celebrar, suscribir y expedir los instrumentos y/o actos jurídicos y/o administrativos necesarios para el cumplimiento de las atribuciones de la Comisión;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+IX. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
 
 X. Realizar el seguimiento y evaluación del Plan y la Ley, de acuerdo con los indicadores establecidos, evaluar su ejecución y los resultados obtenidos;
 
-XI. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales establece la normatividad de la materia;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Coordinar y dirigir las reuniones diarias, mensuales y las extraordinarias que convoque con motivo de los avances, acciones y temas relacionados con la reconstrucción;
+XI. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales establece la normatividad de la materia respecto de la Comisión;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Coordinar y dirigir las reuniones periódicas ordinarias y extraordinarias que convoque con motivo de los avances, acciones y/o temas relacionados con la reconstrucción;
 
 XIII. Organizar y coordinar las acciones del proceso de reconstrucción consistentes en: la rehabilitación, demolición y reconstrucción y supervisión de los inmuebles afectados por el sismo;
 
-XIV. Coordinar a las personas enlaces de las Secretarías y organismos del Gobierno de la Ciudad, que participan en el proceso de reconstrucción;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Coordinar a las personas enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad, que participan en el proceso de reconstrucción;
 
 XV. Implementar los mecanismos y acciones necesarias para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
 
@@ -11938,25 +12626,37 @@ XVII. Solicitar informes a la mesa legal para conocer el avance y estado de los 
 
 XVIII. Coordinar los trabajos de los subcomisionados, los Comités y el Consejo Consultivo;
 
-XIX. Establecer el mecanismo idóneo para incorporar a las personas damnificadas al Censo Social y Técnico, y puedan acceder a los derechos de la reconstrucción a través de la debida planeación; Así como realizar un diagnóstico general de los resultados del mismo;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIX. Establecer el mecanismo idóneo para incorporar a las personas damnificadas al Censo Social y Técnico, y puedan acceder a los beneficios del Plan Integral de Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México a través de la debida planeación; así como realizar un diagnóstico general de los resultados del mismo;
 
 XX. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
 
-XXI. Solicitar los informes necesarios a las Dependencias y organismos que participan en la Reconstrucción;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXI. Solicitar los informes necesarios a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en la Reconstrucción;
 
 XXII. Coordinar, organizar y administrar el apoyo en renta para las personas damnificadas desplazadas;
 
-XXIII. Realizar acuerdos con las Cámaras, Colegios y empresas que intervienen en el proceso de reconstrucción, con la finalidad de fijar precios estables a través de un instrumento o catálogo, para la protección de las personas damnificadas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXIII. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de reconstrucción, con la finalidad de fijar precios estables a través de un instrumento o catálogo, para la protección de las personas damnificadas;
 
 XXIV. Implementar mecanismos para organizar a las empresas constructoras por zonas, en beneficio de las personas damnificadas y del proceso de reconstrucción;
 
-XXV. Solicitar los recursos necesarios a través de los mecanismos establecidos en las reglas de operación que apruebe el Fideicomiso, para atender las acciones establecidas en el Plan Integral para la Reconstrucción;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXV. Solicitar los recursos necesarios a través de los mecanismos establecidos en las reglas de operación que apruebe el Fideicomiso, para atender las acciones establecidas en el Plan Integral para la Reconstrucción y en la Ley para la Reconstrucción Integral de la Ciudad de México;
 
 XXVI. Participar en la Secretaría Técnica del Comité del Fideicomiso para la reconstrucción Integral de la Ciudad de México;
 
-XXVII. Recibir informes periódicos por las dependencias que participan en el proceso de reconstrucción; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones
+XXVII. Recibir informes periódicos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en el proceso de reconstrucción; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruya la persona Titular de la Jefatura de Gobierno.
 
 ###### Artículo 328.
 
@@ -11976,33 +12676,55 @@ VI. Coordinar la línea telefónica exclusiva para la atención de las personas 
 
 VII. Realizar a través del equipo territorial y de manera conjunta con el equipo técnico, el censo social y técnico de las personas que por alguna razón no hayan sido censadas;
 
-VIII. Seguimiento de las solicitudes de atención de los damnificados a través de los canales de comunicación correspondientes;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-IX. Organizar las asambleas y reuniones informativas en las colonias, barrios, pueblos y unidades habitacionales sobre el proceso de reconstrucción;
+VIII. Dar seguimiento de las solicitudes de atención de los damnificados a través de los canales de comunicación correspondientes;
 
-X. Participar, en coordinación con las diferentes instancias del gobierno, en la programación, organización e implementación de la línea telefónica única de atención a damnificados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XI. Coordinar con las diferentes instancias del gobierno, en la programación y organización de las jornadas notariales y asesorías legales;
+IX. Organizar las asambleas y/o reuniones informativas en las colonias, barrios, pueblos y/o unidades habitacionales sobre el proceso de reconstrucción;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Participar, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías del gobierno, en la programación, organización e implementación de la línea telefónica única de atención a damnificados;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Coordinar con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías, en la programación y organización de las jornadas notariales y asesorías legales;
 
 XII. Integrar de manera conjunta con la Dirección General de Operaciones, el expediente único de las personas damnificadas;
 
-XIII. Participar en la promoción y difusión de las acciones de reconstrucción, acudiendo a instituciones y organismos públicos y privados, y otros sectores de la sociedad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Participar en los asuntos tratados y los acuerdos tomados en las diferentes reuniones que con motivo de las acciones de reconstrucción se establezcan con las diferentes instancias de gobierno, ciudadanía e iniciativa privada;
+XIII. Participar en la promoción y difusión de las acciones de reconstrucción, acudiendo a instituciones y/u organismos públicos y/o privados, y otros sectores de la sociedad civil;
 
-XV. Proponer y participar en programas de atención de necesidades sociales, en colaboración con sectores y grupos organizados de la sociedad;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XVI. Coordinar la intervención, a través de los mecanismos alternativos para la solución de conflictos de vecinos damnificados y comunidades afectadas;
+XIV. Participar en los asuntos tratados y/o los acuerdos tomados en las diferentes reuniones que con motivo de las acciones de reconstrucción se establezcan con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de gobierno, ciudadanía y/o iniciativa privada;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Proponer y participar en programas de atención de necesidades sociales, en colaboración con sectores y/o grupos organizados de la sociedad;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Coordinar la intervención, a través de los mecanismos alternativos para la solución de conflictos de personas damnificadas y/o comunidades afectadas;
 
 XVII. Realizar un diagnóstico de la situación legal de los inmuebles afectados;
 
 XVIII. Dar seguimiento a la Mesa Legal permanente, para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
 
-XIX. Implementar las acciones de coordinación y colaboración con otras Dependencias, sociedad civil y academia para atender el estrés postraumático de las personas y familias afectadas por el sismo;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XX. Impulsar acciones comunitarias para la participación en la intervención para el mejoramiento de barrios y pueblos afectados por el sismo;
+XIX. Implementar las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo;
 
-XXI. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y Comunidades Indígenas Residentes; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XX. Impulsar acciones comunitarias para la participación en la intervención para el mejoramiento de barrios y/o pueblos afectados por el sismo;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XXI. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes; y
 
 XXII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas.
 
@@ -12018,29 +12740,57 @@ III. Organizar las acciones para la organización territorial de las empresas en
 
 III. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento del Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
 
-IV. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-V. Dar seguimiento a los trámites y gestión de las constancias de derechos adquiridos y redensificación;
+IV. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento al Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
 
-VI. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en barrios, colonias, pueblos y edificios;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de damnificadas (sic);
+V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
 
-VII (SIC). Incorporar en la base de datos del Censo Social y Técnico a las personas que por alguna razón no hayan sido censadas;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-VIII. Establecer los canales de comunicación y acción con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría de Administración y Finanzas, el Instituto de Vivienda, la Secretaría de Obras y Servicios y otras Entidades que forman parte de la Administración Pública de la Ciudad de México, para concretar las labores de la Comisión;
+VI. Dar seguimiento a los trámites y gestión de las constancias de derechos adquiridos y redensificación;
 
-IX. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión, velando siempre por el beneficio de las y los damnificados;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-X. Llevar a cabo el seguimiento con el Instituto de Vivienda, a fin de seguir atendiendo a las personas damnificadas que solicitaron un crédito a esta institución para rehabilitar o reconstruir sus inmuebles. Así mismo, se coordinará con el Comité Científico y de Grietas para definir las zonas de riesgo y cuidar que las obras en dichas zonas, cumplan con las medidas de mitigación y convivencia que el Comité defina;
+VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en barrios, colonias, pueblos y/o edificios;
 
-XI. Coordinar las acciones de seguimiento y evaluación de la información a través del Portal de la Reconstrucción (administrada por la Secretaría de Administración y Finanzas) y del Censo Técnico y Social;
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XII. Coordinar los mecanismos para dar seguimiento al gasto ejercido en proyectos, obras y apoyos a rentas;
+VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas;
 
-XIII. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en el Plan Integral para la Reconstrucción de la Ciudad de México; y
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
-XIV. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas.
+IX. Incorporar en la base de datos del Censo Social y Técnico a las personas que por alguna razón no hayan sido censadas;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+X. Establecer los canales de comunicación y/o acción con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría de Administración y Finanzas, el Instituto de Vivienda, la Secretaría de Obras y Servicios y otras Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que forman parte de la Administración Pública de la Ciudad de México, para concretar las labores de la Comisión;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las y los damnificados;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XII. Llevar a cabo el seguimiento con el Instituto de Vivienda, a fin de seguir atendiendo a las personas damnificadas que solicitaron un crédito a ese instituto para rehabilitar o reconstruir sus inmuebles. Así mismo, se coordinará con el Comité Científico y de Grietas para definir las zonas de riesgo y cuidar que las obras en dichas zonas, cumplan con las medidas de mitigación y convivencia que el Comité defina;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIII. Coordinar las acciones de seguimiento y evaluación de la información a través del Portal de la Reconstrucción (administrada por la Secretaría de Administración y Finanzas) y del Censo Técnico y Social;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XIV. Coordinar los mecanismos para dar seguimiento al gasto ejercido en proyectos, obras y apoyos a rentas;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en el Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia; y
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas.
 
 ###### Artículo 330.
 
@@ -12130,7 +12880,9 @@ SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en
 
 TERCERO.- Se abroga el Reglamento Interior de la Administración Pública del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 28 de diciembre de 2000.
 
-CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Reglamento, y en particular aquellos Acuerdo o Decretos mediante los cuales se crean Órganos Desconcentrados de la Administración Pública distintos de los que aparecen en este Reglamento.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Reglamento, y en particular aquellos Acuerdos o Decretos mediante los cuales se crean Órganos Desconcentrados de la Administración Pública distintos de los que aparecen en este Reglamento.
 
 QUINTO.- Los recursos humanos, materiales, técnicos y financieros de las direcciones generales que se extinguen, por virtud de este Reglamento, se transferirán a las Unidades Administrativas que asumen sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables y la Secretaría de Administración y Finanzas.
 
@@ -12162,6 +12914,16 @@ Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en t
 
 Los recursos humanos, financieros y materiales asignados a la Dirección General de Imagen, Alumbrado Público y Gestión de los Residuos Sólidos Urbanos y a la Dirección General de Infraestructura Vial, ambas de la entonces Agencia de Gestión Urbana al momento de su transferencia a la Secretaria de Obras y Servicios, y con la finalidad de que se realice de manera ordenada y se continúe con el cumplimiento de las obligaciones contraídas, continuará operando con los recursos disponibles, en tanto que la Secretaría de Administración y Finanzas disponga lo necesario para que las funciones o servicios se transfieran a la Secretaría de Obras y Servicios de manera ordenada, dicha trasferencia se dará dentro de un plazo máximo de 180 días hábiles a partir de la entrada en vigor del presente Reglamento, de conformidad con el Artículo Transitorio Vigésimo de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
-DÉCIMO SEXTO.- Hasta en tanto no entre en funciones el Instituto de Defensoría Pública, de conformidad con el artículo Décimo Octavo Transitorio de la Constitución Política de la Ciudad de México, la Dirección General de Servicios Legales tendrá las atribuciones indicadas en las fracciones XIV, XV y XVI del artículo 228 de este Reglamento.
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+DÉCIMO SEXTO.- Hasta en tanto no entre en funciones el Instituto de Defensoría Pública, de conformidad con el artículo Décimo Octavo Transitorio de la Constitución Política de la Ciudad de México, la Dirección General de Servicios Legales tendrá las atribuciones indicadas en las fracciones XIV, XV y XVI del artículo 230 de este Reglamento.
 
 Dado en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dos días del mes de enero del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARÍA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL LA “FE DE ERRATAS AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL NÚMERO 1 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 2 DE ENERO DE 2019”.]
+
+Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
