@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-01-16"
+last_updated: "2019-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -665,13 +665,17 @@ L. Aplicar las sanciones administrativas, medidas correctivas y de seguridad que
 
 LI. Denunciar ante el Ministerio Público los hechos considerados como delitos;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2019)</small>
 
-LII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación por el uso de bolsas de plástico; así como del poliestireno expandido; y que fomenten el reciclaje y el reuso de las mismas, además deberá promover la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos; y
+LII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación generada por el uso de productos plásticos; así como del poliestireno expandido. Fomentando el reciclaje y el reúso de los mismos, además deberá promover la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2019)</small>
 
-LIII. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+LIII. Prevenir, controlar y abatir la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE ENERO DE 2019)</small>
+
+LIV. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -2649,9 +2653,13 @@ Quedan exentas de la restricción del párrafo anterior aquellas bolsas que haya
 
 El Porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2019)</small>
 
-Artículo 168 Bis I.- Toda persona física o moral que tenga como objetivo un fin preponderantemente comercial e infrinja lo establecido en el artículo 168 BIS, será acreedor de una multa de mil quinientas a veinte mil UMAS.
+Artículo 168 Bis I.- Para la protección ambiental del Estado de Nuevo León, se prohíbe la venta, dádiva y uso de popotes elaborados con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, en restaurantes, bares, cafeterías y demás similares.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2019)</small>
+
+Artículo 168 Bis II.- Toda persona física o moral que tenga como objetivo un fin preponderantemente comercial e infrinja lo establecido en los artículos 168 BIS y 168 BIS I, será acreedor de una multa de mil quinientas a veinte mil UMAS.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
@@ -3900,3 +3908,13 @@ P.O. 16 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 045. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 233, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 258 Y EL TERCER PÁRRAFO DEL ARTÍCULO 264 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 046. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES LII Y LIII DEL ARTÍCULO 8; DEL ARTÍCULO 168 BIS I; POR ADICIÓN DE UNA FRACCIÓN LIV DEL ARTÍCULO 8; Y DE UN ARTÍCULO 168 BIS II DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de lo estipulado en el Artículo 168 Bis II de la Ley Ambiental para el Estado de Nuevo León, el cual entrará en vigor trescientos sesenta y cinco días posteriores.
+
+SEGUNDO.- La Secretaría de Desarrollo Sustentable dispondrá de un lapso de trescientos sesenta y cinco días posteriores a la entrada en vigor de este Decreto, para promover mediante campañas de difusión, la no utilización de popotes en los términos que se proponen en el presente Decreto, así como impulsar el uso de reusables, biodegradables orgánicos, y compostables.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
