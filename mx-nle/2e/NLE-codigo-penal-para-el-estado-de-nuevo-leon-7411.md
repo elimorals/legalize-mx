@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2019-01-16"
+last_updated: "2019-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -4673,6 +4673,10 @@ SE ENTIENDE POR VIOLENCIA FISICA EN EL ROBO, LA FUERZA MATERIAL QUE PARA COMETER
 
 HAY VIOLENCIA MORAL CUANDO EL LADRON AMAGUE O AMENACE A UNA PERSONA CON UN MAL GRAVE, PRESENTE O INMINENTE, CAPAZ DE INTIMIDARLO.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2019)</small>
+
+LA PENA SEÑALADA EN EL PRIMER PARRAFO SERA APLICADA A QUIEN, PARA COMETER EL DELITO DE ROBO UTILICE INSTRUMENTOS QUE SIN SER ARMAS AUTENTICAS, PAREZCAN, REUNAN O SIMULEN LAS CARACTERISTICAS DE ESTAS.
+
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 372.
@@ -6376,3 +6380,9 @@ P.O. 16 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 75. SE REFORMA POR ADICIÓN DE UNA FRACCIÓN VII AL ARTÍCULO 316, DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 074. SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 371 DE (SIC) CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
