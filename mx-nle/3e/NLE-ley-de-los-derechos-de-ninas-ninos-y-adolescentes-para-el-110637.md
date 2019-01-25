@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2018-01-08"
+last_updated: "2019-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1705,9 +1705,9 @@ XIII. Impulsar la participación de las organizaciones privadas dedicadas a la p
 
 XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Estatal DIF.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2019)</small>
 
-Para el cumplimiento de las atribuciones enumeradas en las fracciones anteriores y las referidas en el artículo 167 y 168 bis 6 de esta Ley, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez. Para tal efecto en la iniciativa de la Ley de egresos de cada ejercicio fiscal el Ejecutivo preverá los recursos financieros necesarios que permitan dar cumplimiento a los objetivos y programas de la materia.
+Para el cumplimiento de las atribuciones enumeradas en las fracciones anteriores, en especial las correspondientes a las Defensorías Municipales, adicionando las que se confieren en el artículo 168 bis 2, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez, mismo que deberá incluir en la Ley de egresos que cada ejercicio fiscal envíe para su aprobación al Congreso Local, siendo distribuido conforme a las Reglas de Operación que emita para tal efecto.
 
 ###### Artículo 137.
 
@@ -2690,3 +2690,23 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 25 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 068. SE REFORMA POR MODIFICACIÓN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 136 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General, en un plazo no más mayor a 30 días hábiles a partir de la entrada en vigor de este Decreto, deberá emitir las Reglas de Operación del fondo establecido en el artículo 136 último párrafo, las cuales tendrán como base lo siguiente:
+
+A. El recurso deberá ser entregado durante los primeros 3-tres meses del año;
+
+B. La distribución será partiendo de un piso igual para todos los municipios que no podrá ser menor a $450,000.00 (cuatrocientos cincuenta mil pesos), para cada uno de ellos.
+
+C. Una vez distribuido el piso para los 51 municipios, el resto del recurso se distribuirá lo que arroje de multiplicar el número de habitantes menores de dieciocho años de cada municipio por el resto total del recurso.
+
+Tercero.- El Ejecutivo del Estado de conformidad con el artículo 40 de la Ley de Administración Financiera, podrá ampliar las partidas presupuestales necesarias en caso de que un Municipio así lo solicite, debiendo éste justificar la insuficiencia del recurso otorgado y presentar análisis de las consecuencias programáticas de no otorgarles recurso adicional.
+
+Cuarto.- Para el cumplimiento de las disposiciones del Artículo Segundo Transitorio de este Decreto, se deberá prever la partida correspondiente en la Ley de Egresos del Estado de Nuevo León para el ejercicio fiscal 2019.
+
+Quinto.- El fondo de apoyo municipal para la niñez, correspondiente al ejercicio fiscal 2020 y subsecuentes, deberá incrementarse al menos en términos reales, respecto al año anterior.
