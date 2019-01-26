@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-12-12"
+last_updated: "2019-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -525,9 +525,13 @@ Será presidida, de manera alternada, cada año legislativo, por las o los coord
 
 El orden anual para presidir la Junta de Coordinación Política será acordado por los integrantes de la misma, considerando de manera prioritaria a los partidos políticos que por sí mismos representen la primera y segunda fuerza política.
 
-La o el Secretario Técnico de la Junta de Coordinación Política, será quien encabece la Secretaría de Asuntos Interinstitucionales, mismo que auxiliará a la Presidencia de ésta en el ejercicio de sus atribuciones, dará fe de lo acontecido en las reuniones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, e informará sobre su cumplimiento.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
-A las reuniones de este órgano, también podrán acudir las y los titulares de las Secretarías de Asuntos Legislativos y de Administración, así como de la Auditoría Superior del Estado, quienes participarán con derecho a voz.
+La o el Secretario Técnico de la Junta de Coordinación Política, será quien encabece la Secretaría de Asuntos Legislativos y Jurídicos, mismo que auxiliará a la Presidencia de esta en el ejercicio de sus atribuciones, dará fe de lo acontecido en las reuniones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, e informará sobre su cumplimiento.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+A las reuniones de este órgano, también podrán acudir quienes sean titulares de la Secretaría de Administración y de la Auditoría Superior del Estado, quienes participarán con derecho a voz.
 
 ###### ARTÍCULO 63.
 
@@ -575,9 +579,9 @@ IX.- Someter a consideración del Pleno, el Proyecto de Presupuesto de Egresos d
 
 En dicho proyecto, deberá establecerse el monto que se canalizará para llevar a cabo publicaciones que programe el Consejo Editorial, del Comité de Biblioteca.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
 
-X. Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos y de Asuntos Interinstitucionales, así como de la Dirección del Instituto de Estudios e Investigación Legislativa y de la Dirección de Archivos.
+X.- Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos y Jurídicos, así como de la Dirección del Instituto de Estudios e Investigación Legislativa y de la Dirección de Archivos.
 
 XI.- Designar, a más tardar el día último de diciembre del primer año de ejercicio constitucional, a la persona física o moral que llevará a cabo la auditoría anual a los estados financieros de la Legislatura.
 
@@ -797,7 +801,9 @@ IX.- Dar cuenta, en su caso, para conocimiento de las y los diputados, de los do
 
 X.- Verificar y computar las votaciones y comunicar a la Presidencia sus resultados, así como levantar un registro de oradores para la presentación de iniciativas y de asuntos generales.
 
-XI.- Levantar las actas de las sesiones, con el apoyo de la Secretaría de Asuntos Legislativos, firmarlas en unión de la Presidencia, luego de ser aprobadas por el Congreso y llevar el archivo respectivo.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XI.- Levantar las actas de las sesiones, con el apoyo de la Secretaría de Asuntos Legislativos y Jurídicos, firmarlas en unión de la Presidencia, luego de ser aprobadas por el Congreso, y llevar el archivo respectivo.
 
 XII.- Dar trámite a los acuerdos de la Presidencia.
 
@@ -1037,7 +1043,9 @@ c) Cuando el asunto turnado derive de una Iniciativa Ciudadana, se citará a las
 
 III.- Solicitar a la Presidencia de la Mesa Directiva y a los órganos técnicos, los apoyos que se requieran para el desahogo de sus trabajos.
 
-IV.- Coordinar, con el apoyo de la Secretaría de Asuntos Legislativos, el estudio y análisis de las iniciativas y asuntos que le sean turnados, hasta su conclusión.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+IV.- Coordinar, con el apoyo de la Secretaría de Asuntos Legislativos y Jurídicos, el estudio y análisis de las iniciativas y asuntos que le sean turnados, hasta su conclusión.
 
 V.- Solicitar, previo acuerdo de la Comisión, la presencia de las o los servidores públicos para que participen en la discusión de los asuntos turnados, siempre y cuando tengan relación con las funciones que estos desempeñan.
 
@@ -1045,7 +1053,9 @@ El desarrollo de estas comparecencias se llevará a cabo en los términos que se
 
 VI.- Hacer uso del voto de calidad en la aprobación de dictámenes, informes o documentos que elaboren las Comisiones.
 
-VII.- Turnar a la Secretaría de Asuntos Legislativos los dictámenes, informes, o cualquier documento que haya sido aprobado en la Comisión, para ser agendados para su discusión y aprobación, en su caso.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+VII.- Turnar a la Secretaría de Asuntos Legislativos y Jurídicos los dictámenes, informes, o cualquier documento que haya sido aprobado en la Comisión, para ser agendados para su discusión y aprobación, en su caso.
 
 VIII.- Garantizar el orden de las reuniones de la Comisión, pudiendo suspenderlas en caso de desobediencia o desorden.
 
@@ -1055,9 +1065,11 @@ IX.- Presentar, por escrito ante la Presidencia del Congreso, un informe anual d
 
 X.- Las demás que les confiere esta Ley, sus Reglamentos y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 102.
 
-Cada Comisión contará con una Secretaría Técnica designada por la Secretaría de Asuntos Legislativos, quien apoyará los trabajos y será la encargada de auxiliar en la elaboración de los dictámenes o cualquier documento, relacionado con la Comisión.
+Cada Comisión contará con una Secretaría Técnica designada por la Secretaría de Asuntos Legislativos y Jurídicos, quien apoyará los trabajos y será la encargada de auxiliar en la elaboración de los dictámenes o cualquier documento, relacionado con la Comisión.
 
 ###### ARTÍCULO 103.
 
@@ -1125,9 +1137,11 @@ La diputada o diputado que formando parte de una comisión tuviere interés pers
 
 Los dictámenes o los documentos que elaboren las comisiones contendrán una parte expositiva con los antecedentes del caso y las razones en que se funde, y una parte propositiva, sin cuyos requisitos no se les dará curso.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 112.
 
-Una vez que estén firmados los dictámenes por la mayoría de los miembros de la Comisión, junto con los votos particulares, si los hubiere, se remitirán, por conducto de su secretaría técnica, a la Secretaría de Asuntos Legislativos para su trámite, debiendo acompañar el archivo en medio magnético.
+Una vez que estén firmados los dictámenes por la mayoría de los miembros de la Comisión, junto con los votos particulares, si los hubiere, se remitirán, por conducto de su secretaría técnica, a la Secretaría de Asuntos Legislativos y Jurídicos para su trámite, debiendo acompañar el archivo en medio magnético.
 
 ### CAPÍTULO IV. DE LAS COMISIONES JURIDICCIONALES (SIC) Y ESPECIALES
 
@@ -1267,7 +1281,9 @@ VII.- Promover la traducción y difusión al lenguaje Braille u otras formas de 
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS AUXILIARES
 
-### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS
+### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 124.
 
@@ -1275,9 +1291,11 @@ Para el cumplimiento de sus atribuciones legales y constitucionales, el Congreso
 
 I.- Secretaría de Administración.
 
-II.- Secretaría de Asuntos Legislativos.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
 
-III.- Secretaría de Asuntos Interinstitucionales.
+II.- Secretaría de Asuntos Legislativos y Jurídicos.
+
+III.- (DEROGADA, P.O. 26 DE ENERO DE 2019)
 
 IV.- Auditoría Superior del Estado.
 
@@ -1331,9 +1349,9 @@ II.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2018)
 
 III.- Tener grado de licenciatura, con las especificaciones siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
-a) Tratándose de la o el Titular de las Secretarías de Asuntos Legislativos, de Asuntos Interinstitucionales, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho con antigüedad mínima de dos años.
+a) Tratándose de la o el Titular de la Secretaría de Asuntos Legislativos y Jurídicos, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho con antigüedad mínima de dos años.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
@@ -1403,15 +1421,33 @@ XXI.- Atender lo que le encomiende el Pleno, la Junta de Coordinación Política
 
 XXII.- Atender, de manera expedita, las recomendaciones que le formula la Contraloría Interna del Congreso.
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
 
-XXIII.- A través de la Dirección de Planeación y Evaluación, para planear y evaluar, en coordinación con los Órganos Técnicos del H. Congreso del Estado, las actividades de estos, así como ejecutar el sistema de evaluación del desempeño de los Diputados.
+XXIII.- Apoyar la gestoría social de las diputadas y los diputados.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXIV.- Difundir, impulsar y supervisar las actividades del Congreso y de sus órganos, por los medios disponibles, en asuntos de comunicación social; así como coordinar la relación con los medios de comunicación masiva y llevar a cabo las acciones para su adecuado funcionamiento, en el cual se incorpore el uso del lenguaje de señas, con el fin de auxiliar a las personas con discapacidad auditiva.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXV.- Integrar los archivos para realizar la entrega-recepción de los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXVI.- Atender las relaciones públicas del Congreso, brindando el apoyo logístico necesario para la realización de eventos de las diputadas y los diputados; así como coordinar la entrega de premios, reconocimientos, homenajes y medallas que otorga el Congreso; y realizar foros de consulta, mesas de trabajo y consultas técnicas sobre cualquier asunto que requiera la opinión de la ciudadanía, en apoyo a las Comisiones y Comités, haciendo del conocimiento de quien presida la Mesa Directiva el resultado de los mismos.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXVII.- Llevar a cabo la elaboración de lineamientos, circulares, manuales de organización, procedimientos administrativos y demás normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2019)</small>
 
 ### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
 
 ###### ARTÍCULO 130.
 
-A la Secretaría de Asuntos Legislativos corresponde el despacho de lo siguiente:
+A la Secretaría de Asuntos Legislativos y Jurídicos corresponde el despacho de lo siguiente:
 
 I.- Proporcionar asistencia técnica integral en el proceso legislativo.
 
@@ -1433,7 +1469,9 @@ VIII.- Llevar el control y seguimiento, así como el archivo de los expedientes 
 
 IX.- Llevar la información y estadísticas de las actas de sesiones, de asistencias de las diputadas y diputados a las sesiones, de leyes, decretos y acuerdos aprobados por el Congreso.
 
-X.- Supervisar y, en su caso, hacer efectivo el cumplimiento de las políticas y lineamientos de los asuntos legislativos.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+X.- Supervisar y, en su caso, hacer efectivo el cumplimiento de las políticas y lineamientos de los asuntos legislativos y jurídicos.
 
 XI.- Solicitar a la Secretaría de Administración los apoyos correspondientes para el cumplimiento de las atribuciones conferidas.
 
@@ -1443,7 +1481,9 @@ XII.- Presentar a la Secretaría de Administración, el proyecto de su presupues
 
 XIII.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
-XIV.- Asignar al personal de sus áreas, que habrán de atender los diferentes asuntos de su competencia, incluyendo a las y los Coordinadores de Dictamen Legislativo, así como a las y los secretarios técnicos que atenderán las cuestiones relacionadas con las Comisiones y Comités del Congreso, Asuntos Legislativos, Biblioteca, Diario de Debates y Gaceta Parlamentaria.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XIV.- Asignar al personal de sus áreas, que habrán de atender los diferentes asuntos de su competencia, incluyendo a las y los Coordinadores de Dictamen Legislativo, así como a las y los secretarios técnicos que atenderán las cuestiones relacionadas con las Comisiones y Comités del Congreso, Asuntos Legislativos, áreas jurídicas, Biblioteca, Diario de Debates y Gaceta Parlamentaria.
 
 XV.- Integrar los archivos para realizar, en su caso, la entrega-recepción de los asuntos de su competencia.
 
@@ -1451,75 +1491,69 @@ XVI.- Enviar, para su publicación en el Periódico Oficial del Estado, las minu
 
 XVII.- Elaborar, al término del ejercicio constitucional de la Legislatura, el informe sobre los asuntos que quedaron pendientes.
 
-XVIII.- Nombrar y remover al personal de la Secretaría de Asuntos Legislativos.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XVIII.- Nombrar y remover al personal de la Secretaría de Asuntos Legislativos y Jurídicos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 XIX.- Coordinar lo relativo a las actividades del Instituto de Estudios e Investigación Legislativa.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2019)</small>
 
-XX.- Atender las demás actividades que le señalen la presente Ley, sus reglamentos y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
+XX.- Atender los asuntos legales del Congreso en sus aspectos jurídicos, consultivos, administrativos y contenciosos.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXI.- Representar al Congreso, conjunta o separadamente con quien presida la Mesa Directiva, en los juicios en que sea parte.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXII.- Conferir y revocar poderes generales y especiales para representar al Congreso ante los tribunales, en los juicios de cualquier naturaleza en que este sea parte.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXIII.- Llevar a cabo las notificaciones de las resoluciones del Congreso.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXIV.- Actuar como secretaría técnica de la Junta de Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXV.- Auxiliar a la Presidencia de la Mesa Directiva, en su caso, en la ejecución de los acuerdos del Congreso y de la Junta de Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXVI.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de las y los secretarios y prosecretarios.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXVII.- Coordinarse con la Secretaría de Administración para la ejecución de las resoluciones del Congreso, de la Junta de Coordinación Política, así como de la Mesa Directiva.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXVIII.- Llevar a cabo gestiones y medidas de vinculación ciudadana, en asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+
+XXIX.- Recibir, revisar y registrar los documentos presentados al Congreso del Estado por conducto de su Oficialía de Partes, así como su distribución a los órganos e instancias de este, según la naturaleza que corresponda.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2019)</small>
+
+XXX.- Atender las demás actividades que le señalen la presente Ley, sus reglamentos y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE ENERO DE 2019)</small>
 
 ### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 131.
 
-A la Secretaría de Asuntos Interinstitucionales corresponde el despacho de lo siguiente:
-
-I.- Atender los asuntos legales del Congreso en sus aspectos jurídicos, consultivos, administrativos y contenciosos.
-
-II.- Representar al Congreso, conjunta o separadamente con quien presida la Mesa Directiva o la Diputación Permanente, en los juicios en que sea parte, tanto en períodos ordinarios como en los recesos de la Legislatura.
-
-III.- Conferir y revocar poderes generales y especiales para representar al Congreso ante los tribunales, en los juicios de cualquier naturaleza en que este sea parte.
-
-IV.- Llevar a cabo las notificaciones de las resoluciones del Congreso.
-
-V.- Actuar como secretaría técnica de la Junta de Coordinación Política.
-
-VI.- Auxiliar a la Presidencia de la Mesa Directiva, en su caso, en la ejecución de los acuerdos del Congreso y de la Junta de Coordinación Política.
-
-VII.- Auxiliar a la Presidencia de la Mesa Directiva en la substanciación de los procedimientos administrativos a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y en la formulación del dictamen correspondiente, mismo que se presentará al Pleno.
-
-Tratándose de servidores públicos del Congreso, en lo relativo a las responsabilidades, quien presida la Mesa Directiva resolverá en definitiva.
-
-VIII.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de las y los secretarios y prosecretarios.
-
-IX.- Coordinarse con las otras Secretarías para la ejecución de las resoluciones del Congreso, de la Junta de Coordinación Política, así como de la Mesa Directiva.
-
-X.- Realizar foros de consulta, mesas de trabajo y consultas técnicas sobre cualquier asunto que requiera la opinión de la ciudadanía, haciendo del conocimiento de quien presida la Mesa Directiva el resultado de los mismos.
-
-XI.- Llevar la gestoría social de las diputadas y los diputados.
-
-XII.- Difundir las actividades del Congreso y de sus órganos.
-
-XIII.- Supervisar los asuntos de Comunicación Social del Congreso y las relaciones con los medios de comunicación masiva.
-
-XIV.- Impulsar la creación de un canal de televisión del Congreso del Estado y llevar a cabo las acciones para su adecuado funcionamiento, en el cual se incorpore el uso del lenguaje de señas, con el fin de auxiliar a las personas con discapacidad auditiva.
-
-XV.- Integrar los archivos para realizar la entrega-recepción, de los asuntos de su competencia.
-
-XVI.- Solicitar a la Secretaría de Administración los apoyos correspondientes para el cumplimiento de las atribuciones conferidas.
-
-> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
-
-XVII.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto de Egresos del Congreso.
-
-XVIII.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
-
-XIX.- Nombrar y remover al personal de la Secretaría de Asuntos Interinstitucionales, en los términos de la normatividad correspondiente.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2018)</small>
-
-XX.- Coordinar lo referente a Premios, Reconocimientos, Homenajes y Medallas, que otorga el Congreso del Estado;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2018)</small>
-
-XXI.- Atender las demás actividades que le señalen la presente Ley y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
+(DEROGADO, P.O. 26 DE ENERO DE 2019)
 
 ### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1623,7 +1657,7 @@ No es aplicable lo dispuesto en el artículo anterior, a quien ejerza, cuando me
 
 ### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 136.
 
@@ -1633,17 +1667,17 @@ El Congreso contará con una Unidad de Transparencia, cuyas funciones están con
 
 Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinación Política, y percibirá la remuneración que se le fije en los términos de la normatividad correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 138.
 
-Quien funja como responsable de la Unidad de Transparencia, dependerá directamente de quien presida la Mesa Directiva y deberá contar, además de los requisitos establecidos en el artículo 128 de esta Ley, con experiencia en la materia.
+Quien funja como responsable de la Unidad de Transparencia, dependerá directamente de quien sea titular de la Secretaría de Asuntos Legislativos y Jurídicos y deberá contar, además de los requisitos establecidos en el artículo 128 de esta Ley, con experiencia en la materia.
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
-###### ARTÍCULO 145 Bis.
-
-La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Secretaría de Administración. Estará integrada por el personal de las unidades de los Archivos de Gestión y Trámite, de Concentración y el Histórico. Será la responsable de aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
+ARTÍCULO 145 BIS.- La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Secretaría de Asuntos Legislativos y Jurídicos. Estará integrada por el personal de las unidades de los Archivos de Gestión y Trámite, de Concentración y el Histórico. Será la responsable de aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1699,7 +1733,7 @@ X. Las demás que deriven de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 139.
 
-El Instituto de Estudios e Investigación Legislativa es un órgano eminentemente técnico de la Secretaría de Asuntos Legislativos del Congreso del Estado, con autonomía para la realización de los estudios e investigaciones que le correspondan, dotado de los recursos necesarios para el desarrollo de sus funciones, de acuerdo a lo establecido en el Presupuesto de Egresos.
+El Instituto de Estudios e Investigación Legislativa es un órgano eminentemente técnico de la Secretaría de Asuntos Legislativos y Jurídicos del Congreso del Estado, con autonomía para la realización de los estudios e investigaciones que le correspondan, dotado de los recursos necesarios para el desarrollo de sus funciones, de acuerdo a lo establecido en el Presupuesto de Egresos.
 
 El personal del Instituto deberá contar con un perfil profesional relacionado con los diversos temas legislativos, privilegiando la formación de un equipo de trabajo profesional e interdisciplinario.
 
@@ -1719,9 +1753,9 @@ IV.- Presentar a la Secretaría de Administración, el proyecto de su presupuest
 
 V.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
 
-VI.- Proponer a la Secretaría de Asuntos Legislativos, el nombramiento y remoción del personal del Instituto, en los términos del reglamento y lineamientos correspondientes.
+VI.- Proponer a la Secretaría de Asuntos Legislativos y Jurídicos, el nombramiento y remoción del personal del Instituto, en los términos del reglamento y lineamientos correspondientes.
 
 VII.- Las demás que le sean encomendadas por las Comisiones y Comités del Congreso del Estado y aquellas que le confieran otras disposiciones legales.
 
@@ -1767,19 +1801,33 @@ El Instituto de Estudios e Investigación Legislativa se regulará por el Reglam
 
 ###### ARTÍCULO 143.
 
-En el Congreso se conformará la Unidad de Igualdad de Género, que será un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
+En el Congreso se conformará la Unidad de Igualdad de Género, que desempeñará sus funciones bajo el control y supervisión de la Secretaría de Administración, como un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 a) Proponer acciones orientadas a la igualdad sustantiva en el H. Congreso del Estado;
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 b) Coadyuvar con los diferentes órganos del H. Congreso del Estado para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 e) Ser la responsable de la producción y sistematización de información con perspectiva de género;
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 f) Generar el Programa anual de trabajo de la Unidad para calendarizar los objetivos y las acciones que tiendan a lograr la igualdad de derechos y oportunidades entre mujeres y hombres, y
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 g) Vigilar que se cumplan los objetivos y las acciones del Programa anual de trabajo, en la Unidad y en el Congreso.
 
@@ -1971,9 +2019,11 @@ VI.- Al Gobernador electo, una vez que adquiera oficialmente ese carácter y hay
 
 VII. A la ciudadanía chihuahuense, mediante iniciativa signada, cuando menos por el cero punto uno por ciento de las personas inscritas en el listado nominal.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 168.
 
-Las iniciativas y proposiciones que presenten las diputadas y diputados, deberán constar en original y en archivo electrónico, y entregarse en la Secretaría de Asuntos Legislativos, el día de la sesión.
+Las iniciativas y proposiciones que presenten las diputadas y diputados, deberán constar en original y en archivo electrónico, y entregarse en la Secretaría de Asuntos Legislativos y Jurídicos, el día de la sesión.
 
 ###### ARTÍCULO 169.
 
@@ -2055,7 +2105,9 @@ Las Iniciativas y propuestas presentadas por ciudadanas o ciudadanos chihuahuens
 
 I.- Las que reúnan los requisitos del artículo 68, fracción VI, de la Constitución Política del Estado, se desahogarán en los términos del citado precepto.
 
-II.- Las presentadas por ciudadanos(as) ante la oficialía de partes o por cualquier otro medio, se remitirán a la Presidencia del Congreso, quien por conducto de la Secretaría de Asuntos Legislativos, las enviará a la Comisión relacionada con el tema de que se trate, a fin de que analice su viabilidad y, en su caso, se inicie el proceso legislativo correspondiente.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+II.- Las presentadas por ciudadanos(as) ante la Oficialía de Partes o por cualquier otro medio, se remitirán a la Presidencia del Congreso, quien por conducto de la Secretaría de Asuntos Legislativos y Jurídicos, las enviará a la Comisión relacionada con el tema de que se trate, a fin de que analice su viabilidad y, en su caso, se inicie el proceso legislativo correspondiente.
 
 ###### ARTÍCULO 182.
 
@@ -2175,7 +2227,9 @@ Durante la votación ninguna diputada o diputado podrá abandonar el recinto ni 
 
 Antes de procederse a la votación, los(as) secretarios(as) deberán cerciorarse de que todas las diputadas y los diputados se encuentren en el Pleno.
 
-Si alguno de las o los diputados se encontrare fuera del Recinto, quien presida la Mesa Directiva los llamará a ocupar su curul, auxiliándose para tal efecto, por el personal de la Secretaría de Asuntos Legislativos.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+Si alguno de las o los diputados se encontrare fuera del Recinto, quien presida la Mesa Directiva los llamará a ocupar su curul, auxiliándose para tal efecto, por el personal de la Secretaría de Asuntos Legislativos y Jurídicos.
 
 ###### ARTÍCULO 197.
 
@@ -2251,6 +2305,8 @@ Las características particulares y el procedimiento para emitir las votaciones 
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
@@ -2309,15 +2365,17 @@ Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia
 
 ### CAPÍTULO II. DE LAS DENUNCIAS
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 219.
 
-Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Interinstitucionales.
+Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Legislativos y Jurídicos.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 220.
 
-Una vez ratificadas las denuncias, la Secretaría de Asuntos Interinstitucionales las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley aplicable en materia de responsabilidades administrativas y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
+Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jurídicos las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley aplicable en materia de responsabilidades administrativas y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
@@ -2397,7 +2455,9 @@ I.- Las diputadas y diputados.
 
 II.- Quien sea titular de la Auditoría Superior del Estado.
 
-III.- Quienes sean titulares de las Secretarías de Administración, de Asuntos Legislativos y de Asuntos Interinstitucionales.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III.- Quienes sean titulares de las Secretarías de Administración y de Asuntos Legislativos y Jurídicos.
 
 IV.- Quienes tengan a su cargo la Dirección, Coordinación, Jefatura de Departamento o su equivalente, del Congreso y de la Auditoría Superior.
 
@@ -2441,9 +2501,9 @@ Los formatos e instructivos deberán estar disponibles en Internet y se podrán 
 
 ###### ARTÍCULO 242.
 
-Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Interinstitucionales.
+Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Legislativos y Jurídicos.
 
-Una vez ratificadas las denuncias, dicha Secretaría las turnará al Presidente de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso en que resolverá en definitiva el propio Presidente.
+Una vez ratificadas las denuncias, dicha Secretaría las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en las disposiciones que resulten aplicables y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
 
 ###### ARTÍCULO 243.
 
@@ -2712,3 +2772,23 @@ P.O. 12 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0043/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XX, Y SE ADICIONA LA FRACCIÓN XXI, AL ARTÍCULO 131 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 142 DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVI/RFLEY/0271/2019 I P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO, ASÍ COMO DE LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos o acciones que se encuentren vigentes o en trámite de la antes denominada "Secretaría de Asuntos Legislativos", se trasladan a la ahora referida Secretaría de Asuntos Legislativos y Jurídicos, en términos idénticos para esta última, así como el nombramiento de quien ocupa su titularidad y el de todo su personal adscrito, debiendo tomarse las medidas materiales y presupuestales que resulten necesarias para asumir las nuevas funciones que mediante este Decreto le son asignadas.
+
+TERCERO.- Todas las acciones, gestiones, medidas y asuntos que se encuentren vigentes o en trámite de la antes denominada "Secretaría de Asuntos Interinstitucionales", se trasladan a la Secretaría que corresponda según la naturaleza jurídica o administrativa de cada caso concreto derivada de las reformas, adiciones o derogaciones previstas en el presente Decreto.
+
+La continuidad procesal de todos los expedientes legales en que el Congreso del Estado sea parte, activa, pasiva, como tercero interesado, como autoridad responsable, o instancia sustanciadora, incluidos los expedientes relativos a Juicios Políticos o Declaratorias de Procedencia que en su caso existan, serán asumidos por la Secretaría de Asuntos Legislativos y Jurídicos el mismo día de entrada en vigor del presente Decreto, para lo cual se levantará acta de entrega-recepción conducente en esa misma fecha, o bien el acta circunstanciada a que hubiera lugar.
+
+CUARTO.- Se abroga el Decreto No. LXVI/NOMBR/0013/2018 I P.O., mediante el cual se nombra al Lic. Omar Holguín Franco, como titular de la Secretaría de Asuntos Interinstitucionales del H. Congreso del Estado, en virtud de las adecuaciones normativas que mediante el presente Decreto se realizan.
+
+QUINTO.- El personal adscrito a la antes denominada Secretaría de Asuntos Interinstitucionales queda a disposición de la Secretaría de Administración para las asignaciones que, en su caso, resulten necesarias en las áreas correspondientes del H. Congreso del Estado.
+
+Por lo que se refiere a los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, de la Dirección de Archivos, de la Oficialía de Partes, así como de la Unidad de Transparencia, se transfieren de manera íntegra y en todos sus términos a la Secretaría de Asuntos Legislativos y Jurídicos del H. Congreso del Estado, de la que dependerán orgánicamente, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2019, con la intervención de las instancias y gestiones que resulten necesarias.
+
+SEXTO.- Para los efectos previstos en el artículo que antecede, las Secretarías de Administración y de Asuntos Legislativos y Jurídicos del Poder Legislativo, harán las gestiones a que hubiera lugar en sus respectivos ámbitos de competencia; y así mismo, tomarán las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad de los trabajos de las áreas transferidas.
