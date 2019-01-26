@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2018-12-12"
+last_updated: "2019-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -781,7 +781,9 @@ I.- De viva voz en el Pleno o la Diputación Permanente, entregando el documento
 
 II.- Por escrito y en formato electrónico, en la Oficialía de Partes del Congreso.
 
-III.- Por escrito y en formato electrónico en la Secretaría de Asuntos Legislativos, cuando así lo acuerde la Presidencia de la Mesa Directiva.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III.- Por escrito y en formato electrónico en la Secretaría de Asuntos Legislativos y Jurídicos, cuando así lo acuerde la Presidencia de la Mesa Directiva.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
@@ -919,7 +921,9 @@ II. Gestación y maternidad.
 
 III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Directiva o de la comisión a la que pertenezca.
 
-Las solicitudes de justificación deberán presentarse debidamente fundamentadas ante la Presidencia de la Mesa Directiva, quien las hará del conocimiento de la Secretaría de Asuntos Legislativos, previamente a la sesión que corresponda.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+Las solicitudes de justificación deberán presentarse debidamente fundamentadas ante la Presidencia de la Mesa Directiva, quien las hará del conocimiento de la Secretaría de Asuntos Legislativos y Jurídicos, previamente a la sesión que corresponda.
 
 No se justificarán inasistencias a la sesión cuando se trate de asuntos de carácter personal.
 
@@ -1001,7 +1005,9 @@ Si existiese duda sobre el cómputo, la Presidencia ordenará que, de nueva cuen
 
 VI.- La Presidencia hará la declaratoria de aprobación, en su caso, tanto en lo general como en lo particular del asunto desahogado.
 
-VII.- La Presidencia instruirá a la Secretaría de Asuntos Legislativos elabore las minutas que correspondan y las envíen a las instancias competentes.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+VII.- La Presidencia instruirá a la Secretaría de Asuntos Legislativos y Jurídicos para que elabore las minutas que correspondan y las envíe a las instancias competentes.
 
 ###### ARTÍCULO 103.
 
@@ -1025,7 +1031,9 @@ I.- Al término de la lectura de la iniciativa, la o el iniciador declarará que
 
 II.- La Presidencia pondrá a consideración del Pleno o de la Diputación Permanente si dicha iniciativa tiene el carácter de urgente; de ser así, se procederá a su votación en los términos previstos en el presente Capítulo.
 
-III.- La Presidencia instruirá a la Secretaría de Asuntos Legislativos elabore la minuta que corresponda y la envíe a las instancias competentes.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III.- La Presidencia instruirá a la Secretaría de Asuntos Legislativos y Jurídicos para que elabore la minuta que corresponda y lo envíe a las instancias competentes.
 
 IV.- Si no fuere aprobado el carácter de urgente, la iniciativa se turnará a la comisión u órgano correspondiente, para su análisis y posterior dictamen.
 
@@ -1091,7 +1099,9 @@ I.- Una vez leído el dictamen o documento y previamente a que se someta a su ap
 
 II.- El voto particular contendrá una parte expositiva del asunto de que se trate y, otra, donde se señalen los argumentos que lo sustentan.
 
-III.- Al término de la lectura, el voto particular deberá entregarse firmado a la Presidencia y esta ordenará a la Secretaría de Asuntos Legislativos lo anexe al dictamen o documento correspondiente.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III.- Al término de la lectura, el voto particular deberá entregarse firmado a la Presidencia y esta ordenará a la Secretaría de Asuntos Legislativos y Jurídicos lo anexe al dictamen o documento correspondiente.
 
 IV.- Dicho documento, será susceptible de réplicas y comentarios mas no de votación.
 
@@ -1253,6 +1263,8 @@ Si los medios indicados no bastan para restablecer el orden, quien presida podr�
 
 ### CAPÍTULO VIII. DEL REGISTRO DE ASUNTOS, LEYES, DECRETOS Y ACUERDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 131.
 
 El voto que emitan las y los diputados, será registrado en el sistema de voto electrónico, a excepción del que se formule por cédula.
@@ -1269,17 +1281,23 @@ Cuando las y los diputados omitan registrar y expresar su voto en cualquier sent
 
 La excusa por tener interés personal a que se refiere el artículo 195 de la Ley deberá formularse de viva voz, una vez que la Presidencia someta a votación el asunto de que se trate.
 
-La Secretaría de Asuntos Legislativo inhabilitará el sistema de voto electrónico a la o el Diputado que se excusa, quedando registrada tal circunstancia en el propio sistema electrónico y el diario de los debates.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+La Secretaría de Asuntos Legislativos y Jurídicos inhabilitará el sistema de voto electrónico a la o el Diputado que se excusa, quedando registrada tal circunstancia en el propio sistema electrónico y el diario de los debates.
 
 ###### ARTÍCULO 135.
 
 El registro de la votación se llevará de la siguiente manera:
 
-I.- Cuando la Presidencia someta a votación un asunto, la Secretaría de Asuntos Legislativos abrirá el sistema.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+I.- Cuando la Presidencia someta a votación un asunto, la Secretaría de Asuntos Legislativos y Jurídicos abrirá el sistema.
 
 II.- Los monitores ubicados en cada una de las curules desplegarán las opciones de votación para que las y los diputados registren su voto, además de levantar la mano.
 
-III.- La Secretaría de Asuntos Legislativos desplegará el resultado de la votación en los monitores de la Secretaría de la Mesa Directiva.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III.- La Secretaría de Asuntos Legislativos y Jurídicos desplegará el resultado de la votación en los monitores de la Secretaría de la Mesa Directiva.
 
 IV.- La Secretaría que corresponda dará cuenta a la Presidencia del cómputo de la votación y esta última hará la declaratoria respectiva.
 
@@ -1289,7 +1307,9 @@ La votación por cédula prevista en el artículo 205 de la Ley, se verificará 
 
 I.- La Presidencia informará al Pleno que la votación se hará por cédula, por así prevenirlo la Ley, dada la naturaleza del asunto que se desahogue.
 
-II.- Instruirá a la Secretaría de Asuntos Legislativos para que distribuya las boletas.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+II.- Instruirá a la Secretaría de Asuntos Legislativos y Jurídicos para que distribuya las boletas.
 
 III.- Instruirá a la Secretaría que corresponda para que nombre a las y los diputados, en orden alfabético, a efecto de que pasen a depositar dichas boletas en la urna que ha sido habilitada para ello.
 
@@ -1315,7 +1335,7 @@ La nueva terna deberá estar integrada, por lo menos, con dos candidatos diferen
 
 ###### ARTÍCULO 138.
 
-Los asuntos cuyo control y seguimiento corresponda a la Secretaría de Asuntos Legislativos, se registrarán bajo el número consecutivo que les asigne el Sistema de Información Legislativa.
+Los asuntos cuyo control y seguimiento corresponda a la Secretaría de Asuntos Legislativas y Jurídicos, se registrarán bajo el número consecutivo que les asigne el Sistema de Información Legislativa.
 
 El control de leyes, decretos y acuerdos se llevará por separado, para determinar el número que les corresponda.
 
@@ -1327,13 +1347,15 @@ I. El nombre de la resolución de que se trata (ley, decreto o acuerdo).
 
 II. En el renglón siguiente, la Legislatura que corresponda.
 
-III. Separado por una diagonal, cinco iniciales que fijen la naturaleza del asunto de que se trate, para lo cual, la Secretaría de Asuntos Legislativos elaborará el catálogo respectivo, mismo que podrá ser actualizado conforme se requiera.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+
+III. Separado por una diagonal, cinco iniciales que fijen la naturaleza del asunto de que se trate, para lo cual, la Secretaría de Asuntos Legislativos y Jurídicos elaborará el catálogo respectivo, mismo que podrá ser actualizado conforme se requiera.
 
 IV. Separado por una diagonal, el número consecutivo a cuatro dígitos que corresponda.
 
 V. Luego, separado por una diagonal, se plasmará el año de emisión a cuatro dígitos.
 
-VI. Después de un espacio, se asentará el periodo de sesiones en que se aprobó, indicando con número romano el periodo de que se trate, seguido por un espacio y luego las iniciales “P.O.”, en el caso de periodos ordinarios, “D.P.” para la diputación permanente y, “P.E.” para los periodos extraordinarios.
+VI. Después de un espacio, se asentará el periodo de sesiones en que se aprobó, indicando con número romano el periodo de que se trate, seguido por un espacio y luego las iniciales "P.O.", en el caso de periodos ordinarios, "D.P." para la diputación permanente y, "P.E." para los periodos extraordinarios.
 
 Esta nomenclatura se plasmará en el margen superior izquierdo de la primer página y, para las subsecuentes, se colocará en el margen superior derecho.
 
@@ -1365,11 +1387,23 @@ a. Recursos Humanos.
 
 b. Finanzas y Contabilidad.
 
-c. Oficialía de Partes.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+c. Comunicación Social.
 
 d. Contraloría Interna.
 
-II. En la Secretaría de Asuntos Legislativos:
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2019)</small>
+
+e. Gestoría Social.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2019)</small>
+
+f. Premios, reconocimientos, homenajes y medallas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2019)</small>
+
+II. En la Secretaría de Asuntos Legislativos y Jurídicos:
 
 a. Asuntos.
 
@@ -1401,19 +1435,19 @@ j) Gaceta Parlamentaria.
 
 k) Biblioteca.
 
-III. En la Secretaría de Asuntos Interinstitucionales:
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2019)</small>
 
-a. Reuniones de la Junta de Coordinación Política.
+l. Oficialía de Partes.
 
-b. Contencioso.
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2019)</small>
 
-c. Comunicación Social.
+m. Reuniones de la Junta de Coordinación Política.
 
-d. Gestoría Social.
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2018)</small>
+n. Contencioso.
 
-e) Premios, Reconocimientos, Homenajes y Medallas.
+III. (DEROGADA, P.O. 26 DE ENERO DE 2019)
 
 IV. En la Unidad de Transparencia:
 
@@ -1459,11 +1493,11 @@ d) Guía simple de archivos.
 
 La Gaceta Parlamentaria es el instrumento técnico de carácter informativo de la Mesa Directiva que tiene como propósito ordenar y difundir previamente los asuntos y documentos que serán tratados en cada Sesión del Pleno o de la Diputación Permanente.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 144.
 
-Corresponde a la Secretaría de Asuntos Legislativos elaborar, publicar y actualizar la Gaceta Parlamentaria, de conformidad con lo que solicite la Mesa Directiva.
+Corresponde a la Secretaría de Asuntos Legislativos y Jurídicos elaborar, publicar y actualizar la Gaceta Parlamentaria, de conformidad con lo que solicite la Mesa Directiva.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
 
@@ -1569,7 +1603,7 @@ SEGUNDO.- Los artículos 87, segundo párrafo, y 106, primer párrafo, ambos de 
 
 P.O. 26 DE SEPTIEMBRE DE 2018.
 
-[TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0851/XVIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESATADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y DE LA LEY ESTATAL DE BIBLIOTECAS”.]
+[TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0851/XVIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y DE LA LEY ESTATAL DE BIBLIOTECAS".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1582,3 +1616,23 @@ P.O. 12 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0043/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XX, Y SE ADICIONA LA FRACCIÓN XXI, AL ARTÍCULO 131 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 142 DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0271/2019 I P.E., POR MEDIO DE CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO, ASÍ COMO DE LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos o acciones que se encuentren vigentes o en trámite de (sic) la antes denominada "Secretaría de Asuntos Legislativos", se trasladan a la ahora referida Secretaría de Asuntos Legislativos y Jurídicos, en términos idénticos para esta última, así como el nombramiento de quien ocupa su titularidad y el de todo su personal adscrito, debiendo tomarse las medidas materiales y presupuestales que resulten necesarias para asumir las nuevas funciones que mediante este Decreto le son asignadas.
+
+TERCERO.- Todas las acciones, gestiones, medidas y asuntos que se encuentren vigentes o en trámite de (sic) la antes denominada "Secretaría de Asuntos Interinstitucionales", se trasladan a la Secretaría que corresponda según la naturaleza jurídica o administrativa de cada caso concreto derivada de las reformas, adiciones o derogaciones previstas en el presente Decreto.
+
+La continuidad procesal de todos los expedientes legales en que el Congreso del Estado sea parte, activa, pasiva, como tercero interesado, como autoridad responsable, o instancia sustanciadora, incluidos los expedientes relativos a Juicios Políticos o Declaratorias de Procedencia que en su caso existan, serán asumidos por la Secretaría de Asuntos Legislativos y Jurídicos el mismo día de entrada en vigor del presente Decreto, para lo cual se levantará acta de entrega-recepción conducente en esa misma fecha, o bien el acta circunstanciada a que hubiera lugar.
+
+CUARTO.- Se abroga el Decreto No. LXVI/NOMBR/0013/2018 I P.O., mediante el cual se nombra al Lic. Omar Holguín Franco, como titular de la Secretaría de Asuntos Interinstitucionales del H. Congreso del Estado, en virtud de las adecuaciones normativas que mediante el presente Decreto se realizan.
+
+QUINTO.- El personal adscrito a la antes denominada Secretaría de Asuntos Interinstitucionales queda a disposición de la Secretaría de Administración para las asignaciones que, en su caso, resulten necesarias en las áreas correspondientes del H. Congreso del Estado.
+
+Por lo que se refiere a los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, de la Dirección de Archivos, de la Oficialía de Partes, así como de la Unidad de Transparencia, se transfieren de manera íntegra y en todos sus términos a la Secretaría de Asuntos Legislativos y Jurídicos del H. Congreso del Estado, de la que dependerán orgánicamente, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2019, con la intervención de las instancias y gestiones que resulten necesarias.
+
+SEXTO.- Para los efectos previstos en el artículo que antecede, las Secretarías de Administración y de Asuntos Legislativos y Jurídicos del Poder Legislativo, harán las gestiones a que hubiera lugar en sus respectivos ámbitos de competencia; y así mismo, tomarán las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad de los trabajos de las áreas transferidas.
