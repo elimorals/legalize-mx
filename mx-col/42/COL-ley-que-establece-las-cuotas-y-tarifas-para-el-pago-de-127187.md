@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-127187"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-17"
-last_updated: "2018-03-17"
+last_updated: "2019-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA.
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
 
 Ley publicada en el Número 20 del Periódico Oficial del Estado de Colima, el sábado 17 de marzo de 2018.
 
@@ -105,17 +105,21 @@ a).- Consumo Bajo:
 
 Comprenden los negocios que a continuación se describen: abarrotes, abarrotes con venta de bebidas alcohólica, agencias de viajes, almacenes de ropa, alquiler de videocasetes, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, dulcerías, estanquillos, expendios de nieves y paletas, fábrica de sombreros, farmacias, ferreterías, florerías, foto estudios, fabricación de huaraches, imprentas, materiales para construcción, misceláneas, mini súper, mueblerías, papelerías, pastelerías, peluquerías, refaccionarías, reparación de aparatos electrodomésticos, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), sombreros, talleres mecánicos, eléctricos y tornos, tapicerías, tiendas de regalos, tlapalerías, venta de libros, periódicos y revistas, vidrierías, videojuegos, zapaterías; pagarán una cuota bimestral de 2.942 UMA
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 b).- Consumo medio tipo A:
 
-Comprenden: pintura y laminado de vehículos, academias y escuelas, locales comerciales para renta, billares, estacionamientos, fabricación de dulces, funerarias, gasolineras sin servicio de lavado, fabricación de nieves y paletas, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, cubrirán una cuota bimestral de: 3.879 UMA
+Comprenden: abrevaderos, pintura y laminado de vehículos, academias y escuelas, locales comerciales para renta, billares, estacionamientos, fabricación de dulces, funerarias, gasolineras sin servicio de lavado, fabricación de nieves y paletas, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, cubrirán una cuota bimestral de: 3.879 UMA.
 
 c).- Consumo medio tipo B:
 
 Alquiler de loza, muebles y manteles, locales para fiestas, carnicerías, cenadurías tortillerías sin molino de nixtamal, fondas, cocinas económicas y rosticerías, tiendas de autoservicio (kioskos) auto detallado sin lavado de camiones, reparación de llantas, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de 9.728 UMA
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
 d).- Consumo alto:
 
-Comprenden: cantinas, bares, empaques de fruta, restaurantes, centros botaneros, lavanderías, autolavados de carros y camiones, purificador y embotelladora de agua para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; jardines públicos, y jardines en camellones, abrevaderos, hoteles, moteles, bloqueras y molinos de nixtamal, edificio de protección civil, casas de usos múltiples pagarán una cuota bimestral de 19.457 UMA
+Comprenden: cantinas, bares, empaques de fruta, restaurantes, centros botaneros, lavanderías, autolavados de carros y camiones, purificador y embotelladora de agua para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; jardines públicos, y jardines en camellones, hoteles, moteles, bloqueras y molinos de nixtamal, edificio de protección civil, casas de usos múltiples pagarán una cuota bimestral de 19.457 UMA.
 
 e).- Servicio mixto:
 
@@ -614,3 +618,11 @@ A t e n t a m e n t e
 "SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 JOSÉ IGNACIO PERALTA SÁNCHEZ. GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA. Rúbrica. ARNOLDO OCHOA GONZÁLEZ. SECRETARIO GENERAL DE GOBIERNO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 31 POR EL QUE SE REFORMAN LOS INCISOS B), Y D), DEL ARTÍCULO 5 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
