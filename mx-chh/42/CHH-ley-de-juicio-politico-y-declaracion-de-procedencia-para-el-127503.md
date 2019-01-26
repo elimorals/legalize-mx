@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juicio-politico-y-declaracion-de-procedencia-para-el-127
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-10"
-last_updated: "2018-03-10"
+last_updated: "2019-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXV/EXLEY/0733/2018 II P.O. POR EL QUE SE EXPIDE ESTA LEY, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL DIEZ DE MARZO DE DOS MIL DIECIOCHO, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E. ÚNICAMENTE EN LO REFERENTE A LAS MODIFICACIONES A LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 10 de marzo de 2018.
 
@@ -125,7 +125,11 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 Presentación y ratificación de la denuncia.
 
-La persona interesada presentará su denuncia ante la Secretaría de Asuntos Interinstitucionales del Congreso del Estado.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+LA PERSONA INTERESADA PRESENTARÁ SU DENUNCIA ANTE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS DEL CONGRESO DEL ESTADO.
 
 El escrito de denuncia deberá contener los siguientes datos:
 
@@ -147,7 +151,11 @@ VIII. La firma de la persona denunciante. Si no supiere o no pudiere firmar, pon
 
 Al escrito deberá adjuntarse la documentación que tenga a su disposición la parte denunciante, con la cual pretenda acreditar los hechos denunciados; así como las copias simples necesarias para el traslado.
 
-La denuncia será ratificada por la denunciante ante la Secretaría de Asuntos Interinstitucionales; ello, dentro de los cinco días a que sea presentada.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+LA DENUNCIA SERÁ RATIFICADA POR LA DENUNCIANTE ANTE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS; ELLO, DENTRO DE LOS CINCO DÍAS A QUE SEA PRESENTADA.
 
 Las denuncias anónimas y las que no fuesen ratificadas durante el plazo señalado se tendrá por no presentadas y no producirán efecto alguno.
 
@@ -167,7 +175,11 @@ III. Los de fecha anterior a la demanda, cuando la denunciante manifieste, bajo 
 
 Integración de la Comisión Jurisdiccional.
 
-Ratificada la denuncia, la Secretaría de Asuntos Interinstitucionales la turnará, al día siguiente, a la Junta de Coordinación Política, dando vista a la Presidencia del Congreso o de la Diputación Permanente.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+RATIFICADA LA DENUNCIA, LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS LA TURNARÁ, AL DÍA SIGUIENTE, A LA JUNTA DE COORDINACIÓN POLÍTICA, DANDO VISTA A LA PRESIDENCIA DEL CONGRESO O DE LA DIPUTACIÓN PERMANENTE.
 
 El asunto se enlistará en la siguiente sesión, a efecto de que el Pleno, a propuesta de la Junta de Coordinación Política, integre una Comisión Jurisdiccional, la cual contará con cinco miembros propietarios y tres suplencias, misma que reflejará la composición plural del Congreso. Las personas suplentes entrarán en funciones según el orden de prelación en que hayan sido designadas.
 
@@ -307,7 +319,11 @@ No se requerirá declaración de procedencia del Congreso del Estado, si las y l
 
 Presentación de la solicitud.
 
-El Ministerio Público presentará la solicitud de declaración de procedencia ante la Secretaría de Asuntos Interinstitucionales del Congreso del Estado, a través de quien ostente la titularidad de la Fiscalía General del Estado o de la persona en que se delegue esa facultad.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+EL MINISTERIO PÚBLICO PRESENTARÁ LA SOLICITUD DE DECLARACIÓN DE PROCEDENCIA ANTE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS DEL CONGRESO DEL ESTADO, A TRAVÉS DE QUIEN OSTENTE LA TITULARIDAD DE LA FISCALÍA GENERAL DEL ESTADO O DE LA PERSONA EN QUE SE DELEGUE ESA FACULTAD.
 
 El escrito de solicitud deberá contener los siguientes datos:
 
@@ -327,7 +343,11 @@ Al escrito deberá adjuntarse copia de los registros de investigación con que s
 
 Admisión e integración de la Comisión Jurisdiccional.
 
-Presentada la solicitud, la Secretaría de Asuntos Interinstitucionales la turnará, al día siguiente, a la Junta de Coordinación Política, dando vista a la Presidencia del Congreso o de la Diputación Permanente.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+PRESENTADA LA SOLICITUD, LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS LA TURNARÁ, AL DÍA SIGUIENTE, A LA JUNTA DE COORDINACIÓN POLÍTICA, DANDO VISTA A LA PRESIDENCIA DEL CONGRESO O DE LA DIPUTACIÓN PERMANENTE.
 
 El asunto se enlistará en la siguiente sesión, a efecto de que el Pleno, a propuesta de la Junta de Coordinación Política, integre una Comisión Jurisdiccional, la cual contará con cinco miembros propietarios y tres suplencias, misma que reflejará la composición plural del Congreso. Las personas suplentes entrarán en funciones según el orden de prelación en que hayan sido designadas.
 
@@ -479,7 +499,11 @@ Cuando esta Ley no señale plazo para la práctica de alguna actuación o para e
 
 Notificaciones.
 
-Las notificaciones que requiera efectuar durante el proceso tanto la Presidencia del Congreso o de la Diputación Permanente, como la Comisión Jurisdiccional instaurada, se realizarán por conducto de la Secretaría de Asuntos Interinstitucionales.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+LAS NOTIFICACIONES QUE REQUIERA EFECTUAR DURANTE EL PROCESO TANTO LA PRESIDENCIA DEL CONGRESO O DE LA DIPUTACIÓN PERMANENTE, COMO LA COMISIÓN JURISDICCIONAL INSTAURADA, SE REALIZARÁN POR CONDUCTO DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS.
 
 Las notificaciones personales se llevarán a cabo de la siguiente manera:
 
@@ -513,7 +537,11 @@ Derecho a recurrir.
 
 Las declaraciones y resoluciones definitivas del Pleno del Congreso del Estado son inatacables. Las que emitan la Presidencia del Congreso o de la Diputación Permanente, la Junta de Coordinación Política y la Comisión Jurisdiccional será recurribles, con efecto devolutivo, ante el Pleno del Congreso, dentro de los siguientes cinco días a que sean notificadas a la parte interesada, siempre y cuando pongan fin al procedimiento.
 
-El recurso será presentado ante la Secretaría de Asuntos Interinstitucionales, quien lo turnará, al día siguiente de recibirlo, a la Presidencia del Congreso o de la Diputación Permanente, según corresponda. Ésta, a su vez, convocará a sesión al Pleno del Congreso, mismo que deberá reunirse dentro de los tres días siguientes para resolver sobre el mismo. Deberá citarse a esta sesión plenaria a la persona recurrente y su contraparte.
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E., POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+
+EL RECURSO SERÁ PRESENTADO ANTE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS, QUIEN LO TURNARÁ, AL DÍA SIGUIENTE DE RECIBIRLO, A LA PRESIDENCIA DEL CONGRESO O DE LA DIPUTACIÓN PERMANENTE, SEGÚN CORRESPONDA. ESTA, A SU VEZ, CONVOCARÁ A SESIÓN AL PLENO DEL CONGRESO, MISMO QUE DEBERÁ REUNIRSE DENTRO DE LOS TRES DÍAS SIGUIENTES PARA RESOLVER SOBRE EL MISMO. DEBERÁ CITARSE A ESTA SESIÓN PLENARIA A LA PERSONA RECURRENTE Y SU CONTRAPARTE.
 
 Enlistado el recurso y conforme al turno que le corresponda en el orden del día se actuará conforme a lo siguiente:
 
@@ -612,3 +640,27 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los nueve días del mes de marzo del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 27 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/RFLEY/0271/2019 I P.E. ÚNICAMENTE EN LO REFERENTE A LAS MODIFICACIONES A LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISÉIS DE ENERO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 30 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 26 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0271/2019 I P.E., POR MEDIO DE CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO, ASÍ COMO DE LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos o acciones que se encuentren vigentes o en trámite de la antes denominada “Secretaría de Asuntos Legislativos”, se trasladan a la ahora referida Secretaría de Asuntos Legislativos y Jurídicos, en términos idénticos para esta última, así como el nombramiento de quien ocupa su titularidad y el de todo su personal adscrito, debiendo tomarse las medidas materiales y presupuestales que resulten necesarias para asumir las nuevas funciones que mediante este Decreto le son asignadas.
+
+TERCERO.- Todas las acciones, gestiones, medidas y asuntos que se encuentren vigentes o en trámite de la antes denominada “Secretaría de Asuntos Interinstitucionales”, se trasladan a la Secretaría que corresponda según la naturaleza jurídica o administrativa de cada caso concreto derivada de las reformas, adiciones o derogaciones previstas en el presente Decreto.
+
+La continuidad procesal de todos los expedientes legales en que el Congreso del Estado sea parte, activa, pasiva, como tercero interesado, como autoridad responsable, o instancia sustanciadora, incluidos los expedientes relativos a Juicios Políticos o Declaratorias de Procedencia que en su caso existan, serán asumidos por la Secretaría de Asuntos Legislativos y Jurídicos el mismo día de entrada en vigor del presente Decreto, para lo cual se levantará acta de entrega-recepción conducente en esa misma fecha, o bien el acta circunstanciada a que hubiera lugar.
+
+CUARTO.- Se abroga el Decreto No. LXVI/NOMBR/0013/2018 I P.O., mediante el cual se nombra al Lic. Omar Holguín Franco, como titular de la Secretaría de Asuntos Interinstitucionales del H. Congreso del Estado, en virtud de las adecuaciones normativas que mediante el presente Decreto se realizan.
+
+QUINTO.- El personal adscrito a la antes denominada Secretaría de Asuntos Interinstitucionales queda a disposición de la Secretaría de Administración para las asignaciones que, en su caso, resulten necesarias en las áreas correspondientes del H. Congreso del Estado.
+
+Por lo que se refiere a los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, de la Dirección de Archivos, de la Oficialía de Partes, así como de la Unidad de Transparencia, se transfieren de manera íntegra y en todos sus términos a la Secretaría de Asuntos Legislativos y Jurídicos del H. Congreso del Estado, de la que dependerán orgánicamente, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2019, con la intervención de las instancias y gestiones que resulten necesarias.
+
+SEXTO.- Para los efectos previstos en el artículo que antecede, las Secretarías de Administración y de Asuntos Legislativos y Jurídicos del Poder Legislativo, harán las gestiones a que hubiera lugar en sus respectivos ámbitos de competencia; y así mismo, tomarán las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad de los trabajos de las áreas transferidas.
