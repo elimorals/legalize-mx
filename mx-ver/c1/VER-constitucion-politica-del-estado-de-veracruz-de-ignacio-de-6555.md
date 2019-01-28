@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2019-01-01"
+last_updated: "2019-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2019.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -865,9 +865,13 @@ XLII. Expedir las leyes que instituyan el Tribunal Estatal de Justicia Administr
 
 XLIII. Expedir la legislación en materia local anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales en la materia, con objeto de coordinarse para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
+> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2019)</small>
+
+XLIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de esta Constitución; y
+
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 2 DE OCTUBRE DE 2017)</small>
 
-XLIV. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
+XLV. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -3567,8 +3571,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 1 DE ENERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 6 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 6 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 228 POR EL QUE SE ADICIONA UNA FRACCIÓN, QUE SERÁ LA XLIV, CON EL CORRIMIENTO DE LA ACTUAL FRACCIÓN XLIV A XLV, AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
