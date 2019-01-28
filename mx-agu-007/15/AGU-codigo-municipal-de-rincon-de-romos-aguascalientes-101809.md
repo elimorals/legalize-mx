@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2018-12-31"
+last_updated: "2019-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -33,7 +33,9 @@ GOBIERNO DEL ESTADO
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGS.
 
-PRESENTACIÓN: …
+PRESENTACIÓN:
+
+[...]
 
 De esta manera, podemos destacar que la aprobación del presente Código Municipal del H. Ayuntamiento de Rincón de Romos, representa un gran ejemplo en materia de reglamentación municipal, ya que se ejerce una de las atribuciones conferidas a los gobiernos locales en la Constitución Política de los Estados Unidos Mexicanos en su Artículo 115 fracción II.
 
@@ -859,7 +861,9 @@ La entrega de los asuntos a cargo del servidor público que concluye, no lo exim
 
 Para los gastos pre-operativos de la nueva administración municipal, se deberá entregar al Presidente Municipal electo una partida especial que deberá establecerse en el presupuesto de egresos del último año de la administración. La partida, así como su manejo y entrega se deberá ceñir a las siguientes reglas:
 
-I. La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día veinte de septiembre, la segunda el veinte de octubre y la tercera el treinta de noviembre;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2019)</small>
+
+I. La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día veinte de julio, la segunda el veinte de agosto y la tercera el veinte de septiembre, cuando la entrega sea en día inhábil, se entregará al día hábil siguiente;
 
 II. El Presidente Municipal electo deberá firmar de recibido de las cantidades que se le entreguen; y
 
@@ -2161,7 +2165,9 @@ g) Departamento de Substanciación
 
 h) Departamento de Resolución
 
-VI. Delegados y Comisarios Municipales (Autoridades Honorarias Auxiliares):
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE ENERO DE 2019)</small>
+
+VI. Delegados y Comisarios Municipales (Autoridades Auxiliares):
 
 a) Delegado Municipal de Pabellón de Hidalgo;
 
@@ -17462,3 +17468,19 @@ Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Rinc
 PUNTOS RESOLUTIVOS
 
 Primero.- Con fundamento en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 1º, 3º, 8º, 66, 68 y 72 de la Constitución Política del Estado de Aguascalientes; y de más (sic) relativos y aplicables del Código Municipal de Rincón de Romos, Aguascalientes, se APRUEBA la presente INICIATIVA POR LA QUE SE REFORMAN LOS ARTÍCULOS 42 FRACCIÓN XXI, 52 PRIMERO Y ÚLTIMO PÁRRAFO, 53 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES.
+
+P.O. 28 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LOS ARTÍCULOS 64, FRACCIÓN I Y 208 FRACCIÓN VI, DEL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Rincón de Romos, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
