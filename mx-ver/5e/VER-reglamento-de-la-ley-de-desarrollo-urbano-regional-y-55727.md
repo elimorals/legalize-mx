@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-desarrollo-urbano-regional-y-55727"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2012-05-07"
+last_updated: "2019-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "VER"
 ---
 # REGLAMENTO DE LA LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL PARA EL MUNICIPIO DE TLAPACOYAN, VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 28 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE (SIC) LLAVE, PUBLICADO EN LA G.O. DE 7 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE (SIC), PUBLICADO EN LA G.O. DE 7 DE MAYO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2019 (ABROGADO).
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
-
-Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de mayo de 2007.
+Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de mayo de 2007.
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
@@ -271,7 +273,7 @@ I. Un presidente, que será el Gobernador del Estado.
 
 II. Un secretario técnico, que será el titular de la Secretaría.
 
-IlI. Un vocal, que será el titular del Instituto.
+III. Un vocal, que será el titular del Instituto.
 
 IV. Hasta diez consejeros, que serán invitados por el presidente, de entre los representantes de las agrupaciones u organizaciones sociales, profesionales académicas y empresariales, a través de sus organismos legalmente constituidos, y a particulares que se distingan por su reconocida solvencia moral y experiencia en la materia.
 
@@ -345,7 +347,7 @@ I. Recibir y analizar los comentarios, estudios, propuestas y demandas que, en m
 
 II. Elaborar a través del Instituto, con la participación de los municipios involucrados, el Programa de Ordenación de la Zona Conurbada.
 
-IIl. Validar el Programa de Ordenación de la Zona Conurbada, para su presentación y aprobación en el Congreso del Estado.
+III. Validar el Programa de Ordenación de la Zona Conurbada, para su presentación y aprobación en el Congreso del Estado.
 
 IV. Opinar sobre los proyectos de desarrollo regional y urbano que deriven de los proyectos sectoriales y especiales de ordenación territorial.
 
@@ -587,7 +589,7 @@ XII. Anexo gráfico.
 
 XIII. Síntesis del Programa.
 
-XlV. Los demás alcances y elementos de análisis que en función de cada caso determinen las autoridades competentes.
+XIV. Los demás alcances y elementos de análisis que en función de cada caso determinen las autoridades competentes.
 
 XV. Epílogo.
 
@@ -1643,8 +1645,6 @@ I. Documento que acredite la propiedad del predio, inscrito en el Registro Públ
 
 II. Documento que acredite la personalidad del solicitante o acta constitutiva de la sociedad, asociación o contrato de fideicomiso, inscrito en el Registro Público de la Propiedad, así como el que acredite la personalidad del representante legal, tratándose de personas morales.
 
-.
-
 III. Aerofoto o cartografía actualizada preferentemente a escala 1:50,000, de la ubicación del predio, precisándose el entorno del mismo, con un radio de cobertura de al menos 1,000 metros. En desarrollos de urbanización progresiva o por etapas promovidos por organizaciones sociales, este requisito podrá acreditarse mediante cartografía legible en papel maduro.
 
 IV. Plano topográfico con altimetría y planimetría, que contenga las medidas y superficies reales del predio.
@@ -1857,7 +1857,7 @@ XII. Monto de los impuestos y derechos que deban pagarse.
 
 XIII. Plazo de 90 días para que se presenten los comprobantes del pago de impuestos y derechos, así como para presentar la fianza y/o hipoteca que se hubiere fijado para garantizar la ejecución de las obras.
 
-XlV. Referencia a las condiciones normativas aplicables, en caso de que se solicite prórroga para la terminación de las obras, o subrogación de los derechos y obligaciones derivadas del acuerdo de autorización.
+XIV. Referencia a las condiciones normativas aplicables, en caso de que se solicite prórroga para la terminación de las obras, o subrogación de los derechos y obligaciones derivadas del acuerdo de autorización.
 
 XV. Señalamiento de que la autorización no habilita llevar a cabo ninguno de los actos para los cuales la ley y este Reglamento exijan autorización especifica.
 
@@ -2783,9 +2783,9 @@ Los documentos que se deberán acompañarse a la solicitud de autorización de u
 
 I. Acta constitutiva inscrita en el Registro Público de la Propiedad y poder otorgado a su representante legal, tratándose de organizaciones sociales y demás personas morales.
 
-Il. Dictamen de factibilidad expedido por el Instituto.
+II. Dictamen de factibilidad expedido por el Instituto.
 
-IIl. Proyecto de lotificación del fraccionamiento aprobado por el H. Ayuntamiento.
+III. Proyecto de lotificación del fraccionamiento aprobado por el H. Ayuntamiento.
 
 IV. Programa y presupuesto de las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria.
 
@@ -2931,7 +2931,7 @@ VI. El predio sea afectado por límites estatales o municipales.
 
 > <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
 
-VII. Se ejecute una resolución judisdiccional que determine la adjudicación de inmuebles.
+VII. Se ejecute una resolución jurisdiccional que determine la adjudicación de inmuebles.
 
 VIII. La subdivisión obedezca a causas de utilidad pública y beneficio social.
 
@@ -3081,7 +3081,7 @@ I. No podrá incrementarse el número de lotes o viviendas originalmente autoriz
 
 II. Procederá a petición expresa del titular de la subdivisión o del propietario de los lotes objeto de la relotificación, siempre y cuando no se hayan vendido lotes o viviendas en la parte o sección de la subdivisión que se pretenda relotificar y se esté al corriente en el cumplimiento de las obligaciones derivadas de la autorización de subdivisión.
 
-Ill. No procederá la relotificación sobre lotes gravados o hipotecados, sin la autorización expresa del acreedor.
+III. No procederá la relotificación sobre lotes gravados o hipotecados, sin la autorización expresa del acreedor.
 
 IV. En el caso de que se estuviere obligado a ceder áreas de donación, se podrá modificar la ubicación de éstas, siempre y cuando no se hubieren entregado al estado o al municipio y/o ejecutado en ellas obras de equipamiento urbano. Tratándose de las áreas de donación municipales, se deberá contar con la opinión técnica favorable del municipio.
 
@@ -3309,7 +3309,7 @@ XII. En los condominios de abasto, comercio y servicios, las dimensiones de las 
 
 XIII. La operación y mantenimiento de las vías privadas, obras de urbanización y equipamiento urbano, así como de los servicios urbanos al interior de los condominios, correrá a cargo de los propios condóminos, a partir de que dichas obras y servicios hayan sido entregados a la asociación de condóminos.
 
-XlV. Las áreas privativas de terreno no podrán ser divididas.
+XIV. Las áreas privativas de terreno no podrán ser divididas.
 
 De las obras de urbanización al interior de los condominios.
 
@@ -3393,7 +3393,7 @@ I. Referencia a la lotificación que se autoriza, de acuerdo al plano y descripc
 
 II. Señalamiento de las obras de urbanización que deban ser ejecutadas al interior del predio, así como el plazo para su ejecución.
 
-IlI. Señalamiento del área de donación que se cede y de las obras de equipamiento urbano que, en su caso, deban llevarse a cabo y su costo, así como el plazo para su conclusión y entrega.
+III. Señalamiento del área de donación que se cede y de las obras de equipamiento urbano que, en su caso, deban llevarse a cabo y su costo, así como el plazo para su conclusión y entrega.
 
 IV. Apercibimiento al titular de la autorización de que deberá obtener del Instituto los permisos respectivos para celebrar actos, convenios o contratos traslativos de dominio o promesa de los mismos, respecto de las áreas privativas del condominio, así como para su promoción o publicidad, lo cual podrá solicitar una vez concluidas las obras de urbanización al interior del condominio, y en su caso, asegurada su ejecución mediante fianza o garantía hipotecaria.
 
@@ -3609,7 +3609,7 @@ XII. Constancia de los dictámenes que en materia de conservación del patrimoni
 
 XIII. Vigencia de la constancia.
 
-XlV. Lugar y fecha en que se expida.
+XIV. Lugar y fecha en que se expida.
 
 Tratándose de usos que generen impacto regional, el titular de la licencia deberá dar cumplimiento a la normatividad y obligaciones consignadas en el dictamen de factibilidad regional.
 
@@ -3943,7 +3943,7 @@ En las visitas de supervisión, se estará a las formalidades siguientes:
 
 I. Se realizarán por los funcionarios y supervisores del Instituto, así como del municipio, debidamente acreditados.
 
-Il. El Instituto convocará a las visitas de supervisión, debiendo notificar de la misma al titular del desarrollo y a la autoridad municipal correspondiente al menos con 48 horas de anticipación a su realización.
+II. El Instituto convocará a las visitas de supervisión, debiendo notificar de la misma al titular del desarrollo y a la autoridad municipal correspondiente al menos con 48 horas de anticipación a su realización.
 
 III. Los supervisores estatales y del municipio podrán hacerse acompañar de funcionarios y supervisores, debidamente acreditados, de las instancias gubernamentales que aprobaron los proyectos ejecutivos de las obras del desarrollo, para que verifiquen el cumplimiento de las disposiciones establecidas en ellos.
 
@@ -4155,7 +4155,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 G.O. 19 DE OCTUBRE DE 2007.
 
@@ -4164,6 +4164,24 @@ Artículo primero. El presente Decreto entrará en vigor el día de su publicaci
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 7 DE MAYO DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado y será de observancia obligatoria para todos los actores urbanos, así como para las dependencias y entidades del Gobierno Estatal y Municipal.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Desarrollo Urbano, Regional y Vivienda para el Estado de Veracruz, de fecha dos de mayo de dos mil siete, así como todas aquellas disposiciones que contravengan al presente Reglamento.
+
+Artículo Tercero. Se dispone la creación del Registro Estatal de Información Regional y Urbana dentro de un plazo máximo de 90 días posteriores a la entrada en vigor de este Reglamento.
+
+Artículo Cuarto. Los Programas de Desarrollo Urbano y Ordenamiento Territorial que se encuentren en proceso de formulación, actualización o modificación en la fecha de publicación de este Reglamento, se apegarán a las disposiciones que para el efecto establezca la Secretaría; mientras que para su aprobación se deberán ajustar al procedimiento aquí señalado.
+
+Artículo Quinto. Los Programas de Desarrollo Urbano y Ordenamiento Territorial que se encuentren en proceso de aprobación en la fecha de publicación de este Reglamento, se ajustarán a lo aquí dispuesto a partir del inicio de operaciones del Registro Estatal de Información Regional y Urbana.
+
+Artículo Sexto. Todos los trámites o acciones relacionados con autorizaciones de fusiones, subdivisiones, Lotificaciones, Relotificaciones y fraccionamiento de terrenos, así como las constancias de zonificación y licencias de uso del suelo que se encuentren en proceso de autorización en la fecha de publicación de este ordenamiento, se resolverán conforme al mismo en todo aquello que beneficie a los solicitantes.
+
+Artículo Séptimo. Las acciones autorizadas con anterioridad a la entrada en vigor del Presente Reglamento, se determinarán conforme a las autorizaciones que las amparan.
+
+G.O. 28 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL PARA EL MUNICIPIO DE TLAPACOYAN, VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado y será de observancia obligatoria para todos los actores urbanos, así como para las dependencias y entidades del Gobierno Estatal y Municipal.
 
