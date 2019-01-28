@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-tribunal-superior-de-justicia-del-81054
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-29"
-last_updated: "2016-08-18"
+last_updated: "2019-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2019.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 29 de abril de 2011.
 
 Con fundamento en los artículos 16, 64 y 69 fracción IV de la Constitución Política del Estado de Yucatán y 1, 3 primer párrafo, 15, 21, 30 fracciones XIII y XVII de la Ley Orgánica del Poder Judicial del Estado de Yucatán y,
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto y fundado se emite el siguiente:
 
@@ -105,7 +107,9 @@ II. La Unidad de Administración;
 
 III. La Unidad de Asuntos Jurídicos y Sistematización de Precedentes;
 
-IV. La Unidad de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2019)</small>
+
+IV. El Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística;
 
 V. El Departamento de Formación. Capacitación y Profesionalización de Personal;
 
@@ -197,7 +201,7 @@ Orden del día
 
 ###### Artículo 15.
 
-Las sesiones se desarrollarán de conformidad con el orden del día elaborada por la Secretaría General de Acuerdos, atendiendo a las instrucciones del Presidente del Tribunal.
+Las sesiones se desarrollarán de conformidad con el orden del día elaborada (sic) por la Secretaría General de Acuerdos, atendiendo a las instrucciones del Presidente del Tribunal.
 
 Acta de la sesión
 
@@ -799,11 +803,13 @@ El Pleno nombrará al Secretario General de Acuerdos.
 
 Facultades y obligaciones del Secretario General de Acuerdos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2019)</small>
+
 ###### Artículo 69.
 
-El Secretario General de Acuerdos tendrá las facultades y obligaciones establecidas en la Ley Orgánica y las siguientes:
+La o el Secretario General de Acuerdos tendrá las facultades y obligaciones establecidas en la Ley Orgánica y las siguientes:
 
-l. El despacho de los asuntos administrativos bajo las órdenes del Pleno, por conducto del Presidente del Tribunal;
+I. El despacho de los asuntos administrativos bajo las órdenes del Pleno, por conducto del Presidente del Tribunal;
 
 II. Recibir, registrar, controlar y llevar el seguimiento de los expedientes de los asuntos y proyectos que envían los Magistrados para ser listados para la sesión de Pleno correspondiente, así como vigilar que los proyectos referidos cumplan con los requisitos que establecen las disposiciones aplicables;
 
@@ -831,7 +837,9 @@ XIII. Formar las carpetas de acuerdos aprobados y distribuirlos a los Magistrado
 
 XIV. Realizar los trámites necesarios ante los servidores públicos competentes del Diario Oficial, para la publicación de las resoluciones y precedentes que conforme a las disposiciones legales y reglamentarias deban publicarse en este medio de difusión y, cuando así lo disponga el Pleno;
 
-XV. Proporcionar la información solicitada por la Unidad de Trasparencia (sic) y acceso a la información pública, siempre que los documentos de que se trate se encuentren en sus archivos;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2019)</small>
+
+XV. Proporcionar la información solicitada por el Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística, siempre que los documentos de que se trate se encuentren en sus archivos;
 
 XVI. Supervisar, en el ámbito de su competencia, el desahogo y, en su caso, cumplimiento de los acuerdos emitidos por el Pleno y el Presidente del Tribunal;
 
@@ -1121,39 +1129,45 @@ XV. En representación del Tribunal, promover juicios derivados de las relacione
 
 XVI. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal.
 
-### Capítulo IV. De la Unidad de Transparencia y acceso a la Información Pública
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 2019)</small>
+
+### Capítulo IV. Del Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística
+
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2019)</small>
 
 Competencia
 
 ###### Artículo 86.
 
-La Unidad de Transparencia y Acceso a la Información Pública estará encargada de cumplir las obligaciones en materia de acceso a la información pública a cargo del Tribunal.
+El Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística estará encargado de cumplir las obligaciones en materia de acceso a la información pública y protección de datos personales a cargo del Tribunal, así como de concentrar y controlar la información estadística proveniente de las áreas generadoras de información.
+
+Se entenderá por áreas generadoras de información, los órganos jurisdiccionales y áreas administrativas del Tribunal.
+
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2019)</small>
 
 Integración
 
 ###### Artículo 87.
 
-La Unidad de Transparencia y Acceso a la Información Pública estará integrada por un Titular nombrado por el Pleno y los demás auxiliares que éste determine, para el mejor despacho de los asuntos.
+El Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística estará integrado por una persona titular nombrada por el Pleno y los demás auxiliares que éste determine, para el mejor despacho de los asuntos.
 
-> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2016)</small>
+La persona titular del Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística dependerá directamente del Pleno.
 
-El titular de la Unidad de Transparencia y Acceso a la Información Pública dependerá directamente del Pleno.
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2016)</small>
-
-Requisitos del Titular
+Requisitos de la persona titular
 
 ###### Artículo 88.
 
-El Titular de la Unidad de Transparencia y Acceso a la Información Pública deberá satisfacer los requisitos exigidos para ser Titular de la Unidad de Administración, pero deberá contar con título y cédula legalmente expedidos de abogado o licenciado en derecho, y preferentemente contar con experiencia en la materia.
+La persona titular del Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística deberá satisfacer los requisitos exigidos para ser titular de la Unidad de Administración, pero deberá contar con título y cédula legalmente expedidos de abogada o abogado, licenciada o licenciado en derecho, y preferentemente contar con experiencia en las materias de la competencia de aquel.
 
-> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2019)</small>
 
 Atribuciones
 
-###### Artículo 89.
+Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística tendrá las atribuciones siguientes:
 
-La Unidad de Transparencia y Acceso a la Información Pública tendrá las atribuciones siguientes:
+APARTADO A. En materia de transparencia, acceso a la información pública y protección de datos personales:
 
 I. Recabar y difundir la información relativa a las obligaciones oficiosas de transparencia que correspondan al Tribunal, previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, y en la Ley General de Transparencia y Acceso a la Información Pública, y propiciar que los órganos jurisdiccionales y áreas administrativas la actualicen periódicamente, conforme la normatividad aplicable;
 
@@ -1163,7 +1177,7 @@ III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a l
 
 IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-V. Efectuar las notificaciones a los solicitantes;
+V. Efectuar las notificaciones a las personas solicitantes;
 
 VI. Proponer al Comité de Transparencia del Tribunal los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
@@ -1189,9 +1203,71 @@ XVI. Mantener a disposición del solicitante la información, durante el plazo m
 
 XVII. Recibir y remitir al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en el plazo previsto en la ley, el recurso de revisión que en su caso haya sido presentado ante él;
 
-XVIII. Determinar, en su caso, la notoria incompetencia por parte del Tribunal para atender la solicitud de acceso a la información, y comunicarlo al solicitante. En caso de poder determinar el o los sujetos obligados competentes, señalarlo al solicitante, y
+XVIII. Determinar, en su caso, la notoria incompetencia por parte del Tribunal para atender la solicitud de acceso a la información, y comunicarlo a la persona solicitante; en caso de poder determinar el o los sujetos obligados competentes, señalarlo a aquella;
 
-XIX. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal.
+XIX. Auxiliar y orientar a la persona titular de los datos personales que lo requiera con relación al ejercicio del derecho a la protección de estos;
+
+XX. Gestionar las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+XXI. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
+
+XXII. Informar a la persona titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
+
+XXIII. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+XXIV. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+
+XXV. Asesorar a las áreas del Tribunal en materia de protección de datos personales;
+
+XXVI. Dar seguimiento a los acuerdos emitidos por el Comité de Transparencia, en materia de protección de datos personales, y
+
+XXVII. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal, en materia de transparencia, acceso a la información y protección de datos personales.
+
+APARTADO B. En materia de estadística:
+
+I. Captar, validar, sistematizar, analizar e interpretar la información estadística que provenga de las áreas generadoras de información, procurando la mayor desagregación posible;
+
+II. Solicitar, concentrar, analizar y sistematizar la información de aplicación estadística proveniente de las áreas generadoras de información, para la elaboración de los estudios que el Pleno le solicite;
+
+III. Proponer las modificaciones de los esquemas y normativa para la captura de datos que considere necesarias en el sistema informático implementado, con el fin de optimizarlo;
+
+IV. Dar seguimiento a los resultados que se obtengan del procesamiento de la información generada, así como proponer las medidas que se consideren necesarias para su mejoramiento;
+
+V. Proporcionar la información estadística que las personas titulares de los órganos jurisdiccionales y las áreas administrativas le soliciten y expedir copias certificadas de la misma;
+
+VI. Colaborar en la integración del anexo estadístico del Informe Anual de Labores de la Presidencia del Tribunal;
+
+VII. Concentrar, integrar y validar las estadísticas judiciales, de conformidad con las disposiciones de la Ley del Sistema Nacional de Información Estadística y Geográfica, y establecer operativamente la coordinación necesaria para el intercambio de información con el Instituto Nacional de Estadística y Geografía, que previamente haya sido aprobada por el Pleno;
+
+VIII. Proporcionar la capacitación, asesoría y orientación necesarias para el uso y operación de los diferentes módulos que conforman el sistema informático implementado, con el auxilio del departamento de informática, y para el llenado de los reportes estadísticos;
+
+IX. Revisar y validar la congruencia de la captura de datos de los asuntos que se tramitan en las áreas generadoras de información;
+
+X. Verificar físicamente y de manera aleatoria la coincidencia en la captura de datos en el sistema informático implementado, respecto de los diferentes tipos de asuntos del conocimiento de las áreas generadoras de información;
+
+XI. Comunicar a las instancias competentes del Tribunal cuando se detecte la falta de captura o actualización oportuna de los datos en el sistema informático implementado por parte de las áreas generadoras de información;
+
+XII. Integrar la información cuantitativa del desempeño de las funciones del personal del Tribunal;
+
+XIII. Fungir, en el ámbito de su competencia, como enlace permanente con las diversas instancias gubernamentales, académicas e incluso de la sociedad civil, para proporcionar la información estadística que tenga bajo su resguardo, previa autorización del Pleno;
+
+XIV. Llevar a cabo la actualización de las bases de datos estadísticos que para el efecto se generen en dicho departamento;
+
+XV. Atender las solicitudes de acceso a la información de estadística que sean de su competencia;
+
+XVI. Verificar la recepción oportuna de información de estadística por los medios electrónicos respectivos;
+
+XVII. Proponer la normativa, esquemas y criterios para el manejo y uso interno de la información estadística, así como para su divulgación pública;
+
+XVIII. Proponer la implantación de nuevos módulos, esquemas y normativa que deban agregarse al sistema informático implementado;
+
+XIX. Mantener actualizado el micrositio de Internet de Estadística Judicial dentro del portal del Tribunal;
+
+XX. Presentar mensualmente ante el Pleno un informe de las actividades realizadas en materia de estadística por el departamento;
+
+XXI. Elaborar el manual de organización y funcionamiento del departamento en materia de estadística, así como de los procedimientos que se lleven en él en dicha materia, y
+
+XXII. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal, en materia de estadística.
 
 ### Capítulo V. Del Departamento de Formación, Capacitación y Profesionalización de Personal
 
@@ -1417,7 +1493,7 @@ MAGISTRADA LIGIA AURORA CORTÉS ORTEGA
 
 (RÚBRICA)
 
-MAGISTRADO LUIS FELIPE ESPERÓN VlLLANUEVA
+MAGISTRADO LUIS FELIPE ESPERÓN VILLANUEVA
 
 (RÚBRICA)
 
@@ -1466,3 +1542,23 @@ Primero. Este acuerdo general entrará en vigor el día siguiente al de su publi
 Abrogación
 
 Segundo. A partir de la entrada en vigor de este acuerdo general, quedarán abrogados tanto el “ACUERDO GENERAL NUMERO OR12-011204-16, QUE EMITE EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, POR EL QUE SE CREA LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, publicado en el Diario Oficial del Gobierno del Estado el 3 de diciembre de 2004, así como el ACUERDO GENERAL NUMERO OR09-070903-36, POR EL QUE SE CREA LA DIRECCIÓN DE TRANSPARENCIA Y APOYO INSTITUCIONAL DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, publicado en el Diario Oficial del Gobierno del Estado el 3 de octubre de 2007.
+
+D.O. 28 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL OR01-190110-12 DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, PARA CONFORMAR EL DEPARTAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ESTADÍSTICA”].
+
+Entrada en vigor
+
+Primero. Este acuerdo general entrará en vigor el día siguiente al de su publicación el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligaciones en materia de transparencia, acceso a la información y protección de datos personales
+
+Segundo. Las obligaciones que las leyes generales y estatales en materia de transparencia, acceso a la información y protección de datos personales otorgan a la unidad de transparencia, se entenderán atribuidas al Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística.
+
+Referencias a la Unidad de Transparencia y Acceso a la Información Pública del Tribunal Superior de Justicia
+
+Tercero. Cuando en las disposiciones normativas se haga referencia a la Unidad de Transparencia y Acceso a la Información Pública del Tribunal Superior de Justicia, se entenderá que se refieren al Departamento de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Estadística.
+
+Derogación tácita
+
+Cuarto. Se derogan las disposiciones normativas emitidas por el Tribunal Superior de Justicia del Estado, en lo que se opongan al contenido de este acuerdo general.
