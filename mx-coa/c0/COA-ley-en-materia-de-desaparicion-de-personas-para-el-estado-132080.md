@@ -4,7 +4,7 @@ identifier: "COA-ley-en-materia-de-desaparicion-de-personas-para-el-estado-13208
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-14"
-last_updated: "2018-12-14"
+last_updated: "2019-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY EN MATERIA DE DESAPARICION DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de diciembre de 2018.
 
@@ -583,15 +583,23 @@ Con independencia de lo anterior, la Comisión de Búsqueda podrá auxiliarse po
 
 El número de grupos de búsqueda a conformarse, será determinado conforme a los lineamientos que establezca la Comisión Nacional, tomando en cuenta las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de personas no localizadas dentro del estado.
 
-I) (sic) Artículo 38. Las instituciones de seguridad pública del estado y de los municipios, en el ámbito de sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas. Dicho personal debe atender las solicitudes de la Comisión Nacional y la Comisión de Búsqueda.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2019)</small>
 
-II) Los servidores públicos que incumplan con las solicitudes para la búsqueda de personas que sean requeridas por la Comisión Nacional o la Comisión de Búsqueda, serán sancionados en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas y la Ley General.
+###### Artículo 38.
+
+Las instituciones de seguridad pública del estado y de los municipios, en el ámbito de sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas. Dicho personal debe atender las solicitudes de la Comisión Nacional y la Comisión de Búsqueda.
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2019)</small>
+
+Los servidores públicos que incumplan con las solicitudes para la búsqueda de personas que sean requeridas por la Comisión Nacional o la Comisión de Búsqueda, serán sancionados en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas y la Ley General.
 
 ###### Artículo 39.
 
 Las instituciones de seguridad pública, de acuerdo con la Comisión de Búsqueda, seleccionarán de conformidad con los procedimientos de evaluación y controles de confianza aplicables, a personal policial que conformará los Grupos de Búsqueda.
 
-III) (sic) El personal de las instituciones de seguridad pública del estado y de los municipios, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2019)</small>
+
+El personal de las instituciones de seguridad pública del estado y de los municipios, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional.
 
 ###### Artículo 40.
 
