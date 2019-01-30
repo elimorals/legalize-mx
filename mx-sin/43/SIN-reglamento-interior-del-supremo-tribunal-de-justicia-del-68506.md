@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2016-06-15"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 CUARTO. Que a fin de garantizar el adecuado ejercicio de las funciones y atribuciones del Pleno, de las Salas del Supremo Tribunal de Justicia y de sus órganos auxiliares, conforme a las bases fijadas en la Constitución Política y la Ley Orgánica del Poder Judicial, ambas del Estado de Sinaloa, se expide el siguiente:
 
@@ -679,7 +681,9 @@ XII. Coordinar las actividades de ejecución de proyectos de modificación o cre
 
 XIII. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial y ejercerlo conforme a las políticas generales que señale el Pleno o el Presidente, así como los recursos federales asignados y el patrimonio del Poder Judicial;
 
-XIV. Autorizar las adquisiciones de materiales, arrendamientos, contratación de servicios y obra pública, de conformidad con la normatividad aplicable, realizando los procesos de licitación pública, de invitación restringida y de adjudicación directa, en su caso. En los procesos de licitación pública y de invitación restringida, participarán el Secretario de Acuerdos, los Directores y los Jefes de Área. Los dos últimos, por lo que hace a sus solicitudes;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XIV. Autorizar las adquisiciones de materiales, arrendamientos, contratación de servicios y obra pública, de conformidad con la normatividad aplicable, realizando los procesos de licitación pública, de invitación restringida y de adjudicación directa, en su caso. En los procesos de licitación pública y de invitación restringida, participará el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Judicial;
 
 XV. Rendir los informes que el Pleno o el Presidente le requieran;
 
@@ -703,11 +707,13 @@ La Oficialía Mayor, para el despacho de los asuntos de su competencia, contará
 
 I. Área de Administración de Recursos Humanos;
 
-II. Área de Administración de Recursos Financieros;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+II. Dirección de Administración;
 
-III. Área de Administración de Infraestructura Física, Servicios y Suministros; y,
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+III. Coordinación Operativa de Infraestructura Física; y,
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -715,11 +721,11 @@ IV. Los demás órganos que se requieran conforme a las necesidades del servicio
 
 V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2019)</small>
 
 ###### Artículo 49.
 
-Los órganos auxiliares para el despacho de sus asuntos, estarán a cargo de un Administrador y contarán con los servidores públicos que se requieran conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
+Los órganos auxiliares para el despacho de sus asuntos estarán a cargo de Titulares que se denominarán: Administrador, Director de Administración y Coordinador Operativo, en relación con las fracciones I, II y III del artículo 48 de este Reglamento, respectivamente, y contarán con los servidores públicos que se requieran conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -835,13 +841,15 @@ XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2012)
 
-#### SECCIÓN III. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS FINANCIEROS REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
+#### SECCIÓN III. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
 
 ###### Artículo 55.
 
-Son atribuciones del Administrador de Recursos Financieros, las siguientes:
+Son atribuciones del Director de Administración, las siguientes:
 
 I. Llevar la contabilidad del Poder Judicial;
 
@@ -893,19 +901,51 @@ XVII. Proponer las inversiones que produzcan los mayores rendimientos a los recu
 
 XVIII. Efectuar oportunamente el pago correspondiente a los proveedores y prestadores de servicio, de conformidad con las disposiciones legales y lineamientos establecidos; y,
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
 
-XIX. Las demás que se deriven de disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+XIX. Diagnosticar, cuantificar, evaluar y presentar un programa anual de trabajo en relación a las necesidades materiales y servicios, dentro de su competencia, de los órganos y dependencias judiciales;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XX. Vigilar la administración de los recursos materiales y de los servicios generales que provea el Supremo Tribunal de Justicia a los diversos órganos y dependencias judiciales;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XXI. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de las Unidades que estén a su cargo y responsabilidad;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XXII. Asegurar la oportunidad y suficiencia en el suministro de los recursos materiales y servicios generales a los órganos jurisdiccionales y dependencias administrativas del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XXIII. Dar seguimiento a los procedimientos de adquisición, control y suministro de los materiales y servicios requeridos por las diversas áreas del Poder Judicial, a fin de asegurar su apego a los criterios y normatividad aplicables; y,
+
+> <small>(ADICIONADA [N. DE REUBICADA], P.O. 30 DE ENERO DE 2019)</small>
+
+XXIV. Las demás que se deriven de disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
 
 ###### Artículo 56.
 
-El Área de Administración de Recursos Financieros contará para el ejercicio de sus funciones con las siguientes unidades:
+La Dirección de Administración contará para el ejercicio de sus funciones con las siguientes unidades:
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 I. Unidad de Contabilidad; y,
 
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
 II. Unidad de Presupuesto.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+III. Unidad de Recursos Materiales; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+IV. Unidad de Servicios Generales.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -921,9 +961,13 @@ III. Preparar las respuestas correspondientes que deba presentar el Oficial Mayo
 
 IV. Atender y dar cumplimiento a los requerimientos de información durante los procesos de auditoría;
 
-V. Rendir los informes que le sean solicitados por el Administrador de Recursos Financieros y la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
 
-VI. Proponer al Administrador de Recursos Financieros los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
+V. Rendir los informes que le sean solicitados por el Director de Administración y los que se deriven de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+VI. Proponer al Director de Administración los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
 
 VII. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
 
@@ -933,15 +977,21 @@ VII. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes ap
 
 Son atribuciones del Jefe de la Unidad de Presupuesto, las siguientes:
 
-I. Elaborar con base en los lineamientos establecidos, el anteproyecto de presupuesto de egresos del Poder Judicial, y presentarlo al Administrador de Recursos Financieros para su análisis y validación;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+I. Elaborar con base en los lineamientos establecidos, el anteproyecto de presupuesto de egresos del Poder Judicial, y presentarlo al Director de Administración para su análisis y validación;
 
 II. Controlar el ejercicio presupuestal de la Institución mediante la operación de sistemas presupuestales que reflejen, fiel y claramente, las operaciones realizadas;
 
-III. Elaborar y someter a consideración del Administrador de Recursos Financieros el proceso de programación y presupuestación del gasto del Poder Judicial;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+III. Elaborar y someter a consideración del Director de Administración el proceso de programación y presupuestación del gasto del Poder Judicial;
 
 IV. Elaborar con base en la normatividad aplicable, los informes presupuestarios y financieros;
 
-V. Elaborar trimestralmente Informe de Avance de Gestión Financiera y presentarlo al Administrador de Recursos Financieros para su validación;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+V. Elaborar trimestralmente Informe de Avance de Gestión Financiera y presentarlo al Director de Administración para su validación;
 
 VI. Controlar, depurar, y actualizar tanto en archivos físicos como electrónicos, los documentos e información relativos a la asignación y ejercicio del presupuesto;
 
@@ -951,89 +1001,27 @@ VIII. Efectuar, cuando sea necesario, las transferencias, adecuaciones y modific
 
 IX. Atender y dar cumplimiento a los requerimientos de información durante los procesos de auditoría;
 
-X. Rendir los informes que le sean solicitados por el Administrador de Recursos Financieros;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
 
-XI. Proponer al Administrador de Recursos Financieros los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
+X. Rendir los informes que le sean solicitados por el Director de Administración;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XI. Proponer al Director de Administración los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
 
 XII. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
 
-#### SECCIÓN IV. DEL ÁREA (SIC) ADMINISTRACIÓN DE INFRAESTRUCTURA FÍSICA, SERVICIOS Y SUMINISTROS
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-###### Artículo 58.
-
-Son atribuciones del Administrador de Infraestructura Física, Servicios y Suministros, las siguientes:
-
-I. Diagnosticar, cuantificar, evaluar y presentar un programa anual de trabajo en relación a las necesidades administrativas, dentro de su competencia, de los órganos y dependencias judiciales;
-
-II. Vigilar la administración de la infraestructura, de los recursos materiales y de los servicios generales que provea el Supremo Tribunal de Justicia a los diversos órganos y dependencias judiciales, certificando la calidad y eficacia administrativa de su instalación, uso y operación, en cumplimiento de las normas y principios de protección civil;
-
-III. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de las Unidades que estén a su cargo y responsabilidad;
-
-IV. Coordinar la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta a los capítulos de recursos materiales, servicios generales e infraestructura;
-
-V. Efectuar los análisis y estudios necesarios para la elaboración de informes que deba presentar el Oficial Mayor, en lo referente a las actividades de las Unidades a su cargo;
-
-VI. Asegurar la oportunidad y suficiencia en el suministro de los recursos materiales y servicios generales a los órganos jurisdiccionales y dependencias administrativas del Poder Judicial;
-
-VII. Dar seguimiento a los procedimientos de adquisición, control y suministro de los materiales requeridos por las diversas áreas del Poder Judicial, a fin de asegurar su apego a los criterios y normatividad aplicables;
-
-VIII. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de administración de bienes, recursos materiales y servicios generales, a las observaciones que emita la Auditoría Superior del Estado;
-
-IX. Gestionar programas de capacitación y asesoría para el personal adscrito a sus Unidades; y,
-
-X. Las demás que se deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-###### Artículo 58 Bis.
-
-El Área de Administración de Infraestructura Física, Servicios y Suministros contará para el ejercicio de sus funciones con las siguientes unidades:
-
-I. Una Unidad de Infraestructura;
-
-II. Una Unidad de Recursos Materiales;
-
-III. Una Unidad de Servicios Generales; y,
-
-IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-###### Artículo 58 Bis-A.
-
-Son atribuciones del Jefe de la Unidad de Infraestructura, las siguientes:
-
-I. Diseñar y proponer estrategias de acción en relación con las prioridades de innovación y modernización;
-
-II. Elaborar y supervisar proyectos en sistemas eléctricos y cableado estructurado, verificando que las instalaciones correspondientes cumplan con lo establecido en los estándares y normas de calidad internacionales;
-
-III. Diseñar, elaborar y proponer las estrategias y los lineamientos generales para el manejo de riesgos en las instalaciones judiciales, incluyendo los planes de contingencia, manuales de seguridad laboral y la evaluación del impacto ambiental;
-
-IV. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
-
-V. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Infraestructura;
-
-VI. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones;
-
-VII. Validar las facturas que presenten los contratistas, a efecto de que gestionen los pagos correspondientes; y,
-
-VIII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-###### Artículo 58 Bis-B.
+###### Artículo 57 Bis-A.
 
 Son atribuciones del Jefe de la Unidad de Recursos Materiales, las siguientes:
 
 I. Garantizar el oportuno y suficiente suministro de recursos materiales a los órganos y dependencias judiciales, para ello tendrá a su cargo la compra de insumos, suministros y combustibles, así como la dotación de viáticos a los servidores judiciales en cumplimiento de comisiones;
 
-II. Tendrá a su cargo y disposición un inmueble para solventar provisionalmente las compras en volumen y los procesos de resguardo y bajas de bienes, y procurará el equilibrio ecológico mediante la canalización de dichas bajas hacia los organismos correspondientes.
+II. Solventar provisionalmente las compras en volumen y los procesos de resguardo y bajas de bienes, y procurará el equilibrio ecológico mediante la canalización de dichas bajas hacia los organismos correspondientes.
 
-III. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos materiales y someterlo a la consideración del Administrador de Infraestructura Física, Servicios y Suministros;
+III. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos materiales y someterlo a la consideración del Director de Administración;
 
 IV. Vigilar la debida observancia de la reglamentación para el otorgamiento de viáticos y combustibles;
 
@@ -1043,19 +1031,19 @@ VI. Gestionar, de acuerdo con la normatividad aplicable, las adquisiciones de bi
 
 VII. Validar las facturas que presenten los proveedores, a efecto de que gestionen los pagos correspondientes;
 
-VIII. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
+VIII. Rendir los informes que le sean solicitados por el Director de Administración;
 
-IX. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Materiales;
+IX. Proponer al Director de Administración los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Materiales;
 
-X. Administrar el almacén de insumos menores de oficina y de enseres propios de las diversas funciones, y el suministro de los órganos y dependencia judiciales;
+X. Administrar el almacén de insumos menores de oficina y de enseres propios de las diversas funciones, y el suministro de los órganos y dependencia (sic) judiciales;
 
-XI. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones; y,
+XI. Auxiliar al Director de Administración en las labores que se le encomiende, en el marco de sus atribuciones; y,
 
 XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
 
-###### Artículo 58 Bis-C.
+###### Artículo 57 Bis-B.
 
 Son atribuciones del Jefe de la Unidad de Servicios Generales, las siguientes:
 
@@ -1063,27 +1051,125 @@ I. Administrar el mantenimiento de los edificios y recintos públicos que ocupan
 
 II. Coordinar a los proveedores de servicios institucionales y de mantenimiento que se contraten, y para su auxilio tendrá a su disposición y cargo inmediato los auxiliares administrativos suficientes, quienes deberán especializarse en cada uno de los oficios para el que sean requeridos;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
-
 III. Prestar los servicios de correspondencia, transporte, intendencia, mantenimiento, conservación de los bienes del Poder Judicial y demás servicios generales, cuidando que el servicio proporcionado sea el adecuado y conforme a los lineamientos establecidos;
 
-IV. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de servicios generales y someterlo a la consideración del Administrador de Infraestructura Física, Servicios y Suministros;
+IV. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de servicios generales y someterlo a la consideración del Director de Administración;
 
-V. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
+V. Rendir los informes que le sean solicitados por el Director de Administración;
 
-VI. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Servicios Generales;
+VI. Proponer al Director de Administración los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Servicios Generales;
 
-VII. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones;
+VII. Auxiliar al Director de Administración en las labores que se le encomiende, en el marco de sus atribuciones;
 
 VIII. Administrar el inventario del Poder Judicial del Estado, comprendiéndose en este concepto los bienes muebles e inmuebles adquiridos bajo cualquier forma de contrato por el Supremo Tribunal de Justicia, y los proporcionados por el Gobierno del Estado, así como los vehículos motrices, mobiliario, equipo de oficina y tecnológico;
 
-IX. Dar mantenimiento preventivo y correctivo de los bienes del Poder Judicial, procurando que éste no sufra menoscabo o se inutilice prematuramente.
+IX. Dar mantenimiento preventivo y correctivo de los bienes del Poder Judicial, procurando que éste no sufra menoscabo o se inutilice prematuramente;
 
 X. Programar los pagos de seguro, placas, tenencia y verificación de los vehículos propiedad del Poder Judicial;
 
 XI. Validar las facturas que presenten los prestadores de servicio, a efecto de que gestionen los pagos correspondientes; y,
 
 XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2019)</small>
+
+#### SECCIÓN IV. DE LA COORDINACIÓN OPERATIVA DE INFRAESTRUCTURA FÍSICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 58.
+
+Son atribuciones del Coordinador Operativo de Infraestructura Física, las siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+I. Ejecutar las actividades que se deriven de proyectos de modificación o creación de espacios físicos destinados a oficinas del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+II. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad que esté a su cargo y responsabilidad;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+III. Efectuar los análisis y estudios necesarios para la elaboración de informes que le sean requeridos por el Oficial Mayor, en lo referente a la Coordinación a su cargo;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+IV. Asegurar la correcta y oportuna ejecución de las actividades que se le encomienden en el marco de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+V. Verificar la calidad y eficacia de las instalaciones del Poder Judicial, por requerimiento del Oficial Mayor, en cumplimiento de las normas y principios de protección civil y demás normas aplicables, e informar a aquél de las incidencias detectadas;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+VI. Las demás que se deriven de las disposiciones legales aplicables, y acuerdos del Pleno, del Presidente o del Oficial Mayor;
+
+VII. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+VIII. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+IX. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+X. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 58 Bis.
+
+La Coordinación Operativa de Infraestructura Física contará para el ejercicio de sus funciones con las siguientes unidades:
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+I. Una Unidad de Infraestructura;
+
+II. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+III. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 58 Bis-A.
+
+Son atribuciones del Jefe de la Unidad de Infraestructura, las siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+I. Diseñar y proponer estrategias de acción en relación con las prioridades de innovación y modernización de las instalaciones del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+II. Supervisar proyectos en sistemas eléctricos y cableado estructurado, verificando que las instalaciones correspondientes cumplan con lo establecido en los estándares y normas de calidad establecidas;
+
+III. Diseñar, elaborar y proponer las estrategias y los lineamientos generales para el manejo de riesgos en las instalaciones judiciales, incluyendo los planes de contingencia, manuales de seguridad laboral y la evaluación del impacto ambiental;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+IV. Rendir los informes que le sean solicitados por (sic) Coordinador Operativo de Infraestructura Física;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+V. Proponer al Coordinador Operativo de Infraestructura Física los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Infraestructura;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+VI. Auxiliar al Coordinador Operativo de Infraestructura Física en las labores que se le encomienden, en el marco de sus atribuciones;
+
+VII. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+VIII. (DEROGADA, P.O. 30 DE ENERO DE 2019)
+
+###### Artículo 58 Bis-B.
+
+(DEROGADO, P.O. 30 DE ENERO DE 2019)
+
+###### Artículo 58 Bis-C.
+
+(DEROGADO, P.O. 30 DE ENERO DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1793,7 +1879,7 @@ La Unidad de Transparencia es un órgano auxiliar del Supremo Tribunal, competen
 
 La Unidad, para el despacho de los asuntos de su competencia, contará con un Coordinador de la Unidad y el personal que se requiera conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
 
-(ADICIANADA, P.O. 15 DE JUNIO DE 2016)
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 #### SECCIÓN II. DEL COORDINADOR DE LA UNIDAD DE TRANSPARENCIA
 
@@ -1924,3 +2010,11 @@ P.O. 15 DE JUNIO DE 2016.
 PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA".]
+
+PRIMERO. Publíquese este acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación.
