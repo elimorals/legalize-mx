@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-01-26"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -51,7 +51,9 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
 ## TÍTULO PRIMERO. DEL CONGRESO
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
@@ -161,11 +163,21 @@ XI.- Veinticinco de diciembre.
 
 XII.- Los que determinen las leyes federales y locales, en caso de elecciones ordinarias y extraordinarias, para desarrollar la jornada electoral.
 
-### CAPÍTULO I. DE LA INTEGRACIÓN DE LA LEGISLATURA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO II. PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+ARTÍCULO 15 BIS.- El Congreso del Estado promoverá la implementación de un Parlamento Abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información.
+
+En el ejercicio de su función, las y los Diputados deberán generar una apertura institucional para que la ciudadanía pueda involucrarse, de manera pacífica y organizada, en los trabajos legislativos.
+
+El Congreso del Estado impulsará la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo, y promoverá una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
 
-### CAPÍTULO II. DE LOS PERÍODOS DE SESIONES
+### CAPÍTULO I. DE LA INTEGRACIÓN DE LA LEGISLATURA
 
 ###### ARTÍCULO 16.
 
@@ -261,7 +273,7 @@ Por lo que se refiere a los Planes Estatal de Desarrollo y de Seguridad Pública
 
 La Comisión Especial, dentro de los cuarenta y cinco días hábiles posteriores a la recepción de los Planes Estatal de Desarrollo y de Seguridad Pública, se pronunciará sobre su contenido y los someterá al Pleno para su aprobación en su caso.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS PERÍODOS DE SESIONES
 
 ###### ARTÍCULO 28.
 
@@ -287,7 +299,7 @@ El Congreso, al iniciar o concluir un período de sesiones, ya sea ordinario, ex
 
 ## TÍTULO TERCERO. DE LAS DIPUTADAS Y LOS DIPUTADOS
 
-### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 32.
 
@@ -327,7 +339,7 @@ No es aplicable lo dispuesto en el artículo anterior, a quienes ejerzan, cuando
 
 Las diputadas y los diputados no deberán intervenir, directa o indirectamente, ya sea como apoderados, representantes, abogados o directivos de empresa, respecto de contratos de obra, servicios o suministros con el Gobierno del Estado y sus municipios.
 
-### CAPÍTULO III. DE LA SUSPENSIÓN Y PÉRDIDA DEL CARÁCTER DE DIPUTADA O DIPUTADO
+### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES
 
 ###### ARTÍCULO 40.
 
@@ -383,7 +395,7 @@ El informe respecto del último año de ejercicio legislativo, deberá presentar
 
 Así mismo, lo hará del conocimiento de la ciudadanía del distrito que represente; o el de su residencia, si es de representación proporcional.
 
-### CAPÍTULO IV. ÉTICA Y DISCIPLINA PARLAMENTARIA
+### CAPÍTULO III. DE LA SUSPENSIÓN Y PÉRDIDA DEL CARÁCTER DE DIPUTADA O DIPUTADO
 
 ###### ARTÍCULO 42.
 
@@ -411,7 +423,7 @@ VI.- Por terminar el período para el cual fueron electos.
 
 VII.- Por separación voluntaria, aprobada por el Pleno.
 
-### CAPÍTULO I. DE LOS GRUPOS PARLAMENTARIOS
+### CAPÍTULO IV. ÉTICA Y DISCIPLINA PARLAMENTARIA
 
 ###### ARTÍCULO 44.
 
@@ -419,7 +431,7 @@ Las diputadas y los diputados tendrán como deber fundamental la salvaguarda del
 
 ## TÍTULO CUARTO. ORGANIZACIÓN DEL CONGRESO
 
-### CAPÍTULO II. DE LAS COALICIONES PARLAMENTARIAS
+### CAPÍTULO I. DE LOS GRUPOS PARLAMENTARIOS
 
 ###### ARTÍCULO 45.
 
@@ -473,7 +485,7 @@ Cuando un partido político que tenga integrado un grupo parlamentario en el Con
 
 La Mesa Directiva comunicará al Pleno la constitución, disolución y fusión de cada grupo parlamentario. Procederá de igual forma cuando se sustituya la coordinación o la subcoordinación de los mismos.
 
-### CAPÍTULO III. DE LAS REPRESENTACIONES PARLAMENTARIAS Y DIPUTACIONES INDEPENDIENTES
+### CAPÍTULO II. DE LAS COALICIONES PARLAMENTARIAS
 
 ###### ARTÍCULO 56.
 
@@ -495,7 +507,7 @@ I.- Presentar iniciativas en conjunto.
 
 II.- Establecer e impulsar puntos comunes de agenda legislativa.
 
-### CAPÍTULO IV. DE LA JUNTA DE COORDINACIÓN POLÍTICA
+### CAPÍTULO III. DE LAS REPRESENTACIONES PARLAMENTARIAS Y DIPUTACIONES INDEPENDIENTES
 
 ###### ARTÍCULO 58.
 
@@ -505,7 +517,7 @@ La representación parlamentaria será aquella formada por una diputada o diputa
 
 La diputada o diputado independiente, es aquel que no representa a partido político alguno y tendrá las atribuciones, derechos y obligaciones que para las y los legisladores señala la normatividad aplicable.
 
-### CAPÍTULO V. DE LA MESA DIRECTIVA
+### CAPÍTULO IV. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
 ###### ARTÍCULO 60.
 
@@ -607,7 +619,7 @@ XXI.- Poner a consideración del Pleno, para su aprobación, la integración de 
 
 XXII.- Ejercer las demás atribuciones que le asignen esta Ley, sus reglamentos y otros ordenamientos legales aplicables.
 
-### CAPÍTULO VI. DE LA PRESIDENCIA DE LA MESA DIRECTIVA
+### CAPÍTULO V. DE LA MESA DIRECTIVA
 
 ###### ARTÍCULO 67.
 
@@ -639,7 +651,7 @@ Las Mesas Directivas serán electas por el Pleno, mediante la votación de las d
 
 El Decreto que contenga los nombramientos de las y los integrantes de la Mesa Directiva, se publicará en el Periódico Oficial del Estado y se dará a conocer a los Poderes Ejecutivo y Judicial del Estado, a los municipios del Estado, a las demás legislaturas de las Entidades Federativas y a las Cámaras del H. Congreso de la Unión.
 
-### CAPÍTULO VII. DE LAS SECRETARÍAS Y PROSECRETARÍAS DE LA MESA DIRECTIVA
+### CAPÍTULO VI. DE LA PRESIDENCIA DE LA MESA DIRECTIVA
 
 ###### ARTÍCULO 73.
 
@@ -763,7 +775,7 @@ XXXVII.- Disponer lo necesario para que en caso de que asistan a las sesiones pe
 
 XXXVIII.- Ejercer las demás atribuciones que le asignen esta Ley, sus Reglamentos y otros ordenamientos legales.
 
-### CAPÍTULO VIII. DE LA DIPUTACIÓN PERMANENTE
+### CAPÍTULO VII. DE LAS SECRETARÍAS Y PROSECRETARÍAS DE LA MESA DIRECTIVA
 
 ###### ARTÍCULO 76.
 
@@ -811,7 +823,7 @@ XIII.- Expedir y certificar, en su caso, las copias de documentos oficiales del 
 
 XIV.- Las demás que se deriven de esta Ley, su reglamentación y otros ordenamientos legales.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DE LA DIPUTACIÓN PERMANENTE
 
 ###### ARTÍCULO 80.
 
@@ -845,7 +857,7 @@ El desarrollo de las sesiones de la Diputación Permanente y el despacho de los 
 
 ## TÍTULO QUINTO. DE LAS COMISIONES Y COMITÉS
 
-### CAPÍTULO II. DE LAS COMISIONES DE DICTAMEN LEGISLATIVO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 87.
 
@@ -895,7 +907,7 @@ III.- Jurisdiccionales.
 
 IV.- Especiales.
 
-### CAPÍTULO III. DE LA COMISIÓN DE FISCALIZACIÓN
+### CAPÍTULO II. DE LAS COMISIONES DE DICTAMEN LEGISLATIVO
 
 ###### ARTÍCULO 95.
 
@@ -919,7 +931,9 @@ III.- De Programación, Presupuesto y Hacienda Pública.
 
 IV.- De Seguridad Pública y Protección Civil.
 
-V.- De Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+V.- De Transparencia, Acceso a la Información Pública y Parlamento Abierto.
 
 VI.- De Educación y Cultura.
 
@@ -1143,7 +1157,7 @@ Los dictámenes o los documentos que elaboren las comisiones contendrán una par
 
 Una vez que estén firmados los dictámenes por la mayoría de los miembros de la Comisión, junto con los votos particulares, si los hubiere, se remitirán, por conducto de su secretaría técnica, a la Secretaría de Asuntos Legislativos y Jurídicos para su trámite, debiendo acompañar el archivo en medio magnético.
 
-### CAPÍTULO IV. DE LAS COMISIONES JURIDICCIONALES (SIC) Y ESPECIALES
+### CAPÍTULO III. DE LA COMISIÓN DE FISCALIZACIÓN
 
 ###### ARTÍCULO 113.
 
@@ -1183,7 +1197,7 @@ XII.- Recibir de los Entes Fiscalizables las aclaraciones, información y docume
 
 XIII.- Las demás que establezcan esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
-### CAPÍTULO V. DE LOS COMITÉS
+### CAPÍTULO IV. DE LAS COMISIONES JURIDICCIONALES (SIC) Y ESPECIALES
 
 ###### ARTÍCULO 115.
 
@@ -1201,7 +1215,7 @@ Las Comisiones Especiales son aquellas que se constituyen para la ejecución de 
 
 En lo no previsto, expresamente, para estos cuerpos colegiados, se estará a lo dispuesto para las Comisiones de Dictamen Legislativo.
 
-### CAPÍTULO VI. DEL COMITÉ DE ADMINISTRACIÓN
+### CAPÍTULO V. DE LOS COMITÉS
 
 ###### ARTÍCULO 117.
 
@@ -1233,7 +1247,7 @@ I.- De Administración.
 
 II.- De Biblioteca.
 
-### CAPÍTULO VII. DEL COMITÉ DE BIBLIOTECA
+### CAPÍTULO VI. DEL COMITÉ DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 122.
 
@@ -1255,7 +1269,7 @@ VII.- Conocer el informe de la Contraloría Interna, sobre el desempeño del per
 
 VIII.- Las demás que esta Ley, sus reglamentos y demás normatividad le asignen.
 
-### CAPÍTULO I. DE LOS ÓRGANOS TÉCNICOS
+### CAPÍTULO VII. DEL COMITÉ DE BIBLIOTECA
 
 ###### ARTÍCULO 123.
 
@@ -1277,13 +1291,11 @@ VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de lo
 
 VII.- Promover la traducción y difusión al lenguaje Braille u otras formas de expresión audiovisual, cuando se trate de disposiciones legales orientadas a la protección de los derechos de las personas con discapacidad.
 
-### CAPÍTULO II. DE LA SECRETARÍA DE ADMINISTRACIÓN
+### CAPÍTULO I. DE LOS ÓRGANOS TÉCNICOS
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS AUXILIARES
 
-### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO II. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 124.
 
@@ -1371,7 +1383,9 @@ VI.- No ser ministro de culto religioso.
 
 Quien ocupe el cargo de titular de la Auditoría Superior del Estado deberá cumplir con los requisitos previstos en la Constitución Política del Estado y sujetarse al procedimiento señalado en el Capítulo V de este Título.
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE ASUNTOS INTERINSTITUCIONALES
+### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 129.
 
@@ -1443,7 +1457,7 @@ XXVII.- Llevar a cabo la elaboración de lineamientos, circulares, manuales de o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2019)</small>
 
-### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
+### CAPÍTULO IV. DE LA SECRETARÍA DE ASUNTOS INTERINSTITUCIONALES
 
 ###### ARTÍCULO 130.
 
@@ -1545,15 +1559,13 @@ XXX.- Atender las demás actividades que le señalen la presente Ley, sus reglam
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE ENERO DE 2019)</small>
 
-### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
+### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
 
 ###### ARTÍCULO 131.
 
 (DEROGADO, P.O. 26 DE ENERO DE 2019)
 
-### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 132.
 
@@ -1655,7 +1667,7 @@ El desempeño del cargo de Auditor Superior es incompatible con cualquier otro e
 
 No es aplicable lo dispuesto en el artículo anterior, a quien ejerza, cuando menos desde dos años antes al día de su designación, actividades docentes en instituciones educativas oficiales de cualquier nivel e instituciones de investigación científica.
 
-### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
@@ -1673,63 +1685,9 @@ Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinaci
 
 Quien funja como responsable de la Unidad de Transparencia, dependerá directamente de quien sea titular de la Secretaría de Asuntos Legislativos y Jurídicos y deberá contar, además de los requisitos establecidos en el artículo 128 de esta Ley, con experiencia en la materia.
 
-### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
+### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
-
-ARTÍCULO 145 BIS.- La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Secretaría de Asuntos Legislativos y Jurídicos. Estará integrada por el personal de las unidades de los Archivos de Gestión y Trámite, de Concentración y el Histórico. Será la responsable de aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
-
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-I. Operar el Sistema Institucional de Archivos, el cual está conformado por:
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-a) La Unidad de Archivo de Gestión y Trámite, a través de los enlaces de los archivos de trámite de las unidades administrativas que conforman los órganos técnicos del Poder Legislativo.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-b) La Unidad de Archivo de Concentración.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-c) La Unidad de Archivo Histórico.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-II. Aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos.
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-III. Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos contemplados en la normatividad aplicable.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-IV. Emitir las normas y lineamientos generales que aseguren la adecuada administración y custodia de los documentos en resguardo del Poder Legislativo.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-V. Emplear todos los mecanismos necesarios para la conservación y preservación de los documentos que se generen como resultado del quehacer legislativo y conforman la memoria documental del Poder Legislativo, asegurando la integridad de los mismos.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VI. Participar como integrante del Comité Técnico de Administración de Documentos y Archivos.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VII. Establecer y desarrollar los programas institucionales y permanentes encaminados a la capacitación y asesoría archivística de las y los responsables de archivos en las Secretarías, y del personal del Poder Legislativo.
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-VIII. Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo, con el Comité Técnico de Administración de Documentos y Archivos, de acuerdo a la normatividad aplicable.
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-IX. Coordinar con el Departamento de Tecnologías de la Información, la gestión, administración y conservación de archivos electrónicos.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-X. Las demás que deriven de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 139.
 
@@ -1797,7 +1755,63 @@ En función de las necesidades del Instituto y de acuerdo al área de estudio e 
 
 El Instituto de Estudios e Investigación Legislativa se regulará por el Reglamento que para tal efecto emita el Congreso.
 
-### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+
+ARTÍCULO 145 BIS.- La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Secretaría de Asuntos Legislativos y Jurídicos. Estará integrada por el personal de las unidades de los Archivos de Gestión y Trámite, de Concentración y el Histórico. Será la responsable de aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
+
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+I. Operar el Sistema Institucional de Archivos, el cual está conformado por:
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+a) La Unidad de Archivo de Gestión y Trámite, a través de los enlaces de los archivos de trámite de las unidades administrativas que conforman los órganos técnicos del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+b) La Unidad de Archivo de Concentración.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+c) La Unidad de Archivo Histórico.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II. Aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+III. Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos contemplados en la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Emitir las normas y lineamientos generales que aseguren la adecuada administración y custodia de los documentos en resguardo del Poder Legislativo.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Emplear todos los mecanismos necesarios para la conservación y preservación de los documentos que se generen como resultado del quehacer legislativo y conforman la memoria documental del Poder Legislativo, asegurando la integridad de los mismos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. Participar como integrante del Comité Técnico de Administración de Documentos y Archivos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. Establecer y desarrollar los programas institucionales y permanentes encaminados a la capacitación y asesoría archivística de las y los responsables de archivos en las Secretarías, y del personal del Poder Legislativo.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+VIII. Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo, con el Comité Técnico de Administración de Documentos y Archivos, de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
+IX. Coordinar con el Departamento de Tecnologías de la Información, la gestión, administración y conservación de archivos electrónicos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X. Las demás que deriven de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 143.
 
@@ -1841,13 +1855,13 @@ El personal operativo de dicha Unidad será seleccionado por parte de la Secreta
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO I. DE LAS SESIONES
+### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO II. DEL ORDEN DEL DÍA
+### CAPÍTULO I. DE LAS SESIONES
 
 ## TÍTULO SÉPTIMO. DE LOS ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO III. DE LAS INICIATIVAS
+### CAPÍTULO II. DEL ORDEN DEL DÍA
 
 ###### ARTÍCULO 146.
 
@@ -1879,7 +1893,7 @@ La cantidad deberá ser entregada dentro del mes siguiente a que se tenga derech
 
 ## TÍTULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO IV. DE LA CONSULTA
+### CAPÍTULO III. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 147.
 
@@ -1969,7 +1983,7 @@ La duración del receso será establecido por quien presida la Mesa Directiva.
 
 En lo relativo a las formalidades del desarrollo de las sesiones, se estará a lo dispuesto en el Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO IV. DE LA CONSULTA
 
 ###### ARTÍCULO 165.
 
@@ -1995,7 +2009,7 @@ La Mesa Directiva podrá reunirse, antes del inicio de cada sesión, para conoce
 
 El orden del día deberá enviarse, vía correo electrónico, a las diputadas y diputados, cuando menos con doce horas de anticipación a la fijada para que se lleven a cabo las sesiones del Congreso.
 
-### CAPÍTULO VI. DE LAS MOCIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 167.
 
@@ -2121,7 +2135,7 @@ Si el proyecto de ley o decreto devuelto al Congreso fuere confirmado por el vot
 
 En la abrogación, derogación, reforma o adición de cualquier Ley o Decreto, se observará lo dispuesto en el artículo 77 de la Constitución Política del Estado.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPÍTULO VI. DE LAS MOCIONES
 
 ###### ARTÍCULO 185.
 
@@ -2147,7 +2161,7 @@ IV.- Bases que regirán su desarrollo.
 
 Una vez concluida la consulta y previo informe que al respecto se presente ante el Pleno, el Congreso podrá ordenar la publicación de la memoria de la referida consulta o de las conclusiones, en su caso.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 189.
 
@@ -2187,7 +2201,7 @@ VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficie
 
 IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos particulares o, en su caso, podrán hacerse propuestas alternativas de redacción y contenido de uno o varios artículos del dictamen.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 193.
 
@@ -2217,7 +2231,7 @@ X. Hacer proposiciones análogas a las anteriores.
 
 Las mociones se podrán hacer de viva voz y desde su curul por la diputada o el diputado que las proponga, y su aprobación se hará por mayoría de votos.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 195.
 
@@ -2303,13 +2317,13 @@ En caso necesario, quien presida la Mesa Directiva podrá solicitar por sí, o a
 
 Las características particulares y el procedimiento para emitir las votaciones serán reguladas en los términos del Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
 
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 209.
 
@@ -2325,7 +2339,7 @@ Las normas y procedimientos del Servicio Civil de Carrera Parlamentaria, se plas
 
 ## TÍTULO DÉCIMO. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 212.
 
@@ -2357,15 +2371,13 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ## TÍTULO UNDÉCIMO. DEL JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
+### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
 
 ###### ARTÍCULO 218.
 
 Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia, que se presenten en contra de las y los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán a lo dispuesto en la Ley que expida el Poder Legislativo, para tales efectos.
 
-### CAPÍTULO II. DE LAS DENUNCIAS
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
 
 ###### ARTÍCULO 219.
 
@@ -2379,7 +2391,9 @@ Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jur�
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS DENUNCIAS
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 221.
 
@@ -2394,6 +2408,8 @@ La designación de las magistraturas del Tribunal Superior de Justicia, del Trib
 TÍTULO DECIMOTERCERO
 
 DEL CEREMONIAL
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 223.
 
@@ -2792,3 +2808,11 @@ QUINTO.- El personal adscrito a la antes denominada Secretaría de Asuntos Inter
 Por lo que se refiere a los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, de la Dirección de Archivos, de la Oficialía de Partes, así como de la Unidad de Transparencia, se transfieren de manera íntegra y en todos sus términos a la Secretaría de Asuntos Legislativos y Jurídicos del H. Congreso del Estado, de la que dependerán orgánicamente, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2019, con la intervención de las instancias y gestiones que resulten necesarias.
 
 SEXTO.- Para los efectos previstos en el artículo que antecede, las Secretarías de Administración y de Asuntos Legislativos y Jurídicos del Poder Legislativo, harán las gestiones a que hubiera lugar en sus respectivos ámbitos de competencia; y así mismo, tomarán las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad de los trabajos de las áreas transferidas.
+
+P.O. 30 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N°. LXVI/RFLEY/0021/2018 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
