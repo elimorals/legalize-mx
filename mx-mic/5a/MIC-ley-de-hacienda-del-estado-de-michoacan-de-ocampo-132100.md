@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -69,9 +69,11 @@ Las disposiciones fiscales que establezcan cargas a las personas, incluidas las 
 
 Las demás disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. El Código Fiscal del Estado de Michoacán de Ocampo, se aplicará de manera supletoria y a falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 3.
 
-Para determinar los montos a pagar conforme a la presente Ley se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades mayores de 50 y hasta 99 centavos, se ajusten a la unidad del peso inmediata superior.
+Las liquidaciones de contribuciones, productos y aprovechamientos, serán en pesos, y para determinar los montos a pagar conforme a la presente Ley se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades mayores de 50 y hasta 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
 Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más obligaciones de pago, deberá considerar, en todo caso, la cuota sin ajuste que corresponda a cada derecho, y sólo a la suma de los mismos se aplicará el ajuste a que se refiere el párrafo anterior.
 
@@ -573,9 +575,11 @@ Hexafluoro de azufre SF6 22,200
 
 DE LA CUOTA
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 43.
 
-El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a $ 250.00 por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a $ 25.00 por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
 
 DEL PAGO
 
@@ -1109,9 +1113,11 @@ XII. Cuando no exista o no pudiera ser determinable una obligación pecuniaria d
 
 El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato.
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 87.
 
-En los actos que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan fe pública en el Estado, calcularán y procederán a recaudar el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro del plazo a que se refiere el párrafo anterior.
+En los actos que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan fe pública en el Estado, calcularán y procederán a retener el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro del plazo a que se refiere el párrafo anterior.
 
 Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, asentarán al margen de la matriz y en los testimonios de los documentos privados, la constancia de pago o la leyenda de que éste no se causa.
 
@@ -1407,7 +1413,9 @@ E) Por la expedición de opinión técnica de excepción en materia de impacto y
 
 1. De 1 a 10 opiniones técnicas por solicitud. 833.00
 
-2. De 11 a 20 opiniones técnicas por solicitud. 1,660.00
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
+2. De 11 a 20 opiniones técnicas por solicitud. 1,666.00
 
 En caso de que las obras o actividades referidas en los incisos A) y B) de esta fracción, requieran un estudio preliminar de riesgo, se pagará un 20 por ciento adicional del monto establecido.
 
@@ -2265,7 +2273,9 @@ A) Remolques, pipas, autobuses o vehículos de tamaño semejante. 54.00
 
 B) Camiones, camionetas y automóviles. 42.00
 
-C) Motocicletas. 33.00
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
+C) Motocicletas. 32.00
 
 XI. Servicios de grúa en poblaciones en las que se ubiquen depósitos, dependientes de la Procuraduría, hasta un radio de 10 kilómetros:
 
@@ -2469,7 +2479,7 @@ E) Registro de certificación de profesionales. 1,023.00
 
 F) Registro de inscripción de instituciones educativas. 666.00
 
-G) Registro de diplomas de Instituciones de Educación Superior. (lES), colegios y asociaciones. 682.00
+G) Registro de diplomas de Instituciones de Educación Superior. (IES), colegios y asociaciones. 682.00
 
 H) Registro de diplomas y constancias. 69.00
 
@@ -2993,7 +3003,9 @@ I. Por la Inscripción o renovación al Padrón de Contratistas. 2,663.00
 
 No se pagarán derechos por los servicios que se presten a Dependencias del Poder Ejecutivo del Estado, a sus Organismos Descentralizados cuando se trate de:
 
-A. Los derechos a que se refieren las fracciones I y II del artículo 108 de esta Ley, que sean utilizados para la prestación de los servicios públicos de:
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
+A. Los derechos a que se refieren las fracciones I y II del artículo 105 de esta Ley, que sean utilizados para la prestación de los servicios públicos de:
 
 I. Rescate;
 
