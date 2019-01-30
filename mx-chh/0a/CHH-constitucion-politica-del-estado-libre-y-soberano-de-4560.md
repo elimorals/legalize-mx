@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2018-11-24"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -816,6 +816,12 @@ Las diputaciones de representación proporcional se distribuirán mediante ronda
 En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
 Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de la votación estatal válida emitida obtenidos en su distrito por cada uno de los candidatos del mismo partido político, en los términos que se establezcan en la Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Art. 40 Bis.
+
+El Poder Legislativo del Estado actuará como Parlamento Abierto y se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -5060,3 +5066,15 @@ P.O. 24 DE NOVIEMBRE DE 2018.
 PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su caso, hágase por el Congreso del Estado o por la Diputación Permanente, el computo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFCNT/0020/2018 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 40 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
