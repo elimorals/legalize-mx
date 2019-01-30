@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13259
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2019.]</small>
 
 Ley publicada en la Décima Cuarta Sección del Periódico Oficial del Estado, el lunes 31 de diciembre de 2018.
 
@@ -65,9 +65,11 @@ El importe que se recaude de los diversos conceptos de contribuciones estatales,
 
 Los servidores públicos que no apliquen las tarifas, tasas y cuotas establecidas en la presente Ley, serán responsables ante la Secretaría de Finanzas y Administración y ante cualquier otra instancia estatal o federal por las diferencias que hubieren dejado de cobrar o cobren en exceso, y su importe les será descontado de sus percepciones, o en su caso, se hará efectiva la responsabilidad en contra de sus fiadores. Asimismo, serán responsables de las cantidades dejadas de recaudar por cualquier otro concepto de los responsables solidarios previstos en esta Ley, la Ley de Hacienda del Estado de Michoacán de Ocampo y demás disposiciones jurídicas aplicables, salvo en los casos en que se demuestre que tienen en trámite diligencias de cobro.
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 4°.
 
-Las liquidaciones de contribuciones, productos y aprovechamientos, que contengan fracciones de la unidad monetaria nacional, que se determinen de uno hasta cincuenta centavos, se ajustarán a la unidad inmediata inferior de un peso. Las que contengan cantidades de cincuenta y uno, a noventa y nueve centavos, se ajustarán a la unidad inmediata superior de un peso.
+Las liquidaciones de contribuciones, productos y aprovechamientos, serán en pesos y en caso de que contengan fracciones de la unidad monetaria nacional, que se determinen de uno hasta cincuenta centavos, se ajustarán a la unidad inmediata inferior de un peso. Las que contengan cantidades de cincuenta y uno, a noventa y nueve centavos, se ajustarán a la unidad inmediata superior de un peso.
 
 Asimismo, para las liquidaciones antes señaladas cuyo cobro regula esta Ley, mediante cuotas establecidas en Unidad de Medida y Actualización, se ajustarán en los mismos términos señalados en el párrafo anterior.
 
@@ -149,15 +151,19 @@ Piedras y sustrato o capa fértil 10.00
 
 #### SECCIÓN II. DEL IMPUESTO POR LA EMISIÓN DE GASES A LA ATMÓSFERA
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 12.
 
-El impuesto por la Emisión de Gases a la Atmósfera se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección II de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando el equivalente a $250.00 por tonelada emitida de bióxido de carbono o la conversión que en el mencionado Título, Capítulo y Sección se prevé.
+El impuesto por la Emisión de Gases a la Atmósfera se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección III de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando el equivalente a $25.00 por tonelada emitida de bióxido de carbono o la conversión que en el mencionado Título, Capítulo y Sección se prevé.
 
 #### SECCIÓN III. DEL IMPUESTO A LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 13.
 
-El impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección III de la Ley de Hacienda del Estado de Michoacán de Ocampo con base en las siguientes cuotas:
+El impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección IV de la Ley de Hacienda del Estado de Michoacán de Ocampo con base en las siguientes cuotas:
 
 I. Suelo y subsuelo: una cuota impositiva por el equivalente a $25.00 por cada cien metros cuadrados afectados con las sustancias contaminantes señaladas en el artículo 48, fracción I de la referida Ley de Hacienda; y,
 
@@ -171,9 +177,11 @@ Asimismo por los excedentes en contaminantes en miligramos en litro que se prese
 
 #### SECCIÓN IV. IMPUESTO AL DEPÓSITO O ALMACENAMIENTO DE RESIDUOS
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 14.
 
-El impuesto al Depósito o Almacenamiento de Residuos, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección IV de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando una cuota de $100.00 por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+El impuesto al Depósito o Almacenamiento de Residuos, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección V de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando una cuota de $100.00 por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
 
 ### CAPÍTULO V. DE LOS IMPUESTOS CEDULARES
 
@@ -199,9 +207,11 @@ Impuesto Cedular por Actividades Empresariales, se causará, liquidará y pagar�
 
 #### SECCIÓN ÚNICA. IMPUESTO SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 18.
 
-El impuesto sobre negocios jurídicos e instrumentos notariales, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VII, Sección única de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando las cuotas siguientes:
+El impuesto sobre negocios jurídicos e instrumentos notariales, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VII de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando las cuotas siguientes:
 
 I. Por la fusión de sociedades civiles y mercantiles la base del impuesto será la diferencia entre el capital social de la fusionante antes y después de la fusión y sobre dicho monto se causará el impuesto a razón de 6 al millar;
 
@@ -847,9 +857,11 @@ B) Por validación de pedimentos de Importación
 
 de vehículos de procedencia extranjera. 207.00
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 24.
 
-Respecto de los capítulos III y IV del presente Título, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular, tanto para vehículos de servicio particular como público, por los conceptos que a continuación se relacionan:
+Respecto de los capítulos II y III del presente Título, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular, tanto para vehículos de servicio particular como público, por los conceptos que a continuación se relacionan:
 
 I. Por expedición de placas de circulación, incluyendo tarjeta de circulación para vehículos automotores;
 
@@ -2945,9 +2957,11 @@ IV. Suministro de calcomanías u hologramas y certificados para verificación ve
 
 V. Otros Productos, como resultado de establecimientos y empresas del Estado; como son entre otros venta de impresos y papel especial; y los demás que señalen las disposiciones aplicables.
 
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 51.
 
-Para la percepción de estos ingresos se estará a lo dispuesto en los contratos o concesiones respectivos o en las escrituras constitutivas o decretos que den nacimiento a los organismos o empresas del Estado, la presente Ley, la Ley de Ingresos o en su defecto, en las disposiciones legales que le sean aplicables
+Para la percepción de estos ingresos se estará a lo dispuesto en los contratos o concesiones respectivos o en las escrituras constitutivas o decretos que den nacimiento a los organismos o empresas del Estado, la presente Ley o en su defecto, en las disposiciones legales que le sean aplicables.
 
 VENTA DE PUBLICACIONES Y OTROS
 
