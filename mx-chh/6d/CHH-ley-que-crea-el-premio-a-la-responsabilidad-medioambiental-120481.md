@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-a-la-responsabilidad-medioambiental-1204
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-11"
-last_updated: "2017-03-11"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL PREMIO A LA RESPONSABILIDAD MEDIOAMBIENTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 11 de marzo de 2017.
 
@@ -53,31 +53,45 @@ Se declara de interés público el reconocimiento a individuos o grupo de person
 
 Para tal objeto se establece el “Premio a la Responsabilidad Medioambiental”, el cual se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
-Podrán participar como aspirantes al Premio, todas las personas físicas o morales que así deseen hacerlo, en las categorías que a continuación se mencionan:
+Podrán participar como aspirantes al Premio, todas las personas físicas o morales que cumplan con los requisitos establecidos para ello, en la presente Ley.
 
-I.- Personas físicas que tengan una trayectoria o acciones destacadas en el ámbito medioambiental.
+El Premio se otorgará a:
 
-II.- Organizaciones de la sociedad civil que se hayan distinguido en el cuidado y preservación del medio ambiente en la Entidad.
+I. Las personas que tengan una trayectoria o acciones destacadas en el ámbito medioambiental.
 
-III.- Empresas que cuenten con políticas, procesos o acciones destacados para disminuir su impacto ambiental, así como para generar prácticas laborales de carácter sustentable en la Entidad.
+II. Las organizaciones de la sociedad civil que se hayan distinguido en el cuidado y preservación del medio ambiente en la Entidad.
+
+III. Las empresas que cuenten con políticas, procesos o acciones destacados para disminuir su impacto ambiental, así como para generar prácticas laborales de carácter sustentable en la Entidad.
+
+IV. Los Proyectos de investigación en materia ambiental, técnicamente viables, que se encuentren en fase de ejecución del prototipo, que tengan impacto y trascendencia en la sustentabilidad de la comunidad.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 3.
 
-El premio consistirá en la entrega de una medalla, la cual contendrá el escudo de (sic) Estado de Chihuahua y la leyenda “Premio a la Responsabilidad Medioambiental”. Adicionalmente a la medalla, las categorías de Personas Físicas y Organizaciones de la Sociedad Civil, recibirán un premio de $50,000.00 (cincuenta mil pesos 00/100 M.N.), respectivamente.
+El premio consistirá en la entrega de una medalla, la cual contendrá el escudo de (sic) Estado de Chihuahua y la leyenda "Premio a la Responsabilidad Medioambiental". Adicionalmente a la medalla, las categorías de Personas, Organizaciones de la Sociedad Civil y Proyectos recibirán un premio de $50,000.00 (cincuenta mil pesos 00/100 M.N.), respectivamente.
 
 ###### ARTÍCULO 4.
 
 Solo podrán participar las personas que tengan su domicilio y que radiquen actualmente en el Estado, y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana o en el extranjero, pero cuya labor repercuta directa o indirectamente en la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-El H. Congreso del Estado, a través de la Comisión de Ecología y Medio Ambiente, expedirá las bases sobre las cuales se analizarán los trabajos en las fechas que determine la Comisión, sujetándose a los siguientes lineamientos básicos:
+El H. Congreso del Estado, a través de la Comisión de Ecología y Medio Ambiente, expedirá las bases sobre las cuales se analizarán los trabajos y proyectos en las fechas que determine la Comisión, sujetándose a los siguientes lineamientos básicos:
 
-I.- Que las acciones en materia de responsabilidad medioambiental ejecutadas puedan acreditar sus beneficios al Estado o a la comunidad.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
 
-II.- Que los trabajos puedan acompañarse del material complementario o explicativo.
+I. Que las acciones y proyectos en materia de responsabilidad medioambiental acrediten sus beneficios al Estado o a la comunidad.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+II. Que los trabajos puedan acompañarse del material complementario o explicativo. En el caso de los proyectos que aún no se hayan implementado, se deberá incluir la evidencia que acredite que dichos proyectos serán aplicados a corto plazo.
 
 III. El certamen quedará abierto a partir de la publicación de la respectiva convocatoria, cerrándose en la fecha que las instancias convocantes determinen.
 
@@ -128,3 +142,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de febrero del año dos mil diecisiete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0265/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL PREMIO A LA RESPONSABILIDAD MEDIOAMBIENTAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
