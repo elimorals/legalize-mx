@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-organizacion-y-procedimientos-administrativos-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-08"
-last_updated: "2018-02-28"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de octubre de 2014.
 
@@ -91,6 +91,10 @@ XVII. Administrador: El Administrador de la Sede Regional de Justicia Penal Acus
 
 XVIII. Extensión: La Sala de Audiencias y oficinas de la Sede Regional de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa, ubicadas en un Distrito Judicial distinto al del asiento de los Juzgados de Control y de Enjuiciamiento Penal del Circuito Judicial correspondiente.
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2019)</small>
+
+XIX. Magistrado de Circuito. El Magistrado de Circuito adscrito a una Sala de Circuito Especializada en Justicia Penal Acusatoria y Oral.
+
 ###### Artículo 3.
 
 Marco jurídico
@@ -149,9 +153,11 @@ El Administrador de la Sede, con el auxilio del Jefe de la Unidad de Seguimiento
 
 ### CAPÍTULO II. ESTRUCTURA Y POLÍTICAS ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2019)</small>
+
 ###### Artículo 6.
 
-Estructura administrativa
+Estructura administrativa de las Sedes Regionales
 
 Las Sedes Regionales de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa contarán con la siguiente estructura administrativa:
 
@@ -163,11 +169,29 @@ III. Unidad de Tecnologías de la Información y Comunicaciones, la cual contar�
 
 IV. Los Auxiliares necesarios para el buen funcionamiento de la Sede Regional, conforme al Presupuesto de Egresos del Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 6 Bis.
+
+Estructura administrativa de las Salas de Circuito Especializadas
+
+Las Salas de Circuito Especializadas en Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa contarán con la siguiente estructura administrativa:
+
+I. Un Magistrado de Circuito Especializado en Justicia Penal Acusatoria y Oral;
+
+II. Una Secretaría de Acuerdos;
+
+III. Un área de Secretarios de Estudio y Cuenta; y,
+
+IV. Los Auxiliares necesarios para el buen funcionamiento de la Sala de Circuito Especializada, conforme al Presupuesto de Egresos del Poder Judicial del Estado.
+
 ###### Artículo 7.
 
 Políticas administrativas de observancia general
 
-En las Sedes Regionales son políticas administrativas de observancia general para todos los servidores públicos judiciales las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2019)</small>
+
+En las Sedes Regionales y Salas de Circuito Especializadas son políticas administrativas de observancia general para todos los servidores (sic) judiciales la (sic) siguientes:
 
 I. Cumplir con la máxima diligencia las funciones que le sean encomendadas y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio;
 
@@ -185,7 +209,9 @@ VII. Observar respeto y cumplir las disposiciones que el superior jerárquico di
 
 VIII. Abstenerse de usar el uniforme fuera del horario de labores;
 
-IX. Establecer los controles necesarios para el buen funcionamiento de la Sede; y,
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2019)</small>
+
+IX. Establecer los controles necesarios para el buen funcionamiento de las Sedes y las Salas de Circuito Especializadas; y,
 
 X. Cumplir con la entrega del despacho a su cargo, en los términos que establezcan las disposiciones legales o administrativas.
 
@@ -221,7 +247,9 @@ Las audiencias programadas se llevarán a cabo de las 8:00 a las 18:00 horas en 
 
 El Jefe de la Unidad de Causas y Atención al Público programará el horario del personal, de manera tal que las audiencias puedan verificarse de forma continua, dentro de los horarios mencionados en los párrafos precedentes.
 
-### CAPÍTULO IV. DEL PERSONAL
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO IV. DEL PERSONAL DE LAS SEDES REGIONALES
 
 #### Sección I. Del Administrador
 
@@ -337,7 +365,13 @@ X. Turnar los registros y constancias a la Sala correspondiente para el trámite
 
 XI. Turnar los registros y constancias a la autoridad de Amparo correspondiente para el trámite del juicio constitucional; y,
 
-XII. Las demás que el superior jerárquico determine.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2019)</small>
+
+XII. Realizar la asignación aleatoria de las notificaciones a los Actuarios; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ENERO DE 2019)</small>
+
+XIII. Las demás que el superior jerárquico determine.
 
 #### Sección III. Del Encargado de Atención al Público
 
@@ -619,21 +653,11 @@ II. Manejo de herramientas informáticas, entre ellas: Excel, Word, Power Point,
 
 III. Contar con Licencia de conductor de vehículos automotores.
 
-###### Artículo 34.
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
 
-Personal Auxiliar
+Artículo 33 bis. Atribuciones
 
-Es el personal a cargo del mantenimiento del equipo informático de la Sede y de proporcionar asistencia técnica para su uso así como del sistema de videograbación.
-
-Para ser Auxiliar de la Unidad de Tecnologías de la Información y Comunicaciones se requiere:
-
-I. Ser Técnico en Informática, preferentemente Licenciado en Informática o Ingeniero en Sistemas;
-
-II. Manejo de herramientas informáticas, entre ellas: Excel, Word, Power Point, Google Apps y Dropbox; y,
-
-III. Contar con Licencia de conductor de vehículos automotores.
-
-Son atribuciones del Auxiliar de la Unidad de Tecnologías de la Información y Comunicaciones:
+Son atribuciones del Jefe de la Unidad de Tecnologías de la Información y Comunicaciones:
 
 I. Monitorear en tiempo real las audiencias y coordinar el apoyo técnico necesario para su videograbación y respaldo;
 
@@ -643,19 +667,37 @@ III. Tomar las medidas necesarias para que los documentos electrónicos o archiv
 
 IV. Realizar los respaldos necesarios para la conservación de los documentos electrónicos y de los archivos de audio y video;
 
-V. Realizar las copias de los archivos de las audiencias que previamente autorizó el Juez;
+V. Supervisar el soporte técnico brindado a los usuarios de equipos tecnológicos de la Sede;
 
-VI. Llevar la relación correspondiente de las copias de las audiencias entregadas a la Unidad de Seguimiento de Causas y Atención al Público;
+VI. Supervisar la correcta publicación de las audiencias; y,
 
-VII. Asegurar que el sistema informático de gestión judicial se encuentre actualizado y en óptimas condiciones operativas;
+VII. Las demás que el superior jerárquico determine.
 
-VIII. Proporcionar soporte técnico a todos los usuarios de equipos tecnológicos de la Sede o Juzgado;
+###### Artículo 34.
 
-IX. Mantener en óptimas condiciones el equipo informático del Juzgado; y,
+Personal Auxiliar
 
-X. Las demás que determiné el Jefe de la Unidad de Tecnologías de la Información y Comunicaciones.
+Es el personal a cargo del mantenimiento del equipo informático de la Sede y de proporcionar asistencia técnica para su uso así como del sistema de videograbación.
 
-### CAPÍTULO V. PROCEDIMIENTOS ADMINISTRATIVOS
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE ENERO DE 2019)</small>
+
+Son atribuciones del Personal Auxiliar de la Unidad de Tecnologías de la Información y Comunicaciones:
+
+I. Realizar las copias de los archivos de las audiencias que previamente autorizó el Juez;
+
+II. Llevar la relación correspondiente de las copias de las audiencias entregadas a la Unidad de Seguimiento de Causas y Atención al Público:
+
+III. Asegurar que el sistema informático de gestión judicial se encuentre actualizado y en óptimas condiciones operativas;
+
+IV. Proporcionar soporte técnico a todos los usuarios de equipos tecnológicos de la Sede;
+
+V. Mantener en óptimas condiciones el equipo informático de la Sede; y,
+
+VI. Las demás que determiné el Jefe de la Unidad de Tecnologías de la Información y Comunicaciones.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO V. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES
 
 ###### Artículo 35.
 
@@ -669,7 +711,9 @@ Canalización de solicitud
 
 Es el procedimiento para canalizar todas las promociones entrantes a la Sede Judicial, por cualquier medio a través de la recepción, digitalización, registro, entrega e informe de las mismas al Jefe de la Unidad de Causas y Atención al Público para la realización de trámite correspondiente a la promoción recibida, conforme al siguiente cuadro:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 25.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 25]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 30 DE ENERO DE 2019, PÁGINA 19.]</small>
 
 ###### Artículo 37.
 
@@ -685,7 +729,9 @@ Celebración de audiencia
 
 Las audiencias se celebrarán conforme al procedimiento para gestionar el buen funcionamiento antes, durante y después de las audiencias, desde el aviso de la audiencia programada hasta alimentar al sistema de gestión, atentos a lo señalado en el cuadro siguiente:
 
-> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 26.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 26.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 30 DE ENERO DE 2019, PÁGINAS DE LA 19 A LA 20.]</small>
 
 ###### Artículo 39.
 
@@ -693,7 +739,9 @@ Notificaciones
 
 El procedimiento para comunicar a las partes e intervinientes de las determinaciones de la Sede para el adecuado desarrollo del proceso, se sujetará a los siguientes lineamientos:
 
-> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 30 DE ENERO DE 2019, PÁGINA 20.]</small>
 
 ###### Artículo 40.
 
@@ -701,7 +749,9 @@ Apelaciones
 
 El procedimiento para cumplir con las disposiciones legales para el trámite de las apelaciones interpuestas por los interesados para su remisión al Tribunal de Alzada para su substanciación, se realizará conforme se señala en este cuadro:
 
-> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 30 DE ENERO DE 2019, PÁGINAS DE LA 20 A LA 21.]</small>
 
 Este procedimiento se utilizará, en lo conducente, en la tramitación de los otros recursos establecidos en el Código Nacional.
 
@@ -714,6 +764,196 @@ El procedimiento para realizar el trámite inicial de amparo, de forma tal que p
 > <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 28.]</small>
 
 De igual forma, se deberán atender diligentemente todos los trámites relacionados con este medio de control.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO VI. DEL PERSONAL DE LAS SALAS DE CIRCUITO ESPECIALIZADAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE ENERO DE 2019)</small>
+
+#### Sección I. Del Magistrado de Circuito Especializado en Justicia Penal Acusatoria y Oral
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 42.
+
+Magistrado de Circuito
+
+Es el servidor público encargado de conocer de los recursos de apelación presentados en contra de resoluciones de los Jueces de Primera Instancia de Control y de Enjuiciamiento Penal diferentes a sentencias definitivas.
+
+Asimismo, será el responsable del debido manejo y gestión de la Sala de Circuito Especializada, de los sistemas informáticos y estadística que se genere.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 43.
+
+Requisitos
+
+Para ser Magistrado de Circuito Especializado en Justicia Penal Acusatoria y Oral se deberán cumplir los requisitos establecidos por el artículo 38 de la Ley Orgánica del Poder Judicial, además de contar con conocimientos en proceso penal acusatorio.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 44.
+
+Atribuciones
+
+Son atribuciones del Magistrado de Circuito:
+
+I. Conocer de los recursos de su competencia;
+
+II. Resolver las controversias sometidas a su conocimiento expresando los fundamentos legales aplicables y los argumentos suficientes que sustenten debidamente la decisión;
+
+III. Cumplir sin demora las determinaciones de la superioridad en materia jurisdiccional y administrativa, así como vigilar su cumplimiento con estricto apego a la ley;
+
+IV. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia de la Sala de Circuito Especializada en Justicia Penal Acusatoria y Oral;
+
+V. La liberación del acuerdo a través de su firma;
+
+VI. Ordenar y validar la publicación de la lista de acuerdos de los asuntos de su competencia;
+
+VII. Llevar al corriente el sistema informático integral de gestión y los libros electrónicos de gobierno;
+
+VIII. Aplicar las sanciones previstas en la Ley Orgánica, dando cuenta de inmediato a la Secretaría de Acuerdos del Supremo Tribunal de Justicia, reportando a su vez las faltas para los efectos a que haya lugar;
+
+IX. Supervisar al personal de la Sala de Circuito en el cumplimiento de sus funciones; y,
+
+X. Las demás que determine la Presidencia y el Pleno.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE ENERO DE 2019)</small>
+
+#### Sección II. Del Secretario de Acuerdos
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 45.
+
+Secretario de Acuerdos
+
+Es el servidor público auxiliar del Magistrado de Circuito en lo concerniente a la gestión y trámite de los recursos competencia de la Sala de Circuito Especializada, así como de las solicitudes presentadas con motivo de alguna diligencia judicial o de apoyo administrativo, según corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 46.
+
+Requisitos
+
+Para ser Secretario de Acuerdos se requiere ser Licenciado en Derecho, con conocimientos en proceso penal acusatorio.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 47.
+
+Atribuciones
+
+Son atribuciones del Secretario de Acuerdos las siguientes:
+
+I. Supervisar la debida integración y seguimiento de causas y cuadernillos;
+
+II. Monitorear plazos y términos de las causas;
+
+III. Realizar la programación de audiencias;
+
+IV. Generar de (sic) la lista de acuerdos;
+
+V. Turnar los registros y constancias de Amparo correspondiente para el trámite del juicio constitucional;
+
+VI. Solicitar la realización de las notificaciones correspondientes; y,
+
+VII. Las demás que determine el Magistrado de Circuito.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE ENERO DE 2019)</small>
+
+#### Sección III. Del Secretario de Estudio y Cuenta
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 48.
+
+Secretario de Estudio y Cuenta
+
+Es el servidor público auxiliar del Magistrado de Circuito en lo concerniente a la formulación de proyectos de resolución de los recursos que procedan en contra de resoluciones de los Jueces de Primera Instancia de Control y de Enjuiciamiento Penal diferentes a sentencias definitivas.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 49.
+
+Requisitos
+
+Para ser Secretario de Estudio y Cuenta se requiere ser Licenciado en Derecho, con conocimientos en proceso penal acusatorio.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 50.
+
+Atribuciones
+
+Son atribuciones del Secretario de Estudio y Cuenta las siguientes:
+
+I. Elaborar en tiempo y forma los proyectos de resolución asignados;
+
+II. Llevar el registro y control de su actividad en los sistemas informáticos creados para esos efectos; y,
+
+III. Las demás que determine el Magistrado de Circuito.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2019)</small>
+
+### CAPÍTULO VII. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SALAS DE CIRCUITO ESPECIALIZADAS
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 51.
+
+Disposiciones comunes
+
+Todo el personal de las Salas de Circuito Especializadas deberá realizar los procedimientos administrativos conforme a las disposiciones de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 52.
+
+Horario
+
+El horario de atención al público de las Salas de Circuito Especializadas será el mismo que se señale para las Sedes Regionales en las que se encuentren.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 53.
+
+Canalización de apelaciones
+
+El procedimiento para canalizar todos los recursos de apelación interpuestos ante las Salas de Circuito Especializadas se desarrollará conforme a lo señalado en el siguiente esquema:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 30 DE ENERO DE 2019, PÁGINA 24.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 54.
+
+Programación y celebración de audiencia
+
+El procedimiento para la programación y celebración de audiencias para su buen funcionamiento, antes, durante y después de las audiencias, se sujetará a lo establecido en el siguiente cuadro:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 30 DE ENERO DE 2019, PÁGINAS DE LA 24 A LA 25.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 55.
+
+Notificaciones con auxilio de (sic) personal de la Sede
+
+El procedimiento para comunicar a las partes e intervinientes de las determinaciones de la Sala de Circuito Especializada en Justicia Penal Acusatoria y Oral, se realizará conforme se señala en este cuadro:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 30 DE ENERO DE 2019, PÁGINA 25.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
+
+###### Artículo 56.
+
+Amparos
+
+El procedimiento para el cumplimiento del trámite de amparo en las Salas de Circuito Especializadas que permita cumplir con los plazos establecidos en la Ley, se realizará conforme al siguiente esquema:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 30 DE ENERO DE 2019, PÁGINA 26.]</small>
 
 ## TRANSITORIOS
 
@@ -766,5 +1006,13 @@ P.O. 28 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5 DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
 
 PRIMERO. Este acuerdo entrará en vigor el (sic) de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA".]
+
+PRIMERO. Este acuerdo entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
