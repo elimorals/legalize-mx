@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-direccion-general-de-prevencion-y-948
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-13"
-last_updated: "2013-06-13"
+last_updated: "2019-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE PREVENCION Y REINSERCION SOCIAL DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO ADMINISTRATIVO A TRAVÉS DEL CUAL SE CREA LA COORDINACIÓN GENERAL DE MEDIDAS, PRELIBERACIONES Y SANCIONES RESTRICTIVAS DE LA LIBERTAD, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 31 DE ENERO DE 2019, SE DEROGAN LAS ATRIBUCIONES QUE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO LE CONFERÍA EN MATERIA DE MEDIDAS, PRELIBERACIONES Y SANCIONES RESTRICTIVAS DE LA LIBERTAD, EN VIRTUD DE QUE LAS ATRIBUCIONES INDICADAS EN EL CITADO DECRETO LEGISLATIVO, PASAN A LA ESFERA DE COMPETENCIA DE LA COORDINACIÓN GENERAL DE MEDIDAS, PRELIBERACIONES Y SANCIONES RESTRICTIVAS DE LA LIBERTAD DEPENDIENTE DE LA SECRETARIA GENERAL DE GOBIERNO QUE SE CREAN EN EL PRESENTE DECRETO.]</small>
+
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y REINSERCIÓN SOCIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2019.
 
 Reglamento publicado en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de junio de 2013.
 
@@ -1144,3 +1146,29 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 MTRO. JOEL MELGAR ARREDONDO
 
 (RUBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO A TRAVÉS DEL CUAL SE CREA LA COORDINACIÓN GENERAL DE MEDIDAS, PRELIBERACIONES Y SANCIONES RESTRICTIVAS DE LA LIBERTAD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las atribuciones que el Reglamento Interior de la Secretaría de Seguridad Pública del Estado y el Reglamento Interior de la Dirección General de Prevención y Reinserción Social, les conferían en materia de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad; ello acorde a las reformas y adiciones publicadas mediante Decreto Legislativo 1045, publicadas en el Periódico Oficial del Gobierno del Estado, en edición extraordinaria del 20 de agosto de 2018, en virtud de que las atribuciones indicadas en el citado Decreto Legislativo, pasan a la esfera de competencia de la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad dependiente de la Secretaria General de Gobierno que se crean en el presente Decreto.
+
+La Dirección General de Prevención y Reinserción Social, continuará ejerciendo las atribuciones relativas al cumplimiento de la prisión preventiva y de las sentencias en que se determine la pena de prisión, y continuará a cargo de los Centros de Readaptación Social del Estado, ejerciendo las demás facultades que le corresponden en materia penitenciaria de conformidad con la ley.
+
+TERCERO. La Secretaría de Finanzas del Estado y la Oficialía Mayor, en el ámbito de sus respectivas competencias, deberán prever el presupuesto anual que corresponda para el debido funcionamiento de la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad y de las áreas que la integran, debiendo proporcionar los recursos humanos, materiales y financieros necesarios para su debida operación, y dar así cabal cumplimiento al Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
+
+CUARTO. La Secretaría de Seguridad Pública con el apoyo de la Oficialía Mayor y con la intervención de la Contraloría General del Estado, transferirá a la Secretaría General de Gobierno, dentro del término de cinco días contados a partir de la entrada en vigor del presente Decreto, la adscripción de los servidores públicos sindicalizados, eventuales y de confianza que actualmente prestan sus servicios o se encuentran asignados a la Dirección General de Prevención y Reinserción Social, que sean suficientes y necesarios para que se ejerzan las nuevas facultades y competencias en la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad y sus Unidades, así como las instalaciones, los recursos materiales, financieros y parque vehicular correspondiente, dando la intervención a las dependencias competentes.
+
+Los derechos del personal que, en virtud de lo dispuesto en este Decreto se readscriban a la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad de la Secretaría General de Gobierno, se respetarán conforme a las disposiciones legales aplicables al caso en específico.
+
+QUINTO. Dentro del plazo de quince días contados a partir de la entrada en vigor del presente Decreto, el Secretario General de Gobierno instalará formalmente la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad conforme a la estructura que el mismo establece.
+
+SEXTO. Se faculta al Secretario General de Gobierno, para que en el término de treinta días contados a partir de la entrada en vigor del presente Decreto, expida el Acuerdo Administrativo a través del cual se emitan las Disposiciones Complementarias para la Aplicación, Vigilancia y Seguimiento de las diversas Unidades y Sub Unidades de la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad, en términos del Código Nacional de Procedimientos Penales y Ley Nacional de Ejecución Penal.
+
+SÉPTIMO. El Secretario General de Gobierno, elaborará y presentará a consideración del Titular del Poder Ejecutivo, el Reglamento Interior de la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad, dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos que se encuentran en trámite en la Dirección General de Prevención y Reinserción Social, que sean de la competencia de la Coordinación General de Medidas, Preliberaciones y Sanciones Restrictivas de la Libertad, deberán ser remitidos a ésta para continuar su substanciación hasta su conclusión, debiéndose tomar las providencias necesarias en aquellos casos en que los asuntos así lo requieran.
