@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2018-12-18"
+last_updated: "2019-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2019.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -823,53 +823,61 @@ XXXI. Constituir su Comité Mixto de Obra Pública, y fungir como órgano ejecut
 
 XXXII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2019)</small>
 
-1. Las facultades de la Secretaría de Igualdad Sustantiva son las siguientes:
+Artículo 25
 
-I. Ejercer las atribuciones que la Constitución Política y legislación federal establece para los Estados, así como las atribuciones descentralizadas por la Federación hacia los Estados, en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
+1.- Las facultades de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres son las siguientes:
 
-II. Garantizar, proteger, promover y respetar los derechos humanos de todas las personas que habitan o transitan el estado, con especial énfasis en las mujeres, niñas, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno del Estado de Jalisco y de los mecanismos institucionales necesarios para su efectivo cumplimiento;
+I. Ser el mecanismo de adelanto para las Mujeres en todos los términos de los Tratados y Convenios Internacionales a los que México está adherido;
 
-III. Incorporar el enfoque de derechos humanos y la perspectiva de género de manera integral y transversal a la planeación estatal del desarrollo, el Presupuesto de Egresos del Estado y el Sistema Estatal del Desempeño, así como en la programación institucional o sectorial, de conformidad con los programas derivados de los diversos tratados internacionales, leyes federales y estatales en materia de igualdad sustantiva y no discriminación, y acceso a una vida libre de violencia, en coordinación con la Federación y los municipios;
+II. Integrar una Contraloría Social de Género para establecer indicadores de impacto y evaluar los avances del mecanismo;
 
-IV. Diseñar, promover y ejecutar acciones y políticas con diferentes sectores públicos y sociales, con el propósito de prevenir, atender, sancionar y erradicar la discriminación y la violencia derivada de ésta, en el Estado;
+III. Gestionar y administrar los recursos federales y estatales a favor de la igualdad sustantiva entre mujeres y hombres, así como celebrar convenios con Organismos Internacionales para la planeación y ejecución de políticas y programas que aseguren el cumplimiento de los mecanismos de adelanto para las mujeres;
 
-V. Diseñar, ejecutar, y en su caso administrar, los instrumentos diagnósticos, estadísticos, normativos y reglamentarios en materia de igualdad sustantiva en Jalisco;
+IV. Ejercer las atribuciones que la Constitución Política y legislación federal establece para los Estados, así como las atribuciones descentralizadas por la Federación hacia los Estados, en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
 
-VI. Vigilar la generación de información pública, la rendición de cuentas y la transparencia gubernamental con relación a los derechos humanos y la perspectiva de género;
+V. Garantizar, proteger, promover y respetar los derechos humanos de todas las personas que habitan o transitan el estado, con especial énfasis en las mujeres, niñas, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno del Estado de Jalisco y de los mecanismos institucionales necesarios para su efectivo cumplimiento;
 
-VII. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos y de personas, grupos o comunidades en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o condición migratoria, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
+VI. Incorporar el enfoque de derechos humanos y la perspectiva de género de manera integral y transversal a la planeación estatal del desarrollo, el Presupuesto de Egresos del Estado y el Sistema Estatal del Desempeño, así como en la programación institucional o sectorial, de conformidad con los programas derivados de los diversos tratados internacionales, leyes federales y estatales en materia de igualdad sustantiva entre mujeres y hombres y no discriminación, y acceso a una vida libre de violencia, en coordinación con la Federación y los municipios;
 
-VIII. Coadyuvar con la Secretaría de Planeación y Participación Ciudadana en la incorporación del eje transversal de derechos humanos, igualdad de género y acceso de las mujeres a una vida libre de violencia dentro del plan estatal de desarrollo correspondiente;
+VII. Diseñar, promover y ejecutar acciones y políticas con diferentes sectores públicos y sociales, con el propósito de prevenir, atender, sancionar y erradicar la discriminación y la violencia contra las mujeres en el Estado;
 
-IX. Coadyuvar con la Secretaría de la Hacienda Pública en la incorporación del enfoque integrado de derechos humanos e igualdad de género dentro de todo el presupuesto de egresos del Estado de Jalisco;
+VIII. Diseñar, ejecutar, y en su caso administrar, los instrumentos diagnósticos, estadísticos, normativos y reglamentarios en materia de igualdad sustantiva entre mujeres y hombres en Jalisco;
 
-X. Capacitar, coordinar y acompañar las redes de institucionalización de la igualdad sustantiva en las instituciones públicas del estado;
+IX. Vigilar la generación de información pública, la rendición de cuentas y la transparencia gubernamental con relación a los derechos humanos y la perspectiva de género;
 
-XI. Vigilar el cumplimiento y dictaminar la aplicación de las políticas de igualdad sustantiva en las acciones del estado. En el caso de los municipios y las instituciones descentralizadas, coadyuvar en dichas políticas;
+X. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos y de personas, grupos o comunidades en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o condición migratoria, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
 
-XII. Promover la coordinación y cooperación con los organismos o entes públicos de otras entidades federativas y de nivel internacional, que aseguren el cumplimiento de los objetivos en la materia en Jalisco;
+XI. Coadyuvar con la Secretaría de Planeación y Participación Ciudadana en la incorporación del eje transversal de derechos humanos, igualdad de género y acceso de las mujeres a una vida libre de violencia dentro del plan estatal de desarrollo correspondiente;
 
-XIII. Apoyar en la conformación y funcionamiento de consejos, institutos, comités u órganos en materia de igualdad sustantiva;
+XII. Coadyuvar con la Secretaría de la Hacienda Pública en la incorporación del enfoque integrado de derechos humanos e igualdad de género dentro de todo el presupuesto de egresos del Estado de Jalisco;
 
-XIV. Vincular, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil, en la elaboración, ejecución y evaluación de políticas de igualdad sustantiva;
+XIII. Capacitar, coordinar y acompañar las redes de institucionalización de la igualdad sustantiva entre mujeres y hombres en las instituciones públicas del estado;
 
-XV. Producir, comunicar y socializar información sobre el estado de la igualdad sustantiva en Jalisco;
+XIV. Vigilar el cumplimiento y dictaminar la aplicación de las políticas de igualdad sustantiva entre mujeres y hombres en las acciones del estado. En el caso de los municipios y las instituciones descentralizadas, coadyuvar en dichas políticas;
 
-XVI. Prestar capacitación, asesoría y asistencia técnica a entes públicos municipales y estatales, sobre igualdad sustantiva;
+XV. Promover la coordinación y cooperación con los organismos o entes públicos de otras entidades federativas y de nivel internacional, que aseguren el cumplimiento de los objetivos en la materia en Jalisco;
 
-XVII. Suscribir los convenios necesarios con organismos internacionales, federales, paraestatales y municipales, en materias de igualdad sustantiva, derechos humanos, grupos en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, de conformidad con las disposiciones jurídicas aplicables;
+XVI. Apoyar en la conformación y funcionamiento de consejos, institutos, comités u órganos en materia de igualdad sustantiva entre mujeres y hombres;
 
-XVIII. Coadyuvar e impulsar la armonización de los diversos programas en materia de igualdad sustantiva, con el objetivo de prevenir y eliminar la discriminación y violencia en el Estado de Jalisco;
+XVII. Vincular, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil, en la elaboración, ejecución y evaluación de políticas de igualdad sustantiva entre mujeres y hombres;
 
-XIX. Coordinar la planeación de proyectos y programas en materia de igualdad sustantiva, derechos humanos, así como en la atención para prevenir, atender, sancionar y erradicar la violencia y discriminación contra mujeres y niñas, grupos en situación de desigualdad por su edad, etnia, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
+XVIII. Producir, comunicar y socializar información sobre el estado de la igualdad sustantiva entre mujeres y hombres en Jalisco;
 
-XX. Coadyuvar en el diseño, integración, y ejecución, de manera conjunta con los sistemas estatales, institutos y organismos, de mecanismos para identificar y analizar las problemáticas derivadas de la desigualdad, con la finalidad de llevar a cabo el diseño efectivo de políticas públicas;
+XIX. Prestar capacitación, asesoría y asistencia técnica a entes públicos municipales y estatales, sobre igualdad sustantiva entre mujeres y hombres;
 
-XXI. Ejecutar una política de coordinación entre los diferentes órganos de gobierno, así como los sectores social y privado para, la promoción de acciones medidas de inclusión y nivelación y políticas dirigidas a mejorar la condición y posición de las personas en general y de mujeres y las niñas y población en situación de desigualdad en lo particular; y
+XX. Suscribir los convenios necesarios con organismos internacionales, federales, paraestatales y municipales, en materias de igualdad sustantiva entre mujeres y hombres, derechos humanos, grupos en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, de conformidad con las disposiciones jurídicas aplicables;
 
-XXII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XXI. Coadyuvar e impulsar la armonización de los diversos programas en materia de igualdad sustantiva entre mujeres y hombres, con el objetivo de prevenir y eliminar la discriminación y violencia en el Estado de Jalisco;
+
+XXII. Coordinar la planeación de proyectos y programas en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos, así como en la atención para prevenir, atender, sancionar y erradicar la violencia y discriminación contra mujeres y niñas, grupos en situación de desigualdad por su edad, etnia, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
+
+XXIII. Coadyuvar en el diseño, integración, y ejecución, de manera conjunta con los sistemas estatales, institutos y organismos, de mecanismos para identificar y analizar las problemáticas derivadas de la desigualdad, con la finalidad de llevar a cabo el diseño efectivo de políticas públicas;
+
+XXIV. Ejecutar una política de coordinación entre los diferentes órganos de gobierno, así como los sectores social y privado para, la promoción de acciones medidas de inclusión y nivelación y políticas dirigidas a mejorar la condición y posición de las personas en general y de mujeres y las niñas y población en situación de desigualdad entre mujeres y hombres en lo particular; y
+
+XXV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 26.
 
@@ -2532,3 +2540,49 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27228/LXII/19 QUE MODIFICA EL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
+
+## TRANSITORIOS
+
+PRIMERO. Se instruye a las dependencias competentes a modificar el reglamento de la Secretaría de Igualdad Sustantiva en los siguientes puntos:
+
+1. Nombre de la Secretaría para quedar como: Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+2. Crear la Subsecretaría de las Mujeres y la Igualdad de Género que se encargará de llevar a cabo las políticas públicas derivadas de los planes y programas estatales, así como el cumplimiento de los acuerdos internacionales suscritos por el Estado Mexicano, que faculta a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+3. Se faculta a la Subsecretaría de las mujeres y la Igualdad de Género para darle atención, seguimiento y continuidad a los compromisos y actividades que venía desarrollando el Instituto Jalisciense de las Mujeres.
+
+4. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A fin de garantizar que la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres alberge (sic) el mecanismo de adelanto para las mujeres (MAM) que le permitan dar cumplimiento a los compromisos internacionales como; la CEDAW, la Convención Interamericana Belem Do Pará, la Plataforma de Acción de Beijing, los Consensos Regionales de DDHH de las Mujeres, así como las leyes generales y estatales de acceso de las mujeres a una vida libre de violencia; la extinción del Instituto Jalisciense de las Mujeres entrará en vigor una vez publicadas las reformas al reglamento mencionado, en el punto primero transitorio de este decreto.
+
+TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+CUARTO. Las funciones del Instituto Jalisciense de las Mujeres (IJM) serán asumidas por la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+Los asuntos en trámite ante el Instituto Jalisciense de las Mujeres (IJM) que se extingue, pasarán a la Secretaría señalada en el párrafo anterior, de conformidad con el presente decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías de Igualdad Sustantiva entre Mujeres y Hombres, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones se presten en forma ininterrumpida.
+
+QUINTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1° de enero al 31 de diciembre del año 2019.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense de las Mujeres (IJM), facultándole para desempeñar actos de administración, de dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense de las Mujeres (IJM), sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.
+
+SÉPTIMO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias o entidades que en su caso determine el Gobernador del Estado.
+
+OCTAVO. Las relaciones laborales que tenga el Instituto Jalisciense de las Mujeres (IJM) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+NOVENO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales, a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense de las Mujeres (IJM).
+
+DÉCIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, por lo que cualquier referencia al extinto Instituto Jalisciense de las Mujeres se entenderá hecha a dicha Secretaría de Igualdad Sustantiva.
+
+El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+DÉCIMO PRIMERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
