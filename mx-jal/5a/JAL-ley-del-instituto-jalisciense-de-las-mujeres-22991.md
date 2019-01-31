@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-las-mujeres-22991"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2018-09-13"
+last_updated: "2019-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 27228/LXII/19, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2019 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 29 de diciembre de 2001.
 
@@ -710,3 +712,55 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
+
+P.O. 31 DE ENERO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS DEL “DECRETO 27228/LXII/19 QUE MODIFICA EL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto Jalisciense de las Mujeres.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el organismo público descentralizado denominado Instituto Jalisciense de las Mujeres (IJM).
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27228/LXII/19 QUE MODIFICA EL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
+
+PRIMERO. Se instruye a las dependencias competentes a modificar el reglamento de la Secretaría de Igualdad Sustantiva en los siguientes puntos:
+
+1. Nombre de la Secretaría para quedar como: Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+2. Crear la Subsecretaría de las Mujeres y la Igualdad de Género que se encargará de llevar a cabo las políticas públicas derivadas de los planes y programas estatales, así como el cumplimiento de los acuerdos internacionales suscritos por el Estado Mexicano, que faculta a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+3. Se faculta a la Subsecretaría de las mujeres y la Igualdad de Género para darle atención, seguimiento y continuidad a los compromisos y actividades que venía desarrollando el Instituto Jalisciense de las Mujeres.
+
+4. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. A fin de garantizar que la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres alberge el mecanismo de adelanto para las mujeres (MAM) que le permitan dar cumplimiento a los compromisos internacionales como; la CEDAW, la Convención Interamericana Belem Do Pará, la Plataforma de Acción de Beijing, los Consensos Regionales de DDHH de las Mujeres, así como las leyes generales y estatales de acceso de las mujeres a una vida libre de violencia; la extinción del Instituto Jalisciense de las Mujeres entrará en vigor una vez publicadas las reformas al reglamento mencionado, en el punto primero transitorio de este decreto.
+
+TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+CUARTO. Las funciones del Instituto Jalisciense de las Mujeres (IJM) serán asumidas por la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+Los asuntos en trámite ante el Instituto Jalisciense de las Mujeres (IJM) que se extingue, pasarán a la Secretaría señalada en el párrafo anterior, de conformidad con el presente decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías de Igualdad Sustantiva entre Mujeres y Hombres, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones se presten en forma ininterrumpida.
+
+QUINTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1° de enero al 31 de diciembre del año 2019.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense de las Mujeres (IJM), facultándole para desempeñar actos de administración, de dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense de las Mujeres (IJM), sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.
+
+SÉPTIMO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias o entidades que en su caso determine el Gobernador del Estado.
+
+OCTAVO. Las relaciones laborales que tenga el Instituto Jalisciense de las Mujeres (IJM) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+NOVENO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales, a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense de las Mujeres (IJM).
+
+DÉCIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, por lo que cualquier referencia al extinto Instituto Jalisciense de las Mujeres se entenderá hecha a dicha Secretaría de Igualdad Sustantiva.
+
+El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+DÉCIMO PRIMERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
