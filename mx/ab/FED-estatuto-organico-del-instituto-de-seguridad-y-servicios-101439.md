@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-101439
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-18"
-last_updated: "2018-01-18"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-06-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 1 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 18 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 18 de junio de 2014.
 
@@ -2100,3 +2100,23 @@ La estructura de la Subdirección de Innovación y Calidad de la Secretaría Gen
 Esta Subdirección, continuará realizando las atribuciones y funciones que venía desempeñando, por lo que se transfiere con todos sus recursos humanos, materiales y financieros y seguirán ocupando los espacios físicos en los que operan actualmente.
 
 Cuarto.- Una vez agotados los procedimientos establecidos en los Lineamientos por los que se establece el proceso para la emisión de instrumentos normativos del ISSSTE, así como la integración y funcionamiento del COMERI, remítase el presente instrumento para su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 26.02.E.2018 DE LA JUNTA DIRECTIVA POR EL QUE SE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+PRIMERO. Este Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 18 de junio de 2014, con sus modificaciones.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan en lo dispuesto en el presente Estatuto.
+
+CUARTO. El presente Estatuto será inscrito en el Registro Público de Organismos Descentralizados de acuerdo con lo señalado en el artículo 25 la (sic) Ley Federal de las Entidades Paraestatales hasta que dicho Registro entre en funciones.
+
+QUINTO. Los asuntos pendientes o en trámite al entrar en vigor este Estatuto, que conforme al mismo deban pasar de una unidad a otra u otras, continuarán su trámite y serán resueltos conforme a las normas vigentes al momento de su inicio, por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+SEXTO. Las modificaciones a la estructura orgánica de las unidades del Instituto que se deriven de la entrada en vigor del presente Decreto se realizarán conforme a las disposiciones emitidas por la Secretaría de la Función Pública, y demás instancias que correspondan.
+
+SÉPTIMO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+OCTAVO. El Instituto, por conducto de la Dirección Normativa de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas atribuciones establecidas para éstas.
