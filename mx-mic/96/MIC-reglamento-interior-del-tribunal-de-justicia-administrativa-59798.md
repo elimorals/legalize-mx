@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-tribunal-de-justicia-administrativa-597
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2013-03-15"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -623,6 +623,26 @@ X. Las demás que señale el Código, este Reglamento, los Acuerdos de la Sala y
 
 Para el eficiente desempeño de sus atribuciones, la Secretaría Administrativa contará con asesores contables, personal de informática, de servicios generales y de seguridad.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 38 BIS. Son atribuciones de la Subsecretaría Administrativa, las siguientes:
+
+I. Coordinar que la incorporación de servidores públicos se efectué bajo procesos de calidad, eficiencia y transparencia;
+
+II. Implementar las acciones necesarias y suficientes que permitan que los sueldos y demás prestaciones del personal del Tribunal se realice de manera oportuna a través de medios electrónicos y en apego a los calendarios establecidos, así como a las disposiciones vigentes relativas a la materia;
+
+III. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores, dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme a las disposiciones jurídicas respectivas;
+
+IV. Supervisar la difusión y el cumplimiento de la normatividad laboral;
+
+V. Supervisar la operación de las prestaciones sociales y económicas del personal del Tribunal;
+
+VI. Coordinar conjuntamente con el Secretario Administrativo, la administración, operación y control de la nómina, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos, el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónicas y recibos de nómina digital;
+
+VII. Suplir al Secretario Administrativo en todas sus funciones en ausencia temporal o definitiva de éste; y,
+
+VIII. Las demás que le sean conferidas por el Secretario Administrativo, y las que expresamente le atribuyan este Reglamento; así como las demás disposiciones jurídicas aplicables.
+
 ### CAPÍTULO NOVENO. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 39.
@@ -1043,8 +1063,14 @@ C E R T I F I C A
 
 QUE EL PRESENTE REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO, FUE APROBADO POR EL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO, EN SESIÓN DEL DÍA 1° PRIMERO DE FEBRERO DE 2008 DOS MIL OCHO, POR UNANIMIDAD DE VOTOS DE LOS MAGISTRADOS ARTURO BUCIO IBARRA, MARÍA DEL CARMEN GONZÁLEZ VÉLEZ ALDANA Y SERGIO FLORES NAVARRO.- MORELIA, MICHOACÁN DE OCAMPO, A 1° PRIMERO DE FEBRERO DE 2008 DOS MIL OCHO.- CONSTE. (Firmado).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 15 DE MARZO DE 2013.
 
-EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN DE OCAMPO.
+> <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN DE OCAMPO.]</small>
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE (SIC) ADICIONA EL ARTÍCULO 38 BIS AL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El Presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
