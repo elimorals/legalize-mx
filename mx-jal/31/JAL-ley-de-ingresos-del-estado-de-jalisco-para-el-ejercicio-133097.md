@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-133097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2018-12-22"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 22 de diciembre de 2018.
 
@@ -1853,9 +1851,11 @@ de redes de transporte: $575.00
 
 Se cancelará la tarjeta de circulación con que se haya dotado al vehículo automotor y eléctrico, cuando exista cambio de propietario, domicilio, número de motor, color, o por cualquier otra circunstancia que implique reposición de dicha tarjeta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 25.
 
-Por los servicios de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos administrados por el Instituto Jalisciense de Asistencia Social (IJAS), como una función de derecho público, de conformidad con el artículo 56 fracción IX del Código de Asistencia Social del Estado de Jalisco, se estará a lo siguiente:
+Por los servicios de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos administrados por la Secretaría de Administración, como una función de derecho público, se estará a lo siguiente:
 
 I. Por día que transcurra se causarán las siguientes tarifas:
 
@@ -1873,7 +1873,7 @@ e) Autobús urbano (normales), volteo, tractor sin
 
 remolque, midibuses, Camión tipo Torthon,
 
-Autobuses Urbanos “Ecológico”, mudanza y Rabón: $167.00
+Autobuses Urbanos "Ecológico", mudanza y Rabón: $167.00
 
 f) Autobuses foráneos, de Cajas (remolques): $203.00
 
@@ -1905,13 +1905,31 @@ III. A los vehículos de servicio particular adaptados para personas con capacid
 
 IV. Quedan exentas del pago de los derechos a que se refiere el presente artículo:
 
-a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por el Instituto Jalisciense de Asistencia Social. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso; y
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso; y
 
 b) Las personas físicas propietarias de los bienes que son sujetos al procedimiento administrativo en materia aduanera, que se dejen sin efectos por autoridad administrativa o jurisdiccional competente.
 
-c) Tratándose de Instituciones de Asistencia Social Privada, legalmente reconocidas por el Instituto, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
-La exención para los incisos que anteceden aplicará hasta 15 días hábiles posteriores a la fecha de notificación por la autoridad competente, de que el vehículo, mercancía u objeto de que se trate, se encuentra en los depósitos del Instituto Jalisciense de Asistencia Social. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
+c) Tratándose de instituciones de asistencia social privada, legalmente reconocidas por la Secretaría del Sistema de Asistencia Social, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
+
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 1 DE FEBRERO DE 2019)</small>
+
+La exención para los incisos que anteceden aplicará hasta 15 días hábiles posteriores a la fecha de notificación por la autoridad competente, de que el vehículo, mercancía u objeto de que se trate, se encuentra en los depósitos administrados por la Secretaría de Administración. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+En el caso de que los propietarios de bienes puestos en depósito que adeuden 180 días o más por servicios de guarda y custodia, sin que hayan efectuado el pago de las contraprestaciones establecidas en el presente artículo, la Secretaría de Administración procederá a formular la liquidación correspondiente. Los propietarios de bienes deberán efectuar el pago dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se hubiera efectuado el pago la Secretaría de la Hacienda Pública dará inicio al procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Las contribuciones que se generen una vez iniciado el procedimiento administrativo de ejecución, incluyendo cualquier otro adeudo, se harán efectivos, junto con el crédito inicial, en términos de lo establecido por el artículo 130 del Código Fiscal del Estado de Jalisco.
 
 #### SECCIÓN QUINTA
 
@@ -3209,7 +3227,7 @@ IV. Tratándose de operaciones de intercambio de tasa de interés (swaps), simil
 
 Los organismos públicos descentralizados y/o Municipios que cuenten con el aval o respaldo financiero del Estado en operaciones de deuda pública podrán así mismo realizar la contratación de estos instrumentos derivados siempre que el proceso de adquisición sea conducido o coordinado por la Secretaría de Hacienda del Estado y tenga por objeto la cobertura de operaciones de crédito público contraídas con una autorización previa del Congreso del Estado.
 
-> <small>[N. DE E. VÉASE ANEXOS EN LA SECCIÓN IX DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 73 A LA 84.]</small>
+> <small>[N. DE E. VÉASE ANEXO EN LA SECCIÓN IX DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINA 73.]</small>
 
 Salón de Sesiones del Congreso del Estado
 
@@ -3250,3 +3268,105 @@ El Secretario General de Gobierno
 JUAN ENRIQUE IBARRA PEDROZA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27229/LXII/19 QUE EXPIDE EL CÓDIGO DE ASISTENCIA SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019, DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Código de Asistencia Social contenido en el Decreto número 17002, así como sus modificaciones.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO. Las funciones del Instituto Jalisciense de Asistencia Social (IJAS) relacionadas con las labores de asistencia social y beneficencia, serán asumidas por la Secretaría del Sistema de Asistencia Social.
+
+Las funciones relacionadas con los depósitos vehiculares y administración de bienes serán absorbidas por la Secretaría de Administración y la captación de recursos estará a cargo de la Secretaría de la Hacienda Pública.
+
+La titularidad, administración y funciones de las dependencias directas del Instituto Jalisciense de Asistencia Social pasarán al Sistema Estatal para el Desarrollo Integral de la Familia conforme a la tabla siguiente:
+
+Dependencia Directa Entidad que se hará
+
+cargo de las funciones
+
+Unidad Asistencial
+
+para Indigentes
+
+(UAPI)
+
+Centro de Terapias
+
+Especiales
+
+Recintos Funerarios Sistema Estatal para
+
+el Desarrollo Integral
+
+Centros de Capacitación de la Familia (DIF)
+
+para el Trabajo
+
+Asilo Leónidas
+
+K. Demus
+
+Los asuntos en trámite relacionados con las funciones sustantivas del Instituto Jalisciense de Asistencia Social que se extingue y sus dependencias directas, pasarán a las secretarías y entidades señaladas en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, así como del Sistema Estatal para el Desarrollo Integral de la Familia, todos del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que las labores de asistencia social y beneficencia; las funciones relacionadas con los depósitos vehiculares y administración de bienes; así como los servicios y funciones de las dependencias directas; se presten en forma ininterrumpida.
+
+QUINTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo quinto transitorio del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre del año 2019.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo, incluidos los procesos jurisdiccionales que se encuentren en trámite.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS).
+
+SÉPTIMO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), pasarán a las dependencias que, en su caso, determine el Gobernador del Estado, garantizando el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación.
+
+OCTAVO. Las relaciones laborales que tenga el Instituto Jalisciense de Asistencia Social (IJAS) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tomando en consideración que los empleados de dicho organismo son servidores públicos como lo prevé la Constitución Política del Estado de Jalisco.
+
+NOVENO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense de Asistencia Social.
+
+DÉCIMO. La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social, y en caso de encontrar alguna responsabilidad, deberá ejercer las acciones correspondientes ante las autoridades competentes.
+
+DÉCIMO PRIMERO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de (sic) Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Organismo Público
+
+Descentralizado “Instituto
+
+Jalisciense de Asistencia
+
+Social” (En materia de las Secretaría del
+
+labores de asistencia social Sistema de
+
+y/o beneficencia) Asistencia Social
+
+Organismo Público
+
+Descentralizado “Instituto
+
+Jalisciense de Asistencia
+
+Social” (En materia de
+
+depósitos vehiculares y Secretaría de
+
+administración de bienes) Administración
+
+Organismo Público
+
+Descentralizado “Instituto
+
+Jalisciense de Asistencia
+
+Social” (En materia de captación Secretaría de la
+
+de recursos) Hacienda Pública
+
+DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
