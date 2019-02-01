@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2019-01-04"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -889,11 +889,11 @@ El derecho de iniciar propuestas o proyectos de acuerdos y resoluciones de cabil
 
 Los funcionarios, empleados y servidores públicos de la administración pública municipal, en su caso, ejercerán el derecho de formular iniciativas, por conducto del Presidente Municipal.
 
-INICIATIVA CIUDADANA.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 68.
 
-Los ciudadanos mexicanos, residentes del Municipio de Ensenada, en pleno ejercicio de sus derechos civiles y políticos, podrán promover ante el Ayuntamiento proyectos de acuerdos y Resoluciones de Cabildo, en los términos que disponga la reglamentación de la materia. Los proyectos, acuerdos y resoluciones que presenten los ciudadanos podrán hacerlo ante cualesquiera de los integrantes del Ayuntamiento, quienes para efectos de que puedan ser presentados al pleno del Ayuntamiento, deberán observar el procedimiento que establece el artículo 70 del presente Reglamento.
+Los ciudadanos mexicanos, residentes del Municipio de Ensenada, en pleno ejercicio de sus derechos civiles y políticos, podrán promover ante el Ayuntamiento iniciativas ciudadanas, en los términos que disponga el Reglamento de Participación Ciudadana y Vecinal para el Municipio de Ensenada.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2468,3 +2468,9 @@ P.O. 4 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 59 FRACCIÓN II DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PROYECTO DE PUNTO DE ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 68 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
