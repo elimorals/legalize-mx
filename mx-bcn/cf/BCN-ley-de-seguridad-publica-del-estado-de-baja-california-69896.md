@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2018-07-13"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -853,7 +853,7 @@ En los términos de la Ley General del Sistema Nacional de Seguridad Pública, s
 
 Esta base de datos se integrará dentro del Sistema Único de Información Criminal, la cual se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública.
 
-Las Instituciones antes mencionadas son las que deberán de ingresar la información a que se refiere el párrafo anterior.
+Las Instituciones antes mencionadas son la (sic) que deberán de ingresar la información a que se refiere el párrafo anterior.
 
 Tales datos deberán ser capturados en los registros del Sistema Único de Información Criminal que para tal efecto establezca el Sistema Nacional de Seguridad Pública, debiendo de informarse de manera mensual a la Secretaría las actividades realizadas al respecto.
 
@@ -959,9 +959,23 @@ La Secretaría, deberá presentar al menos cada seis meses a la Procuraduría y 
 
 Para efectos de la información a que se refieren los Capítulos Noveno y Décimo de este Título, el Ministerio Público sólo podrá reservarse la información que proceda conforme a las disposiciones legales aplicables.
 
+CAPÍTULO ÚNDECIMO
+
+DEL PADRÓN DE ARRENDAMIENTOS
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 66.
 
-La Secretaría estará obligada a conformar, administrar y mantener actualizado un Padrón de Arrendamientos en el Estado, con el objeto de contar con una base de datos, que sea de apoyo a las diversas autoridades en materia de investigación y procuración de justicia; así como a las autoridades judiciales. Los particulares deberán de proporcionar la información en los términos de la presente Ley y el Reglamento correspondiente, la Secretaría deberá entregar al particular constancia por escrito del registro.
+La Secretaría estará obligada a conformar, administrar y mantener actualizado un Padrón de Arrendamientos en el Estado, con el objeto de contar con una base de datos, que sea de apoyo a las diversas autoridades en materia de investigación y procuración de justicia; así como a las autoridades judiciales. Las personas que deberán proporcionar la información en los términos de la presente Ley y el Reglamento correspondiente son:
+
+I.- El propietario del inmueble o quien se ostente como tal;
+
+II.- El poseedor debidamente reconocido, y
+
+III.- El apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
+
+La Secretaría deberá entregar a la persona que proporcione la información, constancia por escrito del registro.
 
 ###### ARTÍCULO 67.
 
@@ -969,7 +983,9 @@ El Padrón de Arrendamientos deberá contener por lo menos, la información sigu
 
 I.- Nombre del o los arrendadores;
 
-II.- Nombre del o los arrendatarios;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+II.- Nombre del o los arrendatarios y en caso de intervenir, nombre del fiador, garante, deudor solidario;
 
 III.- Identificación oficial de los contratantes a que se refieren las fracciones anteriores;
 
@@ -977,11 +993,17 @@ IV.- Copia del Contrato de Arrendamiento; y,
 
 V.- En su caso la información relativa a la localización y tipo de inmueble.
 
-La información respecto al padrón de arrendatarios, será para uso exclusivo de la Secretaría, debiéndose considerar como información confidencial, en los términos de la Ley de Acceso a la Información Pública para el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+VI.- En su caso, copia del poder notarial del apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+La información respecto al padrón de arrendamientos, será para el uso exclusivo de la Secretaría, debiéndose considerar como información clasificada como confidencial, en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 ## TÍTULO QUINTO. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN Y CÓMPUTO DEL ESTADO
 
-### CAPÍTULO UNDÉCIMO. DEL PADRÓN DE ARRENDAMIENTOS
+### CAPÍTULO PRIMERO. DEL SERVICIO DE ASISTENCIA TELEFÓNICA
 
 ###### ARTÍCULO 68.
 
@@ -1013,7 +1035,7 @@ La coordinación operativa prevista en el presente Capítulo, entre las distinta
 
 La Secretaría deberá establecer la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio de Asistencia Telefónica.
 
-### CAPÍTULO PRIMERO. DEL SERVICIO DE ASISTENCIA TELEFÓNICA
+### CAPÍTULO SEGUNDO. DEL SERVICIO DE DENUNCIA ANÓNIMA
 
 ###### ARTÍCULO 71.
 
@@ -1031,13 +1053,13 @@ La prestación del servicio de denuncia anónima “089”, tendrá carácter pe
 
 La Secretaría deberá establecer la coordinación necesaria con aquellas autoridades federales o del extranjero, necesarias para la atención de las denuncias recibidas a través del servicio de denuncia anónima, que sean de su competencia.
 
-### CAPÍTULO SEGUNDO. DEL SERVICIO DE DENUNCIA ANÓNIMA
+### CAPÍTULO TERCERO. DEL MONITOREO Y VIDEO VIGILANCIA
 
 ###### ARTÍCULO 73.
 
 La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, prestará el servicio de monitoreo y operación de los sistemas de video vigilancia y de cámaras, así como de ubicación de unidades; dicho servicio se prestará de manera unificada con las Instituciones Policiales en el Estado y sus Auxiliares participantes previstas en los artículos 7 y 8 de la presente Ley. Los Ayuntamientos deberán integrar a estos Centros cualquier sistema de cámaras, video vigilancia o sistemas de ubicación geográfica de las unidades con que operen.
 
-### CAPÍTULO TERCERO. DEL MONITOREO Y VIDEO VIGILANCIA
+### CAPÍTULO CUARTO. DE LA RED ESTATAL DE TELECOMUNICACIONES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 74.
 
@@ -1049,7 +1071,7 @@ La Secretaría, en coordinación con el Sistema Nacional de Seguridad Pública e
 
 ## TÍTULO SEXTO. DELITOS CONTRA EL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO CUARTO. DE LA RED ESTATAL DE TELECOMUNICACIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 76.
 
@@ -1251,7 +1273,7 @@ La Secretaría podrá solicitar a la Procuraduría y al Ayuntamiento que corresp
 
 ## TÍTULO OCTAVO. DE LA PARTICIPACIÓN DE LA COMUNIDAD Y LA PREVENCIÓN DEL DELITO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### ARTÍCULO 92.
 
@@ -1325,7 +1347,7 @@ El Consejo Ciudadano y los Comités Ciudadanos Municipales de Seguridad Pública
 
 El Ejecutivo Estatal, a través de la Secretaría y los Ayuntamientos, fomentarán la colaboración y participación de los organismos de la sociedad civil, asociaciones y sociedades de carácter privado, así como de la ciudadanía en general, en los correspondientes programas preventivos y de seguridad pública.
 
-### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN DEL DELITO
 
 ###### ARTÍCULO 96.
 
@@ -1344,10 +1366,6 @@ Los Ayuntamientos y demás dependencias de la Administración Pública Estatal, 
 La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN DEL DELITO
-
-## TÍTULO NOVENO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO TERCERO. DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
@@ -1400,6 +1418,10 @@ ARTÍCULO 97 QUINQUIES.- Se entiende por participación ciudadana y comunitaria 
 SEGUNDA PARTE
 
 DEL DESARROLLO POLICIAL
+
+## TÍTULO NOVENO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 98.
 
@@ -1541,7 +1563,7 @@ En la Comisión habrá, en su caso, representantes de las unidades operativas de
 
 ## TÍTULO UNDÉCIMO. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. DE LA CARRERA POLICIAL
 
 ###### ARTÍCULO 112.
 
@@ -1587,7 +1609,7 @@ La Carrera Policial es independiente de los nombramientos para desempeñar cargo
 
 En términos de las disposiciones aplicables, los titulares de las Instituciones Policiales podrán designar a los Miembros en cargos administrativos o de dirección en la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlos libremente, respetando su grado policial y sus derechos inherentes a la carrera policial.
 
-### CAPÍTULO PRIMERO. DE LA CARRERA POLICIAL
+### CAPÍTULO SEGUNDO. DE LA SELECCIÓN
 
 ###### ARTÍCULO 114.
 
@@ -1595,7 +1617,7 @@ La selección es el proceso que consiste en elegir, de entre los aspirantes que 
 
 Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias correspondientes sobre los aspirantes aceptados.
 
-### CAPÍTULO SEGUNDO. DE LA SELECCIÓN
+### CAPÍTULO TERCERO. DEL INGRESO Y PERMANENCIA
 
 ###### ARTÍCULO 115.
 
@@ -1709,7 +1731,7 @@ XXII. Las demás que establezcan las disposiciones legales aplicables.
 
 Las instancias responsables del servicio de carrera policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus Miembros.
 
-### CAPÍTULO TERCERO. DEL INGRESO Y PERMANENCIA
+### CAPÍTULO CUARTO. DE LAS CONDECORACIONES Y ESTÍMULOS
 
 ###### ARTÍCULO 119.
 
@@ -1753,7 +1775,7 @@ Las retribuciones económicas, se determinaran en el Reglamento y se otorgarán 
 
 Los estímulos se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los elementos que se hayan distinguido.
 
-### CAPÍTULO CUARTO. DE LAS CONDECORACIONES Y ESTÍMULOS
+### CAPÍTULO QUINTO. DE LA PROMOCIÓN
 
 ###### ARTÍCULO 125.
 
@@ -1779,7 +1801,7 @@ Los beneficiarios de los policías ascendidos en los términos del presente art�
 
 En casos excepcionales, el Gobernador del Estado, a propuesta de las Comisiones, determinará la promoción del Miembro a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, tratándose de la Institución Policial a su mando.
 
-### CAPÍTULO QUINTO. DE LA PROMOCIÓN
+### CAPÍTULO SEXTO. DE LA ANTIGÜEDAD
 
 ###### ARTÍCULO 127.
 
@@ -1791,7 +1813,7 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia de 
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
-### CAPÍTULO SEXTO. DE LA ANTIGÜEDAD
+### CAPÍTULO SÉPTIMO. DE LA CERTIFICACIÓN
 
 ###### ARTÍCULO 128.
 
@@ -1819,7 +1841,7 @@ V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por
 
 VI. Cumplimiento de los deberes establecidos en esta Ley.
 
-### CAPÍTULO SÉPTIMO. DE LA CERTIFICACIÓN
+### CAPÍTULO OCTAVO. DE LA PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 130.
 
@@ -1829,7 +1851,7 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ## TÍTULO DUODÉCIMO. DE LAS CONDICIONES DEL SERVICIO
 
-### CAPÍTULO OCTAVO. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 131.
 
@@ -1875,9 +1897,13 @@ VI.- Servicio carrera policial: Sistema de carácter obligatorio y permanente, c
 
 VII.- Las demás que les confieran otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 131 BIS.- Sin perjuicio de que se establezcan otra clase de medidas dentro de sus respectivos ámbitos de competencia, los Ayuntamientos del Estado y, en su caso, el titular del Poder Ejecutivo, buscarán la coparticipación de recursos con la federación, con el fin de implementar y fortalecer el derecho a la seguridad social de los Miembros, sus familiares y dependientes económicos.
+
 ## TÍTULO DÉCIMO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. DE LOS DERECHOS
 
 ###### ARTÍCULO 132.
 
@@ -1909,7 +1935,7 @@ XI.- Ser recluido en áreas que garanticen su integridad física, tratándose de
 
 XII.- Ser sujetos de las condiciones del servicio, que señala el artículo anterior.
 
-### CAPÍTULO PRIMERO. DE LOS DERECHOS
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 133.
 
@@ -2025,7 +2051,7 @@ LIV. Las demás que establezcan las disposiciones legales aplicables.
 
 ## TÍTULO DÉCIMO CUARTO. RÉGIMEN DISCIPLINARIO
 
-### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
 
 ###### ARTÍCULO 134.
 
@@ -2045,7 +2071,7 @@ Las Instituciones Policiales exigirán de sus Miembros el más estricto cumplimi
 
 El régimen disciplinario se ajustará a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las sanciones y los procedimientos para su aplicación.
 
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
 ###### ARTÍCULO 137.
 
@@ -2109,13 +2135,13 @@ V.- Intencionalidad o negligencia; y
 
 VI.- Los demás elementos, circunstancias, condiciones y consecuencias que afecten la debida prestación del servicio.
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES
+### CAPÍTULO TERCERO. DE LA INVESTIGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 144.
 
 La Contraloría Interna, de manera previa a la substanciación del procedimiento de separación definitiva o de responsabilidad administrativa, deberá realizar fundada y motivadamente una investigación administrativa y suspender de manera preventiva al miembro cuando así lo considere conveniente, a efecto de realizar las diligencias para allegarse de elementos que le permitan, en su caso, solicitar a la Comisión, iniciar el procedimiento correspondiente.
 
-### CAPÍTULO TERCERO. DE LA INVESTIGACIÓN ADMINISTRATIVA
+### CAPÍTULO CUARTO. SUSPENSIÓN PREVENTIVA
 
 ###### ARTÍCULO 145.
 
@@ -2145,7 +2171,7 @@ En caso de que no se acredite la falta de un requisito de permanencia, o se incu
 
 No existirá el derecho del Miembro de percibir remuneración, cuando no preste sus servicios durante el tiempo en que haya sido privado de su libertad, con motivo de una investigación, averiguación previa o procedimiento penal de orden local, federal, u otro similar en el extranjero.
 
-### CAPÍTULO CUARTO. SUSPENSIÓN PREVENTIVA
+### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTÍCULO 151.
 
@@ -2291,7 +2317,7 @@ La Contraloría Interna y la Comisión podrán disponer la práctica de las dili
 
 La valoración de las pruebas se sujetará a las disposiciones del Código de Procedimientos Civiles para el Estado de Baja California.
 
-### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 174.
 
@@ -2339,7 +2365,7 @@ Las notificaciones surtirán sus efectos el día en que se practiquen.
 
 ## TÍTULO DÉCIMO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO Y LA INDEMNIZACIÓN
 
-### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 180.
 
@@ -2404,8 +2430,6 @@ II. Con la interposición de algún juicio o medio de defensa en contra de la re
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
-
-### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 186.
 
@@ -2652,3 +2676,15 @@ P.O. 13 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 131 BIS A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 259 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 66 Y 67 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: Las presentes reformas entraran en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
