@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-la-contraloria-del-1226
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-17"
-last_updated: "2018-07-04"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en el No. 46 del Periódico Oficial del Estado de Querétaro, el lunes 17 de julio de 2017.
 
@@ -73,9 +73,17 @@ VIII. Órganos Internos de Control: Son órganos auxiliares de la Secretaría, a
 
 IX. Reglamento: el presente Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro;
 
-X. Secretaría: la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro, y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XI. Secretario: el titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
+X. Secretaría: la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+XI. Secretario: el titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro, y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+XII. Subsecretario: el titular de la Subsecretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
 ### Capítulo II. La competencia y organización de la Secretaría
 
@@ -85,11 +93,33 @@ Al frente de la Secretaría estará el Secretario, quien para el desahogo de los
 
 A. Unidades administrativas:
 
-I. Dirección de Auditoría;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-II. Dirección de Prevención y Evaluación;
+I. Subsecretaría de la Contraloría;
 
-III. Dirección Jurídica y de Responsabilidad Administrativa;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I.I. Dirección de Auditoría;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I.II. Dirección de Investigación;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I.III. Dirección Jurídica y de Responsabilidad Administrativa, y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I.IV. Coordinación de Órganos Internos de Control.
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+II. Dirección de Prevención;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+III. Dirección de Mejora de la Gestión y Memoria Documental;
 
 IV. Dirección Administrativa;
 
@@ -145,9 +175,63 @@ X. Solicitar a las autoridades competentes, en los términos de las disposicione
 
 XI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Gobernador del Estado.
 
-### Capítulo IV. De las facultades de los Directores
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2019)</small>
 
-### Capítulo V. Dirección de Auditoría
+### Capítulo III A. De las facultades del Subsecretario de la Contraloría
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 7A. Al Subsecretario de la Contraloría le corresponde planear, dirigir, coordinar, controlar y evaluar las funciones de las unidades administrativas bajo su adscripción, con apego a las leyes, reglamentos y demás disposiciones aplicables, así como aquellas que expresamente le encomiende el Secretario.
+
+La Subsecretaría de la Contraloría, tendrá a su cargo las siguientes unidades administrativas:
+
+I. Dirección de Auditoría;
+
+II. Dirección de Investigación;
+
+III. Dirección Jurídica y de Responsabilidad Administrativa, y
+
+IV. Coordinación de Órganos Internos de Control.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 7B. Corresponde al Subsecretario, el ejercicio de las siguientes facultades:
+
+I. Coordinar a las unidades administrativas bajo su adscripción, para asegurar que las dependencias y entidades establezcan sistemas de control preventivo y de autocontrol, tendientes a eficientar, modernizar y transparentar la gestión pública estatal, así como la rendición de cuentas;
+
+II. Acordar con el Secretario el despacho de los asuntos de su competencia que requieran de su intervención;
+
+III. Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre su cumplimiento;
+
+IV. Proponer al Secretario el nombramiento de los titulares de las unidades administrativas bajo su cargo;
+
+V. Dirigir las acciones de coordinación de la Secretaría con las instancias de fiscalización superior federal y estatal, y con la Secretaría de la Función Pública, para su cumplimiento de sus responsabilidades;
+
+VI. Proponer al Secretario normas, acuerdos, lineamientos, reglas, bases de carácter técnico y demás disposiciones, en el ámbito de su competencia;
+
+VII. Coordinar la planeación, programación, organización, dirección y control de las unidades administrativas a su cargo, y establecer los mecanismos de integración e interrelación que propicien el adecuado desarrollo de las atribuciones de la Subsecretaría de la Contraloría;
+
+VIII. Autorizar el Plan Anual de Trabajo y de Control de Auditorías a cargo de la Dirección de Auditoría y Plan Anual de Trabajo y de Control de Auditorías de los Órganos Internos de Control;
+
+IX. Expedir certificaciones de los documentos, registros y demás información, que obren en los archivos de la unidad administrativa a su cargo;
+
+X. Proponer al Secretario las bases y principios de coordinación necesarios entre la Secretaría y los Sistemas Nacional, y Estatal Anticorrupción, así como el de Fiscalización, para el cumplimiento de las disposiciones en la materia;
+
+XI. Evaluar el cumplimiento de las funciones encomendadas a las direcciones y demás unidades administrativas adscritas a la Subsecretaría de la Contraloría a su cargo;
+
+XII. Suscribir los documentos relativos al ejercicio de facultades que legal y reglamentariamente le corresponden, de las que le hayan sido delegadas o de las que le corresponda por suplencia;
+
+XIII. Fungir como enlace en las auditorías que se practiquen al Poder Ejecutivo, sus dependencias y entidades, por la Auditoría Superior de la Federación y la Secretaría de la Función Pública;
+
+XIV. Fungir como enlace en las auditorías que se practiquen al Poder Ejecutivo y sus dependencias por la Entidad Superior de Fiscalización del Estado de Querétaro;
+
+XV. Informar a la autoridad competente, respecto de los asuntos, donde se desprendan elementos de una probable responsabilidad administrativa de servidores públicos o faltas de particulares, y
+
+XVI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+
+Para el adecuado cumplimiento de las funciones, facultades y atribuciones de la Subsecretaría, su titular tendrá las mismas facultades que de conformidad con el presente Reglamento correspondan a los Directores.
+
+### Capítulo IV. De las facultades de los Directores
 
 ###### Artículo 8.
 
@@ -161,13 +245,21 @@ I. Formular los anteproyectos de disposiciones para el ejercicio de las atribuci
 
 II. Vigilar que se dé cumplimiento a los ordenamientos legales y a las disposiciones reglamentarias o administrativas en el despacho de los asuntos de su competencia;
 
-III. Acordar con el Secretario y mantenerlo permanentemente informado de los asuntos que les correspondan a la Dirección a su cargo, así como del desempeño de las comisiones y funciones especiales que les confiera;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-IV. Informar oportunamente al Secretario de las irregularidades que conozcan;
+III. Acordar con el Secretario o Subsecretario según corresponda, y mantenerlo informado de los asuntos que les (sic) correspondan a la Dirección a su cargo, así como del desempeño de las comisiones y funciones especiales que les confiera;
 
-V. Resolver los asuntos de su competencia y someter a consideración del Secretario los que requieren de su aprobación;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-VI. Elaborar y proponer al Secretario los proyectos de creación, modificación o supresión de los departamentos o áreas a su cargo;
+IV. Informar al Secretario o Subsecretario según corresponda, de las irregularidades que conozcan;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+V. Resolver los asuntos de su competencia y someter a consideración del Secretario o Subsecretario según corresponda, que requieran de su aprobación;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+VI. Elaborar y proponer al Secretario o Subsecretario según corresponda los proyectos de creación, modificación o supresión de los departamentos o áreas a su cargo;
 
 VII. Coordinar, desempeñar y evaluar las funciones y actividades a su cargo, de conformidad con este reglamento y demás disposiciones legales, así como con las directrices que dicte el Secretario;
 
@@ -189,15 +281,15 @@ XIII. Informar a la autoridad competente, respecto de los asuntos, donde se desp
 
 XIV. Realizar, por sí o con el apoyo de los servicios técnicos que presten personas físicas o morales independientes, las auditorías, visitas de inspección, dictámenes y peritajes, incluyendo a las relativas a la obra pública y/o acciones; y
 
-(REPUBLICADA, P.O. 4 DE JULIO DE 2018)
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+XV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario o Subsecretario según corresponda.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2018)</small>
 
 Para el adecuado cumplimiento de las funciones, facultades y atribuciones de la Secretaría, los titulares de sus direcciones tendrán las mismas facultades que de conformidad con el presente Reglamento correspondan a sus subordinados.
 
-### Capítulo VI. Dirección de Prevención y Evaluación
+### Capítulo V. Dirección de Auditoría
 
 ###### Artículo 10.
 
@@ -205,21 +297,25 @@ La Dirección de Auditoría para el ejercicio de sus facultades, tendrá a su ca
 
 I. Departamento de Auditoría de Cumplimiento Financiero;
 
-II. Departamento de Auditoría a la Obra Pública;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-III. Departamento de Auditoría Integral, y
+II. Departamento de Auditoría a la Obra Pública; y
 
-IV. Departamento de Supervisión de los Órganos Internos de Control.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+III. Departamento de Auditoría Integral.
+
+IV. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 ###### Artículo 11.
 
 Al Director de Auditoría le corresponde el ejercicio de las siguientes facultades:
 
-I. Elaborar y someter a la autorización del Secretario en el mes de noviembre de cada año, el Plan Anual de Trabajo y de Control de Auditorías a cargo de la Dirección, así como vigilar su cumplimiento e informar de su avance al Secretario;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+I. Elaborar y someter a la autorización del Subsecretario en el mes de noviembre de cada año, el Plan Anual de Trabajo y Control Auditoría a cargo de la Dirección, así como vigilar su cumplimiento e informar de su avance al Subsecretario;
 
-II. Autorizar el Plan Anual de Trabajo y de Control de Auditorías de los Órganos Internos de Control, así como vigilar su cumplimiento e informar de su avance al Secretario y, en su caso, a los titulares de las dependencias y entidades;
+II. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 III. Ordenar y realizar a través de los Departamentos a su cargo o por conducto de los órganos internos de control, auditorías, revisiones y visitas de inspección a las dependencias y entidades, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo, así como para propiciar la consecución de los objetivos contenidos en sus planes, y detectar e inhibir la comisión de faltas administrativas y prácticas de corrupción, a efecto de:
 
@@ -241,13 +337,15 @@ V. Requerir información y documentación que considere necesaria para el ejerci
 
 VI. Suscribir los informes finales de resultados de las auditorías, visitas de inspección y revisiones que realicen los Departamentos de la Dirección;
 
-VII. Presentar al Secretario, los informes derivados de la práctica de auditorías, visitas de inspección y revisiones, así como del seguimiento de los resultados de las mismas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+VII. Presentar al Subsecretario, los informes derivados de la práctica de auditorías, visitas de inspección y revisiones, así como del seguimiento de los resultados de las mismas;
 
 VIII. Revisar la documentación e información derivada de las auditorías, revisiones y visitas de inspección, que se practiquen por sus departamentos, los órganos de control interno y demás entidades fiscalizadoras, y en caso de que se advierta el posible incumplimiento de las obligaciones de los servidores públicos o de particulares, turnarlo a las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-IX. Fungir previo acuerdo del Secretario, como enlace con la Auditoría Superior de la Federación, la Secretaría de la Función Pública y la Entidad Superior de Fiscalización del Estado de Querétaro, en las auditorías que éstas practiquen a las Dependencias y Entidades, de conformidad con lo que establezcan los convenios respectivos y colaborar con éstas en el marco del Sistema Nacional de Fiscalización;
+IX. Fungir como suplente del enlace en las auditorías que se practiquen al Poder Ejecutivo, sus dependencias y entidades, por la Auditoría Superior de la Federación y la Secretaría de la Función Pública;
 
 X. Coordinar el seguimiento a las observaciones determinadas en las auditorías y los resultados de las visitas de inspección y revisiones que practique, hasta su solventación y atención correspondiente;
 
@@ -263,11 +361,17 @@ XIV. Instruir la realización de pruebas de laboratorio respecto de obra públic
 
 XV. Ordenar la notificación de los actos relacionados con el ejercicio de sus facultades;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XVI. Emitir recomendaciones a las dependencias y entidades, así como acciones que propicien el fortalecimiento del sistema de control interno y la evaluación de la gestión gubernamental, a efecto de prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas; y
+XVI. Emitir recomendaciones a las dependencias y entidades, así como acciones que propicien el fortalecimiento del sistema de control interno y la evaluación de la gestión gubernamental, a efecto de prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas;
 
-XVII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XVII. Fungir como suplente del enlace en las auditorías que se practiquen al Poder Ejecutivo y sus dependencias por la Entidad Superior de Fiscalización del Estado de Querétaro , y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Subsecretario.
 
 ###### Artículo 12.
 
@@ -345,45 +449,63 @@ V. Apoyar en el desarrollo y seguimiento de las auditorías que practiquen la Au
 
 VI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 16.
 
-Al Jefe del Departamento de Supervisión de los Órganos Internos de Control, le corresponde el ejercicio de las siguientes facultades:
+Al Coordinador de Órganos Internos de Control, le corresponde el ejercicio de las siguientes facultades:
 
-I. Participar en la elaboración del Plan Anual de Trabajo y de Control de Auditorías de los Órganos Internos de Control y vigilar que los titulares de dichos órganos, lo presenten al Director para su autorización, a más tardar en el mes de noviembre de cada año;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I. Elaborar y someter a la autorización del Subsecretario en el mes de noviembre de cada año, el Plan Anual de Trabajo y de Control de Auditoría de los Órganos Internos de Control, así como vigilar su cumplimiento e informar de su avance al Subsecretario y, en su caso, a los titulares de las dependencias y entidades;
 
 II. Supervisar y dar seguimiento a las acciones encomendadas a los Órganos Internos de Control;
 
-III. Presentar al Director, un informe del estado que guardan los hallazgos y las recomendaciones relativas a las acciones correctivas, preventivas y de mejora en los procesos internos determinados en auditorías practicadas por los Órganos Internos de Control;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-IV. Designar al personal adscrito al Departamento para la realización de visitas de supervisión a los Órganos Internos de Control;
+III. Presentar al Director de Auditoría y al Subsecretario, un informe del estado que guardan los hallazgos y las recomendaciones relativas a las acciones correctivas, preventivas y de mejora en los procesos internos determinados en auditorías practicadas por los Órganos Internos de Control;
 
-V. Requerir a los Órganos Internos de Control, por sí o a través del personal designado adscrito al Departamento, la información relativa al ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-VI. Presentar al Director, propuestas de capacitación de los Órganos Internos de Control, que coadyuven a la mejora continua de la Administración Pública Estatal;
+IV. Designar al personal adscrito a la Coordinación para la realización de visitas de supervisión a los Órganos Internos de Control;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+V. Requerir a los Órganos Internos de Control, por sí o a través del personal designado adscrito a la Coordinación, la información relativa al ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+VI. Presentar al Subsecretario, propuestas de capacitación de los Órganos Internos de Control, que coadyuven a la mejora continua de la Administración Pública Estatal;
 
 VII. Elaborar el plan anual de visitas de inspección y supervisión a los Órganos Internos de Control, para constatar la debida atención y el estado que guardan los asuntos de su competencia;
 
-VIII. Solicitar, previa autorización del Director, apoyo al personal técnico o administrativo que corresponda, cuando existan controversias respecto de la actuación y resultados presentados por los titulares de los Órganos Internos de Control y el Jefe del Departamento de Supervisión de los Órganos Internos de Control, y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-IX. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
+VII. (SIC) Solicitar, previa autorización del Subsecretario, apoyo al personal técnico o administrativo que corresponda, cuando existan controversias respecto de la actuación y resultados presentados por los titulares de los Órganos Internos de Control y el Coordinador de Órganos Internos de Control, y
 
-### Capítulo VII. Dirección Jurídica y de Responsabilidad Administrativa
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+IX. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Subsecretario y el Director de Auditoría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2019)</small>
+
+### Capítulo VI. Dirección de Prevención
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 17.
 
-La Dirección de Prevención y Evaluación para el ejercicio de sus facultades, tendrá a su cargo los siguientes Departamentos:
+La Dirección de Prevención para el ejercicio de sus facultades, tendrá a su cargo los siguientes Departamentos:
 
-I. Departamento de Contraloría Social;
+I. Departamento de Contraloría Social, y
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+II. Departamento de Supervisión de los Procesos de Contratación de Adquisiciones y Obra Pública.
 
-II. Departamento de Supervisión de los Procesos de Contratación de Adquisiciones y Obra Pública, y
-
-III. Departamento de Evaluación de Entidades Paraestatales y Control Interno.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 18.
 
-Al Director de Prevención y Evaluación, le corresponde el ejercicio de las siguientes facultades:
+Al Director de Prevención, le corresponde el ejercicio de las siguientes facultades:
 
 I. Elaborar en el ámbito de su competencia y someter a la consideración del Secretario, las disposiciones administrativas que en materia de contraloría social, le corresponda emitir a la Secretaría, así como asesorar a las dependencias y entidades y a otros ejecutores de recursos, en las acciones que en esa materia realicen;
 
@@ -393,17 +515,15 @@ III. Promover acciones conjuntas con beneficiarios, organizaciones de la socieda
 
 IV. Establecer la coordinación con las unidades administrativas de la Secretaría, para fortalecer la contraloría social y, en su caso, los mecanismos de participación social;
 
-V. Designar a los Comisarios Públicos de las Entidades, de conformidad con las disposiciones aplicables;
+V. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+VI. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VI. Supervisar que los Comisarios Públicos rindan los informes y reportes sobre el desempeño de las entidades y analizar su contenido;
+VII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VII. Organizar, coordinar y supervisar el Sistema de Control Interno de las dependencias y entidades y la evaluación de la gestión gubernamental;
+VIII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VIII. Vigilar el cumplimiento de las normas de control interno de las dependencias y entidades;
-
-IX. Proporcionar apoyo y asesoría en materia de control interno y de evaluación de la gestión gubernamental, cuando así se lo soliciten;
+IX. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 X. (DEROGADA, P.O. 4 DE JULIO DE 2018)
 
@@ -413,35 +533,33 @@ XII. (DEROGADA, P.O. 4 DE JULIO DE 2018)
 
 XIII. (DEROGADA, P.O. 4 DE JULIO DE 2018)
 
-XIV. Representar a la Secretaría, por sí o a través de los Jefes de Departamento adscritos a la Dirección, ante los Órganos de Gobierno, Comités e instancias que la ley prevea, salvo disposición expresa en contrario del titular de la Secretaría;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+XIV. Representar a la Secretaría, por sí o a través de los Jefes de Departamento adscritos a la Dirección, ante los Comités e instancias que la ley prevea, salvo disposición expresa sea ejercida por el titular de la Secretaría;
 
 XV. Vigilar el cumplimiento de la normatividad aplicable en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, así como de la obra pública y el debido funcionamiento de los Comités correspondientes;
 
-XVI. Emitir los lineamientos a los que deberá sujetarse el desempeño de los Despachos de Auditores Externos encargados de auditar a las dependencias y entidades;
+XVI. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-XVII. Expedir las bases generales para la invitación y designación de los Despachos de Auditores Externos encargados de auditar a las dependencias y entidades;
+XVII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-XVIII. Proponer al Secretario los proyectos de normas, lineamientos, políticas, estrategias, instrumentos, metodologías, modelos o procedimientos de carácter general, así como sus modificaciones; que rijan el funcionamiento del Sistema de Control Interno y las funciones de los Comités de Control y Desempeño Institucional, a que deberán sujetarse las dependencias y entidades, para (sic) en su caso, sean aprobados;
+XVIII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XIX. Designar, evaluar y remover a los Despachos de Auditores Externos, a que se refiere la fracción XVII del presente artículo;
+XIX. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
 
 XX. Requerir la información, avisos, datos u otros documentos e informes relacionados con el ejercicio de sus atribuciones;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XXI. Emitir recomendaciones a las dependencias y entidades, así como acciones que propicien el fortalecimiento del sistema de control interno y la evaluación de la gestión gubernamental, a efecto de prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas;
+XXI. Emitir lineamientos y demás disposiciones de carácter general relativos al Sistema Público referido en la Ley General de Comunicación Social;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
 
 XXII. Administrar el Sistema Público local de gastos de Comunicación Social;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XXIII. Supervisar el seguimiento al cumplimiento de los Programas de Mejora Regulatoria; y
+XXIII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 XXIV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
 
@@ -497,11 +615,61 @@ X. Llevar el registro del Sistema Público local de gastos de Comunicación Soci
 
 XI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
-### Capítulo VIII. De la Dirección Administrativa
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2019)</small>
+
+### Capítulo VI A. Dirección de Mejora de la Gestión y Memoria Documental
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 20A. La Dirección de Mejora de la Gestión y Memoria Documental, para el ejercicio de sus facultades, tendrá a su cargo los siguientes Departamentos:
+
+I. Departamento de Evaluación, y
+
+II. Departamento de Mejora de la Gestión y Memoria Documental.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 20B. Al Director de Mejora de la Gestión y Memoria Documental, le corresponde el ejercicio de las siguientes facultades:
+
+I. Organizar, coordinar y supervisar el Sistema de Control Interno de las dependencias y entidades y la evaluación de la gestión gubernamental;
+
+II. Representar a la Secretaría en los órganos de gobierno de las entidades paraestatales y designar suplentes, cuando está función no se encuentre establecida expresamente al Secretario;
+
+III. Vigilar el cumplimiento de las normas de control interno de las dependencias y entidades;
+
+IV. Proporcionar apoyo y asesoría en materia de control interno y de evaluación de la gestión gubernamental, cuando así se lo soliciten;
+
+V. Designar a los Comisarios Públicos de las entidades, de conformidad con las disposiciones aplicables;
+
+VI. Designar, evaluar y remover a los Despachos de Auditores Externos, a que se refiere la fracción VIII del presente artículo;
+
+VII. Supervisar que los Comisarios Públicos rindan los informes y reportes sobre el desempeño de las entidades y analizar su contenido;
+
+VIII. Emitir los lineamientos a los que deberá sujetarse el desempeño de los Despachos de Auditores Externos encargados de auditar a las dependencias y entidades;
+
+IX. Expedir las bases generales para la invitación y designación de los Despachos de Auditores Externos encargados de auditar a las dependencias y entidades;
+
+X. Proponer al Secretario los proyectos de normas, lineamientos, políticas, estrategias, instrumentos, metodologías, modelos o procedimientos de carácter general, así como sus modificaciones; que rijan el funcionamiento del Sistema de Control Interno, funciones de los Comités de Control y Desempeño Institucional, a que deberán sujetarse las dependencias y entidades, para en su caso, sean aprobados;
+
+XI. Elaborar y someter a la consideración del Secretario, las disposiciones administrativas correspondientes a memorias documentales;
+
+XII. Coordinar y dar seguimiento a las memorias documentales, de acuerdo con las disposiciones administrativas correspondientes;
+
+XIII. Supervisar y dar seguimiento a libros blancos, de acuerdo con las disposiciones federales;
+
+XIV. Requerir la información, avisos, datos u otros documentos e informes relacionados con el ejercicio de sus atribuciones;
+
+XV. Emitir recomendaciones a las dependencias y entidades, así como acciones que propicien el fortalecimiento del sistema de control interno y la evaluación de la gestión gubernamental, a efecto de prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas;
+
+XVI. Supervisar el seguimiento al cumplimiento de los Programas de Mejora Regulatoria, en términos de lo dispuesto por la Ley General de Mejora Regulatoria, y
+
+XVII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 21.
 
-Al Jefe del Departamento de Evaluación de Entidades Paraestatales y Control Interno, le corresponde el ejercicio de las siguientes facultades:
+Al Jefe del Departamento de Evaluación, le corresponde el ejercicio de las siguientes facultades:
 
 I. Proponer al Director, conforme a las bases generales que al efecto se emitan, la invitación y designación de Despachos de Auditores Externos encargados de auditar a las dependencias y entidades, así como su remoción cuando proceda;
 
@@ -511,17 +679,15 @@ III. Vigilar el cumplimiento por parte de las entidades, de las disposiciones ap
 
 IV. Proponer al Director, la designación de los Comisarios Públicos de las entidades y supervisar las actividades de vigilancia y control que éstos realicen;
 
-V. Analizar y evaluar los programas de control interno y de administración de riesgos institucionales, así como de prevención, disuasión y detección de actos de corrupción en áreas o procesos susceptibles a los mismos e informar los resultados a las dependencias y entidades;
+V. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VI. Coordinar, organizar y supervisar el Sistema de Control Interno en las dependencias y entidades;
+VI. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VII. Proponer al Director los anteproyectos de normas, lineamientos, políticas, estrategias, instrumentos, metodologías, modelos o procedimientos de carácter general, así como sus modificaciones; que rijan el funcionamiento del Sistema de Control Interno y las funciones de los Comités de Control y Desempeño Institucional, a que deberán sujetarse las dependencias y entidades, para (sic) en su caso, sean aprobados por el Secretario;
+VII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-VIII. Proporcionar asesoría en materia de control interno a las entidades, cuando así lo soliciten;
+VIII. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-IX. Participar en los Comités de Control y Desempeño Institucional;
+IX. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
 
@@ -529,17 +695,145 @@ X. Supervisar el seguimiento al cumplimiento de los Programas de Mejora Regulato
 
 XI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
-### Capítulo IX. Unidad de Ética
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
-### Capítulo X. De las facultades de los Secretarios Particular y Técnico
+Artículo 21A. Al Jefe del Departamento de Mejora de la Gestión y Memoria Documental, le corresponde el ejercicio de las siguientes facultades:
+
+I. Analizar y evaluar los programas de control interno y de administración de riesgos institucionales, así como de prevención, disuasión y detección de actos de corrupción en áreas o procesos susceptibles a los mismos e informar los resultados a las dependencias y entidades;
+
+II. Coordinar, organizar y supervisar el Sistema de Control Interno en las dependencias y entidades;
+
+III. Proponer al Director los anteproyectos de normas, lineamientos, políticas, estrategias, instrumentos, metodologías, modelos o procedimientos de carácter general, así como sus modificaciones; que rijan el funcionamiento del Sistema de Control Interno y las funciones de los Comités de Control y Desempeño Institucional, a que deberán sujetarse las dependencias y entidades, para en su caso, sean aprobados por el Secretario;
+
+IV. Proporcionar asesoría en materia de control interno a las dependencias y entidades, cuando así lo soliciten;
+
+V. Participar en los Comités de Control y Desempeño Institucional;
+
+VI. Supervisar el seguimiento al cumplimiento de los programas de Mejora Regulatoria, en términos de lo dispuesto por la Ley General de Mejora Regulatoria;
+
+VII. Dar seguimiento a libros blancos y memorias documentales de las dependencias del Poder Ejecutivo y sus entidades, y
+
+VIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2019)</small>
+
+### Capítulo VI B. Dirección de Investigación
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 21B. La Dirección de Investigación, para el ejercicio de sus facultades tendrá a su cargo los siguientes departamentos:
+
+I. Departamento de Denuncias e Investigaciones A, y
+
+II. Departamento de Denuncias e Investigaciones B.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 21C. Al Director de Investigación, le corresponde el ejercicio de las siguientes facultades:
+
+I. Supervisar el seguimiento a las denuncias que se presenten por presuntas faltas administrativas cometidas por servidores públicos de las dependencias y entidades paraestatales, y particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas, así como supervisar su remisión, a través del sistema electrónico de seguimiento a denuncias, a los Órganos Internos de Control y a los Departamentos de Investigaciones, conforme a las disposiciones jurídicas aplicables;
+
+II. Supervisar la práctica de las investigaciones por presuntas faltas administrativas cometidas por servidores públicos de las dependencias, entidades paraestatales y particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Ordenar y/o solicitar a la Dirección de Auditoría la práctica de auditorías, revisiones y visitas de inspección a las dependencias y entidades paraestatales, que se requieran durante la investigación;
+
+IV. Citar al Denunciante, terceros o incluso a servidores públicos que puedan tener conocimiento de los hechos que puedan constituir faltas administrativas, a fin de constatar la veracidad de los mismos;
+
+V. Ordenar la práctica de las actuaciones, diligencias y notificaciones que se requieran en la investigación correspondiente;
+
+VI. Suscribir los acuerdos que correspondan, incluido el de conclusión y archivo del expediente, así como calificar las faltas administrativas como graves o no graves, y emitir el Informe de Presunta Responsabilidad Administrativa;
+
+VII. Suscribir los requerimientos de información, declaraciones, avisos, documentación y/o dictámenes relacionados con los hechos objeto de la investigación necesaria para el esclarecimiento de los hechos, con inclusión de aquéllas que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas; así como otorgar prórrogas en los términos que establezcan las disposiciones legales;
+
+VIII. Recibir y remitir el recurso de inconformidad que se interponga con motivo de la calificación de las faltas administrativas no graves, en términos de la Ley General de Responsabilidades Administrativas;
+
+IX. Interponer el recurso de inconformidad en contra de la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público, por parte de las Autoridades Substanciadoras o Resolutoras, según sea el caso;
+
+X. Ordenar la notificación de los actos administrativos emitidos en el ámbito de su competencia;
+
+XI. Remitir el Informe de Presunta Responsabilidad Administrativa, acompañando el expediente respectivo, a la autoridad substanciadora, cuando de las investigaciones realizadas se determine la existencia de actos u omisiones que constituyan presuntas faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas;
+
+XII. Solicitar a las autoridades competentes decreten las medidas cautelares que establecen las disposiciones legales;
+
+XIII. Aplicar las medidas de apremio que procedan conforme a las disposiciones jurídicas aplicables, previo apercibimiento; así como solicitar la colaboración de las autoridades competentes para su ejecución;
+
+XIV. Remitir los expedientes a la Dirección Jurídica y de Responsabilidad Administrativa, cuando de las investigaciones realizadas se presuma que el servidor público o particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas, hubieran incurrido en hechos delictivos;
+
+XV. Coordinar las investigaciones que lleven a cabo los Órganos Internos de Control y Departamentos de Investigación como consecuencia de denuncias tramitadas por dichos Órganos y Departamentos;
+
+XVI. Promover la capacitación en las materias a que se refiere este artículo, al personal de los Órganos Internos de Control y de los Departamentos de Investigación;
+
+XVII. Administrar la información de los sistemas informáticos que se requieran para el control y seguimiento de los asuntos de su competencia y establecer lazos institucionales para el intercambio y suministro de información conforme a las disposiciones jurídicas establecidas al efecto;
+
+XVIII. Expedir las constancias de identificación del personal que autorice para la práctica de visitas de inspección, verificación, notificación, requerimientos o cualquier otra diligencia relacionada con el ejercicio de sus facultades, y
+
+XIX. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario o el Subsecretario.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 21D. A los Jefes de los Departamentos de Denuncias e Investigaciones A y B, les corresponde el ejercicio de las siguientes facultades, respecto de los asuntos que se les encomienden:
+
+I. Recibir y tramitar las denuncias que se formulen en contra de los servidores públicos de las dependencias y entidades, así como en contra de particulares, que puedan constituir responsabilidades administrativas;
+
+II. Iniciar y llevar a cabo las actuaciones y diligencias en el procedimiento de investigación por la presunta responsabilidad de faltas administrativas, cometidas por servidores públicos de las dependencias, entidades paraestatales y particulares,
+
+III. Realizar las auditorías, revisiones y visitas de inspección, así como, formular actas de inicio, parciales, de recepción de documentación, de cierre y las diligencias que se requieran en el desarrollo del ejercicio de sus facultades;
+
+IV. Proponer al Director la designación de personal para la realización de las auditorías, revisiones o visitas de inspección a su cargo;
+
+V. Informar al Director los hechos de los que tenga conocimiento con motivo de las auditorías, revisiones o visitas de inspección que realice;
+
+VI. Desahogar la comparecencia del denunciante, terceros o servidores públicos que tengan conocimiento o relación de los hechos sujetos a investigación, que puedan constituir faltas administrativas, así como solicitarles que aporten los elementos, datos o indicios que permitan advertir la presunta responsabilidad del servidor público, así como de particulares;
+
+VII. Elaborar los requerimientos de información, declaraciones, avisos, documentación y/o dictámenes relacionados con los hechos objeto de la investigación necesarios para el esclarecimiento de los hechos, con inclusión de aquéllos que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas; así como otorgar prórrogas en los términos que establezcan las disposiciones legales;
+
+VIII. Solicitar a las dependencias, entidades y organismos federales, estatales o municipales, así como a personas físicas o morales información, documentación y/o dictámenes relacionados con los hechos objeto de la investigación;
+
+IX. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos los de conclusión y archivo por falta de elementos, así como los de remisión de los expedientes a la autoridad competente;
+
+X. Actuar como coadyuvante de la Fiscalía Especializada en el Combate a la Corrupción en los procedimientos penales, relacionados con los procedimientos de investigación que con motivo del ejercicio de sus facultades conozca;
+
+XI. Proponer al Director el solicitar a las autoridades competentes que dentro del procedimiento de responsabilidad administrativa, se decreten las medidas cautelares previstas en las disposiciones aplicables;
+
+XII. Proponer al Director los proyectos relacionados con la existencia o inexistencia de actos u omisiones que constituyan faltas administrativas y proceder a calificarlas como graves o no graves, así como ordenar la notificación respectiva;
+
+XIII. Integrar y elaborar el Informe de Presunta Responsabilidad Administrativa de conformidad con las disposiciones legales aplicables, a efecto de que se presente a la autoridad substanciadora competente, para que se dé inicio al procedimiento de responsabilidad administrativa.
+
+Así como atender, aclarar y dar cumplimiento al pronunciamiento de prevención que en su caso realice la autoridad substanciadora;
+
+XIV. Formular y someter a la consideración del Director, la interposición del recurso de inconformidad en los términos que las disposiciones legales lo establezcan, así como recibir y dar trámite a fin de turnar el expediente y el informe justificado a la Sala Especializada en Materia de Responsabilidad Administrativas que corresponda;
+
+XV. Formular y someter a la consideración del Director, la interposición del recurso de reclamación de conformidad con las disposiciones jurídicas aplicables;
+
+XVI. Proponer al Director la aplicación de las medidas de apremio que procedan conforme a las disposiciones jurídicas aplicables;
+
+XVII. Proponer al Director la habilitación de días y horas inhábiles para la práctica de diligencias;
+
+XVIII. Ordenar la notificación de los actos administrativos que emita en ejercicio de sus facultades y designar al personal para tal efecto;
+
+XIX. Intervenir en calidad de parte en los procedimientos de responsabilidad administrativa que deriven de sus investigaciones;
+
+XX. Supervisar que se actualicen los registros que correspondan en los sistemas informáticos que administra;
+
+XXI. Proponer al Director el personal del Departamento para realizar las actuaciones y diligencias que requieran en los procedimientos de investigación administrativa a su cargo;
+
+XXII. Requerir a los servidores públicos de las dependencias y entidades, el cumplimiento de la presentación de la declaración de situación patrimonial, cuando no se hubiese presentado en los plazos legales previstos para tal efecto, y
+
+XXIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
+
+### Capítulo VII. Dirección Jurídica y de Responsabilidad Administrativa
 
 ###### Artículo 22.
 
 La Dirección Jurídica y de Responsabilidad Administrativa para el ejercicio de sus atribuciones, tendrá a su cargo los siguientes departamentos:
 
-I. Departamento de Denuncias e Investigaciones;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-II. Departamento Jurídico y de Responsabilidades Administrativas, y
+I. Departamento Jurídico;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+II. Departamento de Responsabilidades Administrativas, y
 
 III. Departamento de Registro Patrimonial y de Sanciones.
 
@@ -589,9 +883,7 @@ XIV. Administrar el sistema de certificación de los medios de identificación e
 
 XV. Coordinar y supervisar la inscripción y actualización de la información correspondiente, en el sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de declaración fiscal, así como cualquier otro Sistema que se le encomiende;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XVI. Solicitar a la autoridad competente efectuar auditorías o investigaciones, respecto de la situación patrimonial, posible conflicto de interés, así como del posible incumplimiento de los servidores públicos a sus obligaciones y turnar la documentación respectiva a los titulares de los Órganos Internos de Control, cuando se adviertan conductas que puedan constituir faltas administrativas para efecto de que, en su caso, se inicie el procedimiento de responsabilidad administrativa correspondiente;
+XVI. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 XVII. Tramitar y resolver los recursos administrativos o cualquier otro medio de defensa que deba ser resuelto por la Secretaría, de conformidad con lo previsto en las disposiciones jurídicas aplicables, excepto aquellos que corresponda conocer expresamente a otra unidad administrativa o departamento de la Secretaría;
 
@@ -615,101 +907,63 @@ XXIII. Supervisar que se actualice el registro de sanciones en el sistema nacion
 
 XXIV. Presentar ante el Tribunal de Justicia Administrativa del Estado de Querétaro, el expediente de presunta responsabilidad administrativa que le remita la autoridad substanciadora en los casos de faltas administrativas graves y de particulares, y
 
-XXV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+XXV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario o el Subsecretario.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 24.
 
-Al Jefe del Departamento de Denuncias e Investigaciones, le corresponde el ejercicio de las siguientes facultades:
-
-I. Recibir y tramitar las quejas y denuncias que se formulen en contra de los servidores públicos de las dependencias y entidades, así como en contra de particulares;
-
-II. Iniciar y practicar las investigaciones por la presunta responsabilidad de faltas administrativas, de oficio, a partir de queja, denuncias, auditorías practicadas en términos de las disposiciones aplicables o cuando tenga conocimiento de la presunta comisión de faltas administrativas por cualquier otro medio;
-
-III. Citar, cuando lo estime necesario, al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de servidores públicos por presuntas violaciones al ordenamiento legal en materia de responsabilidades, o incluso a otros servidores públicos que puedan tener conocimiento de los hechos a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta responsabilidad del servidor público;
-
-IV. Solicitar la información necesaria para el esclarecimiento de los hechos, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas y otorgar prórrogas cuando así procedan;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-V. Solicitar a las dependencias, entidades y organismos federales, estatales o municipales, así como a personas físicas o morales información, documentación y/o dictámenes relacionados con los hechos objeto de la investigación;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-VI. Practicar las diligencias que se requieran en la investigación, incluyendo auditorías, visitas de inspección y revisiones;
-
-VII. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos los de conclusión y archivo por falta de elementos, así como los de remisión de los expedientes a la autoridad competente;
-
-VIII. Actuar como coadyuvante de la Fiscalía Especializada en el Combate a la Corrupción en los procedimientos penales;
-
-IX. Solicitar a las autoridades competentes que dentro del procedimiento de responsabilidad administrativa, se decreten o se suspendan las medidas cautelares previstas en las disposiciones aplicables;
-
-X. Determinar la existencia o inexistencia de actos u omisiones que constituyan faltas administrativas y proceder a calificarlas como graves o no graves, así como realizar la notificación respectiva;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XI. Integrar y emitir el Informe de Presunta Responsabilidad Administrativa de conformidad con las disposiciones legales aplicables, y presentarlo a la autoridad substanciadora competente, a efecto de iniciar el procedimiento de responsabilidad administrativa.
-
-Así como, aclarar y dar cumplimiento al pronunciamiento de prevención que en su caso realice la autoridad substanciadora;
-
-XII. Remitir al Departamento Jurídico y de Responsabilidades Administrativas, el expediente respectivo en los casos en que, derivado de sus investigaciones, se presuma la comisión de un delito;
-
-XIII. Recibir los recursos de inconformidad a que se refiere la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, y correr traslado de los mismos, adjuntando el expediente integrado y el informe en el que se justifique la calificación de la falta administrativa, al Tribunal de Justicia Administrativa del Estado;
-
-XIV. Interponer el recurso de reclamación previsto en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
-
-XV. Aplicar las medidas de apremio que procedan conforme a las disposiciones jurídicas aplicables, así como solicitar la colaboración de las autoridades correspondientes para su ejecución;
-
-XVI. Interponer el recurso de inconformidad en términos de la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, contra la determinación de la abstención del inicio de procedimiento de responsabilidad administrativa o de imposición de sanciones administrativas;
-
-XVII. Habilitar, cuando se requiera, días y horas inhábiles para la práctica de diligencias;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XVIII. Ordenar la notificación de los actos administrativos que emita en ejercicio de sus facultades y designar el personal para tal efecto;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XIX. Intervenir en calidad de parte en los procedimientos de responsabilidad administrativa que deriven de sus investigaciones;
-
-XX. Interponer el recurso de reclamación en términos en (sic) la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
-
-XXI. Requerir información y documentación a las personas físicas o morales, públicas o privadas, que sean sujetos de investigación por presuntas irregularidades;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XXII. Realizar los registros que correspondan en los sistemas informáticos que administra y mantenerlos actualizados;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XXIII. Designar al personal del Departamento para realizar las actuaciones y diligencias que requieran en los procedimientos de investigación administrativa a su cargo;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XXIV. Requerir a la Dirección de Auditoría de la Secretaría auditorías, visitas de inspección y revisiones, así como solicitar dictámenes e informes a los Despachos de Auditores Externos, que al efecto se requieran para la integración de los expedientes respectivos;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
-
-XXV. Requerir a los servidores públicos de las dependencias y entidades, el cumplimiento de la presentación de la declaración de situación patrimonial, cuando no se hubiese presentado en los plazos legales previstos para tal efecto; y
-
-(REPUBLICADA, P.O. 4 DE JULIO DE 2018)
-
-XXVI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
-
-###### Artículo 25.
-
-Al Jefe del Departamento Jurídico y de Responsabilidades Administrativas, le corresponde el ejercicio de las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+Al Jefe del Departamento Jurídico, le corresponde el ejercicio de las siguientes facultades:
 
 I. Elaborar y proponer al Director, los proyectos de iniciativas de leyes, decretos, reglamentos, acuerdos, lineamientos disposiciones de carácter general y emitir opiniones que se requieran para el ejercicio de las atribuciones de la Secretaría;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
 II. Proponer al Director los proyectos relativos a la interpretación de las diversas disposiciones competencia de la Secretaría y de sus unidades administrativas;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
-
 III. Analizar los instrumentos jurídicos en los que la Secretaría o sus unidades administrativas sean parte, que le hayan sido turnados y someterlos a la consideración del Director;
+
+IV. Habilitar, cuando proceda, días y horas inhábiles para la práctica de diligencias;
+
+V. Solicitar mediante exhorto, la colaboración de las Secretarías, Órganos Internos de Control o de los Tribunales, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren en lugares que se localicen fuera de su jurisdicción, en los términos de las disposiciones legales aplicables;
+
+VI. Solicitar la colaboración de la Fiscalía General del Estado, o bien, de instituciones públicas de educación superior, para que, a través de peritos adscritos a las mismas, emitan su dictamen sobre aquellas cuestiones o puntos controvertidos por las partes en el desahogo de la prueba pericial, o sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos;
+
+VII. Intervenir en toda clase de juicios, investigaciones o procedimientos ante los órganos jurisdiccionales y autoridades estatales o federales, en defensa de las actuaciones o resoluciones que emita en asuntos de su competencia;
+
+VIII. Formular y someter a consideración del Director, los proyectos de resolución de los medios de defensa que deban ser resueltos por la Secretaría, de conformidad con lo previsto en la normatividad aplicable en la materia; así como los relativos a informes previos y justificados, recursos, incidentes, alegatos, pruebas y cualquier otro documento jurídico correspondiente a los juicios de amparo y de nulidad estatal o federal, en los que la Secretaría o sus unidades administrativas sean señaladas como autoridades responsables, demandadas o cuando tengan el carácter de tercero;
+
+IX. Requerir la información y documentación necesaria para el trámite y resolución de los asuntos de su competencia;
+
+X. Designar al personal del Departamento para realizar las actuaciones y diligencias que se requieran con motivo de sus funciones;
+
+XI. Formular y someter a consideración del Director, los proyectos de resolución de los medios de defensa que deban ser resueltos por la Secretaría, de conformidad con lo previsto en la normatividad aplicable en la materia; así como los relativos a informes previos y justificados, recursos, incidentes, alegatos, pruebas y cualquier otro documento jurídico correspondiente a los juicio de amparo y de nulidad estatal o federal, en los que la Secretaría o sus unidades administrativas sean señaladas como autoridades responsables, demandadas o cuando tengan el carácter de tercero;
+
+XII. Elaborar y proponer al Director los proyectos de denuncias o querellas;
+
+XIII. Compilar las disposiciones jurídicas relacionadas con las atribuciones de la Secretaría, a efecto de actualizar el marco jurídico en la página electrónica de la Secretaría;
+
+XIV. Supervisar y coordinar la revisión de los aspectos jurídicos de los convenios y contratos en los que intervenga la Secretaría;
+
+XV. Analizar, elaborar y emitir opinión respecto de convenios de colaboración, coordinación, concertación e instrumentos análogos, en los que la Secretaría sea parte, así como formular requerimientos a las unidades administrativas responsables de la operación y seguimiento de dichos acuerdos de voluntades, sobre el cumplimiento de las acciones establecidas en los mismos, a efecto de hacerlo del conocimiento del Director, así como resguardarlos;
+
+XVI. Establecer criterios para la resolución de los recursos administrativos de su competencia y la de aquéllos que correspondan a otras unidades administrativas de la Secretaría;
+
+XVII. Conocer y tramitar los recursos de revocación y demás recursos administrativos que le corresponda conocer a la Secretaría, de acuerdo con las disposiciones jurídicas aplicables, con excepción de aquéllos que sean competencia de otras unidades administrativas de la Secretaría, y
+
+XVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+###### Artículo 25.
+
+Al Jefe del Departamento de Responsabilidades Administrativas, le corresponde el ejercicio de las siguientes facultades:
+
+I. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
+
+II. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
+
+III. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 IV. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
@@ -747,11 +1001,9 @@ XVII. Nombrar e instruir al personal para que lleve a cabo la notificación de l
 
 XVIII. Intervenir en toda clase de juicios, investigaciones o procedimientos ante los órganos jurisdiccionales y autoridades estatales o federales, en defensa de las actuaciones o resoluciones que emita en asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+XIX. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
-XIX. Formular y someter a consideración del Director, los proyectos de resolución de los medios de defensa que deban ser resueltos por la Secretaría, de conformidad con lo previsto en la normatividad aplicable en la materia; así como los relativos a informes previos y justificados, recursos, incidentes, alegatos, pruebas y cualquier otro documento jurídico correspondiente a los juicios de amparo y de nulidad estatal o federal, en los que la Secretaría o sus unidades administrativas sean señaladas como autoridades responsables, demandadas o cuando tengan el carácter de tercero;
-
-XX. Elaborar y proponer al Director los proyectos de denuncias o querellas;
+XX. (DEROGADA, P.O. 1 DE FEBRERO DE 2019)
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
@@ -825,7 +1077,7 @@ XIII. Nombrar al personal para que lleve a cabo la notificación de los actos re
 
 XIV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
-### Capítulo XI. De los Comisarios Públicos
+### Capítulo VIII. De la Dirección Administrativa
 
 ###### Artículo 27.
 
@@ -833,9 +1085,9 @@ La Dirección Administrativa para el ejercicio de sus atribuciones, tendrá a su
 
 I. Departamento de Informática, y
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-II. Departamento de Enlaces de Apoyo Administrativo.
+II. Departamento de Apoyo Administrativo.
 
 Además contará con enlaces de apoyo administrativo asignados a la atención de las unidades administrativas y los órganos desconcentrados adscritos a la Secretaría, así como el personal para la atención de las unidades administrativas de la misma, de conformidad con la suficiencia presupuestal respectiva.
 
@@ -905,47 +1157,71 @@ VIII. Coordinar las actividades de instalación de software, aplicaciones, antiv
 
 IX. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 30.
 
-Al Jefe del Departamento de Enlaces de Apoyo Administrativo, le corresponde el ejercicio de las siguientes facultades:
+Al Jefe del Departamento de Apoyo Administrativo:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 I. Administrar los recursos humanos y materiales que les sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 II. Planear y presupuestar los recursos humanos y materiales de las unidades administrativas y órganos desconcentrados adscritos a la Secretaría que les sean asignados, en coordinación con el Director y los titulares de dichas unidades y órganos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 III. Administrar el presupuesto que le sea asignado a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría, con base en los lineamientos, prioridades y objetivos que establezca el Secretario;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 IV. Administrar el fondo revolvente que le sea asignado a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 V. Controlar y mantener actualizados los inventarios de bienes muebles e inmuebles que les sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 VI. Controlar y dar trámite a las adquisiciones de bienes y contratación de servicios, consumo de combustibles y lubricantes, seguros, servicios básicos, arrendamientos, así como los servicios de conservación y mantenimiento de los bienes muebles e inmuebles que les sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 VII. Llevar el control, trámite y gestión de las incidencias del personal y movimientos de plantilla de plazas que les sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría, así como el reporte de movimientos de nómina como prestaciones, capacitación, control de asistencia, tiempo extra, incapacidades, licencias y sanciones, así como cualquier otro que se enmarque dentro del rubro de recursos humanos;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 VIII. Gestionar los trámites relativos a prestaciones o servicios que deban realizarse ante la Oficialía Mayor del Poder Ejecutivo o cualquier otra de sus dependencias;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 IX. Informar y asesorar a los servidores públicos que le sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría, sobre su obligación de presentar la declaración patrimonial y de intereses que establece la ley;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 X. Coadyuvar con (sic) en el proceso de entrega recepción de los servidores públicos que se presenten en las Unidades Administrativas y Órganos Desconcentrados adscritos a la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 XI. Detectar áreas de oportunidad en los procedimientos administrativos y en la normatividad correspondiente a los mismos y proponer al Director los ajustes que consideren necesarios, con el fin de hacer más eficiente el uso y mejorar el aprovechamiento de los recursos que le sean asignados a las unidades administrativas y órganos desconcentrados adscritos a la Secretaría;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
 XII. Coordinar a los Enlaces Administrativos, unidades administrativas y órganos desconcentrados adscritos a la Secretaría; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 XIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Director.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 31.
 
-En las Direcciones y órganos desconcentrados que cuenten con enlaces de apoyo administrativo, se coordinarán con el Jefe de Enlaces de Apoyo Administrativo para el ejercicio de sus funciones.
+En las Direcciones y órganos desconcentrados que cuenten con enlaces de apoyo administrativo, se coordinarán con el Jefe del Departamento de Apoyo Administrativo para el ejercicio de sus funciones.
 
-### Capítulo XII. De los Órganos Internos de Control
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+### Capítulo IX. Unidad de Ética
 
 ###### Artículo 32.
 
@@ -967,13 +1243,17 @@ VII. Elaborar y promover programas de capacitación y sensibilización en materi
 
 VIII. Promover la realización, publicación y, en su caso, difusión de materiales y programas de sensibilización en materia de ética, integridad pública y prevención de conflictos de interés, conforme a la política que establezca el Secretario y considerando, en su caso, las políticas que emitan los Comités Coordinadores del Sistema Nacional Anticorrupción y Estatal Anticorrupción al respecto;
 
-IX. Establecer bases permanentes para reconocer, premiar y estimular acciones, medidas o conductas ejemplares en materia de ética, integridad y prevención de conflictos de interés, y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-X. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+IX. Establecer bases permanentes para reconocer, premiar y estimular acciones, medidas o conductas ejemplares en materia de ética, integridad y prevención de conflictos de interés;
 
-### Capítulo XIII. De la suplencia de los Servidores Públicos de la Secretaría
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2018)</small>
+X. Designar a los servidores públicos que deban fungir como representantes en asuntos competencia de la Unidad de Ética, y
+
+XI. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+
+### Capítulo X. De las facultades de los Secretarios Particular y Técnico
 
 ###### Artículo 33.
 
@@ -1013,6 +1293,8 @@ VI. Las (sic) demás que le otorguen otras disposiciones jurídicas aplicables, 
 
 La Secretaría Técnica para el desempeño de sus funciones, se apoyará en las unidades administrativas de la Secretaría.
 
+### Capítulo XI. De los Comisarios Públicos
+
 ###### Artículo 35.
 
 Los Comisarios Públicos constituirán el órgano de vigilancia de las entidades y les corresponderá el ejercicio de las siguientes facultades:
@@ -1035,11 +1317,17 @@ VIII. Las demás que le otorguen otras disposiciones jurídicas aplicables, así
 
 El Secretario podrá nombrar suplentes de los Comisarios Públicos, con el carácter de permanentes para cuando, por causa de fuerza mayor, el titular no pueda acudir a las sesiones.
 
+### Capítulo XII. De los Órganos Internos de Control
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+
 ###### Artículo 36.
 
 Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría.
 
-El Titular del Órgano Interno de Control de la Secretaría, para el ejercicio de sus facultades, se auxiliará del personal técnico y administrativo que las necesidades del servicio se (sic) requieran y cuente con la disponibilidad presupuestaria para ello, quienes serán designados por el Titular de la Dependencia o Entidad a la que se encuentren adscritos, o bien por el servidor público que se encuentre facultado para ello en términos de las disposiciones legales aplicables
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+El Titular del Órgano Interno de Control, para el ejercicio de sus facultades, se auxiliará del personal técnico y administrativo que las necesidades del servicio se (sic) requieran y cuente con la disponibilidad presupuestaria para ello, quienes serán designados por el Titular de la Dependencia o Entidad a la que se encuentren adscritos, o bien por el servidor público que se encuentre facultado para ello en términos de las disposiciones legales aplicables.
 
 Los Órganos Internos de Control dependerán presupuestalmente, organizacionalmente y jerárquicamente de la Dependencia o Entidad a la que se encuentren adscritos.
 
@@ -1047,9 +1335,9 @@ Los Órganos Internos de Control dependerán presupuestalmente, organizacionalme
 
 Los titulares de los órganos internos de control tendrán, en el ámbito de la dependencia o entidad, en la que sean designados, las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-I. Elaborar y cumplir con el Plan Anual de Trabajo y de Control de Auditorías correspondiente, que deberá ser aprobado y validado por el Director de Auditoría de la Secretaría, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan. Así como rendir los informes que le requieran el Secretario, o las diversas Unidades Administrativas, en la periodicidad que éstas determinen;
+I. Elaborar y cumplir el Plan Anual de Trabajo y de Control de Auditorías, que deberá ser aprobado y validado por Subsecretario de la Contraloría conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan. Así como rendir los informes que le requieran el Subsecretario de la Contraloría, o las diversas Unidades Administrativas, en la periodicidad que éstas determinen;
 
 II. Dar seguimiento a las observaciones determinadas en las auditorías o visitas de inspección que practiquen los entes fiscalizadores;
 
@@ -1059,15 +1347,17 @@ IV. Realizar la defensa jurídica, en toda clase de juicios, investigaciones o p
 
 V. Coadyuvar al funcionamiento del sistema de control y evaluación gubernamental; vigilar el cumplimiento de las normas de control que expida la Secretaría, y aquellas que en la materia expidan las dependencias y las entidades, así como analizar y proponer con un enfoque preventivo, las normas, lineamientos, mecanismos y acciones para fortalecer el control interno de las instituciones en las que se encuentren designados;
 
-VI. Prestar el apoyo al Director de Auditoría de la Secretaría en su función de enlace, con la Auditoría Superior de la Federación, la Secretaría de la Función Pública y la Entidad Superior de Fiscalización del Estado, en las auditorías que estas practiquen a las Dependencias y Entidades;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+VI. Prestar el apoyo al Subsecretario de la Contraloría en su función de enlace, con la Auditoría Superior de la Federación, la Secretaría de la Función Pública y la Entidad Superior de Fiscalización del Estado de Querétaro, en las auditorías que estas practiquen a las dependencias y entidades;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
 VII. Participar en los procesos de contratación pública, en los términos de las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-VIII. Programar, ordenar y realizar auditorías y visitas de inspección e informar de su resultado a la Secretaría, así como a los responsables de las áreas auditadas y a los titulares de las dependencias, las entidades, y apoyar, verificar y evaluar las acciones que promuevan la mejora de su gestión. Las auditorías, y visitas de inspección señaladas podrán llevarse a cabo por los propios titulares o por conducto de los titulares de auditoría o de denuncias e investigación o bien, en coordinación con las unidades administrativas de la Secretaría u otras instancias externas de fiscalización;
+VIII. Programar, ordenar y realizar auditorías, y visitas de inspección e informar de su resultado a la Subsecretaría de la Contraloría, así como a los responsables de las áreas auditadas y a los titulares de las dependencias, las entidades, y apoyar, verificar y evaluar las acciones que promuevan la mejora de su gestión. Las auditorías, y visitas de inspección señaladas podrán llevarse a cabo por los propios titulares o por conducto de los titulares de auditoría o de denuncias e investigación o bien, en coordinación con las unidades administrativas de la Secretaría u otras instancias externas de fiscalización;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
@@ -1111,9 +1401,9 @@ XXII. Tramitar y atender los asuntos que sean turnados por los Directores de la 
 
 XXIII. Dar seguimiento al cumplimiento de los Programas de Mejora Regulatoria, en términos de la (sic) dispuesto por la Ley General de Mejora Regulatoria; y
 
-(REPUBLICADA, P.O. 4 DE JULIO DE 2018)
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XXIV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Secretario.
+XXIV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el Subsecretario.
 
 ###### Artículo 38.
 
@@ -1325,19 +1615,23 @@ XXIV. Cumplir, en el ámbito de su competencia, con el Plan Anual de Trabajo y d
 
 XXV. Las demás que le otorguen otras disposiciones jurídicas aplicables, así como los asuntos que expresamente le encomiende el titular del Órgano Interno de Control.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 41.
 
-En los casos en que exista impedimento legal de algunos (sic) de los titulares que conforman el Órgano Interno de Control de las dependencias, o en caso de que no exista Órgano Interno de Control, la Secretaría a través de la Unidad Administrativa competente conocerá, atenderá y en su caso resolverá del asunto de que se trate.
+En los casos en que exista impedimento legal de algunos de los Titulares que conforman el Órgano Interno de Control de las dependencias, o en caso de que no exista Órgano Interno de Control o Titular de Atención a Denuncias e Investigaciones, Titular de Responsabilidades Administrativas, Titular de Auditoría, la Secretaría a través de la Unidad Administrativa competente conocerá, atenderá y en su caso resolverá del asunto de que se trate.
 
-En los casos en que exista impedimento legal de algunos (sic) de los titulares que conforman el Órgano Interno de Control de las entidades, o en caso de que no exista Órgano Interno de Control, el titular competente del Órgano Interno de Control de la dependencia coordinadora del sector correspondiente, conocerá, atenderá y en su caso resolverá los asuntos de que se trate, de conformidad con el acuerdo de sectorización de los Órganos Internos de Control que al efecto emita la Secretaría.
+En los casos en que exista impedimento legal de algunos de los titulares que conforman el Órgano Interno de Control de las entidades, en caso de que no exista Órgano Interno de Control o Titular de Atención a Denuncias e Investigaciones, Titular de Responsabilidades Administrativas, Titular de Auditoría, el titular competente del Órgano Interno de Control de la Dependencia coordinadora del sector correspondiente, conocerá, atenderá y en su caso resolverá del asunto de que se trate, de conformidad con el acuerdo de sectorización de los Órganos Internos de Control que al efecto emita la Secretaría.
+
+### Capítulo XIII. De la suplencia de los Servidores Públicos de la Secretaría
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 42.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría estarán a cargo de los Directores de Auditoría, Jurídico y de Responsabilidad Administrativa, Prevención y Evaluación, en el orden indicado. Los titulares de las unidades administrativas de la Secretaría, serán suplidos en sus ausencias por los jefes de departamento o sus equivalentes, que designen mediante oficio.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría estarán a cargo del Subsecretario, los Directores de Auditoría, Investigación, Jurídico y de Responsabilidad Administrativa, Mejora de la Gestión y Memoria Documental, y Prevención, en el orden indicado; las ausencias del Subsecretario estarán a cargo del Director de Auditoría, Director de Investigación, Director Jurídico y de Responsabilidad Administrativa, en el mismo orden.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2018)</small>
+A Los titulares de las unidades administrativas de la Secretaría, serán suplidos en sus ausencias por los jefes de departamento o sus equivalentes, que designen mediante oficio.
 
 Los jefes de departamento de las unidades administrativas, serán suplidos en sus ausencias por quien ellos designen, previo acuerdo con su respectivo titular de la unidad administrativa de la Secretaría, mediante oficio.
 
@@ -1402,3 +1696,17 @@ Quinto. Las referencias que se hagan y las atribuciones que se otorgan en decret
 Sexto. Lo dispuesto en los artículos 18, fracción XXII y 20, fracción X del presente Reglamento iniciarán su vigencia a partir del día de la entrada en vigor de las disposiciones estatales que regulen la materia de Comunicación Social.
 
 Séptimo. Lo dispuesto en los artículos 18 fracción XXIII, 21 fracción X y 37 fracción XXIII del presente Reglamento iniciarán su vigencia a partir del día de la entrada en vigor (sic) las disposiciones estatales que regulen la materia de Mejora Regulatoria.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente acuerdo.
+
+Tercero. En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del presente Reglamento, continuarán siendo aplicables, en lo conducente, los expedidos con anterioridad a la entrada en vigor de dicho Reglamento, en lo que no se opongan al mismo.
+
+Cuarto. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas adscritas a la Secretaría que cambien de denominación por virtud del presente reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+Quinto. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite ante las unidades administrativas y/o departamentos de la Secretaría que modifiquen su denominación o atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas y/o departamentos a las que se les otorgue la competencia correspondiente en este instrumento
