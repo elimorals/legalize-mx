@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2018-11-29"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1901,11 +1901,11 @@ Sin perjuicio de lo anterior, en las sesiones solemnes, se entonará el Himno Na
 
 (DEROGADO, P.O. 10 DE JULIO DE 2015)
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 109.
 
-Todas las sesiones del Congreso del Estado serán públicas.
+Todas las sesiones del Congreso del Estado serán públicas, y deberán ser interpretadas con apoyo en Lengua de Señas Mexicanas.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -3057,6 +3057,22 @@ P.O. 9 DE JUNIO DE 2018.
 
 P.O. 29 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 261 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno de este Congreso, lo anterior de conformidad con lo establecido en el inciso H del artículo 34 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Esta Soberanía en ejercicio de las facultades que le confiere la Constitución Política del Estado Libre y Soberano de Baja California así como la Ley Orgánica del Poder Legislativo del Estado de Baja California, hará las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Estado.
