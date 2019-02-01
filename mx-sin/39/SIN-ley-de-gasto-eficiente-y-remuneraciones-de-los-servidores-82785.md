@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gasto-eficiente-y-remuneraciones-de-los-servidores-82785
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-07"
-last_updated: "2011-09-07"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # LEY DE GASTO EFICIENTE Y REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2019 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2019 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE GASTO EFICIENTE Y REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 7 de septiembre de 2011.
 
@@ -312,3 +312,23 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 76 QUE EXPIDE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+De igual manera se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Segundo. Se abroga la Ley de Gasto Eficiente y Remuneraciones de los Servidores Públicos del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa" número 107, de fecha 7 de septiembre de 2011.
+
+Artículo Tercero. Los tabuladores que a la entrada en vigor del presente Decreto, no se ajusten a lo establecido en la misma, deberán ser adecuados, en un término no mayor a 180 días naturales de su aplicación y publicados en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Cuarto. Las entidades públicas del Estado deberán proveer en la esfera administrativa todas aquellas medidas necesarias para la exacta observancia de la presente Ley.
+
+Artículo Quinto. Los servidores públicos de los poderes Legislativo y Judicial, así como de los ayuntamientos, órganos autónomos y demás entes públicos no adscritos al Poder Ejecutivo, que a la fecha de entrada en vigor del presente Decreto gozaran de una remuneración superior a la del Presidente de la República, mantendrán dicha remuneración sin cambios, siempre y cuando el excedente de remuneración se haya producido antes del 25 de agosto de 2009, fecha de entrada en vigor del Decreto que reformó el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 24 del mismo mes y año.
+
+Si el excedente respecto de la remuneración del Presidente de la República se generó en fecha posterior a la indicada en el párrafo anterior, el ente público al que se encuentre adscrito el servidor público deberá adecuar su remuneración al máximo constitucional permitido.
