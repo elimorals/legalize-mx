@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2018-12-21"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 1 DE FEBRERO DE 2019]</small>
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1085,9 +1085,13 @@ Para el cumplimiento de esta función el pleno de cada comisión legislativa pod
 
 Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Periodo Ordinario de cada Legislatura, observarán para su conducción las reglas aplicables a la Legislatura en Pleno, deberán reunirse en sesión plenaria por lo menos una vez al mes siempre y cuando tengan encomendadas iniciativas o asuntos y entregarán a la Directiva y Junta de Coordinación Política un informe trimestral de sus actividades realizadas.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2018)</small>
+(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2018) (F. DE E., G.G. 1 DE FEBRERO DE 2019)
 
 Las Presidencias de las Comisiones o Comités deberán publicar los documentos básicos que generen, tales como son: Listas de Asistencia; Actas de Sesiones; Estatus de los asuntos turnados a la Comisión o Comité, ordenados cronológicamente; el sentido de los dictámenes, siempre y cuando hayan concluido su trámite, y demás documentos que tengan el carácter de público, conforme al Reglamento del Poder Legislativo del Estado de México, relacionados con el trabajo legislativo de estos órganos en la Gaceta Parlamentaria y Página Electrónica del Poder Legislativo del Estado de México, para lo cual contarán con el apoyo de la Secretaría de Asuntos Parlamentarios y de la Dirección General de Comunicación Social y de la Unidad de Transparencia de la Legislatura.
+
+> <small>(F. DE E., G.G. 1 DE FEBRERO DE 2019)</small>
+
+Los Presidentes de las Comisiones o Comités deberán emitir los informes necesarios sobre la actualización del estatus en que se encuentren las iniciativas que hayan sido remitidas a sus comisiones o comités para su estudio, lo anterior para que el Presidente de la Legislatura y el Presidente de la Junta de Coordinación Política atiendan lo dispuesto por los artículos 47 fracción XXI y 65 fracción XIV de esta ley.
 
 > <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
