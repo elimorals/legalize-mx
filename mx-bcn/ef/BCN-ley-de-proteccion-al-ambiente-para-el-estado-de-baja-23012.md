@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2018-04-20"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -501,7 +501,7 @@ XIX. El principio de subsidiariedad, que permita a las estructuras municipales d
 
 ###### ARTÍCULO 15.
 
-En la planeación del desarrollo estatal y municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, la educación ambiental, los programas de ordenamiento ecológico y programas derivados de este y así corno las demás disposiciones aplicables sobre la materia.
+En la planeación del desarrollo estatal y municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, la educación ambiental, los programas de ordenamiento ecológico y programas derivados de este y así como las demás disposiciones aplicables sobre la materia.
 
 En la planeación y la realización de los actos de las dependencias y entidades de la Administración Pública Estatal y Municipal, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Estatal y los municipios para regular, promover, restringir, prohibir, orientar, y en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental establecidos el Plan Estatal de Desarrollo y los planes y programas ambientales a que se refiere la presente Ley.
 
@@ -1144,6 +1144,10 @@ Las reservas estatales se constituirán en áreas biogeográficas relevantes, re
 ###### ARTÍCULO 67.
 
 En las reservas estatales podrá determinarse la existencia de la superficie mejor conservada o no alterada, que aloje ecosistemas o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial y que será denominada zona núcleo. En ella podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ecológica y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+En las reservas estatales se considera prioritario apoyar la conservación de germoplasma de las especies nativas. Para la cual se dará facilidad a las instituciones de investigación científica del estado y del país que investiguen o pretendan establecer bancos de germoplasma de plantas nativas de Baja California.
 
 ###### ARTÍCULO 68.
 
@@ -2255,9 +2259,13 @@ En todo momento se buscará que el fin de vida de las bolsas de plástico no sea
 
 En el caso de que en la producción de bolsas se utilice un aditivo que sea incompatible con el reciclaje, se procurará que estas tengan un fin de vida menor al de cinco años.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
-ARTÍCULO 141 BIS.- La Secretaría podrá promover instrumentos económicos a favor de fabricantes o distribuidores de productos plásticos desechables o de un sólo uso que sean de pronta biodegradación, reciclables o reciclados.
+ARTÍCULO 141 BIS.- La Secretaría, en coordinación con Municipios, diseñará y realizará campañas permanentes de información para concientizar y sensibilizar a la población sobre los peligros y efectos nocivos que, para el medio ambiente, representa el uso de popotes y utensilios de plástico, con objeto de desincentivar su utilización en el hogar y en restaurantes, bares y todo tipo de establecimientos en los que se comercialice y/o se ofrezcan alimentos y bebidas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 141 TER.- Los establecimientos en los que se comercialice y/o se ofrezcan alimentos y bebidas, dentro del territorio del Estado, deberán prescindir de proporcionar popotes, utensilios y agitadores de plástico para el consumo de sus productos, salvo que el usuario lo solicite.
 
 > <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -3182,3 +3190,15 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 112 FRACCIÓN XVI DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 254 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 141 BIS Y 141 TER A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 255 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE ADICIÓN AL ARTÍCULO 67 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
