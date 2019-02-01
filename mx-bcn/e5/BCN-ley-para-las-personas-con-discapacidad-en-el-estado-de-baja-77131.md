@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2018-02-23"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCN"
 ---
 # LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
-Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
+Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
 JOSÉ GUADALUPE OSUNA MILLÁN GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 462, CUYO TEXTO ES EL SIGUIENTE:
 
@@ -99,9 +101,9 @@ III.- Ayudas técnicas: Aquellos dispositivos tecnológicos que contribuyen a la
 
 IV.- Barreras físicas: A los obstáculos que dificultan, entorpecen, impiden, o que ponen en riesgo la integridad de las personas con discapacidad en su desplazamiento o comunicación, en espacios interiores o exteriores, sean públicos o privados, así como en el uso de herramientas, dispositivos y servicios comunitarios;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-V.- Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
+V.- Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral; un sordo bilingüe es aquella persona que se comunica en dos lenguas, una de señas y otra escrita; un sordo señante es aquella persona en donde la forma prioritaria de comunicación e identidad social se define en torno de la cultura de una comunidad de sordos y su lengua de señas; un sordo hablante es toda aquella persona que creció hablando una lengua oral pero que en algún momento quedó sorda, pudiendo seguir hablando y, sin embargo, ya no puede comunicarse satisfactoriamente de esta manera; el sordo semilingüe es toda aquella persona que no ha desarrollado a plenitud ninguna lengua, debido a que quedó sordo antes de desarrollar una primera lengua oral y a que tampoco tuvo acceso a una lengua de señas.
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -221,7 +223,7 @@ XXXIV.- Política Pública. Todos aquellos planes, programas o acciones que la a
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXXV.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social. y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXXV.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -457,11 +459,15 @@ XII. Establecer los convenios de coordinación con las Organizaciones de la Soci
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XIII.- Brindar información sobre los centros especializados en el adiestramiento de perros de asistencia, nacionales o extranjeros, a las personas con discapacidad que así lo requieran; y
+XIII. Brindar información sobre los centros especializados en el adiestramiento de perros de asistencia, nacionales o extranjeros, a las personas con discapacidad que así lo requieran; y
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
 
-XIV.- Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
+XIV. Considerar en todos los eventos oficiales, traducción simultánea a la Lengua de Señas Mexicanas para lograr una comunicación eficiente y el ejercicio al derecho a la información de las personas sordas o con discapacidad auditiva; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XV. Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -601,9 +607,9 @@ III.- Garantizar en todo momento el acceso de las personas con discapacidad a un
 
 IV.- Fomentar, actualizar, capacitar y profesionalizar a los docentes y al personal que intervenga directamente en la integración educativa de personas con discapacidad; así mismo se incorporará a los docentes y personal asignado que intervengan directamente en la integración e inclusión educativa de personas con discapacidad, al Sistema Nacional de Formación, Actualización, Capacitación y Superación Profesional para Maestros de Educación Básica;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-V.- Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en Sistema Braille, maestras sombra, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+V.- Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes, traductores de lengua de señas mexicana, o especialistas en Sistema Braille, maestras sombra, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -851,9 +857,25 @@ VIII.- Establecer la capacitación de recursos humanos, el uso de materiales y t
 
 IX.- Fomentar la elaboración de materiales de lectura, inclusive en sistema Braille u otros formatos accesibles;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
 
-X.- Las demás necesarias para el cumplimiento de la presente Ley.
+X.- Establecer actividades educativas, culturales, artísticas y deportivas que fomenten el aprendizaje de la Lengua de Señas Mexicanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XI.- Realizar campañas sociales para detectar la sordera en las niñas, niños y adolescentes, para garantizar el apoyo educativo y el acceso a la Lengua de Señas Mexicanas, así como establecer programas de capacitación de la Lengua de Señas Mexicanas a los familiares en línea directa, con la finalidad de fortalecer la comunicación familiar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XII.- Implementar talleres y cursos dirigidos a personas sordas que les informen sobre los derechos que tienen en la sociedad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+XIII.- Las demás necesarias para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Dichas autoridades señaladas en el presente artículo, podrán llevar acabo (sic) acuerdos o convenios con las diferentes asociaciones civiles del Estado en materia de discapacidad para realizar dichas acciones.
 
 ### CAPÍTULO IX. DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
@@ -933,7 +955,7 @@ I.- Emitir políticas públicas municipales cuyo objetivo sea la equiparación d
 
 II.- Formular y desarrollar programas municipales de atención a personas con discapacidad en el marco de los Sistemas Nacional y Estatal de Salud y de Asistencia Social, conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
 
-III.- Celebrar convenios de colaboración para el cumplimiento de la presente Ley, en beneficio de las personas discapacidad (sic);
+III.- Celebrar convenios de colaboración para el cumplimiento de la presente Ley, en beneficio de las personas (sic) discapacidad;
 
 IV.- Vigilar y coadyuvar en la esfera de su competencia, el cumplimiento de la presente Ley, de la Ley de Transporte, Ley de Salud, y Ley de Asistencia, así como de las demás disposiciones legales y reglamentarias aplicables en esta materia;
 
@@ -968,6 +990,10 @@ f) Establecer zonas preferenciales para el estacionamiento de vehículos en los 
 g) Promover y concertar convenios con las empresas de telefonía pública para que realicen las adecuaciones necesarias a sus aparatos en la vía pública, a efecto de facilitarles el acceso, y
 
 h) Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+
+VIII.- Considerar en todos los eventos oficiales, traducción simultánea a la Lengua de Señas Mexicanas para lograr una comunicación eficiente y el ejercicio al derecho a la información de las personas sordas o con discapacidad auditiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
@@ -1388,3 +1414,13 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos, deberá realizar las modificaciones necesarias a sus reglamentos a más tardar setenta días naturales contados a partir de la publicación de la presente reforma.
 
 TERCERO.- En un plazo no mayor a ciento ochenta días contados a partir de la publicación de la presente reforma, los sujetos obligados darán cumplimiento a lo establecido en el artículo 62 BIS.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 215 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 3, 8, 15, 27 Y 35 TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en los artículos 3 y 15 de la presente reforma, surtirán efectos a partir de la publicación en el Periódico Oficial del Estado, del Decreto 161 aprobado en fecha 23 de noviembre del año 2017, así como del Decreto 190 aprobado en fecha 25 de enero de 2018.
+
+TERCERO.- El Ejecutivo del Estado dará cumplimiento al presente Decreto, de conformidad con la viabilidad financiera aprobada en cada ejercicio fiscal correspondiente.
