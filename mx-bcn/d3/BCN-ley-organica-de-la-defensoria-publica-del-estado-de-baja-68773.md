@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-defensoria-publica-del-estado-de-baja-68773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-22"
-last_updated: "2015-05-22"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de mayo de 2009.
 
@@ -299,9 +299,13 @@ XIV.- Proponer a su superior jerárquico las medidas que tiendan a mejorar la de
 
 XV.- Rendir mensualmente informe sobre las actuaciones efectuadas, proporcionando los datos necesarios para la estadística correspondiente o cada que le sea requerido por su superior jerárquico;
 
-XVI.- Aquellas que sean necesarias para la prestación de los servicios de la Defensoría; y,
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XVII.- Las demás que señalen las leyes y reglamentos.
+XVI.- Solicitar la inmediata designación de un traductor o intérprete a cargo del Estado, cuando la persona patrocinada pertenezca a alguna comunidad indígena o tenga alguna discapacidad que le impida comprende (sic) sus derechos sin la ayuda de un traductor especializado;
+
+XVII.- Aquellas que sean necesarias para la prestación de los servicios de la Defensoría; y,
+
+XVIII.- Las demás que señalen las leyes y reglamentos.
 
 ###### ARTÍCULO 21.
 
@@ -540,3 +544,9 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 296 MEDIANTE EL CUAL SE APRUEBA EL PROYECTO DE DECRETO POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XVI, Y EL RECORRIDO DE LAS SUBSECUENTES FRACCIONES DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
