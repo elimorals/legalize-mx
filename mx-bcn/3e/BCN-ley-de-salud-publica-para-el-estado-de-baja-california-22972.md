@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2018-11-30"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -681,15 +681,11 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 #### SECCION IV. DE LA PLANIFICACION FAMILIAR
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-La planificación familiar tiene carácter prioritario; los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Las actividades de planificación familiar deberán incluir la información y orientación educativa para los adolescentes y jóvenes, así como las medidas no abortivas tendientes a prevenir, informar, orientar, atender, controlar y vigilar el embarazo precoz.
-
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal o civil en que incurran.
+La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
 ###### ARTÍCULO 27.
 
@@ -703,11 +699,19 @@ III.- La asesoría para la prestación de servicios de planificación familiar a
 
 IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana; y
 
-V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+
+(REFORMADA [N. DE E. ADICIONADA), P.O. 1 DE FEBRERO DE 2019)
+
+VI.- La implementación de programas y campañas de prevención del Embarazo en adolescentes, en los Centros Escolares en coordinación con la Secretaría de Educación y Bienestar Social.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
-La Secretaría de Salud del Estado coadyuvará con la federación para instrumentar y operar las acciones del programa nacional de planificación familiar que se formule conforme a la Ley General de Población.
+La Secretaría de Salud del Estado coadyuvará con la federación para instrumentar y operar las acciones del programa nacional de planificación familiar que se formule conforme a la Ley General de Población, así como de las Estrategias Nacionales para la Prevención del Embarazo en Adolescentes.
 
 #### SECCION V. DE LA SALUD MENTAL
 
@@ -3424,3 +3428,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 288 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26, 27 Y 28 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
