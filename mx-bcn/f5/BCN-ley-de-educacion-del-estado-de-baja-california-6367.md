@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2018-11-30"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -289,9 +289,11 @@ XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concien
 
 XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos. Asimismo, se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
+XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentara el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos. Para lo cual, se deberá solicitar a la Secretaría de Protección al Ambiente del Estado, el apoyo didáctico para implementar actividades permanentes de separación de basura dentro del plantel educativo. Si de dichas actividades se llegasen a obtener recursos económicos producto de la venta de los bienes para reciclaje, serán aplicados, al mantenimiento o mejora del plantel educativo, observándose en todo momento las normas de transparencia y rendición de cuentas.
+
+Así mismo, se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -435,11 +437,11 @@ XXIX.- Garantizar y fomentar en las escuelas públicas de educación básica, el
 
 XXX.- Establecer mecanismos de orientación vocacional, tendientes a orientar a los estudiantes de educación media superior. Así como, a difundir información sobre la oferta de puestos de trabajo y el nivel de ingreso para los graduados de las distintas carreras.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
 
-XXXI.- Coordinar y promover el establecimiento (sic) lineamientos de atención para el ingreso en educación media superior y superior de alumnos en condición de discapacidad; y
+XXXI.- Operar servicios educativos en forma permanente para atender a quienes hayan sido repatriados, y se encuentren en situación de vulnerabilidad y rezago educativo, para que concluyan la educación básica y media superior, otorgando facilidades de acceso, ingreso, permanencia y egreso, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2019)</small>
 
 XXXII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
@@ -543,13 +545,15 @@ XIX.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pres
 
 XX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2019)</small>
 
-ARTICULO 16 TER.- Las autoridades educativas deben impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos, para lo cual se aprovechará la capacidad escolar instalada en horarios y días en que no se presten los servicios educativos ordinarios.
+ARTICULO 16 TER.- Las autoridades educativas deben diseñar, impulsar e implementar programas y escuelas dirigidos a los padres y madres de familia o tutores, con asistencia participativa obligatoria de los mismos, con el objeto de proporcionarles las herramientas necesarias para tener una convivencia sana, basada en valores que contribuyan al fortalecimiento familiar y reforzamiento del tejido social, a efecto de permitirles dar mejor atención a sus hijos o pupilos, para lo cual se aprovechará la capacidad escolar instalada en horarios y días en que no se presten los servicios educativos ordinarios.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
 Asimismo, apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros. Será de carácter obligatorio para las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, asistir a una actividad anual sobre prevención de delitos contra la libertad y seguridad sexual de las personas, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
 
 Las autoridades educativas establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
 
@@ -557,9 +561,15 @@ Las autoridades educativas establecerán, de forma paulatina y conforme a la suf
 
 Promoverán y apoyarán la creación de huertos escolares en todas las escuelas de educación básica, tanto en zonas rurales como urbanas, a fin de que los alumnos obtengan una herramienta para la autoproducción alimentaria, tanto en sus planteles escolares como en sus hogares.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
+
 Igualmente, impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
+
 Para tales efectos, el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela deberá sujetarse a los lineamientos que a través de disposiciones de carácter general emita la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
 
 Los resultados de calidad educativa derivados de estas acciones serán evaluados por las autoridades educativas de conformidad con los lineamientos que para tal efecto expida el Instituto Nacional para la Evaluación de la Educación.
 
@@ -2234,3 +2244,21 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Para efectos de la implementación de la presente reforma, el titular de la Secretaría de Educación y Bienestar Social, suscribirá un convenio de colaboración con autoridades públicas, universidades, así como organismos e instituciones que tengan como fin la protección al ambiente, nutrición y la agricultura, desarrollando programas de servicio social que hagan posible la práctica de los objetivos de esta reforma.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 216 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 218 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XVIII DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 16 TER DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
