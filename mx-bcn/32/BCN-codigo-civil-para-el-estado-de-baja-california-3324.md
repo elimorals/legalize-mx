@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2018-11-30"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -12529,7 +12529,9 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
-El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; y de veinte años para las fincas destinadas al comercio o al ejercicio de una industria.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
@@ -13591,7 +13593,9 @@ El mandatario que renuncie tiene obligación de seguir el negocio mientras el ma
 
 Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2471.
 
-## TITULO DECIMO. DEL CONTRATO DE PRESTACIONES DE SERVICIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2019)</small>
+
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
@@ -13599,9 +13603,11 @@ Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero 
 
 El que presta y el que recibe los servicios profesionales, pueden fijar, de común acuerdo, retribución debida por ellos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 2480.
 
-Cuando no hubiere habido convenio, los honorarios se regularán atendiendo juntamente a la costumbre del lugar, a la importancia de los trabajos prestados, a la del asunto o caso en que se prestaren, a las facultades pecuniarias del que recibe el servicio y a la reputación profesional que tenga adquirida el que lo ha prestado. Si los servicios prestados estuvieren regulados por arancel, éste servirá de norma para fijar el importe de los honorarios reclamados.
+Cuando no hubiere habido convenio, los honorarios se regularán atendiendo juntamente a la costumbre del lugar, a la importancia de los trabajos prestados, a la del asunto o caso en que se prestaren, a las posibilidades económicas del que recibe el servicio y a la reputación profesional que tenga adquirida el que lo ha prestado. Si los servicios prestados estuvieren regulados por arancel, éste servirá de norma para fijar el importe de los honorarios reclamados.
 
 ###### ARTICULO 2481.
 
@@ -13611,25 +13617,35 @@ Los que sin tener el título correspondiente ejerzan profesiones para cuyo ejerc
 
 En la prestación de servicios profesionales pueden incluirse las expensas que hayan de hacerse en el negocio en que aquéllos se presten. A falta de convenio sobre su reembolso, los anticipos serán pagados en los términos del artículo siguiente, con el rédito legal; desde el día en que fueren hechos, sin perjuicio de la responsabilidad por daños y perjuicios cuando hubiere lugar a ella.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 2483.
 
-El pago de los honorarios y de las expensas, cuando las haya, se hará en el lugar de la residencia del que ha prestado los servicios profesionales, inmediatamente que preste cada servicio o al fin de todos, cuando se separe el profesor o haya concluído el negocio o trabajo que se le confió.
+El pago de los honorarios y de las expensas, cuando las haya, se hará en el lugar de la residencia del que ha prestado los servicios profesionales, inmediatamente que preste cada servicio o al fin de todos, cuando se separe el profesionista o haya concluido el negocio o trabajo que se le confió.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 2484.
 
-Si varias personas encomendaren un negocio, todas ellas serán solidariamente responsables de los honorarios del profesor y de los anticipos que hubiere hecho.
+Si varias personas encomendaren un negocio, todas ellas serán solidariamente responsables de los honorarios del profesionista y de los anticipos que hubiere hecho.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 2485.
 
-Cuando varios profesores en la misma ciencia presten sus servicios en un negocio o asunto, podrán cobrar los servicios que individualmente haya prestado cada uno.
+Cuando varios profesionistas en la misma ciencia presten sus servicios en un negocio o asunto, podrán cobrar los servicios que individualmente haya prestado cada uno.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 2486.
 
-Los profesores tienen derecho de exigir sus honorarios, cualquiera que sea el éxito del negocio o trabajo que se les encomiende, salvo convenio en contrario.
+Los profesionistas tienen derecho de exigir sus honorarios, cualquiera que sea el éxito del negocio o trabajo que se les encomiende, salvo convenio en contrario.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 2487.
 
-Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen cuando no diere éste aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2463.
+Siempre que un profesionista no pueda continuar prestando sus servicios, deberá avisar oportunamente a las personas que lo ocupen, quedando obligado a satisfacer los daños y perjuicios que se causen cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2463.
 
 ###### ARTICULO 2488.
 
@@ -16650,3 +16666,15 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 297 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 2272 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 299 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL TÍTULO DÉCIMO DEL LIBRO CUARTO, ASÍ COMO LA REFORMA A LOS ARTÍCULOS 2480, 2483, 2484, 2485, 2486, 2487 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
