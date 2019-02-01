@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2018-06-09"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -598,6 +598,10 @@ Corresponde al Ejecutivo del Estado, así como a los Gobiernos Municipales, en l
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2018)</small>
 
 El Ejecutivo del Estado, en los términos que dispongan la Constitución Política de los Estados Unidos Mexicanos así como las leyes relacionadas con el Desarrollo Social y la producción de alimentos, promoverá políticas públicas, reconociendo que la producción de alimentos, su distribución y procesamiento para el consumo humano, se consideran como una actividad de carácter estratégico. Por tanto, el Ejecutivo del Estado establecerá una coordinación efectiva con el gobierno federal para contribuir a la soberanía y seguridad alimentaria de la nación, mediante el impulso a la producción agropecuaria.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos cuarto, quinto, sexto, octavo, noveno, décimo y undécimo de este artículo, las autoridades tanto del orden estatal como municipal en el ámbito de sus respectivas competencias, deberán implementar políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezcan la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -4774,3 +4778,15 @@ PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamiento
 SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 286 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
+
+CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
