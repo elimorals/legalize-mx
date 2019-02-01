@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-fomentar-la-donacion-altruista-en-materia-12166"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-06"
-last_updated: "2011-05-13"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
 
-LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
+LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de febrero de 1998.
 
@@ -53,13 +53,53 @@ En el Estado de Baja California queda prohibido el desperdicio de alimentos, cua
 
 Se consideran susceptibles de aprovechamiento aquellos alimentos que, siendo inútiles para su dueño, se encuentren en condiciones aptas para el consumo humano, conforme a los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+###### ARTICULO 3°.
+
+Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, a todos los productos alimenticios sólidos o líquidos, naturales o transformados que tienen garantías de inocuidad alimentaria para consumo humano, que ya no sean comercializables o excedentarios, disponibles para su distribución gratuita.
+
+El Estado y los Municipios promoverán y apoyarán en coordinación con las empresas restauranteras y hoteleras la donación de alimentos preparados o excedentarios, apoyándose para la recolección y traslado con prestadores de servicio social de preparatorias y universidades públicas y privadas existentes en el Estado.
 
 ###### ARTICULO 3º.
 
 Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, el desecho de piezas que en su conjunto sobrepasen los cien kilogramos de peso.
 
 ### CAPITULO II. DE LAS DEFINICIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+###### ARTICULO 4°.
+
+Para los efectos de este ordenamiento se entiende por:
+
+DIF.- Sistema para el Desarrollo Integral de la Familia de Baja California.
+
+Instituciones.- Las instituciones privadas de Asistencia Social con reconocimiento oficial.
+
+Donante.- Persona física o moral que transmite a título gratuito a las instituciones Privadas de Asistencia Social con reconocimiento oficial, alimentos susceptibles de aprovechamiento altruista por los beneficiarios.
+
+Donatario.- Institución que recibe del donante los alimentos que se indican en el párrafo que precede, para su distribución a los beneficiarios.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
+Donación altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que favorecen al individuo su pleno desarrollo físico, mental y emocional.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Beneficiario.- La persona física que recibe a título gratuito los productos entregados por el donante, por carecer temporal o permanentemente de recursos económicos para obtener los alimentos necesarios para subsistir.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Bancos de Alimentos.- Organizaciones públicas, sociales o privadas sin fines de lucro, cuyo objetivo es recolectar y recibir en donación los alimentos aptos para consumo humano para la distribución en favor de los beneficiarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Alimento Susceptible de Donación Altruista.- Todos los productos a que se refiere el artículo 3 primer párrafo de esta ley. y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
+
+Desperdicio de Alimentos.- Son los alimentos que se tiran o desperdician en alguna parte de las cadenas alimentarias que conducen a la producción o elaboración de productos comestibles destinados al consumo humano.
 
 ###### ARTICULO 4º.
 
@@ -244,3 +284,9 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 13 DE MAYO DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 262 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 4 DE LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
