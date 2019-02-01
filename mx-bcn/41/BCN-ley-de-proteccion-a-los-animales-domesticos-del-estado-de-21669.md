@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2018-05-18"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -451,13 +451,23 @@ Es responsable de las faltas previstas en esta ley, quien de cualquier modo part
 
 Las violaciones e infracciones cometidas a la presente Ley, se sancionarán con:
 
-I.- Apercibimiento;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+I.- Apercibimiento público o privado;
 
 II.- Multa, y
 
 III.- Arresto Administrativo hasta por 36 horas.
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2019)</small>
+
+IV.- Decomiso de animales.
+
 La aplicación de las sanciones anteriores se efectuarán en la forma y términos que señale el reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Independientemente de la sanción que resulte aplicable por la infracción cometida a la presente ley, la autoridad que tuvo conocimiento deberá dar vista al Ministerio Público para que éste proceda de acuerdo a lo establecido en el Código Penal para el Estado de Baja California.
 
 ###### ARTICULO 58.
 
@@ -632,3 +642,11 @@ P.O. 18 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 213 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 37 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 257 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN IV Y UN PÁRRAFO ÚLTIMO AL ARTÍCULO 57 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las autoridades municipales deberán realizar las adecuaciones a sus reglamentos.
