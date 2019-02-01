@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2018-09-14"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -857,15 +857,19 @@ En caso de manifestarse oposición al establecimiento del giro mercantil, el Tes
 
 Por otra parte el solicitante, tendrá los mismos derechos que los opositores y podrá aportar las pruebas que estimen (sic) conducentes. Una vez hecho lo anterior, la Tesorería Municipal deberá de resolver lo conducente en un término que no exceda de 15 días hábiles contados a partir del día siguiente de la celebración de la audiencia. En la inteligencia de que ambas partes podrán aportar la pruebas reguladas en el Código de Procedimiento (sic) Civiles para el Estado de Baja California, a excepción de la prueba confesional y declaración de parte. En caso de que no haya oposición o que los opositores no hayan acreditado y justificado sus argumentos, se seguirá con el trámite de la solicitud del permiso salvo el caso de que lo (sic) dictámenes de uso de suelo, de Bomberos y Protección Civil, de Seguridad Pública y demás autoridades o del propio Departamento de Comercio, Alcoholes y Espectáculos Públicos se desprenda la improcedencia del otorgamiento del permiso en cuyo caso se suspenderá el trámite o se negara dicho permiso.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 39.
 
-Una vez expedido el certificado de factibilidad e integrado el expediente de cada solicitud, el Departamento de Comercio, Alcoholes y Espectáculos Públicos, formulará el proyecto de otorgamiento o rechazo de permiso solicitado; acto seguido remitirá dicho proyecto al Tesorero Municipal, quien lo hará del conocimiento del Presidente Municipal y éste a su vez lo turnará a la Comisión de Gobernación y Legislación en Sesión de Cabildo con toda la documentación respectiva para su análisis, estudio, y el dictamen correspondiente.
+Una vez expedido el certificado de factibilidad e integrado el expediente de cada solicitud, el Departamento de Comercio, Alcoholes y Espectáculos Públicos, formulará el proyecto de otorgamiento o rechazo de permiso solicitado; acto seguido remitirá dicho proyecto al Tesorero Municipal, quien lo hará del conocimiento del Presidente Municipal y éste a su vez lo turnará a la Comisión de Gobernación y Legislación en Sesión de Cabildo con toda la documentación respectiva para su análisis, estudio, y dictaminación.
 
 Una vez que la Comisión de Gobernación y Legislación haya analizado y estudiado el expediente y advierte que le faltare ratificar, modificar, subsanar, y/o integrar algún documento relacionado con los requisitos para la aprobación del permiso, no atribuible al solicitante, la Comisión de Gobernación y Legislación, elaborará por conducto del Regidor Presidente, un requerimiento en donde especificará los motivos por los cuales el expediente no cumple con la normatividad establecida en el presente reglamento.
 
 La Presidencia de la Comisión de Gobernación y Legislación, remitirá el requerimiento al Departamento de Comercio, Alcoholes y Espectáculos Públicos, quien gozará de un plazo de 15 días hábiles para atenderlo, debiendo en su caso ratificar, modificar, subsanar o integrar algún documento del expediente.
+
+Posteriormente, la Comisión presentará el dictamen ante el Ayuntamiento, para que en ejercicio de sus facultades, apruebe o no, el permiso permanente.
+
+Una vez aprobado por el Ayuntamiento el permiso permanente, el Departamento de Comercio, Alcoholes y Espectáculos Públicos deberá entregar permiso al solicitante, de conformidad con el artículo 40 del presente reglamento, en un término no mayor a 10 días hábiles, previo pago de los derechos correspondientes.
 
 > <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -1738,3 +1742,9 @@ P.O. 14 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado y/o en Gaceta Municipal de Ensenada.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO DE CABILDO POR EL QUE "SE APRUEBA POR EL XXII AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, LA ADICIÓN DEL ARTÍCULO 39 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA BAJA CALIFORNIA".]
+
+ÚNICO.- adición del Artículo 39 del Reglamento de Alcoholes para el Municipio de Ensenada Baja California, Entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado de Baja California y/o Gaceta Municipal.
