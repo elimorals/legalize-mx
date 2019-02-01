@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2018-11-30"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1021,7 +1021,7 @@ III.- (DEROGADA, P.O. 8 DE JUNIO DE 2018)
 
 ###### Artículo 86.
 
-Requisitos para la substitución.- Para los efectos de la substitución, se requerirá, además, que:
+Requisitos para la substitución.- Para los efectos de la substitución, se requerira, además, que:
 
 > <small>(REFORMADA POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4753,6 +4753,24 @@ Artículo 342 QUINQUIES.- Se exceptúan de las disposiciones de este capítulo, 
 
 Asimismo, se exceptúa la caza, la pesca, las buenas prácticas pecuarias, las de control animal y salubridad llevadas a cabo por autoridad competente, así como las actividades científicas, de investigación y demás similares, siempre que se realicen en términos de las disposiciones que resulten aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+Artículo 342 SEXTIES. Se impondrá de uno a cinco años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización a quien:
+
+I. Organice, induzca, provoque, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas, o las permita en su propiedad.
+
+II. Anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+III. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+IV. Ocasione o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+V. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Asimismo, incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
 > <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO SEXTO
@@ -5889,7 +5907,7 @@ SEGUNDO.- Las reformas a los artículos 261 QUINQUIES, 288, 289, 290, 292, 293, 
 
 P.O. 30 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5902,3 +5920,11 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 298 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 342 SEXTIES AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado, para los efectos legales correspondientes.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
