@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2018-12-05"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -458,8 +458,6 @@ El mayor de edad dispone libremente de su persona y de sus bienes, salvo los cas
 ###### Art. 48.
 
 La capacidad de ejercicio se reconoce por la ley a los mayores de edad, así como a las personas menores de edad emancipadas, en los casos que determine la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1135,6 +1133,12 @@ Las personas jurídicas por su origen y formación, se clasifican en públicas y
 
 Son personas jurídicas públicas, aquéllas que son creadas por una disposición legislativa o por un acto administrativo de gobierno.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+###### Art. 168 Bis.
+
+En todos los casos en que la ley o cualquier instrumento legal se refiera a derechos patrimoniales de la beneficencia pública, le corresponde al Sistema Estatal para el Desarrollo Integral de la Familia, su percepción y administración.
+
 ###### Art. 169.
 
 Son personas jurídicas privadas, aquéllas que tienen como origen un acto de carácter particular.
@@ -1713,27 +1717,19 @@ Art. 267 bis.- EL HOMBRE Y LA MUJER, acreditarán ante el Oficial del Registro C
 
 Son impedimentos para celebrar el matrimonio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. Ser menor de 18 años de edad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 II. El parentesco de consanguinidad, legítimo o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos, medios hermanos y primos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos. El parentesco de afinidad en línea recta, sin limitación alguna;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 III. El parentesco de consanguinidad en línea colateral en el tercero y cuarto grados;
 
 IV. El matrimonio subsistente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 V. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2015)
 
@@ -1751,8 +1747,6 @@ IX. La fuerza o miedo graves;
 
 X. No acreditar ante el Oficial del Registro Civil, que los interesados recibieron el curso prematrimonial, a que se hace referencia en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 De estos impedimentos sólo es dispensable el enunciado en la fracción III.
@@ -1760,8 +1754,6 @@ De estos impedimentos sólo es dispensable el enunciado en la fracción III.
 ###### Art. 269.
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 270.
 
@@ -1780,8 +1772,6 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 ###### Art. 273.
 
 Los cónyuges deben contribuir, cada uno por su parte, a los fines del matrimonio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1803,8 +1793,6 @@ Los deberes y derechos que nacen del matrimonio serán iguales para los cónyuge
 
 Cada uno de los cónyuges tiene un derecho preferente sobre los bienes propios del otro, y sobre los productos e ingresos que correspondan a los gastos de alimentación para el cónyuge y sus hijos, pudiendo pedir el aseguramiento de bienes, para hacer efectivo este derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 277.
@@ -1825,8 +1813,6 @@ Es deber y obligación de los cónyuges, la fidelidad sexual y afectiva, procura
 
 Los cónyuges mayores de edad, tienen capacidad para administrar, disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 281.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
@@ -1846,8 +1832,6 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 ###### Art. 285.
 
 Las capitulaciones matrimoniales en que se pacte la separación de bienes, constarán en escritura pública; pero serán válidas las celebradas antes o en el acto mismo del matrimonio, aun cuando consten en documento privado, siempre que fueren ratificadas ante el Oficial del Registro Civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 286.
 
@@ -2059,8 +2043,6 @@ Son igualmente cargas de la sociedad, los gastos de inventarios y demás que se 
 
 #### Sección Tercera. De la liquidación de la sociedad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 327.
@@ -2175,8 +2157,6 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos, o en su defecto, de la sociedad legal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 352.
@@ -2244,8 +2224,6 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un tercero, 
 ###### Art. 367.
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2319,8 +2297,6 @@ V. La subsistencia de matrimonio anterior de cualesquiera de los otorgantes.
 
 La acción de ilegitimidad, prevista en el artículo anterior, podrá ejercitarse en todo tiempo, en los casos señalados en las cuatro primeras fracciones, por los cónyuges o por sus ascendientes; en el supuesto de la fracción V, por el cónyuge del primer matrimonio, por los hijos de aquél y por los cónyuges que contrajeron el segundo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 380.
@@ -2339,13 +2315,9 @@ II. El error acerca de la persona con quien se contrae; y
 
 III. Celebrarse concurriendo alguno de los impedimentos señalados en las fracciones de la V a la IX del artículo 268.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 382.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 383.
 
@@ -2355,21 +2327,15 @@ III. Celebrarse concurriendo alguno de los impedimentos señalados en las fracci
 
 La acción de ilegitimidad por invalidez que nace de error sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por consentido y por ende queda subsistente el matrimonio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 385.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 386.
 
 Cesa esta causa de ilegitimidad si han pasado los treinta días sin que se haya pedido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 387.
 
@@ -2809,8 +2775,6 @@ Cuando no exista otro apoyo, los hermanos mayores tienen la obligación de dar a
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 438.
@@ -2852,8 +2816,6 @@ Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de l
 ###### Art. 445.
 
 La obligación de dar alimentos no comprende la de proveer de capital a los acreedores alimentarios para ejercer el oficio, arte o profesión a que se hubieren dedicado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3004,8 +2966,6 @@ En el juicio de contradicción de la paternidad, serán oídos la madre y el hij
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 En todo caso, el juez atenderá el interés superior de los menores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3225,15 +3185,11 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 510.
 
 Cuando el padre y la madre que no vivan juntos, reconozcan a una niña, niño o adolescente en el mismo acto, podrán convenir los términos de la guarda y custodia compartida y, en su caso, el régimen de visitas y convivencia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, la Procuraduría de Protección de Niñas, Niños y Adolescentes, resolverá lo que creyere más conveniente al interés superior de la niñez.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3299,8 +3255,6 @@ III. Percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 520.
@@ -3328,8 +3282,6 @@ II. Los mayores de edad cuando sean incapaces.
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
 III. Los mayores de edad, si antes de serlo hubieran estado bajo el cuidac (sic) personal de los presuntos adoptantes y existieran entre ellos lazos afectivos c (sic) carácter filial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3360,8 +3312,6 @@ En todos los casos los adoptantes deben tener al momento del inicio de los trám
 ###### Art. 522.
 
 En todos los casos de adopción, se tendrán como preferentes los intereses del adoptado sobre los de los adoptantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3417,15 +3367,11 @@ La adopción tiene el carácter de confidencial. Se deberá garantizar la discre
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 531.
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá darle seguimiento a todos los casos de adopción por un período mínimo de 2 años, a partir de que fue otorgada para procurar se cumplan los fines en beneficio de la niña, niño o adolescente, dictando en caso necesario las providencias para ello, inclusive, para el caso de que la niña, niño o adolescente resida fuera del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3446,8 +3392,6 @@ El juez puede autorizar a favor de un solo adoptante, la adopción de dos o más
 ###### Art. 534.
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3470,8 +3414,6 @@ El juez deberá garantizar el derecho de audiencia y defensa de los parientes qu
 ###### Art. 536.
 
 Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3567,8 +3509,6 @@ El adoptado podrá solicitar la revocación de la adopción simple, dentro del a
 
 Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 546.
@@ -3576,8 +3516,6 @@ Los derechos y obligaciones que resulten del parentesco natural no se extinguen 
 El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando cumpla con los requisitos que para la adopción plena contempla éste mismo Código, y la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
 Para este caso, el juez escuchará, cuando sea posible, a quien otorgó inicialmente el consentimiento para la adopción, se cerciorará de que los adoptantes cumplan los requisitos de Ley, dará vista al Agente Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes y si no hay oposición, el Juez procederá de conformidad con el Artículo 1031 del Código de Procedimientos Civiles del Estado de Jalisco.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 547.
 
@@ -3667,8 +3605,6 @@ III. Definitiva cuando ésta es por un periodo continuo e indeterminado.
 
 En los casos de guarda y custodia temporal, sea esta además personal o institucional y cuando sea posible, el Juez dictará las medidas necesarias para alcanzar la reincorporación de la persona menor de edad a su ambiente familiar a la brevedad de tiempo posible, siempre y cuando no haya perjuicio al interés superior de la niñez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 557.
@@ -3707,8 +3643,6 @@ En todo caso la guarda y custodia será gratuita. No se considerará que ejercen
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 560.
@@ -3722,8 +3656,6 @@ El arreglo a que lleguen los padres sobre la guarda y custodia de sus hijos cons
 ###### Art. 561.
 
 A falta de convenio sobre la guarda y custodia de los hijos, el Juez resolverá lo conducente atendiendo al interés superior de la niñez de conformidad a lo dispuesto por el artículo 406. Para tal efecto el Juez podrá decretar las medidas que considere necesarias para proteger la integridad de los hijos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3746,8 +3678,6 @@ En ningún supuesto se podrá retener a la niña, niño o adolescente, o condici
 En todos los casos de guarda y custodia de personas menores de edad de conformidad con el principio de unidad familiar se mantendrá juntos a los hermanos.
 
 El Juez solo podrá decretar la separación de hermanos menores de edad cuando exista impedimento grave para su convivencia, a tal grado que de forzarla sería en detrimento de los legítimos intereses de alguno de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3793,13 +3723,9 @@ IV. Se acredite que no obstante existe mandato judicial de abstenerse de hacerlo
 
 V. El padre o la madre o la persona que ejerce la custodia personal o institucional sustraiga al menor de edad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO SEPTIMO. De Niñas, Niños y Adolescentes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3812,8 +3738,6 @@ V. El padre o la madre o la persona que ejerce la custodia personal o institucio
 Niñas, niños y adolescentes deben ser objeto de especial atención, cuidado y reconocimiento.
 
 Son niñas y niños las personas menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3861,8 +3785,6 @@ VIII. La persona menor de edad sea escuchada en privado, siempre con respeto a s
 
 Para efecto de lo dispuesto por la fracción VII, podrán autorizarse entrevistas previas a la audiencia de escucha, quedando el padre o madre custodio o quien ejerza la guarda y custodia personal o institucional obligado a dar cumplimiento a los requerimientos del asistente designado por el Juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 572.
@@ -3872,8 +3794,6 @@ Cuando los padres no convengan la guarda y custodia de sus hijos, el Juez de la 
 I. Con sus padres;
 
 II. Cuando no convivan ambos padres, cualquiera de los dos ejercerá sobre él la guarda y custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su guarda y custodia, además de no tener una conducta nociva a la salud física o psíquica de la niña, niño o adolescente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014 Y P.O. 5 DE SEPTIEMBRE DE 2015)
 
@@ -3963,8 +3883,6 @@ La negativa reiterada y sin causa justificada del padre o madre custodio o de la
 
 De igual forma la modificación de la guarda y custodia tendrá lugar cuando el padre o madre custodio cambie de residencia y no informe al padre o madre no custodio ni al Juez sobre el nuevo domicilio en el que se desenvolverá el régimen de visitas y convivencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 577.
@@ -4002,8 +3920,6 @@ IV. Confiere el derecho, el deber y la responsabilidad de cuidar, criar y aplica
 ###### Art. 581.
 
 La patria potestad se ejerce por ambos progenitores o, en su caso, por el supérstite.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4091,15 +4007,11 @@ Al efecto, el precio de la venta se depositará en una institución de crédito 
 
 Las personas que ejercen la patria potestad tienen obligación de dar cuenta al término de la misma, a sus hijos y nietos en su caso sobre la administración de los bienes que les correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 595.
 
 En todos los casos en que las personas que ejercen la patria potestad tengan un interés opuesto al de las niñas, niños y adolescentes, o por una representación deficiente o dolosa, serán estos representados en suplencia, en juicio y fuera de él, por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4110,8 +4022,6 @@ Los jueces tienen la facultad en la resolución que dicten, de tomar las medidas
 Estas medidas se seguirán a instancia de las personas interesadas o por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ### CAPITULO I. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4221,8 +4131,6 @@ I. Cuando tengan sesenta años cumplidos; y
 
 II. Cuando por el mal estado habitual de su salud, no pueden atender debidamente su desempeño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO NOVENO. De Tutela y la Representación
@@ -4241,8 +4149,6 @@ I. Representación coadyuvante: Es aquella que de manera oficiosa realiza de aco
 
 II. Representación en suplencia: A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 604.
@@ -4259,21 +4165,15 @@ b) Tengan intereses opuestos a quien ejerce sobre ellos la patria potestad; y
 
 c) En el caso de oposición de intereses entre dos o más niñas, niños o adolescentes sujetos a una misma patria potestad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 605.
 
 Tienen incapacidad natural y legal las personas que no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 606.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4281,15 +4181,11 @@ Tienen incapacidad natural y legal las personas que no puedan gobernarse y oblig
 
 La tutela y la representación son un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 608.
 
 El que se rehusare sin causa legal a desempeñar el cargo de tutor o de representante, es responsable de los daños y perjuicios que de su negativa resulten al incapaz.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4300,8 +4196,6 @@ La tutela se desempeñará por el tutor, con la intervención del curador; sin p
 ###### Art. 610.
 
 Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4335,8 +4229,6 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 617.
@@ -4344,8 +4236,6 @@ Los tutores y curadores no pueden ser removidos de su cargo sin que previamente 
 La niña, niño o adolescente que no pueda gobernarse y obligarse por sí misma o con asistencia de un representante o manifestar su voluntad por algún medio estará sujeta a tutela o representación, según corresponda, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción en el que serán oídos, el incapaz, el tutor y curador anteriores y se determinará el grado de incapacidad y las limitaciones a la capacidad de ejercicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4369,15 +4259,11 @@ Al presentarse algún cambio en la diversidad funcional del incapaz deberá ajus
 
 Las sentencias a que se refiere este artículo se pronunciarán conforme a las mismas reglas establecidas para declarar la interdicción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 621.
 
 El Juez de Primera Instancia del domicilio del incapaz y, si no lo hubiere, el Juez Menor o el de Paz, con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapaz hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4386,8 +4272,6 @@ El Juez de Primera Instancia del domicilio del incapaz y, si no lo hubiere, el J
 El juez que no cumpla las prescripciones relativas a la tutela y a la representación, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces y niñas, niños y adolescentes.
 
 ### CAPITULO III. De la Tutela Legítima de Niñas, Niños y Adolescentes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4405,8 +4289,6 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluidos estuvieren ausentes o fueren declarados incapaces, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 626.
@@ -4418,8 +4300,6 @@ El que en su testamento, aunque sea adolescente emancipado, deje bienes ya sea p
 ###### Art. 627.
 
 Si fueren varias las personas menores de edad, podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, sobre todo, cuando los intereses de alguno o algunos fueren opuestos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4443,15 +4323,11 @@ Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrad
 
 Lo dispuesto en el artículo anterior, no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 632.
 
 Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes; a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a niñas, niños y adolescentes, en cuyo caso, podrá dispensarlas o modificarlas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4463,8 +4339,6 @@ Si por un nombramiento condicional de tutor o por algún otro motivo, faltare te
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPITULO IV. De la tutela legítima del mayor incapacitado
@@ -4473,15 +4347,11 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 Hay lugar a tutela legítima o representación originaria cuando no hay quien ejerza la patria potestad, ni tutor testamentario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 636.
 
 La tutela legítima corresponde a los hermanos, prefiriéndose a los que lo sean por ambas líneas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4492,8 +4362,6 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 ###### Art. 638.
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4510,8 +4378,6 @@ III. De niñas, niños y adolescentes que se encuentren en acogimiento residenci
 En todos los casos se estará a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y la legislación para la operación de albergues.
 
 ### CAPITULO V. De la tutela dativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4533,8 +4399,6 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 644.
@@ -4548,8 +4412,6 @@ Para el caso de quienes se encuentren internados en albergues o centros de asist
 ###### Art. 645.
 
 El tutor del incapaz que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4579,33 +4441,23 @@ I. Cuando en un documento público expreso una persona mayor de edad hubiere eje
 
 II. En los demás casos establecidos por la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 649.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 650.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 651.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 652.
 
 Para asuntos judiciales del adolescente emancipado se llamará a la representación coadyuvante.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 653.
 
@@ -4713,8 +4565,6 @@ VI. El tutor que permanezca ausente por más de tres meses, del lugar en que se 
 
 (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 657.
@@ -4791,8 +4641,6 @@ Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores te
 
 ### CAPITULO IX. Del desempeño de la tutela
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 669.
@@ -4806,8 +4654,6 @@ II. Hipoteca o prenda; o
 III. Fianza.
 
 La garantía prendaria que preste el tutor, se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ella, se depositarán en poder de persona de notoria solvencia y honorabilidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4849,8 +4695,6 @@ Siempre que el tutor sea también coheredero del incapaz y éste no tenga más b
 
 Siendo varios los incapaces cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos, garantía por la parte que corresponda a su representado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 676.
@@ -4868,8 +4712,6 @@ II. Por el valor de los bienes muebles;
 III. Por el de los enseres y semovientes, así como por el de los productos de las fincas rústicas en dos años, calculados por peritos; y
 
 IV. En las negociaciones mercantiles o industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculados por los libros si están llevados en debida forma, o a juicio de peritos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4889,15 +4731,11 @@ Si el tutor, dentro de tres meses de aceptado su nombramiento, no pudiere dar la
 
 Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario riguroso y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración, requerirá la autorización judicial, la que se concederá, si procede oyendo al curador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 682.
 
 Al presentar el tutor su cuenta anual, el curador debe promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Agente de la Procuraduría Social tiene igual facultad y hasta el Juez puede exigir esa información de oficio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4961,15 +4799,11 @@ Los gastos de alimentación y educación del menor deben regularse de manera que
 
 Cuando el tutor entre en el ejercicio de su cargo, el juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor; sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones, podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 689.
 
 El tutor observará el cumplimiento de la educación obligatoria de su pupilo, y le destinará la profesión u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, la niña, niño o adolescente puede, por conducto del curador, la Procuraduría de Protección de Niñas, Niños y Adolescentes o por sí misma, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4981,8 +4815,6 @@ Si el que tenía la patria potestad sobre la niña, niño o adolescente le hubie
 
 Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 692.
@@ -4990,8 +4822,6 @@ Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y ed
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demande su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapaces. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
 Igual acción podrá ejercer la Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría Social.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5045,8 +4875,6 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el error
 
 La omisión de bienes en el inventario, no puede perjudicar los intereses del incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 700.
@@ -5057,8 +4885,6 @@ El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del
 
 Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 702.
@@ -5068,8 +4894,6 @@ Cuando entre los bienes del incapaz se encuentren establecimientos agrícolas, c
 ###### Art. 703.
 
 El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela; el que proceda de las redenciones de capital y el que se adquiera de cualquier otro modo, será invertido por el tutor procurando la mayor rentabilidad y seguridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5082,8 +4906,6 @@ Mientras que se hacen las imposiciones del capital, el tutor con intervención d
 ###### Art. 705.
 
 Los bienes inmuebles, los derechos anexos a ellos y los muebles valiosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del incapaz, debidamente justificada, y previa la autorización judicial que se dictará con audiencia del curador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5105,8 +4927,6 @@ Los tutores no podrán vender valores comerciales, industriales, títulos de ren
 
 Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapaz como copropietario, se comenzará por mandar justipreciar dichos bienes, para fijar con toda precisión su valor y la parte que en ellos represente el incapaz, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que debe hacerse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 709.
@@ -5119,15 +4939,11 @@ Para todos los gastos extraordinarios que no sean de conservación ni de reparac
 
 Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros, los negocios del incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 711.
 
 El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5147,8 +4963,6 @@ El tutor no puede comprar o arrendar los bienes del incapaz, ni hacer contrato a
 
 Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 715.
@@ -5160,8 +4974,6 @@ El tutor no podrá hacerse pago de sus créditos contra el incapaz sin la confor
 ###### Art. 716.
 
 El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapaz.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5209,8 +5021,6 @@ El tutor tiene obligación de admitir las donaciones simples, legados y herencia
 
 La expropiación por causa de utilidad pública, de bienes de incapaces, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 725.
@@ -5229,15 +5039,11 @@ Cuando la tutela del incapaz recaiga en el cónyuge, éste sólo podrá gravar o
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 728.
 
 En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapaz, del Agente de la Procuraduría Social o la Procuraduría de Protección de Niñas, Niños y Adolescentes, según corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5245,21 +5051,15 @@ En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala
 
 El tutor tiene derecho a una retribución sobre los rendimientos que produzcan los bienes del incapaz, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y, para los tutores legítimos y dativos, el Juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 730.
 
 La retribución así fijada por el Juez, no podrá (sic) mayor al cinco por ciento de los rendimientos líquidos de dichos bienes
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 731.
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 732.
 
@@ -5276,8 +5076,6 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 ###### Art. 734.
 
 El tutor está obligado a rendir al Juez, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5313,15 +5111,11 @@ Las cuentas deben rendirse en el lugar en que se desempeñe la tutela.
 
 Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al incapaz, si esto ha sido sin culpa del primero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 742.
 
 Ninguna anticipación ni crédito contra el incapaz se abonará al tutor, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador y del agente de la Procuraduría Social.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5340,8 +5134,6 @@ La obligación de dar cuentas no puede ser dispensada en contrato o testamento, 
 ###### Art. 745.
 
 El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapaz por los daños y perjuicios si no pudiere y tomare las cuentas de su antecesor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5387,8 +5179,6 @@ La obligación de entregar los bienes no se suspende por estar pendiente la rend
 
 El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido; si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 754.
@@ -5424,8 +5214,6 @@ Todas las acciones por hechos relativos a la administración de la tutela, que e
 Si la tutela hubiere fenecido durante la minoridad, la persona menor de edad podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapaces, los términos se computarán desde que cese la incapacidad.
 
 ### CAPITULO UNICO. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5467,8 +5255,6 @@ II. Los menores de edad emancipados, tratándose de negocios judiciales.
 
 El curador en todos los demás casos será nombrado por el juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 769.
@@ -5503,8 +5289,6 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este código tenga que intervenir el curador, cobrará el honorario equivalente a la mitad que le corresponda al tutor, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en su desempeño le serán cubiertos con cargo al patrimonio del incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO DECIMO. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
@@ -5518,8 +5302,6 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 La protección y restitución integral de los derechos a las niñas, niños y adolescentes estará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad a la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, misma que se aplicará de manera supletoria a lo previsto en este Código.
 
 Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales, de conformidad a la legislación de la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5546,8 +5328,6 @@ VIII. Emitir bajo el principio del interés superior de la niñez, un diagnósti
 IX. Coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada; y
 
 X. Las demás previstas en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5672,8 +5452,6 @@ Cuando se constituya el patrimonio de familia; por personas unidas por vínculo 
 ###### Art. 789.
 
 En caso de que el patrimonio de familia esté constituido por bienes que sirvan para obtener la manutención de los beneficiarios y a su desgaste, podrán ser sustituidos por otros de similares características, debiéndose autorizar la sustitución por el juez que decretó la constitución del patrimonio de familia y cuando se trate de automotores, se dará aviso a las autoridades correspondientes para los efectos legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -10613,8 +10391,6 @@ La simulación es absoluta cuando el acto simulado nada tiene de real; es relati
 
 La simulación absoluta no produce efectos jurídicos. Descubierto el acto real que oculta la simulación relativa, ese acto no será nulo si no hay ley que así lo declare.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 1688.
@@ -15471,8 +15247,6 @@ V. Los acreedores de la herencia, por el importe de sus créditos, si en la mism
 
 VI. El Estado, los municipios y los organismos descentralizados, sobre los bienes de sus administradores o recaudadores, para asegurar las responsabilidades de sus respectivos cargos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 2568.
@@ -15904,8 +15678,6 @@ IV. Si ha favorecido a alguna de las partes en dicho negocio, antes de ser nombr
 V. Si ha conocido del negocio como juez o asesor, resolviendo algún punto que afecte a la sustancia de la cuestión; y
 
 VI. Cuando alguna de las partes o sus representantes, es o ha sido denunciante, querellante o acusador del árbitro de que se trate, su cónyuge, sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del cuarto, o de los afines dentro del segundo o viceversa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -17549,8 +17321,6 @@ A falta de todos los herederos llamados en los capítulos anteriores, sucederán
 
 Cuando a la muerte del marido, la viuda haya quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, para que en forma inmediata lo notifique a los que tengan un posible derecho a la herencia y éste fuera de tal naturaleza que pueda desaparecer o disminuir por el nacimiento del póstumo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 2944.
@@ -17789,8 +17559,6 @@ No hay obligación de dar alimentos a las personas que tengan bienes; pero si te
 
 Cesa el derecho de ser alimentado, tan luego el interesado deje de estar en las condiciones a que se refiere este capítulo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 2988.
@@ -17870,8 +17638,6 @@ El derecho a reclamar la herencia prescribe en diez años contados a partir del 
 ###### Art. 2994.
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -18257,8 +18023,6 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o el juicio respectivo, según se trate de cuentas de mera administración o de cuenta general de albaceazgo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 3071.
@@ -18371,8 +18135,6 @@ Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño 
 
 #### Sección Tercera. Disposiciones Comunes al albacea y al Interventor
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 3095.
@@ -18456,8 +18218,6 @@ Aprobados el inventario y las cuentas de albaceazgo, el albacea debe hacer enseg
 ###### Art. 3110.
 
 A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -19222,3 +18982,85 @@ CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de est
 QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
 
 SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda (sic) la permanencia y funcionamiento.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27229/LXII/19 QUE EXPIDE EL CÓDIGO DE ASISTENCIA SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019, DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENCE DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Código de Asistencia Social contenido en el Decreto número 17002, así como sus modificaciones.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO. Las funciones del Instituto Jalisciense de Asistencia Social (IJAS) relacionadas con las labores de asistencia social y beneficencia, serán asumidas por la Secretaría del Sistema de Asistencia Social.
+
+Las funciones relacionadas con los depósitos vehiculares y administración de bienes serán absorbidas por la Secretaría de Administración y la captación de recursos estará a cargo de la Secretaría de la Hacienda Pública.
+
+La titularidad, administración y funciones de las dependencias directas del Instituto Jalisciense de Asistencia Social pasarán al Sistema Estatal para el Desarrollo Integral de la Familia conforme a la tabla siguiente:
+
+Dependencia Directa Entidad que se hará cargo
+
+de las funciones
+
+Unidad Asistencial para Indigentes
+
+(UAPI)
+
+Centro de Terapias Especiales
+
+Sistema Estatal para el
+
+Recintos Funerarios Desarrollo Integral de la
+
+Familia (DIF)
+
+Centros de Capacitación para el Trabajo
+
+Asilo Leónidas K. Demus
+
+Los asuntos en trámite relacionados con las funciones sustantivas del Instituto Jalisciense de Asistencia Social que se extingue y sus dependencias directas, pasarán a las secretarías y entidades señaladas en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, así como del Sistema Estatal para el Desarrollo Integral de la Familia, todos del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que las labores de asistencia social y beneficencia; las funciones relacionadas con los depósitos vehiculares y administración de bienes; así como los servicios y funciones de las dependencias directas; se presten en forma ininterrumpida.
+
+QUINTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo quinto transitorio del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre del año 2019.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo, incluidos los procesos jurisdiccionales que se encuentren en trámite.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS).
+
+SÉPTIMO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), pasarán a las dependencias que, en su caso, determine el Gobernador del Estado, garantizando el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación.
+
+OCTAVO. Las relaciones laborales que tenga el Instituto Jalisciense de Asistencia Social (IJAS) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tomando en consideración que los empleados de dicho organismo son servidores públicos como lo prevé la Constitución Política del Estado de Jalisco.
+
+NOVENO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense de Asistencia Social.
+
+DÉCIMO. La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social, y en caso de encontrar alguna responsabilidad, deberá ejercer las acciones correspondientes ante las autoridades competentes.
+
+DÉCIMO PRIMERO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de (sic) Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Organismo Público Descentralizado
+
+"Instituto Jalisciense de Asistencia Social" Secretaría del Sistema
+
+(En materia de las labores de asistencia de Asistencia Social
+
+social y/o beneficencia)
+
+Organismo Público Descentralizado
+
+"Instituto Jalisciense de Asistencia Social" Secretaría de Administración
+
+(En materia de depósitos vehiculares y
+
+administración de bienes)
+
+Organismo Público Descentralizado
+
+"Instituto Jalisciense de Asistencia Social" Secretaría de la Hacienda
+
+(En materia de captación de recursos) Pública
+
+DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
