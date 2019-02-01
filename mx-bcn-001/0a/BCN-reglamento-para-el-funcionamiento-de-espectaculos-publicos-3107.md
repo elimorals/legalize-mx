@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2018-07-20"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -121,7 +121,7 @@ De las Licencias y Requisitos para el Funcionamiento.
 
 Ninguna de las actividades a que se refiere el presente Reglamento podrá funcionar sin licencia que deberá expedir el Gobierno Municipal, siempre y cuando la expedición de tales licencias no esté reservada a otra Autoridad por Leyes o Reglamentos en vigor.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 8o.
 
@@ -133,35 +133,37 @@ a).- Nombre, domicilio y nacionalidad del solicitante.
 
 b).- Nombre que se dará al espectáculo público, actividad cultural, deportiva, de esparcimiento etc. para lo cual se solicite la licencia.
 
-c).- Ubicación del negocio o del centro de cultura, deportivo, de esparcimiento, etc.
+c).- Ubicación del negocio o del centro de cultura, deportivo, de esparcimiento, o similar.
 
-d).- Acompañar los planos debidamente aprobados por las Autoridades Sanitarias correspondientes al Gobierno del Estado y Ayuntamiento de Ensenada.
+II.- Acompañar los planos debidamente aprobados por las Autoridades Sanitarias correspondientes al Gobierno del Estado y Ayuntamiento de Ensenada.
 
-e).- Si el solicitante fuera extranjero deberá presentar los documentos que acrediten su legal permanencia en territorio nacional.
+III.- Si el solicitante fuera extranjero deberá presentar los documentos que acrediten su legal permanencia en territorio nacional.
 
-f).- Si la expedición de la licencia se solicitare por alguna Sociedad, deberá comprobar estar autorizada por la Secretaria de Relaciones Exteriores para operar y además exhibirá el testimonio de escritura pública de su acta constitutiva.
+IV.- Si la expedición de la licencia se solicitare por alguna Sociedad, deberá comprobar estar autorizada por la Secretaria de Relaciones Exteriores para operar y además exhibirá el testimonio de escritura pública de su acta constitutiva.
 
-g).- Expresión de la clase de espectáculos públicos, actividad cultural, deportiva, de esparcimiento, etc., a que se dedicará el negocio.
+d).- Expresión de la clase de espectáculos públicos, actividad cultural, deportiva, de esparcimiento, etc., a que se dedicará el negocio.
 
-h).- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por Tesorería, previa inspección y responsiva de la Dirección de Servicios Públicos e Infraestructura del Municipio de Ensenada;
+V.- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por Tesorería, previa inspección y responsiva de la Dirección de Servicios Públicos e Infraestructura del Municipio de Ensenada;
 
-i).- Exhibir los contratos celebrados con los trabajadores cuyos servicios se utilicen debiendo darse preferencia a trabajadores de nacionalidad mexicana que deben emplearse conforme a lo que dispone la Ley Federal del Trabajo. Debiendo además demostrar a satisfacción la capacidad de los mismos mediante título, Diploma, certificado, etc. ó en su defecto con el respaldo y responsiva de alguna Asociación reconocida que avale la calidad del trabajador, en cualquiera de los espectáculos a que se refiere el presente Reglamento.
+VI.- Exhibir los contratos celebrados con los trabajadores cuyos servicios se utilicen debiendo darse preferencia a trabajadores de nacionalidad mexicana que deben emplearse conforme a lo que dispone la Ley Federal del Trabajo. Debiendo además demostrar a satisfacción la capacidad de los mismos mediante título, Diploma, certificado, etc. ó en su defecto con el respaldo y responsiva de alguna Asociación reconocida que avale la calidad del trabajador, en cualquiera de los espectáculos a que se refiere el presente Reglamento.
 
-j).- Capital que se invierte en el negocio.
+e).- Capital que se invierte en el negocio.
 
-k).- Explicación de si se trata de actividades temporales o transitorias, del tiempo de duración de las mismas, etc.
+f).- Explicación de si se trata de actividades temporales o transitorias, del tiempo de duración de las mismas, etc.
 
-l).- Si se trata de Sociedades Civiles organizadas con fines de fomento de actividades artísticas, científicas o deportivas sin fines de lucro acompañarán a la solicitud el testimonio de su escritura constitutiva, además de la constancia de estar registrada ante la Secretaria de Educación y Bienestar Social del Estado.
+VII.- Si se trata de Sociedades Civiles organizadas con fines de fomento de actividades artísticas, científicas o deportivas sin fines de lucro acompañarán a la solicitud el testimonio de su escritura constitutiva, además de la constancia de estar registrada ante la Secretaria de Educación y Bienestar Social del Estado. Estas Sociedades gozarán de los privilegios que se establecerán en este mismo Reglamento.
 
-Estas Sociedades gozarán de los privilegios que se establecerán en este mismo Reglamento.
+VIII.- Los organizadores de los eventos a realizarse en la vía pública además de contar con los permisos que correspondan para la realización del evento, deberán cumplir con lo siguiente:
 
-m).- Los organizadores de los eventos a realizarse en la vía pública además de contar con los permisos que correspondan para la realización del evento, deberán cumplir con lo siguiente:
+a).- Contar con la anuencia del Director de Seguridad Publica;
 
-1.- Contar con la anuencia del Director de Seguridad Publica;
+b).- Contar con el permiso para el cierre de arterias de circulación expedido por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, previo pago de derechos previstos en la Ley de Ingresos para el Municipio de Ensenada, Baja California.
 
-2.- Contar con el permiso para el cierre de arterias de circulación expedido por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, previo pago de derechos previstos en la Ley de Ingresos para el Municipio de Ensenada, Baja California.
+c).- Presentar un programa en coordinación con la Dirección de Seguridad Pública y el Departamento de Ingeniería de Transito, que previa la vía alterna de circulación, con la finalidad de evitar la congestión vehicular; así como la afectación de los comercios establecidos en dicha vialidad.
 
-3.- Presentar un programa en coordinación con la Dirección de Seguridad Pública y el Departamento de Ingeniería de Transito, que prevea la vía alterna de circulación, con la finalidad de evitar la congestión vehicular; así como la afectación de los comercios establecidos en dicha vialidad.
+d).- No se afecten las vías principales, accesos de entrada y salida de la ciudad, comercios y locales de la zona.
+
+e).- Contar con el 70% (Setenta por ciento) de la Seguridad Privada, probado mediante contrato de prestación de servicios, esto previa cantidad de elementos considere requeridos por dictamen de la Dirección de Seguridad Pública Municipal.
 
 ###### Artículo 9o.
 
@@ -1008,3 +1010,9 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIATE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO PARA EL FUCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO. - La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 8 DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- LA REFORMA DEL ARTÍCULO 8 DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA. Entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado de Baja California y/o Gaceta Municipal.
