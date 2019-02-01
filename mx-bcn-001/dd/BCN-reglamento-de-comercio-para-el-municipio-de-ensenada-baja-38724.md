@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2018-08-24"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
-
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2018.)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -349,11 +347,15 @@ k).- Pensionados y Jubilados deberán presentar comprobante que los avale como t
 
 El C. Presidente Municipal está facultado para exentar del pago cuando se trate de personas con disminución en sus capacidades físicas, mayores de 60 años de edad, personas con discapacidad y/o aquellos que por obligatoriedad legal sean responsables de las atenciones y/o cuidados de persona con discapacidad de acuerdo a la Ley de Ingresos vigente en el Municipio de Ensenada.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
 Para el otorgamiento de permiso de las actividades comprendidas en el ARTÍCULO 7 del presente Reglamento, el Presidente Municipal a través de sí mismo o del Departamento de Comercio, Alcoholes y Espectáculos Públicos tomará en cuenta las opiniones o dictámenes que para tal efecto emitan la Dirección de Servicios Públicos e Infraestructura, la Dirección de Desarrollo Urbano, Ecología y Medio Ambiente, Dirección de Seguridad Pública Municipal, Dirección de Bomberos, la Unidad de Protección Civil y la Dirección de Servicios Médicos, en su caso.
+
+Una vez emitidas las opiniones o dictámenes contemplados en el párrafo anterior, en sentido positivo, y cumpliendo con la reglamentación vigente, el Departamento de Comercio, Alcoholes y Espectáculos Públicos, autorizará el permiso correspondiente.
+
+El Departamento de Comercio, Alcoholes y Espectáculos Públicos, deberá entregar el permiso al solicitante, en un término no mayor a 10 días hábiles, previo pago de los derechos que contemple la Ley de Ingresos vigente en el Municipio de Ensenada.
 
 ###### ARTÍCULO 29.
 
@@ -918,3 +920,9 @@ P.O. 22 DE JUNIO DE 2018.
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 2018)</small>
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal.
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 24 BIS DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE SALONES SOCIALES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- adición (sic) del Artículo 28 del Reglamento de Comercio para el Municipio de Ensenada Baja California, Entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado de Baja California y/o Gaceta Municipal.
