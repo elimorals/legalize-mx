@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-coordinacion-estatal-de-94489"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-30"
-last_updated: "2013-05-30"
+last_updated: "2019-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE REINSERCION SOCIAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE REINSERCIÓN SOCIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento Interior publicado en el Periódico Oficial del Estado de Morelos, el jueves 30 de mayo de 2013.
 
@@ -35,7 +35,7 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y 
 
 EXPOSICIÓN DE MOTIVOS
 
-.
+[...]
 
 Por lo antes expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -464,3 +464,25 @@ EL SECRETARIO DE GOBIERNO
 JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abrogan el Reglamento Interior de la Coordinación Estatal de Reinserción Social y el Reglamento Específico de Funciones de la Comisión Estatal de Seguridad Pública, publicados en el Periódico Oficial “Tierra y Libertad”, números 5093 y 5462, el 30 de mayo de 2013 y el 04 de enero del 2017, respectivamente; y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente instrumento.
+
+TERCERA. Dentro del plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Comisión Estatal de Seguridad Pública en coordinación con las Unidades Administrativas deberán actualizar los Reglamentos Internos de los Órganos Desconcentrados, así como los Manuales Administrativos, descriptivos de puestos y demás instrumentos normativos que resulten aplicables; hasta en tanto seguirán vigentes los actuales mientras no se contrapongan a lo dispuesto en el presente Reglamento.
+
+CUARTA. El personal adscrito a las unidades, áreas u órganos de la Comisión Estatal de Seguridad Pública que cambien de denominación, permanecerán en las áreas acordes para el desempeño de las funciones específicas, de acuerdo a lo que establezca para el caso la Unidad Administrativa, conservando su antigüedad y derechos laborales que les correspondieren al momento de la entrada en vigor del presente instrumento.
+
+QUINTA. Dentro del plazo de 10 días hábiles, contados a partir del inicio de vigencia del presente Reglamento, la Comisión Estatal de Seguridad Pública deberá registrar conforme a los formatos que expida la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar, lo anterior de conformidad con lo dispuesto en el artículo 22, fracción XXV, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Comisión Estatal de Seguridad Pública deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración del Poder Ejecutivo Estatal, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de la Unidad Administrativa, que se extingue por virtud del presente instrumento, serán continuados en su tramitación por las Unidades Administrativas que correspondan, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento serán resueltos por el Comisionado Estatal de Seguridad Pública.
