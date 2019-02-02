@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2018-12-22"
+last_updated: "2019-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -221,6 +221,8 @@ Disposiciones Generales.
 
 3. La estructura, organización y funcionamiento de los órganos del instituto que por su jerarquía no se han establecido en el presente reglamento, se determinarán en los manuales respectivos.
 
+[N. DE E. SE SUGIERE CONSULTAR EL ACUERDO IEPC-ACG-001/2019 DE REFORMAS PUBLICADO EN EL P.O. 2 DE FEBRERO DE 2019, PÁGINAS DE LA 6 A LA 7].
+
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
@@ -253,9 +255,9 @@ XI. Contraloría: Contraloría General del Instituto Electoral y de Participaci�
 
 XII. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tienen a su cargo las Direcciones Administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2019)</small>
 
-XIII. Estatuto: el Estatuto del Servicio Profesional Electoral Nacional y de la Rama Administrativa;
+XIII. Estatuto: Estatuto del Servicio Profesional Electoral Nacional y de la Rama Administrativa.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
 
@@ -281,25 +283,17 @@ XVIII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Institut
 
 XIX. Servicio Profesional: El Servicio Profesional Electoral Nacional;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+XX. (DEROGADA, P.O. 2 DE FEBRERO DE 2019)
 
-XX. Titulares de Unidad de Área: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tiene (sic) a su cargo una unidad de área;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
-
-XXI. La Unidad de Fiscalización: Órgano técnico del Instituto, el cual tendrá la función de la fiscalización de los recursos de las agrupaciones políticas estatales y aquellas que en su caso le delegue el Instituto Nacional Electoral al Instituto, en materia de fiscalización de los partidos políticos;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+XXI. (DEROGADA, P.O. 2 DE FEBRERO DE 2019)
 
 XXII. La Unidad de Prerrogativas: Unidad de Prerrogativas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+XXIII. (DEROGADA, P.O. 2 DE FEBRERO DE 2019)
 
-XXIII. La Unidad de Transparencia: Unidad de Transparencia y Acceso a la Información Pública; y
+XXIV. (DEROGADA, P.O. 2 DE FEBRERO DE 2019)
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
-
-XXIV. La Unidad de Igualdad de Género: Unidad de Igualdad de Género y No Discriminación.
+XXV (SIC). (DEROGADA, P.O. 2 DE FEBRERO DE 2019)
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -375,43 +369,59 @@ C. La Direcciones administrativas siguientes:
 
 III. Órganos técnicos, que son:
 
-A. La Unidad de Fiscalización;
+A. (DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 B. La Unidad de Prerrogativas;
 
-C. La Unidad de Transparencia y Acceso a la Información Pública;
+C. (DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
-D. La Unidad de Igualdad de Género y No Discriminación;
+D. (DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
-E. La Secretaría Técnica;
+E. (DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
-F. La Contraloría General;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
-G. La Comisión de Adquisiciones y Enajenaciones;
+F. La Secretaría Técnica;
 
-H. La Comisión de Educación Cívica;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
-I. La Comisión de Investigación y Estudios Electorales;
+G. La Contraloría General;
 
-J. La Comisión de Organización Electoral;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
-K. La Comisión de Participación Ciudadana;
+H. La Comisión de Adquisiciones y Enajenaciones;
 
-L. La Comisión de Prerrogativas;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
-M. La Comisión de Quejas y Denuncias;
+I. La Comisión de Educación Cívica;
 
-N. La Comisión de Igualdad de Género y No Discriminación;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO IEPC-ACG-012/2017 PUBLICADO EN EL P.O. 4 DE MARZO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL INCISO Q.]</small>
+J. La Comisión de Investigación y Estudios Electorales;
 
-O. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+K. La Comisión de Organización Electoral;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+L. La Comisión de Participación Ciudadana;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+M. La Comisión de Prerrogativas;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+N. La Comisión de Quejas y Denuncias;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+O. La Comisión de Igualdad de Género y No Discriminación;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
 
 P. La Comisión de Seguimiento al Servicio Profesional;
-
-> <small>(REFORMADO [N. DE E. DEL ANÁLISIS AL ACUERDO IEPC-ACG-012/2017 PUBLICADO EN EL P.O. 4 DE MARZO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL INCISO O.], P.O. 4 DE MARZO DE 2017)</small>
 
 Q. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
 
@@ -459,7 +469,9 @@ De las Ausencias y Sustituciones.
 
 I. Las del Secretario Ejecutivo, por el titular de la Dirección Jurídica; y
 
-II. Las de los titulares de las Direcciones Administrativas, de la Unidad de Fiscalización, la Unidad de Prerrogativas, la Unidad de Transparencia, la Unidad de Igualdad de Género, y de la Secretaría Técnica, por el personal que sea designado por el Presidente.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2019)</small>
+
+II. Las de los titulares de las Direcciones Administrativas, de la Unidad de Prerrogativas y de la Secretaría Técnica, por el personal que sea designado por el Presidente.
 
 4. Para el caso de que se encontraren ausentes simultáneamente los titulares de la Secretaría Ejecutiva y de la Dirección Jurídica, el ejercicio de sus funciones será realizado por el servidor público que designe el Presidente.
 
@@ -467,7 +479,9 @@ II. Las de los titulares de las Direcciones Administrativas, de la Unidad de Fis
 
 6. Se considera ausencia definitiva, aquélla que se derive de la imposibilidad jurídica o material para que un servidor público del Instituto continúe en el desempeño de sus funciones.
 
-7. En caso de ausencia definitiva del Titular de la Secretaría Ejecutiva, de los titulares de las Direcciones Administrativas, de las Unidades, y de la Secretaría Técnica, el Consejo General designará al titular que corresponda, a propuesta que le formule el Presidente, dentro de los treinta días siguientes a que se genere la vacante.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2019)</small>
+
+7. En caso de ausencia definitiva del Titular de la Secretaría Ejecutiva, de los titulares de las Direcciones Administrativas, de la Unidad de Prerrogativas y de la Secretaría Técnica, el Consejo General designará al titular que corresponda, a propuesta que le formule el Presidente, dentro de los treinta días siguientes a que se genere la vacante.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -577,13 +591,11 @@ De los Órganos Ejecutivos.
 
 De la Presidencia.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 10.
 
 1. La Presidencia es el órgano ejecutivo central de dirección del Instituto, de carácter unipersonal, cuyo titular es el Consejero Presidente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 2. Corresponde al Consejero Presidente:
 
@@ -593,11 +605,11 @@ II. Determinar las directrices de la ejecución de las políticas y programas ge
 
 III. Realizar los actos necesarios para la conservación y mejoramiento de los bienes del Instituto;
 
-IV. Proponer al Consejo General, al ciudadano que fungirá como titular de la Secretaría Ejecutiva y a los que fungirán como titulares de las Direcciones Administrativas, de la Unidad de Fiscalización, la Unidad de Prerrogativas, la Unidad de Transparencia, la Unidad de Igualdad de Género, y de la Secretaría Técnica, dentro de los treinta días hábiles siguientes al día en que se dé la vacante;
+IV. Proponer al Consejo General, al ciudadano que fungirá como titular de la Secretaría Ejecutiva y a los que fungirán como titulares de las Direcciones Administrativas, de la Unidad de Prerrogativas, y de la Secretaría Técnica, dentro de los treinta días hábiles siguientes al día en que se dé la vacante;
 
 V. Informar al Consejo General sobre las propuestas que reciba para designar al personal de la Contraloría General;
 
-VI. Designar encargados del despacho, quienes fungirán como titulares, de las Direcciones Administrativas, así como de las Direcciones Administrativas, de la Unidad de Fiscalización, la Unidad de Prerrogativas, la Unidad de Transparencia, la Unidad de Igualdad de Género, y de la Secretaría Técnica, en los casos de ausencia de sus titulares;
+VI. Designar encargados del despacho, quienes fungirán como titulares, de las Direcciones Administrativas, de la Unidad de Prerrogativas, y de la Secretaría Técnica, en los casos de ausencia de sus titulares;
 
 VII. La organización administrativa de los recursos;
 
@@ -607,21 +619,15 @@ IX. Generar la política editorial del Instituto.
 
 X. Coordinar las actividades de vinculación entre el Instituto y el Instituto Nacional Electoral;
 
-XI. Desarrollar la implementación de sistemas y servicios informáticos y telecomunicaciones;
+XI. Proponer al Consejo General para su aprobación, el anteproyecto de presupuesto anual del Instituto, incluyendo una previsión suficiente para la capacitación, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+XII. Presentar al Consejo General, propuestas de transferencia entre partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
 
-XII. Proponer al Consejo General para su aprobación, el anteproyecto de presupuesto anual del Instituto, incluyendo una previsión suficiente para la capacitación, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social;
+XIII. Suscribir los convenios con instituciones públicas y privadas que el Consejo General determine convenientes para el cumplimiento de los fines del Instituto;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+XIV. Proponer al Consejo General las modificaciones al horario general de labores del personal del Instituto para el caso de los procesos electorales y situaciones extraordinarias; y
 
-XIII. Presentar al Consejo General, propuestas de transferencia entre partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
-
-XIV. Suscribir los convenios con instituciones públicas y privadas que el Consejo General determine convenientes para el cumplimiento de los fines del Instituto;
-
-XV. Proponer al Consejo General las modificaciones al horario general de labores del personal del Instituto para el caso de los procesos electorales y situaciones extraordinarias; y
-
-XVI. Las demás que le confiera el Código y otras disposiciones aplicables.
+XV. Las demás que le confiera el Código y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -629,13 +635,11 @@ XVI. Las demás que le confiera el Código y otras disposiciones aplicables.
 
 De la Secretaría Ejecutiva.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 11.
 
 1. La Secretaría Ejecutiva es el órgano ejecutivo central de carácter unipersonal, cuyo titular es el Secretario Ejecutivo, quien será el encargado de coadyuvar con la Presidencia, en organizar, dirigir y evaluar las actividades de las distintas áreas del Instituto.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 2. Corresponde al Titular de la Secretaría Ejecutiva, para el debido cumplimiento de sus atribuciones:
 
@@ -645,23 +649,19 @@ II. Dar trámite a la correspondencia del Instituto, salvo en los casos que el C
 
 III. Informar al Consejo General del Instituto Nacional Electoral la falta absoluta del Consejero Presidente y/o de los Consejeros Electorales;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
-
 IV. Llevar el registro de solicitudes de mecanismos de participación social;
 
 V. Emitir los acuerdos administrativos que sean necesarios previo a las resoluciones o acuerdos del Consejo General;
 
 VI. Emitir los acuerdos administrativos necesarios para el ejercicio de sus atribuciones;
 
-VII. Asignar a los acuerdos que apruebe el Consejo General, una clave de control e identificación, conformada en un primer apartado con las siglas IEPC, seguida de un guion, las siglas ACG, un guion y el número consecutivo que corresponda a partir del 001, al cual seguirá una diagonal "/" y el año que corresponda a su aprobación;
+VII. Asignar a los acuerdos que apruebe el Consejo General, una clave de control e identificación, conformada en un primer apartado con las siglas IEPC, seguida de un guion, las siglas ACG, un guion y el número consecutivo que corresponda a partir del 001, al cual seguirá una diagonal “/” y el año que corresponda a su aprobación;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+VIII. Establecer los criterios para la elaboración de la propuesta de presupuesto de las Direcciones administrativas, de la Unidad de Prerrogativas y de la Secretaría Técnica del Instituto;
 
-VIII. Establecer los criterios para la elaboración de la propuesta de presupuesto de las Direcciones administrativas, de las Unidades, de la Secretaría Técnica del Instituto;
+IX. Establecer los criterios para la elaboración de los manuales, procedimientos y servicios de las Direcciones Administrativas, de la Unidad de Prerrogativas y de la Secretaría Técnica del Instituto;
 
-IX. Establecer los criterios para la elaboración de los manuales, procedimientos y servicios de las Direcciones Administrativas, de las Unidades, y de la Secretaría Técnica del Instituto;
-
-X. Solicitar a las Direcciones Administrativas, a las Unidades, y a la Secretaría Técnica del Instituto, los informes sobre sus actividades y programas que considere necesarios.
+X. Solicitar a las Direcciones Administrativas, a la Unidad de Prerrogativas y a la Secretaría Técnica del Instituto, los informes sobre sus actividades y programas que considere necesarios.
 
 XI. Recibir, el informe anual que rindan las distintas direcciones y órganos técnicos del Instituto;
 
@@ -671,17 +671,19 @@ XIII. Suscribir en unión del Presidente, los convenios con organismos e institu
 
 XIV. Llevar el archivo del Consejo General y la Oficialía de Partes del Instituto;
 
-XV. Atender y dar seguimiento a la Oficialía Electoral;
+XV. Vigilar la fiscalización sobre el origen y destino de los recursos que reciban por cualquier modalidad las agrupaciones políticas estatales, las organizaciones de observadores electorales y las agrupaciones y organizaciones de ciudadanas y ciudadanos que pretendan constituirse en partido político y aquellas que en su caso le delegue el Instituto Nacional Electoral al Instituto, en materia de fiscalización de los partidos políticos
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+XVI. Vigilar el cumplimiento de las disposiciones legales que en materia de transparencia e información pública apruebe el Congreso del Estado y el reglamento en la materia que expida el Consejo General;
 
-XVI. Ser autoridad resolutora del Procedimiento Laboral Disciplinario del Servicio Profesional; y
+XVII. Vigilar el cumplimiento de la política institucional en materia de igualdad de género y no discriminación;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+XVIII. Vigilar el cumplimiento de la implementación de sistemas y servicios informáticos y telecomunicaciones;
 
-XVII. Las demás que le confieran los ordenamientos legales, así como las conferidas por el Consejo General o el Consejero Presidente, en sus respectivos ámbitos de competencia.
+XIX. Atender y dar seguimiento a la Oficialía Electoral;
 
-3. La Secretaría Ejecutiva podrá, para el cumplimiento de las obligaciones establecidas en el artículo anterior, así como las conferidas en el numeral 143 del Código, auxiliarse de los departamentos que considere oportunos, debiendo proponer la creación de los mismos al Consejo General; el funcionamiento, supervisión y vigilancia de éstos, estarán a cargo de la Secretaría Ejecutiva.
+XX. Ser autoridad resolutora del Procedimiento Laboral Disciplinario del Servicio Profesional; y
+
+XXI. Las demás que le confieran los ordenamientos legales, así como las conferidas por el Consejo General o el Consejero Presidente, en sus respectivos ámbitos de competencia.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -967,33 +969,13 @@ De los Órganos Técnicos.
 
 De la Unidad de Fiscalización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
-
 ###### Artículo 21.
 
-1. La Unidad de Fiscalización tendrá las atribuciones siguientes:
-
-I. Recibir y revisar los informes anuales que presenten las agrupaciones políticas estatales y los informes financieros de las organizaciones de observadores electorales registradas ante el Instituto, respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación.
-
-II. Fiscalizar y vigilar el origen y destino de los recursos que obtengan las agrupaciones políticas estatales y las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal, para el desarrollo de sus actividades tendientes a la obtención de dicho registro, reportados en los informes mensuales a partir del momento en que notifiquen de tal propósito al Instituto;
-
-III. Presentar al Consejo los informes de resultados y proyectos de dictamen y resolución sobre las auditorías y verificaciones practicadas a las agrupaciones políticas estatales, a las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal y a las organizaciones de observadores electorales registradas ante el Instituto, y, en su caso, proponer las sanciones que procedan conforme a la normatividad aplicable;
-
-IV. Elaborar los proyectos de Reglamento de Fiscalización, así como emitir las normas generales de contabilidad y registro de operaciones aplicables a las agrupaciones políticas estatales, las organizaciones de observadores electorales y las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal, registradas ante el Instituto conforme a lo establecido en el Reglamento de Fiscalización del Instituto Nacional Electoral.
-
-V. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
-
-VI. Rendir los informes que le sean requeridos por el Consejo General, el Presidente, o el Secretario Ejecutivo respecto del avance en las revisiones y auditorías que la misma realice;
-
-VII. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de Fiscalización y las que en uso de sus atribuciones le confiera el Consejo General, el Presidente o el Secretario Ejecutivo; y;
-
-VIII. Las delegadas por el Instituto Nacional Electoral.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 ###### Artículo 22.
 
-El personal adscrito a la Unidad de Fiscalización está obligado a guardar reserva sobre el curso de las revisiones y auditorías en las que tenga participación o sobre las que disponga de información.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1031,43 +1013,9 @@ X. Las demás que en uso de sus atribuciones le confiera el Consejo General, el 
 
 ### Capítulo Tercero. De la Unidad de Transparencia
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
-
 ###### Artículo 24.
 
-1. La Unidad de Transparencia del Instituto tendrá las atribuciones siguientes:
-
-I. Elaborar el proyecto de reglamento relativo a la materia de Transparencia y Acceso a la Información Pública del Instituto y sus propuestas de reforma;
-
-II. Elaborar las propuestas de lineamientos generales del Consejo General relativos a las materias de Transparencia y Acceso a la Información Pública;
-
-III. Solicitar a los órganos ejecutivos, técnicos y desconcentrados del Instituto, así como a los partidos y agrupaciones políticas, información pública que, conforme a las disposiciones legales y reglamentarias de la materia, sea requerida al Instituto;
-
-IV. Hacer del conocimiento del Secretario Ejecutivo los casos en que se solicite información pública de partidos políticos que no esté en poder del Instituto, debiendo estarla;
-
-V. Coordinar la publicación de la información pública del Instituto, en el portal de internet del mismo, conforme a las disposiciones legales y reglamentarias de la materia;
-
-VI. Proponer y elaborar los proyectos de dictamen relativos a la clasificación de información y solicitudes de ésta;
-
-VII. Dar trámite a las solicitudes de acceso a la información, previstas en las disposiciones legales de la materia, como las específicas del Código;
-
-VIII. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre los sujetos obligados que pudieran tener la información que solicitan;
-
-IX. Realizar los trámites internos necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares que soliciten la información de manera electrónica, por ese mismo medio;
-
-X. Proponer los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
-
-XI. Capacitar al personal del Instituto para dar trámite a las solicitudes de información;
-
-XII. Informar al Instituto de Transparencia e Información Pública del Estado de Jalisco, sobre la negativa de entrega de información por parte de algún servidor público o personal de los sujetos obligados, cuando se trate de solicitudes de información hechas al amparo de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
-
-XIII. Informar al Secretario Ejecutivo, sobre la negativa o retardo en la entrega de la información pública prevista en el Código por parte de algún partido político, agrupación política, servidor público o personal del Instituto, respecto de cualquier solicitud de información pública prevista en el Código;
-
-XIV. Informar al Secretario Ejecutivo, sobre el incumplimiento de las obligaciones que en materia de transparencia les impone el Código a los diversos sujetos obligados;
-
-XV. Llevar un registro de las solicitudes de información, así como de sus resultados y costos; y
-
-XVI. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Presidente o el Secretario Ejecutivo.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1075,37 +1023,11 @@ XVI. Las demás que en uso de sus atribuciones le confiera el Consejo General, e
 
 De la Unidad de Igualdad de Género.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
-
 ###### Artículo 25.
 
-1. La Unidad de Igualdad de Género y no Discriminación del Instituto tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
-I. Proponer la política institucional en material (sic) de igualdad de género y no discriminación y diseñar el proyecto anual de actividades para su incorporación en los programas y acciones del instituto;
-
-II. Brindar las herramientas teóricas y prácticas conducentes para institucionalizar y transversalizar la igualdad de género y no discriminación en los programas del instituto;
-
-III. Promover el desarrollo de estrategias para la generación de una cultura en favor de la igualdad laboral libre de violencia y discriminación al interior del instituto;
-
-IV. Impulsar la instrumentación de intercambios académicos, estrategias de divulgación, supervisión y evaluación en materia de igualdad de género;
-
-V. Diseñar y coadyuvar a la implementación de programas de formación en cultura de igualdad entre los géneros que impulsen la participación y el empoderamiento político de las mujeres;
-
-VI. Impulsar el desarrollo de proyectos de investigación y estudios sobre las condiciones sociales y culturales para la promoción de los derechos político-electorales de las mujeres;
-
-VII. Generar bases de datos estadísticos y análisis sobre la participación de las mujeres en los ámbitos políticos y sobre el acceso de las mismas a cargos de elección popular;
-
-VIII. Dar seguimiento a los procedimientos para la participación paritaria entre los géneros en las candidaturas a cargos de elección popular del estado, y coadyuvar en los estudios jurídicos y matemáticos que se realicen para su aplicación efectiva;
-
-IX. Establecer los contenidos sobre igualdad de género y no discriminación que deberán incluirse en los cursos que impartan las áreas del Instituto;
-
-X. Coordinar la oficina de atención a discapacitados del Instituto;
-
-XI. Vigilar el cumplimiento permanente de los requisitos para el mantenimiento del reconocimiento "Empresa incluyente Gilberto Rincón Gallardo", otorgado por la Secretaría del Trabajo y Previsión Social y la búsqueda de otros reconocimientos en esta materia;
-
-XII. Proponer los contenidos de las campañas informativas y de difusión sobre igualdad de género y no discriminación; y
-
-XIII. Las demás conferidas por el Consejo General, el Presidente o el Secretario Ejecutivo.
+Artículo 25 Bis (sic). (DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1149,7 +1071,7 @@ XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, 
 
 De la Contraloría General.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 27.
 
@@ -1157,19 +1079,7 @@ De la Contraloría General.
 
 I. Contralor General;
 
-II. Subcontraloría;
-
-III. Departamento de Asuntos Jurídicos;
-
-IV. Departamento de Fiscalización;
-
-V. Departamento de Gestión y Control; y
-
-VI. El personal necesario para el desarrollo de sus actividades.
-
-2. Durante las ausencias y faltas del Contralor General, los asuntos de su competencia estarán a cargo del Subcontralor y, en ausencia de éste, del titular del Departamento de Asuntos Jurídicos.
-
-3. Las ausencias de los titulares de los Departamentos de la Contraloría serán suplidas por el funcionario que designe por escrito el Contralor.
+II. Personal que establezca el presupuesto de egresos del Instituto.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1205,133 +1115,21 @@ XIV. Emitir las circulares, manuales, lineamientos y demás normativa interna qu
 
 XV. Las demás establecidas en los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
-
 ###### Artículo 29.
 
-1. La Subcontraloría tendrá las atribuciones siguientes:
-
-I. Auxiliar al Contralor General en el ejercicio de sus atribuciones;
-
-II. Llevar el registro de la documentación recibida y dar cuenta de ésta al Contralor General;
-
-III. Recibir, analizar, sistematizar y resguardar los informes mensuales de cada uno de los Departamentos de área de la Contraloría;
-
-IV. Proponer al Contralor General el programa anual de trabajo de la Contraloría, así como el informe previo y anual de gestión;
-
-V. Planear y coordinar las actividades de la Contraloría General conforme a su programa anual de trabajo;
-
-VI. Dar seguimiento a las denuncias o quejas presentadas en contra de los servidores públicos del Instituto;
-
-VII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos del Instituto;
-
-VIII. Llevar el control y administración del archivo de la Contraloría General;
-
-IX. Dar cuenta al Contralor General de los acuerdos del Consejo General que se relacionen con las funciones de la Contraloría; y
-
-X. Las demás que le encomiende el Contralor General.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 ###### Artículo 30.
 
-1. El Departamento de Asuntos Jurídicos tendrá las atribuciones siguientes:
-
-I. Sustanciar los procedimientos administrativos disciplinarios promovidos en contra de los servidores públicos del Instituto y elaborar el proyecto de su resolución, conforme a las disposiciones legales aplicables;
-
-II. Participar en las visitas de verificación a las sedes de los órganos del Instituto, para revisar el cumplimiento de las obligaciones de los servidores públicos, en el ejercicio de recursos financieros; así como requerir y recabar evidencias relacionadas con la causa de las auditorías o visitas de verificación;
-
-III. Proyectar la base legal de los pliegos de observaciones en materia administrativa emitidos por la Contraloría;
-
-IV. Proponer al Contralor General los formatos en los que se presentarán las declaraciones de situación patrimonial de los servidores públicos obligados; expedir los acuses de recibo que acrediten su cumplimiento; así como crear y actualizar la relación de los servidores públicos omisos;
-
-V. Recibir y resguardar las declaraciones de situación patrimonial presentadas por los servidores públicos obligados del Instituto;
-
-VI. Analizar y dar seguimiento a la evolución patrimonial de los servidores públicos del Instituto;
-
-VII. Informar al Contralor General sobre los servidores públicos que hayan sido omisos en presentar su declaración de situación patrimonial;
-
-VIII. Proponer para su aprobación los lineamientos, manuales o disposiciones de carácter administrativo relacionados con las funciones de la Contraloría General;
-
-IX. Informar mensualmente al Contralor General sobre las actividades realizadas por el Departamento a su cargo;
-
-X. Brindar el servicio de consulta y asesoría en las materias de su competencia, a las Unidades Administrativas de la Contraloría;
-
-XI. Elaborar, revisar o proponer los convenios o acuerdos que suscriba la Contraloría con otros entes de Gobierno en ejercicio de sus funciones;
-
-XII. Coadyuvar en procedimientos judiciales, administrativos y laborales que tengan relación con las funciones de la Contraloría o cualquiera de sus servidores públicos;
-
-XIII. Presentar ante el Ministerio Público denuncia o querella de los hechos que puedan constituir delito y afecten al Instituto, prestándole la colaboración requerida;
-
-XIV. Resguardar y actualizar el registro de servidores públicos sancionados y expedir las constancias de existencia o inexistencia de sanción administrativa a las personas que lo soliciten;
-
-XV. Dictaminar sobre las formalidades y requisitos que deben contener los documentos de uso oficial que se utilicen en forma reiterada en las actividades de la Contraloría;
-
-XVI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos del Instituto;
-
-XVII. Realizar las notificaciones derivadas del trámite de los procedimientos de responsabilidad administrativa; y
-
-XVIII. Las demás que le encomiende el Contralor General.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 ###### Artículo 31.
 
-1. El Departamento de Fiscalización tendrá las atribuciones siguientes:
-
-I. Proponer al Contralor General los criterios para la realización de las auditorias, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos financieros a cargo de los órganos del Instituto;
-
-II. Proponer al Contralor General las normas, procedimientos, métodos y sistemas de contabilidad y archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto del Instituto; así como de aquellos elementos que permitan la práctica idónea de las auditorias y revisiones en el cumplimiento de las funciones de la Contraloría en materia de fiscalización de recursos financieros;
-
-III. Evaluar los informes de avance de la gestión financiera del presupuesto de egresos aprobado al Instituto, respecto del ejercicio fiscal en curso; así como de los ejercicios anuales concluidos de la cuenta pública;
-
-IV. Practicar auditorías o visitas de verificación a las sedes de los órganos del Instituto, para revisar el cumplimiento de sus obligaciones derivadas de la aplicación de los recursos financieros; así como requerir y recabar las evidencias necesarias relacionadas con la causa de la auditoría o visita de verificación;
-
-V. Revisar a través de auditorías o visitas de verificación que las operaciones presupuestales que realice el Instituto con terceros, se apeguen a las disposiciones legales en materia de presupuesto, contabilidad y gasto público;
-
-VI. Compulsar con los proveedores, arrendadores y terceros que hubieran contratado productos, bienes o servicios con el Instituto, la información relacionada con la documentación justificativa y comprobatoria respectiva;
-
-VII. Informar al Contralor General los resultados de las auditorias, visitas y revisiones realizadas y, en su caso, formular observaciones o recomendaciones en relación al ejercicio de recursos financieros;
-
-VIII. Evaluar los informes justificativos rendidos con motivo de la formulación de pliegos de observaciones y, en su caso, proponer al Contralor General el dictamen de solvencia o insolvencia de las observaciones;
-
-IX. Verificar y hacer constar en actas administrativas, las circunstancias que rodean a las obras, productos o servicios, adquiridos o enajenados por el Instituto, en materia de recursos financieros;
-
-X. Actuar como enlace con la Auditoría Superior del Estado de Jalisco, en la revisión de la cuenta pública del Instituto;
-
-XI. Brindar el servicio de consulta y asesoría, en las materias de su competencia a las unidades administrativas de la Contraloría;
-
-XII. Informar mensualmente al Contralor General sobre las actividades realizadas por el Departamento a su cargo;
-
-XIII. Asistir a las sesiones de la Comisión de Adquisiciones y Enajenaciones del Instituto, para verificar que los procedimientos de adquisición se ajusten a los montos establecidos; y
-
-XIV. Las demás que le encomiende el Contralor General.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 ###### Artículo 32.
 
-1. EL Departamento de Gestión y Control tendrá las atribuciones siguientes:
-
-I. Evaluar el avance y cumplimiento de los objetivos establecidos en el programa anual de trabajo de la Contraloría;
-
-II. Proponer al Contralor General los mecanismos de orientación y cursos de capacitación necesarios para que los servidores públicos del Instituto, cumplan adecuadamente con sus responsabilidades administrativas;
-
-III. Proponer al Contralor General los lineamientos, políticas y manuales que deban observarse en la emisión, guarda, custodia, manejo y destrucción de la información y documentación que se genere en la Contraloría;
-
-IV. Crear y actualizar el registro de los servidores públicos del Instituto, que reciban capacitación para el desempeño de sus funciones; así como emitir las constancias que acrediten la participación en los cursos impartidos por la Contraloría;
-
-V. Proponer al Contralor General normas generales de control interno para el Instituto;
-
-VI. Verificar la correcta operación de los sistemas informáticos implantados en la Contraloría;
-
-VII. Informar mensualmente al Contralor General sobre las actividades realizadas en el Departamento a su cargo;
-
-VIII. Brindar el servicio de consulta y asesoría, en las materias de su competencia a las unidades administrativas de la Contraloría;
-
-IX. Actuar como enlace con los órganos correspondientes del Instituto en asuntos relacionados con la gestión pública; y
-
-X. Las demás que le encomiende el Contralor General.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -2016,5 +1814,11 @@ UNICO. Las presentes reformas entrarán en vigor al día siguiente de su publica
 P.O. 22 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-358/2018 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA MODIFICAR EL ARTÍCULO 21 DEL REGLAMENTO INTERIOR DE ESTE ORGANISMO ELECTORAL”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 2 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-001/2019 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE MODIFICA Y DEROGA DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE ESTE ORGANISMO ELECTORAL”.]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
