@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2018-09-29"
+last_updated: "2019-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA PROTECCION DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA -- ANTES LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA --
 
-LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
+LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -35,7 +35,9 @@ D E C R E T O No. 104
 
 "ARTÍCULO UNICO.- Se aprueba la Ley para la Protección de Los Adultos en Plenitud del Estado de Colima, para quedar como sigue:
 
-LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2019)</small>
+
+LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
 ## TÍTULO PRIMERO. PREVENCIONES GENERALES
 
@@ -958,3 +960,11 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 547 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 34 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 BIS 2 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA; APRUEBA REFORMAR LA FRACCIÓN LX DEL ARTÍCULO 10 Y EL ARTÍCULO 68 DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIA (SIC) Y SE APRUEBA REFORMAR EL NUMERAL 2 DEL ARTÍCULO 109 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 2 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 32 POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA "LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA", PARA REFERIRSE A LA MISMA COMO "LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+Segundo. A partir del inicio de vigencia del presente Decreto, toda mención en cualquier norma expedida por este Congreso del Estado, Reglamento del Poder Ejecutivo Local, Lineamientos, Convenios, Acuerdos o cualquier otra disposición jurídica aplicable que haga alusión a la "Ley para la Protección de los Adultos en Plenitud del Estado de Colima", se entenderá en lo sucesivo referida a la Ley para la Protección de los Adultos Mayores del Estado de Colima.
