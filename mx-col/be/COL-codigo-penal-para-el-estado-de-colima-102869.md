@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2018-10-20"
+last_updated: "2019-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2019.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -3047,6 +3047,16 @@ Se aplicarán de dos a ocho años de prisión y multa de quinientas a mil unidad
 
 ARTÍCULO 233 BIS 2. (DEROGADO, P.O. 2 DE OCTUBRE DE 2018)
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 233 BIS 3. Al servidor público que omita destinar para el fin establecido en la Ley los descuentos, las deducciones o las retenciones realizadas a los sueldos de los trabajadores de una Entidad Pública, o los aplique a un fin distinto al establecido por la misma, se le impondrán de seis meses a dos años de prisión, cuando el valor del detrimento patrimonial sea de hasta un importe equivalente a cuatro mil unidades de medida y actualización; y de dos a diez años de prisión, cuando el detrimento patrimonial causado exceda de un importe equivalente a cuatro mil unidades de medida y actualización.
+
+Si la Ley aplicable no estableciere un término para enterar los descuentos, deducciones o retenciones, tal entrega deberá efectuarse en un plazo máximo de dos meses a partir de la fecha en que se hizo el descuento, deducción o retención, para no incurrir en la conducta delictiva señalada.
+
+Además, a los responsables de este delito se les impondrá la pena de inhabilitación para ejercer funciones públicas, hasta por un lapso igual a la pena de prisión impuesta; y multa por hasta mil unidades de medida y actualización.
+
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los descuentos, deducciones o retenciones antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de seis meses a un año de prisión y multa de hasta doscientas unidades de medida y actualización. Lo dispuesto en este párrafo no será aplicable en caso de reincidencia.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 222.
@@ -4356,3 +4366,9 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 557 POR EL QUE SE SE (SIC) REFORMAN LOS ARTÍCULOS 149; 150 Y 151; SE DEROGA EL ARTÍCULO 131; SE DEROGA LA FRACCIÓN VI Y SE REFORMA LA FRACCIÓN VIII AMBAS DEL ARTÍCULO 134; SE DEROGA EL ARTÍCULO 162; Y SE ADICIONA A LA SECCIÓN CUARTA DEL LIBRO SEGUNDO UN TÍTULO SEGUNDO BIS QUE CONTIENE EL CAPÍTULO I INTEGRADO POR LOS ARTÍCULOS 275 BIS Y 275 TER DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 29 POR EL QUE SE ADICIONA EL ARTÍCULO 233 BIS 3, AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
