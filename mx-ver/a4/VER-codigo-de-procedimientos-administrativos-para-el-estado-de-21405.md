@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2018-11-15"
+last_updated: "2019-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2019 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 4 DE FEBRERO DE 2019.]</small>
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -3645,11 +3645,11 @@ Si dentro de los tres días siguientes a la notificación a los demandados, la s
 
 La Sala Unitaria resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma o si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa de cincuenta hasta mil UMAS. Cuando la naturaleza del acto lo permita, el magistrado comisionará al Secretario de Acuerdos de la Sala o al actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2018) (F. DE E., G.O. 4 DE FEBRERO DE 2019)
 
 ###### Artículo 332.
 
-En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá, a instancia de la Sala Unitaria, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos. Si agotados los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista a la Fiscalía General del Estado, para los efectos a que haya lugar.
+En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá, a instancia de la Sala Unitaria, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos. Si agotados los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista al Congreso del Estado, para los efectos a que haya lugar.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
