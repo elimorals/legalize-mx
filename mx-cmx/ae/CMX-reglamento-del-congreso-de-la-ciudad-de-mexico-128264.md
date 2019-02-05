@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2019-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2017-12-20"
 ---
 # REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 17 DE SEPTIEMBRE DE 2018.]</small>
-
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -4124,23 +4122,31 @@ VII. A la Comisión de Normatividad Legislativa Estudios y Prácticas Parlamenta
 
 ### CAPÍTULO I. De la Entrega de Medallas y Reconocimientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 368.
 
-De conformidad con lo señalado en el (sic) la ley, el Congreso otorgará preseas y reconocimientos.
+De conformidad con lo señalado en la ley, el Congreso otorgará medallas y reconocimientos.
 
 Para efectos del presente Título se entiende por:
 
-I. Medalla: Es la presea que se otorga en reconocimiento a una conducta o trayectoria vital, singularmente ejemplares, así como también a obras valiosas y actos relevantes, realizados en beneficio de la humanidad o la Ciudad de México, y
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+I. Medalla: Es la presea que se otorga en reconocimiento a una conducta o trayectoria de vida, singularmente ejemplares, así como también a obras valiosas y actos relevantes, realizados en beneficio de la humanidad o la Ciudad de México, y
 
 II. Reconocimiento: Es la distinción honorífica que se otorga a las y los ciudadanos que hayan sido acreedores a algún premio consistente en la entrega de un diploma o una constancia.
 
-Las medallas y los reconocimientos podrán otorgarse de forma póstuma, a las y los ciudadanos que reúnan las características respectivas y que hayan fallecido en el año anterior a la entrega de la presea de que se trate.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
+Las medallas y los reconocimientos podrán otorgarse de forma póstuma, a quienes hayan fallecido en el año inmediato anterior a la entrega de la presea de que se trate.
 
 #### Sección Primera. Reglas Generales
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 369.
 
-Las personas que de conformidad con lo que establece la ley y el presente reglamento, resulten acreedoras de una medalla se les otorgará además un Diploma.
+La entrega de la medalla se acompañará con un diploma.
 
 ###### Artículo 370.
 
@@ -4186,7 +4192,9 @@ V. El listón del que penda la medalla será de seda y con los colores patrios.
 
 Las Comisiones por materia encargadas de los procedimientos y dictaminación para la entrega de las medallas señaladas en el numeral anterior son las siguientes:
 
-I. Comisión de Cultura;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+I. Comisión de Derechos Culturales;
 
 II. Comisión de Ciencia, Tecnología e Innovación;
 
@@ -4216,23 +4224,31 @@ Las medallas que confiera el Congreso, deberán sustentarse en un análisis obje
 
 La o las Comisiones dictaminadoras deberán realizar la convocatoria, el dictamen y la sesión solemne correspondientes, y deberán actuar en forma colegiada y entrar en función permanente a partir de la fecha de la emisión de la convocatoria hasta la elaboración del dictamen.
 
-Para la aprobación del dictamen en Comisión y en el Pleno, correspondiente a la entrega de medallas se realizará en todos los casos en el primer periodo de sesiones de cada año legislativo.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
-En relación a las sesiones solemnes correspondientes a la entrega de medallas, se realizarán en coordinación con la Junta y las mismas se llevarán a cabo durante el segundo periodo de cada año legislativo y conforme al artículo 54 del presente reglamento.
+La aprobación del dictamen en Comisión y en el Pleno, correspondiente a la entrega de medallas se realizará en el Primer Periodo Ordinario de Sesiones de cada año legislativo, con excepción del primer año de ejercicio, la cual se podrá realizar en el Segundo Periodo Ordinario de Sesiones.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 #### Sección Segunda. De la Convocatoria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 373.
 
-La o las Comisiones encargadas de la entrega de las Medallas deberán realizar la convocatoria y el proceso de elección de las y los candidatos para recibir las medallas correspondientes
+La o las Comisiones encargadas de la entrega de las medallas deberán realizar la convocatoria y el proceso de elección de las y los candidatos para su otorgamiento.
 
 La convocatoria deberá:
 
 I. Ser dirigida a la población, organismos, instituciones académicas, asociaciones, instituciones y organizaciones de la sociedad civil vinculadas con la materia o sector correspondiente a la distinción de que se trate;
 
-II. Ser elaborada y aprobada por las y los integrantes de la o las Comisiones encargadas de la dictaminarían (sic), previo a la publicación de la misma;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
 
-III. Publicarse en por lo menos dos diarios de circulación nacional;
+II. Ser elaborada y aprobada por las y los integrantes de la o las Comisiones encargadas de la dictaminación, previa a su publicación;
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+III. Publicarse en por lo menos dos diarios de circulación nacional, en la página oficial del Congreso, redes sociales de carácter oficial, entre otros;
 
 IV. Establecer las bases y las fechas de las distintas etapas del procedimiento hasta la sesión solemne de entrega de la medalla;
 
@@ -4240,27 +4256,41 @@ V. Señalar el nombre de la o las Comisiones emisoras;
 
 VI. Incluir en un lugar visible el logotipo principal y secundario del Congreso, así como el Acuerdo de Declaración Anual del año que corresponda;
 
-VII. Señalar la o las direcciones y horarios de recepción de documentos, y
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
 
-VIII. Señalar los requisitos y documentación que deben acreditar y entregar las y los candidatos.
+VII. Señalar la dirección electrónica y física, así como los horarios para la recepción de documentos, y
 
-La Publicación señalada en la fracción III del presente artículo, deberá realizarse en un plazo máximo de 45 días antes de la fecha límite de entrega de la medalla correspondiente.
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+VIII. Señalar los requisitos y documentación que deben acreditar y entregar las o los candidatos o bien, postulantes de candidatos.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
+La convocatoria deberá ser emitida a más tardar, en la primera quincena del mes de octubre del año que corresponda y en los casos de inicio de legislatura podrá emitirse en la primera quincena del mes de febrero del segundo periodo de sesiones.
 
 La o el titular de la Coordinación de Servicios Parlamentarios del Congreso deberá apoyar a la o las Comisiones encargadas para publicar la o las convocatorias y el o los dictámenes aprobados otorgando la mayor difusión a los mismos. En caso de que la o las Comisiones lo soliciten a la o el titular de la Coordinación de Servicios Parlamentarios, hará llegar la convocatoria a las instituciones públicas y privadas
 
 #### Sección Tercera. Del Proceso de Elección
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 374.
 
-Toda persona, organismo, instituciones académicas, asociaciones, instituciones y organizaciones de la sociedad civil o sector cuyas actividades sean afines y estén vinculadas con la disciplina o materia correspondiente a la distinción de que se trate; podrá proponerse o proponer por escrito, a las y los candidatos a recibir la medalla.
+Toda persona, grupos, colectivos, organismos, asociaciones, instituciones, organizaciones de la sociedad civil, cuya actividad sea afín y esté vinculada con la disciplina correspondiente a la distinción de que se trate; podrá proponerse o proponer por escrito, las candidaturas para recibir la medalla.
 
 La propuesta deberá contener:
 
-I. Nombre de la persona o institución que realiza la propuesta;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
 
-II. Nombre completo de la o el candidato;
+I. Nombre de la persona, grupo, colectivo, organismo, asociación, institución y organización de la sociedad civil que se propone o que realiza la propuesta;
 
-III. Domicilio de la o el candidato y proponentes;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+II. Nombre completo de la persona o integrantes del colectivo que se postula, según sea el caso.
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+III. Domicilio de la o el candidato y proponentes, así como número telefónico y dirección de correo electrónico.
 
 IV. Exposición de motivos en la que se deberá especificar aquellos méritos por virtud de los cuales se le considera merecedora o merecedor del reconocimiento correspondiente;
 
@@ -4268,17 +4298,25 @@ V. Currículum vitae de la o el candidato, y
 
 VI. La información documental adicional de acuerdo con la disciplina de la especialidad referida en la convocatoria respectiva.
 
+> <small>(ADICIONADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+VII. Carta de Aceptación de la postulación.
+
 La documentación completa de las candidaturas remitidas a la Comisión correspondiente, se considerará confidencial, por lo que éstas permanecerán bajo resguardo de dicha Comisión.
 
-No será necesario que las obras o actos que acrediten el merecimiento de la medalla, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las ramas.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
+No será necesario que las obras o actos que acrediten el merecimiento de la medalla, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las disciplinas.
 
 ###### Artículo 375.
 
 La o las Comisiones dictaminadoras deberán convocar, conocer, estudiar, analizar y efectuar el proceso de la elección de las y los candidatos a recibir la medalla; así como elaborar el proyecto de dictamen correspondiente mismo que una vez que sea aprobado por las y los integrantes de la o las Comisiones, deberá ser presentado y puesto a consideración del Pleno para su aprobación.
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 376.
 
-La entrega de la medalla se realizará en sesión solemne del Pleno, misma que se llevará a cabo de conformidad a lo establecido en el artículo 372 último párrafo del presente reglamento.
+La entrega de las medallas se realizará durante el segundo periodo de sesiones de cada año legislativo en sesión solemne del Pleno, en coordinación con la Junta y conforme al artículo 54 del presente reglamento.
 
 ### CAPÍTULO II. De las Medallas por Materia y Denominación
 
@@ -4296,65 +4334,63 @@ La Comisión responsable y encargada del procedimiento y entrega de la presente 
 
 #### Sección Segunda. Medalla al Mérito en Artes
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 379.
 
-El Congreso otorgará la Medalla al Mérito en Artes a quienes con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, así como a aquellas y aquéllos que hayan contribuido a enriquecer el acervo cultural, a dignificar o a difundir los valores culturales de la Ciudad de México o del País y, en general, al progreso de las actividades estéticas.
+El Congreso otorgará la Medalla al Mérito en Artes, anualmente, a quienes con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, así como a aquellas y aquéllos que hayan contribuido a enriquecer el acervo cultural, a dignificar o a difundir los valores culturales de la Ciudad de México o del País y, en general, al progreso de las actividades estéticas.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 380.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Cultura del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla, es la de Derechos Culturales del Congreso.
 
 ###### Artículo 381.
 
-Para conceder la medalla, las Comisiones de Cultura elaborarán, durante la primera quincena del mes de octubre del año que corresponda, la convocatoria.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 382.
 
-Las propuestas de las y los candidatos a recibir la medalla deberán ser entregadas a más tardar el día primero del mes de octubre siguiente por la sociedad en general, conforme al artículo 374 del presente reglamento ante la Comisión respectiva.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 383.
 
-Además de los requisitos establecidos por el artículo 374, la Comisión de Cultura deberá observar lo siguiente:
+La Comisión de Derechos Culturales otorgará la Medalla al Mérito en Artes en las siguientes disciplinas:
 
-I. Información sobre la obra del creador:
+I. Arquitectura
 
-a) Arquitectura: Obras realizadas;
+II. Artes visuales
 
-b) Artes visuales: (pintura, grabado, escultura, fotografía y diseño gráfico), exposiciones individuales y colectivas, en las que ha presentado su obra, y relación de obras que formen parte de colecciones de museos;
+III. Artes Escénicas
 
-c) Coreografía: Obras estrenadas;
+IV. Diseño
 
-d) Creación e Interpretación de Artes Escénicas (dramaturgia, dirección escénica, teatral o escenografía y danza);
+V. Letras
 
-e) Creación Musical: Copia de los manuscritos de las obras compuestas y/o publicadas;
+VI. Medios audiovisuales
 
-f) Dramaturgia: Obras representadas y/o publicadas;
+VII. Música
 
-g) Letras: Obras publicadas o Ejecutadas;
+VIII. Patrimonio cultural
 
-h) Música (Obras Ejecutadas, grabadas así como canto, instrumentistas y dirección, para el caso de la ejecución musical);
+Por cada una de las disciplinas anteriormente citadas se hará entrega de una sola medalla correspondiente a un solo candidato.
 
-II. Dirección en medios audiovisuales: Obras audiovisuales producidas.
-
-III. Hayan contribuido al enriquecimiento del legado cultural de nuestro país;
-
-IV. Hayan participado en la formación de artistas de otras generaciones.
-
-V. Información documental adicional de acuerdo con la disciplina de su especialidad que dé muestra de la trayectoria del creador;
-
-VI. Relación de premios o distinciones obtenidos, y
-
-VII. Selección de las notas críticas nacionales o internacionales que se han publicado en torno a su obra.
-
-Por cada una de las ramas anteriormente citadas se hará entrega de un sólo reconocimiento.
+Para lo anterior, la Comisión considerará que los méritos de las candidaturas contribuyan a enriquecer, difundir, conservar, recuperar y proteger el patrimonio artístico y cultural de la Ciudad de México o del país en beneficio de sus habitantes, espacios y comunidades.
 
 ###### Artículo 384.
 
 La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se acompañe a cada propuesta, independientemente de los elementos de convicción que adquiera por sus propios medios.
 
+> <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
+La comisión podrá apoyarse, para el análisis de las propuestas de las y los candidatos, por personas especialistas en cada disciplina en lo individual o en colegio, a través de las diversas formas y medios que determine el pleno de la misma.
+
 ###### Artículo 385.
 
-La medalla se otorgará anualmente en sesión solemne que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Tercera. Medalla al Mérito en Ciencias
 
@@ -4368,11 +4404,11 @@ La Comisión responsable y encargada del procedimiento y entrega de la presente 
 
 ###### Artículo 388.
 
-Para conceder la medalla, la Comisión de Ciencia, Tecnología e Innovación elaborará, durante la primera quincena del mes de octubre del año que corresponda, la convocatoria.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 389.
 
-Las propuestas de las y los candidatos a recibir la medalla deberán ser entregadas a más tardar el día primero del mes de octubre siguiente por la sociedad en general, conforme al artículo 374 del presente reglamento ante la Comisión respectiva.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 390.
 
@@ -4380,7 +4416,7 @@ La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se 
 
 ###### Artículo 391.
 
-La medalla se otorgará anualmente en sesión solemne que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Cuarta. Medalla al Mérito Ciudadano
 
@@ -4402,15 +4438,15 @@ La Comisión Especial convocará cada año a la población, organizaciones socia
 
 ###### Artículo 396.
 
-La convocatoria deberá ser elaborada y aprobada por la propia Comisión Especial a más tardar en el mes de octubre.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 397.
 
-El periodo para el registro de las y los candidatos a recibir la medalla queda comprendido en el mes de noviembre, observando en todo momento lo establecido en el artículo 374 del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 398.
 
-La medalla será otorgada (sic) sesión solemne que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Quinta. Medalla al Mérito Deportivo
 
@@ -4434,13 +4470,13 @@ La Comisión de Juventud y Deporte podrá solicitar a las asociaciones deportiva
 
 ###### Artículo 403.
 
-La convocatoria deberá ser emitida a más tardar, en la segunda quincena del mes de octubre del año que corresponda.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 404.
 
-Expedida la convocatoria, se recibirán las propuestas y documentación hasta la segunda quincena del mes de noviembre.
-
-Las propuestas de las y los deportistas presentados como candidatas y candidatos, deberán de contener las actividades deportivas en que participaron en el tiempo comprendido del 31 de diciembre al año anterior, al 30 de noviembre del año en que se realiza la convocatoria.
+Las propuestas de las y los deportistas presentados como candidatas y candidatos, deberán de contener las actividades deportivas en que participaron en el año anterior, a la emisión de la convocatoria.
 
 ###### Artículo 405.
 
@@ -4452,7 +4488,7 @@ II. Documentación para tomar en cuenta de los eventos en que participó, lugar 
 
 ###### Artículo 406.
 
-La sesión solemne para la entrega de la medalla se celebrará de conformidad con el artículo 372 del presente Reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Sexta. Medalla al Mérito Docente
 
@@ -4482,7 +4518,7 @@ La convocatoria deberá ser elaborada y aprobada por la Comisión de Educación,
 
 ###### Artículo 410.
 
-La medalla será otorgada en sesión solemne misma que deberá celebrarse de conformidad con el artículo 372 del presente Reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Séptima. Medalla Hermila Galindo
 
@@ -4506,17 +4542,19 @@ VI. Por realizar investigaciones científicas a favor de las mujeres o por inves
 
 Las Comisiones responsable (sic) y encargadas del procedimiento y entrega de la presente medalla son las Comisiones Unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género del Congreso.
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 413.
 
-La convocatoria deberá ser elaborada preferentemente a las personas del sexo femenino, a organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con la promoción y defensa de los derechos de las mujeres, y deberá ser aprobada por las Comisiones Unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género a más tardar en el mes noviembre del año correspondiente a la entrega del reconocimiento.
+La convocatoria deberá ser dirigida preferentemente a las personas del sexo femenino, a organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con la promoción y defensa de los derechos de las mujeres, y deberá ser aprobada por las Comisiones Unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género.
 
 ###### Artículo 414.
 
-El periodo para el registro de las y los candidatos a recibir la medalla queda comprendido en el mes de noviembre de cada año, observando en todo momento lo establecido en el artículo 374 del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 415.
 
-La medalla será otorgada en sesión solemne misma que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Octava. Medalla al Mérito Empresarial
 
@@ -4524,13 +4562,17 @@ La medalla será otorgada en sesión solemne misma que deberá celebrarse de con
 
 El Congreso otorgará la Medalla al Mérito Empresarial a las personas físicas o morales del sector empresarial, que se hayan distinguido o destacado por sus acciones a favor del empleo, crecimiento económico y desarrollo productivo en beneficio de la Ciudad de México y de sus habitantes.
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 417.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente Medalla es la Comisión de Fomento Económico y la Comisión de Presupuesto y Cuenta Pública, del Congreso.
+Las Comisiones responsables y encargadas del procedimiento y entrega de la presente Medalla serán la Comisión de Fomento Económico y la Comisión de Presupuesto y Cuenta Pública, del Congreso.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 418.
 
-La convocatoria deberá ser elaborada y aprobada por las Comisiones de Fomento Económico y de Presupuesto y Cuenta Pública, a más tardar el mes de octubre del año correspondiente a la entrega del reconocimiento.
+La convocatoria deberá ser elaborada y aprobada por las Comisiones de Fomento Económico y de Presupuesto y Cuenta Pública.
 
 ###### Artículo 419.
 
@@ -4538,11 +4580,11 @@ La convocatoria a que hace referencia el artículo anterior deberá ser dirigida
 
 ###### Artículo 420.
 
-El periodo para el registro de las y los candidatos a recibir la medalla queda comprendido en el mes de octubre de cada año, observando en todo momento lo establecido en el artículo 374 del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 421.
 
-La medalla será otorgada en sesión solemne misma que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Novena. Medalla al Mérito por la Igualdad y la No Discriminación
 
@@ -4556,15 +4598,15 @@ La Comisión responsable y encargada del procedimiento y entrega de la presente 
 
 ###### Artículo 424.
 
-La convocatoria deberá ser elaborada y a más tardar el 1 de noviembre del año correspondiente a la entrega del reconocimiento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 425.
 
-El periodo para el registro de las y los candidatos a recibir la medalla queda comprendido del primero al 30 de noviembre de cada año, observando en todo momento lo establecido en el artículo 374 del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 426.
 
-La medalla será otorgada en sesión solemne que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.. (sic)
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Décima. Medalla al Mérito Periodístico
 
@@ -4594,9 +4636,7 @@ La medalla se otorgará en las categorías y géneros periodísticos que tenga a
 
 ###### Artículo 433.
 
-La convocatoria deberá ser elaborada y aprobada en la segunda quincena del mes de octubre del año que corresponda. La fecha de recepción de los trabajos será hasta el último día hábil del mes de noviembre del año en curso.
-
-La sesión solemne para la entrega de la medalla se realizará conforme a lo establecido en el artículo 372 del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Décima Primera. Medalla al Mérito Policial
 
@@ -4630,17 +4670,19 @@ La Medalla se podrá otorgar hasta un máximo de seis elementos de los Cuerpos d
 
 ###### Artículo 438.
 
-La convocatoria se deberá formular y aprobar en la primera quincena del mes de octubre del año que corresponda.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 439.
 
-Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, así como por los integrantes en activo de los diversos cuerpos de seguridad pública, del 16 de octubre al 15 de noviembre del año que corresponda.
+Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, así como por los integrantes en activo de los diversos cuerpos de seguridad pública, conforme a las bases establecidas en la convocatoria respectiva.
 
 Además de los requisitos señalados en el artículo 374 se deberá tomar en cuenta a las y los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
 ###### Artículo 440.
 
-La sesión solemne para entregar la medalla se realizará de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Décima Segunda. Medalla al Mérito de Protección Civil
 
@@ -4670,17 +4712,19 @@ La medalla se podrá otorgar hasta un máximo de seis personas del sector públi
 
 ###### Artículo 445.
 
-La convocatoria se deberá formular y aprobar en la primera quincena del mes de octubre del año que corresponda.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 446.
 
-Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, durante el mes de noviembre.
+Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, conforme a las bases establecidas en la convocatoria respectiva.
 
 Además de los requisitos señalados en el artículo 374 se deberá tomar en cuenta a las y los elementos que se hayan distinguido por su dedicación, espíritu de servicio, ayuda a la sociedad.
 
 ###### Artículo 447.
 
-La sesión solemne para entregar la medalla se realizará de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Décima Tercera. Medalla al Mérito Turístico Embajador Turístico de la Ciudad de México
 
@@ -4708,13 +4752,13 @@ La Comisión responsable y encargada del procedimiento y entrega de la presente 
 
 ###### Artículo 450.
 
-La convocatoria deberá ser elaborada y aprobada por la Comisión de Turismo a más tardar la segunda quincena del mes octubre del año correspondiente.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
 
 ###### Artículo 451.
 
-La medalla será otorgada en sesión solemne misma que deberá celebrarse de conformidad con el artículo 372 último párrafo del presente reglamento.
+(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
 #### Sección Primera. De la Coordinación de Servicios Parlamentarios
 
@@ -5847,3 +5891,13 @@ SECRETARIA
 (Firma)
 
 DIP. EVA ELOISA LESCAS HERNÁNDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Las convocatorias que hayan emitido las Comisiones Legislativas señaladas en el artículo 371 del Reglamento del Congreso de la Ciudad de México, previo a la entrada en vigor del presente decreto, se regirán bajo las bases de su convocatoria y de conformidad con las disposiciones aplicables al momento de su emisión.
