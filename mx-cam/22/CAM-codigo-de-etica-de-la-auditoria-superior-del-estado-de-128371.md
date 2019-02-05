@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-la-auditoria-superior-del-estado-de-128371"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-12"
-last_updated: "2018-04-12"
+last_updated: "2019-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LA AUDITORIA SUPERIOR DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL NUMERAL 8 DEL CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 12 de abril de 2018.
 
@@ -186,3 +188,13 @@ CUARTA.- El responsable de Recursos Humanos y Capacitación coordinará la difus
 Dado en la Ciudad de San Francisco de Campeche, Campeche, Campeche (sic), Estados Unidos Mexicanos a los dos días del mes de abril del año dos mil dieciocho. El Auditor Superior del Estado de Campeche, C. C.P. Jorge Martín Pacheco Pérez, M.A.E., en término de lo señalado por los artículos, 87 fracciones VIII y XIII, 99 último párrafo y 107 párrafo segundo de la Ley de Fiscalización y Rendición de Cuentas del Estado de Campeche; 12 fracciones XIV, XVII y LXVIII del Reglamento Interior de la Auditoría Superior del Estado de Campeche. De acuerdo con las disposiciones citadas, publíquese el presente Código de Ética, en el Periódico Oficial del Estado de Campeche.
 
 C.P. Jorge Martín Pacheco Pérez, M.A.E, Auditor Superior del Estado de Campeche.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 5 DE FEBRERO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL NUMERAL 8 DEL “CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERA.- El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDA.- Se abroga el (sic) Ética publicado en el Periódico Oficial del Estado de Campeche el 12 de abril de 2018.
