@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2019-01-09"
+last_updated: "2019-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO LXIII-777 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -2656,3 +2658,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-777 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para el Desarrollo Urbano del Estado de Tamaulipas, expedida mediante el Decreto No. LIX-520, publicado en el Periódico Oficial del Estado No. 49 el día 25 de abril de 2006, así como todas las reformas que haya sufrido durante su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Continúan vigentes los decretos, planes y programas que integran el Sistema Estatal, reglamentos y autorizaciones expedidas o aprobadas por el Ejecutivo del Estado, los Ayuntamientos o las autoridades competentes que actuaron conforme a la Ley que se abroga, en todo lo que no se oponga a la presente.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría en un plazo no mayor de 12 meses, a partir de la vigencia de la presente Ley, deberá expedir el Reglamento de Transferencia de Potencialidad y crear el Fideicomiso respectivo.
+
+###### ARTÍCULO SEXTO.
+
+Los municipios con población mayor a 100,000 habitantes, deben crear sus Institutos Municipales de Planeación o de carácter metropolitano, en un término no mayor a 12 meses, a partir de la vigencia de la presente Ley.
