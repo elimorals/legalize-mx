@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-los-servidores-publicos-del-gobierno-109488"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-08-20"
-last_updated: "2016-09-02"
+last_updated: "2019-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-19"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL GOBIERNO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2019 (ABROGADA).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de agosto de 2015.
 
@@ -154,3 +156,17 @@ D.O.F. 2 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO FEDERAL, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS".]
 
 Primero.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Código de Ética de los Servidores Públicos del Gobierno Federal, publicado en el Diario Oficial de la Federación el 20 de agosto de 2015.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. Las dependencias, entidades y empresas productivas del Estado deberán emitir sus respectivos Códigos de Conducta en un plazo no mayor a los 90 días naturales siguientes a la emisión de la guía que, para la elaboración del Código de Conducta, emita la Unidad.
+
+QUINTO. La normativa que rige a los Comités, así como los mecanismos de evaluación, seguirán vigentes hasta en tanto la Unidad emita las actualizaciones correspondientes.
