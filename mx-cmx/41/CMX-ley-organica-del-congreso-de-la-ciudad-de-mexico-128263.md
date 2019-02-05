@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-11-01"
+last_updated: "2019-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE FEBRERO DE 2019.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -358,7 +358,9 @@ L. Elaborar un Sistema de Información Legislativa, a través de la Coordinació
 
 LI. Emitir convocatoria respecto a la solicitud para la realización de Consulta Popular conforme a lo dispuesto en el artículo 25, Apartado F de la Constitución Local, apoyándose para la celebración de la misma del Instituto Electoral de la Ciudad de México;
 
-LII. Entregar Preseas, Medallas y Reconocimientos de conformidad con la presente Ley y su Reglamento;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+LII. Entregar, Medallas y Reconocimientos de conformidad con la presente Ley y su Reglamento;
 
 LIII. Establecer en cada ejercicio fiscal, el monto de los recursos que se destinarán al Fondo Adicional del Financiamiento de las Alcaldías;
 
@@ -1434,7 +1436,9 @@ VIII. Atención Especial a Víctimas;
 
 IX. Ciencia, tecnología e Innovación;
 
-X. Cultura;
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+
+X. Derechos Culturales;
 
 XI. Deporte;
 
@@ -2530,7 +2534,7 @@ VIGÉSIMO SEGUNDO.- De conformidad con el artículo 25 de la Constitución Polí
 
 VIGÉSIMO TERCERO.- La Asamblea Legislativa del Distrito Federal a través de la Oficialía Mayor y la Coordinación de Servicios Parlamentarios deberá integrar y hacer entrega al Congreso de la Ciudad de México al inicio de sus funciones y por riguroso inventario de todo lo relativo a:
 
-l. Su patrimonio;
+I. Su patrimonio;
 
 II. Recursos materiales que comprende: los de inventario, provisión y control de bienes muebles, materiales de oficina y papelería y adquisiciones de recursos materiales;
 
@@ -2607,3 +2611,11 @@ a) Nombrará a dos Comisionados, uno de cada género, cuyo mandato comprenderá 
 b) Nombrará a dos Comisionadas o Comisionados, cuyo mandato comprenderá seis años y observando que en todo momento se garantice la equidad de género en el Pleno del Instituto.
 
 QUINTO.- De conformidad con el segundo párrafo del artículo Trigésimo Tercero de la Constitución de la Ciudad de México la actual comisionada en funciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de datos Personales de la Ciudad de México, permanecerá en el cargo hasta el día 11 de noviembre del año 2020, fecha en que concluye el periodo para el que fue nombrada y en consecuencia, se elegirá una comisionada o un comisionado por el periodo de siete años.
+
+G.O. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Las convocatorias que hayan emitido las Comisiones Legislativas señaladas en el artículo 371 del Reglamento del Congreso de la Ciudad de México, previo a la entrada en vigor del presente decreto, se regirán bajo las bases de su convocatoria y de conformidad con las disposiciones aplicables al momento de su emisión.
