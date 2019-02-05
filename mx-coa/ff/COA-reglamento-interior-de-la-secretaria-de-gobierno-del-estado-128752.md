@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-128
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-09"
-last_updated: "2018-03-09"
+last_updated: "2019-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Primera Sección del Número 20 del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2018.
 
@@ -31,7 +31,7 @@ ING. MIGUEL ÁNGEL RIQUELME SOLÍS, Gobernador Constitucional del Estado de Coah
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Que por lo anteriormente expuesto, he tenido a bien emitir el siguiente:
 
@@ -191,6 +191,14 @@ II. La Coordinación General Administrativa.
 
 III. La. Unidad de Transparencia.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+IV. La Secretaría Técnica.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+V. La Coordinación de Comunicación Social.
+
 Para su funcionamiento, estas unidades administrativas contarán con un titular y los recursos humanos, financieros y materiales que les sean autorizados por el Ejecutivo, de acuerdo a la disponibilidad presupuestal, y a sus respectivos manuales de organización.
 
 ###### Artículo 10.
@@ -275,7 +283,41 @@ XVII. Desempeñar las comisiones, representaciones y funciones que le confiera e
 
 XVIII. Recibir, coordinar y dar seguimiento, a las quejas y sugerencias de los usuarios; y
 
-XIX. Las demás que le confiera este reglamento, otras disposiciones aplicables o el Secretario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE FEBRERO DE 2019)</small>
+
+XIX. Diseñar, integrar y operar un sistema que permita realizar el seguimiento puntual de los documentos que sean remitidos a la Secretaría de Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XX. Diseñar, integrar y operar un programa de gestión social que permita el seguimiento puntual del cumplimiento de las peticiones que realizan al Secretario de Gobierno, la sociedad civil organizada o la ciudadanía en general, dentro de un marco de corresponsabilidad y temporalidad;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXI. Impulsar el desarrollo de la participación ciudadana, así como la generación de convenios y alianzas estratégicas con los sectores social, privado, público y académico que permitan el desarrollo conjunto de acciones para la capacitación y profesionalización, desarrollo de proyectos y acciones altruistas de las organizaciones y la ciudadanía en general;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXII. Gestionar y aplicar los recursos que sean requeridos para fondeo de programas, proyectos, acciones de investigación, capacitación, profesionalización y logística que incidan en las tareas dirigidas al fortalecimiento de la participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXIII. Otorgar apoyos y ayudas mediante recursos en numerario o en especie, para el desarrollo de la responsabilidad social en los proyectos, tareas y acciones de las organizaciones sociales y la ciudadanía en general, en beneficio de la sociedad coahuilense, conforme a la asignación presupuestal que corresponda;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXIV. Canalizar a las personas de la sociedad civil organizada o la ciudadanía en general a dependencias públicas, privadas y asociaciones con el fin de gestionar y realizar lo necesario para que de manera oportuna se proporcione una solución y respuesta a su petición;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXV. Integrar los expedientes con los datos de las personas u organizaciones beneficiadas;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXVI. Reportar semanalmente a la Secretaría, las gestiones, apoyos y ayudas que se otorguen; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE FEBRERO DE 2019)</small>
+
+XXVII. Las demás que le confiera este reglamento, otras disposiciones aplicables o el Secretario.
 
 #### SECCIÓN IV. LA COORDINACIÓN GENERAL ADMINISTRATIVA
 
@@ -357,13 +399,63 @@ XV. Procurar las condiciones de accesibilidad para garantizar que todas las pers
 
 XVI. Las demás que le confieran las disposiciones legales y administrativas aplicables o le encomiende el superior jerárquico.
 
-#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE FEBRERO DE 2019)</small>
 
-#### SECCIÓN II. LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
+#### SECCIÓN VI. LA SECRETARÍA TÉCNICA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2019)</small>
+
+Artículo 15 BIS. Corresponde a la Secretaría Técnica, las facultades y obligaciones consignadas en el artículo 10 del presente reglamento, así como las siguientes:
+
+I. Elaborar en conjunto con las Unidades Administrativas y someter a consideración del Secretario, el programa operativo anual, los planes y políticas relacionados con su ámbito de competencia;
+
+II. Integrar, previa validación de las Unidades Administrativas, toda la información estadística y narrativa generada para el informe Estatal de Gobierno;
+
+III. Integrar toda la información estadística y narrativa generada por la Secretaría, así como evidencia visual para la elaboración del informe Estatal de Gobierno;
+
+IV. Elaborar y presentar a la Secretaría, informes de evaluación de los programas, proyectos y actividades institucionales;
+
+V. Enviar a la oficina del Gobernador una agenda de los eventos diarios y semanales de la Secretaría;
+
+VI. Dar seguimiento en la plataforma de la Secretaría Técnica y de Planeación del Ejecutivo a los compromisos y acuerdos turnados a esta Secretaría;
+
+VII. Integrar el programa y establecer las directrices para la organización de reuniones, eventos y giras de trabajo para el titular de la Secretaría, en coordinación con las unidades administrativas;
+
+VIII. Colaborar en la integración de la agenda de actividades del titular de la Secretaria;
+
+IX. Operar los programas de capacitación sobre los sistemas de información que se requieran para el adecuado funcionamiento administrativo de la Secretaría;
+
+X. Dirigir, diseñar y proponer herramientas tecnológicas y sistemas de información para el desempeño eficiente de los programas y procedimientos administrativos de la Secretaría;
+
+XI. Garantizar el buen funcionamiento de los equipos informáticos, red de intranet e internet de las Unidades Administrativas; y
+
+XII. Las demás que le confiera este reglamento, otras disposiciones aplicables o el Secretario.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE FEBRERO DE 2019)</small>
+
+#### SECCIÓN VII. LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2019)</small>
+
+Artículo 15 TER. Corresponde a la Coordinación de Comunicación Social, las facultades y obligaciones consignadas en el artículo 10 del presente reglamento, así como las siguientes:
+
+I. Desarrollar la política de comunicación social de la Secretaría de manera eficaz, oportuna y responsable;
+
+II. Establecer enlaces de comunicación entre la Secretaría y la sociedad;
+
+III. Planear, coordinar y ejecutar las acciones de difusión y promoción de los planes, programas y acciones de la Secretaría y sus unidades administrativas;
+
+IV. Supervisar la dirección escénica y técnica de la grabación de locaciones, así como la edición y musicalización de material audiovisual que se utilice en las campañas corporativas de imagen de los organismos pertenecientes a esta Secretaría;
+
+V. Promover las actividades y servicios institucionales a través de medios electrónicos y redes sociales;
+
+VI. Promover y fortalecer las relaciones entre la Secretaría y los medios de comunicación con la finalidad de ampliar la cobertura y difusión de las actividades de la Secretaría y el titular del Ejecutivo; y
+
+VII. Las demás que le confiera este reglamento, otras disposiciones aplicables o el Secretario.
 
 ### CAPÍTULO CUARTO. LAS SUBSECRETARÍAS
 
-#### SECCIÓN III. LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
+#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
 
 ###### Artículo 16.
 
@@ -419,7 +511,7 @@ XIV. Certificar las copias de los documentos y constancias cuyos originales obre
 
 XV. Las demás que les confiera este reglamento, otras disposiciones aplicables, así como las que les asigne el Ejecutivo o el Secretario.
 
-#### SECCIÓN IV. LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS Y SOCIALES
+#### SECCIÓN II. LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
 
 ###### Artículo 19.
 
@@ -451,7 +543,7 @@ XII. Promover la suscripción de convenios y vigilar el cumplimiento de acuerdos
 
 XIII. Las demás que les confiera este reglamento, otras disposiciones aplicables, así como las que les asigne el Ejecutivo o el Secretario.
 
-#### SECCIÓN V. LA SUBSECRETARÍA DE PROTECCIÓN CIVIL
+#### SECCIÓN III. LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
 
 ###### Artículo 20.
 
@@ -489,7 +581,7 @@ XV. Crear espacios de concertación entre los grupos sociales y sectoriales de l
 
 XVI. Las demás que le señale este reglamento, otras disposiciones aplicables o el Secretario.
 
-#### SECCIÓN VI. LA SUBSECRETARÍA DE COORDINACIONES REGIONALES
+#### SECCIÓN IV. LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS Y SOCIALES
 
 ###### Artículo 21.
 
@@ -527,7 +619,7 @@ XV. Coordinar la relación de la Secretaría con las asociaciones religiosas que
 
 XVI. Las demás que le señale este reglamento, otras disposiciones aplicables o el Secretario.
 
-#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+#### SECCIÓN V. LA SUBSECRETARÍA DE PROTECCIÓN CIVIL
 
 ###### Artículo 22.
 
@@ -575,7 +667,7 @@ XX. Preparar y someter a la consideración del Secretario, los acuerdos relativo
 
 XXI. Las demás que le encomiende este reglamento, otras disposiciones aplicables o el Secretario.
 
-#### SECCIÓN II. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
+#### SECCIÓN VI. LA SUBSECRETARÍA DE COORDINACIONES REGIONALES
 
 ###### Artículo 23.
 
@@ -675,7 +767,7 @@ XXVII. Las demás que le confiera este reglamento, otras disposiciones aplicable
 
 ### CAPÍTULO SEXTO. LOS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN III. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
+#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
 
 ###### Artículo 26.
 
@@ -757,7 +849,7 @@ XXII. Promover programas de excelencia y de calidad profesional, tendientes a in
 
 XXIII. Las demás que les confiera este reglamento, otras disposiciones aplicables, el Secretario o el Subsecretario de su adscripción.
 
-#### SECCIÓN IV. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA CONSEJERÍA JURÍDICA
+#### SECCIÓN II. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
 
 ###### Artículo 29.
 
@@ -767,7 +859,7 @@ El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, se organiza
 
 El Centro de Evaluación y Control de Confianza, es un órgano desconcentrado de la Secretaría Gobierno, competente para organizar, aplicar y supervisar el proceso de evaluación y certificación de confianza de los integrantes de las instituciones de seguridad pública del Estado, y en su caso, de los municipios, su titular tendrá además de las atribuciones previstas en el artículo 28 de este reglamento, las establecidas en su reglamento interior, así como las que establezcan las disposiciones legales aplicables.
 
-#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+#### SECCIÓN III. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
 
 ###### Artículo 31.
 
@@ -831,7 +923,7 @@ XII. Crear e implementar un programa permanente de capacitación y seguimiento e
 
 XIII. Las demás que le confieran este reglamento, otras disposiciones aplicables, el Secretario o el Subsecretario de su adscripción.
 
-#### SECCIÓN II. LAS DIRECCIONES DE LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
+#### SECCIÓN IV. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA CONSEJERÍA JURÍDICA
 
 ###### Artículo 35.
 
@@ -863,7 +955,7 @@ XII. Las demás funciones que le confiera este reglamento, otras disposiciones a
 
 ### CAPÍTULO SÉPTIMO. LAS DIRECCIONES DE LA SECRETARÍA
 
-#### SECCIÓN III. LAS DIRECCIONES DE LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
+#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
 
 ###### Artículo 36.
 
@@ -897,7 +989,7 @@ XI. Promover la capacitación permanente del personal a su cargo para el desarro
 
 XII. Las demás que les confiera este reglamento, otras disposiciones aplicables, así como las que les asigne el Secretario o el titular del área administrativa de su adscripción.
 
-#### SECCIÓN IV. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS Y SOCIALES
+#### SECCIÓN II. LAS DIRECCIONES DE LA SUBSECRETARÍA DE COORDINACIÓN INTERINSTITUCIONAL EN MATERIA DE SEGURIDAD
 
 ###### Artículo 38.
 
@@ -923,7 +1015,7 @@ VII. Promover y organizar, en coordinación con otras instancias, cursos, coloqu
 
 VIII. Las demás que le señale este reglamento, otras disposiciones aplicables o el Secretario.
 
-#### SECCIÓN V. LAS DIRECCIONES DE LA SUBSECRETARÍA DE PROTECCIÓN CIVIL
+#### SECCIÓN III. LAS DIRECCIONES DE LA SUBSECRETARÍA DE GOBIERNO Y ATENCIÓN CIUDADANA
 
 ###### Artículo 40.
 
@@ -1061,7 +1153,7 @@ II. Dar la asesoría correspondiente a los usuarios de este servicio; y
 
 III. Las demás atribuciones que le confiera este reglamento, otras disposiciones aplicables, el Secretario o el Subsecretario.
 
-#### SECCIÓN VI. LAS DIRECCIONES DE LA SUBSECRETARÍA DE COORDINACIONES REGIONALES
+#### SECCIÓN IV. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS Y SOCIALES
 
 ###### Artículo 46.
 
@@ -1145,7 +1237,7 @@ VIII. Las demás atribuciones que le confiera este reglamento, otras disposicion
 
 La Dirección de Asuntos Religiosos podrá contar con oficinas de enlace en las diversas regiones del Estado, de acuerdo a la disponibilidad presupuestal.
 
-#### SECCIÓN VII. LAS DIRECCIONES DE LA CONSEJERÍA JURÍDICA
+#### SECCIÓN V. LAS DIRECCIONES DE LA SUBSECRETARÍA DE PROTECCIÓN CIVIL
 
 ###### Artículo 50.
 
@@ -1236,6 +1328,8 @@ X. Solicitar la información necesaria de cualquier área de la Subsecretaría p
 XI. Dictaminar acerca de la procedencia de permisos y demás autorizaciones cuya expedición corresponda a las unidades administrativas de la Subsecretaría, así como sobre las causales de cancelación, revocación, caducidad y demás formas que los modifiquen o extingan, conforme a la (sic) leyes y demás ordenamientos jurídicos aplicables; y
 
 XII. Todas aquéllas que le atribuyan otras disposiciones aplicables, el Subsecretario o el Secretario.
+
+#### SECCIÓN VI. LAS DIRECCIONES DE LA SUBSECRETARÍA DE COORDINACIONES REGIONALES
 
 ###### Artículo 54.
 
@@ -1360,6 +1454,8 @@ X. Colaborar respetuosamente con los gobiernos municipales y las autoridades fed
 XI. Mantener una relación respetuosa y de coordinación con los gobiernos estatales y municipales vecinos de la región en que desarrolle sus funciones; y
 
 XII. Las demás que le confiera este reglamento, otras disposiciones aplicables o el Secretario.
+
+#### SECCIÓN VII. LAS DIRECCIONES DE LA CONSEJERÍA JURÍDICA
 
 ###### Artículo 59.
 
@@ -1684,3 +1780,17 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
