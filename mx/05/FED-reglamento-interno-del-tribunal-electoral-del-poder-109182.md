@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2017-12-29"
+last_updated: "2019-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -449,15 +449,15 @@ Para el eficaz y debido desempeño de sus funciones, la Secretaría General cont
 
 I. Subsecretaría General de Acuerdos;
 
-II. Secretariado Técnico;
+II. (DEROGADA, D.O.F. 5 DE FEBRERO DE 2019)
 
-III. Dirección General de Estadística e Información Jurisdiccional;
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+III. Unidad de Estadística e Información Jurisdiccional;
 
 IV. Unidad de Vinculación con las Salas Regionales;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
-
-V. Unidad de Apoyo Jurisdiccional;
+V. (DEROGADA, D.O.F. 5 DE FEBRERO DE 2019)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -471,9 +471,9 @@ VII. Oficialía de Partes; y
 
 VIII. Archivo Jurisdiccional.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-Las personas titulares de las referidas áreas deberán reunir los requisitos que exige el artículo 215 de la Ley Orgánica; con excepción del titular de la Unidad de Apoyo Jurisdiccional, quien podrá ostentar algún otro título en el área de su especialidad o materia afín a las labores a desempeñar, expedido legalmente con una antigüedad mínima de tres años. Su designación se orientará por el principio de paridad de género.
+Las personas titulares de las referidas áreas deberán reunir los requisitos que exige el artículo 215 de la Ley Orgánica; Su designación se orientará por el principio de paridad de género.
 
 ###### Artículo 22.
 
@@ -529,47 +529,67 @@ VII. Tomar las medidas conducentes para publicar oportunamente, en los estrados 
 
 VIII. Elaborar las actas de comparecencia de las partes cuando el expediente respectivo no se encuentre turnado.
 
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+IX. Apoyar, en el ámbito de sus facultades, a las Secretarías Generales de las Salas Regionales; a través de la Unidad de Vinculación con las Salas Regionales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+X. Identificar las promociones que ingresen a la Secretaría General y apoyar a la persona titular de la Secretaría General con el control del turno;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XI. Elaborar los acuerdos, actas relacionadas con las comisiones oficiales, vacaciones o demás encomiendas de las y los Magistrados de la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XII. Llevar el control de los archivos no judiciales de la Secretaría General;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XIII. Llevar el registro cronológico de las sesiones de la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XIV. Elaborar los proyectos de las actas de las sesiones privadas que deberá someter a consideración de la persona titular de la Secretaría General; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XV. Dar cuenta de inmediato a la persona titular de la Secretaría General, de las promociones que identifique como urgentes para proveer lo conducente.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
 SECCIÓN 2ª
 
 Del Secretariado Técnico
 
 ###### Artículo 25.
 
-El Secretariado Técnico está encargado de auxiliar y apoyar a la Secretaría General en el desarrollo de las funciones que le han sido conferidas por disposición legal, y realizará sus funciones con el personal de apoyo que determine la Presidencia o la persona titular de la Secretaría General.
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 26.
 
-La persona titular del Secretariado Técnico tendrá las facultades siguientes:
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
-I. Coadyuvar con la persona titular de la Secretaría General en el cumplimiento de las facultades que tiene encomendadas;
-
-II. Apoyar, en el ámbito de sus facultades, a las Secretarías Generales de las Salas Regionales; a través de la Unidad de Vinculación con las Salas Regionales;
-
-III. Identificar las promociones que ingresen a la Secretaría General y apoyar a la persona titular de la Secretaría General con el control del turno;
-
-IV. Elaborar los acuerdos, actas relacionadas con las comisiones oficiales, vacaciones o demás encomiendas de las y los Magistrados de la Sala Superior;
-
-V. Llevar el control de los archivos no judiciales de la Secretaría General;
-
-VI. Llevar el registro cronológico de las sesiones de la Sala Superior;
-
-VII. Elaborar los proyectos de las actas de las sesiones privadas que deberá someter a consideración de la persona titular de la Secretaría General; y
-
-VIII. Dar cuenta de inmediato a la persona titular de la Secretaría General, de las promociones que identifique como urgentes para proveer lo conducente.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
 SECCIÓN 3ª
 
-De la Dirección General de Estadística e Información Jurisdiccional
+De la Unidad de Estadística e Información Jurisdiccional
+
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 27.
 
-La Dirección General de Estadística e Información Jurisdiccional está encargada de coordinar el control y registro de los asuntos ingresados y resueltos por las Salas del Tribunal Electoral.
+La Unidad de Estadística e Información Jurisdiccional está encargada de coordinar el control y registro de los asuntos ingresados y resueltos por las Salas del Tribunal Electoral.
 
-La persona titular de la Dirección General de Estadística e Información Jurisdiccional realizará sus funciones con el personal de apoyo que determine la Presidencia o la persona titular de la Secretaría General.
+La persona titular de la Unidad de Estadística e Información Jurisdiccional realizará sus funciones con el personal de apoyo que determine la Presidencia o la persona titular de la Secretaría General.
 
 ###### Artículo 28.
 
-La persona titular de la Dirección General de Estadística e Información Jurisdiccional, tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+La persona titular de la Unidad de Estadística e Información Jurisdiccional, tendrá las facultades siguientes:
 
 I. Diseñar, implementar, administrar y supervisar la operación de los sistemas de información y documentación de los asuntos jurisdiccionales competencia del Tribunal Electoral;
 
@@ -595,15 +615,19 @@ SECCIÓN 4ª
 
 De la Unidad de Vinculación con Salas Regionales
 
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 29.
 
-La Unidad de Vinculación con Salas Regionales está encargada de coadyuvar y apoyar a Secretaría General y a la Dirección General de Estadística e Información Jurisdiccional en el cumplimiento de las atribuciones que tienen encomendadas; y es el vínculo con la Salas Regionales para el registro y seguimiento de los asuntos jurisdiccionales.
+La Unidad de Vinculación con Salas Regionales está encargada de coadyuvar y apoyar a la Secretaría General en el cumplimiento de las atribuciones que tienen encomendadas; y es el vínculo con la Salas Regionales para el registro y seguimiento de los asuntos jurisdiccionales.
 
 ###### Artículo 30.
 
 La persona titular de la Unidad de Vinculación con Salas Regionales tendrá las facultades siguientes:
 
-I. Coadyuvar con la Secretaría General y la Dirección General de Estadística e Información Jurisdiccional en el cumplimiento de las atribuciones que tiene encomendadas;
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+I. Coadyuvar con la Secretaría General en el cumplimiento de las atribuciones que tiene encomendadas;
 
 II. Llevar el control del registro de los asuntos ingresados y turnados en las Salas Regionales, contando con el apoyo de sus Secretarías Generales;
 
@@ -619,45 +643,23 @@ VII. Informar a las personas titulares de la Secretaría General y de la Subsecr
 
 VIII. Mantener actualizado, en el ámbito de su competencia, el sistema electrónico de consulta interna y externa; y
 
-IX. Informar permanentemente a la persona titular de la Dirección General de Estadística e Información Jurisdiccional, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+IX. Informar permanentemente a la persona titular de la Secretaría General, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
 SECCIÓN 4ª (SIC)
 
 De la Unidad de Apoyo Jurisdiccional
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 30 Bis.
 
-La Unidad de Apoyo Jurisdiccional está encargada de coadyuvar y apoyar a la Presidencia, a las Magistradas y a los Magistrados, así como a la Secretaría General de la Sala Superior en el cumplimiento de las atribuciones que tienen encomendadas, y realizará sus fines con el personal de apoyo que determine la Presidencia y/o la persona titular de la Secretaría General.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 30 Ter.
 
-La persona titular de la Unidad de Apoyo Jurisdiccional tendrá las facultades siguientes:
-
-I. Coordinar el seguimiento de los procedimientos de fiscalización de los ingresos y egresos de los partidos políticos y candidatos, así como de aquellos asuntos que determine la Sala Superior.
-
-II. Coordinar la evaluación y dictaminación de la información relativa a los procedimientos de fiscalización de los ingresos y egresos de los partidos políticos y candidatos, que le sea solicitada por la Presidencia, las Magistradas y los Magistrados de la Sala Superior, a fin de coadyuvar en la sustanciación y resolución de los medios de impugnación relacionados con el tema.
-
-III. Identificar, analizar, sistematizar y clasificar los asuntos electorales y criterios relacionados con la fiscalización de los ingresos y egresos de los recursos de los partidos políticos y candidatos, así como de aquellos otros asuntos que determine la Sala Superior.
-
-IV. Apoyar a las Magistradas y a los Magistrados integrantes de la Sala Superior, así como a la Secretaría General de Acuerdos, en cuestiones técnicas o especializadas que coadyuven en la resolución de asuntos jurisdiccionales.
-
-V. Coadyuvar con la Secretaría General de Acuerdos y la Dirección General de Estadística e Información Jurisdiccional en la generación de base de datos y demás información relevante para el cumplimiento de la función jurisdiccional.
-
-VI. Cuando así lo determine la Sala Superior o la Presidencia, brindar apoyo en su ámbito de conocimiento a las salas regionales, en coordinación con la Unidad de Vinculación de la Secretaría General.
-
-VII. Proponer a su jefe inmediato los criterios, políticas y directrices para el cumplimiento del programa de trabajo de su área.
-
-VIII. Proponer a la Sala Superior, por conducto de su Presidencia, los proyectos de su área a considerar en el programa anual de trabajo, así como los convenios de colaboración con otras instituciones que faciliten el cumplimiento de sus atribuciones.
-
-IX. Participar en eventos, conferencias, talleres o cualquier otro evento análogo que contribuya a la capacitación en temas especializados para las funciones de apoyo jurisdiccional.
-
-X. Las demás que les sean encomendadas por las Magistradas y los Magistrados integrantes de la Sala Superior, cuyo propósito sea afín a las atribuciones de los titulares de las ponencias.
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
 SECCIÓN 5ª
 
@@ -833,9 +835,13 @@ XV. Las demás que les confieran las disposiciones aplicables.
 
 El Secretariado de Tesis tendrá las facultades siguientes:
 
-I. Elaborar los proyectos de tesis de los criterios jurídicos establecidos por la Sala Superior y, previa aprobación de la o el Magistrado de su adscripción, someterlos a consideración de la Sala Superior por conducto de la Coordinación de Jurisprudencia, Seguimiento y Consulta;
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-II. Coadyuvar con la Coordinación de Jurisprudencia, Seguimiento y Consulta para la compilación y sistematización de tesis obligatorias, tesis relevantes y jurisprudencia que emita la Sala Superior;
+I. Elaborar los proyectos de tesis de los criterios jurídicos establecidos por la Sala Superior y, previa aprobación de la o el Magistrado de su adscripción, someterlos a consideración de la Sala Superior por conducto de la Dirección General de Jurisprudencia, Seguimiento y Consulta;
+
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+II. Coadyuvar con la Dirección General de Jurisprudencia, Seguimiento y Consulta para la compilación y sistematización de tesis obligatorias, tesis relevantes y jurisprudencia que emita la Sala Superior;
 
 III. Informar a la o el Magistrado de su adscripción, sobre las tesis relevantes que contengan cambios de criterio de la Sala Superior;
 
@@ -2597,7 +2603,9 @@ La persona titular de la Defensoría Electoral tendrá las facultades siguientes
 
 I. Administrar, coordinar, vigilar y dar seguimiento a los asuntos y servicios de la Defensoría Electoral;
 
-II. Diseñar e implementar, en conjunto con la Coordinación de Comunicación Social, el programa anual de difusión de los servicios;
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+II. Diseñar e implementar, en conjunto con la Dirección General de Comunicación Social, el programa anual de difusión de los servicios;
 
 III. Elaborar y difundir, con el apoyo de la Coordinación de Información, Documentación y Transparencia, estudios y documentos que brinden a los pueblos, comunidades indígenas o alguna de las personas que los integren, información sobre sus derechos político-electorales;
 
@@ -2661,21 +2669,53 @@ El Comité de Desincorporación de Bienes es un órgano colegiado con carácter 
 
 El Comité para la Implementación del Sistema de Gestión de Control Interno y de Mejora Continua es un órgano colegiado con carácter permanente, el cual será la instancia en la que se analicen, estudien y propongan, la búsqueda de mejores prácticas administrativas de conformidad con los criterios establecidos por la Comisión de Administración, para lo cual se integrará y funcionará de conformidad con el Acuerdo General que para tales efectos emita dicha Comisión.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-## TÍTULO SEGUNDO. De las Coordinaciones y Direcciones Generales adscritas a la Presidencia del Tribunal
+## TÍTULO SEGUNDO. De las Direcciones Generales adscritas a la Presidencia del Tribunal
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 192.
 
-Para el debido cumplimiento de sus facultades, la Presidencia contará con las siguientes Coordinaciones y Direcciones Generales:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-A. Coordinaciones:
+Para el debido cumplimiento de sus facultades, la Presidencia contará con las siguientes Direcciones Generales:
 
-I. De Jurisprudencia, Seguimiento y Consulta; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-II. De Comunicación Social.
+A. Direcciones Generales:
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+I. De Relaciones Institucionales Internacionales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+II. De Relaciones Institucionales Nacionales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+III. De Igualdad de Derechos y Paridad de Género;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+IV. De Documentación;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+V. De Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+VI. De Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+(REUBICADA, D.O.F. 5 DE FEBRERO DE 2019)
+
+VII. De Jurisprudencia, Seguimiento y Consulta; y
+
+(REUBICADA, D.O.F. 5 DE FEBRERO DE 2019)
+
+VIII. De Comunicación Social.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -2697,9 +2737,9 @@ La integración de estas áreas se orientará por el principio de paridad y cont
 
 ###### Artículo 193.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-Las personas titulares de las Coordinaciones y Direcciones Generales adscritas a la Presidencia tendrán, en el ámbito de su competencia, las siguientes facultades:
+Las personas titulares de las Direcciones Generales adscritas a la Presidencia tendrán, en el ámbito de su competencia, las siguientes facultades:
 
 I. Integrar los Comités y Comisiones que determinen la Sala Superior y la Presidencia;
 
@@ -2733,15 +2773,21 @@ XIII. Formular las respuestas a las solicitudes de acceso a la información y de
 
 XIV. Las demás que les confieran las disposiciones aplicables.
 
-### CAPÍTULO I. De la Coordinación de Jurisprudencia, Seguimiento y Consulta
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO I. De la Dirección General de Jurisprudencia, Seguimiento y Consulta
+
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 194.
 
-La Coordinación de Jurisprudencia, Seguimiento y Consulta es el área que se encarga de coordinar y organizar la difusión, compilación, sistematización y publicación de la jurisprudencia, tesis y criterios emitidos por el propio Tribunal Electoral; el desahogo de las consultas que se formulen sobre éstos; así como realizar el seguimiento, sistematización, análisis y difusión de los asuntos relacionados con la materia electoral, radicados en órganos distintos al Tribunal Electoral incluidos los criterios emitidos por Tribunales y organismos internacionales, para permitir un mayor conocimiento de la interpretación de los derechos humanos vinculados con la justicia electoral.
+La Dirección General de Jurisprudencia, Seguimiento y Consulta es el área que se encarga de coordinar y organizar la difusión, compilación, sistematización y publicación de la jurisprudencia, tesis y criterios emitidos por el propio Tribunal Electoral; el desahogo de las consultas que se formulen sobre éstos; así como realizar el seguimiento, sistematización, análisis y difusión de los asuntos relacionados con la materia electoral, radicados en órganos distintos al Tribunal Electoral incluidos los criterios emitidos por Tribunales y organismos internacionales, para permitir un mayor conocimiento de la interpretación de los derechos humanos vinculados con la justicia electoral.
 
 ###### Artículo 195.
 
-La persona titular de la Coordinación de Jurisprudencia, Seguimiento y Consulta tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+La persona titular de la Dirección General de Jurisprudencia, Seguimiento y Consulta tendrá las facultades siguientes:
 
 I. Coadyuvar con las Ponencias de las y los Magistrados en la formulación de las propuestas de tesis y jurisprudencia de los asuntos competencia de la Sala Superior, para efectos de su aprobación;
 
@@ -2767,21 +2813,23 @@ XI. Organizar y participar en la impartición de cursos y talleres relacionados 
 
 XII. Implementar, proponer y actualizar sistemas electrónicos de consulta de jurisprudencia y tesis.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-### CAPÍTULO II. De la Coordinación de Comunicación Social
+### CAPÍTULO II. De la Dirección General de Comunicación Social
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 196.
 
-La Coordinación de Comunicación Social se encarga de planear, diseñar y dirigir las políticas de comunicación institucional, para una mejor difusión y comprensión de los derechos político-electorales y del sistema de justicia electoral que los garantiza, consolidando la imagen pública del Tribunal Electoral; así como de difundir la actividad jurisdiccional de conformidad con la normativa aplicable.
+La Dirección General de Comunicación Social se encarga de planear, diseñar y dirigir las políticas de comunicación institucional, para una mejor difusión y comprensión de los derechos político-electorales y del sistema de justicia electoral que los garantiza, consolidando la imagen pública del Tribunal Electoral; así como de difundir la actividad jurisdiccional de conformidad con la normativa aplicable.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ###### Artículo 197.
 
-La persona titular de la Coordinación de Comunicación Social tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+La persona titular de la Dirección General de Comunicación Social tendrá las facultades siguientes:
 
 I. Proponer y operar estrategias y programas de comunicación institucional;
 
@@ -2837,7 +2885,9 @@ V. Promover vínculos con organismos nacionales e internacionales; instituciones
 
 VI. Coordinar la elaboración del Programa Anual de Igualdad de Derechos y Paridad de Género del Tribunal Electoral y someterlo a la aprobación de la Comisión de Administración; y
 
-VII. Coordinar la difusión de los contenidos de la normativa nacional e internacional relacionada con la materia, con apoyo de la Coordinación de Comunicación Social y otras áreas.
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+VII. Coordinar la difusión de los contenidos de la normativa nacional e internacional relacionada con la materia, con apoyo de la Dirección General de Comunicación Social y otras áreas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE JUNIO DE 2017)</small>
 
@@ -2859,17 +2909,17 @@ La persona titular de la Dirección General de Documentación tendrá las facult
 
 I. Proponer y supervisar el desarrollo de planes y proyectos estratégicos para actualizar, innovar y difundir los servicios documentales;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-II. Coadyuvar con las diversas instancias superiores, Coordinaciones y Direcciones Generales en la difusión del conocimiento en materia electoral, de la cultura democrática y de la educación cívica;
+II. Coadyuvar con las diversas instancias superiores y Direcciones Generales en la difusión del conocimiento en materia electoral, de la cultura democrática y de la educación cívica;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 III. Elaborar y compilar los informes correspondientes, que serán presentados ante la autoridad competente;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-IV. Dirigir y administrar la publicación de información en el portal de Internet de conformidad con los Acuerdos, lineamientos o manuales operativos que para tal efecto se emitan, en coordinación con la Dirección General de Sistemas y la Coordinación de Comunicación Social y para ello integrará la junta editorial de la página de Intranet e Internet;
+IV. Dirigir y administrar la publicación de información en el portal de Internet de conformidad con los Acuerdos, lineamientos o manuales operativos que para tal efecto se emitan, en coordinación con la Dirección General de Sistemas y la Dirección General de Comunicación Social y para ello integrará la junta editorial de la página de Intranet e Internet;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
@@ -3181,7 +3231,37 @@ XXVII. Autorizar la adición de partidas, subpartidas y sub-subpartidas que no s
 
 XXVIII. Autorizar las adecuaciones presupuestarias por aumento o disminución, de conformidad con lo establecido en la normativa de la materia; y
 
-XXIX. Las demás que le confieran las disposiciones aplicables, este Reglamento, la Presidencia del Tribunal y la Comisión de Administración.
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXIX. Llevar a cabo las acciones encaminadas a proporcionar la atención requerida por las y los Magistrados de la Sala Superior del Tribunal Electoral ante los sectores público, privado y social;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXX. Proporcionar a las y los Magistrados de la Sala Superior del Tribunal Electoral el apoyo logístico en el desempeño de comisiones oficiales y traslados a los eventos a los que asistan o les corresponda realizar, cuando así les sea requerido;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXI. Llevar a cabo la recepción, traslado y atención de invitados especiales que asistan a algún evento organizado por el Tribunal Electoral o por alguna o alguno de los Magistrados integrantes de la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXII. Auxiliar y proporcionar apoyo a las y los Magistrados de la Sala Superior del Tribunal Electoral en los trámites administrativos y legales ante toda clase de autoridades, instituciones públicas, privadas, particulares y ante las unidades administrativas del Tribunal Electoral, en los casos que sea necesario;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXIII. Coordinar con las unidades administrativas del Tribunal Electoral, así como con las Instituciones, públicas, privadas y sociales, las acciones que coadyuven a la consecución de los propósitos requeridos por las y los Magistrados de la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXIV. Proporcionar a las y los Magistrados de la Sala Superior del Tribunal Electoral, la información, orientación, formatos e instructivos que sean necesarios para efectuar los trámites administrativos y legales, cuando así se lo soliciten;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXV. Dar cuenta de todos los asuntos que le hayan sido turnados por las y los Magistrados de la Sala Superior o que la Presidencia del Tribunal le haya encomendado; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XXXVI. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3193,7 +3273,9 @@ I. Dirección General de Recursos Humanos;
 
 II. Dirección General de Recursos Financieros;
 
-III. Coordinación de Adquisiciones, Servicios y Obra pública;
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+III. Dirección General de Adquisiciones, Servicios y Obra pública;
 
 IV. Dirección General de Protección Institucional;
 
@@ -3201,7 +3283,7 @@ V. Dirección General de Sistemas;
 
 VI. Dirección General de Planeación y Evaluación Institucional;
 
-VII. Dirección General de Enlace y Vinculación Social;
+VII. (DEROGADA, D.O.F. 5 DE FEBRERO DE 2019)
 
 VIII. Dirección General de Administración Regional; y
 
@@ -3375,15 +3457,19 @@ XXIII. Solicitar en el ámbito de su competencia, las gestiones para la recupera
 
 XXIV. Efectuar las gestiones para el pago de diversos conceptos diferentes a los contemplados en la nómina de las y los servidores públicos del Tribunal, en caso de que la cuenta de deudores diversos refleje saldos a favor, una vez que concluyan su relación laboral.
 
-### CAPÍTULO III. De la Coordinación de Adquisiciones, Servicios y Obra Pública
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO III. De la Dirección General de Adquisiciones, Servicios y Obra Pública
 
 ###### Artículo 216.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
 
-La Coordinación de Adquisiciones, Servicios y Obra Pública se encarga de la administración de los recursos materiales, servicios y obra pública; así como de los programas y acciones integrales en el ámbito de su competencia, para atender las necesidades del Tribunal Electoral.
+La Dirección General de Adquisiciones, Servicios y Obra Pública se encarga de la administración de los recursos materiales, de mantenimiento, servicios y obra pública; así como de los programas y acciones integrales en el ámbito de su competencia, para atender las necesidades del Tribunal Electoral.
 
-El personal de la Coordinación que de acuerdo a la normativa interna intervenga en los procedimientos de adquisición de bienes, la contratación de servicios, el arrendamiento de bienes muebles, la obra pública y los servicios relacionados con la misma será designado previo proceso de certificación y su desempeño será evaluado cada año, a efecto de ratificarlos en el puesto.
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+El personal de la Dirección General que de acuerdo a la normativa interna intervenga en los procedimientos de adquisición de bienes, la contratación de servicios, el arrendamiento de bienes muebles, la obra pública y los servicios relacionados con la misma será designado previo proceso de certificación y su desempeño será evaluado cada año, a efecto de ratificarlos en el puesto.
 
 La Comisión emitirá los lineamientos que contendrán los procesos de designación, certificación y evaluación del desempeño.
 
@@ -3391,7 +3477,9 @@ La Comisión emitirá los lineamientos que contendrán los procesos de designaci
 
 ###### Artículo 217.
 
-La persona titular de la Coordinación de Adquisiciones, Servicios y Obra Pública tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+La persona titular de la Dirección General de Adquisiciones, Servicios y Obra Pública tendrá las facultades siguientes:
 
 I. Supervisar, controlar y garantizar que los programas, recursos y facultades encomendadas se ajusten a las leyes, reglamentos y demás disposiciones jurídicas en materia de adquisiciones, de bienes y servicios, arrendamiento de bienes muebles e inmuebles, prestación de servicios, obra pública y servicios relacionados con la misma, requeridos para el buen funcionamiento del Tribunal Electoral;
 
@@ -3487,7 +3575,9 @@ X. Desarrollar y dar mantenimiento técnico a los portales Web del Tribunal Elec
 
 XI. Coadyuvar con la Coordinación de Información, Documentación y Transparencia, para establecer los estándares tecnológicos en materia de digitalización, almacenamiento y consulta de los acervos documentales del Tribunal Electoral;
 
-XII. Colaborar con la Coordinación de Comunicación Social y la Coordinación de Información, Documentación y Transparencia en el apoyo de aspectos técnicos y actualización de la página electrónica del Tribunal Electoral; y para ello integrará la junta editorial de la página de Intranet e Internet; y
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
+XII. Colaborar con la Dirección General de Comunicación Social y la Dirección General de Documentación en el apoyo de aspectos técnicos y actualización de la página electrónica del Tribunal Electoral; y para ello integrará la junta editorial de la página de Intranet e Internet; y
 
 XIII. Coadyuvar con la Visitaduría Judicial o con la Contraloría Interna, en el ámbito de sus facultades.
 
@@ -3515,33 +3605,17 @@ VI. Coordinar la elaboración y presentación de documentos internos sobre las p
 
 VII. Coordinar la elaboración de la estructura orgánica del Tribunal Electoral, de conformidad con la normativa establecida en la materia.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE FEBRERO DE 2019)</small>
+
 ### CAPÍTULO VII. De la Dirección General de Enlace y Vinculación Social
 
 ###### Artículo 224.
 
-La Dirección General de Enlace y Vinculación Social se encarga de la atención y gestión de los requerimientos que en materia de logística formule la persona titular de la Presidencia, las y los Magistrados de la Sala Superior, así como en la gestión de trámites administrativos y legales que necesiten realizar ante organismos públicos y privados, instituciones educativas y sociales, oficinas diplomáticas y ante unidades administrativas del propio Tribunal Electoral.
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
 ###### Artículo 225.
 
-La persona titular de la Dirección General de Enlace y Vinculación Social tendrá las facultades siguientes:
-
-I. Llevar a cabo las acciones encaminadas a proporcionar la atención requerida por las y los Magistrados de la Sala Superior del Tribunal Electoral ante los sectores público, privado y social;
-
-II. Proporcionar a las y los Magistrados de la Sala Superior del Tribunal Electoral el apoyo logístico en el desempeño de comisiones oficiales y traslados a los eventos a los que asistan o les corresponda realizar, cuando así les sea requerido;
-
-III. Llevar a cabo la recepción, traslado y atención de invitados especiales que asistan a algún evento organizado por el Tribunal Electoral o por alguna o alguno de los Magistrados integrantes de la Sala Superior;
-
-IV. Auxiliar y proporcionar apoyo a las y los Magistrados de la Sala Superior del Tribunal Electoral en los trámites administrativos y legales ante toda clase de autoridades, instituciones públicas, privadas, particulares y ante las unidades administrativas del Tribunal Electoral, en los casos que sea necesario;
-
-V. Coordinar con las unidades administrativas del Tribunal Electoral, así como con las Instituciones, públicas, privadas y sociales, las acciones que coadyuven a la consecución de los propósitos requeridos por las y los Magistrados de la Sala Superior;
-
-VI. Proporcionar a las y los Magistrados de la Sala Superior del Tribunal Electoral, la información, orientación, formatos e instructivos que sean necesarios para efectuar los trámites administrativos y legales, cuando así se lo soliciten;
-
-VII. Dar cuenta a la persona titular de la Secretaría Administrativa de todos los asuntos que le hayan sido turnados por las y los Magistrados de la Sala Superior o que la Presidencia del Tribunal le haya encomendado;
-
-VIII. Determinar, formular y presentar a la Secretaría Administrativa su respectivo Anteproyecto de presupuesto, el Programa Anual de Adquisiciones, el Programa Anual de Ejecución, el Programa de Actividades del área de su competencia, así como las acciones estratégicas en términos presupuestarios con apego a las políticas, lineamientos y procedimientos en la materia emitidos por la Comisión de Administración y las necesidades del ámbito de su competencia; y
-
-IX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos.
+(DEROGADO, D.O.F. 5 DE FEBRERO DE 2019)
 
 ### CAPÍTULO VIII. De la Dirección General de Administración Regional
 
@@ -3860,3 +3934,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presente
 TERCERO. Los procedimientos de responsabilidad de servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que, al entrar en vigor las presentes reformas y adiciones, se encuentren en su fase de investigación tanto en la Contraloría Interna como en la Visitaduría Judicial del mismo, deberán ser remitidos a la Dirección General de Investigación de Responsabilidades para los efectos conducentes.
 
 CUARTO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+D.O.F. 5 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas y adiciones.
+
+TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
