@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-sistema-de-gestion-del-capital-humano-de-la-126032
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-01"
-last_updated: "2018-02-01"
+last_updated: "2019-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126032&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-18"
 ---
 # ESTATUTO DEL SISTEMA DE GESTION DEL CAPITAL HUMANO DE LA COMISION REGULADORA DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE LA COMISIÓN REGULADORA DE ENERGÍA APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA, PUBLICADO EN EL D.O.F. DE 6 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SISTEMA DE GESTIÓN DEL CAPITAL HUMANO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección al Número 1 del Diario Oficial de la Federación, el jueves 1 de febrero de 2018.
 
@@ -610,3 +612,19 @@ CUARTO.- Los Lineamientos y los procedimientos de instrumentación y de operaci�
 QUINTO.- Hasta en tanto se emitan los Lineamientos, para asegurar la continuidad de las tareas encomendadas a La Comisión, las Plazas correspondientes a los rangos del Sistema que se encuentren Vacantes a la fecha de entrada en vigor de este Estatuto, se considerarán temporalmente Plaza de Libre Designación, para cubrir los procedimientos de transición para el ingreso y ocupación de Vacantes.
 
 SEXTO.- Lo previsto en el artículo 32 del presente Estatuto tendrá aplicación a partir del año 2020.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE LA COMISIÓN REGULADORA DE ENERGÍA APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA".]
+
+Primero.- El presente Estatuto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Consejo Técnico deberá sesionar dentro de los 15 días naturales siguientes a la entrada en vigor del presente Estatuto, para su instalación.
+
+Tercero.- Los Lineamientos de Operación del presente Estatuto, deberán ser emitidos en un plazo no mayor a noventa días naturales, contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+Cuarto.- En tanto se emitan los Lineamientos señalados en el transitorio anterior, la Comisión continuará aplicando los procesos vigentes.
+
+Quinto.- A partir de la emisión del presente Estatuto, todos los Servidores Públicos que ocupen una Plaza de Carácter Permanente y que hayan acreditado satisfactoriamente al menos una Evaluación del Desempeño, serán considerados Servidores Públicos de Carrera, salvo aquellos considerados como Servidores Públicos de Libre Designación en los términos previstos por el presente Estatuto.
