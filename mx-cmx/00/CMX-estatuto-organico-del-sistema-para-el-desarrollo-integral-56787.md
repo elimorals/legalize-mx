@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2017-04-19"
+last_updated: "2019-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-07-06"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MEXICO -- ANTES ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 6 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 6 DE FEBRERO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -1087,3 +1089,11 @@ G.O. 19 DE ABRIL DE 2017.
 PRIMERO. El presente aviso y sus reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Los actos a que alude el artículo tercero transitorio de la reforma publicada el día 1 de noviembre en la Gaceta Oficial de la Ciudad de México, que no se hayan realizado a la entrada en vigor del presente aviso, quedarán sin efecto para los fines administrativos y legales que correspondan.
+
+G.O. 6 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Los actos a que aluden a su contenido y a la última reforma del Estatuto Orgánico, publicada el día 19 de abril de 2017, en la Gaceta Oficial de la Ciudad de México, quedan abrogados y sin efecto.
