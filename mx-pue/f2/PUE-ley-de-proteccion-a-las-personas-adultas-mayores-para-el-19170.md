@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2015-03-03"
+last_updated: "2019-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -303,11 +303,9 @@ Los SMDIF podrán coordinarse con las instituciones oficiales, privadas y social
 
 Las instituciones de protección social, públicas o privadas, indistintamente en coordinación con el Sistema Estatal de Salud, deberán atender a la persona adulta mayor que se encuentre abandonada en la vía pública, en términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
-
 ###### ARTÍCULO 15.
 
-Cuando algún particular o autoridad se percatare de una situación irregular, de necesidad o de riesgo en que se encuentre una persona adulta mayor, inmediatamente deberá informar este hecho a las autoridades asistenciales especializadas, para que, con la debida prontitud intervenga para su atención o informen a la Procuraduría General de Justicia, en caso de tratarse de la probable comisión de delitos en contra de una persona adulta mayor.
+(DEROGADO, P.O. 7 DE FEBRERO DE 2019)
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -353,15 +351,9 @@ IV.- Integrar un expediente personal con la historia clínica y un registro con 
 
 V.- Obtener, en caso de ser posible, los nombres, domicilios, teléfonos y trabajos de sus familiares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2015)</small>
-
 ###### ARTÍCULO 21.
 
-Quedan prohibidas, para el trato con las personas adultas mayores y serán sancionadas conforme a las leyes respectivas, las siguientes conductas:
-
-I.- Crueldad o violencia de cualquier tipo; y
-
-II.- Aislamiento, marginación y explotación.
+(DEROGADO, P.O. 7 DE FEBRERO DE 2019)
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -505,6 +497,54 @@ En las Dependencias y Entidades de la Administración Pública Estatal en las qu
 
 Las oficinas de la Administración Pública Estatal y Municipal donde se presten servicios al público, establecerán mecanismos para la efectiva atención de las personas adultas mayores, incluyendo aquéllos que aclaren y especifiquen la atención preferente, y en su caso, la adaptación de dichas oficinas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO X. DE LA VIOLENCIA CONTRA LAS PERSONAS ADULTAS MAYORES
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 40.
+
+Para los efectos de la presente Ley, se entenderá por "violencia contra las personas adultas mayores'', cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 41.
+
+Los tipos de violencia contra las personas adultas mayores, son:
+
+I.- La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, vejación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, deteriorando su autoestima e incluso al suicidio;
+
+II.- La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física;
+
+VI.- La violencia institucional. Es todo acto u omisión efectuada por instituciones, sean públicas o privadas, que brindan algún tipo de servicio a las personas adultas mayores, y
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 42.
+
+El incumplimiento a lo dispuesto en esta Ley por parte de servidores públicos, será sancionado conforme a la Ley General de Responsabilidades Administrativas, sin menoscabo de las responsabilidades penales o cualquier otra que se derive de su incumplimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 43.
+
+Las violaciones a lo establecido en la presente Ley por personas u organizaciones que no sean autoridades, serán sancionadas conforme a lo establecido por los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 44.
+
+Cualquier persona que tenga conocimiento del maltrato o violencia contra las personas adultas mayores deberá denunciarlo de manera inmediata ante las autoridades competentes.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -534,5 +574,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MARZO DE 2015.
 
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN CAPÍTULO X DENOMINADO "DE LA VIOLENCIA CONTRA LAS PERSONAS ADULTAS MAYORES", ASÍ COMO LOS ARTÍCULOS 40, 41, 42, 43 Y 44, Y DEROGA LOS ARTÍCULOS 15 Y 21, TODOS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
