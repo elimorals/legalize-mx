@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-las-reglas-de-integridad-para-el-ejercicio-1315
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2019-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE ÉTICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2019.
 
 Código publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el lunes 17 de septiembre de 2018.
 
@@ -105,105 +105,61 @@ V. Fomentar el ejercicio de la integridad a efecto de que se aplique dentro y fu
 
 VI. Procurar un ambiente laboral, armonioso, profesional y basado en el respeto mutuo.
 
-A. Principios:
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2019)</small>
 
-1. Legalidad. Es actuar con estricto apego a las leyes, reglamentos y demás disposiciones jurídicas aplicables, los servidores públicos deberán:
+A. Principios
 
-1.1. Conocer y apegarse en todo momento al marco jurídico, políticas, lineamientos, procesos, procedimientos y demás disposiciones aplicables.
+1. Competencia por mérito. Los servidores públicos deberán ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidades, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos;
 
-1.2. Denunciar ante su superior jerárquico y ante las autoridades correspondientes, los actos de los que tuviere conocimiento con motivo del ejercicio de sus funciones y que pudieran causar algún daño, perjuicio o constituir un delito, o violaciones a cualquier normatividad vigente.
+2. Disciplina. Los servidores públicos deberán desempeñar su empleo, cargo o comisión de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados;
 
-2. Honradez. Es actuar tomando en cuenta el bien común, absteniéndose de hacer uso del cargo o comisión para obtener beneficios o ventajas personales distintas a la retribución salarial correspondiente, para sí o para otras personas, los servidores públicos deberán:
+3. Economía. Los servidores públicos en el ejercicio del gasto público deberán administrar los bienes, recursos, servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos, así como las metas a los que estén destinados, siendo éstos de interés social;
 
-2.1. Servir a la sociedad por encima de los intereses personales o a favor de terceros.
+4. Eficacia. Los servidores públicos deberán actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable de los recursos públicos, eliminando cualquier ostentación o discrecionalidad indebida en su aplicación;
 
-2.2. Evitar compensaciones o prestaciones de cualquier tipo, que pueda comprometer su desempeño como servidor público.
+5. Eficiencia. Los servidores públicos deberán actuar en apego a los planes y programas previamente establecidos; optimizar el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos;
 
-3. Lealtad. Es demostrar responsabilidad, respeto y compromiso a la confianza que se le otorga al ejercer sus atribuciones, preservando el interés público, los servidores públicos deberán:
+6. Equidad. Los servidores públicos deberán procurar que toda persona acceda con justicia e igualdad al uso, disfrute, beneficio de los bienes, servicios, recursos y oportunidades;
 
-3.1. Fomentar la toma de decisiones propiciando las mejores condiciones para el Estado y procurando el cumplimiento de los principios y metas.
+7. Honradez. Los servidores públicos deberán conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio;
 
-3.2. Demostrar compromiso hacia el servicio público.
+8. Imparcialidad. Los servidores públicos deberán dar a la ciudadanía y a la población en general, el mismo trato sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
 
-4. Imparcialidad. Es ofrecer un trato objetivo y equitativo a la sociedad, sin distinciones ni privilegios que comprometan su actuación, evitando prejuicios, tratos diferenciados y cualquier conflicto de interés, los servidores públicos deberán:
+9. Integridad. Los servidores públicos deberán actuar siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidos en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público, así como generar certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar;
 
-4.1. Abstenerse de aceptar o hacer invitaciones en las que se considere que se verá comprometida su actuación.
+10. Lealtad. Los servidores públicos deberán corresponder a la confianza que el Estado les ha conferido: tener una vocación absoluta de servicio a la sociedad, y satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
 
-4.2. Evitar conceder ventajas o privilegios ilegales.
+11. Legalidad. Los servidores públicos deberán hacer sólo aquello que las normas expresamente les confieren y en todo momento someter su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocerán y cumplirán las disposiciones que regulan el ejercicio de sus atribuciones;
 
-5. Eficacia y Eficiencia. Es alcanzar objetivos y metas de manera óptima, empleando el mínimo de recursos, desempeñando sus actividades con excelencia y calidad, en apego a los planes y programas establecidos, los servidores públicos deberán:
+12. Objetividad. Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones y que a su vez deberán estar apegadas a la legalidad;
 
-5.1. Aplicar correctamente los recursos públicos, evitando su abuso, derroche o desaprovechamiento y utilizarlos exclusivamente para los fines a los que están destinados.
+13. Profesionalismo. Los servidores públicos deberán conocer, actuar y cumplir con las atribuciones de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a los particulares con los que llegare a tratar;
 
-5.2. Generar mayor bienestar social con los recursos disponibles, inclinándose a la excelencia, la calidad de trabajo y con el menor margen de error posible.
+14. Rendición de cuentas. Los servidores públicos deberán asumir plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, asimismo informar, explicar y justificar sus decisiones; sujetarse a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía, y
 
-6. Objetividad. Es tomar decisiones sin que influyan prejuicios personales, sociales o culturales, evitando la influencia indebida de otras personas, los servidores públicos deberán:
+15. Transparencia. Los servidores públicos en el ejercicio de su empleo, cargo o comisión deberán privilegiar el principio de máxima publicidad, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generen, obtengan, adquieran, transformen o conserven en el ámbito de su competencia, difundir de manera proactiva la información gubernamental, como un elemento que genere valor a la sociedad y promueva un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
 
-6.1. Evitar prejuicios, conflictos de interés o influencia indebida de terceros que afecten el juicio profesional.
-
-6.2. Analizar los hechos de forma imparcial, sin que la opinión propia sea un elemento de juicio.
-
-7. Disciplina. Es cumplir las reglas de comportamiento para mantener el orden, cuando éstas no constituyan un acto ilícito o irregular, los servidores públicos deberán:
-
-7.1. Cumplir con las actividades laborales asignadas.
-
-7.2. Asistir con puntualidad al desempeño diario de sus actividades, respetando el horario establecido.
-
-8. Profesionalismo. Es actuar en todo momento de manera competitiva en la realización de su trabajo con el objeto de desempeñar sus atribuciones de manera óptima, los servidores públicos deberán:
-
-8.1. Generar resultados con calidad, oportunidad y mejora continua en los procesos, trámites y servicios, buscando un desempeño productivo y competitivo.
-
-8.2. Aceptar sus errores y aprender de ellos para mejorar su desempeño.
-
-9. Integridad. Es actuar de manera congruente con todos los principios y valores contenidos en el presente Código, los servidores públicos deberán:
-
-9.1. Fomentar la credibilidad de la sociedad en las instituciones públicas.
-
-9.2. Generar certeza en el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2019)</small>
 
 B. Valores
 
-1. Responsabilidad. Es desempeñar las funciones y acciones con dedicación y profesionalismo, asumiendo las consecuencias que resulten de sus actos u omisiones en el ejercicio del servicio público, los servidores públicos deberán:
+1. Cooperación. Los servidores públicos deberán colaborar entre sí y propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones;
 
-1.1. Llevar a cabo por sí mismos las funciones inherentes e indelegables a su cargo.
+2. Entorno cultural y ecológico. Los servidores públicos en el desarrollo de sus actividades deberán evitar la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumiendo una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, asimismo en el ejercicio de sus atribuciones, promoverán en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras;
 
-1.2. Hacer uso responsable y claro de los recursos públicos, eliminando cualquier discrecionalidad indebida en su aplicación.
+3. Equidad de género. Los servidores públicos en el ámbito de su competencia deberán garantizar que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes, servicios públicos, programas y beneficios institucionales, así como a los empleos, cargos y comisiones gubernamentales;
 
-2. Interés público. Es actuar procurando el bien común de la ciudadanía, anteponiéndolo sobre los intereses particulares, los servidores públicos deberán:
+4. Igualdad y no discriminación. Los servidores públicos deberán prestar sus servicios a todas las personas sin distinción, exclusión, restricción o preferencia basada en el origen étnico, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo;
 
-2.1. Tomar decisiones para el beneficio de la sociedad a largo plazo.
+5. Interés público. Los servidores públicos deberán actuar buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva;
 
-2.2. Fomentar la participación de la ciudadanía en beneficio de ella.
+6. Liderazgo. Los servidores públicos deberán ser guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentar y aplicar en el desempeño de su cargo, empleo o comisión los principios que la Constitución y las leyes les impongan, así como aquellos valores adicionales que por su importancia sean intrínsecos a la función pública;
 
-3. Transparencia. Es garantizar a las personas el derecho fundamental al acceso a la información pública de forma clara, oportuna y veraz, privilegiando el principio de máxima publicidad, los servidores públicos deberán:
+7. Respeto a los Derechos Humanos. Los servidores públicos deberán respetar los derechos humanos, y en el ámbito de su competencia los garantizaran, promoverán y protegerán de conformidad con los principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección;
 
-3.1. Salvaguardar la información a su cargo, impidiendo o evitando la sustracción, destrucción, ocultamiento o utilización indebida de la misma.
+8. Respeto. Los servidores públicos deberán conducirse con austeridad, sin ostentación, así como otorgar un trato digno y cordial a las personas en general, a sus compañeros, superiores y subordinados; considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público, y
 
-3.2. Otorgar la Información solicitada y atender las obligaciones establecidas en los ordenamientos en la materia.
-
-4. Igualdad y no discriminación. Es ofrecer un trato a toda persona sin distinción, exclusión o restricción basada en origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidades, condición social, económica, de salud o jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, preferencias sexuales, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales o cualquier otro motivo, los servidores públicos deberán:
-
-4.1. Abstenerse de manifestaciones verbales, escritas o de cualquier tipo, que resulten ofensivas o degradantes para otra persona.
-
-4.2. Evitar el acoso y hostigamiento de cualquier tipo u otra conducta que atente contra la dignidad e integridad de una persona, generando un ambiente libre de violencia.
-
-5. Respeto. Es tratar a las personas reconociendo su valor y sus derechos como individuos y ciudadanos, los servidores públicos deberán:
-
-5.1. Reconocer y considerar en todo momento los derechos y libertades inherentes a la condición humana.
-
-5.2. Fomentar el equilibrio entre la vida personal, familiar y laboral.
-
-6. Entorno cultural y ecológico. Es preservar el patrimonio cultural y el ecosistema en el desarrollo de las actividades en el servicio público, los servidores públicos deberán:
-
-6.1. Asumir la responsabilidad de la protección del equilibrio ecológico y tomar las medidas necesarias para garantizar el derecho de las personas a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar; así como establecer medidas de control para garantizar la protección al medio ambiente, su preservación y coadyuvar al desarrollo sustentable.
-
-6.2. Fomentar la cultura de reciclaje y separación de residuos orgánicos e inorgánicos de la Dependencia o Entidad donde labora, además de utilizar de forma racional el agua, el papel y la energía eléctrica en su área de trabajo.
-
-7. Liderazgo. Es promover en el ejercicio de sus funciones los principios y valores del presente Código, así como fomentar conductas que impulsen la cultura ética y de calidad en el servicio público, los servidores públicos deberán:
-
-7.1. Promover principios y valores, partiendo de su ejemplo personal.
-
-7.2. Buscar la excelencia en el desempeño de las responsabilidades y reconociendo de otros el aporte y el trabajo en equipo.
+9. Responsabilidad. Es desempeñar las funciones y acciones con dedicación y profesionalismo, asumiendo las consecuencias que resulten de sus actos u omisiones en el ejercicio del servicio público.
 
 ### CAPÍTULO III. DE LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA
 
@@ -944,3 +900,13 @@ SEGUNDO. Se deja sin efecto el Acuerdo por el que se expide el Código de Ética
 TERCERO. El Acuerdo del Ejecutivo del Estado, por el que emite el Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en las Dependencias y Entidades del Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado el ocho de septiembre de dos mil diecisiete; así como los demás instrumentos jurídicos que actualmente se encuentren vigentes que no se opongan a las disposiciones del presente ordenamiento, serán aplicables al presente Acuerdo.
 
 Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de septiembre de dos mil dieciocho. El Secretario de la Contraloría. C. RODOLFO SÁNCHEZ CORRO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA ENCARGADA DE DESPACHO DE LA SECRETARÍA DE LA CONTRALORÍA DEL GOBIERNO DEL ESTADO, POR EL QUE MODIFICA EL DIVERSO QUE TIENE POR OBJETO EXPEDIR EL CÓDIGO DE ÉTICA, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deja sin efectos toda disposición que se contraponga a lo establecido en el presente Acuerdo.
