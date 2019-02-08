@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-de-21379"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-04"
-last_updated: "2001-05-14"
+last_updated: "2019-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el lunes 4 de octubre de 1999.
 
@@ -117,7 +117,7 @@ VIII. Supervisar el ejercicio de las atribuciones de los titulares de las unidad
 
 IX. Conceder licencias no mayores de quince días al personal de la Universidad;
 
-X. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Universidad; y (sic)
+X. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Universidad; y
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
@@ -127,9 +127,11 @@ XI. Ejercitar la representación legal de la Universidad de acuerdo con las facu
 
 XII. Las demás que le confieran las disposiciones aplicables y el Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 12.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden, el Rector cuenta con las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Secretaría Académica;
 
@@ -153,9 +155,11 @@ X. Dirección de Difusión y Extensión Universitaria;
 
 XI. Dirección de Administración y Finanzas; y
 
-XII. Contraloría Interna.
+XII. (DEROGADA, G.G. 8 DE FEBRERO DE 2019)
 
-El Rector contará con el número de servidores públicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de conformidad con la normatividad establecida y de acuerdo al presupuesto de egresos respectivos.
+> <small>(REFORMADO, G.G. 8 DE FEBRERO DE 2019)</small>
+
+El Organismo contará con un Órgano Interno de Control, asimismo, con las demás unidades administrativas que le sean autorizadas, cuyas funciones se establecerán en su Manual General de Organización; de igual forma, se auxiliará de los servidores públicos para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
 ### CAPITULO IV. De las Atribuciones de los Secretarios y del Abogado General
 
@@ -353,7 +357,9 @@ X. Apoyar, en sus respectivos ámbitos de competencia, a la Secretaría de Vincu
 
 XI. Las demás que les confieran las disposiciones aplicables y aquellas que les encomiende el Secretario Académico.
 
-### CAPITULO VI. De las Atribuciones Específicas de las Direcciones Y de la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 8 DE FEBRERO DE 2019)</small>
+
+### CAPITULO VI. De las Atribuciones Específicas de las Direcciones y del Órgano Interno De Control
 
 ###### Artículo 20.
 
@@ -639,27 +645,11 @@ XIII. Ejecutar el programa de modernización y mejoramiento administrativo de la
 
 XIV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Rector.
 
+> <small>(REFORMADO, G.G. 8 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Contraloría Interna:
-
-I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Universidad y elaborar los reportes correspondientes;
-
-II. Realizar revisiones administrativas, contables, operacionales, técnicas y jurídicas a las unidades administrativas de la Universidad, tendientes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos del patrimonio del Organismo;
-
-III. Verificar el adecuado ejercicio del presupuesto de la Universidad, atendiendo a los principios de racionalidad, austeridad y disciplina que establece la normatividad en la materia;
-
-IV. Participar en los procesos de entrega y recepción de las unidades administrativas de la Universidad, verificando su apego a la normatividad correspondiente;
-
-V. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos de la Universidad en términos de la ley de la materia;
-
-VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Universidad;
-
-VII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones o funciones que le encomiende;
-
-VIII. Difundir entre el personal de la Universidad las disposiciones en materia de control que incidan en el desarrollo de sus labores; y
-
-IX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Rector.
+Al frente del Órgano Interno de Control habrá un titular, designado en términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los titulares de las áreas correspondientes, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y demás disposiciones jurídicas aplicables.
 
 ### CAPITULO VII. De la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Universidad
 
@@ -742,3 +732,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza al Reglamento Interior de la Universidad Tecnológica de Nezahualcóyotl, publicado el 04 de octubre de 1999, en el Periódico Oficial "Gaceta del Gobierno".
