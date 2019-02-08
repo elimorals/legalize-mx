@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-banco-de-mexico-125099"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-01-12"
-last_updated: "2018-01-12"
+last_updated: "2019-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125099&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2017-12-29"
 ---
 # CODIGO DE ETICA DEL BANCO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL NUMERAL 8 DEL CÓDIGO DE ÉTICA DEL BANCO DE MÉXICO, PUBLICADO EN EL D.O.F. DE 8 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
 CÓDIGO DE ÉTICA DEL BANCO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de enero de 2018.
 
@@ -128,3 +130,17 @@ El presente Código de Ética fue aprobado por la Comisión de Responsabilidades
 Se abroga el Código de Ética del Banco de México aprobado por la Junta de Gobierno del propio Banco en sesión de fecha 17 de diciembre de 2009, así como sus reformas y adiciones.
 
 El Presidente de la Comisión de Responsabilidades, Javier Eduardo Guzmán Calafell.- Rúbrica.- El Director General Jurídico, Luis Urrutia Corral.- Rúbrica.- El Director General de Contraloría y Administración de Riesgos, Juan Manuel Sánchez Ramírez.- Rúbrica.- El Secretario, Humberto Enrique Ruiz Torres.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE FEBRERO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL NUMERAL 8 DEL CÓDIGO DE ÉTICA DEL BANCO DE MÉXICO.]</small>
+
+8. APROBACIÓN Y ENTRADA EN VIGOR
+
+El presente Código de Ética fue aprobado por la Comisión de Responsabilidades del Banco de México, en sesión del 25 de enero de 2019, con fundamento en el artículo 16 de la Ley General de Responsabilidades Administrativas y en los Lineamientos para la Emisión del Código de Ética a que se refiere dicho artículo aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción el 13 de septiembre de 2018, así como en el artículo 36, fracción IV, del Reglamento Interior del Banco de México, previa conformidad del Comité de Ética del propio Banco, manifestada en sesión del 15 de enero de 2019.
+
+Este Código de Ética entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+A partir de la entrada en vigor del presente documento, se abroga el Código de Ética del Banco de México aprobado por la Comisión de Responsabilidades del propio Banco, en sesión del 29 de noviembre de 2017.
