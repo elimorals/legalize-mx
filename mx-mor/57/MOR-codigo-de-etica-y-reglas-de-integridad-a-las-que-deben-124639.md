@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-y-reglas-de-integridad-a-las-que-deben-124639"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-11-15"
-last_updated: "2017-11-15"
+last_updated: "2019-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 8 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 15 de noviembre de 2017.
 
@@ -546,3 +548,17 @@ RÚBRICAS.
 (8) De Zan, Julio, La Ética, los Derechos y la Justicia, Instituto de Investigaciones Jurídicas, UNAM, fecha de consulta: 31 de octubre de 2017, disponible en: https://archivos.juridicas.unam.mx/www/bjv/libros/5/2228/4.pdf
 
 (9) Código de Conducta del Instituto Mexicano de la Propiedad Industrial, fecha de consulta: 31 de octubre de 2017, disponible en: https://www.gob.mx/cms/uploads/attachment/file/95251/CODIGO_DE_CONDUCTA.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERA. El presente Código entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Ética y Reglas de Integridad a las que deben sujetarse los servidores públicos de la Administración Pública Estatal, publicado en el Periódico Oficial “Tierra y Libertad”, número 5549, de 15 de noviembre de 2017.
+
+TERCERA. Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, contarán con un plazo de ciento veinte días hábiles para publicar en el Periódico Oficial “Tierra y Libertad”, el Código de Conducta a que se refiere el artículo 22 del presente instrumento.
+
+CUARTA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
