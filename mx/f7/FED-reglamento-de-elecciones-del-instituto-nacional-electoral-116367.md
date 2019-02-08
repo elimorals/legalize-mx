@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2018-04-30"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -179,7 +179,7 @@ hh) UNICOM: Unidad Técnica de Servicios de Informática;
 
 ii) UTF: Unidad Técnica de Fiscalización;
 
-jj) UTP: Unidad Técnica de Planeación
+jj) (DEROGADO, D.O.F. 8 DE FEBRERO DE 2019)
 
 kk) UTVOPL: Unidad Técnica de Vinculación con Organismos Públicos Locales.
 
@@ -1279,11 +1279,11 @@ c) Las demás precisiones necesarias para determinar de forma oportuna las accio
 
 3. En ambos casos, se podrán realizar ajustes a los plazos y procedimientos que refiere la LGIPE, acordes a la fecha en que deba celebrarse la jornada electoral fijada en la convocatoria atinente, y a su naturaleza, motivándose lo conducente en el acuerdo de aprobación correspondiente.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 72.
 
-1. La UTP será el área encargada de coordinar la elaboración del proyecto de acuerdo por el cual se aprobará el plan integral y calendario para las elecciones federales.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+1. La DEOE será el área encargada de coordinar la elaboración del Proyecto de Acuerdo por el cual se aprobará el plan integral y calendario para las elecciones federales y las consultas populares, en coordinación con las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto y con la supervisión de la Secretaría Ejecutiva.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1331,13 +1331,17 @@ c) Las demás precisiones que resulten necesarias para determinar oportunamente 
 
 1. La comisión temporal implementará un seguimiento de los planes y calendarios integrales, con el apoyo de una herramienta informática que permita reportar los avances de cada una de las actividades desplegadas por parte de las áreas responsables. Dicha herramienta deberá contar con una guía o manual de operación que describa los mecanismos de control de actividades que tendrán que realizar las áreas para su funcionamiento.
 
-2. En elecciones locales concurrentes con la federal, la Utp deberá llevar a cabo un seguimiento estructurado del grado de avance de cada uno de los procedimientos y actividades identificadas cronológicamente en los planes y calendarios, el cual tendrá como propósito dotar de certeza a cada una de las etapas asociadas a la ejecución de los procesos y evitar riesgos que pudieran presentarse.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+2. En elecciones locales concurrentes con la federal, la UTVOPL coadyuvará con la DEOE en el seguimiento estructurado del grado de avance de cada uno de los procedimientos y actividades identificadas cronológicamente en los planes y calendarios, el cual tendrá como propósito dotar de certeza a cada una de las etapas asociadas a la ejecución de los procesos y evitar riesgos que pudieran presentarse.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 78.
 
-1. Una vez que concluya el proceso electoral correspondiente, la Utp presentará a la Jge, dentro de los cinco días hábiles siguientes, el resultado del seguimiento al plan y calendario integral respectivo. Asimismo, la Jge informará del resultado al Consejo General, lo cual coadyuvará a la evaluación de la actuación del Instituto.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+1. Una vez que concluya el Proceso Electoral Federal, la DEOE presentará a la JGE, dentro de los cinco días hábiles siguientes, el resultado del seguimiento al plan y calendario integral respectivo. En el caso de las elecciones locales será la UTVOPL la encargada de presentar el resultado del seguimiento.
 
 2. Dicha evaluación deberá contener propuestas de mejoramiento para futuros procesos electorales.
 
@@ -7828,5 +7832,99 @@ OCTAVO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta 
 NOVENO. Publíquese un extracto del presente Acuerdo en el Diario Oficial de la Federación.
 
 El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-7/.
+
+D.O.F. 8 DE FEBRERO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL " ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL Y EL REGLAMENTO DE ELECCIONES".]</small>
+
+Primero. Se modifican: los artículos 5, párrafo 2; 41, párrafo 2, incisos d), e) y dd); 42, párrafo 1, incisos g), r) y t); 43, párrafo 1, incisos e), i) y m); 47, párrafo 1, inciso m); 50, párrafo 1, incisos h), p) y x); 55 párrafo 1, incisos h), j), m); 60, párrafo 1, inciso p); 63, párrafo 1, incisos h), m), o) y u); 68, párrafo 1, incisos i) y l); 70, párrafo 1, incisos e) y h); 73, párrafo 1, inciso j); 82, párrafo 1, incisos ww) y mmm). Se derogan: Del artículo 4, párrafo 1, fracción III, apartado A, el inciso f) y el artículo 69. Se adicionan: los incisos ee), ff) y gg) al párrafo 2, del artículo 41; el inciso u) al párrafo 1, del artículo 42; el inciso n) al párrafo 1, del artículo 43; los incisos y), z), aa), bb), cc), dd) y ee) al párrafo 1, del artículo 50; el inciso n), al párrafo 1, del artículo 55; el inciso q), del párrafo 1, del artículo 60; el inciso v) al párrafo 1 del artículo 63; el inciso nnn), al párrafo 1, del artículo 82, todos del Reglamento Interior del Instituto Nacional Electoral, para quedar en los términos siguientes:
+
+###### Artículo 69.
+
+Derogado.
+
+###### Artículo 70.
+
+1. La Unidad Técnica de Igualdad de Género y no Discriminación estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
+
+[…]
+
+e) Integrar al modelo de planeación y visión estratégica institucional la perspectiva de género y no discriminación, con la supervisión y colaboración de la Secretaría Ejecutiva;
+
+[…]
+
+h) Dar seguimiento y analizar la información que se genere acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad de género y no discriminación, para apoyar la toma oportuna de decisiones, en coordinación con la Secretaría Ejecutiva;
+
+###### Artículo 73.
+
+1. La Unidad de Vinculación con los Organismos Públicos Locales estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
+
+…
+
+j) Elaborar el año anterior al de la elección que corresponda el plan integral de coordinación y calendario con los Organismo Públicos Locales para los procesos electorales de las Entidades Federativas que realicen comicios y dar seguimiento del grado de avance de cada uno de los procedimientos y actividades identificados en el mismo, lo anterior, en colaboración con las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto y con la supervisión de la Secretaría Ejecutiva, así como coordinar su entrega para el conocimiento del Consejo General;
+
+###### Artículo 82.
+
+1. Al OIC corresponde el despacho de los siguientes asuntos:
+
+[…]
+
+ww) Formular por conducto de su titular el anteproyecto de presupuesto del OIC, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas de planeación que fije el Secretario Ejecutivo y las medidas administrativas que fije la Dirección Ejecutiva de Administración; en el ámbito de sus respectivas atribuciones.
+
+[…]
+
+mmm)Elaborar y mapear los procesos del OIC a su cargo, y
+
+nnn) Las demás que le confieran las Leyes General de Responsabilidades Administrativas, la General del Sistema Nacional Anticorrupción y demás leyes y ordenamientos o normativa aplicable.
+
+Segundo. Se deroga el inciso jj) del párrafo 1 del artículo 5 y se modifica el párrafo 1 del artículo 72, el párrafo 2 del artículo 77, el párrafo 1 del artículo 78, todos del Reglamento de Elecciones, para quedar en los siguientes términos:
+
+Reglamento de Elecciones
+
+###### Artículo 5.
+
+1. Para efectos del presente Reglamento, se entenderá por:
+
+[…]
+
+jj) Derogado
+
+[…]
+
+###### Artículo 72.
+
+1. La DEOE será el área encargada de coordinar la elaboración del Proyecto de Acuerdo por el cual se aprobará el plan integral y calendario para las elecciones federales y las consultas populares, en coordinación con las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto y con la supervisión de la Secretaría Ejecutiva.
+
+###### Artículo 77.
+
+[…]
+
+2. En elecciones locales concurrentes con la federal, la UTVOPL coadyuvará con la DEOE en el seguimiento estructurado del grado de avance de cada uno de los procedimientos y actividades identificadas cronológicamente en los planes y calendarios, el cual tendrá como propósito dotar de certeza a cada una de las etapas asociadas a la ejecución de los procesos y evitar riesgos que pudieran presentarse.
+
+###### Artículo 78.
+
+1. Una vez que concluya el Proceso Electoral Federal, la DEOE presentará a la JGE, dentro de los cinco días hábiles siguientes, el resultado del seguimiento al plan y calendario integral respectivo. En el caso de las elecciones locales será la UTVOPL la encargada de presentar el resultado del seguimiento.
+
+[…]
+
+Tercero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Cuarto. Se instruye a la Secretaría Ejecutiva para que, una vez que entre en vigencia el presente Acuerdo, inicie los trabajos para la reestructura orgánica derivado de la fusión y compactación de la UTP, así como de la extinción de la Dirección de Seguimiento y Evaluación de Programas de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica e instruya a las áreas respectivas para que lleven a cabo la actualización y publicación del catálogo de cargos y puestos, tanto del Servicio Profesional Electoral Nacional como del personal de la Rama Administrativa, en un plazo máximo de sesenta días.
+
+Publíquese en el Diario Oficial de la Federación, en la Gaceta Electoral y en el portal de internet www.ine.mx.
+
+## TRANSITORIOS
+
+Primero: Las referencias que se hagan a la Unidad Técnica de Planeación en la normatividad interna del Instituto en materia de planeación institucional, evaluación, seguimiento a auditorías y supervisión de la elaboración y seguimiento del plan integral y calendarios electorales federales, así como de los planes integrales de coordinación y calendarios para los Procesos Electorales Locales se entenderán hechas a la Secretaría Ejecutiva, en el caso de las referencias a la Unidad Técnica de Planeación en la normatividad interna del Instituto en materia de modernización, cartera institucional de proyectos, innovación, control interno, y procesos, se entenderán hechas a la Dirección Ejecutiva de Administración, las referencias que se hagan a la elaboración y seguimiento del plan integral y calendario para los Procesos Electorales Federales se entenderán hechas a la Dirección Ejecutiva de Organización Electoral y para los Procesos Electorales Locales, se entenderán hechas a la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+Segundo: Se instruye a la Secretaría Ejecutiva para que coordine los trabajos necesarios para la actualización y armonización de las normas internas que sufran impacto derivado de la fusión-compactación de la Unidad Técnica de Planeación y de la desaparición de la Dirección de Seguimiento y Evaluación de Programas de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica.
+
+Las propuestas de modificación se deberán presentar a consideración de los órganos competentes del Instituto, según corresponda, a más tardar el último día de mayo de 2019.
+
+Tercero: El modelo de planeación y visión estratégica institucional se propondrá por el Secretario Ejecutivo una vez que la gestión por procesos en el Instituto genere los insumos necesarios para poder integrarla.
+
+Cuarto: Respecto del Comité de Planeación Institucional, hasta en tanto se realicen los ajustes a las normas que rigen su integración y funcionamiento, el Secretario Ejecutivo designará de entre el personal a su cargo a quien ocupará la Secretaría Técnica de dicho Comité, a fin (sic) posibilitar la continuidad en las funciones de ese órgano.
+
+Quinto: La DEA dará seguimiento a los procedimientos para la creación, gestión, control y cierre de los proyectos específicos incorporados en la Cartera Institucional de Proyectos, así como los ajustes que se requieran a los mismos, de conformidad con los Lineamientos para la Administración de la Cartera Institucional de Proyectos.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
