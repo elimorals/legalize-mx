@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2019-01-14"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -869,7 +869,7 @@ La autoridad municipal podrá, en términos de la normatividad que al efecto emi
 
 ARTÍCULO 40 TER.- La constancia de vecindad contendrá cuando menos, los datos siguientes del solicitante:
 
-I.- Nombre completo:
+I.- Nombre completo;
 
 II.- Sexo;
 
@@ -1767,7 +1767,9 @@ XLIX.- Vigilar que los gastos municipales se efectúen con estricto apego al pre
 
 L.- Conceder licencias económicas hasta por diez días a los servidores públicos municipales;
 
-LI.- Dar lectura, en sesión pública y solemne, dentro de los primeros quince días del mes de febrero de cada año, al informe por escrito que rinda el Ayuntamiento que preside, sobre la situación que guarda la Administración Pública Municipal, los avances y logros del Plan de Desarrollo Municipal, y las labores realizadas en el año próximo anterior. De dicho informe se enviará copia al Congreso del Estado y al Gobernador;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2019)</small>
+
+LI.- Dar lectura, en sesión pública y solemne, dentro de los primeros quince días del mes de octubre de cada año, al informe por escrito que rinda el Ayuntamiento que preside, sobre la situación que guarda la Administración Pública Municipal, los avances y logros del Plan de Desarrollo Municipal, y las labores realizadas en el año próximo anterior. De dicho informe se enviará copia al Congreso del Estado y al Gobernador;
 
 LII.- Promover y vigilar la formulación del proyecto de Presupuesto de Ingresos del Municipio para el ejercicio inmediato, su estudio por el Ayuntamiento, y su envío oportuno al Congreso del Estado, a través del Ejecutivo del Estado, para su aprobación;
 
@@ -1995,9 +1997,11 @@ IV.- Los lineamientos de política global, sectorial y de servicios municipales.
 
 El Plan de Desarrollo Municipal establecerá los programas de la Administración Pública Municipal. Las previsiones del Plan se referirán al conjunto de las actividades económicas y sociales y regirán el contenido de los programas y subprogramas operativos anuales.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 106.
 
-El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación.
+El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Las reformas o adiciones que el Ayuntamiento apruebe al mismo se realizarán en un plazo de 60 días, posterior a que se aprueben los planes estatal y federal. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación.
 
 ###### ARTÍCULO 107.
 
@@ -2009,9 +2013,9 @@ II.- Propiciar el desarrollo armónico del Municipio;
 
 III.- Asegurar la participación de la sociedad en las acciones del Gobierno Municipal, en términos del artículo 102 de esta Ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2019)</small>
 
-IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal;
+IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal, en un plazo de 60 días, a partir de que estos últimos hayan sido aprobados.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2033,13 +2037,17 @@ El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán 
 
 Una vez publicados los productos del proceso de planeación e iniciada su vigencia, serán obligatorios para toda la Administración Pública Municipal, en sus respectivos ámbitos de competencia; por lo que las autoridades, dependencias, unidades, órganos desconcentrados y entidades que la conforman, deberán conducir sus actividades en forma programada y con base en las políticas, estrategias, prioridades, recursos, responsabilidades, restricciones y tiempos de ejecución que, para el logro de los objetivos y metas de la Planeación Democrática del Desarrollo Municipal, establezca el Plan a través de las instancias correspondientes.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 110.
 
-Los Presidentes Municipales, al rendir su informe anual sobre el estado general que guarda la Administración Pública Municipal, harán mención expresa de las decisiones adoptadas para la ejecución del respectivo Plan de Desarrollo Municipal y los programas derivados de éste, así como de las acciones y resultados de su ejecución. Esta información deberá relacionarse, en lo conducente, con el contenido de la cuenta pública municipal, para permitir que las instancias competentes, analicen las mismas, con relación a los objetivos y prioridades de la planeación municipal.
+Los Presidentes Municipales, al rendir su informe anual sobre el estado general que guarda la Administración Pública Municipal, harán mención expresa de las decisiones adoptadas para la ejecución del respectivo Plan de Desarrollo Municipal y los programas derivados de éste, así como de las acciones y resultados de su ejecución, o de las reformas o adiciones que se hubieren realizado. Esta información deberá relacionarse, en lo conducente, con el contenido de la cuenta pública municipal, para permitir que las instancias competentes, analicen las mismas, con relación a los objetivos y prioridades de la planeación municipal.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 111.
 
-Los titulares de las autoridades municipales, dependencias, órganos desconcentrados y entidades de la Administración Pública Municipal, tendrán la obligación de acudir ante el Ayuntamiento, durante los meses de enero y febrero, para dar cuenta a los Regidores sobre el estado que guardan sus respectivas unidades y organismos, en la forma y términos previamente acordados por el Cabildo, debiendo informar del avance y grado de cumplimiento de los objetivos, metas y prioridades fijados en la planeación municipal que, por razón de su competencia les corresponda, así como del resultado de las acciones previstas. De igual manera y cuando el Ayuntamiento se los solicite, por ser necesarios para el despacho de un asunto de su competencia o en los casos en que se discuta una iniciativa legislativa o reglamentaria, deberán facilitar a las comisiones de Regidores que sean conducentes, todos los datos e información que pidieren y que estén relacionados con sus respectivos ramos, salvo que conforme a la ley sean confidenciales, deban permanecer en secreto o sean competencia de otras instancias.
+Los titulares de las autoridades municipales, dependencias, órganos desconcentrados y entidades de la Administración Pública Municipal, tendrán la obligación de acudir ante el Ayuntamiento, durante los meses de septiembre y octubre, para dar cuenta a los Regidores sobre el estado que guardan sus respectivas unidades y organismos, en la forma y términos previamente acordados por el Cabildo, debiendo informar del avance y grado de cumplimiento de los objetivos, metas y prioridades fijados en la planeación municipal que, por razón de su competencia les corresponda, así como del resultado de las acciones previstas. De igual manera y cuando el Ayuntamiento se los solicite, por ser necesarios para el despacho de un asunto de su competencia o en los casos en que se discuta una iniciativa legislativa o reglamentaria, deberán facilitar a las comisiones de Regidores que sean conducentes, todos los datos e información que pidieren y que estén relacionados con sus respectivos ramos, salvo que conforme a la ley sean confidenciales, deban permanecer en secreto o sean competencia de otras instancias.
 
 ###### ARTÍCULO 112.
 
@@ -3463,9 +3471,11 @@ Para formar parte de la administración de una Junta Auxiliar se requiere ser ci
 
 Cuando un pueblo no esté conforme con la elección de la Junta Auxiliar, será removida si así lo solicitaren las tres cuartas partes de sus ciudadanos vecinos inscritos en el padrón electoral. Para el efecto, la solicitud será elevada al Congreso del Estado por los conductos legales, y éste, previos los informes sobre los motivos y autenticidad de la queja, exhortará al Ayuntamiento correspondiente para que convoque a los vecinos del pueblo a un plebiscito para que elijan nueva Junta, la cual concluirá el periodo correspondiente, sin poder prolongarse su ejercicio por un término mayor.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 229.
 
-El primer día hábil después del 15 de mayo, se reunirán los miembros de la Junta Auxiliar saliente con los que los sustituyan, para que aquéllos hagan entrega formal de los expedientes, utensilios y materiales, que hayan estado a su cargo. Si los miembros salientes no comparecieren, la actuación se llevará a cabo con intervención del representante que para el efecto designe el Presidente Municipal.
+Los miembros de la Junta Auxiliar saliente harán entrega formal a los miembros de la Junta Auxiliar entrante, de los expedientes, los bienes muebles e inmuebles, utensilios y materiales que hayan estado a su cargo, en un plazo no mayor a cinco días contados a partir de la fecha de toma de posesión. Si los miembros salientes no comparecieren, la actuación se llevará a cabo con intervención del representante que para el efecto designe el Presidente Municipal, y en su caso, serán sujetos a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4182,3 +4192,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Notifíquese el presente Decreto a los Ayuntamientos y Concejos Municipales del Estado Libre y Soberano de Puebla.
+
+P.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 106, 110 Y 111, ASÍ COMO LAS FRACCIONES LI DEL 91 Y LA IV DEL 107, TODOS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 229 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
