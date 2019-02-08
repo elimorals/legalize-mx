@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2017-09-12"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -245,7 +245,7 @@ d) Dirección Jurídica;
 
 e) Dirección del Secretariado;
 
-f) Unidad Técnica de Planeación;
+f) (DEROGADO, D.O.F. 8 DE FEBRERO DE 2019)
 
 g) Unidad Técnica de Igualdad de Género y No Discriminación;
 
@@ -363,7 +363,9 @@ v) Aprobar el Estatuto del Servicio Profesional Electoral Nacional, a propuesta 
 
 w) Las demás que le confieran la Ley Electoral y otras disposiciones aplicables.
 
-2. El Consejo aprobará el anteproyecto de presupuesto del Instituto de conformidad con las disposiciones constitucionales, legales, así como las emitidas por el propio Consejo, aplicando criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y en concordancia con el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+2. El Consejo aprobará el anteproyecto de presupuesto del Instituto de conformidad con las disposiciones constitucionales, legales, así como las emitidas por el propio Consejo, aplicando criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y en concordancia con el modelo de planeación y visión estratégica institucional.
 
 #### SECCIÓN PRIMERA. De las Comisiones del Consejo General
 
@@ -1199,9 +1201,13 @@ b) Ejecutar y supervisar el adecuado cumplimiento de los acuerdos del Consejo y 
 
 c) Acordar con el Presidente del Consejo los asuntos de su competencia;
 
-d) Coordinar la operación del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, así como las actualizaciones necesarias, para someterlas a la aprobación del Consejo;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-e) Elaborar anualmente el anteproyecto de presupuesto del Instituto de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del Reglamento, y en concordancia con el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, para someterlo a la consideración del Consejero Presidente, y de la comisión temporal que para tal fin cree el Consejo General;
+d) Promover y dar seguimiento al modelo de planeación y visión estratégica institucional;
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+e) Elaborar anualmente el anteproyecto de presupuesto del Instituto de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del Reglamento, y en concordancia con el modelo de planeación y visión estratégica institucional.
 
 f) Recibir en acuerdo ordinario a los Titulares de las Direcciones Ejecutivas, Unidades Técnicas y Vocales Ejecutivos de las Juntas Locales, de conformidad con lo dispuesto en este Reglamento;
 
@@ -1255,19 +1261,29 @@ bb) Presidir y coordinar el Comité de Gestión y Publicación Electrónica y su
 
 cc) Presentar al Consejo General el informe operativo funcional de los organismos públicos locales, respecto de las solicitudes para ejercer la delegación de facultades competenciales, y
 
-dd) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE INCISO ES IDÉNTICO AL CONTENIDO DEL INCISO dd), VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE SEPTIEMBRE DE 2017.]</small>
+dd) Definir y dar seguimiento a los mecanismos de evaluación Institucional;
 
-> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-ee) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+ee) Llevar a cabo el seguimiento de las auditorías del Instituto;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+ff) Supervisar y coordinar la elaboración, integración control y seguimiento del plan integral y calendario de los Procesos Electorales Federales, así como de los planes integrales de coordinación y calendarios con los Organismos Públicos Locales para los Procesos Electorales Locales, que lleven a cabo las áreas responsables;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+gg) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. De las Direcciones Ejecutivas
 
 ###### ARTÍCULO 42.
 
-1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere corresponde a las Direcciones Ejecutivas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere, corresponde a las Direcciones Ejecutivas:
 
 a) Cumplir con los Acuerdos del Consejo y de la Junta, que sean de su competencia, realizando las notificaciones y desahogos que correspondan. De ser necesario, las Direcciones Ejecutivas podrán solicitar la asesoría de la Dirección Jurídica para el cumplimiento de dicha atribución;
 
@@ -1281,7 +1297,9 @@ e) Asesorar técnicamente en asuntos de la competencia de la Dirección Ejecutiv
 
 f) Coordinar acciones con los Titulares de las otras Direcciones Ejecutivas o de las Unidades Técnicas, para el mejor funcionamiento del Instituto;
 
-g) Formular el anteproyecto de presupuesto de la Dirección Ejecutiva a su cargo, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo a través de la Dirección Ejecutiva de Administración y de la Unidad Técnica de Planeación, en el ámbito de sus respectivas atribuciones, y en concordancia con el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+g) Formular el anteproyecto de presupuesto de la Dirección Ejecutiva a su cargo, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas de planeación que fije el Secretario Ejecutivo y las medidas de administración que fije la Dirección Ejecutiva de Administración;
 
 h) Formular los anteproyectos de manuales de organización, procedimientos y servicios de la Dirección Ejecutiva a su cargo, de conformidad con los criterios de la Junta y la Dirección Ejecutiva de Administración;
 
@@ -1303,11 +1321,19 @@ p) Designar al servidor público que lo suplirá en su ausencia. Dicho servidor 
 
 q) Coadyuvar en la ejecución de las políticas y programas aprobadas por el Consejo para orientar las actividades relativas a la educación cívica, a contribuir al desarrollo de la vida democrática y a velar por la autenticidad del sufragio, así como para garantizar el derecho a la información y la protección de datos personales, y fomentar una cultura de igualdad de género y no discriminación;
 
-r) Colaborar en el ámbito de sus respectivas competencias para el adecuado desarrollo, operación y actualización del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, así como de los instrumentos normativos que de él deriven;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+r) Colaborar en el ámbito de sus respectivas competencias para el adecuado desarrollo, operación y actualización del modelo de planeación y visión estratégica institucional que les sean requeridas, así como de los instrumentos normativos que deriven de la misma;
 
 s) Dar respuesta a las consultas y solicitudes que les sean formuladas de acuerdo al ámbito de su competencia, con excepción de las reservadas por la Ley Electoral al Consejo General, las Comisiones, y la Junta, o a cualquier otro órgano del Instituto, y
 
-t) Las demás que confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+t) Elaborar y mapear los procesos de la Dirección Ejecutiva de conformidad con el modelo de gestión por procesos del Instituto y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+u) Las demás que confiera la Ley Electoral y otras disposiciones aplicables.
 
 ###### ARTÍCULO 43.
 
@@ -1321,7 +1347,9 @@ c) Cumplir con los requerimientos de información que las Comisiones respectivas
 
 d) Presentar a la consideración de la Junta los informes trimestrales y anuales correspondientes a los avances y resultados alcanzados en el marco de la planeación de la Dirección Ejecutiva a su cargo;
 
-e) Proveer a la Dirección del Secretariado y a la Unidad Técnica de Planeación, según corresponda, de los insumos necesarios para la integración de los informes trimestrales y anuales, así como de aquellos que reflejen los avances en el cumplimiento de los acuerdos aprobados por el Consejo y la Junta, en sus respectivos ámbitos de atribuciones;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+e) Proveer a la Secretaría Ejecutiva y a la Dirección del Secretariado según corresponda, de los insumos necesarios para la integración de los informes trimestrales y anuales, así como de aquellos que reflejen los avances en el cumplimiento de los acuerdos aprobados por el Consejo y la Junta, en sus respectivos ámbitos de atribuciones;
 
 f) Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
@@ -1329,7 +1357,9 @@ g) Proponer al Secretario Ejecutivo los proyectos sobre la creación, modificaci
 
 h) Recibir en acuerdo ordinario a los titulares de las unidades administrativas de la Dirección Ejecutiva a su cargo;
 
-i) Coadyuvar con la Unidad Técnica de Planeación y proveerla de los insumos necesarios en la integración, desarrollo y operación del Sistema Integral de Planeación, Seguimiento y Evaluación institucional;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+i) Coadyuvar con la Secretaría Ejecutiva y proveerla de los insumos necesarios en la integración, desarrollo y operación de la planeación institucional;
 
 j) Coordinar acciones, previo acuerdo del Secretario Ejecutivo, en el ámbito de las atribuciones de la Dirección Ejecutiva a su cargo, con las áreas correspondientes de las Juntas Locales y Distritales;
 
@@ -1337,7 +1367,13 @@ k) Designar a quienes fungirán como Enlaces en materia de transparencia y coady
 
 l) Formular propuestas de información socialmente útil, y
 
-m) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+m) Coordinar la elaboración y mapeo de los procesos de la Dirección Ejecutiva a su cargo, de conformidad con el modelo de gestión por procesos del Instituto y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+n) Las demás que confiera la Ley Electoral y otras disposiciones aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -1499,7 +1535,9 @@ k) Supervisar, por conducto de los Vocales Ejecutivos, que la instalación de ca
 
 l) Recabar, en su caso, de las oficinas municipales la documentación relacionada con el Proceso Electoral;
 
-m) Elaborar el programa calendarizado de actividades y eventos en materia de organización electoral, relacionados con el Proceso Electoral Federal y la consulta popular;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+m) Llevar a cabo la elaboración, integración, control y seguimiento del plan integral y calendario de los Procesos Electorales Federales y la Consulta Popular, en coordinación con las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto y con la supervisión de la Secretaría Ejecutiva.
 
 n) Diseñar y operar el programa de información sobre el desarrollo de la jornada electoral;
 
@@ -1613,7 +1651,9 @@ f) Organizar y dirigir la administración de los recursos materiales, financiero
 
 g) Dirigir y coordinar la elaboración del anteproyecto de Presupuesto del Instituto y presentarlo para su revisión al Secretario Ejecutivo;
 
-h) Aplicar las políticas y lineamientos definidos por la Unidad Técnica de Planeación, para la evaluación de resultados en los programas de administración de los recursos materiales y financieros, de organización y administración del personal;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+h) Aplicar las políticas y Lineamientos definidos por la Secretaria Ejecutiva para la evaluación de resultados en los programas de administración de los recursos materiales y financieros, de organización y administración del personal;
 
 i) Establecer los programas de capacitación permanente y especial y procedimientos para la promoción y estímulo del personal administrativo sometiéndolos a la consideración de la Junta;
 
@@ -1629,7 +1669,9 @@ n) De conformidad con las disposiciones aplicables, expedir los nombramientos de
 
 o) Administrar, operar y mantener los sistemas informáticos relacionados con la administración de los recursos humanos, materiales y financieros, en coordinación con la Unidad Técnica de Servicios de Informática y conforme a la normatividad aplicable en la materia;
 
-p) Proponer y aplicar las políticas y lineamientos de racionalidad, austeridad y disciplina presupuestaria que determine en conjunto con la Unidad Técnica de Planeación, en el marco de las disposiciones Constitucionales y legales aplicables;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+p) Proponer y aplicar las políticas y Lineamientos de racionalidad, austeridad y disciplina presupuestaria que se determinen en conjunto con la Secretaría Ejecutiva en el marco de las disposiciones Constitucionales y legales aplicables;
 
 q) (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
@@ -1645,7 +1687,37 @@ v) Coordinar la actualización y revisión del Directorio Institucional;
 
 w) Informar semestralmente a la Junta sobre las medidas tomadas o por realizar para el cuidado del medio ambiente, y
 
-x) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+x) Coordinar la aplicación de las políticas, normas y procedimientos para dotar a las unidades responsables del Instituto, de los recursos materiales y servicios generales que requieran para el desarrollo de sus atribuciones;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+y) Coordinar la aplicación de las políticas, normas y procedimientos para dotar a las Unidades Responsables del Instituto, de los recursos de arrendamiento, mantenimiento, obras y conservación de inmuebles que requieran para el desarrollo de sus atribuciones;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+z) Promover la modernización administrativa en el Instituto;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+aa) Integrar, coordinar y administrar la cartera institucional de proyectos;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+bb) Proponer y administrar las metodologías de innovación en el Instituto;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+cc) Coordinar las actividades de las unidades responsables del Instituto en materia de control interno;
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+dd) Dirigir las actividades de las unidades responsables en el Instituto a efecto de implementar un modelo de gestión por procesos, en acuerdo con las autoridades del Instituto y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+ee) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables;
 
 DELEGACIONALES
 
@@ -1705,17 +1777,27 @@ f) Poner a disposición de los Consejos Locales toda la información, recursos y
 
 g) Realizar las actividades que se convengan con las Entidades Federativas y el Distrito Federal en los procesos electorales locales;
 
-h) Elaborar el anteproyecto de presupuesto de conformidad con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, y en concordancia con el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+h) Elaborar el anteproyecto de presupuesto de conformidad con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, y en concordancia con el modelo de planeación y visión estratégica institucional;
 
 i) Supervisar y evaluar el cumplimiento de los programas relativos al Registro Federal de Electores, Organización Electoral, Servicio Profesional Electoral Nacional, y Capacitación Electoral y Educación Cívica;
 
-j) Colaborar en el ámbito de sus respectivas competencias para el adecuado desarrollo, operación y actualización del Sistema Integral de Planeación, Seguimiento y Evaluación institucional, así como de los instrumentos normativos que de él deriven;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+j) Colaborar en el ámbito de sus respectivas competencias para el adecuado desarrollo, operación y actualización del modelo de planeación y visión estratégica institucional, así como de los instrumentos normativos que de él deriven;
 
 k) Supervisar y evaluar el cumplimiento de los programas y las acciones de sus Vocalías y de los órganos Distritales;
 
 l) Llevar a cabo las funciones electorales que les correspondan en los procesos electorales locales, de conformidad con el artículo 32 de la Ley Electoral, y
 
-m) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+m) Colaborar en la elaboración y mapeo de los procesos de la Junta Local y dirigir las actividades de elaboración y mapeo de los procesos de las Juntas Distritales bajo su coordinación y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+n) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. De los Vocales Ejecutivos Locales
 
@@ -1847,15 +1929,21 @@ l) Instruir al Vocal Secretario a efecto de que conduzca las audiencias de prueb
 
 m) Ordenar al Vocal Secretario para que en cumplimiento a lo señalado en el artículo 250, numeral 1 de la Ley Electoral, realice las diligencias de verificación que estime necesarias;
 
-n) Ejecutar los programas en materia de organización electoral y capacitación electoral y educación cívica, y
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+n) Ejecutar los programas en materia de organización electoral y capacitación electoral y educación cívica;
 
-o) Coordinarse con los Consejeros Presidentes Distritales y/o Municipales de los Organismos Públicos Locales de su Entidad Federativa, para el mejor desempeño de sus atribuciones,
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+o) Coordinarse con los Consejeros Presidentes Distritales y/o Municipales de los Organismos Públicos Locales de su Entidad Federativa, para el mejor desempeño de sus atribuciones;
 
-p) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+p) Colaborar en la elaboración y mapeo de los procesos de la Junta Distrital a su cargo, bajo la coordinación de la Junta Local, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+q) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
 2. A efecto de formalizar lo señalado en el inciso l) del numeral precedente, el Vocal Ejecutivo que corresponda deberá instruir mediante oficio al Vocal Secretario, y éste tendrá que asentar en el acta correspondiente tanto la instrucción como la clave que identifique la comunicación por la cual se le ordena conducir la audiencia de pruebas y alegatos.
 
@@ -1915,7 +2003,9 @@ f) Asesorar técnicamente en asuntos de la competencia de la Unidad Técnica a l
 
 g) Coordinar acciones con los titulares de las Direcciones Ejecutivas o de las Unidades Técnicas, cuando así se requiera, para el mejor funcionamiento del Instituto;
 
-h) Formular el anteproyecto de presupuesto de la Unidad Técnica a su cargo, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, y en concordancia con el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo anualmente, para la elaboración del anteproyecto de presupuesto del Instituto;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+h) Formular el anteproyecto de presupuesto de la Unidad Técnica a su cargo, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, y en concordancia con el modelo de planeación y visión estratégica institucional, de conformidad con las medidas de planeación que fije el Secretario Ejecutivo y las medidas administrativas que fije la Dirección Ejecutiva de Administración, para la elaboración del anteproyecto de presupuesto del Instituto;
 
 i) Formular los anteproyectos de los manuales de organización, procedimientos y servicios de la Unidad Técnica a su cargo, de conformidad con los criterios de la Junta y la Dirección Ejecutiva de Administración;
 
@@ -1925,11 +2015,15 @@ k) Recibir en acuerdo ordinario a los titulares de las áreas administrativas de
 
 l) Coordinar acciones con las áreas correspondientes de las Juntas Locales y Distritales, previo acuerdo del Consejero Presidente o del Secretario Ejecutivo, según corresponda en los términos de este Reglamento;
 
-m) Los titulares de las Unidades Técnicas del Jurídico, de Transparencia y Protección de Datos Personales, de Servicios de Informática, de Planeación, de Vinculación, de lo Contencioso Electoral y del Secretariado acordarán con el Secretario Ejecutivo el despacho de los asuntos de su competencia;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+m) Los titulares de las Unidades Técnicas del Jurídico, de Transparencia y Protección de Datos Personales, de Servicios de Informática, de Vinculación, de lo Contencioso Electoral y del Secretariado acordarán con el Secretario Ejecutivo el despacho de los asuntos de su competencia;
 
 n) Los Titulares de las Unidades Técnicas de Coordinación de Asuntos Internacionales, Comunicación Social, y de Igualdad de Género y no Discriminación, acordarán con el Consejero Presidente el despacho de los asuntos de su competencia;
 
-o) Colaborar, en el ámbito de sus respectivas competencias, para el adecuado desarrollo, operación y actualización del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, así como de los instrumentos normativos que de él deriven;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+o) Colaborar, en el ámbito de sus respectivas competencias, para el adecuado desarrollo, operación y actualización del modelo de planeación y visión estratégica institucional que les sean requeridas, así como de los instrumentos normativos que de él deriven;
 
 p) Coadyuvar con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica en la instrumentación de las políticas aprobadas por el Consejo para orientar las actividades relativas a la educación cívica, a contribuir al desarrollo de la vida democrática, velar por la autenticidad del sufragio, y fomentar una cultura de igualdad de género y no discriminación;
 
@@ -1943,9 +2037,13 @@ s) Designar al servidor público, que en caso de su ausencia de manera excepcion
 
 t) Proporcionar insumos necesarios para rendir los informes circunstanciados de las impugnaciones que se promuevan en los asuntos que sean de su competencia, así como remitirlos en tiempo y forma junto con la documentación respectiva a la Dirección Jurídica.
 
-> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E, ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-u) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
+u) Coordinar la elaboración y mapeo de los procesos de la Unidad Técnica a su cargo, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+v) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 2. Las Unidades Técnicas dependerán del órgano central del Instituto que señale el acuerdo de creación correspondiente.
 
@@ -2249,13 +2347,17 @@ g) Coordinar la elaboración de las versiones estenográficas y de las actas del
 
 h) Coadyuvar con el Secretario Ejecutivo en la preparación del orden del día de las sesiones de la Junta;
 
-i) Auxiliar a la Unidad Técnica de Planeación en la integración y seguimiento del Plan y Calendario Integrales de los Procesos Electorales Federales;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+i) Auxiliar a la Secretaría Ejecutiva en la integración y seguimiento del plan y calendario integrales de los Procesos Electorales Federales;
 
 j) Coadyuvar con el Secretario Ejecutivo en la coordinación y supervisión de la función de la Oficialía Electoral;
 
 k) Certificar documentos, previa delegación del ejercicio de la fe pública por parte del Secretario Ejecutivo;
 
-l) Apoyar al Secretario Ejecutivo en la integración de los informes trimestrales y anuales que reflejen los avances en el cumplimiento de los acuerdos aprobados por el Consejo y la Junta; así como coordinarse con la Unidad Técnica de Planeación para integrar los informes correspondientes a los avances y resultados de la planeación institucional;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+l) Apoyar al Secretario Ejecutivo en la integración de los informes trimestrales y anuales que reflejen los avances en el cumplimiento de los acuerdos aprobados por el Consejo y la Junta;
 
 m) Sistematizar los asuntos contenidos en los informes de los órganos locales y distritales y la integración del informe respectivo;
 
@@ -2287,63 +2389,7 @@ w) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### ARTÍCULO 69.
 
-1. La Unidad Técnica de Planeación estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
-
-a) Presentar al Secretario Ejecutivo la propuesta de políticas, programas y estrategias de trabajo de la Unidad, para el adecuado cumplimento de sus atribuciones;
-
-b) Acordar con el Secretario Ejecutivo los asuntos de su competencia;
-
-c) Definir en el marco de la planeación estratégica, las acciones, políticas y lineamientos institucionales para favorecer la modernización administrativa, el desarrollo estratégico de la Institución y el uso racional de los recursos, con base en marcos de planeación, seguimiento, medición y evaluación;
-
-d) Proponer al Secretario Ejecutivo para su aprobación por la Junta y el Consejo, el Modelo Integral de Planeación para el Instituto y el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, así como promover las actualizaciones que correspondan, de acuerdo a las necesidades del Instituto;
-
-e) Informar semestralmente al Consejo de los avances en la implementación del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
-
-f) Establecer un mecanismo de vinculación que permita coordinar acciones con las áreas directivas, ejecutivas y técnicas, así como con los órganos desconcentrados del Instituto para la operación y actualización correspondiente del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
-
-g) Coordinar la construcción de manera participativa e incluyente de la visión estratégica a largo plazo del Instituto, así como las actividades inherentes o derivadas del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
-
-h) Proponer a la Junta, por conducto del Secretario Ejecutivo, los lineamientos metodológicos que orienten la correcta alineación de los instrumentos de planeación del Instituto con su rumbo estratégico;
-
-i) Brindar apoyo técnico y asesoría a las Direcciones Ejecutivas, Unidades Técnicas y Órganos Desconcentrados, en la formulación de sus políticas, programas y proyectos, para hacerlos congruentes con el Sistema Integral de Planeación Seguimiento y Evaluación Institucional;
-
-j) Administrar los sistemas e información relacionada con el cumplimiento de los planes, programas y proyectos institucionales y dar seguimiento a los indicadores de gestión, con el objeto de proponer acciones que garanticen el cumplimiento de los objetivos planteados;
-
-k) Integrar, coordinar y administrar la cartera institucional de proyectos, con el apoyo de la Dirección Ejecutiva de Administración;
-
-l) Coadyuvar con la Dirección Ejecutiva de Administración, en el diseño e implantación de propuestas metodológicas aplicadas a la formulación del anteproyecto de presupuesto del Instituto y en la integración de la cartera institucional de proyectos;
-
-m) Diseñar en coordinación con la Dirección Ejecutiva de Administración, las políticas y lineamientos del proceso de planeación y evaluación financiera, con la finalidad de garantizar el rumbo estratégico del Instituto y la viabilidad de los proyectos institucionales;
-
-n) Proponer iniciativas estratégicas que coadyuven a que el Instituto haga más eficientes, eficaces y transparentes sus procesos administrativos y organizacionales;
-
-o) Llevar el registro y operación del Sistema Integral de Seguimiento de Auditorías del Instituto; así como coadyuvar con la Secretaría Ejecutiva en la implementación del Sistema de Control Interno en los diversos procesos sustantivos del Instituto a cargo de las unidades administrativas;
-
-p) Gestionar la realización de indicadores institucionales y darles seguimiento;
-
-q) Apoyar a las Direcciones Ejecutivas, Unidades Técnicas y Órganos Desconcentrados del Instituto cuando así lo soliciten, en la capacitación para el uso de metodologías de innovación administrativa y el desarrollo de mejores prácticas;
-
-r) Proponer e impulsar estrategias de vinculación que favorezcan la coordinación de los órganos desconcentrados con los órganos centrales del Instituto;
-
-s) Concertar en acuerdo con el Secretario Ejecutivo, convenios de colaboración que coadyuven en el logro de los programas y proyectos estratégicos de la Unidad Técnica de Planeación dentro de los procesos de planeación y mejoramiento de la administración;
-
-t) Coadyuvar con las Comisiones del Consejo General;
-
-u) Diseñar la metodología, herramientas técnicas e instrumentos normativos para elaborar y dar seguimiento a las políticas y programas generales, así como para verificar el cumplimiento del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, procurando su continua armonía con la Constitución, legislación y normatividad aplicable;
-
-v) Diseñar la metodología para la planeación, integración, control y seguimiento para la implementación del Plan y Calendario Integral en los procesos electorales federales;
-
-w) Diseñar e implementar un mecanismo de evaluación que verifique la contribución y avance de los indicadores de cada área u órgano a los objetivos del Instituto;
-
-x) Contribuir a la gestión del cambio, para el establecimiento de una cultura orientada a la planeación, la innovación y la administración del conocimiento;
-
-y) Coordinar la instrumentación de un modelo organizacional orientado a la administración y medición de los procesos institucionales;
-
-z) Diseñar e integrar las políticas y programas generales del Instituto y presentar la propuesta al Secretario Ejecutivo, para el adecuado cumplimiento de sus atribuciones;
-
-aa) Establecer un mecanismo de coordinación con la Dirección del Secretariado para que ésta pueda integrar los avances y resultados en el marco de la planeación en los informes trimestrales y anuales, y
-
-bb) Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O.F. 8 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 70.
 
@@ -2357,13 +2403,17 @@ c) Proponer a las Direcciones Ejecutivas, Unidades Técnicas, y órganos desconc
 
 d) Brindar apoyo especializado y asesoría a las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados, en la formulación de sus políticas, programas y proyectos para hacerlos congruentes con la Política Institucional en materia de igualdad de género y no discriminación para el Instituto;
 
-e) Integrar al Sistema Institucional de Planeación, Seguimiento y Evaluación la perspectiva de género y no discriminación, en colaboración con la Unidad Técnica de Planeación;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+e) Integrar al modelo de planeación y visión estratégica institucional la perspectiva de género y no discriminación, con la supervisión y colaboración de la Secretaría Ejecutiva;
 
 f) Proponer a la Junta las medidas conducentes para institucionalizar y transversalizar la igualdad de género y no discriminación en los programas y proyectos de las distintas áreas del Instituto, para su presentación al Consejo;
 
 g) Analizar los procesos institucionales y, en su caso, proponer el rediseño de los mismos propiciando que la perspectiva de género y no discriminación se integre en cualquier acción que planifique programas o proyectos, en todas las áreas y en todos los niveles;
 
-h) Dar seguimiento y analizar la información que se genere acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad de género y no discriminación, para apoyar la toma oportuna de decisiones, en coordinación con la Unidad Técnica de Planeación;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+h) Dar seguimiento y analizar la información que se genere acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad de género y no discriminación, para apoyar la toma oportuna de decisiones, en coordinación con la Secretaría Ejecutiva;
 
 i) Integrar, bajo la supervisión de la Presidencia, los informes trimestrales y anual, mismos que deberán presentarse a la Junta y al Consejo, respectivamente;
 
@@ -2489,7 +2539,9 @@ h) Realizar los estudios e informes que le solicite la Comisión de Vinculación
 
 i) Coadyuvar con la Comisión de Vinculación con los Organismos Públicos Locales en la integración de la propuesta para conformar los Consejos de dichos organismos;
 
-j) Elaborar el año anterior al de la elección que corresponda el calendario y el plan integral de coordinación con los Organismo (sic) Públicos Locales para los procesos electorales de las Entidades Federativas que realicen comicios, y coordinar su entrega para el conocimiento del Consejo General;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+j) Elaborar el año anterior al de la elección que corresponda el plan integral de coordinación y calendario con los Organismo Públicos Locales para los procesos electorales de las Entidades Federativas que realicen comicios y dar seguimiento del grado de avance de cada uno de los procedimientos y actividades identificados en el mismo, lo anterior, en colaboración con las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto y con la supervisión de la Secretaría Ejecutiva, así como coordinar su entrega para el conocimiento del Consejo General;
 
 k) Poner a disposición de la Comisión de Vinculación con los Organismos Públicos Locales los informes anuales que rindan dichos organismos, respecto del ejercicio de facultades delegadas u otras materias que correspondan conocer al Instituto, para conocimiento del Consejo General;
 
@@ -2943,9 +2995,9 @@ uu) Establecer los mecanismos de orientación y cursos de capacitación que resu
 
 vv) Proponer, por conducto de su titular, al Consejo para su aprobación, los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-ww) Formular por conducto de su titular el anteproyecto de presupuesto del OIC, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo a través de la Dirección Ejecutiva de Administración y de la Unidad Técnica de Planeación, en el ámbito de sus respectivas atribuciones;
+ww) Formular por conducto de su titular el anteproyecto de presupuesto del OIC, de acuerdo con la normatividad y criterios señalados en el numeral 2, del artículo 5, del presente Reglamento, así como de conformidad con las medidas de planeación que fije el Secretario Ejecutivo y las medidas administrativas que fije la Dirección Ejecutiva de Administración; en el ámbito de sus respectivas atribuciones.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3007,9 +3059,13 @@ kkk) Participar en actividades específicas del Sistema Nacional de Fiscalizaci�
 
 lll) Presentar al Comité Coordinador del Sistema Nacional Anticorrupción, a solicitud de su Secretario Técnico, un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
 
-mmm) Las demás que le confieran las Leyes General de Responsabilidades Administrativas, la General del Sistema Nacional Anticorrupción y demás leyes y ordenamientos o normativa aplicables.
+mmm) Elaborar y mapear los procesos del OIC a su cargo, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+
+nnn) Las demás que le confieran las Leyes General de Responsabilidades Administrativas, la General del Sistema Nacional Anticorrupción y demás leyes y ordenamientos o normativa aplicable.
 
 > <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3224,3 +3280,19 @@ D.O.F. 12 DE SEPTIEMBRE DE 2017.
 ÚNICO.- A más tardar el 31 de diciembre de 2017, el Consejo General del Instituto, deberá aprobar los Lineamientos para el acceso al Sistema Integral de Información del Registro Federal de Electores, para la atención de solicitudes de información por parte de las autoridades jurisdiccionales y administrativas.
 
 Segundo.- Las reformas aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, por ende, se ordena la misma en forma inmediata. Asimismo, publíquese en la Gaceta y el portal de internet www.ine.mx.
+
+D.O.F. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL Y EL REGLAMENTO DE ELECCIONES”.]
+
+Primero: Las referencias que se hagan a la Unidad Técnica de Planeación en la normatividad interna del Instituto en materia de planeación institucional, evaluación, seguimiento a auditorías y supervisión de la elaboración y seguimiento del plan integral y calendarios electorales federales, así como de los planes integrales de coordinación y calendarios para los Procesos Electorales Locales se entenderán hechas a la Secretaría Ejecutiva, en el caso de las referencias a la Unidad Técnica de Planeación en la normatividad interna del Instituto en materia de modernización, cartera institucional de proyectos, innovación, control interno, y procesos, se entenderán hechas a la Dirección Ejecutiva de Administración, las referencias que se hagan a la elaboración y seguimiento del plan integral y calendario para los Procesos Electorales Federales se entenderán hechas a la Dirección Ejecutiva de Organización Electoral y para los Procesos Electorales Locales, se entenderán hechas a la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+Segundo: Se instruye a la Secretaría Ejecutiva para que coordine los trabajos necesarios para la actualización y armonización de las normas internas que sufran impacto derivado de la fusión-compactación de la Unidad Técnica de Planeación y de la desaparición de la Dirección de Seguimiento y Evaluación de Programas de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica.
+
+Las propuestas de modificación se deberán presentar a consideración de los órganos competentes del Instituto, según corresponda, a más tardar el último día de mayo de 2019.
+
+Tercero: El modelo de planeación y visión estratégica institucional se propondrá por el Secretario Ejecutivo una vez que la gestión por procesos en el Instituto genere los insumos necesarios para poder integrarla.
+
+Cuarto: Respecto del Comité de Planeación Institucional, hasta en tanto se realicen los ajustes a las normas que rigen su integración y funcionamiento, el Secretario Ejecutivo designará de entre el personal a su cargo a quien ocupará la Secretaría Técnica de dicho Comité, a fin (sic) posibilitar la continuidad en las funciones de ese órgano.
+
+Quinto: La DEA dará seguimiento a los procedimientos para la creación, gestión, control y cierre de los proyectos específicos incorporados en la Cartera Institucional de Proyectos, así como los ajustes que se requieran a los mismos, de conformidad con los Lineamientos para la Administración de la Cartera Institucional de Proyectos.
