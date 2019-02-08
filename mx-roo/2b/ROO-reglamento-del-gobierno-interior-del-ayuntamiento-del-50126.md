@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2018-04-05"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2019.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1061,6 +1061,10 @@ XVI. De Trabajo y Previsión Social, y
 
 XVII. De Turismo y Ecología.
 
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2019)</small>
+
+XVIII. Para el Desarrollo Juvenil.
+
 ###### Artículo 107.
 
 El Presidente Municipal asumirá la Presidencia de la Comisión de Gobierno y Régimen Interior y el Síndico Municipal la de Hacienda, Patrimonio y Cuenta Pública.
@@ -1416,6 +1420,22 @@ VII. Estudiar la conveniencia de la celebración de convenios y programas conjun
 VIII. Evaluar los trabajos de las dependencias municipales con atribuciones en materia de ecología, forestación y medio ambiente y con base en sus resultados, proponer las medidas pertinentes para orientar las políticas públicas que en materia de ecología deba emprender el Municipio, y
 
 IX. Procurar y proponer sistemas que se estimen adecuados, para el uso racional y sustentable de los recursos naturales renovables y no renovables en todo el Municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2019)</small>
+
+Artículo 124 bis.- Corresponde a la Comisión para el Desarrollo Juvenil:
+
+I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia que impulsen el desarrollo personal, profesional y emocional de los jóvenes del Municipio;
+
+II. Evaluar los trabajos de las dependencias municipales encargadas del fomento juvenil y con base en sus resultados, proponer las medidas pertinentes para orientar la política de protección a los derechos de los jóvenes;
+
+III. Establecer comunicación permanente con los representantes de los diversos sectores de la sociedad organizada en el Municipio, a efecto de estudiar todas aquellas medidas que favorezcan un esquema de desarrollo juvenil;
+
+IV. Promover e impulsar las relaciones nacionales e internacionales con las autoridades de las ciudades de diferentes partes del mundo, a efecto de establecer un intercambio cultural, educativo, deportivo y tecnológico, a través del acercamiento de dichas ciudades con la ciudad de Cancún;
+
+V. Estudiar la conveniencia de la celebración de convenios y programas con asociaciones civiles, centros de educación y sector privado;
+
+VI. Proponer un programa de trabajo que será ejecutado por la propia comisión, en beneficio del desarrollo juvenil, en razón de las necesidades y problemáticas que se deban combatir.
 
 ### CAPÍTULO III. DE LAS COMISIONES ESPECIALES
 
@@ -2011,6 +2031,14 @@ SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a la 
 
 P.O. 5 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "ACUERDO 16-18/137, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 93 DEL BANDO DE GOBIERNO Y POLICÍA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y LA FRACCIÓN X DEL ARTÍCULO 106 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 117 AMBOS DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y SE ADICIONA CON LAS FRACCIONES DE LA VI A LA XIII DEL ARTÍCULO 117 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUICIPIO DE BENITO JUÁREZ, QUINTANA ROO. H. AYUNTAMIENTO DE BENITO JUÁREZ".]
+## [N. DE E. TRANSITORIO DEL "ACUERDO 16-18/137, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 93 DEL BANDO DE GOBIERNO Y POLICÍA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y LA FRACCIÓN X DEL ARTÍCULO 106 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 117 AMBOS DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y SE ADICIONA CON LAS FRACCIONES DE LA VI A LA XIII DEL ARTÍCULO 117 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO. H. AYUNTAMIENTO DE BENITO JUÁREZ".]
 
 ÚNICO.- La presente reforma reglamentaria, entrará en vigor, al día siguiente de su publicación en el periódico oficial del gobierno del Estado de Quintana Roo.
+
+P.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 18-21/030 OCTAVO PUNTO DEL ORDEN DEL DÍA DE LA CUARTA SESIÓN ORDINARIA DE FECHA 23 DE NOVIEMBRE DEL 2018, EN EL QUE SE APRUEBA POR UNANIMIDAD DE VOTOS DE LOS INTEGRANTES DEL HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, 2018-2021, EL DICTAMEN DE LA INICIATIVA POR LA QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 106 Y EL ARTÍCULO 124 BIS DEL REGLAMENTO DE GOBIERNO INTERIOR DEL AYUNTAMIENTO DE BENITO JUÁREZ, QUINTANA ROO; Y LA FRACCIÓN XVIII AL ARTÍCULO 93 DEL BANDO DE GOBIERNO Y POLICÍA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, EN LOS TÉRMINOS DEL PROPIO ACUERDO".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo establecido en los presentes Reglamentos.
