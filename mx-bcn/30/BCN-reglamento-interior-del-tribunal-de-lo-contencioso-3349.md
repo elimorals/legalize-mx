@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2017-10-30"
+last_updated: "2019-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 8 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
+REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -612,3 +614,19 @@ P.O. 30 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE MODIFICACIÓN Y ADICIÓN DEL ARTÍCULO 42 DEL REGLAMENTO INTERNO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO".]
 
 ÚNICO.- LA PRESENTE ADICIÓN ENTRARÁ EN VIGOR A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Baja California.
+
+TERCERO.- En tanto el Congreso del Estado de Baja California expide el nombramiento de Contralor Interno del Tribunal; la Comisión de Responsabilidades y Situación Patrimonial del Tribunal seguirá ejerciendo las facultades de vigilancia y disciplina, de conformidad con las disposiciones legales y reglamentarias vigentes antes de la entrada en vigor del presente reglamento.
+
+CUARTO.- En tanto el Pleno del Tribunal expide (sic) nombramiento de Coordinador de Informática y Transparencia; el Secretario General de Acuerdos seguirá ejerciendo las facultades de Titular de la Unidad de Transparencia.
+
+QUINTO.- Dentro de los noventa días siguientes a la entrada en vigor del presente Reglamento, el Pleno deberá aprobar el Reglamento de Transparencia y Acceso a la Información del Tribunal.
+
+SEXTO.- Todas las referencias que se hagan en cualquier disposición legal, reglamentaria o administrativa, al Tribunal de lo Contencioso Administrativo del Estado de Baja California, se entenderán referidas al Tribunal Estatal de Justicia Administrativa.
