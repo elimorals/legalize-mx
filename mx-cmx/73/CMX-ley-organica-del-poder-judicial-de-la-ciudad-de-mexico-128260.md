@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE FEBRERO DE 2019.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -906,7 +906,9 @@ IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley 
 
 Los Juzgados de Tutela de Derechos Humanos conocerán de la acción de protección efectivas de derechos de conformidad con lo que establece el artículo 36, apartado B, numeral 3 de la Constitución.
 
-La acción de protección efectiva es el mecanismo por medio del cual los jueces tutelares conocen de manera directa las posibles violaciones a los derechos humanos reconocidos en la Constitución, contra los que se inconformen las personas físicas al inicio y/o durante la sustanciación del algún procedimiento competencia de la Administración Pública.
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2019)</small>
+
+La acción de protección efectiva es el mecanismo por medio del cual los jueces tutelares conocen de manera directa las posibles violaciones a los derechos humanos reconocidos en la Constitución, contra los que se inconformen el titular de un derecho o de un interés legítimo individual o colectivo al inicio y/o durante la sustanciación del (sic) algún procedimiento competencia de la Administración Pública.
 
 ###### Artículo 67.
 
@@ -2376,11 +2378,11 @@ XXVI. Emitir, en términos de la legislación relativa a transparencia y acceso 
 
 XXVII. Establecer a través de acuerdos generales, juzgados de tutela en las Demarcaciones territoriales;
 
-XXVIII. Formar parte del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México. XXIX. Conocer de las excitativas que tengan por objeto conminar a Juzgadores y titulares de Magistraturas para que administren pronta y cumplida justicia cuando sin causa justificada transcurran los términos legales sin dictar las resoluciones que correspondan. (sic)
+XXVIII. Formar parte del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México. XXIX. (SIC) Conocer de las excitativas que tengan por objeto conminar a Juzgadores y titulares de Magistraturas para que administren pronta y cumplida justicia cuando sin causa justificada transcurran los términos legales sin dictar las resoluciones que correspondan.
 
 Las excitativas serán remitidas al Pleno del Tribunal Superior de Justicia, previa determinación de su procedencia y sólo podrán ser presentadas por las partes con interés legítimo; y
 
-XXX (sic). Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
+XXX. (SIC) Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
 
 ###### Artículo 219.
 
@@ -4362,7 +4364,7 @@ Las atribuciones de la Dirección Ejecutiva de Orientación Ciudadana y Derechos
 
 ###### Artículo 384.
 
-Los Comités del Servicio Civil de Carrera Administrativa del Tribunal Superior de Justicia y del Consejo de la Judicatura tendrá las siguientes atribuciones:
+Los Comités del Servicio Civil de Carrera Administrativa del Tribunal Superior de Justicia y del Consejo de la Judicatura tendrá (sic) las siguientes atribuciones:
 
 I. Proponer según corresponda a quien presida al Tribunal Superior de Justicia o al Consejo de la Judicatura las directrices para el óptimo funcionamiento del sistema;
 
@@ -4638,7 +4640,7 @@ QUINTO.- Al momento de la entrada en vigor de la Ley Orgánica del Poder Judicia
 
 SEXTO.- El Tribunal Superior de Justicia de la Ciudad de México, contará con 180 días naturales a partir de la entrada en vigor de este Decreto, para adecuar su estructura a lo establecido en la presente Ley.
 
-SÉPTIMO.- Los transitorios contenidos en los decretos publicados en la Gaceta Oficial del Distrito Federal el veinticuatro de abril de dos mil tres y nueve de junio de dos mil catorce, permanecerán vigentes para regular al correspondiente fondo de retiro, por tratarse de derechos adquiridos.
+SÉPTIMO.- Los transitorios contenidos en los decretos publicados en la Gaceta Oficial del Distrito Federal el veinticuatro de abril de dos mil tres y nueve de junio de dos mil catorce, permanecerán vigentes para regular al (sic) correspondiente fondo de retiro, por tratarse de derechos adquiridos.
 
 OCTAVO.- En tanto no entre en vigencia la Unidad de Medida y Actualización se entenderá que se tendrá por válida la Unidad de Cuenta de la Ciudad de México.
 
@@ -4661,3 +4663,13 @@ DÉCIMO CUARTO.- El Poder Legislativo de la Ciudad de México expedirá las leye
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los tres días del mes de mayo del año dos mil dieciocho. EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrará en vigor de conformidad con lo dispuesto en el Artículo Décimo Primero Transitorio de la Constitución Política de la Ciudad de México.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial de la Ciudad de México.
