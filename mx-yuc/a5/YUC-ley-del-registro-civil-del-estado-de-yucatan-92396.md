@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2017-06-19"
+last_updated: "2019-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -278,6 +278,14 @@ Registro de nacimiento gratuito
 ###### Artículo 23.
 
 La Dirección del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita el registro de nacimiento de niñas y niños menores de 8 años de edad y la expedición de la primera copia certificada del acta de dicho registro.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2019)</small>
+
+Gratuidad de actas de nacimiento para trámites escolares
+
+###### Artículo 23 Bis.
+
+Cuando se soliciten copias certificadas de actas de nacimiento para trámites escolares, éstas se expedirán gratuitamente y llevarán impresa la leyenda "Certificación gratuita válida para trámites escolares".
 
 Derecho de las hijas o hijos mayores de edad
 
@@ -1554,3 +1562,15 @@ D.O. 19 DE JUNIO DE 2017.
 Único. Entrada en Vigor
 
 Estas disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 38/2019 POR EL QUE SE MODIFICA LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, EN MATERIA DE ACTAS DE NACIMIENTO".]
+
+Entrada en Vigor
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
