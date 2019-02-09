@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2017-09-11"
+last_updated: "2019-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2019.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -593,7 +595,9 @@ El Presidente del Congreso deberá informar al Pleno cuando realice una modifica
 
 Las actas de cada sesión deberán contener la fecha y el lugar en que se verifique la sesión, el sumario, una relación sucinta de lo acontecido en el orden en que se desarrollen, así como los nombres y firmas de los que presidan la Mesa Directiva o la Diputación Permanente, misma que se consignará íntegra y textualmente al Diario de los Debates.
 
-La Secretaría General, elaborará una síntesis del acta de cada sesión de los períodos ordinarios y extraordinarios, la cual deberá ser leída, discutida y sometida a votación en la siguiente sesión del Pleno.
+> <small>(REFORMADO, D.O. 9 DE FEBRERO DE 2019)</small>
+
+La Secretaría General, elaborará una síntesis del acta de cada sesión de los períodos ordinarios y extraordinarios, la cual deberá ser enviada a los correos institucionales de los diputados cuando menos el día anterior a la siguiente sesión del Pleno, e incluida en el sistema electrónico de la sesión en la que deba de ser sometida a discusión y votación. Se podrá dar lectura a la síntesis antes señalada, cuando sea solicitado por algún diputado y aprobado por el Pleno del Congreso.
 
 Cuando por falta de quórum no se verifique una sesión, el Secretario General levantará constancia que deberán firmar los diputados que hubieren asistido.
 
@@ -1664,3 +1668,11 @@ La presente reforma, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Legislativo del Estado de Yucatán, tomara todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de la reforma de este artículo a partir de su publicación.
+
+D.O. 9 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 39/2019 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero. El presente decreto entrará en vigor en un plazo de 60 días naturales a partir de su publicación en el Diario Oficial del Gobierno del Estado, a fin de que la Dirección General de Administración y Finanzas del Poder Legislativo, efectúe las medidas administrativas necesarias a través de la Coordinación del Departamento de Informática.
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
