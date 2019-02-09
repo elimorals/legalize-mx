@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transporte-del-estado-de-oaxaca-97666"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2018-11-10"
+last_updated: "2019-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -97,7 +97,7 @@ XIX. Secretaria: Secretaría de Vialidad y Transporte;
 
 XX. Servicio especial: El que se presta a través de un permiso otorgado por la Secretaría para satisfacer una necesidad específica de un sector de la población;
 
-XXI. Servicio público: El que al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
+XXI. Servicio público; El que al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
 
 XXII. Sitio: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
 
@@ -363,7 +363,7 @@ Para prestar el servicio especial de transporte se requiere de un permiso otorga
 
 El servicio de transporte se clasifica en:
 
-I. Público: Que mediante concesión se presta de manera regular y continúa dentro de las vías públicas estatales para satisfacer una necesidad social de trasladar pasajeros y carga de un lugar a otro, y
+I. Público: Que mediante concesión se presta de manera regular y continua dentro de las vías públicas estatales para satisfacer una necesidad social de trasladar pasajeros y carga de un lugar a otro, y
 
 II. Especial: Que mediante permiso se presta de forma privada, dentro de las vías públicas estatales para satisfacer una necesidad específica de un sector de la población. Se incluyen en esta clasificación el transporte escolar, de personal, carrozas fúnebres y ambulancias.
 
@@ -1461,6 +1461,10 @@ Para la expedición de licencias de conducir por primera vez, se otorgarán prev
 
 Las licencias de conducir tendrán una vigencia de dos, tres y cinco años y se renovarán por plazos iguales a solicitud del interesado con el cumplimiento de los requisitos que establezca la Secretaría.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2019)</small>
+
+En el caso de las licencias tipo "A" y "B", se podrá expedir vigencia permanente, previo pago de derechos.
+
 ###### ARTÍCULO 154.
 
 La Secretaría integrará y administrará un padrón de licencias emitidas, conforme a las disposiciones contenidas en el Reglamento de esta Ley.
@@ -1720,3 +1724,15 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se establece un plazo de treinta días hábiles posteriores a la publicación del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la presente Ley.
+
+P.O. 9 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 401.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 153 DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Una vez aprobado por el Pleno, publíquese en la página oficial del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Para el caso de personas que actualmente cuentan con una licencia tipo “A” o “B”, vigente, y deseen adquirir la licencia permanente; tendrán que cubrir la diferencia del costo, dentro de los seis meses siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
