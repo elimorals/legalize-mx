@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2017-04-22"
+last_updated: "2019-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -487,11 +487,13 @@ V. Las demás que el Reglamento de la presente ley y la convocatoria establezcan
 
 El Parlamento Joven se integrará por 30 jóvenes zacatecanos, quienes serán electos con base en los requisitos y lineamientos establecidos en la convocatoria que emita el Comité Organizador o, en su caso, las determinaciones de dicho Comité.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 28.
 
-La convocatoria se publicará en el mes de mayo de cada año y tendrá una duración de 60 días naturales.
+La convocatoria se publicará en el mes de octubre del año anterior a la celebración y tendrá una duración de 60 días naturales.
 
-El Parlamento Joven se llevará a cabo en el mes de agosto de cada año el día establecido por el Comité Organizador, en la sede de la Legislatura del Estado de Zacatecas.
+El Parlamento Joven se llevará a cabo la última semana del mes de enero de cada año, en el día establecido por el Comité Organizador, en la sede de la Legislatura del Estado de Zacatecas.
 
 ###### Artículo 29.
 
@@ -1188,3 +1190,11 @@ CUARTO. Formarán parte del patrimonio del Instituto de la Juventud los recursos
 QUINTO. En un término de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá aprobarse el Estatuto Orgánico del Instituto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 3.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 28 DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
