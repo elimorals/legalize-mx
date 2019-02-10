@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-del-organo-de-fiscalizacion-superior-del-942
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-20"
-last_updated: "2013-05-20"
+last_updated: "2019-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,16 +20,6 @@ issue_date: "2013-05-09"
 state: "BCS"
 ---
 # REGLAMENTO INTERNO DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
-
-REGLAMENTO INTERNO DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
-
-TEXTO ORIGINAL.
-
-Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de mayo de 2013.
-
-El Órgano de Fiscalización Superior del Estado de Baja California Sur, con fundamento en los artículos 116 fracción II párrafo VI; 64 fracción XXX de la Constitución Política del Estado Libre y Soberano de Baja California Sur; 72 fracción VI de la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur; expide el:
-
-REGLAMENTO INTERNO DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ### Capítulo I
 
@@ -84,6 +74,18 @@ El Auditor Superior contará, en su caso, considerando la disposición presupues
 Para la planeación, práctica, ejecución y apoyo de las auditorías, y seguimiento del Programa para la Fiscalización del Gasto Federalizado PROFIS, el Auditor Superior contará con Coordinador de Auditorías, Asesor Jurídico "A", Asesor Jurídico "B", Auditores “A", Auditores "B", Auxiliares de Auditorias y demás personal que requiera para el cumplimiento del objeto del PROFIS,
 
 El Órgano de Fiscalización Superior, conducirá sus actividades en forma programada y conforme a las políticas que, para el logro de los objetivos institucionales, establezca el Auditor Superior.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+REGLAMENTO INTERNO DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2019 (ABROGADO).
+
+Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de mayo de 2013.
+
+El Órgano de Fiscalización Superior del Estado de Baja California Sur, con fundamento en los artículos 116 fracción II párrafo VI; 64 fracción XXX de la Constitución Política del Estado Libre y Soberano de Baja California Sur; 72 fracción VI de la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur; expide el:
+
+REGLAMENTO INTERNO DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ### Capítulo II. De las Atribuciones del Auditor Superior
 
@@ -546,3 +548,23 @@ Dado en la ciudad de La Paz, Baja California Sur, a 9 de mayo de 2013,
 Auditor Superior del Órgano de Fiscalización Superior del Estado de Baja California
 
 C.P. JULIO CESAR LOPEZ MARQUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+P.O. 10 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente reglamento deberá publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, Número 22, el día 20 de mayo de 2013.
+
+TERCERO. Se ratifica el contenido de los convenios, acuerdos, contratos, circulares, guías, manuales, lineamientos, bases, así como demás normatividad y disposiciones administrativas que a la entrada en vigor del presente Reglamento, hubieren suscrito o emitido las autoridades competentes de la Auditoría Superior del Estado de Baja California Sur, hasta en tanto se modifiquen, sustituyen o dejen sin efectos.
+
+CUARTO. Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite o substanciación ante las unidades administrativas de la Auditoría Superior del Estado de Baja California Sur o en los que éstas sean parte, continuarán substanciándose por la unidad administrativa a la que le sean conferidas las facultades que correspondan conforme a este Reglamento, hasta su total conclusión, conforme a las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas, se hagan del Reglamento Interior de la Auditoría Superior del Estado de Baja California Sur, se entenderán referidas al presente Reglamento.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Reglamento se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuido a las unidades administrativas a que se refiere el presente Reglamento a las que atribuya la competencia específica que en cada caso se relacione.
+
+SÉPTIMO. Se dejan sin efecto las disposiciones que se opongan al presente Reglamento.
