@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-12-31"
+last_updated: "2019-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -53,13 +53,17 @@ I. Reconocer a niñas, niños y adolescentes como titulares de derechos, de conf
 
 II. Garantizar el pleno ejercicio, respeto, protección, promoción y defensa de los derechos de niñas, niños y adolescentes, que habitan y transitan en el Estado de Aguascalientes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, tomando en cuenta los derechos y deberes de los padres o quienes ejerzan la patria potestad, tutela, guarda y custodia, así como a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte, así como conforme a lo previsto en la Constitución Política del Estado de Aguascalientes y las disposiciones de la Ley General de los Derechos de los (sic) Niñas, Niños y Adolescentes;
 
-III. Crear y regular la integración, organización y funcionamiento del Sistema Local de Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, a efecto de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2019)</small>
+
+III. Crear y regular la integración, organización y funcionamiento de los Sistemas Local y Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, a efecto de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
 IV. Establecer los principios rectores y criterios que orientarán la política pública en el Estado de Aguascalientes en materia de derechos de niñas, niños y adolescentes;
 
 V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendientes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como prevenir su vulneración; y
 
-VI. Establecer las bases generales para que todas las autoridades Estatales y Municipales en el ámbito de sus competencias coadyuven con los padres o quienes ejerzan la patria potestad o tutela de las niñas, niños y adolescentes en el cumplimiento integral de sus obligaciones.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2019)</small>
+
+VI. Establecer las bases generales para que todas las autoridades Estatales y Municipales en el ámbito de sus competencias coadyuven con el padre y la madre, o quienes ejerzan la patria potestad o tutela de las niñas, niños y adolescentes en el cumplimiento integral de sus obligaciones.
 
 ###### Artículo 2°.
 
@@ -255,7 +259,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-Las autoridades del Estado de Aguascalientes y de las de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, orientación o preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+
+Las autoridades a que se refiere el Artículo 1° de la presente Ley, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, aspectos relacionados con su sexo, género, orientación o preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
@@ -351,9 +357,11 @@ II. Se les atienda antes que a las personas adultas en todos los servicios, en i
 
 III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 18.
 
-En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, las autoridades administrativas del Estado y de sus Municipios y los órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior. Además de que dichas autoridades construirán los mecanismos necesarios para garantizar este principio.
+En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, las autoridades administrativas del Estado y de sus Municipios, los órganos legislativos, los organismos descentralizados y Constitucionalmente Autónomos, se tomará en cuenta, como consideración primordial, el interés superior. Además de que dichas autoridades construirán los mecanismos necesarios para garantizar este principio.
 
 ### CAPÍTULO IV. Del Derecho a la Identidad
 
@@ -371,7 +379,9 @@ IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenenci
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-La Procuraduría de Protección Local, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+
+La Procuraduría de Protección Local, orientará y coadyuvará con las autoridades que correspondan para que den debido cumplimiento al presente Artículo.
 
 Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -611,7 +621,9 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado de Aguascalientes y las de sus Municipios, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
-Las autoridades estatales y municipales, estarán obligadas, en el ámbito de sus respectivas competencias, a establecer políticas públicas, programas y acciones que ayuden a generar las condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada y con ello asegurar los derechos de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+
+Las autoridades estatales y municipales, estarán obligadas, en el ámbito de sus respectivas competencias, a establecer políticas públicas, programas y acciones integrales y transversales que ayuden a generar las condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada y con ello asegurar los derechos de niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
@@ -2204,3 +2216,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
