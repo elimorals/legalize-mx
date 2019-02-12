@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-01-30"
+last_updated: "2019-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -847,363 +845,129 @@ Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la
 
 ###### ARTÍCULO 62.
 
-Están obligadas al pago de los impuestos cedulares establecidos en esta Ley, las personas físicas que en territorio del Estado de Michoacán, obtengan ingresos en efectivo, en bienes, en crédito, en servicios o en cualquier otro tipo, por realizar las siguientes actividades:
-
-I. Por la prestación de servicios profesionales;
-
-II. Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado; y,
-
-III. Por la realización de actividades empresariales.
-
-También están obligadas al pago de este impuesto, las personas físicas no residentes en el Estado, que realicen actividades empresariales o presten servicios profesionales en el Estado, a través de un establecimiento permanente, por los ingresos atribuibles a éste.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 63.
 
-Cuando una persona física realice en un año de calendario erogaciones superiores a los ingresos que hubiere declarado, las autoridades fiscales procederán como sigue:
-
-I. Comprobarán el monto de las erogaciones y la discrepancia con la declaración del contribuyente y darán a conocer a éste el resultado de dicha comprobación;
-
-II. El contribuyente, en un plazo de quince días hábiles, informará por escrito a las autoridades fiscales las razones que tuviera para inconformarse o el origen de la discrepancia y ofrecerá las pruebas que estimare convenientes, las que acompañará a su escrito o rendirá a más tardar dentro de los veinte días hábiles siguientes. En ningún caso los plazos para presentar el escrito y las pruebas señaladas excederán, en su conjunto, de treinta y cinco días; y,
-
-III. Si no se formula inconformidad o no se prueba el origen de la discrepancia, será considerada como ingreso en la sección que corresponda y se formulará la liquidación correspondiente.
-
-Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago de adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras, ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 64.
 
-A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el Gobierno del Estado podrá convenir con la Federación, a través de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 43 de la Ley del Impuesto al Valor Agregado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 65.
 
-Para los efectos del presente Capítulo, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal, no contravenga a esta Ley.
-
-Los contribuyentes que integran un coordinado conforme a lo dispuesto en el Título II, Capítulo VII de la Ley del Impuesto Sobre la Renta, podrán, a través del mismo, calcular y enterar el Impuesto Cedular, así como cumplir con las obligaciones fiscales por cada uno de sus integrantes de acuerdo a lo dispuesto en la presente Ley.
-
-Para los efectos de esta Ley, el coordinado se considerará como responsable del cumplimiento de las obligaciones fiscales a cargo de sus integrantes, respecto de las operaciones realizadas a través del coordinado, siendo los integrantes responsables solidarios respecto de dicho cumplimiento por la parte que les corresponda.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 66.
 
-Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que en el territorio del Estado de Michoacán perciban ingresos derivados de la prestación de servicios profesionales.
-
-Cuando un contribuyente tenga bases fijas en dos o más Entidades Federativas, para determinar el impuesto que corresponde al Estado, se deberá considerar la utilidad gravable obtenida por todas las bases fijas que tenga, y el resultado se dividirá entre éstas en la proporción que representen los ingresos obtenidos por cada base fija, respecto de la totalidad de los ingresos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 67.
 
-Para los efectos de esta Sección se consideran ingresos por servicios profesionales los provenientes de la prestación de un servicio profesional. Se entiende que los ingresos por la prestación de un servicio personal independiente, los obtiene en su totalidad quien presta el servicio.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 68.
 
-En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I, y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 69.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el impuesto declarado.
-
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa del 2.5%.
-
-Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aún cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
-
-Contra el pago provisional determinado conforme a este artículo, se acreditan los pagos provisionales y el impuesto retenido del mismo ejercicio efectuados con anterioridad.
-
-Cuando los contribuyentes presten servicios profesionales a personas morales, éstas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa del 2.5%, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de este impuesto.
-
-Cuando los contribuyentes presten servicios profesionales a personas morales, y aquellos tengan domicilio fiscal dentro del territorio del Estado, la retención por parte de las personas morales a que hace referencia el presente artículo, se hará por el cincuenta por ciento del monto que resulte de aplicar la tasa del 2.5%, sin deducción alguna.
-
-Las personas que efectúen las retenciones a que se refiere el presente artículo deberán presentar declaración del ejercicio a más tardar el día 28 de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
-
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa del 2.5%. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 70.
 
-Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa del 2.5 %, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán dentro de los 15 días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
-
-Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
-
-Ahora bien, en el caso de que los contribuyentes a que se refiere este artículo dispongan de un local como establecimiento permanente para prestar servicios profesionales, los ingresos por dichos servicios no se considerarán obtenidos esporádicamente, de tal manera que les será aplicable lo establecido en esta Sección.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 71.
 
-Los contribuyentes, personas físicas sujetos al pago del impuesto establecido en esta Sección, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
-
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
-
-II. Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal del Estado de Michoacán de Ocampo;
-
-III. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código Fiscal del Estado de Michoacán.
-
-Cuando la contraprestación que ampare el comprobante se cobre en una sola exhibición, en él se deberá indicar el importe total de la operación. Si la contraprestación se cobró en parcialidades, en el comprobante se deberá indicar además el importe de la parcialidad que se cubre en ese momento;
-
-IV. Presentar declaraciones provisionales y anual; y,
-
-V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal del Estado Michoacán.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 72.
 
-Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles que se encuentren ubicados en el territorio del Estado de Michoacán, con independencia de que el contribuyente tenga su domicilio fiscal fuera del mismo.
-
-Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
-
-Para los efectos de esta Sección, los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en el que sean cobrados.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 73.
 
-En lo relativo a los ingresos y deducciones de este impuesto cedular, se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 74.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
-
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa del 2.5%, acreditándose el impuesto retenido durante el periodo.
-
-Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aún cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
-
-Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
-
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del Estado de Michoacán, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al cincuenta por ciento del monto que resulte de aplicar la tasa establecida para dicho tributo en la Ley de Ingresos para el Estado de Michoacán, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de éste impuesto.
-
-Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración a más tardar el día 28 de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
-
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Michoacán. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 75.
 
-Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
-
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
-
-II. Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal del Estado de Michoacán;
-
-III. Expedir comprobantes por las contraprestaciones recibidas, mismos que deberán reunir los requisitos establecidos en el Código Fiscal del Estado de Michoacán;
-
-IV. Presentar declaraciones provisionales y anual; y,
-
-V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal del Estado de Michoacán.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 76.
 
-Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que obtengan ingresos derivados de la realización de actividades empresariales.
-
-Cuando una persona física tenga establecimientos, sucursales o agencias, en dos o más Entidades Federativas, únicamente deberá pagar en este Estado el impuesto que corresponda. Para determinar el impuesto a que se refiere esta Sección, se deberá considerar la suma de la utilidad gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre éstos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
-
-Las personas físicas no residentes en el Estado que tengan uno o varios establecimientos permanentes en el mismo, pagarán el impuesto cedular en los términos de esta Sección por los ingresos atribuibles a los mismos, derivados de las actividades empresariales.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 77.
 
-En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 78.
 
-Los contribuyentes a que se refiere el artículo 76 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general.
-
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. Al resultado que se obtenga se le aplicará la tasa del 2.5%.
-
-Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
-
-Los pagos mensuales efectuados conforme a este artículo, también serán acreditables contra el impuesto del ejercicio.
-
-Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aún cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
-
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa del 2.5%. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, mediante las formas y medios que para tal efecto autorice y dé a conocer la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 79.
 
-Los contribuyentes que realicen exclusivamente actividades empresariales, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2’000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 80.
 
-Los contribuyentes a que se refiere el artículo anterior, calcularán y enterarán el impuesto en forma bimestral, el cual tendrá el carácter de pago definitivo, a más tardar el día 22 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente. Para estos efectos la utilidad fiscal del bimestre de que se trate se determinará restando de la totalidad de los ingresos a que se refiere el artículo 79, obtenidos en dicho bimestre en efectivo, en bienes o en servicios, las deducciones autorizadas a que se refiere el artículo 77 de esta Ley, que sean estrictamente indispensables para la obtención de los ingresos a que se refiere esta sección, así como las erogaciones efectivamente realizadas en el mismo periodo para la adquisición de activos, gastos y cargos diferidos y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Para determinar el impuesto, los contribuyentes a que se refiere el artículo anterior considerarán los ingresos cuando se cobren efectivamente y deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos.
-
-A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa 2.5%.
-
-El impuesto que se determine se podrá disminuir conforme a los porcentajes y de acuerdo al número de años que tengan tributando en el régimen previsto en el artículo 79, conforme a la tabla siguiente:
-
-> <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 19.]</small>
-
-Los contribuyentes que tributen en el Régimen de Incorporación Fiscal, sólo podrán permanecer en este régimen, durante un máximo de diez ejercicios fiscales consecutivos. Una vez concluido dicho periodo, deberán tributar conforme al régimen de personas físicas con actividades empresariales a que se refiere el artículo 76 de la presente Ley.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 81.
 
-Los contribuyentes a que se refieren los artículos 76 y 79 de esta Ley, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
-
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
-
-II. Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal del Estado de Michoacán; y,
-
-III. Tratándose de los contribuyentes a que se refiere el artículo 76 de esta Ley, deberán presentar declaraciones provisionales y anuales.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ### CAPÍTULO II. DERECHOS POR SERVICIOS DE PROTECCIÓN AMBIENTAL Y DESARROLLO TERRITORIAL
 
 ###### ARTÍCULO 82.
 
-Son objeto de este impuesto la celebración, realización o ejecución en el Estado de los actos o contratos descritos en el presente Artículo, que consten en instrumentos públicos o privados, ya sea que representen o no interés pecuniario para los contratantes.
-
-Se causará el impuesto por los siguientes actos:
-
-I. La realización de los siguientes negocios jurídicos:
-
-a) Fusión de sociedades civiles y mercantiles;
-
-b) Aumentos de capital de sociedades civiles y mercantiles;
-
-c) Disolución y liquidación de sociedades;
-
-d) Cualquier otra modificación a escrituras constitutivas de sociedades;
-
-e) Contratos de mutuo entre particulares con o sin garantía, así como la constitución de garantías, para el cumplimiento de cualquier otra obligación;
-
-f) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso e) anterior;
-
-g) Otorgamiento, sustitución, renuncia o revocación de poderes;
-
-h) Rectificaciones o ratificaciones de cualquier acto o contrato;
-
-i) Celebración de instrumentos privados; y,
-
-j) Celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado.
-
-II. Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto previsto en la presente Ley, así como las actas notariales que contengan certificación de hechos;
-
-Cuando en un instrumento jurídico se consignen dos o más negocios de los previstos en los incisos anteriores, se cubrirá el impuesto que corresponda a cada uno de ellos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 83.
 
-Son sujetos de este impuesto las personas que celebren o realicen los contratos o actos jurídicos descritos en el artículo anterior.
-
-Todos los otorgantes que participen en los actos descritos en el artículo anterior serán responsables del pago del impuesto en proporción a su participación en el acto si este es cuantificable, sino lo es serán obligados en partes iguales, quedando todos ellos obligados al pago del mismo de forma solidaria.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 84.
 
-Será base para el pago de este impuesto el monto establecido por las partes en los contratos y actos jurídicos objeto del presente impuesto, en que se estipulen obligaciones pecuniarias o determinables en dinero. En caso de obligaciones alternativas, el monto de la más elevada.
-
-Si las obligaciones pecuniarias se estipulan a base de obligaciones periódicas, su monto se calculará por la suma de todas ellas.
-
-En el caso de que no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales, el impuesto se determinará a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto jurídico que obre en el instrumento respectivo.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 85.
 
-El impuesto se causará de conformidad con las siguientes cuotas o tarifas:
-
-I. Por la fusión de sociedades civiles y mercantiles la base del impuesto será la diferencia entre el capital social de la fusionante antes y después de la fusión y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-II. Por los aumentos de capital de sociedades civiles y mercantiles la base será el importe del capital aumentado y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-III. Por la disolución y liquidación de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-IV. Por cualquier otra modificación a escrituras constitutivas de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-V. Por los contratos de mutuo entre particulares con o sin garantía, así como la constitución de garantías, para el cumplimiento de cualquier otra obligación, la base del impuesto será el importe del contrato y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-VI. Por la cesión de los derechos derivados de los actos y contratos previsto en la fracción inmediata anterior la base del impuesto será el monto de los actos jurídicos y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-VII. Por el otorgamiento, sustitución, renuncia o revocación de poderes, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-VIII. Por las rectificaciones o ratificaciones de cualquier acto o contrato, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-IX. Por la celebración de instrumentos privados, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-X. Por la celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado, la base será el monto del contrato y sobre dicho monto se causará el impuesto, a razón de 6 al millar;
-
-XI. Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto; y,
-
-XII. Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 86.
 
-El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato.
-
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 87.
 
-En los actos que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan fe pública en el Estado, calcularán y procederán a retener el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro del plazo a que se refiere el párrafo anterior.
-
-Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, asentarán al margen de la matriz y en los testimonios de los documentos privados, la constancia de pago o la leyenda de que éste no se causa.
-
-Los notarios, corredores públicos o quienes hagan sus veces, los registradores y las autoridades competentes en el Estado, no expedirán testimonios, no registrarán, ni darán trámite a los actos, contratos o documentos públicos o privados que se celebren o presenten ante estos, sino hasta que se haya presentado la declaración correspondiente y efectuado el pago a que refiere el primer párrafo de este artículo.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 88.
 
-Lo dispuesto en el tercer párrafo del artículo anterior, no será aplicable cuando el contribuyente realice directamente el pago ante la Secretaría de Finanzas y Administración, siempre que se cuente con el documento oficial emitido por los fedatarios públicos, en el que se haga constar el impuesto a cargo del contribuyente causado con motivo de la celebración del acto, contrato o documento público o privado, por el que se deba expedir testimonio, registrarse o darse trámite diverso.
-
-Si durante los trabajos de la celebración del acto o contrato surgieran diferencias en el impuesto causado, no se expedirá el testimonio, no se registrará, ni se dará el trámite correspondiente, hasta en tanto se efectúe el pago por la diferencia restante directamente por el contribuyente a la Secretaría de Finanzas y Administración del Estado, siempre que se cuente con el documento oficial emitido por el notario, corredor o fedatario público o quienes hagan sus veces.
-
-Asimismo, el notario, corredor, fedatario público o quienes hagan sus veces, podrá efectuar el pago restante mediante declaración que se presente en términos de lo dispuesto por el Artículo 86 de esta Ley, en la que conste el primer pago efectuado por el contribuyente y la diferencia que habrá de cubrirse para efecto de continuar con el trámite, registro o testimonio correspondiente, respecto a la celebración del acto, contrato o documento público o privado.
-
-Cuando el notario, corredor, fedatario público o quienes hagan sus veces, conozca que el pago del impuesto resultó en exceso, expedirá documento oficial en que conste tal situación, para efecto de que el contribuyente realice el trámite de devolución correspondiente de conformidad con el Código Fiscal del Estado de Michoacán.
-
-No procederá la devolución del impuesto si al trámite de devolución que presente el contribuyente no se acompaña el documento oficial expedido por el notario, corredor, fedatario público o quienes hagan sus veces, así como el documento público o privado, en que se haya hecho constar el acto, contrato o testimonio.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 89.
 
-De conformidad con el artículo anterior, los notarios, corredores, fedatarios públicos o quienes hagan sus veces, tendrán las obligaciones siguientes:
-
-I. Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal efecto apruebe la Secretaría de Finanzas y Administración, en el que se haga constar el impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse testimonio, registrarse o darse trámite diverso, cuando se opte por aplicar lo dispuesto en el primer párrafo del Artículo 88 de la presente Ley;
-
-II. Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal efecto apruebe la Secretaría de Finanzas y Administración, en el que se haga constar la cantidad restante del impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse el testimonio, registrarse o darse trámite diverso, cuando se actualice el supuesto previsto por el párrafo segundo del artículo 88 de esta Ley;
-
-III. Expedir el documento oficial en el que conste sello y firma del notario, corredor, fedatario público o quienes hagan sus veces, que para tal afecto apruebe la Secretaría de Finanzas y Administración, en el que se haga constar la cantidad a devolver del impuesto causado a cargo del contribuyente, con motivo de la celebración del acto, contrato o documento público o privado, por el que deba expedirse testimonio, registrarse o darse trámite diverso, cuando se actualice el supuesto previsto por el tercer párrafo del artículo 88 de la presente Ley, aún cuando no sea solicitado por parte del contribuyente;
-
-IV. Efectuar el pago dentro del plazo previsto por el Artículo 86 de esta Ley, cuando se opte por aplicar lo dispuesto por el primer párrafo del Artículo 87 del propio ordenamiento; y;
-
-V. Presentar las declaraciones en tiempo y forma en las oficinas autorizadas, dentro del plazo previsto en el Artículo 86 de la presente Ley, cuando se esté obligado a ello.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 90.
 
-Se sancionará a los notarios, corredores, fedatarios públicos o quienes hagan sus veces, que incumplan con las obligaciones previstas por el artículo 89, conforme a lo siguiente:
-
-I. Con 10 a 100 unidades de medida y actualización diaria, por no sellar o firmar los documentos oficiales que refrieren (sic) las fracciones I, II y III del Artículo 89 de la presente Ley, cuando se opte por la opción de pago a cargo del contribuyente;
-
-II. Con 10 a 150 unidades de medida y actualización diaria, por no expedir documento oficial cuando se esté obligado a ello, según lo dispuesto por las fracciones I, II y III del Artículo 89;
-
-III. Con 10 a 200 unidades de medida y actualización diaria, por no efectuar el pago dentro del plazo previsto en el presente capítulo, cuando no se siga el procedimiento a que refiere el Artículo 88; o,
-
-IV. Con 10 a 200 unidades de medida y actualización diaria, por no presentar la declaración en tiempo y forma ante las oficinas autorizadas, dentro del plazo a que refiere el presente Capítulo.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 91.
 
-Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas y Administración de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo, así como atender las solicitudes de información que le realice la Secretaría de Finanzas y Administración respecto de operaciones celebradas y gravadas por este impuesto.
-
-Si los actos jurídicos se hacen constar en documentos privados, el cálculo y entero del impuesto deberá efectuarlo cualquiera de los otorgantes, siendo todos ellos responsables del pago del impuesto de forma mancomunada y solidaria.
-
-En los casos en que se protocolicen actos de aumentos de capital de sociedades civiles y mercantiles, a que se refiere el inciso b), de la fracción I, del artículo 82 de esta Ley, que se hubieren realizado antes del ejercicio fiscal del año 2019, los fedatarios públicos estarán obligados a cerciorarse con medios idóneos de prueba que el acto de que se trate se realizó antes de ese ejercicio, cuando menos con los registros contables del aumento de capital y la declaración anual del Impuesto Sobre la Renta del ejercicio en que se acordó el aumento, presentada ante el Servicio de Administración Tributaria, donde se vea reflejado el registro de dicho aumento de capital, o estados de cuenta bancarios que acrediten el depósito correspondiente al aumento de capital, a hacer constar tal hecho en una cláusula en la escritura correspondiente y conservar en el Apéndice del Protocolo copia de las pruebas aportadas por la sociedad civil o mercantil de que se trate. De no cumplir con esta obligación, se presumirá que el hecho generador del impuesto se dio a partir de la entrada en vigor del presente Capítulo, y la autoridad podrá determinar la responsabilidad solidaria en el pago de este impuesto hasta por el importe de éste.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 92.
 
-Están exentos del pago de este impuesto:
-
-I. Los contratos, actos jurídicos e instrumentos celebrados ante fedatario público en que intervengan como partes contratantes el Gobierno del Estado y los municipios;
-
-II. Los actos jurídicos o contratos en los que intervengan como partes contratantes los organismos públicos de seguridad social, órganos autónomos y partidos políticos;
-
-III. Los contratos o convenios celebrados con instituciones de crédito y sociedades de seguros;
-
-IV. Los contratos de financiamiento relativos a la adquisición de viviendas de interés social, popular o unifamiliar;
-
-V. Los contratos de arrendamiento de casa habitación;
-
-VI. La manifestación de voluntad que realicen las personas para donar sus órganos o tejidos para fines terapéuticos o de investigación;
-
-VII. Los actos del estado civil de las personas;
-
-VIII. Los actos que consignen fianzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos;
-
-IX. Los actos relativos a la asistencia pública y de la beneficencia privada;
-
-X. Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas;
-
-XI. Los actos mediante los cuales se reduzca el capital social o se disuelvan sociedades conyugales;
-
-XII. Los actos en que se consignen disposiciones testamentarias, así como las adjudicaciones provenientes de disposiciones testamentarias o intestamentarias, así como aquellos actos en donde se constituya o se cancele el régimen de patrimonio familiar;
-
-XIII. Los actos que contengan operaciones gravadas con algún otro impuesto establecido por esta;
-
-XIV. Los contratos individuales o colectivos de trabajo;
-
-XV. Adjudicación de bienes a víctimas por reparación del daño en términos de las disposiciones penales aplicables; y,
-
-XVI. La Constitución de Sociedades Civiles y Mercantiles.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -3436,3 +3200,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de diciembre del año 2018 dos mil dieciocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 122.- ARTÍCULO PRIMERO.- SE DEROGAN LOS ARTÍCULOS 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91 Y 92, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE DEROGAN LOS ARTÍCULOS 15, 16, 17 Y 18 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019.- ARTÍCULO TERCERO.- QUEDAN SIN EFECTOS LAS REFERENCIAS RESPECTO A LOS IMPUESTOS QUE SE REFIERE EN EL ARTÍCULO PRIMERO DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con efectos retroactivos al 01 de enero de 2019 para todos los efectos legales a que haya lugar.
