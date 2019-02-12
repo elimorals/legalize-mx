@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2018-07-31"
+last_updated: "2019-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2077,49 +2077,49 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 1. El Ejecutivo del Estado podrá formular observaciones sobre las leyes o decretos aprobados por el Congreso, dentro de los primeros 30 días naturales siguientes a su recepción.
 
-2. Las observaciones podrán formularse en forma general sobre la ley o decreto aprobado, o en particular sobre algunas de sus disposiciones. En todo caso deberán formularse por escrito y con el señalamiento de las razones que motivan su formulación.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+
+2. Las observaciones podrán formularse en todo o en parte sobre la ley o decreto aprobado. En cualquier caso deberán formularse por escrito y con el señalamiento de las razones que motivan su formulación.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 121.
 
-1. Al presentarse observaciones del Ejecutivo con respecto a la aprobación de una ley o decreto, las mismas se turnarán al estudio y dictamen de la comisión o comisiones que formularon el dictamen sustento de las disposiciones aprobadas.
+1. Al presentarse observaciones del Ejecutivo con respecto a la aprobación de una ley o decreto, las mismas se turnarán al estudio y dictamen de la comisión o comisiones que formularon el dictamen sustento de las disposiciones aprobadas, o a los integrantes de la Diputación Permanente que lo hubiere formulado en su caso, quienes se reunirán excepcionalmente para este efecto fungiendo como comisión dictaminadora.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+2. Dicha comisión o comisiones deberán elaborar el dictamen correspondiente para estar en condiciones de que el Pleno resuelva lo conducente dentro del plazo establecido en el párrafo tercero del artículo 68 de la Constitución Política del Estado de Tamaulipas.
 
-2. Dicha comisión o comisiones contarán con un plazo de 30 días naturales para producir un nuevo dictamen. Este plazo podrá ampliarse a solicitud de la o las comisiones correspondientes y mediante acuerdo del presidente de la Mesa Directiva, procurándose que no exceda de otros 15 días naturales.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
-
-3. Los plazos establecidos en el párrafo que antecede no se interrumpirán si el Congreso cierra o suspende sesiones, en cuyo caso la Diputación Permanente continuará con el proceso de dictaminación correspondiente.
+3. En los periodos de receso, la Diputación Permanente se concretará a recibir las observaciones hechas por el Ejecutivo a una ley o decreto, para presentarlas en la primera sesión ordinaria del nuevo periodo de sesiones.
 
 ###### ARTICULO 122.
 
-1. Una vez formulado el proyecto de dictamen y con una anticipación de por lo menos 72 horas, el presidente de la Mesa Directiva programará su inclusión en el orden del día de la sesión más próxima, comunicándose la fecha de la misma al Ejecutivo del Estado, con objeto de que determine si hará el nombramiento de un representante para que asista con voz a la discusión de dicho dictamen.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+1. Una vez formulado el proyecto de dictamen y con una anticipación de por lo menos 48 horas, el presidente de la Mesa Directiva programará su inclusión en el orden del día de la sesión más próxima, comunicándose la fecha de la misma al Ejecutivo del Estado, con objeto de que determine si hará el nombramiento de un representante para que asista con voz a la discusión de dicho dictamen.
 
-2. Si el dictamen fuere emitido por la Diputación Permanente durante el periodo de receso, el mismo se reservará para ser resuelto en definitiva por el Pleno Legislativo en su oportunidad.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+2. El dictamen podrá adoptar en sus términos las observaciones formuladas por el Ejecutivo del Estado, considerándolas procedentes, o sostener el contenido original objeto de observaciones en todo o en parte de la ley o decreto.
 
-3. El dictamen podrá atender en sus términos las observaciones formuladas por el Ejecutivo del Estado, rechazarlas plenamente y sostener la ley o decreto aprobados originalmente, o considerarlas procedentes en forma parcial con algunas modificaciones en su caso
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+3. El dictamen emitido en el sentido de adoptar en sus términos las observaciones formuladas por el Ejecutivo del Estado, requerirá de la mayoría de votos de los diputados presentes para su aprobación definitiva. Si el dictamen sostiene el contenido original objeto de observaciones en todo o en parte de la ley o decreto, se requerirá la mayoría calificada de dos terceras partes de los presentes para su resolución final.
 
-4. El dictamen requerirá para su aprobación el voto de las dos terceras partes de los diputados presentes, y la ley o decreto que se expida se remitirá al Ejecutivo para su promulgación y publicación inmediata.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+4. Si la votación entraña el rechazo al dictamen formulado, el proyecto resolutivo se expedirá en sentido inverso al que fue presentado ante el Pleno Legislativo.
 
-5. Si la votación entraña el rechazo al dictamen formulado, éste se devolverá a la comisión o comisiones que lo elaboraron, o a la Diputación Permanente en caso de encontrarse en receso el Congreso, para que se realicen las modificaciones procedentes, para lo cual se requerirá la autorización de la mayoría absoluta del Pleno en votación económica.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+5. En todo caso, la ley o decreto que apruebe el Pleno Legislativo respecto al dictamen recaído a las observaciones del Ejecutivo del Estado, se remitirán a éste para su promulgación y publicación inmediata.
 
-6. La Comisión a la que el Pleno devuelva el dictamen para la elaboración de uno nuevo, dispondrá de 15 días naturales para presentarlo nuevamente a fin de resolverlo en definitiva. En la aprobación del dictamen se aplicarán en lo conducente las normas del procedimiento legislativo ordinario.
+6. (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 123.
 
-Cuando se formulen observaciones particulares a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se dictaminan en los términos establecidos, a instancia del Presidente de la Mesa Directiva o de la Diputación Permanente podrá el Congreso plantear al Ejecutivo del Estado la promulgación y publicación de las normas de la ley o decreto de que se trate sobre las que no hubieren formulado observaciones, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
+Cuando se formulen observaciones en parte a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se encuentran dentro del plazo previsto para la nueva discusión, el Presidente de la Mesa Directiva o de la Diputación Permanente podrá plantear al Ejecutivo del Estado su promulgación, publicación y circulación en todo aquello que no fuese observado, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
 
 #### SECCION SEPTIMA. DEL PROCEDIMIENTO DE NOMBRAMIENTOS
 
@@ -3234,3 +3234,11 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3, párrafo 3 de la citada Ley.
+
+P.O. 12 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-780 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 120, PÁRRAFO 2; 121; 122, PÁRRAFOS 1, 2, 3, 4 Y 5; Y 123; Y SE DEROGA EL PÁRRAFO 6 DEL ARTÍCULO 122 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al momento de su expedición, y se publicará en el Periódico Oficial del Estado.
