@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13259
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2019-01-30"
+last_updated: "2019-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO LEGISLATIVO NÚMERO 122, PUBLICADO EN LA SEXTA SECCIÓN DEL P.O. DE 12 DE FEBRERO DE 2019 "QUEDAN SIN EFECTOS LAS REFERENCIAS RESPECTO A LOS IMPUESTOS QUE SE REFIERE EN EL ARTÍCULO PRIMERO DEL PRESENTE DECRETO, EN LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019".
+
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
 
 Ley publicada en la Décima Cuarta Sección del Periódico Oficial del Estado, el lunes 31 de diciembre de 2018.
 
@@ -183,59 +185,45 @@ Asimismo por los excedentes en contaminantes en miligramos en litro que se prese
 
 El impuesto al Depósito o Almacenamiento de Residuos, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección V de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando una cuota de $100.00 por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2019)</small>
+
 ### CAPÍTULO V. DE LOS IMPUESTOS CEDULARES
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 #### SECCIÓN I. IMPUESTO CEDULAR POR LA PRESTACIÓN DE SERVICIOS PROFESIONALES
 
 ###### Artículo 15.
 
-Impuesto Cedular por la Prestación de Servicios Profesionales, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VI, Sección II de la Ley de Hacienda del Estado de Michoacán de Ocampo aplicando la tasa del 2.5% sobre la base que en el mencionado Título y Capítulo se prevé.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 #### SECCIÓN II. IMPUESTO CEDULAR POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
 ###### Artículo 16.
 
-Impuesto Cedular por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VI, Sección III de la Ley de Hacienda del Estado de Michoacán de Ocampo aplicando la tasa del 2.5% sobre la base que en el mencionado Titulo y Capitulo se prevé.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 #### SECCIÓN III. IMPUESTO CEDULAR POR ACTIVIDADES EMPRESARIALES
 
 ###### Artículo 17.
 
-Impuesto Cedular por Actividades Empresariales, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VI, Sección IV de la Ley de Hacienda del Estado de Michoacán de Ocampo aplicando la tasa del 2.5% sobre la base que en el mencionado Titulo y Capitulo se prevé.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
+
+> <small>(DEROGADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ### CAPITULO VI
 
-#### SECCIÓN ÚNICA. IMPUESTO SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE FEBRERO DE 2019)</small>
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+#### SECCIÓN ÚNICA. IMPUESTO SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES
 
 ###### Artículo 18.
 
-El impuesto sobre negocios jurídicos e instrumentos notariales, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VII de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando las cuotas siguientes:
-
-I. Por la fusión de sociedades civiles y mercantiles la base del impuesto será la diferencia entre el capital social de la fusionante antes y después de la fusión y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-II. Por los aumentos de capital de sociedades civiles y mercantiles la base será el importe del capital aumentado y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-III. Por la disolución y liquidación de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-IV. Por cualquier otra modificación a escrituras constitutivas de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-V. Por los contratos de mutuo entre particulares con o sin garantía, así como la constitución de garantías, para el cumplimiento de cualquier otra obligación, la base del impuesto será el importe del contrato y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-VI. Por la cesión de los derechos derivados de los actos y contratos previsto en la fracción inmediata anterior la base del impuesto será el monto de los actos jurídicos y sobre dicho monto se causará el impuesto a razón de 6 al millar;
-
-VII. Por el otorgamiento, sustitución, renuncia o revocación de poderes, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-VIII. Por las rectificaciones o ratificaciones de cualquier acto o contrato, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-IX. Por la celebración de instrumentos privados, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-X. Por la celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado, la base será el monto del contrato y sobre dicho monto se causará el impuesto, a razón de 6 al millar;
-
-XI. Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
-
-XII. Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
 ### CAPÍTULO VII. ACCESORIOS DE IMPUESTOS
 
@@ -3482,3 +3470,11 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de diciembre del año 2018 dos mil dieciocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 122 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 15, 16, 17 Y 18 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019, ASÍ COMO SUS RESPECTIVOS CAPÍTULOS Y SECCIONES EN MATERIA DE IMPUESTOS CEDULARES Y, SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con efectos retroactivos al 01 de enero de 2019 para todos los efectos legales a que haya lugar.
