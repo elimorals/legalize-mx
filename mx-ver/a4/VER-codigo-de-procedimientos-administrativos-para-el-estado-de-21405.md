@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2019-02-04"
+last_updated: "2019-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 4 DE FEBRERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -3651,9 +3649,17 @@ La Sala Unitaria resolverá si el demandado ha cumplido con los términos de la 
 
 En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá, a instancia de la Sala Unitaria, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos. Si agotados los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista al Congreso del Estado, para los efectos a que haya lugar.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
 
-Cuando el actor fallezca o se haya declarado ausente durante el período de ejecución de sentencia, y en la sentencia se haya condenado al pago de prestaciones pecuniarias, los interesados deberán acreditar su derecho a recibir las cantidades para sí, en los plazos, procedimientos y leyes respectivas que establezca la legislación civil y así hacerse acreedores de tales prestaciones.
+Cuando durante la ejecución de sentencia se presente la finalización del periodo constitucional de una autoridad y el inicio de una nueva administración, el Tribunal, de oficio, reiterará los requerimientos y medidas de apremio previstos en el artículo 331 y en el párrafo anterior, con la finalidad de salvaguardar los derechos de los justiciables.
+
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+
+Ninguna destitución podrá recaer en autoridad alguna sin que se agoten los requisitos previstos en el párrafo anterior.
+
+> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2019)</small>
+
+Cuando el actor fallezca o se haya declarado ausente durante el periodo de ejecución de sentencia, y en la sentencia se haya condenado al pago de prestaciones pecuniarias, los interesados deberán acreditar su derecho a recibir las cantidades para sí, en los plazos, procedimientos y leyes respectivas que establezca la legislación civil y así hacerse acreedores de tales prestaciones.
 
 Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas.
 
@@ -4018,5 +4024,13 @@ G.O. 15 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 798 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233 QUE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 332 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
