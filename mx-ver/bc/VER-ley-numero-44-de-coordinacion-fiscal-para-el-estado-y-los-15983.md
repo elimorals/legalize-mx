@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2018-12-28"
+last_updated: "2019-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -124,6 +124,16 @@ La Secretaría dentro de los cinco días siguientes a aquel en que el Estado rec
 El retraso en las ministraciones dará lugar al pago de intereses en los términos del artículo 6 de la Ley de Coordinación Fiscal.
 
 En caso de incumplimiento en el pago de participaciones, el Municipio podrá solicitar a la Federación le entregue de manera directa dichas participaciones, en términos del artículo 6 de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+
+###### Artículo 8 Bis.
+
+El Gobierno del Estado, por conducto de la Secretaría, deberá publicar anualmente en la Gaceta Oficial, Órgano de Gobierno del Estado, el "Acuerdo por el que se da a conocer el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada municipio del Estado de Veracruz de Ignacio de la Llave" mismo que señalará de manera clara y didáctica, la información completa y detallada de las participaciones que el Estado tenga obligación de participar a sus municipios, las variables, fuentes de información, valores y métodos de cálculo utilizados para distribuir las participaciones.
+
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+
+Artículo 8 B (SIC) Ter. El Gobierno del Estado, por conducto de la Secretaría pondrá a disposición de los municipios que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como el monto de los mismos.
 
 ###### Artículo 9.
 
@@ -740,6 +750,14 @@ a) Los ingresos que se generen por la colindancia de los municipios de la entida
 b) Los derechos adicionales sobre la extracción de petróleo excluyendo el derecho extraordinario sobre el mismo, respecto de los municipios colindantes con los litorales por donde se realice materialmente la salida del país de dichos productos, y
 
 c) Los ingresos que deriven de convenios de colaboración celebrados con la Federación.
+
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+
+###### Artículo 17 Bis.
+
+El Gobierno del Estado, a través de la Secretaría participará el 100% de la recaudación del impuesto sobre la renta, correspondiente a los municipios y a sus organismos municipales que lo hayan enterado a la Secretaría de Hacienda y Crédito Público, por salarios pagados con recursos propios o participaciones federales, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
+
+La participación correspondiente a los municipios se realizará de conformidad con la información de montos que proporcione la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, por lo que en caso de ajuste derivados de diferencias en el entero de dicho impuesto respecto de algún municipio o municipios, la Secretaría realizará los descuentos con cargo a la ministración correspondientes (sic) o a las ministraciones subsecuentes, informando a dichos municipios de la instrucción recibida por la Unidad de Coordinación señalada.
 
 ###### Artículo 18.
 
@@ -1624,3 +1642,11 @@ G.O. 28 DE DICIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año 2019, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
