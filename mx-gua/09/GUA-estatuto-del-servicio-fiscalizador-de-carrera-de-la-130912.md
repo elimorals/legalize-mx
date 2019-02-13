@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2018-10-04"
+last_updated: "2019-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2019.
 
 Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
 
@@ -107,7 +107,9 @@ II. Expedir los nombramientos de los titulares de las Auditorías Especiales y D
 
 III. Autorizar la designación del personal temporal y de libre designación;
 
-IV. Aprobar el programa anual de cursos generales que se impartirán a los Servidores Públicos;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
+
+IV. Aprobar el programa anual de capacitación, en el que se deberán incluir los cursos generales que se impartirán a los Servidores Públicos;
 
 V. Aprobar el Estatuto y sus reformas; y
 
@@ -133,9 +135,17 @@ V. Interpretar las disposiciones de este Estatuto y su normativa complementaria;
 
 VI. Presentar los informes que solicite el Auditor Superior con la periodicidad que éste indique;
 
-VII. Controlar y evaluar la correcta instrumentación y operación del Servicio; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
 
-VII (SIC). Las demás que se desprendan de este Estatuto y otras disposiciones aplicables.
+VII. Controlar y evaluar la correcta instrumentación y operación del Servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2019)</small>
+
+VIII. Suscribir los contratos del personal temporal, una vez autorizada su designación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE FEBRERO DE 2019)</small>
+
+IX. Las demás que se desprendan de este Estatuto y otras disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -233,13 +243,17 @@ III. La Dirección General de Administración.
 
 Cuando la plaza vacante se encuentre adscrita a la Dirección General de Administración participará en el Comité de Selección el Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 23.
 
-La Dirección General de Administración en todo proceso de selección, ya sea para ocupar un puesto de nueva creación o una vacante, garantizará en la convocatoria respectiva el derecho a participar en el proceso a quienes ya cuentan con la calidad de Servidores Públicos.
+La Dirección General de Administración en todo proceso de selección mediante concurso de oposición, ya sea para ocupar un puesto de nueva creación o una vacante, garantizará en la convocatoria respectiva el derecho a participar en el proceso a quienes ya cuentan con la calidad de Servidores Públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 24.
 
-En todo proceso para ocupar vacantes o puestos de nueva creación, deberá formularse convocatoria que contendrá por Lo menos:
+En todo proceso mediante concurso de oposición para ocupar vacantes o puestos de nueva creación, deberá formularse convocatoria que contendrá por lo menos:
 
 I. Puestos de nueva creación o vacantes a concursar;
 
@@ -289,11 +303,15 @@ De persistir el empate, se optará por quien tenga un mayor nivel académico en 
 
 Para efectos de desempate el personal contratado mediante honorarios asimilables a salarios se considerará interno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 27.
 
-Procederá la selección de personal temporal para ocupar una plaza vacante, cuando:
+Procederá la selección de personal temporal para ocupar una plaza vacante o de nueva creación, cuando:
 
-I. Un proceso de selección se declare desierto por dos ocasiones; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
+
+I. Un proceso de selección se declare desierto por dos ocasiones; o
 
 II. La Unidad Administrativa en la que se haya generado la vacante justifique la urgencia de la contratación a criterio de la Dirección General de Administración.
 
@@ -301,9 +319,13 @@ II. La Unidad Administrativa en la que se haya generado la vacante justifique la
 
 Para la designación de personal temporal, la Dirección General de Administración conformará, con el carácter de reserva estratégica, un padrón derivado de los concursos de oposición celebrados, con los aspirantes que no resultaron seleccionados en los mismos, pero que obtuvieron calificaciones aprobatorias en la evaluación técnica.
 
-Los aspirantes que integren la reserva estratégica permanecerán en ella durante un año, contado a partir de la publicación de los resultados del concurso, en cuyo caso podrán ser seleccionados para ocupar temporalmente una vacante.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
 
-La vacante sólo podrá ser ocupada con la reserva estratégica correspondiente a una plaza equivalente a la que concursó el aspirante. Si éste cuenta con los conocimientos necesarios y el perfil de otra plaza, previa autorización del Comité de Selección podrá ser considerado ocupar la plaza vacante.
+Los aspirantes que integren la reserva estratégica permanecerán en ella durante un año, contado a partir de la publicación de los resultados del concurso, en cuyo caso podrán ser seleccionados para ocupar temporalmente una plaza vacante o de nueva creación.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+
+La plaza vacante o de nueva creación sólo podrá ser ocupada con la reserva estratégica correspondiente a una plaza equivalente a la que concursó el aspirante. Si éste cuenta con los conocimientos necesarios y el perfil de otra plaza, previa autorización del Comité de Selección podrá ser considerado (sic) ocuparla.
 
 ###### Artículo 29.
 
@@ -313,13 +335,21 @@ Los integrantes del Comité de Selección, del análisis que efectúen al expedi
 
 Será seleccionado el aspirante que obtenga el promedio más alto en la ponderación, previa autorización del Auditor Superior.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2019)</small>
+
+###### Artículo 29 Bis.
+
+Cuando de entre la reserva estratégica no se reúnan la cantidad de aspirantes conforme a lo dispuesto en el artículo que antecede, la Dirección General de Administración informará dicha circunstancia al titular de la unidad administrativa a la que se encuentre adscrita la plaza vacante o de nueva creación, para que ésta presente al Comité de Selección el currículo de hasta tres personas para su análisis.
+
 ###### Artículo 30.
 
 La temporalidad del personal designado no podrá ser mayor de doce meses, sin posibilidad de prórroga.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 31.
 
-La Dirección General de Administración llevará un registro de las plazas ocupadas temporalmente y realizará la convocatoria y el concurso de oposición respectivo con la anticipación suficiente al término de aquellas, con la finalidad de evitar que a su conclusión se vea afectado el desarrollo de las funciones de la Auditoría Superior.
+De ser pertinente la definitividad de la plaza ocupada temporalmente de conformidad con el proceso que se determine en las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato, la Dirección General de Administración realizará la convocatoria y el concurso de oposición respectivo.
 
 ### Capítulo Quinto. Personal de Libre Designación
 
@@ -349,7 +379,7 @@ II. Fecha de inicio de los efectos del nombramiento;
 
 III. Plaza, puesto y área de adscripción; y
 
-V. El carácter provisional o permanente de ocupación de la plaza.
+V (SIC). El carácter provisional o permanente de ocupación de la plaza.
 
 ### Capítulo Séptimo. Estímulos en el Sistema Salarial
 
@@ -427,15 +457,17 @@ III. La presentación de sus superiores jerárquicos y, en su caso, subordinados
 
 IV. En general, toda aquella información que requiera para el inicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 44.
 
-Los Servidores Públicos deberán cumplir con los cursos generales que sean señalados dentro del programa respectivo.
+Los Servidores Públicos deberán cumplir con los cursos que, con carácter general, sean señalados dentro del programa de capacitación respectivo en términos de las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato aplicables.
 
-Al término de cada curso general se aplicará una evaluación al personal participante.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 45.
 
-Los Servidores Públicos que asistan a capacitación proporcionada por terceros fuera de la sede de la Auditoría Superior deberán colaborar con el Servicio a efecto de proporcionar y transmitir la capacitación recibida.
+(DEROGADO, P.O. 13 DE FEBRERO DE 2019)
 
 ### Capítulo Décimo. Desarrollo Institucional
 
@@ -443,9 +475,11 @@ Los Servidores Públicos que asistan a capacitación proporcionada por terceros 
 
 Corresponde al Dirección General de Administración, por conducto de la Dirección de Desarrollo Institucional, el establecimiento de medidas y programas de fortalecimiento interinstitucional que redunden en el mejoramiento del clima laboral y que propicien mejores condiciones laborales para los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 47.
 
-Para el cumplimiento de lo establecido en el artículo anterior, la Dirección de Desarrollo Institucional en colaboración con las distintas unidades administrativas de la Auditoría Superior, deberá efectuar diagnósticos continuos y permanentes que le permitan conocer la situación laboral que prevalece y en función de ella proponer los cursos generales y acciones de mejora continua que procedan en los términos del presente Estatuto.
+Para el cumplimiento de lo establecido en el artículo anterior, la Dirección de Desarrollo Institucional, en colaboración con las distintas unidades administrativas de la Auditoría Superior, podrá efectuar diagnósticos que le permitan conocer la situación laboral que prevalece y en función de ella proponer acciones de mejora continua en los términos del presente Estatuto.
 
 ###### Artículo 48.
 
@@ -638,3 +672,11 @@ El presente Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Super
 Mtro. Javier Pérez Salazar
 
 Auditor Superior del Estado de Guanajuato
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
