@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2018-11-30"
+last_updated: "2019-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE FEBRERO DE 2019.]</small>
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -445,9 +445,9 @@ XI. Gestionar ante la Dirección General de Administración los diversos trámit
 
 XII. Analizar, formular y gestionar el programa anual de capacitación y profesionalización para el personal de las unidades administrativas, en coordinación con la Dirección General de Administración, así como gestionar ante ésta los recursos necesarios para ello;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+(REFORMADA, P.O. 2 DE JULIO DE 2018) (F. DE E., P.O. 13 DE FEBRERO DE 2019)
 
-XIII. Atender, en coordinación con el Órgano Interno de Control, los procesos de auditorías y de evaluaciones que se practiquen a las diversas unidades administrativas, auxiliándolas en la sustentación y solventación de las observaciones que, en su caso, se formulen;
+XIII. Atender, los procesos de auditorías y de evaluaciones que se practiquen a las diversas unidades administrativas, auxiliándolas en la sustentación y solventación de las observaciones que, en su caso, se formulen;
 
 XIV. Coordinar y supervisar el programa de mejora regulatoria para la simplificación administrativa de los trámites y servicios de la Secretaría;
 
@@ -1101,9 +1101,9 @@ I. Asegurar la confiabilidad de los inventarios de bienes muebles e inmuebles as
 
 II. Gestionar ante la Secretaría de Finanzas, Inversión y Administración la contratación de seguros para proteger contra cualquier riesgo los bienes muebles e inmuebles asignados a la Secretaría; así como realizar los trámites necesarios ante las aseguradoras para hacer efectivo el pago de las pólizas respectivas;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+(REFORMADA, P.O. 2 DE JULIO DE 2018) (F. DE E., P.O. 13 DE FEBRERO DE 2019)
 
-III. Integrar los expedientes necesarios para las auditorías en materia de patrimonio, practicadas a la Secretaría, en coordinación con la Dirección de Control Patrimonial de la Secretaría de Finanzas, Inversión y Administración y el Órgano Interno de Control;
+III. Integrar los expedientes necesarios para las auditorías en materia de patrimonio, practicadas a la Secretaría, en coordinación con la Dirección de Control Patrimonial de la Secretaría de Finanzas, Inversión y Administración;
 
 IV. Implementar los lineamientos, criterios, sistemas y procedimientos que mejoren la administración de los vehículos, bienes muebles e inmuebles de la Secretaría;
 
@@ -1837,9 +1837,9 @@ IX. Supervisar y dirigir la captura electrónica del Archivo Estatal del Registr
 
 X. Designar oficiales comisionados que suplan o coadyuven con el titular cuando la necesidad del trabajo o las circunstancias lo requieran, en los términos del Reglamento del Registro Civil del Estado de Guanajuato, informando de ello a la Dirección General de Administración;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+(REFORMADA, P.O. 2 DE JULIO DE 2018) (F. DE E., P.O. 13 DE FEBRERO DE 2019)
 
-XI. Recibir las quejas presentadas en contra de los registradores públicos y del personal que les esté adscrito y remitirlas al Órgano Interno del (sic) Control para que, en su caso, se investigue y sustancie el procedimiento de responsabilidad administrativa; y
+XI. Recibir las quejas presentadas en contra de los oficiales del Registro Civil y del personal que les esté adscrito y remitirlas al Órgano Interno del (sic) Control para que, en su caso, se investigue y sustancie el procedimiento de responsabilidad administrativa; y
 
 XII. Autorizar y ordenar la impresión y distribución de los formatos para asentamiento y expedición de actos del estado civil.
 
