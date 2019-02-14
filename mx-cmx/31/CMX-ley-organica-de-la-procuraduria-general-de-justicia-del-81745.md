@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-general-de-justicia-del-81745"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-20"
-last_updated: "2011-06-20"
+last_updated: "2019-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81745&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2011-06-17"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 14 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 5 DE DICIEMBRE DE 2019.]
 
-TEXTO ORIGINAL.
+[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE FEBRERO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 20 de junio de 2011.
 
@@ -1619,3 +1623,29 @@ La Fiscalía de Procesos en Juzgados de Paz Penal a que hace referencia la fracc
 México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 14 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSICIÓN DE LA PROCURADURÍA GENERAL DE JUSTICIA A LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. La presente ley entrará en vigor el 1º de enero de 2019.
+
+Las disposiciones contenidas en los artículos 3, 4, 5, 8 y 9 entrarán en vigor el 5 de diciembre de 2019.
+
+SEGUNDO. La Comisión Técnica de Transición presentará al Congreso de la Ciudad de México el Plan de Transición de la Procuraduría General de Justicia de la Ciudad de México a la Fiscalía General de Justicia de la Ciudad de México en el mes de septiembre de 2019, a efecto de que el Congreso de la Ciudad de México lleve a cabo los ajustes normativos necesarios para el proceso de transición.
+
+TERCERO. Se abroga a partir del 5 de diciembre de 2019, la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
+
+CUARTO: La Procuraduría General de Justicia de la Ciudad de México continuará encargándose de la función ministerial hasta que inicie sus funciones la Fiscalía General de Justicia de la Ciudad de México.
+
+Todas las averiguaciones previas y carpetas de investigación iniciadas por la Procuraduría General de Justicia de la Ciudad de México antes de que esté en funcionamiento la Fiscalía General de Justicia de la Ciudad de México, se conducirán por esta en los términos de las disposiciones vigentes antes de la entrada en vigor de la ley que la rija.
+
+QUINTO. En tanto no entre en funciones la Fiscalía General de Justicia de la Ciudad de México continuará la vigencia de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, su Reglamento y las demás disposiciones jurídicas emanadas de dichos instrumentos.
+
+Las referencias hechas a la Secretaria de Seguridad Pública se entenderán hechas al órgano o dependencia de la administración pública de la Ciudad de México, encargada de la seguridad ciudadana, en los términos de la ley de la materia que expida el Congreso de la Ciudad de México.
+
+SEXTO. La persona titular de la Fiscalía General de Justicia de la Ciudad de México será designada conforme con los plazos que señala la Constitución Política de la Ciudad de México.
+
+SÉPTIMO: Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
