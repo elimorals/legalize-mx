@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-01-10"
+last_updated: "2019-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -345,9 +345,7 @@ La inscripción ante el registro civil de los menores de un año será gratuita.
 
 A nadie se le exigirá comprobar la legal estancia en el país para la inscripción ante el registro civil de sus hijos nacidos en territorio estatal.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
-
-II. Mediante recursos propios o a través de programas federales, que todas las personas mayores de 64 años que residan en el Estado, reciban una aportación económica, mayor a lo que determina el objetivo número uno de los Objetivos de Desarrollo Sostenible del Programa de las Naciones Unidas para el Desarrollo.
+II. (DEROGADA, P.O. 14 DE FEBRERO DE 2019)
 
 III. El respeto y protección de los derechos humanos de los migrantes, entre ellos el derecho a la salud, derechos laborales, derecho a la seguridad pública y a la procuración de justicia.
 
@@ -4516,3 +4514,11 @@ P.O. 10 DE ENERO DE 2019.
 Artículo Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 020 DECRETO POR EL QUE SE DEROGA LA FRACCIÓN II DEL PÁRRAFO QUINTO DEL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
