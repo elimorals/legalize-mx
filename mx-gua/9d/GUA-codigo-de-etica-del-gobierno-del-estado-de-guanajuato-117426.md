@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-gobierno-del-estado-de-guanajuato-117426"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-11-04"
-last_updated: "2016-11-04"
+last_updated: "2019-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL GOBIERNO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 GUÍA DE ACTUACIÓN Y CÓDIGO DE ÉTICA DEL GOBIERNO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 4 de noviembre de 2016.
 
@@ -412,3 +414,33 @@ En la ciudad de Guanajuato, Gto. a los 20 veinte días de octubre de 2016 dos mi
 Ma. Isabel Tinoco Torres
 
 Secretaria de la Transparencia y Rendición de Cuentas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Guía de Actuación y Código de Ética del Gobierno del Estado de Guanajuato, publicada el 4 de noviembre de 2016, en el Periódico Oficial del Gobierno del estado de Guanajuato, número 177, Tercera Parte.
+
+Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+Ultractividad
+
+Artículo Tercero. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+Término para expedición de códigos de conducta
+
+Artículo Cuarto. Las dependencias y entidades deberán emitir sus respectivos Códigos de Conducta en un plazo no mayor a los 90 días naturales siguientes a la fecha en que la Secretaría publique los lineamientos generales para su elaboración.
+
+Término para expedición de lineamientos generales para integración y operación de los comités internos
+
+Artículo Quinto. Los lineamientos generales para la integración y operación de los comités internos, referidos en el presente Código de Ética y que se encuentran previstos en el artículo 26 del Acuerdo Gubernativo número 73, publicado en el Periódico Oficial del Gobierno del Estado, número 175, Tercera Parte, de fecha 1 de noviembre de 2013 y del Acuerdo Gubernativo número 371, publicado en el Periódico Oficial del Gobierno del Estado, número 113, Segunda Parte, de fecha 6 de junio de 2018, a través del que se reforman y derogan diversas disposiciones del Acuerdo Gubernativo número 73 antes señalado, se publicarán dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+Los comités internos deberán instalarse en un lapso no mayor a 180 días hábiles, contados a partir de la publicación de éste Código en el Periódico Oficial del Gobierno del Estado.
