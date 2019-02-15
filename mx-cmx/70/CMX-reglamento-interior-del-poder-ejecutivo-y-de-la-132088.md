@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-01-24"
+last_updated: "2019-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 24 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -612,9 +610,13 @@ B) Subsecretaria de Servicios Urbanos, a la que quedan adscritas:
 
 2.1. Dirección Ejecutiva de Transferencia y Disposición Final de Residuos Sólidos Urbanos; y
 
-3.- Dirección General de la Planta Productora de Mezclas Asfálticas.
+3.- (DEROGADO, G.O. 15 DE FEBRERO DE 2019)
 
 C) Dirección General Jurídica y Normativa.
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Planta Productora de Mezclas Asfálticas.
 
 XIV. A la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes:
 
@@ -8636,35 +8638,7 @@ VII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como
 
 ###### Artículo 212.
 
-Corresponde a la Dirección General de la Planta Productora de Mezclas Asfálticas:
-
-I. Instalar, operar y mantener el equipo técnico para producir agregados pétreos, mezclas y emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos de las vialidades a cargo del Gobierno de la Ciudad de México y Alcaldías de conformidad con la normatividad que resulte aplicable;
-
-II. Adquirir los insumos y materiales que se requieran para la producción de emulsiones y mezclas asfálticas en sus diferentes modalidades y derivados;
-
-III. Desarrollar estrategias de comercialización y distribución de agregados pétreos, mezclas y emulsiones asfálticas;
-
-IV. Comercializar la producción de mezclas asfálticas, agregados pétreos y emulsiones asfálticas, primordialmente a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades, de la Administración Pública;
-
-V. Comercializar el excedente de su producción a la Federación, Estados, Municipios y particulares, de conformidad con las disposiciones jurídicas aplicables;
-
-VI. Desarrollar programas de investigación tecnológica para el mejoramiento de su producción y de actualización en materia de pavimentos, para los responsables de las obras viales de la Ciudad de México
-
-VII. Supervisar la construcción y mantenimiento de los pavimentos que realicen las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados, así como las Entidades de la Administración Pública;
-
-VIII. Colaborar con las Direcciones Generales de Construcción de Obras Públicas, y de Infraestructura Urbana en el establecimiento de normas y especificaciones de construcción y mantenimiento de los pavimentos;
-
-IX. Supervisar y administrar la calidad de los pavimentos de las vialidades a cargo del Gobierno de la Ciudad de México, verificando que éstos cumplan con las normas y especificaciones aplicables;
-
-X. Presentar y dar seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
-
-XI. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes y la prestación de servicios que sean necesarias (sic) para el ejercicio de sus facultades, incluso financiadas (sic) bajo cualquier modalidad, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos o convenios celebrados con tal motivo, en su caso, con la consulta del área jurídica correspondiente;
-
-XII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta en su caso del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
-
-XIII. Proponer para autorización conjunta de la Secretaría de Obras y Servicios y de la Secretaría Administración de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno de la Ciudad de México y Alcaldías, así como los de la Federación, Estados, Municipios y particulares; y
-
-XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+(DEROGADO, G.O. 15 DE FEBRERO DE 2019)
 
 ###### Artículo 213.
 
@@ -10812,7 +10786,9 @@ XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, órgano
 
 XXVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE SALUD
+#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 270.
 
@@ -10858,9 +10834,7 @@ XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos 
 
 XX. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
 
 ###### Artículo 271.
 
@@ -10890,7 +10864,9 @@ X. Las demás que las disposiciones legales y administrativas le confieran y las
 
 DE LAS PERSONAS TITULARES DE LOS PUESTOS DE LÍDER COORDINADOR DE PROYECTOS Y DE LOS DE ENLACE EN TODA UNIDAD ADMINISTRATIVA Y UNIDAD ADMINISTRATIVA DE APOYO TÉCNICO-OPERATIVO DE LAS DEPENDENCIAS Y ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ### CAPÍTULO I
 
@@ -10955,6 +10931,8 @@ XI. Expedir, copias certificadas de los documentos que obren en sus archivos sob
 XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y administrativas y las que les sean conferidas por el órgano colegiado de dirección.
 
 ### CAPÍTULO IV. ÓRGANOS DE APOYO
+
+#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 276.
 
@@ -12482,6 +12460,48 @@ XII. Emitir bases y lineamientos de operación, regulación, mantenimiento y fun
 
 XIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2019)</small>
+
+###### Artículo 322 Bis.
+
+La Planta Productora de Mezclas Asfálticas es el Órgano Desconcentrado que tiene por objeto producir mezcla asfáltica para trabajos de pavimentación, repavimentación y mantenimiento de las vialidades.
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
+
+###### Artículo 322 Ter.
+
+La Dirección General de la Planta Productora de Mezclas Asfálticas cuenta con las siguientes atribuciones:
+
+I. Instalar, operar y mantener el equipo técnico para producir agregados pétreos, mezclas y emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos de las vialidades a cargo del Gobierno de la Ciudad de México y Alcaldías de conformidad con la normatividad que resulte aplicable;
+
+II. Adquirir los insumos y materiales que se requieran para la producción de emulsiones y mezclas asfálticas en sus diferentes modalidades y derivados, de conformidad con la normatividad que resulte aplicable;
+
+III. Desarrollar estrategias de comercialización y distribución de agregados pétreos, mezclas y emulsiones asfálticas;
+
+IV. Comercializar la producción de mezclas asfálticas, agregados pétreos y emulsiones asfálticas, primordialmente a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades, todas de la Administración Pública de la Ciudad de México;
+
+V. Comercializar el excedente de su producción a la Federación, Estados, Municipios y particulares, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Desarrollar programas de investigación tecnológica para el mejoramiento de su producción y de actualización en materia de pavimentos, para los responsables de las obras viales de la Ciudad de México;
+
+VII. Supervisar, en su caso, la construcción y mantenimiento de los pavimentos que realicen las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados, así como las Entidades, todas de la Administración Pública;
+
+VIII. Colaborar con las Direcciones Generales de Construcción de Obras Públicas y de Infraestructura Urbana en el establecimiento de normas y especificaciones de construcción y mantenimiento de los pavimentos;
+
+IX. Supervisar y administrar la calidad de los pavimentos de las vialidades a cargo del Gobierno de la Ciudad de México, verificando que éstos cumplan con las normas y especificaciones aplicables;
+
+X. Presentar y dar seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos y/o predios a su cargo, en custodia y lo inherente a obras, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a los acuerdos preparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+
+XI. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes y la prestación de servicios que sean necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos o convenios celebrados con tal motivo, en su caso, con la consulta del área jurídica correspondiente;
+
+XII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico o a su área de adscripción;
+
+XIII. Proponer para autorización conjunta de la Secretaría de Obras y Servicios y de la Secretaría de Administración y Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno de la Ciudad de México y Alcaldías, así como los de la Federación, Estados, Municipios y particulares; y
+
+XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por el Titular de la Secretaría de Obras y Servicios, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 323.
 
 La Agencia de Protección Sanitaria del Gobierno de la Ciudad de México, es el Órgano Desconcentrado que tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local y general, conferidas a través de acuerdos de coordinación con la federación.
@@ -12927,3 +12947,15 @@ G.O. 24 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL LA “FE DE ERRATAS AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL NÚMERO 1 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 2 DE ENERO DE 2019”.]
 
 Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día dieciséis de febrero de dos mil diecinueve.
+
+TERCERO.- Las referencias hechas a la Planta de Asfalto en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, se entenderán referidas a la Planta Productora de Mezclas Asfálticas, quien ejercerá las atribuciones en el nuevo ámbito de su competencia. La Secretaría de Administración y Finanzas de la Ciudad de México, realizará de inmediato todas las gestiones y operaciones conducentes a efecto de que se pueda ejercer el presupuesto asignado por el Decreto por el que se expide el Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2019.
+
+CUARTO.- Los recursos humanos, financieros, técnicos y materiales a la Dirección General de la Planta Productora de Mezclas Asfálticas, se transfieren al Órgano Desconcentrado denominado Planta Productora de Mezclas Asfálticas, y con la finalidad de que se realice de manera ordenada y se continúe con el cumplimiento de las obligaciones contraídas que se determinen, continuará operando con los recursos disponibles hasta en tanto se adecue la estructura orgánica. Dicha operación de determinación de obligaciones se dará dentro de un plazo máximo de 60 días hábiles a partir de la entrada en vigor del presente Decreto.
