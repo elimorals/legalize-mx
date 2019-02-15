@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2018-12-24"
+last_updated: "2019-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -267,7 +267,9 @@ II. Prohibición al probable responsable de acercarse al domicilio, lugar de tra
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su núcleo familiar.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
+
+IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su núcleo familiar, incluidos la vía telefónica, cualquier otro medio electrónico de comunicación o tecnologías de la información y comunicación, así como cualquier otra manifestación o expresión de cualquier naturaleza que atente contra la víctima, realizada por el agresor a través de terceras personas.
 
 ###### Artículo 21.
 
@@ -1140,3 +1142,9 @@ P.O. 24 DE DICIEMBRE DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Instituto Estatal de las Mujeres deberá implementar las acciones pertinentes, para el funcionamiento del Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres, dentro del plazo de 180 días posteriores, a la entrada en vigor del presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 089. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN IV DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
