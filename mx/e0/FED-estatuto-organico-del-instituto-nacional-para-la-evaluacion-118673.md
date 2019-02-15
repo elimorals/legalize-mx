@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-118
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-31"
-last_updated: "2018-06-26"
+last_updated: "2019-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118673&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-01-23"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 31 de enero de 2017.
 
@@ -75,7 +77,7 @@ Para efectos de este Estatuto se entenderá por:
 
 I. Autoridades Educativas, a la Secretaría de Educación Pública de la Administración Pública Federal, a las correspondientes de los estados, Ciudad de México y municipios, así como a los organismos descentralizados.
 
-II. CDINEE, a la Coordinación de Direcciones del INEE en las Entidades Federativas.
+II. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 III. (DEROGADA, D.O.F. 12 DE MAYO DE 2017)
 
@@ -109,11 +111,11 @@ XVII. DGDME, a la Dirección General de Directrices para la Mejora de la Educaci
 
 XVIII. DGDFCE, a la Dirección General de Difusión y Fomento de la Cultura de la Evaluación.
 
-XIX. DINEE, a las Direcciones del INEE en las Entidades Federativas.
+XIX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XX. DGIST, a la Dirección General de Informática y Servicios Técnicos.
 
-XXI. DGII, a la Dirección General de Investigación e Innovación.
+XXI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXII. DGIAI, a la Dirección General para la Integración y Análisis de Información.
 
@@ -130,6 +132,10 @@ XXVII. DGLPD, a la Dirección General de Levantamiento y Procesamiento de Datos.
 XXVIII. DGLE, a la Dirección General de Lineamientos para las Evaluaciones.
 
 XXIX. DGMTD, a la Dirección General de Medición y Tratamiento de Datos.
+
+> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+XXIX Bis. DGOR, a la Dirección General de Operación Regional.
 
 XXX. DGPEO, a la Dirección General de Planeación, Evaluación y Organización.
 
@@ -149,9 +155,7 @@ XXXVI. Ley, a la Ley del Instituto Nacional para la Evaluación de la Educación
 
 XXXVI. Bis. OIC, al Órgano Interno de Control del Instituto, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves, para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
-
-XXXVI. Ter. Protocolos de actuación, documentos que establecen actos de coordinación, entre las unidades administrativas centrales y las direcciones del INEE en las entidades federativas, para llevar a cabo el desarrollo de sus actividades;
+XXXVI. Ter. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXXVII. Secretaría, a la Secretaría de Educación Pública de la Administración Pública Federal.
 
@@ -177,9 +181,9 @@ XLV. UIFCE, Unidad de Información y Fomento de la Cultura de la Evaluación.
 
 XLVI. UNPE, Unidad de Normatividad y Política Educativa.
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-XLVII. Unidades Administrativas, las áreas que se señalan en el artículo 4, en donde se establece la adscripción y subordinación de las unidades, coordinaciones, direcciones generales y direcciones del INEE en las entidades federativas, excepto el Órgano Interno de Control.
+XLVII. Unidades Administrativas, las áreas que se señalan en el artículo 4, en donde se establece la adscripción y subordinación de las unidades, coordinación, direcciones generales, excepto el Órgano Interno de Control.
 
 ### CAPÍTULO II. De la Organización del Instituto
 
@@ -208,6 +212,10 @@ a. Con adscripción directa del Consejero Presidente para apoyar a la Junta:
 a.1 Coordinación Ejecutiva de la Junta de Gobierno;
 
 a.2 Dirección General de Comunicación Social.
+
+> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+a.3 Dirección General de Operación Regional.
 
 b. Unidad de Normatividad y Política Educativa:
 
@@ -239,11 +247,9 @@ d.2 Dirección General para la Integración y Análisis de Información;
 
 d.3 Dirección General del Sistema Integral de Resultados de las Evaluaciones;
 
-d.4 Dirección General de Investigación e Innovación.
+d.4 (DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
-e. Coordinación de Direcciones del INEE en las Entidades Federativas:
-
-e.1 Direcciones del INEE en las Entidades Federativas.
+e. (DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
 f. Unidad de Administración:
 
@@ -347,11 +353,15 @@ III. Aprobar el Programa Estratégico de Desarrollo Institucional;
 
 IV. Aprobar los lineamientos para la planeación, programación, organización y evaluación del desempeño de las unidades administrativas;
 
+> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IV. Bis. Aprobar la Estrategia y Programa Anual de Comunicación Social;
+
 V. Aprobar las disposiciones que regulen el funcionamiento de la Conferencia y de los órganos colegiados del Instituto;
 
 VI. Presentar a la Conferencia la propuesta del Programa de Trabajo del Sistema y los lineamientos para su elaboración y seguimiento;
 
-VII. Autorizar la instalación y funcionamiento de las DINEE;
+VII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 VIII. Nombrar al presidente de cada órgano colegiado del Instituto;
 
@@ -363,13 +373,17 @@ XI. Designar, por conducto del Consejero Presidente, al servidor público respon
 
 XII. Aprobar los lineamientos que regulen las condiciones laborales y de contratación del personal del Instituto;
 
-XIII. Autorizar los nombramientos, ceses o remociones de los titulares de unidad, coordinadores, directores generales y directores del INEE en las entidades federativas;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+XIII. Autorizar los nombramientos, ceses o remociones de los titulares de unidad, coordinador y directores generales;
 
 XIV. Aprobar en la última sesión ordinaria de cada ejercicio fiscal, el calendario de las sesiones ordinarias;
 
 XV. Acordar la asistencia de invitados a las sesiones ordinarias o extraordinarias de la Junta;
 
-XVI. Conocer el avance de los programas de trabajo de las unidades y de las coordinaciones con una periodicidad trimestral, mismos que serán presentados en sesión ordinaria de la Junta;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+XVI. Conocer el avance de los programas de trabajo de las unidades y de la coordinación con una periodicidad trimestral, mismos que serán presentados en sesión ordinaria de la Junta;
 
 XVII. Autorizar la remuneración a los integrantes de los Consejos Técnicos conforme corresponda a su participación y contribuciones específicas que les hayan sido requeridas;
 
@@ -463,13 +477,17 @@ X. Las demás que les asigne expresamente la Junta y las que les delegue el Cons
 
 El Consejero Presidente, además de lo dispuesto en el artículo 44 de la Ley, tendrá las siguientes facultades y funciones:
 
-I. Delegar en los titulares de unidad y coordinadores, según el ámbito de su competencia, los actos jurídicos que por disposición de la norma aplicable sean delegables y sin menoscabo de conservar su ejercicio directo;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+I. Delegar en los titulares de unidad y coordinador, según el ámbito de su competencia, los actos jurídicos que por disposición de la norma aplicable sean delegables y sin menoscabo de conservar su ejercicio directo;
 
 II. Delegar en los Consejeros, de entre sus facultades, aquellas que contribuyan al cumplimiento de los objetivos y metas institucionales;
 
 III. Dirigir las gestiones del Secretario Técnico para apoyar el funcionamiento de la Junta y la Conferencia;
 
-IV. Asegurar en coordinación con el Secretario Técnico, con los titulares de unidad que correspondan y los coordinadores, el cumplimiento de los acuerdos de la Junta;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IV. Asegurar en coordinación con el Secretario Técnico, con los titulares de unidad que correspondan y con el coordinador, el cumplimiento de los acuerdos de la Junta;
 
 V. Autorizar el proyecto de presupuesto del Instituto para su aprobación por la Junta y su posterior envío al Ejecutivo Federal. Además, realizar con oportunidad las gestiones conducentes ante las instancias que correspondan para su atención;
 
@@ -625,9 +643,11 @@ II. Proponer actividades específicas de colaboración y coordinación para los 
 
 III. Contribuir a fomentar una cultura de la evaluación mediante la difusión y uso de resultados de las distintas evaluaciones que se realicen en el Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 34.
 
-La Junta designará a un Consejero para que presida el Consejo de Vinculación. El Secretario de Actas será el Coordinador de Direcciones del INEE en las Entidades Federativas.
+La Junta designará a un Consejero para que presida el Consejo de Vinculación. El Secretario de Actas será el Director General de Operación Regional.
 
 Podrán participar en las sesiones otros servidores públicos del Instituto, ya sea por designación o a invitación de la Junta.
 
@@ -731,7 +751,9 @@ El Presidente del Consejo deberá informar a la Junta el orden del día y los re
 
 El Instituto contará con Consejos Técnicos, permanentes y temporales, cuyo propósito principal es coadyuvar en el cumplimiento de sus atribuciones, a través del asesoramiento técnico y metodológico en materia de evaluación educativa.
 
-Los Consejos Técnicos permanentes se organizarán en al menos ocho colegiados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+Los Consejos Técnicos permanentes se organizarán en al menos siete colegiados:
 
 a) Evaluación de la oferta educativa;
 
@@ -747,7 +769,7 @@ f) Integración de información y diseño de indicadores;
 
 g) Difusión y uso de los resultados de evaluación educativa; y
 
-h) Gestión del conocimiento e innovación.
+h) (DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
 ###### Artículo 48.
 
@@ -811,11 +833,15 @@ El resumen de los asuntos tratados y acuerdos establecidos se hará del dominio 
 
 El Presidente del Consejo deberá informar a la Junta el orden del día y los resultados de las sesiones ordinarias o extraordinarias.
 
-### CAPÍTULO XIV. De las Facultades y Funciones de los Titulares de Unidad y de los Coordinadores
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO XIV. De las Facultades y Funciones de los Titulares de Unidad y Coordinador
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 57.
 
-Al frente de las unidades y de las coordinaciones a que hace referencia el artículo 4, de este Estatuto estará un Titular y un Coordinador, respectivamente, que tendrán las siguientes facultades y funciones generales:
+Al frente de las unidades y de la coordinación a que hace referencia el artículo 4, de este Estatuto estará un Titular y un Coordinador, respectivamente, que tendrán las siguientes facultades y funciones generales:
 
 I. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a la unidad o coordinación a su cargo, de acuerdo con los lineamientos que fije la Junta;
 
@@ -871,11 +897,15 @@ XXVI. Atender en el ámbito de su competencia, los requerimientos de informació
 
 XXVII. Las demás que le confieran otras disposiciones, que le sean encomendadas por la Junta o el Consejero Presidente.
 
-### CAPÍTULO XV. De las Facultades y Funciones de los Directores Generales y Directores del INEE en las Entidades Federativas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO XV. De las Facultades y Funciones de los Directores Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 58.
 
-Al frente de las direcciones generales y de las direcciones del INEE en las entidades federativas a que hace referencia el artículo 4, de este Estatuto, estará un titular que tendrá las siguientes facultades y funciones generales:
+Al frente de las direcciones generales a que hace referencia el artículo 4, de este Estatuto, estará un titular que tendrá las siguientes facultades y funciones generales:
 
 I. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a la dirección a su cargo, de acuerdo con los lineamientos que apruebe la Junta;
 
@@ -927,7 +957,9 @@ XXIV. Atender en el ámbito de su competencia, los requerimientos de informació
 
 XXV. Las demás que le confieran otras disposiciones, que le sean encomendadas por sus superiores jerárquicos o por la Junta.
 
-### CAPÍTULO XVI. De las Funciones de las Unidades, Coordinaciones, Direcciones Generales y Direcciones del INEE en las Entidades Federativas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO XVI. De las Funciones de las Unidades y Coordinación y Direcciones Generales
 
 ###### Artículo 59.
 
@@ -937,7 +969,9 @@ I. Integrar y proporcionar información a la Junta sobre los asuntos que le requ
 
 II. Apoyar a los Consejeros en el seguimiento de temas y proyectos del Instituto;
 
-III. Coordinar y supervisar el apoyo técnico y logístico para la celebración de sesiones ordinarias y extraordinarias de la Junta, así como de otras reuniones de trabajo que ésta lleve a cabo con titulares de unidad, coordinadores y directores generales, así como elaborar las actas correspondientes;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+III. Coordinar y supervisar el apoyo técnico y logístico para la celebración de sesiones ordinarias y extraordinarias de la Junta, así como de otras reuniones de trabajo que ésta lleve a cabo con titulares de unidad y directores generales, así como elaborar las actas correspondientes;
 
 IV. Fungir como Secretariado Técnico de la Junta, de la Conferencia y del Consejo Social;
 
@@ -955,7 +989,7 @@ X. Apoyar la suscripción de convenios de colaboración con autoridades educativ
 
 XI. Registrar la participación del Instituto en congresos, seminarios, foros o eventos nacionales e internacionales, con la colaboración de las unidades administrativas;
 
-XII. Elaborar protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XIII. Atender las solicitudes de orientación que presenten los ciudadanos, canalizarlas a las áreas competentes y darles seguimiento;
 
@@ -971,7 +1005,9 @@ La Dirección General de Comunicación Social tendrá las siguientes funciones:
 
 I. Formular la política de comunicación social del Instituto;
 
-II. Desarrollar y evaluar periódicamente la estrategia y el programa de comunicación social del Instituto;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+II. Proponer, elaborar, desarrollar y evaluar periódicamente la estrategia y el programa de comunicación social del Instituto;
 
 III. Apoyar y asesorar a las unidades administrativas del Instituto en materia de comunicación social, imagen institucional, así como en contenidos y medios digitales;
 
@@ -995,27 +1031,67 @@ XII. Dirigir el monitoreo, síntesis y análisis de la información emitida por 
 
 XIII. Definir estrategias informativas, contenidos y medios digitales para el posicionamiento mediático de la imagen pública del Instituto;
 
-XIV. Elaborar protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE; y
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XV. Desarrollar otras actividades que le sean encomendadas por la Junta.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+###### Artículo 60 Bis.
+
+La Dirección General de Operación Regional tendrá las siguientes funciones:
+
+I. Apoyar las acciones para el en el (sic) seguimiento de la Política Nacional de Evaluación de la Educación;
+
+II. Apoyar, promover y dar seguimiento a las acciones de vinculación, difusión y promoción de la cultura de la evaluación y el uso de la información que genera el Instituto, con autoridades educativas locales, instancias estatales de evaluación educativa y centros escolares en las entidades federativas;
+
+III. Apoyar, promover y dar seguimiento a las acciones de vinculación con autoridades gubernamentales y educativas, así como con instituciones y organizaciones sociales en las entidades federativas;
+
+IV. Apoyar el seguimiento de las directrices para la mejora educativa en las entidades federativas;
+
+V. Apoyar el desarrollo de las acciones de formación y certificación de evaluadores;
+
+VI. Apoyar el desarrollo de acciones locales de comunicación social;
+
+VII. Apoyar los procesos de supervisión de las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional;
+
+VIII. Apoyar en el desarrollo de los operativos de campo que realice el Instituto para llevar a cabo las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional;
+
+IX. Propondrá a la Junta de Gobierno una organización de operación regional, para los efectos correspondientes.
+
+X. Fungir como Secretariado de Actas del Consejo de Vinculación; y
+
+XI. Desarrollar otras actividades que le sean encomendadas por la Junta.
 
 ###### Artículo 61.
 
 La Unidad de Normatividad y Política Educativa tendrá las siguientes funciones:
 
-I. Coordinar el desarrollo de la Política Nacional de Evaluación de la Educación, con la participación de la UESEN, la UIFCE, la CDINEE y las autoridades educativas;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-II. Coordinar el desarrollo del Programa de Mediano Plazo del Sistema Nacional de Evaluación Educativa, con la participación de la UESEN, la UIFCE, la CDINEE y las autoridades educativas;
+I. Coordinar el desarrollo de la Política Nacional de Evaluación de la Educación, con la participación de la UESEN, la UIFCE, y las autoridades educativas;
 
-III. Coordinar la elaboración, desarrollo y seguimiento de Programas Estatales de Evaluación y Mejora Educativa, con la participación de la UESEN, la UIFCE, la CDINEE y las autoridades educativas;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-IV. Coordinar la elaboración de las disposiciones para el funcionamiento del Sistema, con la participación de la UESEN, la UIFCE y la CDINEE;
+II. Coordinar el desarrollo del Programa de Mediano Plazo del Sistema Nacional de Evaluación Educativa, con la participación de la UESEN, la UIFCE, y las autoridades educativas;
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+III. Coordinar la elaboración, desarrollo y seguimiento de Programas Estatales de Evaluación y Mejora Educativa, con la participación de la UESEN, la UIFCE, y las autoridades educativas;
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IV. Coordinar la elaboración de las disposiciones para el funcionamiento del Sistema, con la participación de la UESEN y la UIFCE;
 
 V. Dirigir las acciones de la Coordinación Ejecutiva del SNEE y apoyar la organización y funcionamiento de la Conferencia, de conformidad con los lineamientos que la normen;
 
-VI. Coordinar la elaboración de lineamientos a los que se sujetarán las autoridades educativas, para las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional, con la participación de la UESEN, la UIFCE y la CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-VII. Dirigir la elaboración de los lineamientos que regulan los procesos de evaluación del SPD, de conformidad con lo establecido en la Ley General de Educación y de la Ley General del Servicio Profesional Docente, con la participación de la UESEN, la UIFCE y la CDINEE;
+VI. Coordinar la elaboración de lineamientos a los que se sujetarán las autoridades educativas, para las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional, con la participación de la UESEN y la UIFCE;
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+VII. Dirigir la elaboración de los lineamientos que regulan los procesos de evaluación del SPD, de conformidad con lo establecido en la Ley General de Educación y de la Ley General del Servicio Profesional Docente, con la participación de la UESEN y la UIFCE;
 
 VIII. Coordinar los programas anual y de mediano plazo de los procesos de evaluación del SPD, con la participación de la UESEN y de las autoridades educativas;
 
@@ -1045,7 +1121,9 @@ XX. Dirigir acciones de coordinación con instituciones de educación superior, 
 
 XXI. Contribuir al fortalecimiento de las capacidades técnicas de las autoridades educativas, en el marco del Sistema, en materia de evaluación con la participación de la UESEN y la UIFCE;
 
-XXII. Contribuir a la difusión de la Política Nacional de Evaluación de la Educación, la promoción del uso de los resultados de las evaluaciones y el fomento de la cultura de la evaluación, entre los integrantes del Sistema, en coordinación con la UIFCE y la CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+XXII. Contribuir a la difusión de la Política Nacional de Evaluación de la Educación, la promoción del uso de los resultados de las evaluaciones y el fomento de la cultura de la evaluación, entre los integrantes del Sistema, en coordinación con la UIFCE;
 
 XXIII. Coordinar el desarrollo de estudios, investigaciones e innovaciones en materia de evaluación educativa, en el ámbito de su competencia;
 
@@ -1081,11 +1159,11 @@ VII. Participar con la DGLE en la elaboración del calendario anual y del Progra
 
 VIII. Proponer los elementos de las acciones de difusión de la Política Nacional de Evaluación de la Educación entre los integrantes del Sistema, en coordinación con la DGDFCE;
 
-IX. Proponer a la DGII estudios, investigaciones e innovaciones en materia de evaluación educativa, en el ámbito de su competencia;
+IX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-X. Participar en la integración de la agenda de investigación del Instituto;
+X. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XI. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XII. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
 
@@ -1117,11 +1195,11 @@ X. Elaborar, con la participación de la DGFCC, los lineamientos para la selecci
 
 XI. Proponer los elementos para las acciones de difusión del Eje correspondiente a la regulación de los procesos de evaluación de la Política Nacional de Evaluación de la Educación, en coordinación con la DGDFCE;
 
-XII. Proponer a la DGII estudios, investigaciones e innovaciones en materia de evaluación educativa en el ámbito de su competencia;
+XII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XIII. Participar en la integración de la agenda de investigación del Instituto;
+XIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XIV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XV. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil, en lo que se refiere a su participación como observadores en los procesos de evaluación del SPD; y
 
@@ -1153,13 +1231,13 @@ X. Dar seguimiento y actualizar las directrices para la mejora educativa que emi
 
 XI. Desarrollar la estrategia de comunicación y difusión de las directrices para la mejora educativa, con la participación de la DGDFCE y la DGCS;
 
-XII. Proponer a la DGII el desarrollo de estudios, investigaciones e innovaciones en materia de evaluación educativa, en el ámbito de su competencia;
+XII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XIII. Proporcionar información para su incorporación al SIRE, en el ámbito de su competencia;
 
-XIV. Participar en la integración de la agenda de investigación del Instituto;
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XVI. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil;
 
@@ -1189,11 +1267,11 @@ VIII. Coordinar la integración, desarrollo, seguimiento y actualización del Re
 
 IX. Participar con la DGLE en la elaboración del calendario anual y el Programa de Mediano Plazo de las Evaluaciones del SPD;
 
-X. Proponer a la DGII estudios, investigaciones e innovaciones en materia de evaluación educativa en el ámbito de su competencia;
+X. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XI. Participar en la integración de la agenda de investigación del Instituto;
+XI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XII. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XIII. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
 
@@ -1209,7 +1287,9 @@ II. Coordinar el desarrollo del Programa Anual y de Mediano Plazo de Evaluacione
 
 III. Determinar los criterios técnicos de medición y tratamiento de datos para el diseño y desarrollo de las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional;
 
-IV. Establecer los criterios, estrategias y protocolos para la revisión técnica de las evaluaciones de componentes, procesos y resultados que elaboren las autoridades educativas locales, así como coordinar y autorizar los procesos específicos de revisión que realizan las unidades administrativas que correspondan, con la participación de la CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IV. Establecer los criterios, estrategias y protocolos para la revisión técnica de las evaluaciones de componentes, procesos y resultados que elaboren las autoridades educativas locales, así como coordinar y autorizar los procesos específicos de revisión que realizan las unidades administrativas que correspondan;
 
 V. Determinar los criterios técnicos para el desarrollo de mediciones y evaluaciones del SPD en los términos de la Ley General del Servicio Profesional Docente;
 
@@ -1235,11 +1315,13 @@ XV. Contribuir con la UIFCE en la difusión de la Política Nacional de Evaluaci
 
 XVI. Proponer y coordinar la participación en proyectos internacionales de evaluación de componentes, procesos y resultados del Sistema Educativo Nacional;
 
-XVII. Proponer a la DGII estudios, investigaciones e innovaciones en materia de evaluación educativa en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+XVII. Proponer estudios, investigaciones e innovaciones en materia de evaluación educativa en el ámbito de su competencia;
 
 XVIII. Contribuir con la UIFCE en la integración de la agenda de investigación del Instituto;
 
-XIX. Coordinar la elaboración, seguimiento y actualización de los protocolos de actuación de las DINEE, correspondientes a los procesos en el ámbito de su competencia, con la participación de la CDINEE;
+XIX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XX. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil;
 
@@ -1287,11 +1369,11 @@ XVII. Instrumentar proyectos internacionales de mediciones y evaluaciones de rec
 
 XVIII. Instrumentar proyectos internacionales de estudios sobre la oferta educativa;
 
-XIX. Proponer a la DGII y, en su caso, participar en estudios en materia de evaluación educativa, en el ámbito de su competencia;
+XIX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XX. Participar en la integración de la agenda de investigación del Instituto;
+XX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XXI. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XXI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXII. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil, en el ámbito de su competencia;
 
@@ -1343,11 +1425,11 @@ XIX. Proponer las características y elementos de las acciones de difusión de l
 
 XX. Instrumentar proyectos internacionales de estudios sobre el desempeño de docentes y directivos escolares;
 
-XXI. Proponer a la DGII y, en su caso, participar en estudios en materia de evaluación educativa, en el ámbito de su competencia;
+XXI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XXII. Participar en la integración de la agenda de investigación del Instituto;
+XXII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XXIII. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XXIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXIV. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil, en el ámbito de su competencia;
 
@@ -1393,11 +1475,11 @@ XVI. Proponer las características y elementos de las acciones de difusión de l
 
 XVII. Participar y, en su caso, instrumentar proyectos internacionales sobre resultados educativos;
 
-XVIII. Proponer a la DGII y, en su caso, participar en estudios en materia de evaluación educativa, en el ámbito de su competencia;
+XVIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XIX. Participar en la integración de la agenda de investigación del Instituto;
+XIX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XX. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXI. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil, en el ámbito de su competencia;
 
@@ -1449,7 +1531,7 @@ XIX. Asesorar la instrumentación de proyectos internacionales de evaluación de
 
 XX. Diseñar, desarrollar y administrar las aplicaciones informáticas del banco de reactivos, tareas evaluativas e instrumentos para las evaluaciones que realice el Instituto, con base en los requerimientos de las unidades administrativas que correspondan y conforme a los estándares que emita la UIFCE y la DGIST;
 
-XXI. Participar en la integración de la agenda de investigación del Instituto; y
+XXI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXII. Desarrollar otras actividades que le sean encomendadas por su Titular.
 
@@ -1485,9 +1567,9 @@ XIII. Apoyar las acciones y programas para la formación de especialistas en pro
 
 XIV. Proporcionar información sobre las características del levantamiento y procesamiento de datos de las mediciones y evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional para su difusión;
 
-XV. Participar en la integración de la agenda de investigación del Instituto;
+XV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XVI. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE; y
+XVI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XVII. Desarrollar otras actividades que le sean encomendadas por su Titular.
 
@@ -1495,15 +1577,21 @@ XVII. Desarrollar otras actividades que le sean encomendadas por su Titular.
 
 La Unidad de Información y Fomento de la Cultura de la Evaluación tendrá las siguientes funciones:
 
-I. Coordinar el diseño e instrumentación de los modelos de gestión del conocimiento y de gestión en innovación en evaluación educativa, con la participación de las unidades administrativas;
+I. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 II. Coordinar el diseño, desarrollo e instrumentar la gobernanza de datos del Instituto, con la colaboración técnica de la DGIST;
 
-III. Coordinar el diseño, operación y actualización de las acciones de difusión de resultados de las evaluaciones desarrolladas por el Instituto para fomentar una cultura de la evaluación, con la participación de la UNPE, la UESEN y la CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-IV. Coordinar el desarrollo del programa anual de difusión y promoción del uso de la información generada por el Instituto, con la participación de la UNPE, la UESEN y la CDINEE;
+III. Coordinar el diseño, operación y actualización de las acciones de difusión de resultados de las evaluaciones desarrolladas por el Instituto para fomentar una cultura de la evaluación, con la participación de la UNPE y la UESEN;
 
-V. Coordinar estrategias de fomento de la cultura de la evaluación, a través de la promoción del uso de la información y el conocimiento, con la participación de la UNPE, la UESEN y CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IV. Coordinar el desarrollo del programa anual de difusión y promoción del uso de la información generada por el Instituto, con la participación de la UNPE y la UESEN;
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+V. Coordinar estrategias de fomento de la cultura de la evaluación, a través de la promoción del uso de la información y el conocimiento, con la participación de la UNPE y la UESEN;
 
 VI. Coordinar el diseño, desarrollo e integración de indicadores y estadísticas educativas;
 
@@ -1513,23 +1601,29 @@ VIII. Coordinar la elaboración de documentos que integren indicadores y estadí
 
 IX. Coordinar la participación en proyectos sobre indicadores, estadísticas y sistemas de información educativa con organismos nacionales e internacionales y la vinculación con áreas de planeación o estadística del sector educativo y académico;
 
-X. Coordinar el diseño y desarrollo del SIRE, con la participación de la UNPE, la UESEN y la CDINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-XI. Coordinar la identificación, integración, estandarización, administración y actualización de información para su incorporación al SIRE, con la participación de la UNPE, la UESEN y la CDINEE;
+X. Coordinar el diseño y desarrollo del SIRE, con la participación de la UNPE y la UESEN;
 
-XII. Coordinar estrategias y planeación para la promoción del uso del SIRE, con la participación de la UNPE, la UESEN, la CDINEE y la DGCS;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-XIII. Coordinar la investigación e innovación que generen conocimiento e instrumentos que coadyuven a la evaluación educativa y aprovechamiento de resultados, con la participación de la UNPE y la UESEN;
+XI. Coordinar la identificación, integración, estandarización, administración y actualización de información para su incorporación al SIRE, con la participación de la UNPE y la UESEN;
 
-XIV. Coordinar el desarrollo de investigaciones para generar información y conocimiento que coadyuve a la explicación de los resultados de las evaluaciones, con la participación de la UNPE y la UESEN;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
 
-XV. Coordinar la integración, actualización y seguimiento de la agenda de investigación del Instituto, con la participación de la UNPE y la UESEN;
+XII. Coordinar estrategias y planeación para la promoción del uso del SIRE, con la participación de la UNPE, la UESEN y la DGCS;
 
-XVI. Coordinar el programa de fomento de la investigación en materia de evaluación educativa, a partir de las necesidades del Instituto y del sector educativo;
+XIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XVII. Coordinar el desarrollo de innovaciones en materia de evaluación educativa, con la participación de la UNPE y la UESEN;
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XVIII. Promover una red de investigación e innovación en evaluación de la educación obligatoria;
+XV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
+
+XVI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
+
+XVII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
+
+XVIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XIX. Coordinar la participación del Instituto en publicaciones especializadas nacionales e internacionales;
 
@@ -1539,7 +1633,7 @@ XXI. Participar en el fortalecimiento de las capacidades técnicas de las autori
 
 XXII. Colaborar en el desarrollo de las acciones de formación y certificación de especialistas en evaluación de componentes, procesos y resultados del Sistema Educativo Nacional;
 
-XXIII. Coordinar la elaboración, seguimiento y actualización de los protocolos de actuación de las DINEE, correspondiente a los procesos en el ámbito de su competencia, con la participación de la CDINEE;
+XXIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXIV. Proponer acciones de vinculación con dependencias, instituciones y organizaciones de la sociedad civil en el ámbito de su competencia;
 
@@ -1567,11 +1661,13 @@ VII. Definir mecanismos de interlocución con diferentes usuarios de la informac
 
 VIII. Desarrollar estrategias para fortalecer las acciones de difusión, promoción del uso de la información que genera el Instituto y el fomento de la cultura de la evaluación, en coordinación con la DGCS;
 
-IX. Coordinar con la CDINEE la implementación de acciones de difusión, fomento de la cultura de la evaluación y promoción del uso de la información, a través de las DINEE;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2019)</small>
+
+IX. Coordinar con apoyo de la DGOR la implementación de acciones de difusión, fomento de la cultura de la evaluación y promoción del uso de la información, en las entidades federativas;
 
 X. Participar en las acciones de difusión de las directrices, en coordinación con la DGDME;
 
-XI. Participar en la integración de la agenda de investigación del Instituto;
+XI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XII. Promover la participación del Instituto en proyectos de investigación internacionales;
 
@@ -1581,7 +1677,7 @@ XIV. Participar en acciones de formación para fortalecer las capacidades técni
 
 XV. Apoyar las acciones y programas de formación de especialistas en la evaluación educativa, en el ámbito de su competencia;
 
-XVI. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XVI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XVII. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil;
 
@@ -1623,11 +1719,11 @@ XI. Participar en acciones de formación para fortalecer las capacidades técnic
 
 XII. Apoyar las acciones y programas de formación de especialistas en evaluación educativa, en el ámbito de su competencia;
 
-XIII. Proponer y, en su caso, participar en estudios en materia de evaluación educativa, en el ámbito de su competencia;
+XIII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XIV. Participar en la integración de la agenda de investigación del Instituto;
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XVI. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil;
 
@@ -1659,11 +1755,11 @@ IX. Participar en acciones de formación para fortalecer las capacidades técnic
 
 X. Apoyar las acciones y programas de formación de especialistas en la evaluación, en el ámbito de su competencia;
 
-XI. Proponer a la DGII y, en su caso, participar en estudios en materia de evaluación educativa, en el ámbito de su competencia;
+XI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XII. Participar en la integración de la agenda de investigación del Instituto;
+XII. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
-XIII. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XII (SIC). (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XIV. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
 
@@ -1671,147 +1767,15 @@ XV. Desarrollar otras actividades que le sean encomendadas por su Titular.
 
 ###### Artículo 76.
 
-La Dirección General de Investigación e Innovación tendrá las siguientes funciones:
-
-I. Diseñar e instrumentar un modelo de gestión del conocimiento que considere la participación de las unidades administrativas para definir sus objetivos, sus componentes y las estrategias de investigación y desarrollo;
-
-II. Diseñar e instrumentar un modelo de gestión en innovación en evaluación educativa con la participación de las unidades del Instituto para definir la vinculación de los proyectos de investigación básica y de las buenas prácticas;
-
-III. Diseñar, promover y realizar investigaciones en materia de evaluación educativa para:
-
-a. Coadyuvar a la explicación de los resultados de las evaluaciones;
-
-b. Identificar aspectos a mejorar de los procesos metodológicos;
-
-c. Identificar aspectos a mejorar en los instrumentos de obtención de información; e
-
-d. Identificar factores para promover el uso de resultados de las evaluaciones;
-
-IV. Integrar, actualizar y dar seguimiento a la agenda de investigación del Instituto, con la participación de las unidades administrativas que correspondan;
-
-V. Diseñar e implementar procesos para la gestión científica de la investigación e innovación educativas, a través del establecimiento de convenios de colaboración con instituciones de educación superior y organismos nacionales e internacionales para el desarrollo de estancias académicas, así como residencias de investigación, periodos sabáticos y otros;
-
-VI. Integrar y dar seguimiento al programa de fomento de la investigación en materia de evaluación educativa;
-
-VII. Impulsar y documentar el desarrollo de investigaciones y de buenas prácticas en materia de evaluación educativa, con la participación de las DINEE y otras unidades administrativas según corresponda;
-
-VIII. Proporcionar información que apoye a la formulación de directrices para la mejora educativa;
-
-IX. Proponer una red de investigación e innovación en evaluación educativa, con las unidades administrativas que correspondan;
-
-X. Promover la participación del Instituto en proyectos internacionales de investigación en materia de evaluación educativa;
-
-XI. Aportar elementos para la formulación y seguimiento de la Política Nacional de Evaluación de la Educación y del Programa de Mediano Plazo del Sistema Nacional de Evaluación Educativa, en el ámbito de su competencia;
-
-XII. Participar en acciones de formación para fortalecer las capacidades técnicas de las autoridades educativas, en el ámbito de su competencia;
-
-XIII. Apoyar las acciones y programas de formación de especialistas en evaluación educativa;
-
-XIV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
-
-XV. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
-
-XVI. Desarrollar otras actividades que le sean encomendadas por su Titular.
+(DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
 ###### Artículo 77.
 
-La Coordinación de Direcciones del INEE en las Entidades Federativas tendrá las siguientes funciones:
-
-I. Dirigir y supervisar las actividades de las DINEE;
-
-II. Establecer las prioridades de las DINEE, en coordinación con las unidades administrativas;
-
-III. Participar en el seguimiento de la Política Nacional de Evaluación de la Educación, de conformidad con los protocolos que establezca la UNPE;
-
-IV. Informar de manera periódica a la Junta sobre el funcionamiento de las DINEE, así como retroalimentar a las unidades administrativas correspondientes en los asuntos de su competencia;
-
-V. Apoyar, promover y dar seguimiento a las acciones de vinculación de las DINEE con las instancias estatales de evaluación educativa del Sistema Educativo Nacional y del SPD;
-
-VI. Apoyar, promover e informar a la Junta sobre las acciones de vinculación con autoridades gubernamentales y educativas, así como con instituciones y organizaciones sociales en las entidades federativas;
-
-VII. Coordinar la integración de información sobre el estado que guarda la educación y la evaluación, en las entidades federativas;
-
-VIII. Integrar la información que le remitan las DINEE sobre los posibles riesgos y obstáculos para el cumplimiento de las atribuciones del Instituto e informar a la Junta y a las unidades administrativas correspondientes;
-
-IX. Proponer a la Junta la suscripción de convenios de colaboración con las diversas instancias que en el ámbito estatal estén involucradas en la evaluación de la educación para el desarrollo de los proyectos institucionales, así como dar seguimiento a los compromisos establecidos;
-
-X. Impulsar la implementación de mecanismos de diálogo con las autoridades educativas locales y los centros escolares para promover la cultura de la evaluación y el uso de la información que genera el Instituto;
-
-XI. Apoyar la difusión de la información, lineamientos y directrices que genere el Instituto, así como la de otros proyectos en los que participe, de conformidad con los protocolos que se definan de manera conjunta con las unidades administrativas;
-
-XII. Coordinar el seguimiento de las directrices para la mejora educativa en las entidades federativas, de conformidad con los protocolos acordados con la UNPE;
-
-XIII. Coordinar el desarrollo de las acciones de formación y certificación de evaluadores, de conformidad con los protocolos que se establezcan de manera conjunta con las unidades administrativas que correspondan;
-
-XIV. Coordinar el desarrollo de acciones locales de comunicación social de conformidad con los protocolos que establezca la DGCS;
-
-XV. Apoyar los procesos de supervisión de las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional, así como las relativas al SPD, de conformidad con los protocolos que de manera conjunta se establezcan con la UNPE y la UESEN;
-
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
-
-XVI. Apoyar el seguimiento de los operativos de levantamiento de datos de las evaluaciones de los componentes, procesos y resultados del Sistema Educativo Nacional, así como los relativos al SPD, implementados por las DINEE, y retroalimentar a las unidades correspondientes para la mejora de los procesos de evaluación, de conformidad con los protocolos que se establezcan de manera conjunta con la UNPE y UESEN;
-
-XVII. Coordinar la organización y seguimiento de la participación de observadores acreditados por el Instituto en los procesos de evaluación vinculados al SPD, de conformidad con los protocolos que se establezcan de manera conjunta con la UNPE;
-
-XVIII. Canalizar y, en su caso, apoyar la atención de solicitudes de asesoría técnica de autoridades educativas u otras dependencias o instituciones, captadas por las DINEE, ante las unidades administrativas que correspondan;
-
-XIX. Colaborar en la instrumentación de acciones de fortalecimiento de capacidades técnicas de las autoridades educativas locales en materia de evaluación educativa, de conformidad con los protocolos que establezcan de manera conjunta con las unidades administrativas;
-
-XX. Coordinar la instrumentación de acciones de fortalecimiento de las capacidades técnicas de las autoridades educativas estatales en materia de evaluación educativa, de conformidad con los protocolos que establezca de manera conjunta con las unidades administrativas correspondientes;
-
-XXI. Coordinar la planeación, programación y presupuestación de la CDINEE y las DINEE, así como la gestión de los recursos humanos, materiales y financieros correspondientes, de conformidad con los protocolos que establezca la UA;
-
-XXII. Coordinar las acciones de apoyo a las DINEE para el desarrollo de estudios, investigaciones e innovaciones en materia de evaluación educativa del Instituto;
-
-XXIII. Fungir como Secretariado de Actas del Consejo de Vinculación; y
-
-XXIV. Desarrollar otras actividades que le sean encomendadas por la Junta.
+(DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
 ###### Artículo 78.
 
-Las Direcciones del INEE en las Entidades Federativas tendrán las siguientes funciones:
-
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
-
-I. Apoyar el seguimiento de la Política Nacional de Evaluación de la Educación en la entidad federativa;
-
-II. Realizar acciones de vinculación con las diversas instancias que en el ámbito estatal estén relacionadas con la evaluación del Sistema Educativo Nacional y del SPD;
-
-III. Integrar la información y comunicar a la CDINEE sobre la educación y la evaluación en la entidad federativa;
-
-IV. Informar a la CDINEE sobre los riesgos y obstáculos para el cumplimiento de las atribuciones del Instituto en la entidad federativa;
-
-V. Proponer a la CDINEE la suscripción de convenios de colaboración con diversas instancias que en el ámbito estatal estén relacionadas con la evaluación de la educación para el desarrollo de los proyectos institucionales, así como dar seguimiento a los compromisos establecidos;
-
-VI. Difundir la información que genere el Instituto, así como la de otros proyectos en los que participe y promover su uso, de conformidad con los protocolos que establezca la DGDFCE;
-
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
-
-VII. Apoyar el seguimiento de las directrices para la mejora educativa que se emitan, de conformidad con los protocolos que establezca la DGDME y la DGDFCE;
-
-VIII. Implementar mecanismos de diálogo con las autoridades educativas locales y los centros escolares para promover la cultura de la evaluación y el uso de la información que genere el Instituto;
-
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
-
-IX. Apoyar acciones de formación y certificación de evaluadores, de conformidad con los protocolos que se establezcan de manera conjunta con las unidades administrativas que correspondan;
-
-X. Realizar las acciones locales de comunicación social, en el ámbito de su competencia, de conformidad con los protocolos establecidos;
-
-XI. Implementar y supervisar los procesos de evaluación de componentes, procesos y resultados del Sistema Educativo Nacional y los del SPD, así como retroalimentar a la UNPE y a la UESEN;
-
-XII. Implementar y supervisar los procesos de validación de muestras; contratación de aplicadores; organización e implementación de operativos de campo; procesamiento e integración de información y otras acciones de los procesos de evaluación, de conformidad con los protocolos que se establezcan de manera conjunta con la UESEN y la UA;
-
-XIII. Organizar y dar seguimiento a la participación de observadores acreditados por el Instituto, de conformidad con los protocolos establecidos;
-
-XIV. Comunicar a la CDINEE las solicitudes de fortalecimiento de las capacidades técnicas de las autoridades educativas locales de conformidad con los protocolos que se establezcan de manera conjunta con las unidades administrativas que correspondan;
-
-XV. Apoyar el desarrollo de estudios, investigaciones e innovaciones en materia de evaluación educativa en la entidad federativa, de acuerdo con los protocolos establecidos;
-
-XVI. Proponer a la CDINEE la planeación, programación y presupuestación de la DINEE, de conformidad con los protocolos establecidos;
-
-XVII. Realizar la gestión de recursos humanos, materiales y financieros, de conformidad con los protocolos que establezca la UA; y
-
-XVIII. Desarrollar otras actividades que en el marco de sus funciones le sean encomendadas por el Coordinador.
+(DEROGADO, D.O.F. 15 DE FEBRERO DE 2019)
 
 ###### Artículo 79.
 
@@ -1857,7 +1821,7 @@ XVIII. Coordinar el funcionamiento de los comités de gestión y de la Unidad de
 
 XIX. Determinar las acciones para atender las auditorías de las instancias fiscalizadoras, en coordinación con las unidades administrativas;
 
-XX. Coordinar la elaboración, seguimiento y actualización de los protocolos de actuación de las DINEE, correspondiente a los procesos en el ámbito de su competencia, con la participación de la CDINEE; y
+XX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXI. Desarrollar otras actividades que le sean encomendadas por la Junta.
 
@@ -1917,7 +1881,7 @@ XXIII. Participar en los comités de gestión institucional que le correspondan,
 
 XXIV. Atender las solicitudes de información que correspondan al ámbito de su competencia;
 
-XXV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XXV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXVI. Realizar acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
 
@@ -1969,7 +1933,7 @@ XIX. Atender las solicitudes de información que correspondan al ámbito de su c
 
 XX. Coordinar la atención y el seguimiento a las auditorías que lleven a cabo las instancias fiscalizadoras, en coordinación con las áreas del Instituto;
 
-XXI. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XXI. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XXII. Realizar acciones de vinculación con instituciones y organizaciones de la sociedad civil; y
 
@@ -2017,7 +1981,7 @@ XVII. Participar en los comités de gestión institucional que le correspondan e
 
 XVIII. Atender las solicitudes de información que correspondan al ámbito de su competencia;
 
-XIX. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XIX. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XX. Fungir como enlace con las áreas de asuntos jurídicos de las dependencias y entidades de la Administración Pública Federal y demás autoridades, en los asuntos de la competencia del Instituto; y
 
@@ -2053,7 +2017,7 @@ XII. Participar en los comités de gestión institucional que le correspondan en
 
 XIII. Atender las solicitudes de información que correspondan al ámbito de su competencia;
 
-XIV. Elaborar los protocolos de actuación de las DINEE, en el ámbito de su competencia, con la colaboración de la CDINEE;
+XIV. (DEROGADA, D.O.F. 15 DE FEBRERO DE 2019)
 
 XV. Proponer acciones de vinculación con instituciones y organizaciones de la sociedad civil, de conformidad con las prioridades y protocolos que establezca la CE; y
 
@@ -2658,3 +2622,27 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos administrativos que se encuentren en trámite serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 TERCERO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación y deberá publicarse en la página de Internet del Instituto Nacional para la Evaluación de la Educación y en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de la ejecución del presente acuerdo, la Junta de Gobierno delega en el Consejero Presidente la facultad establecida en la fracción XIII, del artículo 15, del Estatuto Orgánico del Instituto Nacional para la Evaluación de la Educación, lo anterior con excepción de la facultad para autorizar nombramientos.
+
+TERCERO.- Se instruye al titular de la Unidad de Administración para que en ejercicio de sus funciones de programación, administración y control de los recursos humanos, presupuesto, recursos financieros, bienes y servicios lleve a cabo las acciones conducentes para la ejecución del presente acuerdo.
+
+CUARTO.- A efecto de ejecutar el cierre administrativo de las oficinas que ocupan las Direcciones del INEE en las Entidades Federativas, de conformidad con la Guía para el cierre de oficinas del INEE en las Entidades Federativas; los Directores del INEE en las Entidades Federativas, los Jefes de Departamento Administrativo y el Personal Operativo continuarán con su nombramiento hasta el 15 de febrero de 2019.
+
+A partir del 16 de febrero de 2019 los Jefes de Departamento Administrativo y el Personal Operativo estarán adscritos a la Dirección General de Operación Regional con efecto hasta el 31 de marzo de 2019.
+
+QUINTO.- El actual Coordinador de las Direcciones del INEE en las Entidades Federativas asumirá el cargo de Director General de Operación Regional el primero de febrero de dos mil diecinueve.
+
+SEXTO.- Los asuntos en trámite de la Coordinación de Direcciones del INEE en las Entidades Federativas o Direcciones del INEE en las Entidades Federativas, quedarán a cargo de la Dirección General de Operación Regional hasta su conclusión.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias que se opongan a lo dispuesto en el presente acuerdo.
+
+OCTAVO.- Las menciones que en otras disposiciones legales y administrativas se hagan a la Coordinación de Direcciones del INEE en las Entidades Federativas o Direcciones del INEE en las Entidades Federativas, se entenderán referidas a la Dirección General de Operación Regional, hasta en tanto se armonice la normatividad interna conforme al presente acuerdo.
+
+NOVENO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente acuerdo se publique en el Diario Oficial de la Federación.
