@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2018-09-24"
+last_updated: "2019-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -2454,3 +2454,123 @@ P.O. 24 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 334, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 53, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL DE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia conforme a lo establecido en el artículo primero transitorio del Decreto Legislativo No. 202, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 112, Segunda Parte, de fecha 14 de julio de 2017.
+
+Abrogación y ultractividad de la Ley Orgánica del Ministerio Público
+
+Artículo Segundo. Se abroga la Ley Orgánica del Ministerio Público del Estado de Guanajuato, contenida en el Decreto Legislativo número 123, de fecha 16 de diciembre de 2010, emitido por la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Guanajuato, y publicado en el Periódico Oficial del Gobierno del Estado, número 205, Segunda Parte, de fecha 24 de diciembre de 2010, salvo lo establecido en el siguiente párrafo.
+
+Las disposiciones de la Ley Orgánica del Ministerio Público para el Estado de Guanajuato que se abroga, continuarán aplicándose en lo conducente, a los procesos y casos iniciados durante su vigencia o que por su naturaleza les resulte aplicable.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Tercero. Las disposiciones reglamentarias de la presente Ley, serán expedidas por el titular de la Fiscalía General, y serán publicadas en el Periódico Oficial del Gobierno del Estado.
+
+La Fiscalía General deberá emitir su reglamento interior y normativa interna, en un plazo de ciento ochenta días, contados a partir del inicio de vigencia de la presente Ley; en tanto, la normativa de la Procuraduría General de Justicia del Estado de Guanajuato, será aplicable en lo que no se oponga a la presente Ley.
+
+Ultractividad de disposiciones reglamentarias y acuerdos de la Procuraduría General de Justicia del Estado
+
+Artículo Cuarto. La Fiscalía General seguirá observando todas las disposiciones reglamentarias y administrativas aplicables a la fecha de inicio de vigencia del presente Decreto a la Procuraduría General de Justicia del Estado de Guanajuato, que no se opongan a la presente Ley, hasta en tanto se expida y entren en vigor sus propias disposiciones reglamentarias.
+
+Asimismo, los acuerdos emitidos por el Procurador General de Justicia del Estado de Guanajuato, continuarán vigentes en lo que no contravengan al presente Decreto, hasta en tanto se emitan nuevas disposiciones que expresa o tácitamente las deroguen.
+
+Organización territorial de las Fiscalías Regionales
+
+Artículo Quinto. Las Fiscalías Regionales constituidas a través del presente Decreto, hasta en tanto no se emita determinación diversa por el Fiscal General, operarán en cuatro circunscripciones territoriales, conforme a lo siguiente:
+
+I. Fiscalía de Justicia Región A: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón. Con sede en el Municipio de León;
+
+II. Fiscalía de Justicia Región B: Abasolo, Cuerámaro, Huanímaro, Irapuato, Jaral del Progreso, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao de la Victoria y Valle de Santiago. Con sede en el Municipio de Irapuato;
+
+III. Fiscalía de Justicia Región C: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria. Con sede en el Municipio de Celaya; y
+
+IV. Fiscalía de Justicia Región D: Atarjea, Comonfort, Doctor Mora, Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, Ocampo, San Diego de la Unión, San Felipe, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Tierra Blanca, Victoria y Xichú. Con sede en el Municipio de San Miguel de Allende.
+
+Esquema funcional provisional de las Fiscalías
+
+Artículo Sexto. Hasta en tanto se emita la reglamentación de la presente Ley, las Fiscalías creadas en la misma tendrán la estructura, organización, adscripción y atribuciones de las correspondientes Subprocuradurías de Justicia, en lo que no se oponga al presente Decreto.
+
+Permanencia de facultades conferidas al Procurador General en diverso marco normativo
+
+Artículo Séptimo. Las facultades conferidas al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal General, siempre y cuando sean compatibles con las atribuciones que le otorga la Constitución Local así como las dispuestas en el presente Decreto.
+
+Referencias en diversas disposiciones
+
+Artículo Octavo. Toda referencia hecha a la Procuraduría General de Justicia del Estado, o al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderá referidas a la Fiscalía General o al Fiscal General respectivamente.
+
+De igual manera, las menciones que en otros ordenamientos se hagan a las Subprocuradurías Regionales de Justicia o Subprocuradurías Especializadas, a los Subprocuradores Regionales de Justicia o los Subprocuradores Especializados, a la Policía Ministerial o a los Agentes de la Policía Ministerial, así como a la Policía Ministerial Especializada en Justicia para Adolescentes o a los Agentes de la Policía Ministerial Especializada en Justicia para Adolescentes, se entenderán referidas a las Fiscalías Regionales de Investigación o Fiscalías Especializadas, los Fiscales Regionales de Investigaciones o los Fiscales Especializados, a los Agentes de Investigación Criminal, así como a los Agentes de Investigación Especializados en Justicia para Adolescentes, según corresponda.
+
+Ejercicio de facultades, derechos y obligaciones
+
+Artículo Noveno. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia del Estado de Guanajuato, de su titular en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de diversos órdenes de gobierno, así como con cualquier persona física o moral, serán asumidos en lo conducente por la Fiscalía General o el Fiscal General, de acuerdo con las atribuciones que mediante el presente Decreto se les otorga.
+
+Continuidad en el cargo
+
+Artículo Décimo. Los servidores públicos de la Procuraduría General de Justicia del Estado de Guanajuato continuarán ocupando los cargos equivalentes de la Fiscalía General señalados en el presente Decreto, a partir de la entrada en vigor de éste, con todas sus atribuciones.
+
+El proceso de transición del personal de la Procuraduría General de Justicia del Estado de Guanajuato, se llevará a cabo de acuerdo al Plan Estratégico de Transición que para tal efecto elabore la Fiscalía General, acorde a los siguientes lineamientos:
+
+I. El personal administrativo, de confianza y de base adscrito a la Procuraduría General de Justicia del Estado de Guanajuato conservará los derechos que haya adquirido en virtud de su relación laboral, con independencia de la denominación que corresponda a sus actividades;
+
+II. El personal adscrito a la Procuraduría General de Justicia del Estado de Guanajuato que a la fecha de entrada en vigor del presente Decreto tenga nombramiento, continuará en la función que desempeña y tendrá derecho a participar en el proceso de selección para acceder al servicio de carrera de la Fiscalía General, en términos de los principios establecidos en la presente Ley. Para ello, se garantizará su acceso a los programas de formación, entrenamiento, fortalecimiento de capacidades y evaluación durante el periodo de transición, en los términos establecidos en los lineamientos provisionales;
+
+III. En tanto se instale el servicio de carrera de la Fiscalía General, la profesionalización, el régimen disciplinario, la certificación y el régimen de seguridad social del personal de la Procuraduría General de Justicia del Estado de Guanajuato deberá cumplir con el régimen previsto en las actuales disposiciones legales;
+
+IV. El Plan Estratégica de Transición garantizará condiciones dignas y apegadas a la ley para la liquidación del personal adscrito a Procuraduría General de Justicia del Estado de Guanajuato que decida concluir su relación laboral o no acceder al servicio de carrera reglamentado en la presente Ley. El personal que no apruebe los procesos de selección del servicio de carrera dejará de formar parte de la Fiscalía General.
+
+Permanencia de derechos y prestaciones
+
+Artículo Décimo Primero. Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado de Guanajuato que hace referencia el artículo anterior, conservarán sus derechos y continuarán percibiendo las prestaciones a las que tienen derecho por el ejercicio de sus cargos, conservando la antigüedad de que gozaban.
+
+Las Condiciones Generales de Trabajo para las Dependencias, Entidades y Unidades de Apoyo de la Administración Pública del Estado de Guanajuato y demás disposiciones que se encontraran vigentes a la fecha de entrada en vigor del presente Decreto, continuarán aplicándose para el personal mencionado en el párrafo anterior, en lo que no se oponga al presente Decreto, en tanto se emita la reglamentación particular al respecto.
+
+Transferencia de recursos.
+
+Artículo Décimo Segundo. Al iniciar su vigencia el presente Decreto, todos los recursos humanos, materiales, informáticos, financieros y presupuestales de la Procuraduría General de Justicia del Estado de Guanajuato, incluyendo todos sus bienes actuales y los derechos derivados de los fondos o fideicomisos vigentes necesarios para su operación, así como el acervo documental correspondiente y bienes o documentos que tenga en su poder se transferirán a la Fiscalía General.
+
+Adecuaciones presupuestales y administrativas
+
+Artículo Décimo Tercero. La Secretaría de Finanzas, Inversión y Administración del Estado de Guanajuato, en un plazo no mayor a noventa días realizará las adecuaciones presupuestales y administrativas necesarias con motivo de la entrada en funciones de la Fiscalía General.
+
+Substanciación de los procedimientos con base a la normatividad aplicable
+
+Artículo Décimo Cuarto. Los procedimientos iniciados con antelación a la entrada en vigor del presente Decreto en contra de los servidores públicos o ex servidores públicos de la Procuraduría General de Justicia del Estado de Guanajuato, se tramitarán y se concluirán conforme a la normatividad que les fue aplicable en el momento de inicio del procedimiento.
+
+Atribución temporal de la Visitaduría General
+
+Artículo Décimo Quinto. En tanto se constituye la comisión del servicio de carrera respectiva, el procedimiento de separación establecido en el artículo 84 de la presente Ley, estará a cargo de la Visitaduría General quien ejercerá las atribuciones establecidas en dicho numeral.
+
+Servicio profesional de carrera y responsabilidades
+
+Artículo Décimo Sexto. En tanto se expiden las disposiciones jurídicas relativas al servicio profesional de carrera de los Agentes del Ministerio Público, los Agentes de Investigación Criminal y Personal Pericial así como las relativas a la capacitación, formación ética y profesional, y a la Responsabilidad Administrativa, se continuará aplicando la Ley Orgánica del Ministerio Público del Estado de Guanajuato, que con el presente Decreto se abroga, y demás marco jurídico en la materia, en lo conducente en todo aquello que no se oponga a las disposiciones del presente Decreto.
+
+Instancias competentes para emisión de actas y constancias
+
+Artículo Décimo Séptimo. En tanto se emite la reglamentación o delegación correspondiente para determinar al área competente para emitir actas de atención y actas circunstanciadas, así como constancias de antecedentes penales y revisión vehicular, se estará a lo siguiente:
+
+I. Actas de atención y actas circunstanciadas, los Encargados de los Módulos de Atención Primaria y los Agentes del Ministerio Público; y
+
+II. Constancias de antecedentes penales y de revisión vehicular, la AIC, a través del Centro de Atención y Servicios.
+
+Uso de papelería y sellos oficiales
+
+Artículo Décimo Octavo. En tanto se adquieren los recursos materiales necesarios, se continuará utilizando la papelería, sellos y demás materiales de trabajo que tengan el nombre y escudos de la Procuraduría General de Justicia del Estado de Guanajuato, como propios de la Fiscalía General.
+
+Derogación de disposiciones contrarias
+
+Artículo Décimo Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Designación del primer titular del Órgano Interno de Control
+
+Artículo Vigésimo. La Fiscalía General remitirá en un plazo de hasta noventa días, posteriores al inicio de vigencia del presente Decreto, la terna al Congreso del Estado para la designación del titular del Órgano Interno de Control.
+
+El Congreso del Estado contará con un plazo de hasta treinta días, contados a partir de la recepción de la terna referida en el párrafo anterior, para designar al titular del Órgano Interno de Control, debiendo garantizar la designación atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+El Fiscal General designará un encargado de despacho del Órgano Interno de Control hasta en tanto el Congreso del Estado realice la designación de titular, atendiendo al procedimiento establecido, sin perjuicio de que dicho encargado pueda integrar la terna propuesta, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
