@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-01-21"
+last_updated: "2019-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1957,9 +1957,9 @@ XI. Ejercer las demás atribuciones que le confieran esta Ley y otras disposicio
 
 (Competencia por materia) Las Comisiones ordinarias serán competentes para conocer los asuntos que les encomiende el Pleno de la Legislatura y demás normas aplicables, así como la materia que derive de su denominación, siendo la siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
 
-I. Acceso a la Información. Tiene a su cargo la atención de asuntos en materia de información pública, acceso a la información, transparencia y protección de datos personales;
+I. Acceso a la Información y rendición de cuentas. Tiene a su cargo la atención de asuntos en materia de información pública, acceso a la información, transparencia, protección de datos personales y rendición de cuentas.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2831,13 +2831,17 @@ Asimismo corresponde vigilar el funcionamiento y actualización de la informaci�
 
 I. Un Presidente, que será el Presidente de la Legislatura en funciones;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2019)</small>
 
-II. Un Secretario Técnico, que será el titular de la Secretaría de Servicios Parlamentarios;
+II. Un Vicepresidente, que será el Presidente o Presidenta de la Comisión de Acceso a la Información y rendición de cuentas de la Legislatura que corresponda;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
 
-III. Tres vocales, que serán los titulares de la Dirección de Servicios Administrativos, de la Dirección de Servicios Financieros y de la Contraloría Interna.
+III. Un Secretario Técnico, que será el titular de la Secretaría de Servicios Parlamentarios; y
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
+
+IV. Dos vocales, que serán los titulares de la Dirección de Servicios Administrativos y de la Dirección de Servicios Financieros;
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2846,6 +2850,10 @@ El Comité de Transparencia sesionará de forma ordinaria por lo menos cada 4 me
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Tendrán derecho a voz y voto todos los integrantes del Comité, sus resoluciones se aprobarán por mayoría de votos, teniendo el presidente el voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2019)</small>
+
+El titular de la Contraloría Interna será invitado a las sesiones que desahogue el Comité y tendrá únicamente derecho a voz.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3136,3 +3144,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación 
 Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 15 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
