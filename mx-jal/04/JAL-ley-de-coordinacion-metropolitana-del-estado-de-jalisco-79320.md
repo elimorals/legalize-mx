@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2018-12-06"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -75,27 +75,33 @@ Conceptos de la ley.
 
 2. Agencia: la Agencia Metropolitana es la Instancia de Coordinación Metropolitana abocada a establecer los objetivos y estrategias y llevar a cabo acciones en una de las materias de interés metropolitano que, por su complejidad, requiere de un órgano enfocado a ella específicamente.
 
-3. Área metropolitana: es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarado oficialmente con ese carácter por decreto del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-4. Banco de Proyectos Metropolitanos: es el mecanismo que administra el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda que identifica, evalúa, prioriza y programa los proyectos con impacto metropolitano en relación a su capacidad para atender las prioridades metropolitanas y que pueden ser objeto de las fuentes de financiamiento de las acciones metropolitanas, contemplando, entre otros, el fondo metropolitano.
+3. Área metropolitana: es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarado oficialmente con ese carácter por decreto del Congreso del Estado; o en su caso, la reconocida como zona metropolitana administrativamente por los procedimientos y leyes aplicables.
 
-5. Desarrollo metropolitano urbano: es el proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en un Área Metropolitana, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones; busca garantizar el mejoramiento de la calidad de vida de la población, preservar el ambiente, así como la conservación y reproducción de los recursos naturales.
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-6. Dictamen de Impacto Urbano Metropolitano: es el documento técnico que expide el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, en su carácter de órgano técnico del Régimen de Coordinación Metropolitana, donde se avala el impacto positivo que debe generar un proyecto que pretende ser financiado con recursos del Fondo Metropolitano.
+4. Área Metropolitana Interestatal: es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios pertenecientes al Estado de Jalisco y a una o más entidades federativas, reconocida como zona metropolitana administrativamente por los procedimientos y leyes aplicables.
 
-7. Fideicomiso: el Fideicomiso Metropolitano es el instrumento público administrativo y de inversión a través del cual se ejercerán los recursos del Fondo Metropolitano.
+5. Banco de Proyectos Metropolitanos: es el mecanismo que administra el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda que identifica, evalúa, prioriza y programa los proyectos con impacto metropolitano en relación a su capacidad para atender las prioridades metropolitanas y que pueden ser objeto de las fuentes de financiamiento de las acciones metropolitanas, contemplando, entre otros, el fondo metropolitano.
 
-8. Gerencia Técnica Metropolitana: es el órgano técnico que forma parte de la estructura del Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, subordinado a la dirección general. El cual se encarga de generar la coordinación, información y propuestas de una materia específica, siguiendo las atribuciones que le confiere el Estatuto Orgánico respectivo.
+6. Desarrollo metropolitano urbano: es el proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en un Área Metropolitana, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones; busca garantizar el mejoramiento de la calidad de vida de la población, preservar el ambiente, así como la conservación y reproducción de los recursos naturales.
 
-9. Instancias: las Instancias de Coordinación Metropolitana son entes intermunicipales que se encuentran a la base del Régimen de Coordinación Metropolitana. Se crean y se define su organización y funcionamiento mediante la expedición de los estatutos orgánicos intermunicipales respectivos.
+7. Dictamen de Impacto Urbano Metropolitano: es el documento técnico que expide el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, en su carácter de órgano técnico del Régimen de Coordinación Metropolitana, donde se avala el impacto positivo que debe generar un proyecto que pretende ser financiado con recursos del Fondo Metropolitano.
 
-10. Mecanismo: los mecanismos de coordinación metropolitana son las acciones intergubernamentales concertadas entre las Instancias de coordinación metropolitana, los municipios y, en su caso el Gobierno del Estado, con el objeto de una eficaz coordinación o asociación entre los gobiernos que integran un Área Metropolitana para promover el Desarrollo metropolitano urbano.
+8. Fideicomiso: el Fideicomiso Metropolitano es el instrumento público administrativo y de inversión a través del cual se ejercerán los recursos del Fondo Metropolitano.
 
-11. Región Metropolitana. es la delimitación geográfica correspondiente a un conjunto de municipios colindantes o cercanos a un Área Metropolitana, los cuales presentan vínculos socioeconómicos, así como tendencias de crecimiento con relación a ella sin presentar una conurbación; declarada oficialmente con ese carácter por el Congreso del Estado de Jalisco.
+9. Gerencia Técnica Metropolitana: es el órgano técnico que forma parte de la estructura del Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, subordinado a la dirección general. El cual se encarga de generar la coordinación, información y propuestas de una materia específica, siguiendo las atribuciones que le confiere el Estatuto Orgánico respectivo.
 
-12. Régimen de Coordinación Metropolitana: es el conjunto de Instancias, mecanismos e instrumentos de planeación de escala metropolitana que permiten promover el desarrollo metropolitano urbano.
+10. Instancias: las Instancias de Coordinación Metropolitana son entes intermunicipales que se encuentran a la base del Régimen de Coordinación Metropolitana. Se crean y se define su organización y funcionamiento mediante la expedición de los estatutos orgánicos intermunicipales respectivos.
 
-13. Sistema Integral de Desarrollo metropolitano urbano: es el conjunto de componentes que trabajan en las distintas tareas de información, planeación y gestión de un área metropolitana específica. En el Sistema convergen las instancias, planes, programas, presupuestos y proyectos, para trabajar organizadamente, además de que concurren con sus diferentes recursos y en el ámbito de su competencia los tres niveles de gobierno, bajo la coordinación de la instancia técnica del régimen de coordinación metropolitano respectivo, la cual se constituye en cabeza del sector metropolitano.
+11. Mecanismo: los mecanismos de coordinación metropolitana son las acciones intergubernamentales concertadas entre las Instancias de coordinación metropolitana, los municipios y, en su caso el Gobierno del Estado, con el objeto de una eficaz coordinación o asociación entre los gobiernos que integran un Área Metropolitana para promover el Desarrollo metropolitano urbano.
+
+12. Región Metropolitana. es la delimitación geográfica correspondiente a un conjunto de municipios colindantes o cercanos a un Área Metropolitana, los cuales presentan vínculos socioeconómicos, así como tendencias de crecimiento con relación a ella sin presentar una conurbación; declarada oficialmente con ese carácter por el Congreso del Estado de Jalisco.
+
+13. Régimen de Coordinación Metropolitana: es el conjunto de Instancias, mecanismos e instrumentos de planeación de escala metropolitana que permiten promover el desarrollo metropolitano urbano.
+
+14. Sistema Integral de Desarrollo metropolitano urbano: es el conjunto de componentes que trabajan en las distintas tareas de información, planeación y gestión de un área metropolitana específica. En el Sistema convergen las instancias, planes, programas, presupuestos y proyectos, para trabajar organizadamente, además de que concurren con sus diferentes recursos y en el ámbito de su competencia los tres niveles de gobierno, bajo la coordinación de la instancia técnica del régimen de coordinación metropolitano respectivo, la cual se constituye en cabeza del sector metropolitano.
 
 ###### Artículo 3.
 
@@ -595,13 +601,31 @@ Aprobación y publicación del estatuto orgánico.
 
 3. El estatuto orgánico y sus reformas deben publicarse en el Periódico Oficial "El Estado de Jalisco" y en las gacetas municipales de los municipios correspondientes.
 
-### Capítulo I. Disposiciones generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+### Capítulo V. Reconocimiento de las zonas metropolitanas federales
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 25 Bis.
+
+Requisitos para el reconocimiento de zonas metropolitanas federales.
+
+1. Se reconoce oficialmente una zona metropolitana federal, como:
+
+I. Área Metropolitana, la reconocida administrativamente como zona metropolitana por un comité interinstitucional de la autoridad federal correspondiente, se le aplicará la Ley de Coordinación Metropolitana del Estado de Jalisco y las demás disposiciones legales metropolitanas.
+
+En el caso de áreas metropolitanas ya decretadas por el Congreso del Estado y el proceso de homologación señalado en el párrafo anterior, implique la adición de uno o más municipios, estos deberán cumplir al menos con lo señalado en la fracción IV del artículo 17 de esta Ley.
+
+II. Área Metropolitana Interestatal, la reconocida administrativamente como zona metropolitana por un comité interinstitucional de la autoridad federal correspondiente; se les aplicará la Ley de Coordinación Metropolitana del Estado de Jalisco y demás disposiciones legales metropolitanas a él o los municipios asentados en el territorio de Jalisco; dando por cumplidas todas las disposiciones relativas al proceso de declaración de área metropolitana.
+
+Él o los municipios del Estado de Jalisco, deberán suscribir conjuntamente con los municipios de las demás entidades federativas que integran el área metropolitana interestatal, convenios de coordinación metropolitana, concertación y la constitución de una comisión de ordenamiento, atendiendo en todo momento los principios, políticas y lineamientos contenidos en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
 
 ## Título Tercero. Instancias de coordinación de área metropolitana
 
-### Capítulo II. Junta de Coordinación Metropolitana
+### Capítulo I. Disposiciones generales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 26.
 
@@ -635,9 +659,7 @@ II. Las Mesas de Gestión Metropolitana, en adelante Mesas de Gestión.
 
 3. A la denominación de las instancias de coordinación se agrega el nombre particular del área metropolitana correspondiente.
 
-### Capítulo III. Instituto Metropolitano de Planeación
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+### Capítulo II. Junta de Coordinación Metropolitana
 
 ###### Artículo 27.
 
@@ -727,9 +749,9 @@ Funcionamiento de la Junta.
 
 3. (DEROGADO, P.O. 11 DE ENERO DE 2018)
 
-### Capítulo IV. Consejo Ciudadano Metropolitano
+### Capítulo III. Instituto Metropolitano de Planeación
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 30.
 
@@ -809,9 +831,9 @@ XIV. Las demás que le concedan los municipios a través del convenio de coordin
 
 2. El Instituto de Planeación y Gestión del Desarrollo debe coordinarse con las dependencias y entidades estatales correspondientes en el desahogo de los asuntos de su competencia.
 
-### Capítulo V. Consejo Consultivo de Desarrollo metropolitano
+### Capítulo IV. Consejo Ciudadano Metropolitano
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 32.
 
@@ -887,7 +909,7 @@ Herramientas de Participación ciudadana.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2018)</small>
 
-### Capítulo VI. Agencias Metropolitanas
+### Capítulo V. Consejo Consultivo de Desarrollo metropolitano
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -905,7 +927,7 @@ Su funcionamiento estará definido en el reglamento correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2018)</small>
 
-### Capítulo VII. Mesas de Gestión Metropolitana
+### Capítulo VI. Agencias Metropolitanas
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -950,6 +972,10 @@ Creación y funcionamiento de las agencias metropolitanas.
 1. La creación y funcionamiento de las Agencias Metropolitanas se determinarán en el ordenamiento de creación respectivo y sus reglamentos internos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2018)</small>
+
+### Capítulo VII. Mesas de Gestión Metropolitana
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 40.
 
@@ -1166,3 +1192,9 @@ del Estado de Jalisco"
 OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.
 
 NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27236/LXII/19 QUE ADICIONA UN NUEVO NUMERAL 4 Y RECORRE LAS SIGUIENTES AL ARTÍCULO 3° Y SE CREA UN CAPÍTULO V AL TÍTULO SEGUNDO Y UN ARTÍCULO 25 BIS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
