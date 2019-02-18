@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-implementacion-del-sistema-penal-acusatorio-en-1011
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-02"
-last_updated: "2016-05-23"
+last_updated: "2019-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de junio de 2014.
 
@@ -153,7 +153,17 @@ IV. Desarrollar y ejecutar los programas de capacitación a los integrantes del 
 
 V. Nombrar al Secretario Técnico; y
 
-VI. Las demás que establezcan otros ordenamientos o que sean necesarias para el cumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+VI. Conducir y coordinar los estudios, actividades, capacitaciones, proyectos y análisis que se consideren necesarios e idóneos para la evaluación de la Implementación del Sistema Penal Acusatorio en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+VII. Recibir las opiniones de Organizaciones de la Sociedad Civil, Instituciones Académicas, Expertos en la materia y de la ciudadanía en general, respecto de las formas de mejora del Sistema Penal Acusatorio, dentro de la esfera competencial del Estado; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+VIII. Las demás que establezcan otros ordenamientos o que sean necesarias para el cumplimiento de su objeto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -280,3 +290,11 @@ Se deberán hacer las modificaciones a las partidas presupuestales correspondien
 ###### ARTÍCULO QUINTO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, la referencia a dicha Fiscalía contenida en el presente Decreto, se entenderá hecha a la Procuraduría General de la República.
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104.- SE REFORMA EL ARTÍCULO 8° DE LA LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
