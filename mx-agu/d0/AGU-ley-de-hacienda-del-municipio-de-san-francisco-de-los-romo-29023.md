@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2017-07-03"
+last_updated: "2019-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -749,15 +749,23 @@ En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará faculta
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
-I. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble esté construido;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
 
-II. De dos y medio veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+I. De cinco veces la Unidad de Medida y Actualización (UMA) vigente, elevado al año cuando el inmueble esté construido;
 
-III. De quince veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+II. De dos y medio veces la Unidad de Medida y Actualización (UMA) vigente, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE FEBRERO DE 2019)</small>
+
+III. De quince veces la Unidad de Medida y Actualización (UMA), elevado al año cuando se trate de un inmueble popular, de uso habitacional.
 
 Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
 
-IV. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+IV. De cinco veces la Unidad de Medida y Actualización (UMA) vigente, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
 
 Para los fines de esta ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -1037,7 +1045,7 @@ Los fraccionamientos y desarrollos habitacionales que no hayan sido enterados a 
 
 ### CAPITULO VII. De los Fraccionamientos
 
-### CAPÍTULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
+### CAPITULO IX. Por los Servicios Prestados en el Rastro Municipal
 
 #### SECCION UNICA
 
@@ -1057,7 +1065,7 @@ Para lograr lo anterior, deberán remitir copia de contrato de compraventa a la 
 
 Los fraccionadores tienen obligación de ceder el título gratuito al Municipio para destinarlo a parques, mercados, escuelas, puestos de policía u otros servicios públicos similares, el por ciento de donación que establece el Artículo de la Ley de Fraccionamiento, Relotificación, Fusión y Subdivisión de Terrenos del Estado de Aguascalientes.
 
-### CAPITULO IX. Por los Servicios Prestados en el Rastro Municipal
+### CAPÍTULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
 
 ###### ARTICULO 99.
 
@@ -1093,29 +1101,93 @@ Los administradores o encargados del Rastro Municipal o lugares autorizados para
 
 Por la prestación de servicios en los Panteones Municipales, se causarán los derechos que al efecto se señalen en la Ley de Ingresos del Municipio, tales servicios consistirán en:
 
-I.- Expedición de permisos para uso de fosas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
 
-II.- Inhumaciones;
+I.- Inhumación;
 
-III.- Expedición de duplicados de servicios;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
 
-IV.- Expedición de duplicados de permisos;
+II.- Exhumación;
 
-V.- Autorización de traspasos de fosas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
 
-VI.- Traslado de cadáveres; y
+III.- Reinhumación;
 
-VII.- Servicios especiales.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2019)</small>
 
-En los panteones únicamente se causarán los derechos relativos a los servicios a que se refieren las fracciones II, III, V y VI de este Artículo.
+IV.- Derecho de uso de fosa a perpetuidad:
+
+a. Sencilla;
+
+b. Doble; o
+
+c. Triple;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2019)</small>
+
+V.- Derecho de uso de nicho a perpetuidad:
+
+a. Sencillo; o
+
+b. Doble;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2019)</small>
+
+VI.- Arrendamiento de fosa sencilla a temporalidad:
+
+a. Contrato de temporalidad de 5 años para finados menores de 15 años de edad; o
+
+b. Contrato de temporalidad de 6 años para finados de 15 años de edad en adelante;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2019)</small>
+
+VII.- Arrendamiento de gaveta sencilla a temporalidad:
+
+a. Contrato de temporalidad de 5 años para finados menores de 15 años de edad; o
+
+b. Contrato de temporalidad de 6 años para finados de 15 años de edad en adelante;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+VIII.- Arrendamiento de nicho sencillo a temporalidad de 6 años;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2019)</small>
+
+IX.- Licencia de construcción:
+
+a. Excavación por metro cubico;
+
+b. Gaveta aérea;
+
+c. Capilla;
+
+d. Gaveta sencilla;
+
+e. Gaveta doble; o
+
+f. Gaveta triple;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+X.- Cesión de derechos de uso o cambio de titular; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2019)</small>
+
+XI.- Reposición de título.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+En los panteones únicamente se causarán los derechos relativos a los servicios a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI de este Artículo.
 
 ###### ARTICULO 106.
 
 Cuando se trate de cadáveres de personas que en vida hubiesen sido notoriamente indigentes y no hubiere quien (sic) interese en ellos, su inhumación se hará gratuitamente en el panteón que señale el Municipio.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 107.
 
-En los casos de cadáveres de personas cuyos deudos carezcan de recursos, podrá eximirse total o parcialmente del pago de los Derechos de Arrendamiento por cinco años; excavaciones e inhumaciones que establece este Capítulo.
+Cuando se trate de cadáveres cuyos deudos carezcan de recursos, podrá eximirse total o parcialmente del pago de los Derechos de Arrendamiento por seis años; excavaciones e inhumaciones que establece este Capítulo.
 
 ###### ARTICULO 108.
 
@@ -1239,137 +1311,43 @@ Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, ser�
 
 ### CAPITULO XIV. Por Servicios de Alumbrado Público
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-ARTICULO 122 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consiste en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación la cual se constituye de interés general, el cual se presta sin aspiración alguna de lucro.
+ARTICULO 122 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles, callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinaran al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-ARTICULO 122 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
+ARTICULO 122 B.- Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios que se encuentren en el territorio de éste Municipio de San Francisco de los Romo, consumidores de energía eléctrica clasificados en las Categorías tarifas DB1, DB2, PDBT, GDBT, GDMTH, GDMTO, DIST, DIT.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-ARTICULO 122 C.- La Tesorería Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
+ARTICULO 122 C.- El Ayuntamiento está facultado para determinarla (sic) forma del cobro de este derecho, previéndose en la correspondiente Ley de Ingresos o mediante el convenio que establezca con la Comisión Federal de Electricidad.
 
-El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
+(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-ARTICULO 122 D.- El pago de los derechos por el servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales y el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de su prestación del servicio de alumbrado público en todo el Municipio.
+ARTICULO 122 D.- Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho.
 
-La Ley de Ingresos señalará en forma anual el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado en razón del sistema de fórmulas establecidas en el presente Capitulo.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 122 E.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
 
-ARTICULO 122 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
+ARTICULO 122 F.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 122 G.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-ARTICULO 122 F.- El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+ARTICULO 122 H.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-A) Costo por servicios personales empleados en el año en la instalación operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
+ARTICULO 122 I.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
+ARTICULO 122 J.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-C) Costo de la reserva de contingencia que se establezca para el año para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
+ARTICULO 122 K.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-D) Costo del Suministro de Energía Eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, así como los que se sufran por mayor cobertura y nuevos proyectos.
+ARTICULO 122 L.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
-E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará la contribución, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 H.- El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado previa propuesta del Ayuntamiento que se realice en la iniciativa de Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 I.- El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
-
-(VÉASE ARCHIVO ANEXO)
-
-En Donde
-
-CFla= Crédito Fiscal Individual Habitacional
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
-
-CFlB= Crédito Fiscal Individual Comercial
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad comercial o de servicios.
-
-CFIx= Crédito Fiscal Individual Industrial
-
-Será la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad industrial.
-
-CTS= Costo Total del Servicio
-
-La cantidad resultante de la suma de los conceptos que establece el Artículo, 122 F de la presente Ley, aprobado por el Congreso del Estado.
-
-FS= Factor Seguridad
-
-Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
-
-FB= Factor de Bienestar
-
-Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
-
-NE= Nivel Económico
-
-Se obtendrá el presente factor a través de la asignación de uno de los siguientes valores a cada una de las comunidades del Municipio en razón del nivel económico del mismo, partiendo de los siguientes estratos, valores que deberán ser asignados por el Cabildo:
-
-Alto 2
-
-Medio 1.5
-
-Bajo 1
-
-Interés Social 0.8
-
-Suburbano 0.7
-
-Pobreza Baja 0.6
-
-Pobreza Media 0.5
-
-Pobreza Extrema 0.3
-
-TB = Total de Beneficiarios
-
-El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
-
-TC= Total de Comercios
-
-El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
-
-TP= Total de Población
-
-Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
-
-TT= Total de Trabajadores
-
-El Presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 K.- Los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
-
-Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 L.- La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+ARTICULO 122 M.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -1696,3 +1674,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108.- SE REFORMAN LOS ARTÍCULOS 62, 105, 107, 122 A, 122 B, 122 C, 122 D, Y 122 E; SE ADICIONAN UNAS FRACCIONES VIII, IX, X Y XI AL ARTÍCULO 105; ASÍ COMO SE DEROGAN LOS ARTÍCULOS 122 F, 122 G, 122 H, 122 I, 122 J, 122 K, 122 L, 122 M, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
