@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-ministerio-publico-del-17280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-09"
-last_updated: "2013-11-13"
+last_updated: "2019-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 9 de agosto de 2000.
 
@@ -1902,3 +1904,35 @@ P.O. 13 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento fue validado por el Consejo Consultivo en sesión ordinaria de fecha 19 de diciembre de 2018, dando cumplimiento al artículo 28, fracción IV, de la ley Orgánica de la Fiscalía General del Estado de Sinaloa. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley Orgánica del Ministerio Público del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 095 de fecha 9 de agosto del 2000.
+
+###### ARTÍCULO TERCERO.
+
+Las atribuciones y asuntos encomendados a las unidades administrativas por las disposiciones previstas en el Reglamento que se abroga, serán competencia y quedarán radicados para su prosecución en las unidades administrativas que se establecen en la ley Orgánica y el presente Reglamento, cuyas competencias y atribuciones sean de naturaleza similar y corresponda a las de aquellas, por ende, se harán cargo de las mismas, determinarán su sustanciación y dictaran las resoluciones correspondientes; sin defecto de que se cumplan y observen las especificidades, que en este particular precise el presente Reglamento.
+
+Las averiguaciones previas y procesos penales del sistema tradicional, así como los procedimientos de cualquier naturaleza iniciados antes de la emisión del presente Reglamento, se resolverán conforme a las disposiciones vigentes a su inicio o que deben ser sustanciados con base en la normatividad vigente al momento del hecho.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos humanos reconocidos en el Estado de Sinaloa antes de la entrada en vigor de este reglamento mantendrán su vigencia y se aplicarán conforme al principio de progresividad en todo lo que no se oponga a la misma.
+
+Este reglamento en materia de derechos humanos y sus garantías desarrollará los derechos humanos, principios y mecanismos de exigibilidad reconocidos por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto por este Reglamento. Los acuerdos, circulares, oficios y demás instrumentos jurídicos y administrativos que no se opongan a este Reglamento continuarán en vigor.
+
+###### ARTÍCULO SEXTO.
+
+El Fiscal General determinará la adscripción de los servidores públicos conforme a la nueva estructura que regula este Reglamento, tomando en cuenta la situación presupuestal y organizacional que a la fecha de entrada en vigor de este ordenamiento presenten las unidades administrativas y órganos desconcentrados de la Fiscalía General.
