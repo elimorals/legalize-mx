@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2018-09-05"
+last_updated: "2019-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -63,7 +61,7 @@ Por su parte, el Instituto de Finanzas y Federalismo Hacendario del Estado, es i
 
 Ambos institutos desarrollan atribuciones tendientes a brindar asesoría técnica y jurídica en las materias que por mandato constitucional están a cargo de los ayuntamientos, resultando que el Instituto de Desarrollo y Fortalecimiento Municipal, principalmente proporciona asistencia técnica en materias administrativas, de planeación y hacienda y coadyuva en la formulación de proyectos de carácter reglamentario o en manuales administrativos y el Instituto de Finanzas Públicas y Federalismo Hacendario realiza estudios relativos al Sistema Nacional y Estatal de Coordinación Hacendaria, realiza estudios permanentes de la legislación de los sistemas hacendarios de la Federación, Estados y Municipios y, atendiendo a que las funciones de los dos institutos se encuentran íntimamente ligadas con el desarrollo municipal, con la finalidad de incrementar la eficiencia para el desarrollo municipal y lograr su fortalecimiento, es que se propone la integración de funciones en un solo órgano que proceda a los municipios de la asesoría técnica, jurídica y contable en las atribuciones que por ley están a cargo de los ayuntamientos.
 
-Por lo anteriormente expuesto, se propone desaparecer el Instituto de Coordinación Hacendaria y que las funciones y atribuciones sean absorbidas por el Instituto de Desarrollo y Fortalecimiento Municipal, desde su integración, lo (sic) elementos de su composición, los métodos de desintegración de sus integrantes, su status institucional y sus competencias principales que resultan centrales para la configuración del modelo de Estado, revistiéndolo de todas las atribuciones que actualmente competen a los dos institutos a efecto de que sea un modelo de Órgano Constitucional Autónomo.
+Por lo anteriormente expuesto, se propone desaparecer el Instituto de Coordinación Hacendaria y que las funciones y atribuciones sean absorbidas por el Instituto de Desarrollo y Fortalecimiento Municipal, desde su integración, los elementos de su composición, lo (sic) métodos de desintegración de sus integrantes, su status institucional y sus competencias principales que resultan centrales para la configuración del modelo de Estado, revistiéndolo de todas las atribuciones que actualmente competen a los dos institutos a efecto de que sea un modelo de Órgano Constitucional Autónomo.
 
 Dentro del análisis a los motivos expuestos observamos la insistencia de señalar que son dos Institutos diferentes en su origen pero análogos en sus funciones y objetivos, y que al mismo tiempo explica que la Ley de Coordinación Hacendaria del Estado de Morelos, ha sufrido reformas, derogaciones y adiciones, por lo que se propone su abrogación para dar a luz a una Ley más completa en su estructura, lo que no encuentra impedimento dentro de la técnica legislativa para llevarse a cabo.
 
@@ -143,9 +141,11 @@ El coeficiente de participación efectiva a que se refiere el párrafo anterior,
 
 VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 7.
 
-La distribución que corresponda a cada municipio para participar de la recaudación federal de ingresos que pertenezca al estado, se determinará de conformidad con los factores que se obtengan de aplicar la fórmula que considere las bases siguientes:
+La distribución que corresponda a cada municipio para participar de la recaudación federal de ingresos que pertenezca al estado, con las excepciones prevista en esta ley, se determinará de conformidad con los factores que se obtengan de aplicar la fórmula que considere las bases siguientes:
 
 I.- El 60% en razón directa al número de habitantes que registre el municipio, de acuerdo a los últimos datos oficiales de población emitidos por el INEGI, a mayor número de habitantes mayor monto;
 
@@ -217,6 +217,8 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 15.
 
 Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando, sólo para efectos de referencia, el 1.5% al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
@@ -285,11 +287,13 @@ IV.- El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelo
 
 El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos será el secretario técnico de los organismos señalados en las fracciones I, II y III de este artículo y tendrá derecho a voz, pero no a voto.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 20.
 
-La Reunión Estatal de Funcionarios Hacendarios se integrará por la persona titular del Poder Ejecutivo del Estado, por sí o por conducto de la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, los Presidentes Municipales de los 33 Municipios del Estado por sí o por conducto de la persona titular de la Tesorería Municipal y por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado.
+La Reunión Estatal de Funcionarios Hacendarios se integrará por la persona titular del Poder Ejecutivo del Estado, por sí o por conducto de la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, los Presidentes Municipales del Estado por sí o por conducto de la persona titular de la Tesorería Municipal y por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 La Reunión Estatal de Funcionarios Hacendarios, será presidida de manera colegiada por el Titular del Poder Ejecutivo y del Coordinador de la Comisión Permanente de Funcionarios Hacendarios; éste último será elegido por los representantes municipales integrantes de la citada Comisión Permanente de Funcionarios Hacendarios y durará en su encargo de Coordinado, por el plazo de un año.
 
@@ -331,17 +335,29 @@ VIII.- Determinar las sedes, agenda y temática de la Reunión Estatal de Funcio
 
 La Comisión Permanente de Funcionarios Hacendarios se integrará por el Poder Ejecutivo representado por la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, o el funcionario que esta designe, por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado y por seis representantes de los Municipios del Estado, mismos que serán elegidos uno por cada Grupo Zonal de los que a continuación se expresan, debiendo representarlos en forma rotativa.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2019)</small>
+
 GRUPO UNO: Cuernavaca, Jiutepec, Temixco, Xochitepec, Yautepec y Emiliano Zapata;
 
-GRUPO DOS: Axochiapan, Ayala, Cuautla, Jantetelco, Jonacatepec y Tepalcingo;
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+GRUPO DOS: Axochiapan, Ayala, Cuautla, Jantetelco, Jonacatepec de Leandro Valle y Tepalcingo;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2019)</small>
 
 GRUPO TRES: Atlatlahucan, Huitzilac, Tepoztlán, Tlalnepantla, Tlayacapan y Totolapan;
 
-GRUPO CUATRO: Ocuituco, Temoac, Tetela del Volcán, Yecapixtla y Zacualpan de Amilpas;
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-GRUPO CINCO: Jojutla, Puente de Ixtla, Tlaltizapán de Zapata, Tlaquiltenango y Zacatepec, y
+GRUPO CUATRO: Hueyapan, Ocuituco, Temoac, Tetela del Volcán, Yecapixtla y Zacualpan de Amilpas;
 
-GRUPO SEIS: Amacuzac, Coatlán del Río, Mazatepec, Miacatlán y Tetecala.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+GRUPO CINCO: Jojutla, Puente de Ixtla, Tlaltizapán de Zapata, Tlaquiltenango, Xoxocotla y Zacatepec; y
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+GRUPO SEIS: Amacuzac, Coatetelco, Coatlán del Río, Mazatepec, Miacatlán y Tetecala.
 
 Cada Grupo zonal designará de entre sus integrantes a un representante para integrar a la Comisión Permanente de Funcionarios Hacendarios.
 
@@ -457,21 +473,71 @@ Cuando el Poder Ejecutivo a través de la Secretaría de Despacho encargada de l
 
 Al escrito de interposición de la inconformidad se adjuntarán las pruebas documentales en que se apoye su derecho y acredite la violación.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios, en un plazo de 30 días hábiles realizará el análisis de la inconformidad y de las pruebas adjuntas a ella en atención a las reglas de valoración establecidas en el Código Fiscal del Estado de Morelos, emitiendo un informe en el que se exprese su opinión sobre el particular a la Asamblea Estatal de Funcionarios Hacendarios.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+La Comisión Permanente Estatal de Funcionarios Hacendarios, en un plazo de 30 días hábiles realizará el análisis de la inconformidad y de las pruebas adjuntas a ella en atención a las reglas de valoración establecidas en el Código Fiscal del Estado de Morelos, emitiendo un informe en el que se exprese su opinión sobre el particular a la Reunión Estatal de Funcionarios Hacendarios.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 28.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios realizará un informe que presentará en un plazo de 30 días hábiles, a la Asamblea Estatal de Funcionarios Hacendarios para su conocimiento y enviará copia del mismo y del escrito de inconformidad a los representantes de las partes, para que en un plazo de 30 días hábiles manifiesten lo que a su interés convenga y aporten las pruebas que estime pertinentes.
+La Comisión Permanente Estatal de Funcionarios Hacendarios realizará un informe que presentará en un plazo de 30 días hábiles, a la Reunión Estatal de Funcionarios Hacendarios para su conocimiento y enviará copia del mismo y del escrito de inconformidad a los representantes de las partes, para que en un plazo de 30 días hábiles manifiesten lo que a su interés convenga y aporten las pruebas que estime pertinentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 29.
 
-Transcurrido el plazo señalado, la Asamblea Estatal de Funcionarios Hacendarios, emitirá su resolución, declarando la procedencia o improcedencia de la inconformidad en un lapso que no excederá los diez días hábiles.
+Transcurrido el plazo señalado, la Reunión Estatal de Funcionarios Hacendarios, emitirá su resolución, declarando la procedencia o improcedencia de la inconformidad en un lapso que no excederá los diez días hábiles.
 
 Si se considera procedente la inconformidad, deberá prevenir a la parte infractora, la que tendrá un plazo de 10 días hábiles para corregir la anomalía en que haya incurrido.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 30.
 
-Si la parte infractora hace caso omiso a la resolución de la Comisión Permanente de Funcionarios Hacendarios, la Asamblea Estatal de Funcionarios Hacendarios aprobará una recomendación para que dicho Órgano realice las medidas correctivas a que haya lugar.
+Si la parte infractora hace caso omiso a la resolución de la Comisión Permanente de Funcionarios Hacendarios, la Reunión Estatal de Funcionarios Hacendarios aprobará una recomendación para que dicho Órgano realice las medidas correctivas a que haya lugar.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2019)</small>
+
+### CAPITULO VIII. DE LA DISTRIBUCIÓN DE RECURSOS A MUNICIPIOS DE NUEVA CREACIÓN
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+###### Artículo 31.
+
+Para efectos de la distribución de recursos federales o estatales que por concepto de participaciones que les corresponde recibir a los Municipios del Estado de Morelos, cuando no se cuente con los valores que precisan las fórmulas de distribución que se establecen en esta Ley, como es el caso de municipios de nueva creación, se tomará como único factor, el de la población, el cual se obtendrá a través de fórmula que en adelante se indica.
+
+Se consideran los datos de población consignados en los Decretos de creación que emita el Congreso del Estado de Morelos, así como el 100% de la población del municipio de origen.
+
+Ct1= (Pn/Po)
+
+Ct2= 1- Ct1
+
+Dónde:
+
+Ct1, es el coeficiente poblacional de distribución para el nuevo Municipio.
+
+Pn, es la población del nuevo Municipio.
+
+Po, es la población del Municipio de origen
+
+Ct2, es el coeficiente poblacional de distribución del Municipio de origen.
+
+De acuerdo a lo anterior, el coeficiente poblacional de distribución será el coeficiente o proporción entre la población del nuevo Municipio y el Municipio de origen.
+
+El coeficiente poblacional de distribución es el que se aplicará con respecto a los recursos a que se refiere este artículo, para determinar el monto de distribución entre el Municipio origen y el Municipio de nueva creación.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+###### Artículo 32.
+
+En los casos de aplicación de la metodología prevista en el presente capítulo, se exceptúa de la obligación de enviar a los municipios de nueva creación la información relacionada con la determinación de sus coeficientes de participación a que se refiere el artículo 11 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+###### Artículo 33.
+
+Tratándose de los recursos federales cuyo cálculo y distribución deriva de la celebración de convenios con la federación, la metodología para su distribución a los municipios de nueva creación, se establecerá, en su caso, en dichos convenios.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -698,3 +764,13 @@ DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municip
 DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 En consecuencia, los anexos relativos a los clasificadores del gasto y otros de carácter referencial que no se modifican en virtud de este instrumento se ajustarán en los términos de las reorientaciones ordenadas por el mismo, a efecto de guardar la debida congruencia, reportándose, en su caso, en la cuenta pública correspondiente.
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE SOLVENTAN LAS OBSERVACIONES DEL PODER EJECUTIVO AL DECRETO NÚMERO SETENTA Y SIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 7, 15, 20, 22, 27, 28, 29 Y 30; SE ADICIONA UN CAPITULO VIII, DENOMINADO “DE LA DISTRIBUCIÓN DE RECURSOS A MUNICIPIOS DE NUEVA CREACIÓN” Y SE ADICIONAN LOS ARTÍCULOS 31, 32 Y 33; TODOS DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto.
