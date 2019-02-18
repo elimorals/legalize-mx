@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-del-consejo-estatal-de-mejora-39946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-14"
-last_updated: "2004-06-14"
+last_updated: "2019-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE MEJORA REGULATORIA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE MEJORA REGULATORIA, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE MEJORA REGULATORIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de junio de 2004
 
@@ -360,3 +362,15 @@ Vocal
 C. Avelino Fernández Ruiz
 
 Vicepresidente del Consejo Coordinador Empresarial
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE MEJORA REGULATORIA”.]
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- En todo lo no previsto por el presente Reglamento, se tomará como definitivo, el criterio emitido por el Consejo Estatal, quien actuará de acuerdo con la Ley de Mejora Regulatoria para el Estado de Hidalgo.
+
+TERCERO.- Se abroga el Reglamento Interior del Consejo Estatal de Mejora Regulatoria del Estado de Hidalgo, de fecha 14 de junio de 2004, expedido y publicado en el Periódico Oficial del Estado de Hidalgo.
