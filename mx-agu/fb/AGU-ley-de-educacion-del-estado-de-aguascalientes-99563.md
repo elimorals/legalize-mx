@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2018-11-12"
+last_updated: "2019-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -207,13 +207,17 @@ d) Promover la creación de espacios adecuados para la disposición y separació
 
 e) Promover y realizar acciones relacionadas con la protección, preservación y restauración del ambiente, involucrando a las diferentes personas del Sistema Estatal de Educación, a fin de desarrollar en ellos una mayor educación ambiental, y la difusión de las leyes ambientales del Estado, de la Federación y los Tratados Internacionales;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-f) Incentivar el uso de tecnología ambiental en las instalaciones educativas para un desarrollo sustentable; y
+f) Incentivar el uso de tecnología ambiental en las instalaciones educativas para un desarrollo sustentable;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
 
-g) Establecer programas de contingencia ambiental.
+g) Establecer programas de contingencia ambiental; y
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2019)</small>
+
+h) Realizar trabajos en conjunto con Organizaciones de la Sociedad Civil cuyo objeto sea la educación en cultura ambiental.
 
 VII. Fomentar la apreciación e impulso a la creación artística;
 
@@ -2806,3 +2810,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo no mayor a los 90 días hábiles contados a partir de que inicie su vigencia el presente Decreto, el Instituto de Educación de Aguascalientes, deberá emitir los Lineamientos a que se refiere el Segundo Párrafo de la Fracción XXVIII del Artículo 17 de la Ley de Educación del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103.- SE REFORMA EL ARTÍCULO 8° DE LA LEY DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
