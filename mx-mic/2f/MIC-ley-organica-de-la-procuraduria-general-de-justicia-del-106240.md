@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-106240"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-02-26"
-last_updated: "2018-08-14"
+last_updated: "2019-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN, PUBLICADA EN EL P.O. DE 19 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2019 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 26 de febrero de 2015.
 
@@ -1252,3 +1254,53 @@ P.O. 14 DE AGOSTO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y entrará en vigor el día que inicie su encargo el Fiscal General nombrado por el Congreso del Estado.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, publicada mediante Decreto 485 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de febrero del año 2015.
+
+TERCERO. Todas las funciones, facultades, derechos, obligaciones o referencias normativas correspondientes a la Procuraduría General de Justicia del Estado o al Procurador General de Justicia del Estado, se entenderán referidas a la Fiscalía General del Estado o a su titular respectivamente, en los términos de sus funciones constitucionales y de esta ley.
+
+Todas las menciones contenidas en esta u otras leyes, decretos, reglamentos, convenios y en general en cualquier disposición o proceso penal respecto al Fiscal Especializado en Materia de Delitos Relacionados con Hechos de Corrupción, se entenderán referidas al Fiscal Estatal Anticorrupción, establecido en el artículo 100 cuarto párrafo de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+CUARTO. La reglamentación de esta ley deberá expedirse en un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al de su entrada en vigor; hasta en tanto se seguirán aplicando las disposiciones reglamentarias de la Procuraduría General de Justicia del Estado vigentes al momento de la entrada en vigor de la presente ley, en lo que no se opongan a la misma.
+
+QUINTO. En términos del artículo transitorio cuarto del Decreto 631 a través del cual se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los recursos humanos, presupuestales, financieros, materiales y de operatividad de la Procuraduría General de Justicia del Estado, se tendrán por transferidos al órgano autónomo denominado Fiscalía General del Estado de Michoacán a partir de la entrada en vigor del presente Decreto.
+
+En un plazo no mayor a sesenta días naturales, a partir de la entrada en vigor del presente Decreto, el titular del Poder del Poder (sic) Ejecutivo, a través de la Secretaría de Administración y Finanzas del Gobierno del Estado de Michoacán, en coordinación con el Fiscal General, deberá establecer las acciones administrativas y legales necesarias para la formalización del patrimonio de la Fiscalía General y para su ejercicio presupuestal en cuanto órgano constitucional autónomo, así como realizar las adecuaciones correspondientes en cuanto a la contabilidad gubernamental y las reglas para el manejo presupuestal y financiero de los recursos de que disponga para el ejercicio fiscal 2019.
+
+La Auditoría Superior de Michoacán participará en el proceso de transferencia bajo la figura de interventor.
+
+SEXTO. El Fiscal General dispondrá los mecanismos conducentes a efecto de que los recursos para integrar el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Michoacán que correspondan a los conceptos señalados en la Ley de Atención a Víctimas para el Estado de Michoacán de Ocampo, en el Código Nacional de Procedimientos Penales y en la Ley General de Víctimas, ingresen directamente a dicho Fondo.
+
+Hasta en tanto, el Fondo Auxiliar para la Procuración de Justicia del Estado seguirá funcionando conforme a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo que el presente Decreto abroga.
+
+SÉPTIMO. Los agentes del Ministerio Público, agentes de investigación y análisis o peritos de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, que deseen integrarse a la Fiscalía General, deberán someterse al procedimiento de selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación, conforme a lo que establece la normatividad en materia de seguridad pública.
+
+Mientras el Fiscal General no disponga lo contrario, los servidores públicos de la Procuraduría General de Justicia del Estado de Michoacán de Ocampo pasarán a ocupar los cargos equivalentes en la Fiscalía General.
+
+En tanto se adquieren los recursos materiales necesarios, se seguirá usando la papelería, sellos y demás materiales de trabajo que tengan el nombre y escudos de la Procuraduría General de Justicia del Estado.
+
+OCTAVO. A fin de garantizar que la Fiscalía General se integre exclusivamente por servidores públicos de confianza, el titular del Poder Ejecutivo del Estado, en coordinación con el Fiscal General, en un plazo máximo de un año, proveerá lo conducente sobre el personal de base o sindicalizado adscrito a la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, garantizando sus derechos laborales y humanos.
+
+NOVENO. Los procedimientos relacionados con la conclusión, remoción, cese o cualquier otra forma de separación de los servidores públicos al servicio de la Procuraduría General de Justicia del Estado que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate.
+
+Los procedimientos de responsabilidad o disciplinarios iniciados a la fecha a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto continuarán ante las autoridades y conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento. Los asuntos serán continuados y resueltos por la Contraloría de la Fiscalía General o por la Fiscalía de asuntos internos, según corresponda.
+
+Hasta en tanto el Congreso del Estado designe titular de la Contraloría de la Fiscalía General, el Fiscal General designará a un encargado de despacho que atienda los asuntos de dicho órgano interno de control.
+
+DÉCIMO. El Fiscal General deberá aprobar su plan de persecución de los delitos dentro de un plazo de seis meses posterior al de su nombramiento, para los efectos dispuestos en esta ley.
+
+UNDÉCIMO. El Congreso del Estado y el Fiscal General, respectivamente, publicarán las convocatorias relativas al titular del órgano interno de control y a los consejeros ciudadanos del Consejo Consultivo, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente ley. Quienes hayan participado como aspirantes a Fiscal General no podrán ser designados consejeros ciudadanos.
+
+DUODÉCIMO. Los asuntos, averiguaciones previas, carpetas de investigación y procedimientos penales que se encuentren en trámite en la Procuraduría General de Justicia del Estado de Michoacán de Ocampo, continuarán su trámite ante la Fiscalía General del Estado de Michoacán, de conformidad con las disposiciones, etapas y plazos establecidos en la Declaratoria de Incorporación del Sistema Penal Acusatorio y de Inicio de vigencia del Código Nacional de Procedimientos Penales, en el Estado de Michoacán.
+
+DÉCIMO TERCERO. Se abroga la Ley del Instituto Michoacano de Investigación Forense, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 18 de enero de 2012.
+
+DÉCIMO CUARTO. Se deroga la Fracción XVIII del artículo 17 y el artículo 35 de la Ley Orgánica de la Administración Pública del Estado de Michoacán.
+
+DÉCIMO QUINTO. Se deroga cualquier disposición que se oponga al presente Decreto.
