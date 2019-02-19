@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2016-04-19"
+last_updated: "2019-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -1778,27 +1778,49 @@ Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que 
 
 ### CAPÍTULO IV. DEL PREMIO DE LA JUVENTUD DE LA CIUDAD DE MÉXICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 159.
 
-El Premio de la Juventud de la Ciudad de México será convocado una vez al año y se entregará a colectivos, organizaciones de la sociedad civil y personas que se hayan destacado en la defensa y promoción de los derechos de las personas jóvenes.
+El Premio de la Juventud de la Ciudad de México será convocado una vez al año y se entregará a todas las personas jóvenes de la Ciudad de México que participen de manera individual y/o colectiva en cada una de las formas de expresión informal y/o institucional y que destaquen en la defensa y promoción de los derechos de las personas jóvenes.
 
 El premio de la Juventud de la Ciudad de México se otorgará en las siguientes distinciones:
 
-I. Actividades académicas, científicas, tecnológicas, profesionales y de innovación;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
 
-II. Actividades culturales y artísticas;
+I. Promoción y desarrollo de actividades académicas, científicas, tecnológicas, profesionales y de innovación;
 
-III. Actividades deportivas;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
 
-IV. Mérito cívico, ambiental y labor social; y
+II. Promoción y desarrollo de actividades recreativas, culturales, artísticas, de expresión musical y diseño gráfico;
 
-V. Promoción y defensa de los derechos humanos.
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+III. Promoción y desarrollo de disciplinas mentales y deportivas;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+IV. Mérito cívico, político y labor social;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+V. Ambiental y de salud pública;
+
+VI. Promoción y defensa de los derechos humanos;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+VII. Promoción y Fortalecimiento de los usos y costumbres de los pueblos y barrios originarios y comunidades indígena (sic) residentes; y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+VIII. Reciclaje comunitario y fortalecimiento de imagen urbana y patrimonio cultural.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 160.
 
-El órgano encargado de emitir la convocatoria y las bases respectivas será el Instituto en coordinación con el Consejo del Instituto, emitiendo la misma el primer trimestre del año, para ser entregado el 12 de agosto del mismo ejercicio fiscal que se convoque.
-
-La convocatoria deberá ser publicada por lo menos en dos diarios de circulación nacional, en los portales de internet de las instituciones que conforman la Junta de Gobierno y en la Gaceta Oficial del Distrito Federal. El Instituto podrá establecer convenios con las instituciones educativas para que contribuyan con la difusión de la convocatoria entre los jóvenes estudiantes.
+Los órganos encargados de emitir la convocatoria y las bases respectivas serán el Instituto en coordinación con el Consejo del Instituto y la Comisión de la Juventud del Congreso de la Ciudad de México, emitiendo la misma el primer trimestre del año, para ser entregado el 12 de agosto del mismo ejercicio fiscal que se convoque.
 
 ###### Artículo 161.
 
@@ -1814,9 +1836,17 @@ IV. Un representante de la Universidad Autónoma Metropolitana;
 
 V. Un representante de la Universidad Autónoma de la Ciudad de México;
 
-VI. Un representante del Instituto Politécnico Nacional; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
 
-VII. Un representante del Instituto Mexicano de la Juventud.
+VI. Un representante del Instituto Politécnico Nacional;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+VII. Un representante del Instituto Mexicano de la Juventud; y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+VIII. La o el Presidente de la Comisión de la Juventud del Congreso de la Ciudad de México.
 
 El presidente del Jurado Calificador será el titular del Instituto, quien será el responsable de convocar a las sesiones.
 
@@ -1828,9 +1858,11 @@ El Jurado sesionará válidamente, tomará decisiones, dictaminará y votará co
 
 Las personas que integran el jurado están obligadas a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 164.
 
-El Premio de la Juventud de la Ciudad de México será entregado en sesión solemne que deberá celebrarse, con este único objeto, en agosto de cada año.
+El Premio de la Juventud de la Ciudad de México será entregado en sesión solemne que deberá celebrarse, con este único objeto, el 12 de agosto de cada año ante el pleno del Congreso de la Ciudad de México.
 
 ###### Artículo 165.
 
@@ -1864,7 +1896,7 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 
 G.O. 19 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO Y DE LA LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO Y DE LA LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
 
@@ -1873,3 +1905,9 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 19 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 159, 160, SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 161, Y SE REFORMA DEL (SIC) ARTÍCULO 164 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
