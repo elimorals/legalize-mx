@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2015-09-17"
+last_updated: "2019-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1996-12-10"
 ---
 # LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE FEBRERO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -218,13 +220,19 @@ I. Dictar las normas de valoración de inmuebles que integran el patrimonio del 
 
 II. Ejercer el procedimiento administrativo de ejecución de créditos fiscales que deriven del incumplimiento de obligaciones del aprovechamiento de inmuebles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 13.
 
-Corresponde a cada una de las Dependencias, Entidades, Delegaciones y demás órganos desconcentrados organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados, así como preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo.
+Corresponde a cada una de las Dependencias, Entidades, Alcaldías y demás órganos desconcentrados organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados, así como preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 Corresponde a cada una de las dependencias, entidades, y demás órganos desconcentrados organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados, así como preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo y desarrollar un programa de aprovechamiento óptimo de los inmuebles que tengan a su cargo y, en caso de requerir más inmuebles, prever su adecuación al Programa General de Desarrollo Urbano.
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2019)</small>
+
+El programa de aprovechamiento de los bienes deberá establecer en sus contenidos, las acciones y adecuaciones correspondientes, a fin de que se genere una política integral de eficiencia energética y ahorro de energía eléctrica, la cual deberá ser progresiva.
 
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -384,15 +392,21 @@ Cuando se requiera ejecutar obras de construcción, modificación, adaptación, 
 
 Tratándose de inmuebles que tengan el carácter de históricos o artísticos, que estén bajo la administración del Distrito Federal, las autoridades federales competentes tendrán la intervención que les corresponda, en los términos de los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 27.
 
-Los inmuebles destinados o asignados serán para el uso exclusivo de las Dependencias, Entidades, Delegaciones y demás órganos desconcentrados que los ocupe o los tenga a su servicio. Las obras, el aprovechamiento de espacios y la conservación y mantenimiento de los edificios públicos estarán sujetos a lo siguiente:
+Los inmuebles destinados o asignados serán para el uso exclusivo de las Dependencias, Entidades, Alcaldías y demás órganos desconcentrados que los ocupe o los tenga a su servicio. Las obras, el aprovechamiento de espacios y la conservación y mantenimiento de los edificios públicos estarán sujetos a lo siguiente:
 
 I. Las obras de construcción, reconstrucción o modificación de los inmuebles destinados o asignados deberán ser realizadas por Obras, de acuerdo con los proyectos que formule y con cargo al presupuesto de los ocupantes;
 
 II. En los casos de obras de adaptación y de aprovechamiento de espacios en los inmuebles destinados o asignados, los proyectos deberán ser remitidos a Obras para su autorización y supervisión, y
 
 III. La conservación y mantenimiento de los inmuebles destinados o asignados, se llevarán a cabo de acuerdo con los programas anuales autorizados que deberán formularse al efecto.
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+
+IV. Las acciones y adecuaciones en materia de eficiencia energética y ahorro de energía eléctrica deberán realizarse de manera obligatoria en todos los inmuebles mencionados en el primer párrafo de este artículo.
 
 ###### Artículo 28.
 
@@ -738,17 +752,31 @@ Los promotores de desarrollo urbano, estarán obligados a donar al Distrito Fede
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 72.
 
-La Oficialía, tomando en consideración las opiniones de las demás Dependencias, Delegaciones, otros órganos desconcentrados, Gobierno y Finanzas, elaborará un programa de aprovechamiento inmobiliario anual, en el que se establezca normativamente los alcances del mismo, a fin de lograr mecanismos eficaces de control que permitan identificar, controlar y administrar los inmuebles propiedad del Distrito Federal.
+La Oficialía, tomando en consideración las opiniones de las demás Dependencias, Alcaldías, otros órganos desconcentrados, Gobierno y Finanzas, elaborará un programa de aprovechamiento inmobiliario anual, en el que se establezca normativamente los alcances del mismo, a fin de lograr mecanismos eficaces de control que permitan identificar, controlar y administrar los inmuebles propiedad de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2019)</small>
+
+Dicho programa deberá contener las políticas, programas y acciones de eficiencia energética y ahorro tendientes a una gradual y progresiva disminución del consumo de energía eléctrica, en donde se podrán celebrar los convenios respectivos a fin de lograr la realización de dicho fin.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 73.
 
-Para los efectos del artículo anterior las Dependencias, Entidades, Delegaciones y demás órganos desconcentrados deberán rendir un informe trimestral y pormenorizado de las operaciones inmobiliarias que hayan realizado.
+Para los efectos del artículo anterior las Dependencias, Entidades, Alcaldías y demás órganos desconcentrados deberán rendir un informe trimestral y pormenorizado de las operaciones inmobiliarias que hayan realizado, en donde se incluyan, de manera detallada, los avances de las acciones a las que se refiere el segundo párrafo del artículo anterior.
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 74.
 
-La Oficialía llevará a cabo el control y administración de los inmuebles propiedad del Distrito Federal y podrá autorizar a las Dependencias, Entidades, Delegaciones y demás órganos desconcentrados a realizar alguno de los actos jurídicos que se establecen en el presente Título, pero en todo caso, tendrán la obligación de reportarle en un plazo que no excederá de 30 días naturales a partir de la fecha en que se hayan efectuado las operaciones correspondientes.
+La Oficialía llevará a cabo el control y administración de los inmuebles propiedad de la Ciudad de México y podrá autorizar a las Dependencias, Entidades, Alcaldías y demás órganos desconcentrados a realizar alguno de los actos jurídicos que se establecen en el presente Título, pero en todo caso, tendrán la obligación de reportarle en un plazo que no excederá de 30 días naturales a partir de la fecha en que se hayan efectuado las operaciones correspondientes.
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2019)</small>
+
+Dichos actos jurídicos incluirán, la celebración de convenios y contratos con el sector público, privado y social, con el objeto de generar acciones de eficiencia energética así como de ahorro y disminución del consumo de energía eléctrica en los inmuebles objeto de la presente ley.
 
 ### CAPÍTULO II. DE LAS CONCESIONES
 
@@ -1559,3 +1587,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 TERCERO.- El Jefe de Gobierno tendrá 30 días para establecer el proceso o mecanismo y/o condiciones adicionales para habilitar el Registro de Proveedores Salarialmente Responsables de la Ciudad de México.
 
 CUARTO.- Se abrirá un plazo inicial de 90 días para los proveedores que opten por obtener la condición de salarialmente responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública.
+
+G.O. 19 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 18 meses, contados a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La Jefa de Gobierno y los Titulares de las Alcaldías, en el ámbito de sus competencias, deberán a partir de la vigencia del presente Decreto, iniciar acciones para adecuar la infraestructura en cumplimiento a lo que establecen las NOM-11-ener-2006 y NOM-21-ENER/SCFI-2008.
