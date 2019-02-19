@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-instituto-de-seguridad-social-para-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-10"
-last_updated: "2018-10-11"
+last_updated: "2019-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-06"
 
 REGLAMENTO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de mayo de 2013.
 
@@ -143,7 +143,7 @@ Una vez recibida la inconformidad, la Dirección deberá resolver dentro del pla
 
 ###### Artículo 16.
 
-Para efectos del artículo 27 de la Ley, el ascenso al grado inmediato será únicamente para el cálculo y el otorgamiento del beneficio económico correspondiente, conservando para todos los demás efectos el grado que se haya conferido al militar en términos de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos o de la Ley de Ascensos de la Armada de México, según corresponda.
+(DEROGADO, D.O.F. 19 DE FEBRERO DE 2019)
 
 ###### Artículo 17.
 
@@ -734,5 +734,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los trámites pendientes de resolución a la entrada en vigor del presente Decreto, se sujetarán a las disposiciones jurídicas aplicables al momento de su presentación.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+CUARTO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 19 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 16 DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los militares que a partir del 11 de mayo de 2013 hayan pasado a retiro podrán solicitar los beneficios que derivan de la derogación del artículo 16 del presente ordenamiento, en términos del artículo 27 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional y para la Secretaría de Marina según corresponda, por lo que no incrementarán su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 CUARTO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
