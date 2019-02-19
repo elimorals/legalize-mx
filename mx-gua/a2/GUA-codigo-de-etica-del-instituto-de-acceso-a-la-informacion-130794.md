@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-de-acceso-a-la-informacion-130794
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2019-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA, PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 20 de Agosto de 2018.
 
@@ -166,3 +168,19 @@ Titular del Órgano Interno de Control
 Lic. José Andrés Rizo Marín
 
 Secretario General
+
+P.O. 19 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Vigencia
+
+Artículo Primero. El presente Código de Etica estará vigente a partir del día siguiente al de su aprobación.
+
+Abrogación de código anterior
+
+Artículo Segundo. Se abroga el Código de Ética del Instituto de Acceso a la Información Pública para el Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 166, Segunda Parte, de fecha 20 de agosto de 2018.
+
+Difusión oficial
+
+Artículo Tercero. Se instruye a la Dirección de Asuntos Jurídicos del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, realice los trámites necesarios para la publicación del presente Código en el Periódico Oficial del Gobierno del Estado de Guanajuato.
