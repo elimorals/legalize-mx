@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-control-escolar-para-el-bachillerato-96012"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-10"
-last_updated: "2013-09-10"
+last_updated: "2019-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # REGLAMENTO DE CONTROL ESCOLAR PARA EL BACHILLERATO ESCOLARIZADO DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO GENERAL DE CONTROL ESCOLAR PARA EL BACHILLERATO GENERAL ESCOLARIZADO DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO GENERAL DE CONTROL ESCOLAR PARA EL BACHILLERATO GENERAL ESCOLARIZADO DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
 REGLAMENTO DE CONTROL ESCOLAR PARA EL BACHILLERATO ESCOLARIZADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de septiembre de 2013.
 
@@ -778,3 +780,19 @@ LA PAZ, BAJA CALIFORNIA SUR, 5 DE MARZO DEL 2013.
 ING. ROBERTO PANTOJA CASTRO
 
 DIRECTOR GENERAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO GENERAL DE CONTROL ESCOLAR PARA EL BACHILLERATO GENERAL ESCOLARIZADO DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del ciclo escolar 2018-2019, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los casos no previstos en este reglamento, serán resueltos por la Dirección General del Colegio.
+
+TERCERO.- El Reglamento General para el Bachillerato General Escolarizado del Colegio de Bachilleres del Estado de Baja California Sur, de marzo 5 del 2013, continuará vigente hasta el 31 de julio de 2018.
+
+CUARTO.- Se abroga el Reglamento General de Control Escolar para el Bachillerato Escolarizado del Colegio de Bachilleres del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 44 el día 10 de septiembre del 2013.
+
+QUINTO.- El Capítulo I del Procedimiento de Acreditación y el Capítulo III de Las Modalidades y Periodos de Regularización, ambos contenidos en el Título Quinto del Procedimiento de Acreditación y de la Evaluación y Seguimiento del Desarrollo de las Competencias Genericas del presente de (sic) reglamento, deberá ser adecuado a los acuerdos que en su momento emitan la Comisión Estatal para la Planeación y Programación de la Educación Media Superior (CEPPEMS), respecto de la acreditación y regularización de los alumnos, tomando como referencia las Directrices para Mejorar la Permanencia en la Educación Media Superior, emitidos por el Instituto Nacional para la Evaluación de la Educación.
