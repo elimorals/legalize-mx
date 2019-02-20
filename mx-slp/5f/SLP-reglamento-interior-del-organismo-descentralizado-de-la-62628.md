@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-62628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-31"
-last_updated: "2008-07-31"
+last_updated: "2019-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO CENTRO ESTATAL DE TRASPLANTES
 
-REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO CENTRO ESTATAL DE TRASPLANTES
+REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO CENTRO ESTATAL DE TRASPLANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de julio de 2008.
 
@@ -55,13 +55,25 @@ l. Junta de Gobierno
 
 II. Dirección General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 5.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Centro Estatal de Trasplantes contarán con las unidades administrativas siguientes:
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo 3 de la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de San Luis Potosí, se entiende por:
 
 l. Dirección Administrativa
 
-II. Dirección Médica
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2019)</small>
+
+II. Director General: Director General del CETRA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2019)</small>
+
+III. Reglamento: El presente Reglamento, y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2019)</small>
+
+IV. CENATRA: Centro Nacional de Trasplantes
 
 ###### ARTICULO 6.
 
@@ -71,27 +83,27 @@ El Centro Estatal de Trasplantes, a través de sus unidades administrativas, con
 
 ### CAPITULO I: De la Junta de Gobierno
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 7.
 
-La Junta de Gobierno esta integrada de la siguiente forma:
+El CETRA contará con los siguientes Órganos de Gobierno:
 
-l. Por un Presidente Honorario, que será el C. Gobernador Constitucional del Estado;
+I. Junta de Gobierno, y
 
-II. Por un Presidente Ejecutivo, que será el Secretario de Salud de San Luis Potosí;
+II. Dirección General
 
-III. Por un Secretario, que será el Director de los Servicios de Salud de San Luis Potosí;
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
-IV. Primer Vocal, que será el Contralor General del Estado;
+ARTICULO 7 BIS.- La Junta de Gobierno, además de las funciones que le confiere el artículo 19 de la Ley, tendrá las siguientes:
 
-V. Segundo vocal que será el Director del Hospital Central "Dr. Ignacio Morones Prieto";
+I. Aprobar el Programa Operativo Anual del Organismo;
 
-VI. Tercer vocal; por el Presidente de la Junta Directiva del Sistema para el Desarrollo Integral de la Familia del Estado;
+II. Autorizar a la o el titular de la Dirección General los actos de dominio que proponga efectuar en relación con el patrimonio del Organismo;
 
-VII. Cuarto vocal; que será el Procurador General de Justicia del Estado;
+III. Autorizar la estructura orgánica y las modificaciones que procedan conforme a la disponibilidad presupuestal y en observaciones a la normatividad aplicable, y
 
-VIII. Quinto vocal el Delegado Estatal del Instituto Mexicano del Seguro Social; y
-
-IX. Sexto vocal por el Delegado Estatal del Instituto de Seguridad Social de los Trabajadores del Estado.
+IV. Informar, por conducto del Director General, al Gobernador Constitucional del Estado de los acuerdos dictados, cuando ésta lo determine.
 
 ###### ARTICULO 8.
 
@@ -101,6 +113,10 @@ Por cada miembro propietario de la junta, habrá un suplente, con excepción del
 
 El presidente tendrá voto de calidad, en caso de empate.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2019)</small>
+
+ARTICULO 9 BIS.- En el supuesto de no celebrarse la sesión ordinaria o extraordinaria en el día programado para tal efecto, deberá realizarse una nueva convocatoria por parte del Secretario Técnico en la que se informe la nueva fecha y hora para la verificación de la misma, tal como lo disponen los artículos 20 y 21 de la Ley.
+
 ###### ARTICULO 10.
 
 El Director General podrá participar en las sesiones de la Junta de Gobierno con voz pero sin voto.
@@ -109,17 +125,223 @@ El Director General podrá participar en las sesiones de la Junta de Gobierno co
 
 El Director General contará con el apoyo los Directores de Área que se señalan en el artículo 5, del presente Reglamento.
 
-###### ARTICULO 12
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
-El cargo de miembro de la Junta de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes. Serán honoríficos y por el desempeño no se percibirá retribución, emolumento o compensación alguna.
+ARTICULO 11 BIS.- Además de las facultades contenidas en el artículo 23 de la Ley, el Director General tendrá las siguientes:
+
+I. Proporcionar asesoría técnica y legal, además de coordinar acciones con los Bancos de Órganos y Tejidos en el Estado;
+
+II. Difundir en medios impresos y electrónicos, la información estadística y resultados de los procesos de donación y de eventos de capacitación;
+
+III. Gestionar ante los organismos e instituciones públicas y privadas los proyectos tecnológicos y de mejora que permitan eficientizar los servicios y funciones del CETRA;
+
+IV. Vigilar que se cumplan las obligaciones del Organismo en materia de Trasparencia y acceso a la información pública, así como la actualización de la página web del mismo;
+
+V. Integrar el Comité de Adquisiciones en términos de la Ley de la materia, y
+
+VI. Requerir a los comités internos de trasplantes o directores de los establecimientos y hospitales públicos o privados que cuenten con programa de donación y trasplantes, los documentos, actas e información que permitan verificar que los procesos de donación y trasplante se encuentren apegados a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+
+###### ARTICULO 12.
+
+Para el estudio, planeación y despacho de los asuntos que le competen, el CETRA contará con las unidades administrativas siguientes:
+
+I. Dirección de Administración y Finanzas;
+
+II. Dirección Médica;
+
+III. Área Jurídica, y
+
+IV. Unidad de Transparencia.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 13.
 
-La Junta de Gobierno Celebrará sesiones ordinarias cada tres meses; así como las extraordinarias que se requieran, mismas que serán convocadas por el Secretario de la misma con una anticipación de diez días hábiles anteriores a la fecha de su celebración.
+A la Dirección de Administración y Finanzas, compete el despacho de los siguientes asuntos:
+
+I. Planear, organizar y controlar, los recursos humanos, materiales y financieros, así como los servicios generales necesarios para el funcionamiento del CETRA, con la aprobación de la Dirección General de acuerdo con las políticas y legislación aplicable;
+
+II. Elaborar los estados financieros del CETRA y realizar el registro de la contabilidad, además de llevar a cabo la contabilidad gubernamental de acuerdo a las disposiciones legales de la materia.
+
+III. Realizar los pagos y liquidaciones de cualquier remuneración del personal del CETRA que sean procedentes conforme a derecho;
+
+IV. Fungir como Secretario Ejecutivo del comité de Adquisiciones, Arrendamientos y Servicios del CETRA, así como vigilar el cumplimiento de sus acuerdos y recomendaciones y realizar las licitaciones y procedimientos de invitación restringida que establezcan las disposiciones legales, para lo cual determinara los bienes que sean susceptibles de adquirirse en forma consolidada;
+
+V. Vigilar el cumplimiento de los ordenamientos legales en materia de adquisiciones, abasto, conservación, mantenimiento y reparación de bienes muebles e inmuebles, y en el ámbito de su competencia, proponer las políticas y criterios que se consideren convenientes para racionalizar y optimizar los recursos de los programas correspondientes;
+
+VI. Verificar que el personal del CETRA cumpla con las tareas encomendadas, con los principios del Organismo y con los horarios establecidos;
+
+VII. Coordinar e integrar el Programa Operativo Anual y el presupuesto del CETRA, de acuerdo con las políticas, normas y procedimientos aplicables, además de los proyectos y programas que beneficien al CETRA;
+
+VIII. Coordinar la aplicación y cumplimiento de las normas, sistemas y controles en materia de administración de recursos, así como proponer criterios para la racionalización y aprovechamiento del gasto en el ámbito de su competencia;
+
+IX. Establecer y difundir las normas, criterios y procedimientos en materia de reclutamiento, selección e inducción de personal;
+
+X. Participar y coordinar los procesos de modernización administrativa del CETRA, además de proponer la estructura organizacional y tabuladores de sueldos al Director General del CETRA;
+
+XI. Coordinar las relaciones laborales entre el personal y las autoridades del CETRA conforme a los ordenamientos legales aplicables en materia de trabajo;
+
+XII. Tramitar y registrar los movimientos e incidencias del personal, así como las constancias de nombramiento y demás documentos que acrediten la situación laboral de los trabajadores;
+
+XIII. Realizar el registro y control de los bienes muebles e inmuebles del CETRA, además de elaborar el resguardo de los bienes asignados al personal del Organismo;
+
+XIV. Controlar y organizar el archivo del CETRA y en coordinación con la Unidad de Transparencia proporcionar los documentos y expedientes a las unidades administrativas que lo requieren;
+
+XV. Establecer, coordinar y vigilar las operaciones de Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del CETRA;
+
+XVI. Determinar y controlar las medidas de seguridad de las instalaciones y bienes del CETRA;
+
+XVII. Someter a la aprobación del Director General los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio del CETRA;
+
+XVIII. Suscribir los convenios, contratos y demás documentos que impliquen actos de administración y autorización en su caso aquellos que afecten el presupuesto del CETRA, previa autorización del Director General;
+
+XIX. Expedir y certificar las copias de documentos o constancias que existan en los archivos a su cargo cuando procedan;
+
+XX. Celebrar contratos con los proveedores de acuerdo con los requerimientos, programas y recursos autorizados a las unidades administrativas;
+
+XXI. Admitir, custodiar y en su caso, ordenar la cancelación de fianzas de cumplimiento de los contratos que haya realizado el CETRA;
+
+XXII. Elaborar, conforme a las necesidades de las unidades administrativas del CETRA, los programas de arrendamiento de inmuebles y de servicios generales;
+
+XXIII. Vigilar el cumplimiento de los ordenamientos legales que rijan la materia de abastecimiento dentro de su competencia, así como expedir las normas a que deberán sujetarse las unidades administrativas del CETRA;
+
+XXIV. Elaborar e integrar el proyecto de inversión del CETRA;
+
+XXV. Administrar los almacenes del CETRA por medio de un sistema adecuado de control de inventario, así como vigilar los procesos de recepción y distribución de bienes e insumos a las áreas del CETRA, de acuerdo con las disposiciones legales existentes;
+
+XXVI. Realizar los procedimientos de adquisiciones y servicios, arrendamientos, enajenaciones, obras públicas y servicios relacionados con las mismas que requiera el CETRA, de acuerdo con la normatividad vigente.
+
+XXVII. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios, que haya celebrado el CETRA, cuando los proveedores incurran en el cumplimiento de dichos contratos;
+
+XXVIII. Rescindir administrativamente los contratos de obra pública y servicios relacionados con la misma, cuando los contratistas incurran en el incumplimiento de los contratos;
+
+XXIX. Efectuar el seguimiento, control y supervisión de la adjudicación y ejecución de los contratos de obra pública y adquisiciones a su cargo;
+
+XXX. Realizar y supervisar los finiquitos relativos a las obras que le corresponda ejecutar directamente, así como admitir, custodiar y, (sic) su caso, ordenar la cancelación de las fianzas de cumplimiento de los contratos que hayan celebrado;
+
+XXXI. Promover la capacitación y desarrollo del personal administrativo del Organismo, y
+
+XXXII. Las demás que le señale la legislación federal y estatal aplicable, así como los acuerdos de la Junta de Gobierno y las instrucciones del Director General.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 14.
 
-Las funciones del Secretario como las vocales será la de asistir a las sesiones del Órgano de Gobierno, emitir su voto respecto de los asuntos que se sometan y aquellas funciones que les sean encomendadas por la Junta de Gobierno.
+A la Dirección Médica compete el despacho de los siguientes asuntos:
+
+I. Aplicar los ordenamientos legales de orden Federal y Estatal en materia de donación y trasplante de órganos, tejidos y células, así como las normas Oficiales Mexicanas;
+
+II. Ejecutar y dirigir los proyectos y acciones de trabajo ordenados por la Dirección General o Junta de Gobierno;
+
+III. Integrar un informe mensual de trabajo, para presentarlo a la Dirección General para su evaluación;
+
+IV. Atender a nombre del Director General todo asunto relativo a pacientes y familiares de estos que acudan y soliciten el apoyo e intervención del CETRA;
+
+V. Enviar la información requerida por las instituciones, dependencias y organismos federales y estatales en el ámbito de su competencia de conformidad con los ordenamientos legales en materia de transparencia y protección de datos personales;
+
+VI. Coordinarse con la Dirección de Administración y Finanzas para la formulación de planes y programas que coadyuven a eficientizar los servicios del CETRA;
+
+VII. Establecer acciones y mecanismos para lograr la participación de la comunidad en la Donación y trasplantes de órganos, tejidos y células de seres humanos;
+
+VIII. Vigilar que los establecimientos cuenten con un sistema de gestión de calidad en donación y trasplantes y cumplan con los estándares propuestos por el CETRA;
+
+IX. Promover la capacitación dirigida a profesionales y técnicos del CETRA, así como al público en general que lo solicite;
+
+X. Operar y mantener actualizado el Registro Estatal de Trasplantes en coordinación con el Centro Nacional de Trasplantes;
+
+XI. Vigilar que la asignación de órganos y tejidos se realice conforme a la Ley General de Salud y su Reglamento en materia de trasplantes, así como la Ley de Donación y Trasplantes de Órganos, Tejidos y Células para el Estado, en coordinación con el CENATRA;
+
+XII. Dentro del ámbito de su competencia, participar con el Centro Nacional de Trasplantes en la vigilancia de la asignación de órganos, tejidos y células de seres humanos;
+
+XIII. Vigilar que los profesionales y personas que intervengan en la donación y trasplante y traslados de órganos, tejidos y células, apeguen su actuación a las disposiciones legales aplicables y se encuentren registrados en el portal del sistema del Registro Nacional de Trasplantes, en coordinación con el área jurídica;
+
+XIV. Asistir a la Dirección General en los convenios de coordinación de acciones con las autoridades Federales, Estatales y Municipales relacionados con la donación y trasplante de órganos así como su difusión y vigilancia;
+
+XV. Requerir a los comités internos de trasplantes o directores de los establecimientos y hospitales públicos o privados que cuenten con programa de donación y trasplantes, los documentos, actas e información que permitan verificar que los procesos de donación y trasplante se encuentren apegados a la legislación aplicable, informando a la Dirección General;
+
+XVI. Emitir en coordinación con el área jurídica resoluciones, acuerdos, opiniones y criterios, relacionados con el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, así como de las actividades relacionadas con éstos;
+
+XVII. Organizar y coordinar eventos de difusión de la cultura de donación y trasplantes de órganos y tejidos de seres humanos;
+
+XVIII. Proponer y elaborar programas de capacitación a las personas que intervienen en la donación y trasplante de órganos y tejidos, además de capacitar sobre dichos temas al público en general;
+
+XIX. Apoyar a los establecimientos y hospitales en los procesos de donación cadavérica y entre vivos, verificando que se cumplan con las formalidades legales;
+
+XX. Verificar y registrar el seguimiento y la evolución clínica del paciente trasplantado de manera inmediata y de forma permanente;
+
+XXI. Realizar un reporte estadístico de mortalidad de paciente en espera de trasplante, sobrevida del paciente trasplantado y sobrevida del injerto, y
+
+XXII. Las demás que le señale la legislación federal y estatal aplicable, así como los acuerdos de la Junta de Gobierno y las instrucciones del Director General.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2019)</small>
+
+ARTICULO 14 BIS.- Al Área Jurídica le compete el despacho de los siguientes asuntos:
+
+I. Representar legalmente al Organismo y al Director General ante las autoridades jurisdiccionales Federales, Estatales y Municipales en los procedimientos en que sea actor o demandado, tenga interés jurídico, o se le designe como parte, en los términos de los poderes que le otorgue el Director General, así como a sus servidores públicos sujetos a investigación que sean parte en juicios penales o civiles, por actos derivados del servicio y no impliquen conflicto de intereses con el CETRA, ejercitando toda clase de acciones, defensas y excepciones;
+
+II. Elaborar y revisar los Convenios de colaboración con asociaciones e instituciones públicas y privadas a favor de la donación y trasplantes de órganos y tejidos;
+
+III. Establecer y difundir entre las unidades administrativas del Organismo los criterios de interpretación de las disposiciones legales, que sean de interés y competencia del CETRA;
+
+IV. Elaborar, revisar y emitir opinión sobre los anteproyectos de leyes, reglamentos, decretos y acuerdos relativos a los asuntos competencia del Organismo;
+
+V. Formular denuncias de hechos, querellas y desistimientos, así como otorgar los perdones legales que procedan, Coadyuvar con la Fiscalía General del Estado en la integración de las carpetas de investigación y en el trámite de los procesos que afecten al Organismo, o bien en los que éste tenga interés jurídico;
+
+VI. Elaborar la contestación de demandas administrativas, laborales, civiles e informes previos y justificados que en materia del Juicio de amparo deban rendir el Director General, Directores de Área, así como los relativos a los demás de servidores públicos que sean señalados como autoridades responsables; realizar los escritos, promociones necesarios para el seguimiento de los juicios competencia del Organismo, y promover los recursos que a dichos juicios se refieran;
+
+VII. Vigilar la continuidad de los juicios, procedimientos y diligencias respectivas; así como formular y suscribir las demandas, contestaciones y en general todas las promociones que se requieran para la continuación de los juicios, recursos o cualquier procedimiento interpuesto ante los Tribunales Judiciales y Administrativos;
+
+VIII. Participar en el Comité de Adquisiciones y Servicios del Organismo y demás comités en donde tenga intervención el área jurídica;
+
+IX. Revisar los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma, en beneficio del CETRA, de acuerdo a la normatividad aplicable;
+
+X. Asesorar jurídicamente al Director General y a las Unidades Administrativas en los asuntos competencia del CETRA;
+
+XI. Elaborar un registro de los convenios, acuerdos, contratos y bases de coordinación que celebre el Organismo;
+
+XII. Compilar las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales competencia del Centro Estatal de Trasplantes del Estado;
+
+XIII. En coordinación con la Dirección Médica emitir opiniones jurídicas, acuerdos y resoluciones en la vigilancia y revisión de los procedimientos y trámites para disponer órganos, tejidos de cadáveres y donaciones entre personas vivas, de conformidad con la Ley General de Salud, Ley Estatal de Salud, Ley de Donación y Trasplante de órganos, tejidos y celulas del Estado, los reglamentos, normas oficiales y lineamientos que al efecto se dicten;
+
+XIV. Dictaminar las actas administrativas que se instrumenten a los servidores públicos del Organismo por transgredir las disposiciones laborales aplicables;
+
+XV. Expedir y certificar las copias de documentos o constancias en los procesos o juicios legales que existan en los archivos a su cargo cuando procedan, y
+
+XVI. Las demás que le confieren otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2019)</small>
+
+ARTICULO 14 TER.- La Unidad de Transparencia tendrá las siguientes funciones y facultades:
+
+I. Recabar y difundir la información que obliga la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información en coordinación con las áreas del CETRA;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Realizar las notificaciones de contestación a los solicitantes de información pública;
+
+VI. Sugerir al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Fomentar la transparencia y accesibilidad al interior del CETRA;
+
+XI. Hacer del conocimiento del Director General del CETRA del incumplimiento de las obligaciones por parte de los servidores públicos conforme a la ley de la materia;
+
+XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes de información recibidas, el trámite y respuesta correspondiente en cada caso;
+
+XIII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliar a entregar las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible; y
+
+XIV. Las demás que se desprendan de la normatividad aplicable.
 
 ###### ARTICULO 15.
 
@@ -394,3 +616,15 @@ EL SECRETARIO DE SALUD DEL ESTADO.
 DR. FERNANDO TORANZO FERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO ADMINISTRATIVO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. El Organismo Público Descentralizado denominado "Centro Estatal de Trasplantes", deberá actualizar los manuales que deriven de su Reglamento y que deban modificarse para armonizarlos con este Decreto, dentro de los siguientes noventa días contados a partir de la entrada en vigor del mismo. Mientras tanto, el o la titular del Organismo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
