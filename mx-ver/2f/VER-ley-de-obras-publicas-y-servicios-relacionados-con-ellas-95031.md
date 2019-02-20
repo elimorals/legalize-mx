@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2018-12-21"
+last_updated: "2019-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -437,11 +437,11 @@ VII. Los trabajos de conservación y mantenimiento ordinario, preventivo y corre
 
 VIII. Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 19.
 
-En la planeación, programación y presupuestación de las obras públicas y los servicios relacionados con ellas, se tomará en cuenta, preferentemente, la mano de obra veracruzana, alentando la contratación de personas con discapacidad; así como el empleo de maquinaria, materiales, productos y equipos del Estado de Veracruz de Ignacio de la Llave.
+En la planeación, programación, presupuestación, contratación, construcción, ejecución, conservación, mantenimiento, demolición, gasto y control, de las obras públicas y los servicios relacionados con ellas, se tomará en cuenta, preferentemente, la mano de obra veracruzana, alentando la contratación de personas con discapacidad y de adultos mayores; así como el empleo de maquinaria, materiales, productos y equipos del Estado de Veracruz de Ignacio de la Llave.
 
 Al efecto, el Titular del Poder Ejecutivo y los de los demás entes públicos, podrán celebrar convenios con los colegios de ingenieros, de arquitectos, cámaras y asociaciones de la industria de la construcción, con representación en el Estado y, en general, con los organismos del sector social y privado, para que se oferten a los entes públicos los productos, servicios e insumos para la construcción, a precios competitivos, a efecto de fortalecer la economía del Estado de Veracruz de Ignacio de la Llave.
 
@@ -1441,10 +1441,18 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 21 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 20 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 231 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 19 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
