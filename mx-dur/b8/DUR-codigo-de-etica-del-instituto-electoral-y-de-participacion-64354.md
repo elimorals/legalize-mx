@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-etica-del-instituto-electoral-y-de-participacion-6435
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2009-06-04"
+last_updated: "2019-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "DUR"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO -ANTES CODIGO DE ETICA DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO-
 
-CODIGO DE ETICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
+CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 2 de octubre de 2008.
 
@@ -415,3 +417,15 @@ SE TRANSCRIBEN LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO
 8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 21 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en (sic) Periódico Oficial de (sic) Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga el Código de Ética del Instituto Electoral y de Participación Ciudadana del Estado de Durango, de fecha 30 de septiembre de 2008.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. Publíquese el presente acuerdo en el Periódico Oficial de (sic) Gobierno del Estado de Durango, así como en la página electrónica oficial del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
