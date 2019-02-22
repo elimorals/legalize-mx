@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2018-08-27"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,29 +23,29 @@ state: "MIC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
+LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
-Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
+Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
-PASCUAL ORTIZ RUBIO, Gobernador Constituciodal (sic) del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber que.
+PODER LEGISLATIVO
 
-La XXXVI Legislatura del Estado, en su carácter de Constituyente, ha tenido a bien expedir la siguiente Constitución.
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V Y 108 DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE REFORMAS A LA CONSTITUCIÓN POLÍTICA Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE,
 
-El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con carácter de Constituyente, ha tenido a bien expedir la siguiente
+E X P O S I C I Ó N D E M O T I V O S:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+[...]
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Por todo lo antes expuesto y con fundamento en los artículos 29 y 30 fracción V de la Constitución Política, y 64 fracción I; 97, 100 y 101 de la Ley Orgánica del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
-## TÍTULO PRIMERO
+D E C R E T O:
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+### CAPÍTULO I. Del Objeto de la Ley
 
 ###### Artículo 1º.
 
@@ -79,85 +79,99 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
-###### Artículo 3°.
+###### Artículo 3.
 
-El Estado de Michoacán tiene una composición multicultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
+El ejercicio de las atribuciones del Poder Legislativo del Estado se deposita en una Asamblea de Representantes denominada "Congreso del Estado de Yucatán", que se integrará en la forma y con el número de diputados que la Constitución Política del Estado de Yucatán establece.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+### CAPÍTULO II. Del Parlamento Abierto
 
-Se reconoce la existencia de los pueblos indígenas, originarios, p'urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+###### Artículo 10 Bis.
 
-Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno y, en consecuencia, el derecho a elegir en los municipios con población indígena, representantes ante los Ayuntamientos, o a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad, en los términos de la ley de la materia.
+El Congreso del Estado basará el desarrollo de sus actividades en el sistema de Parlamento Abierto, orientando sus acciones a los principios de transparencia de la información, rendición de cuentas, participación ciudadana, evaluación del desempeño legislativo, datos abiertos y uso de tecnologías de la información.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+En el ejercicio de sus funciones, los Diputados promoverán la participación pacífica y organizada de la ciudadanía en los trabajos legislativos, quien tendrá derecho a voz, pero sin voto.
 
-La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción.
+A su vez el Congreso del Estado promoverá, una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía en sus ámbitos comunal, regional y como pueblo indígena.
+###### Artículo 10 Ter.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+La información relacionada con la implementación del Parlamento Abierto se deberá mostrar actualizada en la página de internet del Congreso del Estado, sujetándose para ello en lo conducente, a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
-El Estado reconoce a los pueblos y comunidades indígenas como personas morales, con personalidad jurídica y patrimonio propio, para ejercer derechos y contraer obligaciones.
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+###### Artículo 10 Quáter.
 
-Los pueblos y las comunidades indígenas tendrán los derechos siguientes:
+En la implementación del Parlamento Abierto, de manera enunciativa más no limitativa, se deberán (sic) realizar lo siguiente:
 
-I. A decidir y ejercer sus formas internas de gobierno, sus propios sistemas de participación, elección y organización social, económica, política y cultural, a través de las diversas formas y ámbitos de autonomía comunal, regional y como pueblo indígena;
+I.- Poner a consulta de la ciudadanía las iniciativas y proposiciones que se presenten al Congreso del Estado a través del uso de las tecnologías de la información y de la comunicación, mediante la implementación de esquemas, modelos y vías de interacción, que permitan la comunicación entre la ciudadanía y el Congreso del Estado;
 
-II. A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;
+II.- Poner en conocimiento, y en su caso, a disposición de la ciudadanía la información que se genere o posea por parte del Poder Legislativo sujetándose para ello a lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable; y,
 
-III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;
+III.- Propiciar la participación ciudadana en las sesiones de comisiones y del pleno del Congreso, así como en los demás trabajos legislativos, con derecho a voz, pero sin voto, de conformidad con la convocatoria que al efecto se emita.
 
-IV. A elegir, en los municipios con población indígena, representantes ante los ayuntamientos;
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;
+###### Artículo 10 Quinquies.
 
-VI. A la aplicación de sus sistemas normativos para la regulación y solución de sus conflictos en la jurisdicción interna, respetando la interpretación intercultural de los derechos humanos y los principios generales de esta Constitución. La ley establecerá los casos y procedimientos de validación por los jueces y tribunales correspondientes;
+El Congreso del Estado dentro de su página de internet, contará con un espacio para la recepción de quejas o denuncias sobre un tema en particular para lo cual deberá aplicar al menos lo siguiente:
 
-VII. Al acceso a la procuración e impartición de justicia en su propia lengua; en los juicios y procedimientos en que sean parte de forma individual o colectiva, se considerarán durante todo el proceso y en las resoluciones, sus sistemas normativos y especificidades culturales; serán asistidos preferentemente con defensores, y con traductores intérpretes en lenguas, culturas y sistemas normativos indígenas;
+a) Formulario para recabar datos del quejoso;
 
-VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;
+b) Cuadro para capturar la información sobre la queja o denuncia;
 
-IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+c) folio de confirmación generado por el Congreso del Estado, y,
 
-X. A preservar, desarrollar, controlar, difundir y promover su patrimonio cultural tangible e intangible. La ley reglamentaria y las autoridades indígenas establecerán las medidas que permitan proteger la titularidad de los derechos sobre el patrimonio de los pueblos indígenas;
+d) Respuesta a su queja.
 
-XI. Al ejercicio, fortalecimiento y desarrollo de la medicina tradicional e indígena; y a los sistemas de salud comunitaria;
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión de las lenguas indígenas. El Estado y los pueblos indígenas fomentarán las políticas públicas y creación de instancias para el estudio y desarrollo de las lenguas originarias;
+###### Artículo 10 Sexies.
 
-XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas;
+El Congreso del Estado dentro de su página de internet, podrá crear y usar micrositios para ofrecer información concreta y clara acerca de un tema en particular, con el objetivo de generar una comunicación directa y de fácil acceso entre el Poder Legislativo y los ciudadanos. Los micrositios podrán realizarse para lo siguiente:
 
-XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+I.- Poner a consulta de la ciudadanía las iniciativas y proposiciones que se presenten al Congreso del Estado;
 
-XV. Al desarrollo local con identidad cultural y territorial, a partir de modelos propios de economía, en los ámbitos comunal y regional, que de forma coordinada se implementen con los diferentes órdenes de gobierno;
+II.- Poner a disposición de la ciudadanía la información que se genere o posea por parte del Congreso del Estado;
 
-XVI. A la participación y consulta en la elaboración del Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipales, incorporando las recomendaciones y propuestas que se realicen en los presupuestos;
+III.- Ofrecer a la ciudadanía un medio para la presentación de quejas o denuncias que sean competencia del Congreso del Estado;
 
-XVII. Al reconocimiento y protección de derechos de las mujeres indígenas, a través de normas, políticas y acciones que garanticen su desarrollo y la igualdad de oportunidades en los ámbitos económico, social, cultural, político, educativo, civil y agrario; considerando la especificidad cultural comunitaria y promoviendo su participación ciudadana;
+IV.- Para la creación de foros de discusión sobre los proyectos de legislación del Congreso del Estado, y,
 
-XVIII. A la protección de derechos de los migrantes indígenas, mediante normas, políticas y acciones que garanticen el desarrollo de las personas, familias y comunidades migrantes. Los migrantes indígenas de otras entidades federativas, que residan temporal o permanentemente en el Estado, gozarán de los mismos derechos;
+V.- Los demás que se consideren necesarios para el buen funcionamiento del parlamento abierto.
 
-XIX. A que la normatividad en la materia, procure asegurar el acceso a la representación política de los pueblos y comunidades indígenas en los cargos de elección y representación popular;
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular; y,
+###### Artículo 10 Septies.
 
-XXI. El Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas;
+Los micrositios para su funcionamiento deberán contener al menos lo siguiente:
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+I.- Información clara y precisa sobre el tema a tratar, así como los motivos de su creación;
 
-Las leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución.
+II.- Área de consultas donde el ciudadano puede analizar y descargar los documentos relacionados al tema, y,
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+III.- Área de opinión donde toda persona interesada puede generar aportes y emitir opiniones que coadyuven al enriquecimiento del tema a tratar.
 
-### CAPITULO II. De los Habitantes del Estado
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+###### Artículo 10 Octies.
+
+El contenido de micrositios, denuncias, quejas o información relevante en materia legislativa producto de la aplicación del Sistema de Parlamento Abierto, deberá ser distribuida a todos los diputados integrantes del Congreso del Estado.
+
+La Secretaría General será la encargada de distribuir la información a través de alguno de los medios siguientes:
+
+I.- Circulares;
+
+II.- Correo Electrónico;
+
+III.- Informes mensuales, y,
+
+IV.- Los demás que considere necesarios.
+
+La Secretaría General deberá prever la difusión anticipada y proactiva para que los diputados emitan sus opiniones o comentarios al respecto.
 
 ###### Artículo 4º.
 
@@ -169,9 +183,7 @@ II.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido po
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-### CAPITULO III. De los Michoacanos
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### CAPÍTULO I. De la Instalación del Congreso y del Proceso de Entrega-Recepción
 
 ###### Artículo 5º.
 
@@ -189,9 +201,7 @@ II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-### CAPITULO IV. De los Ciudadanos
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### CAPÍTULO II. De las Sesiones del Congreso
 
 ###### Artículo 7º.
 
@@ -199,31 +209,9 @@ Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la 
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 8°.
+###### Artículo 8.
 
-Son derechos de los ciudadanos votar y ser votados en las elecciones populares; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos siempre que lo soliciten en los términos que establezcan las normas que al efecto se emitan.
-
-Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
-
-Toda persona tendrá derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión, el que se regirá por los siguientes principios y bases:
-
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
-
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
-
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
-
-IV. La ley establecerá los mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
-
-V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
-
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y,
-
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
-
-Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El período de tres años que corresponda a los diputados del Congreso para el ejercicio de sus funciones, constituye una Legislatura que se identificará con el número ordinal siguiente al otorgado a la anterior.
 
 ###### Artículo 9º.
 
@@ -233,1287 +221,1471 @@ Son obligaciones de los ciudadanos, desempeñar los cargos de elección popular 
 
 ###### Artículo 10.
 
-Los derechos de los ciudadanos se pierden y se suspenden, respectivamente, en los términos previstos por los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, o en los casos que determinen las leyes del Estado.
+El Congreso del Estado deberá observar lo previsto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos respecto al límite del porcentaje anual para su presupuesto de egresos.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Poder Legislativo tendrá plena autonomía para el ejercicio de su presupuesto de egresos, mismo que será suficiente para el adecuado desarrollo de sus atribuciones y para organizarse administrativamente, con apego a lo dispuesto en la Constitución Política del Estado de Yucatán, en esta Ley y demás disposiciones reglamentarias aplicables.
 
-## TITULO SEGUNDO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+## TÍTULO SEGUNDO. INSTALACIÓN Y FUNCIONAMIENTO DEL CONGRESO
 
-### CAPITULO I. De la Soberanía del Estado y de la forma de Gobierno
+### CAPÍTULO II BIS
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+De las sesiones fuera del recinto legislativo mediante el uso de las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Quáter.
+
+Se entenderá por sesión fuera del recinto legislativo aquella que se realice mediante la utilización de cualquiera de las tecnologías de información y la comunicación, asociadas a la red de internet en conjunto con el sistema informático legislativo que garanticen tanto la posibilidad de una comunicación simultánea o consecutiva entre las y los diputados mientras transcurra la sesión.
+
+El medio o plataforma tecnológica deberá ser de acceso común a todos los integrantes de forma simultánea, además de contener, para consulta, los archivos electrónicos de los asuntos a tratar en la sesión y la normatividad del congreso.
+
+Las sesiones a las que hace referencia el primer párrafo de este artículo, deberán ser aprobadas por el Pleno del Congreso con el voto de las dos terceras partes de sus integrantes.
+
+Ante la imposibilidad física de que se reúna el Pleno para aprobar la realización de sesiones fuera del Recinto del Poder Legislativo o cuando exista razón fundada para ello, la Junta de Gobierno y Coordinación Política y de la Mesa Directiva, o en su caso, y la diputación permanente, podrán acordar lo correspondiente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Quinquies.
+
+Podrán sesionar fuera del recinto legislativo:
+
+I. El Pleno del Honorable Congreso del Estado de Yucatán.
+
+II. La diputación permanente.
+
+III. La Junta de Gobierno y Coordinación Política.
+
+IV. Las comisiones permanentes y especiales.
+
+En todos los casos, la celebración a dichas sesiones, deberán informarse oportunamente a todos los integrantes de la legislatura y a todas las áreas que conforman el Poder Legislativo del Estado de manera física o electrónica.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Sexies.
+
+Se podrán realizar sesiones fuera del recinto legislativo cuando así lo disponga el Pleno del Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Política, en los siguientes casos:
+
+I. Por causas de fuerza mayor, por afectación de fenómenos naturales, emergencia o catástrofe estatal o nacional, en todos los casos, previamente decretada por las autoridades correspondientes.
+
+II. Sesiones extraordinarias, que a criterio de la Mesa Directiva, sean de carácter urgente.
+
+III. Para salvaguardar el interés público.
+
+Ante la imposibilidad física de que se reúna el pleno del congreso para aprobar la realización de tales sesiones y cuando exista razón fundada para ello, la Junta de Gobierno y Coordinación Política y la Mesa Directiva o, en su caso, y la diputación permanente podrán acordar lo correspondiente, sin perjuicio de lo señalado en el artículo 6 de esta ley.
+
+En las convocatorias que para tal efecto se realicen se deberá señalar el objeto u objetos de esas sesiones, no pudiendo el congreso ocuparse de más asuntos que aquellos para los que fue convocado.
+
+Quedan exceptuados de trámite y desahogo aquellos que versen sobre juicios políticos, empréstitos y las minutas federales de las cámaras de senadores y de diputados del Honorable Congreso de la Unión.
+
+Los presidentes de las comisiones permanentes o especiales, sin perjuicio de los casos señalados en este artículo, podrán solicitar al congreso, la autorización para llevar a cabo sesiones fuera del recinto legislativo de la comisión que presidan, justificando el motivo o importancia.
+
+La Junta de Gobierno y Coordinación Política del Congreso del Estado podrá solicitar al pleno la realización de sus sesiones fuera del recinto legislativo justificando el motivo o importancia de conformidad con las fracciones anteriores de este artículo.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Septies.
+
+Las sesiones fuera del recinto legislativo a las que se refiere este capítulo, una vez verificado el quórum legal, surtirán sus efectos como si se desarrollaran en el salón de sesiones del pleno, de las comisiones o de la sala de reuniones de la Junta de Gobierno y Coordinación Política del recinto del Poder Legislativo. Una vez iniciada una sesión no podrá suspenderse salvo lo dispuesto en este capítulo.
+
+En todas las sesiones fuera del recinto legislativo a las que hace referencia este capítulo, el Secretario General del Poder Legislativo deberá dar seguimiento y podrá participar en caso de que quien presida la sesión requiera del apoyo técnico jurídico.
+
+De igual modo las y los legisladores podrán contar con el apoyo de los secretarios técnicos, en los términos que disponga esta ley, a fin de garantizar su interacción mediante el uso de las tecnologías de la comunicación y la información o de la plataforma del sistema informático legislativo.
+
+Si dentro de los asuntos tratados en las sesiones contempladas en este capítulo, fuera necesaria la participación del personal de las demás áreas que conforman el Poder Legislativo del Estado, se deberá garantizar su acceso mediante las tecnologías de la información y la comunicación o la plataforma del sistema electrónico legislativo.
+
+Las sesiones del Pleno o de las comisiones que se realicen mediante el uso de las tecnologías de la información y comunicación en conjunto con el sistema informático legislativo garantizarán en todo momento, según sea el caso, los principios de parlamento abierto establecidos en la ley y el reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Octies.
+
+Los dictámenes o minutas de los acuerdos, decretos o leyes, y cualquier otra documentación resuelta por el pleno o comisiones, así como los asuntos aprobados por la Junta de Gobierno y Coordinación Política en sesión fuera del recinto Legislativo, deberán ser firmados a más tardar dentro de los tres días hábiles siguientes a la sesión de que se trate para el trámite legal correspondiente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Nonies.
+
+En caso de que una sesión fuera del recinto legislativo se interrumpa por causas ajenas y fortuitas y ésta no pueda continuarse, pasados treinta minutos, se tendrá por suspendida, debiéndose levantar la debida constancia por el Secretario General en la cual se expresen los asuntos inconclusos. Dicha constancia deberá hacerse llegar a los correos institucionales de las y los diputados en un plazo no mayor a cuarenta y ocho horas.
+
+Cuando por causas ajenas, fortuitas o de fuerza mayor una diputada o diputado no pueda establecer conexión o comunicación a través de las tecnologías de la información y comunicación o mediante la plataforma del sistema informático legislativo para participar en la (sic) sesiones a las que hace referencia el presente capítulo, pasados sesenta minutos se tendrá por suspendida, debiéndose levantar constancia a la que hace referencia el párrafo anterior.
+
+La suspensión de la sesión, en ambos casos, dará lugar a que los asuntos no tratados puedan llevarse a cabo en una sesión subsecuente.
+
+Para la conducción y desarrollo de las sesiones fuera del recinto legislativo se estará a lo que al efecto disponga esta ley y su reglamento.
 
 ###### Artículo 11.
 
-El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régimen interior, de conformidad con lo prescrito en esta Constitución y en la General de la República.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Congreso integrará una Comisión Instaladora y de Entrega-Recepción, por lo menos diez días antes de clausurar el último período ordinario de sesiones de cada Legislatura. Se conformará con un Presidente, dos secretarios y los suplentes respectivos.
 
 ###### Artículo 12.
 
-La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
+La Comisión Instaladora y de Entrega-Recepción, deberá:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+I.- Recibir de la Secretaría General del Poder Legislativo, las copias certificadas de las constancias de la fórmula de diputados electos por los principios de mayoría relativa y de representación proporcional; así como, toda la documentación relacionada con las elecciones de diputados, provenientes de las autoridades electorales competentes;
+
+II.- Convocar a una Junta Previa a los diputados electos que conformarán la Legislatura entrante, dentro de los diez días anteriores al inicio del primer período de sesiones ordinarias;
+
+III.- Proporcionar a los diputados electos, las credenciales de identificación y acceso, de conformidad a las constancias de mayoría y de validez, de asignación proporcional o por resolución firme de la autoridad jurisdiccional electoral competente, que hayan sido recibidas;
+
+IV.- Entregar de manera ordenada, a la primera Mesa Directiva de la Legislatura entrante, la totalidad de los documentos electorales a que se refieren las fracciones anteriores;
+
+V.- Realizar la Entrega-Recepción de la documentación y bienes en los términos que señalen las disposiciones reglamentarias, y
+
+VI.- Las demás que se consideren necesarias para la Entrega-Recepción del Poder Legislativo.
 
 ###### Artículo 13.
 
-El Estado adopta para su régimen interior, la forma de gobierno republicano, democrático, laico, representativo y popular, de conformidad con el Pacto Federal.
+Para el cumplimiento de los fines dispuestos en los artículos anteriores, la Comisión Instaladora y de Entrega-Recepción, en la primera sesión de la Legislatura entrante, procederá conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+I.- La Secretaría General del Poder Legislativo, le dará cuenta del ejercicio de las funciones contenidas en este Capítulo, reservando la entrega de los documentos electorales a que se refiere la fracción IV del artículo 12, a la Mesa Directiva que habrá de elegirse;
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+II.- Se pasará lista de asistencia a los diputados integrantes de la nueva Legislatura, para hacer la declaración respectiva;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+III.- El Presidente de la Comisión Instaladora y de Entrega-Recepción, exhortará a los diputados electos a que en votación secreta, elijan la primera Mesa Directiva, que fungirá durante el primer período ordinario del ejercicio constitucional;
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, observando las reglas para garantizar la paridad entre los géneros en candidaturas a los cargos de elección popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, con la salvedad de las candidaturas independientes.
+IV.- Realizada la elección de la primera Mesa Directiva, se invitará a los recién nombrados a tomar su lugar en el salón de sesiones. Antes de retirarse, el Presidente de la Comisión Instaladora y de Entrega-Recepción, hará la entrega de los bienes y documentos en los términos que señalen las disposiciones reglamentarias;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+V.- El Presidente de la Mesa Directiva electa, en presencia de la mencionada Comisión, rendirá el compromiso constitucional, solicitando a los diputados asistentes a ponerse de pie, concluida ésta, se darán por finalizados los trabajos de dicha Comisión;
 
-Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales, teniendo el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa. Los partidos políticos locales que no alcancen el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro.
+VI.- El Presidente de la Mesa Directiva solicitará se rinda el compromiso constitucional a los demás integrantes de la Legislatura;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+VII.- El Presidente de la Mesa Directiva declarará: "La (número ordinal sucesivo que corresponda) Legislatura del Congreso del Estado de Yucatán, está legalmente constituida", y
 
-Los partidos políticos contarán de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación, de acuerdo a la legislación aplicable. Además la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como las reglas para el acceso de los candidatos independientes a dichas prerrogativas, a efecto de que se encuentren en aptitud de participar en la elección en la cual se hayan registrado.
+VIII.- El Presidente de la Mesa Directiva, convocará a los diputados el día 1 de septiembre del año que corresponda, para iniciar el primer período de sesiones ordinarias, de la Legislatura correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador. La Ley establecerá los procedimientos para la fiscalización oportuna, control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y los ciudadanos que participen de manera independiente, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a los ciudadanos registrados como candidatos, o que calumnien a las personas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental, tanto de los poderes estatales y municipales, así como cualquier otro ente público del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Las únicas excepciones a lo anterior, serán las campañas de información de las autoridades electorales, las relativas a servicios educativos, promoción turística y de salud, o las necesarias para la protección civil en casos de emergencia, en los términos que determine la Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de las contiendas electorales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Sin menoscabo de los demás principios, el de equidad que rige a los procesos electorales, se extiende a la actuación de los órganos del Estado y a sus integrantes en todos sus niveles, por lo que deben ejercer sus funciones con la intensidad y calidad tanto de trabajo como de difusión de éste, y en la misma proporción que en períodos no electorales; por lo que no debe incrementarse la difusión dentro del proceso electoral. El Instituto Electoral de Michoacán velará por el cumplimiento de este principio y cualquier persona con elementos de prueba podrá denunciar los hechos que lo vulneren.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El derecho a la información en los procesos electorales constituye un elemento fundamental para la celebración democrática de elecciones periódicas, libres, justas, equitativas y basadas en el sufragio universal y secreto; esto tiene fundamento en el hecho de que toda persona tiene derecho a buscar, recibir y difundir información y opiniones, para lo cual deben contar con igualdad de oportunidades propiciadas por cualquier medio de comunicación sin discriminación alguna y por ningún motivo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El voto es universal, libre, secreto, directo y personal. Quedan prohibidos los actos que atenten contra estas características y generen presión o coacción a los electores.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Esta Constitución garantiza que los ciudadanos con discapacidad ejerzan plenamente su derecho al voto; en la Ley se preverán las condiciones y mecanismos que faciliten su ejercicio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Asimismo, se garantiza el derecho al voto de los michoacanos que radican en el extranjero, en los términos que establezca la Ley.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-### CAPITULO II. Del Territorio del Estado
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexicanos, y está constituído por la porción de territorio nacional que le reconozcan la Constitución Federal, las leyes y los convenios.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
-
-El Estado puede arreglar con las entidades federativas limítrofes, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+La instalación de la nueva Legislatura se publicará en el Diario Oficial del Gobierno del Estado, se comunicará a los poderes de la Federación, a los del Estado y a las legislaturas de las distintas entidades federativas. De igual forma, se realizará cada vez que el Congreso inicie un período de sesiones ordinarias o períodos extraordinarios.
 
 ###### Artículo 15.
 
-El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+El Congreso sesionará de manera ordinaria, de conformidad con lo establecido en el artículo 27 de la Constitución Política del Estado. El último período ordinario de sesiones podrá ampliarse hasta el 31 de agosto, en el año en que la Legislatura, concluya su ejercicio constitucional.
 
-El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, Cojumatlán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, Jiquilpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, Morelia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, Tlazazalca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
+No podrán iniciarse las sesiones del Pleno sin la concurrencia de más de la mitad del número total de sus diputados integrantes. Las sesiones serán ordinarias, extraordinarias y solemnes, se celebrarán en la fecha y hora que previamente fueren convocadas por la Mesa Directiva; en dichas sesiones, deberá emplearse el tiempo necesario para resolver todos los asuntos en cartera.
 
-Cada Municipio conservará la extensión y límites que le señale la legislación correspondiente.
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El desarrollo de las sesiones y votaciones se regirá por el reglamento correspondiente que expida el Congreso.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+En la apertura de la primera sesión de un período, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán abre hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 15 Ter.
+
+El Congreso en la clausura del período de sesiones, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, clausura hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JULIO DE 2020)</small>
 
 ###### Artículo 16.
 
-La creación de nuevos municipios se sujetará a las prescripciones de esta Constitución.
+El derecho de iniciar leyes y decretos, corresponde a los sujetos relacionados en el artículo 35 de la Constitución Política del Estado de Yucatán. De igual forma, tendrán derecho de retirar su iniciativa, quien o quienes la hayan suscrito, mediante escrito signado, siempre que no hubiere sido dictaminado.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
 
-## TITULO TERCERO
+Las iniciativas deberán estar redactadas en términos claros, utilizando correctamente el lenguaje incluyente así como el lenguaje no sexista.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
+## TÍTULO TERCERO. GOBIERNO Y ADMINISTRACIÓN DEL PODER LEGISLATIVO
 
-### CAPITULO I. De la División de Poderes
+### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### CAPÍTULO IV. De los Diputados
 
 ###### Artículo 17.
 
-El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, los cuales actuarán separada y libremente, pero cooperando, en forma armónica, a la realización de los fines del Estado.
+Las iniciativas provenientes de los diputados, del Gobernador, del Tribunal Superior de Justicia; de los ayuntamientos o de los concejos municipales del Estado o de los organismos constitucionales autónomos, se tramitarán conforme al artículo 36 de la Constitución Política del Estado de Yucatán. Las iniciativas derivadas mediante acción popular, deberán cumplir con los términos y condiciones previstos en la Ley de Participación Ciudadana que regula el Plebiscito, Referéndum y la Iniciativa Popular del Estado.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o el Judicial en un individuo.
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+###### Artículo 17 Bis.
+
+Las iniciativas de Ley o Decreto que hayan sido presentadas en una Legislatura, serán desahogadas en la misma, a excepción de los siguientes supuestos:
+
+I. Que haya sido aprobado el dictamen correspondiente como establece el Artículo 52 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán;
+
+II. Que por mandato Constitucional o Estatutario se deba expedir la Ley o el Decreto en un plazo determinado, o
+
+III. Por acuerdo de la Junta de Gobierno y Coordinación Política, considerando las iniciativas seleccionadas por las Fracciones y Representaciones Legislativas, así como las Comisiones y con la posterior aprobación del Pleno del Congreso y en sus recesos la Diputación Permanente.
+
+> <small>(ADICIONADO, D.O. 13 DE ENERO DE 2026)</small>
+
+###### Artículo 17 Ter.
+
+Las minutas de reforma a la Constitución Política de los Estados Unidos Mexicanos remitidas por las Cámaras, de Diputados o, de Senadores del Honorable Congreso de la Unión en términos de lo previsto en el artículo 135 de la propia Constitución General, sin más trámite que su lectura, se someterán a discusión y votación del Pleno en la sesión que para tal fin determine la presidencia de la Mesa Directiva.
+
+Se exceptúa de lo anterior, cuando a consideración de la Presidencia de la Mesa Directiva y por la trascendencia de la reforma se deba turnar a la Comisión Permanente de Puntos Constitucionales y Gobernación para su dictaminación.
 
 ###### Artículo 18.
 
-La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa del Gobernador del Estado.
+Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Congreso podrá emitir acuerdos para dar cumplimiento a las atribuciones y funciones del Poder Legislativo, y que por su naturaleza no requieren de sanción y promulgación.
 
-### CAPITULO II. Del Poder Legislativo
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### CAPÍTULO V. De la Mesa Directiva del Congreso
 
 ###### Artículo 19.
 
-Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo.
+Los diputados tendrán las mismas facultades y obligaciones, independientemente de la modalidad de su elección.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+Su actuación se regirá por los principios que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, para el adecuado ejercicio de las funciones públicas.
 
-#### SECCION I. De la Formación del Poder Legislativo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+#### Sección Primera. De su Conformación y Atribuciones
 
 ###### Artículo 20.
 
-El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años, con opción de ser electos hasta por cuatro periodos consecutivos. La elección se celebrará el primer domingo del mes de junio del año en que concluya su función la Legislatura.
+La condición de Diputado se adquiere a partir de que la persona electa entre en funciones el día primero de septiembre del año correspondiente, previa rendición del Compromiso Constitucional.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-Por cada diputado propietario, se elegirá un suplente.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Congreso del Estado estará integrado por veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y dieciséis diputados que serán electos según el principio de representación proporcional, mediante el sistema de lista de candidatos votados en una circunscripción plurinominal.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+Los diputados, al tomar posesión de su encargo, manifestarán el Compromiso Constitucional siguiente: "Me comprometo a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
 ###### Artículo 21.
 
-Para la elección de los diputados de mayoría relativa, el Estado se dividirá en veinticuatro distritos electorales, cuya denominación y demarcación territorial señalará la ley.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Este supuesto no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Los diputados, los servidores públicos, funcionarios y demás empleados del Poder Legislativo, gozarán de una remuneración de acuerdo a sus responsabilidades.
 
 ###### Artículo 22.
 
-El diputado suplente que haya ejercido el cargo de propietario, para efectos del artículo 20 de esta Constitución, se le contabilizará como un periodo.
+Los diputados tendrán las facultades y obligaciones siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- Acceso en igualdad de condiciones a la información, bienes y servicios legislativos, que les permita desempeñar con eficacia y eficiencia su encargo;
+
+II.- Contar con el apoyo técnico, legal y administrativo;
+
+III.- Participar con voz y voto en las sesiones del Pleno, así como en las Comisiones cuando sean integrantes de las mismas; y solo con derecho a voz en las sesiones de las Comisiones, cuando no sean integrantes de las mismas;
+
+IV.- Proponer modificaciones a los dictámenes, durante la sesión en que sea puesto a consideración del Pleno;
+
+V.- Orientar a sus representados de los mecanismos jurídicos y administrativos tendientes a hacer efectivos sus derechos fundamentales;
+
+VI.- Iniciar leyes y decretos, e intervenir en las discusiones y votaciones de los mismos conforme a lo establecido por esta Ley, el reglamento y demás disposiciones aplicables;
+
+VII.- Presentar propuestas de Acuerdo;
+
+VIII.- Representar al Congreso en foros, consultas y reuniones nacionales e internacionales, en caso de ser designados por el Pleno; la Mesa Directiva o la Diputación Permanente;
+
+IX.- Solicitar al Congreso, la presencia o información de los titulares de los demás poderes públicos del Estado, de los municipios, así como de los organismos descentralizados, autónomos y demás Entidades de la administración pública estatal y municipal;
+
+X.- Solicitar licencia o permisos para separarse del cargo conforme lo que establezca el reglamento de esta Ley;
+
+XI.- Adecuar su conducta a lo dispuesto en esta Ley, respetar el orden, la cortesía y disciplina legislativa, así como no divulgar las actuaciones e informaciones con carácter reservado o confidencial;
+
+XII.- Abstenerse en sus intervenciones en tribuna o acto oficial, de proferir insultos u ofensas que lesionen la dignidad de cualquier persona o institución;
+
+XIII.- Realizar las encomiendas que el Pleno les confiera;
+
+XIV.- Asistir con puntualidad a las sesiones que celebre el Congreso y las Comisiones de las que sea integrante. Se contará como inasistencia el no estar presente al pase de lista o cuando se realizare alguna votación;
+
+XV.- Permanecer en las sesiones del Pleno; así como en las Comisiones de las que forme parte, excepto por causa justificada y con permiso previo;
+
+XVI.- Ocupar asiento en el lugar de sesiones, conforme a la ubicación de su Fracción Parlamentaria;
+
+XVII.- Integrar las Comisiones y demás órganos directivos del Congreso, y
+
+XVIII.- Las demás que establezca la Constitución Política del Estado, esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 23.
 
-Para ser Diputado se requiere:
+El Diputado quedará suspendido de sus facultades y obligaciones en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+I.- Por declaratoria de procedencia de formación de causa, dictada por el Congreso, en tanto esté sujeto a proceso penal;
 
-I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos;
+II.- Por resolución definitiva de Juicio Político;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+III.- Por sentencia judicial firme que declare el estado de interdicción, y
 
-II.- Ser originario del distrito por el que haya de ser electo por el principio de mayoría relativa, o tener una residencia efectiva en el mismo no menor a dos años previos al día de la elección.
-
-Los oriundos o residentes de los municipios cuyo territorio comprende más de un distrito, podrán ser electos en cualquiera de ellos; y,
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
-
-III.- Tener veintiún años cumplidos el día de la elección.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+IV.- Por licencia.
 
 ###### Artículo 24.
 
-No podrán ser electos diputados:
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
-
-> <small>(REFORMADA, P.O. 23 DE MAYO DEL 2006)</small>
-
-II.- Los funcionarios de la Federación, los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y los ayuntamientos, los Consejeros del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de Justicia Administrativa;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-III.- Los jueces de primera instancia, los recaudadores de rentas, los presidentes municipales, los síndicos y los regidores;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-IV.- Los ministros de cualquier culto religioso;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-V.- Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección; y,
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-VI.- Los que se encuentren suspendidos de sus derechos políticos.
-
-Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
+Cuando sin causa justificada, un Diputado faltare a tres sesiones consecutivas, sin licencia previa, deberá presentarse hasta el inmediato período ordinario siguiente y no tendrá derecho a las percepciones correspondientes, desde la primera sesión a que faltare, llamándose desde luego, al respectivo suplente.
 
 ###### Artículo 25.
 
-(DEROGADO, P.O. 27 DE ABRIL DE 1995)
+Para suplir a los diputados electos, el Congreso mandará llamar al que deba sustituirlo, conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
 ###### Artículo 26.
 
-(DEROGADO, P.O. 27 DE ABRIL DE 1995)
+La Mesa Directiva, es el órgano de dirección de los trabajos legislativos, que asegura el desahogo ordenado de los asuntos, la organización de los debates y las votaciones.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
+Sus decisiones se tomarán por el voto de la mayoría de los integrantes del Congreso; en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 27.
 
-Los diputados no podrán ser reconvenidos ni serán sujetos de responsabilidad por las opiniones, propuestas legislativas o votos que emitan en el ejercicio de su encargo.
-
-El Presidente del Congreso velará por la inviolabilidad del recinto en donde se reúnan a sesionar. Toda fuerza pública está impedida de tener acceso al Recinto Legislativo, salvo con permiso del Presidente del Congreso, bajo cuyo mando quedará la seguridad del mismo.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+La Mesa Directiva, se elegirá por mayoría de votos y se integrará por un presidente, un vicepresidente, dos secretarios y los respectivos suplentes de los secretarios, mismos que serán electos en Junta Preparatoria dentro de los diez días anteriores al inicio del Período Ordinario de sesiones que corresponda.
 
 ###### Artículo 28.
 
-Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
+La Mesa Directiva tendrá las siguientes atribuciones:
 
-La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
+I.- Asegurar el adecuado desarrollo de las sesiones del Pleno;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
+II.- Adoptar las decisiones y medidas que requiera la organización del trabajo legislativo;
 
-#### SECCION II. De la Reunión y Renovación del Congreso
+III.- Calificar los escritos y documentos de índole legislativa, para su admisibilidad o inadmisibilidad;
 
-(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+IV.- Ordenar el trámite de todos los escritos y documentos, de acuerdo con las normas establecidas en esta Ley;
+
+V.- Elaborar el calendario de actividades del Pleno y de la Diputación Permanente, previo conocimiento de la Junta de Gobierno y Coordinación Política;
+
+VI.- Interpretar y aplicar las disposiciones de esta Ley y de los demás ordenamientos relativos a la actividad legislativa para la conducción de la sesión;
+
+VII.- Formular el orden del día para las sesiones, conforme a la Agenda Legislativa que sea propuesta por la Junta de Gobierno y Coordinación Política;
+
+VIII.- Verificar que los dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación;
+
+IX.- Determinar las sanciones con relación a las conductas que atenten contra la disciplina legislativa;
+
+X.- Designar las Comisiones Especiales que resulten pertinentes para cubrir el ceremonial cuando fuere necesario, las cuales tendrán el carácter de transitorias;
+
+XI.- Proponer al Pleno por conducto del Presidente, declarar sin materia aquéllos asuntos que por el transcurso del tiempo, hubieren perdido efecto, razón y motivación;
+
+XII.- Redactar las minutas de Ley, Decreto o Acuerdo aprobados por el Pleno, pudiendo aplicar las correcciones de técnica legislativa necesarias, y
+
+XIII.- Las demás que le atribuyan esta Ley, los ordenamientos aplicables y los acuerdos del Pleno o de la Diputación Permanente.
+
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
+#### Sección Segunda. Del Presidente de la Mesa Directiva
 
 ###### Artículo 29.
 
-El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2003)</small>
+Para la elección de la Mesa Directiva, cada Fracción o Representación Legislativa, podrá postular a quienes a su juicio deban integrarla.
 
 ###### Artículo 30.
 
-El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-Se entiende también que los diputados que falten a cuatro sesiones consecutivas, sean del Pleno o en comisiones legislativas, sin causa justificada o sin previa licencia del Presidente del Congreso, se sancionarán conforme a la Ley.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-Si no hubiese quórum para instalar el Congreso, o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la brevedad a desempeñar su cargo, entre tanto transcurren los ocho días de que antes se habla.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+En las ausencias temporales del Presidente de la Mesa Directiva, lo suplirá el vicepresidente, si faltare éste, alguno de los secretarios, y a falta de éstos últimos los suplentes en el orden correspondiente.
 
 ###### Artículo 31.
 
-El Congreso sesionará por años legislativos, comprendidos del día quince del mes de septiembre al día catorce del mes de septiembre del año siguiente.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
-
-También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.
+(DEROGADO, D.O. 23 DE AGOSTO DE 2012)
 
 ###### Artículo 32.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+La elección de la Mesa Directiva, se le comunicará por escrito al Titular del Poder Ejecutivo del Estado, para que ordene la publicación respectiva en el Diario Oficial del Gobierno del Estado e igualmente se dará conocimiento al Tribunal Superior de Justicia y a los ayuntamientos del Estado de Yucatán; así como a los poderes federales y a los congresos de las entidades federativas.
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia.
+El Presidente de la Mesa Directiva, lo es del Congreso, ostenta la representación del Poder Legislativo y expresa su unidad; garantizará el fuero constitucional de los diputados y velará por la inviolabilidad del recinto legislativo.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Presidente de la Mesa Directiva al dirigir las sesiones velará por el equilibrio entre las libertades de los legisladores, de las Fracciones y Representaciones Legislativas, y la eficacia en el cumplimiento de las funciones del Congreso; asimismo, hará prevalecer el interés general del Congreso por encima de los intereses particulares o de grupo.
+
+El Presidente de la Mesa Directiva, únicamente responderá ante el Pleno, cuando en el ejercicio de sus atribuciones incumpla las disposiciones de esta Ley.
 
 ###### Artículo 34.
 
-Toda resolución del Congreso tendrá el carácter de ley o decreto.
+Son facultades y obligaciones del Presidente de la Mesa Directiva:
 
-El primer nombre corresponde a las resoluciones que versen sobre materia de interés común, dentro de la órbita de atribuciones del Poder Legislativo; el segundo, a las que sean solo relativas a determinados tiempos, lugares, corporaciones, establecimientos o personas.
+I.- Velar por el respeto a las garantías concedidas a los diputados en el artículo 19 de la Constitución Política del Estado;
 
-Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
+II.- Delegar para fines judiciales y administrativos en el Secretario General del Poder Legislativo, la representación del Congreso;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+III.- Dar seguimiento al curso de los trabajos legislativos;
+
+IV.- Convocar, iniciar, clausurar, prorrogar o suspender las sesiones del Pleno;
+
+V.- Dirigir los debates y las votaciones conforme lo establecido en el reglamento respectivo;
+
+VI.- Salvaguardar el orden en el Recinto y la institucionalidad del Poder Legislativo;
+
+VII.- Ordenar el trámite que corresponda a los asuntos presentados y dar cuenta a la Legislatura a más tardar dentro de 15 días hábiles;
+
+> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+VIII.- Turnar a las Comisiones las iniciativas y los asuntos de su competencia, y los que a su juicio deban dictaminarse en forma conjunta con otras Comisiones, dentro de los 15 días hábiles siguientes, una vez vencido el termino referido en el artículo 69 del Reglamento de esta Ley;
+
+IX.- Requerir a las Comisiones la elaboración de los dictámenes de los asuntos turnados;
+
+X.- Solicitar al Titular del Poder Ejecutivo del Estado y de los ayuntamientos, previo acuerdo del Pleno, la comparecencia de los responsables de las dependencias o Entidades de la administración pública estatal y municipal respectivamente;
+
+XI.- Solicitar al Titular del Poder Judicial, y a los organismos autónomos la comparecencia de sus funcionarios, previo acuerdo del Pleno;
+
+XII.- Turnar al Diputado que hubiere formulado alguna petición, de conformidad a lo establecido con las fracciones X y XI que anteceden, la respuesta remitida;
+
+XIII.- Firmar en conjunto con los demás integrantes de la Mesa Directiva, las actas de las sesiones, así como las leyes y decretos que se expidan y remitan al Poder Ejecutivo del Estado para su sanción y promulgación, así como las iniciativas que se dirijan al Congreso de la Unión;
+
+XIV.- Requerir a los diputados inasistentes a concurrir a las sesiones del Congreso y comunicar al Pleno, en su caso, las medidas o sanciones que correspondan con fundamento en esta Ley;
+
+XV.- Convocar a sesiones extraordinarias, cuando ocurriera algún motivo grave, por sí o a solicitud de una tercera parte de los integrantes de la Legislatura;
+
+XVI.- Conceder permiso a los diputados para ausentarse hasta por dos sesiones consecutivas y por una sola vez, dentro de un mismo período, siempre que sea por causa justificada y conste por escrito;
+
+XVII.- Ordenar a la Dirección General de Administración y Finanzas, el descuento a las percepciones de los diputados, que incurran en faltas injustificadas;
+
+XVIII.- Llamar a los suplentes de la Mesa Directiva, cuando proceda;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XIX.- Recibir del Presidente de cada Comisión, un informe semestral del trabajo y dar cuenta de éste al Pleno;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 20 DE FEBRERO DE 2015)</small>
+
+XX.- Declarar en el Pleno la existencia o falta del cuórum legal, cuando se compruebe mediante el pase de lista;
+
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXI.- Declarar recesos durante la Sesión Plenaria, a fin de recabar opiniones, promover acuerdos o procurar condiciones que permitan el adecuado desahogo del orden del día;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 13 DE ENERO DE 2026)</small>
+
+XXII.- Ordenar el cambio de Sede del Poder Legislativo para llevar a cabo una Sesión Ordinaria, Extraordinaria o Periodo Extraordinario cuando existan razones fundadas de riesgo a la integridad, por causas de fuerza mayor o por cualquier otra circunstancia que no permita garantizar la seguridad de las y los integrantes del Pleno de la Legislatura, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 13 DE ENERO DE 2026)</small>
+
+XXIII.- Las demás que establezcan esta Ley y las disposiciones reglamentarias aplicables, que se consideren necesarias para el ejercicio de sus facultades y cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 34 Bis.
+
+Los procedimientos para el desahogo de las sesiones del Pleno para los acuerdos, decretos o leyes se harán en base a lo establecido por esta Ley y su Reglamento.
 
 ###### Artículo 35.
 
-Las sesiones del Congreso serán públicas o secretas, según lo determine su Ley Orgánica.
+El vicepresidente auxiliará al Presidente en las distintas tareas correspondientes a la Mesa Directiva y sustituirá al mismo en sus ausencias, faltas, o imposibilidad para desempeñar el cargo, con todas las funciones y condiciones inherentes.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION III. De la Iniciativa y Formación de las Leyes
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+#### Sección Tercera. Del Vicepresidente de la Mesa Directiva
 
 ###### Artículo 36.
 
-El derecho de iniciar leyes corresponde:
+Durante los recesos del Congreso, funcionará una Diputación Permanente; ésta se integrará por un Presidente y dos secretarios, con sus respectivos suplentes.
 
-I.- Al Gobernador del Estado;
+La Diputación Permanente fungirá como Mesa Directiva en los períodos extraordinarios que se lleven a cabo.
 
-II.- A los Diputados;
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+Para la celebración de los períodos extraordinarios, la Diputación Permanente deberá convocar cuando menos dos días antes de la celebración de éstos.
 
-III.- Al Supremo Tribunal de Justicia;
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-IV.- A los ayuntamientos; y,
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-V.- A los ciudadanos michoacanos, de conformidad con los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de Egresos y la regulación interna de los órganos del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El plazo establecido en el párrafo anterior no será necesario siempre y cuando exista extrema urgencia, calificada ésta por la Diputación Permanente.
 
 ###### Artículo 37.
 
-Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
-
-I.- El dictamen de comisión será leído una o dos veces en los términos que prevenga el reglamento de debates;
-
-II.- La discusión del dictamen se hará el día que señale el Presidente del Congreso, y agotada aquélla, se hará la declaración de que hay lugar a votar;
-
-III.- La aprobación deberá hacerse por mayoría absoluta del número de diputados presentes; o por las dos terceras partes cuando así lo exija esta Constitución;
-
-IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
-
-V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los quince días hábiles siguientes a su recepción; vencido este plazo, procederá a su promulgación y publicación inmediata.
-
-VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
-
-VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación y su publicación inmediata.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2016)</small>
-
-Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por inmediata la publicación del proyecto de ley o decreto aprobado, que no podrá exceder de un plazo mayor a quince días naturales. Si transcurrido este plazo la ley o decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+La Diputación Permanente tendrá las atribuciones consignadas en el artículo 43 de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 38.
 
-En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso podrá dispensar la lectura o lecturas del dictamen que hubiere formulado la comisión respectiva.
+La Diputación Permanente se instalará inmediatamente después de que el Congreso cierre el período de sus sesiones. Esta instalación se comunicará a los poderes de la federación, a los del Estado y a las demás Legislaturas de las entidades federativas.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 39.
 
-Siempre que concurra el Gobernador del Estado o el Presidente del Supremo Tribunal de Justicia o los representantes de ambos para apoyar sus opiniones, tendrán voz en las discusiones pero no voto.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cual será necesaria la concurrencia, cuando menos, de dos de sus miembros para celebrar sesión. En caso de empate en las votaciones, el Presidente de la Diputación Permanente tendrá el voto de calidad.
 
 ###### Artículo 40.
 
-La derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Al inicio del siguiente período ordinario de sesiones el Presidente de la Diputación Permanente rendirá un informe de labores a la Mesa Directiva, sobre los asuntos tratados durante el período de receso, el trámite que se les dio y el estado en que se encuentran.
 
 ###### Artículo 41.
 
-Las votaciones de las leyes o decretos serán nominales; las de los acuerdos serán económicas.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Para la integración de las Comisiones Permanentes, la Junta de Gobierno y Coordinación Política, tomará en cuenta el criterio de proporcionalidad de cada una de las fracciones o representaciones legislativas, para formular las propuestas correspondientes.
 
 ###### Artículo 42.
 
-Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
+Los diputados podrán formar parte simultáneamente de dos o más Comisiones.
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INTEGRADO CON LOS PÁRRAFOS ANTERIORES SEGUNDO Y TERCERO. VÉASE LITERALIDAD DEL DECRETO NÚMERO 248, PUBLICADO EN EL P.O. 7 DE MARZO DE 2003, PÁGINA 6.]</small>
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-El Congreso expedirá la Ley Orgánica que regulará su estructura y funcionamiento internos, así como la Ley de Fiscalización Superior del Estado de Michoacán. Estas leyes no podrán ser vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Artículo. 43.- El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste se encuentre erigido en Gran Jurado.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 43.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o se encuentre erigido en Gran Jurado.
+El Congreso designará Comisiones Permanentes que se encargarán del estudio, análisis, investigación, consulta, debate y dictamen de los asuntos que les sean turnados, de manera individual o conjunta, siendo las siguientes:
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- PUNTOS CONSTITUCIONALES Y GOBERNACIÓN. Tendrá por objeto estudiar, analizar y dictaminar sobre los asuntos relacionados con las reformas a la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado y los relativos con la gobernabilidad Estatal y Municipal, para lo cual conocerá todo lo relativo a:
 
-#### SECCION IV. De las Facultades del Congreso
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+a) Las iniciativas de reforma a la Constitución Política de los Estados Unidos Mexicanos, en términos de la excepción prevista en el artículo 17 Ter de esta ley, y la particular del Estado;
+
+b) Cuestiones que se refieran a hechos de naturaleza administrativa del Poder Ejecutivo del Estado y de los ayuntamientos;
+
+c) La elaboración de iniciativas-dictámenes para adecuar los preceptos de la Constitución Federal y Estatal a las leyes locales o sobre disposiciones legales cuya observancia tengan carácter de urgente y sean de interés público;
+
+d) Todos los asuntos en materia electoral;
+
+e) Solicitudes ciudadanas de aquellos asuntos que por su trascendencia social sean calificados como de interés público, procurando establecer los vínculos institucionales para la solución de los mismos;
+
+f) Iniciativas presentadas por los ciudadanos con base en la Ley en materia de participación ciudadana del Estado;
+
+> <small>(REFORMADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+g) Los asuntos de límites territoriales de los municipios;
+
+> <small>(REFORMADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+h) Los procedimientos para fincar responsabilidades a los servidores públicos, e
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+i) Las iniciativas de reformas a la normatividad del Poder Legislativo.
+
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+II.- VIGILANCIA DE LA CUENTA PÚBLICA, TRANSPARENCIA Y ANTICORRUPCIÓN. Tendrá por objeto estudiar, analizar y dictaminar, sobre las atribuciones que le otorga la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán; los asuntos relacionados con la cuenta pública estatal y municipal; lo relacionado con la normatividad de transparencia y acceso a la información pública, así como conocer, analizar y dictaminar lo referente a las iniciativas en materia de anticorrupción; organizar foros de consulta con la finalidad de recibir y analizar propuestas que tiendan a mejorar la aplicación o en su caso adecuación de la legislación en materia de transparencia, protección de datos personales y anticorrupción; dar seguimiento al informe anual que rinda el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción a efecto de implementar cambios en la legislación cuando así lo proponga dicho informe; conocer del procedimiento para la elección de los integrantes de la Comisión de Selección del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Estatal Anticorrupción y en general, todo asunto relacionado con la materia y las demás que le turne la Mesa Directiva.
+
+III.- JUSTICIA Y SEGURIDAD PÚBLICA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con la procuración e impartición de justicia y la seguridad pública, para lo cual conocerá de:
+
+a) La procuración e impartición de justicia, salvaguardando las garantías de seguridad jurídica, preservando el estado de derecho;
+
+b) La seguridad pública y la prestación de servicios de seguridad privada;
+
+c) El sistema penitenciario y la reinserción social, y
+
+d) La protección civil y prevención de desastres.
+
+IV.- PRESUPUESTO, PATRIMONIO ESTATAL Y MUNICIPAL. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con la legislación en materia fiscal, hacendaria y patrimonial del Estado y los municipios, en lo referente a:
+
+a) Las iniciativas de leyes, decretos y reformas a la legislación en materia fiscal;
+
+b) El Presupuesto de Egresos del Gobierno del Estado;
+
+c) Cuestiones de finanzas públicas estatales y municipales; y
+
+d) Las solicitudes que afecten de alguna forma el patrimonio del Estado o los municipios, así como la autorización de financiamientos y afectación de ingresos del Poder Ejecutivo del Estado y de los ayuntamientos.
+
+> <small>(REFORMADO ESTE PÁRRAFO, D.O. 22 DE ABRIL DE 2022)</small>
+
+V.- DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el crecimiento económico del Estado a través del comercio, la industria y el empleo, en lo referente a:
+
+a) El desarrollo sustentable de todos los sectores involucrados en materia económica en Yucatán;
+
+b) Parques, corredores y ciudades industriales, centros comerciales y centrales de abasto;
+
+c) El apoyo a la micro, pequeña y mediana empresa;
+
+d) La actividad artesanal;
+
+e) La generación de empleo;
+
+f) La política de organización cooperativa y de cualquier otro tipo;
+
+g) La producción y comercialización de productos naturales e industriales, y
+
+h) (DEROGADO, D.O. 22 DE ABRIL DE 2022).
+
+VI.- DESARROLLO AGROPECUARIO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con las actividades orientadas al cultivo del campo, la crianza de animales, apicultura, avícola y el aprovechamiento de los recursos pesqueros para consumo o producción, en lo referente a:
+
+a) Las actividades agropecuarias, pesqueras, acuícolas, de fauna y agroindustriales;
+
+b) La sanidad animal y vegetal, y
+
+c) La conservación, protección, restauración y aprovechamiento de los recursos forestales.
+
+VII.- MEDIO AMBIENTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con la conservación, preservación y restauración del medio ambiente, en lo referente a:
+
+a) El desarrollo sustentable y la racionalidad en el consumo de los recursos naturales en el Estado;
+
+b) La conservación, protección y restauración del medio ambiente;
+
+c) La prevención, control y combate de la contaminación en sus diferentes modalidades;
+
+d) Los ecosistemas, protección de la flora y la declaratoria de reservas ecológicas en el Estado;
+
+e) La recolección, transporte, tratamiento, procesamiento y disposición de desechos sólidos no peligrosos;
+
+f) El tratamiento de aguas residuales de plantas industriales, y
+
+g) Protección de los animales y especies en peligro de extinción.
+
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+VIII.- EDUCACIÓN, CIENCIA Y TECNOLOGÍA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+
+a) La educación que se imparta en el Estado en todos sus niveles y modalidades;
+
+b) Las normas que se refieran a las actividades que lleven a cabo las universidades e instituciones de Educación Superior en el Estado, o en aquéllos que les sean solicitados por dichas instituciones;
+
+c) Los relacionados con las acciones que realice el Poder Ejecutivo y los municipios en materia de educación, ciencia y tecnología;
+
+d) La participación en forma oportuna de las actividades que realice el Poder Ejecutivo en materia de educación, ciencia y tecnología, y
+
+e) Todo lo relacionado con la investigación, innovación, ciencia y la tecnología.
+
+IX.- SALUD Y SEGURIDAD SOCIAL. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el derecho a la salud y la seguridad social de los trabajadores del Estado, en lo referente a:
+
+a) La salud de los habitantes;
+
+b) El control sanitario en establecimientos que vendan alimentos y bebidas;
+
+c) Los programas de salud pública del Estado y los municipios, fundamentalmente aquéllos que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo, y
+
+d) La asistencia y seguridad social que protejan al sector productivo y laboral.
+
+X.- DESARROLLO MUNICIPAL, REGIONAL Y ZONAS METROPOLITANAS. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relativos con el desarrollo de los municipios, y las relaciones entre los gobiernos municipales y el gobierno del Estado, en lo referente a:
+
+a) La promoción del desarrollo socioeconómico de los municipios;
+
+b) El desarrollo integral de los municipios, de las zona regionales metropolitanas, y
+
+c) Las solicitudes de los ayuntamientos para que se les autorice a celebrar convenios de asociación con municipios de otras entidades federativas.
+
+XI.- DESARROLLO URBANO, VIVIENDA E INFRAESTRUCTURA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el urbanismo, las obras públicas, vivienda, regulación de la tenencia de la tierra, comunicaciones y transportes, en lo referente a:
+
+a) El desarrollo urbano de la entidad;
+
+b) La demanda de vivienda de los sectores socialmente desprotegidos;
+
+c) Los asentamientos humanos;
+
+d) Centros de población de las diferentes categorías establecidas por la Ley de la materia;
+
+e) La construcción, reconstrucción, conservación y preservación de edificios públicos, monumentos, obras de ornato y las demás que realice el Gobierno del Estado;
+
+f) La tenencia de la tierra, coadyuvando a que su ejecución sea expedita, justa y equitativa;
+
+g) Las reservas territoriales, procurando que los municipios del Estado puedan lograr un desarrollo equilibrado;
+
+h) Las comunicaciones y transportes que sean de competencia estatal, y
+
+i) Las disposiciones de vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XII.- IGUALDAD DE GÉNERO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el trato imparcial de mujeres y hombres de todas las edades, según sus necesidades, en lo referente a:
+
+a) Los proyectos de Ley y reformas a disposiciones legales que tengan relación con el trato igualitario entre mujeres y hombres, bajo los enfoques de igualdad, oportunidad y transversalidad;
+
+b) Las acciones para prevenir, atender y erradicar la violencia en contra de las mujeres;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+c) Las políticas, planes y programas tendientes al fortalecimiento de los valores universales;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+d) Crear espacios de diálogo, así como de intercambio parlamentario con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de las mujeres;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+e) Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+f) Promover las medidas de acción positiva que garanticen la igualdad sustantiva entre mujeres y hombres en los ámbitos públicos y privados;
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+g) La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros, y
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+h) Analizar las condiciones de discriminación y violencia contra las mujeres, con la finalidad de prevenir y erradicar las desigualdades de género.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 263/2015 PUBLICADO EN EL D.O. DEL 20 DE FEBRERO DE 2015, SE ADVIERTE QUE EL CONTENIDO DEL INCISO I DE ESTA FRACCIÓN, PASÓ AL INCISO F) DE LA FRACCIÓN XIV, ADICIONADA EN EL PRESENTE DECRETO.</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE ENERO DE 2026)</small>
+
+XIII.- DE LA PRESERVACIÓN DE LA CULTURA, IDENTIDAD Y VISIBILIDAD DEL PUEBLO MAYA, LOS PUEBLOS ORIGINARIOS Y COMUNIDADES AFROMEXICANAS. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el respeto de los derechos de las personas descendientes de los pueblos y comunidades mayas, los pueblos originarios y afromexicanas, que conservan y mantienen sus rasgos culturales costumbres, tradiciones o religión como parte de su forma habitual de vida en el Estado, en lo referente a:
+
+a) Los proyectos de Ley y reformas a disposiciones legales que tengan relación con garantizar el ejercicio pleno de los derechos fundamentales del pueblo maya de Yucatán, establecidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por México en la materia, y en la Constitución Política del Estado de Yucatán;
+
+b) Las acciones para prevenir, atender y erradicar la discriminación en contra de las comunidades indígenas;
+
+c) Reconocer la existencia de personas pertenecientes a otros pueblos o comunidades indígenas asentadas en el territorio de Yucatán, a quienes se les respetarán sus derechos fundamentales y la libertad para conservar sus costumbres, usos y tradiciones, lengua, religión y en general, todos los rasgos culturales que los distingan;
+
+d) La difusión de la cultura e idioma maya;
+
+e) La preservación y fomento de los usos, costumbres, tradiciones e idiosincrasia del pueblo maya en Yucatán, así como el desarrollo integral de la misma, y
+
+f) Los asuntos relacionados con los derechos sociales del pueblo maya con la aplicación de sus propias formas de regulación, con pleno respeto a sus derechos y garantías.
+
+Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XIV.- DERECHOS HUMANOS. Tendrá por objeto analizar y dictaminar todos los asuntos relacionados con los derechos humanos en el estado; así como la vigilancia de los derechos de los sujetos comprendidos en los grupos vulnerables por circunstancias de pobreza, origen étnico, estado de salud, edad o discapacidad, que se encuentren en una situación de mayor indefensión; así como la protección y defensa de los derechos humanos, en lo referente a:
+
+a) La igualdad de oportunidades para las personas que se encuentran en situación de vulnerabilidad o desventaja por circunstancias de pobreza, origen étnico, estado de salud, edad o discapacidad;
+
+b) Los derechos de las niñas, niños y jóvenes, relativos a su desarrollo integral;
+
+c) La legislación relativa a los derechos, protección, apoyo, reconocimiento y desarrollo de las personas adultas mayores, tendientes a mejorar su calidad de vida;
+
+d) Lo relativo a los derechos de las personas con discapacidad y su integración a la sociedad;
+
+e) Los asuntos relacionados con el fortalecimiento de la familia como núcleo básico de la sociedad;
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+f) La vigilancia del cumplimiento de la política estatal en materia de respeto y defensa de los derechos humanos, la integración y funcionamiento de la Comisión Estatal de Derechos Humanos, así como realizar el análisis del informe de actividades que rinda anualmente quien tenga la titularidad de la Comisión Estatal ante el pleno de la legislatura, para lo cual deberá citar la comisión a comparecer a las autoridades o funcionarios públicos responsables de dicho organismo, para que den cuenta del estado que guarda su dependencia y el cumplimiento de la política de protección a los derechos humanos en el estado;
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+g) Los que se refieran a la expedición de reformas, adiciones y derogaciones de la legislación estatal de la materia;
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+h) Implementar las reformas constitucionales en materia de derechos humanos; desarrollar acciones para prevenir violaciones a los derechos humanos; proponer acciones para el fortalecimiento de las políticas públicas del Estado, en materia de derechos humanos, y
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+i) Cuando se le solicite al Congreso o a la Diputación Permanente, las comparecencias que señala el párrafo quinto del artículo 74 de la Constitución Política del Estado de Yucatán, esta comisión permanente realizará el procedimiento que se describe en el reglamento de esta ley.
+
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+XV.- ARTE Y CULTURA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+
+a) La protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y sus municipios;
+
+b) Los temas en materia cultural;
+
+c) La promoción de las bellas artes, manifestaciones artísticas y culturales, así como de patrimonio cultural;
+
+d) El fomento y estímulo de las manifestaciones de creatividad artística e intelectual en el Estado;
+
+e) Lo relativo al fomento y desarrollo de las actividades artesanales de las distintas regiones de la entidad;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE ENERO DE 2026)</small>
+
+XVI.- JUVENTUDES, CULTURA FÍSICA Y DEPORTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+
+a) Los temas relativos al deporte;
+
+b) La educación física y la práctica del deporte, los hábitos de vida sana y buena alimentación;
+
+c) Realización de actividades que promuevan y fortalezcan la cultura física en el Estado, y
+
+d) La formación integral de los ciudadanos que contribuya a su desarrollo físico, psicológico, social y cultural, así como su vinculación y participación activa en la vida nacional, social, económica y política.
+
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
+
+e) La promoción ante las instancias correspondientes, Instituciones, Organismos Públicos y Privados, Estatales o Nacionales, de la participación de las juventudes en la vida social, política, económica y cultural de la entidad, con el fin de procurar desarrollo integral;
+
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
+
+f) La gestión de asuntos, demandas, opiniones y propuestas de las juventudes, así como la atención integral de los problemas que le son propios, y
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
+
+g) Lo referente a medidas para la prevención, atención y erradicación de la farmacodependencia y las adicciones entre jóvenes.
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2022)</small>
+
+XVII.- TURISMO Y PROMOCIÓN INTERNACIONAL. Tendrá por objeto estudiar, analizar y dictaminar sobre las iniciativas relacionadas con el turismo, así como de los asuntos en materia de promoción internacional del Estado vinculadas con el mismo, para lo cual conocerá todo lo relativo a:
+
+a) Los criterios de coordinación en la entidad que repercutan en asuntos de la materia.
+
+b) El desarrollo de los proyectos turísticos, su impacto económico y social en la entidad.
+
+c) El crecimiento económico y social a través de mecanismos turísticos.
+
+d) Los problemas en el sector a fin de plantear soluciones.
+
+e) Impulsar las acciones turísticas mediante la coordinación de las autoridades involucradas en el mismo.
+
+f) El impulso, fortalecimiento y preservación de la actividad turística, sin detrimento del ambiente, imagen urbana o derechos humanos.
+
+g) El incremento o mejora en la calidad de las actividades de servicios turísticos en el Estado, así como las bases normativas para la regulación de rutas, recorridos y exhibiciones turísticas de competencia estatal y el impulso desde el ámbito municipal; así como el conocimiento sobre la promoción del legado histórico, riqueza gastronómica y lugares turísticos.
+
+h) El fortalecimiento de la difusión nacional e internacional de los destinos turísticos del estado.
+
+i) El establecimiento de estrategias o mecanismos para ampliar y consolidar las ventajas competitivas en materia turística y comercial del estado a nivel nacional e internacional.
+
+j) El impulso de instrumentos de cooperación nacional e internacional con organismos del sector turístico que permitan el crecimiento económico y social del Estado.
+
+k) Coadyuvar en la difusión, promoción y ejecución de convenios y tratados internacionales signados por el Ejecutivo Federal en los que tenga intervención el Estado de Yucatán.
+
+l) Coadyuvar con las demás comisiones del Congreso cuyos asuntos sean o puedan llegar a ser de carácter internacional, y
+
+m) Las demás que por conducto de la Mesa Directiva del Congreso del Estado le sean turnados.
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2022)</small>
+
+XVIII.- DESARROLLO HUMANO E INCLUSIÓN DE LOS GRUPOS EN SITUACIÓN DE VULNERABILIDAD, la cual tendrá por objeto estudiar, analizar y dictaminar sobre los asuntos relacionados con las reformas a las leyes en esta materia, para lo cual conocerá todo lo relativo a:
+
+a) A los mecanismos de garantía de los derechos de las personas con discapacidad, en términos de la Constitución Política de los Estados Unidos Mexicanos, así como de los tratados, convenciones e instrumentos internacionales en la materia.
+
+b) Acciones legislativas en favor de la inclusión social, política, económica de las personas con discapacidad en el marco de legislación y de las políticas públicas.
+
+c) Medidas que promuevan, garanticen, protejan y respeten la igualdad y no discriminación de las personas con discapacidad.
+
+d) La participación de las personas con discapacidad, sus familias, personas físicas o morales y las organizaciones de la sociedad civil cuyo objeto sea su atención o la promoción de sus derechos, cuando se analice la legislación referente a sus derechos.
+
+e) El desarrollo integral de las personas con discapacidad, de manera plena y autónoma.
+
+f) Fomentar la integración social de las personas con discapacidad, a través del ejercicio de sus derechos civiles y políticos.
+
+g) El pleno goce y ejercicio de los derechos fundamentales de las personas con discapacidad.
+
+h) Impulsar la adopción de acciones afirmativas de las personas con discapacidad para participar plenamente en la vida política, económica, social y cultural.
+
+i) Promover los derechos de la niñez.
+
+j) Los asuntos relacionados con adolescentes y jóvenes en condición de vulnerabilidad.
+
+k) Todos los asuntos relacionados a los derechos del adulto mayor.
+
+l) Cuestiones que se refieran a los pueblos originarios y afrodescendientes.
+
+m) Atender el desarrollo social integrando a todos los grupos, comunidades y personas atendiendo a quienes requieran la asistencia del Estado.
+
+n) Promover el desarrollo Humano de cada persona o comunidad valorando sus particularidades y contexto donde se desenvuelve, y
+
+ñ) Las demás que por conducto de la Mesa Directiva del Congreso del Estado le sean turnados.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2022)</small>
+
+Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas de competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
+
+#### Sección Primera. De la Secretaría General del Poder Legislativo
 
 ###### Artículo 44.
 
-Son facultades del Congreso:
+Las Comisiones Permanentes, tendrán las atribuciones generales siguientes:
 
-I.- Legislar sobre todos los ramos de la administración que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que se expidieren, así como participar en las reformas de esta Constitución, observando para el caso los requisitos establecidos;
+I.- Elaborar su programa anual de trabajo;
 
-II.- Iniciar ante el Congreso de la Unión leyes o decretos, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
+II.- Rendir un informe anual de sus actividades a la Junta de Gobierno y Coordinación Política y de manera semestral al Presidente de la Mesa Directiva;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 1992)</small>
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública; protección al ambiente y de preservación y restauración del equilibrio ecológico.
+III.- Sesionar las veces que sean necesarias para el cumplimiento de sus funciones;
 
-IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
+IV.- Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas, en los términos de la Agenda Legislativa;
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+V.- Realizar las actividades que se deriven de esta Ley, de los ordenamientos aplicables, de los acuerdos tomados por el Pleno y los que adopten por sí mismas con relación a la materia de su competencia;
 
-a) La solicitud de erección deberá presentarse por escrito ante el Congreso del Estado por un grupo de ciudadanos en número no menor al cincuenta por ciento, más uno de los vecinos inscritos en el padrón electoral del territorio demandante que pretenda establecerse en nuevo Municipio; y con residencia en la localidad de tres años, cuando menos;
+VI.- Recabar la información y documentación relativa a los asuntos en estudio de las distintas dependencias de los gobiernos, Estatal o Municipal, organismos autónomos y demás Entidades de la Administración Pública;
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+VII.- Solicitar la presencia de los titulares señalados en la fracción anterior, cuando el asunto en estudio lo requiera, en términos de la Constitución Política del Estado;
 
-b) La solicitud deberá contener un expediente técnico con el diagnóstico económico, social, político; los proyectos de plan de desarrollo municipal, desarrollo urbano, desarrollo sustentable y presupuesto de ingresos y egresos que garantice su existencia económica y administrativa, así como que el municipio de que se escinda, pueda seguir subsistiendo sin grave menoscabo de su hacienda municipal, además de la estructura organizacional propuesta;
+> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+VIII.- Dictaminar los asuntos que les sean turnados en los siguientes 45 días hábiles, de no ser esto posible, el Presidente de la Comisión podrá solicitar una prórroga al Congreso hasta por un término igual;
 
-c) La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de cuarenta mil habitantes;
+IX.- Informar a la Mesa Directiva sobre los asuntos que por su naturaleza sean considerados sin materia e inviables para dictaminar;
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+X.- Integrar comités con los integrantes de la Comisión Permanente, para coadyuvar en el estudio y análisis de los asuntos que le sean turnados, y
 
-d) Que el poblado que se elija como cabecera municipal tenga una población no inferior a veinte mil habitantes y cuente con la infraestructura que garantice la prestación de los servicios públicos; y,
+XI.- Invitar a comparecer expertos en la materia sobre asuntos en trámite, a efecto de allegarse datos e información especializada.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, D.O. 13 DE ENERO DE 2026)</small>
 
-e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como la del Gobernador, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida;
+XII.- Cuando sus trabajos lo ameriten, acordar por la mayoría de sus integrantes la celebración de sesiones o reuniones presenciales de trabajo fuera del Recinto del Poder Legislativo, informando previamente de ello a la Presidencia de la Mesa Directiva.
 
-V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
-
-VI.- Facultar al Ejecutivo, con las limitaciones que estime necesarias, para que por sí o por apoderado especial, represente al Estado en actos o contratos para los que no esté facultado expresamente por esta Constitución;
-
-VII.- Fijar la jurisdicción política, administrativa y judicial del Estado;
-
-VIII.- Dictar normas para la administración, conservación y enajenación de los bienes del Estado.
-
-IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-X.- Aprobar las leyes de ingresos de los municipios, así como revisar, fiscalizar y dictaminar las cuentas públicas de las haciendas municipales y de los Concejos Municipales a más tardar el treinta y uno de marzo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 134 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior de Michoacán, seguirá su curso en términos de lo dispuesto en dicho artículo;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-X-A.- Expedir las leyes en materia municipal que tengan por objeto establecer:
-
-a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
-
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
-
-c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones II y V del artículo 123, como el último párrafo del artículo 130 de esta Constitución;
-
-d) El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y,
-
-e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-X-C.- Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos, así como revisar, fiscalizar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar, fiscalizar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-La revisión de las Cuentas Públicas la realizará el Congreso del Estado de Michoacán de Ocampo a través de la Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
-
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos, egresos, patrimonio y deuda, para los poderes del Estado y sus Municipios, así como los organismos que por disposición de ley se consideren autónomos y cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes de la materia a fin de garantizar su armonización.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas;
-
-XIV.- Legislar sobre toda clase de aranceles;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán;
-
-XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
-
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
-
-XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2009)</small>
-
-XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2009)</small>
-
-XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XVIII.- Citar a los titulares y directores de las dependencias de la Administración Pública Estatal Centralizada y Paraestatal, al Fiscal General del Estado, así como (sic) los titulares de los organismos autónomos, para comparecer y rendir informe sobre asuntos concernientes a su respectiva competencia;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos o consejos municipales en su caso, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros de conformidad con la Ley.
-
-Los miembros de los ayuntamientos y, en su caso, de los concejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XX.- Designar a las personas que han de integrar los ayuntamientos o los concejos municipales, en su caso, cuando falte definitivamente alguna de ellas, por cualquier causa, y no sea posible que los suplentes electos entren en funciones. Los ciudadanos designados deberán cumplir los requisitos de elegibilidad que para el cargo respectivo establezca esta Constitución y las leyes de la materia;
-
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2006)</small>
-
-XXI.- Elegir, reelegir y privar de su encargo, a los Magistrados del Supremo Tribunal de Justicia, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
-
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
-
-XXI A.- Elegir al integrante del Consejo del Poder Judicial que le compete;
-
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
-
-XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por las causas establecidas en el artículo 77 de esta Constitución;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
-
-XXIII.- Nombrar a las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal Electoral del Estado;
-
-XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
-
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
-
-XXIII A.- Elegir, reelegir y privar del encargo, a los Magistrados del Tribunal de Justicia Administrativa, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XXIII-B.- Elegir, reelegir y destituir del cargo, a los comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos de control de los organismos autónomos previstos en el Capítulo I del Título Tercero A de esta Constitución;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
-
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XXVI.- (DEROGADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2018)</small>
-
-Conocer de las imputaciones que se hagan a los servidores públicos y erigirse en Jurado de Sentencia, para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 108 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Las declaraciones y resoluciones del Congreso del Estado son inatacables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXVII.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2010)</small>
-
-XXVIII.- Comunicarse con el Ejecutivo o Judicial por medio de comisiones de su seno;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXIX.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXX.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXI.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXII.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXIII.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXIV.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVI.- Integrar la lista de diez candidatos para enviarla al Ejecutivo, y elegir, de entre la terna que remita éste, al Fiscal General del Estado, en los términos de esta Constitución;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVII.- Aprobar la licencia o renuncia del Fiscal General del Estado;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVIII.- Remover al Fiscal General del Estado mediante el voto de las dos terceras partes de los diputados presentes;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXIX.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2018)</small>
-
-XL.- Las demás que le confiera expresamente esta Constitución.
-
-> <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
-
-#### SECCION V. De la Diputación Permanente
+#### Sección Segunda. De la Auditoría Superior del Estado
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
+Las Comisiones se integrarán con un Presidente, un Vicepresidente, dos secretarios y los vocales necesarios. Las presidencias de las comisiones deberán ser asignadas a las Fracciones y Representaciones Legislativas, en función de su representatividad.
 
 ###### Artículo 46.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
+Las Comisiones Especiales, tendrán las atribuciones generales que señale esta Ley para todas las Comisiones Permanentes y aquellas que les confiera en lo particular el Acuerdo que las creó.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### CAPÍTULO VI. De la Diputación Permanente
 
-### CAPITULO III. Del Poder Ejecutivo
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION I. De la Elección del Gobernador
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+#### Sección Tercera. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 47.
 
-Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará "Gobernador del Estado".
+Las Comisiones, posteriormente a su integración, deberán instalarse formalmente, previo al inicio de sus trabajos.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+Una vez instaladas las Comisiones e iniciados sus trabajos harán una revisión de los temas que le fueron turnados por todas las Legislaturas anteriores con la finalidad de verificar si quedaron asuntos pendientes por tramitar, estudiar, informar y en especial dictaminar, siendo que en caso de existir algún asunto rezagado, citará a sus integrantes a sesionar en un plazo no mayor de cinco días con la finalidad de cumplir con lo establecido en esta Ley y su Reglamento.
 
 ###### Artículo 48.
 
-La elección de Gobernador será popular y directa en los términos que disponga la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Si por motivo de su competencia debiera turnarse un asunto a dos o más Comisiones, éstas dictaminarán de manera conjunta.
 
 ###### Artículo 49.
 
-Para ser Gobernador se requiere:
+Las sesiones de trabajo de las Comisiones serán públicas, pudiendo ser privadas, previa calificación y acuerdo de sus integrantes.
 
-I.- Ser ciudadano michoacano en pleno goce de sus derechos;
+En las sesiones, los asistentes deberán guardar el orden y decoro debidos.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+El funcionamiento de las Comisiones así como las reglas de discusión y votación de las sesiones se regirán por el reglamento respectivo.
 
-II.- Haber cumplido treinta años el día de la elección;
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
-III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
+###### Artículo 49 Bis.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+Cuando en el transcurso de una legislatura se efectúen cambios en la Presidencia de una Comisión Permanente, el Presidente saliente transferirá al entrante, con auxilio de la Secretaría General, el inventario que contendrá la relación de iniciativas, minutas, proposiciones y demás asuntos que estén pendientes de ser considerados por el Pleno.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 49 Ter.
+
+Cuando no haya cuórum legal después de dos convocatorias sucesivas a reunión por parte de comisiones unidas, sus presidentes lo harán del conocimiento a la Junta de Gobierno y Coordinación Política para que coadyuven a la solución correspondiente.
 
 ###### Artículo 50.
 
-No pueden desempeñar el cargo de Gobernador:
+Los presidentes de las Comisiones, tendrán las facultades y obligaciones siguientes:
 
-I.- Los individuos que pertenezcan o hayan pertenecido al estado eclesiástico o que hayan sido o sean ministros de algún culto religioso;
+I.- Convocar a sesiones o reuniones de trabajo, presidirlas y conducirlas;
 
-II.- No pueden ser electos para ocupar el cargo de Gobernador:
+II.- Elaborar, en coordinación con el secretario el orden del día;
 
-a).- Los que tengan mando de fuerza pública;
+III.- Solicitar el apoyo técnico adicional que se requiera, para el desarrollo de sus trabajos, y
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal;
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-c).- Los titulares de las dependencias básicas del Ejecutivo, los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; el Fiscal General del Estado; y,
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-d).- Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-Las personas a que se refieren los incisos a), b) y c) anteriores, podrán ser electas si se separan de sus cargos noventa días antes de la elección.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+IV.- Las demás que le correspondan en los términos de esta Ley y otras disposiciones reglamentarias aplicables.
 
 ###### Artículo 51.
 
-La elección de Gobernador se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional. El Gobernador entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+Las Comisiones contarán con Secretarios Técnicos, quienes serán propuestos y nombrados por éstas; y dependerán directamente de la Secretaría General del Poder Legislativo, en el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
+Los Secretarios Técnicos, tendrán las siguientes facultades y obligaciones:
+
+I.- Auxiliar a las Comisiones Permanentes y Especiales del Congreso;
+
+II.- Llevar el seguimiento y control de los asuntos de las Comisiones, integrar los expedientes y mantener actualizado el archivo de éstas;
+
+III.- Coadyuvar en la elaboración de proyectos de dictamen y demás disposiciones que se les solicite por las Comisiones;
+
+IV.- Asesorar técnica y jurídicamente en materia legislativa a los presidentes e integrantes de las Comisiones;
+
+V.- Coadyuvar oportunamente en la elaboración de acuerdos e iniciativas de las Comisiones, y
+
+VI.- Las demás que les soliciten las Comisiones y el Secretario General del Poder Legislativo.
+
+> <small>(ADICIONADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
+###### Artículo 51 Bis.
+
+Los requisitos para ser Secretario Técnico son los siguientes:
+
+I.- Ser mexicano por nacimiento y yucateco en ejercicio de sus derechos;
+
+II.- Contar con título y cédula profesional, con cuando menos 5 años de antigüedad;
+
+III.- Acreditar experiencia en materia legislativa;
+
+IV.- Acreditar experiencia y conocimientos en materia de la competencia de la Comisión;
+
+V.- Contar con estudios de Maestría, preferentemente.
 
 ###### Artículo 52.
 
-Nunca podrán ser electos para el período inmediato;
-
-a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación, y
-
-b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Los dictámenes aprobados en las Comisiones y de los que no llegue a conocer el Pleno de la Legislatura saliente, quedarán a disposición del Pleno de la Legislatura entrante, el cual podrá, en caso de ser necesario, enviarlo de nueva cuenta a la Comisión competente para los efectos legales procedentes.
 
 ###### Artículo 53.
 
-El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
+Las Fracciones Legislativas son las agrupaciones de diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en el Congreso. Para constituir una Fracción Legislativa se requerirá de al menos dos diputados.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+La Representación Legislativa se constituye por un solo Diputado de una afiliación partidista única en el Congreso.
 
 ###### Artículo 54.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
+La Junta de Gobierno y Coordinación Política, acordará la asignación de recursos, su periodicidad y las oficinas para cada Fracción y Representación Legislativa. Adicionalmente, conforme a la disposición presupuestal dispondrá de apoyos en función del número de diputados que la conforman, para el desarrollo de sus funciones legislativas.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Las Fracciones y Representaciones Legislativas deberán llevar una contabilidad específica de los apoyos recibidos, misma que pondrán a disposición de la Mesa Directiva, al momento que se les requiera.
 
 ###### Artículo 55.
 
-El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
+Sólo existirá una Fracción Legislativa por cada partido político que esté representado por diputados en el Congreso. Una vez constituida se comunicará al Presidente de la Mesa Directiva, el nombre de su coordinador y demás integrantes, al igual que las modificaciones que ocurran en su conformación, para los fines previstos en esta Ley.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 56.
 
-La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
+Los diputados que dejen de pertenecer a una Fracción o Representación Legislativa, serán considerados como diputados sin partido, y tendrán derecho a la subvención que acuerde la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 57.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, el Congreso concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; en un plazo no mayor a diez días, siguientes a la designación del Gobernador Interino, expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
+La Junta de Gobierno y Coordinación Política es el órgano colegiado que expresa la pluralidad política de la Legislatura; su objeto principal, consiste en concertar acuerdos democráticos y éticos, con el fin de encauzar la conducción adecuada del Poder Legislativo.
 
-Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+En todos los casos en que se haga referencia a la Junta se entenderá como la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 58.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernador el funcionario a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
+La Junta, se integra con los coordinadores de las distintas Fracciones y demás Representaciones Legislativas; teniendo uno de ellos el carácter de Presidente, asimismo contará con un Secretario y los vocales a que haya lugar.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+De igual forma, estará asistida por un Secretario Técnico, que tendrá las facultades y obligaciones que en general se establezcan para los Secretarios Técnicos de las Comisiones, además de las que específicamente le señale el Presidente de la Junta.
+
+A sus sesiones también deberá asistir el Secretario General del Poder Legislativo con voz pero sin voto, para proporcionar la información que se le requiera.
+
+La sesión de instalación de la Junta, será convocada por el Coordinador de la Fracción Legislativa que tenga el mayor número de diputados.
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 59.
 
-El Gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+Presidirá la Junta durante el período de la Legislatura, el Coordinador de aquella Fracción Legislativa que por sí misma cuente con el mayor número de diputados en el Congreso.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+El Secretario de la Junta, será el coordinador de la Fracción Legislativa que se encuentre en el segundo lugar en número de diputados en el Congreso.
 
-#### SECCION II. De las Facultades y Obligaciones del Gobernador
+Cuando dos o más fracciones legislativas estén representadas por igual número de diputados, la Presidencia de la Junta será rotativa anualmente, siendo el Presidente de la misma en el primer año el coordinador de la fracción cuyo partido político hubiere obtenido el mayor número de votos en la elección de diputados. El orden anual para los siguientes dos años para presidir este órgano será determinado por el mayor número de votos obtenidos por las restantes fracciones legislativas en la elección de diputados.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+En caso de existir solo dos fracciones con igual número de diputados, el tercer año será presidido por la fracción que presidió el primer año.
+
+En este caso, el Secretario de la Junta será designado de manera rotativa anualmente en estos tres años y será el coordinador de la Fracción Legislativa que acuerde la junta.
+
+#### Sección Cuarta. De la Dirección de Evaluación del Presupuesto
 
 ###### Artículo 60.
 
-Las facultades y obligaciones del Gobernador son:
+En caso de ausencia temporal o definitiva del Presidente o de algún integrante de la Junta, la Fracción Legislativa a la que pertenezca, informará de inmediato, tanto al Presidente de la Mesa Directiva en turno como a la propia Junta, el nombre del Diputado que lo sustituirá.
 
-I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
-
-II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
-
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2006)</small>
-
-III.- Designar al integrante del Consejo del Poder Judicial que le compete;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-IV.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-V.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2018)</small>
-
-VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud del Gobernador, suficientemente justificada a juicio del Congreso; y a más tardar el veintiuno de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-X.- Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública del Estado y apoyar, en su caso, a los cuerpos de seguridad pública municipal, policía preventiva y tránsito municipales.
-
-La policía preventiva municipal, acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XIII.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XIV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XV.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
-
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XVI.- Presentar terna al Congreso del Estado, para la elección del Fiscal General del Estado;
-
-XVII.- (DEROGADA, P.O. 13 DE AGOSTO DE 2018)
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XVIII.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XIX.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XX.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXI.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando lo considere trascendental para la vida pública y el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán someterse a plebiscito, los actos o decisiones relativos a materia tributaria o fiscal, de Egresos, régimen interno de la administración pública del Estado y los demás que determine la ley; y,
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XXII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Los integrantes de la Junta podrán ser sustituidos temporalmente, de conformidad con las reglas internas de cada Fracción Legislativa.
 
 ###### Artículo 61.
 
-El Gobernador del Estado no podrá:
+La Junta, tendrá las siguientes atribuciones:
 
-I.- Negarse a promulgar y publicar las leyes y decretos de la Legislatura;
+I.- Impulsar la conformación de acuerdos relacionados con el contenido de las agendas presentadas por las distintas Fracciones y Representaciones Legislativas y de las propuestas, iniciativas o minutas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo;
 
-II.- Imponer contribución alguna que no esté previamente establecida por la ley;
+II.- Conducir las relaciones políticas con los otros poderes del Estado, los ayuntamientos de la Entidad, los poderes de la Federación y de otras entidades federativas y demás organismos y entidades públicas, locales, nacionales e internacionales;
 
-III.- Distraer los caudales públicos del objeto a que estén destinados por la ley;
+III.- Ejercer el gobierno interior del Poder Legislativo;
 
-IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
+IV.- Establecer la Agenda Legislativa para cada uno de los períodos de sesiones;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2011)</small>
+V.- Presentar a la Mesa Directiva y al Pleno, las propuestas de Acuerdo, pronunciamientos y declaraciones, que manifiesten la posición política del Congreso;
 
-V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
+VI.- Proponer al Congreso, la integración de las Comisiones;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
+VII.- Proponer al Pleno, por medio del Presidente de la Junta, el nombramiento y remoción, en su caso, del Secretario General del Poder Legislativo, del Director General de Administración y Finanzas, del Director del Instituto de Investigaciones Legislativas, del Director de Evaluación del Presupuesto y del Titular de la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
 
-Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos;
+VIII.- Proponer al Congreso, los reglamentos que estime necesarios para el funcionamiento de las unidades técnicas y administrativas;
 
-VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
+IX.- Coordinar los trabajos técnicos y administrativos, así como evaluar su eficiencia y calidad; pudiendo solicitar a los órganos de apoyo del Congreso los informes que estime pertinentes y con la periodicidad que requiera;
 
-VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de la posesión, uso o goce de lo que le pertenece.
+X.- Establecer los criterios de clasificación de la información reservada y confidencial del Poder Legislativo, de conformidad con la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán;
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+XI.- Establecer las políticas, lineamientos y estrategias de la comunicación social del Poder Legislativo y aprobar el programa anual respectivo;
 
-#### SECCION III. Del Despacho del Poder Ejecutivo
+XII.- Aprobar la edición de publicaciones de la Legislatura;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+XIII.- Disponer la elaboración del proyecto de presupuesto anual del Poder Legislativo y presentarlo al Pleno, para su aprobación;
+
+XIV.- Asignar, en los términos de esta Ley los recursos humanos, materiales, tecnológicos y financieros para el óptimo funcionamiento de los órganos de apoyo del Poder Legislativo;
+
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XV.- Establecer el catálogo de sueldos, percepciones y prestaciones de los servidores públicos, funcionarios y demás empleados del Poder Legislativo, así como los Manuales de Organización, Manuales de Procedimientos y otros documentos normativos en el ámbito administrativo.
+
+XVI.- Determinar la aplicación de sanciones disciplinarias a los servidores públicos del Congreso, de conformidad con la normatividad aplicable, y
+
+XVII.- Las demás que le señale esta Ley, el Pleno y la Diputación Permanente, así como, aquellas que resulten necesarias para el cumplimiento de sus funciones.
+
+#### Sección Quinta. Diario de los Debates, Revista Legislativa y Gaceta Parlamentaria
 
 ###### Artículo 62.
 
-Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
+La Junta deberá integrarse el día de la sesión de instalación y apertura del Primer Período Ordinario de Sesiones, correspondiente al primer año de ejercicio constitucional de la Legislatura, expidiéndose la Minuta de Acuerdo por el Congreso, que será publicada en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 63.
 
-Para ser Secretario de Gobierno se requiere:
-
-I.- Ser mexicano y michoacano por nacimiento, o tener residencia efectiva en el Estado, no menor de dos años anteriores a la fecha del nombramiento;
-
-II.- Ser ciudadano en pleno ejercicio de sus derechos;
-
-III.- Haber cumplido veinticinco años de edad el día de su designación;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
-
-IV.- No haber sido condenado por delito no culposo.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-Los mismos requisitos serán necesarios para ser Secretario de Finanzas.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+Las decisiones de la Junta se tomarán, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tuviere su Fracción o Representación Legislativa, al momento de la instalación de la Legislatura.
 
 ###### Artículo 64.
 
-El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la representación del Gobernador cuando éste lo crea conveniente.
+El Presidente de la Junta tendrá las siguientes facultades:
 
-Al Secretario de Gobierno le corresponde representar al Titular del Poder Ejecutivo del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte.
+I.- Convocar y conducir las sesiones;
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+II.- Velar por el cumplimiento de los acuerdos que se adopten;
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+III.- Poner a consideración de sus integrantes, la Agenda Legislativa para la elaboración del programa de cada período de sesiones, así como el calendario para su desahogo;
 
-### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
+IV.- Exhortar al desahogo de los asuntos pendientes de las Comisiones Permanentes, para la elaboración de los programas legislativos;
+
+V.- Informar anualmente al Pleno, de las actividades de la Junta;
+
+VI.- Proveer a la Junta de los asuntos, estudios, análisis y proyectos legislativos elaborados por el Instituto de Investigaciones Legislativas, y
+
+VII.- Las demás que deriven de esta Ley, reglamento o que le fueren conferidas por la propia Junta.
+
+### CAPÍTULO II. De los Órganos Técnicos y Administrativos
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
+El Poder Legislativo, para el cumplimiento de sus atribuciones, contará con el apoyo de los siguientes órganos técnicos y administrativos:
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+I.- Secretaría General del Poder Legislativo;
+
+II.- Auditoría Superior del Estado;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+III.- Instituto de Investigaciones Legislativas;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+IV.- Dirección de Evaluación del Presupuesto, y
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+V.- Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VI.- Contraloría Interna.
+
+Estos órganos contarán con las unidades administrativas necesarias para el cumplimiento de sus funciones, de conformidad con el Presupuesto de Egresos del Poder Legislativo, de esta Ley y su reglamento, y demás disposiciones normativas aplicables.
 
 ###### Artículo 66.
 
-Los titulares de las dependencias serán responsables con el Gobernador en todos aquellos asuntos que lleven su firma.
+La Secretaría General del Poder Legislativo es el órgano técnico y administrativo responsable de coordinar, ejecutar y supervisar las funciones especializadas y relativas al trabajo legislativo, conforme al ámbito de competencias establecido en la Constitución Política del Estado, en esta Ley y en las disposiciones reglamentarias correspondientes.
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS Y PUBLICADAS EN EL P.O. DE 23 DE MAYO DE 2006, MEDIANTE DECRETO NÚMERO 44, SE MODIFICA SUSTANCIALMENTE EL CONTENIDO DEL PRESENTE CAPÍTULO; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO DEL MISMO PUBLICADO EN EL PERIÓDICO QUE SE MENCIONA.</small>
+### CAPÍTULO VII. De las Comisiones
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-### CAPITULO IV. Del Poder Judicial
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
+La Secretaría General del Poder Legislativo, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+I.- Ejecutar los acuerdos que le encomiende la Junta;
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado está a cargo del Consejo del Poder Judicial, que posee autonomía técnica y de gestión; siendo su contraloría interna su órgano de control, cuyo titular será ratificado por las dos terceras partes de los diputados presentes, teniendo a su cargo con autonomía técnica y de gestión, la fiscalización de los ingresos y egresos de este Poder. El Contralor durará en su encargo cinco años, no podrá ser reelecto. Y podrá ser removido en los términos y por las causas previstas en la Constitución y en la normatividad de la materia.
+II.- Otorgar el apoyo que requieran los diputados en particular, las Comisiones, el Pleno y la Diputación Permanente;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+III.- Apoyar para que las sesiones del Pleno, de la Diputación Permanente y de las
 
-El Consejo del Poder Judicial se integra con cinco miembros, de los cuales uno es el Presidente del Supremo Tribunal de Justicia, quien lo preside; uno electo por el Congreso del Estado; uno designado por el Gobernador del Estado, un Magistrado y un Juez de Primera Instancia, ambos electos por sus pares, en los términos que fije la Ley Orgánica.
+Comisiones, se desarrollen con normalidad, coadyuvando con los presidentes de éstas;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+IV.- Sintetizar los documentos que deban darse cuenta en la sesión y ordenarlos;
 
-Los Consejeros no representan a quienes los eligen o designen, por lo que ejercen su función con independencia e imparcialidad. Su encargo será por cinco años, con excepción del Presidente. Los requisitos y condiciones para ser Consejero son los mismos que para ser Magistrado del Supremo Tribunal de Justicia.
+V.- Contribuir para que la Secretaría de la Mesa Directiva tenga de manera oportuna los documentos a que se refiere la fracción anterior;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+VI.- Ejecutar y dar seguimiento a los acuerdos del Pleno, de la Diputación Permanente y de las Comisiones, en los asuntos de su competencia;
 
-El Consejo del Poder Judicial funciona en Pleno o en comisiones. El Pleno resuelve sobre la designación, adscripción y remoción de jueces, emitirá su reglamento interior, los acuerdos y resoluciones para el cumplimiento de sus funciones. Cuenta con comisiones permanentes y transitorias. Las comisiones permanentes son: administración, carrera judicial y vigilancia y disciplina.
+VII.- Hacer entrega a los presidentes de las Comisiones, de los expedientes que se les turnen y llevar su control y seguimiento;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
 
-Se establece la Carrera Judicial, a cargo del Consejo del Poder Judicial, en los términos que señale la Ley Orgánica.
+VIII.- Dar seguimiento para la oportuna elaboración del Diario de los Debates y la publicación de la Gaceta Parlamentaria;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+IX.- Rendir previo Acuerdo con el Presidente del Congreso, los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte; así como en los demás asuntos de carácter jurisdiccional;
+
+X.- Verificar que se redacten las actas de las sesiones públicas en los términos establecidos en esta Ley y en su reglamento, y entregarlas para su revisión, a la Mesa Directiva;
+
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+
+XI.- Revisar los proyectos de Ley, Decreto o Acuerdo, comunicaciones y demás documentos que se expidan, así como de aquellos cuya impresión se acuerde, procurando su adecuada redacción, así como la correcta utilización de lenguaje incluyente y lenguaje no sexista, bajo la supervisión de la Mesa Directiva;
+
+XII.- Auxiliar a los secretarios de la Mesa Directiva en la elaboración de las actas de las sesiones;
+
+XIII.- Determinar los sistemas, procedimientos y técnicas legislativas, que permitan simplificar y mejorar las tareas del Congreso;
+
+XIV.- Dar seguimiento a los asuntos que el Congreso hubiese tramitado, ejecutando los acuerdos convenidos;
+
+XV.- Organizar, controlar y sistematizar el archivo y la información legislativa;
+
+XVI.- Expedir copias certificadas de la documentación que obre en los archivos del
+
+Congreso;
+
+XVII.- Coordinar y supervisar el trabajo del personal de las unidades técnicas a su cargo;
+
+XVIII.- Requerir a los órganos técnicos y administrativos del Congreso, la información y documentación que considere necesaria, y
+
+XIX.- Las demás que le asigne el Pleno, la Diputación Permanente y la Junta.
+
+Para cumplir con las funciones antes señaladas la Secretaría General del Poder Legislativo, contará con las unidades técnicas y administrativas, y el personal necesario conforme al reglamento aplicable.
 
 ###### Artículo 68.
 
-La independencia económica del Poder Judicial la garantizará el Congreso del Estado, asignándole un presupuesto suficiente para el adecuado cumplimiento de sus funciones.
+Para ser Secretario General del Poder Legislativo se requiere:
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones está garantizada por esta Constitución, la Ley Orgánica y demás ordenamientos jurídicos aplicables.
+I.- Ser mexicano por nacimiento y tener además la calidad de ciudadano yucateco en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+II.- Contar con título profesional en Derecho, expedido por institución legalmente reconocida;
+
+III.- Acreditar conocimientos y experiencia para desempeñar el cargo;
+
+IV.- No haber sido durante el año anterior al día de la designación, presidente, secretario general de la dirigencia nacional, estatal o municipal de un partido político;
+
+V.- No ser militar en servicio activo o ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento, y
+
+VI.- Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de libertad o estar procesado por delito grave, a partir del auto de formal prisión.
 
 ###### Artículo 69.
 
-La elección de los magistrados y jueces integrantes del Poder Judicial, será hecha preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el Poder Judicial del Estado o que lo merezcan por su honorabilidad, competencia y antecedentes en la profesión jurídica.
+La Auditoría Superior del Estado es la entidad prevista en la Constitución Política del Estado y en la Ley de Fiscalización de la Cuenta Pública del Estado.
 
-La Ley Orgánica establecerá los criterios y procedimientos mediante los cuales el Consejo del Poder Judicial realizará la evaluación de los aspirantes, bajo el criterio de igualdad de oportunidades.
+#### Sección Sexta. De la Contraloría Interna
 
-Los magistrados y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+###### Artículo 75 Bis.
 
-#### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
+La Contraloría Interna, es un órgano funcionalmente autónomo y dependerá del Congreso, a través de la Junta de Gobierno y Coordinación Política, encargada de las funciones de control y evaluación del cumplimiento de las obligaciones legales y normativas en materias financiera y administrativa dentro del Poder Legislativo del Estado, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
+###### Artículo 75 Ter.
+
+Las funciones de la Contraloría Interna serán ejercidas por su titular y contará con el personal que requiera para el desempeño de sus funciones de acuerdo al presupuesto asignado.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Quáter.
+
+La Contraloría Interna, tendrá las siguientes funciones:
+
+I.- Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos e imponer o solicitar la imposición de las medidas cautelares correspondientes conforme a lo establecido en la legislación aplicable en materia de responsabilidades administrativas; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+II.- Imponer la sanción económica y administrativa correspondiente, en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán, al licitante, proveedor, prestador o proveedor de bienes y servicios, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda;
+
+III.- Supervisar y evaluar la implementación del sistema de control interno; auditar y revisar el ejercicio del gasto público del Congreso y su congruencia con los presupuestos de egresos;
+
+IV.- Formular y establecer las normas de control y fiscalización y vigilar su cumplimiento;
+
+V.- Establecer las bases generales para la realización de auditorías en el Congreso; y expedir las normas que regulen los instrumentos y procedimientos en dichas materias;
+
+VI.- Practicar las auditorías y revisiones a los órganos técnicos y áreas administrativas del Congreso, conforme al programa anual de trabajo o cuando la situación lo requiera;
+
+VII.- Llevar el registro de servidores públicos del Congreso obligados a presentar declaración de situación patrimonial y registrar la información sobre las sanciones administrativas que en su caso hayan sido impuestas.
+
+VIII.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades;
+
+IX.- Presentar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, así como informar semestralmente a la Junta de Gobierno y Coordinación Política del Congreso, del resultado de las revisiones que realice al ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover las medidas correctivas que procedan;
+
+X.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, en el ámbito de su competencia;
+
+XI.- Intervenir en todo cambio de titulares de los órganos técnicos y áreas administrativas del Congreso, para efectos de verificar la correcta ejecución del proceso de entrega y recepción y de transferencias, en los términos de las disposiciones legales, aplicando, en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
+
+XII.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del Poder Legislativo;
+
+XIII.- Participar en los procedimientos de adquisiciones, arrendamientos y servicios del Congreso, emitiendo opiniones, debidamente sustentadas, tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
+
+XIV.- Conocer, substanciar y resolver las quejas que presenten quienes tengan interés jurídico, contra los actos de los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas, que se efectúen en el Congreso, relacionados con los proyectos de prestación de servicios, adquisiciones y arrendamientos, en los casos en que las leyes le otorguen competencia para ello;
+
+XV.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el Poder Legislativo del Estado;
+
+XVI.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XVII.- Implementar las acciones que acuerden los sistemas nacional y estatal anticorrupción, en términos de las disposiciones aplicables;
+
+XVIII.- Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XIX.- Promover la coordinación y cooperación con los Poderes Ejecutivo y Judicial, los órganos constitucionales autónomos, la federación y los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+
+XX.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad;
+
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXI.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en el Poder Legislativo;
+
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXII.- Emitir el código de ética de los servidores públicos del Poder Legislativo y las reglas de Integridad para el ejercicio de la función pública, y
+
+> <small>(ADICIONADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXIII.- Garantizar en el ámbito de su competencia como Autoridad Garante del Poder Legislativo, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos, así como lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Quinquies.
+
+Para ser titular de la Contraloría Interna se requiere:
+
+I.- Ser mexicano y tener además la calidad de ciudadano yucateco en pleno ejercicio de sus derechos;
+
+II.- No ser militar en servicio activo o ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento;
+
+III.- Poseer al día del nombramiento, título profesional en el ramo contable o administrativo o afín, con cédula profesional legalmente expedida, acreditar estudios de posgrado, o bien contar con experiencia probada en temas de auditoría, fiscalización y rendición de cuentas; y
+
+IV.- No haber sido sentenciado con resolución firme de autoridad judicial competente por la comisión de delito doloso.
+
+### CAPÍTULO III. De las Áreas Administrativas
 
 ###### Artículo 70.
 
-La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal de Justicia Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+El Instituto de Investigaciones Legislativas estará a cargo de un Director y contará con el personal que requiera para el desempeño de sus funciones de acuerdo al presupuesto asignado.
 
 ###### Artículo 71.
 
-Las leyes fijarán los términos en que sea obligatoria la jurisprudencia que se establezca en ejercicio de la facultad jurisdiccional, así como los requisitos para su interrupción y modificación.
+El Instituto de Investigaciones Legislativas, tendrá las siguientes funciones:
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+I.- Realizar de manera permanente estudios e investigaciones en todos los ámbitos del derecho, que incidan en la normatividad vigente, con objeto de proponer la actualización de la legislación estatal;
+
+II.- Promover la celebración de convenios de colaboración e intercambio con las instancias académicas y asociaciones estatales, nacionales e internacionales;
+
+III.- Elaborar estudios, compilar y sistematizar la jurisprudencia emitida por los tribunales federales e internacionales, así como los tratados internacionales ratificados por el Estado Mexicano;
+
+IV.- Editar publicaciones que contribuyan a la divulgación de diversos temas legislativos;
+
+V.- Promover entre la sociedad la cultura de la legalidad y el respeto a las leyes, a través de campañas de difusión;
+
+VI.- Coadyuvar con los demás órganos del Poder Legislativo en el perfeccionamiento de los instrumentos jurídicos, técnicos y legislativos que se elaboren con motivo de la agenda legislativa;
+
+VII.- Proponer la actualización permanente del acervo de la biblioteca, así como la implementación de mecanismos para su clasificación;
+
+VIII.- Recopilar, clasificar y sistematizar, a través de la creación de bases de datos digitales o impresos, la documentación legislativa y bibliográfica relacionadas con la ciencia jurídica, a efecto de permitir su consulta;
+
+IX.- Compilar y sistematizar la normatividad emitida por el Poder Ejecutivo y los municipios del Estado;
+
+X.- Organizar seminarios, congresos, diplomados, foros, eventos, coloquios, conferencias, cursos de técnica legislativa y de derecho parlamentario, para mantener actualizados a los servidores públicos del Poder Legislativo;
+
+XI.- Coordinarse con la Secretaría General del Poder Legislativo para la atención oportuna de las necesidades del Congreso y las Comisiones;
+
+XII.- Elaborar en el mes de enero de cada año el programa anual de actividades y remitirlo a la Junta e informarle semestralmente, en los meses de julio y diciembre, las actividades realizadas durante esos períodos;
+
+XIII.- Asesorar a los municipios en la formulación y expedición de disposiciones normativas, cuando así lo soliciten, y
+
+XIV.- Las demás que le solicite o acuerde el Congreso, el Presidente de la Mesa Directiva, la Junta o la Diputación Permanente.
 
 ###### Artículo 72.
 
-Son auxiliares de los órganos encargados de administrar justicia:
+Para ser Director del Instituto de Investigaciones Legislativas se requiere:
 
-I. La Secretaría de Seguridad Pública del Estado;
+I.- Ser mexicano por nacimiento y tener además la calidad de ciudadano yucateco en pleno ejercicio de sus derechos;
 
-II. El Registro Civil;
+II.- No ser militar en servicio activo o ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento;
 
-III. El Registro Público de la Propiedad Raíz en el Estado;
+III.- Poseer al día del nombramiento, título profesional de Abogado o Licenciado en Derecho, con cédula profesional legalmente expedida, acreditar estudios de posgrado en derecho, o bien contar con experiencia probada en temas legislativos, y
 
-IV. Los consejos tutelares;
-
-V. Los médicos legistas;
-
-VI. Los intérpretes y peritos;
-
-VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos;
-
-VIIII. (sic) Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
-
-IX. Los cuerpos policíacos del Estado y de los municipios; y
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
-
-X. Los auxiliares de vigilancia comunitaria en aquellos distritos jurisdiccionales con presencia de comunidades indígenas;
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
-
-XI. Los traductores intérpretes en lenguas, culturas y sistemas normativos indígenas; y,
-
-XII. Los demás a quienes las leyes les confieran este carácter.
-
-Los auxiliares estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+IV.- Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad, o estar procesado por delito grave, a partir del auto de formal prisión.
 
 ###### Artículo 73.
 
-El Supremo Tribunal de Justicia estará integrado por un número no menor de diecinueve magistrados y funcionará en Pleno o en Salas, en los términos que disponga la Ley Orgánica. Los magistrados Presidente y Consejero no integrarán sala.
+La Dirección de Evaluación del Presupuesto es el órgano técnico del Congreso encargado de valorar los resultados de la ejecución de los programas que desarrolle el Gobierno del Estado, los organismos autónomos, municipios y demás personas físicas y morales que reciban recursos públicos.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Para ello, deberá contar con indicadores implementados para medir los resultados de las actividades que realicen los sujetos obligados, con base en lo que establezcan las leyes de la materia que expida el Congreso.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 74.
 
-La Ley Orgánica fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Pleno, al Presidente y a las Salas, y, determinará la integración y regionalización de éstas en caso de ser necesaria.
+El Congreso tendrá un órgano técnico encargado de la elaboración del Diario de los Debates, el cual se editará con la periodicidad y forma que determine el reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+###### Artículo 74 Bis.
+
+La Revista Legislativa es el medio de difusión, que se encarga de dar a conocer los aspectos más relevantes de las actividades legislativas y estará a cargo del Instituto de Investigaciones Legislativas del Poder Legislativo del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 75.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, el Consejo del Poder Judicial propondrá al Congreso del Estado, la designación de los magistrados del Supremo Tribunal de Justicia.
+La Gaceta Parlamentaria, es el medio de difusión electrónica del Congreso, y estará a cargo de la Secretaria General para dar a conocer en el portal de internet del Poder Legislativo, los asuntos que se tratarán en las sesiones del Pleno y de Comisiones o Comités, así como de las actividades relevantes en materia legislativa y que deban conocer previamente los diputados y la sociedad en general.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 9 DE JUNIO DE 2020)</small>
 
 ###### Artículo 76.
 
-Para ser electo Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
+La Dirección General de Administración y Finanzas, es el órgano administrativo encargado de las funciones relativas a la elaboración, ejercicio y aplicación del gasto en materia de recursos humanos, materiales y financieros del Poder Legislativo. Tendrá las funciones siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, y michoacano, en pleno ejercicio de sus derechos políticos y civiles;
+I.- Ejecutar las políticas de control y ejercicio del presupuesto del Poder Legislativo, así como los de programación, control presupuestal, contabilidad y finanzas;
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, al día de la elección;
+II.- Proveer los recursos humanos, técnicos y financieros para el cumplimiento del trabajo legislativo;
 
-III. Tener al día de la elección, título profesional de licenciado en derecho con antigüedad mínima de diez años, expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por autoridad o institución legalmente facultada para ello;
+III.- Integrar la cuenta pública del Poder Legislativo y su entrega en términos de Ley;
 
-IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso;
+IV.- Efectuar el pago de las percepciones y prestaciones de los diputados, funcionarios y demás personal del Poder Legislativo;
 
-V. Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
+V.- Establecer medidas para la adquisición y conservación de los recursos materiales;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
+VI.- Encargarse de la liquidación y disposición final de recursos materiales, informando previamente a la Junta;
 
-VI. No haber ocupado el cargo de titular de las dependencias básicas de la Administración Pública Centralizada o su equivalente, Fiscal General del Estado, o Diputado Local, durante el año previo al día de la elección.
+VII.- Informar periódicamente al Presidente de la Junta, sobre el estado que guarda el ejercicio del gasto y el manejo de las finanzas;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+VIII.- Conceder las peticiones de licencias de los empleados del Poder Legislativo, así como de las renuncias de sus respectivos cargos;
+
+IX.- Elaborar el informe del ejercicio presupuestal anual, que deberá rendir el Presidente de la Junta, en los últimos treinta días anteriores a la conclusión del tercer período ordinario de sesiones;
+
+X.- Recibir de la Secretaría de Hacienda, las asignaciones presupuestales correspondientes al Presupuesto de Egresos del Poder Legislativo, conforme al calendario de ministración aprobado, y aplicarlos de conformidad al Presupuesto de Egresos y acuerdos convenidos por la Junta;
+
+XI.- Entregar la información y documentación que le sea requerida por la Junta o por la Secretaría General del Poder Legislativo, previo Acuerdo;
+
+XII.- Proveer lo necesario para el buen funcionamiento de los órganos técnicos y administrativos del Poder Legislativo;
+
+XIII.- Descontar de las percepciones de los diputados, la suma que corresponda a los días que dejaren de asistir, conforme a la orden escrita del Presidente de la Mesa Directiva;
+
+XIV.- Supervisar el trabajo de los empleados a su cargo y el cumplimiento de sus obligaciones, y
+
+XV.- Las demás que le asigne el Pleno, la Diputación Permanente, la Junta y cualquier disposición aplicable.
+
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+De igual manera, contará con la Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado que es el órgano técnico previsto en la Ley de Fiscalización de la cuenta Pública del Estado.
 
 ###### Artículo 77.
 
-Los Magistrados ejercerán un periodo constitucional de cinco años y podrán ser reelectos hasta en dos ocasiones. Al término del periodo cesarán en sus funciones.
-
-El Congreso del Estado podrá privarlos de su encargo en cualquier tiempo, cuando incurran en falta de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores o cuando acepten desempeñar otro empleo o cargo de la Federación, Estados, Municipios o particulares, salvo las actividades no remuneradas de la academia, docencia, investigación o de beneficencia y en los términos del Título Cuarto de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+El Director General de Administración y Finanzas deberá cubrir los requisitos establecidos en el artículo 68, con excepción a lo establecido en la fracción II de dicho artículo, por lo que deberá contar con experiencia en materia de contabilidad, administración o finanzas.
 
 ###### Artículo 78.
 
-Es causa de retiro forzoso para el magistrado cuando:
+El Poder Legislativo informará de los asuntos resueltos por sus órganos, con el fin de difundir entre las y los habitantes del Estado sus alcances y beneficios para contribuir a la formación de una opinión pública responsable.
 
-I. Cumpla setenta años de edad;
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2023)</small>
 
-II. Padezca incapacidad física o mental permanente para el desempeño de su encargo; o,
-
-III. Cumpla quince años de servicio en el cargo de magistrado.
-
-El Magistrado cuyo retiro forzoso haya sido aprobado, tendrá derecho a un haber de retiro, en los términos que disponga la Ley Orgánica.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Conforme a lo anterior, la Unidad de Comunicación Social del Poder Legislativo observará en todo momento, el uso adecuado del lenguaje incluyente y del lenguaje no sexista, en toda clase de comunicación que de éste Poder emane.
 
 ###### Artículo 79.
 
-La elección, reelección o privación del encargo de Magistrado del Supremo Tribunal de Justicia, se hará por el Congreso del Estado mediante el voto de las dos terceras partes de los diputados presentes, a propuesta del Consejo del Poder Judicial.
-
-Para la elección de los magistrados, el Consejo del Poder Judicial, en los términos que disponga la Ley Orgánica, integrará y enviará al Congreso del Estado, la lista de los aspirantes inscritos.
-
-El Consejo del Poder Judicial, noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los ejercicios constitucionales de los magistrados, presentará al Congreso del Estado, dictamen de evaluación del desempeño ético y profesional del Magistrado, para que determine si debe o no ser reelecto.
-
-Si el Consejo del Poder Judicial advierte, derivado de la evaluación permanente, que algún Magistrado ha incurrido en causales de responsabilidad, en los términos dispuestos por esta Constitución y la ley, deberá, seguido el procedimiento, aplicar la sanción correspondiente. En el caso de que ésta deba ser la privación del encargo o en su caso, la inhabilitación, deberá comunicarlo al Congreso del Estado, para que resuelva.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+El Congreso, podrá celebrar convenios de colaboración con medios de comunicación, oficiales o privados, para la producción de programas de radio y televisión, así como para la elaboración de materiales que contengan los aspectos y actividades más sobresalientes de cada uno de los asuntos resueltos, durante los distintos períodos de sesiones. En la difusión de dichas actividades se procurará realizar traducciones al idioma maya.
 
 ###### Artículo 80.
 
-Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso del Estado, en la forma siguiente:
+La conducción de estas actividades, estará a cargo de la Unidad de Comunicación Social. El responsable de esta oficina será un profesional en la materia, nombrado por la Junta.
 
-Presidente: <<¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se le ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?>>
+Las tareas de difusión serán objetivas e imparciales.
 
-Magistrado: <<Sí, protesto>>
+#### Sección Única. De la Comunicación Social
 
-Presidente: <<Si no lo hace así, la Nación y el Estado se lo demanden>>
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION II. De los Juzgados de Primera Instancia
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 81.
 
-La falta temporal de un Magistrado que no exceda de noventa días naturales, será suplida por quien, cumpliendo los requisitos del cargo, establezca la Ley Orgánica.
+El ingreso, permanencia, promoción y remoción de los servidores públicos del Poder Legislativo, se efectuará a través del Servicio Profesional Legislativo, el cual tendrá por objeto su organización y adecuado desempeño en las funciones propias de dicho Poder, tomando en consideración el desarrollo profesional de los servidores públicos, la calificación de habilidades, capacidades y desempeño a efecto de garantizar la estabilidad y seguridad en el empleo; fomentar la vocación de servicio y promover la capacitación permanente del personal.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Para promover la capacitación constante y diversa de los servidores públicos del Poder Legislativo, éste podrá celebrar convenios con los poderes Ejecutivo y Judicial, con organismos públicos y privados, ya sean estatales o nacionales, así como con universidades y otros especializados en la materia.
 
 ###### Artículo 82.
 
-Cuando la falta exceda el plazo señalado en el artículo anterior, se hará una nueva elección. Los magistrados electos ejercerán el cargo hasta concluir el período constitucional respectivo.
+La implementación del Servicio Profesional Legislativo, estará a cargo de la Dirección General de Administración y Finanzas en coordinación con el Secretario General del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+El reglamento que establezca los criterios para el Servicio Profesional Legislativo, deberá ser expedido por el Pleno, a propuesta de la Junta, disponiendo las bases para la formación, actualización y permanencia de los servidores públicos, así como el desarrollo del mencionado servicio, la cual se regirá por los principios de capacidad, objetividad, eficiencia, eficacia, imparcialidad y profesionalismo.
 
 ###### Artículo 83.
 
-Corresponde al Supremo Tribunal de Justicia del Estado:
+El Reglamento del Servicio Profesional Legislativo, deberá contener por lo menos:
 
-I.- Conocer en Pleno:
+I.- El sistema para la selección, promoción, evaluación y ascenso de los servidores públicos del Poder Legislativo;
 
-a).- De las cuestiones de competencia y de la acumulación entre los jueces de cuantía menor de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces de cuantía menor de otros distritos;
+II.- Los principios de estabilidad y permanencia en el trabajo;
 
-b).- De los negocios civiles y penales comunes, como tribunal de revisión;
+III.- El sistema de clasificación y perfiles de puestos;
 
-c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
+IV.- El sistema salarial, y
 
-d).- Del recurso de queja, en los términos que dispongan las leyes;
-
-e) De la expedición y modificación de su reglamento interior;
-
-f) De la aprobación del proyecto de presupuesto que someta a su consideración el Consejo del Poder Judicial;
-
-g) De la autorización a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y del Distrito Federal y con las juntas de Conciliación y Arbitraje, federal y local; y,
-
-h) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva; y,
-
-II.- Conocer en Salas:
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
-
-a) De los negocios civiles, penales y de jurisdicción concurrente como tribunal de apelación y casación;
-
-b) De los recursos de queja en negocios civiles y penales; y,
-
-c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+V.- Los programas para la capacitación, actualización, estímulos y desarrollo de los servidores públicos.
 
 ###### Artículo 84.
 
-El Supremo Tribunal de Justicia nombrará cada tres años a su Presidente, dentro de los quince días siguientes a que concluya tal periodo, el que no podrá ser reelecto para el periodo inmediato posterior.
+Al Congreso corresponde, con el voto de las dos terceras partes de sus integrantes, suspender o revocar el mandato a los integrantes del Cabildo o, declarar la desaparición de un Ayuntamiento.
 
-El Presidente del Supremo Tribunal de Justicia rendirá ante y en nombre del Pleno y del Consejo del Poder Judicial, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán el Gobernador del Estado y los diputados al Congreso del Estado.
+Las causas, los términos y las modalidades para la suspensión o revocación del mandato y la desaparición de un Ayuntamiento, se sujetarán a lo previsto en la Ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
-
-### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
+### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
 
 ###### Artículo 85.
 
-El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le señale la Ley Orgánica.
+Para la sustanciación de las causas que se formen a los servidores públicos, mencionados en el Título Décimo de la Constitución Política del Estado, con motivo de la responsabilidad en que incurra en sus funciones, se estará a lo previsto en la Ley reglamentaria del título décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+T R A N S I T O R I O S:
 
 ###### Artículo 86.
 
@@ -1675,15 +1847,11 @@ Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
-## TITULO TERCERO A
+## TÍTULO CUARTO. Del Personal Técnico y Administrativo del Poder Legislativo
 
-> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
 
-### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
-
-### CAPITULO I. De los Organismos Autónomos
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
+### CAPÍTULO VIII. De las Fracciones y Representaciones Legislativas
 
 #### SECCION I. Del Tribunal de Justicia Administrativa
 
@@ -1799,9 +1967,71 @@ Las personas que cubran las vacantes temporales de alguno de los magistrados que
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
-### CAPITULO II. Del Ministerio Público y Defensoría de Oficio
+### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Bis.
+
+La designación de los titulares de los órganos de control interno se llevará a cabo de conformidad con el procedimiento siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 1 DE MARZO DE 2019)</small>
+
+I.- La Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción expedirá la convocatoria pública para la designación del titular del órgano de control interno correspondiente, la cual deberá ser aprobada por el Pleno y publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso y en medios de comunicación impresa de circulación local.
+
+La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que debe realizarse la designación.
+
+II.- Las propuestas deberán ser presentadas a la Secretaria General del Poder Legislativo;
+
+III.- Las solicitudes de los aspirantes deberán ir acompañadas de su declaración de intereses, de conformidad con las disposiciones aplicables, así como cumplir los requisitos que establezcan las leyes de dichos organismos autónomos, por duplicado;
+
+IV.- El secretario general del Poder Legislativo turnará los expedientes a la Comisión de Vigilancia de la Cuenta Pública y Transparencia, que se encargará de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes; si de la verificación realizada se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos, se notificará dentro de un plazo de veinticuatro horas, para que dentro de las cuarenta y ocho horas siguientes a la notificación, presente la documentación procedente;
+
+V.- En caso de que la Comisión de Vigilancia de la Cuenta Pública y Transparencia determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 1 DE MARZO DE 2019)</small>
+
+VI.- La Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción elaborará un acuerdo que deberá publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso; y contendrá lo siguiente:
+
+a) El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+b) El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y la fecha límite para ello, y
+
+c) El día y hora en donde tendrán verificativo las comparecencias ante la Comisión de Vigilancia de la Cuenta Pública y Transparencia, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de velar por su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo.
+
+VII.- Una vez que se hayan desahogado las comparecencias, la Comisión de Vigilancia de la Cuenta Pública y Transparencia sesionará con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados por el Congreso, y que se hará llegar a la Junta de Gobierno y Coordinación Política;
+
+VIII.- Los (sic) fracciones legislativas, a través de la Junta de Gobierno y Coordinación Política determinarán, por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezca el dictamen de la Comisión de Vigilancia de la Cuenta Pública y Transparencia, la propuesta del nombre del candidato a titular del órgano de control interno que corresponda;
+
+IX.- En la sesión correspondiente del Congreso, se dará a conocer al Pleno la propuesta a que se refiere la fracción anterior, y se procederá a su discusión y votación en los términos que establezca esta ley y demás normativa aplicable, y
+
+X.- Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos de este capítulo, rendirá el compromiso constitucional ante el Pleno del Congreso en la misma sesión.
+
+El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en la ley aplicable, con el voto de las dos terceras partes de los miembros del Congreso.
+
+Para efecto de lo establecido en el párrafo anterior, la Comisión de Vigilancia de la Cuenta Pública y Transparencia, propondrá al Congreso, a más tardar 120 días naturales anteriores a la conclusión del cargo, el acuerdo que establezca los criterios y metodología para la evaluación del desempeño.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Ter.
+
+La convocatoria a que se refiere el artículo anterior será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos, el órgano que se encargará del procedimiento y los criterios con que se evaluará a los aspirantes.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Quater.
+
+El Congreso a través de la instancia que determine la ley, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los órganos de control interno de los organismos con autonomía reconocida en la Constitución Política del Estado de Yucatán y que ejerzan recursos del presupuesto de egresos del estado.
+
+Asimismo, será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de Yucatán, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
+
+En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Quinquies.
+
+Cualquier persona, cuando presuma que los titulares de los órganos de control interno de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título décimo de la Constitución Política del Estado de Yucatán, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
 #### SECCION I. Del Ministerio Público
 
@@ -1893,13 +2123,9 @@ Las leyes establecerán los mecanismos para la instauración de la defensoría i
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-## TITULO CUARTO. De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción y Patrimonial del Estado
+## TÍTULO QUINTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
 
 ###### Artículo 104.
 
@@ -2863,19 +3089,25 @@ Si se estableciere un gobierno surgido en contravención a los principios que el
 
 ## Artículos Transitorios.
 
-###### Artículo 1°.
+###### Artículo 1.
 
-Esta Constitución se publicará con la mayor solemnidad y comenzará a regir el día 5 de febrero del año en curso, fecha en la cual rendirán la protesta de ley ante la Legislatura, que para ese efecto se reunirá el Gobernador, los Magistrados Propietarios del Supremo Tribunal de Justicia del Estado y el Secretario General del Despacho.
-
-Los demás Funcionarios y empleados protestarán al día siguiente ante las autoridades que corresponda.
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1918)</small>
+Esta Ley es de orden público y tiene por objeto establecer las atribuciones, estructura orgánica y funcionamiento del Poder Legislativo, de conformidad con lo dispuesto en el título cuarto de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 2.
 
-El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Como orden de gobierno local, ejerce las funciones que le son propias, presta los servicios públicos de su competencia y organiza a los distintos núcleos poblacionales que por razones históricas o por ministerio de ley, fueron conformándose en su jurisdicción territorial para la gestión de sus intereses.
+El Poder Legislativo para el desarrollo de sus funciones se integra por:
 
-Los Municipios del Estado de Yucatán gozarán de autonomía plena para gobernar y administrar los asuntos propios, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+I.- El Congreso;
+
+II.- La Diputación Permanente;
+
+III.- La Junta de Gobierno y de Coordinación Política;
+
+IV.- Las Comisiones Permanentes y Especiales, y
+
+V.- Los Órganos técnicos y administrativos.
+
+El Poder Legislativo, para el cumplimiento de sus atribuciones y conforme al presupuesto asignado, contará con las áreas y el personal, que para tal efecto establezca el reglamento de esta Ley.
 
 ###### Artículo 2o.
 
@@ -2885,29 +3117,173 @@ El actual período constitucional terminará para el Gobernador y los Magistrado
 
 El Congreso del Estado, el día primero de febrero del presente año se erigirá en Colegio Electoral para designar los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia.
 
-###### Artículo 4°.
+###### Artículo 4.
 
-Por esta única vez, la Legislatura se reunirá en sesiones ordinarias el día dos de abril del corriente año, y el período respectivo terminará el 31 de mayo del mismo año.
+El Pleno del Congreso es la máxima instancia resolutora del Poder Legislativo, se integra con los diputados que conforman la Legislatura, y las decisiones o acuerdos que expidan, serán obligatorios para todos sus miembros, incluidos los ausentes.
 
-###### Artículo 5°.
+El Congreso funcionará de conformidad con lo dispuesto en la Constitución Política del Estado de Yucatán, en esta Ley y demás disposiciones legales y reglamentarias que para tal efecto se emitan.
 
-El Estado de Michoacán de Ocampo se reserva los derechos que le otorga la Constitución General de la República, para rectificar sus límites con el Estado de Guerrero.
+###### Artículo 5.
 
-###### Artículo 6°.
+Para efectos de esta Ley se entenderá por:
 
-Se ratifican todas las leyes y los acuerdos dictados por la XXXVI Legislatura, desde el 10 de julio de 1917 hasta la fecha de esta Constitución.
+I.- Acuerdo: resolución del Congreso, que establece disposiciones de carácter interno del Poder Legislativo;
 
-###### Artículo 7°.
+II.- Agenda Legislativa: documento aprobado por el Congreso, que establece el programa de trabajo legislativo;
 
-Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores con sus patrones o los familiares o intermediarios de éstos hasta la fecha de la presente Constitución.
+III.- Comisión Instaladora y de Entrega-Recepción: órgano colegiado de diputados encargado de llevar a cabo el proceso de entrega y recepción para la instalación de la Legislatura entrante;
+
+IV.- Comisiones: lo relativo a las Comisiones Permanentes y a las Comisiones Especiales;
+
+V.- Comisiones Permanentes: órganos colegiados y plurales, cuya integración determina el Pleno del Congreso, responsables de conocer y resolver los asuntos que por su competencia, le sean turnados por la Mesa Directiva;
+
+VI.- Comisiones Especiales: órganos colegiados y plurales, cuya integración determina el Pleno del Congreso, responsables de conocer y resolver los asuntos que por la competencia otorgada mediante el Acuerdo por el que fueron creadas, le sean turnados por la Mesa Directiva;
+
+VII.- Compromiso Constitucional: acto por medio del cual, el funcionario o servidor público del Estado o de los municipios sin excepción alguna, antes de tomar posesión de su encargo, se compromete a cumplir las obligaciones que contrae;
+
+VIII.- Congreso: la Asamblea de representantes, conformada por diputados electos bajo los principios de mayoría relativa y de representación proporcional, en términos de la Constitución Política del Estado de Yucatán;
+
+IX.- Decreto: resolución del Pleno, que crea situaciones jurídicas colectivas o individuales, con carácter obligatorio;
+
+X.- Diario de los Debates: libro oficial de la Legislatura, mediante el cual se difunde y registran todos los asuntos desahogados en las sesiones, con sus deliberaciones y resoluciones;
+
+XI.- Diputación Permanente: órgano del Poder Legislativo que funcionará durante los recesos entre los períodos ordinarios de sesiones del Pleno, para atender los asuntos que sean dirigidos al Congreso;
+
+XII.- Dirección de Evaluación del Presupuesto: unidad técnica dependiente del Congreso que evaluará los resultados de la ejecución de los programas y del ejercicio de los recursos públicos;
+
+XIII.- Dirección General de Administración y Finanzas: órgano administrativo encargado de las funciones relativas a la elaboración, ejercicio y aplicación del gasto del Poder Legislativo;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XIV.- Revista Legislativa: medio de difusión de las actividades del Poder Legislativo;
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XV.- La Gaceta Parlamentaria: medio de difusión electrónico para dar a conocer previamente a los diputados y la sociedad en general, en la página de internet del Poder Legislativo, las actividades legislativas del Congreso.
+
+XVI.- Instituto de Investigaciones Legislativas: órgano técnico-académico del Congreso, encargado de realizar investigaciones para la actualización de las fuentes de información de los diputados y profesionistas vinculados a la tarea legislativa, que sustenten la actualización de la normatividad estatal, así como para difundir temas relacionados con la historia del Poder Legislativo;
+
+XVII.- Junta Preparatoria: sesión llevada a cabo por los diputados, para designar a los integrantes de una Mesa Directiva;
+
+XVIII.- Ley: resolución del Congreso, que establece ordenamientos de carácter general y obligatorio para todos los habitantes del Estado;
+
+XIX.- Mesa Directiva: órgano de dirección de los trabajos legislativos, que asegura el desahogo ordenado de los asuntos, la organización de los debates y las votaciones;
+
+XX.- Pleno: el Congreso del Estado de Yucatán reunido en sesión legalmente instalada y máxima instancia resolutora del Poder Legislativo;
+
+XXI.- Presidente de la Mesa Directiva: Diputado designado para tal efecto y ostenta la representación del Poder Legislativo;
+
+XXII.- Reglamento: resolución que el Congreso emite, para regular disposiciones generales;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común o de manera independiente, excluyendo a los diputados que se separen de una Fracción Legislativa;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIV.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas;
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXVI.- Períodos Ordinarios: Son las sesiones efectuadas por el Pleno del Congreso dentro de los términos establecidos en el artículo 27 de la Constitución Política del Estado, y
+
+> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXVII.- Períodos Extraordinarios: Son las sesiones efectuadas por el Pleno del Congreso convocadas por la Diputación Permanente dentro de las facultades que le confiere el artículo 43 fracción I de la Constitución Política del Estado. En estas sesiones únicamente se abordarán los asuntos para los cuales se convocó en el acuerdo respectivo mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXVIII.- Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
+
+a) Accesibles: Los datos están disponibles para la gama más amplia de usuarios y para cualquier propósito;
+
+b) Integrales: Contienen el tema que describen a detalle y con los metadatos necesarios;
+
+c) Gratuitos: Se obtienen sin entregar a cambio contraprestación alguna;
+
+d) No discriminatorios: Los datos están disponibles para cualquier persona, sin necesidad de registro;
+
+e) Oportunos: Son actualizados, periódicamente, conforme se generen;
+
+f) Permanentes: Se conservan en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto;
+
+g) Primarios: Provienen de la fuente de origen con el máximo nivel de desagregación posible;
+
+h) Legibles por máquinas: Deberán estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática;
+
+i) En formatos abiertos: Los datos estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso y que su aplicación y reproducción no estén condicionadas a contraprestación alguna, y
+
+j) De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXIX.- Principios de Parlamento Abierto: Conjunto de reglas que conforman el sistema de parlamento abierto; se entenderá por principios de Parlamento Abierto los siguientes:
+
+a) Derecho a la información: Principio que garantiza el derecho de acceso a la información que producen, poseen y resguardan, mediante marcos normativos, mecanismos, sistemas, procedimientos, plataformas, que permitan un acceso de manera simple, sencilla, oportuna, sin que media (sic) la necesidad de justificar la solicitud;
+
+b) Participación ciudadana y Rendición de cuentas: Precisa promover la participación de todos aquellos interesados en la toma de decisiones en las actividades legislativas; se deben prever mecanismos y herramientas que faciliten la supervisión de tareas por parte de la población, así como las acciones de control realizadas por sus contralorías internas y los demás organismos legalmente constituidos para ello;
+
+c) Información parlamentaria: Prevé la publicación y difusión proactiva de la mayor cantidad de información relevante para la ciudadanía, en formatos sencillos, con mecanismos de búsqueda amigables y bases de datos en línea con actualización periódica;
+
+d) Información presupuestal y administrativa: implica la publicación y divulgación de información oportuna, detallada sobre la gestión, administración y gasto del presupuesto asignado a la institución legislativa, así como a los organismos que lo integran: comisiones legislativas, personal de apoyo, grupos parlamentarios y representantes populares en lo individual;
+
+e) Información sobre legisladores y servidores públicos: Debe publicarse información detallada sobre los representantes de elección popular y de los servidores públicos que lo integran, incluidas la declaración patrimonial y registro de interés de los representantes;
+
+f) Información histórica: Implica disponibilidad de información de la actividad Legislativa que conforma un archivo histórico, accesible y abierto, en un lugar que se mantenga constante en el tiempo con una URL permanente;
+
+g) Datos abiertos y no propietario: La información debe estar disponible con características de datos abiertos, interactivos e históricos, utilizar software libre y de código abierto y facilitar la descarga masiva de información en formatos de datos abiertos;
+
+h) Accesibilidad y difusión: asegura que las instalaciones, las sesiones y reuniones sean accesibles y abiertas al público; que la transmisión sea en tiempo real de los procedimientos parlamentarios por canales de comunicación abiertos;
+
+i) Conflictos de interés: debe regular, ordenar y transparentar las acciones de cabildeo, contar con mecanismos para evitar conflictos de interés y asegurar la conducta ética de los representantes;
+
+j) Legislar a favor del gobierno abierto: implica la aprobación de leyes que favorezcan políticas de gobierno abierto en otros poderes y órdenes de gobierno, asegurándose de que en todas las funciones de la vida parlamentaria se incorporen estos principios;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXX.- Página de Internet del Poder Legislativo: Medio de difusión electrónica del Congreso del Estado para dar a conocer actividades relevantes en materia legislativa y aquellas que regulen las leyes de la materia, y,
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXXI.- Micrositios: Sitios de internet que agrupan información específica dentro de la Página de Internet del Poder Legislativo, permitiendo la difusión de la misma o recabar información de la ciudadanía para algún propósito en particular.
+
+###### Artículo 6.
+
+La sede del Poder Legislativo, es el lugar donde actualmente se realizan las sesiones de Pleno, está ubicada en la ciudad de Mérida, capital del Estado, y sólo por causa justificada podrá ser trasladada provisional o definitivamente a otro sitio.
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+Para cambiar la sede, provisional o definitiva del Congreso, se requerirá de previo acuerdo mediante votación de mayoría absoluta de los diputados que integren el Congreso.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+El recinto se constituye con los inmuebles en los que funciona el Congreso del Estado e incluye el Salón de Sesiones que es el lugar destinado al trabajo del Pleno.
+
+> <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
+
+###### Artículo 6 Bis.
+
+La Mesa Directiva, previa consulta con la Junta de Gobierno y Coordinación Política, podrá acordar que una Sesión del Pleno se realice en sitio diverso al del Salón de Sesiones, pero dentro del Recinto del Poder Legislativo cuando así resulte necesario.
+
+###### Artículo 7.
+
+Con la finalidad de salvaguardar la inviolabilidad del Recinto del Poder Legislativo y el fuero constitucional de los diputados integrantes del Congreso, el Presidente de la Mesa Directiva podrá solicitar al titular del Poder Ejecutivo, la fuerza pública asumiendo el mando de la misma, durante su actuación en la sede cameral.
 
 ###### Artículo 8°.
 
 El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
 
-###### Artículo 9°.
+###### Artículo 9.
 
-La presente Constitución substituye a la del Estado expedida en 21 de enero de 1858.
+Las sesiones del Pleno y de la Diputación Permanente, así como de las Comisiones, serán públicas, y sólo podrán ser privadas por excepción, de acuerdo con lo previsto en el reglamento de esta Ley.
+
+El público asistente deberá guardar el debido orden y deberá abstenerse de tomar parte en los debates y realizar cualquier tipo de denostación. En caso de contravenir ésta disposición, el Presidente respectivo, estará facultado para ordenar el retiro del lugar y en su caso, con el apoyo de la fuerza pública, ordenar la detención y consignación de los responsables cuando los hechos sean constitutivos de un delito.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 10.
 
@@ -2959,31 +3335,27 @@ Unico.- Esta Ley empezará a regir desde la fecha de su publicación en el Peri�
 
 P.O. 27 DE OCTUBRE DE 1947.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para quedar debidamente hecha la reforma del artículo 93 de la misma, la presente reforma constitucional entrará en vigor 10 días después de la fecha de su publicación en el Periódico Oficial.
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-P.O. 30 DE OCTUBRE DE 1947.
+D.O. 20 DE FEBRERO DE 2015.
 
-Artículo 1° El primer domingo de diciembre del corriente año se elegirán Regidores por las Secciones impares, los cuales durarán en su cargo el período que comprende la citada reforma.
+Primero. Entrada en vigor.
 
-Artículo 2º Los ciudadanos que resulten electos por las Secciones pares del primer domingo de diciembre de 1948, durarán en su cargo solamente dos años.
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-Artículo 3º Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
+Segundo. Derogación Tácita.
 
-P.O. 16 DE AGOSTO DE 1954.
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
 
-###### ARTICULO UNICO.
+D.O. 9 DE OCTUBRE DE 2015.
 
-Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para la reforma del artículo 33 de la misma, este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial.
+###### ARTÍCULO ÚNICO.
 
-P.O. 1 DE FEBRERO DE 1960.
+El presente decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-Artículo primero.- Esta Ley se publicará el primero de enero y entrará en vigor el cinco de febrero del año de 1960.
-
-Artículo segundo.- Salvo los transitorios, quedan derogados los demás artículos de la Constitución vigente que no estén incorporados a esta Ley, ya sea íntegros o reformados.
-
-P.O. 1 DE NOVIEMBRE DE 1962.
+D.O. 18 DE JULIO DE 2017.
 
 ###### ARTICULO UNICO.
 
@@ -3051,55 +3423,43 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 509/2017 POR EL QUE SE MODIFICAN LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN Y LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN".]
 
-PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+Primero. Entrada en vigor
 
-SEGUNDO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
 
-P.O. 11 DE AGOSTO DE 1983.
+Segundo. Nombramientos
 
-PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+El Congreso deberá expedir la convocatoria para la designación de los titulares de los órganos de control interno de la Comisión de Derechos Humanos del Estado de Yucatán y del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
 
-SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
+Tercero. Titular del Órgano de Control Interno del Instituto
 
-P.O. 28 DE SEPTIEMBRE DE 1983.
+El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
 
-UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+D.O. 11 DE SEPTIEMBRE DE 2017.
 
-P.O. 8 DE DICIEMBRE DE 1983.
+###### ARTÍCULO PRIMERO.
 
-UNICO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+.-.
 
-P.O. 8 DE FEBRERO DE 1984.
+###### ARTÍCULO SEGUNDO.
 
-UNICO.- Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+Se expide la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, para quedar como sigue:
 
-P.O. 18 DE FEBRERO DE 1985.
+LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-UNICO. Este Decreto entrará en vigor a los 5 cinco días después de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO TERCERO.
 
-P.O. 26 DE DICIEMBRE DE 1985.
+Cualquier referencia que en otras disposiciones jurídicas y administrativas se realicen de las siguientes denominaciones, se entenderán como:
 
-###### ARTICULO PRIMERO.
+I.- Gran Comisión: Junta de Gobierno y Coordinación Política.
 
-Las reformas y adiciones contenidas en el presente Decreto, son aprobadas por una sola Legislatura de conformidad con el artículo 164 fracción VII, de la Constitución Política del Estado.
+II.- Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal en relación a Cuenta Pública: Vigilancia de la Cuenta Pública y Transparencia.
 
-###### ARTICULO SEGUNDO.
+III.- Oficialía Mayor del Congreso: Secretaría General del Poder Legislativo.
 
-En consecuencia, como lo dispone la fracción V del artículo 164 de la Constitución Política del Estado, estas reformas y adiciones deberán publicarse como ley constitucional.
-
-###### ARTICULO TERCERO.
-
-El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE FEBRERO DE 1987.
-
-PRIMERO. Este decreto entrará en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Conforme a lo que dispone la fracción VII del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, ténganse por aprobadas estas adiciones y reformas, por ser adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la LXIV Legislatura.
-
-P.O. 11 DE ABRIL DE 1988.
+IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
 
 ###### ARTICULO UNICO.
 
@@ -3159,21 +3519,15 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 16 DE MARZO DE 1998.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO N° 130.- SE REFORMAN LOS ARTÍCULOS 64, 95, 97, 99 Y 100; SE ADICIONAN LOS ARTÍCULOS 64 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 522/2017 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO PRIMERO.
+Este Decreto entrará en vigor a los 60 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-EI presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO SEGUNDO.
 
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO SEGUNDO.
-
-Los juicios y procedimientos relacionados con los artículos que se reforman y adicionan, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Yucatán, contenida en el Decreto número 6, publicada en el Diario Oficial del Gobierno del Estado el 24 de febrero del año 1988.
 
 ###### ARTICULO TERCERO.
 
@@ -3195,237 +3549,113 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 8 DE NOVIEMBRE DE 2000.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-De conformidad a lo dispuesto en el artículo 31 reformado, de esta Constitución, el Tercer Período Ordinario de Sesiones correspondiente al Segundo Año de Ejercicio Legal, de la LXVIII Legislatura Constitucional, iniciará el 15 de noviembre y terminará el 15 de diciembre del presente año; durante este periodo el Congreso se ocupará de los asuntos a que se refieren las fracciones I y III del artículo 31 reformado.
+El Poder Legislativo del Estado de Yucatán, tomara todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de la reforma de este artículo a partir de su publicación.
+
+D.O. 1 DE MARZO DE 2019.
 
 ###### ARTICULO TERCERO.
 
 Por esta única ocasión, el Gobernador del Estado, deberá presentar al Congreso del Estado, a más tardar el 30 de noviembre del presente año, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el ejercicio fiscal del año 2001.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-De conformidad a lo dispuesto en el artículo 29 reformado, de esta Constitución, la LXVIII Legislatura Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, terminará sus funciones el 15 de enero del año 2002, fecha en la cual iniciará sus funciones la LXIX Legislatura Constitucional.
+La LIX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-###### ARTICULO QUINTO.
+###### ARTÍCULO QUINTO.
 
-En tanto se expidan las disposiciones legales reglamentarias que se deriven de las reformas contenidas en el presente Decreto, seguirán aplicándose las vigentes en lo que no se opongan a éstas.
+De conformidad con lo dispuesto en el artículo décimo segundo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LIX Legislatura del H. Congreso del Estado tendrá los siguientes períodos:
 
-###### ARTICULO SEXTO.
+Primer Periodo Ordinario Del 1 de julio al 31 de agosto
 
-Los consejeros ciudadanos que actualmente integran el Instituto Electoral de Michoacán, continuarán en el ejercicio del cargo como tales, hasta en tanto se realicen las designaciones de consejeros electorales, de acuerdo con la ley de la materia.
+de Sesiones del 2010
 
-###### ARTICULO SEPTIMO.
+Segundo Período Ordinario Del 16 de octubre al 15
 
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+de Sesiones de diciembre de 2010
 
-P.O. 3 DE JULIO DE 2001.
+Tercer Período Ordinario Del 16 de enero al 15 de abril
 
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+de Sesiones de 2011
 
-Artículo Segundo.- Tratándose de funciones y servicios que conforme al presente decreto sean competencia de los municipios y que a la entrada en vigor de estas reformas sean presentados por el Gobierno del Estado, o de manera coordinada con los municipios, éstos podrán asumirlos previa aprobación del ayuntamiento. El Gobierno del Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que para tal efecto presente, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud del Ayuntamiento.
+Cuarto Período Ordinario Del 16 de mayo al 15 de julio
 
-En el caso del inciso a) de la fracción V del artículo 123, de la Constitución Política del Estado, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar al Congreso, conservar en su ámbito de competencia los servicios a los que se refiere el citado inciso, cuando la transferencia al Municipio afecte su prestación, en perjuicio de la población. El Congreso resolverá lo conducente.
+de Sesiones de 2011
 
-En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+Quinto Período Ordinario Del 1 de septiembre al 15
 
-Artículo Tercero.- El Gobierno del Estado y los municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las leyes de la materia.
+de Sesiones de diciembre de 2011
 
-Artículo Cuarto.- Antes del ejercicio fiscal del año 2002, el Congreso del Estado en coordinación con los municipios, adoptará las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad, y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+Sexto Período Ordinario Del 16 de enero al 15 de abril
 
-Artículo Quinto.- En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+de Sesiones de 2012
 
-P.O. 7 DE MARZO DE 2003.
+Séptimo Período Ordinario Del 16 de mayo al 15 de julio
 
-DECRETO NÚMERO 246 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+de Sesiones de 2012
 
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+Durante los recesos de la LIX Legislatura, funcionará una Diputación Permanente.
 
-Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, seguirán aplicándose las disposiciones de la Ley de la Comisión Estatal de los Derechos Humanos publicada (sic) Sección Segunda del Periódico Oficial, el día 8 de febrero de 1993.
+Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
 
-Artículo Tercero.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
+###### ARTÍCULO SEXTO.
 
-P.O. 7 DE MARZO DE 2003.
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura se integrará de la forma siguiente:
 
-DECRETO NÚMERO 247 POR EL QUE SE REFORMA: LA DENOMINACIÓN DE LA SECCION II, DEL CAPITULO II DEL TITULO TERCERO: LOS ARTÍCULOS 30, PÁRRAFOS PRIMERO Y SEGUNDO. 31, 33, 37, FRACCIÓN V Y ULTIMO PÁRRAFO, 54, 57, 59, 60 FRACCIONES III Y IX, 61 FRACCIÓN VI, 72, 73, 157, 159 Y 160 FRACCIÓN I; SE DEROGA: EL PÁRRAFO DECIMO TERCERO DEL ARTÍCULO 13, LOS ARTÍCULOS 32, LA SECCION V, DEL CAPITULO II, DEL TITULO TERCERO, 45, 46 Y 60 FRACCIONES XVI Y XVII; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERO.
 
-Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SECRETARIO: DIP. ALICIA MAGALLY DEL SOCORRO CRUZ NUCAMENDI.
 
-Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, cuando se haga referencia al Tercer Período Ordinario de Sesiones, se entenderá el período comprendido del 15 de septiembre al 15 de diciembre.
+VOCAL: DIP. CARLOS DAVID RAMÍREZ Y SÁNCHEZ.
 
-Artículo Tercero.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, se seguirán aplicando las disposiciones de la Ley Orgánica del Congreso del Estado y su Reglamento.
+VOCAL: DIP. EDILBERTO RODRÍGUEZ LÓPEZ.
 
-Artículo Cuarto.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto de reforma a la Constitución, para que en el término de un mes después de recibido el mismo, emitan su voto.
+El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coordinación Política dentro de los 10 días siguientes a la entrada en vigor de esta Ley.
 
-P.O. 7 DE MARZO DE 2003.
+###### ARTÍCULO SÉPTIMO.
 
-DECRETO NÚMERO 248 POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 44 FRACCIONES XI, XIII Y XV, 105, 109, LA DENOMINACIÓN DE LA SECCION II DEL TITULO SEXTO, LOS ARTÍCULOS 133, 134 Y 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta Ley.
 
-Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los siguientes transitorios.
+Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
 
-Artículo Segundo. La Auditoría Superior de Michoacán, iniciará sus funciones el 1 de abril del año 2003. La revisión de las cuentas públicas y las funciones de fiscalización a que refieren las fracciones I a VIII del artículo 134 y 135 reformados por este decreto, se llevarán a cabo, en los términos del propio decreto, a partir de la revisión de las cuentas públicas del segundo trimestre correspondientes al año 2003.
-
-Las referencias que se hacen a la Contaduría General de Glosa en las disposiciones legales, se entenderán hechas a la Auditoría Superior de Michoacán.
-
-Artículo Tercero. En tanto la Auditoría Superior de Michoacán no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría General de Glosa continuará ejerciendo las atribuciones que actualmente tiene conforme a los artículos 133 a 136 de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente decreto.
-
-Los servidores públicos de la Contaduría General de Glosa no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de las leyes que en consecuencia se emitan.
-
-Una vez creada la Auditoría Superior de Michoacán, todos lo (sic) recursos humanos, materiales y patrimoniales en general de la Contaduría General de Glosa, pasarán a formar parte de dicha entidad.
-
-Artículo Cuarto. El Contador General de Glosa, será titular de la Auditoría Superior de Michoacán hasta en tanto se haga una nueva designación; podrá ser ratificado para continuar en dicho encargo hasta completar el período de 4 años a que se refiere el artículo 134 reformado de esta Constitución.
-
-Artículo Quinto. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
-
-P.O. 31 DE DICIEMBRE DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-P.O. 21 DE OCTUBRE DE 2005.
-
-DECRETO NÚMERO 489 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 44; Y SE REFORMAN LOS ARTÍCULOS 96, PÁRRAFO PRIMERO DEL 104, PÁRRAFO PRIMERO DEL 105, PÁRRAFO PRIMERO DEL 108, PÁRRAFO PRIMERO DEL 109 Y PÁRRAFO SEXTO DEL 110, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
-
-Artículo Tercero. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-P.O. 21 DE OCTUBRE DE 2005.
-
-DECRETO NÚMERO 12 POR EL QUE SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 44 Y EL ARTÍCULO 100; Y SE ADICIONAN LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 44, LAS FRACCIONES XVI Y XVII AL ARTÍCULO 60 Y LOS PÁRRAFOS, SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Remítase a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Artículo Tercero. Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
-
-Artículo Cuarto. El Gobernador del Estado nombrará al Procurador General de Justicia y enviará el nombramiento, al Congreso del Estado para su ratificación, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
-
-P.O. 23 DE MAYO DE 2006.
-
-Artículo Primero.- Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Artículo Segundo.- El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Tercero.- Con la finalidad de preservar la experiencia de los integrantes del Consejo y escalonar su permanencia, para su integración y por única vez, los Consejeros del Poder Judicial durarán en su encargo: el elegido por el Congreso del Estado, cinco años; el designado por el Titular del Poder Ejecutivo, cuatro años; el elegido por los magistrados, tres años, el elegido por los jueces de primera instancia, dos años.
-
-Artículo Cuarto.- El individuo que haya sido electo magistrado antes de la entrada en vigor del presente Decreto y se encuentre en funciones al inicio de vigencia del mismo, durará en su encargo el tiempo por el que fue designado; y si, se retira voluntariamente a los quince años de servicios efectivos en ese cargo y cumpla sesenta años de edad o cuando tenga más de diez años de servicios efectivos en ese cargo y su retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados.
-
-Artículo Quinto.- Con el fin de escalonar su permanencia y por esta sola ocasión, los Magistrados del Tribunal de Justicia Administrativa tendrán una duración, por su orden de elección, el primero, de cinco años; el segundo, de cuatro años; el tercero, de tres años.
-
-Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 24 DE AGOSTO DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 22 DE SEPTIEMBRE DE 2006.
-
-DECRETO NÚMERO 36 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1o DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero.- El presente Derecho (sic) entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre (sic) Soberano de Michoacán de Ocampo.
-
-P.O. 22 DE SEPTIEMBRE DE 2006.
-
-DECRETO NÚMERO 69 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; EL ARTÍCULO 29; EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL ARTÍCULO 51; EL ARTÍCULO 54; LA FRACCIÓN X DEL ARTÍCULO 60; EL ARTÍCULO 117; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículos 20, 29, 31 párrafo primero, 33, 51, 54, 60 fracción X, 112 párrafo segundo y 117, que entrarán en vigor el día primero del mes de enero del año dos mil quince.
-
-SEGUNDO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-TERCERO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-CUARTO. El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil ocho, al día catorce de febrero del año dos mil doce.
-
-El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil doce al día treinta de septiembre del año dos mil quince.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-QUINTO.- La Septuagésima Primera Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil ocho, al día catorce de enero del año dos mil doce.
-
-La Septuagésima Segunda Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil doce, al día catorce de septiembre del año dos mil quince.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-SEXTO.- Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil siete, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil ocho, al día treinta y uno de diciembre del año dos mil once.
-
-Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil once, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil doce, al día treinta y uno de agosto del año dos mil quince.
-
-SÉPTIMO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 29 DE DICIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 9 DE FEBRERO DE 2007.
-
-DECRETO NÚMERO 126 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XI Y EL ACTUAL PÁRRAFO SEGUNDO SE CONVIERTE EN PÁRRAFO TERCERO DEL ARTÍCULO 44; SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN III DEL ARTÍCULO 123, Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejercicio constitucional de ésta.
 
 ###### ARTÍCULO OCTAVO.
 
-Al término del período constitucional de las actuales administraciones municipales y para efecto de la Comisión de Entrega-Recepción, ésta deberá conformarse en el mes de junio de 2007, y los Tesoreros de los Ayuntamientos salientes, harán las funciones del Síndico en el procedimiento de entrega-recepción.
+La Mesa Directiva en funciones que se encuentre al momento de entrar en vigor esta Ley, continuará hasta concluir el período ordinario o Diputación Permanente correspondiente.
+
+El Presidente de la Mesa Directiva por única ocasión, realizará el turno de las iniciativas y asuntos legislativos pendientes a las Comisiones Permanentes creadas por esta Ley, de manera directa, por escrito y en base a las atribuciones de cada Comisión.
 
 ###### ARTÍCULO NOVENO.
 
-Los Ayuntamientos convendrán con el Ejecutivo del Estado, las condiciones para regular las facultades concurrentes en materia de regulación de bebidas alcohólicas y preservación del medio ambiente.
+El Congreso expedirá la reglamentación correspondiente dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
 
 ###### ARTÍCULO DÉCIMO.
 
-Los Ayuntamientos del Estado deberán expedir las disposiciones relativas a la organización y funcionamiento de las distintas corporaciones de Seguridad Pública y Transito, a partir del inicio de la vigencia de la presente Ley.
+En tanto se expide la reglamentación que establece esta Ley, se aplicarán las disposiciones de la Ley Orgánica del Poder Legislativo del Estado de Yucatán abrogada, para efecto de todo lo relativo a trámites, procedimientos, votaciones y demás asuntos legislativos que no se oponga a lo establecido por esta Ley.
 
-ARTÍCULO DECIMOPRIMERO.- Con el propósito de colaborar en el procedimiento de Entrega- Recepción, la Contaduría Mayor de Hacienda, en un plazo de noventa días previos a la conclusión del actual ejercicio constitucional de los Municipios del Estado, establecerá los lineamientos generales tendientes a facilitar y garantizar a las Administraciones saliente y entrante, la recepción y la continuidad de los servicios y, funciones de la Administración Pública Municipal.
+###### ARTÍCULO DÉCIMO PRIMERO.
 
-ARTÍCULO DECIMOSEGUNDO.- Las actuales autoridades auxiliares de los municipios del Estado, permanecerán en su encargo, en tanto los próximos Ayuntamientos las sustituyan.
+Al entrar en vigor esta Ley, el Oficial Mayor y Tesorero del Congreso en funciones, pasarán a ser el Secretario General del Poder Legislativo y Director General de Administración y Finanzas, respectivamente sin necesidad de nombramiento alguno por parte del Congreso.
 
-ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado dispondrá lo necesario para que se constituya el Registro Estatal de Publicaciones Oficiales, con el fin de facilitar la expedición y circulación de las respectivas Gacetas Municipales.
+De igual forma subsisten los nombramientos del Auditor Superior del Estado y del Director del Instituto de Investigaciones Legislativas.
 
-ARTÍCULO DECIMOCUARTO.- Para el caso de los Ayuntamientos que cuentan con jueces calificadores, por única vez se prorroga el período de su encargo, a más tardar al día treinta de agosto del dos mil siete. Y los que a la entrada en vigor de esta Ley, no cuenten con jueces calificadores, podrán nombrarlos quienes durarán hasta la fecha citada con anterioridad.
+El Director de Evaluación del Presupuesto será nombrado en el plazo que establezca la Ley que regule su funcionamiento.
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+###### ARTÍCULO DÉCIMO SEGUNDO.
 
-ARTÍCULO DECIMOQUINTO.- En tanto se expida (sic) ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán, permanecerá vigente el Capítulo II del Título Noveno, de la Ley Orgánica de los Municipios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha veinticinco de octubre de 1988, mediante Decreto Número 59.
+En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
 
-ARTÍCULO DÉCIMOSEXTO.- Los Ayuntamientos del Estado de Yucatán, deberán adecuar sus disposiciones reglamentarias municipales, al inicio de la vigencia de la presente ley.
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS TREINTA Y UN DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ. PRESIDENTE DIPUTADO VÍCTOR EDMUNDO CABALLERO DURÁN, SECRETARIO DIPUTADO RENÁN ALBERTO BARRERA CONCHA, Y SECRETARIA DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ. RÚBRICAS.
 
-ARTÍCULO DÉCIMOSEPTIMO.- Se exhorta a los Ayuntamientos para que de común acuerdo con el Poder Judicial del Estado, se establezcan los mecanismos de capacitación y adiestramiento a los Jueces de Paz, en materia de mediación.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS QUINCE DÍAS DEL MES DE ENERO DEL AÑO DOS MIL SEIS.- PRESIDENTE DIPUTADO JORGE MANUEL PUGA RUBIO.- SECRETARIO DIPUTADO MARIO ALEJANDRO CUEVAS MENA.- SECRETARIO DIPUTADO JORGE ESMA BAZÁN.- RÚBRICAS.
-
-Y POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
-
-DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTE DÍAS DEL MES DE ENERO DEL AÑO DOS MIL SEIS.
-
-(RÚBRICA)
-
-C. PATRICIO JOSÉ PATRÓN LAVIADA
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-(RÚBRICA)
-
-ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
-
-D.O. 25 DE MAYO DE 2006.
+D.O. 23 DE AGOSTO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3813,121 +4043,177 @@ OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que em
 
 P.O. 24 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 94 PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 47/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA Y EL REGLAMENTO INTERIOR DE LA UNIDAD DE VIGILANCIA Y EVALUACIÓN DE LA AUDITORÍA SUPERIOR, TODAS DEL ESTADO DE YUCATÁN".]
 
-PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Primero. Entrada en vigor
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-P.O. 24 DE OCTUBRE DE 2016.
+Segundo. Derogación tácita
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y VII, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
 
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+D.O. 1 DE MARZO DE 2019.
 
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 48/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
 
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Entrada en Vigor
 
-P.O. 18 DE NOVIEMBRE DE 2016.
+Artículo Primero.- El presente Decreto entrará en vigor a los 60 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 170.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+Disponibilidad Presupuestaria
 
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Artículo Segundo.- La implementación de las reformas contenidas en el presente Decreto, se realizarán paulatinamente de conformidad con la disponibilidad presupuestaria para tal efecto.
 
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Derogación expresa
 
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
 
-P.O. 24 DE OCTUBRE DE 2017.
+D.O. 22 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 379 POR EL QUE "SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, RECORRIÉNDOSE EN EL ORDEN SUBSECUENTE LOS EXISTENTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 56/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
 
-Primero. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Primero. Entrada en vigor.
 
-Segundo. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-Tercero. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
+Segundo. Derogación Expresa.
 
-Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 381 POR EL QUE "SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+D.O. 14 DE NOVIEMBRE DE 2019.
 
-P.O. 29 DE MARZO DE 2018.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 111/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE
 
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+YUCATÁN, EN MATERIA DE DERECHOS HUMANOS”.]
 
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Entrada en vigor
 
-TERCERO. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-CUARTO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Derogación expresa
 
-P.O. 29 DE MARZO DE 2018.
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 387.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+D.O. 9 DE JUNIO DE 2020.
 
-PRIMERO. Remítase a los Ayuntamientos y Consejos Municipales de Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 230/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
 
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
-TERCERO. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al titular del Periódico Oficial del Estado, su publicación, sin que se requiera refrendo alguno.
+Segundo.- El Congreso del Estado en un plazo que no excederá de 180 días naturales deberá realizar la designación del titular de la Contraloría Interna.
 
-CUARTO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Sin perjuicio de lo ordenado en el párrafo anterior, los ajustes administrativos y estructurales para dar cumplimiento al presente decreto se harán conforme a la capacidad presupuestal.
 
-P.O. 24 DE JULIO DE 2018.
+Tercero.- Se derogan todas las normas que se opongan al presente decreto.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 403 POR EL QUE “SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+D.O. 9 DE JUNIO DE 2020.
 
-PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Mayor de Cherán, la Minuta con proyecto de Decreto, en materia constitucional para que en el término de un mes después de recibirla, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 231/2020 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE PARLAMENTO ABIERTO".]
 
-SEGUNDO. Transcurrido el mes concedido a los Ayuntamientos y al Concejo Mayor de Cherán, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO.- Las áreas correspondientes del Congreso del Estado de Yucatán implementarán las presentes disposiciones del Parlamento Abierto en un plazo no mayor a 30 días hábiles posteriores a la entrada en vigor del presente decreto.
 
-P.O. 24 DE JULIO DE 2018.
+D.O. 22 DE JULIO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 425 POR EL QUE “SE REFORMA EL ARTÍCULO 27, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PRIMER PÁRRAFO DEL ARTÍCULO 106, EL ARTÍCULO 107, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 110; SE DEROGA EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 106 Y SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 108 RECORRIÉNDOSE EN EL ORDEN LOS SIGUIENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 260/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE SESIONES FUERA DEL RECINTO LEGISLATIVO".]
 
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Artículo segundo. Se instruye al Director General de Administración y Finanzas del Honorable Congreso del Estado de Yucatán para que (sic) un plazo no mayor a 15 días, contados a partir de la entrada en vigor de este decreto para que (sic) presente a la Junta de Gobierno y Coordinación Política y a la Presidencia de la Mesa Directiva, la plataforma tecnológica que habrá de funcionar para las sesiones a las que se refiere este decreto.
 
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+Artículo tercero. La Secretaría General y la Dirección de Administración y Finanzas del Poder Legislativo en conjunto con el área encargada del sistema informático legislativo deberán realizar, periódicamente, simulacros de Sesiones Fuera del Recinto Legislativo mediante el uso de las tecnologías de la información y la comunicación a efecto de mantener actualizadas a las y los diputados en el uso y metodología de las mismas.
 
-P.O. 24 DE JULIO DE 2018.
+D.O. 22 DE ABRIL DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 584.- SE ADICIONAN DIVERSOS PÁRRAFOS AL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 490/2022 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE COMISIONES PERMANENTES”.]
 
-PRIMERO. En caso de que el Presupuesto de Egresos del Estado se vea disminuido, ya sea en las participaciones federales o en algún otro concepto y que haga necesaria la atención prioritaria de esta soberanía para atender necesidades específicas, se hará un ejercicio ponderativo del monto equivalente proporcional al asignado al año inmediato anterior.
+Entrada en Vigor.
 
-SEGUNDO. En el entendido de que una de las variables para determinar el presupuesto que se asigna a la Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es la propia matrícula de alumnos de dicha institución, cuando ésta se vea reducida, se deberán realizar ajustes necesarios con base a la disminución de la matrícula.
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-TERCERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cheran, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Integración.
 
-CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
+Artículo segundo. Los integrantes de las actuales Comisiones especiales de Turismo y, la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad, pasarán a integrar las Comisiones Permanentes de Turismo y Promoción Internacional que se adiciona en este Decreto mediante la fracción XVII del artículo 43 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán; y la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad que se adiciona en este Decreto mediante la fracción XVIII del artículo 43 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, quienes durarán en sus funciones todo el periodo constitucional de la Sexagésima Tercera Legislatura del Honorable Congreso del Estado de Yucatán.
 
-QUINTO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Abrogación.
 
-P.O. 13 DE AGOSTO DE 2018.
+Artículo tercero. Se abroga el Acuerdo de fecha 13 de marzo del año 2019, publicado en el Diario Oficial del Gobierno del Estado el 19 de marzo de 2019, mediante el cual, se crearon entre otras, las Comisiones Especiales de Turismo y la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 631 POR EL QUE "SE REFORMAN LAS FRACCIONES XVIII, XXXVI, XXXVII, XVIII, XXXIX Y SE ADICIONA LA FRACCIÓN XL AL ARTÍCULO 44, SE REFORMA LA FRACCIÓN II INCISO C) DEL ARTÍCULO 50, SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN X, SE MODIFICA LA FRACCIÓN XVI Y SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 60, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 76, LOS ARTÍCULOS 99, 100, 101, 102 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 154, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+Continuación de asuntos pendientes.
 
-PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, la Minuta con proyecto de Decreto para que, en el término de hasta 30 treinta días después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Artículo cuarto. Los asuntos pendientes de resolución que les fueron turnadas (sic) a las Comisiones especiales que se abrogan y las que les sean turnadas hasta el momento de la entrada en vigor de este decreto, continuarán con los trámites respectivos, en las nuevas comisiones permanentes según corresponda.
 
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Cláusula derogatoria.
 
-TERCERO. El Congreso del Estado contará con un plazo de ciento ochenta días para expedir la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo.
+Artículo quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
 
-CUARTO. A partir de la entrada en vigor del Decreto que contenga la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo, a que se refiere el artículo anterior, los recursos humanos, presupuestales, financieros, materiales y de operatividad de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General del Estado.
+D.O. 21 DE ABRIL DE 2023.
 
-QUINTO. El Congreso del Estado, por única ocasión a través de las Comisiones de Justicia y de Gobernación, emitirá convocatoria pública para llevar acabo el procedimiento de elección del Fiscal General del Estado a que se refiere el artículo 102 del presente Decreto, en un término no mayor a sesenta días siguientes al de su publicación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 621/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN".]
 
-SEXTO. El Procurador General de Justicia del Estado que se encuentre en funciones al momento de la promulgación de la presente reforma, continuará en su encargo hasta en tanto el Congreso del Estado designe al Fiscal General del Estado.
+Entrada en vigor
 
-P.O. 27 DE AGOSTO DE 2018.
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 556 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 9 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 682/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUYENTE Y NO SEXISTA, PARA NOMBRAR A MUJERES Y HOMBRES EN EL QUEHACER PÚBLICO COMPETENTE”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+Obligación Normativa
+
+Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 13 DE ENERO DE 2026.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, AMBOS DEL ESTADO DE YUCATÁN, EN MATERIA DE ECONOMÍA PROCESAL E INCLUSIÓN NORMATIVA.
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Asuntos en trámite
+
+Artículo segundo. Los asuntos a los que alude el presente decreto que estén en trámite para su desahogo ante el Pleno de la legislatura se resolverán en los términos del presente decreto.
+
+Derogación expresa
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 216/2026 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN; LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN; LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN; Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN; ASÍ COMO EL DECRETO 169/2026 POR EL QUE SE DETERMINA EL NÚMERO DE REGIDURÍAS QUE INTEGRARÁN LOS 106 AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO CONSTITUCIONAL 2027-2030, EN MATERIA DE CONFORMACIÓN DE CABILDOS, AUSTERIDAD PRESUPUESTAL LEGISLATIVA, CERO PRIVILEGIOS DE LAS Y LOS SERVIDORES PÚBLICOS Y NULIDAD POR INTERVENCIÓN EXTRANJERA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajuste de remuneraciones de las y los servidores públicos
+
+Artículo segundo. Los poderes públicos locales, los gobiernos municipales y los organismos constitucionales autónomos en la entidad deberán realizar los ajustes presupuestales necesarios para, si fuera el caso, ajustar las percepciones de sus servidoras y servidores públicos a lo ordenado en el presente decreto.
+
+Presupuesto del Poder Legislativo del Estado
+
+Artículo tercero. El Congreso del Estado de Yucatán, para los efectos de la elaboración de su proyecto de presupuesto para el ejercicio fiscal correspondiente al 2027, deberá considerar el presupuesto de egresos aprobado para el Gobierno del Estado del presente año 2026 como parámetro para su cálculo a fin de observar el tope de (sic) máximo de presupuestación con base al índice inflacionario, sin perjuicio de lo previsto en el artículo transitorio octavo por la que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la reforma a la Constitución Política de los Estados Unidos Mexicanos.
+
+En la presupuestación anterior se entenderá comprendido el presupuesto para la Auditoría Superior del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
 
 ###### ARTÍCULO PRIMERO.
 
