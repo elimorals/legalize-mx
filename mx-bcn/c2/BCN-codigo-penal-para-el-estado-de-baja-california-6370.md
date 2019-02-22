@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2019-02-01"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -919,7 +919,7 @@ Cuando por culpa y con motivo del tránsito de vehículos se cause únicamente d
 
 La calificación de la gravedad de la imprudencia queda al prudente arbitrio del Juez de Control o Tribunal de Enjuiciamiento, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 69 y las especiales siguientes:
 
-I.- La mayor o menor facilidad de preveer y evitar el daño que resulto;
+I.- La mayor o menor facilidad de preveer (sic) y evitar el daño que resulto;
 
 II.- Si para ello bastaban una reflexión o atención ordinaria y conocimientos comunes en algún arte o ciencia;
 
@@ -4395,6 +4395,12 @@ Tipo y punibilidad.- Al que teniendo la obligación legal de conducirse con verd
 
 Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución en el procedimiento en el que se condujo con falsedad, sólo se le impondrá la multa a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+Artículo 320 BIS.- Tipo y punibilidad.- Comete el delito de uso indebido de medios de comunicación de emergencia y denuncia, la persona que de forma dolosa reporte hechos falsos a instituciones públicas que presten servicios de emergencia, protección civil, bomberos o seguridad pública y provoque la movilización y presencia de elementos de dichas instituciones, a la que se le impondrá de tres meses a dos años de prisión y multa de diez a cien días del valor de la unidad de medida y actualización vigente.
+
+En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días del valor de la unidad de medida y actualización vigente.
+
 ###### Artículo 321.
 
 Presentación de testigos falsos y otros.- Al que presente testigos falsos conociendo esta circunstancia o logre que un testigo, perito, intérprete traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrá prisión de uno a cuatro años y hasta cien días multa.
@@ -5923,8 +5929,14 @@ Todas las menciones al salario mínimo como unidad de cuenta, índice, base, med
 
 P.O. 1 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 298 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 342 SEXTIES AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 342 SEXTIES AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO.- Aprobada que sea la presente reforma, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado, para los efectos legales correspondientes.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 320 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
