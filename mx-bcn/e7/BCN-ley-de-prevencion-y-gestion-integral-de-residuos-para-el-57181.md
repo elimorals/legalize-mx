@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2018-11-30"
+last_updated: "2019-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "BCN"
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 278 PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
