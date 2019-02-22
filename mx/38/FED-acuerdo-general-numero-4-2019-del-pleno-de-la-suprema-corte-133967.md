@@ -1,0 +1,56 @@
+---
+title: "ACUERDO GENERAL NUMERO 4/2019 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, [POR EL QUE SE LEVANTA EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS AMPAROS DIRECTOS, DE LOS RECURSOS DE REVISION PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA ASI COMO DE LOS AMPAROS EN REVISION EN LOS CUALES SE ABORDE LA TEMATICA RELATIVA A DECIDIR SI CONFORME AL MARCO CONSTITUCIONAL Y LEGAL VIGENTE LA COMISION FEDERAL DE ELECTRICIDAD ES SUSCEPTIBLE DE ASUMIR UNA RESPONSABILIDAD ADMINISTRATIVA POR ALGUNA ACTIVIDAD QUE PUDIERA CONSIDERARSE IRREGULAR CON BASE EN LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO; RELACIONADO CON EL DIVERSO 4/2018, DE VEINTIOCHO DE MAYO DE DOS MIL DIECIOCHO, MODIFICADO MEDIANTE INSTRUMENTO NORMATIVO DEL NUEVE DE JULIO DEL MISMO AÑO]"
+identifier: "FED-acuerdo-general-numero-4-2019-del-pleno-de-la-suprema-corte-133967"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2019-02-22"
+last_updated: "2019-02-22"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133967&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "133967"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "16 PRIMERA SECCION"
+reform_count: "0"
+scjn_last_update: "2019-02-22"
+issue_date: "2018-02-11"
+---
+# ACUERDO GENERAL NUMERO 4/2019 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, [POR EL QUE SE LEVANTA EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS AMPAROS DIRECTOS, DE LOS RECURSOS DE REVISION PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA ASI COMO DE LOS AMPAROS EN REVISION EN LOS CUALES SE ABORDE LA TEMATICA RELATIVA A DECIDIR SI CONFORME AL MARCO CONSTITUCIONAL Y LEGAL VIGENTE LA COMISION FEDERAL DE ELECTRICIDAD ES SUSCEPTIBLE DE ASUMIR UNA RESPONSABILIDAD ADMINISTRATIVA POR ALGUNA ACTIVIDAD QUE PUDIERA CONSIDERARSE IRREGULAR CON BASE EN LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO; RELACIONADO CON EL DIVERSO 4/2018, DE VEINTIOCHO DE MAYO DE DOS MIL DIECIOCHO, MODIFICADO MEDIANTE INSTRUMENTO NORMATIVO DEL NUEVE DE JULIO DEL MISMO AÑO]
+
+ACUERDO GENERAL NÚMERO 4/2019 DE ONCE DE FEBRERO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE LEVANTA EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS DIRECTOS, DE LOS RECURSOS DE REVISIÓN PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA ASÍ COMO DE LOS AMPAROS EN REVISIÓN EN LOS CUALES SE ABORDE LA TEMÁTICA RELATIVA A DECIDIR SI CONFORME AL MARCO CONSTITUCIONAL Y LEGAL VIGENTE LA COMISIÓN FEDERAL DE ELECTRICIDAD ES SUSCEPTIBLE DE ASUMIR UNA RESPONSABILIDAD ADMINISTRATIVA POR ALGUNA ACTIVIDAD QUE PUDIERA CONSIDERARSE IRREGULAR CON BASE EN LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO; RELACIONADO CON EL DIVERSO 4/2018, DE VEINTIOCHO DE MAYO DE DOS MIL DIECIOCHO, MODIFICADO MEDIANTE INSTRUMENTO NORMATIVO DEL NUEVE DE JULIO DEL MISMO AÑO
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de febrero de 2019.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
+
+ACUERDO GENERAL NÚMERO 4/2019, DE ONCE DE FEBRERO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE LEVANTA EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS DIRECTOS, DE LOS RECURSOS DE REVISIÓN PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA ASÍ COMO DE LOS AMPAROS EN REVISIÓN EN LOS CUALES SE ABORDE LA TEMÁTICA RELATIVA A DECIDIR SI CONFORME AL MARCO CONSTITUCIONAL Y LEGAL VIGENTE LA COMISIÓN FEDERAL DE ELECTRICIDAD ES SUSCEPTIBLE DE ASUMIR UNA RESPONSABILIDAD ADMINISTRATIVA POR ALGUNA ACTIVIDAD QUE PUDIERA CONSIDERARSE IRREGULAR CON BASE EN LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO; RELACIONADO CON EL DIVERSO 4/2018, DE VEINTIOCHO DE MAYO DE DOS MIL DIECIOCHO, MODIFICADO MEDIANTE INSTRUMENTO NORMATIVO DEL NUEVE DE JULIO DEL MISMO AÑO.
+
+CONSIDERANDO:
+
+PRIMERO. Conforme a lo previsto en los artículos 94, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos; 11, fracción XXI, de la Ley Orgánica del Poder Judicial de la Federación, y 37 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno de esta Suprema Corte de Justicia de la Nación emitió el Acuerdo General Plenario 4/2018, de veintiocho de mayo de dos mil dieciocho, modificado mediante Instrumento Normativo del nueve de julio del mismo año, en el cual se determinó:
+
+“ÚNICO. En tanto la Segunda Sala de esta Suprema Corte de Justicia de la Nación resuelve los amparos directos y amparos en revisión relacionados con las solicitudes de ejercicio de la facultad de atracción referidas en el Considerando Segundo de este instrumento normativo, establece el o los criterios respectivos, y se emite el Acuerdo General Plenario que corresponda, en los amparos directos, en los recursos de revisión promovidos contra sentencias emitidas por las Salas del Tribunal Federal de Justicia Administrativa así como en los amparos en revisión en los cuales se aborde la temática relativa a decidir si conforme al marco constitucional y legal vigente la Comisión Federal de Electricidad es susceptible de asumir una responsabilidad administrativa por alguna actividad que pudiera considerarse irregular con base en la Ley Federal de Responsabilidad Patrimonial del Estado, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.”;
+
+SEGUNDO. En sesiones celebradas los días treinta de mayo, cuatro de julio y nueve de agosto, todos de dos mil dieciocho, la Segunda Sala de esta Suprema Corte de Justicia de la Nación resolvió los amparos en revisión 1131/2017 y 1352/2017, así como los amparos directos 3/2018 y 19/2018, de los que derivaron las tesis aisladas 2a. LXXIX/2018 (10a.) y 2a. LXXX/2018 (10a.), de rubros: “COMISIÓN FEDERAL DE ELECTRICIDAD. EL PAGO DE LA INDEMNIZACIÓN POR DAÑOS GENERADOS COMO CONSECUENCIA DE LA ACTIVIDAD RELACIONADA CON EL SERVICIO PÚBLICO QUE PRESTA ES RECLAMABLE EN LA VÍA CIVIL.”, y “EMPRESAS PRODUCTIVAS DEL ESTADO SU NATURALEZA.” (ambas publicadas el viernes 21 de septiembre de 2018 a las 10:30 horas en el Semanario Judicial de la Federación), respectivamente; TERCERO. Por tanto, se estima que ha dejado de existir la razón que motivó el aplazamiento decretado en el Acuerdo General Plenario 4/2018 citado en el Considerando Primero de este instrumento normativo, por lo que deben resolverse los amparos directos, los recursos de revisión promovidos contra sentencias emitidas por las Salas del Tribunal Federal de Justicia Administrativa así como los amparos en revisión en los cuales se aborde la temática relativa a decidir si conforme al marco constitucional y legal vigente la Comisión Federal de Electricidad es susceptible de asumir una responsabilidad administrativa por alguna actividad que pudiera considerarse irregular con base en la Ley Federal de Responsabilidad Patrimonial del Estado.
+
+En consecuencia, con fundamento en lo antes señalado, el Pleno de la Suprema Corte de Justicia de la Nación expide el siguiente:
+
+ACUERDO:
+
+PRIMERO. Se levanta el aplazamiento dispuesto en el Acuerdo General Plenario 4/2018, de veintiocho de mayo de dos mil dieciocho, modificado mediante Instrumento Normativo del nueve de julio del mismo año, en el dictado de la resolución de los amparos directos, de los recursos de revisión promovidos contra sentencias emitidas por las Salas del Tribunal Federal de Justicia Administrativa así como de los amparos en revisión en los cuales se aborde la temática relativa a decidir si conforme al marco constitucional y legal vigente la Comisión Federal de Electricidad es susceptible de asumir una responsabilidad administrativa por alguna actividad que pudiera considerarse irregular con base en la Ley Federal de Responsabilidad Patrimonial del Estado.
+
+SEGUNDO. Los asuntos a que se refiere el Punto inmediato anterior pendientes de resolución en los Tribunales Colegiados de Circuito, deberán ser resueltos por éstos aplicando las tesis aisladas citadas en el Considerando Segundo del presente Acuerdo General, tomando en cuenta el principio establecido en el Punto Décimo Quinto del Acuerdo General Plenario 5/2013, de trece de mayo de dos mil trece, modificado por última vez mediante Instrumento Normativo del cinco de septiembre de dos mil diecisiete.
+
+TRANSITORIOS:
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
+
+El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
+
+El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 4/2019, DE ONCE DE FEBRERO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE LEVANTA EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS DIRECTOS, DE LOS RECURSOS DE REVISIÓN PROMOVIDOS CONTRA SENTENCIAS EMITIDAS POR LAS SALAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA ASÍ COMO DE LOS AMPAROS EN REVISIÓN EN LOS CUALES SE ABORDE LA TEMÁTICA RELATIVA A DECIDIR SI CONFORME AL MARCO CONSTITUCIONAL Y LEGAL VIGENTE LA COMISIÓN FEDERAL DE ELECTRICIDAD ES SUSCEPTIBLE DE ASUMIR UNA RESPONSABILIDAD ADMINISTRATIVA POR ALGUNA ACTIVIDAD QUE PUDIERA CONSIDERARSE IRREGULAR CON BASE EN LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO; RELACIONADO CON EL DIVERSO 4/2018, DE VEINTIOCHO DE MAYO DE DOS MIL DIECIOCHO, MODIFICADO MEDIANTE INSTRUMENTO NORMATIVO DEL NUEVE DE JULIO DEL MISMO AÑO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, José Fernando Franco González Salas, Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Javier Laynez Potisek, Alberto Pérez Dayán y Presidente Arturo Zaldívar Lelo de Larrea. La señora Ministra Margarita Beatriz Luna Ramos estuvo ausente, por vacaciones; y el señor Ministro Eduardo Medina Mora I. estuvo ausente, previo aviso.- Ciudad de México, a once de febrero de dos mil diecinueve.- Rúbrica.
