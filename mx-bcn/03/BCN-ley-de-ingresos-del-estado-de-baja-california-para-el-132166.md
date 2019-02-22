@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-132166"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE FEBRERO DE 2019.]</small>
 
 Ley publicada en el Número Especial de la Sección I al Número 60 del Periódico Oficial del Estado de Baja California, el lunes 31 de diciembre de 2018.
 
@@ -1589,7 +1589,9 @@ Los usuarios que tengan medidor en el Municipio de Tecate, causarán mensualment
 
 > <small>[N. DE E. VÉASE TABLA EN EL NÚMERO ESPECIAL DE LA SECCIÓN I DEL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 81.]</small>
 
-Para consumidores, con un promedio anual mínimo de 600,000 M3, por cada M3 consumido...... $45.41
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
+Para consumidores, con un promedio anual mínimo de 600,000 M3, por cada M3 consumido...... $36.33
 
 3.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
 
