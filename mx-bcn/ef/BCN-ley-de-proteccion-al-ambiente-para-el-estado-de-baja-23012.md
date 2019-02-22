@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2019-02-01"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -331,9 +331,13 @@ XXXVI. Coordinarse con la Secretaría de Salud del Estado para elaborar, dar seg
 
 XXXVII. Identificar, delimitar y establecer corredores biológicos, así como diseñar y proponer las estrategias para su implementación, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
 
-XXXVIII. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXVIII. Formular los Criterios y Normas de Producción Sustentable que tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que los fabricantes de bolsas de plástico deban implementar en sus procesos, operaciones y productos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2019)</small>
+
+XXXIX. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -2237,15 +2241,15 @@ IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta
 
 Las autoridades que tengan a su cargo la promoción y el fomento de las actividades agropecuarias, vigilarán y regularán que en la aplicación y empleo de plaguicidas, fertilizantes o sustancias tóxicas, no se provoque contaminación del suelo y así evitar daños a los seres humanos, al ambiente, cultivos y áreas circunvecinas.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 141.
 
-Dentro del ámbito territorial del Estado queda prohibido que se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final; así como con los Criterios y Normas de Producción Sustentable que al efecto emita la Secretaría.
+Para la protección del Estado de Baja California y sus habitantes queda prohibida el obsequio, venta o entrega al consumidor final de bolsas de plástico en supermercados, tiendas de autoservicio o conveniencia, mercados, comercios de giros diversos y en general cualquier tipo de unidad comercial que sean elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, así como cualquier bolsa que no cumpla con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final.
 
-Los Criterios y Normas de Producción Sustentable tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que los fabricantes de bolsas de plástico pueden implementar con el propósito de minimizar el impacto ambiental de sus procesos, operaciones y productos a lo largo de su vida.
+Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación.
 
-Entre los Criterios y Normas de Producción Sustentable se comprenderá:
+Entre los Criterios y Normas de Producción Sustentable que formule la Secretaría para la fabricación de bolsas de plástico, se comprenderá:
 
 1. Conservación de recursos naturales y no renovables;
 
@@ -2257,7 +2261,7 @@ Entre los Criterios y Normas de Producción Sustentable se comprenderá:
 
 En todo momento se buscará que el fin de vida de las bolsas de plástico no sea mayor al de diez años.
 
-En el caso de que en la producción de bolsas se utilice un aditivo que sea incompatible con el reciclaje, se procurará que estas tengan un fin de vida menor al de cinco años.
+En el caso de que en la producción de bolsas se utilice un aditivo que sea incompatible con el reciclaje, se procurará que éstas tengan un fin de vida menor al de cinco años.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -3202,3 +3206,15 @@ P.O. 1 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 255 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE ADICIÓN AL ARTÍCULO 67 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 276 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8 Y 141 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la implementación de esta disposición, el Ejecutivo del Estado deberá elaborar las normas, programas y planes correspondientes que deberán establecer los criterios de eficiencia ambiental, tecnológica, económica y social bajo los principios de responsabilidad compartida.
+
+Estos ordenamientos deberán contener disposiciones aplicables a productores, distribuidores, comerciantes, consumidores, generadores de residuos de estos materiales.
+
+TERCERO.- Los productores, distribuidores y comerciantes de bolsas de plástico, contarán con trecientos sesenta y cinco días naturales después de la publicación del Presente Decreto para dar cumplimiento a lo establecido en el artículo 141 de la Ley de Protección al Ambiente para el Estado de Baja California.
