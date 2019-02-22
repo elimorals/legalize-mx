@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-cultura-de-baja-96505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-27"
-last_updated: "2014-09-19"
+last_updated: "2019-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de septiembre de 2013.
 
@@ -199,93 +199,113 @@ IV) Contar con una sólida trayectoria profesional y/o moral.
 
 ### CAPÍTULO III. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
 Para el estudio, planeación, despacho de los asuntos y adecuado cumplimiento del objeto para el que fue creado el ICBC, éste contará con las siguientes unidades administrativas:
 
-1.0 Dirección General
+I. Dirección General
 
-1.0.1 Unidad de Planeación y Desarrollo Institucional
+a) Unidad de Planeación y Desarrollo Institucional.
 
-1.0.2 Unidad de Asuntos Jurídicos
+b) Unidad de Asuntos Jurídicos.
 
-1.0.3 Unidad de Contraloría Interna
+c) Órgano Interno de Control.
 
-1.1 Dirección de Promoción y Difusión
+d) Coordinación de Fondos.
 
-1.1.1 Departamento de Comunicación
+II. Dirección de Promoción y Difusión
 
-1.1.2 Departamento de Artes Escénicas y Eventos Especiales
+a) Departamento de Comunicación.
 
-1.1.3 Departamento de Artes Plásticas y Visuales
+b) Departamento de Artes Escénicas y Eventos Especiales.
 
-1.1.4 Coordinación del Teatro del Estado
+c) Departamento de Artes Plásticas y Visuales.
 
-1.2 Dirección de Desarrollo Cultural
+d) Coordinación del Teatro del Estado.
 
-1.2.1 Coordinación de la Red Estatal de Bibliotecas
+e) Coordinación del Teatro de la Ciudad.
 
-1.2.2 Coordinación de Fondos
+III. Dirección de Desarrollo Cultural
 
-1.2.3 Departamento de Vinculación Cultural;
+a) Coordinación de la Red Estatal de Bibliotecas.
 
-1.2.4 Departamento de Patrimonio Cultural y Culturas Populares
+b) Departamento de Vinculación Cultural.
 
-1.2.5 Departamento de Fomento a la Lectura
+c) Departamento de Patrimonio Cultural y Culturas Populares.
 
-1.2.6 Coordinación de Desarrollo Cultural Mexicali
+d) Departamento de Fomento a la Lectura.
 
-1.2.7 Coordinación de la Biblioteca Pública Central Estatal
+e) Coordinación de Desarrollo Cultural Mexicali.
 
-1.2.8 Coordinación Estatal de Talentos Artísticos
+f) Coordinación de la Biblioteca Pública Central Estatal.
 
-1.3 Dirección de Administración
+g) Coordinación de Biblioteca Pública Regional Benito Juárez.
 
-1.3.1 Departamento de Recursos Humanos
+h) Coordinación Estatal de Talentos Artísticos.
 
-1.3.2 Departamento de Contabilidad
+IV. Dirección de Administración
 
-1.3.3 Departamento de Servicios Generales
+a) Departamento de Recursos Humanos.
 
-1.3.4 Departamento de Informática
+b) Departamento de Contabilidad.
 
-1.4 Dirección del Centro Estatal de las Artes
+c) Departamento de Servicios Generales.
 
-1.4.1 Departamento de Desarrollo Académico
+d) Departamento de Informática.
 
-1.4.2 Coordinación del Centro Estatal de las Artes Ensenada
+V. Dirección del Centro Estatal de las Artes
 
-14.3 Coordinación del Centro Estatal de las Artes Tijuana
+a) Departamento de Desarrollo Académico.
 
-1.5 Representación Metropolitana Tijuana
+b) Coordinación del Centro Estatal de las Artes Ensenada.
 
-1.5.1 Coordinación Playas de Rosarito
+c) Coordinación del Centro Estatal de las Artes Tijuana.
 
-1.6 Representación Ensenada
+d) Coordinación del Centro Estatal de las Artes Tecate.
 
-1.6.1 Coordinación del Teatro de la Ciudad
+e) Coordinación del Centro Estatal de las Artes Playas de Rosarito.
 
-1.6.2 Coordinación de la Biblioteca Pública Regional Benito Juárez
+VI. Representación Tijuana.
 
-1.7 Representación Tecate
+VII. Representación Ensenada.
 
-1.8 Representación San Quintín
+VIII. Representación Tecate.
 
-Cada unidad administrativa tendrá un titular, mismo que ejercerá las facultades y obligaciones previstas en el presente Reglamento y demás normatividad aplicable, y actuará bajo los lineamientos, políticas, manuales, circulares y criterios administrativos que emita el Director General.
+IX. Representación Playas de Rosarito.
+
+X. Representación San Quintín.
 
 ###### ARTÍCULO 20.
 
 El ICBC contará con el personal académico, técnico, de apoyo administrativo y operativo necesario para el ejercicio de sus atribuciones y que su capacidad presupuestal autorice, el cual se conducirá conforme a la normatividad que para tal efecto se expida, y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 20 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder del ICBC, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
 #### SECCIÓN I. DEL DIRECTOR GENERAL
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 21.
 
-El Director General además de contar con las facultades y obligaciones establecidas en la Ley, así como las que le confiera la Junta de Gobierno y la normatividad aplicable, estará facultado para expedir la certificación de documentos que obren en sus archivos, que se hayan emitido por virtud de las funciones de su encargo,
+El Director General además de contar con las facultades y obligaciones establecidas en la Ley, así como las que le confiera la Junta de Gobierno y la normatividad aplicable, estará facultado para:
+
+I. Expedir la certificación de documentos que obren en sus archivos;
+
+II. Realizar actos de reconocimiento a todos aquellos bajacalifornianos destacados que hayan contribuido directa o indirectamente al desarrollo artístico, científico y cultural del Estado, de la nación o de la comunidad internacional, que incluirán premios en el campo de las bellas artes, así como promover el otorgamiento de los estímulos necesarios para fomentar e impulsar su desarrollo, publicando convocatorias y llevando a cabo la organización de ceremonias para el otorgamiento de los premios y estímulos;
+
+III. Emitir lineamientos, políticas, manuales, circulares y criterios administrativos que coadyuven en el buen funcionamiento del ICBC;
+
+IV. Delegar sus facultades a servidores públicos subalternos, sin perjuicio de su ejercicio directo, para la mejor distribución y despacho de los asuntos de su competencia, y
+
+V. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 #### SECCIÓN II. DE LOS DIRECTORES DE ÁREA
 
@@ -347,9 +367,19 @@ Los Representantes, en el ámbito territorial que les corresponda y de manera an
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-Para el adecuado cumplimiento de sus atribuciones, la Dirección General contará con el apoyo de las unidades administrativas previstas en el artículo 19 del presente Reglamento.
+Para el adecuado cumplimiento de sus atribuciones, la Dirección General contará con el apoyo directo de las siguientes unidades administrativas:
+
+I. Unidad de Planeación y Desarrollo Institucional;
+
+II. Unidad de Asuntos Jurídicos;
+
+III. Órgano Interno de Control, y
+
+IV. Coordinación de Fondos.
 
 ###### ARTÍCULO 27.
 
@@ -387,41 +417,63 @@ V. Asistir al Director General en los eventos que le sean solicitados por éste;
 
 VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Unidad de Contraloría Interna, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+El Órgano Interno de Control del ICBC, para el cumplimiento de lo previsto en el artículo 92 Apartado A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
 
-I. Efectuar revisiones directas y selectivas a las unidades administrativas del ICBC, tendientes a comprobar la razonabilidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el ICBC y las demás que rigen la administración pública estatal;
 
-II. Verificar el correcto funcionamiento de las unidades administrativas del ICBC, respecto del manejo, custodia y administración de los recursos humanos materiales y financieros;
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad del ICBC;
 
-III. Informar al Director General sobre los resultados de las revisiones practicadas y, dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+III. Revisar que las operaciones presupuestales que realice el ICBC se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-IV. Vigilar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el ICBC y, las demás disposiciones vigentes en la materia;
+IV. Requerir a las unidades administrativas del ICBC que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorias, verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
 
-V. Vigilar que se acaten las disposiciones legales y reglamentarias en vigor según corresponda a la operatividad de las unidades administrativas del ICBC;
+V. Informar al titular del ICBC sobre los resultados de las revisiones, auditorías y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-VI. Controlar y vigilar el ejercicio de los recursos de inversión pública y fiscalización de las adquisiciones, arrendamientos, servicios y, de obra pública, que atiendan el cumplimiento de los programas con recursos estatales o federales por parte de las unidades administrativas del ICBC;
+VI. Asistir a reuniones del Subcomité de Adquisiciones del ICBC y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
 
-VII. Asistir a reuniones del Subcomité de Adquisiciones, Arrendamientos y Servicios del ICBC y vigilar que los procedimientos de contratación de Adquisiciones, Arrendamientos, Servicios y Obra Pública del ICBC, se realicen en apego a la normatividad vigente aplicable en la materia;
+VII. Requerir a terceros que hubieran contratado bienes o servicios con el ICBC, la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-VIII. Revisar la suficiencia y efectividad del control interno inherente a los sistemas y procedimientos existentes en el ICBC;
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
 
-IX. Rendir informe mensual al Contralor General del Estado respecto de las revisiones efectuadas, así como del seguimiento a las observaciones y recomendaciones resultantes de éstas;
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
 
-X. Proporcionar, para la aplicación de la Ley de Responsabilidades de los Servidores públicos del Estado y demás ordenamientos aplicables, a las autoridades que así lo requieran, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos al ICBC, por incumplimiento de las obligaciones previstas en los ordenamientos legales aplicables;
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas del ICBC cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
 
-XI. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos adscritos al ICBC, que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California le competan;
+XI. Requerir a los servidores públicos del ICBC información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
-XII. Requerir de acuerdo a la naturaleza de sus funciones información y documentación a los servidores públicos adscritos al ICBC cuando se estime conveniente;
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
 
-XIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, que se hayan emitido por virtud de las funciones de su encargo;
+XIII. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-XIV. Verificar que las unidades administrativas del ICBC den cumplimiento a las observaciones y recomendaciones que dicten los Órganos de Fiscalización; y
+XIV. Coadyuvar en el programa de actualización del marco de actuación del ICBC, en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen;
 
-XV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+XV. Dar fe pública de las actuaciones y procedimientos administrativos en que intervenga, y
+
+XVI. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 29 BIS.- El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 29 TER.- Corresponde a la Coordinación de Fondos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I.- Realizar las gestiones correspondientes para la constitución del Fondo Especial para la Cultura y las Artes de Baja California, entre la Secretaría de Cultura y el ICBC;
+
+II.- Llevar a cabo la operación, seguimiento y evaluación del Programa de Estímulo a la Creación y Desarrollo Artístico, de acuerdo a los lineamientos establecidos por la Secretaría de Cultura, por conducto de la Dirección General de Vinculación Cultural y, el ICBC;
+
+III.- Efectuar ante la Secretaría de Cultura, a través de la Dirección General de Vinculación Cultural, los trámites administrativos que le competen al ICBC, como miembro del Fondo Regional para la Cultura y las Artes del Noroeste;
+
+IV.- Llevar a cabo la operación, seguimiento y evaluación del Programa de Apoyo a las Culturas Municipales y Comunitarias, de acuerdo a los lineamientos establecidos por la Secretaría de Cultura, por conducto de la Dirección General de Culturas Populares e Indígenas y, el ICBC;
+
+V.- Llevar a cabo el seguimiento y evaluación del Programa de Desarrollo Cultural Infantil y Programa de Fomento a la Lectura, de acuerdo a los lineamientos establecidos por la Secretaría de Cultura, a través de la Dirección de Desarrollo de Cultura Infantil y la Dirección General de Publicaciones y, el ICBC, y
+
+VI.- Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
 #### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN Y DIFUSIÓN
 
@@ -441,6 +493,8 @@ V. Diseñar programas específicos de apoyo a la promoción de los bienes y serv
 
 VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2019)
+
 ###### ARTÍCULO 31.
 
 Para el adecuado cumplimiento de sus atribuciones, la Dirección de Promoción y Difusión contará con las siguientes unidades administrativas:
@@ -452,6 +506,10 @@ II. Departamento de Artes Escénicas y Eventos Especiales;
 III. Departamento de Artes Plásticas y Visuales;
 
 IV. Coordinación del Teatro del Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+V. Coordinación del Teatro de la Ciudad.
 
 ###### ARTÍCULO 32.
 
@@ -513,6 +571,18 @@ II. Programar, organizar y supervisar el servicio de arrendamiento y eventos pro
 
 III. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 35 BIS.- Corresponde a la Coordinación del Teatro de la Ciudad, el atender por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I. Administrar los recursos humanos, materiales y financieros asignados al Teatro de la Ciudad;
+
+II. Programar, organizar y supervisar el servicio de arrendamiento y eventos propios del ICBC, en el Teatro de la Ciudad.
+
+III. Realizar las acciones administrativas de ingresos del Teatro de la Ciudad; y
+
+IV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+
 #### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO CULTURAL
 
 ###### ARTÍCULO 36.
@@ -535,13 +605,15 @@ VII. Realizar actos de reconocimiento a todos aquellos bajacalifornianos destaca
 
 VIII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 37.
 
-Para el cumplimiento de sus atribuciones, la Dirección de Desarrollo Cultural contará con las siguientes unidades administrativas:
+Para el cumplimiento de sus atribuciones, la Dirección de Desarrollo Cultural (sic) con las siguientes unidades administrativas:
 
 I. Coordinación de la Red Estatal de Bibliotecas;
 
-II. Coordinación de Fondos;
+II. (DEROGADA, P.O. 22 DE FEBRERO DE 2019)
 
 III. Departamento de Vinculación Cultural;
 
@@ -553,7 +625,13 @@ VI. Coordinación de Desarrollo Cultural Mexicali;
 
 VII. Coordinación de la Biblioteca Pública Central Estatal; y
 
-VIII. Coordinación Estatal de Talentos Artísticos.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+VIII. Coordinación de Biblioteca Pública Regional Benito Juárez; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
+
+IX. Coordinación Estatal de Talentos Artísticos.
 
 ###### ARTÍCULO 38.
 
@@ -561,7 +639,9 @@ Corresponde a la Coordinación de la Red Estatal de Bibliotecas, por conducto de
 
 I. Fungir como enlace entre la federación y los municipios, para la supervisión de la operación de los servicios bibliotecarios de la Red Estatal y el debido mantenimiento de los edificios, mobiliarios, equipo, instrumentos y acervos bibliográficos;
 
-II. Organizar, administrar y promover, en colaboración con el Consejo Nacional para la Cultura y las Artes, por conducto de la Dirección General de Bibliotecas Públicas, el enriquecimiento sistemático del acervo de la Red Estatal de Bibliotecas Públicas;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+II. Organizar, administrar y promover, en colaboración con la Secretaría de Cultura, por conducto de la Dirección General de Bibliotecas Públicas, el enriquecimiento sistemático del acervo de la Red Estatal de Bibliotecas Públicas.
 
 III. Mantener las bibliotecas de la Red Estatal vinculadas a la Red Nacional, así como al Manifiesto de la UNESCO sobre la Biblioteca Pública 1994, que establece el significado, finalidad, financiamiento, legislación, redes, funcionamiento y administración de la biblioteca pública;
 
@@ -571,19 +651,7 @@ V. Las demás relativas a la competencia de su área y que sean indispensables p
 
 ###### ARTÍCULO 39.
 
-Corresponde a la Coordinación de Fondos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Realizar las gestiones correspondientes para la constitución del Fondo Especial para la Cultura y las Artes de Baja California, entre el Consejo Nacional para la Cultura y las Artes y el ICBC;
-
-II. Llevar a cabo la operación, seguimiento y evaluación del Programa de Estímulos a la Creación y Desarrollo Artístico, de acuerdo a los lineamientos establecidos por el Consejo Nacional para la Cultura y las Artes, por conducto de la Dirección General de Vinculación Cultural y, el ICBC;
-
-III. Realizar ante el Consejo Nacional para la Cultura y las Artes, a través de la Dirección General de Vinculación Cultural, los trámites administrativos que le competen al ICBC, como miembro del Fondo Regional para la Cultura y las Artes;
-
-IV. Llevar a cabo la operación, seguimiento y evaluación del Programa de Apoyo a las Culturas Municipales y Comunitarias, de acuerdo a los lineamientos establecidos por el Consejo Nacional para la Cultura y las Artes, por conducto de la Dirección General de Culturas Populares e Indígenas y, el ICBC;
-
-V. Llevar a cabo el seguimiento y evaluación del Programa de Desarrollo Cultural Infantil y Programa de Fomento a la lectura, de acuerdo a los lineamientos establecidos por el Consejo Nacional para la Cultura y las Artes, a través de la Dirección de Desarrollo de Cultura Infantil y la Dirección General de Publicaciones y, el ICBC; y
-
-VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 40.
 
@@ -639,13 +707,19 @@ IV. Realizar y dar seguimiento a las acciones que se generan con motivo del desa
 
 V. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-Corresponde a la Coordinación de la Biblioteca Pública Central Estatal, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación de la Biblioteca Pública Central Estatal y a la Coordinación de la Biblioteca Pública Regional Benito Juárez, por conducto de sus titulares, el ejercicio de las siguientes atribuciones:
 
-I. Administrar los recursos humanos, materiales y financieros asignados a la Biblioteca Pública Central Estatal;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
 
-II. Vigilar la aplicación de la normatividad emitida por la Dirección General de Bibliotecas Públicas del Consejo Nacional para la Cultura y las Artes, en la realización de los servicios bibliotecarios; y
+I. Administrar los recursos humanos, materiales y financieros asignados;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+II. Vigilar la aplicación de la normatividad emitida por la Dirección General de Bibliotecas Públicas de la Secretaría de Cultura, en la realización de los servicios bibliotecarios, y
 
 III. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
@@ -675,9 +749,17 @@ III. Coordinar la integración de los estados financieros mensuales para consoli
 
 IV. Vigilar el cumplimiento de las normas, políticas y lineamientos que sobre la administración y control de los recursos humanos, materiales y financieros, establezcan las dependencias normativas del Gobierno del Estado y la Junta de Gobierno;
 
-V. Ejecutar las acciones autorizadas por el Director General para el manejo eficiente de los recursos humanos, materiales, económicos y sistemas administrativos asignados y/o establecidos para la operación del ICBC; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
 
-VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+V. Ejecutar las acciones autorizadas por el Director General para el manejo eficiente de los recursos humanos, materiales, económicos y sistemas administrativos asignados y/o establecidos para la operación del ICBC;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+VI. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
+
+VII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
 ###### ARTÍCULO 47.
 
@@ -781,6 +863,14 @@ II. Coordinación del Centro Estatal de las Artes Ensenada; y
 
 III. Coordinación del Centro Estatal de las Artes Tijuana.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
+
+IV. Coordinación del Centro Estatal de las Artes Tecate; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
+
+V. Coordinación del Centro Estatal de las Artes Playas de Rosarito.
+
 ###### ARTÍCULO 54.
 
 Corresponde al Departamento de Desarrollo Académico, por conducto de su titular, el ejercicio de las siguientes atribuciones:
@@ -791,17 +881,25 @@ II. Dar seguimiento y evaluación del Programa de Capacitación Cultural;
 
 III. Sistematizar en una base datos toda la información derivada del Programa de Capacitación Cultural;
 
-IV. Llevar a cabo la operación y seguimiento del Programa de Capacitación Cultural, de acuerdo a los lineamientos establecidos por el Consejo Nacional para la Cultura y las Artes, y el ICBC; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+IV. Llevar a cabo la operación y seguimiento del Programa de Capacitación Cultural, de acuerdo a los lineamientos establecidos por la Secretaría de Cultura y el ICBC; y
 
 V. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 55.
 
-Corresponde a las Coordinaciones del Centro Estatal de las Artes en Ensenada y Tijuana, por conducto de sus titulares, el ejercicio de las siguientes atribuciones:
+Corresponde a las Coordinaciones de los Centros Estatales de las Artes en Ensenada, Tijuana, Tecate, y Playas de Rosarito por conducto de sus titulares, el ejercicio de las siguientes atribuciones:
 
-I. Administrar los recursos humanos, materiales, financieros y fondos bajo su responsabilidad, para la realización de las actividades de la Coordinación del Centro Estatal de las Artes, respectiva;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
 
-II. Desarrollar, dirigir y promover los programas del área establecidos en las diferentes disciplinas artísticas;
+I.- Desarrollar bajo la coordinación del Director del Centro Estatal de las Artes y la autorización del Director General del ICBC programas para cada una de las áreas del Centro a su cargo en las diversas disciplinas artísticas;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+II.- Administrar los recursos humanos, materiales, financieros y fondos bajo su responsabilidad, para la realización de las actividades del Centro Estatal de las Artes respectivo;
 
 III. Otorgar un servicio permanente de capacitación dirigido a los artistas, maestros, gestores y promotores culturales que mejore la calidad del ejercicio profesional; y
 
@@ -809,59 +907,47 @@ IV. Las demás relativas a la competencia de su área y que sean indispensables 
 
 #### SECCIÓN VI. DE LAS REPRESENTACIONES
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 56.
 
-Para la mejor atención y eficiente despacho de los asuntos del ICBC, éste contará con representaciones en las ciudades de Tijuana, Ensenada, Tecate y San Quintín.
+Para la mejor atención y eficiente despacho de los asuntos del ICBC, éste contará con Representaciones en las ciudades de Tijuana, Ensenada, Tecate, Playas de Rosarito, así como en San Quintín.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2019)</small>
 
 ###### ARTÍCULO 57.
 
-Corresponde a la Representación Metropolitana Tijuana, y a las Representaciones Ensenada, Tecate y San Quintín, por conducto de sus titulares, el ejercicio de las siguientes atribuciones:
+Corresponde a las Representaciones de Tijuana, Ensenada, Tecate, Playas de Rosarito y San Quintín, por conducto de sus titulares, el ejercicio de las siguientes atribuciones:
 
-I. Elaborar los programas que satisfagan las necesidades de convivencia, participación e integración social de la comunidad en general, presentándolos a la aprobación del Director General;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+I. Elaborar los programas que satisfagan las necesidades de convivencia, participación e integración social de la comunidad en general en acciones de promoción y desarrollo cultural, presentándolos para la aprobación del Director General;
 
 II. Coordinar la programación de eventos, espectáculos y exposiciones de teatro, danza, música, artes plásticas, literatura, cursos y talleres de capacitación que permitan el desarrollo individual y de grupos de los diversos sectores de la comunidad en los foros o centros culturales de la circunscripción territorial correspondiente;
 
 III. Diseñar estrategias de difusión para lograr la participación permanente de la comunidad en las actividades y proceso cultural;
 
-IV. Coordinar las actividades de relaciones públicas del ICBC, de acuerdo a los objetivos y programas señalados por la Dirección General; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+IV. Coordinar las actividades de relaciones públicas del ICBC, de acuerdo a los objetivos y programas que establezca la Dirección General, y
 
 V. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
 ###### ARTÍCULO 58.
 
-La Representación Metropolitana Tijuana, para la mejor distribución y despacho de los asuntos de su competencia, contará con la Coordinación Playas de Rosarito.
-
-Corresponde a la Coordinación Playas de Rosarito, por conducto de su titular, el ejercicio de las atribuciones previstas en el artículo 57 de este Reglamento.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 59.
 
-La Representación Ensenada, para la mejor distribución y despacho de los asuntos de su competencia, contará con las siguientes unidades administrativas:
-
-I. Coordinación del Teatro de la Ciudad; y
-
-II. Coordinación de la Biblioteca Pública Regional Benito Juárez.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 60.
 
-Corresponde a la Coordinación del Teatro de la Ciudad, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Administrar los recursos humanos, materiales y financieros asignados al Teatro de la Ciudad;
-
-II. Programar, organizar y supervisar el servicio de arrendamiento y eventos propios del ICBC, en el Teatro de la Ciudad;
-
-III. Realizar las acciones administrativas de ingresos del Teatro de la Ciudad; y
-
-IV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2019)
 
 ###### ARTÍCULO 61.
 
-Corresponde a la Coordinación de la Biblioteca Pública Regional Benito Juárez, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Administrar los recursos humanos, materiales y financieros asignados a la Biblioteca Pública Regional Benito Juárez;
-
-II. Vigilar la aplicación de la normatividad emitida por la Dirección General de Bibliotecas Públicas del Consejo Nacional para la Cultura y las Artes, en la realización de los servicios bibliotecarios; y
-
-III. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2019)
 
 ### CAPÍTULO VI. DEL CONSEJO CONSULTIVO
 
@@ -1091,11 +1177,19 @@ IV. Las demás que le señale el Patronato para el cumplimiento de sus atribucio
 
 Los integrantes del Patronato podrán ser designados por un segundo período por la Junta de Gobierno, a propuesta del Director General.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE FEBRERO DE 2019, PÁGINA 13.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO VII (SIC). DE LAS SUPLENCIAS
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+ARTÍCULO 86 BIS (SIC).- Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
-###### ARTÍCULO 86.
-
-Las ausencias temporales del Director General que no excedan de quince días, serán suplidas por el titular de la Dirección de Administración, y en aquellas que excedan del plazo antes citado, su suplente será designado por el Presidente de la Junta de Gobierno.
+ARTÍCULO 86 (SIC).- Las ausencias temporales del Director General que no excedan de quince días, serán suplidas por el titular de la Dirección de Administración, y en aquellas que excedan del plazo antes citado, su suplente será designado por el Presidente de la Junta de Gobierno.
 
 ###### ARTÍCULO 87.
 
@@ -1130,3 +1224,19 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 19 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO INTERNO DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El ICBC, deberá adoptar las medidas administrativas necesarias o de cualquier naturaleza que se requieran, para la implementación de las reformas aquí establecidas y en un plazo máximo de 90 días deberá expedir los manuales administrativos correspondientes.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+CUARTO.- Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autorice los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 29 BIS de la presente reforma, lo cual no podrá excederse del mes de marzo del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del primer trimestre del ejercicio fiscal 2019.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el mes de marzo de 2019.
