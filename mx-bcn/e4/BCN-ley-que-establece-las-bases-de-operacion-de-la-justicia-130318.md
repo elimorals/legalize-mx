@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-establece-las-bases-de-operacion-de-la-justicia-130318"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-20"
-last_updated: "2018-07-20"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE FEBRERO DE 2019.]</small>
 
 Ley publicada en la Sección IV al Número 34 del Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 2018.
 
@@ -47,19 +47,13 @@ LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ES
 
 Esta ley es de orden público y de interés general, tiene como objeto establecer las bases de operación del programa de justicia terapéutica en Baja California, con la participación del Poder Judicial, Secretaria de Salud, Procuraduría General de Justicia, Secretaria de Seguridad Pública, Defensoría Pública, Ayuntamientos del Estado y Organismos de la Sociedad Civil.
 
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
 El Programa de Justicia Terapéutica tiene como objeto aplicarse como una de las alternativas dentro del sistema de justicia penal encaminado a las personas que han cometido algún delito y padezcan de un trastorno por consumo de sustancias psicoactivas, y se haya identificado dicho trastorno como factor de riesgo para la comisión del delito, canalizando a la persona obligada a un tratamiento de rehabilitación para asegurar su reinserción social y evitar su reincidencia.
 
-> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO SON IDÉNTICOS.]</small>
-
-Serán de aplicación supletoria a las disposiciones de esta Ley, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal, la Ley Nacional de (sic) del Sistema Integral de Justicia Penal para Adolescentes y la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
-
-> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO SON IDÉNTICOS.]</small>
-
-Serán de aplicación supletoria a las disposiciones de esta Ley, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal, la Ley Nacional de (sic) del Sistema Integral de Justicia Penal para Adolescentes y la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
-
-> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO SON IDÉNTICOS.]</small>
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
 
 Serán de aplicación supletoria a las disposiciones de esta Ley, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal, la Ley Nacional de (sic) del Sistema Integral de Justicia Penal para Adolescentes y la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
@@ -327,11 +321,15 @@ V. La evaluación y seguimiento.
 
 El Estado y los municipios, en sus respectivas competencias y en la medida de sus posibilidades, deberán contar con Centros de Tratamiento. El Programa debe ser proporcionado preferentemente por Centros de Tratamiento sin costo para la persona obligada. Se aplicará con respeto de los derechos humanos, siguiendo los estándares de profesionalismo y de ética médica en la prestación de servicios de salud y cuidando la integridad física y mental de las personas obligadas.
 
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-El Centro de Tratamiento en auxilio de los equipos multidisciplinarios y de la Secretaria de Salud tendrá las siguientes obligaciones:
+El Centro de Tratamiento en auxilio de los equipos multidisciplinarios y de la Secretaría de Salud tendrá las siguientes obligaciones:
 
-I. Coadyuvar en el desarrollo de la evaluación de diagnóstica inicial, que incluya los trastornos por dependencia en el consumo de sustancias;
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
+I. Coadyuvar en el desarrollo de la evaluación de diagnóstico inicial, que incluya los trastornos por dependencia en el consumo de sustancias;
 
 II. Efectuar las pruebas de toxicología respectivas;
 
@@ -381,7 +379,11 @@ El Ministerio Público o el Juez, una vez que cuente con la Evaluación Diagnós
 
 El Ministerio Público o el Juez admitirán el ingreso al Programa de la persona candidata, señalando fecha y hora para la celebración de la audiencia inicial en donde se le presentara a la persona obligada el Programa de Tratamiento Individualizado.
 
-ARTÍCULO 27 (SIC).- En la audiencia inicial el Ministerio Público o el Juez deben:
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
+###### ARTÍCULO 26.
+
+En la audiencia inicial el Ministerio Público o el Juez deben:
 
 I. Precisar los antecedentes del caso, así como el cumplimiento de los requisitos de elegibilidad y de admisión;
 
@@ -403,9 +405,11 @@ Las audiencias de seguimiento, tienen por objeto que el Ministerio Público o el
 
 En estas audiencias participarán la persona obligada y los integrantes del equipo multidisciplinario.
 
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-El Juez pueden (sic) llevar a cabo audiencias especiales, fuera de las audiencias de seguimiento, a estas audiencias asistirán la persona obligada y el equipo multidisciplinario.
+El Juez puede llevar a cabo audiencias especiales, fuera de las audiencias de seguimiento, a estas audiencias asistirán la persona obligada y el equipo multidisciplinario.
 
 Se consideran audiencias especiales las siguientes:
 
