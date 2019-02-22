@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2018-11-30"
+last_updated: "2019-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "BCN"
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL ARTÍCULO CUARTO DEL DECRETO NÚMERO 237 PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2018.]</small>
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
