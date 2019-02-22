@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2018-08-27"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -603,6 +603,10 @@ V.- A los ciudadanos michoacanos, de conformidad con los procedimientos y formal
 
 Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
+En caso de que exista una crisis evidente en temas de derechos humanos, el Gobernador podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 37.
@@ -913,13 +917,17 @@ XXXVII.- Aprobar la licencia o renuncia del Fiscal General del Estado;
 
 XXXVIII.- Remover al Fiscal General del Estado mediante el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
 
-XXXIX.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
+XXXIX.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+XL. Dictaminar de manera prioritaria y con carácter de preferente las leyes o reformas que envíe el Gobernador, en el supuesto de crisis evidente de derechos humanos; y,
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2018)</small>
 
-XL.- Las demás que le confiera expresamente esta Constitución.
+XLI.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -3858,6 +3866,18 @@ P.O. 27 DE AGOSTO DE 2018.
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 632 POR EL QUE "SE ADICIONA UN PÁRRAFO AL ARTÍCULO 36 Y SE ADICIONA LA FRACCIÓN XL RECORRIENDO EN LO SUBSECUENTE EN SU ORDEN AL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
