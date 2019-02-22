@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2018-11-30"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -231,6 +231,10 @@ III.- Emitir opinión respecto de las zonas y funcionamiento de los establecimie
 
 IV.- Proponer políticas para la autorización de permisos y horarios extraordinarios, en las diferentes zonas en que funcionen establecimientos autorizados para realizar las actividades.
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+V.- Proponer un Plan Anual de Vigilancia para que en lo relativo a la comercialización al público de bebidas alcohólicas en envase abierto, para consumo directo en los establecimientos o giros autorizados para ello, no se establezcan costos que alienten a la población al consumo inmoderado y evitar de manera preventiva accidentes provocados por conductores en estado de ebriedad.
+
 ###### ARTÍCULO 8.
 
 De la integración del consejo consultivo.- La integración del consejo consultivo será mayoritariamente ciudadano, con la participación de organismos no gubernamentales legalmente constituidos, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, con representantes de organismos que agrupen a permisionarios y un representante de la autoridad municipal correspondiente. Su conformación se realizará mediante convocatoria pública que emita el Ayuntamiento y el nombramiento de consejero tendrá el carácter de honorífico, debiendo durar en el cargo un período no mayor que el del ayuntamiento de que se trate.
@@ -354,6 +358,10 @@ VI.- Colaborar dentro de sus establecimientos con campañas sanitarias y de segu
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
 
 VII.- Difundir dentro de sus establecimientos los programas implementados por las autoridades correspondientes en materia de salud, seguridad pública y prevención de ingestión excesiva.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+VIII.- Adoptar y mantener las medidas necesarias, para que en los establecimientos donde se realiza la venta de bebidas alcohólicas al público en envase abierto no se establezcan precios en promociones que alienten a la población al consumo inmoderado.
 
 ### CAPÍTULO QUINTO. RESTRICCIONES Y PROHIBICIONES
 
@@ -684,3 +692,23 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 316 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 7 Y UNA FRACCIÓN VIII AL ARTÍCULO 18 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma de Ley entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios del Estado que no tengan a la fecha de publicación de la presente reforma conformado el Consejo Consultivo Municipal que hace mención la Ley en su Capitulo Segundo, articulo 7, tendrán la obligación de instalar dicho Consejo en un plazo fatal de 15 días hábiles contados a partir de la publicación de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Los Consejos Consultivos Municipales ya instalados a la fecha de publicación de la presente reforma contaran con un plazo fatal de 15 días hábiles, contados a partir del día siguiente de la publicación de la presente reforma, para presentar al Municipio el Plan Anual de Vigilancia propuesto en el artículo 7, fracción V de la Ley en mención. Los Municipios que no tengan instalado su Consejo Consultivo Municipal, una vez aplicado el artículo segundo transitorio de la presente reforma, ya instalado el Consejo contaran con un plazo fatal de 15 días hábiles
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades Estatales y Municipales, en el ámbito de su competencia, tendrán la obligación de brindar la atención y dar continuidad al Plan anual de Vigilancia propuesto por los Consejos Consultivos Municipales.
