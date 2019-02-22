@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2017-11-10"
+last_updated: "2019-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -377,9 +377,11 @@ Cuando una institución otorgue atención a una persona adulta mayor, examinará
 
 ### CAPÍTULO IV. DE LOS DEBERES DE LA FAMILIA
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 27.
 
-Se reconoce a la familia como la institución fundamental en la que debe tener lugar la protección y desarrollo de la persona adulta mayor, y que deberá cumplir su función social, por lo tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral.
+Se reconoce a la familia como la institución fundamental en la que debe tener lugar la protección y desarrollo de la persona adulta mayor, así como procurar su bienestar emocional y que deberá cumplir su función social, por lo tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral.
 
 ###### Artículo 28.
 
@@ -447,11 +449,15 @@ Las políticas públicas que formulen el Ejecutivo Estatal, a través de las dep
 
 I. Vigilar y garantizar la defensa y el pleno ejercicio de sus derechos.
 
-II. Propiciar las condiciones para generar un mayor bienestar físico y mental de las personas adultas mayores, a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+II.- Propiciar las condiciones para generar un mayor bienestar físico, psicoemocional y mental de las personas adultas mayores, a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad;
 
 III. Establecer las bases para la planeación e implementación de acciones de manera integral entre las distintas dependencias del Ejecutivo Estatal y los Ayuntamientos, para lograr un funcionamiento coordinado entre los distintos programas que se formulen y sean acordes con la problemática y necesidades de las personas adultas mayores;
 
-IV. Fomentar en la sociedad una cultura de aprecio a las personas adultas mayores para lograr una revalorización de sus capacidades y de lo que puede aportar a la sociedad, y así procurar una mayor sensibilidad de conciencia social, respeto, y convivencia, evitando toda forma de discriminación y olvido por motivo de su edad;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+
+IV.- Fomentar en la sociedad una cultura de aprecio a las personas adultas mayores para lograr una revalorización de sus capacidades y de lo que puede aportar a la sociedad, y así procurar una mayor sensibilidad de conciencia social, respeto, y convivencia, evitando toda forma de discriminación, violencia, explotación, aislamiento, abandono, engaño, y olvido por motivo de su edad;
 
 V. Impulsar acciones y medidas compensatorias dirigidas a que las personas adultas mayores se integren a la sociedad en materias de salud, educación, laboral, deporte, accesibilidad, cultural y recreativas.
 
@@ -954,3 +960,9 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 130 MEDIANTE EL CUAL SE APRUEBA LA REFORMA Y ADICIÓN DE LA FRACCIÓN XV AL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 317 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27 Y 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
