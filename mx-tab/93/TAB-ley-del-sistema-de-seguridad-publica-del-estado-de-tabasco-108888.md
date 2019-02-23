@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-de-seguridad-publica-del-estado-de-tabasco-1088
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-27"
-last_updated: "2018-11-17"
+last_updated: "2019-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de junio del 2015.
 
@@ -195,9 +195,13 @@ XXIV. Registro Estatal de Personal: el Registro Estatal de Personal de Seguridad
 
 XXV. Registro Nacional de Personal: el Registro Nacional de Personal de Seguridad Pública;
 
-XXVI. Secretaría de Seguridad Pública: la Secretaría de Seguridad Pública del Gobierno del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
 
-XXVII. Secretario: El Secretario de Seguridad Pública del Gobierno del Estado de Tabasco;
+XXVI. Secretaría: La Secretaría de Seguridad y Protección Ciudadana del Gobierno del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+XXVII. Secretario: El Secretario de Seguridad y Protección Ciudadana del Gobierno del Estado de Tabasco;
 
 XXVIII. Secretariado Ejecutivo: el Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado de Tabasco;
 
@@ -221,7 +225,9 @@ En el marco del Sistema Estatal, los Gobiernos estatal y municipales garantizar�
 
 Función de seguridad pública
 
-De conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, la función de seguridad pública se realizará, en los diversos ámbitos de competencia, por conducto de la Secretaría de Seguridad Pública; de la Fiscalía General; de las instituciones policiales; de los ayuntamientos municipales; de las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y la ejecución de penas; de las autoridades competentes en materia de justicia para adolescentes; de las instancias encargadas de aplicar las infracciones administrativas, así como de las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+De conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, la función de seguridad pública se realizará, en los diversos ámbitos de competencia, por conducto de la Secretaría; de la Fiscalía General; de las instituciones policiales; de los ayuntamientos municipales; de las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y la ejecución de penas; de las autoridades competentes en materia de justicia para adolescentes; de las instancias encargadas de aplicar las infracciones administrativas, así como de las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
 
 ###### Artículo 5.
 
@@ -377,7 +383,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Gobierno;
 
-III. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+III. El Secretario;
 
 IV. El Coordinador General de Asuntos Jurídicos;
 
@@ -693,7 +701,7 @@ El Secretariado Ejecutivo llevará y actualizará permanentemente un Registro Es
 
 ## TÍTULO TERCERO. AUTORIDADES EN MATERIA DE SEGURIDAD PÚBLICA Y SUS ATRIBUCIONES
 
-### CAPÍTULO II. ATRIBUCIONES DEL GOBERNADOR Y DEL SECRETARIO DE SEGURIDAD PÚBLICA
+### CAPÍTULO II. ATRIBUCIONES DEL GOBERNADOR Y DEL SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
 ###### Artículo 37.
 
@@ -703,7 +711,9 @@ Son autoridades estatales en materia de seguridad pública para la aplicación d
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+II. El Secretario;
 
 III. El Fiscal General del Estado;
 
@@ -713,15 +723,21 @@ V. Las unidades especializadas y los integrantes de las instituciones y cuerpos 
 
 El Fiscal General del Estado, como parte integrante del Sistema Estatal, se regirá, en cuanto a sus facultades y atribuciones, conforme al artículo 54 Ter de la Constitución Local, la Ley Orgánica de la Fiscalía General del Estado de Tabasco, a su normatividad interna, ésta Ley y demás ordenamientos aplicables.
 
-### CAPÍTULO III. AUTORIDADES MUNICIPALES
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO II BIS. DE LAS UNIDADES ESPECIALIZADAS
 
 ###### Artículo 38.
 
 Atribuciones del Gobernador
 
-Son atribuciones del Gobernador del Estado en materia de Seguridad Pública, quien las ejercerá directamente o a través del Secretario de Seguridad Pública, en su caso, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2019)</small>
 
-I. Ejercer el mando de la Policía Estatal, por conducto del Secretario de Seguridad Pública y del Comisionado, en los términos de la Constitución Local y las demás leyes generales y locales aplicables, a fin de salvaguardar la integridad y los derechos de las personas, y preservar las libertades, el orden y la paz pública en el territorio del Estado;
+Son atribuciones del Gobernador del Estado en materia de Seguridad Pública, quien las ejercerá directamente o a través del Secretario, en su caso, las siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+I. Ejercer el mando de la Policía Estatal, por conducto del Secretario y del Comisionado, en los términos de la Constitución Local y las demás leyes generales y locales aplicables, a fin de salvaguardar la integridad y los derechos de las personas, y preservar las libertades, el orden y la paz pública en el territorio del Estado;
 
 II. Celebrar convenios o acuerdos con la Federación, el Distrito Federal, los Estados y los Municipios, en términos de la Ley General y demás disposiciones aplicables;
 
@@ -741,13 +757,19 @@ IX. Establecer, ejecutar y coordinar las acciones necesarias que se realicen en 
 
 X. Las demás que le confieran la Constitución Federal, la Constitución Local, esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 39.
 
-Atribuciones del Secretario de Seguridad Pública
+Atribuciones del Secretario
 
-Además de las señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y demás ordenamientos aplicables, son atribuciones del Secretario de Seguridad Pública, que las ejercerá directamente o por conducto de sus subordinados, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2019)</small>
 
-I. Ejercer la máxima autoridad y mando en la Secretaría de Seguridad Pública, bajo las órdenes del Gobernador del Estado; en los términos de esta Ley y demás disposiciones jurídicas aplicables, en el ámbito de su competencia; así como ejecutar políticas y programas en materia de seguridad pública en coordinación y colaboración con la Federación, otras entidades federativas y los municipios;
+El Secretario ejercerá sus atribuciones directamente o por conducto de sus subordinados, las cuales además de las señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y demás ordenamientos aplicables, son las siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+I. Ejercer la máxima autoridad y mando en la Secretaría, bajo las órdenes del Gobernador del Estado; en los términos de esta Ley y demás disposiciones jurídicas aplicables, en el ámbito de su competencia; así como ejecutar políticas y programas en materia de seguridad pública en coordinación y colaboración con la Federación, otras entidades federativas y los municipios;
 
 II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, así como la integridad física de las personas y sus bienes; prevenir la comisión de delitos e infracciones administrativas; auxiliar a las autoridades competentes, cuando así lo soliciten o se requiera, en la investigación y persecución de los delitos; y concurrir, en términos de la ley, con las autoridades competentes, en casos de siniestro o desastre;
 
@@ -763,7 +785,9 @@ VII. Representar al gobierno estatal en las comisiones de Seguridad Pública que
 
 VIII. Proponer al Gobernador del Estado el nombramiento y, en su caso, remoción del Comisionado;
 
-IX. Acordar con el Gobernador del Estado, para su aprobación, los nombramientos y remociones de los titulares de las distintas unidades operativas y administrativas de la Secretaría de Seguridad Pública, respetando su grado policial y derechos inherentes al Servicio de Carrera Policial, en su caso;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+IX. Acordar con el Gobernador del Estado, para su aprobación, los nombramientos y remociones de los titulares de las distintas unidades operativas y administrativas de la Secretaría, respetando su grado policial y derechos inherentes al Servicio de Carrera Policial, en su caso;
 
 X. Instrumentar y aplicar el Programa Rector, conforme a las disposiciones legales relativas;
 
@@ -771,7 +795,9 @@ XI. Promover la formación, capacitación, profesionalización, actualización, 
 
 XII. Evaluar el funcionamiento de la Policía Estatal;
 
-XIII. Supervisar el funcionamiento de la Policía Auxiliar y la Bancaria, Industrial y Comercial como órganos auxiliares de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+XIII. Supervisar el funcionamiento de la Policía Auxiliar y la Bancaria, Industrial y Comercial como órgano auxiliar de la Secretaría;
 
 XIV. Autorizar, controlar y vigilar el funcionamiento de los servicios de seguridad privada, conforme a lo establecido en esta Ley, el Reglamento correspondiente y demás disposiciones aplicables;
 
@@ -823,17 +849,27 @@ XXXVII. Promover la homologación de los mecanismos, sistemas y procedimientos d
 
 XXXVIII. Diseñar mecanismos que incentiven la participación de la iniciativa privada para generar actividades económicas para los internos, que les permita obtener un ingreso para su manutención y la de sus familias;
 
-XXXIX. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional del Sistema Penitenciario; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+XXXIX. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional del Sistema Penitenciario;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+XXXIX Bis. Identificar y combatir las estructuras patrimoniales, financieras y económicas de la delincuencia mediante la prevención y combate del fenómeno delictivo; y
 
 XL. Las demás que establezcan la Constitución Local, la Ley Orgánica del Poder Ejecutivo, esta Ley y otros ordenamientos en la materia.
 
-### CAPÍTULO IV. ATRIBUCIONES DE LAS AUTORIDADES MUNICIPALES
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+### CAPÍTULO III. AUTORIDADES MUNICIPALES
 
 ###### Artículo 40.
 
 Unidad de Servicios Auxiliares para Medidas Cautelares
 
-La Unidad de Servicios Auxiliares para Medidas Cautelares es la autoridad estatal especializada para la supervisión de medidas cautelares y de la suspensión condicional del proceso, conforme a lo señalado en el Código Nacional de Procedimientos Penales. Estará adscrita a la Secretaría de Seguridad Pública y contará con la estructura, personal y equipamiento necesarios para su adecuada operación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2019)</small>
+
+La Unidad de Servicios Auxiliares para Medidas Cautelares es la autoridad estatal especializada para la supervisión de medidas cautelares y de la suspensión condicional del proceso, conforme a lo señalado en el Código Nacional. Estará adscrita a la Secretaría y contará con la estructura, personal y equipamiento necesarios para su adecuada operación.
 
 La Unidad de Servicios Auxiliares para Medidas Cautelares tiene por objeto proporcionar a los órganos judiciales competentes la información necesaria para decidir sobre la necesidad de imponer, modificar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales; así como supervisar el debido cumplimiento de las medidas cautelares en libertad por parte de los imputados sujetos a ellas; y el seguimiento de las condiciones impuestas en la suspensión condicional del proceso.
 
@@ -849,7 +885,23 @@ Auxilio en materia de protección civil
 
 En casos de emergencia o de desastre en el Estado o los municipios, todas las instituciones y los cuerpos de seguridad pública y de protección civil se coordinarán y actuarán conjuntamente en el marco del Sistema Estatal de Protección Civil, conforme a lo establecido en la Ley de Protección Civil del Estado de Tabasco, con el objeto de aprovechar de manera más eficiente los recursos humanos y materiales para el auxilio de la población.
 
-### CAPÍTULO I. GENERALIDADES
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+###### Artículo 41 Bis.
+
+La Unidad de Inteligencia Patrimonial y Económica es un órgano desconcentrado con autonomía técnica y funcional, de la Secretaría. Se organizará y funcionará conforme a su reglamento y a esta Ley, teniendo por objeto recabar, generar, analizar, consolidar y diseminar información patrimonial, financiera y económica para la prevención, identificación, combate al delito de Operaciones con Recursos de Procedencia Ilícita y los relacionados; así como a las estructuras patrimoniales, financieras y económicas de la delincuencia.
+
+El Titular de la Unidad de Inteligencia Patrimonial y Económica será nombrado y removido libremente por el Gobernador del Estado, y deberá cumplir con los siguientes requisitos el día de su designación:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Tener 25 años como mínimo;
+
+III.- No ser ministro de algún culto religioso; y
+
+IV.- No haber sido condenado por delito doloso que merezca pena corporal.
+
+### CAPÍTULO IV. ATRIBUCIONES DE LAS AUTORIDADES MUNICIPALES
 
 ###### Artículo 42.
 
@@ -873,7 +925,7 @@ Mando operativo municipal
 
 El mando operativo de los Cuerpos de Seguridad Pública Municipales corresponderá originalmente a los Presidentes Municipales en el territorio de sus respectivos Municipios, y a los responsables operativos de Seguridad Pública Municipal, cualquiera que sea la denominación que señalen los ordenamientos respectivos.
 
-### CAPÍTULO II. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LOS CUERPOS POLICIALES
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 44.
 
@@ -951,7 +1003,7 @@ Las Direcciones de Seguridad de Seguridad (sic) Pública Municipal, serán integ
 
 ## TÍTULO PRIMERO. CUERPOS POLICIALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LOS CUERPOS POLICIALES
 
 ###### Artículo 46.
 
@@ -971,7 +1023,9 @@ IV. Los cuerpos de Seguridad Pública municipales.
 
 De la Policía Estatal
 
-La Policía Estatal es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y operativa. Se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Policía Estatal estará un Comisionado quien tendrá el más alto rango y ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2019)</small>
+
+La Policía Estatal es un órgano desconcentrado de la Secretaría, con autonomía técnica y operativa. Se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Policía Estatal estará un Comisionado quien tendrá el más alto rango y ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
 
 La Policía Estatal ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley, con estricto respeto a las que corresponden a las competencias de las instituciones de policía federal y municipal.
 
@@ -1051,7 +1105,9 @@ XXVI. Las demás que le señale esta Ley, otras disposiciones legales y administ
 
 Policía Auxiliar y la Bancaria, Industrial y Comercial
 
-La Policía Auxiliar y la Bancaria Industrial y Comercial serán coordinadas por el Comisionado; su operación, los gastos necesarios para su funcionamiento, así como el pago de salario y demás prestaciones de sus elementos serán financiados por un fondo, que se denominará "Fondo Para la Operación de las Policías Auxiliar y la Bancaria Industrial y Comercial", que el Gobernador del Estado establecerá por conducto de la Secretaría de Planeación y Finanzas, el cual se integrará de los recursos que ingresen por la contratación de los servicios que ambas policías proporcionen.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+La Policía Auxiliar y la Bancaria Industrial y Comercial serán coordinadas por el Comisionado; su operación, los gastos necesarios para su funcionamiento, así como el pago de salario y demás prestaciones de sus elementos serán financiados por un fondo, que se denominará "Fondo Para la Operación de las Policías Auxiliar y la Bancaria Industrial y Comercial", que el Gobernador del Estado establecerá por conducto de la Secretaría de Finanzas, el cual se integrará de los recursos que ingresen por la contratación de los servicios que ambas policías proporcionen.
 
 ###### Artículo 50.
 
@@ -1059,7 +1115,7 @@ De las policías municipales
 
 Los cuerpos de seguridad pública municipales se organizarán y funcionarán de conformidad a esta Ley y las disposiciones reglamentarias y administrativas municipales. Estarán bajo el mando del Presidente Municipal, quien lo ejercerá directamente o por conducto del Director de Seguridad Pública Municipal.
 
-### CAPÍTULO II. SELECCIÓN E INGRESO AL SERVICIO DE CARRERA POLICIAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 51.
 
@@ -1463,7 +1519,7 @@ XVI. Los demás que establezcan otras disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
-### CAPÍTULO III. PERCEPCIÓN ECONÓMICA
+### CAPÍTULO II. SELECCIÓN E INGRESO AL SERVICIO DE CARRERA POLICIAL
 
 ###### Artículo 65.
 
@@ -1607,7 +1663,9 @@ III. El Comisionado de la Policía Estatal;
 
 IV. El Director de la Academia de Policía del Estado;
 
-V. El Director General de Administración de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+V. El Director General de Administración de la Secretaría;
 
 VI. Los Directores de Seguridad Pública Municipal u órgano equivalente de los municipios que designe el Consejo Estatal de Seguridad Pública; y
 
@@ -1655,7 +1713,7 @@ XII. Dictar las medidas necesarias para el despacho pronto y expedito de los asu
 
 XIII. Las demás que le señalen otras disposiciones legales y reglamentarias.
 
-### CAPÍTULO IV. PERMANENCIA
+### CAPÍTULO III. PERCEPCIÓN ECONÓMICA
 
 ###### Artículo 77.
 
@@ -1743,7 +1801,7 @@ Resolución
 
 La corporación policial analizará la solicitud a fin de determinar si el interesado reúne los requisitos previstos y, en caso afirmativo, someterá a la consideración de la Comisión del Servicio Profesional de Carrera Policial, respectiva, la solicitud de reingreso junto con el expediente relativo. La misma Comisión resolverá sobre las solicitudes de reingreso. La resolución de la Comisión no admitirá recurso alguno.
 
-### CAPÍTULO V. ANTIGÜEDAD
+### CAPÍTULO IV. PERMANENCIA
 
 ###### Artículo 84.
 
@@ -1777,7 +1835,7 @@ III. Créditos hipotecarios y de corto plazo; y
 
 IV. Becas educativas para los propios Integrantes.
 
-### CAPÍTULO VI. PROMOCIONES Y ASCENSOS
+### CAPÍTULO V. ANTIGÜEDAD
 
 ###### Artículo 88.
 
@@ -1829,7 +1887,7 @@ La evaluación del desempeño es el proceso mediante el cual se mide periódicam
 
 Las Comisiones, así como el superior jerárquico, aplicarán la evaluación del desempeño, con la periodicidad y conforme a los procedimientos, criterios, indicadores de desempeño y demás elementos que establezca el Reglamento respectivo, así como la normatividad correspondiente.
 
-### CAPÍTULO VII. PROFESIONALIZACIÓN
+### CAPÍTULO VI. PROMOCIONES Y ASCENSOS
 
 ###### Artículo 92.
 
@@ -1845,7 +1903,7 @@ La antigüedad contará hasta el momento en que la misma deba determinarse para 
 
 La antigüedad se interrumpirá en los casos y términos que prevén esta Ley y las demás disposiciones aplicables.
 
-### CAPÍTULO VIII. RÉGIMEN DE RECONOCIMIENTOS Y ESTÍMULOS
+### CAPÍTULO VII. PROFESIONALIZACIÓN
 
 ###### Artículo 93.
 
@@ -1881,7 +1939,7 @@ VII. Cumplir los demás requisitos que de manera específica establecen la prese
 
 Para el ascenso deberán considerarse, por lo menos, la categoría en el Servicio de Carrera Policial, los resultados obtenidos en los programas de profesionalización, conocimientos, experiencia, antigüedad y méritos demostrados en el servicio, así como las aptitudes de mando y liderazgo.
 
-### CAPÍTULO IX. SEPARACIÓN
+### CAPÍTULO VIII. RÉGIMEN DE RECONOCIMIENTOS Y ESTÍMULOS
 
 ###### Artículo 95.
 
@@ -1901,7 +1959,7 @@ Obligatoriedad
 
 La profesionalización será el elemento fundamental para el otorgamiento de los ascensos y condición obligatoria para todos los policías, con la finalidad de que cuenten con los conocimientos, aptitudes y destrezas para desempeñar sus funciones con calidad y eficiencia, acorde a las funciones que realicen.
 
-### CAPÍTULO X. RÉGIMEN DISCIPLINARIO DE LAS CORPORACIONES POLICIALES
+### CAPÍTULO IX. SEPARACIÓN
 
 ###### Artículo 98.
 
@@ -1925,7 +1983,7 @@ Criterios para el otorgamiento
 
 La Comisión del Servicio Profesional de Carrera de la institución respectiva establecerá, conforme al Reglamento, los criterios y pautas para el otorgamiento de reconocimientos y estímulos a los policías.
 
-### CAPÍTULO XI. ARRESTO
+### CAPÍTULO X. RÉGIMEN DISCIPLINARIO DE LAS CORPORACIONES POLICIALES
 
 ###### Artículo 101.
 
@@ -1963,7 +2021,7 @@ III. Por haber sido removido, por incurrir en responsabilidad en el desempeño d
 
 IV. Haber causado baja por renuncia, jubilación, retiro anticipado, incapacidad permanente o muerte.
 
-### CAPÍTULO XII. INTEGRACIÓN Y ATRIBUCIONES DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL Y COMISIONES DE HONOR Y JUSTICIA, ESTATAL Y MUNICIPALES
+### CAPÍTULO XI. ARRESTO
 
 ###### Artículo 102.
 
@@ -2103,7 +2161,7 @@ Efectos de la resolución
 
 Las Comisiones remitirán copia certificada de sus resoluciones al Centro Estatal y demás instancias que se estime pertinentes, para que procedan a su ejecución.
 
-### CAPÍTULO I. PROCEDIMIENTO
+### CAPÍTULO XII. INTEGRACIÓN Y ATRIBUCIONES DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL Y COMISIONES DE HONOR Y JUSTICIA, ESTATAL Y MUNICIPALES
 
 ###### Artículo 117.
 
@@ -2141,7 +2199,7 @@ El policía que haya sido arrestado podrá inconformarse ante el superior de qui
 
 La inconformidad se resolverá sin mayor trámite, dentro de los tres días hábiles siguientes a su interposición, mediante resolución irrecurrible en la que se expondrán los motivos y fundamentos del caso. Si esta determinación es favorable, el antecedente del arresto no se integrará al expediente del policía.
 
-### CAPÍTULO II. DE LAS CONTROVERSIAS DERIVADAS DEL SERVICIO DE CARRERA POLICIAL Y LA PROFESIONALIZACIÓN
+### CAPÍTULO I. PROCEDIMIENTO
 
 ###### Artículo 121.
 
@@ -2155,13 +2213,19 @@ Integración de la Comisión Estatal del Servicio Profesional de Carrera Policia
 
 La Comisión Estatal del Servicio Profesional de Carrera Policial para los integrantes de las corporaciones policiales de la entidad, se compondrá por:
 
-I. Un Presidente, que será el Secretario de Seguridad Pública, con voz y voto;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+I. Un Presidente, que será el Secretario con voz y voto;
 
 II. Un Secretario Técnico, que será el Comisionado de la Policía Estatal, sólo con voz;
 
-III. Un Vocal, que será un representante del área jurídica de la Secretaría de Seguridad Pública con voz y voto;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
 
-IV. Un Vocal, que será un representante del área administrativa de la Secretaría de Seguridad Pública, con voz y voto; y
+III. Un Vocal, que será un representante del área jurídica de la Secretaría, con voz y voto;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+IV. Un Vocal, que será un representante del área administrativa de la Secretaría, con voz y voto; y
 
 V. Vocales que serán los representantes de cada una de las divisiones policiacas de la entidad, quienes tendrán voz y voto sólo en los asuntos relacionados con su competencia.
 
@@ -2267,7 +2331,7 @@ El Reglamento respectivo determinará las bases para la operación y el funciona
 
 ## TÍTULO TERCERO. PROCEDIMIENTOS ANTE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL; Y LAS COMISIONES DE HONOR Y JUSTICIA
 
-### CAPÍTULO III. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+### CAPÍTULO II. DE LAS CONTROVERSIAS DERIVADAS DEL SERVICIO DE CARRERA POLICIAL Y LA PROFESIONALIZACIÓN
 
 ###### Artículo 128.
 
@@ -2425,7 +2489,7 @@ Cuestiones no previstas
 
 En lo no previsto en el presente capítulo en cuanto a la admisión, desahogo y valoración de las pruebas se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Tabasco.
 
-### CAPÍTULO IV. EVALUACIÓN Y CERTIFICACIÓN
+### CAPÍTULO III. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 ###### Artículo 142.
 
@@ -2449,7 +2513,7 @@ En caso de que se determine procedente la inconformidad, en la misma resolución
 
 La resolución que dicte la Comisión del Servicio Profesional de Carrera Policial respectiva, se notificará personalmente al policía, quien podrá impugnarla, en su caso, ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la ley aplicable.
 
-### CAPÍTULO V. ACADEMIAS DE POLICÍA
+### CAPÍTULO IV. EVALUACIÓN Y CERTIFICACIÓN
 
 ###### Artículo 144.
 
@@ -2501,7 +2565,7 @@ XVII. Fungir como enlace con el Centro Nacional de Certificación y Acreditació
 
 XVIII. Las demás que establezcan la Ley General, la presente Ley y la normatividad aplicable.
 
-### CAPÍTULO VI. UNIFORMES, INSIGNIAS, DIVISAS, CONDECORACIONES Y EQUIPO
+### CAPÍTULO V. ACADEMIAS DE POLICÍA
 
 ###### Artículo 146.
 
@@ -2611,7 +2675,7 @@ Reubicación
 
 Las Instituciones de Seguridad Pública implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener o no revalidar los Certificados; asimismo, deberán establecer programas de reubicación laboral conforme a los criterios y lineamientos que al efecto expidan y de acuerdo a su disponibilidad presupuestal.
 
-### CAPÍTULO I. SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO VI. UNIFORMES, INSIGNIAS, DIVISAS, CONDECORACIONES Y EQUIPO
 
 ###### Artículo 156.
 
@@ -2663,7 +2727,7 @@ IV. Proponer la celebración de convenios con instituciones educativas nacionale
 
 V. Las demás que establezcan otras disposiciones aplicables.
 
-### CAPÍTULO II. DEL CENTRO DE MANDO Y COMUNICACIONES
+### CAPÍTULO I. SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 158.
 
@@ -2681,7 +2745,7 @@ Para los efectos de esta Ley, son actos del servicio los que realizan los polic�
 
 ## TÍTULO CUARTO. INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO III. REGISTRO ESTATAL DE DETENIDOS
+### CAPÍTULO II. DEL CENTRO DE MANDO Y COMUNICACIONES
 
 ###### Artículo 160.
 
@@ -2705,11 +2769,17 @@ Están igualmente obligadas a proporcionar información al Sistema de Informaci�
 
 I. La Secretaría de Gobierno;
 
-II. La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
 
-III. La Secretaría de Contraloría;
+II. La Secretaría de Finanzas;
 
-IV. La Secretaría de Administración;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+III. La Secretaría de la Función Pública;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+IV. La Secretaría de Administración e Innovación Gubernamental;
 
 V. Los municipios, a través de:
 
@@ -2733,7 +2803,7 @@ Integración de información audiovisual
 
 En los términos de la ley de la materia, la información que se obtenga a través de la operación de videocámaras y equipos para grabar o captar imágenes, con o sin sonido, por parte de las corporaciones policiales y de los prestadores de servicios de seguridad privada o de particulares deberá integrarse al Sistema de Información Estatal de Seguridad Pública.
 
-### CAPÍTULO IV. REGISTRO ESTATAL DE PERSONAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO III. REGISTRO ESTATAL DE DETENIDOS
 
 ###### Artículo 164.
 
@@ -2779,7 +2849,7 @@ El Centro de Mando y Comunicaciones asignará a los usuarios autorizados las cla
 
 En ningún caso se proporcionará información que ponga en riesgo la Seguridad Pública o física de las personas, ni que atente contra su honor. En todo caso, la información que administre el Centro de Mando y Comunicaciones se sujetará a la normatividad vigente en materia de transparencia y acceso a la información pública.
 
-### CAPÍTULO V. HOJA DE SERVICIO
+### CAPÍTULO IV. REGISTRO ESTATAL DE PERSONAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 168.
 
@@ -2841,7 +2911,7 @@ Empleo de los datos
 
 Los datos integrados al Registro de Detenidos constituirán la plataforma para archivar, preservar, utilizar, enviar o recibir la información de los detenidos con el fin de dar cumplimiento a lo dispuesto en los artículos 112 y 114 de la Ley General.
 
-### CAPÍTULO VI. REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO POLICIAL
+### CAPÍTULO V. HOJA DE SERVICIO
 
 ###### Artículo 174.
 
@@ -2901,7 +2971,7 @@ Empleo de los datos
 
 Los datos integrados al Registro Estatal de Personal constituirán la plataforma para archivar, preservar, utilizar, enviar o recibir información, a fin de cumplir lo dispuesto en los artículos 122 y 123 de la Ley General.
 
-### CAPÍTULO VII. ESTADÍSTICA DE SEGURIDAD PÚBLICA
+### CAPÍTULO VI. REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO POLICIAL
 
 ###### Artículo 181.
 
@@ -2937,7 +3007,7 @@ En cualquier momento, el policía podrá solicitar la actualización de su Hoja 
 
 Las corporaciones policiales, así como las Comisiones del Servicio de Carrera Policial, y las de Honor y Justicia, deberán proporcionar al Registro Estatal de Personal la información relativa a la Hoja de Servicio, o de los datos que contenga, para el cumplimiento de sus respectivas atribuciones.
 
-### CAPÍTULO VIII. FUERZA PÚBLICA
+### CAPÍTULO VII. ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### Artículo 183.
 
@@ -2993,13 +3063,15 @@ Los equipos de comunicación asignados a los policías sólo serán usados y ope
 
 Durante el tiempo que estuvieren en servicio, los policías sólo usarán u operarán los equipos de comunicación que les fueren asignados para el cumplimiento de sus funciones, por lo que deberán abstenerse de portar o utilizar cualquier otro equipo o medio de comunicación distinto.
 
-### CAPÍTULO ÚNICO. SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+### CAPÍTULO VIII. FUERZA PÚBLICA
 
 ###### Artículo 189.
 
 Instrumentos de acopio
 
-La Fiscalía General y la Secretaría de Seguridad Pública, en el marco de sus respectivas competencias, establecerán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, el problema de seguridad pública en la entidad, para la planeación y la implementación de programas y acciones, así como para la evaluación de sus resultados.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+La Fiscalía General y la Secretaría, en el marco de sus respectivas competencias, establecerán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, el problema de seguridad pública en la entidad, para la planeación y la implementación de programas y acciones, así como para la evaluación de sus resultados.
 
 ###### Artículo 190.
 
@@ -3007,7 +3079,7 @@ Sistematización de datos
 
 La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre: seguridad preventiva; investigación y persecución del delito; administración de justicia; sistemas de prisión preventiva, de ejecución de penas y medidas de seguridad, y de tratamiento de adolescentes; y factores asociados al problema de seguridad pública.
 
-### CAPÍTULO ÚNICO. SERVICIO DE PROTECCIÓN Y SEGURIDAD PERSONAL
+### CAPÍTULO ÚNICO. SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
 ###### Artículo 191.
 
@@ -3019,7 +3091,7 @@ Su uso, sus objetivos y principios, la capacitación y el adiestramiento que req
 
 ## TÍTULO QUINTO. SERVICIOS Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO ÚNICO. REGULACIÓN
+### CAPÍTULO ÚNICO. SERVICIO DE PROTECCIÓN Y SEGURIDAD PERSONAL
 
 ###### Artículo 192.
 
@@ -3029,9 +3101,9 @@ El Estado y los Municipios combatirán las causas que generan la comisión de de
 
 Los programas de la entidad y los municipios en materia de prevención social de la violencia y la delincuencia deberán sujetarse a las bases previstas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, la Ley General y las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
 
-Para tales efectos, el Estado contará con un Centro Estatal de Prevención Social del Delito y Participación Ciudadana, el cual será un órgano de naturaleza desconcentrada dotado de autonomía técnica y funcional, que para su adecuado funcionamiento estará adscrito a la Secretaría de Seguridad Pública y tendrá las atribuciones que se establezcan en esta Ley, en el Acuerdo de Creación respectivo y demás disposiciones aplicables.
+Para tales efectos, el Estado contará con un Centro Estatal de Prevención Social del Delito y Participación Ciudadana, el cual será un órgano de naturaleza desconcentrada dotado de autonomía técnica y funcional, que para su adecuado funcionamiento estará adscrito a la Secretaría y tendrá las atribuciones que se establezcan en esta Ley, en el Acuerdo de Creación respectivo y demás disposiciones aplicables.
 
 ###### Artículo 193.
 
@@ -3059,11 +3131,13 @@ Para mejorar el servicio de seguridad pública, los órganos del Sistema Estatal
 
 Cultura de la denuncia
 
-Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y las leyes aplicables, por conducto de la Fiscalía General, de la Secretaría de Seguridad Pública y de las Corporaciones Policiales del Estado y los municipios, se desarrollarán programas y acciones para fomentar la cultura de la denuncia.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y las leyes aplicables, por conducto de la Fiscalía General, de la Secretaría y de las Corporaciones Policiales del Estado y los municipios, se desarrollarán programas y acciones para fomentar la cultura de la denuncia.
 
 ## TÍTULO SEXTO. OTORGAMIENTO DE SEGURIDAD PERSONAL
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. REGULACIÓN
 
 ###### Artículo 197.
 
@@ -3071,7 +3145,9 @@ Servicio de protección y seguridad personal
 
 Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que dentro del territorio estatal otorga el Estado a servidores en activo o a ex servidores públicos que acrediten encontrarse en situación de riesgo por la naturaleza propia de su encomienda; o en razón de que generen o hayan generado acciones de investigación, persecución de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública durante el ejercicio del encargo, con el propósito de salvaguardar su vida e integridad física.
 
-El servicio de protección a la seguridad personal se prestará exclusivamente con elementos certificados de la Secretaría de Seguridad Pública, con los recursos humanos y materiales con que se cuente, siempre y cuando exista la disponibilidad presupuestal suficiente para ello. En todo caso tales servicios serán temporales y se referirán únicamente a personas, por lo cual no incluirán la guarda o vigilancia de bienes muebles e inmuebles.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+El servicio de protección a la seguridad personal se prestará exclusivamente con elementos certificados de la Secretaría, con los recursos humanos y materiales con que se cuente, siempre y cuando exista la disponibilidad presupuestal suficiente para ello. En todo caso tales servicios serán temporales y se referirán únicamente a personas, por lo cual no incluirán la guarda o vigilancia de bienes muebles e inmuebles.
 
 ###### Artículo 198.
 
@@ -3079,7 +3155,9 @@ Comité de Autorización
 
 El Comité de Autorización de protección personal será la instancia responsable de determinar, mediante resolución definitiva e inatacable, la pertinencia de autorizar o no, el servicio a los ex servidores públicos que lo requieran.
 
-El Comité de Autorización de protección personal estará integrado por el Secretario de Gobierno, el Secretario de Seguridad Pública y el Comisionado, presidiendo dicho Comité el primero de dichos servidores públicos.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+El Comité de Autorización de protección personal estará integrado por el Secretario de Gobierno, el Secretario y el Comisionado, presidiendo dicho Comité el primero de dichos servidores públicos.
 
 Para determinar la pertinencia de otorgar servicios de protección personal señalados en el párrafo anterior, se podrán ordenar los estudios e investigaciones necesarias y realizar las consultas del caso con las autoridades de procuración de justicia y seguridad pública federales o de otras entidades federativas.
 
@@ -3107,7 +3185,9 @@ II. Secretario de Gobierno;
 
 III. Fiscal General del Estado;
 
-IV. Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2019)</small>
+
+IV. Secretario;
 
 V. Presidente del Tribunal Superior de Justicia; y
 
@@ -3127,9 +3207,13 @@ Corresponde al Comité disponer las medidas conducentes para proveer de segurida
 
 El servicio de seguridad personal se prestará única y exclusivamente dentro del territorio del Estado, salvo los casos de servidores públicos en activo que requieran del mismo durante comisiones y representaciones oficiales fuera de la entidad pero dentro del país.
 
-La Secretaría de Seguridad Pública será la única instancia facultada para prestar el servicio de seguridad personal.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
 
-El Secretario de Seguridad Pública proyectará un Reglamento del Servicio de Protección Personal, que someterá a la aprobación del Titular del Poder Ejecutivo del Estado.
+La Secretaría será la única instancia facultada para prestar el servicio de seguridad personal.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2019)</small>
+
+El Secretario proyectará un Reglamento del Servicio de Protección Personal, que someterá a la aprobación del Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 203.
 
@@ -3138,6 +3222,8 @@ Protección a candidatos a cargos de elección popular
 En períodos electorales, las autoridades estatales de Seguridad Pública, previa solicitud de la autoridad electoral, deberán brindar las medidas de seguridad personal a los candidatos a Gobernador del Estado, desde el momento en que, de acuerdo con los mecanismos internos de su partido, se ostenten con tal carácter. Así mismo y desde el momento señalado, podrá otorgársele exclusivamente a los candidatos a diputados y presidentes municipales, que lo soliciten a través del Presidente del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, cuando así se estime necesario conforme a las razones y elementos de convicción que expongan los solicitantes.
 
 ## TÍTULO SEPTIMO. SERVICIOS DE SEGURIDAD PRIVADA
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 204.
 
@@ -3238,3 +3324,13 @@ SEGUNDO.- El Gobernador deberá efectuar las respectivas reformas, adiciones y d
 TERCERO.- Realícense los trámites administrativos y presupuestales necesarios, para que se establezca formal, material y operativamente el debido funcionamiento del Centro de Mando y Comunicaciones; y del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, como órgano desconcentrado dependiente de la Secretaría de Seguridad Pública, en un plazo que no exceda de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 069 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XXVI Y XXVII; 4; 18, FRACCIÓN III; 37, FRACCIÓN II; 38, PÁRRAFO PRIMERO Y SU FRACCIÓN I; 39, PÁRRAFO PRIMERO Y SUS FRACCIONES I, IX, XIII Y XXXIX; 40, PÁRRAFO PRIMERO; 47, PÁRRAFO PRIMERO; 49; 75, FRACCIÓN V; 122, FRACCIONES I, III Y IV; 161, FRACCIONES II, III Y IV; 189; 192, PÁRRAFO TERCERO; 196; 197, PÁRRAFO SEGUNDO; 198, PÁRRAFO SEGUNDO; 200, FRACCIÓN IV; 202, PÁRRAFOS SEGUNDO Y TERCERO; Y LA DENOMINACIÓN DEL CAPÍTULO II "ATRIBUCIONES DEL GOBERNADOR Y DEL SECRETARIO DE SEGURIDAD PÚBLICA", DEL TÍTULO TERCERO DEL LIBRO PRIMERO PARA QUEDAR COMO "ATRIBUCIONES DEL GOBERNADOR Y DEL SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA"; Y SE ADICIONAN LA FRACCIÓN XXXIX BIS AL ARTÍCULO 39, EL ARTÍCULO 41 BIS, Y EL CAPÍTULO II BIS, DENOMINADO "DE LAS UNIDADES ESPECIALIZADAS", AL TÍTULO TERCERO DEL LIBRO PRIMERO, QUE ESTARÁ CONFORMADO POR LOS ARTÍCULOS 40, 41 Y 41 BIS, TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado, a través de la Comisión Técnica para la Implementación de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, deberá emitir el Reglamento Interior de la Unidad de Inteligencia Patrimonial y Económica, en un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
