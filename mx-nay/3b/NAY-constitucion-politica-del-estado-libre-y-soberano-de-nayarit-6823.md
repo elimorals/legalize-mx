@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2018-10-11"
+last_updated: "2019-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -337,7 +335,11 @@ La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conoci
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII.- Toda persona tiene derecho a que se le administre justicia por los juzgadores nombrados en términos de ley.
+XVIII. Toda persona tiene derecho a que se le administre justicia por los juzgadores nombrados en términos de ley.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
+
+XIX. En los juicios o procedimientos seguidos en forma de juicio, se deberá respetar la igualdad entre las partes, el debido proceso, así como los derechos que garanticen la audiencia y defensa en el ámbito de una tutela judicial efectiva. Además, cuando no se transgredan tales principios y garantías, los órganos de jurisdicción deberán privilegiar la solución del conflicto de fondo sobre los meros formalismos procedimentales.
 
 ###### Art. 8.
 
@@ -555,7 +557,7 @@ La postulación para ser elegido por un período adicional sólo podrá ser real
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido politico no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -2323,7 +2325,7 @@ Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que det
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-II. Entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, asi como los informes individuales de auditoría, a más tardar el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública. El Informe General Ejecutivo se someterá a la consideración del Pleno del Congreso.
+II. Entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, así como los informes individuales de auditoría, a más tardar el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública. El Informe General Ejecutivo se someterá a la consideración del Pleno del Congreso.
 
 Los informes serán de carácter público y tendrán el contenido que determine la Ley; los informes individuales de auditoría incluirán como mínimo, el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, los sujetos fiscalizados hayan presentado sobre las mismas.
 
@@ -2688,6 +2690,10 @@ III. El Poder Ejecutivo, en los términos de la ley, someterá a la consulta de 
 IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privado, sujetar que explotación y aprovechamiento de los recursos naturales, se cuide y garantice su conservación y el medio ambiente;
 
 V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
+
+VI. Se establece la política pública de mejora regulatoria con carácter de obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia, la cual buscará promover la eficacia y eficiencia de su gobierno, impulsar las áreas prioritarias del desarrollo, alentar la actividad económica de los particulares, fomentar la transparencia, el desarrollo socioeconómico y la competitividad del Estado; todo a través de la simplificación y claridad de regulaciones, normas, trámites, procedimientos, servicios y demás elementos que se consideren esenciales, de conformidad con lo que establezca la ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -3735,7 +3741,7 @@ P.O. 6 DE OCTUBRE DE 2010.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Acuerdo aprobado por la Vigésima Novena Legislatura al H. Congreso del Estado de Nayarit, con fecha 21 de septiembre de 2010, mediante el cual se autorizó reponer el procedimiento ante los Ayuntamientos de Compostela, Ruiz, Xalisco, Amatlán de Cañas. Del Nayar, Ahuacatlán, Rosamorada, Santa Maria del Oro, San Blas, Tepic y Tecuala, Nayarit, a efecto de que emitieran su voto con relación al decreto que reforma los artículos 27, fracción II; 29, 47, fracción XVII; 62, fracción III; 109, fracción IV y 135 apartado B en sus fracciones I, II y IV y apartado C en su párrafo segundo; y adiciona un párrafo último al artículo 91 y una fracción III al artículo 27: de la Constitución Política del Estado Libre y Soberano de Nayarit.
+Se abroga el Acuerdo aprobado por la Vigésima Novena Legislatura al H. Congreso del Estado de Nayarit, con fecha 21 de septiembre de 2010, mediante el cual se autorizó reponer el procedimiento ante los Ayuntamientos de Compostela, Ruiz, Xalisco, Amatlán de Cañas. Del Nayar, Ahuacatlán, Rosamorada, Santa María del Oro, San Blas, Tepic y Tecuala, Nayarit, a efecto de que emitieran su voto con relación al decreto que reforma los artículos 27, fracción II; 29, 47, fracción XVII; 62, fracción III; 109, fracción IV y 135 apartado B en sus fracciones I, II y IV y apartado C en su párrafo segundo; y adiciona un párrafo último al artículo 91 y una fracción III al artículo 27: de la Constitución Política del Estado Libre y Soberano de Nayarit.
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, previa aprobación de los Ayuntamientos de la entidad, de conformidad a lo previsto por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
 
@@ -3845,7 +3851,7 @@ P.O. 12 DE NOVIEMBRE DE 2013.
 
 Artículo Primero.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-Articulo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
+Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
 
 P.O. 5 DE ABRIL DE 2014.
 
@@ -4070,3 +4076,13 @@ IV. Un Licenciado en Derecho que destaque por su honorabilidad, quien será nomb
 DÉCIMO SÉPTIMO. El periodo de duración de un año de la presidencia del Tribunal Superior de Justicia y del Consejo de la Judicatura surtirá sus efectos a partir de la nueva elección de presidente a verificarse en septiembre del 2018, por lo que el actual Presidente permanecerá en el cargo por el lapso que fue designado.
 
 DÉCIMO OCTAVO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 25 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE JUSTICIA COTIDIANA Y MEJORA REGULATORIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Honorable Congreso del Estado de Nayarit dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, expedirá la legislación que establezca el Sistema Estatal de Mejora Regulatoria.
+
+TERCERO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
