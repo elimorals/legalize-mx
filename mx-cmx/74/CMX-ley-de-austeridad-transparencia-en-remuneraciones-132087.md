@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-12-28"
 ---
 # LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2019 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 25 DE FEBRERO DE 2019].
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -1430,13 +1430,21 @@ IV. Si existe compromiso recíproco de los particulares y de la Ciudad de Méxic
 
 Los recursos aportados mantienen su naturaleza jurídica de recursos públicos, para efectos de su fiscalización y transparencia.
 
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 128.
 
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar apoyos, donativos y ayudas para beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que señale el Reglamento.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar donativos, apoyos y ayudas para atender contingencias, emergencias, resolver demandas, problemáticas identificadas de carácter especial, temporal y emergente, así como para la realización de actividades que contribuyan al beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que señale el Reglamento.
 
 Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el titular de la Dependencia, Alcaldía y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable.
 
-Las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades deberán informar a la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias, el monto global y los beneficios de las ayudas, apoyos y donativos otorgados.
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán elaborar los lineamientos con base en los criterios establecidos en esta Ley así como en la Ley de Desarrollo Social para el Distrito Federal. Tratándose de la atención de contingencias, emergencias, resolución de demandas, problemáticas identificadas de carácter especial, temporal y emergente, deberán publicarse en la Gaceta Oficial en un lapso que no excederá de 10 días hábiles posteriores al otorgamiento de los donativos, apoyos y ayudas; para el caso de la realización de actividades que contribuyan al beneficio social, la publicación deberá realizarse 10 días hábiles anteriores al otorgamiento.
+
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán elaborar el padrón de personas beneficiarias de los donativos, apoyos y ayudas, con base en las características a que hace referencia la Ley de Desarrollo Social para el Distrito Federal, mismo que serán publicados en términos de lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
 ###### Artículo 129.
 
