@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2018-10-22"
+last_updated: "2019-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2019.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -333,15 +333,21 @@ IV.- El Comité Ciudadano de Control y Vigilancia de la Obra Pública Municipal;
 
 V.- El Comité de Desarrollo Urbano y Rural;
 
-VI.- El Comité de Adquisiciones; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+VI.- El Comité de Adquisiciones;
 
-VII.- El Consejo de la Crónica Municipal, y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2019)</small>
+
+VII.- El Consejo de la Crónica Municipal;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
+
+VIII.- El Consejo Municipal del Deporte, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2018)</small>
 
-VIII.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
+IX.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -402,6 +408,60 @@ VII.- Coordinar la recopilación de la memoria histórica de los barrios y colon
 VIII.- Dictaminar y valorar los trabajos que presenten los cronistas para su difusión o ciudadanos a título personal a efecto de proponer al ayuntamiento su publicación o difusión por cualquier otro medio, y
 
 IX.- Las demás que le confiera ayuntamiento y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+
+ARTICULO 17 QUÁTER.- El Consejo Municipal del Deporte coadyuvará con las autoridades municipales como un órgano de coordinación entre éstas y la sociedad pabellonense y se integrará de la siguiente manera:
+
+I.- Un presidente que será el Presidente Municipal;
+
+II.- Un Secretario Técnico que será el Jefe del Departamento de Fomento al Deporte;
+
+III.- Vocales que serán:
+
+a).- El regidor que preside la Comisión de Educación, Cultura y Deporte, y
+
+b).- Los presidentes de las diferentes ligas o asociaciones deportivas del municipio.
+
+El Consejo Municipal del Deporte sesionará de manera ordinaria cada seis meses y de manera extraordinaria cuando así sea convocado por su presidente.
+
+Cada uno de los Integrantes del Consejo tendrá derecho a voz y voto en las sesiones que celebre el mismo.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+
+ARTICULO 17 QUINQUIES.- Son facultades del Consejo Municipal del Deporte:
+
+I.- Coordinar las acciones de los diferentes agentes que promueven u organizan la enseñanza y la práctica deportiva en el municipio;
+
+II.- Establecer propuestas y opiniones acerca de las políticas públicas del gobierno municipal en materia deportiva;
+
+III.- Evaluar la política municipal en relación con el deporte en el municipio;
+
+IV.- Servir de intermediario a solicitud de las ligas o asociaciones del municipio con las asociaciones de carácter estatal cuando se requiera el aval y visto bueno para la realización de eventos deportivos;
+
+V.- Formular su plan anual de actividades que integre las propuestas de cada una de las ligas y participar en la formulación del Programa Municipal del Deporte;
+
+VI.- Promover y procurar programas de asesoría y capacitación técnica dirigidos a promotores deportivos, a fin de proporcionar un mayor incremento en la calidad competitiva y de organización;
+
+VII.- Fortalecer el funcionamiento de ligas municipales en todas las disciplinas deportivas;
+
+VIII.- Proponer programas de capacitación en materia deportiva;
+
+IX.- Establecer mecanismos que propicien la conservación y buen uso de los espacios deportivos municipales, procurando su óptimo aprovechamiento;
+
+X.- Realizar propuestas para la ampliación y el mejoramiento de la infraestructura deportiva del municipio, mediante la adquisición, construcción y adaptación de áreas para la práctica del deporte;
+
+XI.- Servir de órgano de coordinación para la programación del uso de las instalaciones deportivas municipales;
+
+XII.- Proponer los programas de adquisición de materiales, servicios de capacitación necesarios para la operatividad de la enseñanza y práctica deportiva;
+
+XIII.- Impulsar, promover y apoyar a los deportistas destacados a efecto de facilitar" su pleno desarrollo;
+
+XIV. Organizar seminarios, mesas redondas, páneles y foros en donde se discuta la problemática en materia deportiva y para la capacitación de entrenadores, deportistas y árbitros;
+
+XV.- Proponer la realización de certámenes, torneos, encuentros, competencias y otros eventos en donde se propicie la participación de equipos o deportistas individuales, o la incorporación de equipos o deportistas pabellonenses en eventos que se realicen en otros municipios, y
+
+XVI.- Las demás que le confiera el ayuntamiento u otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26990,3 +27050,11 @@ Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de s
 Artículo Segundo.- En la siguiente sesión de cabildo se designará a los integrantes de la Comisión de Postulaciones y se les tomará la protesta.
 
 Artículo Tercero.- Se derogan las disposiciones reglamentarias municipales que se opongan al contenido del presente acuerdo.
+
+P.O. 25 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones reglamentarias municipales que se opongan al contenido del presente acuerdo.
