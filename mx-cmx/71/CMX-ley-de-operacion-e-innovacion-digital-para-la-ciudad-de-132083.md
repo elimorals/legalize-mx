@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-operacion-e-innovacion-digital-para-la-ciudad-de-132083"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132083&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-12-28"
 ---
 # LEY DE OPERACION E INNOVACION DIGITAL PARA LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 25 DE FEBRERO DE 2019.]</small>
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el 31 de diciembre de 2018.
 
@@ -568,13 +568,23 @@ V. La persona Titular de la Secretaría de Educación, Ciencia, Tecnología e In
 
 VI. El Comisionado o Comisionada Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-VII. Una persona representante de sociedad civil; y
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
 
-VIII. Una persona representante del sector académico.
+VII. Una persona representante de (sic) sociedad civil;
+
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+VIII. Una persona representante del sector académico; y
+
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+IX. Dos personas representantes por cada una de las Alcaldías, los cuáles serán un representante por cada Concejo y uno por lo que hace a la Administración Pública de la Alcaldía con nivel de Director de Área o superior.
 
 El Consejo, por Conducto de su Presidente o Presidenta, podrá invitar a quien considere necesario en sus sesiones de trabajo y podrá ampliar el número de integrantes que considere pertinente.
 
-El nombramiento de los representantes de la sociedad civil y del sector académico y su duración, se estará a lo mandatado por el Reglamento de la Ley. Estos representantes sólo podrán ser reemplazados en caso de renuncia o fuerza mayor.
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+El nombramiento de los representantes de la sociedad civil y del sector académico, así como de las personas representantes de cada una de las Alcaldías y su duración, se estará a lo mandatado por el Reglamento de la Ley. Estos representantes sólo podrán ser reemplazados en caso de renuncia o fuerza mayor.
 
 El cargo a desempeñar será honorífico y sin emolumento alguno.
 
@@ -1056,9 +1066,17 @@ VI. Obstruir el acceso a la información, gestión y procesamiento de datos atri
 
 ### CAPÍTULO IX. DE LAS RESPONSABILIDADES EN MATERIA DE TRANSPARENCIA
 
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 45.
 
-En caso de incumplimiento de las obligaciones en materia de transparencia y manejo de datos personales, establecidas en la presente ley, se sancionará conforme a lo establecido en el artículo 264 de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+En caso de incumplimiento de las obligaciones en materia de transparencia y manejo de datos personales, establecidas en la presente ley, se sancionará conforme a lo establecido en el artículo 264 de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
+
+> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+
+###### Artículo 46.
+
+Los interesados afectados por los actos y resoluciones de la Agencia podrán, a su elección, interponer el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo de la Ciudad de México o intentar el juicio de nulidad ante el Tribunal de Justicia Administrativa de la Ciudad de México. El recurso de inconformidad tendrá por objeto que el superior jerárquico de la autoridad emisora, confirme, modifique, revoque o anule el acto administrativo recurrido.
 
 ## TRANSITORIOS
 
