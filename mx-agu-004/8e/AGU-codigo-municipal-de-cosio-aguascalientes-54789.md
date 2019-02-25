@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2013-09-23"
+last_updated: "2019-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -36,8 +36,6 @@ Que el Ayuntamiento de Cosío, Ags., en la primera sesión Ordinaria celebrada e
 CODIGO MUNICIPAL DE COSÍO, AGS.
 
 EXPOSICIÓN DE MOTIVOS
-
-.
 
 CODIGO MUNICIPAL DE COSÍO, AGS.
 
@@ -2207,11 +2205,19 @@ f).- Coordinadora (sic) Grupos de la tercera edad;
 
 g).- Intendencia.
 
-V.- Contraloría Municipal:
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2019)</small>
 
-a).- Departamento de Transparencia;
+V (SIC)).- Contraloría Municipal
 
-b).- Departamento de Auditorias.
+a) Departamento de Transparencia;
+
+b) Departamento de Auditoría;
+
+c) Unidad de Investigación de Faltas Administrativas,
+
+d) Unidad de Substanciación de Procesos Administrativos,
+
+e) Unidad de Resolución de Procesos Administrativos.
 
 VI.- Delegación y Comisarios Municipales (Autoridades Honorarias Auxiliares):
 
@@ -2535,6 +2541,8 @@ APARTADO SEGUNDO
 
 De la Contraloría Municipal
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 243.
 
 Corresponde a la Contraloría Municipal:
@@ -2555,13 +2563,9 @@ IV.- Operar el programa de Atención al Público cuyo objetivo es mejorar la cal
 
 V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
 VI.- Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad, orden y perspectiva de género;
 
 VII.- Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
 VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos en las que observará obligatoriamente el principio de equidad de género;
 
@@ -2575,7 +2579,7 @@ XII.- Supervisar que las adquisiciones de bienes y servicios que realice el Muni
 
 XIII.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del estatal;
 
-XIV.- Fijar las normas de control, fiscalización, contabilidad y Auditoria que deben observar las dependencias municipales;
+XIV.- Fijar las normas de control, fiscalización, contabilidad y Auditoría que deben observar las dependencias municipales;
 
 XV.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
 
@@ -2589,7 +2593,7 @@ XIX.- Turnar a las diferentes unidades administrativas las denuncias de los part
 
 XX.- Establecer y operar un proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales;
 
-XXI.- Fijar las normas de control, fiscalización, contabilidad y auditoria que deben observar las Dependencias Municipales;
+XXI.- Fijar las normas de control, fiscalización, contabilidad y auditoría que deben observar las Dependencias Municipales;
 
 XXII.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento;
 
@@ -2601,9 +2605,27 @@ XXV.- Informar al Presidente Municipal de los resultados y avances en el cumplim
 
 XXVI.- Turnar a las diferentes Unidades Administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
 
-XXVIl.- Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+XXVII.- Conocer e investigar las conductas de los servidores públicos municipales que pudieran constituir responsabilidades administrativas, realizar la calificación de las faltas, y en su caso substanciar y resolver los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-XXVIII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XXVIII.- Conocer e investigar las conductas de los particulares relacionados con la administración pública municipal, que puedan constituir responsabilidades administrativas, realizar la calificación de las faltas, y remitir el expediente a la autoridad substanciadora competente conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes
+
+XXIX.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+
+ARTICULO 243 BIS.- Para la debida integración de los procedimientos de responsabilidad administrativa la Contraloría Municipal contará con las siguientes unidades administrativas:
+
+I.- Unidad de Investigación y Recepción de Quejas y Denuncias.
+
+II.- Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa.
+
+III.- Unidad de Resolución de Procedimientos Administrativos.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+
+ARTICULO 243 TER.- Los Procedimientos de Responsabilidad Administrativa deberán llevarse a cabo, observando lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, para lo cual se entenderá como autoridad investigadora a la Unidad de Investigación y Recepción de Quejas y Denuncias; Autoridad Substanciadora a la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa y Autoridad Resolutora a la Unidad de Resolución de Procedimientos Administrativos.
+
+La Autoridad Resolutora en el Municipio de Cosío, será el Titular de la Contraloría Municipal. Para fungir como titular de la Unidad de Investigación y Recepción de Quejas y Denuncias así como de la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa, se designará respectivamente en cada una de esas áreas a un funcionario distinto del Contralor Municipal, quienes deberán contar con Título y cédula profesional de Licenciado en Derecho o Contador Público.
 
 APARTADO TERCERO
 
@@ -13614,3 +13636,11 @@ PRIMERO.- Se propone la adición al texto de los artículos 43, 221 y 224 del C�
 SEGUNDO.- Por lo que se deberá publicar la adición a que se refiere la presente iniciativa, en el Periódico Oficial del Estado, y se hará del conocimiento de la población del municipio pegando una copia en los lugares visibles de la cabecera Municipal, Delegaciones y Comisarías Municipales, lo anterior de conformidad con lo dispuesto en el artículo 143 del Código Municipal de Cosío, Aguascalientes, en vigor.
 
 TERCERO.- De ser el caso, las normas municipales aprobadas entrarán en vigor, simultáneamente en todo el Municipio, al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad con lo dispuesto en el artículo 144 del Código Municipal de Cosío, Aguascalientes.
+
+P.O. 25 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE COSÍO, AGS".]
+
+###### ARTICULO ÚNICO
+
+La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
