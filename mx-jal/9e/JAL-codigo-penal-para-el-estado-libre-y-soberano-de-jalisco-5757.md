@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2018-12-11"
+last_updated: "2019-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2079,7 +2079,7 @@ Art. 142 H. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO V. Estupro
 
-Art. 142 l. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+Art. 142 I. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2235,7 +2235,7 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando el s
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE AGOSTO DE 2012)</small>
 
-### Capítulo III. Utilización ilícita de información confidencial
+### CAPITULO III. Utilización ilícita de información confidencial
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -2291,7 +2291,7 @@ II. Para la individualización de las sanciones previstas en este título, el ju
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-III. Salvo los casos establecidos en el artículo 145, fracción II, excepto que se encuentre suspendido el servidor público, y la V, de este Código; en todos los demás casos, se impondrá al responsable la sanción de destitución de su empleo, cargo o comisión;
+III. Salvo los casos establecidos en el artículo 145, fracción II, excepto que se encuentre suspendido el servidor público, y la V, de este Código, en todos los demás casos, se impondrá al responsable la sanción de destitución de su empleo, cargo o comisión;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2329,7 +2329,7 @@ II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, desp
 
 III. Que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
-Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de substituirlo, siempre que la Ley no lo prohíba;
+Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de sustituirlo, siempre que la Ley no lo prohíba;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2337,7 +2337,7 @@ IV. Que ejerza alguna comisión, empleo o cargo distinto del que realmente tuvie
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo lo abandone sin causa justificada; y
+V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, lo abandone sin causa justificada; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2529,7 +2529,7 @@ Cuando se sustraigan, destruyan, alteren, oculten o se impida el acceso a la inf
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO VIII. Uso Ilícito de Atribuciones y Facultades
+### CAPITULO VIII. Uso ilícito de atribuciones y facultades
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2837,7 +2837,7 @@ Cuando la comisión de las conductas descritas en el artículo 154 H, sean parte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO XIII. Del Ocultamiento o Falsificación de Rendimientos y Tráfico de Influencias
+### CAPITULO XIII. Del ocultamiento o falsificación de rendimientos y tráfico de influencias
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3549,6 +3549,14 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2019)</small>
+
+###### Art. 190 Bis.
+
+Se impondrán de uno a ocho años de prisión al que exija para sí o para otro cualquier beneficio, o la ejecución u omisión de algún acto determinado bajo la amenaza de divulgar fotografías o contenido audiovisual que afecte el honor, la tranquilidad familiar, negocios o patrimonio del amenazado o de alguien íntimamente ligado a éste.
+
+Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza se impondrá el doble de la pena prevista para el delito de extorsión.
+
 ### CAPITULO OCTAVO. Rapto
 
 ###### Art. 191.
@@ -3619,7 +3627,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO V. Reglas generales
+### CAPITULO V. Reglas Generales
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
 
@@ -3781,7 +3789,7 @@ En cualquier otro caso, se impondrá la sanción que corresponda con arreglo a l
 
 Si en un mismo evento se producen varias de las lesiones previstas en los artículos anteriores, se aplicarán las sanciones correspondientes a la de mayor gravedad.
 
-No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente (sic) de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
+No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
 
 ### CAPITULO VII. Infanticidio
 
@@ -3899,7 +3907,7 @@ I. Si se aprecia en la víctima pluralidad de lesiones, unas mortales y otras no
 
 II. Si se trata de lesiones que solo son mortales por su número, se impondrán a todos los que la produzcan una sanción igual a la del homicidio en riña preconcertada; y
 
-III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de los atacantes causó unas u otras, a todos se les impondrá la pena mencionada en la fracción que antecede, siempre que se pruebe no solo el acto de la intervención en el ataque, sino además el de la causación de alguna de las lesiones de la víctima.
+III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de los atacantes causó unas u otras, a todos se les impondrá la pena mencionada en la fracción que antecede, siempre que se prueba no solo el acto de la intervención en el ataque, sino además el de la causación de alguna de las lesiones de la víctima.
 
 ###### Art. 221.
 
@@ -4569,7 +4577,7 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 
 ###### Art. 248.
 
-Es aplicable a este Capítulo, en lo conducente, al Artículo 238 de este Código.
+Es aplicable a este Capítulo, en lo conducente, el Artículo 238 de este Código.
 
 ### CAPITULO X. Daños en las cosas
 
@@ -6560,3 +6568,9 @@ de Justicia 2 1
 SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden (sic) podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
 
 SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27237/LXII/19 QUE ADICIONA EL ARTÍCULO 190 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
