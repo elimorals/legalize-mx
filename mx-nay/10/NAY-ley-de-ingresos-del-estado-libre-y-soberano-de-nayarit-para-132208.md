@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-132
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2018-12-22"
+last_updated: "2019-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2018.
 
@@ -61,7 +61,7 @@ Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio
 
 El Impuesto sobre Juegos y Apuestas Permitidas, sobre Rifas, Loterías y Sorteos, de acuerdo con la Ley de Hacienda del Estado de Nayarit, se causará conforme a las siguientes tasas:
 
-l. Juegos y Apuestas permitidas; sobre el Importe total de los billetes y demás comprobantes que permitan participar en las apuestas que se crucen. 4%
+I. Juegos y Apuestas permitidas; sobre el Importe total de los billetes y demás comprobantes que permitan participar en las apuestas que se crucen. 4%
 
 II. Rifas, loterías y sorteos, sobre el Importe total de los boletos vendidos. 8%
 
@@ -423,7 +423,9 @@ a) Si el solicitante aporta el medio magnético en el
 
 que se realice la reproducción. EXENTO
 
-b) En medios magnéticos o discos compactos $59.00
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2019)</small>
+
+b) En medios magnéticos o discos compactos EXENTO
 
 #### SECCIÓN DÉCIMA CUARTA. CERTIFICADOS, CERTIFICACIONES DE DOCUMENTOS Y CONSTANCIAS
 
@@ -684,3 +686,11 @@ Dip. Eduardo Lugo López, Presidente.- Rúbrica.- Dip. Ma. de la Luz Verdín Man
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintidós días del mes de Diciembre del año dos mil dieciocho.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXOS 1, 2 Y 3 EN LA SECCIÓN OCTAVA DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 70 A LA 111.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2019”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
