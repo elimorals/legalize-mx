@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tecnologico-de-estudios-superiores-11962
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-09"
-last_updated: "2016-12-09"
+last_updated: "2019-02-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, ESTADO DE MEXICO
 
-CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO DES ESTADO DE MÉXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, PUBLICADO EN LA G.G. DE 27 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE FEBRERO DE 2019 (SIN EFECTOS).
 
 Código publicado en la Sección Novena de la Gaceta del Gobierno del Estado de México, el viernes 9 de diciembre de 2016.
 
@@ -174,3 +176,15 @@ DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS
 SUPERIORES DE VALLE DE BRAVO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO".]
+
+PRIMERO.- Publíquese el presente código en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El presente Código de Conducta deja sin efectos el aprobado por la H. Junta Directiva del Tecnológico de Estudios Superiores de Valle de Bravo, el 12 de Julio de 2016.
