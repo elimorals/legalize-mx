@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2019-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -1355,11 +1355,15 @@ III. Las cantidades recibidas por concepto de recursos propios;
 
 IV. Los indicadores de los servicios públicos que presten;
 
-V. El calendario con las actividades culturales, deportivas y recreativas a realizar;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2019)</small>
 
-VI. Los Planes Municipales de Desarrollo, y
+V. El calendario con las actividades culturales, deportivas y recreativas a realizar; y
 
-VII. Los indicadores de los servicios públicos que presten.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2019)</small>
+
+VI. Los Planes Municipales de Desarrollo.
+
+VII. (DEROGADA, P.O. 27 DE FEBRERO DE 2019)
 
 En caso de que los municipios tengan menos de 70,000 habitantes y no cuenten con las condiciones para publicar la información a través de medios electrónicos correspondientes, deberán difundirla a través de otros medios.
 
@@ -2658,3 +2662,13 @@ DÉCIMO TERCERO. Las referencias que en esta Ley se atribuyen al Instituto de Tr
 El GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de mayo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de mayo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Finanzas y Administración. C. GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica. El Secretario de la Contraloría. C. ALEJANDRO TORRES PALMER. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VI, Y DEROGA LA FRACCIÓN VII DEL ARTÍCULO 83 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
