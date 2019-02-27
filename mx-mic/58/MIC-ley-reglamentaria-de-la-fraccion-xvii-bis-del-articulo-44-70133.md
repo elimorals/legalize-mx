@@ -4,7 +4,7 @@ identifier: "MIC-ley-reglamentaria-de-la-fraccion-xvii-bis-del-articulo-44-70133
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2016-12-29"
+last_updated: "2019-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 9 de septiembre de 2009.
 
@@ -177,11 +177,11 @@ Una vez aprobada la pensión por el Congreso del Estado, el Gobernador del Estad
 
 Anualmente, la Comisión de Programación, Presupuesto y Cuenta Pública revisará las pensiones aprobadas por el Congreso para la previsión presupuestal respecto a su refrendo, modificación o revocación, tomando en cuenta el Decreto y las condiciones actuales del beneficiario, así como las de sus dependientes. De igual forma cuando se trate de víctimas se considerará el dictamen emitido por la Comisión Ejecutiva Estatal de Atención a Víctimas de manera conjunta con el Ejecutivo del Estado, para efecto de aumentar, disminuir o extinguir las pensiones otorgadas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 14.
 
-El monto mensual de la pensión podrá fijarse entre sesenta y trescientas veces el valor diario de la Unidad de Medida y Actualización.
+El monto mensual de la pensión podrá fijarse entre sesenta y trescientos días de salario mínimo.
 
 ###### Artículo 15.
 
@@ -207,11 +207,11 @@ VII. Los demás elementos que las Comisiones de Dictamen estimen pertinentes.
 
 Para que el Congreso del Estado conceda pensión, bajo cualquier modalidad, se requiere la aprobación de las dos terceras partes de los diputados presentes.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 17.
 
-El monto de las pensiones aprobado por el Congreso del Estado, se incrementará en la fecha y proporción en que aumente el valor diario de la Unidad de Medida y Actualización. Lo anterior sin perjuicio del incremento que se realice en los términos del artículo 21 de esta Ley.
+El monto de las pensiones aprobado por el Congreso del Estado, se incrementará en la fecha y proporción en que aumente el salario mínimo. Lo anterior sin perjuicio del incremento que se realice en los términos del artículo 21 de esta Ley.
 
 ###### Artículo 18.
 
@@ -291,15 +291,17 @@ CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Esta
 
 P.O. 29 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 14 Y 17 DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14 Y 17 DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA). Lo anterior quedando sin efectos para la Ley Reglamentaria de la Fracción XVII bis, del Artículo 44 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO TERCERO.
 
@@ -308,3 +310,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 32.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO SEXAGÉSIMO PRIMERO DEL DECRETO LEGISLATIVO NÚMERO 255, POR EL QUE SE REFORMAN LOS ARTÍCULOS 14 Y 17 DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 255, EN EL QUE SE ESTIPULA QUE CUALQUIER REFERENCIA POSTERIOR SOBRE ÍNDICE, BASE MEDIDA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LAS LEYES LOCALES Y DEMÁS SUPOSICIONES QUE EMANEN DE ELLAS, SE ENTENDERÁN REFERIDOS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA).- ARTÍCULO TERCERO.- SE REFORMA EL ARTÍCULO PRIMERO DEL DECRETO LEGISLATIVO NÚMERO 654, POR EL QUE SE AUTORIZA AL TITULAR DEL PODER EJECUTIVO DEL ESTADO A OTORGAR PENSIONES TEMPORALES A DIVERSOS CIUDADANOS AFECTADOS POR LOS HECHOS VIOLENTOS DE LA NOCHE DEL 15 DE SEPTIEMBRE DEL AÑO 2008, EN EL CENTRO HISTÓRICO DE LA CIUDAD DE MORELIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
