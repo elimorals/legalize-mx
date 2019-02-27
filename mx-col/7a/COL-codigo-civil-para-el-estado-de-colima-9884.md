@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2018-10-20"
+last_updated: "2019-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -795,9 +795,27 @@ El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerá
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2019)</small>
 
-ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 35.- En el Estado de Colima estará a cargo de los Oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada, los actos del estado civil y extender las actas relativas a:
+
+I. Nacimiento;
+
+II. Reconocimiento de hijos;
+
+III. Adopción;
+
+IV. Matrimonio;
+
+V. Divorcio;
+
+VI. Tutela;
+
+VII. Muerte de los mexicanos y extranjeros residentes en el territorio del mismo;
+
+VIII. Las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; y
+
+IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -815,9 +833,9 @@ Las formas del Registro Civil serán autorizadas y distribuidas de forma física
 
 De las actas que se levanten en forma electrónica los oficiales del Registro Civil entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2019)</small>
 
-ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan “Registro Civil” y que contendrán: el primero actas de nacimiento, las nuevas actas para el reconocimiento de identidad de género y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -1424,6 +1442,50 @@ También procede la complementación de las actas del estado civil, respecto de 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 1996)</small>
 
 El Congreso del Estado expedirá las bases conforme a las cuales el Director o los Oficiales del Registro Civil podrán efectuar dicha complementación y expedir las copias certificadas correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
+ART. 135 Bis.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+
+El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado de Colima, cumpliendo todas las formalidades que exige su Reglamento.
+
+Se entenderá por identidad de género a la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, psiquiátrica, terapias u otro diagnóstico y/o procedimiento pericial o de cualquier otro tipo, para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de (sic) su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
+ART. 135 Ter.- Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial; y
+
+IV. Comprobante de domicilio.
+
+El levantamiento se realizará ante la oficina del Oficial del Registro Civil respectivo, quien procederá de inmediato a hacer la anotación y la reserva correspondiente.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumpliendo el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría General de Gobierno, a la Secretaría de Planeación y Finanzas, a la Secretaría de Educación, a la Secretaría de Salud y Bienestar Social, al Supremo Tribunal de Justicia, a la Fiscalía General, todos del Estado de Colima, así como al Instituto Nacional Electoral, al Servicio de Administración Tributaria y a la Secretaría de Relaciones Exteriores, para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
+ART. 135 Quáter. Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Tener al menos 18 años de edad;
+
+III. Desahogar ante el Oficial del Registro Civil, la comparecencia que se detalla en el reglamento y manual de Procedimientos del Registro Civil;
+
+IV. Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
+
+V. Manifestar el nombre solicitado sin apellidos y, en su caso, el género solicitado.
 
 ART. 136.- Pueden pedir la rectificación de un acta del estado civil:
 
@@ -11562,3 +11624,15 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 561 POR EL QUE SE ADICIONA EL ARTÍCULO 24 BIS AL CÓDIGO CIVIL DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicado (sic) en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 44 POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 37, Y ADICIONAR LOS ARTÍCULOS 135 BIS, 135 TER Y 135 QUÁTER, DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- El Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
+
+CUARTO.- La Dirección del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
