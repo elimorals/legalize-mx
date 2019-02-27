@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2019-02-25"
+last_updated: "2019-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -432,6 +432,10 @@ Son derechos del ciudadano Nayarita:
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
 I. Votar y ser votado en las elecciones estatales para los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y reúnan cuando menos el dos por ciento de apoyo ciudadano del padrón electoral de la geografía estatal, distrital, municipal o por demarcación, según corresponda; en ambos casos deben cumplir con los requisitos, condiciones y términos que determine la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
+Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la Ley en la materia.
 
 Los ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado, en la forma y términos que establezca la ley de la materia.
 
@@ -2669,31 +2673,33 @@ El manejo de recursos federales convenidos se sujetará a las disposiciones de �
 
 Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 ###### Art. 134.
 
-Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea integral, fortalezca su economía, su régimen democrático, el empleo y una más justa distribución del ingreso; permitiendo el ejercicio de las libertades y la dignidad del hombre, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las leyes que de ellas emanen.
+Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea estratégico, integral y con una visión al menos de veinticinco años, que fortalezca su economía, su régimen democrático, el empleo y una más justa distribución del ingreso; permitiendo el ejercicio de las libertades y la dignidad del hombre, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Sistema Estatal de Planeación y sus instrumentos, así como los Sistemas Municipales de Planeación, deberán fundamentarse en dichos principios.
 
-El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo, así como los planes municipales deberán observar dicho principio.
+El Desarrollo del Estado se promoverá por tanto a través del Sistema Estatal de Planeación y los Sistemas Municipales de Planeación, de conformidad con la Ley de la materia y las siguientes bases:
 
-La planeación estatal del desarrollo se sujetará a las bases siguientes:
+I.- El Poder Ejecutivo del Estado ejercerá la coordinación del Sistema Estatal de Planeación a través de un Organismo Público Descentralizado, que se denominará Instituto de Planeación del Estado de Nayarit, que deberá asegurar la continuidad y alineación de las estrategias a largo plazo;
 
-I. Concurrirán con responsabilidad los sectores público, social y privado; la Federación lo hará en forma coordinada con el Estado, en los términos que señalen los convenios correspondientes de conformidad a los objetivos nacionales, regionales y estatales;
+II.- Los Ayuntamientos en el ámbito de sus competencias, de forma derivada, ejercerán la coordinación de los Sistemas Municipales de Planeación, a través de la creación de institutos municipales de planeación.
 
-II. Bajo normas de equidad social, producción y productividad, el Gobierno del Estado dará protección, apoyo y estímulos a las empresas de los sectores social y privado, sujetándose a las modalidades que dicte el interés público y siempre que contribuyan al desarrollo económico en beneficio de la sociedad;
+Los Sistemas Municipales de Planeación se sujetarán a los principios y bases establecidas por esta Constitución;
 
-III. El Poder Ejecutivo, en los términos de la ley, someterá a la consulta de la ciudadanía las prioridades y estrategias del sistema estatal de planeación;
+III.- Para llevar a cabo la planeación del desarrollo, deberán concurrir los sectores público, social y privado; la participación de la federación se hará en forma coordinada con el Estado, en los términos que señalen los convenios correspondientes de conformidad a los objetivos nacionales y estatales;
 
-IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privado, sujetar que explotación y aprovechamiento de los recursos naturales, se cuide y garantice su conservación y el medio ambiente;
+IV.- El Sistema Estatal de Planeación promoverá prioritariamente la equidad social, la competitividad, la sustentabilidad y la transparencia sujetándose a las modalidades que dicte el interés público y siempre que contribuyan al desarrollo en beneficio de la sociedad;
 
-V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
+V.- El Poder Ejecutivo, en los términos de la ley, someterá a la consulta de la ciudadanía los instrumentos, objetivos, estrategias, acciones, metas e indicadores del Sistema Estatal de Planeación.
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
+Asimismo, promoverá la participación de la sociedad en el seguimiento y evaluación de las políticas públicas, a través del Sistema Estatal de Información Estadística y Geográfica;
 
-VI. Se establece la política pública de mejora regulatoria con carácter de obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia, la cual buscará promover la eficacia y eficiencia de su gobierno, impulsar las áreas prioritarias del desarrollo, alentar la actividad económica de los particulares, fomentar la transparencia, el desarrollo socioeconómico y la competitividad del Estado; todo a través de la simplificación y claridad de regulaciones, normas, trámites, procedimientos, servicios y demás elementos que se consideren esenciales, de conformidad con lo que establezca la ley de la materia.
+VI.- Se establece la política pública de mejora regulatoria con carácter de obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia, la cual buscará promover la eficacia y eficiencia de su gobierno, impulsar las áreas prioritarias del desarrollo, alentar la actividad económica de los particulares, fomentar la transparencia, el desarrollo socioeconómico y la competitividad del Estado; todo a través de la simplificación y claridad de regulaciones, normas, trámites, procedimientos, servicios y demás elementos que se consideren esenciales, de conformidad con lo que establezca la ley de la materia, y
+
+VII.- Los sectores social y privado, sujetarán sus acciones para la explotación y uso del territorio y los recursos naturales, a las normas y procedimientos del Sistema Estatal de Planeación, a fin de garantizar su aprovechamiento sustentable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -4086,3 +4092,35 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Honorable Congreso del Estado de Nayarit dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, expedirá la legislación que establezca el Sistema Estatal de Mejora Regulatoria.
 
 TERCERO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
+
+P.O. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE PLANEACIÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo que no exceda de noventa días posteriores a la entrada en vigor del presente Decreto, deberá expedirse la Ley de Planeación del Estado de Nayarit, y modificar la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit, la Ley Municipal para el Estado de Nayarit, así como la Ley del Sistema de Información Estadística y Geográfica del Estado de Nayarit. Lo anterior, para hacerlas compatibles con la Reforma Constitucional materia del presente Decreto.
+
+TERCERO.- En un plazo que no exceda de noventa días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir la Ley que Crea el Instituto de Planeación del Estado de Nayarit.
+
+CUARTO.- Dentro del plazo de ciento ochenta días posteriores a la entrada en vigor del presente Decreto, los ayuntamientos de la Entidad, en el ámbito de sus competencias, deberán crear sus Institutos Municipales de Planeación.
+
+QUINTO.- A partir de la instalación de la Junta de Gobierno del Instituto de Planeación del Estado de Nayarit, éste tendrá un plazo de dos años para que elabore e instrumente un plan de desarrollo, el cual deberán (sic) contar con visión de al menos veinticinco años.
+
+SEXTO.- El Congreso del Estado, dentro del plazo de un año siguiente a la entrada en vigor del presente Decreto, deberá realizar las modificaciones que sean necesarias para armonizar el marco jurídico local en la materia, con independencia a lo señalado en el Artículo Segundo Transitorio.
+
+SÉPTIMO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+OCTAVO.- La Ley reglamentaria garantizará los derechos laborales de los trabajadores de las instituciones que se modifiquen en la legislación secundaria para la implementación del Instituto de Planeación del Estado de Nayarit.
+
+P.O. 27 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo que no exceda de noventa días, posteriores a la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes al marco jurídico local.
+
+TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los ayuntamientos de la entidad.
+
+CUARTO.- Se deberán realizar las adecuaciones presupuestales necesarias para garantizar la aplicación de la presente reforma.
