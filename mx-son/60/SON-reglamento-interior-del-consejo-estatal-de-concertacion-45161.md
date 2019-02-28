@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-consejo-estatal-de-concertacion-45161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2018-02-01"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE FEBRERO DE 2019.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 12 de mayo de 2005.
 
@@ -41,13 +41,31 @@ El Consejo Estatal de Concertación para la Obra Pública, es un organismo públ
 
 I.- Estimular e inducir la participación de la sociedad civil en la realización de obras de infraestructura y programas de gobierno para el desarrollo social, económico regional del Estado;
 
-II.- Apoyar la ejecución de obras públicas, proyectos y acciones de gobierno, mediante la concertación con los grupos sociales beneficiarios, a efecto de garantizar su participación corresponsable;
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+II.- Apoyar la ejecución de obras públicas, proyectos y acciones de gobierno, mediante la concertación con los grupos sociales beneficiarios, a efecto de garantizar su participación corresponsable; sin perjuicio de lo anterior, el Consejo Estatal de Concertación para la Obra Pública, podrá ejecutar éstas directamente o a través de terceros, respecto de obras públicas concertadas en los términos de su Decreto de Creación y de las demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+II Bis.- En lo que respecta a las obras públicas que vayan a ser ejecutadas por el CECOP en los términos de la fracción anterior, éste podrá elaborar directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas que fueron objeto de concertación, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
 
 III.- Celebrar los convenios o acuerdos que se requieran, con los sectores público, social y privado;
 
 IV.- Operar el Programa Estatal de Participación Social Sonorense como estrategia y mecanismo de coordinación, entre el gobierno y la sociedad, a efecto de garantizar que la obra pública y los programas de gobierno para el desarrollo social, se concierten y ejecuten sobre los principios de corresponsabilidad, organización social, pluralidad, solidaridad y transparencia en el uso de los recursos, y
 
 V.- Realizar todos aquellos actos relacionados con los objetivos anteriores, y que determine su consejo directivo.
+
+> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2019)</small>
+
+Para los efectos de este artículo, la concertación se define como el proceso mediante el cual el CECOP y los grupos sociales beneficiarios debaten y acuerdan sobre las características generales de las obras, atendiendo a las necesidades, prioridades y viabilidad social, técnica y económica, que habrán de someterse al Consejo Directivo para la aprobación de su ejecución.
+
+> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2019)</small>
+
+La ejecución directa de obras públicas a que se refiere la fracción ll y II Bis, se realizará cuando no intervengan contratistas y siempre que el CECOP posea la capacidad técnica, maquinaria, equipo y los elementos necesarios para tal efecto, así como el personal técnico requerido. Solo en los casos que lo determine el Comité de Obras y Servicios de la Entidad, se podrá alquilar equipo y maquinaria complementaria de construcción.
+
+> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2019)</small>
+
+Por el contrario, por ejecución a través de terceros se entiende las obras públicas que son materia de contratación mediante los procedimientos de licitación o adjudicación directa que establece la Ley de Obras Públicas y su reglamento aplicable.
 
 ###### ARTÍCULO 2°.
 
@@ -99,7 +117,9 @@ El Consejo Directivo será la máxima autoridad del Consejo Estatal de Concertac
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Vicepresidente, que será el Secretario Técnico y de Atención Ciudadana;
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+II.- Un Vicepresidente, que será el Secretario Particular del Ejecutivo del Estado.
 
 III.- Un representante de la sociedad civil, designado por el Presidente;
 
@@ -179,7 +199,9 @@ XVI.- Emitir, con base en la ley de la materia, la normatividad específica para
 
 XVII.- Revisar y aprobar, en su caso, las propuestas para la ejecución concertada de obras públicas, que le presente el coordinador general;
 
-XVIII.- Delegar facultades al Primer Vicepresidente del Consejo Directivo, cuando por razones de operatividad se considere conveniente;
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+XVIII.- Delegar facultades al Vicepresidente del Consejo Directivo, cuando por razones de operatividad se considere conveniente;
 
 > <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
 
@@ -449,9 +471,9 @@ VIII.- Las demás que le confieran este Reglamento, el Presidente del Consejo Di
 
 La Junta Estatal de Participación Social se integrará por:
 
-> <small>(REFORMADA, B.O. 1 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
 
-I.- Un Presidente a cargo del Secretario Técnico y de Atención Ciudadana;
+I.- Un Presidente a cargo del Secretario particular del Ejecutivo del Estado.
 
 II.- Un Secretario;
 
@@ -717,6 +739,10 @@ XIX.- Proponer al Consejo Directivo, la creación de comisiones, comités o grup
 
 XX.- Coordinar la ejecución de los proyectos especiales autorizados por el Consejo Directivo y supervisar su realización.
 
+> <small>(ADICIONADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+XX Bis.- Ejecutar por administración directa o a través de terceros, obras públicas coordinadas con el sector público o concertadas con los sectores social y privado, elaborando los estudios, proyectos arquitectónicos y de ingeniaría necesarios para su realización, a través de la Dirección General de Concertación y Apoyo Técnico, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables, debiendo contar para ello con la previa aprobación del Consejo Directivo del Organismo
+
 XXI.- Apoyar a la Junta Estatal de Participación Social en la integración y funcionamiento de las juntas de participación social para el desarrollo municipal.
 
 XXII.- Celebrar convenios y acuerdos de coordinación y concertación con los ayuntamientos de los municipios del Estado, para la ejecución de programas de obras públicas concertadas, así como con organismos públicos o privados, para apoyar la realización de dichos programas.
@@ -799,11 +825,17 @@ III.- Revisar los expedientes técnicos relativos a las obras, para determinar l
 
 IV.- Organizar y mantener permanentemente actualizado el registro por municipio y por obra específica, de las obras públicas concertadas integrando y conservando los expedientes particulares para cada una de éstas;
 
-V.- Revisar los expedientes técnicos y proyectos ejecutivos de las obras concertadas, verificando que en la formulación e integración de los mismos se cumplan las especificaciones técnicas y presupuestales requeridas para la realización de obras de calidad;
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
 
-VI.- Elaborar e integrar los expedientes técnicos, presupuestos y programas de obra, así como las bases de licitación, substanciar los procedimientos licitarios (sic) correspondientes y proveer lo que resulte necesario para la concertación de las obras públicas que se lleven a cabo, en el marco de las acciones de concertación directa, que se formalicen con los sectores social y privado, realizando el seguimiento y supervisión de dichas obras hasta su terminación y entrega;
+V.- Revisar los expedientes técnicos y proyectos ejecutivos de las obras concertadas, verificando que en la formulación e integración de los mismos se cumplan las especificaciones técnicas y presupuestales requeridas para la realización de obras de calidad y aplicar mecanismos de supervisión de dichas obras concertadas;
 
-VII.- Proponer y llevar a cabo mecanismos de control y supervisión de la ejecución de la obra pública concertada, así como de los procedimientos de su entrega-recepción, con especial énfasis en el control de calidad y elaborar y presentar informes mensualmente al Coordinador General, respecto del avance físico y financiero de las mismas o cuando éste lo solicite;
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+VI.- Elaborar e integrar los expedientes técnicos, los estudios, proyectos arquitectónicos y de ingenierías, presupuestos y programas de obra, así como las bases de licitación, substanciar los procedimientos licitarios o de adjudicación directa correspondientes y apoyar en la elaboración de los contratos que se celebren respecto de obras que habrán de ejecutarse como consecuencia de dichos procedimientos, en términos de la parte final de la fracción II del artículo 1° de este Reglamento;
+
+> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+VII.- Implementar y aplicar los mecanismos de control y supervisión en todo el proceso de ejecución de la obra pública que se realice directamente o por conducto de terceros de acuerdo a la normatividad aplicable, así como de los procedimientos de su entrega-recepción, con especial énfasis en el control de calidad; de igual modo, elaborar y presentar informes mensualmente al Coordinador General, respecto del avance físico y financiero de las mismas o cuando éste lo solicite;
 
 VIII.- Proporcionar a los ayuntamientos, cuando así lo soliciten, los apoyos técnicos que se requieran en el proceso de definición de las propuestas de obras públicas por concertación, así como coordinar y tramitar la liberación de recursos para la elaboración de estudios y proyectos;
 
@@ -826,6 +858,10 @@ ARTÍCULO 51 BIS. Corresponden a la Dirección General de Organización Social l
 I.- Elaborar esquemas y mecanismos de organización y operación, que hagan factible estimular e inducir la participación de la sociedad civil y de los grupos beneficiarios en la realización de obras de infraestructura para el desarrollo social y económico regional del Estado;
 
 II.- Promover que en el proceso de concertación de obras públicas se propicie la acción corresponsable de los beneficiarios, con base en los principios de organización social, solidaridad, corresponsabilidad, pluralidad y transparencia en el uso de los recursos;
+
+> <small>(ADICIONADA, B.O. 28 DE FEBRERO DE 2019)</small>
+
+II Bis.- Participar directamente o por conducto del personal a su cargo en el proceso de concertación a que se refiere el antepenúltimo párrafo del artículo 1 de este Reglamento, procurando en todo momento conciliar las posturas de los grupos beneficiarios y el personal de la Dirección General de Concertación y Apoyo Técnico, elaborando las actas o minutas que registren los acuerdos tomados.
 
 III.- Coordinar con la instancia ejecutora correspondiente, o con los organismos sociales y privados con los que se suscriban acuerdos de concertación directa, la integración democrática de comités de participación social con los beneficiarios de las obras públicas concertadas, como requisito indispensable para la integración de los expedientes técnicos de las mismas;
 
@@ -1036,3 +1072,11 @@ B.O. 1 DE FEBRERO DE 2018.
 ###### ARTÍCULO UNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA”.]
+
+###### ARTÍCULO UNICO
+
+- El presente Reglamento interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
