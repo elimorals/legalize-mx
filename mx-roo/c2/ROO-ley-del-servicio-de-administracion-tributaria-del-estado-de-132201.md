@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -333,11 +335,15 @@ II. El Subsecretario de Ingresos; consejero vocal.
 
 III. El Subsecretario de Política Hacendaria y Control Presupuestal; consejero vocal.
 
-IV. El Subsecretario de Planeación, consejero vocal.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2019)</small>
 
-V. El Procurador Fiscal; consejero vocal, y
+IV. El Subsecretario de Planeación; consejero vocal; y
 
-VI. Tres consejeros independientes, integrantes de la Junta de Gobierno, representando cada cual, a las zonas norte, centro y sur del Estado, respectivamente; consejeros vocales.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2019)</small>
+
+V. El Procurador Fiscal; consejero vocal.
+
+VI. (DEROGADA, P.O. 28 DE FEBRERO DE 2019)
 
 Los consejeros además de las facultades y atribuciones establecidas en esta ley, tendrán las obligaciones que se establezcan en el Reglamento.
 
@@ -761,13 +767,17 @@ El SATQ atenderá las obligaciones que sobre transparencia e información les im
 
 ## Artículos Transitorios
 
-Primero. La Ley del Servicio de Administración Tributaria del Estado de Quintana Roo entrará en vigor el uno de marzo de dos mil diecinueve, previa publicación en el Periódico Oficial del Estado de Quintana Roo y sin perjuicio de lo previsto en los transitorios siguientes.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
+Primero. La Ley del Servicio de Administración Tributaria del Estado de Quintana Roo entrará en vigor el uno de abril de dos mil diecinueve, previa publicación del presente decreto en el Periódico Oficial del Estado de Quintana Roo y sin perjuicio de lo previsto en los transitorios siguientes.
 
 Segundo. A partir de la entrada en vigor de esta Ley, se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
 
 Tercero. Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones, dadas a la Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo, o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Quintana Roo cuando se trate de atribuciones establecidas en el objeto de este órgano desconcentrado, su reglamento interior o cualquier otra disposición jurídica que emane de ellos.
 
-Cuarto. Los asuntos que en materia fiscal que hasta el treinta y uno de diciembre de dos mil dieciocho se encuentren en trámite ante las unidades administrativas de la SEFIPLAN, se continuarán tramitando por el SATQ hasta su resolución.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE FEBRERO DE 2019)</small>
+
+Cuarto. Los asuntos que en materia fiscal que a la entrada en vigor se encuentren en trámite ante las unidades administrativas de la SEFIPLAN, se continuarán tramitando por el SATQ hasta su resolución.
 
 En los juicios o procedimientos judiciales en materia fiscal, en los que el Gobierno del Estado, la SEFIPLAN, la Procuraduría Fiscal del Gobierno del Estado de Quintana Roo o cualquiera de sus unidades administrativas sea parte, el SATQ continuará con la representación legal ante las instancias judiciales correspondientes.
 
@@ -779,7 +789,9 @@ Los trámites ante las unidades administrativas de la SHCP y de la SEFIPLAN que 
 
 Quinto. La SEFIPLAN dentro de los 10 días naturales siguientes a la entrada en vigor de esta Ley deberá emitir escrito y notificar con comunicación oficial que ponga en conocimiento a la Federación y municipios de la creación del SATQ y su representación legal.
 
-Sexto. Durante los 90 primeros días una vez que entre en vigor la presente Ley, los responsables de cada una de las áreas, deberán emitir la comunicación correspondiente, a fin de dar a conocer a las diversas dependencias e instancias relacionadas el inicio de operaciones del Servicio de Administración Tributaria del Estado de Quintana Roo, así como ordenar la notificación respectiva a los contribuyentes cuyos asuntos se encuentren en ejercicio de facultades de comprobación, procesos jurídicos, o cualquier tipo de procedimiento que se esté tramitando.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE FEBRERO DE 2019)</small>
+
+Sexto. Durante los 90 primeros días una vez que entre en vigor la presente Ley, los responsables de cada una de las áreas, deberán emitir la comunicación correspondiente, a fin de dar a conocer a las diversas dependencias e instancias relacionadas el inicio de operaciones del Servicio de Administración Tributaria del Estado de Quintana Roo.
 
 Las Direcciones y unidades administrativas que resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, con el inicio de vigencia de la Ley del Servicio de Administración Tributaria del Estado de Quintana Roo, para tal efecto se estará a lo siguiente:
 
@@ -807,7 +819,9 @@ Décimo Segundo. Dentro de los 30 días siguientes a la entrada en vigor de esta
 
 Décimo Tercero. Dentro de los 60 días siguientes a la entrada en vigor de esta ley, la Junta de Gobierno y el Director General del SATQ, en el ámbito de sus respectivas competencias, deberán aprobar y expedir los Manuales de Organización y de Procedimientos, y realizar las adecuaciones administrativas necesarias de conformidad con lo previsto en el presente Decreto, para el correcto funcionamiento de este Órgano Desconcentrado.
 
-Décimo Cuarto. Dentro de los 2 días siguientes a la entrada en vigor de esta Ley se realizará la Instalación de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
+Décimo Cuarto. Dentro de los 3 días contados a partir de la entrada en vigor de esta Ley se realizará la Instalación de la Junta de Gobierno.
 
 Décimo Quinto. Los nombramientos de los Titulares de las Áreas y demás personal Adscrito al SATQ deberá realizarse por el Director General dentro de los 3 días siguientes a la entrada en vigor de la Ley, salvo los niveles operativos y administrativos que deban realizarse por la Dirección de Administración del SATQ y del Titular del Órgano de Control Interno que hará el Secretario de la Contraloría, que se emitirán dentro de los 10 días siguientes al inicio de vigencia de la Ley.
 
@@ -830,3 +844,13 @@ LIC. EMILIANO VLADIMIR RAMOS HERNÁNDEZ.
 DIPUTADO SECRETARIO:
 
 LIC. JESÚS ALBERTO ZETINA TEJERO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 306 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL DECRETO NÚMERO 294 POR EL QUE SE EXPIDE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO, EMITIDO POR LA XV LEGISLATURA DEL ESTADO”.]
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
