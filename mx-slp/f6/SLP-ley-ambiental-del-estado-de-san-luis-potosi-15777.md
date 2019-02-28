@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-10-01"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -383,13 +383,19 @@ XXXV. Inspeccionar las obras o actividades que lo requieran y sancionar en los c
 
 XXXVI. Elaborar para su aprobación, las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE FEBRERO DE 2019)</small>
 
-XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo, mediante las siguientes acciones:
+XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo. Aprobada la declaratoria respectiva, corresponde a la SEGAM:
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
 
 a) Establecer un monitoreo constante sobre el estado que guardan las áreas naturales protegidas existentes.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+
 b) Expedir convocatorias de manera periódica para atender solicitudes de creación de nuevas áreas naturales, que requieran de dicha protección.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
 
 c) Vigilar las áreas naturales de jurisdicción estatal, que cuenten con su correspondiente plan de manejo;
 
@@ -3322,3 +3328,11 @@ TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso
 Transcurrido dicho término, los establecimientos comerciales y mercantiles que incurran en desacato, serán acreedores a lo establecido en el artículo 159 fracción I y 160 de la Ley Ambiental del Estado de San Luis Potosí.
 
 CUARTO. Los establecimientos comerciales y mercantiles dispondrán de un lapso de trescientos sesenta y cinco días posteriores a la vigencia del presente Decreto, para terminar su inventario de bolsas plásticas desechables y popotes de plástico; así como para elaborar el plan de sustitución de los mismos.
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0116.- SE REFORMA EL ARTÍCULO 7° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
