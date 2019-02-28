@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-credito-educativo-del-5617
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-05"
-last_updated: "2013-10-21"
+last_updated: "2019-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 28 DE FEBRERO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE FEBRERO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 5 de julio de 2007.
 
@@ -794,3 +796,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los manuales de organización, de procedimientos y de servicios al público deberán actualizarse dentro de los sesenta días posteriores a la publicación del presente Acuerdo, quedando facultado el Director General del Instituto para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
+
+B.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobiernos (sic) del Estado de Sonora.
+
+Segundo.- Se abrogan el Reglamento Interior del Instituto de Crédito Educativo del Estado de Sonora (B.O. 33, Sección III de fecha 21 de octubre de 2013 (sic)) y el Reglamento Interior del Instituto de Becas y Estímulos Educativos del Estado de Sonora (B.O. Tomo CXCVIII, edición especial, de fecha 18 de octubre de 2016), a la entrada en vigor de este documento y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+Tercero.- Los manuales y reglamentos necesarios para el correcto funcionamiento y operatividad del IBCEES, deberán expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior del IBCEES, el Director General queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales y reglamentos administrativos.
+
+Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
