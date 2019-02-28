@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2017-12-31"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -693,9 +693,11 @@ VI. Coordinar sus actividades con las organizaciones mencionadas para divulgar l
 
 VII. Realizar las demás actividades conducentes al logro de los fines señalados en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTICULO 54.
 
-Los funcionarios y empleados fiscales del Estado y los municipios, así como los encargados de llevar la fe pública están obligados, bajo responsabilidad personal, a guardar el secreto de los negocios que hayan llegado a su conocimiento en actos de servicio y les está prohibido explotar y aprovechar en cualquier forma, sin la autorización expresa y escrita del interesado, la información que les haya sido proporcionada con propósitos fiscales.
+Los funcionarios y empleados fiscales del Estado y los municipios, así como los encargados de llevar la fe pública, están obligados bajo responsabilidad personal, a guardar el secreto de los negocios que hayan llegado a su conocimiento en actos de servicio, y les está prohibido explotar y aprovechar en cualquier forma sin la autorización expresa y escrita del interesado, la información que les haya sido proporcionada con propósitos fiscales por los contribuyentes o por terceros con ellos relacionados.
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos o verbales relativos a la situación de los contribuyentes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
@@ -2508,5 +2510,13 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 768.- SE REFORMAN LOS ARTÍCULOS, 5°, 20, 21, 24, 25, 31, 35, 35 BIS, 36, 38, 43, 45, 47, 54 TER, 55, 56, 59, 64, 68, 70, 73, 74, 78, 78 BIS, 80, 82, 86, 89, 90, 91, 92, 92 BIS, 92 TER 93, 94, 96, 99, 109, 112, 113, 116, 118, 119, 120, 126, 134, 144, 148, 150, 153, 154, 156, 158, 160, 161, 162, 170, 171, 173,174, 176 Y 177, DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0119.- SE REFORMA EL ARTÍCULO 54, DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
