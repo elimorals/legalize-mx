@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2018-10-02"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -731,9 +731,9 @@ II. Observar las normas técnicas y administrativas aplicables a la ejecución d
 
 III. Proponer al Congreso del Estado a más tardar el quince de octubre de cada año, los proyectos de las tablas de valores unitarios de suelo y construcción.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
 
-En caso de no presentarlos en los términos referidos en el párrafo anterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el año inmediato anterior.
+En caso de no presentarlos en los términos referidos en el párrafo anterior y posterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el año inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2015)</small>
 
@@ -843,9 +843,11 @@ La aprobación de los valores unitarios de suelo y de construcción se llevará 
 
 La aplicación de los valores unitarios de suelo y construcción aprobados por el Congreso del Estado, y publicados en el Periódico Oficial del Estado, es facultad de los ayuntamientos, a través de la Dirección de Catastro.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 86.
 
-Para la determinación de los valores unitarios de suelo, los municipios deberán tomar en consideración la ubicación de los diversos sectores catastrales en las áreas urbanas, urbanizables y no urbanizables, a que se refiere la Ley de Desarrollo Urbano del Estado.
+Para la determinación de los valores unitarios de suelo, los municipios deberán tomar en consideración la ubicación de los diversos sectores catastrales en las áreas urbanas, urbanizables y no urbanizables, a que se refiere la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 87.
 
@@ -943,9 +945,11 @@ II. Comprobante de pago del impuesto predial expedido por la tesorería municipa
 
 III. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción, el cual deberá presentarlo por duplicado, uno para el Instituto, y el segundo será archivado al apéndice del protocolo de los notarios.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 99.
 
-Para identificar plenamente los inmuebles objeto de litigio, los jueces deberán solicitar a los litigantes cuando lo estimen necesario, las autorizaciones municipales correspondientes a que se refiere la Ley de Desarrollo Urbano del Estado y demás ordenamientos aplicables.
+Para identificar plenamente los inmuebles objeto de litigio, los jueces deberán solicitar a los litigantes cuando lo estimen necesario, las autorizaciones municipales correspondientes a que se refiere la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 100.
 
@@ -1151,9 +1155,11 @@ En caso de que hubiera diferencia de más o de menos en la extensión, superfici
 
 El procedimiento de aclaración se iniciará a petición de parte, o por acuerdo de la Dirección General del Instituto o de la Dirección de Catastro Municipal, en su caso, cuando se tenga conocimiento de la falta de concordancia entre la descripción catastral de los bienes inmuebles, y la realidad inmobiliaria y su origen no se deba al incumplimiento de la obligación de declarar o comunicar a que se refieren los artículos 75 y 82 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 130.
 
-En los casos de que la iniciación del procedimiento aclaratorio sea de oficio, se comunicará a los interesados, conforme a lo dispuesto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, concediéndoles un plazo de quince días hábiles para que formulen las alegaciones que estimen convenientes.
+En los casos de que la iniciación del procedimiento aclaratorio sea de oficio, se comunicará a los interesados, conforme a lo dispuesto en el Código Procesal Administrativo para el Estado de San Luis Potosí, concediéndoles un plazo de quince días hábiles para que formulen las alegaciones que estimen convenientes.
 
 ###### ARTÍCULO 131.
 
@@ -1423,7 +1429,9 @@ VI. Aprobar, en su caso, la enajenación o gravamen, por cualquier título, del 
 
 VII. Discutir, a iniciativa de cualquiera de sus integrantes o de la Dirección General, y aprobar, las propuestas de modificación de la legislación y normatividad relativa a las materias de la competencia del Instituto; para enviarlas para su consideración al titular del Ejecutivo Estatal, a fin de que éste determine, en su caso, la presentación de iniciativas de ley a Legislatura, o la expedición de modificaciones reglamentarias;
 
-VIII. Tramitar y resolver conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, los procedimientos de responsabilidad administrativa iniciados en contra del Director General, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2019)</small>
+
+VIII. Tramitar y resolver conforme a la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, los procedimientos de responsabilidad administrativa iniciados en contra del Director General, y
 
 IX. Las demás que le atribuyan la Constitución, la legislación o la normatividad.
 
@@ -1631,9 +1639,11 @@ Para efectos del párrafo anterior, deberá hacer llegar su previsión de manera
 
 En materia de acceso a la información pública serán aplicables al Instituto, las disposiciones que al respecto establezca la legislación especial de la materia.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 159.
 
-En materia de responsabilidades de los servidores públicos se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+En materia de responsabilidades de los servidores públicos se estará a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 160.
 
@@ -1691,9 +1701,11 @@ El monto de las multas a que se refieren las fracciones señaladas, se aplicará
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
 ###### ARTÍCULO 165.
 
-Las personas afectadas por resoluciones dictadas por el Instituto, podrán interponer el recurso que establezca la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; o recurrirlas directamente ante el Tribunal Estatal de lo Contencioso Administrativo; así mismo, en los casos en que proceda, podrán interponer el recurso de revocación establecido en el Código Fiscal del Estado.
+Las personas afectadas por resoluciones dictadas por el Instituto, podrán interponer el recurso que establezca el Código Procesal Administrativo para el Estado de San Luis Potosí; o recurrirlas directamente ante el Tribunal Estatal de Justicia Administrativa; así mismo, en los casos en que proceda, podrán interponer el recurso de revocación establecido en el Código Fiscal del Estado.
 
 ## TRANSITORIOS
 
@@ -1794,3 +1806,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0115.- SE REFORMAN LOS ARTÍCULOS 78, 86, 99, 130, 148, 159, Y 165, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
