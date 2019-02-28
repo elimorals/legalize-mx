@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2018-05-17"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -2491,21 +2491,31 @@ Las licitaciones públicas contempladas en la ley, tendrán por objeto asegurar 
 
 No podrá hacerse erogación alguna que no esté comprendida en el presupuesto de egresos correspondiente o determinada por la ley.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 161.
 
-Todo servidor público tiene derecho a recibir una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. Esta remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes y no podrá ser mayor a la establecida para el Gobernador del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2019)</small>
+
+Todo servidor público tiene derecho a recibir una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. Esta remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo los principios de austeridad, disciplina presupuestal, racionalidad, certeza, motivación y demás requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes reglamentarias que de las mismas emanen, la cual no podrá ser mayor a la establecida para el Gobernador del Estado y la de éste no podrá ser mayor a la establecida para el Presidente de la República.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; sin embargo, la suma de las retribuciones no deberá exceder de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo sueldos, salarios, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-La ley establecerá las sanciones penales y administrativas que correspondan a las conductas que impliquen el incumplimiento de lo establecido en este artículo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
+La ley establecerá las sanciones penales y administrativas que correspondan a las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2715,7 +2725,9 @@ Los entes públicos estatales y municipales, tendrán órganos internos de contr
 
 En el cumplimiento de sus obligaciones, las autoridades responsables de la investigación y sanción de las responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro o inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-Las faltas administrativas graves serán investigadas y sustanciadas por la Entidad de Auditoría Superior del Estado y la Fiscalía Especializada en Combate a la Corrupción, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+
+Las faltas administrativas graves serán investigadas y sustanciadas por la Entidad de Auditoría Superior del Estado y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa.
 
 La ley establecerá los supuestos y procedimientos para la (sic) impugnar la determinación judicial con relación a los delitos derivados de las faltas administrativas graves en materia de corrupción y enriquecimiento inexplicable.
 
@@ -3914,3 +3926,27 @@ TERCERO.- Tratándose de municipios que no cuenten con las tecnologías de la in
 CUARTO.- Las declaraciones patrimoniales que hayan sido presentadas ante la Entidad de Auditoría Superior del Estado antes del 18 de julio de 2017 permanecerán en custodia de dicha instancia.
 
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 30.- QUE CONTIENE REFORMA DEL SEXTO PÁRRAFO DEL ARTÍCULO 175 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 31.- QUE CONTIENE REFORMAS AL PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 161 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente decreto deberá expedir la normatividad que corresponda para dar cumplimiento al presente decreto.
