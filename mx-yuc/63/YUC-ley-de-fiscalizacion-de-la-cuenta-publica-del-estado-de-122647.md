@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-122647"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -55,6 +55,8 @@ Objeto
 
 Esta ley es de orden público y de observancia general en el estado de Yucatán, y tiene por objeto reglamentar los artículos 30, fracciones VII y VII Ter, y 43 Bis de la Constitución Política del Estado de Yucatán, en materia de revisión y fiscalización de la cuenta pública e información financiera gubernamental y establecer las atribuciones de la Auditoría Superior del Estado.
 
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 2.
 
 Definiciones
@@ -63,45 +65,51 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Auditoría superior: la Auditoría Superior del Estado de Yucatán.
 
-II. Comisión: la Comisión de Vigilancia de la Cuenta Pública y Transparencia del Congreso, en términos de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
+II. Autonomía de Gestión: La facultad de la Unidad, para decidir sobre su organización interna, estructurada y funcionamiento.
 
-III. Cuenta pública: la cuenta pública estatal a que se refiere el artículo 30, fracción VII, de la Constitución Política del Estado de Yucatán y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental.
+III. Autonomía Técnica: La facultad de la Unidad, para decidir sobre la planeación, programación, ejecución, informes, seguimiento y resolución en el proceso de evaluación y vigilancia a la Auditoría.
 
-IV. Deuda pública: los financiamientos contratados por los entes públicos, en términos de la ley en materia de deuda pública.
+IV. Comisión: la Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción del Congreso, en términos de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
 
-V. Entes públicos: los poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública estatal, y sus homólogos de los municipios, la Fiscalía General del Estado, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados.
+V. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos.
 
-VI. Entidades fiscalizadas: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales o municipales o las participaciones estatales, no obstante que sean o no considerados entidades paraestatales por el Código de la Administración Pública de Yucatán o paramunicipales, y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines.
+VI. Cuenta pública: la cuenta pública estatal a que se refiere el artículo 30, fracción VII, de la Constitución Política del Estado de Yucatán y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental.
 
-VII. Faltas administrativas: las establecidas en la legislación aplicable en la materia.
+VII. Deuda pública: los financiamientos contratados por los entes públicos, en términos de la ley en materia de deuda pública.
 
-VIII. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la ley en materia de deuda pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+VIII. Entes públicos: los poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública estatal, y sus homólogos de los municipios, la Fiscalía General del Estado, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados.
 
-IX. Gestión financiera: las acciones, tareas y procesos que realizan las entidades fiscalizadas para la administración y ejercicio de los recursos públicos, así como en la ejecución de los planes y programas, conforme a la ley de ingresos, el presupuesto de egresos y demás disposiciones aplicables.
+IX. Entidades fiscalizadas: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales o municipales o las participaciones estatales, no obstante que sean o no considerados entidades paraestatales por el Código de la Administración Pública de Yucatán o paramunicipales, y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines.
 
-X. Información financiera: la información presupuestaria y contable integrada, ordenada y presentada en términos de la Ley General de Contabilidad Gubernamental.
+X. Faltas administrativas: las establecidas en la legislación aplicable en la materia.
 
-XI. Informe de avance de gestión financiera: el informe que rinden los poderes del estado y los entes públicos estatales y municipales de manera consolidada, a través del Ejecutivo estatal al Congreso, sobre los avances físicos y financieros de los programas aprobados para el análisis correspondiente del Congreso, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente a que se refiere el artículo 167 de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán.
+XI. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la ley en materia de deuda pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-XII. Informe general: el informe anual que presenta el auditor superior al Congreso con las observaciones, recomendaciones y acciones promovidas, como resultado de la fiscalización de la información financiera gubernamental y las cuentas públicas.
+XII. Gestión financiera: las acciones, tareas y procesos que realizan las entidades fiscalizadas para la administración y ejercicio de los recursos públicos, así como en la ejecución de los planes y programas, conforme a la ley de ingresos, el presupuesto de egresos y demás disposiciones aplicables.
 
-XIII. Informe específico: el informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 43 Bis de la Constitución Política del Estado de Yucatán.
+XIII. Información financiera: la información presupuestaria y contable integrada, ordenada y presentada en términos de la Ley General de Contabilidad Gubernamental.
 
-XIV. Informes individuales: los informes de cada una de las auditorías practicadas a las entidades fiscalizadas.
+XIV. Informe de avance de gestión financiera: el informe que rinden los poderes del estado y los entes públicos estatales y municipales de manera consolidada, a través del Ejecutivo estatal al Congreso, sobre los avances físicos y financieros de los programas aprobados para el análisis correspondiente del Congreso, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente a que se refiere el artículo 167 de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán.
 
-XV. Ley de ingresos: la ley de ingresos del estado del ejercicio fiscal en revisión.
+XV. Informe general: el informe anual que presenta el auditor superior al Congreso con las observaciones, recomendaciones y acciones promovidas, como resultado de la fiscalización de la información financiera gubernamental y las cuentas públicas.
 
-XVI. Presupuesto de egresos: el presupuesto de egresos del estado o del municipio del ejercicio fiscal correspondiente.
+XVI. Informe específico: el informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 43 Bis de la Constitución Política del Estado de Yucatán.
 
-XVII. Programas: los que tengan esa calidad, de conformidad con lo establecido en la Ley de Planeación para el Desarrollo del Estado de Yucatán y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público estatal.
+XVII. Informes individuales: los informes de cada una de las auditorías practicadas a las entidades fiscalizadas.
 
-XVIII. Servidores públicos: los señalados en la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+XVIII. Ley de ingresos: la ley de ingresos del estado del ejercicio fiscal en revisión.
 
-XIX. Tribunal: el Tribunal de Justicia Administrativa del Estado de Yucatán.
+XIX. Presupuesto de egresos: el presupuesto de egresos del estado o del municipio del ejercicio fiscal correspondiente.
 
-XX. Unidad: la Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado de la comisión.
+XX. Programas: los que tengan esa calidad, de conformidad con lo establecido en la Ley de Planeación para el Desarrollo del Estado de Yucatán y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público estatal.
 
-XXI. Vicefiscalía especializada: la Vicefiscalía Especializada en Combate a la Corrupción.
+XXI. Servidores públicos: los señalados en la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+
+XXII. Tribunal: el Tribunal de Justicia Administrativa del Estado de Yucatán.
+
+XXIII. Unidad: la Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado de la comisión.
+
+XXIV. Vicefiscalía especializada: la Vicefiscalía Especializada en Combate a la Corrupción.
 
 ###### Artículo 3.
 
@@ -137,6 +145,20 @@ Los servidores públicos, así como cualquier entidad, persona física o moral, 
 
 De no proporcionar la información, los responsables serán sancionados en los términos de la legislación aplicable en materia de responsabilidades administrativas y, en su caso, en términos de la legislación penal aplicable.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+###### Artículo 7 Bis.
+
+Apoyo de la Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado.
+
+La Auditoría Superior del Estado facilitará el auxilio que requiera la Unidad para el ejercicio de sus funciones.
+
+El Titular, así como los demás servidores públicos de la Auditoría Superior, deberán proporcionar la información y documentación que solicite la Unidad para efectos de sus auditorías, procesos e investigaciones, de conformidad con sus atribuciones establecidas en las leyes y reglamentos, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+El plazo para proporcionar la información a la Unidad será de 15 días hábiles, contados desde la recepción del oficio. Lo anterior, para efecto del cumplimiento de las atribuciones de la Unidad previstas en el artículo 44 de esta Ley y lo que afecto (sic) disponga su reglamento.
+
+De no proporcionar la información, los responsables serán sancionados en los términos de la legislación aplicable en materia de responsabilidades administrativas y, en su caso, en términos de la legislación penal aplicable.
+
 ###### Artículo 8.
 
 Plazo genérico
@@ -159,13 +181,17 @@ II. La práctica de auditorías sobre el desempeño para verificar el grado de c
 
 ## TÍTULO SEGUNDO. AUDITORÍA SUPERIOR DEL ESTADO DE YUCATÁN
 
-### CAPÍTULO I. Comisión de Vigilancia de la Cuenta Pública y Transparencia
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE MARZO DE 2019)</small>
+
+### CAPÍTULO I. Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 10.
 
 Objeto
 
-La Comisión de Vigilancia de la Cuenta Pública y Transparencia del Congreso del estado tendrá por objeto garantizar la debida coordinación entre este y la auditoría superior, así como de la evaluación de su desempeño.
+La Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción del Congreso del estado tendrá por objeto garantizar la debida coordinación entre este y la auditoría superior, así como de la evaluación de su desempeño, pudiendo ser a través de la Unidad.
 
 ###### Artículo 11.
 
@@ -199,7 +225,9 @@ X. Proponer al Congreso el reglamento interior de la unidad.
 
 XI. Aprobar el programa de actividades de la unidad y requerirle todo tipo de información relativa a sus funciones; de igual forma, aprobar políticas, lineamientos y manuales que la unidad requiera para el ejercicio de sus funciones.
 
-XII. Ordenar a la unidad la práctica de auditorías que deberá realizar la auditoría superior.
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XII. Ordenar a la unidad la práctica de auditorías que deberá realizar a la auditoría superior.
 
 XIII. Aprobar los indicadores que utilizará la unidad para la evaluación del desempeño de la auditoría superior y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto y los indicadores de la unidad.
 
@@ -477,6 +505,10 @@ XXXVIII. Interpretar esta ley para efectos administrativos, así como aclarar y 
 
 XXXIX. Comparecer por lo menos una vez al año, ante la comisión aun cuando esta no lo cite, y las demás veces que sea necesario, para aclarar o profundizar sobre el contenido de los informes individuales y del informe general.
 
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XL. Atender las solicitudes de información y documentación que sea necesaria para realizar auditorías, evaluaciones técnicas, visitas o inspecciones por parte de la Unidad a la Auditoria.
+
 Las facultades señaladas en las fracciones II, V, VI, VII, IX, X, XVI, XVII, XIX, XXII, XXIII, XXIV, XXVIII, XXXI y XXXIX de este artículo, no podrán ser delegadas por el auditor superior.
 
 ###### Artículo 24.
@@ -643,7 +675,9 @@ La comisión, a través de la unidad, vigilará el estricto cumplimiento de las 
 
 Atribuciones
 
-La unidad tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE MARZO DE 2019)</small>
+
+La unidad es un órgano especializado, auxiliar de la Comisión, que contará con autonomía técnica y de gestión en el desarrollo, entendiendo lo anterior como la atribución para resolver y tomar decisiones relacionadas a su operatividad interna en su ámbito de competencia. La unidad tendrá las atribuciones siguientes:
 
 I. Vigilar que el funcionamiento y los procedimientos, métodos y sistemas necesarios para la fiscalización de las cuentas públicas de la auditoría superior, se apeguen a lo establecido en esta ley y demás disposiciones legales aplicables.
 
@@ -677,6 +711,24 @@ XIV. Participar en las sesiones de la comisión para brindar apoyo técnico y es
 
 XV. Recibir las quejas de las entidades fiscalizadas sobre la actuación del auditor superior del estado y sustanciar la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere esta ley, o bien el previsto en la legislación aplicable en materia de responsabilidades administrativas, notificando al quejoso el dictamen correspondiente, previa aprobación de la comisión.
 
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XVI. Emitir opinión técnica debidamente justificada, a solicitud de la Comisión, sobre la existencia de motivos de remoción del Auditor Superior, de acuerdo a lo que establece el artículo 25 de la Ley.
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XVII. Expedir las credenciales o constancias de identificación del personal de la Unidad, que se autorice para la práctica de las auditorías que se realicen a la Auditoría Superior.
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XVIII. Imponer las multas por infracciones a la Ley; previo dictamen de la Comisión, y aprobación del Pleno de la Legislatura.
+
+Para lo anterior, se deberá salvaguardar el principio de presunción de inocencia, así como lo relativo a la protección de datos personales de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XIX. Conocer y resolver sobre el recurso que señale la ley, en contra de las multas que imponga.
+
 ###### Artículo 45.
 
 Designación del titular de la unidad
@@ -699,9 +751,15 @@ II. Requerir a las unidades administrativas de la auditoría superior la informa
 
 III. Expedir certificaciones de los documentos que obren en los archivos de la unidad.
 
-IV. Citar a comparecer al auditor superior del estado cuando, en el ejercicio de sus facultades de evaluación y seguimiento, así se requiera.
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+IV. Citar a comparecer al auditor superior del estado cuando, en el ejercicio de sus facultades de evaluación y seguimiento, así se requiera, previa aprobación de la Comisión.
 
 V. Representar a la unidad.
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+VI. Las demás que establezca el Reglamento Interior de la Unidad
 
 ###### Artículo 47.
 
@@ -717,7 +775,9 @@ Carácter de los cargos
 
 Los servidores públicos de la unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 
-El ingreso a la unidad será mediante concurso público.
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
+El ingreso a la unidad será mediante concurso público, con base a las convocatorias y lineamientos que sean propuestos por el titular de la Unidad, que sea emitido por la Comisión y aprobadas en el Pleno.
 
 ## TÍTULO TERCERO. PROCESO DE FISCALIZACIÓN DE LA CUENTA PÚBLICA
 
@@ -1087,6 +1147,16 @@ II. En el caso de personas morales, públicas o privadas, la multa consistirá e
 
 Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos para explotación de bienes públicos o recibidos en concesión o subcontratado obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera la auditoría superior.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+###### Artículo 85 Bis.
+
+Multas de la Unidad
+
+La Unidad podrá imponer, como medida de apremio al Titular y a las Unidades Administrativas de la Auditoría Superior del Estado, multas conforme a lo siguiente:
+
+Cuando el titular o las unidades administrativas no atiendan los requerimientos a que se refiere el artículo 7 bis de esta Ley, salvo que exista mandato judicial que se los impida, la Unidad podrá imponerles una multa de hasta dos mil unidades de medida y actualización.
+
 ###### Artículo 86.
 
 Plazo para el pago de las multas
@@ -1105,6 +1175,10 @@ Derecho de audiencia
 
 Para imponer la multa que corresponda, la auditoría superior debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y, en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta ley.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+En el caso de la multa impuesta por la Unidad, se le notificará al presunto infractor la sanción y se le concederá tres días hábiles contados a partir de la recepción de la sanción, para que exprese por escrito lo que a su derecho convenga.
+
 ###### Artículo 89.
 
 Otras responsabilidades
@@ -1119,13 +1193,19 @@ La negativa a entregar información a la auditoría superior, así como los acto
 
 Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por el Código Penal del Estado de Yucatán.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+Lo anterior, aplica también para los servidores públicos de la Auditoría Superior que nieguen o entreguen información falsa a la Unidad, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora de la Unidad.
+
 ### CAPÍTULO VIII. Recurso de reconsideración
 
 ###### Artículo 91.
 
 Tramitación del recurso
 
-La tramitación del recurso de reconsideración en contra de las multas impuestas por la auditoría superior, se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE MARZO DE 2019)</small>
+
+La tramitación del recurso de reconsideración en contra de las multas impuestas por la auditoría superior o el que le corresponda por ley a la Unidad, se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá:
 
 I. La mención de la autoridad administrativa que impuso la multa.
 
@@ -1562,3 +1642,17 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 47/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA Y EL REGLAMENTO INTERIOR DE LA UNIDAD DE VIGILANCIA Y EVALUACIÓN DE LA AUDITORÍA SUPERIOR, TODAS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
