@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2017-10-20"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -479,7 +479,25 @@ La falta de aviso al trabajador o al Tribunal de los Trabajadores al Servicio de
 
 ARTICULO 48 bis.- El trabajador podrá solicitar ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, y optar entre su reinstalación en el trabajo que desempeñaba, o que se le indemnice con el importe de 3 meses de salario.
 
-Si en el juicio correspondiente no comprueba la dependencia la causa del cese, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
+Si en el juicio correspondiente no comprueba la dependencia la causa del cese, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte al párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE MARZO DE 2019)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE MARZO DE 2019)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE MARZO DE 2019)</small>
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE MARZO DE 2019)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 4 DE MAYO DE 2011)</small>
 
@@ -1360,3 +1378,11 @@ Primero. Este decreto entrará en vigor el día siguiente al de su publicación 
 Ampliación de beneficios
 
 Segundo. El beneficio otorgado en el presente decreto, podrá ser extensivo a todos los trabajadores de las entidades paraestatales del estado, en tanto éstas adecuan su normatividad interna que las regula.
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 46/2019 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE YUCATÁN, EN MATERIA DE SALARIOS CAÍDOS".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Articulo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
