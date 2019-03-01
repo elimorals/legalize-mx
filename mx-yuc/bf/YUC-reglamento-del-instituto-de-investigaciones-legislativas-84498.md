@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-instituto-de-investigaciones-legislativas-84498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-12"
-last_updated: "2016-09-30"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "YUC"
 ---
 # REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 12 de enero de 2012.
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE EL REGLAMENTO DEL INSTITTUTO (SIC) DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política, y 18 y 43 fracción I de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -123,7 +127,9 @@ IX.- Elaborar el programa anual de actividades y rendir un informe semestral en 
 
 X.- Llevar a cabo un plan de difusión de las investigaciones, convenios y demás actividades que realice el IILPLEY, y verificar que éstas se realicen;
 
-XI.- Elaborar la Gaceta Legislativa trimestralmente, y
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+XI.- Elaborar la Revista Legislativa trimestralmente, y
 
 XII.- Las demás que le solicite o acuerde el Congreso, el Presidente de la Mesa Directiva, la Junta, las comisiones permanentes o la Diputación Permanente.
 
@@ -191,11 +197,15 @@ II.- Plazo estimado para la entrega del trabajo.
 
 Para la distribución de los trabajos encomendados al IILPLEY, el Director deberá turnar el trabajo solicitado mediante oficio dirigido al investigador para el ejercicio de sus facultades, debiendo seguir el orden previamente establecido e informándole del plazo con que cuente para la finalización del trabajo.
 
-### CAPÍTULO VII. De la Gaceta Legislativa
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE MARZO DE 2019)</small>
+
+### CAPÍTULO VII. De la Revista Legislativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 16.
 
-La Gaceta Legislativa es el órgano de difusión del Poder Legislativo y su propósito es divulgar:
+La Revista Legislativa es el órgano de difusión del Poder Legislativo y su propósito es divulgar:
 
 I.- Iniciativas de ley o de decreto de reformas que sean aprobadas por el Pleno del Congreso, así como el proceso legislativo que se siguió;
 
@@ -203,15 +213,21 @@ II.- Escritos de investigadores e integrantes del Poder Legislativo así como de
 
 III.- Todas aquellas actividades del Congreso que se consideren relevantes para su difusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 17.
 
-La Gaceta Legislativa deberá contener por lo menos las características siguientes:
+La Revista Legislativa deberá contener por lo menos las características siguientes:
 
-I.- La denominación “Gaceta Legislativa”;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+I.- La denominación "Revista Legislativa";
 
 II.- La impresión del logotipo de la Legislatura;
 
-III.- Nombre del órgano encargado de la Edición y Difusión de la Gaceta Legislativa;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+III.- Nombre del órgano encargado de la Edición y Difusión de la Revista Legislativa;
 
 IV.- Nombres de los integrantes de la Legislatura y titulares de los órganos del Congreso;
 
@@ -221,23 +237,31 @@ VI.- El índice de contenido, y
 
 VII.- Las demás secciones que sean necesarias para enriquecer el trabajo legislativo.
 
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 18.
 
-La Gaceta Legislativa estará a cargo del Director y de los Investigadores que sean necesarios para su elaboración.
+La Revista Legislativa estará a cargo del Director y de los Investigadores que sean necesarios para su elaboración.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 19.
 
-La Gaceta Legislativa se publicará ordinariamente de forma trimestral y podrá ser de forma extraordinaria cuando así lo apruebe el Comité Editorial.
+La Revista Legislativa se publicará ordinariamente de forma trimestral y podrá ser de forma extraordinaria cuando así lo apruebe el Comité Editorial.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 20.
 
-Cada edición de la Gaceta Legislativa podrá ser en versión digital e impresa y contará con el número de ejemplares suficientes para lograr su más amplia difusión.
+Cada edición de la Revista Legislativa podrá ser en versión digital e impresa y contará con el número de ejemplares suficientes para lograr su más amplia difusión.
 
-Las versiones definitivas de la Gaceta se entregarán para su clasificación y uso al acervo hemerográfico de la Biblioteca del H. Congreso.
+Las versiones definitivas de la Revista Legislativa se entregarán para su clasificación y uso al acervo hemerográfico de la Biblioteca del H. Congreso.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 21.
 
-Para la publicación de la Gaceta Legislativa se contará con un Comité Editorial responsable de dictaminar sobre sus contenidos.
+Para la publicación de la Revista Legislativa se contará con un Comité Editorial responsable de dictaminar sobre sus contenidos.
 
 ### CAPÍTULO VIII. Del Comité Editorial
 
@@ -259,9 +283,13 @@ El Comité contará con las siguientes funciones:
 
 I.- Establecer los criterios académicos de las publicaciones que edite y elabore el IILPLEY;
 
-II.- Aprobar el contenido de la Gaceta Legislativa, así como de las demás publicaciones del IILPLEY;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
 
-III.- Aprobar los casos en que podrá ser publicada de forma extraordinaria la Gaceta Legislativa, y
+II.- Aprobar el contenido de la Revista Legislativa, así como de las demás publicaciones del IILPLEY;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+III.- Aprobar los casos en que podrá ser publicada de forma extraordinaria la Revista Legislativa, y
 
 IV.- Las demás atribuciones que el Comité acuerde para el mejoramiento de las publicaciones del IILPLEY.
 
@@ -398,3 +426,19 @@ D.O. 30 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN.”]
 
 Artículo Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 48/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en Vigor
+
+Artículo Primero.- El presente Decreto entrará en vigor a los 60 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disponibilidad Presupuestaria
+
+Artículo Segundo.- La implementación de las reformas contenidas en el presente Decreto, se realizarán paulatinamente de conformidad con la disponibilidad presupuestaria para tal efecto.
+
+Derogación expresa
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
