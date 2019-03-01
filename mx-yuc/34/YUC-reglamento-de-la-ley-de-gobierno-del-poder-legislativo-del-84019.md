@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2019-02-09"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -501,17 +501,15 @@ El control de la asistencia, las votaciones, los retardos y las justificaciones 
 
 #### Sección Primera. De la Integración y Contenido
 
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 54.
 
-El Presidente de la Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno y que contendrá, la síntesis de acta de la sesión anterior, las Comunicaciones oficiales del Ejecutivo, Tribunal Superior de Justicia y de la Auditoría Superior del Estado, así como de los poderes federales, estatales y de los ayuntamientos, las iniciativas, las propuestas que reciba oportunamente de la Junta, los dictámenes y resoluciones que le turnen las comisiones y el punto de asuntos generales, los cuales quedarán excluidos en las sesiones solemnes y extraordinarias.
+El Presidente de la Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno y que contendrá, la síntesis de acta de la sesión anterior, las Comunicaciones oficiales, las iniciativas, las propuestas que reciba oportunamente de la Junta, los dictámenes y sus resoluciones, así como los que le turnen las comisiones y el punto de asuntos generales, los cuales quedarán excluidos en las sesiones solemnes y extraordinarias.
 
 Tendrán prioridad aquellos asuntos que impliquen un mayor interés público y los que por término constitucional, legal o reglamentario, requieran discusión y votación inmediata en el Pleno.
 
-El Presidente del Congreso notificará vía electrónica a los diputados el Orden del día y pondrá a disposición en la página electrónica oficial del Poder Legislativo, a más tardar a las 22:00 horas del día anterior de cada Sesión.
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
-
-Cuando se requiera realizar una segunda o tercera sesión en el mismo día, no se requerirá de esta formalidad.
+Se notificará vía electrónica a los diputados el Orden del día y lo pondrá a disposición en la página electrónica oficial del Poder Legislativo, adjuntando los documentos correspondientes, a más tardar a las 22:00 horas del día anterior de cada Sesión.
 
 ###### Artículo 55.
 
@@ -1327,7 +1325,9 @@ III. Cuando justifique su inasistencia a la sesión a la que fue previamente con
 
 ## TÍTULO SEXTO. Información y Difusión de las Actividades del Congreso
 
-### CAPÍTULO I. Del Diario de los Debates
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE MARZO DE 2019)</small>
+
+### CAPÍTULO I. Del Diario de los Debates y la Gaceta Parlamentaria
 
 ###### Artículo 154.
 
@@ -1367,11 +1367,35 @@ XVI.- Significado de las siglas y abreviaturas incluidas.
 
 Se publicará uno por cada Período Ordinario de Sesiones y el respectivo receso.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+###### Artículo 154 Bis.
+
+La Gaceta Parlamentaria es el órgano electrónico de difusión de la actividad legislativa y contendrá la siguiente información:
+
+I.- Convocatorias y orden del día de las reuniones de las comisiones y los comités; así como cualquier otro tipo de invitaciones o notificaciones para los diputados.
+
+II.- Registro de asistencia de los diputados y diputadas a las sesiones del Pleno, de Comisiones y en su caso, de comités;
+
+III.- Solicitudes de licencias de los diputados y diputadas;
+
+IV.- Iniciativas de ley, de decreto o puntos de acuerdo, que se presenten en el Congreso y las que se presenten en la Diputación Permanente;
+
+V.- Dictámenes de las comisiones y los votos particulares que sobre los mismos se presenten;
+
+VI.- Minutas aprobadas en sesión del Pleno al Congreso;
+
+VII.- Observaciones del Titular del Poder Ejecutivo enviadas al Congreso.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 155.
 
-El Diario de los Debates deberá aparecer en los medios informáticos y electrónicos que el Congreso ponga a disposición del público en general.
+El Diario de los Debates y la Gaceta Parlamentaria deberán aparecer en los medios informáticos y electrónicos que el Congreso ponga a disposición del público en general.
 
 Las versiones definitivas digitalizadas del Diario de los Debates se entregarán para su clasificación y uso al acervo del Congreso.
+
+La Gaceta Parlamentaria se actualizará todos los días hábiles en la página oficial del Poder Legislativo con la información que establece el artículo 154 bis de este reglamento y semanalmente se generará un documento electrónico que contenga un concentrado de las actualizaciones a fin de generar un archivo histórico permanente.
 
 ### CAPÍTULO II. De la relación con los medios de comunicación
 
@@ -1395,7 +1419,9 @@ I.- Facilitar a los informadores acreditados ante el Congreso, y en general a to
 
 II.- Informar sobre las iniciativas de ley o decreto, las propuestas que no constituyan iniciativas y que se reciban por el Congreso, así como los proyectos de dictamen que sean discutidos y resueltos por el Pleno;
 
-III.- Apoyar el trabajo de los informadores, a través de las versiones estenográficas, la Gaceta Legislativa y el Diario de los Debates;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+III.- Apoyar el trabajo de los informadores, a través de las versiones electrónicas de la Gaceta Parlamentaria y el Diario de los Debates;
 
 IV.- Elaborar un boletín informativo que incluya la parte sustancial de las sesiones, un resumen de las discusiones y el resultado de las votaciones. El boletín también incluirá información de los acuerdos tomados en las comisiones que hayan tenido reunión;
 
@@ -1567,9 +1593,17 @@ II.- Dirección General de Administración y Finanzas;
 
 III.- Instituto de Investigación Legislativas;
 
-IV.- Auditoría Superior del Estado, y
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
 
-V.- Dirección de Evaluación del Presupuesto.
+IV.- Auditoría Superior del Estado;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+V.- Dirección de Evaluación del Presupuesto, y
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+VI.- Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado.
 
 ###### Artículo 178.
 
@@ -1622,6 +1656,10 @@ La Auditoría Superior del Estado tendrá la organización, funcionamiento y atr
 ###### Artículo 185.
 
 La Dirección de Evaluación del Presupuesto tendrá la organización, funcionamiento y atribuciones conforme a su Ley, su reglamento y las demás normas aplicables.
+
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+Artículo 185 bis.- La Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado tendrá la organización, funcionamiento y atribuciones que establecen la Ley de Fiscalización, su reglamento y las demás normas aplicables.
 
 ## TÍTULO NOVENO. Reformas al Reglamento
 
@@ -1676,3 +1714,33 @@ D.O. 9 DE FEBRERO DE 2019.
 Primero. El presente decreto entrará en vigor en un plazo de 60 días naturales a partir de su publicación en el Diario Oficial del Gobierno del Estado, a fin de que la Dirección General de Administración y Finanzas del Poder Legislativo, efectúe las medidas administrativas necesarias a través de la Coordinación del Departamento de Informática.
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 47/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA Y EL REGLAMENTO INTERIOR DE LA UNIDAD DE VIGILANCIA Y EVALUACIÓN DE LA AUDITORÍA SUPERIOR, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 48/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN".]
+
+Entrada en Vigor
+
+Artículo Primero.- El presente Decreto entrará en vigor a los 60 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disponibilidad Presupuestaria
+
+Artículo Segundo.- La implementación de las reformas contenidas en el presente Decreto, se realizarán paulatinamente de conformidad con la disponibilidad presupuestaria para tal efecto.
+
+Derogación expresa
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
