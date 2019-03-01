@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2017-09-11"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -113,41 +115,47 @@ XII.- Dirección de Evaluación del Presupuesto: unidad técnica dependiente del
 
 XIII.- Dirección General de Administración y Finanzas: órgano administrativo encargado de las funciones relativas a la elaboración, ejercicio y aplicación del gasto del Poder Legislativo;
 
-XIV.- Gaceta Legislativa: medio de difusión de las actividades del Poder Legislativo;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
 
-XV.- Instituto de Investigaciones Legislativas: órgano técnico-académico del Congreso, encargado de realizar investigaciones para la actualización de las fuentes de información de los diputados y profesionistas vinculados a la tarea legislativa, que sustenten la actualización de la normatividad estatal, así como para difundir temas relacionados con la historia del Poder Legislativo;
+XIV.- Revista Legislativa: medio de difusión de las actividades del Poder Legislativo;
 
-XVI.- Junta Preparatoria: sesión llevada a cabo por los diputados, para designar a los integrantes de una Mesa Directiva;
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
 
-XVII.- Ley: resolución del Congreso, que establece ordenamientos de carácter general y obligatorio para todos los habitantes del Estado;
+XV.- La Gaceta Parlamentaria: medio de difusión electrónico para dar a conocer previamente a los diputados y la sociedad en general, en la página de internet del Poder Legislativo, las actividades legislativas del Congreso.
 
-XVIII.- Mesa Directiva: órgano de dirección de los trabajos legislativos, que asegura el desahogo ordenado de los asuntos, la organización de los debates y las votaciones;
+XVI.- Instituto de Investigaciones Legislativas: órgano técnico-académico del Congreso, encargado de realizar investigaciones para la actualización de las fuentes de información de los diputados y profesionistas vinculados a la tarea legislativa, que sustenten la actualización de la normatividad estatal, así como para difundir temas relacionados con la historia del Poder Legislativo;
 
-XIX.- Pleno: el Congreso del Estado de Yucatán reunido en sesión legalmente instalada y máxima instancia resolutora del Poder Legislativo;
+XVII.- Junta Preparatoria: sesión llevada a cabo por los diputados, para designar a los integrantes de una Mesa Directiva;
 
-XX.- Presidente de la Mesa Directiva: Diputado designado para tal efecto y ostenta la representación del Poder Legislativo;
+XVIII.- Ley: resolución del Congreso, que establece ordenamientos de carácter general y obligatorio para todos los habitantes del Estado;
 
-XXI.- Reglamento: resolución que el Congreso emite, para regular disposiciones generales;
+XIX.- Mesa Directiva: órgano de dirección de los trabajos legislativos, que asegura el desahogo ordenado de los asuntos, la organización de los debates y las votaciones;
 
-> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+XX.- Pleno: el Congreso del Estado de Yucatán reunido en sesión legalmente instalada y máxima instancia resolutora del Poder Legislativo;
 
-XXII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común o de manera independiente, excluyendo a los diputados que se separen de una Fracción Legislativa;
+XXI.- Presidente de la Mesa Directiva: Diputado designado para tal efecto y ostenta la representación del Poder Legislativo;
 
-> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
-
-XXIII.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso;
+XXII.- Reglamento: resolución que el Congreso emite, para regular disposiciones generales;
 
 > <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-XXIV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas;
+XXIII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común o de manera independiente, excluyendo a los diputados que se separen de una Fracción Legislativa;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXIV.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso;
+
+> <small>(REFORMADA, D.O. 20 DE FEBRERO DE 2015)</small>
+
+XXV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas;
 
 > <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-XXV.- Períodos Ordinarios: Son las sesiones efectuadas por el Pleno del Congreso dentro de los términos establecidos en el artículo 27 de la Constitución Política del Estado, y
+XXVI.- Períodos Ordinarios: Son las sesiones efectuadas por el Pleno del Congreso dentro de los términos establecidos en el artículo 27 de la Constitución Política del Estado, y
 
 > <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
 
-XXVI.- Períodos Extraordinarios: Son las sesiones efectuadas por el Pleno del Congreso convocadas por la Diputación Permanente dentro de las facultades que le confiere el artículo 43 fracción I de la Constitución Política del Estado. En estas sesiones únicamente se abordarán los asuntos para los cuales se convocó en el acuerdo respectivo mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+XXVII.- Períodos Extraordinarios: Son las sesiones efectuadas por el Pleno del Congreso convocadas por la Diputación Permanente dentro de las facultades que le confiere el artículo 43 fracción I de la Constitución Política del Estado. En estas sesiones únicamente se abordarán los asuntos para los cuales se convocó en el acuerdo respectivo mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### Artículo 6.
 
@@ -391,7 +399,7 @@ La Mesa Directiva, se elegirá por mayoría de votos y se integrará por un pres
 
 La Mesa Directiva tendrá las siguientes atribuciones:
 
-l.- Asegurar el adecuado desarrollo de las sesiones del Pleno;
+I.- Asegurar el adecuado desarrollo de las sesiones del Pleno;
 
 II.- Adoptar las decisiones y medidas que requiera la organización del trabajo legislativo;
 
@@ -963,7 +971,9 @@ Los diputados que dejen de pertenecer a una Fracción o Representación Legislat
 
 La designación de los titulares de los órganos de control interno se llevará a cabo de conformidad con el procedimiento siguiente:
 
-I.- La Comisión de Vigilancia de la Cuenta Pública y Transparencia expedirá la convocatoria pública para la designación del titular del órgano de control interno correspondiente, la cual deberá ser aprobada por el Pleno y publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Legislativa del Congreso, en el sitio web del Congreso y, preferentemente, en periódicos de circulación estatal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 1 DE MARZO DE 2019)</small>
+
+I.- La Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción expedirá la convocatoria pública para la designación del titular del órgano de control interno correspondiente, la cual deberá ser aprobada por el Pleno y publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso y en medios de comunicación impresa de circulación local.
 
 La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que debe realizarse la designación.
 
@@ -975,7 +985,9 @@ IV.- El secretario general del Poder Legislativo turnará los expedientes a la C
 
 V.- En caso de que la Comisión de Vigilancia de la Cuenta Pública y Transparencia determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
 
-VI.- La Comisión de Vigilancia de la Cuenta Pública y Transparencia elaborará un acuerdo que deberá publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Legislativa del Congreso y en el sitio web del Congreso; y contendrá lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 1 DE MARZO DE 2019)</small>
+
+VI.- La Comisión de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción elaborará un acuerdo que deberá publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso; y contendrá lo siguiente:
 
 a) El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
 
@@ -1133,9 +1145,17 @@ I.- Secretaría General del Poder Legislativo;
 
 II.- Auditoría Superior del Estado;
 
-III.- Instituto de Investigaciones Legislativas, y
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
 
-IV.- Dirección de Evaluación del Presupuesto.
+III.- Instituto de Investigaciones Legislativas;
+
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+IV.- Dirección de Evaluación del Presupuesto, y
+
+> <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
+
+V.- Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado.
 
 Estos órganos contarán con las unidades administrativas necesarias para el cumplimiento de sus funciones, de conformidad con el Presupuesto de Egresos del Poder Legislativo, de esta Ley y su reglamento, y demás disposiciones normativas aplicables.
 
@@ -1165,7 +1185,9 @@ VI.- Ejecutar y dar seguimiento a los acuerdos del Pleno, de la Diputación Perm
 
 VII.- Hacer entrega a los presidentes de las Comisiones, de los expedientes que se les turnen y llevar su control y seguimiento;
 
-VIII.- Dar seguimiento para la oportuna elaboración del Diario de los Debates y la publicación de la Gaceta Legislativa;
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 2019)</small>
+
+VIII.- Dar seguimiento para la oportuna elaboración del Diario de los Debates y la publicación de la Gaceta Parlamentaria;
 
 IX.- Rendir previo Acuerdo con el Presidente del Congreso, los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte; así como en los demás asuntos de carácter jurisdiccional;
 
@@ -1273,15 +1295,25 @@ La Dirección de Evaluación del Presupuesto es el órgano técnico del Congreso
 
 Para ello, deberá contar con indicadores implementados para medir los resultados de las actividades que realicen los sujetos obligados, con base en lo que establezcan las leyes de la materia que expida el Congreso.
 
-#### Sección Quinta. Del Diario de los Debates y Gaceta Legislativa
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE MARZO DE 2019)</small>
+
+#### Sección Quinta. Diario de los Debates, Revista Legislativa y Gaceta Parlamentaria
 
 ###### Artículo 74.
 
 El Congreso tendrá un órgano técnico encargado de la elaboración del Diario de los Debates, el cual se editará con la periodicidad y forma que determine el reglamento correspondiente.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+###### Artículo 74 Bis.
+
+La Revista Legislativa es el medio de difusión, que se encarga de dar a conocer los aspectos más relevantes de las actividades legislativas y estará a cargo del Instituto de Investigaciones Legislativas del Poder Legislativo del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 75.
 
-La Gaceta Legislativa es el medio de difusión, que se encarga de dar a conocer los aspectos más relevantes de las actividades legislativas y estará a cargo del Director del Instituto de Investigaciones Legislativas.
+La Gaceta Parlamentaria, es el medio de difusión electrónica del Congreso, y estará a cargo de la Secretaria General para dar a conocer en el portal de internet del Poder Legislativo, los asuntos que se tratarán en las sesiones del Pleno y de Comisiones o Comités, así como de las actividades relevantes en materia legislativa y que deban conocer previamente los diputados y la sociedad en general.
 
 #### Sección Única. De la Comunicación Social
 
@@ -1320,6 +1352,10 @@ XIII.- Descontar de las percepciones de los diputados, la suma que corresponda a
 XIV.- Supervisar el trabajo de los empleados a su cargo y el cumplimiento de sus obligaciones, y
 
 XV.- Las demás que le asigne el Pleno, la Diputación Permanente, la Junta y cualquier disposición aplicable.
+
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
+
+De igual manera, contará con la Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado que es el órgano técnico previsto en la Ley de Fiscalización de la cuenta Pública del Estado.
 
 ###### Artículo 77.
 
@@ -1544,3 +1580,31 @@ La presente reforma, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Legislativo del Estado de Yucatán, tomara todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de la reforma de este artículo a partir de su publicación.
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 47/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA Y EL REGLAMENTO INTERIOR DE LA UNIDAD DE VIGILANCIA Y EVALUACIÓN DE LA AUDITORÍA SUPERIOR, TODAS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 48/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en Vigor
+
+Artículo Primero.- El presente Decreto entrará en vigor a los 60 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disponibilidad Presupuestaria
+
+Artículo Segundo.- La implementación de las reformas contenidas en el presente Decreto, se realizarán paulatinamente de conformidad con la disponibilidad presupuestaria para tal efecto.
+
+Derogación expresa
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
