@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-15"
-last_updated: "2011-03-30"
+last_updated: "2019-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68386&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-05-13"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2009.
 
@@ -33,11 +33,11 @@ REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 1.
 
-La Consejería Jurídica del Ejecutivo Federal, en adelante la Consejería, es la dependencia de la Administración Pública Federal Centralizada que tiene a su cargo las funciones previstas en el apartado A del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Orgánica de la Administración Pública Federal, consistentes en brindar asesoría y apoyo técnico jurídico al Presidente de la República, representarlo en todo tipo de procedimientos administrativos, electorales y jurisdiccionales, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+La Consejería Jurídica del Ejecutivo Federal, en adelante la Consejería, es la dependencia de la Administración Pública Federal que tiene a su cargo las funciones previstas en los párrafos tercero y cuarto del artículo 90 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Orgánica de la Administración Pública Federal, consistentes en brindar asesoría y apoyo técnico jurídico al Presidente de la República; así como representar a la Federación y al Presidente de la República en los asuntos en los que éstos sean parte y ejercer las demás atribuciones que le confieren otros ordenamientos jurídicos.
 
 Corresponde igualmente a la Consejería, coordinar los programas de normatividad jurídica de la Administración Pública Federal que apruebe el Presidente de la República y procurar la congruencia de los criterios jurídicos entre dependencias y entidades, así como prestar apoyo y asesoría en materias jurídicas a las entidades federativas que lo soliciten.
 
@@ -59,7 +59,9 @@ III. Consejería Adjunta de Control Constitucional y de lo Contencioso;
 
 IV. Coordinación de Asesores, y
 
-V. Dirección General de Administración y de Finanzas.
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+V. Unidad de Administración y Finanzas.
 
 ###### Artículo 4.
 
@@ -71,15 +73,23 @@ La Consejería, por conducto de sus servidores públicos y unidades administrati
 
 El Consejero dispondrá la evaluación periódica de los avances en las metas y objetivos de los programas respectivos.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 6.
 
-El ingreso, desempeño, permanencia y evaluación de los servidores públicos y del personal profesional de la Consejería se regirá por los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, conforme los lineamientos que para ese efecto emita el Consejero en términos de la legislación correspondiente aplicable, sin perjuicio de las demás disposiciones que resulten aplicables.
+El ingreso, desempeño, permanencia y evaluación de los servidores públicos y del personal profesional de la Consejería se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia, conforme a los lineamientos que para ese efecto emita el Consejero, en términos de la legislación aplicable, sin perjuicio de las demás disposiciones que resulten aplicables.
 
 ###### Artículo 7.
 
 La Consejería contará con un Órgano Interno de Control que realizará las funciones de control interno compatibles con la naturaleza especializada de la Dependencia y el carácter de los asuntos cuyo despacho tiene encomendado, de conformidad con las leyes de la materia y el respectivo manual de organización.
 
-El titular del Órgano Interno de Control, será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y 63, del Reglamento Interior de la Secretaría de la Función Pública, quien en el ejercicio de sus facultades se auxiliará por los servidores públicos designados en las áreas de auditoría, quejas y responsabilidades bajo su adscripción, en los términos establecidos en los ordenamientos jurídicos citados.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El titular del Órgano Interno de Control, será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal y 95 del Reglamento Interior de la Secretaría de la Función Pública, quien en el ejercicio de sus facultades se auxiliará por los servidores públicos designados en las áreas de auditoría, quejas y responsabilidades bajo su adscripción, en los términos establecidos en los ordenamientos jurídicos citados.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El titular del Órgano Interno de Control y los servidores públicos designados en sus áreas adscritas, tendrán las atribuciones establecidas en el Reglamento Interior de la Secretaría de la Función Pública.
 
 Los servidores públicos y las unidades administrativas de la Consejería están obligados a proporcionar el auxilio e información que requiera el Titular del Órgano Interno de Control para el desempeño de su función.
 
@@ -89,7 +99,9 @@ Los servidores públicos y las unidades administrativas de la Consejería están
 
 Corresponde originalmente al Consejero la representación de la Consejería, así como el trámite y resolución de los asuntos de la competencia de ésta y el ejercicio de las facultades que las disposiciones legales le confieren.
 
-Salvo las facultades no delegables en términos de este Reglamento, el Consejero podrá delegar en los servidores públicos subalternos, aquellas otras facultades que estime pertinentes, mediante acuerdo que se publique en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+Salvo las facultades indelegables en términos de este Reglamento, el Consejero podrá delegar en los servidores públicos subalternos, aquellas otras facultades que estime pertinentes, mediante acuerdo que se publique en el Diario Oficial de la Federación.
 
 La delegación de facultades no perjudicará su ejercicio directo por parte del Consejero.
 
@@ -115,7 +127,9 @@ VIII. Proponer al Presidente de la República los anteproyectos de iniciativas d
 
 IX. Someter a consideración del Presidente de la República, por instrucción de éste, los proyectos de nombramientos y de ratificaciones de servidores públicos que, de conformidad con las disposiciones aplicables, corresponda efectuar al Titular del Ejecutivo Federal;
 
-X. Opinar previamente sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las áreas responsables del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+X. Nombrar y, en su caso, remover a los titulares de las unidades encargadas del apoyo jurídico de las dependencias, incluyendo los de los órganos administrativos desconcentrados, así como los de las entidades de la Administración Pública Federal;
 
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
@@ -145,25 +159,31 @@ En caso contrario, someter a consideración del Presidente de la República el p
 
 XXII. Las demás que con tal carácter, le atribuyan expresamente las disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 10.
 
-La Unidad de Enlace de la Consejería, a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, estará a cargo de la Coordinación de Asesores.
+El responsable de la Unidad de Transparencia en esta dependencia será designado por el Consejero, y ejercerá las atribuciones que le confiere el artículo 61 y demás aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
-La Unidad de Enlace atenderá los requerimientos de información hechos a la Consejería, asimismo desempeñará, al interior de ésta, las funciones que la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental impone a las Dependencias del Ejecutivo Federal.
+> <small>(ADICIONADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
-La Coordinación de Asesores, establecerá los procedimientos necesarios para que la Dirección de Informática y Telecomunicaciones, ponga a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable.
+Artículo 10 bis.- La Coordinación de Asesores depende directamente del Consejero, quien establecerá los procedimientos necesarios para que la Dirección de Tecnologías de la Información y Comunicaciones, ponga a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable.
 
 ###### Artículo 11.
 
 El Consejero, por conducto de la Coordinación de Asesores, enviará a la Secretaría de Gobernación, los instrumentos jurídicos expedidos por el Presidente de la República que deban publicarse en el Diario Oficial de la Federación.
 
-### CAPÍTULO III. DE LAS CONSEJERÍAS ADJUNTAS Y DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y DE FINANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MARZO DE 2019)</small>
+
+### CAPÍTULO III. DE LAS CONSEJERÍAS ADJUNTAS Y DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
 #### SECCIÓN I. DE LAS ATRIBUCIONES GENÉRICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 12.
 
-Los Consejeros Adjuntos y el Director General de Administración y Finanzas, cada uno en el ámbito de su respectiva competencia, tendrán las siguientes facultades y obligaciones genéricas:
+Los Consejeros Adjuntos y el Titular de la Unidad de Administración y Finanzas, cada uno en el ámbito de su respectiva competencia, tendrán las facultades y obligaciones genéricas siguientes:
 
 I. Acordar con el Consejero el despacho de los asuntos encomendados a las unidades administrativas que tienen adscritas e informar oportunamente sobre el trámite de los mismos;
 
@@ -227,6 +247,10 @@ II. Desahogar las consultas jurídicas que formulen las dependencias y entidades
 
 III. Elaborar y proponer al Consejero, los proyectos de decretos, acuerdos, nombramientos, resoluciones presidenciales, tratados y demás instrumentos jurídicos que éste le encomiende;
 
+> <small>(ADICIONADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+III BIS. Elaborar, por instrucciones del Consejero, los proyectos de nombramientos y, en su caso, de remoción de los titulares de las unidades encargadas del apoyo jurídico de las dependencias, incluyendo a los de sus órganos administrativos desconcentrados, así como los de las entidades de la Administración Pública Federal;
+
 IV. Dirigir, coordinar y, en su caso, elaborar anteproyectos de iniciativas de decretos de reformas constitucionales, que le encomiende el Consejero;
 
 V. Dar seguimiento y coordinar las actividades relacionadas con la elaboración, revisión y trámite de los anteproyectos y proyectos de iniciativa de decretos de reformas constitucionales, que se pretendan someter a la consideración y, en su caso, firma del Presidente de la República, y formular al Consejero la opinión que corresponda. Lo anterior, con la intervención que, en el ámbito de sus respectivas competencias, corresponda a las consejerías adjuntas de Legislación y Estudios Normativos, y de Control Constitucional y de lo Contencioso;
@@ -251,9 +275,17 @@ XIV. Proporcionar asesoría jurídica a las dependencias de la Administración P
 
 XV. Realizar estudios que procuren la congruencia de los criterios jurídicos de las dependencias y entidades de la Administración Pública Federal, y establecer el criterio que deba prevalecer en caso de diferencias o contradicciones sobre la interpretación de normas jurídicas, previo acuerdo con el Consejero;
 
-XVI. Desahogar las consultas que formulen las dependencias o entidades de la Administración Pública Federal sobre la presentación de manifestación de impacto regulatorio, en el ámbito de la competencia que otorga a la Consejería la Ley Federal de Procedimiento Administrativo, cuando se trate de anteproyectos y proyectos de decretos y acuerdos;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-XVII. Resolver en definitiva las solicitudes que hagan las dependencias o entidades de la Administración Pública Federal sobre la publicidad de los anteproyectos que se pretendan someter a la consideración del Ejecutivo Federal, en términos de la Ley Federal de Procedimiento Administrativo y de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XVI. Desahogar las consultas que formulen las dependencias o entidades de la Administración Pública Federal sobre el análisis de impacto regulatorio de anteproyectos o proyectos normativos que, en su caso, deban ser sometidos a consideración del Titular del Ejecutivo Federal, en el ámbito de la competencia que otorga a la Consejería la Ley General de Mejora Regulatoria;
+
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+XVII. Determinar sobre la publicidad de las propuestas regulatorias, cuando se traten de anteproyectos y proyectos de decretos y acuerdos, que se pretendan someter a la consideración del Ejecutivo Federal, en términos del artículo 74 de la Ley General de Mejora Regulatoria;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+XVII BIS. Resolver en definitiva sobre el contenido de las disposiciones que se pretendan someter a la consideración del Titular del Ejecutivo Federal cuando se trate de regulaciones relativas a decretos o acuerdos, en términos del artículo 76 de la Ley General de Mejora Regulatoria;
 
 XVIII. Elaborar el estudio jurídico que requiera el Consejero para proporcionar, en el ámbito de su competencia, el apoyo técnico jurídico a las entidades federativas que lo soliciten, para lo cual la entidad federativa deberá acompañar a su petición un pronunciamiento previo sobre el asunto de su consulta, y
 
@@ -267,7 +299,9 @@ La Consejería Adjunta de Consulta y Estudios Constitucionales, para el eficaz d
 
 Compete a la Consejería Adjunta de Legislación y Estudios Normativos:
 
-I. Dictaminar los anteproyectos y proyectos de reglamentos y decretos que reforman, adicionan o derogan aquéllos, que las dependencias de la Administración Pública Federal elaboren y sometan a la opinión de la Consejería;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+I. Dictaminar los anteproyectos y proyectos de reglamentos y decretos que reforman, adicionan o derogan aquéllos, que las dependencias de la Administración Pública Federal elaboren y sometan a la opinión de la Consejería, así como resolver el contenido definitivo de dichos proyectos, en términos de lo previsto en el artículo 76 de la Ley General de Mejora Regulatoria;
 
 II. Desahogar las consultas jurídicas y brindar la asesoría que soliciten las dependencias y entidades de la Administración Pública Federal, respecto a la elaboración de anteproyectos de reglamentos y decretos que reforman, adicionan o derogan aquéllos, previo pronunciamiento jurídico que envíe la dependencia o entidad solicitante;
 
@@ -293,11 +327,11 @@ XII. Representar a la Consejería en la coordinación y ejecución de los progra
 
 XIII. Analizar y proponer al Consejero las adecuaciones técnico jurídicas necesarias para la actualización y simplificación del orden jurídico federal;
 
-XIV. Representar a la Consejería ante el Consejo previsto en el artículo 69-F de la Ley Federal de Procedimiento Administrativo;
+XIV. (DEROGADA, D.O.F. 1 DE MARZO DE 2019)
 
 XV. Desempeñar las funciones de Secretario Técnico de la Comisión de Estudios Jurídicos del Gobierno Federal y conducir sus actividades;
 
-XVI. Desahogar las consultas que formulen las dependencias o entidades de la Administración Pública Federal sobre la presentación de manifestación de impacto regulatorio, en el ámbito de la competencia que da a la Consejería la Ley Federal de Procedimiento Administrativo, cuando se trate de anteproyectos de reglamentos y decretos que reforman, adicionan o derogan aquéllos;
+XVI. (DEROGADA, D.O.F. 1 DE MARZO DE 2019)
 
 XVII. Mantener actualizada la biblioteca especializada en legislación y temas jurídicos y prestar la asistencia documental y bibliográfica requerida por las unidades de la Consejería, y
 
@@ -307,67 +341,99 @@ El Consejero Adjunto de Legislación y Estudios Normativos, para el eficaz despa
 
 #### SECCIÓN IV. DE LA CONSEJERÍA ADJUNTA DE CONTROL CONSTITUCIONAL Y DE LO CONTENCIOSO
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
 Compete a la Consejería Adjunta de Control Constitucional y de lo Contencioso:
 
-I. Disponer, coordinar y fungir como delegado en la atención de las controversias constitucionales y de las acciones de inconstitucionalidad en las que el Consejero represente al Presidente de la República;
+I. Fungir como delegado en la atención de las controversias constitucionales y de las acciones de inconstitucionalidad en las que el Consejero represente al Presidente de la República;
 
-II. Coordinar los trabajos de las distintas dependencias y entidades de la Administración Pública Federal que participen en las controversias constitucionales y acciones de inconstitucionalidad en las que el Consejero ostente la representación del Presidente de la República;
+II. Coordinar los trabajos de las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal que participen en los juicios, demandas, arbitrajes, controversias constitucionales y acciones de inconstitucionalidad en los que sea parte el Presidente de la República o la Federación y, en su caso, otorgar la representación de éstos a dichas unidades de las dependencias y entidades, mediante la expedición de acuerdo por escrito;
 
-III. Asesorar a las unidades administrativas de la Consejería, para que éstas cumplan adecuadamente con las resoluciones de juicios y procedimientos contenciosos que les vinculen y, en su caso, con las recomendaciones que sean procedentes de la Comisión Nacional de los Derechos Humanos, prestando la asesoría requerida para tales efectos;
+III. Someter a consideración del Consejero los proyectos para el ejercicio de las facultades que le otorga el artículo 105, fracciones I y II, segundo párrafo, inciso c) de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+IV. Representar a la Federación, así como al Presidente de la República, ante los tribunales federales y del fuero común, y ante toda autoridad en los asuntos y trámites jurisdiccionales, así como en cualquier asunto de carácter jurídico en que tengan interés o injerencia, así como otorgar dicha representación a las dependencias de la Administración Pública Federal para la defensa de la Federación. Esta atribución incluye todos los derechos procesales que las leyes reconocen a las partes;
 
-IV. Representar al Presidente de la República, con excepción de las acciones de inconstitucionalidad y controversias constitucionales, ante los tribunales federales y del fuero común, institutos y tribunales electorales, federal y locales, ante toda autoridad en los asuntos y procedimientos jurisdiccionales y administrativos, así como en cualquier asunto y procedimiento de carácter jurídico en que tenga interés o injerencia, cuando esta representación no corresponda a otra dependencia del gobierno federal. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes.
+En materia laboral, esta facultad podrá ser delegada a favor del o los servidores públicos de la Administración Pública Federal que autorice el Consejero;
 
-En la materia laboral, esta facultad podrá ser delegada a favor del o los servidores públicos de la Administración Pública Federal que autorice el Consejero;
+V. Ejercer las facultades que le confieran a la Consejería los acuerdos generales a los que se hace referencia en el artículo 9 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+VI. Informar al Consejero sobre el trámite de las controversias constitucionales y acciones de inconstitucionalidad, así como de las resoluciones que la Suprema Corte de Justicia de la Nación dicte en dichos procedimientos;
 
-IV bis. Ejercer las facultades que le confieran a la Consejería los acuerdos generales a los que se hace referencia en el artículo 19 de Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. Representar al Presidente de la República, en los casos en que éste determine, así como a las unidades administrativas de la Presidencia de la República, en los juicios de amparo en los que tengan el carácter de autoridad responsable. Esta atribución incluye todos los derechos procesales que la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, reconoce a las partes;
 
-V. Representar a la Consejería y a sus unidades administrativas ante los tribunales federales y del fuero común y ante toda autoridad del ámbito federal, local o municipal, en los asuntos y trámites jurisdiccionales y en cualquier asunto de carácter jurídico en que tenga interés o injerencia. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes;
+VIII. Representar a las unidades administrativas de la Presidencia de la República, así como a la Consejería y a sus unidades administrativas, ante los tribunales federales y del fuero común y ante toda autoridad del ámbito federal, local o municipal, en los asuntos y trámites jurisdiccionales, y en cualquier asunto de carácter jurídico en que tengan interés o injerencia. Esta atribución incluye todos los derechos procesales que las leyes reconocen a las partes;
 
-VI. Proporcionar apoyo y asesoría en las materias contenciosa, laboral y penal a las unidades administrativas de la Presidencia de la República;
+IX. Proporcionar apoyo y asesoría en las materias contenciosa, administrativa, laboral y penal a las unidades administrativas de la Presidencia de la República;
 
-VII. Disponer la colaboración y asistencia técnico jurídica necesarias para fortalecer la defensa de la constitucionalidad de los actos o normas reclamados, en los casos en que la representación presidencial en controversias constitucionales o acciones de inconstitucionalidad recaiga en otras Dependencias;
+X. Dar seguimiento a los juicios y procedimientos contenciosos que involucren a las dependencias y entidades de la Administración Pública Federal y requerir la información relacionada a la autoridad competente, así como valorar la intervención de la Consejería en los asuntos que le sean propuestos;
 
-VIII. Atender y dar seguimiento con las unidades administrativas de la Presidencia de la República, a los asuntos encomendados por el Consejero, a fin de garantizar su adecuada implementación y desahogo;
+XI. Coordinar los trabajos de las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal que participen en los juicios de amparo en los que sea parte el Presidente de la República y otorgar la representación del Presidente de la República en dichos juicios, en términos de lo que se establezca en el Acuerdo General que expida el propio Titular del Ejecutivo Federal;
 
-IX. Dar seguimiento a los juicios y procedimientos contenciosos que involucren a dependencias y entidades de la Administración Pública Federal, así como a sus servidores públicos, que por su relevancia puedan afectar los intereses y programas del Ejecutivo Federal;
+XII. Administrar el sistema electrónico mediante el cual se controle y dé seguimiento a los juicios y procedimientos contenciosos a que se refiere la fracción IX de este artículo, en coordinación con las unidades encargadas del apoyo jurídico de las dependencias y entidades correspondientes de la Administración Pública Federal;
 
-X. Evaluar en coordinación con las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal, los actos y normas de carácter general que puedan ameritar la interposición de controversias constitucionales o acciones de inconstitucionalidad y, en su caso, adoptar las medidas legales pertinentes;
+XIII. Formular las denuncias y querellas ante el Ministerio Público por hechos en agravio de las unidades administrativas de la Presidencia de la República y de la Consejería, así como de la Federación, cuando esta representación no corresponda expresamente a otra dependencia o entidad de la Administración Pública Federal, y dar seguimiento a las carpetas de investigación e interponer los medios de defensa que procedan en esta materia, con las más amplias facultades de coadyuvancia durante las diferentes etapas del procedimiento y, en su caso, del ejercicio de la acción penal por particular;
 
-XI. Intervenir, cuando así lo determine el Consejero en la elaboración o dictamen de anteproyectos o proyectos, decretos o actos del Ejecutivo Federal con objeto de prevenir reclamaciones jurisdiccionales ante la Suprema Corte de Justicia de la Nación;
+XIV. Representar a la Consejería y a sus unidades administrativas en los juicios de amparo en los que tengan el carácter de autoridad responsable. Esta atribución incluye todos los derechos procesales que la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos reconoce a las partes;
 
-XII. Coordinar y supervisar las labores de control y seguimiento procesal de los juicios y demás asuntos de su competencia;
+XV. Proponer al Consejero los casos en los cuales puede ejercer el recurso de revisión ante la Suprema Corte de Justicia de la Nación a que se refiere el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos en materia de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados, y someter a su consideración los proyectos correspondientes;
 
-XIII. Formular las denuncias y querellas que correspondan ante el Ministerio Público, dar seguimiento a las averiguaciones previas e interponer los medios de defensa que procedan en esta materia;
+XVI. Proponer al Consejero los proyectos de solicitud al Poder Judicial de la Federación, para la resolución prioritaria de juicios de amparo, controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+XVII. Analizar las sentencias que dicte la Suprema Corte de Justicia de la Nación en las controversias constitucionales y acciones de inconstitucionalidad y proponer al Consejero estudios en los que se evalúe su impacto en el sistema jurídico nacional;
 
-XIV. Atender los trámites, los juicios y los procedimientos jurisdiccionales, administrativos, electorales y, en general, en todo tipo de materias, que competan al Consejero, durante las ausencias de éste, suscribiendo y presentando escritos de ofrecimiento de pruebas, desahogo de prevenciones, promoción de incidentes, interposición de recursos y alegatos, rendición de informes previos, justificados y de ejecución; promover y realizar todos los actos o acciones permitidos por las leyes, que favorezcan los derechos e intereses de la Presidencia de la República y de la Consejería Jurídica del Ejecutivo Federal, así como recibir de toda clase de notificaciones y documentos;
+XVIII. Analizar las normas generales que se publiquen en los periódicos y gacetas oficiales de la Federación y de las entidades federativas y, en su caso, proponer al Consejero el ejercicio de la acción de inconstitucionalidad a que se refiere el artículo 105, fracción II, párrafo segundo, inciso c) de la Constitución Política de los Estados Unidos Mexicanos;
 
-XV. Establecer comunicación directa con los tribunales federales y del fuero común, el Ministerio Público y demás autoridades de la administración pública federal, estatal y municipal, para el adecuado despacho de los asuntos de la Consejería;
+XIX. Apoyar al Consejero en el ejercicio de las facultades que le otorga el artículo 107, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, en materia de denuncia de contradicción de tesis, así como intervenir, en los términos que el Consejero establezca, en la formulación de los proyectos correspondientes;
 
-XVI. Coordinar las labores de control y seguimiento procesal con las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal que se realicen ante las autoridades a que se refiere la fracción inmediata anterior;
+XX. Participar en la conducción de las relaciones institucionales de la Consejería con el Poder Judicial de la Federación, en el ámbito de competencia de la Consejería Adjunta y de conformidad con las instrucciones del Consejero;
 
-XVII. Proponer la resolución que proceda en los recursos administrativos que los particulares interpongan contra actos y resoluciones de las unidades de la Presidencia de la República y de la Consejería, previa tramitación del procedimiento, conforme a las disposiciones legales aplicables;
+XXI. Atender los trámites, los juicios y los procedimientos contenciosos que competan al Consejero, durante las ausencias de éste, suscribiendo y presentando escritos de ofrecimiento de pruebas, desahogo de prevenciones, promoción de incidentes, interposición de recursos y alegatos, rendición de informes previos, justificados y de ejecución; promover y realizar todos los actos o acciones permitidos por las leyes, que favorezcan los derechos e intereses de la Federación, de las unidades administrativas de la Presidencia de la República y de la Consejería, así como recibir toda clase de notificaciones y documentos;
 
-XVIII. Opinar y emitir informes cuando así sea solicitado por la Dirección General de Administración y de Finanzas, con motivo de bajas laborales, en el ámbito de su respectiva competencia, y
+XXII. Instruir y proponer la resolución que proceda en los procedimientos y recursos administrativos que los particulares promuevan respecto de las unidades administrativas de la Presidencia de la República y de la Consejería, previa substanciación, conforme a las disposiciones jurídicas aplicables;
 
-XIX. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
+XXIII. Requerir a las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal, las ejecutorias dictadas en juicios en que tengan intervención, en los que se sustenten criterios contradictorios dictados por los Tribunales Colegiados de Circuito, los Plenos de Circuito o las Salas de la Suprema Corte de Justicia de la Nación, a fin de analizar la posible denuncia de la contradicción;
 
-En los casos en que las leyes exijan la ratificación de determinada actuación jurisdiccional o administrativa, se entenderán ratificadas por el Consejero todas las actuaciones que se desahoguen por los servidores públicos de la Consejería Adjunta facultados para ello, en términos de ley y de conformidad con el presente artículo.
+XXIV. Colaborar y brindar asistencia técnico jurídica necesaria para fortalecer la defensa de la constitucionalidad de los actos o normas reclamados, cuando la representación presidencial en controversias constitucionales o acciones de inconstitucionalidad recaiga en otras dependencias de la Administración Pública Federal;
 
-El Consejero Adjunto de Control Constitucional y de lo Contencioso, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por los Directores Generales, Consultores Jurídicos A, Consultores Jurídicos B y demás personal que se le adscribe.
+XXV. Proponer al Consejero los proyectos de solicitudes de atracción ante la Suprema Corte de Justicia de la Nación, respecto de asuntos que se consideren de importancia y trascendencia para la Administración Pública Federal, con base en las peticiones y proyectos que remitan las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal;
 
-#### SECCIÓN V. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y DE FINANZAS
+XXVI. Intervenir, cuando así lo determine el Consejero en la elaboración o dictamen de anteproyectos o proyectos, decretos o actos del Ejecutivo Federal con objeto de prevenir reclamaciones jurisdiccionales ante la Suprema Corte de Justicia de la Nación;
+
+XXVII. Opinar sobre proyectos de reformas a la Constitución Política de los Estados Unidos Mexicanos en materia de control constitucional, en coordinación con las demás Consejerías Adjuntas de la Consejería;
+
+XXVIII. Asesorar a las unidades administrativas de la Consejería, para que éstas cumplan adecuadamente con las resoluciones de juicios y procedimientos contenciosos que les vinculen y, en su caso, con las recomendaciones que sean procedentes de la Comisión Nacional de los Derechos Humanos, prestando la asesoría requerida para tales efectos;
+
+XXIX. Atender y dar seguimiento, con las unidades administrativas de la Presidencia de la República, a los asuntos encomendados por el Consejero, a fin de garantizar su adecuada implementación y desahogo;
+
+XXX. Establecer comunicación directa con los tribunales federales y del fuero común, el Ministerio Público y demás autoridades de la Administración Pública Federal, estatal y municipal, para el adecuado despacho de los asuntos de la Consejería;
+
+XXXI. Coordinar y supervisar las labores de control y seguimiento procesal de los juicios y demás asuntos de su competencia;
+
+XXXII. Coordinar las labores de control y seguimiento procesal con las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal que se realicen ante las autoridades a que se refiere la fracción inmediata anterior;
+
+XXXIII. Opinar y emitir informes cuando así sea solicitado por la Unidad de Administración y Finanzas, con motivo de bajas laborales, en el ámbito de su respectiva competencia;
+
+XXXIV. Analizar y proponer al Consejero, la solicitud del recuento de votos a que se refiere el artículo 60, fracción I de la Ley Federal de Consulta Popular, y
+
+XXXV. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
+
+En los casos en que las leyes exijan la ratificación de determinada actuación jurisdiccional o administrativa, se entenderán ratificadas por el Consejero todas las actuaciones que se desahoguen por los servidores públicos de esta Consejería Adjunta facultados para ello, en términos de ley y de conformidad con el presente artículo.
+
+El Consejero Adjunto de Control Constitucional y de lo Contencioso, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por los Directores Generales, Consultores Jurídicos, Consultor de Defensa Legal, Director de Defensa Legal, Subdirectores de Defensa Legal y demás personal que se le adscribe.
+
+El Director General de Defensa Jurídica Federal, el Consultor de Defensa Legal y el Director de Defensa Legal, podrán ejercer bajo su más estricta responsabilidad, las facultades previstas en las fracciones IV, VII, IX, X, XII y XIII del presente artículo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MARZO DE 2019)</small>
+
+#### SECCIÓN V. DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 16.
 
-Compete a la Dirección General de Administración y de Finanzas:
+Compete a la Unidad de Administración y Finanzas:
 
 I. Determinar las políticas, normas y procedimientos para la eficiente administración de los recursos humanos, materiales y financieros de la Consejería;
 
@@ -433,13 +499,17 @@ XXVI. Autorizar el programa anual para el destino final de bienes muebles de la 
 
 XXVII. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El Titular de la Unidad de Administración y Finanzas ejercerá sus facultades en forma congruente con el modelo organizacional y de operación de las unidades de administración y finanzas del sector centralizado que emita la Secretaría de Hacienda y Crédito Público, en términos del artículo 20 de la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### Artículo 17.
 
-La Dirección General de Administración y de Finanzas, para el mejor despacho de los asuntos de su competencia, se auxiliará de la Dirección de Tecnologías de la Información y Comunicaciones; de la Dirección de Presupuesto, Finanzas y Contabilidad; de la Dirección de Desarrollo Humano y Organización, y de la Dirección de Recursos Materiales y Servicios Generales.
+La Unidad de Administración y Finanzas, para el mejor despacho de los asuntos de su competencia, se auxiliará de la Dirección de Tecnologías de la Información y Comunicaciones; de la Dirección de Presupuesto, Finanzas y Contabilidad; de la Dirección de Desarrollo Humano y Organización, y de la Dirección de Recursos Materiales y Servicios Generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -489,7 +559,9 @@ II. Evaluar el ejercicio presupuestal de la Consejería, así como proponer las 
 
 III. Realizar las adecuaciones programáticas y presupuestales que requiera la Consejería conforme a lo dispuesto por las disposiciones aplicables;
 
-IV. Integrar y formular el anteproyecto de presupuesto de la Consejería con base en los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público y enviarlos para su autorización, previo acuerdo del Director General de Administración y de Finanzas con el Consejero;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+IV. Integrar y formular el anteproyecto de presupuesto de la Consejería con base en los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público y enviarlos para su autorización, previo acuerdo del Titular de la Unidad de Administración y Finanzas con el Consejero;
 
 V. Llevar a cabo el proceso de programación presupuestal de la Consejería con la participación de sus unidades administrativas;
 
@@ -565,7 +637,9 @@ VI. Definir, elaborar, emitir y promover, en términos de las disposiciones lega
 
 VII. Implementar los programas institucionales de capacitación, aplicar las políticas para la administración del Sistema de Servicio Profesional de Carrera, así como vigilar su cumplimiento conforme a la ley de la materia, su reglamento y demás disposiciones aplicables;
 
-VIII. Expedir los nombramientos de los servidores públicos de la Consejería, previo acuerdo con el Director General de Administración y de Finanzas, así como resolver sobre los movimientos de personal y los casos de terminación de la relación laboral;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+VIII. Expedir los nombramientos de los servidores públicos de la Consejería, previo acuerdo con el Titular de la Unidad de Administración y Finanzas, así como resolver sobre los movimientos de personal y los casos de terminación de la relación laboral;
 
 IX. Aplicar, en el ámbito de la competencia de la Consejería, las suspensiones y descuentos al salario, conforme a las disposiciones normativas conducentes;
 
@@ -643,9 +717,9 @@ VIII. Proponer las directrices generales en materia de asesoramiento, supervisi�
 
 IX. Supervisar los sistemas de control de inventarios de bienes, dictaminar y vigilar su afectación, baja y destino final;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-X. Formular y proponer al Director General de Administración y de Finanzas lineamientos para la administración, operación, registro y sistematización de la información de adquisiciones, servicios, inventarios, almacenes, arrendamiento de inmuebles y obra pública, para el adecuado cumplimiento de la legislación vigente;
+X. Formular y proponer al Titular de la Unidad de Administración y Finanzas lineamientos para la administración, operación, registro y sistematización de la información de adquisiciones, servicios, inventarios, almacenes, arrendamiento de inmuebles y obra pública, para el adecuado cumplimiento de la legislación vigente;
 
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
@@ -693,17 +767,21 @@ El Consejero Adjunto de Legislación y Estudios Normativos fungirá como Secreta
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONSEJERÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### Artículo 25.
 
-Las ausencias del Consejero serán suplidas por los Consejeros Adjuntos, el Coordinador de Asesores y el Director General de Administración y de Finanzas, en el orden en que los enumera el artículo 3 de este Reglamento.
+Las ausencias del Consejero serán suplidas por los Consejeros Adjuntos, el Coordinador de Asesores y el Titular de la Unidad de Administración y Finanzas, en el orden en que los enumera el artículo 3 de este Reglamento.
 
 Los Consejeros Adjuntos y el Coordinador de Asesores, serán suplidos, durante sus ausencias temporales o por falta de designación de éstos, por los Directores Generales y los Consultores Jurídicos que de ellos dependan.
 
-Las ausencias temporales o la falta de designación de los titulares de las direcciones generales, de los Consultores Jurídicos, subdirecciones de área y jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2011)</small>
+Las ausencias temporales o la falta de designación de los titulares de las direcciones generales, del Consultor de Defensa Legal, de los consultores jurídicos, direcciones, subdirecciones de área y jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-El Director General de Administración y de Finanzas será suplido, durante sus ausencias temporales o por falta de designación de éste, por el Director de Tecnologías de la Información y Comunicaciones; el Director de Presupuesto, Finanzas y Contabilidad; el Director de Desarrollo Humano y Organización; el Director de Recursos Materiales y Servicios Generales, en los asuntos de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El Titular de la Unidad de Administración y Finanzas será suplido, durante sus ausencias temporales o por falta de designación de éste, por el Director de Tecnologías de la Información y Comunicaciones; el Director de Presupuesto, Finanzas y Contabilidad; el Director de Desarrollo Humano y Organización; el Director de Recursos Materiales y Servicios Generales, en los asuntos de sus respectivas competencias.
 
 Las ausencias del Titular del Órgano Interno de Control serán suplidas por el servidor público que determine el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -729,7 +807,7 @@ d) Dirección de Recursos Materiales, Servicios Generales y Apoyo Técnico, se e
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 30 DE MARZO DE 2011.
 
@@ -740,3 +818,13 @@ Segundo.- Al entrar en vigor el presente Reglamento, las menciones que se hagan 
 a) Dirección de Informática y Telecomunicaciones, se entenderán hechas a la Dirección de Tecnologías de la Información y Comunicaciones, y
 
 b) Dirección de Presupuesto y Finanzas, se entenderán hechas a la Dirección de Presupuesto, Finanzas y Contabilidad.
+
+D.O.F. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Las referencias que se hagan en cualquier otra disposición administrativa a la Dirección General de Administración y de Finanzas, se entenderán hechas a la Unidad de Administración y Finanzas, a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a la Consejería Jurídica del Ejecutivo Federal en el ejercicio fiscal que corresponda.
