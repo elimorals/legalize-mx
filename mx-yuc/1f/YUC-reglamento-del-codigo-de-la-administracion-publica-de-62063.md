@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2019-02-12"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "YUC"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 7/2018 PUBLICADO EN EL D.O. DE 27 DE NOVIEMBRE DE 2018 SE ABROGA EL DECRETO 661/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL PUBLICADO EN EL D.O. EL 28 DE SEPTIEMBRE DE 2018.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 1 DE MARZO DE 2019 Y EL 15 DE MARZO DE 2019, RESPECTIVAMENTE, EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE FEBRERO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 1 DE MARZO DE 2019.]</small>
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1019,9 +1019,9 @@ e) Dirección del Centro de Reinserción Social de Valladolid;
 
 f) Dirección del Centro de Reinserción Social Femenil, y
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
+(REFORMADO, D.O. 12 DE FEBRERO DE 2019) (F. DE E., P.O. 1 DE MARZO DE 2019)
 
-g) Dirección de Asuntos Postpenales.
+g) Dirección de Servicios Postpenales.
 
 II. Subsecretaría de Gobierno y Desarrollo Político:
 
@@ -1207,11 +1207,11 @@ VIII. Las demás que establezcan el Código Nacional de Procedimientos Penales, 
 
 Los centros penitenciarios y de internamiento del estado estarán encabezados por un Director, quien será nombrado y removido libremente por el secretario general de Gobierno, y tendrá las facultades y obligaciones establecidas en el artículo 16 de la Ley Nacional de Ejecución Penal y de otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
+(REFORMADO, D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 1 DE MARZO DE 2019)
 
 ###### Artículo 42 Ter.
 
-El Director de Asuntos Postpenales tendrá las facultades y obligaciones que le confiere la Ley de Servicios Postpenales del Estado de Yucatán a la Secretaría General de Gobierno.
+El Director de Servicios Postpenales tendrá las facultades y obligaciones que le confiere la Ley de Servicios Postpenales del Estado de Yucatán a la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -9521,7 +9521,9 @@ III. Dictar los acuerdos y resoluciones en los procedimientos administrativos qu
 
 IV. Emitir los acuerdos y resoluciones en materia (sic) impacto ambiental, derivados del análisis y evaluación de la factibilidad urbana ambiental, la manifestación de impacto ambiental, informe preventivo, estudio de riesgo y programas de restauración otorgando en su caso las autorizaciones correspondientes;
 
-V. Autorizar el funcionamiento de fuentes fijas y la verificación de fuentes móviles de emisión de contaminación ambiental de competencia estatal con excepción de aquellas fuentes móviles destinadas para el transporte público;
+> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
+
+V. Autorizar el funcionamiento de fuentes fijas y la verificación de fuentes móviles de emisión de contaminación ambiental de competencia estatal con excepción de aquellas fuentes móviles destinadas para el transporte público de pasajeros;
 
 VI. Formular el Programa de Ordenamiento Ecológico del Territorio, el Programa de Cambio Climático, los Programas Hídricos del Estado y el Programa Estatal Forestal;
 
@@ -9695,11 +9697,17 @@ IX. Coadyuvar a la dirección jurídica en la supervisión de la evaluación y e
 
 X. Integrar y mantener actualizado el inventario de fuentes fijas de contaminación ambiental;
 
-XI. Proponer medidas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público;
+> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
 
-XII. Integrar y mantener actualizado el inventario de fuentes fijas de contaminación ambiental;
+XI. Proponer medidas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público de pasajeros;
 
-XIII. Proponer medidas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público;
+> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
+
+XII. Ejecutar y vigilar, en su caso, el Programa Estatal de Verificación de Emisiones Contaminantes a la Atmósfera, producidas por vehículos automotores en circulación, con excepción de los destinados al transporte público de pasajeros;
+
+> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
+
+XIII. Coadyuvar con las instancias correspondientes en la prevención y control de contingencias ambientales en el estado;
 
 XIV. Coadyuvar con la promoción, difusión y sensibilización de la cultura sustentable, educación ambiental, cambio climático y participación social en coordinación con dependencias, entidades, organizaciones, instituciones académicas y de investigación;
 
