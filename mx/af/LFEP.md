@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2018-06-15"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFEP"
 ---
 # LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -58,13 +60,9 @@ Las universidades y demás instituciones de educación superior a las que la Ley
 
 Las entidades de la Administración Pública Federal que sean reconocidas como Centros Públicos de Investigación en los términos de la Ley de Ciencia y Tecnología, se regirán por esa Ley y por sus respectivos instrumentos de creación. Sólo en lo no previsto se aplicará la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 Las empresas productivas del Estado y sus respectivas empresas productivas subsidiarias, la Procuraduría Agraria, la Procuraduría Federal del Consumidor, la Agencia de Noticias del Estado Mexicano y el Sistema Público de Radiodifusión del Estado Mexicano, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
@@ -156,11 +154,17 @@ III. El objeto del organismo conforme a lo señalado en el artículo 14 de esta 
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio así como aquellas que se determinen para su incremento;
 
-V. La manera de integrar el Organo de Gobierno y de designar al Director General así como a los servidores públicos en las dos jerarquías inferiores a éste;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-VI. Las facultades y obligaciones del Organo de Gobierno señalando cuáles de dichas facultades son indelegables;
+V. La manera de integrar el Órgano de Gobierno y de designar a la persona Titular de la Dirección General, así como al personal adscrito al servicio público en las dos jerarquías inferiores a ésta;
 
-VII. Las facultades y obligaciones del Director General, quien tendrá la representación legal del Organismo;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+VI. Las facultades y obligaciones del Órgano de Gobierno señalando cuáles de dichas facultades son indelegables;
+
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+VII. Las facultades y obligaciones de la persona Titular de la Dirección General, quien tendrá la representación legal del Organismo;
 
 VIII. Sus Organos de Vigilancia así como sus facultades; y
 
@@ -178,51 +182,71 @@ En la extinción de los organismos deberán observarse las mismas formalidades e
 
 Cuando algún organismo descentralizado creado por el Ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía nacional o del interés público, la Secretaría de Hacienda y Crédito Público, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 17.
 
-La administración de los organismos descentralizados estará a cargo de un Organo de Gobierno que podrá ser una Junta de Gobierno o su equivalente y un Director General.
+La administración de los organismos descentralizados estará a cargo de un Órgano de Gobierno que podrá ser una Junta de Gobierno o su equivalente y una Dirección General.
+
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 18.
 
-El Organo de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Titular de la Coordinadora de Sector o por la persona que éste designe.
+El Órgano de Gobierno estará compuesto por no menos de cinco ni más de quince personas integrantes propietarias y de sus respectivas suplentes. Será presidido por la persona Titular de la Coordinadora de Sector o por la persona que la persona Titular designe.
 
-El cargo de miembro del Organo de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
+El cargo de integrante de Órgano de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 19.
 
-En ningún caso podrán ser miembros del Organo de Gobierno:
+En ningún caso podrán ser integrantes del Órgano de Gobierno:
 
-I. El Director General del Organismo de que se trate. Se exceptúan de esta prohibición aquellos casos de los organismos a que se refiere el artículo 5o. de esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Organo de Gobierno o con el Director General;
+I. La persona Titular de la Dirección General del Organismo de que se trate. Se exceptúan de esta prohibición aquellos casos de los organismos a que se refiere el artículo 5o. de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de quienes integren el Órgano de Gobierno o con la Directora o Director General;
 
 III. Las personas que tengan litigios pendientes con el organismo de que se trate;
 
 IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-V. Los diputados y senadores al H. Congreso de la Unión en los términos del artículo 62 Constitucional.
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+V. Las diputadas y los diputados y las senadoras y los senadores al H. Congreso de la Unión en los términos del artículo 62 Constitucional.
+
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 20.
 
-El Organo de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de 4 veces al año.
+El Órgano de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de 4 veces al año.
 
-El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
+El propio Órgano de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más una de las personas que lo integren y siempre que la mayoría de quienes asisten sean representantes de la Administración Pública Federal. Las resoluciones se tomarán por mayoría de las personas integrantes presentes teniendo la Presidenta o el Presidente voto de calidad para el caso de empate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 21.
 
-El Director General será designado por el Presidente de la República, o a indicación de éste a través del Coordinador de Sector por el Organo de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+La persona Titular de la Dirección General será designada por la Presidenta o el Presidente de la República, o a su indicación a través de la Coordinadora o Coordinador de Sector por el Órgano de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+II. Haber desempeñado cargos de alto nivel decisorio en forma destacada en actividades profesionales, de servicio público, administrativo o sustancialmente relacionadas con materias afines a las de competencia de cada entidad paraestatal, y
 
 III. No encontrarse en alguno de los impedimentos que para ser miembro del Organo de Gobierno señalan las fracciones II, III, IV y V del artículo 19 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 22.
 
-Los directores generales de los organismos descentralizados, en lo tocante a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
+Las directoras y los directores generales de los organismos descentralizados, en lo tocante a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
 
 I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
@@ -240,11 +264,15 @@ VII. Otorgar poderes generales y especiales con las facultades que les competan,
 
 VIII. Sustituir y revocar poderes generales o especiales.
 
-Los directores generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el estatuto orgánico que autorice el Organo o Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+Las directoras y los directores generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el Estatuto orgánico que autorice el Órgano o Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 23.
 
-Para acreditar la personalidad y facultades según el caso, de los miembros del Organo de Gobierno, del Secretario y Prosecretario de éste, del Director General y de los apoderados generales de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
+Para acreditar la personalidad y facultades según el caso, de quienes integren el Órgano de Gobierno, de la Secretaria o del Secretario y Prosecretaria o Prosecretario, de la Directora o Director General y de las apoderadas o apoderados generales de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
 
 SECCION B
 
@@ -256,7 +284,9 @@ Registro Público de Organismos Descentralizados
 
 Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Hacienda y Crédito Público.
 
-Los directores generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+Las personas titulares de las direcciones generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 ###### ARTICULO 25.
 
@@ -264,9 +294,13 @@ En el Registro Público de Organismos Descentralizados deberán inscribirse:
 
 I. El Estatuto Orgánico y sus reformas o modificaciones;
 
-II. Los nombramientos de los integrantes del Organo de Gobierno así como sus remociones;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-III. Los nombramientos y sustituciones del Director General y en su caso de los Subdirectores y otros funcionarios que lleven la firma de la entidad;
+II. Los nombramientos de quienes integren el Órgano de Gobierno, así como sus remociones;
+
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+III. Los nombramientos y sustituciones de la Directora o Director General y en su caso de las Subdirectoras y los Subdirectores y otras funcionarias o funcionarios que lleven la firma de la entidad;
 
 IV. Los poderes generales y sus revocaciones;
 
@@ -326,15 +360,19 @@ Los integrantes de dicho Organo de Gobierno que representen la participación de
 
 El Consejo de Administración o su equivalente se reunirá con la periodicidad que se señale en los estatutos de la empresa, sin que pueda ser menor de 4 veces al año.
 
-El propio Consejo, será presidido por el Titular de la Coordinadora de Sector o por la persona a quien éste designe, deberá sesionar válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la participación del Gobierno Federal o de las entidades respectivas. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El propio Consejo será presidido por la persona Titular de la Coordinadora de Sector o por la persona a quien éste designe, deberá sesionar válidamente con la asistencia de por lo menos la mitad más una de las personas que lo integren y siempre que la mayoría de quienes asistan sean representantes de la participación del Gobierno Federal o de las entidades respectivas. Las resoluciones se tomarán por mayoría de las personas que lo integren presentes, teniendo quien lo presida voto de calidad para el caso de empate.
 
 ###### ARTICULO 36.
 
 Los consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades específicas que se les otorguen en los estatutos o legislación de la materia, tendrán en lo (sic) resulten compatibles las facultades a que se refiere el artículo 58 de esta Ley, con las salvedades de aquéllas que sean propias de las asambleas ordinarias o extraordinarias.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 37.
 
-Los directores generales o sus equivalentes de las empresas de participación estatal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 59 de este ordenamiento.
+Las personas Titulares de las Direcciones Generales o sus equivalentes de las empresas de participación estatal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 59 de este ordenamiento.
 
 ###### ARTICULO 38.
 
@@ -354,7 +392,9 @@ La dependencia Coordinadora del Sector al que corresponda la empresa, en lo que 
 
 Los fideicomisos públicos que se establezcan por la Administración Pública Federal, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal y quedarán sujetos a las disposiciones de esta Ley.
 
-Los Comités Técnicos y los directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en el Capítulo V de esta Ley se establecen para los órganos de gobierno y para los directores generales, en cuanto sea compatible a su naturaleza.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+Los Comités Técnicos y las directoras o directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en el Capítulo V de esta Ley se establecen para los órganos de gobierno y para personas Titulares de las Direcciones Generales, en cuanto sea compatible a su naturaleza.
 
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -362,13 +402,17 @@ Los Comités Técnicos y los directores generales de los fideicomisos públicos 
 
 El Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, quien será el fideicomitente único de la Administración Pública Federal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 42.
 
-Las instituciones fiduciarias, a través del Delegado Fiduciario General, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+Las instituciones fiduciarias, a través de la Delegada o Delegado Fiduciario General, dentro de los seis meses siguientes a la Constitución o modificación de los fideicomisos deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 43.
 
-Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la Coordinadora de Sector, instruirán al Delegado Fiduciario para:
+Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la Coordinadora de Sector, instruirán a la Delegada o Delegado Fiduciario para:
 
 I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
 
@@ -440,9 +484,11 @@ Por lo que toca a la percepción de subsidios y transferencias, los recibirá de
 
 Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Hacienda y Crédito Público; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales o extranjeros, o con cualquier otro intermediario financiero así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 54.
 
-El Director de la entidad paraestatal someterá el programa financiero para su autorización al Organo de Gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 58 de esta Ley; una vez aprobado remitirá a la Secretaría de Hacienda y Crédito Público la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
+La Directora o Director de la entidad paraestatal someterá el programa financiero para su autorización al Órgano de Gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 58 de esta Ley; una vez aprobado remitirá a la Secretaría de Hacienda y Crédito Público la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
 
 ###### ARTICULO 55.
 
@@ -458,7 +504,9 @@ Los Coordinadores de Sector promoverán el establecimiento de comités mixtos de
 
 El Organo de Gobierno para el logro de los objetivos y metas de sus programas, ejercerá sus facultades con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por esta Ley establezca el Ejecutivo Federal.
 
-El Organo de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y salvo aquellas facultades a que se contrae el artículo 58 de este ordenamiento, podrá delegar discrecionalmente sus facultades en el Director General.
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
+El Órgano de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y salvo aquellas facultades a que se contrae el artículo 58 de este ordenamiento, podrá delegar discrecionalmente sus facultades en la persona Titular de la Dirección General.
 
 ###### ARTICULO 58.
 
@@ -474,11 +522,15 @@ III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la 
 
 IV. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal con créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. Respecto a los créditos externos se estará a lo que se dispone en el artículo 54 de esta Ley;
 
-V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Directora o Director General, pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
 
 VI. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
 
-VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la Entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. La Directora o Director General de la Entidad y en su caso el personal del servicio público que deba intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Órgano de Gobierno;
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal, y las modificaciones que procedan a la misma. Aprobar asimismo y en su caso el estatuto orgánico tratándose de organismos descentralizados;
 
@@ -488,9 +540,13 @@ IX. Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y 
 
 X. Autorizar la creación de comités de apoyo;
 
-XI. Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señalen los estatutos y concederles licencias;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del Director General de la entidad al Prosecretario del citado Organo de Gobierno, quien podrá ser o no miembro de dicho órgano o de la entidad;
+XI. Nombrar y remover a propuesta de la persona Titular de la Dirección General, al personal del servicio público de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquella, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señalen los estatutos y concederles licencias;
+
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+XII. Nombrar y remover a propuesta de su Presidenta o Presidente entre personas ajenas a la entidad, al Secretario o Secretaria quien podrá ser integrante o no del mismo; así como designar o remover a propuesta de la persona Titular de la Dirección General de la entidad al Prosecretario o Prosecretaria del citado Órgano de Gobierno, quien podrá ser o no integrante de dicho órgano o de la entidad;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -498,7 +554,9 @@ XIII. Aprobar la constitución de reservas y aplicación de las utilidades de la
 
 XIV. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación. El Reglamento de la presente Ley establecerá los procedimientos respectivos;
 
-XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+XV. Analizar y aprobar, en su caso, los informes periódicos que rinda la persona Titular de la Dirección General con la intervención que corresponda a las Comisarias o a los Comisarios;
 
 XVI. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, en las instrucciones de la coordinadora del sector correspondiente; y
 
@@ -506,13 +564,17 @@ XVI. Acordar con sujeción a las disposiciones legales relativas los donativos o
 
 XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Coordinadora de Sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 59.
 
-Serán facultades y obligaciones de los directores generales de las entidades, las siguientes:
+Serán facultades y obligaciones de las personas Titulares de las Direcciones Generales de las entidades, las siguientes:
 
 I. Administrar y representar legalmente a la entidad paraestatal;
 
-II. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la entidad y presentarlos para su aprobación al Organo de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Organo de Gobierno procederá al desarrollo e integración de tales requisitos;
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+II. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la entidad y presentarlos para su aprobación al Órgano de Gobierno. Si dentro de los plazos correspondientes la Directora o Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Órgano de Gobierno procederá al desarrollo e integración de tales requisitos;
 
 III. Formular los programas de organización;
 
@@ -540,13 +602,13 @@ XIV. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás 
 
 ### CAPITULO VI. Del Control y Evaluación
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 60.
 
-El órgano de Vigilancia de los organismos descentralizados estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
+El órgano de Vigilancia de los organismos descentralizados estará integrado por una Comisaria o Comisario Público Propietario y su Suplente, designados por la Secretaría de la Función Pública.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+Las Comisarias o Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y la Directora o Director General, deberán proporcionar la información que soliciten las Comisarias o los Comisarios Públicos.
 
 ###### ARTICULO 61.
 
@@ -554,7 +616,9 @@ La responsabilidad del control al interior de los organismos descentralizados se
 
 I. Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
 
-II. Los Directores Generales definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Organo de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento; y
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
+
+II. Las Directoras y los Directores Generales definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
@@ -564,23 +628,23 @@ III. Los demás servidores públicos del organismo responderán dentro del ámbi
 
 Los órganos de control interno serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública, de la cual dependerán los titulares de dichos órganos y de sus áreas de auditoría, quejas y responsabilidades, de acuerdo a las bases siguientes:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-I.- Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+I. Recibirán quejas, investigarán y, en su caso, por conducto de la persona titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa del personal adscrito al servicio público de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interponga el personal del servicio público de la entidad respecto de la imposición de sanciones administrativas.
 
 Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales Federales, representando al titular de la Secretaría de la Función Pública;
 
 II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
 
-III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Organo de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+> <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías; vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán a la persona Titular de la Dirección General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 63.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designa la Secretaría de la Función Pública en los términos de los precedentes artículos de esta Ley.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con las Comisarias y los Comisarios Públicos que designa la Secretaría de la Función Pública en los términos de los precedentes artículos de esta Ley.
 
 Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
@@ -594,15 +658,17 @@ La Coordinadora de Sector, a través de su titular o representante, mediante su 
 
 La Secretaría de la Función Pública podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 61, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 66.
 
-En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo Federal por conducto de las dependencias competentes así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
+En aquellos casos en los que el Órgano de Gobierno, Consejo de Administración, o la Dirección General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo Federal por conducto de las dependencias competentes así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 67.
 
-En aquellas empresas en las que participa la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Función Pública y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
+En aquellas empresas en las que participa la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso de la Ciudad de México, a través de la Comisaria o Comisario que se designe por la Secretaría de la Función Pública y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -652,7 +718,7 @@ México, D. F., a 25 de abril de 1986.- Dip. Jesús Murillo Karam, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiséis días del mes de abril de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 24 DE JULIO DE 1992.
 
@@ -983,3 +1049,11 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 1 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones legales, estatutarias o administrativas que se opongan al presente Decreto.
