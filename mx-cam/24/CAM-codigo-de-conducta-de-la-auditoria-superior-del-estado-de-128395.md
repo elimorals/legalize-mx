@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-de-la-auditoria-superior-del-estado-de-12839
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-12"
-last_updated: "2018-04-12"
+last_updated: "2019-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DE LA AUDITORIA SUPERIOR DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON la vigencia del punto segundo del CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DE VIGENCIA DEL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2019 (ABROGADO).
 
 Código publicado en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el jueves 12 de abril de 2018.
 
@@ -238,3 +238,15 @@ CUARTA.- El responsable de Recursos Humanos y Capacitación coordinará la difus
 Dado en la Ciudad de San Francisco de Campeche, Campeche, Campeche, Estados Unidos Mexicanos a los dos días del mes de abril del año dos mil dieciocho. El Auditor Superior del Estado de Campeche, C. C.P. Jorge Martín Pacheco Pérez, M. A. E., en término de lo señalado por los artículos, 87 fracciones VIII y XIII, 99 último párrafo y 107 párrafo segundo de la Ley de Fiscalización y Rendición de Cuentas del Estado de Campeche; 12 fracciones XIV, XVII y LXVIII del Reglamento Interior de la Auditoría Superior del Estado de Campeche. De acuerdo con las disposiciones citadas, publíquese el presente Código de Conducta, en el Periódico Oficial del Estado de Campeche.
 
 C. P. Jorge Martín Pacheco Pérez, M.A.E., Auditor Superior del Estado de Campeche.- Rúbrica.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DE VIGENCIA DEL "CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE".]</small>
+
+P.O. 1 DE MARZO DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DE VIGENCIA DEL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE.]</small>
+
+VIGENCIA
+
+PRIMERA.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDA.- Se abroga el Código Conducta publicado en el Periódico Oficial del Estado de Campeche el 12 de abril de 2018.
