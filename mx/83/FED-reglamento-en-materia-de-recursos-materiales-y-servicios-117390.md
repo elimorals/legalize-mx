@@ -4,7 +4,7 @@ identifier: "FED-reglamento-en-materia-de-recursos-materiales-y-servicios-117390
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-11-25"
-last_updated: "2016-11-25"
+last_updated: "2019-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117390&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-10-25"
 ---
 # REGLAMENTO EN MATERIA DE RECURSOS MATERIALES Y SERVICIOS GENERALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEXTO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 1 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO EN MATERIA DE RECURSOS MATERIALES Y SERVICIOS GENERALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 25 de noviembre de 2016.
 
@@ -1738,3 +1740,29 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se instruye a la Dirección General de Administración para que en un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Acuerdo, instale el Comité de Bienes Muebles, a efecto de que éste emita el Manual de Integración y Funcionamiento del mismo.
 
 TERCERO.- Todos aquellos procesos, trámites, autorizaciones y actos iniciados con base en las disposiciones que quedan sin efectos, deberán concluirse conforme a lo previsto en las mismas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE MARZO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba el Reglamento en Materia de Recursos Materiales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Administración para que dé el seguimiento que corresponda al presente Acuerdo, dentro del ámbito de su competencia.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo, se publiquen en el Diario Oficial de la Federación.
+
+El presente acuerdo y su anexo pueden ser consultados en las direcciones electrónicas siguientes:
+
+http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-PUB-30-01-2019.09.pdf
+
+www.dof.gob.mx/2019/INAI/AcuerdosDelPleno-ACT-PUB-30-01-2019.09.pdf
+
+CUARTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+QUINTO. El presente Acuerdo entrará en vigor al momento de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se abroga el Reglamento en materia de Recursos Materiales y Servicios Generales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, autorizado por el Pleno de este Instituto mediante acuerdo ACT-PUB 25/10/2016.04, publicado en el Diario Oficial de la Federación el veinticinco de noviembre de dos mil dieciséis.
