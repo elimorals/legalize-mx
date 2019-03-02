@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2018-10-20"
+last_updated: "2019-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -537,7 +537,7 @@ IX. Servicios de transporte público adaptado;
 
 X. Programas de vialidad;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018) (REPUBLICADA, P.O. 2 DE MARZO DE 2019)
 
 XI. Programas de acceso a la información pública gubernamental;
 
@@ -545,7 +545,11 @@ XI. Programas de acceso a la información pública gubernamental;
 
 XII. Creación y seguimiento (sic) proyectos productivos y el autoempleo que generen ingresos para las personas con discapacidad; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P. O. 2 DE MARZO DE 2019)</small>
+
+XII. (SIC) Los que garanticen el acceso de toda persona con discapacidad permanente, que por su condición económica se encuentre en situación de vulnerabilidad y que así lo requiera, a los aparatos para movilidad asistida que consisten en muletas, bastones, andaderas y sillas de ruedas; y
+
+(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018) (REUBICADA, P.O. 2 DE MARZO DE 2019)
 
 XIII. Todas aquellas acciones que en su momento se consideren necesarias para la equiparación de oportunidades y protección de los derechos de las personas con discapacidad.
 
@@ -671,7 +675,7 @@ III. El fomento y la promoción de las potencialidades de la persona con discapa
 
 IV. Desarrollar al máximo su capacidad de aprendizaje;
 
-V. La incorporación a la vida social y el desempeño de un trabajo que permita a la persona con discapacidad (sic) autorealizarse, servirse a sí mismo y a desarrollarse en la vida práctica; y
+V. La incorporación a la vida social y el desempeño de un trabajo que permita a la persona con discapacidad autorealizarse, servirse a sí mismo y a desarrollarse en la vida práctica; y
 
 VI. Capacitar a padres de familia o tutores, así como también a los maestros y personal de las escuelas de educación básica regular para que integren a alumnos con necesidades especiales a la educación.
 
@@ -1396,3 +1400,13 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 597 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 10, FRACCIÓN IX; 69; Y 93, PÁRRAFO PRIMERO, DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P. O. 2 DE MARZO 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 41 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN XI Y ADICIONAR LA FRACCIÓN XII, HACIENDO EL CORRIMIENTO RESPECTIVO DE LA ACTUAL FRACCIÓN XII QUE PASA A SER LA FRACCIÓN XIII, TODAS DEL ARTÍCULO 15, DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto el INCODIS en coordinación con los ayuntamientos, el sector salud, las instituciones públicas y privadas de asistencia social y demás autoridades competentes, deberá elaborar un censo para obtener un padrón que permita conocer y ubicar en el Estado, a las personas que tienen alguna discapacidad permanente, que por su condición económica se encuentren en situación de vulnerabilidad y que requieran de aparatos para movilidad asistida que consisten en muletas, bastones, andaderas y sillas de ruedas.
+
+TERCERO.- Una vez que se cuente con el padrón señalado en el artículo anterior, éste deberá ser entregado a los Ayuntamientos y al titular del Poder Ejecutivo, para su constante actualización y para que a partir de sus Presupuestos de Egresos para el Ejercicio Fiscal 2020, contemplen, en la medida de sus posibilidades financieras, una partida para la emisión de un programa o demás acciones que consideren pertinentes, relativas a garantizar el acceso de toda persona con discapacidad permanente, que por su condición económica se encuentre en situación de vulnerabilidad y que así lo requiera, a los aparatos para movilidad asistida que consisten en muletas, bastones, andaderas y sillas de ruedas.
