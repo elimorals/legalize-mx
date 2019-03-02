@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2019-01-10"
+last_updated: "2019-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -905,9 +905,9 @@ Las comisiones serán electas por mayoría simple y estarán integradas por tres
 
 En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre los grupos parlamentarios en proporción al número de Diputados que los integran en relación con el total de los que conforman al Congreso.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-Las Comisiones de Responsabilidades; de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; del Sistema Estatal Anticorrupción; de Transparencia y Acceso a la Información; y de Planeación y Turismo, se integrarán por cinco Diputados, de conformidad con los términos que señalen esta Ley y el Reglamento.
+Las Comisiones de Responsabilidades; Educación y Cultura; de Salud y Bienestar Social; Estudios Legislativos y Puntos Constitucionales; de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; del Sistema Estatal Anticorrupción; de Transparencia y Acceso a la Información; y de Planeación y Turismo, se integrarán por cinco Diputados, de conformidad con los términos que señalen esta Ley y el Reglamento.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1667,7 +1667,7 @@ P.O. 27 DE JULIO DE 2013.
 
 DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic) El Estado de Colima.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Colima.
 
 P.O. 12 DE OCTUBRE DE 2013.
 
@@ -1792,3 +1792,9 @@ SEGUNDO.- La Dirección de Servicios Documentarios continuará realizando las fa
 TERCERO.- En un término no mayor a 30 treinta días hábiles posterior a la aprobación del presente dictamen, deberán ser expedidos los Reglamentos internos de la Contraloría Interna y del Instituto de Profesionalización e Investigaciones Parlamentarias, ambos del H. Congreso del Estado, así como aprobado el tabulador salarial correspondiente al ejercicio fiscal 2019, en el que se incluyan los ajustes correspondientes a las dependencias que fueron creadas en términos del presente decreto.
 
 CUARTO.- La Oficialía Mayor y las Direcciones de Proceso Legislativo, de Finanzas, Administración y Servicios Generales, y Jurídica, por conducto de sus titulares, en un término improrrogable de 60 días naturales posteriores al inicio de vigencia del presente Decreto, deberán expedir los manuales de procedimientos de sus áreas, a efecto de determinar la máxima eficiencia de las tareas del personal a su cargo.
+
+P.O. 2 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 35 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
