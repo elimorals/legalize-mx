@@ -4,7 +4,7 @@ identifier: "COL-ley-de-austeridad-del-estado-de-colima-132110"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-21"
-last_updated: "2018-12-21"
+last_updated: "2019-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AUSTERIDAD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 21 de diciembre de 2018.
 
@@ -85,6 +85,10 @@ Las remuneraciones que perciban todos los servidores públicos deberán ajustars
 
 Queda prohibido establecer o cubrir con recursos públicos haberes de retiro o regímenes especiales de jubilación o pensión, así como la contratación de seguros privados de gastos médicos, de vida o de separación, individuales o colectivos, por parte de los entes públicos para beneficio de cualquier servidor público.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2019)</small>
+
+Los seguros referidos en el párrafo anterior, son los regulados por la Ley Sobre el Contrato de Seguro y ofertados por las Instituciones de Seguros, Instituciones de Fianzas y Sociedades Mutualistas de Seguro, contempladas en la Ley de Instituciones de Seguros y de Fianzas.
+
 ###### Artículo 5.
 
 Durante el ejercicio fiscal, la creación de plazas adicionales a las autorizadas en los presupuestos de egresos, así como el incremento de las percepciones correspondientes a las mismas, quedarán sujetos a lo dispuesto en los artículos 10, fracción I, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y 112 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima. La contratación de servicios personales por honorarios solo procederá en casos excepcionales y plenamente justificados. Las contraprestaciones de dichos contratos no podrán ser diversas a las establecidas para los servidores públicos con iguales o similares responsabilidades. Los contratos garantizarán los derechos en materia de seguridad social y el respectivo cumplimiento de las obligaciones fiscales.
@@ -131,11 +135,15 @@ El incumplimiento o la elusión de las disposiciones contenidas en el presente o
 
 TRANSITORIOS:
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Las dependencias, entidades y órganos de los Poderes del Estado, de los municipios, y demás entes públicos estatales, incluidos los organismos públicos a los que la Constitución Política del Estado Libre y Soberano de Colima otorga autonomía, ejercerán sus presupuestos en estricto apego a las disposiciones de la presente ley.
 
 TERCERO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2019)</small>
+
+CUARTO. El presente ordenamiento jurídico no resultará aplicable al contenido y alcance del Decreto 616 de fecha 27 de septiembre de 2018, por el cual fue expedida la Ley de Pensiones de los Servidores Públicos del Estado de Colima.
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
@@ -153,7 +161,7 @@ Dado en Palacio de Gobierno, el día 20 veinte del mes de diciembre del año 201
 
 A t e n t a m e n t e
 
-“SUFRAGIO EFECTIVO. REELECCIÓN”
+"SUFRAGIO EFECTIVO. REELECCIÓN"
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
@@ -166,3 +174,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 37 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4; Y SE ADICIONA UN ARTÍCULO CUARTO TRANSITORIO AL DECRETO NÚMERO 27, POR EL QUE FUE EXPEDIDA LA LEY DE AUSTERIDAD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
