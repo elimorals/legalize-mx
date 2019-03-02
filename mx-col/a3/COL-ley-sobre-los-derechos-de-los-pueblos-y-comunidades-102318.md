@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-de-los-pueblos-y-comunidades-102318"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2016-07-16"
+last_updated: "2019-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -39,7 +39,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -723,6 +725,14 @@ Las comunidades indígenas deberán participar en el diseño, desarrollo y aplic
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán coordinar acciones con las comunidades indígenas y con los organismos correspondientes, para preservar y desarrollar el uso de sus lenguas. Para tal efecto, se elaborarán programas de investigación y fortalecimiento de las lenguas indígenas, en su forma oral y escrita, fomentando la publicación de literatura en esas lenguas.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2019)</small>
+
+Las lenguas indígenas serán válidas, al igual que la lengua oficial, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública. El Estado y los Municipios, en consulta con los pueblos y comunidades indígenas originarias y migrantes, determinarán cuáles de sus dependencias administrativas adoptarán e instrumentarán las medidas suficientes, para atender y resolver los asuntos que se les planteen en lenguas indígenas.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2019)</small>
+
+El Estado y los Municipios tendrán disponibles y difundirán, previa presupuestación, a través de textos, medios audiovisuales e informáticos, las leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a los pueblos y comunidades indígenas, en la lengua de sus correspondientes beneficiarios.
+
 ###### Artículo 51.
 
 Los comités escolares y/o asociaciones de padres de familia, podrán participar y opinar en cuestiones específicas de los procesos educativos.
@@ -984,3 +994,15 @@ P.O. 16 DE JULIO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Comisión a que se refiere el artículo 60 de la presente Ley, deberá conformarse en un término no mayor de 60 días, una vez que entre en vigor el presente decreto.
+
+P.O. 2 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 42 POR EL QUE SE APRUEBA ADICIONAR LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 50, DE LA LEY SOBRE LOS DERECHOS DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Estado en coordinación con los Municipios, deberá diseñar, elaborar y aplicar la consulta con los pueblos y comunidades indígenas originarias y migrantes de la entidad, en primer término, para identificar las lenguas que se hablen por las partes consultadas, así como determinar cuáles de las dependencias públicas administrativas adoptarán e instrumentarán las medidas suficientes, para atender y resolver los asuntos que les sean planteados en lenguas indígenas.
+
+TERCERO.- Una vez que se cuente con los resultados de la encuesta señalada en el artículo anterior, dentro de los 90 días naturales posteriores se deberá sensibilizar y capacitar a los servidores públicos de las dependencias administrativas que adoptarán e instrumentarán las medidas suficientes para atender y resolver los asuntos que les sean planteados en lenguas indígenas.
+
+CUARTO.- El Estado y los Municipios, a partir de sus Presupuestos de Egresos para el Ejercicio Fiscal 2020, deberán contemplar, en la medida de sus posibilidades financieras, una partida para tener disponibles y difundir, a través de textos, medios audiovisuales e informáticos, las leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a los pueblos y comunidades indígenas, en la lengua de sus correspondientes beneficiarios.
