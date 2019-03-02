@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2017-07-29"
+last_updated: "2019-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -1945,6 +1945,8 @@ Dará motivo a la detención del conductor y sus pasajeros o de terceras persona
 
 En el caso que el conductor tripule un vehículo sin placas y sin tarjeta de circulación, o no porte licencia de conducir, se le asegurará el vehículo, enviandolo al encierro vehicular hasta que regularice su proceso registral de obtención de placas para circulación y en su caso la licencia correspondiente.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 2 DE MARZO DE 2019, PÁGINA DE LA 4 A LA 7.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 241.
@@ -2017,9 +2019,9 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 032.- Circular bicicletas, triciclo o motocicleta asida a otro vehículo;
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-033.- Conducir sin sujetar firmemente el volante y/o de manera negligente.
+033.- Conducir sin sujetar firmemente el volante y/o de manera negligente poniendo en riesgo la integridad física de otras personas o sus bienes;
 
 034.- Chocar al salir de un estacionamiento o cochera;
 
@@ -2041,275 +2043,385 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 043.- Dar Vuelta en lugar prohibido;
 
-044.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-045.- No hacer los señalamientos manuales o de luces direccionales anticipadamente al dar vuelta o cambiar de carril;
+044.- No hacer los señalamientos manuales o de luces direccionales anticipadamente al dar vuelta o cambiar de carril;
 
-046.- Realizar competencias en o carreras en la vía pública, sin la autorización;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+045.- Realizar competencias o carreras en la vía pública, sin la autorización;
 
-047.- Conducir ingiriendo bebidas alcohólicas
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-048.- Estacionar vehículos pesados fuera de su lugar de depósito o resguardo;
+046.- Conducir ingiriendo bebidas alcohólicas o permitir que los pasajeros vayan ingiriendo bebidas alcohólicas o lleven envases abiertos de estas;
 
-049.- Estacionarse en esquinas u ochavos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-050.- Estacionarse en un carril de circulación o en sentido contrario;
+047.- Estacionar vehículos pesados fuera de su lugar de depósito o resguardo;
 
-051.- Estacionarse en doble fila;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-052.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+048.- Estacionarse en esquinas u ochavos;
 
-053.- Estacionarse en áreas destinadas a vehículos que transportan personas con discapacidad;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-054.- Estacionarse en lugar prohibido con señalamiento;
+049.- Estacionarse en un carril de circulación o en sentido contrario;
 
-055.- Estacionarse en paradas autorizadas del transporte público;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-056.- Estacionarse en el acceso de cocheras o rampas;
+050.- Estacionarse en doble fila;
 
-057.- Estacionarse frente al acceso de escuelas y edificios públicos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-058.- Estacionarse junto a banquetas con rampas para personas con discapacidad;
+051.- Estacionarse en áreas destinadas a vehículos que transportan personas con discapacidad;
 
-059.- Estacionarse sobre rampas, pasos peatonales, aceras, banquetas, isletas, camellones y andadores;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+052.- Estacionarse en lugar prohibido con señalamiento;
 
-060.- Estacionar vehículo sin dejar espacio prudente entre un vehículo y otro, o con la banqueta, ochavo o cajóndesignado (sic) con otro fin.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-061.- Conducir con exceso de velocidad en zona urbana;
+053.- Estacionarse en paradas autorizadas del transporte público;
 
-062.- Conducir con exceso de velocidad en zona escolar;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-063.- Conducir con exceso de velocidad en zona restringida;
+054.- Estacionarse en el acceso de cocheras o rampas;
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-064.- Falta de ante llantas o loderas en vehículos de carga y pasaje
+055.- Estacionarse frente al acceso de escuelas y edificios públicos;
 
-065.- Falta de aseo del conductor de vehículo del servicio público de pasajeros;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-066.- Falta de limpieza en vehículos del servicio público;
+056.- Estacionarse junto a banquetas con rampas para personas con discapacidad;
 
-067.- Falta de calcomanía u holograma oficiales y vigentes;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-068.- Falta de espejos retrovisores centrales o laterales;
+057.- Estacionarse sobre rampas, pasos peatonales, aceras, banquetas, isletas, camellones y andadores;
 
-069.- Falta de herramienta indispensable de emergencia (llave de cruceta, gato y señalamientos reflejantes);
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-070.- Falta de placa en motocicleta, trimoto o cuatrimoto o vehículos tipo bugy, de estructuras tubulares o similares;
+058.- Estacionar vehículo sin dejar espacio reglamentado entre un vehículo y otro, o con la banqueta, ochavo o cajón designado con otro fin;
 
-071.- Falta de permiso para transitar vehículos pesados o de transporte de carga o pasaje en la zona urbana;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-072.- Falta de una o dos defensas;
+059.- Conducir con exceso de velocidad en zona urbana;
 
-073.- Hacer alto sobre zona peatonal;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-074.- Hacer paradas de servicio público de transporte en un lugar diferente al autorizado;
+060.- Conducir con exceso de velocidad en zona escolar;
 
-075.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-076.- Llevar instalado equipo que detecta radares y utilizarlos;
+061.- Conducir con exceso de velocidad en zona restringida;
 
-077.- Llevar casco protector con la visera hacia atrás, o sin abrocharlo;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-078.- Manejar con aliento alcohólico;
+062.- Falta de ante llantas o loderas;
 
-079.- Manejar con primer grado de ebriedad;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-080.- Manejar con segundo grado de ebriedad;
+063.- Falta de aseo del conductor de vehículo del servicio público de pasajeros;
 
-081.- Manejar con tercer grado de ebriedad;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-082.- Permitir manejar a menor de edad sin permiso de conducir;
+064.- Falta de limpieza en vehículos del servicio público;
 
-083.- Manejar con licencia vencida;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-084.- Manejar sin la licencia correspondiente al vehículo que se conduce;
+065.- Falta de calcomanía u holograma oficiales y vigentes;
 
-085.- Manejar sin licencia de conducir;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-086.- Manejar sin respetar las indicaciones especificadas en la licencia o permiso correspondiente;
+066.- Falta de espejos retrovisores centrales o laterales;
 
-087.- Mover un vehículo del lugar del hecho de tránsito sin la autorización correspondiente;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-088.- Negar injustificadamente el servicio de taxi;
+067.- Falta de herramienta indispensable de emergencia (llave de cruceta, gato y señalamientos reflejantes);
 
-089.- Negarse a entregar documentos: Licencia de conducir o tarjeta de circulación o permiso provisional para conducir;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-090.- Circular sin cinturón de seguridad ya sea conductor o pasajeros;
+068.- Falta de placa en motocicleta, trimoto o cuatrimoto o vehículos tipo bugy, de estructuras tubulares o similares;
 
-091.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-092.- No ceder el paso a vehículos y peatones al salir de cochera;
+069.- Falta de permiso para transitar vehículos pesados o de transporte de carga o pasaje en la zona urbana;
 
-093.- No ceder el paso a vehículos al iniciar marcha;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-094.- No ceder el paso al peatón en las zonas de paso o al dar vuelta;
+070.- Falta de una o dos defensas;
 
-095.- No ceder el paso a personas con discapacidad, menores de edad o adultos mayores;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-096.- No contar con permiso vigente para circular sin placas;
+071.- Hacer alto sobre zona peatonal;
 
-097.- No portar la póliza del seguro de viajero y daños a terceros para vehículos del servicio público;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-098.- Que el vehículo no traiga en su lugar el cinturón de seguridad, cuando al salir de fábrica cuente con él, en modelos 1985 y posteriores;
+072.- Hacer paradas de servicio público de transporte en un lugar diferente al autorizado;
 
-099.- No efectuar cambio de luces;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-100.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+073.- Llevar instalado equipo que detecta radares y utilizarlos;
 
-101.- No ceder el paso a ambulancias, bomberos o vehículos de seguridad pública o de emergencias o protección civil con luces y sirena activada;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-102.- No llevar llanta de refacción o las herramientas indispensables para emergencia mecánica;
+074.- Llevar casco protector con la visera hacia atrás, o sin abrocharlo;
 
-103.- No obedecer indicaciones del policía vial;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-104.- No portar extintor de incendio, en vehículos que transportan sustancias flamables;
+075.- Manejar con aliento alcohólico;
 
-105.- No respetar el proceso vial de paso vehicular descrito para las intersecciones de Uno y Uno;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-106.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+076.- Manejar con primer grado de ebriedad;
 
-107.- No respetar la señal de “ALTO” o de “CEDA EL PASO”;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-108.- No respetar los señalamientos viales;
+077.- Manejar con segundo grado de ebriedad;
 
-109.- Obstruir la circulación al realizar maniobras de ascenso y descenso del vehículo;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-110.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+078.- Manejar con tercer grado de ebriedad;
 
-111.- Obstruir la circulación de manera deliberada o provocar congestionamiento vial;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-112.- No usar casco protector reglamentario de motociclista y el conductor y sus pasajeros y ciclistas;
+079.- Permitir manejar a menor de edad sin permiso de conducir;
 
-113.- Obstaculizar la marcha de peatones, columnas militares o escolares, desfiles, eventos deportivos, sepelios y demás manifestaciones en vía pública;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-114.- No atender la restricción de la luz roja del semáforo y cruzar la intersección pasándose la luz de alto;
+080.- Manejar con licencia vencida;
 
-115.- Permitir el ascenso o descenso de pasajeros de vehículos en movimiento.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-116.- Transportar carga que ponga en riesgo la estabilidad de la motocicleta;
+081.- Manejar sin la licencia correspondiente al vehículo que se conduce;
 
-117.- Obstaculizar el centro de la intersección vial cuando no hay espacio para avanzar;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-118.- Realizar actividades de servicio público de transporte con placas particulares;
+082.- Manejar sin licencia de conducir;
 
-119.- Realizar reparaciones de vehículos en la vía pública;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-120.- Rebasar en lugar prohibido;
+083.- Manejar sin respetar las indicaciones especificadas en la licencia o permiso correspondiente;
 
-121.- Rebasar por la derecha;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-122.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+084.- Mover un vehículo del lugar del hecho de tránsito sin la autorización correspondiente;
 
-123.- Rebasar o adelantar vehículos en zona escolar;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-124.- Remolcar vehículos sin contar con equipo especial;
+085.- Negar injustificadamente el servicio de taxi;
 
-125.- Proyectar piedras o salpicar agua al circular con el vehículo;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-126.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
+086.- Negarse a entregar documentos: Licencia de conducir o tarjeta de circulación o permiso provisional para conducir;
 
-127.- Toda descortesía de los conductores de servicio público a los pasajeros, peatones o conductores de otros vehículos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-128.- Traer limpiaparabrisas en mal estado de funcionamiento o no traerlo;
+087.- Circular sin cinturón de seguridad ya sea conductor o pasajeros;
 
-129.- Transportar carga sin sujetarla adecuadamente;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-130.- Transportar carga mal oliente, sin la autorización correspondiente;
+088.- No ceder el paso a vehículos y peatones al salir de cochera;
 
-131.- Transportar materiales y residuos peligrosos sin autorización;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-132.- Transportar pasajeros menores de 10 años o carga, en motocicleta;
+089.- No ceder el paso a vehículos al iniciar marcha;
 
-133.- Transportar personas en el área de carga, salvo en los casos y términos previstos en el presente reglamento;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-134.- Transportar personas en el estribo de vehículos;
+090.- No ceder el paso al peatón en las zonas de paso o al dar vuelta;
 
-135.- Usar el conductor el teléfono celular estando el vehículo en circulación;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-136.- Conducir manipulando equipo electrónico de datos, video, de sonido, etc;
+091.- No ceder el paso a personas con discapacidad, menores de edad o adultos mayores;
 
-137.- Usar un equipo de sonido con volumen notoriamente molesto; o uso indebido del claxon;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-138.- Usar en la zona delantera de la cabina pantallas con acceso a internet y/o monitores de televisión, y/o reproductores de DVD;
+092.- No contar con permiso vigente para circular sin placas;
 
-139.- Circular sin permiso vehículo con huella de accidente;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-140.- Manejar bajo el influjo de sustancias prohibidas o autorizadas que disminuyan la capacidad psicomotriz para conducir vehículos;
+093.- No portar la póliza del seguro de viajero y daños a terceros para vehículos del servicio público;
 
-141.- Transportar menores de 8 años de edad parados o sentados en el asiento delantero y a menores de 4 años de edad sin silla de seguridad;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2017)</small>
+094.- Que el vehículo no traiga en su lugar el cinturón de seguridad, cuando al salir de fábrica cuente con él, en modelos 1985 y posteriores;
 
-142.- No llevar cubiertos los materiales en el área de carga con riesgo de dispersarse sobre la vía pública;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE CÓDIGO ES SIMILAR AL CÓDIGO 144.]</small>
+095.- No efectuar cambio de luces;
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-143.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular; y
+096.- No ceder el paso a ambulancias o bomberos o vehículos de seguridad pública o de emergencias o protección civil con luces y sirena activada;
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE CÓDIGO ES SIMILAR AL CÓDIGO 143.]</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2017)</small>
+097.- No llevar llanta de refacción o las herramientas indispensables para emergencia mecánica;
 
-144.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+098.-No obedecer indicaciones del policía vial y/o agente de tránsito municipal;
 
-145.- Circular con velocidad inferior a la permitida en la zona urbana
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+099.- No portar extintor de incendio, en vehículos que transportan sustancias flamables;
 
-146.- Circular el conductor sin el cinturón de seguridad puesto
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+100.- No respetar el proceso vial de paso vehicular descrito para las intersecciones de uno y uno;
 
-147.- Colocar objetos en la vía pública para apartar lugar
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+101.- No respetar la señal de "ALTO" o de "CEDA EL PASO";
 
-148.- Emitir los vehículos en forma notoria humo
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+102.- No respetar los señalamientos viales;
 
-149.- Estacionarse en batería en lugares no autorizados
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+103.- Obstruir la circulación al realizar maniobras de ascenso y descenso del vehículo;
 
-150.- Estacionarse antes de los 5m. de las esquinas
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+104.- Obstruir la circulación de manera deliberada o provocar congestionamiento vial;
 
-151.- Estacionarse en curva o acotamiento
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+105.- No usar casco protector reglamentario de motociclista y el conductor y sus pasajeros y ciclistas;
 
-152.- Falta de anteojos cuando así lo indique la licencia
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+106.- Obstaculizar la marcha de peatones, columnas militares o escolares, desfiles, eventos deportivos, sepelios y demás manifestaciones en vía pública;
 
-153.- No portar tarjeta de circulación y/o calcomanía vigente
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+107.- No atender la restricción de la luz roja del semáforo y cruzar la intersección pasándose la luz de alto;
 
-154.- Cualquier otra que no se contenga en el presente reglamento y que evidentemente constituya un riesgo para la seguridad vial
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+108.- Permitir el ascenso o descenso de pasajeros de vehículos en movimiento;
 
-155.- Obstruir zona peatonal al hacer alto
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+109.- Transportar carga que ponga en riesgo la estabilidad de la motocicleta;
 
-156.- Prohibido viajar tres o más personas en motocicleta
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+110.- Obstaculizar el centro de la intersección vial cuando no hay espacio para avanzar;
 
-157.- Subir o bajar pasaje en lugares no autorizados
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+111.- Realizar actividades de servicio público de transporte con placas particulares;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+112.- Realizar reparaciones de vehículos en la vía pública;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+113.- Rebasar en lugar prohibido;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+114.- Rebasar por la derecha;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+
+115.- Rebasar por el acotamiento;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+116.- Rebasar o adelantar vehículos en zona escolar;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+117.- Remolcar vehículos sin contar con equipo especial;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+118.- Proyectar piedras o salpicar agua al circular con el vehículo;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+119.- Toda descortesía de los conductores de servicio público a los pasajeros, peatones o conductores de otros vehículos;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+120.- Traer limpiaparabrisas en mal estado de funcionamiento o no traerlo;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+121.- Transportar carga sin sujetarla adecuadamente;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+122.- Transportar carga mal oliente, sin la autorización correspondiente;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+123.- Transportar materiales y residuos peligrosos sin autorización;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+124.- Transportar pasajeros menores de 10 años o carga, en motocicleta;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+125.- Transportar personas en el área de carga, salvo en los casos y términos previstos en el presente reglamento;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+126.- Transportar personas en el estribo de vehículos;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+127.- Usar el conductor el teléfono celular estando el vehículo en circulación;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+128.- Conducir manipulando equipo electrónico de datos, video, de sonido, etc.;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+129.- Usar un equipo de sonido con volumen notoriamente molesto; o uso indebido del claxon;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE MARZO DE 2019)</small>
+
+130.- Usar en la zona delantera de la cabina pantallas con acceso a internet y/o monitores de televisión, y/o reproductores de DVD;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
+
+131.- Circular sin permiso vehículo con huella de accidente;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
+
+132.- Manejar bajo el influjo de sustancias prohibidas o autorizadas que disminuyan la capacidad psicomotriz para conducir vehículos;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
+
+133.- Transportar menores de 8 años de edad parados o sentados en el asiento delantero y a menores de 4 años de edad sin silla de seguridad;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
+
+134.- No llevar cubiertos los materiales en el área de carga con riesgo de dispersarse sobre la vía pública;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+
+135.- Dejar vehículo descompuesto o detenido en la vía pública sin señalamiento preventivo;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2019)</small>
+
+136.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+
+137.- Pintar el machuelo de la acera o banqueta con color amarillo tráfico, para disimular que esta área es exclusiva o privada; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+
+138.- Exceder el número máximo de personas, que un vehículo de transporte público de pasajeros pueda transportar y para lo cual fue diseñado según marque en la tarjeta de circulación.
 
 ###### ARTÍCULO 242.
 
@@ -2549,7 +2661,7 @@ CUARTO.- A los que infrinjan las normas dispuestas en este reglamento se les apl
 
 > <small>[N. DE E. VÉASE TABULADOR DE SANCIONES EN EL P.O. DE 26 DE ENERO DE 2013, PÁGINAS DE LA 111 A LA 115.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE SANCIONES, P.O. 29 DE JULIO DE 2017, PÁGINA 1977.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE SANCIONES, P.O. 29 DE JULIO DE 2017, PÁGINA 1977; 2 DE MARZO DE 2019, PÁGINAS DE LA 7 A LA 11.]</small>
 
 Dado en el Salón de Cabildo, del Municipio de Comala, Col., a los 15 días del mes de Agosto del año 2012.
 
@@ -2592,3 +2704,11 @@ La unidad de medida y actualización (UMA), sustituye al salario mínimo como es
 En el caso de los vehículos que no cuenten con chips de inscripción al registro público vehicular en el parabrisas, al entrar en vigor la presente disposición se les hará una boleta preventiva por única ocasión, otorgándoles 5 días hábiles posteriores a la fecha de elaboración de la boleta, para que instalen la constancia antes señalada y de no acatar lo anterior se procederá a imponer la infracción correspondiente.
 
 Para efecto de que proceda la cancelación de la boleta preventiva se deberá presentar el vehículo automotor dentro del término otorgado a la Dirección de Seguridad Pública y Vialidad, para que el Director General de cuenta de la instalación de la constancia respectiva, debiendo comunicar por escrito dicho cumplimiento a la Tesorería Municipal, para efectos de que se deje sin efecto el cobro de la boleta de que se trate.
+
+P.O. 2 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE AUTORIZA REFORMAR EL ARTÍCULO 241, ASÍ COMO, EL ARTÍCULO TRANSITORIO CUARTO QUE CONTIENE EL TABULADOR DE SANCIONES, AMBOS DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente disposición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
