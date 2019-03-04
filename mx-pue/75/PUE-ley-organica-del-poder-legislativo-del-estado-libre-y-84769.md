@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2018-07-31"
+last_updated: "2019-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -691,15 +691,13 @@ La Presidencia de la Mesa Directiva y la Presidencia de la Junta de Gobierno y C
 
 La Mesa Directiva es el Órgano que conduce el Pleno del Congreso y es el Órgano que supervisa el trabajo legislativo de las Comisiones y Comités; asegura el debido desarrollo de los debates, discusiones, votaciones y garantiza que en los trabajos legislativos se observe lo previsto en la Constitución Política del Estado Libre y Soberano de Puebla, en esta Ley, y su Reglamento Interior.
 
-La Mesa Directiva ejercerá sus funciones, observándose lo siguiente:
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+La Mesa Directiva ejercerá sus funciones del 15 de septiembre al 14 de septiembre del año siguiente. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 14 de septiembre del periodo que corresponda.
 
-I.- La Primer Mesa Directiva ejercerá funciones del 15 de septiembre al 15 de marzo del año siguiente. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 15 de marzo del periodo que corresponda; y
+I.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
-
-II.- La Segunda Mesa Directiva ejercerá funciones del 16 de marzo al 14 de septiembre. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 14 de septiembre del periodo que corresponda.
+II.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
 
 ###### ARTÍCULO 65.
 
@@ -725,11 +723,15 @@ A las reuniones de la Mesa Directiva concurrirá el Secretario General quien fun
 
 La elección de la Primera Mesa Directiva de cada legislatura se sujetará al procedimiento dispuesto por el artículo 27 de la presente Ley.
 
-Dentro de los cinco días anteriores al cumplimiento del encargo de la Primera Mesa Directiva, el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, procederá a elegir a los integrantes de la Segunda Mesa Directiva.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
-Cuando el Congreso concluya el tercer periodo ordinario de sesiones del primer y segundo año de ejercicio, dentro de los cinco días anteriores a la fecha respectiva el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, procederá a elegir a los integrantes de la Mesa Directiva correspondiente.
+Dentro de los cinco días anteriores al cumplimiento del encargo de la Primera y Segunda Mesa Directiva, el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, procederá a elegir a los integrantes de la Mesa Directiva que corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 La elección de la Mesa Directiva se comunicará al Ejecutivo del Estado, al Presidente del Tribunal Superior de Justicia del Estado, al Congreso de la Unión, a las Legislaturas de los Estados y al Secretario General de Gobierno para que ordene la publicación en el Periódico Oficial del Estado de la integración de la misma.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1005,13 +1007,15 @@ La Junta de Gobierno y Coordinación Política es el órgano plural y colegiado 
 
 La Junta de Gobierno y Coordinación Política estará integrada por los Coordinadores de los Grupos Legislativos y por los Diputados de las Representaciones Legislativas quienes tendrán derecho de voz y voto; así como por el Presidente de la Mesa Directiva quien únicamente participa con voz.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 97.
 
-Para el caso del primer año de ejercicio constitucional de la Legislatura, el Presidente de la Junta de Gobierno y Coordinación Política será electo por el Pleno por mayoría absoluta de votos, de entre los Coordinadores y Representantes Legislativos, a propuesta de ellos, en la Segunda sesión de cada Primer Periodo Ordinario de Sesiones.
+El Presidente de la Junta de Gobierno y Coordinación Política será electo por el Pleno por mayoría absoluta de votos, de entre los Coordinadores y Representantes Legislativos, a propuesta de ellos, en la segunda sesión del Primer Periodo Ordinario de Sesiones del Primer Año Legislativo; siendo el Coordinador del Grupo Legislativo mayoritario.
 
-Para el caso del segundo y tercer año de ejercicio constitucional de la Legislatura, el Presidente de la Junta de Gobierno y Coordinación Política será electo por el Pleno por mayoría absoluta de votos, de entre los Coordinadores y Representantes Legislativos, a propuesta de ellos, antes de la apertura del primer Periodo Ordinario de Sesiones del correspondiente año.
+Durará en su cargo el mismo término de la legislatura.
 
-El Presidente de la Junta de Gobierno y Coordinación Política durará en su cargo un año y podrá ser reelecto por una ocasión.
+En caso de sustitución, en cualquier momento se estará a lo dispuesto por los párrafos precedentes del presente artículo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -2121,7 +2125,7 @@ El Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar", depe
 
 El Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar", debe velar por la imparcialidad de los servicios que presta al Congreso y observar en su actuación las disposiciones contenidas en esta Ley, su Reglamento Interior y demás disposiciones aplicables.
 
-> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] , P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 214.
 
@@ -2644,3 +2648,21 @@ P.O. 31 DE JULIO DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día quince de septiembre del año dos mil dieciocho, con excepción de lo dispuesto en el artículo 27 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, que entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DE (SIC) HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 97 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Diputado que a la fecha de la publicación del presente Decreto presida la Junta de Gobierno y Coordinación Política del Honorable Congreso del Estado Libre y Soberano de Puebla, lo hará en los términos y condiciones que del presente se desprendan, extendiéndose su encargo a la duración del ejercicio de la Sexagésima Legislatura Local.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DE (SIC) HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Diputado que a la fecha de la publicación del presente Decreto presida la Mesa Directiva de la LX Legislatura del Honorable Congreso del Estado Libre y Soberano de Puebla, lo hará en los términos y condiciones que del mismo se desprenden.
