@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-escuela-normal-del-estado-de-74321"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-05"
-last_updated: "2010-04-05"
+last_updated: "2019-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA ESCUELA NORMAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA ESCUELA NORMAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA ESCUELA NORMAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de abril de 2010.
 
@@ -681,3 +683,33 @@ T R A N S I T O R I O S :
 Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Segundo. Se ordena inscribir el presente Reglamento Interior de la normal del Estado en el Registro Público de la Propiedad en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA ESCUELA NORMAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Escuela Normal del Estado de Aguascalientes, publicado el día 05 de abril de 2010 en la Primera Sección del Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Reglamento Interior.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Reglamento Interior de la Escuela Normal de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo del Organismo Público Descentralizado en cuestión deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al referido Organismo, con motivo de la entrada en vigor del presente Reglamento Interior.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Directivo del Organismo Público Descentralizado que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
