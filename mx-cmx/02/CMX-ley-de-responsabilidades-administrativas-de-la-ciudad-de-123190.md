@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2018-12-31"
+last_updated: "2019-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -106,7 +106,9 @@ XVII. Faltas de particulares: Los actos de personas físicas o morales privadas 
 
 XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad de la persona servidora pública o de un particular en la comisión de Faltas administrativas;
 
-XIX. Magistrado: El Titular o integrante de la sección especializada competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México o de las salas Ordinarias especializadas que, en su caso, se establezcan en dicha materia.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2019)</small>
+
+XIX. Magistrada o Magistrado: La persona integrante de la Sección Especializada competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México o de la Sala Ordinaria Especializada que conozca de responsabilidades administrativas y buena administración;
 
 XX. Órganos constitucionales autónomos: Organismos a los que la Constitución de la Ciudad de México otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio;
 
@@ -1899,3 +1901,17 @@ SEXTO. Se abroga la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México
 SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, se continuará aplicando en lo que no se contraponga con la presente Ley, hasta en tanto el titular de la Jefatura de Gobierno, emita el Reglamento de esta Ley, en un plazo no mayor a 90 días naturales.
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
+
+G.O. 4 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO Y SE REFORMA EL ARTÍCULO 3, EN SU FRACCIÓN XIX DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Jefa de Gobierno de la Ciudad de México deberá remitir al Congreso de la Ciudad las propuestas de nombramientos de las y los Magistrados de Sección Especializada de la Sala Superior y las o los Magistrados integrantes de la Sala Ordinaria Especializada en Responsabilidades Administrativas y de buena administración en un plazo máximo de 10 días naturales, contados a partir de la entrada en vigor del presente Decreto, a efecto de que el Congreso de la Ciudad de México determine si les ratifica o no, a más tardar, dentro de los 10 días siguientes a que los haya recibido.
+
+CUARTO.- Una vez que quede conformado en su totalidad el Pleno General del Tribunal, conforme a lo previsto en la Ley, se deberá elegir a nuevas personas integrantes de la Junta de Gobierno y Administración dentro de los 15 días siguientes a que hayan tomado protesta del encargo las nuevas personas Magistradas de Sala Superior y de Sala Ordinaria, los cuales podrán competir para formar la misma.
+
+QUINTO.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de este decreto.
