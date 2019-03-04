@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2019-01-23"
+last_updated: "2019-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -45,15 +45,11 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 La presente Ley tiene por objeto organizar y regular el funcionamiento de la Administración Pública del Estado de Nuevo León, que se integra por la Administración Pública Central y la Paraestatal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
 La Administración Pública Central está conformada por las dependencias listadas en el artículo 18 de la presente ley, así como por las demás dependencias, unidades administrativas de coordinación, asesoría o consulta cualesquiera que sea su denominación, ya sea que las integren o que dependan directamente del Gobernador.
 
 La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, organismos públicos descentralizados de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, cualquiera que sea su denominación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -84,8 +80,6 @@ Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador d
 El Gobernador del Estado podrá contar con unidades administrativas, cualquiera que sea su denominación u organización, para coordinar, planear, administrar o ejecutar programas especiales o prioritarios a cargo de la Administración Pública, coordinar los servicios de asesoría y apoyo técnico que requiera el Titular del Poder Ejecutivo y, en su caso, los municipios, a solicitud de los mismos; y para atender los asuntos relativos a prensa, comunicación social y relaciones públicas del Gobierno del Estado.
 
 De igual manera, podrá acordar la creación y funcionamiento de consejos, comités, comisiones o juntas de carácter interinstitucional y consultivos para fomentar la participación ciudadana en los asuntos de interés público, en los que se integre por invitación a dependencias y entidades de la Administración Pública del Estado, de otros órdenes de Gobierno, o a personas físicas y morales que por razón de sus respectivas atribuciones y actividades sea conveniente convocar.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -165,8 +159,6 @@ III. Secretaría de Finanzas y Tesorería General del Estado;
 
 IV. Procuraduría General de Justicia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 V. Representación del Gobierno del Estado en la Ciudad de México;
@@ -177,21 +169,15 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría de Salud;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 IX. Secretaría de Economía y Trabajo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 X. Secretaría de Infraestructura;
 
 XI. Secretaría de Desarrollo Social;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -200,8 +186,6 @@ XII. Secretaría de Administración;
 XIII. Secretaría de Desarrollo Sustentable;
 
 XIV. Contraloría y Transparencia Gubernamental; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -277,8 +261,6 @@ XVI. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resol
 
 El Coordinador Ejecutivo tendrá rango organizacional y remuneración intermedios entre Gobernador y Secretario. Contará con las unidades que sean necesarias para el eficaz desempeño de sus funciones, las cuales se autorizarán en los términos que indique el Gobernador. Sus órdenes y directrices deberán ser acatadas por las dependencias y organismos de la administración estatal siempre que no estén en conflicto con las órdenes y determinaciones del Gobernador.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 20.
@@ -343,49 +325,33 @@ XXVIII. Coordinar las políticas y programas en materia de comunicación y prens
 
 XXIX. Llevar el catálogo de las leyes, decretos, reglamentos, Periódico Oficial del Estado, Diario Oficial de la Federación, circulares y acuerdos del Ejecutivo;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXX. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXI. Otorgar apoyo técnico jurídico en forma directa al Gobernador del Estado, en todos aquellos asuntos que éste le encomiende;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXII. Conocer, revisar y emitir opinión o dictamen respecto de consultas, contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier acto o documento con efectos jurídicos, cuando el Titular del Ejecutivo así lo encomiende;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIII. Emitir opinión legal al Gobernador del Estado en todos aquellos asuntos que por su relevancia el Titular del Poder Ejecutivo así lo determine;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIV. Revisar los reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico del Titular del Ejecutivo, a efecto de someterlos a consideración y, en su caso, firma del Gobernador del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXV. Revisar y someter a consideración y, en su caso, firma del Gobernador del Estado todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso del Estado, y darle opinión sobre dichos proyectos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXVI. Prestar asesoría jurídica cuando el Gobernador del Estado así lo acuerde, en asuntos en que intervengan varias dependencias de la Administración Pública Estatal;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -393,43 +359,29 @@ XXXVII. Establecer y conducir la coordinación en materia jurídica de las unida
 
 Opinar previamente sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las áreas responsables del apoyo jurídico de las dependencias y entidades de la Administración Pública Estatal, dentro de su esfera competencial;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXVIII. Participar, junto con las demás dependencias y entidades competentes, en la actualización y simplificación del orden normativo jurídico, cuando el Titular del Ejecutivo así lo encomiende;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIX. Representar jurídicamente al Gobernador del Estado en asuntos extrajudiciales y en los juicios o procedimientos en que este sea parte, tenga el carácter de tercero o le resulte algún interés jurídico, así como en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y en los medios de control de la constitucionalidad local. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XL. Intervenir como parte ante el Tribunal de Justicia Administrativa del Estado cuando el acto impugnado sea de naturaleza administrativa estatal, en los términos de lo dispuesto por el artículo 33 fracción III de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XLI. Representar al Gobernador del Estado ante la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León en todos aquellos procedimientos en los que el Titular del Ejecutivo del Estado deba intervenir conforme a la Ley de la materia. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XLII. Solicitar de las dependencias y entidades de la Administración Pública Estatal la información y apoyo que requiera para el cumplimiento de sus funciones; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XLIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -438,8 +390,6 @@ XLIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones l
 La Secretaría de Finanzas y Tesorería General del Estado es la dependencia encargada de la administración financiera, fiscal y tributaria de la Hacienda Pública del Estado, y le corresponde, además de las atribuciones que le concede la Constitución Política del Estado, el despacho de los siguientes asuntos:
 
 I. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquellos otros ingresos cuya exacción le corresponda o le haya sido delegada de acuerdo a la Ley;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 (REFORMADA, P.O. 6 DE ABRIL DE 2016) (F. DE E., P.O. 8 DE ABRIL DE 2016)
 
@@ -460,8 +410,6 @@ VIII. Custodiar y concentrar los fondos y valores financieros del Gobierno del E
 IX. Representar en juicio, en el ámbito de su competencia, a la Hacienda Pública del Estado, por delegación del Ejecutivo;
 
 X. Efectuar las erogaciones conforme al Presupuesto de Egresos;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -485,13 +433,9 @@ XIX. Recibir, revisar y reclamar, en su caso, las participaciones en impuestos f
 
 XX. Elaborar los estudios de planeación financiera de las dependencias del Gobierno y de los organismos y entidades del sector paraestatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXI. Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y con vista de los mismos formular, en coordinación con la Coordinación Ejecutiva de la Administración Pública del Estado, el Programa Anual del Gasto Público;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -499,97 +443,61 @@ XXII. Elaborar, en coordinación con la Coordinación Ejecutiva de la Administra
 
 XXIII. Integrar y mantener actualizada la información catastral del Estado en los términos de la Ley de la materia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXIV. Vigilar el debido cumplimiento de la normatividad aplicable en materia de administración y enajenación de bienes del patrimonio del gobierno del Estado, así como de las normas y criterios para su adquisición, uso y destino, conforme a los ordenamientos jurídicos aplicables;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXV. Programar, realizar y celebrar los contratos relativos a las adquisiciones de bienes inmuebles y presidir el Comité de Operaciones Inmobiliarias del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVI. Mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVII. Establecer programas para la conservación y el mantenimiento de los bienes inmuebles del Gobierno del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVIII. Intervenir en los procedimientos de contratación y celebrar los contratos de compraventa, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado, en los términos previstos en las leyes de la materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXIX. Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades del sector paraestatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXX. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXI. Representar al Estado en los juicios o procedimientos en que éste sea parte o resulte algún interés patrimonial directo o indirecto;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXII. Presentar las denuncias, acusaciones o querellas con motivo de hechos delictuosos donde resulte afectado el patrimonio del Estado, con las excepciones que marca la Ley, dándole el seguimiento correspondiente;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIII. Expedir, negar y revocar conforme a la Ley de la materia, los permisos o licencias a los establecimientos en donde se venden o consumen bebidas alcohólicas, así como desempeñar las facultades que la misma le confiera; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIV. Las demás que les señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXV. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXVI. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXVII. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXVIII. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXIX. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XL. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XLI. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
@@ -637,15 +545,11 @@ XVIII. Coordinar, supervisar y evaluar las actividades y resultados de las entid
 
 XIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 23.
 
 El Gobernador contará con la Secretaría Particular del Gobernador y la Coordinación de Relaciones Públicas Institucionales quienes serán designados directamente por el Gobernador del Estado y llevarán a cabo las actividades inherentes a su encargo, agenda, protocolo, como aquéllas que se establezcan en el Reglamento que emita el Ejecutivo y las que en forma expresa les asigne el Gobernador del Estado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -695,15 +599,13 @@ XX. Autorizar y expedir el manual de organización de la Representación; y
 
 XXI. Las demás que le confieran el Titular del Ejecutivo del Estado y otras disposiciones jurídicas aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 24 Bis 1.
 
 La Representación del Gobierno del Estado en la Ciudad de México, contará con un titular que dependerá directamente del Gobernador, la cual tendrá a su cargo cinco unidades administrativas con facultades necesarias para su operación, Coordinación General, Coordinación de Comunicación Social y Promoción Turística, Coordinación de Gestión, Coordinación de Gestión Internacional y Administrativa, de conformidad con el reglamento interno que expida el Ejecutivo, y cuyos titulares serán designados por el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 25.
 
@@ -749,13 +651,9 @@ XVII. Colaborar con la autoridad competente en materia de expedición de licenci
 
 XVIII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIX. Programar y celebrar los contratos por los cuales se realicen las contrataciones de recursos humanos, adquisiciones de recursos materiales, equipo informático y todos los servicios necesarios cuando con ello se puedan comprometer aspectos que incidan en los ámbitos de intervención y fines de la seguridad pública; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -855,15 +753,11 @@ XXII. Coordinar, supervisar y evaluar las actividades y resultados de las entida
 
 XXIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 28.
 
 La Secretaría de Economía y Trabajo es la dependencia encargada de establecer e instrumentar las políticas, estrategias, acciones y programas que promuevan el desarrollo económico y turístico, así como coordinar y conducir la política laboral en el Estado; en consecuencia le corresponde el despacho de los siguientes asuntos:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -871,21 +765,15 @@ I. Formular, dirigir, coordinar y controlar, en los términos de las leyes de la
 
 II. Ejecutar y coordinar los programas de promoción del comercio exterior y la inversión extranjera en los distintos sectores de la economía y regiones del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 III. Proponer al Ejecutivo del Estado la celebración de convenios necesarios, para coordinar esfuerzos tendientes a incrementar la actividad económica en la entidad, el fomento turístico y demás áreas de su competencia, con las distintas instancias de Gobierno y con los sectores social y privado;
 
 IV. Mantener la consulta permanente en materia de desarrollo económico con los organismos y asociaciones representativos del sector productivo, sobre aspectos relevantes que tengan impacto y permitan incentivar la actividad económica en la entidad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 V. Asesorar técnicamente a los sectores social y privado y a los municipios en el establecimiento de empresas o en la ejecución de proyectos productivos en materia industrial, comercial, minera, artesanal, de abasto, turística y demás relativos a su competencia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -893,15 +781,11 @@ VI. Implementar y promover acciones en coordinación con los organismos interesa
 
 VII. Fomentar la creación de empleos, promoviendo la adopción de medidas de simplificación, impulso e incentivos de la actividad productiva, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VIII. Promover, fomentar y consolidar los apoyos para el desarrollo integral de las micro, pequeñas (sic) medianas empresas, así como gestionando y proporcionando herramientas y programas de capacitación, orientación, asesoría, financiamiento, tecnología, promoción, vinculación, organización de la producción, comercialización artesanal e impulso a las industrias familiares, con el objeto de que incrementen la competitividad y contribuyan al desarrollo armónico de todas las regiones del Estado así como a la búsqueda de nuevas vocaciones;
 
 IX. Formular y promover el establecimiento de medidas para fomentar la innovación y competitividad en los procesos productivos;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -917,115 +801,77 @@ XIV. Promover la creación y desarrollo de organizaciones de productores industr
 
 XV. Promover el Premio Nuevo León a la Calidad y otros estímulos que contribuyan a elevar la competitividad en las actividades productivas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XVI. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XVII. Apoyar al Ejecutivo en la promoción y desarrollo de políticas, programas y acciones que permitan consolidar en el Estado una cultura laboral que impulse la productividad y la competitividad para el mejoramiento de las condiciones de vida de los trabajadores, en un clima de armonía y respeto entre los factores de la producción;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XVIII. Vigilar, en lo administrativo, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo y sus reglamentos, y calificar, en representación del Ejecutivo, las sanciones administrativas, en los términos de las leyes de la materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIX. Diseñar, promover e implementar programas de capacitación, calidad, seguridad e higiene y desarrollo sindical, a través de diplomados, cursos, seminarios y eventos en general que contribuyan al desarrollo de los trabajadores y de las empresas y propicie la generación de empleos, por sí misma o en coordinación con las autoridades federales competentes y con los sectores productivos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XX. Intervenir conciliatoriamente en los conflictos obrero-patronales que se presenten con motivo de la aplicación de la Ley de la materia, sus reglamentos o contratos colectivos de trabajo, así como en los conflictos que se presenten de las unidades burocráticas por aplicación de la Ley del Servicio Civil del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXI. Brindar servicios integrales a la comunidad laboral;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXII. Diseñar y ejecutar programas de apoyo a proyectos productivos colectivos y de asesoría a negocios individuales o familiares;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXIII. Respecto de las unidades burocráticas vigilar la observancia de la Ley del Servicio Civil del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXIV. Vincular las relaciones en materia de política laboral con la Federación, estados, municipios e instituciones públicas y privadas, así como con los Tribunales Administrativos del Estado en materia Laboral;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXV. Promover, diseñar, establecer e implementar esquemas de trabajo para la creación de unidades productivas (micro negocios) en mercados de trabajo suburbanos y rurales, así como aquellos programas que atiendan la problemática del empleo e incentiven el autoempleo en los sectores marginados de la sociedad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVI. Diseñar, promover e impartir cursos de capacitación en sus diferentes modalidades para desempleados a fin de integrarlos a la planta productiva, en coordinación con las autoridades laborales de la Federación;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVII. Fungir como enlace entre el buscador de empleo y la fuente de trabajo, así como apoyar la promoción del empleo, vigilando que este servicio sea gratuito para los trabajadores;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXVIII. Crear modelos innovadores de calidad y asesorar a las empresas para aumentar la competitividad, la productividad y los empleos;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXIX. Promover y llevar a cabo la certificación de competencias laborales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXX. Auxiliar a las autoridades federales del trabajo en materia de seguridad e higiene en el trabajo, y de capacitación y adiestramiento;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXI. Conducir y coordinar a la Procuraduría de la Defensa del Trabajo y a través de ésta representar y asesorar a los trabajadores y a los sindicatos ante cualquier autoridad, resolver sus consultas jurídicas y representarlos en todos los conflictos que se relacionen con la aplicación de las normas de trabajo, en términos de lo dispuesto por la Ley Federal del Trabajo y el Reglamento Interior de esta Secretaría;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1036,8 +882,6 @@ La Secretaría de Infraestructura es la dependencia encargada de la proyección 
 I. Diseñar y aplicar los programas de obras públicas, conforme a los planes establecidos por la Secretaría de Desarrollo Sustentable, fijar las normas correspondientes para su cumplimiento e imponer las sanciones que procedan, en caso de infracción;
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de obras públicas, utilizando las mejores tecnologías y sistemas de construcción disponibles;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1065,9 +909,9 @@ I. Realizar las acciones que le corresponden al Estado en materia de desarrollo 
 
 II. Coordinar, ejecutar y evaluar las políticas de desarrollo social para el combate a la pobreza en beneficio de grupos o familias en situación vulnerable o de marginación rural o urbana;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
-III. Elaborar y evaluar las políticas públicas orientadas a promover el desarrollo integral de los adultos mayores y de personas con discapacidad; así como diseñar esquemas de participación social, de proyectos productivos y de apoyo a estos sectores de la población y a organizaciones no gubernamentales comprometidas con el desarrollo social.
+III. Elaborar y evaluar las políticas públicas orientadas a promover el desarrollo integral de los adultos mayores, de personas con discapacidad, personas migrantes, pueblos y comunidades indígenas y personas en situación de calle; así como diseñar esquemas de participación social, de proyectos productivos y de apoyo a estos sectores de la población y a organizaciones no gubernamentales comprometidas con el desarrollo social.
 
 IV. Impulsar programas en materia de salud, derechos humanos, educación, cultura, de atención a la familia y de atención a la farmacodependencia, violencia intrafamiliar, población de migrantes e indígenas, beneficencia pública y privada, así como promover la equidad entre los grupos más vulnerables, coordinándose, en su caso, con las instancias competentes;
 
@@ -1083,113 +927,75 @@ IX. Coordinar, supervisar y evaluar las actividades y resultados de las entidade
 
 X. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 31.
 
 La Secretaría de Administración es la dependencia encargada de administrar los recursos humanos, materiales y servicios que requiera la Administración Pública del Estado, a la cual le corresponde el despacho de los siguientes asuntos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 I. Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, materiales y servicios, y vigilar que las dependencias y entidades ejerzan conforme a la Ley, las atribuciones que ésta les confiera en esa materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 II. Administrar la nómina estatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 III. Vigilar el debido cumplimiento de la normatividad aplicable en materia de adquisición de recursos materiales y servicios del Gobierno del Estado, así como presidir el Comité de Adquisiciones de la Administración Pública;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 IV. Apoyar a las dependencias y organismos o entidades en la programación de la adquisición de sus servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 V. Programar y celebrar los contratos por los cuales se realicen las contrataciones de recursos humanos, adquisiciones de recursos materiales, equipo informático y todos los servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado, con excepción de las adquisiciones de la Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Estado que lo harán directamente, cuando con ello se puedan comprometer aspectos que incidan en los ámbitos de intervención y fines de la seguridad pública;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VI. Tramitar los nombramientos, promociones, cambios de adscripción, licencias, bajas y jubilaciones de los servidores públicos del Poder Ejecutivo;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VII. Establecer las políticas públicas, los criterios y normas para la adquisición, operación y funcionamiento de los equipos informáticos y programas de cómputo, impresión y comunicación del Gobierno del Estado, así como promover el funcionamiento integral de los sistemas de informática para su eficaz y eficiente operación;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VIII. Planear y programar en coordinación con los titulares de las dependencias la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia, licencias, permisos y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los trabajadores al servicio del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 IX. Mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, así como programar los estímulos y recompensas para dicho personal;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 X. Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XI. Representar al Estado en los juicios o procedimientos en que este sea parte o resulte algún interés de carácter laboral, así como respecto de las adquisiciones de los recursos materiales y servicios;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XII. Presentar las denuncias, acusaciones o querellas con motivo de hechos delictuosos, donde resulten afectadas las adquisiciones de recursos materiales y servicios, así como aquéllas de carácter laboral, dándoles el seguimiento correspondiente;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIII. Implementar y administrar el Plan de Tecnologías de Información y Comunicaciones del Gobierno del Estado y los criterios rectores en esa materia, la Plataforma Tecnológica Integral de la Administración Pública del Estado y sus criterios;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIV. Apoyar en la conducción de las relaciones laborales con el Sindicato Único de Servidores Públicos del Estado, participar en la revisión de las condiciones generales de trabajo, difundirlas y vigilar su cumplimiento; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XV. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XVI. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XVII. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1319,37 +1125,25 @@ XXXIII. Atender los asuntos que en materia de preservación, conservación y res
 
 XXXIV. Impulsar campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXV. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría vinculadas con la materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXVI. Mantener, administrar y promover el Sistema Estatal de Áreas Naturales Protegidas de Nuevo León, en los términos de la legislación aplicable, coadyuvando con las autoridades correspondientes y vigilando el cumplimiento de los ordenamientos legales respectivos, en dichas áreas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXVII. Apoyar y fortalecer las acciones y programas encaminados a la pesca deportiva, actividades cinegéticas, el campismo y el ecoturismo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXVIII. Contribuir al conocimiento académico y científico, realizando por sí o a través de terceros, estudios, investigaciones o publicaciones en las materias de su competencia; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XXXIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1433,117 +1227,79 @@ XXVII. Coordinar, supervisar y evaluar las actividades y resultados de las entid
 
 XXVIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 34.
 
 La Secretaría de Desarrollo Agropecuario es la dependencia encargada de planear, fomentar, coordinar, ejecutar y evaluar las acciones en el sector agrícola, pecuario, pesquero, forestal y acuícola, por tanto le corresponde el despacho de los siguientes asuntos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 I. Ejercer la rectoría del desarrollo rural estatal, conducir y ejecutar las políticas, planes, programas y acciones que fomenten el desarrollo rural sustentable;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 II. Fomentar las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, valiéndose para ello de la coordinación con las distintas dependencias del sector público estatal y los convenios de coordinación que a nombre del Estado se celebren con el Gobierno Federal, los gobiernos municipales y las organizaciones privadas y sociales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 III. Fomentar, administrar y dar trámite y resolución a los asuntos relacionados con las actividades del campo y el desarrollo de zonas rurales del Estado, procurando un desarrollo rural sustentable que proporcione los medios para incrementar la calidad de vida de sus habitantes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 IV. Impulsar la productividad y competitividad en las zonas rurales mediante la modernización de las unidades de producción;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 V. Promover, gestionar y aplicar recursos y financiamientos para fortalecer todas las actividades productivas del campo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VI. Fortalecer la organización de productores del sector agropecuario para que sean agentes del desarrollo, y, junto con ellos, establecer mecanismos de comercialización, capacitación, investigación, asistencia técnica y transferencia de tecnología para elevar la productividad, procurando el apoyo de las instituciones de educación superior para tales efectos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VII. Promover, gestionar y aplicar recursos y financiamientos para fortalecer todas las actividades productivas del campo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 VIII. Desarrollar obras de infraestructura en apoyo a proyectos productivos, mejorar las comunicaciones terrestres y todas aquéllas que sean de utilidad a la población rural en su mejoramiento integral;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 IX. Apoyar la inversión y el desarrollo de nuevos proyectos productivos, la comercialización de los productos agropecuarios, la integración de proyectos agroindustriales y el desarrollo de las cadenas productivas para impulsar la generación de empleos y elevar los ingresos de los productores;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 X. Apoyar la creación de agronegocios;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XI. Promover con los estados fronterizos vecinos una integración con el propósito de intercambiar información y experiencias que mejoren los estándares sanitarios y la comercialización regional de todos los productos agropecuarios;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XII. Coordinar los organismos descentralizados y fideicomisos del Estado que estén incorporados al sector agropecuario;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIII. Coordinar en el ámbito de la competencia estatal los programas y acciones de sanidad agrícola, vegetal, animal y forestal, el combate y la prevención de plagas y enfermedades fitozoosanitarias y la movilización de los productos agropecuarios y forestales, así como la inocuidad agroalimentaria en los procesos de producción y comercialización;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XIV. Organizar, difundir y mantener actualizada la información estadística del sector rural, así como elaborar estudios y proyectos relacionados con programas de inversión pública o privada;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XV. Incorporar en los programas y acciones el concepto de desarrollo regional, a fin de generar zonas económicas autosuficientes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XVI. Impulsar, en coordinación con la Secretaría de Desarrollo Sustentable, la biodiversidad y mejoramiento de la calidad de los recursos naturales y la rehabilitación y conservación de los suelos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
 XVII. Representar al Estado ante todos los organismos y dependencias involucradas en el sector rural, coordinando sus esfuerzos en concordancia con lo previsto en la Ley de Desarrollo Rural sustentable; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1631,8 +1387,6 @@ VIII. Desarrollo Sustentable.
 
 ## TÍTULO SEXTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 47.
@@ -1650,8 +1404,6 @@ La Junta Local de Conciliación y Arbitraje del Estado realiza la justicia labor
 En lo administrativo, y atendiéndose a las disposiciones especiales de la Ley de la materia, la Junta dependerá directamente del Gobernador del Estado, quien podrá delegar en el servidor público que él designe las cuestiones de trámite relativas a recursos materiales y humanos y las demás que le asigne.
 
 El nombramiento y remoción del Presidente de la Junta y de los presidentes de las juntas especiales corresponde libremente al Gobernador del Estado, en los términos de la Constitución Política del Estado, de la Ley Federal del Trabajo y el Reglamento Interior de la Junta Local de Conciliación y Arbitraje; las facultades de dichos servidores públicos son las determinadas por la Ley Federal y el reglamento mencionados y por el Artículo 123 de la Constitución Federal.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1743,7 +1495,7 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 
 ROBERTO CANTÚ FLORES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 29 DE MARZO DE 2010.
 
@@ -1864,3 +1616,9 @@ P.O. 23 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 077. SE REFORMA POR ADICIÓN DE UN CUARTO PÁRRAFO EL ARTÍCULO 3 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al momento de la aprobación de las reformas constitucionales que derivan del presente asunto y su publicación en el Periódico Oficial.
+
+P.O. 4 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 090. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
