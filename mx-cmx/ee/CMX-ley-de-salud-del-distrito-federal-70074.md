@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2017-12-29"
+last_updated: "2019-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1036,7 +1036,9 @@ El Centro de Inteligencia estará adscrito a la Secretaría y contará con el ap
 
 La atención a la salud materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2019)</small>
+
+I. La atención humanizada a las mujeres y personas embarazadas, sin violencia ni discriminación y con enfoque de derechos humanos durante el embarazo, el parto y el puerperio;
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2017)</small>
 
@@ -1070,6 +1072,10 @@ IX. La prevención de la transmisión materno-infantil del VIH-SIDA y de la síf
 
 X. La atención dirigida a niñas y niños, con el objeto de establecer las acciones necesarias para la detección y prevención oportuna de los tumores pediátricos y establecer los convenios y coordinación necesarios para ese fín.
 
+> <small>(ADICIONADA, G.O. 5 DE MARZO DE 2019)</small>
+
+XI. Los mecanismos de aplicación obligatoria a fin de que toda mujer y persona embarazada pueda estar acompañada en todo momento, por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea.
+
 ###### Artículo 50.
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, la Secretaría establecerá:
@@ -1091,6 +1097,14 @@ IV. Acciones de diagnóstico y atención temprana de la displasia en el desarrol
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
 
 V. Acciones tendientes a fomentar la práctica de la lactancia materna así como erradicar la discriminación hacia las mujeres que la realicen en vías y espacios públicos.
+
+> <small>(ADICIONADA, G.O. 5 DE MARZO DE 2019)</small>
+
+VI. Acciones para informar a las mujeres y personas embarazadas el derecho de estar acompañadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea; y
+
+> <small>(ADICIONADA, G.O. 5 DE MARZO DE 2019)</small>
+
+VII. Acciones que posibiliten el acompañamiento de las mujeres y personas embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias.
 
 ###### Artículo 51.
 
@@ -3329,3 +3343,11 @@ CUARTO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jur
 QUINTO.- La Secretaría de Salud de la Ciudad de México, continuará aplicando la vacuna tetravalente hasta que se descubra una vacuna que pueda cubrir más serotipos de Virus de Papiloma Humano, de conformidad con los avances médicos y científicos que pudieran surgir en un futuro y que estuvieran avalados por las instituciones competentes para dichos efectos.
 
 SEXTO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley, para modificar al Reglamento de esta Ley acorde con las reformas del presente decreto.
+
+G.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL, EN MATERIA DE SALUD MATERNO INFANTIL”.]
+
+PRIMERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la presente Ley.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
