@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2018-07-24"
+last_updated: "2019-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -33,7 +33,9 @@ DECRETO 380
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se expide la Ley de Fomento al Desarrollo Rural Sustentable del Estado de San Luis Potosí, para quedar como sigue
 
@@ -105,7 +107,9 @@ V. INIFAP: Instituto Nacional de Investigación Forestal, Agrícola y Pecuaria;
 
 VI. Mejoramiento del pastizal: prácticas de manejo tendientes a elevar la condición de éste, como fertilización, conservación del suelo y agua, control de plantas indeseables y división de potreros, entre otras;
 
-VII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+VII. Relevo generacional: proceso gradual en el que se transfieren conocimientos y experiencias para desarrollar capacidades de los jóvenes productores rurales dedicados a actividades agropecuarias, que redunda en el desarrollo rural sustentable, a través del fortalecimiento de la seguridad alimentaria, la productividad, la competitividad, y la sustentabilidad ambiental;
 
 VIII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de la administración pública federal;
 
@@ -247,7 +251,7 @@ XII. Aplicar todas aquellas medidas tendientes a resolver de manera congruente e
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XIII. Promover•la creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad;
+XIII. Promoverla creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -563,9 +567,17 @@ IV. Las acciones a desarrollar en materia de desarrollo humano, social económic
 
 V. Los programas a nivel municipal y regional, en los cuales se defina la participación de las autoridades, los habitantes y los productores en ellos contemplados;
 
-VI. La planeación estatal en la materia deberá propiciar la programación del desarrollo rural sustentable de cada municipio, privilegiando proyectos integrales que comprendan los ejes del desarrollo rural y su congruencia con el Plan Nacional de Desarrollo, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-VII. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías entre las diferentes regiones del Estado, debiendo considerar obras, acciones o prácticas de sustentabilidad y armonía con lo social y el medio ambiente que procuren la mejoría de vida para los habitantes del medio rural.
+VI. La planeación estatal en la materia deberá propiciar la programación del desarrollo rural sustentable de cada municipio, privilegiando proyectos integrales que comprendan los ejes del desarrollo rural y su congruencia con el Plan Nacional de Desarrollo;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VII. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías entre las diferentes regiones del Estado, debiendo considerar obras, acciones o prácticas de sustentabilidad y armonía con lo social y el medio ambiente que procuren la mejoría de vida para los habitantes del medio rural, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VIII. La programación para el desarrollo rural sustentable deberá comprender una perspectiva a mediano y largo plazos, que contemple programas enfocados a los jóvenes productores rurales, con el objeto de asegurar un relevo generacional que garantice el desarrollo rural sustentable.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2015)</small>
 
@@ -1304,5 +1316,13 @@ P.O. 24 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1021.- SE REFORMA Y ADICIONA EL ARTÍCULO 14 DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ.”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0126.- SE REFORMAN LOS ARTÍCULOS 3°, Y 20; Y ADICIONA AL ARTÍCULO 20 LA FRACCIÓN VIII, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
