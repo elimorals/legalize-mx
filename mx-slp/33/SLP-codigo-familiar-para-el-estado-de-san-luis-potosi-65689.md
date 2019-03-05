@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2017-10-12"
+last_updated: "2019-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -835,13 +835,13 @@ III. Por muerte de la concubina o el concubinario.
 
 La disolución del concubinato faculta a la concubina y al concubinario a reclamarse mutuamente alimentos.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
 
-Atendiendo a las circunstancias del caso, la autoridad judicial competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o el concubinario no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse durante los seis meses siguientes a la ruptura del concubinato.
+Atendiendo a las circunstancias del caso, la autoridad judicial competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o el concubinario no tengan bienes, o no estén en aptitud de trabajar.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
 
-En los casos de disolución del concubinato, la concubina o el concubinario inocente, tendrá derecho a alimentos para sí o para las hijas o hijos mientras no establezca nueva relación de concubinato y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir, o esté imposibilitado para trabajar.
+En los casos de disolución del concubinato, la concubina o el concubinario, tendrá derecho a los alimentos, mientras no contraiga nuevas nupcias; no establezca nueva relación de concubinato; o esté imposibilitado para trabajar. La última imposibilidad referida se entiende como un obstáculo insuperable.
 
 ## TITULO QUINTO. DEL PATRIMONIO FAMILIAR
 
@@ -3552,3 +3552,11 @@ P.O. 12 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan el presente Decreto.
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0124.- SE REFORMA EL ARTÍCULO 113 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
