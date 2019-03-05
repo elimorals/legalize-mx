@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2018-08-30"
+last_updated: "2019-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -43,9 +43,11 @@ LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ### Capítulo Único.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta Ley es de orden público, interés social y de observancia en el territorio del Estado; tiene por objeto, propiciar la prevención, mitigación y adaptación de y al cambio climático, mediante la expedición del programa estatal en la materia.
+Esta Ley es de orden público, interés social y de observancia en el territorio del Estado; tiene por objeto, propiciar la prevención, mitigación de gases de efecto invernadero y adaptación de y al cambio climático, mediante la expedición del programa estatal en la materia.
 
 ###### ARTÍCULO 2°.
 
@@ -142,6 +144,10 @@ La Secretaría diseñará, formulará e instrumentará las políticas estatales 
 ###### ARTÍCULO 7°.
 
 La prevención es el medio más eficaz para evitar los daños al ambiente y busca preservar el equilibrio ecológico ante los efectos del cambio climático; por ello, la Comisión fomentará entre las dependencias y entidades de la administración pública estatal, la adopción de medidas de prevención control y combate a los efectos del cambio climático, así como una visión transversal respecto a la implementación de estrategias y medidas de atención a dicho fenómeno.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2019)</small>
+
+ARTÍCULO 7° BIS. El Programa de Ciencia, Tecnología e Innovación del Estado a que se refiere el artículo 4° fracción V, de la Ley Orgánica del Consejo Potosino de Ciencia y Tecnología del Estado de San Luis Potosí, deberá considerar en sus proyectos temas relacionados a la prevención del cambio climático.
 
 ### Capítulo III. De la Mitigación
 
@@ -685,9 +691,11 @@ En caso de la presunta comisión de delitos, se dará parte al Ministerio Públi
 
 ### Capítulo IV. Del Recurso Administrativo
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 67.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de revisión conforme a las disposiciones de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas mediante el recurso de revisión, conforme a las disposiciones del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 T R A N S I T O R I O S
 
@@ -747,8 +755,24 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1047.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1047.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0127.- SE REFORMA EL ARTÍCULO 67 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0128.- SE REFORMA EL ARTÍCULO 1°; Y ADICIONA EL ARTÍCULO 7° BIS DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
