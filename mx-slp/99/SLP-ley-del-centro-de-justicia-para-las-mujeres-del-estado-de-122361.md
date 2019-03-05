@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2017-06-03"
+last_updated: "2019-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -357,13 +357,7 @@ La Coordinación General será la encargada de ejecutar los acuerdos del Consejo
 
 ###### ARTÍCULO 18.
 
-La Presidencia del Consejo Directivo tendrá las siguientes atribuciones:
-
-I. Dictar las políticas y estrategias a que deberán sujetarse los acuerdos del Consejo;
-
-II. Proponer al Consejo Directivo a quien ocupará el cargo de Coordinadora General del CJM debiendo para ello cuidar que la misma cumpla el perfil que se requiere para el desempeño de dicho cargo, y
-
-III. Presidir las sesiones ordinarias y extraordinarias, teniendo voto de calidad.
+(DEROGADO, P.O. 5 DE MARZO DE 2019)
 
 ### Capítulo III. De la Coordinación General del Centro
 
@@ -1240,3 +1234,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0125.- SE DEROGA EL ARTÍCULO 18 DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
