@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-133326"
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-10"
-last_updated: "2019-01-10"
+last_updated: "2019-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI PARA EL EJERCICIO FISCAL 2019
 
+> <small>[N. DE E. MEDIANTE DECRETO 0129 SE APROBARON MODIFICACIONES A LOS TABULADORES PRESENTADOS POR LOS EJECUTORES DEL GASTO; ÉSTOS FORMARON PARTE DEL ANEXO 14 DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2019, SE SUGIERE CONSULTAR EL REFERIDO ACUERDO PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 5 DE MARZO DE 2019, PÁGINAS DE LA 3 A LA 89.]</small>
+
 LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de enero de 2019.
 
@@ -271,7 +273,7 @@ Asimismo, cuando en el contrato del fideicomiso cuya extinción se promueva, se 
 
 ## TRANSITORIOS
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. La Secretaría de Finanzas podrá emitir las reglas de operación, normas, disposiciones y criterios que complementen esta Ley.
 
@@ -281,13 +283,13 @@ CUARTO. En el caso de los tabuladores de las remuneraciones que se incluyen como
 
 De la misma manera, las percepciones máximas que se establezcan en los referidos tabuladores para el ejercicio 2019 respecto de los niveles 19 al 14, se ajustarán a lo dispuesto en los artículos, 133 de la Constitución Política del Estado de San Luis Potosí; 11 y 12 de la Ley Reglamentaria del artículo 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí en materia de remuneraciones.
 
-QUINTO. El Poder Ejecutivo del Estado tendrá 10 días posteriores a la publicación del presente Decreto, para realizar las armonizaciones presupuestales en los anexos de la Ley conforme a lo que establece la normatividad vigente, a fin de dar cumplimiento a los ajustes autorizados en el “Anexo 1”.
+QUINTO. El Poder Ejecutivo del Estado tendrá 10 días posteriores a la publicación del presente Decreto, para realizar las armonizaciones presupuestales en los anexos de la Ley conforme a lo que establece la normatividad vigente, a fin de dar cumplimiento a los ajustes autorizados en el "Anexo 1".
 
 SEXTO. En este Presupuesto de Egresos, en lo referente a las erogaciones previstas para la Fiscalía General del Estado, se aplicarán las disposiciones constitucionales y legales referentes a la Procuraduría General de Justicia del Estado, de conformidad con los artículos, Quinto, y Sexto Transitorios de la reforma a la Constitución Política del Estado Libre y Soberano de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 2 de octubre de 2017, y en cumplimiento de los artículos, Séptimo, y Décimo Cuarto Transitorios de la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí.
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circulatr (sic) y obedecer.
 
-D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el tres de enero de dos mil diecinueve.
+D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el tres de enero de dos mil diecinueve.
 
 Honorable Congreso del Estado. Por la Directiva. Presidenta, Diputada Sonia Mendoza Díaz; Primer Secretario, Diputado Cándido Ochoa Rojas, Segunda Secretaria, Diputada María Isabel González Tovar (Rúbricas)
 
@@ -335,6 +337,8 @@ Alejandro Leal Tovías
 
 > <small>[N. DE E. VÉASE ANEXO 14 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2019 EN EL P.O. DE 10 DE ENERO DE 2019, PÁGINAS DE LA 90 A LA 195.]</small>
 
+> <small>[N. DE E. VÉASE MODIFICACIONES AL ANEXO 14, P.O. DE 5 DE MARZO DE 2019, PÁGINAS DE LA 3 A LA 89.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 15 COMPROMISOS PLURIANUALES EN EL P.O. DE 10 DE ENERO DE 2019, PÁGINA 196.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 16 PREVISIONES DE GASTO QUE CORRESPONDAN A LAS EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL P.O. DE 10 DE ENERO DE 2019, PÁGINA 196.]</small>
@@ -346,3 +350,11 @@ Alejandro Leal Tovías
 > <small>[N. DE E. VÉASE ANEXO INFORMATIVO 1 EN EL P.O. DE 10 DE ENERO DE 2019, PÁGINA 202.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO INFORMATIVO 2 DISTRIBUCIÓN DEL PRESUPUESTO A NIVEL DE EJECUTORES DEL GASTO, CON DESAGREGACIÓN POR CAPÍTULO DE GASTO EN EL P.O. DE 10 DE ENERO DE 2019, PÁGINAS DE LA 203 A LA 211.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0129.- SE APRUEBAN LAS MODIFICACIONES A LOS TABULADORES PRESENTADOS POR LOS EJECUTORES DEL GASTO; ÉSTOS FORMARÁN PARTE DEL ANEXO 14 DEL PRESUPUESTO DE EGRESOS PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA DIEZ DE ENERO DEL PRESENTE AÑO".]
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
