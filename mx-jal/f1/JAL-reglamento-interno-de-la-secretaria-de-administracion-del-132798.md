@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-la-secretaria-de-administracion-del-13279
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-01"
-last_updated: "2019-01-01"
+last_updated: "2019-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 1 de enero de 2019.
 
@@ -213,9 +213,29 @@ LVI. Resolver las dudas que se susciten con motivo de la interpretación o aplic
 
 LVII. Certificar constancias y documentos existentes en los archivos de la Secretaría;
 
-LVIII. En general, representar a la Secretaría ante cualquier persona de derecho público o privado para cualquier fin, sin perjuicio de las facultades de representación conferidas a las áreas organizativas de la Secretaría; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-LIX. Las demás que le sean conferidas por el titular del Poder Ejecutivo o se encuentren establecidas en otras disposiciones legales.
+LVIII. En general, representar a la Secretaría ante cualquier persona de derecho público o privado para cualquier fin, sin perjuicio de las facultades de representación conferidas a las áreas organizativas de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+LIX. Determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de los bienes, vehículos, mercancía u objetos varios, que se encuentren en los depósitos administrados por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+LX. Remitir a la Secretaría de la Hacienda Pública el listado de los bienes y vehículos que se encuentran en depósito y que puedan ser sujetos a procedimiento administrativo de ejecución, por haber transcurrido el plazo establecido en la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+LXI. Elaborar y llevar a cabo cualquier acto tendiente al mejor funcionamiento de los depósitos administrados por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+LXII. Celebrar los contratos de servicios personales, servicios profesionales y de honorarios, que soliciten las áreas organizativas de la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+LXIII. Las demás que le sean conferidas por el titular del Poder Ejecutivo o se encuentren establecidas en otras disposiciones legales.
 
 ###### Artículo 4.
 
@@ -369,9 +389,17 @@ XXVIII. Fungir como miembro del Comité de Transparencia de la Secretaría;
 
 XXIX. Elaborar y proponer al Secretario, los mecanismos y las herramientas para evaluar las Matrices de Indicadores para Resultados que forman parte del Sistema de Evaluación del Desempeño de la Administración Pública del Estado de Jalisco, en lo que respecta a la Secretaría;
 
-XXX. Vigilar al interior de la Secretaría, el cumplimiento de las disposiciones del Ejecutivo del Estado en las materias de su competencia; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-XXXI. Las demás que disponga el Secretario, las leyes, reglamentos o acuerdos del Ejecutivo, dentro del ámbito de sus facultades; así como en los convenios o acuerdos de coordinación.
+XXX. Vigilar al interior de la Secretaría, el cumplimiento de las disposiciones del Ejecutivo del Estado en las materias de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXXI. Celebrar y suscribir los contratos por servicios personales, servicios profesionales y de honorarios, como apoyo a la operación de las áreas organizativas de la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXXII. Las demás que disponga el Secretario, las leyes, reglamentos o acuerdos del Ejecutivo, dentro del ámbito de sus facultades; así como en los convenios o acuerdos de coordinación.
 
 ### Capítulo III. Organización y Estructura
 
@@ -396,6 +424,10 @@ La Secretaría, así como Direcciones Generales, Direcciones de Área y demás �
 ###### Artículo 10.
 
 La Secretaría y sus áreas organizativas desarrollarán sus funciones de forma programada, en apego a las disposiciones legales que normen su ámbito de atribuciones, así como con base en las políticas, indicadores, prioridades y restricciones que establezca el Gobierno del Estado para el logro de los objetivos de los planes y programas gubernamentales a su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MARZO DE 2019)</small>
+
+La Secretaría y sus áreas organizativas, emitirán sus actos, o bien, sus procedimientos administrativos desde su inicio o incoación, substanciación, resolución, y posterior ejecución, los cuales deberán ser desahogados y notificados conforme a las disposiciones legales correspondientes, que normen el ámbito de su competencia, atribuciones y obligaciones.
 
 ###### Artículo 11.
 
@@ -519,9 +551,25 @@ XXV. Llevar a cabo el diseño, organización, desarrollo y ejecución del servic
 
 XXVI. Integrar y presidir el Comité de Valuación Interinstitucional de Puestos del Poder Ejecutivo;
 
-XXVII. Llevar el control y seguimiento a la prestación del servicio social estudiantil, prácticas profesionales o estadías de estudiantes, con base en los lineamientos emitidos para tal efecto; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-XXVIII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
+XXVII. Llevar el control y seguimiento a la prestación del servicio social estudiantil, prácticas profesionales o estadías de estudiantes, con base en los lineamientos emitidos para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXVIII. Suscribir convenios, acuerdos o cualquier tipo de instrumento jurídico, con instituciones educativas públicas o, en su caso, privadas, personas físicas o, en su caso jurídicas dedicadas a la educación, en representación de la Secretaría, para la capacitación o profesionalización de los servidores públicos de la Administración Pública Estatal Centralizada y Paraestatal;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXIX. Suscribir convenios, acuerdos o cualquier tipo de instrumento jurídico con la Administración Pública Paraestatal, Administración Pública Municipal, Paramunicipal, Organismos Autónomos y los otros Poderes del Estado de Jalisco, Dependencias y Entidades Federales y particulares, para el intercambio de capacitación institucional, especializada o, en su caso, profesional del personal de cada uno de los entes públicos y privados señalados;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXX. Formalizar convenios, acuerdos o cualquier tipo de instrumento jurídico con personas públicas, morales o particulares, para la obtención de beneficios como descuentos, precios preferenciales, ofertas, entre otras, para la adquisición de bienes y servicios por parte de los servidores públicos de las Dependencias y en su caso Entidades Estatales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXXI. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
 
 ###### Artículo 15.
 
@@ -599,9 +647,17 @@ XIII. Analizar y proponer los perfiles que deben cubrir los aspirantes a los dif
 
 XIV. Proponer el marco normativo para el proceso de profesionalización de los servidores públicos de las Dependencias;
 
-XV. Integrar, administrar y promover la prestación del servicio social estudiantil, prácticas profesionales y estadías de estudiantes, tanto de instituciones públicas como privadas, en las Dependencias, y Entidades en su caso, proponer al Secretario por conducto del Director General de Administración y Desarrollo de Personal los lineamientos y políticas que habrán de seguirse para tal fin, así como expedir las constancias respectivas; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-XVI. Las demás que le establezcan otras disposiciones legales.
+XV. Integrar, administrar y promover la prestación del servicio social estudiantil, prácticas profesionales y estadías de estudiantes, tanto de instituciones públicas como privadas, en las Dependencias, y Entidades en su caso, proponer al Secretario por conducto del Director General de Administración y Desarrollo de Personal los lineamientos y políticas que habrán de seguirse para tal fin, así como expedir las constancias respectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XVI. Coordinar y analizar la actualización permanente de los perfiles de los puestos en las Dependencias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XVII. Las demás que le establezcan otras disposiciones legales.
 
 #### Sección III. De la Dirección de Política Salarial
 
@@ -663,7 +719,9 @@ IX. Establecer los criterios para supervisar y operar el Registro Estatal Único
 
 X. Administrar las pólizas de seguro del parque vehicular, equipo aéreo, bienes muebles e inmuebles, valores y otras que hayan sido contratadas a favor del Gobierno del Estado de Jalisco;
 
-XI. Solicitar la elaboración de los contratos relativos a los procedimientos de compras realizados, así como firmar los convenios y contratos resultantes de dichos procedimientos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XI. Solicitar la elaboración de los contratos relativos a los procedimientos de adquisiciones, contratación de servicios y enajenaciones de muebles; así como suscribir los instrumentos jurídicos resultantes de dichos procedimientos;
 
 XII. Revisar los expedientes y decidir lo conducente sobre el alta de los proveedores en el padrón;
 
@@ -785,13 +843,21 @@ III. Contratar, suministrar y supervisar la ejecución de los trabajos y servici
 
 IV. Solicitar el inicio del procedimiento de enajenación de bienes muebles de las Dependencias;
 
-V. Realizar, analizar, evaluar y actualizar el inventario de bienes inmuebles respecto de los cuales el Gobierno del Estado ostente la propiedad o posesión, o sobre los que exista un acto traslativo de dominio a su favor, salvo disposición en contrario;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-VI. Regularizar y resguardar la documentación legal que ampara la propiedad y posesión de los bienes inmuebles a favor del Poder Ejecutivo;
+V. Realizar, evaluar y actualizar el inventario de bienes muebles e inmuebles respecto de los cuales el Gobierno del Estado ostente la propiedad o posesión, o sobre los que exista un acto traslativo de dominio a su favor, resguardando la documentación legal correspondiente;
 
-VII. Realizar la supervisión y vigilancia de los inmuebles disponibles propiedad del Gobierno del Estado, determinando su optimización, racionalización y aprovechamiento;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-VIII. Formular y emitir actas de asignación y actas de entrega recepción, así como celebrar convenios y contratos a efecto de regularizar la posesión de los bienes inmuebles propiedad del Gobierno del Estado que ostentan las Dependencias y Entidades cuando corresponda;
+VI. Efectuar las gestiones administrativas necesarias, ante las instancias correspondientes, con la finalidad de regularizar el uso y la posesión de los bienes muebles e inmuebles que sean propiedad o se encuentren al servicio del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VII. Realizar la supervisión y vigilancia de los bienes muebles e inmuebles propiedad del Gobierno del Estado, verificando su estado físico, jurídico y determinando su optimización, racionalización y aprovechamiento;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VIII. Emitir y celebrar en representación de la Secretarla, las actas de asignación y entrega recepción, así como los convenios y contratos, a efecto de regularizar la posesión de los bienes inmuebles propiedad del Gobierno del Estado;
 
 IX. Recibir, evaluar y emitir dictamen técnico de viabilidad para la adquisición, arrendamiento y comodatos de inmuebles que requieran las Dependencias y Entidades cuando corresponda;
 
@@ -823,7 +889,33 @@ XXII. Supervisar, administrar y emitir opinión respecto de la viabilidad del es
 
 XXIII. Prestar los servicios de resguardo y custodia, de aquellos bienes que sean remitidos a la Secretaría en depósito legal por autoridades federales, estatales o municipales;
 
-XXIV. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXIV. Solicitar y suscribir los contratos y convenios de adquisiciones de bienes y servicios que se requieran, de conformidad a la normatividad federal o estatal, según corresponda;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXV. Suscribir los contratos de comodato respecto de los bienes muebles e inmuebles propiedad del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXVI. Suscribir los contratos, convenios o cualquier instrumento legal respectivo, de los bienes muebles e inmuebles propiedad de terceros, que se encuentren al servicio del Poder Ejecutivo Estatal;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXVII. Administrar los Depósitos a cargo de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXVIII. Determinar y liquidar el monto total de los adeudos de los bienes y vehículos que se encuentren en los depósitos administrados por la Secretaría para su guarda y custodia;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XXIX. Informar a la Secretaría de la Hacienda Pública, de los bienes y vehículos que se encuentran en depósito y que puedan ser sujetos a procedimiento administrativo de ejecución, por haber transcurrido el plazo establecido en la legislación aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXX. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
 
 ###### Artículo 25.
 
@@ -839,9 +931,17 @@ IV. Dirección de Conservación y Racionalización de Espacios;
 
 V. Dirección de Servicios Generales;
 
-VI. Dirección de Almacenes; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-VII. Dirección de Unidades Regionales de Servicios Estatales.
+VI. Dirección de Almacenes;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VII. Dirección de Unidades Regionales de Servicios Estatales; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VIII. Dirección de Depósitos Vehiculares.
 
 #### Sección I. De la Dirección de Bienes Muebles, Vehículos y Combustibles
 
@@ -863,9 +963,13 @@ VI. Aplicar la normatividad para el uso y la designación de vehículos terrestr
 
 VII. Controlar el sistema de dotación de combustible para racionalizar su distribución, exceptuando el combustible para aeronaves;
 
-VIII. Efectuar la propuesta del presupuesto anual por dependencia relativa a la partida de combustibles, exceptuando el combustible para aeronaves;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-IX. Realizar los trámites relativos al pago de combustible para los vehículos afectos al servicio público, exceptuando el combustible para aeronaves;
+VIII. Efectuar la propuesta del presupuesto anual por dependencia relativa a la partida de combustibles, exceptuando el combustible para aeronaves; así como de servicios preventivos y correctivos para vehículos terrestres;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IX. Realizar los trámites correspondientes para el pago de servicios preventivos y correctivos de los vehículos afectados al servicio público, así como su combustible, exceptuando el combustible para aeronaves;
 
 X. Verificar el cumplimiento de las obligaciones contenidas en los contratos de comodato de bienes muebles, e informar a la Dirección General Jurídica los casos en los que se detecte alguna irregularidad;
 
@@ -875,7 +979,9 @@ XII. Recoger el mobiliario y vehículos que por su uso o antigüedad han dejado 
 
 XIII. Elaboración de Dictamen Técnico de factibilidad de uso de bienes muebles para la baja o destino final por enajenación, donación o destrucción;
 
-XIV. Dictaminar, previo acuerdo con el Director General de Operaciones sobre la procedencia de solicitar el inicio del procedimiento de enajenación de bienes muebles de las Dependencias;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XIV. Dictaminar, previo acuerdo con el Director General de Operaciones sobre la procedencia de solicitar el inicio del procedimiento de enajenación de bienes muebles de las Dependencias; y
 
 XV. Reasignar el mobiliario útil que se recoge de las diferentes Dependencias para otorgar los apoyos que se solicitan a la Secretaría por los diversos municipios y organismos.
 
@@ -989,9 +1095,13 @@ VI. Anticipar las necesidades futuras de servicios generales y sentar las bases 
 
 VII. Elaborar las bases de licitación para los servicios de limpieza contratada y fotocopiado de todas las Dependencias, así como administrar, vigilar y supervisar los contratos de prestación de estos servicios;
 
-VIII. Normar y regular los procesos de intendencia de las Dependencias, así como aquellos relativos a la seguridad y vigilancia de éstas en coordinación, en su caso, con la Fiscalía Estatal o la Secretaría de Seguridad;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-IX. Llevar el control de los servicios de telefonía, así como ser el vínculo con el proveedor respectivo;
+VIII. Coordinar y vigilar los procesos de contratación y el servicio de limpieza de las Dependencias, vigilando que el servicio se realice con la mejor calidad; además de coordinar el servicio de intendencia de la Secretaría, e implementar un programa de protección civil procurando que prevalezcan las condiciones de seguridad e higiene en las diversas áreas organizativas de la Secretaria;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IX. Llevar el control de los servicios de telefonía móvil, así como ser el vínculo con el proveedor respectivo;
 
 X. Administrar los estacionamientos a cargo de la Secretaría;
 
@@ -1043,7 +1153,81 @@ IX. Verificar la actualización permanente en la página web del Gobierno del Es
 
 X. Establecer programas y condiciones generales de uso de los inmuebles de las UNIRSE, para el buen funcionamiento de las mismas.
 
-#### Sección I. De la Dirección de Control de Riesgos
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE MARZO DE 2019)</small>
+
+#### Sección VIII. De la Dirección de Depósitos Vehiculares
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2019)</small>
+
+Artículo 32 bis. La Dirección de Depósitos Vehiculares tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+I. Coordinar la operatividad y funcionamiento de las áreas integrantes de la Dirección;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+II. Llevar el control e inventario de ingresos y salidas de los bienes y vehículos remitidos a los depósitos, para su guarda y custodia mediante las herramientas tecnológicas que sean implementadas por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+III. Resguardar el estado físico de los bienes y vehículos que ingresen para guarda y custodia;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IV. Atender los procedimientos para el retiro de bienes y vehículos en depósito;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+V. Resguardar los artículos en bodega de pertenencias;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VI. Cumplir con las disposiciones legales en materia de protección civil al interior de las áreas de los depósitos;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VII. Contar con áreas de información de bienes y vehículos en depósito, así como resguardar la información y documentación derivada de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VIII. Coordinar la respuesta oportuna a las solicitudes de información requeridas por autoridades respecto de los bienes y vehículos en depósito;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IX. Determinar el monto total de los adeudos de los vehículos mercancías u objetos varios por los servicios de guarda y custodia en los depósitos a su cargo, conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+X. Informar a la Secretaría de la Hacienda Pública de los bienes y vehículos depositados a que se hace referencia en la fracción anterior, para que por su conducto se sometan al Procedimiento Administrativo de Ejecución respectivo;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XI. Dar seguimiento a solicitudes derivadas de procedimientos administrativos de ejecución;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XII. Solicitar la elaboración de peritajes de avalúo e identificación de vehículos cuando se requiera, para la correcta administración de los depósitos a su cargo;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XIII. Elaborar el manual de operaciones y procesos de los Depósitos Vehiculares, y presentarlo al Director General de Operaciones, para su visto bueno y en su caso a través de éste, someterlo a la aprobación del Secretario;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XIV. Dar seguimiento a los programas de compactación de unidades adjudicadas por procedimientos administrativos de ejecución;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XV. Recibir y dar el trámite correspondiente para su pronto despacho a los asuntos relativos a quejas, sugerencias o solicitudes de información o de responsabilidad patrimonial que se presenten por los ciudadanos;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XVI. Llevar el control administrativo de los bienes bajo su custodia; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XVII. Las demás que por la naturaleza de sus funciones le competan y le sean delegadas por el Secretario.
 
 ### Capítulo V. De la Dirección General de Tecnologías de la Información
 
@@ -1093,7 +1277,7 @@ II. Dirección de Infraestructura y Comunicaciones; y
 
 III. Dirección de Sistemas.
 
-#### Sección II. De la Dirección de Infraestructura y Comunicaciones
+#### Sección I. De la Dirección de Control de Riesgos
 
 ###### Artículo 35.
 
@@ -1115,7 +1299,9 @@ VII. Generar propuestas de mejora con base al diagnóstico, metodologías y herr
 
 VIII. Formular y aplicar los lineamientos técnicos para la elaboración y actualización de los reglamentos y manuales administrativos de las dependencias y entidades;
 
-IX. Elaborar los dictámenes técnicos de los manuales administrativos, así como de los anteproyectos de reglamentos interiores;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IX. Elaborar los dictámenes técnicos de los manuales administrativos, así como de los anteproyectos de reglamentos internos;
 
 X. Emitir los lineamientos generales para la creación y modificación de las estructuras orgánicas de las dependencias y entidades;
 
@@ -1123,7 +1309,7 @@ XI. Realizar diagnósticos de cargas de trabajo y análisis a las propuestas de 
 
 XII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que le sean asignadas o delegadas dentro del ámbito de sus facultades por el Director General de Tecnologías de la Información.
 
-#### Sección III. De la Dirección de Sistemas
+#### Sección II. De la Dirección de Infraestructura y Comunicaciones
 
 ###### Artículo 36.
 
@@ -1213,7 +1399,7 @@ XLI. Instalar, administrar y configurar redes o dispositivos inalámbricos en la
 
 XLII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que le sean asignadas o delegadas dentro del ámbito de sus facultades por el Director General de Tecnologías de la Información.
 
-#### Sección I. De la Dirección de lo Consultivo
+#### Sección III. De la Dirección de Sistemas
 
 ###### Artículo 37.
 
@@ -1285,7 +1471,9 @@ XIII. Llevar un registro y control de los contratos, acuerdos e instrumentos jur
 
 XIV. Vigilar, actualizar y mantener el control del registro de los contratos de comodato, arrendamiento y subarrendamiento de bienes muebles e inmuebles propiedad o al servicio del Poder Ejecutivo;
 
-XV. Elaborar y suscribir los contratos de arrendamiento de los inmuebles propiedad del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+XV. Elaborar y suscribir contratos, convenios o cualquier otro instrumento jurídico de arrendamiento, de los inmuebles propiedad del Poder Ejecutivo, ya sea en calidad de arrendador o arrendatario en representación de la Secretaría;
 
 XVI. Instaurar y substanciar los procedimientos que haya lugar con motivo del incumplimiento a los contratos suscritos por la Secretaría;
 
@@ -1321,9 +1509,11 @@ XXI. Sustanciar los procedimientos que sean competencia de la Secretaría, así 
 
 XXXII. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
+
 ###### Artículo 39.
 
-El ejercicio de las atribuciones conferidas a la Dirección General Jurídica y a sus áreas organizativas, será en cualquier rama del derecho.
+El ejercicio de las atribuciones y obligaciones conferidas a la Dirección General Jurídica y a sus áreas organizativas, será en cualquier rama del derecho, contando con todas las facultades necesarias para emitir sus actos, o bien los procedimientos cuando así corresponda, desde su inicio o incoación, substanciación, resolución salvo que sea competencia directa del Secretario, y posterior ejecución, los cuales deberán ser notificados y desahogados conforme a las disposiciones legales correspondientes, que normen su ámbito de competencia.
 
 ###### Artículo 40.
 
@@ -1335,7 +1525,7 @@ II. Dirección de lo Contencioso; y
 
 III. Dirección de Relaciones Laborales.
 
-#### Sección II. De La Dirección De Lo Contencioso
+#### Sección I. De la Dirección de lo Consultivo
 
 ###### Artículo 41.
 
@@ -1377,11 +1567,19 @@ XVII. Asistir, en caso de que se le requiera, a las sesiones del Comité de Adqu
 
 XVIII. Analizar y opinar en relación con las escrituras públicas o cualquier otro documento que le sea requerido a los participantes en los procesos de adquisiciones y enajenaciones;
 
-XIX. Otorgar apoyo jurídico, cuando le sea solicitado, a los comités de los que forme parte la Secretaría; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-XX. Cualquier otro que le sea delegado por el Secretario o el Director General Jurídico.
+XIX. Otorgar apoyo jurídico, cuando le sea solicitado, a los comités de los que forme parte la Secretaría;
 
-#### Sección III. De La Dirección De Relaciones Laborales
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XX. Llevar a cabo dentro del ámbito de su competencia, las actividades de notificación de sus actos y procedimientos, respecto de las atribuciones y responsabilidades conferidas a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XXI. Cualquier otro que le sea delegado por el Secretario o el Director General Jurídico.
+
+#### Sección II. De La Dirección De Lo Contencioso
 
 ###### Artículo 42.
 
@@ -1411,9 +1609,19 @@ XI. Efectuar la rescisión administrativa de los contratos de adquisiciones, ena
 
 XII. Remitir a la Secretaría de la Hacienda Pública del Estado, el expediente correspondiente, a fin de que sea dicha autoridad la que ejercite la facultad económica coactiva en contra de los propietarios de los bienes muebles que estén bajo el resguardo o custodia de la Secretaría, puestos en depósito, que adeuden el término previsto en la legislación, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiendo realizado, no lo notifique oportunamente a la Secretaría;
 
-XIII. Informar a la Dirección de Bienes Muebles, Vehículos y Combustibles, de las siniestralidades que afecten los bienes muebles de las Dependencias; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-XIV. Las demás que le confieran las disposiciones legales en la materia, así como aquellas que sean delegadas por el Secretario o Director General Jurídico.
+XIII. Informar a la Dirección de Bienes Muebles, Vehículos y Combustibles, de las siniestralidades que afecten los bienes muebles de las Dependencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XIV. Llevar a cabo dentro del ámbito de su competencia, las actividades de notificación de sus actos y procedimientos, respecto de las atribuciones y responsabilidades conferidas a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE MARZO DE 2019)</small>
+
+XV. Cualquier otro que le sea delegado por el Secretario o el Director General Jurídico.
+
+#### Sección III. De La Dirección De Relaciones Laborales
 
 ###### Artículo 43.
 
@@ -1431,7 +1639,17 @@ V. Solicitar documentación e información a las Dependencias y Entidades que ha
 
 VI. Representar a la Secretaría e intervenir y conciliar en los juicios laborales, administrativos y de amparo de naturaleza laboral, en los que ésta sea parte;
 
-VII. Negociar y conciliar en los juicios laborales y administrativos de naturaleza laboral, promovidos por los servidores públicos de las Dependencias, así como en los procedimientos internos antes y después de dictarse la resolución respectiva, siempre y cuando medie solicitud de la dependencia a la que se encontraba adscrito el actor, y emitir opinión técnica en ese respecto a las Entidades que así lo soliciten; e intervenir en los procedimientos administrativos o de responsabilidad instaurados en contra de los servidores públicos de las Dependencias, para determinar la procedencia del cese o destitución con la finalidad de que se emita la resolución respectiva, así como emitir opinión técnica en ese respecto a las Entidades que así lo soliciten.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VII. Negociar y conciliar en los juicios laborales y administrativos de naturaleza laboral, promovidos por los servidores públicos de las Dependencias, así como en los procedimientos internos antes y después de dictarse la resolución respectiva, siempre y cuando medie solicitud de la dependencia a la que se encontraba adscrito el actor, y emitir opinión técnica en ese respecto a las Entidades que así lo soliciten; e intervenir en los procedimientos administrativos o de responsabilidad instaurados en contra de los servidores públicos de las Dependencias, para determinar la procedencia del cese o destitución con la finalidad de que se emita la resolución respectiva, así como emitir opinión técnica en ese respecto a las Entidades que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+VIII. Llevar a cabo dentro del ámbito de su competencia, las actividades de notificación de sus actos y procedimientos, respecto de las atribuciones y responsabilidades conferidas; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2019)</small>
+
+IX. Cualquier otro que le sea delegado por el Secretario o el Director General Jurídico.
 
 ### Capítulo VII. De la Dirección General de Liquidación de Entidades Paraestatales
 
@@ -1439,9 +1657,13 @@ VII. Negociar y conciliar en los juicios laborales y administrativos de naturale
 
 La Dirección General de liquidación de Entidades Paraestatales, contará con las siguientes atribuciones:
 
-I. Revisar el funcionamiento y operatividad de las entidades u organismos, con el propósito de determinar su factibilidad en cuanto a su objeto o fin por el cual fue creado y su viabilidad financiera o su funcionamiento sea innecesario de acuerdo con el interés público que perseguía;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
 
-II. Dictaminar sobre la factibilidad de la extinción y liquidación, fusión o escisión de las entidades u organismos, y rendir informe al Secretario;
+I. Concluir las operaciones que hubieren quedado pendientes al tiempo de la extinción de la Entidad, realizar los cobros pendientes y hacer los pagos si existieren, siguiendo la prelación de pago de acreedores conforme a la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2019)</small>
+
+II. Realizar el balance final de la Entidad liquidada y presentarlo a la Contraloría del Estado para los efectos legales a que haya lugar;
 
 III. Realizar análisis y recomendación para implementar las acciones necesarias para la disolución y liquidación de las entidades u organismo;
 
@@ -1509,7 +1731,7 @@ La comunicación social de la Secretaría estará a cargo de la Coordinación Ge
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO. Se deroga el Reglamento Interno de la Secretaría de Planeación, Administración y Finanzas del Poder Ejecutivo del Estado de Jalisco publicado en el Periódico Oficial “El Estado de Jalisco” el 31 de diciembre de 2016, y sus posteriores reformas, en lo que se oponga a lo previsto por este ordenamiento, dejando a salvo las atribuciones de la Secretarías (sic) de la Hacienda Pública y de la Secretaría de Planeación y Participación Ciudadana, hasta en tanto no se expidan sus Reglamentos Internos.
+SEGUNDO. Se deroga el Reglamento Interno de la Secretaría de Planeación, Administración y Finanzas del Poder Ejecutivo del Estado de Jalisco publicado en el Periódico Oficial “El Estado de Jalisco” el 31 de diciembre de 2016, y sus posteriores reformas, en lo que se oponga a lo previsto por este ordenamiento, dejando a salvo las atribuciones de la Secretarías de la Hacienda Pública y de la Secretaría de Planeación y Participación Ciudadana, hasta en tanto no se expidan sus Reglamentos Internos.
 
 TERCERO. Los asuntos que se encuentren en trámite cuya competencia sea de la Secretaría de Administración, a la entrada en vigor del presente reglamento, serán llevados a cabo por las direcciones y áreas organizativas que asumen las funciones de la Dirección o área organizativa ante la cual hayan comenzado a substanciarse.
 
@@ -1592,3 +1814,11 @@ ESTEBAN PETERSEN CORTÉS
 Secretario de Administración
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DIELAG ACU 023/2019 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, QUE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
