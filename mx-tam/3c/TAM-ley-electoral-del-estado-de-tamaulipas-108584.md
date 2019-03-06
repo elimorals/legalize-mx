@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2017-06-08"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -1521,9 +1521,17 @@ I. Comisión de Educación Cívica, Difusión y Capacitación;
 
 II. Comisión para los Procedimientos Administrativos Sancionadores;
 
-III. Comisión de Prerrogativas, Partidos y Agrupaciones; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-IV. Comisión de Organización Electoral.
+III. Comisión de Prerrogativas, Partidos y Agrupaciones;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+
+IV. Comisión de Organización Electoral; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2019)</small>
+
+V. Comisión de Igualdad de Género.
 
 ###### Artículo 116.
 
@@ -4214,3 +4222,11 @@ Por única ocasión y con la finalidad de homologar la elección local a la fede
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-774 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 115, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
