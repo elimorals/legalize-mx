@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-parque-zoologico-benito-juarez-86195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-02"
-last_updated: "2015-09-03"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL PARQUE ZOOLÓGICO BENITO JUÁREZ DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 2 de febrero de 2012.
 
@@ -41,7 +41,9 @@ REGLAMENTO INTERIOR DEL PARQUE ZOOLÓGICO BENITO JUÁREZ
 
 El Reglamento Interior del Parque Zoológico Benito Juárez, es de orden público e interés social y tiene por objeto regular la estructura orgánica y funcionamiento de las Unidades Administrativas adscritas al Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, denominado Parque Zoológico Benito Juárez, el cual tiene a su cargo el ejercicio de las atribuciones que expresamente le confieren en su Decreto de creación y otras disposiciones normativas aplicables.
 
-El Parque Zoológico Benito Juárez, se encuentra sectorizado a la Secretaría de Turismo.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+El Parque Zoológico Benito Juárez, se encuentra sectorizado a la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial.
 
 ###### Artículo 2°.
 
@@ -402,3 +404,11 @@ P.O. 3 DE SEPTIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Se dejan sin efectos todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL ARTÍCULO 1º DEL REGLAMENTO INTERIOR DEL PARQUE ZOOLÓGICO BENITO JUÁREZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
