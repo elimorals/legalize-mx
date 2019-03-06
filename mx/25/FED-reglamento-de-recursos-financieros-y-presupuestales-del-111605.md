@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-recursos-financieros-y-presupuestales-del-111605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-01-20"
-last_updated: "2016-01-20"
+last_updated: "2019-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-09"
 ---
 # REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO SEXTO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 6 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2019 (ABROGADA).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 20 de enero de 2016.
 
@@ -976,3 +978,27 @@ Si como resultado de las auditorías se detectan irregularidades que afecten a l
 Transitorios:
 
 Único.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MARZO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO".]</small>
+
+PRIMERO. Se aprueba el Reglamento en Materia de Recursos Financieros y Presupuestales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Administración para que dé el seguimiento que corresponda al presente Acuerdo, dentro del ámbito de su competencia.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo, se publique en el Diario Oficial de la Federación.
+
+El presente acuerdo y su anexo pueden ser consultados en las direcciones electrónicas siguientes:
+
+http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-PUB-06-02-2019.06.pdf
+
+www.dof.gob.mx/2019/INAI/AcuerdosDelPleno-ACT-PUB-06-02-2019.06.pdf
+
+CUARTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+QUINTO. El presente Acuerdo, su anexo y el Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se abroga el Reglamento en materia de Recursos Financieros y Presupuestales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, autorizado por el Pleno de este Instituto mediante acuerdo ACT-PUB/09/12/2015.04, publicado en el Diario Oficial de la Federación el veinte de enero de dos mil dieciséis.
