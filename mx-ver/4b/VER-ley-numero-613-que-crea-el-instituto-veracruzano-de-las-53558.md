@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-613-que-crea-el-instituto-veracruzano-de-las-53558"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-09"
-last_updated: "2016-02-05"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 613 QUE CREA EL INSTITUTO VERACRUZANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en el Número Extraordinario 11 de la Gaceta Oficial del Estado de Veracruz, el martes 9 de enero de 2007.
 
@@ -77,7 +77,9 @@ I. Instituto: Instituto Veracruzano de las Mujeres.
 
 II. Junta de Gobierno: Junta de Gobierno del Instituto Veracruzano de las Mujeres.
 
-III. Dirección: Dirección del Instituto Veracruzano de las Mujeres.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+III. Dirección: Dirección General del Instituto Veracruzano de las Mujeres.
 
 IV. Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Veracruzano de las Mujeres.
 
@@ -100,6 +102,14 @@ XI. Transversalidad: Estrategia metodológica para garantizar la inclusión de l
 XII. Políticas Públicas. Las acciones de gobierno dirigidas a la colectividad para propiciar condiciones de bienestar económico en igualdad de oportunidades.
 
 XIII. Acciones Afirmativas: Normas y políticas públicas de carácter temporal tendentes a buscar la equidad entre los géneros, otorgando derechos a desiguales para establecer dicha equidad.
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XIV. Coordinación del Refugio: Coordinación del Refugio Estatal para Mujeres en Situación de Violencia.
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XV. Refugio: Refugio Estatal para Mujeres en Situación de Violencia.
 
 ###### Artículo 6.
 
@@ -175,7 +185,9 @@ XIV. Colaborar en el diseño de programas educativos con perspectiva de género,
 
 XV. Impulsar en coordinación con los Municipios, la creación de Institutos Municipales de las Mujeres, para establecer políticas, acciones y programas en favor de la igualdad de género y la no discriminación contra las mujeres y las niñas en el ámbito municipal;
 
-XVI. (DEROGADA, G.O. 5 DE FEBRERO DE 2016)
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XVI. Coordinar, administrar y operar el Refugio Estatal para Mujeres en Situación de Violencia.
 
 > <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2016)</small>
 
@@ -187,23 +199,31 @@ XVIII. Concertar y formalizar acuerdos, convenios y toda clase de documentos e i
 
 ### Capítulo III. De la estructura orgánica del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2019)</small>
+
 ###### Artículo 9.
 
-El Instituto estará integrado por los siguientes órganos de administración:
+El instituto estará integrado por los siguientes órganos:
 
 I. Junta de Gobierno
 
-II. Dirección
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+II. Dirección General
 
 III. Secretaría ejecutiva
 
-IV. Consejo Consultivo
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
 
-V. Consejo Social
+IV. Coordinación del Refugio
 
-VI. Órgano Interno de Control
+V. Consejo Consultivo
 
-VII. Así como las áreas de operación, que se establezcan en el Reglamento Interno.
+VI. Consejo Social
+
+VII. Órgano Interno de Control
+
+VIII. Así como las áreas de operación, que se establezcan en el Reglamento Interno.
 
 ### Capítulo IV. De la Junta de Gobierno
 
@@ -267,9 +287,13 @@ VI. Autorizar la creación de oficinas de representación regionales y municipal
 
 VII. Autorizar a la directora celebrar convenios, acuerdos u otros documentos jurídicos de colaboración con dependencias, entidades públicas y sectores social y privado para el cumplimiento del objeto del Instituto;
 
-VIII. Designar y promover, a propuesta de la directora, a las y los servidores públicos de los niveles administrativos inferiores al de aquélla.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
 
-IX. Designar y remover, a propuesta de la directora, a la secretaria ejecutiva.
+VIII. Designar y remover, a propuesta de la Directora, a la Secretaria Ejecutiva, a la Coordinadora del Refugio, así como a las y los servidores públicos de los dos niveles administrativos inferiores al de aquélla;
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+IX. Aprobar la ratificación de la Coordinadora del Refugio para un segundo periodo de tres años, a propuesta de la Directora del Instituto.
 
 X. (DEROGADA, G.O. 5 DE FEBRERO DE 2016)
 
@@ -363,7 +387,9 @@ XI. Ejercer el presupuesto del Instituto, con sujeción a las disposiciones lega
 
 XII. Presentar a la Junta de Gobierno el informe anual sobre el desempeño de las funciones del Instituto invitando a la Presidencia del Tribunal Superior de Justicia y a la Presidencia del Congreso del Estado, así como difundirlo en todo el territorio estatal.
 
-XIII. Proponer a la Junta de Gobierno el nombramiento o remoción de la secretaria ejecutiva y los dos primeros niveles de servidores del Instituto.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XIII. Proponer a la Junta de Gobierno la designación o remoción de la Secretaria Ejecutiva, de la Coordinadora del Refugio, así como de los dos primeros niveles de servidoras y servidores públicos del Instituto.
 
 XIV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Instituto.
 
@@ -375,7 +401,17 @@ XVII. Someter a consideración de la Junta de Gobierno para su discusión y apro
 
 XVIII. Presentar a la Junta de Gobierno para su aprobación, el informe de resultados relativos al uso del poder general para actos de administración y dominio, así como para pleitos y cobranzas y lo relativo a los poderes especiales.
 
-XIX. Las demás facultades que le confiera esta Ley, el Reglamento Interno, los acuerdos de la Junta de Gobierno y otras disposiciones de estricta observancia.
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XIX. Proponer a la Junta de Gobierno la ratificación de la Coordinadora del Refugio para un segundo periodo de tres años.
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XX. Establecer y mantener las políticas generales para la selección, contratación y capacitación del personal del Instituto y del Refugio.
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2019)</small>
+
+XXI. Las demás facultades que le confieran esta Ley, el Reglamento Interno, los acuerdos de la Junta de Gobierno y otras disposiciones de estricta observancia.
 
 ###### Artículo 18.
 
@@ -410,6 +446,52 @@ II. Coadyuvar con la directora del Instituto en la planeación y elaboración de
 III. Auxiliar a la directora en la administración, organización y operación del Instituto, en los términos que establezca el Reglamento Interno.
 
 IV. Las demás que le confiera el Reglamento Interno.
+
+> <small>(ADICIONADO, G.O. 6 DE MARZO DE 2019)</small>
+
+###### Artículo 20 Bis.
+
+La Directora del Instituto propondrá a la Junta de Gobierno el nombramiento o remoción de la Coordinadora del Refugio, quien deberá cumplir los siguientes requisitos:
+
+(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser ciudadana veracruzana o mexicana POR NACIMIENTO, con al menos cinco años de residencia en la Entidad, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con licenciatura en derecho, debidamente acreditada con título y cédula profesional y estudios de género y derechos humanos;
+
+III. Tener experiencia mínima de dos años en atención a mujeres en situación de violencia y en trabajo a favor de los derechos humanos de las mujeres;
+
+IV. Haber desempeñado preferentemente, cargos de nivel decisorio y contar con experiencia en materia administrativa;
+
+V. No tener antecedentes de haber sido sancionada por ejercer algún tipo o modalidad de violencia o por la comisión de delitos dolosos, ni habérsele determinado inhabilitación administrativa alguna, por la autoridad competente; y
+
+VI. No haber sido inhabilitada, para ocupar cargo público, por el órgano fiscalizador correspondiente.
+
+> <small>(ADICIONADO, G.O. 6 DE MARZO DE 2019)</small>
+
+###### Artículo 20 Ter.
+
+La Coordinadora del Refugio tendrá las siguientes facultades y obligaciones:
+
+I. Planear y ejecutar estrategias para favorecer y promover el clima organizacional;
+
+II. Presentar a la Directora, para su aprobación, seguimiento y evaluación, los programas de trabajo y lineamientos generales de la operación del Refugio;
+
+III. Gestionar y administrar los recursos financieros para garantizar la permanencia del servicio;
+
+IV. Vigilar que los servicios de hospedaje, alimentación, vestido y calzado, se proporcionen de manera diligente y eficiente a las mujeres y a sus hijas e hijos;
+
+V. Supervisar los servicios especializados de atención en trabajo social, psicológica, médica y asesoría legal;
+
+VI. Promover acciones para el empoderamiento de las mujeres, en el ámbito social, económico, cultural y educativo, que les permita recuperar su autonomía;
+
+VII. Implementar las acciones y mecanismos que promuevan la cultura de respeto al interior del Refugio;
+
+VIII. Convocar al personal del Refugio, a reuniones periódicas, para dar seguimiento a los programas de trabajo; y
+
+IX. Las demás que le confiera esta Ley, el Reglamento y otras disposiciones aplicables.
+
+La Coordinadora del Refugio durará en su cargo tres años, pudiendo ser ratificada únicamente para un segundo periodo de tres años, a propuesta de la Directora del Instituto.
 
 ### Capítulo VII. Del Consejo Consultivo y del Consejo Social
 
@@ -638,3 +720,15 @@ G.O. 5 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 617 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL INSTITUTO VERACRUZANO DE LAS MUJERES”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235 QUE REFORMA, ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL INSTITUTO VERACRUZANO DE LAS MUJERES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El titular del Ejecutivo Estatal, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las reformas que sean necesarias al Reglamento de la presente Ley.
+
+TERCERO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado al Instituto Veracruzano de las Mujeres, para el presente ejercicio fiscal y los subsecuentes.
+
+CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
