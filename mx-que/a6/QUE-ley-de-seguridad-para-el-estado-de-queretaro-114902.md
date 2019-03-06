@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2018-08-17"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -133,9 +133,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Autorización: El permiso otorgado por la Secretaría de Seguridad Ciudadana, para que una persona física o moral pueda brindar servicios de seguridad privada;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-II. Comisión Estatal: La Comisión Estatal de Atención a Víctimas de Delito;
+II. Comisión Estatal: La Comisión Estatal de Atención Integral a Víctimas;
 
 III. Consejo Estatal: El Consejo Estatal de Seguridad;
 
@@ -627,7 +627,9 @@ II. Canalizar ante las instancias, instituciones y dependencias competentes a la
 
 III. Estudiar, valorar y seguir ante las instancias de atención el proceso de las víctimas que les hayan sido canalizadas;
 
-IV. Solicitar estudios, programas y diagnósticos a la Comisión Estatal de Atención a Víctimas de Delito;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+
+IV. Solicitar estudios, programas y diagnósticos a la Comisión Estatal de Atención Integral a Víctimas;
 
 V. Realizar el seguimiento del Sistema Estatal de Atención a Víctimas;
 
@@ -667,13 +669,13 @@ VII. Elaborar el proyecto del Reglamento del Sistema Estatal de Atención a Víc
 
 VIII. Las demás que le instruya el Presidente del Sistema Estatal de Atención as (sic) Víctimas.
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)</small>
 
-#### Sección Segunda. De la Comisión Estatal de Atención a Víctimas de Delito
+#### Sección Segunda. De la Comisión Estatal de Atención Integral a Víctimas
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-Artículo 28 duodecies. La Comisión Estatal, es la Dirección perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad, responsable de implementar la atención a las víctimas de delito, a través de la atención inmediata, asesoría jurídica y fondo compensatorio.
+Artículo 28 duodecies. La Comisión Estatal de Atención Integral a Víctimas, es el órgano operativo del Sistema Estatal de Atención a Víctimas, que tiene la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en términos de las disposiciones legales aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -693,11 +695,11 @@ IV. El Fondo Compensatorio.
 
 La operación de estos mecanismos se regirá conforme a lo dispuesto en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### Artículo 30.
 
-La Comisión Estatal tendrá las funciones de atención a las víctimas de delito, con base en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
+La Comisión Estatal tendrá las funciones de atención a las víctimas de delito y de violaciones a derechos humanos, con base en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1290,3 +1292,13 @@ P.O. 17 DE AGOSTO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A VÍCTIMAS, OFENDIDOS Y PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. A partir de la entrada en vigor de la presente Ley, todas las menciones o referencias a la Comisión Ejecutiva de Atención a Víctimas del Estado de Querétaro, se entenderán referidas a la Comisión Estatal de Atención Integral a Víctimas.
