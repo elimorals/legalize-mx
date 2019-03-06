@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-la-policia-investigadora-ministerial-del-52050"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-06"
-last_updated: "2006-10-06"
+last_updated: "2019-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE LA POLICIA INVESTIGADORA MINISTERIAL DEL ESTADO DE QUERETARO
 
-REGLAMENTO DE LA POLICIA INVESTIGADORA MINISTERIAL DEL ESTADO DE QUERETARO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA POLICÍA INVESTIGADORA MINISTERIAL DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 6 de octubre de 2006.
 
@@ -1962,3 +1964,21 @@ Lic. Juan Martín Granados Torres
 Procurador General de Justicia del Estado
 
 Rúbrica
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se abroga el Reglamento de la Policía Investigadora Ministerial del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, el 6 de octubre de 2006.
+
+Tercero. La instalación de la Comisión de Honor y Justicia se realizará dentro de los treinta días naturales, contados a partir de la entrada en vigor del presente Reglamento.
+
+Cuarto. La Dirección de Administración de la Fiscalía General organizará y coordinará el otorgamiento oportuno y suficiente a la Comisión, a la Unidad y a la Dirección, de los recursos humanos, financieros, materiales, informáticos y administrativos que éstas requieran, para el eficaz desempeño de las funciones que les atribuye el presente Reglamento.
+
+Quinto. Los expedientes de Investigación de Presunta Responsabilidad Administrativa y Procedimientos de Responsabilidad Administrativa que se encuentren en trámite y que se hubieren iniciado en contra de Policías de Investigación del Delito con anterioridad a la entrada en vigor del presente reglamento serán remitidos a la Unidad de Asuntos Internos para su resolución conforme a lo establecido en el presente Reglamento.
+
+De igual forma, el presente reglamento será aplicable para los procedimientos administrativos disciplinarios o resarcitorios que se inicien en contra de Policías de Investigación del Delito a partir de su entrada en vigor, con independencia de que los hechos hayan sucedido con anterioridad a la entrada en vigor del mismo.
+
+Sexto. El Fiscal General en su carácter del Presidente de la Comisión, resolverá los casos de duda que se susciten con motivo de la interpretación o aplicación del presente ordenamiento.
