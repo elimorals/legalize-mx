@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2019-01-09"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1003,7 +1003,11 @@ XII.- De Juventud.
 
 XIII.- De Protección a los Animales.
 
-XIV.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2019)</small>
+
+XIV.- De Cultura.
+
+XV.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -6206,3 +6210,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-785 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIV, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL PARA SER FRACCIÓN XV, AL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
