@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2018-del-pleno-del-consejo-de-la-131556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-11-13"
-last_updated: "2018-11-13"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-11-05"
 ---
 # ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN ENSENADA; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2019 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 36/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN ENSENADA; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 6 DE MARZO DE 2019.]</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de noviembre de 2018.
 
@@ -99,9 +99,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el municipio de Ensenada.
 
+> <small>(F. DE E., D.O.F. 6 DE MARZO DE 2019)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Prolongación Libramiento Sur número 1800, Colonia Ex Ejido Chapultepec, código postal 22875, Ensenada, Baja California.
+El domicilio del Centro será el ubicado en Prolongación Libramiento Sur número 1800, Colonia Ex Ejido Chapultepec, código postal 22785, Ensenada, Baja California.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
