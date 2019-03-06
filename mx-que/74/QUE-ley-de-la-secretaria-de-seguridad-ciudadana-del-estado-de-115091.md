@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2018-08-17"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -69,9 +69,9 @@ I. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
 II. Centro de Justicia: El Centro de Justicia para las Mujeres del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-III. Comisión Estatal: La Comisión Estatal, encargada de la Atención a Víctimas de delito;
+III. Comisión Estatal: La Comisión Estatal de Atención Integral a Víctimas;
 
 IV. Ley: La Ley de la Secretaría de Seguridad Ciudadana del Estado de Querétaro;
 
@@ -115,9 +115,7 @@ a) La Dirección de Prevención Social de la Violencia y la Delincuencia.
 
 b) La Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos; y
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-c) La Comisión Estatal de Atención a Víctimas de Delito.
+c) (DEROGADO, P.O. 6 DE MARZO DE 2019)
 
 IV. La Subsecretaría de Policía Estatal, que se integrará por:
 
@@ -365,75 +363,13 @@ VII. Establecer los mecanismos de seguimiento en cuanto al cumplimiento de acuer
 
 VIII. Las demás que le confieran otros ordenamientos y disposiciones normativas aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2019)</small>
 
 ### Capítulo Cuarto. De la Comisión Estatal de Atención a Víctimas de Delito
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
-
 ###### Artículo 17.
 
-La Comisión Estatal de Atención a Víctimas de Delito contará con las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-I. Organizar y coordinar la atención a víctimas del delito;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. Brindar asesoría jurídica, así como la atención a los derechos fundamentales de las víctimas, la asistencia especializada y la reparación del daño a las víctimas y ofendidos competencia del Sistema de Seguridad Estatal;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Proponer al Secretario y Subsecretario de Prevención Social y Atención a Víctimas, la suscripción de convenios en materia de atención a víctimas;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IV. Solicitar a las dependencias, entidades de la Administración Pública Estatal y a la Fiscalía General del Estado de Querétaro, la información que considere necesaria para la integración del Registro Estatal de Víctimas, así como la relacionada con la atención, asistencia y protección a las víctimas;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Coordinar con las autoridades auxiliares la asistencia, atención y apoyo a las víctimas del delito, así como solicitar la información que se requiera en términos de la ley de la materia;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VI. Coordinar acciones institucionales e interinstitucionales en materia de atención a víctimas del delito;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VII. Impulsar la difusión de los derechos de las víctimas del delito;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VIII. Coordinar el Registro Estatal de Víctimas;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IX. Supervisar la operación del Fondo de Ayuda, Asistencia y Reparación Integral a las Víctimas, con base en los principios de publicidad, transparencia y rendición de cuentas;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-X. Establecer los lineamientos, protocolos, manuales y reglas de operación necesarias para garantizar el ejercicio efectivo de los derechos de las víctimas del delito;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XI. Elaborar, implementar y dar seguimiento a los estudios, diagnósticos, planes y programas de atención a víctimas del delito;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XII. Ejecutar los acuerdos y resoluciones que así determine;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XIII. Activar al Sistema Estatal de Atención a Víctimas cuando las necesidades de las víctimas así lo requieran, precisando las acciones solicitadas;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XIV. Informar a la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos, Fiscalía General y al Poder Judicial del Estado, de los recursos erogados del Fondo Compensatorio a las Víctimas que se hayan atendido, para que éstos lleven a cabo el reintegro de estas cantidades al Fondo, cuando el imputado haya reparado el daño; y
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XV. Las demás que los ordenamientos legales aplicables así determinen.
+(DEROGADO, P.O. 6 DE MARZO DE 2019)
 
 ## Título Cuarto. De la Función Policial
 
@@ -1060,3 +996,13 @@ P.O. 17 DE AGOSTO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A VÍCTIMAS, OFENDIDOS Y PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. A partir de la entrada en vigor de la presente Ley, todas las menciones o referencias a la Comisión Ejecutiva de Atención a Víctimas del Estado de Querétaro, se entenderán referidas a la Comisión Estatal de Atención Integral a Víctimas.
