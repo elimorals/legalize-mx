@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2018-10-19"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -132,6 +132,10 @@ Esta Constitución no perderá su fuerza y vigencia, aún cuando por cualquier c
 La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás, son fundamento del orden político y la paz social.
 
 En el Estado de Quintana Roo, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esos mismos ordenamientos establezcan.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 Todas las autoridades estatales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Quintana Roo, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
@@ -283,11 +287,13 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
-Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados por las dos terceras partes de los miembros de la Legislatura, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
 El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura del Estado, en la fecha y en los términos que disponga la ley.
 
@@ -301,23 +307,23 @@ El organismo garante tendrá un Consejo Consultivo, integrado por cuatro conseje
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+II.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
+IV.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
 
-V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
 Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
 
-VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+VI.- La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el órgano garante y sus integrantes para el buen desempeño de sus funciones.
 
@@ -811,11 +817,7 @@ El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutiv
 
 Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes. La jornada electoral tendrá lugar el primer domingo de junio del año que corresponda.
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-LA RENOVACIÓN DE LOS PODERES LEGISLATIVO Y EJECUTIVO SE REALIZARÁ MEDIANTE ELECCIONES LIBRES, AUTÉNTICAS Y PERIÓDICAS, EN LAS QUE PODRÁN PARTICIPAR LOS PARTIDOS POLÍTICOS NACIONALES Y ESTATALES, POR SÍ MISMOS O EN COALICIONES, ASÍ COMO CANDIDATOS INDEPENDIENTES. LA LEY REGLAMENTARÁ ESTAS PARTICIPACIONES.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -853,9 +855,9 @@ Las sesiones de todos los órganos colegiados de dirección del Instituto Electo
 
 El Tribunal Electoral de Quintana Roo, es un órgano público autónomo, con personalidad jurídica y patrimonio propios, independencia en sus decisiones, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, y será la máxima autoridad jurisdiccional en la materia, con el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas, y garantizarán la transparencia, la máxima publicidad y el derecho de acceso a la información, en los términos que señale la ley. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos (sic) de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo, respectivamente. El titular del órgano interno de control del Instituto Electoral de Quintana Roo será designado por la Legislatura del Estado o la Diputación Permanente.
+El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo, respectivamente. El titular del órgano interno de control del Instituto Electoral de Quintana Roo será designado por la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -983,11 +985,7 @@ VI.- La Ley respectiva tipificará los delitos y determinará las faltas y respo
 
 VII.- (DEROGADA, P.O. 3 DE JULIO DE 2017)
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-VIII.- LA PROPAGANDA IMPRESA DEBERÁ SER RECICLABLE Y DEBERÁ ELABORARSE CON MATERIALES RECICLADOS O BIODEGRADABLES QUE NO CONTENGAN SUSTANCIAS TÓXICAS NI MATERIALES QUE PRODUZCAN RIESGOS A LA SALUD DE LAS PERSONAS. LOS PARTIDOS POLÍTICOS Y COALICIONES, ASÍ COMO CANDIDATOS INDEPENDIENTES, ESTARÁN OBLIGADOS A RETIRAR SU PROPAGANDA Y LLEVARLA A UN CENTRO DE RECICLAJE.
+VIII.- (DEROGADA, P.O. 6 DE MARZO DE 2019)
 
 ###### ARTICULO 50.
 
@@ -1103,33 +1101,25 @@ I.- Ser ciudadano Quintanarroense, en ejercicio de sus derechos políticos, con 
 
 II.- Tener 18 años cumplidos el día de la elección.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 56.
 
 No podrá ser diputado:
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de designación;
 
-I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
+II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Fiscal General del Estado, el Titular de la Auditoría Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Jueces y los servidores públicos que por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición recursos públicos de carácter económico o financiero pertenecientes a los Poderes del Estado, organismos constitucionalmente autónomos o a la administración pública en el Estado, a menos que se separe de su cargo noventa días antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, que, por la naturaleza de su función, empleo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separe del mismo noventa días antes de la elección;
 
-II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Fiscal General del Estado, el Titular de la Auditoría Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
+IV.- Los servidores públicos federales que realicen sus funciones en el Estado, que, por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separen de ellas noventa días antes de la fecha de elección;
 
-III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
+V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar noventa días anteriores a la elección;
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+VI.- Los que sean o hayan sido ministros de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección, y
 
-IV.- Los servidores públicos federales que realicen sus funciones en el Estado, a menos que se separen de ellas 90 días antes de la fecha de la elección.
-
-V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
-
-VI.- Los que sean o hayan sido ministros de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección.
-
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
-
-VII.- Los Magistrados del Tribunal Electoral de Quintana Roo, el Consejero Presidente y los Consejeros Electorales, los Secretarios y Funcionarios del Instituto Electoral de Quintana Roo, así como sus similares de los Organos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
+VII.- Los Magistrados del Tribunal Electoral de Quintana Roo, el Consejero Presidente y los Consejeros Electorales, los Secretarios y Funcionarios del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
 
 (NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1145,9 +1135,11 @@ La postulación sólo podrá ser realizada por el mismo partido o por cualquiera
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-Los diputados en ejercicio, no podrán desempeñar ninguna otra comisión o empleo público por el que se disfrute sueldos, sin licencia previa de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su función representativa mientras dure su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
+###### Artículo 59.
+
+Los diputados en ejercicio, no podrán desempeñar ninguna otra comisión o empleo público por el que se disfrute sueldo, sin licencia previa de la Legislatura o de la Comisión Permanente, pero entonces cesarán en su función representativa mientras dure su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
 
 ###### ARTICULO 60.
 
@@ -1165,33 +1157,45 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 #### SECCION SEGUNDA. De las Sesiones
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 61.
 
-La Legislatura tendrá durante el año dos periodos ordinarios de sesiones que comenzarán, el primero, el 5 de septiembre y el segundo, el 15 de febrero. El primero no podrá prolongarse sino hasta el 15 de diciembre y el segundo hasta el 31 de mayo.
+La Legislatura durará tres años, cada año de ejercicio constitucional tendrá dos periodos ordinarios de sesiones, el primero, será del 5 de septiembre al 15 de diciembre y el segundo, del 15 de febrero hasta el 31 de mayo del año que corresponda.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2019)</small>
+
+No podrá celebrarse ninguna sesión sin la concurrencia de la mayoría simple del número total de diputados que integran la Legislatura.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 62.
 
-La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente el Gobernador, se señalarán el motivo y la finalidad de las sesiones extraordinarias.
+La Legislatura, a convocatoria de la Comisión Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente el Gobernador, se señalarán el motivo y la finalidad de las sesiones extraordinarias.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 63.
 
-No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados.
+La Legislatura funcionará en Pleno y para el desempeño de sus funciones legislativas cada diputado presidirá una de las comisiones que refiera la Ley respectiva. Sus sesiones serán públicas y la ley en la materia determinará su organización, integración y atribuciones.
+
+La Mesa Directiva y la Junta de Gobierno y Coordinación Política, serán los órganos de gobierno del Poder Legislativo, los cuales reflejarán en su composición la pluralidad de la Legislatura.
+
+La Junta de Gobierno y Coordinación Política será el órgano colegiado encargado de procurar la toma de decisiones políticas a fin de que (sic) alcanzar y facilitar los consensos que coadyuven a la gobernabilidad democrática del Poder Legislativo del Estado.
+
+La ley determinará la integración, organización y atribuciones de cada uno de los citados órganos de gobierno.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 64.
 
-Los diputados que no concurran a una sesión, sin causa justificada o sin permiso del Presidente de la Legislatura, no tendrán derecho a la dieta correspondiente al día en que faltaren.
+Los diputados que no concurran a una sesión del Pleno, sin causa justificada, no tendrán derecho a la dieta correspondiente al día en que faltaren.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
-
-Cuando algún diputado deje de asistir a más de cinco sesiones consecutivas de la Legislatura, sin causa justificada, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará a su suplente para que lo reemplace.
+Cuando algún diputado deje de asistir a más de tres sesiones consecutivas de la Legislatura, sin causa justificada, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará a su suplente para que lo reemplace.
 
 ###### ARTICULO 65.
 
@@ -1261,9 +1265,9 @@ El Gobernador del Estado tendrá derecho a presentar hasta dos iniciativas de ca
 
 Las iniciativas con carácter preferente deberán ser sometidas a discusión y votación de la Legislatura, a más tardar, dentro de los cuarenta días naturales siguientes a su presentación.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo. No podrán incluirse como iniciativas preferentes las que modifiquen esta Constitución.
+La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo. No podrán incluirse como iniciativas preferentes las que modifiquen esta Constitución, reformas en materia electoral y fiscal.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -1285,11 +1289,11 @@ II.- De ser confirmado el proyecto original, por las dos terceras partes de los 
 
 III.- Si la Legislatura aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Ejecutivo, se le devolverápara (sic) los efectos de la fracción anterior.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 72.
 
-El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al decreto de convocatoria a sesiones extraordinarias expedido por la Diputación Permanente.
+El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni a la convocatoria a sesiones extraordinarias expedido por la Comisión Permanente.
 
 ###### ARTICULO 73.
 
@@ -1349,7 +1353,7 @@ XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-XII. Designar y remover a los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo. La Ley que rija a los órganos públicos autónomos determinará los requisitos y el procedimiento para su designación y remoción;
+XII.- Designar y remover a los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo. La Ley que rija a los órganos públicos autónomos determinará los requisitos y el procedimiento para su designación y remoción;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1357,17 +1361,17 @@ XIV.- Ejercer las facultades que le otorga la Constitución Federal en relación
 
 XV.- Determinar las características y el uso del escudo estatal.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-XVI.- Solicitar la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
+XVI.- Recibir en pleno o a través de la comisión respectiva, la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
 
 XVII.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+XVIII.- (DEROGADA, P.O. 6 DE MARZO DE 2019)
 
-XVIII.- Declarar si ha lugar o no a formación de causa de que habla el artículo 172 de esta Constitución.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-XIX.- Elegir la Diputación Permanente.
+XIX.- Elegir la Comisión Permanente.
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1479,11 +1483,11 @@ La solicitud de comparecencia a que se refiere el párrafo anterior deberá ingr
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XLVII. Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
+XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
+XLVIII.- Expedir leyes encaminadas a combatir el alcoholismo;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1499,7 +1503,7 @@ LI.- Ratificar al Titular de la Secretaría encargada del Control Interno del Po
 
 > <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-LII. Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+LII.- Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1509,63 +1513,35 @@ LIII.- Expedir las leyes que señale el Título Octavo de esta Constitución, y
 
 LIV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
-#### SECCION QUINTA. De la Diputación Permanente
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+#### SECCION QUINTA. De la Comisión Permanente
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 76.
 
-El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su encargo el período de receso para el que fueron designados. El primero de los nombrados será el Presidente, y el segundo y tercero serán secretarios de la Mesa Directiva.
+El día de clausura del periodo de sesiones ordinarias, el Pleno de la Legislatura a propuesta de la Junta de Gobierno y Coordinación Política, nombrará a la Comisión Permanente, la cual deberá instalarse inmediatamente y funcionar hasta en tanto dé inicio el siguiente periodo ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+La Comisión Permanente estará integrada por siete diputados de la Legislatura. El primero de los nombrados ocupará el cargo de presidente, el segundo y el tercero serán secretarios de la mesa directiva que funcionará en los periodos de receso de la Legislatura.
 
-Son facultades y obligaciones de la Diputación Permanente:
+La Comisión Permanente sesionará al menos una vez por semana, a fin de desahogar la correspondencia dirigida al Poder Legislativo, y turnar las iniciativas y acuerdos a las instancias correspondientes.
+
+Son facultades y obligaciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extraordinarias;
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
-
-III.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, al Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de los miembros presentes el nombramiento de los auditores especiales;
+III.- Conceder o negar solicitudes de licencia a los diputados, a los magistrados del Tribunal Superior de Justicia y a los magistrados del Tribunal de Justicia Administrativa.
 
 IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
-REFORMADA, P.O. 3 DE JULIO DE 2017)
+V.- Nombrar Gobernador provisional en los casos previstos en esta Constitución y recibirle la protesta de Ley;
 
-V.- Conceder licencias temporales a los Diputados, a los Magistrados del Tribunal Superior de Justicia y a los Magistrados del Tribunal de Justicia Administrativa;
+VI.- Convocar a periodo extraordinario para llevar a cabo las designaciones o nombramientos que confiera esta Constitución al Pleno de la Legislatura, y
 
-VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución;
-
-VII.- Designar por el voto de las dos terceras partes de sus integrantes a los miembros de los Consejos Municipales en los casos previstos por esta Constitución y por la Ley de los Municipios;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
-
-VIII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros Ciudadanos del Consejo de la Judicatura y a los Magistrados del Tribunal de Justicia Administrativa del Estado. Así como aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
-
-IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
-
-X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoción del Fiscal General del Estado;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
-
-XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
-
-XII. Designar y remover a los titulares de los Órganos Internos de Control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo. La Ley que rija a los órganos públicos autónomos determinará los requisitos y el procedimiento para su designación y remoción. Asimismo, ratificará al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
-
-XIII.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
-
-XIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
-
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
-
-XV.- Las demás que le confiera expresamente esta Constitución.
+VII.- Las demás que le confiera expresamente esta Constitución y la ley respectiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1573,7 +1549,7 @@ XV.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 77.
+###### ARTICULO 77.
 
 La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El proyecto de presupuesto de egresos será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos de la Auditoría Superior del Estado no será menor al presupuesto otorgado en el año inmediato anterior.
 
@@ -1581,9 +1557,9 @@ La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnic
 
 La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura o en su caso, por la Diputación Permanente. Los auditores especiales auxiliarán al Titular en sus funciones. El titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura. Los auditores especiales auxiliarán al titular en sus funciones. El Titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El Titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El Titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1603,7 +1579,7 @@ La Auditoría Superior del Estado tendrá a su cargo:
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-I. Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
 
 También fiscalizará los recursos estatales y municipales que administre o ejerza el Estado y los municipios, en términos que establezcan las leyes. Y en términos que establezca la ley fiscalizará en coordinación con la Auditoría Superior de la Federación las participaciones federales.
 
@@ -1623,7 +1599,7 @@ Las entidades fiscalizadas proporcionarán la información que se solicite para 
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Entregar a la Legislatura del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de la Legislatura del Estado. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoria Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+II.- Entregar a la Legislatura del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de la Legislatura del Estado. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoria Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoria Superior del Estado para la elaboración de los informes individuales de auditoría.
 
@@ -1639,11 +1615,11 @@ La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y o
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles y archivos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles y archivos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción del Estado, para la imposición de las sanciones que correspondan a los servidores públicos estatales y, en el caso de los párrafos segundo y tercero de la fracción I de este artículo, a los servidores públicos estatales, municipales, y a los particulares.
+IV.- Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción del Estado, para la imposición de las sanciones que correspondan a los servidores públicos estatales y, en el caso de los párrafos segundo y tercero de la fracción I de este artículo, a los servidores públicos estatales, municipales, y a los particulares.
 
 Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoria Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales y municipales, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
@@ -1725,9 +1701,11 @@ X.- No ser Presidente Municipal o titular de algún órgano político administra
 
 El Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 25 de septiembre del año que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 82.
 
-Al tomar posesión de su cargo el Gobernador del Estado deberá rendir protesta ante la Legislatura o la Diputación Permanente, en su caso, en los términos siguientes:
+Al tomar posesión de su cargo el Gobernador del Estado deberá rendir protesta ante la Legislatura o la Comisión Permanente, en su caso, en los términos siguientes:
 
 "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Quintana Roo y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Quintana Roo. Si así no lo hiciere que el pueblo me lo demande".
 
@@ -1735,15 +1713,21 @@ Al tomar posesión de su cargo el Gobernador del Estado deberá rendir protesta 
 
 En caso de falta absoluta de Gobernador del Estado ocurrido en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y designará, por votación secreta y calificada de las dos terceras partes del número total de sus miembros, unGobernador (sic) interino, expidiendo la propia Legislatura, dentro de los 10 días siguientes a la designación, la convocatoria para la elección del Gobernador que habráde (sic) concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de 6 meses ni mayor de 12.
 
-Si la Legislatura no estuviere en sesiones, la Diputación Permanente nombrarádesde (sic) luego un Gobernador provisional y, simultáneamente, convocaráa (sic) sesiones extraordinarias a la Legislatura para que ésta a su vez designe al Gobernador interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Si la Legislatura no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador provisional y, simultáneamente, convocará a sesiones extraordinarias a la Legislatura para que ésta a su vez designe al Gobernador interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
 
 Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que habráde (sic) concluir el período.
 
-Si la Legislatura no estuviese reunida, la Diputación Permanente nombraráun(sic) Gobernador provisional y, simultáneamente, convocaráa (sic) la Legislatura a sesiones extraordinarias para que erigida en Colegio Electoral haga la elección del Gobernador sustituto.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Si la Legislatura no estuviese reunida, la Comisión Permanente nombrará un Gobernador provisional y, simultáneamente, convocará a la Legislatura a sesiones extraordinarias para que erigida en Colegio Electoral haga la elección del Gobernador sustituto.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 84.
 
-Si al inicio de un período, constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe la Legislatura, o en su falta, con el carácter de provisional, el que designe la Diputación Permanente, procediéndose conforme a lo dispuesto en los párrafos primero y segundo del artículo anterior.
+Si al inicio de un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe la Legislatura, o en su falta, con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
 
 ###### ARTICULO 85.
 
@@ -1751,17 +1735,23 @@ En las ausencias o faltas temporales del Gobernador del Estado se observarán la
 
 I.- Las ausencias hasta por 30 días, serán suplidas por el Secretario de Gobierno.
 
-II.- Si la ausencia excede de 30 días y no pasa de 90, el Gobernador daráaviso (sic) a la Legislatura o a la Diputación Permanente, en su caso, quedando encargado del Despacho el Secretario de Gobierno, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-III.- Si la falta temporal excede de 90 días la Legislatura o la Diputación Permanente designará, según el caso, un Gobernador interino o provisional, para que le supla durante el tiempo de su ausencia.
+II.- Si la ausencia excede de 30 días y no pasa de 90, el Gobernador dará aviso a la Legislatura o a la Comisión Permanente, en su caso, quedando encargado del Despacho el Secretario de Gobierno, y
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+
+III.- Si la falta temporal excede de 90 días la Legislatura o la Comisión Permanente, en su caso, designará a un Gobernador interino o provisional, para que le supla durante el tiempo de su ausencia.
 
 ###### ARTICULO 86.
 
 Para ser Gobernador sustituto, interino o provisional se requieren los mismos requisitos señalados en el artículo 80.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 87.
 
-El ciudadano designado para suplir las faltas absolutas o temporales del Gobernador; rendirála (sic) protesta constitucional ante la Legislatura o la Diputación Permanente, en su caso.
+El ciudadano designado para suplir las faltas absolutas o temporales del Gobernador, rendirá la protesta constitucional ante la Legislatura o la Comisión Permanente, en su caso.
 
 ###### ARTICULO 88.
 
@@ -1903,15 +1893,17 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
-###### Artículo 94.
+###### ARTICULO 94.
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura o la Diputación Permanente, en su caso; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la Legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
-La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
 El Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designado en los mismos términos del párrafo anterior. Durará en su encargo cuatro años y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
 
@@ -2009,7 +2001,9 @@ Si la Legislatura del Estado no hace la designación en los plazos que establece
 
 d) El Fiscal General podrá ser removido por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
-e) En los recesos de la Legislatura del Estado, la Diputación Permanente convocará de inmediato a periodo extraordinario para la designación o remoción del Fiscal General del Estado.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+e) En los recesos de la Legislatura del Estado, la Comisión Permanente convocará de inmediato a periodo extraordinario para la designación o remoción del Fiscal General del Estado.
 
 f) Las ausencias del Fiscal General del Estado serán suplidas en los términos que determiné la ley.
 
@@ -2041,17 +2035,19 @@ La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuest
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
-D. La Fiscalía General contará, al menos, con una Fiscalía Especializada en materia de Combate a la Corrupción.
+D.- La Fiscalía General contará, al menos, con una Fiscalía Especializada en materia de Combate a la Corrupción.
 
-El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura o en su caso, a la Diputación Permanente, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
 El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General, así como haber nacido en el Estado o tener una residencia efectiva en él no menor de 5 años anteriores a la designación, y durará en su encargo siete años sin posibilidad de ser reelecto, teniendo también la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos en los términos que disponga la ley de la materia. Igualmente, el Fiscal Anticorrupción comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-E. La Fiscalía General contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su cargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para su designación.
+E.- La Fiscalía General contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado; durará cuatro años en su cargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para su designación.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -2141,9 +2137,9 @@ Las y los Jueces durarán seis años en el ejercicio de su encargo, al término 
 
 Los Magistrados, Jueces y Consejeros de la Judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-Las y los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso; las y los jueces y demás servidores del Poder Judicial ante el Consejo de la Judicatura.
+Las y los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado; las y los jueces y demás servidores del Poder Judicial ante el Consejo de la Judicatura.
 
 Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -2151,11 +2147,11 @@ Ningún servidor público del Poder Judicial del Estado podrá tener, servir o d
 
 Los Magistrados Numerarios del Tribunal Superior de Justicia se retiraran de sus cargos en forma forzosa por alguna de las siguientes causas:
 
-I. Haber concluido, en su caso, los seis años del segundo periodo a que se refiere el párrafo tercero de este artículo.
+I.- Haber concluido, en su caso, los seis años del segundo periodo a que se refiere el párrafo tercero de este artículo.
 
-II. Haber cumplido sesenta y cinco años de edad.
+II.- Haber cumplido sesenta y cinco años de edad.
 
-III. Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función.
+III.- Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
 
@@ -2195,15 +2191,17 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aquel
 
 Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
 
-I. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
+I.- El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
 
-II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
+II.- Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
 
-III. Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
+III.- Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
 
-En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con carácter de provisional, en tanto aquélla se reúne y emite la aprobación definitiva.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
 
-Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado o la Comisión Permanente, en su caso.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
@@ -2347,7 +2345,9 @@ El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judica
 
 El Magistrado distinto del Presidente, excepto en los casos previstos por esta Constitución, y el Juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
 
-Los Consejeros Ciudadanos durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado o la Diputación Permanente, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de esta Constitución. El procedimiento de reelección se sujetará a los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Los Consejeros Ciudadanos durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de esta Constitución. El procedimiento de reelección se sujetará a los términos que establezca la ley.
 
 Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
 
@@ -2391,23 +2391,33 @@ El Tribunal de Justicia Administrativa del Estado se integrará por cinco magist
 
 Para ser Magistrado del Tribunal de Justicia Administrativa del Estado, se deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia y los que determine la ley.
 
-Los Magistrados del Tribunal de Justicia Administrativa serán designados por la Legislatura del Estado o la Diputación Permanente, en su caso, con el voto de las dos terceras partes de sus miembros presentes, y durarán en su encargo ocho años, con posibilidad de ser nombrados por la Legislatura del Estado por cuatro años adicionales. Los Magistrados del Tribunal de Justicia Administrativa del Estado rendirán protesta ante la Legislatura del Estado o la Diputación Permanente.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Los Magistrados del Tribunal de Justicia Administrativa serán designados por la Legislatura del Estado, con el voto de las dos terceras partes de sus miembros presentes, y durarán en su encargo ocho años, con posibilidad de ser nombrados por la Legislatura del Estado por cuatro años adicionales. Los Magistrados del Tribunal de Justicia Administrativa del Estado rendirán protesta ante la Legislatura del Estado.
 
 El procedimiento para la designación de los Magistrados se deberá sujetar a los principios de paridad de género y máxima publicidad, y se llevará a cabo de conformidad con las siguientes disposiciones generales:
 
-a) La Legislatura del Estado o en su caso, la Diputación Permanente, emitirá una convocatoria pública abierta, en la que se establecerán las bases para participar y conformar la lista de candidatos a Magistrados del Tribunal de Justicia Administrativa. Dicha convocatoria deberá ser emitida y publicada en el Periódico Oficial del Estado, dos periódicos de mayor circulación y en la página web oficial del Poder Legislativo del Estado.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-b) Una vez recibidas las solicitudes de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, la Legislatura del Estado o en su caso, la Diputación Permanente, a través de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos, determinará qué aspirantes cumplieron los requisitos constitucionales y legales y los entrevistará a efecto de emitir el dictamen que corresponda.
+a) La Legislatura del Estado o en su caso, la Comisión Permanente, emitirá una convocatoria pública abierta, en la que se establecerán las bases para participar y conformar la lista de candidatos a Magistrados del Tribunal de Justicia Administrativa. Dicha convocatoria deberá ser emitida y publicada en el Periódico Oficial del Estado, dos periódicos de mayor circulación y en la página web oficial del Poder Legislativo del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-c) Posteriormente, la Legislatura del Estado o en su caso, la Diputación Permanente, enviará el dictamen al Titular del Poder Ejecutivo Estatal, para que éste conforme una bina por cada magistrado a nombrar. En ningún caso, se podrá remitir al Titular del Poder Ejecutivo el mismo número de aspirantes por bina a integrar. El Titular del Poder Ejecutivo del Estado deberá remitir su propuesta dentro de los tres días hábiles posteriores, a la Legislatura del Estado o la Diputación Permanente, en su caso.
+b) Una vez recibidas las solicitudes de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, la Legislatura del Estado a través de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos, determinará qué aspirantes cumplieron los requisitos constitucionales y legales y los entrevistará a efecto de emitir el dictamen que corresponda.
 
-d) La Legislatura o en su caso, la Diputación Permanente, una vez llevado a cabo lo dispuesto en el inciso anterior, designará por cada bina propuesta a un magistrado.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+c) Posteriormente, la Legislatura del Estado enviará el dictamen al Titular del Poder Ejecutivo Estatal, para que éste conforme una bina por cada magistrado a nombrar. En ningún caso, se podrá remitir al Titular del Poder Ejecutivo el mismo número de aspirantes por bina a integrar. El Titular del Poder Ejecutivo del Estado deberá remitir su propuesta dentro de los tres días hábiles posteriores, a la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+d) Una vez llevado a cabo lo dispuesto en el inciso anterior, la Legislatura designará por cada bina propuesta a un magistrado.
 
 La ley desarrollará de manera específica los términos del procedimiento de designación antes mencionado.
 
-Los Magistrados del Tribunal de Justicia Administrativa del Estado sólo podrán ser removidos de sus cargos por la Legislatura del Estado o en su caso, la Diputación Permanente, por las causas graves que señale la ley.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+Los Magistrados del Tribunal de Justicia Administrativa del Estado sólo podrán ser removidos de sus cargos por la Legislatura del Estado, por las causas graves que señale la ley.
 
 Los magistrados no podrán tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -2417,7 +2427,9 @@ La retribución que perciban los Magistrados del Tribunal de Justicia Administra
 
 El proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, no será menor al presupuesto otorgado en el año inmediato anterior.
 
-El Tribunal de Justicia Administrativa del Estado contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su cargo, sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+El Tribunal de Justicia Administrativa del Estado contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado; durará cuatro años en su cargo, sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
@@ -3509,29 +3521,19 @@ Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayunta
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 143.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
 
 El mismo procedimiento se seguirá cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio o cuando la elección se declare nula. En este último caso, deberá de emitirse la convocatoria respectiva dentro de los tres días siguientes a los que se haya recibido la notificación que declare firme para todos los efectos legales la nulidad de la elección.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
 
-Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
+En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
-
-(NOTA: EL 14 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE LA FECHA EN QUE SE NOTIFIQUE LA PRESENTE SENTENCIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
-
-EN TODO CASO, el Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, CON EXCEPCIÓN DE LO PREVISTO EN LA FRACCIÓN III DEL ARTÍCULO 136 DE ESTA CONSTITUCIÓN, y rendirán la protesta de ley.
+El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, y rendirán la protesta de ley.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3975,11 +3977,17 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 164.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. La Legislatura o la Diputación Permanente, en su caso, hará el cómputo de los votos de los Ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por el voto favorable de las dos terceras partes de la totalidad de los Ayuntamientos del Estado, en un lapso de treinta días naturales contados a partir de la recepción de la minuta proyecto de decreto. En todo caso, el sentido de la votación de los Ayuntamientos deberá estar fundado y motivado.
+
+Transcurrido el plazo fijado con anterioridad, y sin que el o los Ayuntamientos se hayan pronunciado, se entenderá como aprobada la minuta proyecto de decreto.
+
+La Legislatura o la Comisión Permanente, en su caso, hará el cómputo de los votos de los Ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
+
+Ninguna iniciativa que pretenda reformar o adicionar esta Constitución será atendida por la Legislatura con sujeción al trámite de urgente y obvia resolución.
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -5380,3 +5388,15 @@ P.O. 19 DE OCTUBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO: Se derogan todas aquellas disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO: 010 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. Las reformas y adiciones de los artículos 12, 56 y 68 a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las reformas, derogaciones y adiciones de los artículos 21, 49, 59, 61, 62, 63, 64, 72, 75, la denominación de la Sección Quinta del Capítulo II del Título Quinto, 76, 77, 82, 83, 84, 85, 87, 94, 96, 100, 102, 108, 110, 143 y 164 a que se refiere el presente Decreto entrarán en vigor hasta el día tres de septiembre del año dos mil diecinueve, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO. En un plazo que no excederá de noventa días naturales siguientes a la publicación en el Periódico Oficial del Estado del presente Decreto, la Legislatura del Estado expedirá la legislación secundaria que regule la organización y el funcionamiento del Poder Legislativo en armonía con el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que contravengan lo dispuesto por el presente Decreto.
