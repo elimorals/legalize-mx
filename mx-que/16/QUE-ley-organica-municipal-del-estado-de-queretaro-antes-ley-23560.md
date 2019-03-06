@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2018-10-10"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -207,7 +207,7 @@ Los planes de desarrollo municipal, deberán contener programas y acciones tendi
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)</small>
+i(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)
 
 ###### ARTICULO 14.
 
@@ -833,17 +833,21 @@ XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impul
 
 XIII. DE LA MUJER.- Su competencia será la de conocer de todos los asuntos relativos a la mujer que le sean encomendados, dentro del ámbito municipal; diseñar, fomentar y proponer al Ayuntamiento, políticas públicas que promuevan la igualdad sustantiva entre mujeres y hombres, la no discriminación hacia las mujeres y garantizar su participación equitativa en la vida social, política, cultural y económica en el municipio, de manera que permitan el pleno y legitimo desarrollo de la mujer en el ámbito educativo, profesional y social, bajo los principios de tolerancia, respeto e igualdad; así como el reconocimiento de las diferencias e igualdad de oportunidades;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE MARZO DE 2019)</small>
 
 XIV. DE LA FAMILIA.- Le corresponde coadyuvar con las autoridades e interactuar con la sociedad, en la regulación y protección de los derechos de los integrantes de las familias;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
-XV. DE COMBATE A LA CORRUPCIÓN.- Le corresponde proponer al Ayuntamiento acciones en la implementación y desarrollo del Sistema Estatal Anticorrupción; y
+XV. DE COMBATE A LA CORRUPCIÓN.- Le corresponde proponer al Ayuntamiento acciones en la implementación y desarrollo del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2019)</small>
+
+XVI. DE PARTICIPACIÓN CIUDADANA.- Le corresponde proponer el funcionamiento y operación de los mecanismos de Participación Ciudadana, conforme a la Ley en la Materia y en su caso apoyándose en los Consejos Municipales de Participación Social; y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Las demás, permanentes o transitorias, que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+XVII. Las demás, permanentes o transitorias, que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
 
 ###### ARTICULO 39.
 
@@ -1703,7 +1707,7 @@ No podrán enajenarse los bienes del dominio público de los municipios sino med
 
 ###### ARTICULO 101.
 
-Los bienes inmuebles del dominio privado del municipio son imprescriptibles y podrán ser enajenados por acuerdo de las dos terceras partes de los integrantes del ayuntamiento siempre que su trasmisión (sic) implique la construcción de obras de beneficio colectivo o se incremente el patrimonio municipal.
+Los bienes inmuebles del dominio privado del municipio son imprescriptibles y podrán ser enajenados por acuerdo de las dos terceras partes de los integrantes del ayuntamiento siempre que su trasmisión implique la construcción de obras de beneficio colectivo o se incremente el patrimonio municipal.
 
 ### CAPÍTULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
@@ -2899,8 +2903,16 @@ Artículo Tercero. Para los efectos de lo establecido en el artículo 14 de la L
 
 P.O. 10 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 38 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
