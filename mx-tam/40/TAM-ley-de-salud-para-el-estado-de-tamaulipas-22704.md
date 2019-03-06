@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2018-11-22"
+last_updated: "2019-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -2619,9 +2619,17 @@ b).- La donación expresa de mayores de edad con capacidad jurídica no podrá s
 
 c).- Se requerirá que el consentimiento expreso conste por escrito para la donación de órganos y tejidos en vida, así como para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas;
 
-d).- El consentimiento expreso otorgado por mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción; y
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
-e).- El documento mediante el cual se manifieste el consentimiento expreso de las personas cuya voluntad sea donar sus órganos después de su muerte para que sean utilizados en trasplantes, podrá ser el expedido por el Centro Estatal de Trasplantes o por el Centro Nacional de Trasplantes.
+d).- El consentimiento expreso otorgado por mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción;
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
+e).- El documento mediante el cual se manifieste el consentimiento expreso de las personas cuya voluntad sea donar sus órganos después de su muerte para que sean utilizados en trasplantes, podrá ser el expedido por el Centro Estatal de Trasplantes o por el Centro Nacional de Trasplantes; y
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2019)</small>
+
+f).- La que haga constar el donante en forma afirmativa en su licencia de conducir, asumiéndose ésta en un sentido amplio para que se puedan aprovechar en lo conducente sus órganos, tejidos, sangre, componentes sanguíneos y células, con base en lo dispuesto en el artículo 190 Ter de esta propia ley.
 
 II.- Donación Tácita: cuando el donador no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas que se encuentren presentes: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. Si se encontrara más de una de las personas mencionadas, se aplicará la prelación señalada en este artículo.
 
@@ -3587,7 +3595,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 22 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3604,3 +3612,11 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 6 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-775 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS D) Y E), Y SE ADICIONA UN INCISO F) A LA FRACCIÓN I, DEL ARTÍCULO 190 BIS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
