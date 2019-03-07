@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-03-06"
+last_updated: "2019-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2019.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 6 DE MARZO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2019.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 7 DE MARZO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2019.]</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
