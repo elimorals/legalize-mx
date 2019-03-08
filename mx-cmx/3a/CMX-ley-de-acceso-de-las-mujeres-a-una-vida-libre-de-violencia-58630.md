@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2017-07-19"
+last_updated: "2019-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2007-12-20"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -52,21 +52,25 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE
 
 Se expide la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Distrito Federal, para quedar como sigue:
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE MARZO DE 2019)</small>
+
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
 ## TITULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Distrito Federal.
+Las disposiciones de la presente Ley son de orden público, interés social y observancia general en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 2.
 
-El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables al Distrito Federal y lo previsto en el primero, segundo y tercer párrafos del artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, respetándose los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad.
+El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables en la Ciudad de México y lo previsto en el primero, segundo y tercer párrafos del artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, respetándose los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad.
 
 ###### Artículo 3.
 
@@ -82,7 +86,7 @@ IV. Discriminación contra las mujeres: Toda distinción, exclusión o restricci
 
 V. Empoderamiento de las mujeres: El proceso que permite el tránsito de las mujeres de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión hacia un estadio de conciencia, autodeterminación y autonomía, que se manifiesta en el ejercicio pleno de sus derechos y garantías;
 
-VI. INMUJERESDF: El Instituto de las Mujeres del Distrito Federal;
+VI. (DEROGADA, G.O. 8 DE MARZO DE 2019)
 
 VII. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Distrito Federal;
 
@@ -314,9 +318,11 @@ s) Cualquier otro que tenga por objeto o resultado coartar los derechos polític
 
 ### CAPÍTULO I. DE LA DECLARATORIA DE ALERTA POR VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 8.
 
-La Secretaría de Gobierno, a petición de INMUJERESDF, emitirá alerta de violencia contra las mujeres para enfrentar la violencia feminicida que se ejerce en su contra cuando:
+La Secretaría de Gobierno, a petición de la Secretaría de las Mujeres y/o de las personas titulares de las Alcaldías, emitirá en un periodo máximo de diez días naturales, alerta de violencia contra las mujeres para enfrentar la violencia feminicida que se ejerce en su contra cuando:
 
 I. Existan delitos graves y sistemáticos contra las mujeres;
 
@@ -338,13 +344,17 @@ IV. Hacer del conocimiento público el motivo de la alerta de violencia contra l
 
 ### CAPÍTULO II. DE LAS MEDIDAS EN LOS CASOS DE VIOLENCIA FEMINICIDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 10.
 
-Ante la alerta de violencia, el Gobierno del Distrito Federal deberá tomar las siguientes medidas:
+Ante la alerta de violencia, el Gobierno de la Ciudad de México deberá tomar las siguientes medidas:
 
 I. Rehabilitar a las mujeres víctimas de violencia a través de la prestación de servicios médicos y psicológicos especializados y gratuitos para su recuperación y de las víctimas indirectas;
 
-II. Reparación a través de la investigación y sanción de los actos de autoridades omisas o negligentes que propiciaron la violación de los derechos humanos de las víctimas a la impunidad; y el diseño e instrumentación de políticas públicas que eviten la comisión de nuevos delitos contra las mujeres, así como la verificación de los hechos y la publicidad de la verdad; y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+II. Reparación del daño a través de la investigación y sanción de los actos de autoridades omisas o negligentes, que propiciaron la violación de los derechos humanos de las víctimas a la impunidad; y el diseño e instrumentación de políticas públicas que eviten la comisión de nuevos delitos contra las mujeres, así como la verificación de los hechos y la publicidad de la verdad; y
 
 III. Todas aquellas que se consideren necesarias para atender, erradicar y sancionar la violencia contra las mujeres
 
@@ -352,9 +362,11 @@ III. Todas aquellas que se consideren necesarias para atender, erradicar y sanci
 
 ### CAPÍTULO I. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 11.
 
-Para la efectiva aplicación de la presente Ley, las dependencias y entidades del Distrito Federal establecerán una coordinación interinstitucional, entre las Secretarías de Gobierno, Desarrollo Social, Seguridad Pública, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Procuraduría General de Justicia, Consejería Jurídica y de Servicios Legales, INMUJERESDF, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia del Distrito Federal y los dieciséis Órganos Político Administrativos.
+Para la efectiva aplicación de la presente Ley, las dependencias y entidades del Distrito Federal establecerán una coordinación interinstitucional, entre las Secretarías de Gobierno, Desarrollo Social, Seguridad Pública, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Procuraduría General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia del Distrito Federal y los dieciséis Órganos Político Administrativos.
 
 La coordinación interinstitucional establecida en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
@@ -364,15 +376,19 @@ La Coordinación Interinstitucional se implementará desde la perspectiva de gé
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 13.
 
-La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias y entidades del Distrito Federal para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias, entidades de la Ciudad de México y las Alcaldías para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
 
 La prevención comprende medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal.
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 14.
 
-Las medidas de prevención general son aquellas que desde los distintos ámbitos de acción de las dependencias están destinadas a toda la colectividad y tienen como propósito evitar la comisión de conductas delictivas y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
+Las medidas de prevención general, son aquellas que desde los distintos ámbitos de acción de las dependencias, entidades de la Ciudad de México y las Alcaldías, están destinadas a toda la colectividad y tienen como propósito evitar la comisión de conductas delictivas y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
 
 > <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
 
@@ -384,11 +400,15 @@ I. Contar con una atención preferente, ágil, pronta y expedita cuando se encue
 
 II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
-Corresponde a las Dependencias y entidades del Distrito Federal, así como a los dieciséis Órganos Político Administrativos:
+Corresponde a las Dependencias, entidades de la Ciudad de México y a las Alcaldías:
 
-I. Capacitar y especializar a su personal en materia de derechos humanos de las mujeres con apego a los lineamientos establecidos por el INMUJERESDF;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+I. Capacitar y especializar a su personal en materia de derechos humanos de las mujeres con apego a los lineamientos establecidos por la Secretaría de las Mujeres;
 
 II. Difundir las campañas informativas sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
 
@@ -398,17 +418,23 @@ III. Promover y ejecutar acciones para que las condiciones laborales se desarrol
 
 IV. Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
 
-V. Remitir la información y estadísticas a la red de información de violencia contra las mujeres conforme a la periodicidad y especificidad que solicite el INMUJERESDF; y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+V. Remitir la información y estadísticas a la red de información de violencia contra las mujeres conforme a la periodicidad y especificidad que solicite la Secretaría de las Mujeres; y
 
 VI. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
 
 VII. Las demás que señalen la (sic) disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 16.
 
-El INMUJERESDF, deberá:
+La Secretaría de las Mujeres, deberá:
 
-I. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y los servidores públicos del gobierno del Distrito Federal en perspectiva de género y derechos humanos de las mujeres;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+I. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y los servidores públicos del gobierno de la Ciudad de México en perspectiva de género y derechos humanos de las mujeres;
 
 II. Coordinar y operar la Red de Información de Violencia contra las Mujeres;
 
@@ -582,7 +608,9 @@ III. Realizar estudios estadísticos e investigaciones que permitan la elaboraci
 
 IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
 
-V. Realizar, en coordinación con INMUJERESDF campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+V. Realizar, en coordinación con la Secretaría de las Mujeres campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
 
 VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
 
@@ -660,9 +688,11 @@ VI. Las demás que le atribuyan otros ordenamientos legales.
 
 Las medidas de atención en materia de violencia contra las mujeres consisten en brindar servicios médicos, psicológicos, jurídicos y sociales con calidad y calidez para su empoderamiento y desarrollo integral de sus potencialidades.
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 29.
 
-Las dependencias y entidades de la administración publica del Distrito Federal, así como las privadas que presten servicio de atención en materia de violencia contra las mujeres deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de derechos humanos de las mujeres.
+Las dependencias, entidades de la Ciudad de México, las Alcaldías, así como las instituciones privadas que presten servicio de atención en materia de violencia contra las mujeres, deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de derechos humanos de las mujeres.
 
 ###### Artículo 30.
 
@@ -686,7 +716,9 @@ Con el fin de proporcionar una efectiva atención a la violencia contra las muje
 
 El Modelo Único de Atención establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la red de información de violencia contra las mujeres, mediante una cédula de registro único, de tal manera que con independencia de la institución a la que acudan por primera vez las mujeres víctimas de violencia, se garantice el seguimiento del caso hasta su conclusión.
 
-Las dependencias y entidades deberán registrar el ingreso de las mujeres víctimas de violencia en la red de información de violencia contra las mujeres mediante la cédula de registro único. Esta cédula deberá transmitirse a las dependencias y entidades del Distrito Federal a donde se canalicen las víctimas o se preste el servicio subsecuente, a efecto de que se tenga un registro de la atención que se brinda desde el inicio hasta la conclusión de cada caso. El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la cédula de registro único.
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
+Las dependencias, entidades de la Ciudad de México y las Alcaldías deberán registrar el ingreso de las mujeres víctimas de violencia en la Red de Información de violencia contra las mujeres mediante la cédula de registro único. Esta cédula deberá transmitirse a las dependencias y entidades de la Ciudad de México a donde se canalicen las víctimas o se preste el servicio subsecuente, a efecto de que se tenga un registro de la atención que se brinda desde el inicio hasta la conclusión de cada caso. El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la Cédula de Registro Único.
 
 ###### Artículo 33.
 
@@ -704,15 +736,19 @@ IV. Brindar acompañamiento. Cuando la condición física y/o psicológica de la
 
 V. Seguimiento. Son las acciones para vigilar el cumplimiento de los procedimientos de canalización contenidos en esta Ley para atender los casos de violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 34.
 
-Las dependencias, entidades y Órganos Político Administrativos que atienden a mujeres víctimas de violencia en el Distrito Federal deberán:
+Las dependencias, entidades de la Ciudad de México y las Alcaldías que atienden a mujeres víctimas de violencia en la Ciudad de México deberán:
 
 I. Canalizar de manera inmediata a las mujeres víctimas de violencia a las Unidades de Atención; cuando se trate de violencia sexual, serán trasladadas a la agencia del Ministerio Público que corresponda;
 
 II. Realizar en coordinación con las otras dependencias, para asegurar la uniformidad y la calidad de la atención de las mujeres víctimas de violencia, protocolos de atención médica, psicológica y jurídica;
 
-III. Las dependencias de gobierno que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+III. Las dependencias, entidades de la Ciudad de México y las Alcaldías que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo.
 
 ###### Artículo 35.
 
@@ -816,13 +852,17 @@ III. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
 ### CAPÍTULO IV. DEL SEGUIMIENTO Y EVALUACIÓN
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 43.
 
-Los titulares de las dependencias que integran la Coordinación Interinstitucional, se reunirán de manera periódica con la finalidad de evaluar el cumplimiento de los objetivos (sic) esta Ley.
+Los titulares de las dependencias, entidades de la Ciudad de México y las Alcaldías que integran la Coordinación Interinstitucional, se reunirán de manera periódica con la finalidad de evaluar el cumplimiento de los objetivos esta Ley.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 44.
 
-La (sic) reuniones de la Coordinación Interinstitucional serán presididas por el Titular de la Jefatura de Gobierno y funcionará como Secretaría Ejecutiva la Titular del INMUJERESDF.
+Las reuniones de la Coordinación Interinstitucional serán presididas por la persona Titular de la Jefatura de Gobierno y funcionará como Secretaría Ejecutiva, la persona Titular de la Secretaría de las Mujeres.
 
 ###### Artículo 45.
 
@@ -836,7 +876,9 @@ Quienes participen en las reuniones de la Comisión Interinstitucional tendrán 
 
 Con la finalidad de avanzar en el desarrollo de políticas públicas coordinadas, las dependencias de la Comisión Interinstitucional podrán conformarse en Comités de trabajo, por materia, que serán los siguientes:
 
-I. De prevención, que será coordinado por el INMUJERESDF;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+I. De prevención, que será coordinado por la Secretaría de las Mujeres;
 
 II. De atención, que será coordinado por la Dirección de Igualdad; y
 
@@ -922,15 +964,19 @@ IX. Personal capacitado que apliquen las Normas Oficiales Mexicanas relativas y 
 
 En todos los casos se garantizará que la estancia en las Casas de Emergencia, Centros de Refugio o Refugios Especializados sea voluntaria y se procurará que en la canalización a estos espacios la familia no sea separada.
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 53.
 
-La Dirección de Igualdad y el INMUJERESDF deberán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil, para la concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
+La Dirección de Igualdad y la Secretaría de las Mujeres deberán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil, para la concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
 
 ### CAPÍTULO VI. DEL ACCESO A LA JUSTICIA
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 54.
 
-El acceso a la justicia de las mujeres es el conjunto de acciones jurídicas que deben realizar las dependencias y entidades del Distrito Federal para hacer efectiva la exigibilidad de sus derechos en los ámbitos civil, familiar, penal, entre otros. Implica la instrumentación de medidas de protección, así como el acompañamiento, la representación jurídica y, en su caso, la reparación del daño.
+El acceso a la justicia de las mujeres, es el conjunto de acciones jurídicas que deben realizar las dependencias, entidades de la Ciudad de México y las Alcaldías para hacer efectiva la exigibilidad de sus derechos en los ámbitos civil, familiar, penal, entre otros. Implica la instrumentación de medidas de protección, así como el acompañamiento, la representación jurídica y, en su caso, la reparación del daño.
 
 ###### Artículo 55.
 
@@ -1067,6 +1113,26 @@ De igual manera, en el período posterior a la interrupción del embarazo, ofrec
 La Secretaría de Salud coordinará acciones con la Procuraduría con el fin de implementar los mecanismos necesarios para el debido cumplimiento a lo establecido en esta fracción; y
 
 III. Las demás que le atribuyan otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.O. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 61 Ter.
+
+Las Alcaldías, desde la perspectiva de género, deberán:
+
+I. Proporcionar asesoría legal a las mujeres víctimas de violencia;
+
+II. Establecer un mecanismo de vinculación interinstitucional, para atender las denuncias de violencia contra las mujeres, recibidas a través de línea mujeres de LOCATEL, por parte de la propia víctima o cualquier otra persona;
+
+III. Disponer elementos de la policía de proximidad para atender y proteger a las víctimas de violencia;
+
+IV. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas;
+
+V. Canalizar a la Dirección General de Igualdad y Diversidad Social, a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio; y
+
+VI. Generar en el ámbito de su competencia, las acciones para el registro, procesamiento, clasificación y seguimiento de las atenciones brindadas a las mujeres y niñas víctimas de violencia, de acuerdo a lo establecido en los Lineamientos para la operación y funcionamiento de la Red de Información de Violencia contra las Mujeres y el Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para las dependencias, entidades y órganos político-administrativos de la Ciudad de México
+
+VII. Las demás que le atribuyan otros ordenamientos legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1288,13 +1354,17 @@ III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión 
 
 ## TÍTULO QUINTO. DEL PRESUPUESTO PARA LA INSTRUMENTACIÓN DE ESTA LEY
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 75.
 
-Las dependencias, entidades y los dieciséis órganos político administrativos de la Administración Pública del Gobierno del Distrito Federal, encargadas del cumplimiento del objeto de la presente Ley, deberán requerir como prioritarios, en su Presupuesto Operativo Anual, las partidas y recursos necesarios para su cumplimiento.
+Las dependencias, entidades de la Ciudad de México y las Alcaldías, encargadas del cumplimiento del objeto de la presente Ley, deberán requerir como prioritarios, en su Presupuesto Operativo Anual, las partidas y recursos necesarios para su cumplimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 76.
 
-El Proyecto de Presupuesto de Egresos Anual deberá incluir como prioritarios, con base en los presupuestos operativos anuales enviados por las dependencias, las partidas y recursos necesarios para la aplicación y cumplimiento de la presente Ley.
+El Proyecto de Presupuesto de Egresos Anual deberá incluir como prioritarios, con base en los presupuestos operativos anuales enviados por las dependencias, entidades de la Ciudad de México y las Alcaldías, las partidas y recursos necesarios para la aplicación y cumplimiento de la presente Ley.
 
 Asimismo, el Tribunal deberá integrar en su presupuesto los recursos necesarios para el cumplimiento de las atribuciones que le otorga esta Ley.
 
@@ -1427,3 +1497,13 @@ G.O. 19 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 8 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la presente Ley.
+
+SEGUNDO.- Con motivo de la entrada en vigor de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las referencias hechas al Instituto de las Mujeres en el Distrito Federal, deberán entenderse hechas a la Secretaría de las Mujeres.
+
+TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
