@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2014-12-18"
+last_updated: "2019-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-05-02"
 ---
 # LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MEXICO -- ANTES LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL --
 
-LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
+LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -48,29 +48,39 @@ DECRETO POR EL QUE SE CREA LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
 Se crea la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal, en los siguientes términos:
 
-LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE MARZO DE 2019)</small>
+
+LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
 ## TÍTULO I
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Leyes de orden público, de interés social y de observancia general en el Distrito Federal y tiene por objeto regular, proteger y garantizar el cumplimiento de las obligaciones en materia de igualdad sustantiva entre el hombre y la mujer, mediante la eliminación de todas las formas de discriminación contra la mujer en los ámbitos público y privado; así como el establecimiento de acciones afirmativas a favor de las mujeres y de mecanismos institucionales que establezcan criterios y orienten a las autoridades competentes del Distrito Federal en el cumplimiento de esta ley.
+La presente Ley es de orden público, de interés social y de observancia general en la Ciudad de México y tiene por objeto regular, proteger y garantizar el cumplimiento de obligaciones en materia de igualdad sustantiva entre el hombre y la mujer, mediante la eliminación de todas las formas de discriminación contra la mujer en los ámbitos público y privado; así como el establecimiento de acciones afirmativas a favor de las mujeres y de mecanismos que establezcan criterios y orienten a las autoridades competentes de la Ciudad de México en el cumplimiento de esta Ley.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 2.
 
-Para efectos de esta ley, serán principios rectores la igualdad sustantiva, la equidad de género, la no discriminación y todos aquellos aplicables contenidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que México sea parte, la legislación federal y del Distrito Federal.
+Para los efectos de esta Ley serán principios rectores la igualdad sustantiva, la equidad de género, la no discriminación y todos aquellos aplicables contenidos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política de la Ciudad de México, Tratados e instrumentos internacionales de los que el Estado mexicano sea parte, la legislación federal y de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta ley todos aquellos que se encuentren en el territorio del Distrito Federal, que estén en una situación o con algún tipo de desventaja, ante la violación del principio de igualdad que esta ley tutela.
+Son sujetas de los derechos que establece esta Ley, todas aquellas personas que se encuentren en el territorio de la Ciudad de México, que estén en una situación o con algún tipo de desventaja, ante la violación del principio de igualdad que esta ley tutela.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir y Eliminar la Discriminación, la Ley del Instituto de las Mujeres del Distrito Federal, la Ley de la Comisión de Derechos Humanos del Distrito Federal, así como los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamiento s aplicables en la materia.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones contenidas en la Constitución Política de la Ciudad de México, la Ley para Prevenir y Eliminar la Discriminación, la Ley de la Comisión de los Derechos Humanos del Distrito Federal, así como tratados e instrumentos internacionales de los que el Estado mexicano sea parte y demás ordenamientos aplicables en la materia.
 
-En la interpretación para la aplicación de las disposiciones de este ordenamiento, las autoridades facultadas y obligadas para los efectos, deberán utilizar con prelación de importancia, los criterios y derechos que beneficien en mayor medida a las personas en situación o frente a algún tipo de desigualdad.
+La interpretación de esta Ley será conforme con los principios de universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad, así como favoreciendo en todo tiempo la protección más amplia para las personas, debiendo siempre de optar por la regla de preferencia interpretativa más protectora y garantista, dejando de aplicar aquellas normas que menoscaben derechos y garantías.
 
 ###### Artículo 5.
 
@@ -78,7 +88,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: Son las medidas especiales de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
-II. Ente Público: Las autoridades locales de Gobierno del Distrito Federal; los órganos que conforman la Administración Pública; los órganos autónomos por ley, y aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público, que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+II. Ente Público: Las autoridades Locales de Gobierno de la Ciudad de México; los órganos que conforman la Administración Pública; los órganos autónomos por ley, y aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público, que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público;
 
 III. Equidad de género: Concepto que se refiere al principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política cultural y familiar;
 
@@ -92,51 +104,75 @@ VII. Transversalidad: herramienta metodológica para garantizar la inclusión de
 
 VIII. Programa: Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres;
 
-IX. Sistema: Sistema para la Igualdad entre Mujeres y Hombres del Distrito Federal.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IX. Sistema.- Sistema para la Igualdad entre Mujeres y Hombres de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 6.
 
-La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación, directa o indirecta, que se genere por pertenecer a cualquier sexo, y especialmente, las derivadas de la maternidad, la ocupación de deberes familiares y el estado civil.
+La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación directa e indirecta, motivada por identidad de género y por pertenecer a cualquier sexo, misma que vulnera y transgrede los derechos humanos y sus garantías, ello con el fin de anular o menoscabar la dignidad humana; especialmente, las derivadas de la maternidad, la ocupación de deberes familiares y el estado civil.
 
 ## TÍTULO II. DE LAS AUTORIDADES E INSTITUCIONES
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y LA COORDINACIÓN INTERINSTITUCIONAL
 
-Art. (sic) 7.- El Jefe de Gobierno del Distrito Federal podrá suscribir convenios, a través del Instituto de las Mujeres del Distrito Federal, a fin de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
 
-I. Lograr la transversalidad de la perspectiva de género en la función pública del Distrito Federal;
+###### Artículo 7.
+
+La persona Titular de la Jefatura de Gobierno de la Ciudad de México podrá suscribir convenios, a través de la Secretaría de las Mujeres, a fin de:
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+I. Lograr la transversalidad de la perspectiva de género en la función pública de la Ciudad de México;
 
 II. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
-III. Fortalecer la implementación de acciones afirmativas que favorezcan la aplicación de una estrategia integral en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+III. Fortalecer la implementación de acciones afirmativas que favorezcan la aplicación de una estrategia integral en la Ciudad de México;
 
 IV. Coadyuvar en la elaboración e integración de iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos público y privado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 8.
 
-Corresponde al Jefe de Gobierno del Distrito Federal:
+Corresponde a la persona Titular de la Jefatura de Gobierno de la Ciudad de México:
 
-I. Formular, conducir y evaluar la política de igualdad sustantiva entre mujeres y hombres en el Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-II. Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en el Distrito Federal, mediante la aplicación del principio de transversalidad, a través del Instituto de las Mujeres del Distrito Federal;
+I. Formular, conducir y evaluar la política de igualdad sustantiva entre mujeres y hombres en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+II. Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en la Ciudad de México, mediante la aplicación del principio de transversalidad, a través de la Secretaría de las Mujeres.
 
 III. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-IV. Promover en coordinación con las dependencias de la administración y de los órganos político-administrativos, las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa en el Distrito Federal, con los principios que la ley señala;
+IV. Promover en coordinación con las dependencias de la administración y de los órganos político-administrativos, las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa en la Ciudad de México, con los principios que la ley señala;
 
-V. Suscribir convenios a través del Instituto de las Mujeres del Distrito Federal, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Distrito Federal en los ámbitos público y privado; y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+V. Suscribir convenios a través de la Secretaría de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en la Ciudad de México en los ámbitos público y privado;
 
 VI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 9.
 
-Corresponde al Instituto de las Mujeres del Distrito Federal:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en los ámbitos, social, económico, político, civil, cultural y familiar;
 
-II. Concertar acciones afirmativas en los ámbitos gubernamental, social y privado a fin de garantizar en el Distrito Federal la igualdad de oportunidades;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+II. Concertar acciones afirmativas en los ámbitos gubernamental, social y privado a fin de garantizar en la Ciudad de México la igualdad de oportunidades;
 
 III. Establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación y cumplimiento de la presente ley;
 
@@ -146,89 +182,141 @@ V. Participar en el diseño y formulación de políticas públicas locales en ma
 
 VI. Evaluar la aplicación de la presente ley en los ámbitos público y privado;
 
-VII. Coordinar los instrumentos de la Política en el Distrito Federal en Materia de Igualdad entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-VIII. Evaluar la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y (sic)
+VII. Coordinar los instrumentos de la Política en la Ciudad de México en materia de Igualdad entre mujeres y hombres.
 
-> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-IX. Formular un programa anual que tenga como objetivo la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y la equidad de género en el Distrito Federal.
+VIII. Evaluar el principio de paridad entre los géneros en los cargos de elección popular.
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IX. Formular un programa anual que tenga como objeto la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y equidad de género en la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2011)</small>
 
 X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
-> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 9 Bis.
 
-Corresponde a los Jefes Delegacionales:
+Corresponde a las personas titulares de las Alcaldías:
 
-I. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas en la (sic) áreas delegacionales;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-II. En coordinación con el Jefe de Gobierno del Distrito Federal, Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en el Distrito Federal, mediante la aplicación del principio de transversalidad, a través del Instituto de las Mujeres del Distrito Federal;
+I. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas en las unidades administrativas de las alcaldías;
 
-III. Evaluar la participación equilibrada entre mujeres y hombres, y procurar la participación y representación del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos, entre ambos sexos;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-Establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación de la presente ley;
+II. En coordinación con la persona Titular de la Jefatura de Gobierno de la Ciudad de México, implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en la Ciudad de México, mediante la aplicación del principio de transversalidad, a través de la Secretaría de las Mujeres y de la Comisión de Derechos Humanos del Distrito Federal.
 
-IV. Suscribir los convenios necesarios para el cumplimiento de la presente ley, y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-V. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+III. Evaluar la participación equilibrada entre mujeres y hombres, garantizando el principio de paridad de género, en los cargos públicos de las unidades administrativas de las Alcaldías; establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación de la presente Ley;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IV. Implementar acciones afirmativas, para garantizar el derecho de la igualdad salarial entre mujeres y hombres en las Alcaldías;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
+
+V. Suscribir los convenios necesarios para el cumplimiento de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
+
+VI. Las demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ## TÍTULO III
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA EN MATERIA DE IGUALDAD SUSTANTIVA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 10.
 
-La Política en materia de igualdad sustantiva que se desarrolle en todos los ámbitos de Gobierno en el Distrito Federal, deberá considerar los siguientes lineamientos:
+La Política en materia de igualdad sustantiva que se desarrolle en todos los ámbitos de Gobierno en la Ciudad de México, deberá considerar los siguientes lineamientos:
 
 I. Generar la integralidad de los Derechos Humanos como mecanismo para lograr la igualdad sustantiva entre mujeres y hombres;
 
 II. Garantizar que la planeación presupuestal incorpore la progresividad, la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-IV. Implementar acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+III. Fomentar la participación y representación política equilibrada entre mujeres y hombres, garantizando en todo momento el principio de paridad de género;
 
-V. Promover la igualdad sustantiva entre mujeres y hombres en el ámbito civil;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-VI. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
+IV. Implementar acciones afirmativas para garantizar el derecho de igualdad salarial entre mujeres y hombres en la administración pública central y descentralizada de la Ciudad de México;
 
-VII. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
 
-VIII. Fomentar el cumplimiento del principio de igualdad sustantiva entre mujeres y hombres en las relaciones entre particulares; y
+V. Implementar acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-IX. Promover la eliminación de estereotipos establecidos en función del sexo.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
+
+VI. Promover la igualdad sustantiva entre mujeres y hombres en el ámbito civil;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VII. Establecer medidas para erradicar la violencia de género, así como para promover la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
+
+VIII. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IX. Fomentar la observancia del principio de Igualdad Sustantiva entre mujeres y hombres en las relaciones entre particulares; y
+
+> <small>(ADICIONADA, G.O. 8 DE MARZO DE 2019)</small>
+
+X. Promover la eliminación de estereotipos y prejuicios que menoscaben, limiten o impidan el ejercicio de algún derecho.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 11.
 
-Son instrumentos de la Política en el Distrito Federal en materia de igualdad sustantiva entre mujeres y hombres, los siguientes:
+Son instrumentos de la Política de la Ciudad de México en materia de igualdad sustantiva entre mujeres y hombres, los siguientes:
 
-I. El Sistema para la Igualdad entre Mujeres y Hombres del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+I. El Sistema para la Igualdad entre Mujeres y Hombres en la Ciudad de México;
 
 II. El Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres;
 
-III. La vigilancia en materia de igualdad sustantiva entre mujeres y hombres en el Distrito Federal.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+III. La vigilancia en materia de igualdad sustantiva entre mujeres y hombres en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 12.
 
-La coordinación y ejecución del sistema y la aplicación del Programa, estarán a cargo del Instituto de las Mujeres del Distrito Federal.
+La coordinación y ejecución del Sistema y la aplicación del Programa, estarán a cargo de la Secretaría de las Mujeres.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 13.
 
-Para los efectos del artículo anterior, la Junta de Gobierno del Instituto de las Mujeres del Distrito Federal, sin menoscabo de las atribuciones que le confiere la Ley que lo rige, supervisará la coordinación de los instrumentos de la política en materia de igualdad sustantiva entre mujeres y hombres en el Distrito Federal.
+Para los efectos del artículo anterior, la Secretaría de las Mujeres, sin menoscabo de las atribuciones que le confiere la Ley que lo rige, supervisará la coordinación de los instrumentos de la política en materia de igualdad sustantiva entre mujeres y hombres en la Ciudad de México.
 
-### CAPÍTULO TERCERO. DEL SISTEMA PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE MARZO DE 2019)</small>
+
+### CAPÍTULO TERCERO. DEL SISTEMA PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 14.
 
-El Sistema para la igualdad Sustantiva entre Mujeres y Hombres del Distrito Federal, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos del Distrito Federal entre sí, con la sociedad civil organizada, instituciones académicas y de investigación. El Sistema tiene por fin garantizar la igualdad sustantiva entre Mujeres y Hombres en el Distrito Federal.
+El Sistema para la Igualdad sustantiva entre Mujeres y Hombres de la Ciudad de México, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos de la Ciudad de México entre sí, con la sociedad civil organizada, instituciones académicas y de investigación.
 
-El Sistema se estructurará con una Secretaria Técnica, a cargo del Instituto de las Mujeres del Distrito Federal y deberá contar, al menos, con representantes de:
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
+El Sistema tiene por fin garantizar la igualdad sustantiva entre mujeres y hombres en la Ciudad de México. El Sistema se estructurará con una Secretaría Técnica, a cargo de la Secretaría de las Mujeres, y deberá contar, al menos, con representantes de:
 
 I. La Secretaría de Desarrollo Social;
 
@@ -238,21 +326,29 @@ III. La Secretaría del Trabajo;
 
 IV. La Secretaría de Salud;
 
-V. La Procuraduría General de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
+V. La Fiscalía General de Justicia de la Ciudad de México;
 
-VI. La Comisión Para la Igualdad de Género de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-VII. El Tribunal Superior de Justicia del Distrito Federal.
+VI. La Comisión de Igualdad de Género del Congreso de la Ciudad de México;
 
-Así como, cuatro representantes de la sociedad civil e instituciones académicas.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VII. El Tribunal Superior de Justicia de la Ciudad de México. Así como, cuatro representantes de la sociedad civil e instituciones académicas.
 
 El Sistema está obligado a sesionar trimestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente ley. Sus decisiones se tomarán por mayoría simple.
 
+> <small>(ADICIONADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VIII. La Comisión de Derechos Humanos del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
-El Instituto de las Mujeres del Distrito Federal, coordinará, las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter local o nacional.
+La Secretaría de las Mujeres, coordinará, las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo en otros de carácter local o nacional.
 
 ###### Artículo 16.
 
@@ -264,7 +360,9 @@ II. Velar por la progresividad legislativa en materia de igualdad sustantiva ent
 
 III. Evaluar las políticas públicas, los programas y servicios en materia de igualdad sustantiva, así cómo el Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres;
 
-IV. Determinar la periodicidad y características de la información que deberán proporcionarle los entes públicos del Distrito Federal, a efecto de generar las condiciones necesarias para evaluar la progresividad en el cumplimiento de la Ley;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IV. Determinar la periodicidad y características de la información que deberán proporcionarle los entes públicos de la Ciudad de México, a efecto de generar las condiciones necesarias para evaluar la progresividad en el cumplimiento de la Ley;
 
 V. Elaborar y proponer la implementación de un mecanismo de vigilancia para el cumplimento de la presente Ley, así como, un Marco General de Reparaciones e Indemnizaciones que sean reales y proporcionales;
 
@@ -272,7 +370,9 @@ VI. Valorar y en su caso determinar la necesidad específica de asignaciones pre
 
 VII. Incluir en el debate público la participación de la sociedad civil organizada en la promoción de la igualdad sustantiva entre mujeres y hombres;
 
-VIII. Establecer acciones de coordinación entre los entes Públicos del Distrito Federal para formar y capacitar en materia de igualdad sustantiva entre mujeres y hombres, a los servidores públicos que laboran en ellos;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VIII. Establecer acciones de coordinación entre los entes Públicos de la Ciudad de México para formar y capacitar en materia de igualdad sustantiva entre mujeres y hombres, a los servidores públicos que laboran en ellos;
 
 IX. Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
 
@@ -282,7 +382,9 @@ XI. Otorgar un reconocimiento a las empresas que se distingan por su alto compro
 
 a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad sustantiva en: las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones
 
-b) El Instituto de las Mujeres del Distrito Federal será el encargado de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
+b) La Secretaría de las Mujeres será la encargada de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de reconocimientos.
 
 XII. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
@@ -292,21 +394,29 @@ XIV. Las demás que se requieran para el cumplimiento de los objetivos del Siste
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA GENERAL DE IGUALDAD DE OPORTUNIDADES Y NO DISCRIMINACIÓN HACIA LAS MUJERES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 17.
 
-El Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres, será elaborado por el Instituto de las Mujeres del Distrito Federal y tomará en cuenta las necesidades del Distrito Federal así como las particularidades de la desigualdad en cada demarcación territorial. Este Programa deberá ajustarse e integrarse al Programa General de Desarrollo del Gobierno del Distrito Federal.
+El Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres, será elaborado por la Secretaría de las Mujeres y tomará en cuenta las necesidades de la Ciudad de México, así como las particularidades de la desigualdad de cada demarcación territorial. Este Programa deberá ajustarse e integrarse al Programa General de Desarrollo del Gobierno de la Ciudad de México.
 
 Este Programa, establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente ley.
 
-En aras de lograr la transversalidad, propiciará que los programas sectoriales, institucionales y especiales del Distrito Federal, tomen en cuenta los criterios e instrumentos de esta ley.
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
+En aras de lograr la transversalidad, propiciará que los programas sectoriales, institucionales y especiales de la Ciudad de México, tomen en cuenta los criterios e instrumentos de esta ley.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 18.
 
-El Instituto de las Mujeres del Distrito Federal deberá revisar y evaluar anualmente el Programa.
+La Secretaría de las Mujeres deberá revisar y evaluar anualmente el Programa.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 19.
 
-Los informes anuales del Jefe de Gobierno del Distrito Federal, deberán contener el estado que guarda la ejecución del Programa, así como las de las acciones relativas al cumplimiento de lo establecido en la presente Ley.
+Los informes anuales de la Jefatura de Gobierno de la Ciudad de México, deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
 
 ## TÍTULO IV
 
@@ -316,11 +426,11 @@ Los informes anuales del Jefe de Gobierno del Distrito Federal, deberán contene
 
 Los objetivos y acciones de esta ley estarán encaminados a garantizar el derecho a la igualdad sustantiva entre mujeres y hombres.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 21.
 
-Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en el artículo cuando constitucional.
-
-Para lo cual, deberán garantizar:
+Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en los artículos 1° y 4° de la Constitución Política de los Estados Unidos Mexicanos, a las disposiciones relativas de la Constitución Política de la Ciudad de México, de los tratados e instrumentos internacionales de los que el Estado mexicano sea parte, de la jurisprudencia internacional, y de las leyes en materia de derechos humanos a nivel federal y local. Para lo cual deberán garantizar:
 
 I. El derecho a una vida libre de discriminación por razón de sexo.
 
@@ -328,9 +438,9 @@ También se considerará discriminación por razón de sexo, cualquier represali
 
 II. La convivencia armónica y equilibrada de los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos:
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
-a) Para contribuir al reparto equitativo de las responsabilidades familiares y en cumplimiento a la igualdad sustantiva en el Distrito Federal se reconocerá el derecho de:
+a) Para contribuir al reparto equitativo de las responsabilidades familiares y en cumplimiento a la igualdad sustantiva de la Ciudad de México se reconocerá el derecho de:
 
 1. Las madres, por adopción, a un permiso por maternidad de quince días naturales y;
 
@@ -341,6 +451,10 @@ III. El derecho a la información necesaria para hacer efectiva la igualdad sust
 IV. El derecho a una vida libre de estereotipos de género.
 
 V. El derecho a una vida libre de violencia de género.
+
+> <small>(ADICIONADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VI. El derecho de igualdad salarial entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. DE LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA
 
@@ -358,7 +472,9 @@ II. Generar los mecanismos necesarios para capacitar a las personas que en razó
 
 III. Implementar acciones que tiendan a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de sexo;
 
-IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos del Distrito Federal, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+IV. Apoyar al perfeccionamiento y la coordinación de los sistemas estadísticos de la Ciudad de México, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
 
 V. Establecer la coordinación necesaria para garantizar lo establecido en el presente artículo;
 
@@ -374,7 +490,9 @@ X. Implementar en coordinación con las autoridades competentes medidas destinad
 
 XI. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-XII. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+XII. Emitir las directrices de implementación de la política de igualdad salarial entre mujeres y hombres, así como evaluar su implementación y ejercicio.
 
 XIII. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
 
@@ -400,13 +518,15 @@ III. Garantizar la implantación de mecanismos que promuevan la participación e
 
 IV. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
-V. Promover la participación equitativa del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos;
+V. Garantizar el principio de paridad de género en cargos de Dirección General, Dirección Ejecutiva y Direcciones de Área de las Alcaldías;
 
 VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
 
-VII. Garantizar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial del Distrito Federal.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+VII. Garantizar la paridad de género en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial en la Ciudad de México.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -478,9 +598,11 @@ IX. Generar estudios, diagnósticos y evaluaciones en materia de prevención, at
 
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 30.
 
-Los entes públicos en el Distrito Federal, tendrán entre sus objetivos la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
+Los entes públicos en la Ciudad de México tendrán entre sus objetivos la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
 
 ###### Artículo 31.
 
@@ -490,35 +612,47 @@ I. Implementar y promover acciones para erradicar toda discriminación, basada e
 
 II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
 
-III. Garantizar la integración de la perspectiva de género en la política pública del Distrito Federal; y
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+
+III. Garantizar la integración de la perspectiva de género en la política pública de la Ciudad de México; y
 
 IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 32.
 
-Toda persona tendrá derecho a que las autoridades y organismos públicos del Distrito Federal, previo cumplimiento de los requisitos que la Ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+Toda persona tendrá derecho a que las autoridades y organismos públicos de la Ciudad de México, previo cumplimiento de los requisitos que la Ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 33.
 
-El Gobierno del Distrito Federal, por conducto del Instituto de las Mujeres del Distrito Federal, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
+El Gobierno de la Ciudad de México, por conducto de la Secretaría de las Mujeres, promoverá la participación de la ciudadanía en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 34.
 
-Los acuerdos y convenios que en materia de igualdad celebren el Gobierno del Distrito Federal y sus dependencias con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
+Los acuerdos y convenios que en materia de igualdad celebren el Gobierno de la Ciudad de México y sus dependencias con los sectores público, social o privado, podrán versar sobre los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en las labores de vigilancia y demás acciones operativas previstas en esta Ley.
 
 ## TÍTULO V
 
 ### CAPÍTULO PRIMERO. DE LA VIGILANCIA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 35.
 
-El Instituto de las Mujeres del Distrito Federal, con base en lo dispuesto en la presente ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Distrito Federal.
+La Secretaría de las Mujeres, con base en lo dispuesto en la presente ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 36.
 
-El Instituto de las Mujeres del Distrito Federal contará con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en el Distrito Federal.
+La Secretaría de las Mujeres, contará con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en la Ciudad de México.
 
 ###### Artículo 37.
 
@@ -538,15 +672,11 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 38.
 
-La violación a los principios y programas que esta Ley prevé, por parte de las autoridades del Distrito Federal, será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables del Distrito Federal, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-La violación a los principios y programas que esta Ley prevé, por parte de personas físicas, morales o jurídicas, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables del Distrito Federal, que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
+La violación a los principios y programas que esta Ley prevé, por parte de las autoridades de la Ciudad de México, será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables en la Ciudad de México, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -609,3 +739,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 8 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Con motivo de la entrada en vigor de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las referencias hechas al Instituto de las Mujeres en el Distrito Federal, deberán entenderse hechas a la Secretaría de las Mujeres.
