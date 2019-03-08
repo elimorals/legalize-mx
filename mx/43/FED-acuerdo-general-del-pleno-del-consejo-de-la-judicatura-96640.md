@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2018-12-07"
+last_updated: "2019-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MARZO DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -87,13 +87,21 @@ IV. Consejo: Consejo de la Judicatura Federal;
 
 V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-VI. Coordinaciones: La de Administración Regional; la de Seguridad del Poder Judicial de la Federación; y para la Transparencia, Acceso a la Información y Archivos del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+VI. Coordinaciones: La de Administración Regional; y la de Seguridad del Poder Judicial de la Federación;
 
 VII. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 VIII. Ley: Ley Orgánica del Poder Judicial de la Federación;
 
-IX. Ley de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+IX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+IX. Bis. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
 
 X. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
 
@@ -103,11 +111,13 @@ XII. Pleno: Pleno del Consejo;
 
 XIII. Presidente: Consejero Presidente del Consejo;
 
-XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+XIV. Secretaría General: Secretaría General de la Presidencia del Consejo de la Judicatura Federal; y
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como la Unidad de Transparencia, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo, y demás que sean autorizadas por el Pleno.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+XV. Unidades administrativas: Las ponencias de los Consejeros, Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia; secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -179,7 +189,9 @@ X. Los demás que determine el Pleno.
 
 Las sesiones del Pleno serán ordinarias o extraordinarias, y se desarrollarán conforme a lo que determine el propio Pleno a propuesta de su Presidente o a solicitud de cualquiera de los Consejeros.
 
-El carácter público o privado de las sesiones se determinará de conformidad con lo establecido en el artículo 75 de la Ley, así como de las disposiciones aplicables de la Ley de Transparencia.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+El carácter público o privado de las sesiones se determinará de conformidad con lo establecido en las disposiciones aplicables en materia de transparencia.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -273,9 +285,9 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, de directores generales, titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, al Secretario General de la Presidencia, secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral, y de Transparencia, de directores generales, titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -291,9 +303,9 @@ XI. Dar inicio al procedimiento de ratificación de magistrados de Circuito y ju
 
 XII. Dictar el auto correspondiente a la presentación de los recursos de revisión administrativa, interpuestos en contra de las resoluciones del Consejo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-XIII. Tomar la protesta de ley en sesión pública extraordinaria a los Consejeros designados por la Suprema Corte de Justicia de la Nación, a los magistrados de Circuito y jueces de Distrito, a los titulares de los órganos auxiliares, a los visitadores judiciales, así como a los secretarios ejecutivos, y por escrito al resto de los servidores públicos del Consejo;
+XIII. Tomar la protesta de ley en sesión pública extraordinaria a los Consejeros designados por la Suprema Corte de Justicia de la Nación, a los magistrados de Circuito y jueces de Distrito; y por escrito a los titulares de los órganos auxiliares, secretarios ejecutivos y a los demás servidores públicos del Consejo;
 
 XIV. Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja administrativa, cuando la naturaleza de aquéllos lo permita;
 
@@ -323,39 +335,29 @@ XIX. Determinar, por conducto de la Coordinación de Derechos Humanos, Igualdad 
 
 XX. Las demás que establezca el Pleno mediante acuerdos generales.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 19.
 
 El Presidente contará con las siguientes unidades administrativas:
 
-(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016) (F. DE E., D.O.F. 31 DE AGOSTO DE 2016)
+I. Secretaría General de la Presidencia:
 
-I. Unidad para la Consolidación del Nuevo Sistema de Justicia Penal;
+a) Unidad para la Consolidación del Nuevo Sistema de Justicia Penal;
 
-II. Coordinación de Seguridad del Poder Judicial de la Federación;
+b) Coordinación de Seguridad del Poder Judicial de la Federación;
 
-III. Dirección General de Asuntos Jurídicos;
+c) Dirección General de Asuntos Jurídicos;
 
-IV. Dirección General de Comunicación Social;
+d) Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+e) Unidad de Implementación de la Reforma en materia de Justicia Laboral;
 
-V. Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
+f) Unidad de Transparencia; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+g) Las demás que determine el Pleno.
 
-VI. Dirección General de la Presidencia;
-
-VII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
-
-VIII. Unidad de Implementación de la Reforma en materia de Justicia Laboral; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
-
-IX. Las demás que determine el Pleno.
+II. Dirección General de Comunicación Social y Vocería.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -373,9 +375,9 @@ IV. Integrar la Comisión de Receso cuando así lo determine el Pleno;
 
 V. Despachar la correspondencia de sus oficinas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-VI. Enviar a la Dirección General de la Presidencia las peticiones y promociones que los particulares presenten relacionadas con acciones de carácter jurisdiccional;
+VI. Enviar a la Secretaría General las peticiones y promociones que los particulares presenten relacionadas con acciones de carácter jurisdiccional;
 
 VII. Cumplir con aquellas comisiones que le encomiende el Pleno;
 
@@ -441,7 +443,7 @@ V. De Disciplina;
 
 VI. De Vigilancia;
 
-VII. Para la Transparencia, Acceso a la Información y Protección de Datos Personales; y
+VII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 VIII. Las demás que determine el Pleno.
 
@@ -573,9 +575,9 @@ XIV. Proponer las medidas administrativas que exija el buen servicio de las ofic
 
 XV. Aprobar, en su caso, los nombramientos que le remitan las áreas administrativas;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-XVI. Opinar sobre las propuestas de nombramiento de los directores generales adscritos a las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales;
+XVI. Opinar sobre las propuestas de nombramiento de los directores generales adscritos a la Secretaría Ejecutiva de Administración;
 
 XVII. Designar, a propuesta del Presidente, al representante del Consejo en los procesos que se substancien ante la Suprema Corte de Justicia de la Nación, de acuerdo a la fracción XX del artículo 11 de la Ley;
 
@@ -585,21 +587,19 @@ XIX. Nombrar al personal subalterno que fije el presupuesto;
 
 XX. Opinar sobre el diseño de la política informática y de información estadística, en el ámbito de su competencia;
 
-XXI. Autorizar la adscripción temporal de plazas de nueva creación y su prórroga, hasta por seis meses, en los órganos jurisdiccionales y áreas administrativas, en los casos en que existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+XXI. Autorizar la sustitución de plazas, la adscripción temporal de plazas de nueva creación en los órganos jurisdiccionales y áreas administrativas, previa solicitud de los titulares respectivos, de la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado;
 
 XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, considerando su mantenimiento, conservación y acondicionamiento;
 
 XXIII. Proponer al Pleno, para su aprobación, el proyecto de creación de estructuras administrativas y plazas definitivas para la atención de nuevos programas;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Estadística Judicial;
 
 XXV. Proponer para autorización del Pleno, las plazas definitivas de nueva creación de defensores públicos y su personal de apoyo, así como de oficinas de correspondencia común, que se requieran con motivo de la creación de nuevos órganos jurisdiccionales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -617,8 +617,6 @@ XXX. Autorizar los programas específicos en materia de recursos humanos, relati
 
 XXXI. Aprobar el monto de la remuneración y honorarios de los peritos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XXXII. Determinar, a propuesta del Director General de Estadística Judicial, que haga por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, el nombramiento y remoción del personal de las oficinas de correspondencia común;
@@ -629,11 +627,11 @@ XXXIV. Autorizar las adecuaciones al presupuesto, de conformidad con lo establec
 
 XXXV. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 36.
 
-Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales, así como la Dirección General de Gestión Administrativa estarán adscritas a la Comisión de Administración.
+La Secretaría Ejecutiva de Administración, así como la Dirección General de Gestión Administrativa estarán adscritas a la Comisión de Administración.
 
 #### SECCIÓN TERCERA. DE LA COMISIÓN DE ADSCRIPCIÓN
 
@@ -917,143 +915,37 @@ XVII. Acordar las licencias solicitadas por los Visitadores Judiciales “A”; 
 
 XVIII. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
 
-#### SECCIÓN OCTAVA. DE LA COMISIÓN PARA LA TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+#### SECCIÓN OCTAVA
 
 ###### Artículo 47.
 
-La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, es el órgano encargado de promover y difundir la transparencia, el ejercicio del derecho al acceso a la información, proteger los datos de carácter personal y resolver sobre los recursos de revisión y reconsideración en materia de acceso a la información pública y de datos personales en posesión de las áreas administrativas y órganos jurisdiccionales. En el ejercicio de sus atribuciones gozará de plena autonomía operativa, de gestión y de decisión.
-
-La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, al dictar sus resoluciones, no estará subordinada a autoridad alguna, gozará de plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
-
-Las resoluciones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo son inimpugnables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 48.
 
-La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, sesionará en forma ordinaria de acuerdo con las cargas de trabajo y, en forma extraordinaria, a petición de cualquiera de sus integrantes; tomará sus decisiones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad. Para su funcionamiento, se auxiliará de una Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
-
-Las sesiones se celebrarán con la presencia de al menos dos de sus integrantes.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 49.
 
-La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, tendrá las siguientes atribuciones:
-
-I. Conocer, sustanciar y resolver los recursos de revisión y reconsideración previstos en el Título Séptimo del Reglamento conjunto de transparencia;
-
-II. Vigilar que se dé cumplimiento a lo dispuesto en la Ley de Transparencia, el Reglamento conjunto de transparencia y demás disposiciones aplicables en la materia y, en caso de incumplimiento, hacer las recomendaciones pertinentes a las áreas administrativas y órganos jurisdiccionales;
-
-III. Supervisar que se ponga a disposición del público la información que refiere el artículo 7 de la Ley de Transparencia, y que sea actualizada periódicamente; así como autorizar aquella información en posesión de las áreas administrativas y órganos jurisdiccionales que se estime conveniente difundir en la Página de Transparencia del Consejo;
-
-IV. Aprobar los criterios sostenidos al resolver asuntos en materia de transparencia;
-
-V. Emitir las disposiciones de carácter general que se requieran para el exacto cumplimiento de la Ley de Transparencia, el Reglamento conjunto de transparencia y demás disposiciones aplicables;
-
-VI. Interpretar en el orden administrativo las disposiciones de la Ley de Transparencia, el Reglamento conjunto de transparencia y las que de éstos emanen; así como las relativas a la Ley Federal de Archivos y la normativa que de ella derive;
-
-VII. Establecer mecanismos que permitan dar orientación y asesoría a los solicitantes respecto de las peticiones de acceso a la información y datos de carácter personal;
-
-VIII. Revisar y aprobar el procedimiento y los formatos de las solicitudes de acceso a la información, así como los de acceso, rectificación, cancelación y oposición a la publicación de datos de carácter personal, que someta a su consideración el Comité de Acceso a la Información y Protección de Datos Personales del Consejo;
-
-IX. Revisar, aprobar y expedir los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos de las áreas administrativas y órganos jurisdiccionales; los criterios específicos en materia de organización y conservación de archivos; así como el Plan Anual de Desarrollo Archivístico y el Manual Institucional de Archivos;
-
-X. Aprobar y expedir los lineamientos y políticas generales para la administración, seguridad y protección de los datos de carácter personal que estén en posesión de las áreas administrativas y los órganos jurisdiccionales;
-
-XI. Determinar, conforme a la propuesta del Comité de Acceso a la Información y Protección de Datos Personales del Consejo, los indicadores de gestión que permitan divulgar los principales aspectos de las funciones jurisdiccionales y administrativas del Consejo y de los órganos jurisdiccionales, los cuales se difundirán en medios electrónicos de consulta pública con actualización mensual;
-
-XII. Aprobar el listado de los archivos, registros o bancos de datos de carácter personal, que someta a su consideración el Comité de Acceso a la Información y Protección de Datos Personales del Consejo;
-
-XIII. Fijar los costos por obtener la información, atendiendo a lo dispuesto por el artículo 27 de la Ley de Transparencia;
-
-XIV. Hacer del conocimiento de los órganos de control interno, las presuntas infracciones o violaciones a la Ley de Transparencia, el Reglamento conjunto de transparencia y demás disposiciones aplicables;
-
-XV. Rendir anualmente un informe al Pleno sobre las actividades realizadas, del cual deberá remitir una copia al Instituto Federal de Acceso a la Información y Protección de Datos para los efectos del artículo 13 del Reglamento conjunto de transparencia;
-
-XVI. Promover, en materia de transparencia, acceso a la información y protección de datos personales, acciones de cooperación e intercambio, mediante convenios y programas, con los demás sujetos obligados a que se refiere el artículo 3, fracción XIV, de la Ley de Transparencia;
-
-XVII. Difundir entre los servidores públicos y los particulares los beneficios que derivan del manejo público de la información, así como las responsabilidades en el buen uso y conservación de aquélla, a fin de generar la cultura de transparencia;
-
-XVIII. Autorizar la creación y ubicación de Módulos de Acceso;
-
-XIX. Establecer acciones de capacitación para los servidores públicos en materia de acceso a la información y protección de datos de carácter personal;
-
-XX. Proponer al Pleno la designación de los Titulares de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, de la Unidad de Enlace del Consejo y del Archivo General del Consejo, a sugerencia del Presidente;
-
-XXI. Designar, a propuesta de su Presidente, al Secretario Técnico de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, así como al demás personal de apoyo;
-
-XXII. Elaborar sus normas de operación; y
-
-XXIII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 50.
 
-Son atribuciones del Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, las siguientes:
-
-I. Representar a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-II. Determinar el contenido del orden del día de las sesiones ordinarias y extraordinarias;
-
-III. Convocar y presidir las sesiones;
-
-IV. Dirigir los debates y conservar el orden en las sesiones;
-
-V. Instruir el trámite de los asuntos que sean competencia de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, así como el despacho de la correspondencia oficial;
-
-VI. Rendir anualmente un informe al Pleno sobre las actividades de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-VII. Firmar, conjuntamente con los demás Consejeros integrantes y con el Secretario Técnico de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, las resoluciones y actas aprobadas de las sesiones de ésta;
-
-VIII. Vigilar el cumplimiento de las resoluciones y acuerdos adoptados por la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo; y
-
-IX. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 51.
 
-Son atribuciones de los Consejeros integrantes de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo:
-
-I. Asistir con derecho a voz y voto a las sesiones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-II. Solicitar al Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, la inclusión de asuntos en el orden del día;
-
-III. Presentar a consideración de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, proyectos de resoluciones, acuerdos, informes y cualquier otro asunto que estimen conveniente;
-
-IV. Hacer suyo el proyecto de resolución que se presente por algún otro integrante de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, en su ausencia, y conforme al orden previamente establecido para tales efectos;
-
-V. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar, deban acudir a las sesiones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-VI. Proponer al Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, la celebración de sesiones extraordinarias; y
-
-VII. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 52.
 
-Las convocatorias a las sesiones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo se harán por conducto de su Secretario Técnico, deberán realizarse por escrito y contener el orden del día, la fecha, el lugar y la hora en que se llevará a cabo la sesión, y remitirse a los integrantes cuando menos con cuarenta y ocho horas de antelación a la celebración de sesiones ordinarias; para el caso de las sesiones extraordinarias la remisión de dichos documentos se realizará, al menos, con veinticuatro horas de anticipación.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 53.
 
-El Secretario Técnico de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, tendrá las funciones siguientes:
-
-I. Recibir la documentación dirigida a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y a su Presidente, y dar cuenta a éste;
-
-II. Turnar conforme al orden preestablecido, los asuntos para análisis de cada integrante de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y presentación de proyecto de resolución;
-
-III. Dar cuenta al Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo del estado de trámite de los asuntos en conocimiento de dicho órgano colegiado y someter a su consideración los acuerdos conducentes;
-
-IV. Preparar el orden del día de las sesiones y someterlo a la consideración del Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, así como elaborar las respectivas convocatorias;
-
-V. Realizar las gestiones necesarias para distribuir oportunamente las convocatorias a las sesiones entre los integrantes de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-VI. Verificar el quórum de asistencia de las sesiones y dar cuenta de ello al Presidente de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-VII. Tomar las votaciones de los integrantes de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y dar a conocer su resultado;
-
-VIII. Elaborar y someter a consideración de los integrantes de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo para su aprobación y firma, las actas relativas a las sesiones de dicho órgano;
-
-IX. Llevar a cabo las funciones de control y custodia de las actas y documentos relativos a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-X. Dar fe y expedir constancias de las actas, resoluciones, criterios y demás documentos relacionados, en todo o en parte;
-
-XI. Dar seguimiento a los acuerdos sobre las resoluciones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo o el estado que éstas guarden; y
-
-XII. Las demás que le confieran la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 #### SECCIÓN NOVENA. DE LA COMISIÓN DE RECESO
 
@@ -1111,7 +1003,7 @@ II. Los demás que determine el Pleno.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 60.
 
@@ -1221,27 +1113,27 @@ La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la 
 
 La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ### CAPÍTULO SÉPTIMO
 
-DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; Y DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
+DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; Y DE TRANSPARENCIA
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 67.
 
-Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+En el caso del Secretario General de la Presidencia, Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho.
 
-En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Finanzas y Servicios Personales; de Vigilancia; de los coordinadores y de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, el título deberá estar relacionado con sus funciones.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 68.
 
-Los secretarios ejecutivos, los coordinadores, y los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral tendrán las siguientes atribuciones:
+El Secretario General de la Presidencia, los secretarios ejecutivos, los coordinadores, y los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia tendrán las siguientes atribuciones:
 
 I. Representar a la unidad administrativa que corresponda;
 
@@ -1285,9 +1177,9 @@ Para el control de la facultad delegada, los titulares deberán llevar el regist
 
 XV. Asistir a las sesiones del Pleno y de las Comisiones permanentes a las que sean citados;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-XVI. Participar en los comités, comisiones, representaciones, suplencias y recesos que se determinen;
+XVI. Participar en los comités, comisiones, representaciones, suplencias y recesos que se determinen; en su caso, designar al servidor público que lo represente en calidad de suplente en los comités y grupos de trabajo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1297,31 +1189,19 @@ XVII. Definir, revisar y ser responsables de los contenidos e información, que 
 
 XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 69.
 
-Las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
+La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 70.
 
-Las ausencias temporales o definitivas de los titulares de áreas administrativas serán suplidas conforme a lo siguiente:
+Las ausencias del titular de la Secretaría General, secretarios ejecutivos, Contralor del Poder Judicial de la Federación, titulares de Unidad, directores generales, coordinadores, secretarios técnicos, directores de área y subdirectores de área, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias en el marco de la normatividad aplicable.
 
-I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
-
-II. La de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
-
-En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
-
-La propuesta deberá contener el motivo y el periodo de la suplencia.
-
-Los titulares o quienes los suplan, harán alusión al acuerdo que determinó la suplencia en los oficios que suscriban.
-
-El servidor público designado ejercerá las atribuciones propias del cargo.
+Los servidores públicos que suplan por ausencia, incorporarán una leyenda en su firma con fundamento en el presente artículo, e indicarán que actúan en suplencia por ausencia del servidor público que suplen.
 
 #### SECCIÓN CUARTA. DE LAS SECRETARÍAS EJECUTIVAS EN LO PARTICULAR
 
@@ -1341,19 +1221,45 @@ El servidor público designado ejercerá las atribuciones propias del cargo.
 
 ###### Artículo 74.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE ABRIL DE 2014)
+La Secretaría General se encargará de asistir al Presidente en los asuntos que, de conformidad con sus atribuciones le corresponde conocer.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 75.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE ABRIL DE 2014)
+El titular de la Secretaría General, tendrá las siguientes atribuciones:
+
+I. Por instrucciones del Presidente, ser el enlace con los Consejeros y áreas administrativas del Consejo;
+
+II. Por instrucciones del Presidente, ser el vínculo institucional con los Poderes Ejecutivo y Legislativo, así como con las entidades federativas, a fin de gestionar la celebración de convenios que tengan relación con las atribuciones constitucionales del Consejo en materia de administración, vigilancia, disciplina y carrera judicial;
+
+III. Por instrucciones del Presidente, ser el enlace con los titulares de los órganos jurisdiccionales del Poder Judicial de la Federación;
+
+IV. Por instrucciones del Presidente, ser el enlace con los coordinadores de jueces y magistrados, en términos del artículo 3 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones sobre el funcionamiento de las coordinaciones de magistrados de Circuito y jueces de Distrito ante el propio Consejo.
+
+V. Recibir los escritos, peticiones y avisos que magistrados de Circuito, jueces de Distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas que conforme a sus atribuciones, corresponda tramitar y resolver;
+
+VI. Recibir los escritos que particulares, autoridades e instituciones dirijan al Presidente y remitirlos a las áreas administrativas que correspondan o, en su caso, darles respuesta;
+
+VII. Dar seguimiento sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones V y VI de este artículo e informar al Presidente;
+
+VIII. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
+
+IX. Llevar el archivo y correspondencia de la Presidencia del Consejo;
+
+X. Asesorar al Presidente en asuntos que le requiera, y desempeñar las comisiones y funciones que le encomiende;
+
+XI. Asistir, en su caso, como invitado a las sesiones de Pleno, Comités, Comisiones y grupos de trabajo y demás reuniones institucionales e interinstitucionales que determine el Presidente; y
+
+XII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 76.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN SEXTA. DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; Y DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
+#### SECCIÓN SEXTA. DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; Y DE TRANSPARENCIA
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 77.
 
@@ -1369,13 +1275,9 @@ II. El Secretario Ejecutivo de Administración;
 
 II Bis. El Secretario Ejecutivo de Adscripción;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 III. El Secretario Ejecutivo de Carrera Judicial;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -1383,9 +1285,7 @@ III. Bis. El Secretario Ejecutivo de Creación de Nuevos Órganos;
 
 IV. El Secretario Ejecutivo de Disciplina;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-IV Bis. El Secretario Ejecutivo de Finanzas y Servicios Personales;
+IV Bis. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -1523,177 +1423,103 @@ XLVIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 
 XLIX. Las demás que establezcan el Pleno, y las Comisiones.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 80.
 
-La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos materiales, bienes muebles e inmuebles, y servicios generales; tecnologías de la información y comunicaciones; arrendamientos, obra pública y servicios relacionados con la misma; bienes asegurados y decomisados; así como administración regional, de conformidad con las disposiciones aplicables.
+La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros y de planeación, de conformidad con las disposiciones aplicables, así como los sistema (sic) de recursos materiales, bienes muebles e inmuebles, y servicios generales; tecnologías de la información y comunicaciones; arrendamientos, obra pública y servicios relacionados con la misma; bienes asegurados y decomisados; la organización y archivos en el Consejo, así como la administración regional, de conformidad con las disposiciones aplicables.
 
-El Secretario Ejecutivo de Administración es el responsable de proponer al Pleno y a la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos materiales a cargo del Consejo.
+El Secretario Ejecutivo de Administración es el responsable de proponer al Pleno y a la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos humanos, financieros y materiales a cargo del Consejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 81.
 
 El titular de la Secretaría Ejecutiva de Administración tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
 I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades administrativas de su adscripción, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos humanos, financieros y materiales del Consejo;
 
-II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos materiales del Poder Judicial de la Federación;
+III. Informar a la Comisión de Administración e instancias competentes sobre el avance y logro de los objetivos y metas programadas; así como, el cumplimiento de los proyectos y programas a su cargo dentro del ámbito de su competencia;
 
-III. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)
+IV. Presentar informes periódicos en materia de recursos humanos conforme a los lineamientos establecidos;
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+V. Coordinar y presentar de manera oportuna las licencias que se concedan a los servidores públicos administrativos del Consejo, en los términos previstos por las disposiciones aplicables;
 
-Dicha aprobación se realizará de manera conjunta con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y la Dirección General de Asuntos Jurídicos, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal;
+VI. Proponer para autorización a la Comisión de Administración las prórrogas de nombramiento que por tiempo determinado o indefinido soliciten los titulares de las áreas administrativas, respecto del personal de su adscripción;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+VII. Someter a la consideración de la Comisión de Administración la adscripción temporal de plazas de nueva creación y su prórroga, hasta por seis meses, en los órganos jurisdiccionales y áreas administrativas, en los casos en que existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos;
 
-IV. Informar a la Comisión de Administración el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las unidades administrativas que le están adscritas;
+VIII. Vigilar la ejecución de los calendarios y la observancia de los lineamientos y procedimientos establecidos para el pago de las remuneraciones, prestaciones, apoyos económicos y servicios para los servidores públicos del Poder Judicial de la Federación, conforme a las disposiciones aplicables;
 
-V. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+IX. Supervisar el proceso de mejora continua de las prestaciones autorizadas al personal del Poder Judicial de la Federación;
 
-VI. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+X. Supervisar la operación de los servicios médicos y el funcionamiento de los Centros de Desarrollo Infantil y Estancia Infantil del Poder Judicial de la Federación;
 
-VII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XI. Asegurar el otorgamiento de los servicios administrativos que en materia de recursos humanos requieran para su operación los órganos jurisdiccionales y áreas administrativas;
 
-VIII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XII. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, y de planeación, así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
 
-IX. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XIII. Conducir, coordinar, supervisar, controlar y evaluar el proceso de programación, presupuestación, ejecución, registro y evaluación presupuestal y contable del Consejo, conforme a las disposiciones aplicables;
 
-X. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XIV. Proponer a la instancia competente medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción;
 
-XI. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XV. Supervisar la instrumentación de las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros y de planeación; así como las demás que resulten de su competencia;
 
-XII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XVI. Supervisar la integración y actualización del Manual de Organización General del Consejo y su presentación a la Comisión de Administración, así como aprobar los manuales específicos de organización y procedimientos de las áreas que lo integran; además de coordinar la elaboración de manuales de organización y procedimiento interno de las unidades administrativas que le estén adscritas, conforme a la normatividad aplicable;
 
-XIII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XVII. Acordar con los titulares de las unidades administrativas que sean de su adscripción y, en su caso, autorizarles proporcionar información a las demás instancias del Poder Judicial de la Federación, cuando así se los requieran, con excepción de lo establecido en los artículos 20, fracción XXI, y 79, fracción XXIV, del presente Acuerdo, delegándoles, en su caso la facultad de firma en los actos administrativos que considere procedentes a los titulares de dichas unidades, conforme a las disposiciones aplicables;
 
-XIV. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XVIII. Suscribir y ejecutar los actos jurídicos de su competencia, conforme a la normatividad aplicable;
 
-XV. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XIX. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en el artículo 68, fracción XIV de este Acuerdo;
 
-XVI. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XX. Apoyar y asesorar al Pleno, Comisiones y Presidente en el ámbito de su competencia;
 
-XVII. Dirigir y supervisar las propuestas de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios; y de Obra Pública;
+XXI. Representar a la unidad administrativa a su cargo;
 
-XVIII. Controlar y administrar la operación de los inmuebles, conforme a las disposiciones legales y normativas;
+XXII. Designar al servidor público que, en su caso, lo represente en comités, reuniones y grupos de trabajo;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+XXIII. Supervisar la elaboración e implementar las acciones de planeación estratégica, desarrollo y modernización administrativa del Consejo, a efecto de proponer a la Comisión de Administración las directrices, normas, procedimientos y criterios técnicos para la integración y presentación de los programas anuales de trabajo e informes de actividades a los que deban ceñirse las áreas administrativas;
 
-XIX. Otorgar las autorizaciones para la asignación temporal de espacios que sometan a su consideración los Directores Generales de Recursos Materiales, de Servicios Generales, y de Inmuebles y Mantenimiento, tratándose de inmuebles ubicados en la Ciudad de México y zona conurbada, así como del Coordinador de Administración Regional para los inmuebles ubicados en el interior de la República;
+XXIV. Supervisar los lineamientos en materia de protección civil, higiene y medio ambiente en el trabajo y evaluar los resultados;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XXV. Proponer a la Comisión de Administración los programas de protección civil y evaluar sus resultados;
 
-XX. Asegurar y verificar el suministro oportuno de bienes y servicios necesarios a los órganos jurisdiccionales y áreas administrativas;
+XXVI. Supervisar el funcionamiento de las diversas Comisiones de Seguridad y Salud en el Trabajo, de conformidad con las disposiciones legales y la normatividad aplicable;
 
-XXI. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XXVII. Supervisar las propuestas de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios; y de Obra Pública;
 
-XXII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XXVIII. Controlar y administrar la operación de los inmuebles, conforme a las disposiciones legales y normativas;
 
-XXIII. Colaborar en la instalación de órganos jurisdiccionales y oficinas de correspondencia común, así como en la realización de eventos organizados por el Consejo;
+XXIX. Autorizar la asignación temporal de espacios que sometan a su consideración el titular de la Dirección General de Servicios Generales, tratándose de inmuebles ubicados en la Ciudad de México y Zona Metropolitana, así como del Coordinador de Administración Regional para los inmuebles ubicados en el interior de la República;
 
-XXIV. Operar, con las áreas administrativas competentes, los mecanismos de coordinación para la recepción, custodia y conservación de bienes decomisados, asegurados, no reclamados y abandonados, y coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de acciones relativas a su destino final;
+XXX. Asegurar y verificar el suministro oportuno de bienes y servicios necesarios a los órganos jurisdiccionales y áreas administrativas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XXXI. Colaborar en la instalación de órganos jurisdiccionales y oficinas de correspondencia común, así como en la realización de eventos organizados por el Consejo;
 
-XXV. Instrumentar acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la ampliación de espacios físicos, de acuerdo a la normatividad aplicable;
+XXXII. Operar con las áreas administrativas competentes, los mecanismos de coordinación para la recepción, custodia y conservación de bienes decomisados, asegurados, no reclamados y abandonados, y coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de acciones relativas a su destino final;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+XXXIII. Supervisar la instrumentación de las acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la ampliación de espacios físicos, de acuerdo a la normatividad aplicable;
 
-XXVI. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos materiales y de servicios generales; tecnologías de la información y comunicaciones; así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
+XXXIV. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos materiales y de servicios generales; tecnologías de la información y comunicaciones; así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XXXV. Supervisar la instrumentación y evaluar la operación de los sistemas para la administración de los bienes muebles, inmuebles y suministros, así como el sistema correspondiente a los bienes sujetos a desincorporación y decomiso, conforme a la normatividad aplicable;
 
-XXVII. Instrumentar y evaluar la operación de los sistemas para la administración de los bienes muebles e inmuebles y suministros, así como el sistema correspondiente a los bienes sujetos a desincorporación y decomisados, conforme a la normatividad aplicable;
+XXXVI. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos materiales, y de servicios generales; tecnologías de la información y comunicaciones; y bienes asegurados y decomisados, así como las demás que resulten de su competencia;
 
-XXVIII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
+XXXVII. Proponer a la Comisión de Administración procedimientos de sistemas de recursos materiales, servicios generales, arrendamiento y obra pública, y en su caso instrumentarlos en la forma y términos que establezca la normatividad aplicable;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XXXVIII. Presentar a la Comisión de Administración y al Pleno el Plan Estratégico de Tecnologías de la Información y Comunicaciones y el informe trimestral respecto de la ejecución y avances del mismo;
 
-XXIX. Proponer a la instancia competente medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción;
+XXXIX. Someter a consideración del Comité de Transparencia y, en su caso, a la Comisión de Administración, la aprobación del Programa Anual de Desarrollo Archivístico; de la normativa y los criterios específicos en materia de gestión documental y administración de archivo de los instrumentos de control archivístico; así como de los proyectos de preservación y difusión de la información con valor histórico; lo anterior de conformidad con lo establecido en las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+XL. Solicitar al Instituto de la Judicatura las necesidades de capacitación, en materia de archivos a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales; y
 
-XXX. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos materiales, y de servicios generales; tecnologías de la información y comunicaciones; y bienes asegurados y decomisados, así como las demás que resulten de su competencia;
+XLI. Las demás que establezcan la normatividad aplicable, el Pleno y las Comisiones.
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXI. Coordinar la elaboración de manuales de organización y procedimiento interno de las unidades administrativas que le estén adscritas, conforme a la normatividad aplicable;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXII. Proponer a la Comisión de Administración procedimientos de sistemas de recursos materiales, servicios generales, arrendamiento y obra pública, y en su caso instrumentarlos en la forma y términos que establezca la normatividad aplicable;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXIII. Acordar con los Titulares de las unidades administrativas que sean de su adscripción y, en su caso, autorizarles proporcionar información a las demás instancias del Poder Judicial de la Federación, cuando así se los requieran, con excepción de lo establecido en los artículos 20, fracción XXI, y 79 fracción XXIV, del presente Acuerdo, delegándoles, en su caso la facultad de firma en los actos administrativos que considere procedentes a los titulares de dichas unidades, conforme a las disposiciones aplicables;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXIV. Acordar con los titulares de las unidades administrativas que le estén adscritas;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXV. Celebrar, otorgar, suscribir y ejecutar los actos jurídicos de su competencia, conforme a la normatividad aplicable;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXVI. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo;
-
-XXXVII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXVIII. Apoyar y asesorar al Pleno, Comisiones y Presidente en el ámbito de su competencia;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XXXIX. Informar a las instancias competentes sobre el avance y cumplimiento de proyectos y programas a su cargo, conforme las disposiciones aplicables;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XL. Representar a la unidad administrativa a su cargo;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XLI. Designar al servidor público que, en su caso, lo represente en comités, reuniones y grupos de trabajo;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XLII. Coordinar la presentación a la Comisión de Administración y al Pleno del Plan Estratégico de Tecnologías de la Información y Comunicaciones y del informe trimestral respecto de la ejecución y avances del mismo;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XLIII. Difundir y evaluar el cumplimiento de la normativa relativa a:
-
-a) La conservación de equipos, inmuebles e instalaciones, en materia de tecnologías de la información y comunicaciones en los órganos auxiliares y en las áreas administrativas; y
-
-b) La administración, suministro, prestación y racionalización de los servicios generales, en materia de tecnologías de la información y comunicaciones en los órganos auxiliares y en las áreas administrativas;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XLIV. Someter a la consideración de la Comisión de Administración las propuestas de criterios y medidas necesarias para la organización y archivos en el Consejo, que realice la Dirección General de Archivo y Documentación;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XLV. Someter a la consideración de la Comisión de Administración la política archivística a propuesta de la Dirección General de Archivo y Documentación, y supervisar el cumplimiento de la que sea aprobada;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XLVI. Plantear al Instituto de la Judicatura las necesidades de capacitación, en materia de archivos a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XLVII. Coordinar la elaboración de las políticas generales en materia de tecnologías de la información y comunicaciones, y someterlas a la consideración de la Comisión de Administración; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XLVIII. Las demás que establezcan la normatividad aplicable, el Pleno, y las Comisiones.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 82.
 
@@ -1709,9 +1535,19 @@ IV. Dirección General de Recursos Materiales;
 
 V. Dirección General de Servicios Generales;
 
-VI. Dirección General de Tecnologías de la Información; y
+VI. Dirección General de Tecnologías de la Información;
 
-VII. Las demás que determine el Pleno.
+VII. Dirección General de Innovación, Planeación y Desarrollo Institucional;
+
+VIII. Dirección General de Programación, Presupuesto y Tesorería;
+
+IX. Dirección General de Protección Civil y Salud en el Trabajo;
+
+X. Dirección General de Recursos Humanos;
+
+XI. Dirección General de Servicios al Personal; y
+
+XII. Las demás que determine el Pleno.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1751,15 +1587,11 @@ XII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la u
 
 XIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 83.
 
 El Secretario Ejecutivo de Carrera Judicial se encargará de auxiliar a la Comisión de Carrera Judicial para el desempeño de las atribuciones que ésta tiene encomendadas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -1793,8 +1625,6 @@ XII. Elaborar anualmente la lista de las personas que puedan fungir como peritos
 
 XIII. Llevar el sistema de turnos y efectuar los trámites requeridos para las resoluciones de las ratificaciones de magistrados de Circuito y jueces de Distrito;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XIV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
 XIV (SIC). (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
@@ -1807,51 +1637,27 @@ XVIII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSE
 
 XIX. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXIII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXIV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXVII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXVIII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXIX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
@@ -1861,11 +1667,7 @@ XXXIII. Someter a la consideración de las Comisiones, las disposiciones, reglas
 
 XXXIV. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
@@ -1876,8 +1678,6 @@ XXXVII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 XXXVIII. Las demás que establezcan el Pleno, y las Comisiones.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -1893,15 +1693,11 @@ I. Dirección General de Estadística Judicial; y
 
 II. Las demás que determine el Pleno.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 84 Ter.
 
 El Secretario Ejecutivo de Creación de Nuevos Órganos se encargará de auxiliar a la Comisión de Creación de Nuevos Órganos para el desempeño de las atribuciones que ésta tiene encomendadas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -2029,111 +1825,17 @@ XXIII. Las demás que establezcan, el Pleno, y las Comisiones.
 
 La Secretaría Ejecutiva de Vigilancia apoyará al Consejo en la implementación de todas aquellas acciones tendentes al eficaz funcionamiento de los órganos y personal del Poder Judicial de la Federación; así como en la correcta adopción de criterios con los que se arribe al cumplimiento de los programas mediante el adecuado seguimiento y continua evaluación de sus objetivos.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2017)</small>
-
 ###### Artículo 87 Bis.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros, y de planeación, de conformidad con las disposiciones aplicables.
-
-El Secretario Ejecutivo de Finanzas y Servicios Personales es el responsable de proponer al Pleno y a la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos humanos y financieros a cargo del Consejo.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 87 Ter.
 
-El titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales tendrá las siguientes atribuciones:
-
-I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades administrativas de su adscripción, conforme a la normatividad aplicable;
-
-II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos humanos y financieros del Poder Judicial de la Federación;
-
-III. Informar a la Comisión de Administración el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las unidades administrativas que le están adscritas;
-
-IV. Formular informes periódicos en materia de recursos humanos conforme a los lineamientos establecidos;
-
-V. Coordinar y vigilar la tramitación oportuna de las licencias que se concedan a los servidores públicos administrativos del Consejo, en los términos previstos por las disposiciones aplicables;
-
-VI. Proponer para autorización las prórrogas de nombramiento que por tiempo determinado o indefinido soliciten los titulares de las áreas administrativas, respecto del personal de su adscripción;
-
-VII. Someter a la consideración de la Comisión de Administración la adscripción temporal de plazas de nueva creación y su prórroga, hasta por seis meses, en los órganos jurisdiccionales y áreas administrativas, en los casos en que existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos;
-
-VIII. Vigilar la ejecución de los calendarios y la observancia de los lineamientos y procedimientos establecidos para el pago de las remuneraciones, prestaciones y apoyos económicos que hubiere a los servidores públicos del Poder Judicial de la Federación, conforme a las disposiciones aplicables;
-
-IX. Participar en el proceso de mejora continua de las prestaciones autorizadas al personal del Poder Judicial de la Federación;
-
-X. Supervisar la operación de los servicios médicos y el funcionamiento de los Centros de Desarrollo Infantil del Poder Judicial de la Federación;
-
-XI. Supervisar la operación de los mecanismos de registro, control, custodia, préstamo y depuración de los expedientes laborales de los servidores públicos a cargo del Consejo de conformidad con las disposiciones aplicables;
-
-XII. Asegurar el otorgamiento de los servicios administrativos que en materia de recursos humanos requieran para su operación los órganos jurisdiccionales y áreas administrativas;
-
-XIII. Validar las propuestas de movimientos e incidencias del personal a cargo del Consejo, conforme a las disposiciones aplicables;
-
-XIV. Suscribir los nombramientos de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 10 al 24 de la Tabla de Puestos contemplada en el Catálogo General de Puestos del Consejo de la Judicatura Federal, así como, las credenciales del personal de órganos jurisdiccionales y áreas administrativas entre los niveles 8 a 24;
-
-XV. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, con el auxilio de la Coordinación de Administración Regional;
-
-XVI. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, y de planeación, así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
-
-XVII. Conducir, coordinar, supervisar, controlar y evaluar el proceso de programación, presupuestación, ejecución, registro y evaluación presupuestal y contable del Consejo, conforme a las disposiciones aplicables;
-
-XVIII. Proponer a la instancia competente medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción;
-
-XIX. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros y de planeación; así como las demás que resulten de su competencia;
-
-XX. Coordinar la elaboración de manuales de organización y procedimiento interno de las unidades administrativas que le estén adscritas, conforme a la normatividad aplicable;
-
-XXI. Acordar con los Titulares de las unidades administrativas que sean de su adscripción y, en su caso, autorizarles proporcionar información a las demás instancias del Poder Judicial de la Federación, cuando así se los requieran, con excepción de lo establecido en los artículos 20, fracción XXI, y 79, fracción XXIV, del presente Acuerdo, delegándoles, en su caso la facultad de firma en los actos administrativos que considere procedentes a los titulares de dichas unidades, conforme a las disposiciones aplicables;
-
-XXII. Acordar con los titulares de las unidades administrativas que le estén adscritas;
-
-XXIII. Celebrar, otorgar, suscribir y ejecutar los actos jurídicos de su competencia, conforme a la normatividad aplicable;
-
-XXIV. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo;
-
-XXV. Apoyar y asesorar al Pleno, Comisiones y Presidente en el ámbito de su competencia;
-
-XXVI. Informar a las instancias competentes sobre el avance y cumplimiento de proyectos y programas a su cargo, conforme las disposiciones aplicables;
-
-XXVII. Representar a la unidad administrativa a su cargo;
-
-XXVIII. Designar al servidor público que, en su caso, lo represente en comités, reuniones y grupos de trabajo;
-
-XXIX. Dirigir y coordinar la elaboración e implantación de las acciones de planeación estratégica, desarrollo y modernización administrativa del Consejo;
-
-XXX. Proponer a la Comisión de Administración las directrices, normas, procedimientos y criterios técnicos para la integración y presentación de los programas anuales de trabajo e informes de actividades a los que deban ceñirse las áreas administrativas;
-
-XXXI. Coordinar la integración y actualización del Manual de Organización General del Consejo y su presentación a la Comisión de Administración, así como aprobar los manuales específicos de organización y procedimientos de las áreas que lo integran;
-
-XXXII. Vigilar y proponer los lineamientos en materia de protección civil, higiene y medio ambiente en el trabajo y evaluar los resultados;
-
-XXXIII. Proponer a la Comisión de Administración programas de protección civil y evaluar sus resultados;
-
-XXXIV. Coordinar y supervisar el funcionamiento de las diversas Comisiones de Seguridad y Salud en el Trabajo, de conformidad con las disposiciones legales y la normatividad aplicable; y
-
-XXXV. Las demás que establezcan el Pleno y las Comisiones.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 87 Quater.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales contará con las unidades administrativas siguientes:
-
-I. Dirección General de Innovación, Planeación y Desarrollo Institucional;
-
-II. Dirección General de Programación y Presupuesto;
-
-III. Dirección General de Protección Civil y Salud en el Trabajo;
-
-IV. Dirección General de Recursos Humanos;
-
-V. Dirección General de Servicios Médicos;
-
-VI. Dirección General de Servicios al Personal;
-
-VII. Dirección General de Tesorería; y
-
-VIII. Las demás que determine el Pleno.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2209,7 +1911,7 @@ I. De Administración Regional;
 
 II. De Seguridad del Poder Judicial de la Federación;
 
-III. Para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo; y
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 IV. Las demás que determine el Pleno.
 
@@ -2217,11 +1919,13 @@ IV. Las demás que determine el Pleno.
 
 La Coordinación de Administración Regional proporcionara los servicios administrativos que en materia de recursos humanos, financieros y materiales requieran para su operación los órganos jurisdiccionales y áreas administrativas que se ubican en el interior de la República.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 91.
 
 El titular de la Coordinación de Administración Regional tendrá las siguientes atribuciones:
 
-I. Proponer a su superior jerárquico los anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan optimizar el aprovechamiento de los recursos del Consejo;
+I. Proponer a su superior jerárquico los anteproyectos de programas, acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan optimizar el aprovechamiento de los recursos del Consejo y su ejecución;
 
 II. Mantener informado al superior jerárquico, sobre el avance y logro de los objetivos y metas programadas en su unidad administrativa;
 
@@ -2229,13 +1933,11 @@ III. Dirigir, supervisar, evaluar y apoyar la operación de las administraciones
 
 IV. Proponer la designación, cambio de adscripción y remoción de servidores públicos de las administraciones regionales y delegaciones administrativas en apego a las disposiciones legales y la normatividad aplicable;
 
-V. Implantar, ejecutar, dar seguimiento y evaluar los programas que en materia de recursos humanos, materiales y financieros se determinen para el ámbito regional, salvo en materia de informática, sistemas, telefonía, redes y cableado estructurado;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+V. Implantar, ejecutar, dar seguimiento y evaluar los programas que en materia de recursos humanos, materiales, financieros y de creación de nuevos órganos, se determinen para el ámbito regional, salvo en materia de informática, sistemas, telefonía, redes y cableado estructurado;
 
 VI. Proponer y coordinar reuniones nacionales para actualizar, implantar y evaluar programas, sistemas y procedimientos inherentes a la función administrativa regional, apoyándose en las áreas administrativas centrales competentes;
 
-VII. Gestionar los requerimientos de recursos humanos, materiales y financieros para la operación de los órganos jurisdiccionales que se ubican en el interior de la República y de las administraciones regionales y delegaciones administrativas;
+VII. Gestionar los requerimientos de recursos humanos, materiales y financieros para la operación de los órganos jurisdiccionales que se ubican en el interior de la República y de las administraciones regionales y delegaciones administrativas, asimismo, implementar acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la adecuación de espacios físicos de acuerdo a la normatividad aplicable;
 
 VIII. Operar y mantener actualizado el Programa de Vivienda para magistrados de Circuito y jueces de Distrito, así como la asignación y mantenimiento de las casas-habitación, conforme a la normatividad aplicable;
 
@@ -2243,23 +1945,19 @@ IX. En coordinación con las áreas administrativas competentes y los órganos j
 
 X. Diseñar y gestionar la publicación de edictos, cédulas de notificación y otras que requieran los órganos jurisdiccionales que se encuentren en el interior de la República Mexicana, y que soliciten a través de las Administraciones Regionales o Delegaciones Administrativas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
 XI. Presentar ante el Pleno el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia con la autorización del Secretario Ejecutivo de Administración;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones Regionales y Delegaciones Administrativas, en los portales del Consejo en Intranet e Internet y gestionar su publicación y actualización;
 
-XII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones Regionales y Delegaciones Administrativas, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+XIII. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, a través de las Administraciones Regionales y Delegaciones Administrativas; y
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XIV. Las demás que establezcan el Pleno y las Comisiones.
 
-XIII. Las demás que establezcan el Pleno y las Comisiones.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 92.
 
-La Coordinación de Seguridad del Poder Judicial de la Federación auxiliará al Presidente en la propuesta, desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación.
+La Coordinación de Seguridad del Poder Judicial de la Federación auxiliará a la Secretaría General en la propuesta, desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación.
 
 ###### Artículo 93.
 
@@ -2299,9 +1997,9 @@ XII. Someter a consideración del Presidente las políticas, lineamientos y dete
 
 XIII. Participar con la Dirección General de Recursos Humanos en el diseño de las políticas y normas para el reclutamiento, selección y permanencia del personal de la Coordinación a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-XIV. Coordinar acciones en materia de seguridad con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, para el cumplimiento de su objeto y atribuciones, e informar de ello al Presidente y a la Comisión de Vigilancia;
+XIV. Coordinar acciones en materia de seguridad con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, para el cumplimiento de su objeto y atribuciones, e informar de ello a la Secretaría General y a la Comisión de Vigilancia;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2321,85 +2019,23 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 94.
 
-La Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, se encargará de auxiliar a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y al Comité de Acceso a la Información y Protección de Datos Personales del Consejo para el desempeño de las atribuciones que tienen encomendadas; así como de la planeación, supervisión y dirección de las acciones que en materia de transparencia, acceso a la información, protección de datos personales y archivo realiza el Consejo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 95.
 
-La Unidad de Transparencia, tendrá las siguientes atribuciones:
-
-I. Proponer a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, las políticas, directrices, normas y criterios que sobre las materias de su competencia resulte necesario implementar;
-
-II. Verificar que la información a que se refiere el artículo 7 de la Ley de Transparencia quede a disposición del público, así como proponer a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, cualquier otra información que considere se deba difundir en la página de transparencia;
-
-III. Someter a la aprobación de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, el diseño de las páginas de transparencia;
-
-IV. Coordinarse con las áreas administrativas del Consejo, para presentar al Comité de Acceso a la Información y Protección de Datos Personales del Consejo, los indicadores de gestión administrativa y jurisdiccional;
-
-V. Proponer al Comité de Acceso a la Información y Protección de Datos Personales del Consejo, los proyectos de programas que faciliten la obtención de información en posesión de las áreas administrativas y órganos jurisdiccionales;
-
-VI. Instrumentar el desarrollo de las acciones encaminadas a la protección de datos personales;
-
-VII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
-
-VIII. (DEROGADA, D.O.F. 28 DE ABRIL DE 2017)
-
-IX. Recopilar y publicar los criterios novedosos o relevantes y las resoluciones de los Tribunales Unitarios y Juzgados de Distrito e informar trimestralmente a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, sobre los avances obtenidos;
-
-X. Publicar en Internet las sentencias ejecutorias o resoluciones públicas relevantes generadas por los órganos jurisdiccionales e informar trimestralmente a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo sobre los avances en la conformación del banco de datos;
-
-XI. Operar y mantener actualizado el diccionario biográfico;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XII. Plantear al Instituto de la Judicatura las necesidades de capacitación, en materias de transparencia, acceso a la información, y protección de datos personales a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales;
-
-XIII. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
-
-XIV. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XV. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XVI. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las áreas administrativas que le estén adscritas, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XVII. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
-
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2015)</small>
-
-IX (SIC). Las demás que le confieran el Pleno y las Comisiones.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 96.
 
-La Coordinación para la Transparencia contará con:
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
-I. Archivo General del Consejo;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
-
-II. Centro de Manejo Documental y Digitalización del Consejo;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
-
-III. Secretaría Técnica del Comité de Acceso a la Información y Protección de Datos Personales del Consejo; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
-
-IV. Unidad de Enlace del Consejo.
-
-> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
 ###### Artículo 97.
 
-La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, es el área administrativa dependiente del Presidente, encargada del estudio, análisis y propuesta del diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para dicha consolidación; así como de la coordinación de las diversas áreas administrativas involucradas en estos procesos; la relación interinstitucional con las instancias de coordinación de los Poderes Ejecutivo y Legislativo Federal, y con las entidades federativas.
+La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, es el área administrativa dependiente de la Secretaría General, encargada del estudio, análisis y propuesta del diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para dicha consolidación; así como de la coordinación de las diversas áreas administrativas involucradas en estos procesos; la relación interinstitucional con las instancias de coordinación de los Poderes Ejecutivo y Legislativo Federal, y con las entidades federativas.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
@@ -2407,7 +2043,9 @@ La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, es el áre
 
 El titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, tendrá las siguientes atribuciones:
 
-I. Brindar el apoyo y asesoría técnica que requiera el Pleno, el Presidente y los Consejeros, con motivo de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+I. Brindar el apoyo y asesoría técnica que requiera el Pleno, la Secretaría General y los Consejeros, con motivo de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
 II. Coordinar, elaborar y presentar de manera conjunta, con las áreas administrativas responsables, los estudios, análisis y propuestas de diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
@@ -2472,6 +2110,44 @@ X. Someter a la consideración del Pleno y, en su caso, de la Comisión competen
 XI. Rendir los informes que sean requeridos a la Unidad, por los órganos competentes del Consejo; y
 
 XII. Las demás que establezcan el Pleno y las Comisiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 98 Quater.
+
+La Unidad de Transparencia es el área administrativa en materia de transparencia y acceso a la información pública del Consejo, encargada de difundir la información y fungir como vínculo entre los solicitantes de información y las distintas áreas administrativas y los órganos jurisdiccionales; además de desarrollar e implementar las acciones tendentes a la protección de datos de carácter personal, que permitan su adecuada administración y seguridad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 98 Quinquies.
+
+El Titular de la Unidad de Transparencia, tendrá las siguientes atribuciones:
+
+I. Publicar en Internet las sentencias ejecutorias o resoluciones públicas relevantes generadas por los órganos jurisdiccionales e informar trimestralmente al Comité de Transparencia sobre los avances en la conformación del banco de datos;
+
+II. Operar y mantener actualizado el diccionario biográfico a través del Sistema de Recursos Humanos;
+
+III. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
+
+IV. Representar al Consejo, ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+V. Proponer al personal de la unidad administrativa a su cargo;
+
+VI. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo;
+
+VII. Administrar el Portal de Transparencia;
+
+VIII. Ejercer las atribuciones conferidas en la Ley General de Transparencia y Ley Federal de Transparencia, así como la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+IX. Notificar al Consejero Jurídico del Poder Ejecutivo Federal las resoluciones del Instituto Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que se relacionen con el supuesto previsto en el artículo 110, fracción I, de la Ley Federal de Transparencia, para que pueda valorar la posible vulneración a la seguridad nacional y, en su caso, impugnarlas ente (sic) la Suprema Corte de Justicia de la Nación, en términos del artículo 189 de la Ley General de Transparencia; y
+
+X. Las demás que le confiera el Presidente, el Comité de Transparencia y las disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 98 Sexies.
+
+La Unidad de Transparencia contará con las secretarías que determinen los acuerdos y manuales de organización respectivos.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3125,8 +2801,6 @@ Las ausencias temporales de los secretarios técnicos serán cubiertas por otro 
 
 (DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPÍTULO NOVENO. DE LAS DIRECCIONES GENERALES Y LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES
@@ -3165,15 +2839,15 @@ V. Gozar de buena reputación; y
 
 VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 143.
 
 Los titulares de las direcciones generales, y de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrán, según corresponda y salvo que existan disposiciones específicas diversas, las atribuciones siguientes:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-I. Ejecutar, en el ámbito de su competencia, los acuerdos del Pleno, de las Comisiones, del Presidente, o de su superior jerárquico;
+I. Ejecutar, en el ámbito de su competencia, los acuerdos del Pleno, del Presidente, de las Comisiones, de la Secretaría General, o de su superior jerárquico;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3193,6 +2867,10 @@ V. Planear, programar, organizar, dirigir y evaluar el desarrollo de los program
 
 VI. Acordar con su superior jerárquico, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su ámbito de competencia;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+VI. Bis. Suscribir los documentos y llevar a cabo las acciones necesarias para el cumplimiento de sus atribuciones, en representación del Consejo;
+
 VII. Formular dictámenes, opiniones e informes que le sean requeridos, en aquellos asuntos propios de su competencia;
 
 VIII. Proponer al superior jerárquico, para autorización, los nombramientos del personal a su cargo;
@@ -3208,6 +2886,10 @@ X. Coordinar con los titulares de las otras unidades administrativas, cuando as�
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 XI. Formular y presentar a su superior jerárquico, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la unidad administrativa a su cargo, acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de dicha unidad;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+XI. Bis. Desarrollar sus atribuciones a través de las áreas adscritas, conforme a lo dispuesto en los manuales de organización, procedimientos y servicios vigentes;
 
 XII. Participar en los comités, comisiones, representaciones y suplencias que le sean asignados;
 
@@ -3249,7 +2931,7 @@ XX. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
-#### SECCIÓN SEGUNDA. DEL ARCHIVO GENERAL DEL CONSEJO
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 147.
 
@@ -3289,8 +2971,6 @@ IV. Mantener actualizado el Sistema Integral de Seguimiento de Expedientes, a tr
 
 V. Revisar y validar la congruencia de la captura de datos de los expedientes que se tramitan en los órganos jurisdiccionales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 VI. Proponer al Pleno, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
@@ -3301,13 +2981,9 @@ VIII. Mantener actualizado el padrón de analistas jurídicos encargados de la o
 
 IX. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -3337,8 +3013,6 @@ XX. Revisar el contenido y alcance de la información, documentación, análisis
 
 XXI. Coordinar las tareas tendientes al establecimiento, desarrollo y mantenimiento del SISE Control Biométrico;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XXII. Acordar con el titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos, los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
@@ -3351,91 +3025,81 @@ XXIII. Las demás que establezcan el Pleno, y las Comisiones.
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar, proponer y ejecutar el Plan de Desarrollo Institucional que contenga las líneas y objetivos estratégicos en materia de planeación, innovación y desarrollo del Consejo; así como sus programas y subprogramas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 152.
 
 El Titular de la Dirección General de Innovación, Planeación y Desarrollo Institucional tendrá las siguientes atribuciones:
 
-I. Dirigir y coordinar, en conjunto con las áreas administrativas que corresponda de acuerdo a sus atribuciones, el diseño y la implantación de los modelos y metodologías en materia de planeación, innovación y desarrollo institucional del Consejo;
+I. Dirigir y coordinar, en conjunto con las áreas administrativas que corresponda de acuerdo a sus atribuciones, el diseño y la implantación de los modelos y metodologías en materia de planeación, innovación y desarrollo institucional y de Estudios de Gestión de la Información del Consejo;
 
-II. Proponer y coordinar los estudios sobre mejores prácticas en materia de planeación, innovación y desarrollo institucional que coadyuven a la optimización de los servicios que ofrecen las áreas administrativas, así como la gestión y el desempeño del Consejo;
+II. Proponer y coordinar los proyectos y acciones sobre mejores prácticas en materia de planeación, innovación y desarrollo institucional y de Estudios de Gestión de la Información, que coadyuven a la optimización de los servicios que ofrecen las áreas administrativas, así como la gestión y el desempeño del Consejo;
 
 III. Instrumentar, en coordinación con las áreas administrativas competentes, la planeación institucional en los ámbitos jurisdiccional y administrativo que permita la mejora de sus resultados;
 
-IV. Proponer, planear y coordinar los estudios, modelos, metodologías y sistemas administrativos para coadyuvar a la eficiente y eficaz operación de los órganos jurisdiccionales y áreas administrativas con objeto de impulsar su alto desempeño, en coordinación con las áreas administrativas competentes;
+IV. Proponer, planear y coordinar modelos, metodologías y sistemas administrativos para lograr la eficiente y eficaz operación de los órganos jurisdiccionales y áreas administrativas, con el propósito de que, en coordinación con las áreas administrativas competentes, se impulsen acciones de innovación orientadas al cumplimiento de óptimos resultados;
 
-V. Dirigir y coordinar la elaboración e implantación de los planes y programas de planeación, innovación y desarrollo institucional;
+V. Dirigir y coordinar la elaboración e implantación de los planes y programas de planeación, innovación, desarrollo institucional y de Estudios de Gestión de la Información;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+VI. Proponer al Secretario Ejecutivo de Administración las directrices, normas, procedimientos y criterios técnicos para la integración y presentación del Plan de Desarrollo Institucional, sus programas, proyectos y procesos;
 
-VI. Proponer al Secretario Ejecutivo de Finanzas y Servicios Personales las directrices, normas, procedimientos y criterios técnicos para la integración y presentación del Plan de Desarrollo Institucional, sus programas y subprogramas;
+VII. Instrumentar los mecanismos para el seguimiento, control y evaluación de la Planeación Institucional y del Plan de Desarrollo Institucional;
 
-VII. Instrumentar los mecanismos para el seguimiento y la presentación de los informes de avance del Plan de Desarrollo Institucional, y de los avances mensuales, y trimestrales de los programas anuales de trabajo de las áreas administrativas;
+VIII. Consolidar la información recibida de las áreas administrativas correspondientes a los Programas Anuales de Trabajo para la elaboración de los diversos informes de cumplimiento de la planeación Institucional, tanto mensuales, trimestrales y anuales;
 
-VIII. Consolidar la información recibida de las áreas administrativas correspondientes a los programas anuales de trabajo;
+IX. Proponer al Secretario Ejecutivo de Administración los métodos y criterios técnicos para el sistema de evaluación de las áreas administrativas;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+X. Realizar cuando así se le solicite diagnósticos en materia de innovación y de Estudios de Gestión de la Información, organización y procesos de las áreas administrativas, y en su caso, señalar la necesidad de modificaciones normativas o aplicación de sistemas informáticos para la automatización de los procesos;
 
-IX. Proponer al Secretario Ejecutivo de Finanzas y Servicios Personales los métodos y criterios técnicos para el sistema de evaluación de las áreas administrativas;
-
-X. Realizar cuando así se le solicite diagnósticos en materia de innovación, organización y procesos de las áreas administrativas y en su caso señalar la necesidad de modificaciones normativas;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XI. Proponer al Secretario Ejecutivo de Finanzas y Servicios Personales la integración y actualización de los manuales generales de organización y de puestos;
+XI. Proponer al Secretario Ejecutivo de Administración la integración y actualización de los manuales generales de organización y de puestos;
 
 XII. Elaborar la propuesta de Catálogo General de Puestos del Consejo, y someterlo a consideración de la Comisión de Administración para aprobación del Pleno;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+XIII. Elaborar y someter a consideración del Secretario Ejecutivo de Administración, los manuales administrativos específicos de organización y de puestos, de procesos y procedimientos, y de operación de las áreas administrativas;
 
-XIII. Elaborar y someter a la aprobación de la Secretaría Ejecutiva de Finanzas y Servicios Personales, los manuales administrativos específicos de organización y de puestos, de procesos y procedimientos, y de operación de las áreas administrativas;
+XIV. Previo acuerdo con el Secretario Ejecutivo de Administración, validar la creación, actualización, modificación o cancelación de las estructuras orgánicas y ocupacionales de las áreas administrativas. Cuando tengan un impacto presupuestal, serán sometidas a la consideración de la Comisión de Administración y aprobación del Pleno;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XIV. Previo acuerdo con el Secretario Ejecutivo de Finanzas y Servicios Personales, validar la creación, actualización, modificación o cancelación de las estructuras orgánicas y ocupacionales de las áreas administrativas. Cuando tengan un impacto presupuestal serán sometidas a la consideración de la Comisión de Administración y aprobación del Pleno;
-
-XV. Efectuar la conciliación mensual de plazas adscritas de los órganos jurisdiccionales y áreas administrativas con las Direcciones Generales de Programación y Presupuesto y de Recursos Humanos; para la elaboración de informes y actualización de los manuales administrativos correspondientes;
+XV. Efectuar la conciliación mensual de plazas adscritas de los órganos jurisdiccionales y áreas administrativas con las Direcciones Generales de Programación, Presupuesto y Tesorería; y de Recursos Humanos; para la elaboración de informes y actualización de los manuales administrativos correspondientes;
 
 XVI. Elaborar los estudios y propuestas de reestructura organizacional que requiera el Consejo, así como de modernización de estructuras para la implantación de los modelos y metodologías de innovación y desarrollo institucional y someterlo a la autorización de las instancias competentes;
 
 XVII. Dictaminar la creación de puestos y niveles tabulares, así como la modificación de las estructuras orgánicas del Consejo derivada de la creación de nuevas plazas o movimientos de plazas por adscripción, cancelación, conversión, prórroga, retabulación o transferencia, así como cualquier otra circunstancia que las afecte; y someterlo a la autorización de las instancias competentes;
 
-XVIII. Participar en la integración y elaboración del proyecto de tabulador general de remuneraciones del Consejo;
+XVIII. Participar con las áreas administrativas para la integración y elaboración del proyecto de tabulador general de remuneraciones del Consejo;
 
-XIX. Proponer las guías técnicas para la elaboración de los documentos de apoyo administrativo del Consejo;
+XIX. Proponer para su aprobación al Secretario Ejecutivo de Administración, las guías técnicas para la elaboración de los documentos de apoyo administrativo del Consejo;
 
-XX. Participar, en coordinación con la Dirección General de Tecnologías de la Información y demás áreas administrativas responsables, en el desarrollo de sistemas automatizados de carácter administrativo;
+XX. Participar, en coordinación con la Dirección General de Tecnologías de la Información y demás áreas administrativas responsables, en el desarrollo de sistemas informáticos de carácter
 
-XXI. Proponer, emitir y evaluar, conjuntamente con las áreas administrativas competentes, los lineamientos e instrumentos para la captura, almacenamiento, sistematización y procesamiento de datos, para la generación de información e indicadores en materia de planeación, innovación y desarrollo institucional;
+administrativo;
 
-XXII. Proponer las metodologías y herramientas para la mejora de los servicios que prestan las áreas administrativas;
+XXI. Proponer, emitir y evaluar, conjuntamente con las áreas administrativas competentes, los lineamientos e instrumentos para la captura, almacenamiento, sistematización y procesamiento de datos, para la generación de información e indicadores en materia de planeación, innovación, desarrollo institucional y de Estudios de Gestión de Información;
 
-XXIII. Asesorar a los órganos jurisdiccionales y las áreas administrativas, en los aspectos técnico-administrativos de las materias de su competencia que le sean requeridos; y
+XXII. Proponer las metodologías y herramientas para la mejora de los servicios que prestan las áreas administrativas; y
 
-XXIV. Las demás que establezcan el Pleno, y las Comisiones.
+XXIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 153.
 
-La Dirección General de Programación y Presupuesto será la encargada de dirigir, programar, presupuestar, controlar y evaluar el ejercicio del presupuesto anual de egresos del Poder Judicial de la Federación; así como de los subsistemas de contabilidad, ingresos y egresos de conformidad con las disposiciones aplicables.
+La Dirección General de Programación, Presupuesto y Tesorería será la encargada de dirigir, programar, presupuestar, controlar y evaluar el ejercicio del presupuesto anual de egresos del Poder Judicial de la Federación; así como de los subsistemas de contabilidad, ingresos y egresos de conformidad con las disposiciones aplicables; y coordinar la administración, gestión y ejecución de los recursos financieros autorizados por la Cámara de Diputados al Poder Judicial de la Federación, con apoyo en los lineamientos emitidos para su registro, guarda y control; asimismo, resguardará el numerario en moneda nacional y extranjera, documentos y valores puestos en su custodia y establecerá los pronósticos y metas financieras del Consejo, considerando los recursos disponibles.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 154.
 
-El titular de la Dirección General de Programación y Presupuesto tendrá las siguientes atribuciones:
+El titular de la Dirección General de Programación, Presupuesto y Tesorería tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+I. Coordinar la elaboración e integrar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación, y presentarlo a la consideración de la Secretaría Ejecutiva de Administración;
 
-I. Coordinar la elaboración, e integrar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación y presentarlo a la consideración de la Secretaría Ejecutiva de Finanzas y Servicios Personales;
+II. Elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, y una vez autorizado por las instancias competentes, aplicar los sistemas, métodos y procedimientos aprobados para llevar a cabo su distribución, registro, pago, control, seguimiento y evaluación;
 
-II. Elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, y una vez autorizado por las instancias competentes, llevar a cabo su distribución, control, seguimiento y evaluación;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-III. Proponer al Secretario Ejecutivo de Finanzas y Servicios Personales, los anteproyectos de políticas, lineamientos y procedimientos para guiar el proceso programático presupuestal en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
+III. Proponer al Secretario Ejecutivo de Administración, los anteproyectos de políticas, lineamientos y procedimientos para guiar el proceso programático presupuestal en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
 IV. Integrar la Cuenta Pública anual del Consejo;
 
-V. Controlar el ejercicio y registro de los recursos presupuestales y no presupuestales del Consejo;
+V. Observar las directrices, normas y criterios para la distribución de los recursos presupuestales, no presupuestales y financieros autorizados, así como controlar su ejercicio y registro;
 
 VI. Dirigir, diseñar, estructurar y vigilar el subsistema de contabilidad gubernamental, para el registro, seguimiento y evaluación del ejercicio y aplicación de los recursos presupuestales y no presupuestales;
 
@@ -3445,13 +3109,9 @@ VIII. Elaborar propuestas de medidas de austeridad y disciplina presupuestal;
 
 IX. Dirigir y vigilar la formulación de los estudios y dictámenes presupuestales para la creación, retabulación, conversión y transferencia de plazas administrativas que hayan sido solicitadas, conforme a los lineamientos aplicables;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+X. Informar a la Secretaría Ejecutiva de Administración del avance de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas administrativas a su cargo;
 
-X. Informar a la Secretaría Ejecutiva de Finanzas y Servicios Personales del avance de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas a su cargo;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XI. Informar a la Secretaría Ejecutiva de Finanzas y Servicios Personales, al inicio de cada año, la disponibilidad presupuestal para la creación de plazas a cargo del Consejo, así como proponer conjuntamente, los proyectos de criterios de disposición de pago;
+XI. Informar a la Secretaría Ejecutiva de Administración, al inicio de cada año, la disponibilidad presupuestal para la creación de plazas a cargo del Consejo, así como proponer conjuntamente, los proyectos de criterios de disposición de pago;
 
 XII. Asesorar a las áreas administrativas en el ámbito de su competencia;
 
@@ -3461,165 +3121,123 @@ XIV. Emitir cuando sea procedente, los dictámenes de suficiencia presupuestal q
 
 XV. Participar en el desarrollo de sistemas automatizados de carácter financiero en el ámbito de su competencia;
 
-XVI. Solicitar a la Tesorería de la Federación el calendario de ministración de fondos autorizados e informar el avance de su cumplimiento conforme a las disposiciones legales y normas correspondientes;
+XVI. Informar a la Secretaría de Hacienda y Crédito Público el calendario de ministración de fondos autorizados, solicitar a la Tesorería de la Federación los fondos conforme al calendario requerido, e informar el avance de su cumplimiento conforme a las disposiciones legales correspondientes;
 
 XVII. Informar al superior jerárquico el avance en el cumplimiento de objetivos y metas de los programas institucionales y del ejercicio presupuestal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XVIII. Proponer en coordinación con la Dirección General de Tesorería el programa de pagos y hacerlo del conocimiento de la Secretaría Ejecutiva de Finanzas y Servicios Personales y vigilar su cumplimiento;
+XVIII. Proponer el programa de pagos y hacerlo del conocimiento de la Secretaría Ejecutiva de Administración y vigilar su cumplimiento;
 
 XIX. Asignar las claves presupuestales de los órganos jurisdiccionales y áreas administrativas de nueva creación antes de su operación;
 
-XX. Coordinar con la Dirección General de Tesorería los ingresos del Consejo, y establecer los mecanismos de seguimiento correspondiente;
+XX. Coordinar los ingresos del Consejo, y establecer los mecanismos de seguimiento correspondiente;
 
-XXI. Solicitar a la Dirección General de Tesorería los pagos a terceros, derivados de las retenciones efectuadas a través de nómina;
+XXI. Realizar los pagos a terceros, derivados de las retenciones efectuadas a través de nómina;
 
-XXII. Presentar las declaraciones fiscales, y realizar los enteros a terceros, de conformidad con lo establecido en las disposiciones aplicables; y
+XXII. Presentar las declaraciones fiscales, y realizar los enteros a terceros, de conformidad con lo establecido en las disposiciones aplicables;
 
-XXIII. Las demás que establezca el Pleno y las Comisiones.
+XXIII. Instrumentar y controlar el manejo de efectivo monetario, documentos, cuentas bancarias y valores a cargo o propiedad del Consejo, conforme a la normatividad y lineamientos aplicables, así como cumplimentar los requerimientos de información de la Suprema Corte de Justicia de la Nación;
+
+XXIV. Formular las propuestas de pronósticos, calendarios de pago y metas financieras del Consejo y someterlas a consideración de la Secretaría Ejecutiva de Administración;
+
+XXV. Gestionar los servicios que prestan las instituciones financieras bajo una política que garantice beneficios a favor del Consejo;
+
+XXVI. Proponer para consideración y aprobación en su caso, los convenios y contratos con instituciones bancarias para la administración de fondos y fideicomisos que administra el Consejo, previa opinión de la Dirección General de Asuntos Jurídicos;
+
+XXVII. Establecer la propuesta de programa de pagos y someterlo a consideración y aprobación en su caso, de las instancias competentes;
+
+XXVIII. Liberar los pagos a proveedores, contratistas, prestadores de servicios y demás acreedores del Consejo conforme a las disposiciones normativas y al calendario de pagos establecido;
+
+XXIX. Supervisar las autorizaciones de pago nominales a través de cheque y abono a cuenta bancaria que se realicen en el Consejo;
+
+XXX. Auxiliar a la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en el resguardo y custodia del numerario nacional y extranjero, valores y documentos decomisados o asegurados no reclamados o abandonados, puestos a disposición del Poder Judicial de la Federación derivados de las diversas causas procesales, o los asegurados que determine la autoridad judicial, en tanto se resuelva su situación jurídica;
+
+XXXI. Informar a las instancias competentes el comportamiento mensual de los ingresos y egresos del Consejo;
+
+XXXII. Coordinar conjuntamente con la Dirección General de Recursos Humanos, el pago de nóminas del personal conforme al calendario de pagos;
+
+XXXIII. Cumplir los compromisos de pago contraídos por el Consejo en las contrataciones que realice;
+
+XXXIV. Solicitar a las áreas administrativas en materia de seguridad y logística el apoyo para salvaguardar los recursos financieros y humanos de la Dirección General;
+
+XXXV. Tramitar, controlar, suministrar, validar su comprobación y registrar los recursos requeridos para el cumplimiento de comisiones oficiales;
+
+XXXVI. Someter a consideración de la Secretaría Ejecutiva de Administración los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
+
+XXXVII. Proponer proyectos de acuerdos y lineamientos en materia de su competencia;
+
+XXXVIII. Dar seguimiento y evaluar los ingresos y egresos de los Fideicomisos e informar su comportamiento financiero, así como del cumplimiento de las metas y objetivos programados;
+
+XXXIX. Informar al superior jerárquico el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas administrativas a su cargo; y
+
+XL. Las demás que establezca el Pleno y las Comisiones.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 155.
 
-La Dirección General de Tecnologías de la Información será la encargada de impulsar la operación eficiente y la modernización en la automatización de los procesos necesarios para el ejercicio de las funciones del Poder Judicial de la Federación, a través de la generación de programas y mantenimiento de la infraestructura de cómputo.
+La Dirección General de Tecnologías de la Información será la encargada de impulsar la operación eficiente y la modernización en la automatización de los procesos necesarios para el ejercicio de las funciones del Poder Judicial de la Federación, a través de la generación de sistemas y administración de la infraestructura de cómputo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 156.
 
 El titular de la Dirección General de Tecnologías de la Información tendrá las siguientes atribuciones:
 
-I. Establecer políticas generales en materia de tecnologías de la información y comunicaciones;
+I. Dirigir y proponer la elaboración de las políticas y lineamientos en materia de tecnologías de la información y comunicaciones; las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y áreas administrativas para el uso de las aplicaciones y herramientas informáticas; así como las políticas y medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos, incluyendo los portales del Consejo en Intranet e Internet;
 
-II. Elaborar y difundir las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y áreas administrativas para la planeación, organización, desarrollo, operación, supervisión y evaluación de las aplicaciones informáticas y herramientas de desarrollo informático;
+II. Dirigir la formulación del Plan Estratégico de Tecnologías de la Información y Comunicaciones, e informar trimestralmente a la Comisión de Administración y al Pleno, respecto de su ejecución y avances;
 
-III. Elaborar anualmente el Plan Estratégico de Tecnologías de la Información y Comunicaciones y someterlo a la autorización de la Comisión de Administración y del Pleno;
+III. Coordinar la elaboración anual del Plan Estratégico de Tecnologías de la Información y Comunicaciones y someterlo a la autorización de la Comisión de Administración y del Pleno;
 
-IV. Verificar y evaluar el Plan Estratégico de Tecnologías de la Información y Comunicaciones, e informar trimestralmente a la Comisión de Administración y el Pleno, respecto de su ejecución y avances;
+IV. Coordinar, en su caso, la investigación tecnológica y estudios correspondientes para la evaluación, selección e implantación de las tecnologías de información y comunicaciones para su aprovechamiento en los órganos jurisdiccionales y en las áreas administrativas;
 
-V. Realizar la investigación tecnológica y elaborar los estudios correspondientes para la evaluación, selección e implantación de las tecnologías de información y comunicaciones para su aprovechamiento en los órganos jurisdiccionales y en las áreas administrativas;
+V. Dirigir la elaboración del anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
-VI. Elaborar el anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
+VI. Proponer al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+VII. Coordinar la elaboración de estudios técnicos de viabilidad y factibilidad y emisión, en su caso, de dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los requerimientos de sistematización de los órganos jurisdiccionales y de las áreas administrativas;
 
-VII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
+VIII. Dirigir el proceso de evaluación de solicitudes de desarrollos, proyectos y requerimientos de infraestructura y equipamiento de los órganos jurisdiccionales y de las áreas administrativas, de conformidad con las políticas y lineamientos en materia de tecnologías de la información;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+IX. Proporcionar asesoría a las áreas competentes en los aspectos técnicos y administrativos en materia de tecnologías de la información y comunicaciones;
 
-VIII. Elaborar, determinar e implementar las políticas y medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos, incluyendo los portales de Intranet e Internet del Consejo;
+X. Dirigir los procesos de administración de tecnologías de la información: desarrollo de sistemas de información, servicios de voz y datos, redes, atención a usuarios, equipamiento, infraestructura de servidores, bases de datos, centro de datos, servicios de videoconferencia, páginas web, correo electrónico; a fin de asegurar el servicio y funcionamiento adecuado de los servicios de tecnologías de la información del Consejo;
 
-IX. Desarrollar estudios técnicos de viabilidad y factibilidad y emitir, en su caso, dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los requerimientos de sistematización de los órganos jurisdiccionales y de las áreas administrativas y, así como vigilar y evaluar su manejo y funcionalidad;
-
-X. Brindar asesoría a las áreas competentes en los aspectos técnicos y de control administrativo para la formulación de bases de concurso, contratos, condiciones de pago, entregas, otorgamiento de licencias, servicios y pólizas de seguros de tecnologías de la información y comunicaciones;
-
-XI. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común y realizar las acciones necesarias para detectar posibles anomalías en el sistema de turno;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XI. Coordinar la implementación del Plan Estratégico de Tecnologías de la Información y el Plan Anual de Trabajo, tomando en consideración los recursos presupuestales asignados a su área;
 
 XII. Participar en los comités y grupos de trabajo que el Pleno, el Presidente, la Comisión de Administración o el Secretario Ejecutivo de Administración determinen;
 
-XIII. Asesorar a la Dirección General de Recursos Materiales en el manejo de los inventarios;
+XIII. Difundir entre el personal de los órganos jurisdiccionales y áreas administrativas la normatividad en materia de tecnologías de la información;
 
-XIV. Diseñar, implementar y mantener los sistemas de cableado estructurado para los servicios de voz y datos, a fin de asegurar el servicio y funcionamiento adecuado de las redes informáticas del Consejo;
+XIV. Coordinar el establecimiento de mecanismos de supervisión y vigilancia, cuya implementación sea viable, para el aseguramiento del cumplimiento de la normatividad en materia de tecnologías de la información en los órganos jurisdiccionales y en las áreas administrativas;
 
-XV. Planear, diseñar, implantar y mantener la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación del Consejo;
+XV. Asignar la supervisión de contratos a las áreas de la Dirección General de Tecnologías de la Información responsables de su vigilancia y operación para que se sujeten a las condiciones establecidas en ellos y aseguren su cumplimiento;
 
-XVI. Instalar y mantener un centro de atención para la consulta y resolución de problemas relacionados con las tecnologías de la información y las comunicaciones;
+XVI. Coordinar la implementación de un mecanismo que habilite el seguimiento, atención oportuna y verificación de las solicitudes administrativas efectuadas por los órganos jurisdiccionales y áreas administrativas, en materia de tecnologías de la información;
 
-XVII. Participar con la Dirección General de Inmuebles y Mantenimiento en el cálculo del suministro de energía eléctrica para la construcción y remodelación de inmuebles, a fin de asegurar el servicio y funcionamiento adecuado de los sistemas de cómputo, de telefonía y de redes del Consejo;
+XVII. Asegurar la dotación de infraestructura en materia de tecnologías de la información en los órganos jurisdiccionales y áreas administrativas de conformidad con los recursos presupuestales disponibles y las políticas establecidas en la materia;
 
-XVIII. Promover y coordinar el desarrollo de reuniones nacionales para transmitir la normatividad, la actualización, implantación y evaluación de programas, sistemas o procedimientos inherentes a la función administrativa regional, en materia de informática, sistemas, telefonía, redes y cableado estructurado;
+XVIII. Colaborar con la Dirección General de Comunicación Social y Vocería para el establecimiento de mecanismos para que las diferentes áreas administrativas soliciten la publicación o actualización de la información en los portales de Intranet e Internet, de conformidad con las reglas de arquitectura, especificaciones técnicas y lineamientos para la publicación de contenidos que se determinen;
 
-XIX. Difundir entre el personal de los órganos jurisdiccionales y áreas administrativas la normatividad en materia de informática, sistemas, telefonía, redes y cableado estructurado;
+XIX. Dirigir los procesos de administración de continuidad que incluyen las actividades de mantenimiento a la infraestructura de tecnologías de la información;
 
-XX. Vigilar que los servicios en materia de informática, sistemas, telefonía, redes y cableado estructurado se proporcionen con estricto apego a la normativa aplicable en los órganos jurisdiccionales y en las áreas administrativas;
+XX. Proporcionar apoyo en el rubro de transparencia y acceso a la información; y
 
-XXI. Supervisar que la prestación de servicios de telefonía, telecomunicaciones, conmutadores y servicios de tecnologías de la información, se sujeten a las condiciones establecidas en los contratos vigentes;
-
-XXII. Diseñar, implantar y mantener la infraestructura de Centros de Cómputo, a fin de asegurar el servicio y funcionamiento adecuado de los servicios de tecnologías de la información en los órganos jurisdiccionales y en las áreas administrativas;
-
-XXIII. Verificar que se proporcione el seguimiento y atención oportuna a las solicitudes administrativas efectuadas por los órganos jurisdiccionales y áreas administrativas, en materia de informática, sistemas, telefonía, redes y cableado estructurado;
-
-XXIV. Efectuar la dotación de infraestructura de telecomunicaciones y redes de datos para el buen funcionamiento de las aplicaciones informáticas en los órganos jurisdiccionales y áreas administrativas;
-
-XXV. Diseñar, modernizar y mantener el portal de Internet y de Intranet del Consejo, en coordinación con la Dirección General de Comunicación Social;
-
-XXVI. Diseñar, implantar y mantener la infraestructura de videoconferencias a nivel nacional que apoye el correcto funcionamiento de las labores sustantivas del Poder Judicial de la Federación;
-
-XXVII. Proporcionar los servicios de correo electrónico e Internet a los órganos jurisdiccionales y áreas administrativas, de acuerdo a las políticas definidas en la materia;
-
-XXVIII. Administrar, operar y mantener las diferentes bases de datos del Consejo;
-
-XXIX. Proporcionar los servicios de mantenimiento a las redes, sistemas, equipo informático, comunicación, videoconferencia, digitalización y control de gestión del Consejo;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XXX. Proporcionar apoyo en el rubro de transparencia y acceso a la información;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XXXI. Coadyuvar y, en su caso, coordinarse con las diferentes áreas administrativas para la publicación, gestión y actualización de la información en los portales de Intranet e Internet, de conformidad con las reglas de arquitectura, especificaciones técnicas y lineamientos para la publicación de contenidos que dicha Dirección General determine.
-
-La actualización a que se refiere el párrafo anterior podrán llevarla a cabo las áreas administrativas directamente o con el apoyo de la Dirección General de Tecnologías de la Información; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
-
-XXXII. Las demás que establezcan el Pleno y las Comisiones.
+XXI. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 157.
 
-La Dirección General de Tesorería coordinará la administración, gestión y ejecución de los recursos financieros autorizados por la Cámara de Diputados al Poder Judicial de la Federación, con apoyo en los lineamientos emitidos para su registro, guarda y control; asimismo, resguardará el numerario en moneda nacional y extranjera, documentos y valores puestos en su custodia y establecerá los pronósticos y metas financieras del Consejo, considerando los recursos disponibles.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 158.
 
-El titular de la Dirección General de Tesorería tendrá las siguientes atribuciones:
-
-I. Aplicar los lineamientos aprobados para el registro, pago y control de los recursos presupuestales, no presupuestales y financieros a cargo del Consejo;
-
-II. Observar las directrices, normas y criterios para la distribución de los recursos presupuestales, no presupuestales y financieros autorizados;
-
-III. Aplicar los sistemas, métodos y procedimientos aprobados para la formulación, ejercicio y control del presupuesto a cargo del Consejo;
-
-IV. Instrumentar y controlar el manejo de efectivo monetario, documentos, cuentas bancarias y valores a cargo o propiedad del Consejo, conforme a la normatividad y lineamientos aplicables, así como cumplimentar los requerimientos de información de la Suprema Corte de Justicia de la Nación;
-
-V. Formular las propuestas de pronósticos, calendarios de pago y metas financieras del Consejo;
-
-VI. Gestionar los servicios que prestan las instituciones financieras bajo una política que garantice beneficios a favor del Consejo;
-
-VII. Proponer para consideración y aprobación en su caso, los convenios y contratos con instituciones bancarias para la administración de fondos y fideicomisos que administra el Consejo, previa opinión de la Dirección General de Asuntos Jurídicos;
-
-VIII. Establecer en forma conjunta con la Dirección General de Programación y Presupuesto la propuesta de programa de pagos y someterlo a consideración y aprobación en su caso, de las instancias competentes;
-
-IX. Liberar los pagos a proveedores, contratistas, prestadores de servicios y demás acreedores del Consejo conforme a las disposiciones normativas y al calendario de pagos establecido;
-
-X. Supervisar las autorizaciones de pago nominales a través de cheque y abono a cuenta bancaria que se realicen en el Consejo;
-
-XI. Auxiliar a la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en el resguardo y custodia del numerario nacional y extranjero, valores y documentos decomisados o asegurados no reclamados o abandonados, puestos a disposición del Poder Judicial de la Federación derivados de las diversas causas procesales, o los asegurados que determine la autoridad judicial, en tanto se resuelva su situación jurídica;
-
-XII. Informar a las instancias competentes el comportamiento mensual de los ingresos y egresos del Consejo;
-
-XIII. Coordinar conjuntamente con la Dirección General de Recursos Humanos, el pago de nóminas del personal conforme al calendario de pagos;
-
-XIV. Cumplir los compromisos de pago contraídos por el Consejo en las contrataciones que realice;
-
-XV. Solicitar a las áreas administrativas en materia de seguridad y logística el apoyo para salvaguardar los recursos financieros y humanos de la Tesorería;
-
-XVI. Tramitar, controlar y suministrar los recursos requeridos para el cumplimiento de comisiones oficiales;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-XVII. Someter a consideración del Secretario Ejecutivo de Finanzas y Servicios Personales los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
-
-XVIII. Proponer proyectos de acuerdos y lineamientos en materia de su competencia;
-
-XIX. Dar seguimiento y evaluar los ingresos y egresos de los Fideicomisos e informar su comportamiento financiero, así como del cumplimiento de las metas y objetivos programados;
-
-XX. Informar al superior jerárquico el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas a su cargo; y
-
-XXI. Las demás que establezcan el Pleno, y las Comisiones.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 159.
 
 La Dirección General de Asuntos Jurídicos se encargará de llevar a cabo gestiones legales ante toda clase de autoridades, instituciones, entidades y personas para el debido resguardo de los intereses del Poder Judicial de la Federación, participar en la elaboración de su normativa; así como de brindar asesoría y asistencia técnico-jurídica a los órganos jurisdiccionales y áreas administrativas, a efecto de que los actos que realicen se ajusten al marco normativo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 160.
 
@@ -3627,139 +3245,129 @@ El titular de la Dirección General de Asuntos Jurídicos tendrá las siguientes
 
 I. Dar apoyo técnico-jurídico a los Consejeros en los asuntos que éstos le encomienden;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-II. Elaborar los proyectos de acuerdo general y demás normatividad interna del Consejo, que instruya el Pleno, el Presidente, o las Comisiones, y emitir opinión respecto de todos los proyectos de Acuerdo General que pretendan someterse a la consideración del Pleno, y demás proyectos normativos, que elaboren otras áreas;
+II. Elaborar los proyectos de acuerdo general y demás normatividad interna del Consejo, que instruya el Pleno, el Presidente, la Secretaría General o las Comisiones, y emitir opinión respecto de todos los proyectos de Acuerdo General que pretendan someterse a la consideración del Pleno, y demás proyectos normativos, que elaboren otras áreas;
 
 III. Proponer a los Consejeros los proyectos de instrumentos convencionales de colaboración, coordinación e intercambio con entidades federativas e instituciones públicas o privadas, nacionales o internacionales, que se consideren necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal y, emitir opinión sobre proyectos que se presenten al Consejo en la misma materia;
 
 IV. Coordinar los grupos de trabajo que se determinen para la actualización y simplificación del marco normativo interno;
 
-V. Resolver las consultas que, en materia técnico-jurídica, soliciten las entidades federativas e instituciones públicas o privadas, relacionadas con las atribuciones y facultades propias del Consejo cuando el Pleno así lo determine;
+V. Resolver las consultas que, en materia técnico-jurídica, soliciten las entidades federativas e instituciones públicas o privadas, relacionadas con las atribuciones y facultades propias del
 
-VI. Compilar, sistematizar y publicar los criterios jurídicos que establezca el Consejo, a través del Pleno o sus Comisiones y hacer del conocimiento del Pleno los criterios que estime contradictorios;
+Consejo cuando el Pleno así lo determine;
 
-VII. Dirigir y coordinar la compilación de leyes, reglamentos, decretos, acuerdos y circulares relacionadas con el ejercicio de las atribuciones del Consejo, y proceder a su divulgación;
+VI. Llevar a cabo las acciones para la inscripción y actualización de la base de datos del Registro de las Asociaciones Civiles, y expedir las constancias de inscripción a que se refiere la fracción
 
-VIII. Representar al Consejo en los asuntos jurídicos que le encomiende el Pleno;
+III del artículo 585 del Código Federal de Procedimientos Civiles;
 
-IX. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
+VII. Representar al Consejo en los asuntos jurídicos que le encomiende el Pleno;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+VIII. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+IX. Intervenir, en representación del Consejo, Consejeros, así como de sus órganos auxiliares y unidades administrativas, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos y otorgar el perdón si procediere, previa autorización del Pleno; transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, promover juicio de amparo e interponer los recursos previstos por la ley de la materia; otorgar poderes para comparecer en controversias laborales; otorgar y revocar poderes generales y especiales, incluyendo los que requieran de cláusula o autorización especial y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+La representación que se establece en esta fracción también se confiere a los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, en el ámbito de sus respectivas competencias, sin perjuicio de los mandatarios judiciales, delegados y autorizados, que para el efecto se designe conforme a la ley procesal de la materia;
 
-Por virtud de esta disposición, se entenderán ratificadas por dicho órgano colegiado todas las actuaciones que en los términos de ley, lleve a cabo la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las atribuciones antes enunciadas, debiendo, en todo caso, informar al Pleno y a la Comisión de Administración de las actuaciones realizadas de manera bimestral;
+X. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normativa se le formulen;
 
-XI. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normativa se le formulen;
+XI. Analizar y emitir opinión o dictamen de procedencia, de todo tipo de contratos, convenios y cualquier otro instrumento jurídico que consigne derechos u obligaciones al Consejo, salvo en aquellos casos en que se excluya expresamente la intervención de la Dirección General de Asuntos Jurídicos;
 
-XII. Analizar y emitir opinión o dictamen de procedencia, de todo tipo de contratos, convenios y cualesquier otro instrumento jurídico que consigne derechos u obligaciones al Consejo, salvo en aquellos casos en que se excluya expresamente la intervención de la Dirección General de Asuntos Jurídicos;
+XII. Establecer, organizar y mantener actualizado el registro de documentos jurídicos del Consejo, en términos de las disposiciones que al efecto se emitan;
 
-XIII. Establecer, organizar y mantener actualizado el registro de documentos jurídicos del Consejo, en términos de las disposiciones que al efecto se emitan;
+XIII. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales y áreas administrativas, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionadas con el objeto y fines del propio Consejo;
 
-XIV. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales y áreas administrativas, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionadas con el objeto y fines del propio Consejo;
+XIV. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
 
-XV. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
+XV. Asesorar en los procesos de adjudicación que celebren las unidades administrativas para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obras;
 
-XVI. Asesorar en los procesos de adjudicación que celebren las unidades administrativas para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obras;
+XVI. Emitir opinión respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone el Acuerdo General en materia de contrataciones;
 
-XVII. Emitir opinión respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone el Acuerdo General en materia de contrataciones;
+XVII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas incumplan sus propuestas o las obligaciones que asumieron;
 
-XVIII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas incumplan sus propuestas o las obligaciones que asumieron;
+XVIII. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
-XIX. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)
+XIX. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión Substanciadora Única del Poder Judicial de la Federación;
 
-XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
+XX. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros;
 
-XXI. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión Substanciadora Única del Poder Judicial de la Federación;
+XXI. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo, salvo cuando su atención corresponda a la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
 
-XXII. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros encargados de la Unidad de Enlace Legislativo;
+XXII. Rendir por sí o por conducto de los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, los informes previos y justificados en los juicios de amparo promovidos en contra del Consejo, del Presidente, de los Consejeros, y de las unidades administrativas que lo integran, así como de sus órganos auxiliares, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXIII. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo;
+XXIII. Intervenir en el proceso de integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación; en la propuesta de peritos; en la estimación de honorarios; así como en el procedimiento para la investigación del incumplimiento de las obligaciones de éstos, en términos de las disposiciones aplicables; y
 
-XXIV. Integrar el Comité de Acceso a la Información y Protección de Datos Personales;
+XXIV. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN MATERIA DE REPRESENTACIÓN DEL MINISTRO PRESIDENTE, D.O.F. 31 DE AGOSTO DE 2016)</small>
-
-XXV. Representar al Presidente en todo tipo de procedimientos jurisdiccionales, inclusive en los juicios de amparo en que sea señalado como autoridad responsable.
-
-El Director General de Asuntos Jurídicos deberá informar al Presidente del ejercicio de la atribución a que se refiere el párrafo anterior; y
-
-XXVI. Las demás que establezcan el Pleno, y las Comisiones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 161.
 
-La Dirección General de Comunicación Social será la encargada de formular e instrumentar la política de información, difusión y comunicación social del Poder Judicial de la Federación; y, de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación; así como desarrollar e implementar el esquema de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, para promover de forma unificada su imagen; y, producir directa o coordinadamente el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas, a través de la televisión, la radio, Internet, y demás medios de comunicación.
+La Dirección General de Comunicación Social y Vocería fungirá como vocera del Consejo, y será la encargada de formular e instrumentar la política de información, difusión y comunicación social del Poder Judicial de la Federación; y, de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación; así como desarrollar e implementar el esquema de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, para promover de forma unificada su imagen; y, producir directa o coordinadamente el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas, a través de la televisión, la radio, Internet, y demás medios de comunicación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 162.
 
-El Titular de la Dirección General de Comunicación Social tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+El Titular de la Dirección General de Comunicación Social y Vocería tendrá las siguientes atribuciones:
 
 I. Proponer a la Comisión de Vigilancia las políticas, normas, lineamientos y procedimientos de identidad institucional, información, difusión y comunicación social del Consejo, y ejecutarlos a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
 
-II. Llevar a cabo las acciones de enlace tendentes a establecer esquemas de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal;
+II. Fungir como vocero del Consejo para los asuntos del Poder Judicial de la Federación, así como designar previo acuerdo con el Presidente, al servidor público que en asuntos específicos podrá desarrollar esta función;
 
-III. Formular, proponer y ejecutar el programa de producción de radio y televisión del Poder Judicial de la Federación;
+III. Informar a la opinión pública y a los medios de comunicación sobre los asuntos competencia del Consejo y del Poder Judicial de la Federación;
 
-IV. Diseñar, proponer, dirigir y ejecutar la política de comunicación al interior del Poder Judicial de la Federación, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
+IV. Atender las actividades de relaciones públicas del Consejo y del Poder Judicial de la Federación con los medios de comunicación, en coordinación con los órganos jurisdiccionales y las áreas administrativas;
 
-V. Coordinar con el Canal Judicial el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
+V. Llevar a cabo las acciones de enlace tendentes a establecer esquemas de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal;
 
-VI. Producir y post-producir programas, documentales, spots y cápsulas para difundir el quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas en la radio, la televisión e Internet;
+VI. Formular, proponer y ejecutar el programa de producción de radio y televisión del Poder Judicial de la Federación;
 
-VII. Organizar y gestionar el uso de tiempos oficiales en radio y televisión para la difusión de materiales audiovisuales del Poder Judicial de la Federación;
+VII. Diseñar, proponer, dirigir y ejecutar la política de comunicación al interior del Poder Judicial de la Federación, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
 
-VIII. Organizar, proponer y ejecutar el programa para el aprovechamiento del equipo televisivo de grabación, edición, producción y postproducción del Poder Judicial de la Federación;
+VIII. Coordinar con el Canal Judicial el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
 
-IX. Apoyar en la grabación, edición y postproducción de los eventos y actividades que realicen los órganos jurisdiccionales y las áreas administrativas;
+IX. Producir y post-producir programas, documentales, spots y cápsulas para difundir el quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas en medios electrónicos y digitales;
 
-X. Organizar, preservar e informar sobre el estado de la videoteca y audioteca del Consejo;
+X. Coordinar y gestionar el uso de tiempos oficiales en radio y televisión para la difusión de materiales audiovisuales del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XI. Diseñar, proponer y ejecutar el programa para el aprovechamiento del equipo televisivo de grabación, edición, producción y postproducción del Poder Judicial de la Federación;
 
-XI. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización de los portales de Intranet e Internet del Consejo;
+XII. Apoyar en la grabación, edición y postproducción de los eventos y actividades que realicen los órganos jurisdiccionales y las áreas administrativas, así como diseñar y producir los materiales informativos y de difusión de dichos eventos en medios electrónicos, impresos y digitales;
 
-XII. Velar por la transparencia y fidelidad de la información que se proporcione a los medios de comunicación sobre asuntos de los órganos jurisdiccionales y de las áreas administrativas mediante boletines, conferencias y entrevistas de prensa;
+XIII. Organizar, preservar e informar sobre el estado de la videoteca y audioteca del Consejo;
 
-XIII. Asesorar y auxiliar a los titulares de los órganos jurisdiccionales y de las áreas administrativas en su relación con los medios de comunicación;
+XIV. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización de los portales del Consejo en Intranet e Internet;
 
-XIV. Coordinar y fomentar las relaciones de los órganos jurisdiccionales y de las áreas administrativas con los medios de comunicación;
+XV. Velar por la transparencia y fidelidad de la información que se proporcione a los medios de comunicación sobre asuntos de los órganos jurisdiccionales y de las áreas administrativas mediante boletines, conferencias y entrevistas de prensa;
 
-> <small>(REFORMADA POR EL ARTÍCULO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+XVI. Asesorar y auxiliar a los titulares de los órganos jurisdiccionales y de las áreas administrativas en su relación con los medios de comunicación;
 
-XV. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación, con excepción de los Centros de Justicia Penal;
+XVII. Coordinar y fomentar las relaciones de los órganos jurisdiccionales y de las áreas administrativas con los medios de comunicación;
 
-XVI. Efectuar investigaciones para conocer el impacto que causa en la sociedad la información proporcionada por medios de comunicación con relación al Poder Judicial de la Federación;
+XVIII. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación, con excepción de los Centros de Justicia Penal;
 
-XVII. Recopilar y sintetizar la información de interés que los medios de comunicación generan cotidianamente, en particular, la relacionada con el Poder Judicial de la Federación;
+XIX. Efectuar investigaciones para conocer el impacto que causa en la sociedad la información proporcionada por medios de comunicación en relación con el Poder Judicial de la Federación;
 
-XVIII. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas, y operar sus talleres de impresión;
+XX. Suscribir acuerdos y convenios con los sectores público, social y privado, en las materias de su competencia, para la consecución de sus objetivos;
 
-XIX. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
+XXI. Compilar y distribuir entre los órganos jurisdiccionales y las áreas administrativas la información publicada y difundida en los medios de comunicación del país, particularmente la relacionada con el Poder Judicial de la Federación;
 
-XX. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
+XXII. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas, y operar sus talleres de impresión;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXIII. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
 
-XXI. Diseñar y gestionar oportunamente la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 91, fracción X, de este Acuerdo;
+XXIV. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXV. Diseñar y gestionar oportunamente la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 91, fracción X, de este Acuerdo;
 
-XXII. Vigilar el cumplimiento de los lineamientos de identidad institucional del Consejo, así como coadyuvar y, en su caso, coordinarse con las áreas administrativas, para que éstas se apeguen a los diseños homogéneos para la publicación y actualización de información en los portales de Intranet e Internet; y
+XXVI. Vigilar el cumplimiento de los lineamientos de identidad institucional del Consejo, así como coadyuvar y, en su caso, coordinarse con las áreas administrativas, para que éstas se apeguen a los diseños homogéneos para la publicación y actualización de información en los portales de Intranet e Internet; y
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXVII. Las demás que establezcan el Pleno y las Comisiones.
 
-XXIII. Las demás que establezca el Pleno y las Comisiones.
-
-> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 163.
 
-La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias, y a la Dirección General de la Presidencia en términos de los artículos 164, fracción VIII, y 164 Ter, fracción XIV, del presente Acuerdo General.
+La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales será la responsable de auxiliar a la Secretaría General en la ejecución de las acciones que se determinen en dichas materias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3767,9 +3375,9 @@ La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internaciona
 
 El titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-I. Ejecutar los programas que establezca el Pleno y las acciones que determine el Presidente en materia de derechos humanos, igualdad de género y asuntos internacionales;
+I. Ejecutar los programas que establezca el Pleno y las acciones que determine la Secretaría General en materia de derechos humanos, igualdad de género y asuntos internacionales;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -3785,9 +3393,9 @@ IV. Fungir como enlace y apoyo del Consejo para la atención de asuntos internac
 
 V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos e igualdad de género, que incidan en el ámbito de competencia del Consejo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-VI. Coordinar las acciones de difusión que en materia de derechos humanos, igualdad de género y asuntos internacionales determine el Presidente;
+VI. Coordinar las acciones de difusión que en materia de derechos humanos, igualdad de género y asuntos internacionales determine la Secretaría General;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
@@ -3795,13 +3403,13 @@ VI Bis. Plantear al Instituto de la Judicatura Federal las necesidades de capaci
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
-> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-VIII. Asesorar, coadyuvar y apoyar a la Dirección General de la Presidencia, en los términos que esta Dirección General disponga, en la atención de las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como de aquellas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano;
+VIII. Atender las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado mexicano y que incidan en el ámbito competencial del Consejo, así como aquellas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado mexicano;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-IX. Informar trimestralmente, o con la periodicidad que se determine, al Presidente, de las actividades efectuadas y de los reportes de evaluación administrativa;
+IX. Informar trimestralmente, o con la periodicidad que se determine, a la Secretaría General, de las actividades efectuadas y de los reportes de evaluación administrativa;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
@@ -3821,77 +3429,13 @@ Para la elaboración de los reportes, las áreas administrativas que intervengan
 
 XIII. Las demás que establezcan el Pleno y el Presidente.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
 ###### Artículo 164 Bis.
 
-La Dirección General de la Presidencia se encargará de asistir al Presidente en los asuntos que de conformidad con sus atribuciones le corresponde conocer.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 164 Ter.
 
-El titular de la Dirección General de la Presidencia tendrá las siguientes atribuciones:
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-I. Enviar a los titulares de los órganos jurisdiccionales las peticiones y promociones presentadas a consideración de los Consejeros por particulares, relacionadas con acciones de carácter jurisdiccional, para que, con transparencia y en el marco de la independencia y autonomía de los juzgadores federales, les sean remitidas para su conocimiento;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-II. Integrar la carpeta del Presidente con los asuntos listados para las sesiones del Pleno;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-III. Elaborar opiniones, dictámenes y notas informativas para el Presidente, sobre los asuntos que conozca el Pleno, las Comisiones y los comités, en el ámbito de su competencia;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-IV. Recibir los escritos, peticiones y avisos que magistrados de Circuito, jueces de Distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas que conforme a sus atribuciones, corresponda tramitar y resolver;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-V. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas que correspondan o, en su caso, darles respuesta;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-VI. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones IV y V de este artículo;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-VII. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-VIII. Llevar el archivo y correspondencia de la Presidencia del Consejo;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-IX. Asistir a las reuniones interinstitucionales en las que participe el Consejo; y actuar en el ámbito de su competencia para el cumplimiento de los acuerdos tomados en dichas reuniones;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-X. Asesorar al Presidente en asuntos que le requiera, y desempeñar las comisiones y funciones que le encomiende;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XI. Participar, cuando así lo acuerde el Pleno, o lo instruya el Presidente, emitiendo opinión en las reuniones de los titulares de áreas administrativas que tengan como propósito el estudio y análisis para la creación, reforma o derogación de normas internas del propio Consejo;
-
-> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
-XII. Coordinar a las áreas administrativas involucradas en la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación;
-
-> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
-
-XIII. Coordinarse con los titulares de las áreas administrativas cuando sea necesario para el ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
-
-XIV. Atender las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como aquellas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano. Para la elaboración de los informes la Dirección General de la Presidencia se apoyará en la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, para que en su momento se sometan a consideración del Presidente del Consejo para su autorización; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
-
-XV. Las demás que establezcan el Pleno y las Comisiones.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 164 Quater.
 
@@ -3900,6 +3444,46 @@ XV. Las demás que establezcan el Pleno y las Comisiones.
 ###### Artículo 164 Quinquies.
 
 (DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 164 Sexies.
+
+La Dirección General de Archivo y Documentación, será el área administrativa encargada de desarrollar, implementar y coordinar el Sistema Institucional de Archivos, tanto del orden administrativo como del jurisdiccional, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección, digitalización, depuración y destino final de los documentos de archivo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+###### Artículo 164 Septies.
+
+El titular de la Dirección General de Archivo y Documentación, tendrá las siguientes atribuciones:
+
+I. Participar en la elaboración de las propuestas de la normativa y los criterios específicos en materia de gestión documental y administración de archivos;
+
+II. Asesorar al Comité de Transparencia, en aquellos casos relacionados con la materia de gestión documental y administración de archivos;
+
+III. Plantear al Instituto de la Judicatura las necesidades de capacitación en gestión documental y administración de archivos;
+
+IV. Asesorar en materia de gestión documental y administración de archivos a los órganos jurisdiccionales y áreas administrativas del Consejo;
+
+V. Coadyuvar en la promoción del uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
+
+VI. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
+
+VII. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia de gestión documental y administración de archivos, conforme a las atribuciones y funciones señaladas en el presente ordenamiento y en la normativa aplicable;
+
+VIII. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
+
+IX. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
+
+X. Representar al Consejo ante el Sistema Nacional de Archivos en términos de las disposiciones aplicables;
+
+XI. Coordinar la elaboración del Programa Anual de Desarrollo Archivístico y someterlo a consideración de la Secretaría Ejecutiva de Administración y de la Comisión de Administración;
+
+XII. Dictaminar sobre la organización y condiciones de los archivos bajo administración del Consejo, así como el estado de las instalaciones que estos ocupan, para establecer acciones de mejora y conservación;
+
+XIII. Participar en el ámbito de su competencia en los procesos de entrega y recepción de las áreas administrativas, cuando así lo determine la Contraloría del Poder Judicial de la Federación; y
+
+XIV. Las demás que establezcan el Pleno y la Comisión de Administración.
 
 ###### Artículo 165.
 
@@ -3921,7 +3505,9 @@ V. Auxiliar, a la Dirección General de Servicios Generales, en el uso, goce, di
 
 VI. Realizar las actividades necesarias para la construcción, mantenimiento, conservación, adaptación, remodelación y acondicionamiento de los bienes inmuebles a cargo del Consejo;
 
-VII. Localizar las edificaciones y terrenos que se juzguen convenientes y determinar la factibilidad técnica para la habilitación de espacios físicos y construcción a cargo del Consejo, en coordinación con las áreas administrativas competentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+VII. Atender las solicitudes de dictamen técnico de la Coordinación de Administración Regional, y de la Dirección General de Servicios Generales, sobre las edificaciones y terrenos que se juzguen convenientes y determinar la factibilidad técnica para la habilitación de espacios físicos y construcción a cargo del Consejo, en coordinación con las áreas administrativas competentes;
 
 VIII. Elaborar los estudios y proyectos concernientes a la asignación de espacios físicos para las zonas de trabajo de los órganos jurisdiccionales y de las áreas administrativas y proponer normas para el uso de espacios físicos y especificaciones de construcción, y someterlos a la aprobación de las instancias competentes;
 
@@ -3933,13 +3519,17 @@ XI. Ejercer conforme al Programa Anual de Ejecución de Obra Pública, los recur
 
 XII. Atender y resolver las urgencias que se presenten por casos fortuitos o fuerza mayor, en los inmuebles del Consejo;
 
-XIII. Proporcionar la información necesaria en materia de bienes inmuebles a cargo del Consejo, e informar los siniestros para los efectos que resulten procedentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+XIII. Proporcionar la información necesaria en materia de bienes inmuebles a cargo del Consejo, para los efectos que resulten procedentes; y en materia de siniestros de inmuebles de obras en proceso, coadyuvar con las Administraciones Regionales y de Edificios;
 
 XIV. Elaborar proyectos de contratos de obra, mantenimiento y servicios para los bienes inmuebles asignados al Consejo y someterlos a la aprobación de la superioridad, previo dictamen de la Dirección General de Asuntos Jurídicos;
 
 XV. Conservar la información y documentación de las obras y servicios realizados en inmuebles a cargo del Consejo y mantenerla a disposición de los órganos responsables para su revisión y en su caso, defensa legal ante posibles incumplimientos;
 
-XVI. Dirigir, supervisar, controlar y verificar el cumplimiento de las obligaciones a cargo de proveedores o contratistas derivados de pedidos y contratos; así como asumir la responsabilidad de que los bienes adquiridos, inmuebles arrendados y servicios contratados cumplan con las especificaciones técnicas y calidad pactadas;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+XVI. Dirigir, supervisar, controlar y verificar el cumplimiento de las obligaciones a cargo de proveedores o contratistas derivados de pedidos y contratos; así como vigilar que los bienes adquiridos, inmuebles arrendados y servicios contratados cumplan con las especificaciones técnicas y calidad pactadas;
 
 XVII. Dirigir, supervisar, revisar y determinar con los órganos competentes, el finiquito de las obras de construcción, adaptación y remodelación de inmuebles a cargo del Consejo;
 
@@ -3953,39 +3543,53 @@ XXI. Informar al superior jerárquico, respecto del funcionamiento y sobre el av
 
 XXII. Las demás que establezcan el Pleno, y las Comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 167.
 
-La Dirección General de Protección Civil y Salud en el Trabajo se encargará de ejecutar las acciones en materia de protección civil y salud en el trabajo en el Poder Judicial de la Federación.
+La Dirección General de Protección Civil y Salud en el Trabajo se encargará de vigilar que se implementen y actualicen los Programas Internos de Protección Civil, asimismo llevará a cabo las acciones en materia de Protección Civil y Salud en el Trabajo en el Consejo y los inmuebles del Poder Judicial de la Federación que sean requeridos.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 168.
 
 El Titular de la Dirección General de Protección Civil y Salud en el Trabajo tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para elevar la calidad de los servicios que proporciona;
+I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas en materia de Protección Civil y Salud en el Trabajo;
 
-II. Integrar, operar y actualizar el Programa de Protección Civil en el Poder Judicial de la Federación;
+II. Integrar y actualizar el Programa Anual de Protección Civil en el Poder Judicial de la Federación;
 
-III. Elaborar, difundir y aplicar las normas y programas de Protección Civil y vigilar su cumplimiento;
+III. Coordinar, difundir y vigilar el cumplimiento de las leyes, reglamentos, normas, lineamientos y programas de Protección Civil en las instalaciones del Poder Judicial de la Federación a nivel nacional y de acuerdo a la regionalización correspondiente;
 
-IV. Elaborar estudios del entorno físico en el que los servidores públicos desarrollan sus actividades y de aquéllos que contribuyan a la prevención de siniestros, así como proponer la instalación del equipo para los casos de emergencia;
+IV. Elaborar estudios de vulnerabilidad del entorno físico en el que los servidores públicos desarrollan sus actividades y de aquéllos que contribuyan a la prevención de siniestros, así como proponer estrategias y, en su caso, la instalación de sistemas y equipo para la prevención de riesgos y la atención de emergencias en los inmuebles administrados por el Consejo;
 
 V. Hacer del conocimiento del área administrativa competente las necesidades en materia de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles del Consejo, y dar seguimiento a la gestión;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
 VI. Plantear al Instituto de la Judicatura las necesidades de capacitación de Protección Civil, para el personal del Poder Judicial de la Federación;
 
-VII. Tramitar y dar seguimiento a las inconformidades que presenten los trabajadores ante las Comisiones de Seguridad y Salud en el Trabajo, y participar dentro de su competencia en su solución;
+VII. Elaborar la Estadística Nacional de Accidentes de Trabajo del Consejo y reportarla al ISSSTE;
 
-VIII. Informar el estado y avances en Protección Civil conforme a la periodicidad requerida por sus superiores y por los entes públicos competentes;
+VIII. Informar el estado y avances en protección civil conforme a la periodicidad requerida por sus superiores y por los entes públicos competentes;
 
-IX. Elaborar y mantener actualizado el padrón de brigadistas del Poder Judicial de la Federación y, coordinar la aplicación de los planes de contingencia; y
+IX. Solicitar a la Coordinación de Administración Regional y la Dirección General de Servicios Generales el padrón actualizado de brigadistas del Poder Judicial de la Federación y compilar la información para la integración del censo a nivel institucional;
 
-X. Las demás que establezcan el Pleno, y las Comisiones.
+X. Promover la suscripción de convenios de colaboración y/o concertación con los sectores público, privado y académico en materia de Protección Civil y Salud en el Trabajo que faciliten el intercambio de experiencias y mejores prácticas;
+
+XI. Elaborar en colaboración con las unidades administrativas correspondientes los dictámenes de habitabilidad de los edificios de reciente construcción o remodelación que serán administrados por el Consejo;
+
+XII. Coordinar y gestionar acciones para que las instalaciones del Poder Judicial de la Federación sean más resilientes, en colaboración de los titulares de los órganos jurisdiccionales, auxiliares y unidades administrativas;
+
+XIII. Elaborar estudios de accesibilidad y aprovechamiento de los espacios de los inmuebles a cargo del Consejo, a fin de proponer acciones de mejora en su uso, en coordinación con las áreas administrativas, en apego a las normas técnicas de la materia;
+
+XIV. Determinar los lineamientos para la elaboración de los manuales de procedimientos a llevar a cabo en caso de emergencias y/o afectaciones derivada de la ocurrencia de fenómenos perturbadores de cualquier índole; y
+
+XV. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 169.
 
 La Dirección General de Recursos Humanos se encargará de establecer y operar mecanismos de administración del personal del Poder Judicial de la Federación; así como de vigilar que se apliquen correctamente las políticas, procedimientos y disposiciones jurídico-laborales conforme a las normas y lineamientos que emita el Consejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 170.
 
@@ -3993,233 +3597,227 @@ El titular de la Dirección General de Recursos Humanos tendrá las siguientes a
 
 I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona y optimizar el aprovechamiento de los recursos del Consejo;
 
-II. Operar los subsistemas de registro, empleo y remuneraciones del personal, conforme a los lineamientos y normatividad aplicable;
+II. Operar los sistemas en materia de recursos humanos, conforme a los lineamientos y normatividad aplicable;
 
-III. Elaborar, en coordinación con la Dirección General de Programación y Presupuesto, la estimación del gasto por concepto de servicios personales, así como el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación, para prever las partidas correspondientes;
+III. Apoyar a la Dirección General de Programación, Presupuesto y Tesorería, en la estimación del gasto por concepto de servicios personales, y en la elaboración del anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación, para prever las partidas correspondientes;
 
-IV. Realizar conforme a los lineamientos y procedimientos establecidos el reclutamiento, selección, nombramiento o contratación, movimientos e incidencias del personal del Consejo;
+IV. Realizar conforme a los lineamientos y procedimientos establecidos el reclutamiento, y evaluación de candidatos a ocupar una plaza en algún órgano jurisdiccional o área administrativa a cargo del Consejo;
 
 V. Realizar el trámite de los nombramientos, prórrogas de nombramientos, contrataciones, promociones, transferencias, reubicaciones, cambios de adscripción, comisiones, suspensiones, permisos y bajas del personal administrativo y sustantivo del Consejo y, en su caso, someterlo a consideración de las instancias competentes y registrarlos;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 6 DE OCTUBRE DE 2014)</small>
+VI. Suscribir los nombramientos de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 10 al 33 de la Tabla de Puestos contemplada en el Catálogo General de Puestos del Consejo, y las credenciales del personal de los órganos jurisdiccionales y áreas administrativas de los niveles 8 a 33; así como, los avisos de baja, de licencia, de reanudación de labores, de suspensión y reinstalación de servidores públicos adscritos a áreas administrativas de los niveles 10 al 33 de la referida Tabla de Puestos;
 
-VI. Suscribir los nombramientos de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 25 al 33 de la Tabla de Puestos contemplada en el Catálogo General de Puestos del Consejo de la Judicatura Federal, y las credenciales del personal de los órganos jurisdiccionales y áreas administrativas de los niveles mencionados; así como, los avisos de baja, de licencia, de reanudación de labores, de suspensión y reinstalación de servidores públicos adscritos a áreas administrativas de los niveles 10 al 33 de la referida Tabla de Puestos;
+VII. Desarrollar y actualizar el sistema de registro de información y documentación de los servidores públicos, conforme a la normatividad aplicable;
 
-VII. Realizar los trámites de solicitudes de licencias y someterlos a consideración de las instancias competentes para su aprobación y resolver aquellos que conforme a sus facultades corresponda;
+VIII. Generar las nóminas ordinarias y extraordinarias para el pago de remuneraciones a los servidores públicos a cargo del Consejo en la Ciudad de México y Zona Metropolitana y emitir los recibos de pago correspondientes;
 
-VIII. Desarrollar y actualizar el subsistema de registro de información y documentación de los servidores públicos, conforme a la normatividad aplicable;
+IX. Integrar, controlar y resguardar los expedientes personales; de conformidad con los acuerdos del Pleno y la Comisión de Administración y los lineamientos de la Secretaría Ejecutiva de Administración, así como asesorar y brindar el apoyo requerido a la Coordinación de Administración Regional para la prestación de los servicios administrativos que en materia de recursos humanos se brinden por conducto de las administraciones regionales y delegaciones administrativas;
 
-IX. Emitir y validar las nóminas para el pago de remuneraciones, así como los recibos de pago correspondientes a los servidores públicos;
+X. Participar en el Programa de Protección Civil en coordinación con las diversas áreas administrativas;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+XI. Atender los asuntos planteados por los representantes sindicales ante las autoridades del Consejo;
 
-X. Integrar, controlar y resguardar los expedientes personales; de conformidad con los acuerdos del Pleno y la Comisión de Administración y los lineamientos de la Secretaría Ejecutiva de Finanzas y Servicios Personales, así como asesorar y brindar el apoyo requerido a la Coordinación de Administración Regional para la prestación de los servicios administrativos que en materia de recursos humanos se brinden por conducto de las administraciones regionales y delegaciones administrativas;
+XII. Dirigir, registrar, dar seguimiento y liberar la prestación de servicio social en apoyo de los órganos jurisdiccionales y áreas administrativas, y suscribir los registros, convenios y acuerdos de colaboración ante las instituciones académicas que permitan la captación de prestadores;
 
-XI. Proponer y dirigir el subsistema escalafonario, así como aplicar los premios, estímulos y recompensas que sean de su competencia y en apego a la normatividad aplicable;
+XIII. Realizar los estudios administrativos sobre plazas y plantillas de personal, conforme a los lineamientos y procedimientos establecidos y emitir las opiniones o dictámenes que le requieran;
 
-XII. Participar en el Programa de Protección Civil en coordinación con las diversas áreas administrativas;
+XIV. Llevar el registro y control de las plazas por puesto, adscripción y zona económica, así como de las plantillas y kárdex de personal;
 
-XIII. Atender los asuntos planteados por los representantes sindicales ante las autoridades del Consejo;
+XV. Operar la administración del Fondo de Ahorro Capitalizable de los Trabajadores del Consejo y realizar la liquidación en la fecha establecida por la autoridad hacendaria;
 
-XIV. Dirigir, registrar, dar seguimiento y liberar la prestación de servicio social en apoyo de las áreas administrativas;
+XVI. Elaborar las propuestas de adscripción temporal de plazas para órganos jurisdiccionales, previa solicitud de sus titulares, cuando éstos se encuentren en ciudades en las que se haya autorizado por el Pleno la creación de un nuevo órgano jurisdiccional de la misma categoría;
 
-XV. Realizar los estudios administrativos sobre plazas y plantillas de personal, conforme a los lineamientos y procedimientos establecidos y emitir las opiniones o dictámenes que le requieran;
+XVII. Tramitar las plazas de adscripción temporal para la sustitución de secretarios que funjan como titulares de órgano jurisdiccional, hasta la designación del Magistrado de Circuito o Juez de Distrito o reincorporación de los mismos, conforme a la normatividad aplicable;
 
-XVI. Llevar el registro y control de las plazas por puesto, adscripción y zona económica, así como de las plantillas y kárdex de personal;
+XVIII. Elaborar las propuestas de prórroga de las plazas de adscripción temporal cuando persistan las circunstancias que motivaron su adscripción original instruida por parte de la Comisión de Administración;
 
-XVII. Elaborar propuestas para el diseño y operación de los sistemas de estímulos y productividad del personal administrativo del Consejo;
+XIX. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente, verificando la existencia de recursos presupuestales disponibles y observando los criterios que emita la Comisión de Administración;
 
-XVIII. Llevar el control y registro de las aportaciones al Fondo de Ahorro Capitalizable de los Trabajadores del Consejo y gestionar su pago en la fecha establecida;
+XX. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
 
-XIX. Elaborar las propuestas de adscripción temporal de plazas para órganos jurisdiccionales, previa solicitud de sus titulares, cuando éstos se encuentren en ciudades en las que se haya autorizado por el Pleno la creación de un nuevo órgano jurisdiccional de la misma categoría;
+XXI. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
-XX. Tramitar, las plazas de adscripción temporal para la sustitución de secretarios que funjan como titulares de órgano jurisdiccional, hasta la designación del Magistrado de Circuito o Juez de Distrito o reincorporación de los mismos, conforme a la normatividad aplicable;
+XXII. Operar los cambios de rango salarial de las plazas de mandos medios; y homólogos que en su caso corresponde, a solicitud de los titulares de las áreas administrativas respectivas, previo cumplimiento de las disposiciones establecidas;
 
-XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal cuando persistan las circunstancias que motivaron su adscripción original instruida por parte de la Comisión de Administración;
+XXIII. Tramitar las licencias sin goce de sueldo de los servidores públicos, previa autorización de las instancias competentes;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+XXIV. Informar por escrito, la improcedencia de aquellas solicitudes de licencia que no se ajusten a los artículos 166 y 167 de la Ley y a la regulación prevista en el Acuerdo General respectivo, así como de aquellas solicitudes que en materia de recursos humanos sean notoriamente improcedentes conforme a la Ley y demás acuerdos aplicables;
 
-XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
+XXV. Tramitar las licencias a que se refiere el artículo 167 de la Ley, para en su caso enviarlas al Pleno para su autorización;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+XXVI. Autorizar las licencias prejubilatorias de los servidores públicos del Poder Judicial de la Federación, con excepción de magistrados de Circuito y jueces de Distrito, que serán otorgadas por el Pleno;
 
-XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
+XXVII. Tramitar las solicitudes de comisiones sindicales con o sin goce de sueldo, formuladas por el Secretario General del Comité Ejecutivo Nacional del Sindicato, debiendo encontrarse, en el caso de aquellas con goce de sueldo, dentro del número de plazas autorizadas para este efecto por el Pleno, así como, elaborar y suscribir todos los avisos de comisión que en su caso autorice el Consejo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+XXVIII. Tramitar y en su caso autorizar las sustituciones del personal que desempeñe comisión sindical, a solicitud del titular de la adscripción, siempre que se trate del número de plazas autorizadas por el Pleno;
 
-XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXIX. Tramitar las renuncias del personal de los órganos jurisdiccionales y áreas administrativas a cargo del Consejo;
 
-XXV. Operar, los cambios de rango de sueldo autorizados de las plazas de subdirector de área y jefe de departamento, a solicitud de los titulares de las áreas administrativas correspondientes, previo cumplimiento de las disposiciones establecidas;
+XXX. Tramitar la ayuda de gastos funerarios y/o pago de defunción en términos de las disposiciones normativas aplicable (sic) para tal efecto;
 
-XXVI. Tramitar las licencias sin goce de sueldo de los servidores públicos, previa autorización de las instancias competentes;
+XXXI. Generar el pago de horas extraordinarias del personal a cargo del Consejo en la Ciudad de México y Zona Metropolitana, conforme a la normativa vigente;
 
-XXVII. Informar, por escrito, la improcedencia de aquellas solicitudes de licencia que no se ajusten a los artículos 166 y 167 de la Ley y a la regulación prevista en el Acuerdo General respectivo, así como de aquellas solicitudes que en materia de recursos humanos sean notoriamente improcedentes conforme a la Ley y demás acuerdos aplicables;
+XXXII. Suscribir, previo dictamen favorable y en coordinación con la Dirección General de Asuntos Jurídicos, los contratos de su competencia, que se deriven de los programas específicos autorizados;
 
-XXVIII. Tramitar las licencias a que se refiere el artículo 167 de la Ley, para en su caso enviarlas al Pleno para su autorización;
+XXXIII. Asesorar, tramitar y en su caso, suscribir las constancias laborales, hojas únicas de servicios, certificaciones de préstamos, registro y control de licencias médicas, afiliación, vigencia y cobranza del ISSSTE;
 
-XXIX. Autorizar las licencias prejubilatorias de los servidores públicos del Poder Judicial de la Federación, con excepción de magistrados de Circuito y jueces de Distrito, las que serán otorgadas por el Pleno;
+XXXIV. Denegar las solicitudes de copias simples o certificadas de los documentos que obren en los expedientes personales bajo su resguardo, requeridos por instancias o personas distintas al Presidente, las Comisiones, los Consejeros, los secretarios ejecutivos, el Contralor del Poder Judicial de la Federación y el Visitador Judicial, con excepción de las peticiones formuladas por la Comisión Substanciadora Única del Poder Judicial de la Federación y de la Dirección General de Asuntos Jurídicos y del propio servidor público interesado;
 
-XXX. Tramitar las solicitudes de comisiones sindicales con o sin goce de sueldo, formuladas por el Secretario General del Comité Ejecutivo Nacional del Sindicato, debiendo encontrarse, en el caso de aquellas con goce de sueldo, dentro del número de plazas autorizadas para este efecto por el Pleno, así como, elaborar y suscribir todos los avisos de comisión que en su caso autorice el Consejo;
+XXXV. Participar en la elaboración del Manual de Remuneraciones, Prestaciones y demás Beneficios de los servidores públicos;
 
-XXXI. Tramitar y en su caso autorizar las sustituciones del personal que desempeñe comisión sindical, a solicitud del titular de la adscripción, siempre que se trate del número de plazas autorizadas por el Pleno;
+XXXVI. Emitir opinión de la propuesta del Catálogo General de Puestos del Consejo;
 
-XXXII. Tramitar las renuncias del personal que le remitan los titulares de órganos jurisdiccionales y áreas administrativas, así como las de magistrados de Circuito y jueces de Distrito y cuando así proceda y, en su caso, determinar los finiquitos correspondientes;
+XXXVII. Realizar el entero a los terceros institucionales del personal a cargo del Consejo en la Ciudad de México y Zona Metropolitana;
 
-XXXIII. Tramitar los pagos de marcha en los términos del artículo 73 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por un monto de cuatro meses de salario neto;
+XXXVIII. Validar las propuestas de movimientos e incidencias del personal a cargo del Consejo, conforme a las disposiciones aplicables;
 
-XXXIV. Calcular y cubrir el pago de horas extras, conforme a la normativa aprobada para tal efecto por el Pleno o la Comisión de Administración;
+XXXIX. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, en la Ciudad de México y Zona Conurbada; y
 
-XXXV. Suscribir, previo dictamen favorable y en coordinación con la Dirección General de Asuntos Jurídicos, los contratos de su competencia, que se deriven de los programas específicos autorizados;
-
-XXXVI. Tramitar, asesorar y, en su caso, suscribir las constancias de ingresos y antigüedad, hojas únicas de servicios, filiaciones, certificaciones de préstamos registro y control de licencias médicas, vigencia y cobranza del ISSSTE;
-
-XXXVII. Denegar las solicitudes de copias simples o certificadas de los documentos que obren en los expedientes personales bajo su resguardo, requeridos por instancias o personas distintas al Presidente, las Comisiones, los Consejeros, los secretarios ejecutivos, el Contralor del Poder Judicial de la Federación y el Visitador Judicial, con excepción de las peticiones formuladas por la Comisión Substanciadora Única del Poder Judicial de la Federación y de la Dirección General de Asuntos Jurídicos y del propio servidor público interesado;
-
-XXXVIII. Elaborar el Manual de Remuneraciones, Prestaciones y demás Beneficios de los Servidores Públicos;
-
-XXXIX. Emitir opinión de la propuesta del Catálogo General de Puestos del Consejo; y
-
-XL. Las demás que establezcan el Pleno, y las Comisiones.
+XL. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 171.
 
 La Dirección General de Recursos Materiales será la encargada de suministrar los recursos materiales que se requieren para el adecuado funcionamiento de los órganos jurisdiccionales y áreas administrativas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 172.
 
 El titular de la Dirección General de Recursos Materiales tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración del subsistema y procedimientos de recursos materiales y registro de inmuebles del Consejo;
+I. Participar en la elaboración del subsistema y procedimientos de recursos materiales del Consejo;
 
 II. Participar en la elaboración de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para optimizar el aprovechamiento de los recursos materiales del Consejo;
 
 III. Elaborar, integrar y proponer en coordinación con las Direcciones Generales de Servicios Generales y de Inmuebles y Mantenimiento, el anteproyecto del Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como los proyectos de políticas y los criterios correspondientes;
 
-IV. Ejecutar los programas para la adquisición y contratación de bienes muebles e inmuebles requeridos por órganos jurisdiccionales y áreas administrativas, de conformidad con la normatividad aplicable;
+IV. Ejecutar los programas para la adquisición y contratación de bienes muebles requeridos por órganos jurisdiccionales y áreas administrativas, de conformidad con la normatividad aplicable;
 
 V. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de recursos materiales, así como las actividades que para el efecto resulte necesario;
 
 VI. Coordinar la recepción, registro, suministro y control de los bienes muebles de inversión y de consumo del Poder Judicial de la Federación, proveyendo lo necesario para su vigilancia, resguardo y conservación, así como realizar y actualizar su inventario;
 
-VII. Coordinar el registro y control de los bienes inmuebles del Poder Judicial de la Federación, proveyendo lo necesario para su vigilancia, resguardo y conservación, así como realizar y actualizar su inventario;
+VII. Dirigir, operar y vigilar el cumplimiento de las políticas de organización y funcionamiento del almacén general del Poder Judicial de la Federación;
 
-VIII. Dirigir, operar y vigilar el cumplimiento de las políticas de organización y funcionamiento del almacén general del Poder Judicial de la Federación;
+VIII. Llevar a cabo los procedimientos de adquisición y contratación de los bienes muebles, arrendamientos de éstos y servicios generales para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
 
-IX. Llevar a cabo los procedimientos de adquisición y contratación de los bienes muebles, inmuebles, arrendamientos y servicios generales para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
+IX. Formalizar, previa opinión de la Dirección General de Asuntos Jurídicos, las adjudicaciones de bienes muebles, arrendamientos de estos y servicios generales, así como llevar a cabo la elaboración y en su caso trámite para la formalización y firma de los contratos correspondientes;
 
-X. Formalizar, previa opinión de la Dirección General de Asuntos Jurídicos, las adjudicaciones de bienes muebles, inmuebles, arrendamientos y servicios generales, así como llevar a cabo la elaboración y en su caso trámite para la formalización y firma de los contratos correspondientes;
+X. Realizar los trámites necesarios ante la Secretaría de Hacienda y Crédito Público y la Secretaría de Economía, referentes a la adquisición de bienes de procedencia extranjera y demás relacionados;
 
-XI. Realizar los trámites necesarios ante la Secretaría de Hacienda y Crédito Público y la Secretaría de Economía, referentes a la adquisición de bienes de procedencia extranjera y demás relacionados;
+XI. Supervisar la recepción, conjunta con el área requirente y custodiar los bienes muebles, así como instrumentar el procedimiento para su afectación y destino, tratándose de recepción y validación de garantías;
 
-XII. Supervisar la recepción, conjunta con el área requirente y custodiar los bienes muebles, así como instrumentar el procedimiento para su afectación y destino, tratándose de recepción y validación de garantías;
+XII. Dar seguimiento al puntual y efectivo cumplimiento de las obligaciones a cargo de proveedores o contratistas que se deriven de pedidos y contratos en materia de adquisición de bienes muebles del Poder Judicial de la Federación;
 
-XIII. Dar seguimiento al puntual y efectivo cumplimiento de las obligaciones a cargo de proveedores o contratistas que se deriven de pedidos y contratos en materia de adquisición de bienes muebles e inmuebles del Poder Judicial de la Federación;
+XIII. Realizar en coordinación con las áreas administrativas competentes, las actividades relativas a la recepción y custodia de los bienes que por disposición o resolución judicial se hayan asegurado o decomisado, de conformidad con las disposiciones aplicables, y coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en las actividades correspondientes al destino de dichos bienes;
 
-XIV. Tramitar, previa validación de la Secretaría Ejecutiva de Administración y, en su caso, opinión de la Dirección General de Asuntos Jurídicos, los contratos de arrendamiento de inmuebles que le correspondan conforme a la normatividad aplicable al Poder Judicial de la Federación;
+XIV. Apoyar en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
 
-XV. Realizar, en coordinación con las áreas administrativas competentes, las actividades relativas a la recepción y custodia de los bienes que por disposición o resolución judicial se hayan asegurado o decomisado, de conformidad con las disposiciones aplicables, y coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en las actividades correspondientes al destino de dichos bienes;
+XV. Proponer, coordinar y vigilar en el ámbito de su competencia el programa de austeridad y disciplina presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
 
-XVI. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
+XVI. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración determinen;
 
-XVII. Proponer, coordinar y vigilar en el ámbito de su competencia el programa de austeridad y disciplina presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
+XVII. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo, del avance y logro de objetivos y metas programadas, en el ámbito de su competencia; y
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-XVIII. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración determinen;
-
-XIX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas, en el ámbito de su competencia; y
-
-XX. Las demás que establezcan el Pleno y las Comisiones.
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 173.
 
-La Dirección General de Servicios al Personal será la responsable de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación; así como de supervisar que las acciones educativas y asistenciales para el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en el Poder Judicial de la Federación se realicen de manera integral, con la finalidad de proporcionar un servicio eficiente y de calidad con base en las disposiciones aplicables.
+La Dirección General de Servicios al Personal será la responsable de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación; y de proporcionar el servicio médico inicial o de primer contacto, desarrollar e instrumentar las campañas y programas en materia de salud, elaborar el diagnóstico institucional de salud, promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones para el buen funcionamiento y operación de los servicios médicos del Consejo; así como supervisar que las acciones educativas y asistenciales para el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en el Poder Judicial de la Federación se realicen de manera integral, con la finalidad de proporcionar un servicio eficiente y de calidad.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 174.
 
 El titular de la Dirección General de Servicios al Personal tendrá las atribuciones siguientes:
 
-I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan optimizar el aprovechamiento de los recursos del Consejo;
+I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona, y optimizar el aprovechamiento de los recursos del Consejo;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+II. Elaborar la estimación del gasto por concepto de prestaciones, seguros y servicios, y proporcionar la información para el anteproyecto del presupuesto anual de egresos del Poder Judicial de la Federación;
 
-II. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la operación del servicio de desarrollo infantil que proporciona el Consejo;
+III. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la operación del servicio de desarrollo infantil que proporciona el Consejo;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+IV. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de salud y de servicios de desarrollo infantil para los servidores públicos y sus familiares;
 
-II. Bis. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de servicios de desarrollo infantil para los servidores públicos y sus familiares;
+V. Supervisar el cumplimiento de las políticas, normas y procedimientos derivados de la legislación para la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+VI. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de desarrollo infantil que se realizan en el ámbito de la educación inicial y preescolar;
 
-II. Ter. Supervisar el cumplimiento de las políticas, normas y procedimientos derivados de la legislación para la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
+VII. Coordinar, dirigir, controlar y supervisar la operación del programa de apoyo para guarderías particulares que se otorga a los servidores públicos y asesorarlos para la utilización de las guarderías del ISSSTE;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+VIII. Proponer políticas y programas relativos al subsistema de prestaciones y servicios que no correspondan a otra unidad administrativa;
 
-II. Quater. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de desarrollo infantil que se realizan en el ámbito de la educación inicial y preescolar;
+IX. Vigilar la ejecución de políticas, programas y normas que regulan el otorgamiento de prestaciones y servicios autorizados;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+X. Realizar trámites ante terceros en lo relativo a prestaciones, seguros y servicios para el personal del Poder Judicial de la Federación y difundir esa información entre los servidores públicos;
 
-III. Proponer políticas y programas relativos al subsistema de prestaciones y servicios en las áreas y materias que no correspondan a otra área administrativa;
+XI. Organizar y proponer la programación de actividades culturales, cívicas, deportivas y recreativas para servidores públicos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+XII. Participar, en coordinación con la Dirección General de Recursos Humanos, en la propuesta, difusión y aplicación de las normas que regulen las relaciones laborales, así como apoyar a los representantes del Consejo que integran la Comisión de Seguridad y Salud en el Trabajo;
 
-IV. Vigilar la ejecución de políticas, programas y normas que regulan el otorgamiento de prestaciones y servicios autorizados;
+XIII. Atender asuntos planteados por los representantes sindicales ante el Consejo;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XIV. Recibir y tramitar solicitudes de pensiones complementarias de Magistrados de Circuito y Jueces de Distrito en retiro, y proporcionar los apoyos autorizados para magistrados de Circuito y jueces de Distrito en activo; así como de prestaciones médicas complementarias y apoyos económicos extraordinarios autorizados, mediante la elaboración de proyectos de resolución;
 
-V. Coordinar, dirigir, controlar y supervisar la operación del programa de apoyo para guarderías particulares que se otorga a los servidores públicos, y asesorarlos para la utilización de las guarderías del ISSSTE;
+XV. Tramitar y controlar los seguros personales y asesorar sobre pensiones, jubilaciones, prestaciones médicas complementarias, apoyos económicos extraordinarios, y los demás relativos a servicios personales;
 
-VI. Realizar trámites ante terceros en lo relativo a prestaciones, seguros y servicios para el personal del Poder Judicial de la Federación y difundir esa información entre los servidores públicos;
+XVI. Proponer contratos de prestación de servicios derivados de programas autorizados por la Comisión de Administración o el Pleno y someterlos a dictamen de la Dirección General de Asuntos Jurídicos;
 
-VII. Organizar y proponer la programación de actividades culturales, cívicas, deportivas y recreativas para servidores públicos;
+XVII. Participar en el Programa de Protección Civil en coordinación con las áreas administrativas;
 
-VIII. Participar, en coordinación con la Dirección General de Recursos Humanos, en la propuesta, difusión y aplicación de las normas que regulen las relaciones laborales, así como apoyar a los representantes del Consejo que integran la Comisión de Seguridad y Salud en el Trabajo;
+XVIII. Informar al superior jerárquico, sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
 
-IX. Atender asuntos planteados por los representantes sindicales ante el Consejo;
+XIX. Vigilar la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
 
-X. Recibir y tramitar solicitudes de pensiones complementarias de magistrados de Circuito y jueces de Distrito, así como de prestaciones médicas complementarias y apoyos económicos extraordinarios autorizados, así como coadyuvar en la elaboración de proyectos de resolución;
+XX. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
 
-XI. Tramitar y controlar los seguros personales y asesorar sobre pensiones, jubilaciones, prestaciones médicas complementarias, apoyos económicos extraordinarios, y los demás relativos a servicios personales;
+XXI. Implementar con apoyo de la Dirección General de Tecnologías de la Información los procesos informáticos para mejorar la operación de su área;
 
-XII. Proponer contratos de prestación de servicios derivados de programas autorizados por la Comisión de Administración o el Pleno y someterlos a dictamen de la Dirección General de Asuntos Jurídicos;
+XXII. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área;
 
-XIII. Participar en el Programa de Protección Civil en coordinación con las áreas administrativas;
+XXIII. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la prestación de los servicios de salud en los consultorios médicos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXIV. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona, y optimizar el aprovechamiento de los recursos del Consejo;
 
-XIV. Informar al superior jerárquico, sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
+XXV. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de salud;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXVI. Promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones en materia de salud, para el buen funcionamiento y operación de los servicios médicos del Consejo;
 
-XV. Vigilar, en coordinación con la Dirección General de Servicios Médicos, la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
+XXVII. Organizar, dirigir, supervisar y controlar las actividades de los servicios médicos durante la celebración de eventos oficiales, recreativos, deportivos o culturales que le sean previamente solicitados;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXVIII. Programar e implementar campañas de salud en beneficio de los servidores públicos, en coordinación con las instituciones de salud;
 
-XVI. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
+XXIX. Participar en la elaboración, difusión y aplicación de las normas y programas autorizados por la Comisión de Seguridad y Salud en el Trabajo y vigilar su cumplimiento;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXX. Gestionar ante el ISSSTE la emisión de los dictámenes relativos a las condiciones de salud de magistrados de Circuito y jueces de Distrito, para el efecto de lo dispuesto en el Acuerdo General que regule el procedimiento para la separación de los servidores públicos por incapacidad física o mental de éstos, cuando lo ordene el Pleno o la Comisión de Disciplina;
 
-XVII. Implementar procesos informáticos para mejorar la operación de su área;
+XXXI. Integrar, orientar, supervisar y controlar el funcionamiento en los centros de trabajo de las Comisiones de Seguridad y Salud en el Trabajo, así como en los centros de desarrollo e instancias infantiles;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXXII. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario del servicio médico;
 
-XVIII. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área; y
+XXXIII. Implementar procesos informáticos para mejorar la operación de los servicios médicos;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXXIV. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades médicas;
 
-XIX. Las demás que establezcan el Pleno y, las Comisiones.
+XXXV. Coordinar el proceso para la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial de la Federación en lo relativo a su área y del diagnóstico institucional de salud del Consejo;
+
+XXXVI. Rendir informes a la Comisión de Administración; y
+
+XXXVII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 175.
 
 La Dirección General de Servicios Generales será la encargada de planear, programar, suministrar y controlar los servicios generales que se requieren para el adecuado funcionamiento de los órganos jurisdiccionales y áreas administrativas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
 ###### Artículo 176.
 
 El titular de la Dirección General de Servicios Generales tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración del subsistema y procedimientos de los servicios generales;
+I. Intervenir en la elaboración del subsistema y procedimientos de los servicios generales e inmuebles;
 
 II. Participar en la elaboración de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para optimizar el aprovechamiento de los servicios generales del Poder Judicial de la Federación y elevar la calidad de los servicios que proporciona;
 
@@ -4227,103 +3825,61 @@ III. Elaborar, integrar y proponer en coordinación con las Direcciones Generale
 
 IV. Ejecutar programas derivados de la contratación de los servicios generales requeridos por órganos jurisdiccionales y áreas administrativas, de conformidad con la normatividad aplicable;
 
-V. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de prestación de servicios generales, así como las actividades que para el efecto resulte necesario;
+V. Ejecutar los programas para la adquisición y contratación de bienes inmuebles requeridos por los órganos jurisdiccionales, auxiliares y áreas administrativas, de conformidad con la normatividad aplicable;
 
-VI. Coordinar la planeación, programación suministro y control de los servicios generales, proveyendo lo necesario para su vigilancia, y correcta prestación;
+VI. Llevar a cabo el procedimiento para la adquisición de bienes inmuebles para los órganos jurisdiccionales, auxiliares y áreas administrativas del Consejo a nivel nacional de conformidad con el Programa Anual correspondiente, así como la contratación de inmuebles en arrendamiento para atender las necesidades de espacio de la Ciudad de México y Zona Metropolitana, la disponibilidad presupuestal y normatividad aplicable;
 
-VII. Dirigir, operar y vigilar el cumplimiento de las políticas de operación de la prestación de servicios del Poder Judicial de la Federación, de conformidad con las normas y procedimientos;
+VII. Formalizar, previa opinión de la Dirección General de Asuntos Jurídicos, la contratación de inmuebles en arrendamiento en la Ciudad de México y zona conurbada, así como de la documentación para adquisición de bienes inmuebles a nivel nacional;
 
-VIII. Administrar el parque vehicular propiedad del Poder Judicial de la Federación, conforme a las disposiciones y lineamientos;
+VIII. Coordinar el registro y control de los bienes inmuebles administrados por el Consejo, proveyendo lo necesario para la vigilancia, resguardo y conservación, así como realizar y actualizar su inventario;
 
-IX. Solicitar y, en su caso, elaborar los requerimientos técnicos para la contratación de los servicios para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
+IX. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de prestación de servicios generales, así como las actividades que para el efecto resulte necesario;
 
-X. Administrar los bienes inmuebles en propiedad o posesión del Poder Judicial de la Federación en el Distrito Federal y Zona Conurbada;
+X. Coordinar la planeación, programación, suministro y control de los servicios generales, proveyendo lo necesario para su vigilancia, y correcta prestación;
 
-XI. Supervisar la prestación de los servicios en los distintos bienes propiedad del Poder Judicial de la Federación;
+XI. Dirigir, operar y vigilar el cumplimiento de las políticas de operación de la prestación de servicios del Poder Judicial de la Federación, de conformidad con las normas y procedimientos;
 
-XII. Llevar a cabo el trámite de exención de pago del impuesto predial y del pago de los servicios de agua, energía eléctrica y los necesarios para el funcionamiento de las oficinas del Poder Judicial de la Federación;
+XII. Administrar el parque vehicular propiedad del Poder Judicial de la Federación, conforme a las disposiciones y lineamientos;
 
-XIII. Dar seguimiento puntual y efectivo al cumplimiento de las obligaciones a cargo de los prestadores de servicios en el marco de los pedidos y contratos formalizados por el Poder Judicial de la Federación;
+XIII. Solicitar y, en su caso, elaborar los requerimientos técnicos para la contratación de los servicios para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
 
-XIV. Efectuar el registro, renovación y administración de pólizas de seguros patrimoniales que cubren los bienes muebles e inmuebles del Poder Judicial de la Federación;
+XIV. Administrar los bienes inmuebles en propiedad o posesión del Poder Judicial de la Federación, por conducto del Consejo, en la Ciudad de México y zona conurbada;
 
-XV. Administrar, supervisar y controlar el servicio de estacionamientos oficiales, conforme a las disposiciones y lineamientos aplicables;
+XV. Llevar a cabo el procedimiento para el arrendamiento de los bienes inmuebles para los órganos jurisdiccionales, auxiliares y áreas administrativas del Consejo, en la Ciudad de México y zona conurbada, de conformidad con el Programa Anual correspondiente, disponibilidad presupuestal y la normatividad aplicable;
 
-XVI. Compilar, organizar, resguardar, actualizar y controlar la información y documentación relativa al catastro de los inmuebles administrados por el Consejo, así como establecer y mantener actualizado un sistema de administración de inmuebles con la información del inventario de los mismos;
+XVI. Tramitar, previa opinión y validación de la Dirección General de Asuntos Jurídicos, los contratos de arrendamiento de inmuebles que le correspondan conforme a la normatividad aplicable al Consejo;
 
-XVII. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
+XVII. Supervisar la prestación de los servicios en los distintos bienes propiedad del Poder Judicial de la Federación;
 
-XVIII. Proponer, coordinar y vigilar en el ámbito de su competencia el programa de austeridad y disciplina presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
+XVIII. Llevar a cabo el trámite de exención de pago del impuesto predial y del pago de los servicios de agua, energía eléctrica y los necesarios para el funcionamiento de las oficinas del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XIX. Dar seguimiento puntual y efectivo al cumplimiento de las obligaciones a cargo de los prestadores de servicios en el marco de los pedidos y contratos formalizados por el Poder Judicial de la Federación;
 
-XIX. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración determinen;
+XX. Efectuar el registro, renovación y administración de pólizas de seguros patrimoniales que cubren los bienes muebles e inmuebles del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXI. Administrar, supervisar y controlar el servicio de estacionamientos oficiales, conforme a las disposiciones y lineamientos aplicables;
 
-XX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
+XXII. Compilar, organizar, resguardar, actualizar y controlar la información y documentación relativa al catastro de los inmuebles administrados por el Consejo, así como establecer y mantener actualizado un sistema de administración de inmuebles con la información del inventario de los mismos;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXIII. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
 
-XXI. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones de Edificios, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+XXIV. Proponer, coordinar y vigilar en el ámbito de su competencia el programa de austeridad y disciplina presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+XXV. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración determinen;
 
-XXII. Las demás que establezcan el Pleno y las Comisiones.
+XXVI. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+XXVII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones de Edificios, en los portales del Consejo en Intranet e Internet, y gestionar su publicación y actualización; y
+
+XXVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 177.
 
-La Dirección General de Servicios Médicos será la unidad administrativa encargada de proporcionar el servicio médico inicial o de primer contacto, desarrollar e instrumentar las campañas y los programas en materia de salud, elaborar el diagnóstico institucional de salud, promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones para el buen funcionamiento y operación de los servicios médicos del Consejo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 178.
 
-El titular de la Dirección General de Servicios Médicos tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
-
-I. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la prestación de los servicios de salud en los consultorios médicos;
-
-II. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona, y optimizar el aprovechamiento de los recursos del Consejo;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
-
-III. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de salud;
-
-IV. Promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones en materia de salud, para el buen funcionamiento y operación de los servicios médicos del Consejo;
-
-V. Organizar, dirigir, supervisar y controlar las actividades de los servicios médicos durante la celebración de eventos oficiales, recreativos, deportivos o culturales que le sean previamente solicitados;
-
-VI. Programar e implementar campañas de salud en beneficio de los servidores públicos, en coordinación con las instituciones de salud;
-
-VII. Participar en la elaboración, difusión y aplicación de las normas y programas autorizados por la Comisión de Seguridad y Salud en el Trabajo y vigilar su cumplimiento;
-
-VIII. Gestionar ante el ISSSTE la emisión de los dictámenes relativos a las condiciones de salud de magistrados de Circuito y jueces de Distrito, para el efecto de lo dispuesto en el Acuerdo General que regule el procedimiento para la separación de los servidores públicos por incapacidad física o mental de éstos, cuando lo ordene el Pleno o la Comisión de Disciplina;
-
-IX. Integrar, orientar, supervisar y controlar el funcionamiento en los centros de trabajo de las Comisiones de Seguridad y Salud en el Trabajo, así como en los centros de desarrollo e instancias infantiles;
-
-X. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
-
-XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
-
-XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
-
-XIII. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
-
-XIV. Implementar procesos informáticos para mejorar la operación de su área;
-
-XV. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área;
-
-XVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
-
-XVII. Coordinar el proceso para la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial de la Federación en lo relativo a su área y del Diagnóstico Institucional de Salud del Consejo;
-
-XVIII. Rendir informes a la Comisión de Administración; y
-
-XIX. Las demás que establezcan el Pleno y las Comisiones.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 179.
 
@@ -4535,9 +4091,7 @@ Las ausencias de los secretarios técnicos de las Comisiones podrán ser suplida
 
 ### CAPITULO DÉCIMO PRIMERO. DE LAS ÁREAS ADSCRITAS A DIVERSAS UNIDADES ADMINISTRATIVAS
 
-#### SECCIÓN SEGUNDA BIS. DEL CENTRO DE MANEJO DOCUMENTAL Y DIGITALIZACIÓN DEL CONSEJO
-
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+#### SECCIÓN SEGUNDA BIS
 
 ###### Artículo 188.
 
@@ -4555,9 +4109,9 @@ III. Entregar los asuntos que ingresen por su conducto a las diferentes áreas a
 
 IV. Enviar la documentación oficial dirigida al interior de la República al Servicio Postal Mexicano, o entregarla al Servicio de Mensajería que remitan las áreas del Edificio Sede;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral;
+V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, la Secretaría General, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -4609,225 +4163,65 @@ Se establece como domicilio oficial del Consejo, el edificio ubicado en la aveni
 
 Toda la correspondencia y trámites relacionados con los asuntos de la competencia del Consejo, deberán dirigirse y realizarse en el domicilio señalado en el artículo anterior.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DE ENLACE DEL CONSEJO
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+
+#### SECCIÓN TERCERA
 
 ###### Artículo 193.
 
-El Archivo General del Consejo es el Área Coordinadora de Archivos, encargada de desarrollar e implementar el sistema institucional de archivos, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 194.
 
-El titular del Archivo General del Consejo tendrá a su cargo las siguientes atribuciones:
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
-I. Proponer a la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, aquellos procedimientos y métodos necesarios para el adecuado funcionamiento del Sistema Institucional de Archivos, así como el Plan Anual de Desarrollo Archivístico de los archivos bajo administración del Consejo, para someterlos a consideración del Comité de Acceso a la Información y Protección de Datos Personales del Consejo y posterior aprobación de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-II. Proponer a la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los criterios y lineamientos archivísticos para la organización y conservación de los archivos bajo la administración del Consejo, a fin de asegurar su integridad según las disposiciones aplicables, para presentarlos al Comité de Acceso a la Información y Protección de Datos Personales del Consejo y en su oportunidad a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-III. Participar en la elaboración de las propuestas de la normativa relativa a los archivos bajo la administración del Consejo;
-
-IV. Formar parte del Comité de Acceso a la Información y Protección de Datos Personales del Consejo con voz y voto, en aquellos casos relacionados con la materia archivística;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
-V. Plantear al Instituto de la Judicatura las necesidades de capacitación archivística;
-
-VI. Asesorar en materia archivística a los órganos jurisdiccionales y áreas administrativas del Consejo;
-
-VII. Promover el uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
-
-VIII. En coordinación con la unidad administrativa competente en materia Informática, determinar los métodos para la conservación de los documentos de archivo en formato electrónico;
-
-IX. Elaborar conjuntamente con la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, y someter a consideración de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, los contenidos y actualizaciones del Manual Institucional de Archivos, de los Reglamentos del Archivo Histórico y del Centro de Documentación;
-
-X. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman los archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
-
-XI. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos históricos;
-
-XII. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
-
-XIII. En coordinación con las áreas responsables, definir los espacios físicos y condiciones requeridas para la guarda, mantenimiento y conservación de los archivos bajo la administración del Consejo;
-
-XIV. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia archivística, conforme a las atribuciones y funciones señaladas en el presente ordenamiento y a la normativa aplicable;
-
-XV. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
-
-XVI. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
-
-XVII. Participar en la elaboración y revisión de los Sistemas de Manejo Ambiental a que se refiere el artículo 17 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en el tema de la racionalidad y sustentabilidad de los archivos institucionales;
-
-XVIII. Proponer a la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los mecanismos de evaluación de los archivos bajo administración del Consejo;
-
-XIX. Rendir informe sobre el estado que guarda el Archivo General, con la periodicidad que determine la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo;
-
-XX. Presentar a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, el informe anual de los avances alcanzados en materia archivística, para su difusión en el Portal de Transparencia del Consejo;
-
-XXI. Informar a la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, para que en su caso, comunique a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
-
-XXII. Las demás que establezcan el Pleno y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 194 Bis.
 
-El Centro de Manejo Documental y Digitalización del Consejo es la unidad administrativa encargada del resguardo provisional, organización, digitalización, depuración y destrucción de los expedientes judiciales a cargo de los órganos jurisdiccionales, y digitalizar los expedientes de las áreas administrativas del propio Consejo; así como de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, cuando así lo requieran.
-
-Adicionalmente, podrá auxiliar a los órganos jurisdiccionales en la transferencia de los expedientes judiciales, para su destino final a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación, de conformidad con el Acuerdo General Conjunto de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, relativo a la valoración, transferencia, y baja documental de los expedientes generados en los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, correspondiente.
-
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 194 Ter.
 
-El Centro de Manejo Documental y Digitalización del Consejo estará a cargo del servidor público que designe la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, a propuesta del titular de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo.
-
-Para ser titular del Centro de Manejo Documental y Digitalización del Consejo se requiere cumplir con los siguientes requisitos:
-
-I. Contar con título y cédula profesional en materia de archivonomía, archivología, administración, derecho, contaduría pública o informática, con una antigüedad mínima de tres años; y
-
-II. Contar con experiencia en manejo documental o archivos mínima de tres años, debidamente acreditada.
-
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 194 Quáter.
 
-El Centro de Manejo Documental y Digitalización del Consejo tendrá las siguientes atribuciones:
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
-I. Dirigir y dar seguimiento a los programas relativos a la recepción, organización, digitalización, depuración, destrucción y resguardo provisional de los expedientes judiciales, hasta su transferencia a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación, bajo custodia del Centro de Manejo Documental;
-
-II. Proporcionar el apoyo que requieran los órganos jurisdiccionales, así como las áreas administrativas del Consejo, en la digitalización de sus expedientes;
-
-III. Coordinar las acciones para la remisión de expedientes provenientes de los órganos jurisdiccionales, al Centro de Manejo Documental y Digitalización del Consejo para efectos de digitalización;
-
-IV. Auxiliar a los órganos jurisdiccionales en las gestiones necesarias para el traslado del archivo judicial bajo resguardo del Centro de Manejo Documental, a las áreas de resguardo documental de la Suprema Corte de Justicia de la Nación; de conformidad con lo establecido en el Manual para la organización de los archivos judiciales resguardados por la Suprema Corte de Justicia de la Nación, autorizado por el Ministro Presidente de la Suprema Corte de Justicia de la Nación y del Consejo;
-
-V. Apoyar a los órganos jurisdiccionales en las actividades relativas a la desintegración material del papel en desuso correspondiente a las constancias de los expedientes previamente desincorporados por los propios órganos;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
-VI. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de manejo documental y digitalización;
-
-VII. Asesorar al personal de los órganos jurisdiccionales, en las acciones de rescate de expedientes judiciales siniestrados, cuando así lo instruya el Pleno o la Comisión para la Transparencia, Acceso a la información y Protección de Datos Personales del Consejo;
-
-VIII. Someter a consideración y, en su caso, aprobación de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los manuales, políticas, normas y lineamientos del Centro de Manejo Documental y Digitalización del Consejo relacionados con la organización, resguardo, digitalización, depuración y preservación de los expedientes judiciales, así como de los demás documentos administrativos que se requieran;
-
-IX. Coordinarse con la Dirección General de Estadística Judicial, para el desarrollo de las acciones encaminadas a incorporar al Sistema Integral de Seguimiento de Expedientes, las copias digitales certificadas de los expedientes judiciales, para su entrega como parte de las transferencias al Centro de Documentación y Análisis, Archivos y Compilación de Leyes de la Suprema Corte de Justicia de la Nación, en términos del Acuerdo General Conjunto de los Plenos de la Suprema Corte de Justicia. de la Nación y del Consejo de la Judicatura Federal, relativo a la valoración, transferencia, y baja documental de los expedientes generados en los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, que corresponda;
-
-X. Coordinar con las Administraciones Regionales del Consejo, los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos, de conservación y mantenimiento requieren los órganos jurisdiccionales en el traslado de la documentación, el dispositivo de seguridad y el aseguramiento en la póliza del Consejo correspondientes;
-
-XI. Gestionar en coordinación con la Dirección General de Tecnologías de la Información, las mejoras y actualizaciones tecnológicas que se requieran, para el óptimo funcionamiento del Centro de Manejo Documental y Digitalización del Consejo;
-
-XII. Instruir sobre la expedición de las constancias de cotejo documental que soliciten los titulares de los órganos jurisdiccionales y áreas administrativas, respecto de los expedientes que hayan remitido para su digitalización;
-
-XIII. Someter a consideración de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, los movimientos de personal adscritos al Centro de Manejo Documental y Digitalización del Consejo, observando las disposiciones aplicables;
-
-XIV. Presentar a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, por conducto de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo, el Programa Anual de Trabajo, así como los informes que le sean requeridos; y
-
-XV. Las demás que determine el Pleno y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS POR ESCRITO
 
 ###### Artículo 195.
 
-La Unidad de Enlace del Consejo es el órgano operativo en materia de transparencia y acceso a la información pública del Consejo, encargado de difundir la información y fungir como vínculo entre los solicitantes de información y las distintas áreas administrativas y los órganos jurisdiccionales; además de desarrollar e implementar las acciones tendentes a la protección de datos de carácter personal, que permitan su adecuada administración y seguridad.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 196.
 
-La Unidad de Enlace del Consejo, tendrá las siguientes atribuciones:
-
-I. Gestionar la automatización, presentación y actualización de la información pública que señala el artículo 7 de la Ley de Transparencia, de las áreas administrativas y los órganos jurisdiccionales, para ponerla a disposición del público en general;
-
-II. Proporcionar el apoyo técnico necesario a las diferentes áreas administrativas y órganos jurisdiccionales, en la presentación de la información pública;
-
-III. Recibir y dar trámite a las solicitudes de acceso a la información pública y a las de acceso, rectificación, cancelación y oposición de publicación de datos personales, en términos de la Ley de Transparencia y el Reglamento conjunto de transparencia;
-
-IV. Operar los Módulos de Acceso para que las personas que lo requieran puedan solicitar el acceso a la información pública o a sus datos personales;
-
-V. Auxiliar a los solicitantes o a sus representantes en el llenado de formatos de acceso a la información pública o aquellos relativos a datos personales;
-
-VI. Orientar a los solicitantes, en la medida de lo posible, en el caso de que la información pública o sus datos personales no sean competencia del Consejo o de los órganos jurisdiccionales;
-
-VII. Comunicar por escrito al solicitante, cuando corresponda, que la petición no cuenta con los datos necesarios, no cumple con los requisitos o no es clara, precisa, concreta o particularizada;
-
-VIII. Calificar la procedencia de las solicitudes conforme a la normativa aplicable;
-
-IX. Comunicar al solicitante la disponibilidad de la información pública o de sus datos personales y, en su caso, cotizar los costos de reproducción y recibir el comprobante de pago;
-
-X. Entregar al solicitante la información correspondiente preferentemente a través del medio solicitado o por el medio existente, o bien, facilitarle los medios para que tenga acceso a ella;
-
-XI. Elaborar y proponer los procedimientos internos de acceso a la información pública, que aseguren eficiencia y eficacia en la gestión de las solicitudes;
-
-XII. Elaborar y proponer los procedimientos internos de solicitud de acceso, rectificación, cancelación y oposición de publicación de datos de carácter personal, para asegurar que éstos se pongan a disposición de sus titulares o sus representantes;
-
-XIII. Elaborar, bajo la supervisión de la Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo y el apoyo técnico de la unidad administrativa competente en materia de informática, los criterios y políticas generales para administración, seguridad y protección de datos de carácter personal que estén en posesión de las áreas administrativas y órganos jurisdiccionales;
-
-XIV. Proporcionar, el apoyo necesario a las diferentes áreas administrativas y órganos jurisdiccionales, en la administración, seguridad y protección de los datos de carácter personal que tienen bajo su resguardo;
-
-XV. Llevar el registro de las solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de publicación de datos personales, así como de sus trámites, costos y resultados;
-
-XVI. Recabar y sistematizar la información necesaria para la integración del inventario de los archivos, registros y bancos de datos de carácter personal en posesión de las áreas administrativas y órganos jurisdiccionales;
-
-XVII. Verificar que los sistemas de datos de carácter personal de las áreas administrativas y órganos jurisdiccionales cumplan con las disposiciones establecidas para la administración, seguridad y protección de los datos personales, y presentar el informe correspondiente ante el Comité de Acceso a la Información y Protección de Datos Personales del Consejo;
-
-XVIII. Ejecutar las acciones que determine el Comité de Acceso a la Información y Protección de Datos Personales del Consejo, conforme a sus funciones y en el ámbito de su competencia;
-
-XIX. Presentar al Comité de Acceso a la Información y Protección de Datos Personales del Consejo un informe trimestral sobre las actividades realizadas, que contenga los datos necesarios para la elaboración del informe a que se refiere el artículo 13 del Reglamento conjunto de transparencia;
-
-XX. Proponer actividades para la difusión entre los servidores públicos y los particulares, de los beneficios que se derivan del manejo público de la información, de las responsabilidades en el manejo, uso y conservación de los datos de carácter personal, a fin de generar la cultura de transparencia;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
-XXI. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de acceso a la información y protección de datos de carácter personal para los servidores públicos;
-
-XXII. Comunicar al Comité de Acceso a la Información y Protección de Datos Personales del Consejo sobre cualquier problema o dificultad que se presente en la atención de las solicitudes de acceso a la información pública y de datos de carácter personal; y
-
-XXIII. Las demás que determine la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo, el Comité de Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 197.
 
-La Unidad de Enlace del Consejo estará a cargo por quien designe el Pleno, a propuesta de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 198.
 
-Las áreas administrativas y los órganos jurisdiccionales brindarán el apoyo que sea requerido por la Unidad de Enlace del Consejo, para el cumplimiento de las atribuciones que tiene conferidas.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 199.
 
-El titular de la Unidad de Enlace del Consejo deberá presentar en cada sesión del Comité de Acceso a la Información y Protección de Datos Personales del Consejo:
-
-I. Informe del número de solicitudes de acceso a la información pública presentadas, así como de acceso, rectificación, cancelación y oposición a la publicación de datos personales, en razón del trámite que le correspondió, y su resultado;
-
-II. Solicitudes de prórroga de los plazos de respuesta;
-
-III. Estado de cumplimiento por parte de las áreas administrativas y órganos jurisdiccionales, de las obligaciones de transparencia y protección de datos personales, referidas en los ordenamientos aplicables;
-
-IV. Estado de cumplimiento por parte de las áreas administrativas y órganos jurisdiccionales de las resoluciones de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y del Comité de Acceso a la Información y Protección de Datos Personales del Consejo; y
-
-V. En su caso, las dificultades observadas en el cumplimiento de la normativa aplicable en materia de transparencia.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 200.
 
-La Unidad de Enlace del Consejo operará en los Módulos de Acceso, con el apoyo de las Administraciones Regionales y Delegaciones Administrativas, en donde las personas que lo requieran, podrán realizar consultas mediante el llenado de formatos, o en su caso, a través de los medios electrónicos dispuestos para tal caso.
-
-Las Administraciones Regionales y las Delegaciones Administrativas harán del conocimiento de la Unidad de Enlace del Consejo el nombre del servidor público designado como responsable del Módulo de Acceso. Con el objeto de orientar a los solicitantes en la consulta de las terminales electrónicas y en el llenado de formatos, los módulos contarán con personal capacitado.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 201.
 
-Los Módulos de Acceso tendrán las siguientes atribuciones:
-
-I. Recibir solicitudes de acceso de información pública y de acceso, rectificación, cancelación y oposición de publicación de datos personales;
-
-II. Auxiliar a los solicitantes en el llenado de formatos de acceso a la información pública o aquellos relativos a datos personales y orientarlos, en la medida de lo posible, en el caso de que la información pública o sus datos personales no sean competencia del Consejo o de los órganos jurisdiccionales;
-
-III. Remitir a la Unidad de Enlace del Consejo las solicitudes de información;
-
-IV. Entregar a los requirentes, cuando proceda, las respuestas a sus solicitudes de información y, en su caso, hacer entrega de la información, previo cumplimiento de requisitos legales y reglamentarios;
-
-V. Remitir a la Unidad de Enlace del Consejo los comprobantes de pago que hubiese recibido para el trámite de la solicitud de que se trate;
-
-VI. Informar mensualmente a la Unidad de Enlace del Consejo el número de solicitudes atendidas; y
-
-VII. Comunicar de inmediato a la Unidad de Enlace del Consejo sobre cualquier problema o dificultad que se presente en las solicitudes de acceso a la información y de datos personales.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ### CAPÍTULO DÉCIMO SEGUNDO. ADMINISTRACIONES REGIONALES Y DELEGACIONES ADMINISTRATIVAS
 
@@ -5055,17 +4449,17 @@ I. Ejercer los recursos financieros, conforme a los techos financieros y el cale
 
 II. Controlar el adecuado ejercicio del gasto de las Unidades Foráneas;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-III. Conservar, custodiar y, en su caso, expedir copias certificadas de la documentación comprobatoria y justificatoria de las operaciones financieras y resguardarla por el tiempo previsto conforme a la normatividad aplicable y conforme a las instrucciones o directivas que dé a conocer la Dirección General de Programación y Presupuesto;
+III. Conservar, custodiar y, en su caso, expedir copias certificadas de la documentación comprobatoria y justificatoria de las operaciones financieras y resguardarla por el tiempo previsto conforme a la normatividad aplicable y conforme a las instrucciones o directivas que dé a conocer la Dirección General de Programación, Presupuesto y Tesorería;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
 
 IV. Recibir, verificar, autorizar, conservar, custodiar y, en su caso, expedir copias certificadas de la documentación comprobatoria y justificatoria de las Unidades Foráneas, relativa al compromiso y ejercicio del gasto; así como revisar que se cumpla con los requisitos administrativos y fiscales; y liberar los pagos correspondientes;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-V. Informar mensualmente del ejercicio del gasto de la Administración Regional, con base en los lineamientos establecidos por la Secretaría Ejecutiva de Finanzas y Servicios Personales;
+V. Informar mensualmente del ejercicio del gasto de la Administración Regional, con base en los lineamientos establecidos por la Secretaría Ejecutiva de Administración;
 
 VI. Realizar el registro de todas las operaciones contables que se realicen en la Administración Regional, con base en los lineamientos que para el efecto establezca la Dirección General normativa correspondiente;
 
@@ -5129,19 +4523,13 @@ Los impedimentos del Visitador General y de los visitadores se regularán por lo
 
 ## TÍTULO CUARTO. DE LA PROTESTA CONSTITUCIONAL
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
-
 ###### Artículo 216.
 
-Los secretarios ejecutivos, titulares de los órganos auxiliares y visitadores judiciales rendirán la protesta constitucional ante el Pleno en sesión extraordinaria pública.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 217.
 
-Los secretarios técnicos de Comisión Permanente, los coordinadores, los directores generales, y el titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, rendirán la protesta constitucional por escrito ante el Presidente.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ###### Artículo 218.
 
@@ -5189,11 +4577,11 @@ El Pleno otorgará comisiones a los trabajadores de base para realizar funciones
 
 El Comité Ejecutivo Nacional del Sindicato formulará la solicitud correspondiente con una anticipación mínima de diez días a que se tenga programado el inicio de la comisión respectiva.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 228.
 
-El Pleno otorgará comisiones a los servidores públicos a que se refiere este Acuerdo, las que se cumplimentarán por el Secretario Ejecutivo del Pleno y por el Secretario Ejecutivo de Finanzas y Servicios Personales, en el ámbito de sus respectivas competencias.
+El Pleno otorgará comisiones a los servidores públicos a que se refiere este Acuerdo, las que se cumplimentarán por el Secretario Ejecutivo del Pleno y por el Secretario Ejecutivo de Administración, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 229.
 
@@ -5203,19 +4591,21 @@ Las comisiones de los servidores públicos deberán estar debidamente fundadas y
 
 ## TÍTULO SEXTO. DE LAS LICENCIAS Y DÍAS ECONÓMICOS
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 230.
 
-Toda licencia deberá solicitarse por escrito ante el área administrativa correspondiente, conforme a los términos del presente Acuerdo, con copia dirigida a la Secretaría Ejecutiva de Finanzas y Servicios Personales, expresando las razones que la motivan.
+Toda licencia deberá solicitarse por escrito ante el área administrativa correspondiente, conforme a los términos del presente Acuerdo, con copia dirigida a la Secretaría Ejecutiva de Administración, expresando las razones que la motivan.
 
-La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Finanzas y Servicios Personales.
+La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Administración.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario General de la Presidencia, de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en
+
+materia de Justicia Laboral; y de Transparencia, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno, serán resueltas por el Presidente; en las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -5233,11 +4623,11 @@ Podrán autorizarse sustituciones de los servidores públicos que se encuentren 
 
 El Pleno, a propuesta de la Comisión de Administración, resolverá las solicitudes de licencias no previstas en estas disposiciones, mediante acuerdos específicos que permitan atender las necesidades y continuidad del servicio.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 236.
 
-Las solicitudes de licencias de servidores públicos del Consejo, mayores a seis meses, deberán tramitarse ante la Secretaría Ejecutiva de Finanzas y Servicios Personales, quien las someterá a la consideración del Pleno, previo dictamen de la Comisión de Administración.
+Las solicitudes de licencias de servidores públicos del Consejo mayores a seis meses, deberán tramitarse ante la Secretaría Ejecutiva de Administración, quien las someterá a la consideración del Pleno, previo dictamen de la Comisión de Administración.
 
 ###### Artículo 237.
 
@@ -5305,9 +4695,9 @@ La Comisión de Seguridad y Salud en el Trabajo, está integrada por seis repres
 
 Integran la Comisión de Seguridad y Salud en el Trabajo, en representación del Consejo:
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-I. El Secretario Ejecutivo de Finanzas y Servicios Personales;
+I. El Secretario Ejecutivo de Administración;
 
 II. El Director General de Recursos Materiales;
 
@@ -5319,9 +4709,9 @@ V. El Director General de Servicios Generales; y
 
 VI. El Director General de Inmuebles y Mantenimiento.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-Los titulares de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Servicios Médicos apoyarán, en todo momento, a los integrantes de la Comisión, para lo cual podrán participar en las sesiones de la Comisión con voz pero sin voto.
+Los titulares de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Servicios al Personal apoyarán, en todo momento, a los integrantes de la Comisión, para lo cual podrán participar en las sesiones de la Comisión con voz pero sin voto.
 
 Adicionalmente, el titular de la Contraloría del Poder Judicial de la Federación podrá participar en las sesiones de la Comisión como invitado con voz pero sin voto.
 
@@ -5359,11 +4749,11 @@ VIII. Resolver, en segunda instancia, las inconformidades que presenten los trab
 
 IX. Formular los informes que le sean requeridos por el Consejo y el ISSSTE, sobre las actividades desarrolladas en materia de Seguridad e Higiene.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 251.
 
-La Comisión de Seguridad y Salud en el Trabajo será presidida por el Secretario Ejecutivo de Finanzas y Servicios Personales, quien tendrá las siguientes atribuciones:
+La Comisión de Seguridad y Salud en el Trabajo será presidida por el Secretario Ejecutivo de Administración, quien tendrá las siguientes atribuciones:
 
 I. Representar a la Comisión ante el Consejo y el ISSSTE;
 
@@ -5787,9 +5177,7 @@ El Pleno podrá modificar el contenido de los acuerdos generales que emita.
 
 ###### Artículo 291.
 
-La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos, deberá incorporar las modificaciones que se realicen a los acuerdos generales del Pleno, al texto del instrumento que se modifica, a efecto de que se sustituyan, adicionen o supriman en el articulado, para efectos de compilación normativa.
-
-A los acuerdos generales que tengan por objeto modificar los acuerdos generales no se les asignará número alguno. Para efectos de su identificación, será suficiente con la fecha de su publicación en el Diario Oficial de la Federación.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
 ...
 
@@ -6326,3 +5714,55 @@ SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluaci�
 Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
 
 Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+D.O.F. 8 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Las referencias que se hagan a la Dirección General de la Presidencia se entenderán referidas a la Secretaría General de la Presidencia del Consejo de la Judicatura Federal, de conformidad con la distribución de competencias prevista en este Acuerdo.
+
+CUARTO. Las referencias que se hagan a la Secretaría Ejecutiva de Finanzas y Servicios Personales, deberán entenderse a la Secretaría Ejecutiva de Administración, de conformidad con la distribución de competencias prevista en este Acuerdo.
+
+QUINTO. Las referencias que se hagan a la Dirección General de Programación y Presupuesto, y a la Dirección General de Tesorería, se entenderán hechas a la Dirección General de Programación, Presupuesto y Tesorería.
+
+SEXTO. Las referencias que se hagan a la Dirección General de Servicios Médicos, se entenderán hechas a la Dirección General de Servicios al Personal.
+
+SÉPTIMO. Se instruye a la Dirección General de Asuntos Jurídicos, presentar a consideración del Pleno del Consejo de la Judicatura Federal, los proyectos de acuerdos generales para adecuar los instrumentos normativos de la Compilación Normativa, dentro de los treinta días naturales siguientes a la aprobación del presente Acuerdo.
+
+OCTAVO. Modifíquese el Tabulador General de sueldos y prestaciones del Consejo de la Judicatura Federal para adicionar el puesto de Secretario General de la Presidencia del Consejo de la Judicatura Federal, correspondiéndole el nivel 6B, con las prestaciones adicionales que correspondan al cargo de Secretario Ejecutivo.
+
+Deberá utilizarse la plaza de Secretario Ejecutivo que quedará vacante en la Secretaría Ejecutiva de Finanzas y Servicios Personales, para crear el puesto de Secretario General de la Presidencia del Consejo de la Judicatura Federal.
+
+NOVENO. Los recursos materiales y financieros con que cuenta la Dirección General de la Presidencia, se transferirán a la Secretaría General de la Presidencia del Consejo de la Judicatura Federal.
+
+El personal de la Dirección General de la Presidencia deberá integrar la estructura inicial de la Secretaría General de la Presidencia del Consejo de la Judicatura Federal, lo que deberá hacerse del conocimiento de la Dirección General de Programación, Presupuesto y Tesorería y de la Dirección General de Recursos Humanos.
+
+Tanto lo referente a los recursos materiales y financieros, como lo relativo al personal, se entienden, con la excepción de la Dirección General de Comunicación Social y Vocería, que permanecerán adscritos directamente al Presidente.
+
+DÉCIMO. Los recursos materiales y financieros con que cuenta la Secretaría Ejecutiva de Finanzas y Servicios Personales, se transferirán a la Secretaría Ejecutiva de Administración.
+
+El personal de la Secretaría Ejecutiva de Finanzas y Servicios Personales se incorporará con su plaza a la Secretaría Ejecutiva de Administración. Ello, sin perjuicio de que se lleven a cabo las acciones necesarias para la reorganización de los recursos humanos.
+
+DECIMOPRIMERO. Los recursos materiales y financieros con que cuenta la Dirección General de Tesorería, se transferirán a la Dirección General de Programación, Presupuesto y Tesorería.
+
+El personal de la Dirección General de Tesorería se incorporará con su plaza a la Dirección General de Programación, Presupuesto y Tesorería. Ello, sin perjuicio de que se lleven a cabo las acciones necesarias para la reorganización de los recursos humanos.
+
+DECIMOSEGUNDO. Los recursos materiales y financieros con que cuenta la Dirección General de Servicios Médicos, se transferirán a la Dirección General de Servicios al Personal.
+
+El personal de la Dirección General de Servicios Médicos se incorporará con su plaza a la Dirección General de Servicios al Personal. Ello, sin perjuicio de que se lleven a cabo las acciones necesarias para la reorganización de los recursos humanos.
+
+DECIMOTERCERO. La Secretaría Ejecutiva de Administración deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+DECIMOCUARTO. Los asuntos que se encuentren en trámite ante la Secretaría Ejecutiva de Finanzas y Servicios Personales, serán atendidos por la Secretaría Ejecutiva de Administración.
+
+De igual forma, los asuntos que se encuentren en trámite en la Dirección General de Tesorería, serán atendidos por la Dirección General de Programación, Presupuesto y Tesorería, mientras que los que se encuentren en trámite en la Dirección General de Servicios Médicos, serán atendidos por la Dirección General de Servicios al Personal.
+
+DECIMOQUINTO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+DECIMOSEXTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional, para que elabore la propuesta de estructura orgánica y documentos administrativos que correspondan.
+
+DECIMOSÉPTIMO. Los servidores públicos que previo a la publicación de la presente reforma iniciaron funciones y no hayan protestado en sesión pública su cargo, deberán rendir la protesta descrita en el nuevo texto del artículo 18, fracción XIII, por escrito y dentro de los 30 días siguientes a aquel en que se publique el presente Acuerdo.
