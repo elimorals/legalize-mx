@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-13226
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2019-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Número 104 del Periódico Oficial del Estado Chihuahua, el sábado 29 de diciembre de 2018.
 
@@ -65,7 +65,7 @@ Corresponde a los ingresos que se recauden de las contribuciones establecidas en
 
 1.1.1 Impuesto Sobre Actos Jurídicos 19,508,229
 
-1.1.2 Impuesto Sobre Ejercicios Lucrativos 250,000
+1.1.2 (DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 1.1.3 Impuesto Sobre la Obtención de
 
@@ -887,4 +887,14 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
 
-> <small>[N. DE E. VÉASE TARIFA PARA EL COBRO DE DERECHOS PARA EL EJERCICIO FISCAL 2019 AL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 38 A LA 74.]</small>
+> <small>[N. DE E. VÉASE TARIFA PARA EL COBRO DE DERECHOS PARA EL EJERCICIO FISCAL 2019 AL P.O. DE 9 DE MARZO DE 2018, PÁGINAS DE LA 38 A LA 74.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0313/2019 II P.O., POR MEDIO DEL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2019”.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se autoriza a la Secretaría de Hacienda del Gobierno del Estado, para que realice las adecuaciones y ajustes necesarios, respecto a los ingresos estimados en la Ley de Ingresos del Estado de Chihuahua, para el Ejercicio Fiscal 2019; de igual forma se le autoriza, en su caso, para realizar los reembolsos presupuestales correspondientes a que hubiere lugar.
