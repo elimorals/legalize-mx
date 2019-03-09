@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-de-vialidad-y-transito-para-el-estado-5587
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-24"
-last_updated: "2015-07-11"
+last_updated: "2019-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2019.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2007.
 
@@ -2251,7 +2251,7 @@ I. Que lo solicite el propietario del vehículo o su representante legal tratán
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-II. Si lo solicita el conductor sancionado, presentando el original de la factura ó título de propiedad del vehículo, su licencia de conducir y la póliza de seguro vigentes, , acompañando de la boleta de infracción y del recibo de pago de la misma.
+II. Si lo solicita el conductor sancionado, presentando el original de la factura ó título de propiedad del vehículo, su licencia de conducir y la póliza de seguro vigentes, , (sic) acompañando de la boleta de infracción y del recibo de pago de la misma.
 
 III. El comprobante de pago de la multa a que se hizo acreedor o de los derechos en su caso.
 
@@ -2291,7 +2291,7 @@ A la persona que infrinja las disposiciones establecidas en la Ley o este Reglam
 
 > <small>N. DE E. VÉASE TABLAS EN EL ANEXO DEL P.O. DE 26 DE MAYO DE 2007, PÁGINAS DE LA 40 A LA 46.</small>
 
-> <small>N. DE E. VÉASE ADICIONES A LA TABLA, P.O. 24 DE AGOSTO DE 2013, PÁGINAS DE LA 4491 A LA 4493.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 24 DE AGOSTO DE 2013, PÁGINAS DE LA 4491 A LA 4493; 9 DE MARZO DE 2019, PÁGINAS DE LA 4 A LA 16.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -2392,3 +2392,13 @@ P.O. 11 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO 087/2019 REFORMA AL ARTÍCULO 202 DEL REGLAMENTO DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía General del Estado deberá realizar las gestiones correspondientes para adecuar todo instrumento y documento al presente Acuerdo. Adicionalmente, procurará la difusión del mismo entre las personas que hacen uso de las vías públicas.
+
+TERCERO. La Secretaría de Hacienda llevará a cabo las acciones conducentes a fin de proporcionar el monto que corresponda a la Fiscalía General del Estado en relación con el presente Acuerdo.
