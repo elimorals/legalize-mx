@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -71,93 +71,45 @@ Solo mediante Ley podrá afectarse un ingreso a un fin específico.
 
 ### CAPÍTULO I. IMPUESTOS SOBRE LOS INGRESOS
 
-#### SECCIÓN I. IMPUESTO SOBRE PROFESIONES Y EJERCICIOS LUCRATIVOS
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2019)</small>
 
-OBJETO
+#### SECCIÓN I. IMPUESTO SOBRE PROFESIONES Y EJERCICIOS LUCRATIVOS
 
 ###### ARTÍCULO 5.
 
-Son objeto de este impuesto los ingresos que, en efectivo o en especie, se perciban en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural, como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
-
-SUJETOS
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 6.
 
-Son sujetos de este impuesto las personas físicas que perciban ingresos por las actividades y los conceptos objeto de este impuesto, cuando se realicen dentro del Estado de Chihuahua.
-
-Cuando las personas físicas estén organizadas en agrupaciones profesionales, asociaciones, colegios, sociedades de carácter civil o cualquiera que sea su denominación, serán ellas mismas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
-
-BASE
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 7.
 
-La base de este impuesto es el total de los ingresos obtenidos con motivo de las actividades y conceptos a que se refiere el mismo.
-
-TASA
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 8.
 
-La tasa será del 2% sobre la base a que se refiere esta sección.
-
-PAGO Y CAUSACIÓN DEL IMPUESTO
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 9.
 
-El impuesto se calculará mensualmente, y deberá ser declarado y pagado en los lugares o medios de recepción autorizados, a más tardar el día 15 del mes siguiente al que corresponda el pago.
-
-OBLIGACIONES
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 10.
 
-Los sujetos de este impuesto están obligados a:
-
-I. Efectuar el pago del impuesto, a más tardar el día 15 de cada mes, mediante declaración de los ingresos que se hayan obtenido en el mes inmediato anterior.
-
-II. Recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Hacienda comisionados, todos los informes y documentos que pidan para el desempeño de sus funciones, dentro del plazo que para ello se les fije.
-
-III. Cuando se trate de agrupaciones profesionales, colegios, asociaciones, sociedades de carácter civil o cualquier otra que sea su denominación, deberán estar empadronadas.
-
-En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto.
-
-La declaración deberá proporcionar la información respecto de los ingresos que correspondan a cada uno de los socios o asociados en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
-
-IV. Señalar nombre y domicilio del depositario de los libros y, en general, de toda la documentación del contribuyente, en caso de clausura y cambio de denominación social.
-
-V. Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
-
-REVISIÓN DE DECLARACIONES
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 11.
 
-Las declaraciones de los contribuyentes serán revisadas por la Secretaría de Hacienda.
-
-Cuando de la revisión a la que se refiere el párrafo anterior, resulte que no coinciden los ingresos realmente percibidos, se procederá para hacer efectivas las diferencias del impuesto que correspondan, sin perjuicio de las sanciones a que haya lugar.
-
-ESTIMATIVA DE INGRESOS
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Hacienda, podrá estimar los ingresos objeto de este impuesto, cuando:
-
-I. Los sujetos no presenten la declaración mensual o no lleven los libros a que están obligados.
-
-II. Por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos brutos superior al declarado en un 3%.
-
-Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por los sujetos de este impuesto, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que se haya incurrido y constituyan un índice para los efectos del mismo impuesto.
-
-Sobre los ingresos totales estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
-
-OBLIGACIONES DE TERCEROS
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 ###### ARTÍCULO 13.
 
-Quienes hagan pagos a los sujetos de este impuesto están obligados a:
-
-I. Retener el impuesto cuando se trate de contribuyentes accidentales de este tributo, o exigir que los sujetos del mismo les presenten el original del recibo oficial, en el que conste el pago del impuesto.
-
-II. Exigir que los sujetos de este impuesto establezcan en los recibos que les expidan, el registro de empadronamiento estatal que se les haya otorgado.
-
-Si los sujetos no cumplen con los requisitos que establece el párrafo anterior, los terceros retendrán el importe del impuesto enterándolo en la oficina de recaudación respectiva. Si no lo hicieren se harán acreedores a las sanciones establecidas en el Código Fiscal del Estado.
+(DEROGADO, P.O. 9 DE MARZO DE 2019)
 
 #### SECCIÓN II
 
@@ -1020,3 +972,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de octubre del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0313/2019 II P.O., POR MEDIO DEL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2019”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se autoriza a la Secretaría de Hacienda del Gobierno del Estado, para que realice las adecuaciones y ajustes necesarios, respecto a los ingresos estimados en la Ley de Ingresos del Estado de Chihuahua, para el Ejercicio Fiscal 2019; de igual forma se le autoriza, en su caso, para realizar los reembolsos presupuestales correspondientes a que hubiere lugar.
