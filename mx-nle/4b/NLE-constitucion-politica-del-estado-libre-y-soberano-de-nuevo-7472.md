@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2018-12-14"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1295,7 +1295,9 @@ El organismo a que se refiere el párrafo anterior conocerá de quejas en contra
 
 Asimismo, formulará recomendaciones públicas autónomas, no vinculativas, denuncias y quejas ante las autoridades respectivas.
 
-Todo servidor público está obligado a responder las recomendaciones que les (sic) presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y publicar su negativa. El Congreso del Estado a petición de este organismo, podrá solicitar a las autoridades o servidores públicos responsables, un informe por escrito, a efecto de que explique el motivo de su negativa.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y publicar su negativa. El Congreso del Estado a solicitud de la Comisión Estatal de Derechos Humanos, podrá solicitar a las autoridades o servidores públicos estatales o municipales responsables, para que comparezcan ante dicho órgano legislativo, a efecto de que explique el motivo de su negativa.
 
 Este organismo no será competente tratándose de asuntos electorales, y jurisdiccionales.
 
@@ -2316,6 +2318,12 @@ Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opong
 ###### Art. 1o.
 
 En el Estado de Nuevo León todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política (sic) los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, y por esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal establece.
+
+(NOTA: EL 26 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2019 Y SU ACUMULADA 42/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene. DESDE EL MOMENTO DE LA CONCEPCIÓN ENTRA BAJO LA PROTECCIÓN DE LA LEY Y SE LE REPUTA COMO NACIDO PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES, HASTA SU MUERTE NATURAL, sin perjuicio de las excluyentes de responsabilidad previstas en el Código Penal para el Estado de Nuevo León.
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los Tratados Internacionales de la materia, y por lo dispuesto en esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
@@ -3383,7 +3391,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 24 DE MARZO DE 1993.
 
-UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE OCTUBRE DE 1993.
 
@@ -4093,6 +4101,18 @@ P.O. 1 DE JUNIO DE 2018.
 
 P.O. 14 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 029. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 71 PRIMER PÁRRAFO Y 85 FRACCIÓN XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 029. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 71 PRIMER PÁRRAFO Y 85 FRACCIÓN XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 103. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO DÉCIMO SEXTO DEL ARTÍCULO 87 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 107. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1, RECORRIÉNDOSE LOS SUBSECUENTES PÁRRAFOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
