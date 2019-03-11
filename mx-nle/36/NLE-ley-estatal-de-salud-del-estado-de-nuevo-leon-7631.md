@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2018-11-30"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -331,7 +331,13 @@ XX.- VIGILAR EN EL ÁMBITO DE SU COMPETENCIA, EL DEBIDO CUMPLIMIENTO DE LA LEY G
 
 XXI.- GARANTIZAR LA PRESTACIÓN DE LOS SERVICIOS DE SALUD, CONFORME A LAS NECESIDADES DE SALUD DE LA POBLACIÓN DEL ESTADO, EN NIVEL DE ATENCIÓN REQUERIDA DE MANERA PERMANENTE Y CONSTANTE DURANTE TODO EL AÑO;
 
-XXII.- LAS DEMÁS ATRIBUCIONES AFINES A LAS ANTERIORES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE LOS SISTEMAS NACIONAL Y ESTATAL DE SALUD.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2019)</small>
+
+XXII.- EN COORDINACIÓN CON LAS AUTORIDADES EDUCATIVAS PROPONER, DESARROLLAR Y APLICAR PROGRAMAS DE PREVENCIÓN DEL SUICIDIO EN NIÑAS, NIÑOS Y ADOLESCENTES; Y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2019)</small>
+
+XXIII.- LAS DEMÁS ATRIBUCIONES AFINES A LAS ANTERIORES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE LOS SISTEMAS NACIONAL Y ESTATAL DE SALUD.
 
 ###### ARTICULO 10.
 
@@ -2390,3 +2396,11 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 403. SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 17 BIS 1; Y SE ADICIONA UN ARTÍCULO 34 BIS, TODOS DE LA LEY ESTATAL DE SALUD”.]
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 094. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XXII Y POR ADICIÓN LA FRACCIÓN XXIII DEL ARTÍCULO 90 DE LA LEY ESTATAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos asignados en la Ley de Egresos del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal.
