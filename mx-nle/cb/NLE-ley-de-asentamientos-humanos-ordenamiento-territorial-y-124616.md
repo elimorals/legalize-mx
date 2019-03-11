@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2017-11-27"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -724,6 +724,32 @@ VIII. Los integrantes del Consejo nombrarán en forma oficial y por escrito a su
 El reglamento interno que apruebe y expida el Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano y sus modificaciones, en el que se regule a mayor detalle las sesiones y la actuación y participación de quienes la integran, se deberán publicar en el Periódico Oficial del Estado.
 
 Con el fin de facilitar la toma de decisiones, a las sesiones del Consejo Estatal se convocará a los Presidentes Municipales y Titulares de la Dependencia Municipal cuando los temas a tratar tengan relación o se refieren a zonas, áreas o inmuebles ubicados en su jurisdicción territorial o que afecten a ésta; y cuando el tema a tratar sí sea de su interés, pero no asistan los dos funcionarios, el asunto se pospondrá para una nueva sesión, ya sea ordinaria o extraordinaria.
+
+Artículo Artículo 20. El Estado, así como los Municipios crearán organismos de planeación urbana, como instancias técnicas para la planeación integral del territorio estatal, metropolitano o municipal.
+
+(NOTA 1: EL 9 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 17/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 2: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 16/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 3: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 4: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 5: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 15/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 6: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 16/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 7: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 8: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 9: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 22/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 10: EL 11 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, DEL DÉCIMO AL DÉCIMO CUARTO, DÉCIMO SÉPTIMO, APARTADOS A Y C, Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 20/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+PARA LOS EFECTOS DE COORDINACIÓN Y CONCERTACIÓN DE PLANES Y PROGRAMAS, EL CONGRESO DEL ESTADO LEGISLARÁ SOBRE LA CREACIÓN DE UN ORGANISMO DE PLANEACIÓN URBANA DE LA ZONA METROPOLITANA, RESPETANDO LAS FACULTADES Y OBLIGACIONES CONSTITUCIONALES OTORGADAS A LOS TRES NIVELES DE GOBIERNO.
 
 ###### Artículo 20.
 
@@ -4111,9 +4137,11 @@ VIII. Las calles o vías públicas locales tendrán como mínimo un derecho de v
 
 IX. Deberán contar con áreas públicas municipales destinadas para jardines, parques, plazas, equipamiento educativo público de nivel básico, áreas deportivas públicas y caseta de vigilancia;
 
-X. Arbolado nativo de la región en áreas de calles, camellones y demás lugares destinados a ese fin, en una cantidad igual a: Un árbol en la acera por cada lote vendible; o, máximo un árbol a cada 10-diez metros lineales; Un árbol por cada 10-iez (sic) metros lineales de camellón; y un árbol por cada 100-cien metros cuadrados de parques;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2019)</small>
 
-El número de árboles que exige el reglamento municipal, como reposición por el desmonte y retiro de flora, le serán descontados 100-cien árboles por hectárea desmontada, como provisión para sembrarse en el predio, conforme a lo previsto en este artículo; con lo anterior, se tendrá por cumplida la obligación de reposición de arbolado, por desmonte y remoción de corteza vegetal, contemplada en los reglamentos municipales; y
+X. Arbolado nativo de la región en áreas de calles, camellones y demás lugares destinados a ese fin, en una cantidad igual a: Un árbol con las siguientes características, deberá contar cuando menos con un grosor de 7.5-siete centímetros y medio, y medir no menos de un metro con treinta centímetros de altura, considerando aquellas especies que no causen daño a la infraestructura habitacional, los cuales deberán estar ya plantados al momento de su entrega, en la acera frontal de cada lote vendible, y lo mismo aplicará para una vivienda nueva o por cada departamento nuevo en su caso, y un árbol de las características señaladas por cada 7-siete metros lineales, destinándose el resto de árboles en caso de existir, para ubicarse en las áreas públicas municipales del fraccionamiento o bien donde el Municipio lo determine por escrito; un árbol por cada 7-siete metros de camellón; y un árbol por cada 100-cien metros cuadrados de parques.
+
+La obligatoriedad de plantar los arboles a que se refiere el párrafo anterior en ningún caso podrá ser conmutada por el pago de cantidad alguna en moneda o especie.
 
 XI. Solo podrán ubicarse en zonas urbanas o de reserva para el crecimiento urbano que cuenten o se prevea que pueda contar con un servicio de transporte público, por lo que deberá contar con factibilidad otorgado (sic) por la Autoridad Estatal en materia de transporte urbano.
 
@@ -7528,3 +7556,13 @@ JESÚS HUMBERTO TORRES PADILLA
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 095. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 213 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios tendrán un plazo de 90-noventa días naturales a partir de la publicación del presente decreto para que realicen las armonizaciones reglamentarias necesarias.
