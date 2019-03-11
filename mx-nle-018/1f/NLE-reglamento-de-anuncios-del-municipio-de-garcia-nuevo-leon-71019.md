@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-del-municipio-de-garcia-nuevo-leon-71019
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-01"
-last_updated: "2009-10-01"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE GARCIA, NUEVO LEON
+REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el jueves 1 de octubre de 2009.
 
@@ -34,9 +34,11 @@ REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-El presente reglamento es de interés público y sus disposiciones son de observancia general en todo el municipio de García; Nuevo León y tiene por objeto regular el otorgamiento de licencias o permisos de anuncios, su instalación, colocación, conservación y ubicación, características, requisitos y su imagen urbana; a fin de crear una imagen agradable y evitar la contaminación de los mismos. Se expide con fundamento a lo dispuesto a lo establecido (sic) por el artículo 115, fracción 11 y 111 (sic) inciso g) de la Constitución Política de los Estados Unidos Mexicanos; 131, fracción 1 (sic) de la Constitución Política del Estado de Nuevo León; 112, 123, 160, y 161 de la Ley Orgánica de la Administración Publica Municipal del Estado de Nuevo León.
+El presente reglamento es de interés público, sus disposiciones son de observancia general en todo el Municipio de García, Nuevo León, se expide con fundamento en lo dispuesto por los artículos 115, fracciones II y III, inciso g), de la Constitución Política de los Estados Unidos Mexicanos; 222 y 223, de la Ley de Gobierno Municipal del Estado de Nuevo León, y tiene por objeto, regular y controlar la instalación, distribución y difusión en lugares públicos o privados de los anuncios y estructuras para publicidad exterior, otorgando los permisos, autorizaciones o licencias respectivas.
 
 ###### ARTÍCULO 2.
 
@@ -66,9 +68,17 @@ ANUNCIO DE TECHO.- Cualquier señalamiento o anuncio ubicado sobre el techo, azo
 
 ANUNCIO ADOSADO.- Todo anuncio que use como base de sustentación las fachadas o cualquier otra parte exterior de una construcción de cualquier tipo.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+ANUNCIO ELECTRÓNICO.- Es aquel que utiliza materiales y/o mecanismos de naturaleza electrónica;
+
 ANUNCIO TIPO PALETA O BANDERA.- Señalamiento o anuncio que por su forma de sustentación tienen similitud con otros objetos, independientemente de la forma que tenga el área del anuncio.
 
 ANUNCIO PANORÁMICO.- al anuncio asentado sobre una estructura y que tiene un área mayor a 10-diez metros cuadrados.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+ANUNCIOS UNIPOLARES O BIPOLARES.- Todos aquellos que se soporten sobre una o varias estructuras fijadas en el suelo o piso de un inmueble;
 
 ÁREA DE ANUNCIO.- Todas las letras, palabras, logotipos, símbolos, diseños, marcos, cubiertas, planos, lonas, laminas, cabinas, módulos, placas y pantallas que participen en la formación del mensaje del anuncio.
 
@@ -82,9 +92,13 @@ DERECHO DE VÍA.- Área de terreno colindante a las avenidas y carreteras que se
 
 DENSIDAD DE ANUNCIOS.- Referente a la cantidad de anuncios por unidad de superficie o de longitud de alguna área especifica.
 
-DIRECCIÓN.- A la Dirección de Ecología del Municipio de García; Nuevo León.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
-DIRECTOR TÉCNICO DE OBRA Y/O PERITO RESPONSABLE.- El cual se define como el responsable técnico de la instalación, seguridad y calidad del anuncio, el cual deberá cumplir con los requisitos exigibles para desempeñar el mencionado cargo, mismos que se encuentran establecidos en el Reglamento de Construcciones vigente en el municipio de García; Nuevo León, o a falta de éste, en la Ley de Ordenamiento Territorial y de los Asentamientos vigente en el Estado de Nuevo León.
+DIRECCIÓN.- La Dirección de Ecología y Anuncios, de la Secretaría de Desarrollo Urbano y Obras Públicas, del Municipio de García, Nuevo León;
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+DIRECTOR TÉCNICO RESPONSABLE DEL ANUNCIO.- Es la persona responsable de la instalación y puesta en operación del anuncio o su estructura, así como del diseño, resistencia, calidad y seguridad del mismo, en términos del Reglamento para las Construcciones del Municipio de García, Nuevo León;
 
 FACHADA.- Pared exterior de una edificación, incluyendo cualquier añadido a la misma.
 
@@ -93,6 +107,10 @@ FACTIBILIDAD DE UBICACIÓN.- La autorización que se extiende para que un anunci
 FRENTE.- Línea divisoria en el plano vertical entre la vía pública y los límites de cada lote.
 
 INSTALACIÓN.- Colocación por cualquier medio, sin limitaciones en la acepción del término, cambiar de lugar, pegar, grapar, colgar o de cualquier manera fijar a un soporte ya existente o de nueva fabricación, rotulado o pintado de cualquier tamaño o superficie para crear un señalamiento o anuncio.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+IPPM.- Institución de Policía Preventiva Municipal de García, Nuevo León;
 
 LICENCIA.- Acto definitivo expedido por Dirección para cada señalamiento o anuncio validando su instalación.
 
@@ -104,17 +122,29 @@ MANUAL.- Al Manual de Operaciones y Procedimientos para vigilancia de la: fijaci
 
 MARQUESINA.- Cobertizo o techumbre construida de materiales sólidos, con marco de soporte e (sic) una pared exterior de una edificación.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+MOBILIARIO URBANO.- Es todo equipamiento urbano, instalaciones o módulos de las áreas o vías públicas que pueden o no tener como propósito brindar un servicio público, los cuales pueden contener publicidad en los términos del presente reglamento.
+
 PARADA DE TRANSPORTE PUBLICO.- Cualquier estructura anexa a la vía pública cuya utilidad original sea la de dar cobijo a los usuarios del transporte público de camiones o de taxis.
 
 PENDÓN O GALLARDETE.- Pieza de tela o cualquier otro material no rígido, desplegado para propósito de anuncios, avisos o señalamientos diversos.
 
 PERMISO.- Acto provisional expedido por la Dirección para los anuncios temporales.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+PLAN DE DESARROLLO URBANO.- Instrumento jurídico en cuyas disposiciones y planos cartográficos, se establecen las áreas o zonas en las cuales se permite la instalación de anuncios.
+
 PLAN PARCIAL.- A los planos cartográficos del Plan Parcial de Desarrollo Urbano de la Ciudad de García, Nuevo León que contiene las subdivisiones de la ciudad en áreas especificas con permisividad seleccionada para anuncios, así como el señalamiento de vías públicas y sus vocaciones.
 
 PROTECCIÓN CIVIL.- a la Dirección de Protección Civil de García; Nuevo León.
 
 REFRENDO.- Tramite Realizado anualmente ante la Secretaría de Finanzas y Tesorería Municipal de garcía Nuevo León para mantener la vigencia de la licencia, previo el pago de los derechos por los anuncios especificados en la referida licencia.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+REFRENDO DE ANUNCIO.- Acto mediante el cual la Secretaría, a solicitud de la parte interesada, revalida la autorización previamente otorgada.
 
 REFRENDO EXTEMPORÁNEO.- Cuando la solicitud para la ratificación y/o autorización de un anuncio ya instalado y registrado el año anterior, se presenta para su trámite en fecha posterior al 15 de febrero del año en curso.
 
@@ -124,7 +154,9 @@ REGLAMENTO DE ZONA DE PATRIMONIO.- Al Plan Parcial de Desarrollo Urbano de la Zo
 
 RESPONSABLE DEL ANUNCIO.- Toda persona moral o física que tenga participación de cualquier tipo en los anuncios y/o señalamientos a que se hacen referencia en el presente Reglamento.
 
-SECRETARÍA.- A la Secretaría de Desarrollo Urbano Económico y Planeación del Municipio de García; Nuevo León.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+SECRETARÍA.- La Secretaría de Desarrollo Urbano y Obras Públicas, del Municipio de García, Nuevo León.
 
 SOLICITUD.- Al acto de requerir la factibilidad, el permiso o la licencia para la instalación de uno o varios anuncios.
 
@@ -238,45 +270,51 @@ La responsabilidad solidaria comprende el pago de de (sic) los gastos y multas q
 
 ### CAPITULO II. ATRIBUCIONES Y RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-DE LAS ATRIBUCIONES GENERALES DE LA SECRETARÍA.- Corresponde a la Secretaría de Desarrollo Urbano, Económico y Planeación y a la Secretaría del Ayuntamiento, la vigilancia sobre la aplicación del presente Reglamento, su aplicación y ejecución de los procedimientos administrativos requeridos, la aplicación de las sanciones y medidas de seguridad, proveer en la esfera administrativa su exacta observancia así como la substanciación de los tramites relativos a las controversias que se susciten en materia de anuncios. El Presidente Municipal tendrá en todo tiempo la facultad de atracción para ejercer las atribuciones que en el presente Reglamento se conceden a la Secretaría. La Secretaría se coordinará con la Tesorería Municipal para el cobro de impuestos, derechos y sanciones pecuniarias.
+ATRIBUCIONES GENERALES DE LA SECRETARÍA.­ Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas, cumplir y hacer cumplir las disposiciones del presente reglamento. El Presidente Municipal de García, Nuevo León, tendrá en todo tiempo, la facultad de atracción o ejercicio directo de las atribuciones concedidas por este ordenamiento a la Secretaría.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
-DELEGACIÓN DE FACULTADES.- El Secretario de Desarrollo Urbano Económico y Planeación, podrá delegar funciones a los subordinados directos que correspondan, de acuerdo con lo dispuesto por el Reglamento Orgánico de Administración Pública Municipal.
+DELEGACIÓN DE FACULTADES.- El Secretario de Desarrollo Urbano y Obras Públicas, podrá delegar a sus subordinados las atribuciones que le otorga el presente reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 13.
 
-FACULTADES DE LA SECRETARÍA.- Son facultades de la Secretaria de Desarrollo Urbano, Económico y Planeación del municipio, en materia de anuncios, las siguientes:
+FACULTADES DE LA SECRETARÍA.- Son facultades y obligaciones de la Secretaría, en materia de anuncios, las siguientes:
 
-a. Determinar las normas técnicas y demás especificaciones referentes a los diversos tipos de anuncios.
+a).- Autorizar, negar, modificar o revocar los permisos, licencias o autorizaciones para anuncios, en los términos que dispone el presente reglamento;
 
-b. Otorgar, negar, revocar o cancelar licencias o permisos para anuncios.
+b).- Expedir el refrendo de los permisos, licencias y autorizaciones para la instalación de anuncios así como de su difusión y distribución:
 
-c. Practicar diligencias y operativos de inspección en relación a los anuncios instalados o en proceso, a fin de verificar el cumplimiento de este Reglamento, y en su caso, dar inicio al procedimiento administrativo que corresponda.
+c).- Ordenar y/o autorizar el desmantelamiento o retiro de anuncios;
 
-d. Ordenar a los responsables, los trabajos de conservación y reparación necesarios, para garantizar la seguridad, estabilidad y buen aspecto de los anuncios.
+d).- Ordenar visitas de inspección ordinarias o extraordinarias con respecto de los anuncios y estructuras para publicidad exterior que se encuentren instalados o en proceso de instalación, así como de la distribución y difusión de propaganda impresa y sonora, a fin de verificar que los mismos se sujeten a las disposiciones del presente reglamento, a las demás disposiciones que les sean aplicables, así como a los lineamientos o condiciones establecidos en la autorización relativa;
 
-e. Ordenar a los responsables, previo dictamen, el retiro o la modificación de las instalaciones cuando no cumplan con las condiciones de las licencias o permiso otorgado, o habiéndose cumplido con los lineamientos del presente Reglamento, el o los anuncios que amparen el permiso o la licencia correspondiente, hayan sido modificados sin conocimiento y aprobación de la Secretaría; así como de aquellos cuyos permisos o licencias; aquellos que presenten modificación en el entorno, cambio en el uso de suelo, cambios en la vialidad; o bien aquellos que por su permanencia, causen afectación al bienestar y calidad de vida de los vecinos inmediatos al sitio en donde esté instalado.
+e).- Aplicar medidas de seguridad respecto de los anuncios que representen riesgo, o que no cuenten con la licencia o permiso relativo, así como en su caso, ejecutar los trabajos necesarios, en caso de rebeldía por parte del responsable, mismos que serán con cargo al titular de la licencia respectiva y/o responsable solidario;
 
-f. Solicitar el retiro a la Dependencia Municipal correspondiente, a costa del anunciante, de los anuncios que constituyen un peligro para la vida y la seguridad de las personas y de los bienes previo dictamen que al efecto emita la Dirección de Protección Civil del Municipio de García Nuevo León; así como de aquellos anuncios que no cuentan con licencia o permiso, o sean cancelados o revocados y los que no se ajusten a este reglamento.
+f).- Imponer las sanciones administrativas y económicas a que se refiere el presente reglamento;
 
-g. Aplicar las medidas de seguridad y las sanciones correspondientes, debiendo aplicar en todo caso previo dictamen que al efecto emita la Dirección de Protección Civil del Municipio de García Nuevo León.
+g).- Ordenar cuanta medida resulte necesaria a cargo del titular de la licencia o permiso y/o responsable solidario, para la conservación, mantenimiento y reparación de anuncios y estructuras para publicidad exterior, que sean necesarios para garantizar su buen aspecto, estabilidad y seguridad, concediéndole para ello el término estrictamente necesario para tal fin;
 
-h. Llevar un control y registro de las licencias o permisos otorgados.
+h).- Resolver los recursos de inconformidad que le sean presentados en los términos previstos por el presente reglamento;
 
-i. Establecer las zonas en que se prohíba la instalación o fijación de anuncios.
+i).- Las demás que le confiere este reglamento, leyes, y demás disposiciones de observancia general que resulten aplicables.
 
-j. Expedir autorizaciones para ejecutar obras de modificación o ampliación de anuncios.
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
 
-k. Solicitar el auxilio de la Fuerza Pública.
+ARTÍCULO 13 BIS.- FACULTADES SE (SIC) LOS INSPECTORES ADESCRITOS (SIC) A LA SECRETARÍA.- Corresponde a los inspectores adscritos a la Secretaría, ejecutar las determinaciones que en base al presente reglamento ordene la Secretaría o en su caso el Director de Ecología y Anuncios; para ello estarán provistos de gafete o identificación que al efecto expida el Titular de la Secretaría.
 
-l. Las que le confiera este Reglamento y las demás disposiciones jurídicas aplicables
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-FACULTADES DE LA SECRETARÍA DE FINANZAS Y TESORERÍA MUNICIPAL.- Corresponde a la Secretaría de finanzas y Tesorería Municipal el cobro de los impuestos o derechos que correspondan por concepto de Licencias y / o permisos de acuerdo a la Ley de Hacienda de los Municipios, así como el cobro de las sanciones pecuniarias que dictamine la SDUEP. Para recuperar el gasto generado con motivo del retiro de un anuncio, realizado este por el municipio, en rebeldía del anunciante que incumplió la orden o acuerdo previsto en los artículos 59, 60, 61 y 62 del presente ordenamiento, se ajustará al procedimiento administrativo correspondiente.
+FACULTADES DE LA SECRETARÍA DE TESORERÍA, FINANZAS Y ADMINISTRACIÓN MUNICIPAL.- Corresponde a la Secretaría de Tesorería, Finanzas y Administración Municipal, realizar el cobro de los derechos y accesorios que correspondan por concepto de licencias y permisos que se expidan en términos del presente reglamento.
 
 ### CAPITULO III. DE LA CLASIFICACIÓN DE LOS ANUNCIOS
 
@@ -286,7 +324,7 @@ El presente reglamento contempla los anuncios clasificados en tipo “A”, “B
 
 ###### ARTÍCULO 16.
 
-Son anuncios tipo “A” y requieren de permiso:
+Son anuncios tipo "A" y requieren de permiso:
 
 A. La propaganda o publicidad impresa que se distribuya en forma de volantes, folletos o cualquier otro medio que se maneje en forma de distribución unitaria y que no tenga permanencia o lugar fijo.
 
@@ -300,7 +338,7 @@ E. La publicidad proyectada en pantallas visibles desde la Vía Pública.
 
 F. Los pintados en mantas, cartulinas y otros materiales semejantes que permanezcan fijos o anclados.
 
-G. Los pintados en vehículos.
+G. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 H. Los anuncios para venta o renta de propiedades.
 
@@ -308,17 +346,19 @@ I. Los que promuevan eventos especiales o culturales
 
 ###### ARTÍCULO 17.
 
-Son requisitos de los anuncios tipo “A”, los siguientes:
+Son requisitos de los anuncios tipo "A", los siguientes:
 
 a. La propaganda o publicidad distribuida a basa (sic) de volantes o folletos, solo se permitirá cuando sea repartida en los domicilios particulares o en el interior de los establecimientos que tengan libre acceso el (sic) público, quedando prohibido distribuirla en la vía pública sin la licencia correspondiente, así como también queda prohibido pegar en cualquier forma y en cualquier tipo de superficie exterior este tipo de propaganda o anuncios
 
-b. Los anuncios realizados con magna voces o aparatos de sonido fijos, solo se permitirán en el interior de los establecimientos a los cuales tengan libre acceso al público y que no sobrepasen los límites establecidos en LA NORMA OFICIAL MEXICANA ECOL 081 DE 68 decibeles. Cuando se trate de magna voces o aparatos de sonido móviles, solo tendrán carácter temporal y se sujetarán a un permiso especial otorgado por la Dirección de Ecología.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+b. La publicidad que se lleve a cabo a través de magnavoces o aparatos de sonido fijos, solo se permitirá en el interior de los establecimientos a los cuales tenga libre acceso el público y que no sobrepasen los límites máximos permisibles del nivel sonoro, establecidos en la Norma Oficial Mexicana NOM 081-SEMARNAT-1994. En el caso de magnavoces o aparatos de sonido operados o instalados en unidades móviles, se sujetaran además a un permiso temporal especial que deberá expedir la Dirección de Ecología y Anuncios.
 
 c. Los anuncios ambulantes escritos o sonoros en vehículos de tracción mecánica, en personas o semovientes se permitirán solo con restricciones solo como excepción, cuando sean de tipo temporal u ocasional y no obstruyan por su sistema, forma y dimensiones el transito de vehículos y peatones. No se permitirá el estacionamiento en la vía publica para realizar la actividad de esta clase de anuncios.
 
 d. Los anuncios proyectados por medio de aparatos cinematográficos, electrónicos o similares, en muros o pantallas; no deberán ocasionar aglomeraciones en la vía pública que obstruya el tránsito peatonal o vehicular, en caso de proyectarse a muro o edificación, deberá además contar con la autorización expresa del propietario del inmueble utilizado para tal efecto así como de la propia Dirección de Ecología.
 
-e. Los pintados o colocados en los vehículos de servicio publico o particular que se utilicen para identificación propia, deberán cumplir con los requisitos señalados por las Autoridades competentes en materia de transporte; quedando prohibida la colocación de pintura o anuncios en los cristales de los vehículos.
+e. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 18.
 
@@ -340,7 +380,7 @@ g. Los pintados o colocados en paredes, marquesinas salientes, mantas o toldos, 
 
 ###### ARTÍCULO 19.
 
-Son requisitos de los anuncios tipo “B”, los siguientes:
+Son requisitos de los anuncios tipo "B", los siguientes:
 
 a. Las dimensiones, dibujos y colocación: deberá guardar un equilibrio y armonía con los elementos arquitectónicos de las fachadas o de los edificios en los que estén colocados, así como lo colindantes. Los colocados en edificios que formen parte del conjunto de plazas, monumentos, parques o jardines; deberán ajustarse a un diseño que no altere la perspectiva del lugar o el conjunto arquitectónico y la imagen urbana característica del Municipio.
 
@@ -350,9 +390,9 @@ c. Los anuncios relativos a las actividades Turísticas, Culturales, Deportivas,
 
 d. En el caso de anuncios tipo pendón deberán de ser retirados por el que recibió la autorización y/o por el propietario de los mismos al término del permiso, sujetándose a lo dispuesto por el presente Reglamento, debiendo garantizar mediante el deposito de una cantidad de dinero suficiente en la Secretaría de Finanzas y Tesorería Municipal, para cubrir el pago de los costos que le causaría al municipio el retiro de los pendones o sus residuos y por el posible daño causado a la infraestructura urbana. Tratándose de instituciones de beneficencia pública la Tesorería Municipal podrá exentarlas de la obligación del depósito en efectivo.
 
-e. Los anuncios o señalamientos pintados o colocados en tapiales, andamios y bardas de obras en construcción, permanecerán solamente por el tiempo que dure la obra, debiendo de cumplir además de los requisitos indicados en otras disposiciones, con los siguientes: E.1) la altura máxima de los marcos sobre los que se coloquen o pinten los anuncios mencionados no pasará de 3-tres metros sobre el nivel de las banquetas ni invadir el espacio aéreo de la vía publica. E.2) El anuncio deberá estar bien acondicionado y asegurado para evitar accidentes. Y E.3) En todos los casos deberán ser retirados por la empresa al término de la obra.
+e. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
-f. Los anuncios Tipo B que por sus características de diseño o estructurales requieran de un tratamiento especial, se sujetarán a los requisitos de los anuncios Tipo C.
+f. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 g. Deberán contar con la participación de un Director Técnico de Obra, cuando se trate de los anuncios a que se refiere el artículo 26 del presente Reglamento.
 
@@ -362,79 +402,29 @@ i. Tratándose de propaganda política deberán de cumplir con las disposiciones
 
 j. Las demás que al respecto establezcan las disposiciones de este Reglamento y otros ordenamientos legales aplicables.
 
-k. El mobiliario urbano con publicidad que se autorice instalar en bienes del dominio publico como vías públicas, parque y jardines en el municipio, deberán cumplir en primera instancia con una función social y política. En caso de que su instalación sea por un particular deberá ser previa aprobación por parte de la SDUEP, bajo las condiciones y requisitos que ésta le imponga debiendo acompañar además para este caso, el proyecto y un estudio de imagen urbana y seguridad.
+k. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
-l. El área que ocupen los anuncios pintados o fijados sobre bardas, tapiales cercas, paredes, techos o cualquier parte exterior de una edificación, deberán de contar con la licencia de uso de suelo, licencia de construcción o uso de edificación para actividad comercial, industrial o de servicio y licencia expresa expedida por la SDUEP.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MARZO DE 2019)</small>
 
-TABLA NO. 1
+l. El área que ocupen los anuncios pintados o fijados sobre bardas, tapiales, cercas, paredes, techos o cualquier parte exterior de una edificación, deberán contar con la licencia de construcción, uso de suelo o de edificación para actividad comercial, industrial o de servicios, y la licencia expresa expedida por la Secretaría.
 
-TIPO DE ÁREA MÁXIMA ALTURA MÁXIMA UBICACIÓN
-
-ANUNCIO
-
-B1 Marquesina 5 M2 2.5 m. de área 1 por cada local
-
-libre sobre la
-
-banqueta
-
-B2 Bastidor 2 m2 4 metros 1 por cada local
-
-B3 Adosado al 10 m2 Altura del edificio 1 por local
-
-Edificio
-
-B4 Mantas 10 m2 4 metros 1 cada 500
-
-metros
-
-B5 Pendones 2 m2 5 metros 1 cada 10
-
-postes
-
-B6 Pintados 30% del área 1 cada edifico
-
-en pared de la pared del
-
-edificio, de una
-
-altura menor a
-
-15 m,
-
-20 % del área 1 cada edifico
-
-de la pared del
-
-edificio, de 15 m
-
-a 30 m de altura.
-
-10% del área 1 cada edifico
-
-de la pared del
-
-edificio, de mas
-
-de 30 m de altura
-
-B7 Banderas 15 m2 18 metros 1 por local
-
-corporativas corporativo
+TABLA NO. 1 (DEROGADA, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 20.
 
 Los anuncios a que se refiere el artículo 18 inciso c) del presente Reglamento contendrán solamente el nombre de la persona y referencia profesional, en los industriales y comerciales, la razón social, y en su caso, el nombre comercial, pudiendo llevar además el logotipo o símbolo correspondiente a la empresa o negocio, debiendo contar con un área diseñada específicamente para este efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-Corresponden a los anuncios Tipo “C” y deberán tener licencia expedida por la SDUEP, a través de la Dirección de Ecología, los siguientes:
+Corresponden a los anuncios Tipo "C" y deberán contar con la licencia correspondiente, los siguientes:
 
 Los colocados y asegurados por medio de estructuras sólidas ya sea de concreto, madera o acero, postes, mástiles, ménsulas, soportes u otra clase de estructuras; ya sea que sobresalgan de la fachada, o que estén colocados en las azoteas o sobre el terreno de un predio, sea público o privado, o que por sus características especiales queden incluidos en esta categoría, o no estén comprendidos en las categorías de los anuncios Tipo A o Tipo B.
 
 ###### ARTÍCULO 22.
 
-Son requisitos de los anuncios tipo “C”, los siguientes:
+Son requisitos de los anuncios tipo "C", los siguientes:
 
 a. Tener las dimensiones, aspectos y ubicación adecuados, sin interferir un anuncio con otro. Para no desvirtuar los elementos arquitectónicos de los edificios en que se pretenden colocar o estén colocados; y para que su posición y efecto en perspectiva sobre una calle, edificio o monumento armonice con estos elementos urbanos;
 
@@ -456,7 +446,7 @@ i. La densidad permitida para los anuncios Tipo C se regirá por lo que al efect
 
 j. Deberán contar con el cálculo estructural correspondiente, avalado por el Director Responsable de la Obra, en el cual se definirá el diseño estructural, soportes, anclajes y cualquier elemento que sirva para fijarlos o sostenerlo, así como sus accesorios e instalaciones eléctricas o de iluminación. Todos estos elementos se diseñaran de forma tal que integren una unidad que armonica (sic) con la estructura del anuncio, con el inmueble en que quede colocado y con el paisaje urbano de la zona en que se ubique, sujetándose además a los señalamientos de la Secretaría de Comunicaciones y Transportes, en lo que respecta a la altura total del anuncio así como del resto de requisitos que para este tipo de anuncios requiera la Secretaría;
 
-k. Los anuncios tipo “C”, deberán contar con un seguro que ampare daños a terceros y de responsabilidad civil, desde el momento de iniciar su instalación y conservarlo vigente mientras continué operando, debiendo demostrar a la autoridad municipal la existencia de éste, cada vez que tramite su refrendo anual;
+k. Los anuncios tipo "C", deberán contar con un seguro que ampare daños a terceros y de responsabilidad civil, desde el momento de iniciar su instalación y conservarlo vigente mientras continué operando, debiendo demostrar a la autoridad municipal la existencia de éste, cada vez que tramite su refrendo anual;
 
 l. La instalación de un anuncio adosado, en volado (Tipos C2) o saliente no deberá invadir los predios vecinos ni la vía pública;
 
@@ -466,15 +456,19 @@ n. En las áreas habitacionales señaladas en el Plan Parcial de Desarrollo Urba
 
 o. Todos los anuncios deberán regularse por las dimensiones y altura de áreas de anuncio contenidas en el presente Reglamento;
 
-p. Los anuncios deberán evitar emitir sonidos que afecten la atención en las zonas inmediatas o que creen molestias a los vecinos colindantes. Los anuncios que generen algún sonido y que estén instalados en sitios colindantes con áreas habitacionales solo podrán operar de las ocho a las dieciocho horas y en ningún caso deberán sobrepasar los 68-sesenta y ocho decibeles;
+p. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
-q. La iluminación de los anuncios deberá estar orientada o protegida para evitar que sea visible desde algún predio con uso habitacional o desde alguna circulación vehicular. La iluminación directa de fuentes incandescentes no deberá exceder de 11-once watts por luminaria;
+q. (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 r. Cuando alguna calle o avenida llegue a salurarse (sic) con la densidad máxima permisible, pasará a la calidad de restringida;
 
-s. Cuando se instalen este Tipo de anuncios en las cercanías de pasos a desnivel, entradas o salidas de túneles, pasos elevados, cruces de ferrocarril, entronques de avenidas o complejos viales, se solicitará un dictamen de vialidad para determinar que la colocación no interfiera con el señalamiento vial o que no afecte la seguridad del tráfico. Siendo positivo el referido dictamen, la distancia mínima existente entre éste Tipo de anuncios y los mencionados lugares, será en un radio de 30-treinta metros, tomados al eje de los puntos de inicio de los carriles del elemento en cuestión.; (sic) es decir pasos a desnivel, entradas o salidas de túneles, pasos elevados, cruces de ferrocarril, antronques (sic) de avenidas o complejos viales. En todos los casos se deberá mantener libre de obstrucción la visibilidad de las vías públicas y evitar la confusión con señalamientos viales y de control de tráfico; no utilizar luces intermitentes que se confundan con aquellas asociadas para señalar peligro o utilizadas por la policía, bomberos, ambulancias o similares; deberán evitar además deslumbrar a conductores y deberán mantener libre de obstrucciones la visibilidad de conductores en accesos, áreas de estacionamiento o entradas de servicio;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
-t. Cuando en la instalación, colocación y/o montaje de este tipo de anuncios se requiera el uso de equipo pesado y/o grúas, se deberá incluir en la solicitud un croquis específico de maniobras así como el permiso correspondiente de la Secretaría de Seguridad Pública y Vialidad.
+s. Solo se permitirá la instalación de ese tipo de anuncios a un radio de sesenta metros, de pasos a desnivel, entradas y salidas de túneles en los que haya circulación vehicular, puentes peatonales, paso del ferrocarril, pasos a desnivel o puentes vehiculares, entronques de avenidas o complejos viales. En todos los casos se deberá mantener libre de obstrucción la visibilidad de los señalamientos viales, y evitar la confusión con estos y de control de tráfico; queda prohibido utilizar luces que asociadas con las que utilizan los cuerpos de seguridad, bomberos y ambulancias, se presten a confusión; así también deberá evitarse que las mismas deslumbren a los conductores.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+t. Los anuncios categoría "C", identificados bajo los incisos c, d, e y g, en la fracción II, del artículo 22 BIS, solo se permitirán a una distancia de sesenta metros lineales, entre uno y otro.
 
 u. En las licencias expedidas para anuncios Tipo C, el titular de los derechos deberá instalar el anuncio en un término no mayor de un año, pasado el cuál quedará sin efecto la misma, si no se ha llevado a cabo los trabajos.
 
@@ -486,31 +480,65 @@ x. En los casos donde se combinen diferentes clases de anuncios Tipo C se deber�
 
 y. Los señalamientos viales preventivos o de algún organismo público, Federal, Estatal o Municipal, cumplirán con las disposiciones del Presente Reglamento además de sus respectivos Reglamentos de Vialidad y Tránsito, exceptuando el pago de derechos.
 
-TABLA No. 2
+TABLA No. 2 (DEROGADA, P.O. 11 DE MARZO DE 2019)
 
-C1 DE TECHO C8 UNIPOLAR
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
 
-C2 ADOSADO AL EDIFICIO C9 PANTALLA ELECTRÓNICA
+ARTÍCULO 22 BIS.- Los predios o establecimientos autorizados para uso industrial, comercial y de servicios, sólo deberán contar con un anuncio autosustentado propio o publicitario comercial ajeno a la razón social (paleta, bandera, doble tubular, semi unipolar, unipolar, sobre techo, anuncio de características especiales), con base a la licencia de uso de suelo otorgada y las dimensiones que correspondan.
 
-(con estructura)
+Los tipos y dimensiones de anuncios permitidos, serán los siguientes:
 
-C3 TIPO BANDERA C10 GLOBO AEROSTÁTICO
+I.- ANUNCIOS CATEGORIA "A": Los indicados en el artículo 16, excepto vehículos.
 
-C4 TIPO PALETA C11 INFLABLE
+II.- ANUNCIOS CATEGORIA "B":
 
-C5 MÚLTIPLE C12 DISEÑOS ESPECIALES
+a) Marquesina 0.50 m2 a 12.00 m2
 
-(centros comerciales o de oficinas) (rayos especiales, otros (sic)
+b) Pendones de .60 metros de ancho por 1.10 metros de alto.
 
-C6 AUTOSUSTENTADO C13 DESDE AERONAVES
+c) Adosados de 0.50 m2 a 12.00 m2
 
-C7 PRISMA
+d) Mantas de 0.50 m2 a 12.00 m2
+
+e) Toldos de 0.50 m2 a 1.00 m2
+
+f) Cortinas 0.50 a 1.00 m2
+
+g) Bastidores de 0.50 m2 a 1.00 m2
+
+III.- ANUNCIOS CATEGORIA "C":
+
+a) Paleta: Área de exposición de 2.00 m2 a 6.00 m2, altura máxima 8.00 metros.
+
+b) Bandera: Área de exposición de .50 m a 2.00 m2, altura máxima 8.00 metros.
+
+c) Doble tubular: área de exposición de 7.00 m2 a 12 m2, altura máxima 13 metros. En los centros comerciales y plazas comerciales, podrán autorizarse hasta un área de exposición máxima de 20 m2 y una altura máxima de 22.00 metros en concordancia con las dimensiones de edificación.
+
+d) Semi Unipolar: Área de exposición de 12.00 m2, altura máxima de 13.00 metros.
+
+e) Unipolar: área de exposición de 48 m2, altura máxima de 18.00 m
+
+f) Sobre Techo (Carteleras, Paletas y Banderas): Área de Exposición de 1.00 m2 a 6.00 m2, altura máxima de 3.00 metros.
+
+g) Carteleras sobre piso: Área de exposición de 48 m2, Altura máxima 4.00 metros.
+
+h) Valla Publicitaria: área de exposición de 9.45 m2, Altura máxima 2.20 m.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+ARTÍCULO 22 BIS 1.- Es factible la autorización de licencias para anuncios categorías "B" y "C'', en las calles y avenidas siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 11 DE MARZO DE 2019, PÁGINAS DE LA 31 A LA 36.]</small>
+
+Los anuncios categoría "C" incisos c, d, e, g y las pantallas electrónicas, que no se encuentren en los supuestos señalados en la tabla que antecede, su autorización quedará sujeta a la valoración que al efecto realice la Secretaría; lo mismo aplica para las calles o avenidas no consideradas en la tabla señalada.
 
 ###### ARTÍCULO 23.
 
 ÁREAS RESTRINGIDA PARA LA COLOCACIÓN DE ANUNCIOS.- Queda prohibida la instalación de anuncios además de los lugares ya señalados en el presente Reglamento o por otras disposiciones legales, en los siguientes lugares:
 
-a. Dentro la Zona de Resguardo Patrimonial del Municipio de García, que comprende el perímetro según lo determina el artículo 33 del Presente Reglamento. Lo anterior con excepción de aquellos que están expresamente Autorizados tanto por el Reglamento de la Declaratoria de Protección y Conservación del Centro Histórico de García, N.L. cuya autorización o rechazo compete a la SDUEP, previa aprobación o negativa de la Junta de Protección y Conservación a que hace referencia el referido Reglamento, así como por lo dispuesto por el capítulo V del presente ordenamiento.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+a. Dentro de la Zona de Resguardo Patrimonial del Municipio de García, que comprende el perímetro según lo determina el artículo 33, del presente reglamento; lo anterior con excepción de aquellos que se encuentran expresamente autorizados por el Reglamento de la Declaratoria de Protección y Conservación del centro Histórica (sic) de García, Nuevo León, cuya autorización o no corresponde a la Secretaría, previa aprobación o no de la Junta de Protección y Conservación a que hace referencia el referido reglamento.
 
 b. En las laderas no urbanizadas de los cerros, rocas, árboles, bordes de ríos, postes de servicios públicos y en cualquier otro lugar que afecte el paisaje a juicio de la Autoridad Municipal.
 
@@ -519,6 +547,34 @@ c. En un radio de 100-cien metros del entorno de los Monumentos Públicos except
 d. En las áreas Federales cedidas en resguardo al Municipio.
 
 e. En los edificios considerados como Patrimonio Municipal ya sea por su antigüedad, por su altura por su calidad arquitectónica o monumental.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
+
+ARTÍCULO 23 BIS.- INSTALACIÓN DE ANUNCIOS EN EQUIPAMIENTO Y MOBILIARIO URBANO.- Se permitirá la instalación de anuncios en equipamiento y mobiliario urbano ya existente o en el nuevo que se instale en la vía pública, concediendo la autorización correspondiente a las empresas que costeen o realicen el gasto para la construcción, adquisición e instalación de dicho mobiliario, siempre y cuando se formalice mediante convenio con la autoridad municipal, en el cual se deberá consignar lo siguiente:
+
+a).- Las características de calidad, diseño, dimensiones y materiales tanto del equipamiento o mobiliario urbano y del tipo de anuncios;
+
+b).- Las condiciones obligatorias para la empresa, como es entre otras cosas el mantenimiento del equipamiento, mobiliario y del anuncio;
+
+c).- El plazo en el que podrán permanecer los anuncios, considerando para ello el que se permita recuperar la inversión realizada, así como obtener una ganancia justa y razonable, esto de acuerdo con el análisis financiero que al efecto deberá allegar la parte interesada y que deberá valorar el Ayuntamiento;
+
+d).- Los puntos o lugares específicos en donde se instalara el equipamiento o mobiliario urbano, tomándose en consideración el dictamen que para tal efecto emita en su caso la Agencia Estatal del Transporte y la Institución de Policía Preventiva Municipal de García, Nuevo León, a y través del área correspondiente;
+
+e).- Las garantías para el cumplimiento de las obligaciones establecidas;
+
+f).- Las sanciones a aplicar para el caso de incumplimiento de las obligaciones establecidas;
+
+g).- Las demás condiciones que se estimen necesarias.
+
+El Convenio a que se hace referencia en el presente dispositivo será firmado en representación del Municipio de García, Nuevo León, por el Presidente Municipal; el Síndico Segundo del Ayuntamiento, y el Secretario de Desarrollo Urbano y Obras Públicas.
+
+En todos los casos se deberán considerar factores como la densidad de anuncios en la zona, los señalamientos viales y los elementos que puedan afectar el entorno.
+
+Dentro del plazo establecido en el convenio, la empresa interesada deberá obtener de la Secretaría, la autorización del anuncio y sus refrendos cubriendo los derechos correspondientes. En caso de puentes peatonales los anuncios a instalar en los mismos, deberán contar con seguro de responsabilidad civil y daños a terceros al momento de iniciar su instalación y deberá estar vigente durante el tiempo de su estancia en el mismo; su construcción, instalación, modificación, reparación, mantenimiento y retiro, deberá realizarse bajo la dirección de un Director Técnico de Obra, como responsable de la instalación, seguridad y calidad del anuncio.
+
+Se deberá establecer en el convenio, que transcurrido el plazo de su vigencia, el mobiliario o equipamiento urbano pasara por ese solo hecho, a ser un bien del domino público municipal, esto es, sin necesidad de un trámite diverso.
+
+En los equipamientos o mobiliario urbano ya existentes, se permitirá colocar estructuras publicitarias únicamente cuando así se acuerde por las dos terceras partes del Ayuntamiento en términos del artículo 115 fracción II inciso b) de la Constitución Política de los Estados Unidos Mexicanos, con las condiciones más favorables para el Municipio; y en ese caso también se sujetara al convenio relativo.
 
 ###### ARTÍCULO 24.
 
@@ -580,21 +636,7 @@ d. Los autosoportados o de soporte estructural colocados sobre el suelo de predi
 
 El Director Técnico de la Obra, al diseñar, calcular y supervisar la construcción del anuncio, estará obligado a aplicar las disposiciones de este Reglamento, las normas técnicas estructurales actualizadas y la normatividad de construcciones del municipio, además deberá vigilar que se utilicen los materiales y los procedimientos constructivos de la mejor calidad fin (sic) de satisfacer y garantizar los requerimientos de seguridad establecidos en el presente reglamento. La carga de viento a utilizarse para el cálculo estructural será como mínimo una velocidad de viento para la zona de ciento veinte kilómetros por hora. Cuando un anuncio esté colocado asegurado a un edificio las cargas de viento no deberán afectar los elementos estructurales del edificio. En todos los casos deberán utilizarse elementos estructurales incombustibles de acuerdo a las normas técnicas aplicables. Para propósito de diseño estructural los anuncios se clasifican en: a) cerrados: Cuando tengan setenta por ciento o más del área bruta del anuncio expuesto al viento; y b) Abiertos aquellos anuncios con letras, signos u otros elementos que no ocupen más del treinta por ciento del área expuesta del anuncio al viento.
 
-TABLA No. 3
-
-Altura del anuncio Carga de diseño ANUNCIOS (Kilogramos/M2)
-
-desde el suelo
-
-RANGO (metros) CERRADOS ABIERTOS
-
-0 - 9.00 83 113
-
-9.00 - 15.00 108 152
-
-15.00 - 30.00 137 191
-
-30.00 - 150.00 161 225
+TABLA No. 3 (DEROGADA, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 32.
 
@@ -666,7 +708,7 @@ Los materiales permitidos serán pintura en muro, madera y lámina metálica. Pa
 
 ###### ARTÍCULO 39.
 
-se permitirá el uso de gas neón únicamente en proporciones menores a 0.60-cero punto sesenta centímetros por 0.40-cero punto cuarenta centímetros siempre y cuando su colocación no afecte la fachada del edificio.
+(DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 40.
 
@@ -686,23 +728,7 @@ Se prohíbe pintar anuncios sobre el muro que sean mayores al 30%-treinta por ci
 
 ###### ARTÍCULO 44.
 
-Respecto de los toldos, deberá observarse lo siguiente:
-
-a) Son de carácter provisional (lona ahulada).
-
-b) La colocación de estos deberá ser en la parte interna del marco.
-
-c) Los toldos deberán ser enrollables o plegables.
-
-d) No se autorizan toldos en aquellos monumentos en que se afecte la fachada.
-
-e) Los toldos no deberán cubrir los elementos de ornamentación arquitectónica de las fachadas históricas o artísticas.
-
-f) La dimensión del volado del toldo deberá ser de 0.90-cero punto noventa centímetros como máximo.
-
-g) un edificio sólo podrá tener toldos de un mismo color y dimensión.
-
-h) todos los toldos deberán ser de colores que no impacten la fachada.
+(DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 ### CAPITULO VI. DE LAS LICENCIAS
 
@@ -730,7 +756,7 @@ Los anuncios de productos alimenticios, bebidas no alcohólicas, bebidas alcohó
 
 ###### ARTÍCULO 50.
 
-Los anuncios tipo “C” como los “UNIPOLARES”, ”ESPECTACULARES” y los “ELECTRÓNICOS” deberán sacar una licencia o permiso por cada anuncio que se publiciten, aun teniendo una sola estructura de soporte; pudiendo en el caso de los llamados “ELECTRÓNICOS” obtener una licencia o permiso global según su capacidad de inserción de anuncios.
+(DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 51.
 
@@ -852,27 +878,21 @@ b. solicitar el auxilio de la fuerza pública para el caso de que haya oposició
 
 c. arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 63.
 
-RETIRO DE ANUNCIOS. La SDUEP a través de la Dirección de Ecología, ordenará el retiro de anuncios, al responsable, propietario, poseedor, usufructuario o quien se ostente con derechos sobre el predio y/o anuncio, si éste se ha instalado sin contar con licencia o permiso correspondientes de aquellos anuncios que por sus notorias condiciones de inseguridad representen un riesgo o peligro inminente para las personas o sus bienes, o estén en las condiciones que señalan los artículos 60 y 61 del presente reglamento. Al efecto fijará un término de cinco días naturales, transcurrido el cual, si no se hubiese retirado, la Secretaría lo retirará a costa del responsable; si el anuncio representa un riesgo inminente, el plazo para retirarlo será de dos días hábiles.
+RETIRO DE ANUNCIOS.- La Secretaría por si o a través de la Dirección de Ecología y Anuncios, ordenará el retiro de los anuncios que se hayan instalado sin la licencia o permiso correspondiente, así como de aquellos que por sus notorias condiciones de inseguridad representen un riesgo o peligro inminente para las personas o cosas, o se den los supuestos del artículo 60, del presente reglamento; retiro el cual deberá efectuarse por el propietario, responsable, poseedor o usufructuario del anuncio, o de quien se ostente como propietario o poseedor del predio en donde el mismo se ubique; para lo anterior se fijara un plazo de cinco días naturales, transcurrido el cual, si no se hubiese retirado, la Secretaría lo retirara con apoyo de las dependencias que se requieran, lo cual será a costa del responsable; si el anuncio representa riesgo inminente, el plazo de retiro será de dos días naturales, con las consecuencias ya señaladas en caso de no hacerlo.
 
-Los anuncios no ajustados al presente Reglamento, pero con autorizaciones basadas en reglamentos anteriores podrán seguir siendo utilizados previa autorización de la Secretaría, siempre y cuando:
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2019)</small>
 
-a. No representen un peligro;
-
-b. cuenten con un adecuado mantenimiento de conservación; y
-
-c. No hayan sufrido alteraciones en su estructura o características autorizadas.
-
-Tratándose de anuncios cuya licencia haya concluido y no se haya refrendado en los términos establecidos al efecto por la Ley de Hacienda para los Municipios, vigente en el Estado de Nuevo León, éstos podrán ser retirados del lugar en que se encuentran a costa del propietario, poseedor, usufructuario o quien se ostente con derechos sobre el predio y/o anuncio.
+ARTÍCULO 63 BIS.- Los anuncios de propaganda electoral deberán ser retirados por su propietario o por el partido político o partidos que lo postulen, dentro de los treinta días naturales posteriores a la fecha en que se efectúen las votaciones correspondientes, en caso de que no se efectúe el retiro, la Secretaría ordenara su retiro con cargo al propietario, resultando responsable solidario el partido postulante, y para el caso de que no cubra el costo del retiro de la propaganda, informará a la Autoridad electoral correspondiente, para que realice la retención económica relativa del financiamiento público, que en términos de la Ley, según sea el caso, se les otorga.
 
 ### CAPITULO VIII. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 64.
 
-INSPECCIONES. La SDUEP a través de la Dirección de Ecología, podrá practicar visitas de inspección en cualquier tiempo con el personal adscrito a la misma, o bien de la dependencia a la cual se le encomiende ésta atribución, el cual debidamente identificado con la credencial correspondiente efectuará las inspecciones pertinente (sic), tanto de anuncios ya instalados, como de aquellos que se encuentren en proceso de instalación, fabricación, o construcción en algún predio o construcción en el Municipio.
-
-Las inspecciones se realizarán a fin de verificar que se cuente con la licencia o permiso que ampare la localización del anuncio, así como la ejecución de los trabajos o instalaciones, además de constatar el cumplimiento de todas las condiciones y requisitos del mismo, y en su caso el de los señalamientos, requisitos y lineamientos de las normas del presente Reglamento, independientemente del Tipo de anuncio.
+(DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 ###### ARTÍCULO 65.
 
@@ -944,7 +964,9 @@ IV. En las áreas Federales;
 
 V. En las zonas clasificadas como residenciales, excluyéndose las oficinas particulares de profesionistas y otros usos complementarios permitidos en el plan parcial de desarrollo Urbano del Municipio de García, Nuevo León;
 
-VI. A una distancia menor a los 50-cincuenta metros de la entrada o salida de pasos a desnivel vehicular y de cruceros de vía rápida o de ferrocarril;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2019)</small>
+
+VI. A una distancia menor a sesenta metros de la entrada o salida de pasos a desnivel vehicular y de cruceros de vías rápidas o de vías de ferrocarril;
 
 VII. En las obras de construcción (en proceso o suspendidas), ya sen (sic) bardas, aros, losas, etc.;
 
@@ -954,7 +976,17 @@ IX. Queda prohibido pegar o colocar en cualquier tipo de superficie exterior pro
 
 X. Queda prohibido podar, cortar, derribar, maltratar o en cualquier forma lesionar árboles para mejorar la visualización, así como para reparar un anuncio, salvo autorización expresa otorgada por la Dirección de Ecología del Municipio, quien deberá aplicar en consecuencia el Reglamento de Protección al Ambiente;
 
-XI. En los demás lugares prohibidos por otras disposiciones legales y por este Reglamento.
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2019)</small>
+
+XI. La instalación de anuncios unipolares, semiunipolares, doble tubular y carteleras sobre piso a una distancia menor de noventa metros uno de otro;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2019)</small>
+
+XII. Anuncios tipo C unipolares, semiunipolares, carteleras sobre piso, en casas habitación;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2019)</small>
+
+XIII. En los demás lugares prohibidos por otras disposiciones y por este reglamento.
 
 ###### ARTÍCULO 71.
 
@@ -972,29 +1004,41 @@ e. Demolición y desmantelamiento de las construcciones y retiro de las estructu
 
 f. Suspensión en el otorgamiento de nuevas (sic) permisos, autorizaciones y licencias a los reincidentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 72.
 
-AUTORIDADES COMPETENTES. Son autoridades competentes para la aplicación, inspección, vigilancia y cumplimiento del presente reglamento, las siguientes:
+Son autoridades competentes para cumplir y hacer cumplir las disposiciones del presente reglamento:
 
-a.- El R. Ayuntamiento;
+a.- (DEROGADO, P.O. 11 DE MARZO DE 2019)
 
 b.- El Presidente Municipal;
 
-c.- El Secretario de Desarrollo Urbano Económico y Planeación;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
-d.- La Dirección de Ecología;
+c.- El Secretario de Desarrollo Urbano y Obras Públicas;
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+d.- El Director de Ecología y Anuncios, de la Secretaría de Desarrollo Urbano y Obras Públicas;
 
 e.- El Secretario del R. Ayuntamiento;
 
-f.- El Tesorero Municipal;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
 
-g.- Los Inspectores Adscritos a la Secretaría de Desarrollo Urbano Económico y Planeación;
+f.- El Secretario de Tesorería, Finanzas y Administración Municipal;
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+g.- Los inspectores adscritos a la Secretaría de Desarrollo Urbano y Obras Públicas;
 
 h.- La Dirección de Protección Civil.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 73.
 
-DETERMINACIÓN DE LA SANCIÓN. La SDUEP a través de la Dirección de Ecología, para determinar y cuantificar las sanciones correspondientes, deberá tomar en cuenta la gravedad de la infracción así como su naturaleza; la inversión de la obra; la capacidad económica, condición social, la educación, los antecedentes del infractor, y demás circunstancias en que la misma se haya cometido pudiendo solo amonestar al infractor si a su juicio fue leve.
+DETERMINACIÓN DE SANCIÓNES ECONÓMICAS.- En la determinación y cuantificación de sanciones de naturaleza económica por violaciones al presente reglamento se tomara en cuenta la gravedad de la falta así como su naturaleza; la inversión de la obra si se cuenta con dicha información o su aproximado; la condición social del infractor, su capacidad económica, sus antecedentes, y demás circunstancias en las que se cometió la infracción. Son sujetos responsables solidarios para efectos del presente reglamento, quienes ejecuten, ordenen o a quienes favorezcan las acciones u omisiones constitutivas de infracción.
 
 ###### ARTÍCULO 74.
 
@@ -1296,7 +1340,7 @@ V. Los cuatro incisos anteriores son independientes entre si y de la sanción co
 
 ###### ARTÍCULO 85.
 
-Cuando los propietarios de anuncios o los responsables solidarios se opongan o obstaculicen el ejercicio de las facultades de la Autoridad Municipal, esta podrá solicitar el auxilio de la fuerza pública e imponer además una multa de 50-cincuenta cuotas.
+Cuando los propietarios de anuncios o los responsables solidarios se opongan o (sic) obstaculicen el ejercicio de las facultades de la Autoridad Municipal, esta podrá solicitar el auxilio de la fuerza pública e imponer además una multa de 50-cincuenta cuotas.
 
 ###### ARTÍCULO 86.
 
@@ -1419,3 +1463,13 @@ C. PRESIDENTE MUNICIPAL
 LIC. BENITO ARAMBULA AMAYA.
 
 SECRETARIO DE AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 27 DE FEBRERO DE 2019, SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE GARCÍA, N.L.".]
+
+PRIMERO.- Las reformas que se aprueban entraran en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo señalado en las presentes modificaciones.
