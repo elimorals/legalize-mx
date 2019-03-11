@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-el-uso-de-vehiculos-recreativos-todo-terreno-132
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-25"
-last_updated: "2019-01-25"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA EL USO DE VEHÍCULOS RECREATIVOS TODO TERRENO EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado Nuevo León, el viernes 25 de enero de 2019.
 
@@ -219,7 +219,9 @@ XI. Inspeccionar que los vehículos todo terreno estén debidamente registrados 
 
 Compete a los Ayuntamientos de los respectivos municipios:
 
-I. Aprobar de acuerdo a la presente Ley, los reglamentos y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de vehículos recreativos todo terreno, y proponer dentro de sus reglamentos de tránsito, entre otros aspectos, la regulación de las vías, las vialidades, las zonas de jurisdicción municipal y los horarios de restricción para la circulación de dichos vehículos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2019)</small>
+
+I. Aprobar de acuerdo a la presente Ley, los reglamentos y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de vehículos recreativos todo terreno;
 
 II. Establecer y ejecutar las políticas y programas de vialidad en las zonas urbanas y rurales por donde exista mayor tránsito de los vehículos recreativos todo terreno;
 
@@ -343,11 +345,15 @@ VI. Mofles directos, rotos o que emitan un ruido excesivo.
 
 ### CAPÍTULO VII. DEL CUIDADO AL MEDIO AMBIENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 27.
 
-Las caravanas, grupos, multitudes, conjuntos o similares que deseen realizar recorridos en vehículos recreativos todo terreno, deberán solicitar permiso a las autoridades estatales, municipales y/o ambientales correspondientes, mismas que deberán de analizar dicha solicitud y con base en los Programas de Ordenamiento Ecológico correspondientes, en el ámbito de su competencia y en los términos establecidos en la Ley Ambiental del Estado de Nuevo León, expedir o negar el permiso solicitado. Dicha disposición deberá realizarse hasta en tanto se encuentre publicado el Programa de Ordenamiento Ecológico correspondiente en el Periódico Oficial del Estado.
+Las caravanas, grupos, multitudes, conjuntos o similares que deseen realizar eventos organizados por algunas asociaciones y/o competencias en vehículos recreativos todo terreno, deberán solicitar permiso a las autoridades estatales, municipales y/o ambientales correspondientes, mismas que deberán de analizar dicha solicitud y con base en los Programas de Ordenamiento Ecológico correspondientes, en el ámbito de su competencia y en los términos establecidos en la Ley Ambiental del Estado de Nuevo León, expedir o negar el permiso solicitado. Dicha disposición deberá realizarse hasta en tanto se encuentre publicado el Programa de Ordenamiento Ecológico correspondiente en el Periódico Oficial del Estado.
 
-El organizador o asociación organizadora de las caravanas, los grupos, multitudes, conjuntos o similares, al realizar sus recorridos en vehículos recreativos todo terreno, deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MARZO DE 2019)</small>
+
+El organizador o asociación organizadora de las caravanas, los grupos, multitudes, conjuntos o similares, al realizar sus eventos y/o competencias en vehículos recreativos todo terreno, deberán:
 
 I. Respetar la totalidad de los ecosistemas naturales, en recuperación, patrimonio cultural, histórico o propiedades privadas o comunales a lo largo del trayecto de dichos recorridos;
 
@@ -355,7 +361,9 @@ II. No deberá sobrepasar la capacidad de carga permitida, misma que será defin
 
 III. Deberá informar debidamente a los asistentes de los cuidados del medio ambiente previstos en la presente Ley; así mismo, en sus recorridos circular únicamente por caminos o brechas legalmente ya establecidos, que de manera forzosa conduzcan a una población, y a la cual no exista ya una ruta pavimentada o que los ecosistemas no estén en proceso de recuperación y regeneración.
 
-Así mismo, en sus recorridos dentro de las áreas naturales protegidas, deberán respetar en todo momento lo establecido en los Decretos y Programas de Manejo correspondientes, de conformidad con lo dispuesto en la Ley Ambiental del Estado de Nuevo León y en el Reglamento de la Ley Ambiental del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+Así mismo, en sus eventos y/o competencias dentro de las áreas naturales protegidas, deberán respetar en todo momento lo establecido en los Decretos y Programas de Manejo correspondientes, de conformidad con lo dispuesto en la Ley Ambiental del Estado de Nuevo León y en el Reglamento de la Ley Ambiental del Estado de Nuevo León.
 
 ###### Artículo 28.
 
@@ -678,3 +686,11 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 JOSÉ MANUEL VITAL COUTURIER
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 096. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 19 Y EL NUMERAL 27 DE LA LEY QUE REGULA EL USO DE VEHÍCULOS RECREATIVOS TODO TERRENO EN (SIC) ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
