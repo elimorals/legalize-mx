@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2018-12-19"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -51,7 +51,7 @@ La presente Ley es de orden público e interés social, y tiene por objeto regul
 
 Para los efectos de esta Ley se entiende por:
 
-I. Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
+I. Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre.
 
 II. Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
 
@@ -309,7 +309,7 @@ b) La difusión de los avisos y alertas respectivas.
 
 XV. Convocar al Centro Estatal de Operaciones; y
 
-XVI. Las demás que le confiera la Ley y las que le otorgue el Consejo.
+XVI. Las demás que le confiera la Ley y las que le otorgue el Consejo;
 
 ###### Artículo 20.
 
@@ -415,7 +415,9 @@ VIII. Identificar los altos riesgos que se presenten en el Estado, integrando el
 
 IX. Promover la integración de las unidades internas de protección civil en las Dependencias y Organismos de la Administración Pública Estatal y de la Federal establecidas en la Entidad y de manera supletoria en las municipales;
 
-X. Proporcionar información y dar asesoría a los establecimientos, sean empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas de respuesta y promover su participación en las acciones de protección civil;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2019)</small>
+
+X. Proporcionar información, dar asesoría a los establecimientos, empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas de repuesta (sic) y promover su participación en las acciones de protección civil, por lo que respecta a la capacitación de primeros auxilios, podrá realizar inspecciones aleatorias a fin de verificar el grado de capacitación de las unidades internas en esta vital encomienda;
 
 XI. Llevar el registro, validar, capacitar y coordinar la participación de los grupos voluntarios;
 
@@ -474,8 +476,6 @@ q) Edificaciones para almacenamiento, distribución o expendio de hidrocarburos 
 r) Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados.
 
 XX. Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para evitarlos o extinguirlos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -575,23 +575,23 @@ IV. Prestar y coordinar el auxilio a la población en caso de que acontezca un a
 
 V. Realizar la inspección, control y vigilancia de los establecimientos e instalaciones de competencia municipal siguientes:
 
-a) Edificios departamentales de hasta cuatro unidades de vivienda.
+a) Edificios departamentales de hasta cuatro unidades de vivienda;
 
-b) Internados o casas de asistencia, que sirvan como habitación colectiva para un número no mayor de veinte personas.
+b) Internados o casas de asistencia, que sirvan como habitación colectiva para un número no mayor de veinte personas;
 
-c) Oficinas y servicios públicos de la Administración Pública Municipal.
+c) Oficinas y servicios públicos de la Administración Pública Municipal;
 
-d) Terrenos para estacionamientos de servicios.
+d) Terrenos para estacionamientos de servicios;
 
-e) Jardines de niños, guarderías, dispensarios, consultorios y capillas de velación.
+e) Jardines de niños, guarderías, dispensarios, consultorios y capillas de velación;
 
-f) Lienzos charros, circos o ferias eventuales.
+f) Lienzos charros, circos o ferias eventuales;
 
-g) Actividades o establecimientos que tengan menos de mil quinientos metros cuadrados de construcción.
+g) Actividades o establecimientos que tengan menos de mil quinientos metros cuadrados de construcción;
 
-h) Instalaciones de electricidad y alumbrado público.
+h) Instalaciones de electricidad y alumbrado público;
 
-i) Drenajes hidráulicos, pluviales y de aguas residuales.
+i) Drenajes hidráulicos, pluviales y de aguas residuales;
 
 j) Equipamientos urbanos, puentes peatonales, paraderos y señalamientos urbanos; y
 
@@ -600,8 +600,6 @@ k) Anuncios panorámicos.
 VI. Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
 
 VII. Elaborar el respectivo Mapa Municipal de Riesgos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -665,7 +663,7 @@ I. Gozar del reconocimiento oficial una vez obtenido su registro en la Direcció
 
 II. Participar en los programas de capacitación a la población o brigadas de auxilio;
 
-III. Solicitar el auxilio de las Autoridades de Protección Civil, para el desarrollo de sus actividades;
+III. Solicitar el auxilio de las Autoridades de Protección Civil, para el desarrollo de sus actividades:
 
 IV. Coordinarse bajo el mando de las Autoridades de Protección Civil, ante la presencia de un alto riesgo, emergencia o desastre;
 
@@ -823,7 +821,7 @@ II. La identificación de los riesgos a que esta expuesto el Estado;
 
 III. La identificación de los objetivos del Programa;
 
-IV. Los subprogramas de Prevención, Auxilio, y Recuperación con sus respectivas metas, estrategias y líneas de acción;
+IV. Los subprogramas de Prevención, Auxilio, y Recuperación con sus respectivas metas, estrategias y líneas de acción.
 
 V. La estimación de los recursos financieros; y
 
@@ -973,7 +971,7 @@ Para que la acción popular proceda, bastará que la persona que la ejercite apo
 
 ###### Artículo 76.
 
-Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Dirección de Protección Civil, o a la unidad municipal que corresponda, quienes procederán en su caso, conforme a esta Ley. Lo anterior sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública y/o la integridad y/o patrimonio de las personas.
+Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Dirección de Protección Civil, o a la unidad municipal que corresponda, quienes procederán en su caso, conforme a esta Ley. Lo anterior sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública y/o la integridad y/o patrimonio de las personas
 
 ###### Artículo 77.
 
@@ -1005,7 +1003,7 @@ Es obligación de los propietarios, responsables, encargados u ocupantes de los 
 
 En la diligencia de inspección se deberán observar las siguientes reglas:
 
-I. La persona o personas a quienes se haya encomendado la inspección, deberán exhibir su nombramiento o designación expedida por la autoridad competente, que los acredite legalmente para desempeñar su función. La anterior circunstancia, deberá asentarse en el acta correspondiente;
+I. La persona o personas a quienes se haya encomendado la inspección, deberán exhibir su nombramiento o designación expedida por la autoridad competente, que los acredite legalmente para desempeñar su función. La anterior circunstancia, deberá asentarse en el acta correspondiente.
 
 II. En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas y, en su caso, las medidas de seguridad que se ejecuten.
 
@@ -1238,3 +1236,9 @@ P.O. 19 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 024. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VI DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 100. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
