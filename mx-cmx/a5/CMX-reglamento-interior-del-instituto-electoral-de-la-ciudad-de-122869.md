@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-de-la-ciudad-de-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-09-14"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO DEL 14 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE MARZO DE 2019.
 
 Reglamento publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -302,6 +300,10 @@ e) Del Centro de Formación y Desarrollo; y
 
 f) Vinculación con Organismos Externos.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2019)</small>
+
+g) Género y Derechos Humanos.
+
 VII. Órganos con autonomía técnica y de gestión:
 
 a) Contraloría Interna; y
@@ -351,6 +353,10 @@ b) Unidades Técnicas:
 4. Asuntos Jurídicos; y
 
 5. Vinculación con Organismos Externos.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2019)</small>
+
+6. De Género y Derechos Humanos.
 
 c) Direcciones Distritales.
 
@@ -1052,7 +1058,29 @@ XIV. Realizar las notificaciones que le solicite la Dirección Ejecutiva del Ser
 
 XV. Las demás que, en el marco de sus atribuciones, deriven de la aplicación del Código, el Estatuto del Servicio, el Reglamento de Relaciones Laborales y demás normativa interna del Instituto Electoral.
 
-#### SECCIÓN OCTAVA. De la suplencia de las y los Titulares de los Órganos Ejecutivos, Órganos con Autonomía Técnica y de Gestión, Órganos Técnicos y Órganos Desconcentrados
+#### SECCIÓN OCTAVA. De la Unidad Técnica de Género y Derechos Humanos. Atribuciones
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2019)</small>
+
+###### Artículo 33 Bis.
+
+Le corresponde a la unidad técnica de Igualdad de Género y Derechos Humanos las siguientes atribuciones:
+
+I. Apoyar a la Secretaría Ejecutiva en el cumplimiento de las obligaciones locales, nacionales e internacionales que el Instituto Electoral tenga en materia de derechos humanos e igualdad de género, así como la implementación de estrategias que aseguren su observancia;
+
+II. Conducir las acciones para la incorporación de la perspectiva de género, derechos humanos y el enfoque de igualdad sustantiva en la planeación, programación, ejecución y evaluación de programas, proyectos, normas, acciones y políticas públicas de todas las unidades administrativas del Instituto Electoral, de manera transversal, así como darle seguimiento y verificar su cumplimiento;
+
+III. Diseñar y coordinar la realización en el Instituto Electoral, de programas, actividades, foros, eventos y estudios de investigación; para promover el respeto, la protección y la garantía de los derechos humanos e igualdad de género en el ámbito político electoral;
+
+IV. Promover mecanismos de coordinación con instituciones públicas, privadas, organizaciones de la sociedad civil y partidos políticos, para instrumentar proyectos y actividades que fortalezcan la cultura político-electoral, libre de violencia política y contribuir a una democracia igualitaria e incluyente;
+
+V. Coordinar la política de Igualdad Laboral y no Discriminación y generar informes periódicos relativos a dicha política, además de los que guarden relación con materia de violencia laboral, hostigamiento y/o acoso sexual y violencia política que se presenten en el Instituto Electoral; estos últimos, a través de la presentación de información de carácter estadístico durante la sustanciación de los respectivos procedimientos; y de naturaleza cualitativa, a la conclusión de los mismos, de conformidad con la normativa interna y/o lineamientos correspondientes;
+
+VI. Coadyuvar y asesorar a las demás áreas del Instituto Electoral en materia de derechos humanos, perspectiva de género e inclusión; y
+
+VII. Las demás que le confiera la normativa del Instituto Electoral.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN OCTAVA], G.O. 11 DE MARZO DE 2019)</small>
 
 ###### Artículo 33.
 
@@ -1066,11 +1094,53 @@ III. Analizar temas y aspectos relacionados con el Instituto Nacional a solicitu
 
 IV. Mantener permanentemente informadas e informados, por conducto de la Presidencia de la Comisión Permanente de Vinculación con Organismos Externos, a las y los integrantes del Consejo General de las actividades que el Instituto Nacional realice en coordinación con este Instituto Electoral;
 
-V. Supervisar el cumplimiento de las obligaciones nacionales e internacionales que el Instituto Electoral tenga en materia de derechos humanos e igualdad de género y elaborar las estrategias de planeación que permitan cumplir con dichas obligaciones;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
 
-VI. Promover los mecanismos para implementar en el Instituto Electoral, programas, actividades, foros, eventos y estudios de investigación relacionados con la promoción, respeto, protección y garantía de los derechos humanos y la igualdad de género en el ámbito político-electoral, que se propongan a través de la Comisión Permanente de Igualdad de Género y Derechos Humanos; y
+V. Fomentar la vinculación de las áreas del Instituto Electoral con organismos locales, nacionales e internacionales, así como con Organismos Públicos Locales Electorales;
 
-VII. Facilitar la coordinación entre las distintas áreas del Instituto Electoral y fomentar la vinculación con organismos nacionales e internacionales especializados en derechos humanos e igualdad de género.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
+
+VI. Promover los mecanismos para implementar en el Instituto Electoral, programas, actividades, foros, eventos y estudios de investigación relacionados con las atribuciones institucionales;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
+
+VII. Colaborar con las distintas áreas del Instituto en la negociación y seguimiento a la suscripción de convenios a efecto de establecer las bases para su firma;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+VIII. Dar seguimiento a las actividades que realiza el Instituto en el marco de los convenios vigentes y en su caso proponer actualizaciones a las mismas;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+IX. Establecer vínculos con organizaciones de la sociedad civil y la ciudadanía para incentivar su participación como observadores en los procesos electorales y de participación ciudadana;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+X. Coordinar las actividades necesarias para la profesionalización de las y los observadores;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+XI. Fomentar relaciones con organizaciones de migrantes;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+XII. Establecer vínculos permanentes con la ciudadanía migrante residente en el extranjero y en el interior de la República;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+XIII. Coadyuvar en la promoción de los derechos políticos electorales entre la ciudadanía residente en el extranjero y en el interior de la República;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+XIV. Aquellas que le instruya la Comisión Permanente de Vinculación con Organismos Externos y la Secretaría Ejecutiva; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2019)</small>
+
+XV. Las demás que le confiera la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2019)</small>
+
+#### SECCIÓN NOVENA. De la suplencia de las y los Titulares de los Órganos Ejecutivos, Órganos con Autonomía Técnica y de Gestión, Órganos Técnicos y Órganos Desconcentrados
 
 ###### Artículo 34.
 
@@ -1283,3 +1353,13 @@ G.O. 14 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADO EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LO INSTRUIDO POR EL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL DE ESTE INSTITUTO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Instituto Electoral de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
