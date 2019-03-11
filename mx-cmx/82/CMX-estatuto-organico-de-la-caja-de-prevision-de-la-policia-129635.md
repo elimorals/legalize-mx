@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-de-la-policia-129635"
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-10-25"
-last_updated: "2018-08-03"
+last_updated: "2019-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129635&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2019-03-11"
 
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA AUXILIAR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2019.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 25 de octubre de 2001.
 
@@ -71,7 +71,9 @@ La Caja de Previsión de la Policía Auxiliar del Distrito Federal es un Organis
 
 Para efectos del presente Estatuto se entenderá como:
 
-I. Ley: a la Ley Orgánica de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
+
+I. Ley: a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 II. Caja: a la Caja de Previsión de la Policía Auxiliar del Distrito Federal;
 
@@ -139,17 +141,23 @@ La Caja contará con la siguiente estructura básica:
 
 I. Dirección General;
 
-II. Dirección de Prestaciones;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
 
-III. Dirección de Servicios de Salud;
+II. Dirección de Prestaciones y Bienestar Social;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
+
+III. Dirección de Otorgamiento de los Servicios de Salud;
 
 IV. Dirección de Administración y Finanzas;
 
-> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
 
-V. Coordinación Jurídica, y
+V. Subdirección Jurídica y Normativa; y
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2019)</small>
+
+VI. Órgano Interno de Control
 
 ###### Artículo 12.
 
@@ -163,9 +171,11 @@ La constitución, inversión y manejo de las reservas financieras y actuariales 
 
 ### CAPÍTULO V. DEL ÓRGANO DE GOBIERNO
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 14.
 
-En los términos de la Fracción XII del artículo Séptimo de la Ley Orgánica del Gobierno del Distrito Federal; el Órgano de Gobierno se integra en los términos previstos por el Decreto.
+El Órgano de Gobierno estará integrado en los términos de lo previsto por el artículo 56 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y por el Decreto.
 
 ###### Artículo 15.
 
@@ -193,9 +203,11 @@ IX. Las que señalen los demás instrumentos legales y administrativos aplicable
 
 Las sesiones del Órgano de Gobierno serán ordinarias y extraordinarias. Las ordinarias no podrán ser menos de cuatro al año y se celebrarán de conformidad con el calendario que al efecto se establezca en la primera sesión ordinaria de cada ejercicio. A convocatoria de su Presidente podrá reunirse en cualquier tiempo, en sesión extraordinaria, cuando a juicio de éste se requiera el desahogo de asuntos de urgente resolución.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 17.
 
-La convocatoria a sesiones ordinarias o extraordinarias deberá incluir el orden del día y la documentación e información que permita a los convocados el conocimiento de los asuntos que se vayan a tratar. Dicha convocatoria será remitida por el Secretario Técnico a los miembros del Órgano de Gobierno con antelación no menor a cinco días hábiles en el caso de las sesiones ordinarias y de veinticuatro horas, en el de las extraordinarias.
+La convocatoria a sesiones ordinarias o extraordinarias deberá incluir el orden del día y la documentación e información que permita a los convocados el conocimiento de los asuntos que se vayan a tratar. Dicha convocatoria será remitida por el Presidente a los miembros del Órgano de Gobierno con antelación no menor a cinco días hábiles en el caso de las sesiones ordinarias y de veinticuatro horas, en el de las extraordinarias.
 
 ###### Artículo 18.
 
@@ -319,9 +331,9 @@ XVII. Expedir copias certificadas de los documentos que obren en los archivos de
 
 XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE MARZO DE 2019)</small>
 
-### CAPÍTULO VII. DE LAS DIRECCIONES DE ÁREA Y LA COORDINACIÓN JURÍDICA
+### CAPÍTULO VII. DE LAS DIRECCIONES DE ÁREA Y LA SUBDIRECCIÓN JURÍDICA Y NORMATIVA
 
 ###### Artículo 25.
 
@@ -349,9 +361,11 @@ VIII. En el ámbito de su competencia, impulsar el desarrollo de la mujer que re
 
 IX. Las demás atribuciones que en la materia de su competencia les sean autorizadas por acuerdo expreso del Director General o que les asigne el Manual Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 27.
 
-Corresponde al Director de Prestaciones el ejercicio de las atribuciones siguientes:
+Corresponde al Director de Prestaciones y Bienestar Social el ejercicio de las atribuciones siguientes:
 
 I. Validar que la emisión de información referente a las distintas prestaciones que otorga la entidad, se apegue a los lineamientos establecidos por la entidad;
 
@@ -369,9 +383,11 @@ VII. Promover programas de estímulo y difusión de las actividades sociales, cu
 
 VIII. Realizar las gestiones necesarias para obtener descuentos y promociones para los integrante s de la Policía Auxiliar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Dirección de Servicios de Salud, el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección de Otorgamiento de los Servicios de Salud, el ejercicio de las atribuciones siguientes:
 
 I. Elaborar, someter a autorización del Director General y difundir las políticas internas para el desarrollo y modernización de la salud de la Policía Auxiliar;
 
@@ -459,11 +475,11 @@ XXIX. Administrar la plantilla de personal autorizada, en lo que se refiere al c
 
 XXX. Desarrollar e implementar los sistemas y procedimientos que permitan proporcionar y administrar, de acuerdo a la normatividad vigente, los materiales, suministros y servicios generales que requiera el organismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2019)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Coordinación Jurídica, el ejercicio de las atribuciones siguientes:
+Corresponde a la Subdirección Jurídica y Normativa, el ejercicio de las atribuciones siguientes:
 
 I. Dictaminar los convenios, contratos y demás actos jurídicos en los que intervenga, así como realizar los estudios especiales y las investigaciones jurídicas que coadyuven al adecuado ejercicio de las funciones que sean de la competencia de La Caja;
 
@@ -546,3 +562,9 @@ G.O. 3 DE AGOSTO DE 2018.
 PRIMERO.- Publíquese el presente en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA AUXILIAR DEL DISTRITO FEDERAL EN LOS SIGUIENTES APARTADOS, EN EL CONTENIDO, EL NOMBRE DEL CAPÍTULO VII; LOS ARTÍCULOS 2 FRACCIÓN I; 11 FRACCIONES II, III Y V; 14; 17; 27; 28 Y 30”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México, el cual entrará en vigor a partir del día siguiente de su publicación.
