@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2018-03-16"
+last_updated: "2019-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -73,7 +73,7 @@ VII.- El desarrollo de la enseñanza y la investigación científica y tecnológ
 
 ###### ARTICULO 3.
 
-En los términos de la Ley General de Salud y de la presente ley, corresponde al Estado de Guanajuato:
+En los términos de la Ley General de Salud y de la presente Ley, corresponde al Estado de Guanajuato:
 
 A).- En materia de salubridad general:
 
@@ -129,7 +129,11 @@ XVIII.- Participar con las autoridades federales en el desarrollo de los program
 
 XIX.- El control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos, destinados a usos terapéuticos o de investigación, en los términos de la Ley General de Salud, sus reglamentos y los acuerdos de coordinación que celebre el Estado con la Federación; y
 
-XX.- Las demás que establezca la Ley General de Salud.
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+
+XX.- La orientación, prevención y detección temprana del cáncer en la infancia y la adolescencia;
+
+XXI.- Las demás que establezca la Ley General de Salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -3495,6 +3499,12 @@ Artículo Tercero. El Consejo Estatal de Trasplantes deberá celebrar su primera
 
 P.O. 16 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 294, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 294, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XX AL APARTADO A, DEL ARTÍCULO 3, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XX, PARA QUEDAR COMO XXI, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
