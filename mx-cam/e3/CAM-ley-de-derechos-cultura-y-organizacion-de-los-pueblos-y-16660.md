@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-derechos-cultura-y-organizacion-de-los-pueblos-y-16660"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2017-07-13"
+last_updated: "2019-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de junio de 2000.
 
@@ -221,31 +221,45 @@ El Estado y los Municipios, por conducto de sus instancias educativas, garantiza
 
 Las comunidades indígenas podrán establecer sus propios medios de comunicación, en sus respectivas lenguas, de conformidad con la normatividad de la materia, con el objeto de difundir ampliamente sus tradiciones, usos y costumbres.
 
-### CAPÍTULO IV. DE LAS MUJERES, NIÑOS Y ANCIANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MARZO DE 2019)</small>
+
+### CAPÍTULO IV. DE LAS MUJERES, NIÑAS, NIÑOS, ADOLESCENTES Y ADULTOS MAYORES INDÍGENAS
 
 ###### Artículo 24.
 
 El Estado garantizará la igualdad de oportunidades entre la mujer y el varón indígenas, de conformidad a lo previsto en el presente capítulo y en las demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
+
 ###### Artículo 25.
 
-El Estado procurará el bienestar y protección de las mujeres, niños y ancianos de las comunidades indígenas, por cuanto que constituyen la base de las familias que integran y sustentan los pueblos indígenas de Campeche.
+El Estado procurará el bienestar y protección de las mujeres, niñas, niños, adolescentes y adultos mayores de las comunidades indígenas, por cuanto que constituyen la base de las familias que integran y sustentan los pueblos indígenas de Campeche.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 26.
 
-Con respeto a las tradiciones, usos y costumbres indígenas, el Estado promoverá la participación plena de las mujeres en tareas y actividades que tiendan a lograr su realización, superación y reconocimiento de su dignidad.
+El Estado fomentará, de manera específica, la plena vigencia de los derechos de la mujer indígena a los servicios de salud, educación, cultura, vivienda digna y decorosa, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a tener cargos al interior de la comunidad por elección o designación y a participar en programas productivos para el desarrollo comunitario, en iguales condiciones que el varón.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 27.
 
-El Estado propiciará la información, la capacitación y el diálogo como medio para que, las comunidades indígenas, apliquen medidas tendientes a lograr la participación de las mujeres en condiciones de equidad en la vida política, social y cultural de las mismas.
+La mujer indígena tiene derecho a elegir libremente a su pareja, así como no ser objeto de comercio bajo ninguna circunstancia.
+
+El Estado y los municipios, a través de las instancias correspondientes, prestarán en las comunidades indígenas servicios de asesoría jurídica y orientación social encaminados al establecimiento de una cultura tendiente a reorientar aquellas prácticas o costumbres que atenten en contra de la dignidad e igualdad de la mujer.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 28.
 
-El Estado garantizará los derechos de los niños y niñas indígenas a la vida, la libertad y la seguridad en los mismos términos aplicables para los de otras etnias no indígenas.
+El Estado garantizará los derechos de las niñas, niños y adolescentes indígenas a la vida, la libertad y la seguridad en los mismos términos aplicables para los de otras etnias no indígenas.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 29.
 
-El Estado velará por la salud, respeto a la dignidad y experiencia de los ancianos indígenas, procurando que los programas específicos de asistencia social queden a su alcance.
+El Estado velará por la salud, respeto a la dignidad y experiencia de los adultos mayores indígenas y de las personas con discapacidad, procurando que los programas específicos de asistencia social queden a su alcance.
 
 ### CAPÍTULO V. SALUD
 
@@ -518,3 +532,11 @@ P.O. 13 DE JULIO DE 2017.
 Primero.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido de este decreto.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 36 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 25, 26, 27, 28 Y 29, Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO II DENOMINADO "DE LAS MUJERES, NIÑOS Y ANCIANOS" PARA QUEDAR COMO "DE LAS MUJERES, NIÑAS, NIÑOS, ADOLESCENTES Y ADULTOS MAYORES INDÍGENAS" DE LA LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
