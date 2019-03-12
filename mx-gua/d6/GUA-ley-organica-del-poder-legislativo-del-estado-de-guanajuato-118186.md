@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2018-07-20"
+last_updated: "2019-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -105,7 +105,9 @@ Las comunicaciones que realice el Congreso del Estado con otros Poderes o autori
 
 Estas previsiones tendrán aplicación en lo conducente, en las comunicaciones internas del Poder Legislativo.
 
-### Capítulo II. Parlamento Abierto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MARZO DE 2019)</small>
+
+### Capítulo II. Parlamento Abierto y Evaluación Legislativa
 
 ###### Artículo 12.
 
@@ -113,7 +115,23 @@ El Congreso del Estado promoverá la implementación de un Parlamento Abierto or
 
 En el ejercicio de su función los Diputados promoverán la participación e inclusión de la ciudadanía en la toma de decisiones relacionadas con el proceso legislativo.
 
-El Congreso del Estado impulsará a través de Lineamientos de Parlamento Abierto la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo, y promoverá una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
+
+El Congreso del Estado impulsará a través de Lineamientos de Parlamento Abierto la implementación de prácticas de transparencia y de evaluación legislativa para alcanzar los principios contemplados en el presente artículo, y promoverá una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 12 Bis.
+
+El Congreso del Estado establecerá el Observatorio Ciudadano Legislativo como un mecanismo de evaluación objetiva del desempeño legislativo de los diputados con base en los siguientes índices:
+
+I. De eficiencia y transparencia legislativa;
+
+II. De eficiencia presupuestal y fiscalización; y
+
+III. De impacto social y agenda legislativa.
+
+Lo anterior con el objetivo de integrar y coordinar un sistema de medición y evaluación con participación ciudadana, de las actividades legislativas y parlamentarias en el Estado.
 
 ## TÍTULO SEGUNDO. Instalación de la Legislatura
 
@@ -143,9 +161,13 @@ VII. El inventario, registro, catálogo y resguardo de los bienes muebles e inmu
 
 VIII. La información relativa a los procesos de fiscalización;
 
-IX. La información relativa a los juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, y demás juicios en los que el Congreso del Estado sea parte; y
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
 
-X. La demás información que se estime procedente
+IX. La documentación relativa a la evaluación legislativa y la del desempeño legislativo, que realice la Unidad de Seguimiento y Análisis de Impacto Legislativo y el Observatorio Ciudadano Legislativo respectivamente;
+
+X. La información relativa a los juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, y demás juicios en los que el Congreso del Estado sea parte; y
+
+XI. La demás información que se estime procedente.
 
 ###### Artículo 15.
 
@@ -797,9 +819,23 @@ XXV. Conocer sobre las solicitudes de duplicidad de término para el ejercicio d
 
 XXVI. Conocer y en su caso emitir opinión de las iniciativas o asuntos que le sean remitidas;
 
-XXVII. Emitir los lineamientos para el desarrollo de actividades de cabildeo ante Órganos del Congreso del Estado y Diputados, así como los lineamientos de parlamento abierto; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-XXVIII. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
+XXVII. Emitir los lineamientos para el desarrollo de actividades de cabildeo ante Órganos del Congreso del Estado y Diputados, así como los de parlamento abierto;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+
+XXVIII. Proveer de insumos al Observatorio Ciudadano Legislativo para la implementación, funcionamiento y operación del Sistema de Evaluación y Medición de las Actividades Legislativas y Parlamentarias;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+
+XXIX. Proponer al Observatorio Ciudadano Legislativo, los lineamientos para el desarrollo de las actividades para su aprobación;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+
+XXX. Dar seguimiento a las recomendaciones emitidas por el Observatorio Ciudadano Legislativo; y
+
+XXXI. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 73.
 
@@ -2145,6 +2181,8 @@ La comisión o comisiones dictaminadoras podrán ratificar el dictamen o modific
 
 ### Capítulo I. Participación Ciudadana
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
+
 ###### Artículo 209.
 
 Las iniciativas de ley o modificaciones deberán contener una evaluación de impacto, en donde se considere al menos lo siguiente:
@@ -2165,49 +2203,107 @@ Toda iniciativa de ley, decreto o acuerdo aprobado por el Congreso del Estado de
 
 En el caso de iniciativas ya aprobadas o publicadas, la Unidad de Seguimiento y Análisis de Impacto Legislativo implementará un mecanismo de evaluación y seguimiento a las leyes vigentes y sus continuas reformas, a efecto de realizar un análisis ex post.
 
-## TÍTULO OCTAVO. Participación Ciudadana y Cabildeo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MARZO DE 2019)</small>
 
-### Capítulo II. Cabildeo
+## TÍTULO OCTAVO. Participación Ciudadana, Observatorio Ciudadano Legislativo y Cabildeo
+
+### Capítulo II. Observatorio Ciudadano Legislativo
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 211.
 
-El Congreso del Estado contará con un consejo consultivo ciudadano de apoyo legislativo, denominado Consejo Ciudadano de Parlamento Abierto, integrado por destacados conocedores de las diversas ramas profesionales; que apoyará el trabajo legislativo de manera honorifica y que durará el término de una legislatura.
+El Congreso del Estado establecerá mecanismos de participación con la sociedad civil, en colaboración con el Observatorio Ciudadano Legislativo, en la planeación, programación, ejecución, evaluación y supervisión de las actividades en materia legislativa y parlamentaria, que se lleven a cabo en sus ámbitos de competencia, de acuerdo con esta Ley y los lineamientos correspondientes.
 
-Dicho consejo consultivo deberá estar integrado al menos por las siguientes instancias, a través de un representante:
+> <small>(ADICIONADO CON SUS ARTÍCULOS, P.O. 12 DE MARZO DE 2019)</small>
 
-I. Universidad de Guanajuato;
+### Capítulo III. Cabildeo
 
-II. Procuraduría de los Derechos Humanos;
+###### Artículo 211 Bis.
 
-III. Colegios de abogados;
+El Observatorio Ciudadano Legislativo es un órgano ciudadano con independencia funcional y administrativa de vigilancia para conocer, opinar, recomendar, evaluar y dar seguimiento al desempeño legislativo y parlamentario, con la finalidad de emitir una opinión basada en los resultados de las evaluaciones y crear un marco de confiabilidad, así como contribuir a que las acciones legislativas, se realicen en términos de transparencia, máxima publicidad, rendición de cuentas, participación ciudadana, eficiencia, eficacia y honradez.
 
-IV. Cámaras empresariales; y
+El Observatorio Ciudadano Legislativo deberá estar integrado por:
 
-V. Asociaciones civiles.
+I. Un representante de la Universidad de Guanajuato;
 
-El consejo consultivo contará con el apoyo de una secretaría técnica adscrita a la Dirección General de Servicios de Apoyo Técnico Parlamentario y sesionará al menos dos veces por año de ejercicio constitucional.
+II. Un representante de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
-La presidencia del consejo consultivo recaerá en alguno de los representantes de las fracciones III, IV o V del presente artículo, el cual será rotativo por año entre cada uno de ellos.
+III. Un representante del Instituto de Acceso a la Información Pública para el Estado de Guanajuato;
+
+IV. Tres representantes de colegios de profesionistas; y
+
+V. Cinco representantes de organizaciones no gubernamentales.
+
+El Observatorio Ciudadano Legislativo contará con una secretaría técnica de conformidad con los lineamientos respectivos y con el apoyo técnico de la Secretaría General a través de la Unidad de Seguimiento y Análisis de Impacto Legislativo.
+
+Dicho observatorio sesionará de manera ordinaria por lo menos una vez cada cuatro meses, y en forma extraordinaria, cuando la importancia del asunto así lo amerite.
+
+Los representantes a que se refiere (sic) las fracciones IV y V durarán en su encargo cuatro años. La presidencia del Observatorio Ciudadano Legislativo recaerá en alguno de los representantes de las fracciones IV y V referidas, el cual será rotativo por año entre ellos. La convocatoria para estos representantes se realizará por la Junta de Gobierno y Coordinación Política, de conformidad con los lineamientos aprobados por el Observatorio.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 211 Ter.
+
+El Observatorio Ciudadano Legislativo funcionará y operará de conformidad con sus lineamientos y su programa de trabajo. Las actividades de sus integrantes serán honoríficas y no recibirán retribución, emolumento, ni compensación alguna por el desempeño de su función.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 212.
+
+El Observatorio Ciudadano Legislativo, tendrá las siguientes atribuciones:
+
+I. Promover la participación organizada de la sociedad en actividades legislativas, así como el intercambio de conocimiento entre órganos análogos en los Congresos Estatales;
+
+II. Integrar el Sistema de Evaluación y Medición de las Actividades Legislativas y Parlamentarias y contará con el apoyo de la Unidad de Seguimiento y Análisis de Impacto Legislativo;
+
+III. Establecer un sistema permanente que permita monitorear la percepción de la ciudadanía, en relación al desempeño legislativo;
+
+IV. Operar la Plataforma Digital de Desempeño Legislativo;
+
+V. Evaluar con objetividad el desempeño y eficiencia de los integrantes del Congreso del Estado;
+
+VI. Propiciar e impulsar la elaboración de propuestas ciudadanas de reformas a leyes a través de la iniciativa popular; y
+
+VII. Rendir el informe de sus actividades.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 212 Bis.
+
+El Observatorio Ciudadano Legislativo elaborará un informe de las evaluaciones, indicadores y seguimiento legislativo, por cada Grupo Parlamentario, Representación Parlamentaria y Diputados en lo individual.
+
+El informe deberá elaborarse anualmente y publicarse en la página de internet del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 212 Ter.
+
+El Observatorio Ciudadano Legislativo actualizará la Plataforma Digital de Desempeño Legislativo con información y análisis sobre la actividad legislativa y parlamentaria del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 212 Quáter.
+
+El Observatorio Ciudadano Legislativo podrá emitir recomendaciones a los Grupos Parlamentarios, Representaciones Parlamentarias y Diputados en lo individual, las cuales serán públicas y estarán enfocadas al menos a:
+
+I. El mejoramiento del desempeño legislativo; y
+
+II. Las acciones u omisiones que deriven del informe anual que presente el Observatorio Ciudadano Legislativo.
+
+Las recomendaciones deberán ser aprobadas por la mayoría de los integrantes del Observatorio Ciudadano Legislativo.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+###### Artículo 212 Quinquies.
+
+Los Grupos Parlamentarios, Representaciones Parlamentarias o Diputados a las que se dirijan las recomendaciones, deberán dar respuesta fundada y motivada, en un plazo que no exceda de quince días hábiles a partir de su recepción, tanto en los casos en los que se acepte la recomendación, como en los casos en los que decidan rechazarla. En caso de aceptar la recomendación se deberá informar al Observatorio Ciudadano Legislativo las acciones específicas que se tomarán para dar cumplimiento.
+
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 12 DE MARZO DE 2019)</small>
 
 ### Capítulo I. Declaratoria de separación del cargo
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
-
-###### Artículo 212.
-
-El Consejo Ciudadano de Parlamento Abierto, tendrá las siguientes atribuciones:
-
-I. Promover la participación organizada de la sociedad, en actividades legislativas;
-
-II. Establecer un sistema permanente que permita identificar la percepción de la ciudadanía, en relación a la legislación vigente;
-
-III. Integrar un sistema de seguimiento y evaluación de las leyes o decretos vigentes, para tal efecto contaran con el apoyo de la Unidad de Seguimiento y Análisis de Impacto Legislativo;
-
-IV. Evaluar con objetividad el comportamiento, eficiencia y preparación de los integrantes del Congreso del Estado; y
-
-V. Propiciar la elaboración de propuestas ciudadanas de reformas a leyes a través de la iniciativa popular.
-
-### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus integrantes
 
 ###### Artículo 213.
 
@@ -2227,7 +2323,7 @@ Cualquier infracción a esta norma será sancionada con la remoción de las Comi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2017)</small>
 
-### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
+### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus integrantes
 
 ###### Artículo 215.
 
@@ -2341,7 +2437,7 @@ IV. Consejeros del Poder Judicial, se procederá de conformidad con lo estableci
 
 V. Integrantes del Ayuntamiento, se procederá de conformidad con la Ley Orgánica Municipal del Estado de Guanajuato.
 
-### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
+### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
 
 ###### Artículo 236.
 
@@ -2415,7 +2511,7 @@ Cuando la queja se deba a la ausencia absoluta de la mayoría de los integrantes
 
 Si el Congreso del Estado dicta la revocación del mandato en contra de cualquier miembro de los ayuntamientos, en la resolución correspondiente el propio Congreso del Estado decretará la suspensión, ordenando se llame al suplente si se tratare de síndicos o regidores. Si la persona suspendida fuera la titular de la Presidencia Municipal, la designación del interino o del sustituto en su caso, se llevará a cabo por el Ayuntamiento.
 
-### Capítulo I. Auditoría Superior del Estado
+### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
 
 ###### Artículo 247.
 
@@ -2439,7 +2535,7 @@ III. Transcurrido el término anterior, la Comisión de Asuntos Municipales elab
 
 IV. En el supuesto de que el Congreso del Estado resuelva favorablemente la solicitud del Ayuntamiento, esta resolución deberá determinar las condiciones en que el Poder Ejecutivo del Estado, asumirá el ejercicio de la función o la prestación del servicio público de que se trate, atendiendo a las circunstancias de cada caso concreto.
 
-### Capítulo II. Organización Interna del Congreso del Estado
+### Capítulo I. Auditoría Superior del Estado
 
 ###### Artículo 250.
 
@@ -2493,7 +2589,7 @@ El Congreso del Estado y las autoridades municipales nombradas, atenderán en el
 
 ## TÍTULO DÉCIMO. De la Organización del Congreso del Estado
 
-### Capítulo III. Secretaría General
+### Capítulo II. Organización Interna del Congreso del Estado
 
 ###### Artículo 256.
 
@@ -2501,7 +2597,7 @@ El Congreso del Estado ejercerá las funciones técnicas de fiscalización a tra
 
 La Auditoría Superior del Estado tendrá las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con la disponibilidad presupuestal y su normatividad.
 
-### Capítulo IV. Contraloría Interna del Poder Legislativo
+### Capítulo III. Secretaría General
 
 ###### Artículo 257.
 
@@ -2515,7 +2611,7 @@ II. Contraloría Interna del Poder Legislativo.
 
 Las dependencias señaladas en el artículo anterior, tendrán las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con el Presupuesto de Egresos del Poder Legislativo del Estado, con la presente Ley, así como con el Estatuto del Servicio Civil de Carrera, reglamentos y manuales de organización y funcionamiento.
 
-### Capítulo Único. Gaceta Parlamentaria
+### Capítulo IV. Contraloría Interna del Poder Legislativo
 
 ###### Artículo 259.
 
@@ -3003,7 +3099,7 @@ El Centro de Estudios Parlamentarios deberá articular sus acciones con los serv
 
 Atendiendo a la disponibilidad presupuestaria del Poder Legislativo, el Centro de Estudios Parlamentarios y conforme a los lineamientos que proponga la Dirección General de Administración y aprobados por la Junta de Gobierno y Coordinacion Política, contará con un programa anual de formación de becarios, pasantes e investigadores, con el propósito de formar a profesionistas en el planeamiento, desarrollo, ejecución y análisis de estudios de investigación científica, en las áreas parlamentarias y de finanzas públicas.
 
-### Capítulo Único. Servicio Civil de Carrera
+### Capítulo Único. Gaceta Parlamentaria
 
 ###### Artículo 286.
 
@@ -3116,6 +3212,8 @@ En caso de falta absoluta, renuncia o remoción del titular de la Contraloría I
 En tanto se hace la designación correspondiente, la Junta de Gobierno y Coordinación Política designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
 ## Título Undécimo. Gaceta Parlamentaria
+
+### Capítulo Único. Servicio Civil de Carrera
 
 ###### Artículo 292.
 
@@ -3262,3 +3360,21 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 56, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La convocatoria para integrar el Observatorio Ciudadano Legislativo se realizará dentro de los treinta días siguientes de entrada en vigor del presente Decreto y estará a cargo de la Junta de Gobierno y Coordinación Política del Congreso del Estado, con respecto a los representantes ciudadanos de las fracciones IV y V del artículo 211 Bis de este Decreto.
+
+Artículo tercero. La Junta de Gobierno y Coordinación Política deberá elaborar y proponer para su aprobación al Observatorio Ciudadano Legislativo los lineamientos para desarrollar sus actividades a más tardar dentro de los siguientes noventa días contados a partir de la entrada en vigencia del presente Decreto.
+
+Artículo cuarto. EL Observatorio Ciudadano Legislativo deberá integrar el Sistema de Evaluación y Medición de las Actividades Legislativas y Parlamentarias a más tardar dentro de los siguientes ciento veinte días contados a partir de su integración.
+
+Artículo quinto. Se extingue el Consejo Ciudadano de Parlamento Abierto creado mediante el Decreto número 167 publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 207, séptima parte de fecha 27 de diciembre de 2016, que expidió la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
+
+En los términos de la ley de la materia hará entrega de sus patrimonios documentales.
+
+Artículo sexto. Una vez integrado el Observatorio Ciudadano Legislativo, sesionará dentro de los ocho días siguientes con el fin de designar por insaculación a quien ocupe la presidencia por el primer año de actividades.
