@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-y-conducta-de-los-servidores-publicos-de-la-119
 country: "mx"
 rank: "codigo"
 publication_date: "2017-02-09"
-last_updated: "2017-02-09"
+last_updated: "2019-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019 (ABROGADO).
 
 Código publicado en la Sección II al Número 40 del Periódico Oficial del Estado de Jalisco, el jueves 9 de febrero de 2017.
 
@@ -586,3 +588,17 @@ LIC. MARÍA TERESA BRITO SERRANO
 Contralora del Estado
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU 019/2019 DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO Y DE LA CONTRALORA DEL ESTADO, POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y LAS REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO.”]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Las Dependencias y Entidades, a través de sus Comités, serán competentes para emitir de manera vinculante y complementaria a este instrumento, la norma relativa a las conductas que tutelen los principios y valores relativos a su objeto, considerando los riesgos éticos específicos, en atención a su misión, visión y atribuciones, según sea el caso.
+
+Tercero. Se abroga el Acuerdo por el que se emite el Código de Ética y Conducta de los Servidores Públicos de la Administración Pública del Estado, publicado el 09 de febrero del 2017 en el Periódico Oficial "El Estado de Jalisco".
+
+Cuarto. En los casos en los que en el Acuerdo referido en el artículo que antecede y demás disposiciones legales y administrativas, se haga referencia al Código de Ética y Conducta de los Servidores Públicos de la Administración Pública del Estado de Jalisco, se entenderá por el presente Acuerdo que expide el Código de Ética y Reglas de Integridad para los Servidores de la Administración Pública del Estado de Jalisco.
