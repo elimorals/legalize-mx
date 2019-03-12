@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2018-10-04"
+last_updated: "2019-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 4 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -220,6 +218,10 @@ El Procurador General de Justicia será nombrado por el Gobernador con la ratifi
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
 
 El titular de la Secretaría de la Transparencia y Rendición de Cuentas será nombrado por el Gobernador del Estado con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento aquél, podrá designar un encargado de despacho. La persona que nombre el Gobernador del Estado, no podrá ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a un puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su nombramiento.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+
+El titular de la Secretaría de la Transparencia y Rendición de Cuentas deberá contar con experiencia de cuando menos dos años en materia de fiscalización y rendición de cuentas.
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
 
@@ -2244,3 +2246,9 @@ Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Rec
 Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto de Ecología del Estado, del Instituto de Movilidad del Estado de Guanajuato, de la Comisión de Vivienda del Estado de Guanajuato y del Instituto Estatal de Atención Al Migrante Guanajuatense. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
 
 Los asuntos que se encuentren en trámite al momento de la extinción de las entidades referidas en este artículo, serán resueltos por las secretarías correspondientes.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 56, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
