@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2018-08-31"
+last_updated: "2019-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -227,7 +227,9 @@ XII. (DEROGADA, P.O. 20 DE FEBRERO DE 2016)
 
 XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
-XIV. SECRETARÍA DE DESARROLLO SOCIAL;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+
+XIV. SECRETARÍA DE BIENESTAR;
 
 XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y
 
@@ -1751,15 +1753,15 @@ XLI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, A
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SÉPTIMO DEL DECRETO POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. 14 DE SEPTIEMBRE DE 2017, TODO INSTRUMENTO JURÍDICO YA SEA LEGAL O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL, QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE REFIERA A LA SECRETARÍA DE DESARROLLO SOCIAL, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA GENERAL DE GOBIERNO, A TRAVÉS DE LA UNIDAD ADMINISTRATIVA QUE ABSORBA LAS ATRIBUCIONES DE AQUÉLLA CONFORME AL PRESENTE DECRETO.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MARZO DE 2019)</small>
 
-### CAPÍTULO XV. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+### CAPÍTULO XV. DE LA SECRETARÍA DE BIENESTAR
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SÉPTIMO DEL DECRETO POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. 14 DE SEPTIEMBRE DE 2017, TODO INSTRUMENTO JURÍDICO YA SEA LEGAL O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL, QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE REFIERA A LA SECRETARÍA DE DESARROLLO SOCIAL, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA GENERAL DE GOBIERNO, A TRAVÉS DE LA UNIDAD ADMINISTRATIVA QUE ABSORBA LAS ATRIBUCIONES DE AQUÉLLA CONFORME AL PRESENTE DECRETO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 47.
 
-A la Secretaría de Desarrollo Social, le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Bienestar, le corresponde el despacho de los siguientes asuntos:
 
 I.- Proponer al Gobernador del Estado, la política general de desarrollo social, así como las normas, criterios y lineamientos conforme a los cuales se llevarán a cabo los programas que de ella deriven;
 
@@ -2742,3 +2744,15 @@ OCTAVO. El Ejecutivo del Estado dentro de los noventa días naturales siguientes
 En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no contravengan al presente.
 
 NOVENO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 17, LA DENOMINACIÓN DEL CAPÍTULO XV DEL TÍTULO II Y EL PÁRRAFO PRIMERO DEL 47 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Todo instrumento jurídico ya sea legal o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a la Secretaría de Desarrollo Social, se entenderá realizada por la Secretaría de Bienestar conforme al presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, expedirá la reforma al Reglamento Interior de la Secretaría de Bienestar. En tanto no se expida el Reglamento Interior, seguirá el Reglamento vigente en todo aquello que no contravenga al presente.
