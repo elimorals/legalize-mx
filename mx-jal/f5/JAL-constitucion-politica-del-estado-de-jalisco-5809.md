@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2018-10-18"
+last_updated: "2019-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1049,45 +1049,31 @@ VI. Los partidos políticos podrán postular simultáneamente a candidatos a dip
 
 VII. Los candidatos independientes no tendrán derecho a participar en la asignación de Diputados por el principio de representación proporcional.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 26940/LXI/18 PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2019, PÁGINA 3.]</small>
+
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 ###### Art. 21.
 
 Para ser diputado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Tener cuando menos veintiún años de edad el día de la elección;
 
-III. Ser nativo de Jalisco o avecindado legalmente en el Estado, cuando menos dos años inmediatos anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;
 
-IV. No ser Magistrado del Tribunal Electoral ni consejero electoral del Instituto Electoral, a menos que se separe de sus funciones dos años antes de la elección;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+IV. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
 
-V. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
-
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
-
-VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura, Presidente Municipal, Regidor o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección;
-
-IX. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE JULIO DE 2008)
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
-
-X. No ser presidente, secretario o consejero electoral de los consejos distritales o municipales electorales a menos que se separe del cargo noventa días antes de la jornada electoral; y
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2005)</small>
-
-XI. Las demás que señale la Ley Electoral del Estado.
+V. No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1407,13 +1393,17 @@ El Presidente y los comisionados durarán en su encargo cinco años y sólo podr
 
 XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos; y
+XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el Titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley.
+XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2019)</small>
+
+XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1539,13 +1529,17 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Tener cuando menos treinta años de edad el día de la elección;
 
-III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmediatamente anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-IV. No estar en servicio activo en el Ejército Nacional ni en las fuerzas de seguridad pública del Estado, cuando menos noventa días anteriores a la elección, y
+III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-V. No ser Secretario del Poder Ejecutivo del Estado, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
+IV. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+
+V. No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2245,49 +2239,29 @@ Las personas que por elección indirecta o por nombramiento o designación de al
 
 Tratándose del Presidente Municipal y Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 26940/LXI/18 PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2019, PÁGINA 4.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 74.
 
 Para ser Presidente Municipal, regidor y síndico se requiere:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-I. Ser ciudadano mexicano;
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-II. Ser nativo del municipio o área metropolitana correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos al día de la elección;
+II. Ser nativo del municipio o área metropolitana correspondiente o avecindado de los mismos cuando menos los dos años anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-III. Estar en pleno ejercicio de sus derechos;
+III. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
 
-IV. No ser Magistrado del Tribunal Electoral, integrante del organismo electoral con derecho a voto, Procurador Social o Presidente de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones ciento ochenta días antes de la elección;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-V. No ser Consejero Ciudadano de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
-
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, Magistrado del Tribunal de Justicia Administrativa, Magistrado del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior, y
-
-(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
-
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas públicas.
+V (SIC). No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección. Si se trata del funcionario encargado de la Hacienda Municipal, es necesario que haya presentado sus cuentas públicas.
 
 (NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2457,19 +2431,21 @@ El Congreso del Estado emitirá las normas de aplicación general para la celebr
 
 Las comunidades indígenas dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la legislación en la materia.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
-Art. 81 bis. Cuando se trate de municipios pertenecientes a una misma área metropolitana, éstos se coordinarán, en pleno ejercicio de sus facultades constitucionales, de acuerdo con las bases generales que en materia de coordinación metropolitana expida el Congreso del Estado.
+###### Art. 81 Bis.
+
+Los municipios que integren un área metropolitana se coordinarán a través de las instancias y conforme las bases que establezca la legislación estatal en materia de coordinación metropolitana y se establezcan en los respectivos estatutos orgánicos.
 
 La coordinación metropolitana se efectuará a través de las siguientes instancias:
 
-I. Una instancia de coordinación política por cada una de las áreas metropolitanas, que se integrarán por los presidentes municipales de los ayuntamientos del área metropolitana correspondiente y, previo convenio, por el Gobernador del Estado. La personalidad jurídica de dichas instancias será definida por sus integrantes;
+I. Una instancia de coordinación política por cada una de las áreas metropolitanas;
 
-II. Una instancia de carácter técnico que estará constituido como un organismo público descentralizado, con personalidad jurídica y patrimonio propios denominado Instituto Metropolitano de Planeación, mismo que deberá ser constituido por los ayuntamientos del área metropolitana correspondiente; y
+II. Una instancia de carácter técnico, constituido como organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propio;
 
-III. Una instancia consultiva y de participación ciudadana, de carácter honorífico, por cada una de las áreas metropolitanas, que podrá participar en las tareas de evaluación y seguimiento.
+III. Una instancia consultiva y de participación ciudadana, de carácter honorífico, por cada una de las áreas metropolitanas, que podrá participar en tareas de evaluación y seguimiento; y
 
-Las reglas para la organización y funcionamiento de las instancias de coordinación metropolitana, estarán establecidas en las leyes que sobre la materia expida el Congreso del Estado de Jalisco.
+IV. Las demás instancias que establezcan la legislación aplicable, o se establezcan en los respectivos estatutos orgánicos de las instancias de coordinación metropolitana de conformidad con la normativa respectiva.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -3755,9 +3731,9 @@ TERCERO.- Se deroga todo lo que contravenga al presente decreto.
 
 P.O. 20 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 25839/LXI/16 QUE REFORMA LOS ARTÍCULOS 13 Y 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25839/LXI/16 QUE REFORMA LOS ARTÍCULOS 13 Y 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial EI Estado de Jalisco.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Para el caso de los créditos vigentes otorgados por el Instituto de Pensiones del Estado de Jalisco, o cualquier otra institución estatal o municipal que otorgue créditos para la vivienda, cuyos montos se actualicen con base al salario mínimo, estos continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
@@ -3910,3 +3886,9 @@ P.O. 18 DE OCTUBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las reformas aprobadas en el presente decreto no serán aplicables a los procesos para la designación o elección de funcionarios iniciados con anterioridad a su publicación.
+
+P.O. 12 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26940/LXI/18 QUE REFORMA LOS ARTÍCULOS 21, 35, 37, 74 Y 81 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO NÚMERO AL-112-LXII-19”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
