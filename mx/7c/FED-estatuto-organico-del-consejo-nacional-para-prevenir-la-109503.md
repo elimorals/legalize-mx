@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2018-07-24"
+last_updated: "2019-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-08-13"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2019 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE MARZO DE 2019.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -483,21 +483,23 @@ V. Delegar facultades a las personas servidoras públicas adscritas a la unidad 
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades, y los que les correspondan por delegación o suplencia;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+(ADICIONADA, D.O.F. 24 DE JULIO DE 2018) (F. DE E., D.O.F. 12 DE MARZO DE 2019)
 
 VII. Dar seguimiento en el marco de sus atribuciones, a los convenios de colaboración que celebre el Consejo.
 
-VIII. Proponer a la persona titular de la Presidencia del Consejo la modificación de la estructura orgánico-funcional de la unidad administrativa a su cargo;
+VIII. Proporcionar la información solicitada que le sea requerida por autoridad competente, o por las unidades administrativas del Consejo;
 
-IX. Expedir copias certificadas de documentos y constancias existentes en los archivos de la unidad administrativa a su cargo;
+IX. Proponer a la persona titular de la Presidencia del Consejo la modificación de la estructura orgánico-funcional de la unidad administrativa a su cargo;
 
-X. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o, en su caso, a la Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
+X. Expedir copias certificadas de documentos y constancias existentes en los archivos de la unidad administrativa a su cargo;
 
-XI. Solicitar la información que estime necesaria en el ámbito de su competencia a las instituciones públicas o a las y los particulares, sean personas físicas o morales, para el mejor desarrollo de sus atribuciones, con las excepciones previstas por la legislación;
+XI. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o, en su caso, a la Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
 
-XII. Las demás que les confiera la persona titular de la Presidencia del Consejo, y
+XII. Solicitar la información que estime necesaria en el ámbito de su competencia a las instituciones públicas o a las y los particulares, sean personas físicas o morales, para el mejor desarrollo de sus atribuciones, con las excepciones previstas por la legislación;
 
-XIII. Las demás establecidas en la Ley y en este Estatuto.
+XIII. Las demás que les confiera la persona titular de la Presidencia del Consejo, y
+
+XIV. Las demás establecidas en la Ley y en este Estatuto.
 
 ###### Artículo 52.
 
