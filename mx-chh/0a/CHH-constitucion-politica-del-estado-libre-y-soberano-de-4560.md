@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2019-01-30"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -747,13 +747,13 @@ El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para
 
 El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-El Tribunal mencionado en el presente artículo, contará con un órgano de control interno con autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos que ejerza.
+El Tribunal mencionado en el presente artículo, contará con un Órgano Interno de Control con autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos que ejerza.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-Quien ocupe la titularidad del Órgano Interno de Control será propuesto y designado por el Congreso del Estado, con el voto de las dos terceras partes de las y los diputados presentes. Durará en su encargo siete años. Los requisitos que deberá reunir para su designación se establecerán en la ley.
+La titularidad del Órgano Interno de Control deberá proponerse mediante una terna integrada por el Congreso del Estado, con el voto de las dos terceras partes de las y los diputados presentes, misma que remitirá al Pleno del Tribunal Estatal Electoral para que este proceda a su designación. Durará en su encargo siete años. Los requisitos que deberá reunir para su designación se establecerán en la ley.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -1119,9 +1119,7 @@ IV a.- Expedir la ley que establezca las bases de coordinación del Sistema Esta
 
 IV b.- Expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado y de los entes públicos estatales.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
-
-IV c.- Expedir la ley de competencias entre los órganos de gobierno, para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como procedimientos para su aplicación.
+IV c.- (DEROGADA, P.O. 13 DE MARZO DE 2019)
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -3329,7 +3327,9 @@ Las y los servidores públicos desde el nivel que señale la ley, estarán oblig
 
 La ley y demás normas conducentes sancionarán a los servidores públicos y particulares que incurran en responsabilidad frente al Estado, ajustándose a las siguientes prevenciones:
 
-I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, además de los servidores que se establecen en el artículo 179 los siguientes: las y los Secretarios de Estado, quien ocupe la titularidad de la Auditoría Superior del Estado, quienes integren los Ayuntamientos, las y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales, y las y los magistrados del Tribunal Estatal Electoral.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2019)</small>
+
+I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, además de los servidores que se establecen en el artículo 179 los siguientes: las y los Secretarios de Estado, quien ocupe la titularidad de la Auditoría Superior del Estado, quienes integren los Ayuntamientos, las y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales, y las y los magistrados del Tribunal Estatal Electoral y del Tribunal Estatal de Justicia Administrativa.
 
 No procede el juicio político por la mera expresión de ideas.
 
@@ -3343,7 +3343,9 @@ III. Se aplicarán sanciones administrativas a los servidores públicos por los 
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la presente fracción. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a siete años.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y serán resueltas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado, la Secretaría responsable del Control Interno del Ejecutivo y los órganos internos de control, según corresponda y serán resueltas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control o la Auditoría Superior del Estado, así como la imposición de sanciones a servidores públicos y particulares.
 
@@ -4985,13 +4987,17 @@ En tanto se expiden y reforman las leyes a que se refiere el Artículo Tercero T
 
 Las disposiciones relativas al nombramiento de la persona titular de la Secretaría responsable del Control Interno del Ejecutivo se aplicarán para la siguiente designación.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO SEXTO.
 
-La Ley que establezca las bases para instituir el Tribunal Estatal de Justicia Administrativa a que hace referencia el artículo 64, fracción IVd (sic), entrará en vigor hasta el primero de enero del año 2018.
+La Ley que establezca las bases para instituir el Tribunal Estatal de Justicia Administrativa a que hace referencia el artículo 64, fracción IV d, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-El Tribunal Estatal de Justicia Administrativa comenzará a operar con una sola Sala. La ley establecerá el procedimiento para que la o el Magistrado de dicha Sala tenga la facultad para solicitar al Congreso del Estado la integración de más, justificando su solicitud mediante un estudio objetivo que motive las necesidades de trabajo jurisdiccional y las condiciones presupuestales así lo permitan. El proceso para la designación de la o el Magistrado del Tribunal Estatal de Justicia Administrativa deberá llevarse a cabo en un plazo no mayor de 40 días a la entrada en vigor de la Ley a la que alude el transitorio anterior.
+El Tribunal Estatal de Justicia Administrativa comenzará a operar con tres magistraturas. El proceso para la designación de las magistradas y los magistrados del Tribunal Estatal de Justicia Administrativa deberá llevarse a cabo en un plazo no mayor de 40 días a la entrada en vigor de la Ley a la que alude el Transitorio anterior.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -5074,6 +5080,30 @@ P.O. 30 DE ENERO DE 2019.
 ###### ARTÍCULO PRIMERO.
 
 Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCNT/0795/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN DIVERSOS ARTÍCULOS TRANSITORIOS DEL DECRETO NO. LXV/RFCNT/0362/2017 VI P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFCNT/0030/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFOS DÉCIMO Y UNDÉCIMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
 
 ###### ARTÍCULO SEGUNDO.
 
