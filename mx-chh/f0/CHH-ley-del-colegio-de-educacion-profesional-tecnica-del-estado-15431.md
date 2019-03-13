@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-colegio-de-educacion-profesional-tecnica-del-estado-154
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-18"
-last_updated: "2016-10-03"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de septiembre de 1999.
 
@@ -149,23 +149,23 @@ I. A la Junta Directiva; y
 
 II. Al Director General.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
-El Organismo contará con un órgano de vigilancia que estará integrado por un Comisario Público y un suplente, designados por la Secretaría de la Función Pública del Estado.
+El Organismo contará con un Órgano Interno de Control cuya persona titular e integrantes se designarán por la Secretaría de la Función Pública del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-El Comisario evaluará el desempeño general del organismo y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado asigne específicamente conforme a la ley.
+El Órgano Interno de Control evaluará el desempeño general del organismo y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado le asigne específicamente conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 9.
 
-El Comisario Público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo a las siguientes bases:
+El Órgano Interno de Control desarrollará sus funciones conforme a los reglamentos y lineamientos que emita la Secretaría de la Función Pública del Estado y de acuerdo con las siguientes bases:
 
 I. Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
 
@@ -179,23 +179,35 @@ El Organismo contará además con las unidades administrativas que se establezca
 
 La Junta Directiva será el órgano de gobierno del CONALEP Chihuahua y estará integrado por:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-I. Un Presidente, quien será el Secretario de Educación y Deporte
+I. Una presidencia, que ocupará la persona titular de la Secretaría de Educación y Deporte.
 
-II. El titular de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+II. La persona titular de la Secretaría de Hacienda.
 
-III. El titular de la Secretaría de la Función Pública del Estado
+III. (DEROGADA, P.O. 13 DE MARZO DE 2019)
 
-IV. A invitación del Presidente, tres representantes del sector productivo, de los cuales dos serán integrantes del Comité de Vinculación de Chihuahua, y uno de los miembros del Comité de Vinculación de Ciudad Juárez;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-V. Un representante de la Secretaría de Educación Pública;
+IV. A invitación de la Presidencia, tres personas representantes del sector productivo, de las cuales dos serán integrantes del Comité de Vinculación de Chihuahua y una del Comité de Vinculación de Ciudad Juárez.
 
-VI. Un representante del Colegio Nacional de Educación Profesional Técnica;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-Por cada integrante habrá un suplente, y el Director General del CONALEP Chihuahua participará sólo con voz.
+V. Una persona representante de la Secretaría de Educación Pública.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+VI. Una persona representante del Colegio Nacional de Educación Profesional Técnica.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+Por cada integrante habrá una suplencia, y el Director General del CONALEP Chihuahua participará solo con voz.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+La Junta Directiva contará con un Órgano Interno de Control cuya persona titular e integrantes se designarán por la Secretaría de la Función Pública del Estado, y desarrollará sus funciones conforme a los reglamentos y lineamientos que emita esta y podrá participar en las sesiones de la misma, con voz, pero no con voto.
 
 ###### ARTÍCULO 12.
 
@@ -407,9 +419,9 @@ I. Cuando deje de cumplir sus fines u objeto; o
 
 II. Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Educación y Deporte y de la Función Pública del Estado, propondrá al Ejecutivo la disolución o extinción del organismo.
+En todo caso, la Secretaría de Hacienda, atendiendo a la opinión de las Secretarías de Educación y Deporte y de la Función Pública del Estado, propondrá al Ejecutivo la disolución o extinción del organismo.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -524,3 +536,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
