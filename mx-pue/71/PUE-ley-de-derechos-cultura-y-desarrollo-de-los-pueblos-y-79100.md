@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2018-07-27"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -157,9 +157,11 @@ Las autoridades estatales o municipales tendrán el deber de recibirla, previnie
 
 Los Pueblos y Comunidades Indígenas tienen derecho social a vivir en libertad, paz y seguridad como Pueblos diferenciados y a gozar de plenas garantías contra cualquier acto de discriminación, violencia, reacomodos o desplazamientos ilegales, separación de niñas y niños indígenas de sus familias y Comunidades.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 12.
 
-Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, por lo que las autoridades públicas correspondientes respetarán y promoverán sus usos.
+Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, por lo que las autoridades públicas correspondientes conservarán, respetarán y promoverán sus usos y enseñanza, así mismo en el ámbito de su competencia impulsarán políticas de investigación, difusión, estudios y documentación sobre las lenguas indígenas en la entidad y sus expresiones literarias.
 
 ###### ARTÍCULO 13.
 
@@ -544,6 +546,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 12 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
