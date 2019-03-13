@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -2401,7 +2401,9 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los diez días siguientes a la celebración de dicho convenio, o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
-En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado que conozca del juicio respectivo.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal Estatal de Justicia Administrativa que conozca del juicio respectivo.
 
 #### Sección Segunda. Del Requerimiento de Pago y Embargo
 
@@ -2995,7 +2997,9 @@ I. Que no afecten el interés jurídico del recurrente.
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias.
 
-III. Que hayan sido impugnados ante la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+III. Que hayan sido impugnados ante la autoridad jurisdiccional en materia Administrativa y Fiscal.
 
 IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
 
@@ -3329,7 +3333,9 @@ SEGUNDO.- Se abroga el Código Fiscal del Estado de Chihuahua, publicado en el P
 
 Las disposiciones contenidas en el Título Tercero del Libro Primero del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida la Ley de Hacienda del Estado de Chihuahua.
 
-Asimismo, las disposiciones contenidas en el Capítulo III, del Título Segundo, del Libro Segundo, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida un acto legislativo que regule el juicio contencioso administrativo estatal.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+Asimismo, las disposiciones contenidas en el Capítulo III, del Título Segundo, del Libro Segundo, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes hasta que entre en vigor la Ley de Justicia Administrativa del Estado de Chihuahua.
 
 De igual forma, las disposiciones contenidas en el Capítulo XVII, del Título Tercero, del Libro Primero, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no entre en vigor la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
 
@@ -3356,3 +3362,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de octubre del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFDEC/0233/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL DECRETO Nº LXV/EXCOD/0885/2018 XVIII P.E., MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA Y SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO LXV/EXLEY/0796/2018 XII P.E., MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día en que se emita la declaratoria de instalación del Tribunal Estatal de Justicia Administrativa.
+
+SEGUNDO.- Hasta la fecha en que entre en vigor el presente Decreto, el Poder Judicial del Estado, a través de la Sala de lo Contencioso Administrativo y Fiscal, conocerá de los asuntos en la materia, debiendo concluir los que se encuentren en trámite, conforme a las disposiciones del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de fecha 30 de diciembre de 1970.
+
+TERCERO.- Todas las referencias contenidas en los ordenamientos legales, a la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, se entenderán hechas al Tribunal Estatal de Justicia Administrativa. Así como las relativas al Juicio de Oposición, habrá de entenderse al Juicio Contencioso Administrativo.
