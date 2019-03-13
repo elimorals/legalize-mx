@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2018-09-12"
+last_updated: "2019-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,17 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-[NOTA 1: EL DECRETO NO. LXV/RFLEY/0338/2017 II P.O., EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
 EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR El SIGUIENTE:
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE:
 
 D E C R E T O:
 
@@ -1265,7 +1263,7 @@ III. Si hubiere varias juezas o jueces del mismo ramo, asesorarán por turno men
 
 ###### ARTÍCULO 87.
 
-Los juzgados civiles, familiares y mixtos se integrarán con las o los jueces, secretarias o secretarios, auxiliares, funcionaras o funcionarios y empleadas o empleados que sean indispensables para la prestación del servicio, conforme se autorice en el presupuesto.
+Los juzgados civiles, familiares y mixtos se integrarán con las o los jueces, secretarias o secretarios, auxiliares, funcionaras (sic) o funcionarios y empleadas o empleados que sean indispensables para la prestación del servicio, conforme se autorice en el presupuesto.
 
 El Consejo podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de partes y otras áreas para varios juzgados de un mismo distrito.
 
@@ -3932,3 +3930,39 @@ Las disposiciones contempladas en el presente Decreto, respecto al artículo 128
 ###### ARTÍCULO SEXTO.
 
 El Poder Judicial del Estado de Chihuahua, de acuerdo a lo establecido en los artículos 46 y 47 de la Ley General de Contabilidad Gubernamental, deberá tomar las previsiones necesarias para que de conformidad a lo establecido en el propio Presupuesto de Egresos vigente, se lleven a cabo las adecuaciones presupuestarias que correspondan, para el funcionamiento de la Secretaría Ejecutiva del Consejo de la Judicatura.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0796/2018 XII P.E. LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La designación de las y los magistrados del Tribunal Estatal de Justicia Administrativa, deberá llevarse a cabo en un plazo no mayor a cuarenta días naturales a la entrada en vigor de la Ley Orgánica del Tribunal Estatal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Estatal de Justicia Administrativa entrará en funciones tres meses después de que sean nombrados las y los magistrados. Lo anterior, sin perjuicio de que las y los magistrados designados procedan a la elección de la persona titular de la Presidencia del Tribunal y esta pueda intervenir en la conformación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos necesarios para la implementación del Tribunal Estatal de Justicia Administrativa, en cumplimiento a lo dispuesto en el presente Decreto, provendrán de recursos fiscales autorizados con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Las personas servidoras públicas adscritas a la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado de Chihuahua, a la entrada en vigor del presente Decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Poder Judicial del Estado de Chihuahua, en los términos de su Ley Orgánica.
+
+P.O. 13 DE MARZO DE 2019.
+
+> <small>[N. DE E. TANSITORIOS DEL “DECRETO N° LXVI/RFDEC/0233/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL DECRETO Nº LXV/EXCOD/0885/2018 XVIII P.E., MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA Y SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO LXV/EXLEY/0796/2018 XII P.E., MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor el día en que se emita la declaratoria de instalación del Tribunal Estatal de Justicia Administrativa.
+
+SEGUNDO.- Hasta la fecha en que entre en vigor el presente Decreto, el Poder Judicial del Estado, a través de la Sala de lo Contencioso Administrativo y Fiscal, conocerá de los asuntos en la materia, debiendo concluir los que se encuentren en trámite, conforme a las disposiciones del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de fecha 30 de diciembre de 1970.
+
+TERCERO.- Todas las referencias contenidas en los ordenamientos legales, a la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, se entenderán hechas al Tribunal Estatal de Justicia Administrativa. Así como las relativas al Juicio de Oposición, habrá de entenderse al Juicio Contencioso Administrativo.
