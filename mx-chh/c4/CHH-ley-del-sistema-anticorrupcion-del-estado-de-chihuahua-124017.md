@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-anticorrupcion-del-estado-de-chihuahua-124017"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-21"
-last_updated: "2017-10-21"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Número 84 del Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre de 2017.
 
@@ -219,9 +219,11 @@ IX. Presentar las recomendaciones en materia de combate a la corrupción para su
 
 X. Aquellas que prevean las reglas de funcionamiento y organización interna del Comité Coordinador Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### Artículo 13.
 
-El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses. La persona titular de la Secretaría Técnica podrá convocar a sesión extraordinaria a petición de la Presidencia del Comité Coordinador Estatal o previa solicitud formulada por la mayoría simple de quienes integran dicho Comité.
+El Comité Coordinador Estatal se reunirá en sesión ordinaria cada mes. La persona titular de la Secretaría Técnica podrá convocar a sesión extraordinaria a petición de la Presidencia del Comité Coordinador Estatal o previa solicitud formulada por la mayoría simple de quienes integran dicho Comité.
 
 Para que el Comité Coordinador Estatal pueda sesionar es necesario que esté presente la mayoría simple de sus integrantes.
 
@@ -313,9 +315,11 @@ Quienes integren el Comité Estatal de Participación Ciudadana se rotarán anua
 
 De presentarse la ausencia temporal de la persona representante, el Comité Estatal de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirla durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses la o el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### Artículo 20.
 
-El Comité Estatal de Participación Ciudadana se reunirá, previa convocatoria de su Presidencia, o cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de las y los miembros presentes y, en caso de empate, quien presida tendrá voto de calidad. Sus reuniones serán públicas.
+El Comité Estatal de Participación Ciudadana se reunirá en sesión ordinaria cada mes, previa convocatoria de su Presidencia, o cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de las y los miembros presentes y, en caso de empate, quien presida tendrá voto de calidad. Sus reuniones serán públicas.
 
 ###### Artículo 21.
 
@@ -742,3 +746,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de octubre del año dos mil diecisiete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
