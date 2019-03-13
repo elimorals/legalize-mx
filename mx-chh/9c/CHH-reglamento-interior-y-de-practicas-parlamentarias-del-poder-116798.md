@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2019-01-26"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1489,6 +1489,10 @@ d) Guía simple de archivos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2017)</small>
 
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 143.
 
 La Gaceta Parlamentaria es el instrumento técnico de carácter informativo de la Mesa Directiva que tiene como propósito ordenar y difundir previamente los asuntos y documentos que serán tratados en cada Sesión del Pleno o de la Diputación Permanente.
@@ -1563,6 +1567,92 @@ IX. Fecha en que se emite la Gaceta Parlamentaria.
 
 Las Gacetas Parlamentarias que se generen durante la Legislatura deberán conservarse disponibles en el portal oficial de internet del Congreso con los datos de identificación a que se refiere el artículo anterior, por lo menos durante tres legislaturas posteriores a su emisión.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2019)</small>
+
+## TÍTULO SÉPTIMO. DE LA ELECCIÓN DE PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2019)</small>
+
+###### ARTÍCULO 150.
+
+Corresponde al Congreso la elección de personas servidoras públicas a que hace referencia la Constitución Política del Estado, para lo cual deberá observarse el procedimiento establecido en la misma y en las leyes específicas que corresponda a cada caso:
+
+I. Gubernatura interina, provisional o sustituta.
+
+II. Magistraturas del Tribunal Superior de Justicia.
+
+III. Magistraturas del Tribunal Estatal de Justicia Administrativa.
+
+IV. Titulares de la Fiscalía General del Estado.
+
+V. Integrantes de la Comisión Estatal de los Derechos Humanos.
+
+VI. Titular de la Fiscalía Especializada en Combate a la Corrupción.
+
+VII. Integrantes del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+
+VIII. Titulares de los órganos internos de control de los organismos públicos autónomos, así como de la terna de aspirantes a ocupar el cargo de titular del Órgano Interno de Control del Tribunal Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+###### ARTÍCULO 151.
+
+La designación de las personas titulares a que se refiere la fracción VIII del artículo anterior, se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. El Congreso integrará una Comisión Especial conformada por cinco diputadas y diputados, a propuesta de la Junta de Coordinación Política, e invitará a una persona representante por cada una de las Universidades Públicas Estatales, con especialización en la materia de fiscalización. Dicha Comisión Especial será la encargada de realizar las actividades de selección de aspirantes al cargo de que se trata.
+
+II. La Comisión Especial emitirá una convocatoria pública dirigida a la sociedad en general, en la que se establezcan los requisitos, el procedimiento y los plazos para la selección, con base en lo siguiente:
+
+a. La documentación requerida.
+
+b. Plazos para la inscripción y entrega de documentación.
+
+c. Plazos y procedimiento para la evaluación del perfil curricular.
+
+d. Criterios de ponderación.
+
+e. Fecha para la celebración de las entrevistas.
+
+III. En la evaluación del perfil de las personas aspirantes se le otorgará mayor ponderación al desempeño en las entrevistas, conforme a los parámetros que acuerde la Comisión Especial.
+
+IV. Concluido el plazo para la inscripción, dentro de los tres días naturales siguientes, la Comisión Especial publicará la lista de personas inscritas y la versión pública del perfil curricular, en el portal de internet oficial del Poder Legislativo.
+
+V. Después de publicada la lista referida en la fracción anterior, la Comisión Especial, en un plazo que no podrá exceder de los diez días naturales siguientes, llevará a cabo, al menos, una entrevista a quienes cumplieron con los requisitos previstos en la Convocatoria.
+
+Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional, habilidades directivas y conocimientos en temas de control, manejo o fiscalización de: recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública o adquisiciones, arrendamientos y servicios del sector público.
+
+La Comisión Especial acordará el formato y los horarios de las entrevistas, las cuales serán públicas y transmitidas en vivo a través de los medios electrónicos de los cuales disponga el Poder Legislativo.
+
+VI. Una vez concluida la etapa referida en la fracción anterior, dentro de los cinco días naturales siguientes, integrará un informe con la totalidad de las personas aspirantes, que contenga, en orden de prelación, los resultados de la evaluación curricular y de las entrevistas, mismo que se someterá al Pleno del Congreso para su consideración.
+
+VII. Una vez recibida la lista a que se refiere la fracción anterior, en un plazo que no exceda de los diez días hábiles, el Pleno del Congreso, con el voto de al menos las dos terceras partes de las diputadas y diputados presentes, designará a la persona que ocupará el cargo de titular del Órgano Interno de Control del Organismo Público Autónomo de que se trate, por un período de siete años.
+
+Por lo que se refiere al proceso de selección de aspirantes a ocupar el cargo de titular del Órgano Interno de Control del Tribunal Estatal Electoral, el Pleno del Congreso, con el voto de al menos las dos terceras partes de las diputadas y los diputados presentes, integrará una terna de aspirantes, misma que remitirá al Tribunal Estatal Electoral para que, en un plazo que no exceda de los diez días hábiles, designe a su titular.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+###### ARTÍCULO 152.
+
+La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Tener la ciudadanía mexicana, estar en pleno goce de sus derechos civiles y políticos.
+
+II. Tener, cuando menos, treinta años cumplidos el día de la designación.
+
+III. Gozar de buena reputación y no haber recibido condena por delito doloso que amerite pena de prisión.
+
+IV. Contar al momento de su designación con experiencia de al menos dos años en alguna de las materias relativas al control, manejo o fiscalización de: recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública o adquisiciones, arrendamientos y servicios del sector público.
+
+V. Contar con título y cédula profesional relacionados con las materias a que se refiere la fracción anterior, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años.
+
+VI. No haber prestado servicios de consultoría o auditoría al Organismo Público Autónomo, en lo individual o como integrante de despachos externos, en los cinco años anteriores a su designación.
+
+VII. No haber recibido inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público.
+
+VIII. No haber desempeñado cargo con atribuciones directivas de algún partido político, ni haberse postulado para cargo de elección popular en los cinco años anteriores a la propia designación.
+
+IX. Encontrarse libre de conflicto de interés.
+
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -1636,3 +1726,15 @@ QUINTO.- El personal adscrito a la antes denominada Secretaría de Asuntos Inter
 Por lo que se refiere a los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, de la Dirección de Archivos, de la Oficialía de Partes, así como de la Unidad de Transparencia, se transfieren de manera íntegra y en todos sus términos a la Secretaría de Asuntos Legislativos y Jurídicos del H. Congreso del Estado, de la que dependerán orgánicamente, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2019, con la intervención de las instancias y gestiones que resulten necesarias.
 
 SEXTO.- Para los efectos previstos en el artículo que antecede, las Secretarías de Administración y de Asuntos Legislativos y Jurídicos del Poder Legislativo, harán las gestiones a que hubiera lugar en sus respectivos ámbitos de competencia; y así mismo, tomarán las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad de los trabajos de las áreas transferidas.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
