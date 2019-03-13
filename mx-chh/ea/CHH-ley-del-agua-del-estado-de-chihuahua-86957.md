@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2017-12-30"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -337,9 +337,9 @@ La Junta Central es un organismo público descentralizado del Poder Ejecutivo, c
 
 Para el correcto desempeño de sus atribuciones, la Junta Central contará con una Dirección Ejecutiva, una Dirección Financiera, una Dirección Jurídica, una Dirección Técnica, así como las Direcciones, Subdirecciones y demás unidades técnico administrativas que sean necesarias para cumplir sus objetivos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-De igual manera contará con un órgano de control interno, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
+De igual manera contará con un Órgano Interno de Control, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, quien designará a su titular e integrantes, con las facultades que determine la Ley, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
 
 ###### Artículo 10.
 
@@ -821,7 +821,9 @@ Las juntas municipales de agua y saneamiento son organismos públicos descentral
 
 Para el correcto desarrollo de sus atribuciones, las juntas municipales contarán con una Dirección Ejecutiva, una Dirección Financiera, y de acuerdo a su capacidad financiera, podrán contar con las Direcciones Jurídica y Técnica, así como con las Direcciones, Subdirecciones y demás áreas técnico administrativas necesarias para cumplir con sus objetivos.
 
-De igual manera contará con un órgano de control interno, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+De igual manera contará con un Órgano Interno de Control, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, quien designará a su titular e integrantes, con las facultades que determine la Ley, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -1085,7 +1087,7 @@ XIII. Evaluar el cumplimiento de los objetivos y metas planteados por las juntas
 
 XIV. Evaluar, cuando así se requiera, los créditos que se otorguen a las juntas municipales y rurales.
 
-XV. Las demás que le (sic) señale la presente Ley, su Reglamento, el Consejo de Administración, los estatutos y otros ordenamientos aplicables.
+XV. Las demás que le señale la presente Ley, su Reglamento, el Consejo de Administración, los estatutos y otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -2402,3 +2404,11 @@ A partir de la entrada en vigor del presente Decreto cuando se haga referencia e
 ###### ARTÍCULO OCTAVO.
 
 A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0031/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 9, PÁRRAFO TERCERO; Y 19, PÁRRAFO SEGUNDO, AMBOS DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
