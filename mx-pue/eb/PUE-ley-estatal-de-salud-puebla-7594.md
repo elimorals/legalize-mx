@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2018-07-27"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -779,13 +779,17 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-V. Los programas de prevención al maltrato infantil y violencia intrafamiliar; y
+V. Los programas de prevención al maltrato infantil y violencia intrafamiliar;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-VI. Las demás que coadyuven a la salud materno-infantil; en particular el apoyo institucional para la ampliación del servicio de guarderías o centros de desarrollo infantil.
+VI. Programas dirigidos a padres solteros dedicados al cuidado de sus hijos con el objeto de promover el desarrollo físico, mental y emocional saludable de los menores, haciendo valer el derecho a la igualdad de género; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2019)</small>
+
+VII. Programas para la ampliación de la cobertura del servicio de guarderías y/o centro de desarrollo infantil y las demás que coadyuven a la salud materno-infantil.
 
 ###### ARTICULO 61.
 
@@ -3310,6 +3314,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 27 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO 60 Y ADICIONA LA FRACCIÓN VII AL 60 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
