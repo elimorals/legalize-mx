@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2018-03-07"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -535,13 +535,19 @@ Personal exclusivo de la Sala Colegiada. Cada Sala Colegiada, para el exclusivo 
 
 La ponencia de cada Magistrado en las Salas Colegiadas se integrará por aquellos secretarios y demás personal que tiene asignado en la Sala Unitaria de la que es titular.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
 ###### Artículo 41.
 
 Suplencia de Magistrados por impedimento. El Magistrado de Sala Colegiada, que esté impedido para conocer de determinado negocio por excusa o recusación, será suplido por el Magistrado que designe el Pleno, pero éste no realizará funciones de Magistrado Presidente, las cuales corresponderán a un Magistrado perteneciente a la misma Sala que el Magistrado impedido.
 
 Si el impedimento fuere del Magistrado Presidente de la Sala, la instrucción del asunto o la presidencia durante la sesión de resolución del asunto, corresponderá, de entre los Magistrados integrantes de la misma Sala Colegiada, al titular de la Sala Unitaria que siga en número al de la Sala Unitaria del Magistrado impedido.
 
-En el caso de que dos o los tres Magistrados integrantes de una Sala Colegiada, estén impedidos, o la Sala Colegiada sea recusada, respecto de determinado asunto, éste se turnará a la otra Sala Colegiada de la misma materia; y si dos o los tres Magistrados integrantes de esta Sala Colegiada, también estuvieren impedidos, o la Sala Colegiada tuviere impedimento para conocer del mismo asunto, el caso se encargará a la Sala Colegiada de diversa materia, que siga en número, y así sucesivamente.
+En el caso de que dos o los tres Magistrados integrantes de una Sala Colegiada, estén impedidos, o la Sala Colegiada sea recusada, respecto de determinado asunto, éste se turnará a la otra Sala Colegiada de la misma materia; y si dos o los tres Magistrados integrantes de esta Sala Colegiada, también estuvieren impedidos, o la Sala Colegiada tuviere impedimento para conocer del mismo asunto, el caso se encargará a la Sala Colegiada de diversa materia, que en turno corresponda.
+
+En el supuesto de que todas las salas colegiadas se encuentren en las hipótesis del párrafo anterior, el Pleno del Tribunal remitirá el asunto a la primera sala que tuvo conocimiento de él y designará a dos magistrados que no tengan impedimento legal prefiriendo, de ser posible, a aquellos especializados en la materia de la causa en cuestión, a fin de que integren dicha sala colegiada. El magistrado titular que no tenga impedimento en la sala original fungirá como presidente únicamente para dicho negocio judicial.
+
+En caso de que todos los magistrados de la sala colegiada que tuvo conocimiento inicial del asunto estén impedidos por las causas señaladas en el tercer párrafo de este artículo, el negocio se remitirá, por turno, a otra sala en donde subsista un magistrado titular sin impedimento y se procederá en los términos del parágrafo que precede.
 
 ###### Artículo 42.
 
@@ -889,12 +895,10 @@ SEGUNDO: Para efectos del turno de asuntos a la Tercera Sala Unitaria Familiar, 
 
 TERCERO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+P.O. 13 DE MARZO DE 2019.
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE REFORMA EL ARTÍCULO 41 DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA”.]
 
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+PRIMERO. La reforma al Reglamento Interior del Tribunal Superior de Justicia de Nuevo León, contenida en este Acuerdo General, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
-
-P.O. 19 DE DICIEMBRE DE 2018.
+SEGUNDO. Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, así como para su debido cumplimiento.
