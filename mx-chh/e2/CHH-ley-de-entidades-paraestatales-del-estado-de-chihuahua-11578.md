@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2016-10-03"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -87,11 +87,11 @@ Pensiones Civiles del Estado se regirá por su ley específica en cuanto a las e
 
 Aquellas entidades que además de órgano de gobierno, coordinador general y órgano de vigilancia, cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+###### Artículo 5° Bis.
 
-Artículo 5 bis.- La Junta Central de Agua y Saneamiento del Estado y sus organismos operadores se regirán por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+La Junta Central de Agua y Saneamiento del Estado y sus juntas operadoras se regirán por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2013)</small>
 
@@ -100,6 +100,10 @@ El Colegio de Bachilleres del Estado de Chihuahua se regirá por su ley específ
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
 
 El Instituto de Apoyo al Desarrollo Tecnológico del Estado de Chihuahua se regirá por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+La Secretaría Ejecutiva del Comité Coordinador del Sistema Estatal Anticorrupción se regirá por su ley específica y estatuto orgánico en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 ###### Artículo 6º.
 
@@ -519,7 +523,9 @@ II. Aprobar los programas y presupuestos de la entidad paraestatal, así como su
 
 III. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal, así como observar las disposiciones de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y los lineamientos que dicte la Secretaría de Hacienda en materia financiera, de conformidad con la legislación aplicable;
 
-IV. Aprobar anualmente, previo informe de los comisarios, los dictámenes de las auditorias practicadas, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+IV. Aprobar anualmente, previo informe del Órgano Interno de Control, los dictámenes de las auditorías practicadas, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos.
 
 V. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El coordinador general de la entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
 
@@ -543,7 +549,9 @@ XI. Aprobar la constitución de reservas y aplicación de las utilidades de las 
 
 XII. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la ley considere como del dominio público del Estado;
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el coordinador general, con la intervención que corresponda a los comisarios;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda la Coordinación General, con la intervención que corresponda al Órgano Interno de Control.
 
 XIV. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, de acuerdo con las instrucciones de la dependencia coordinadora del sector correspondiente; y,
 
@@ -575,7 +583,9 @@ IX. Establecer los sistemas de control necesarios para alcanzar las metas u obje
 
 X. Presentar periódicamente al órgano de gobierno el informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
 
-XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar al órgano de gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con el órgano de gobierno y escuchando al comisario;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar al órgano de gobierno, por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con el órgano de gobierno y escuchando al Órgano Interno de Control.
 
 XII. Ejecutar los acuerdos que dicte el órgano de gobierno;
 
@@ -587,13 +597,13 @@ XV. Las que señalen otras disposiciones legales aplicables, con las únicas sal
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACION
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### Artículo 63.
 
-El órgano de vigilancia de los organismos descentralizados estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública.
+El Órgano Interno de Control de los organismos descentralizados estará integrado por una persona titular propietaria y una suplente, designadas por la Secretaría de la Función Pública.
 
-Los comisarios evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado les asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el coordinador general deberán proporcionar la información que soliciten los comisarios.
+El Órgano Interno de Control evaluará el desempeño general y por funciones del organismo, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones. Así mismo, ejercerá las atribuciones que le otorga la Constitución Política del Estado y la Ley del Sistema Anticorrupción del Estado de Chihuahua en materia de combate a la corrupción y de responsabilidades de las y los servidores públicos y de particulares vinculados con faltas administrativas graves o hechos de corrupción. Lo anterior se entiende, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado le asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas, el órgano de gobierno y la Coordinación General deberán proporcionar la información que este órgano solicite.
 
 ###### Artículo 64.
 
@@ -605,23 +615,31 @@ II. Los coordinadores generales definirán las políticas de instrumentación de
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle y evalúe las operaciones a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### Artículo 65.
 
-Los órganos internos de control y evaluación serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública del Estado, y de acuerdo a las siguientes bases:
+Las acciones de los órganos internos de control tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a las atribuciones y lineamientos que emita la Secretaría de la Función Pública del Estado, y de acuerdo a las siguientes bases:
 
-I. Dependerán del coordinador general del organismo;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y,
+I. Su titular se nombrará por la Secretaría de la Función Pública y dependerá jerárquica y funcionalmente de la misma.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+
+II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía.
 
 III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al coordinador general, al órgano de gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2019)</small>
+
+IV. Contarán con los recursos humanos, materiales y financieros que le otorgue la propia entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### Artículo 66.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán órganos de control y evaluación interna, y contarán con los comisarios públicos que designe la Secretaría de la Función Pública del Estado en los términos de los artículos precedentes.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán órganos internos de control en los términos de los artículos precedentes.
 
 Lo dispuesto en este capítulo para los organismos descentralizados será aplicable a las empresas propiedad del Estado.
 
@@ -645,11 +663,11 @@ Sin perjuicio de lo anterior, el Congreso del Estado, en los términos de la Ley
 
 En aquellos casos en los que el órgano de gobierno, consejo de administración o el coordinador general, no dieren cumplimiento a las obligaciones legales que se les atribuyen en este ordenamiento, el Ejecutivo Estatal, por conducto de las dependencias competentes así como de la coordinadora de sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### Artículo 70.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Secretaría de la Función Pública del Estado oyendo la opinión de la dependencia coordinadora del sector.
+En aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del Órgano Interno de Control que se designe por la Secretaría de la Función Pública del Estado, escuchando la opinión de la dependencia coordinadora del sector.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1034,3 +1052,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
