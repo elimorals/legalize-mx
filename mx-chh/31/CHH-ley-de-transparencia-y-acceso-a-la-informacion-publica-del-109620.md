@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2017-02-22"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -469,6 +469,10 @@ l) Enviar para su publicación en el Periódico Oficial del Estado, los reglamen
 
 m) Dictar todas aquellas medidas para el mejor funcionamiento del Organismo Garante.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+n) Conocer y opinar sobre los informes que rinda la persona titular del Órgano Interno de Control.
+
 X. En materia de relaciones interinstitucionales:
 
 a) Participar en el Consejo Nacional.
@@ -609,11 +613,89 @@ VI. Opinar sobre la adopción de criterios generales en materia sustantiva.
 
 VII. Analizar y proponer la ejecución de programas, proyectos y acciones relacionados con la materia de transparencia y acceso a la información y su accesibilidad, así como la protección de datos personales.
 
-### CAPÍTULO I. DE LOS SUJETOS OBLIGADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2019)</small>
+
+### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 A. El Organismo Garante deberá contar con un Órgano Interno de Control, el cual estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
+Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas del personal del Organismo Garante, así como de personas particulares vinculadas con faltas graves, y sancionar a aquellas distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá una persona titular que lo representará, y contará con la estructura orgánica y los recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, la persona titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 B. El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas.
+
+II. Verificar que el ejercicio del gasto del Organismo Garante se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
+
+III. Presentar al Pleno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Organismo Garante.
+
+IV. Revisar que las operaciones presupuestales que realice el Organismo Garante, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las irregularidades de las mismas y las causas que les dieron origen.
+
+V. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías.
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Organismo Garante.
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos.
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el Presupuesto de Egresos del Organismo Garante, empleando la metodología que determine.
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables.
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Organismo Garante para el cumplimento de sus funciones.
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Chihuahua, y sus Reglamentos.
+
+XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Organismo Garante de mandos medios y superiores, en los términos de la normatividad aplicable.
+
+XIII. Participar en los comités y subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+
+XIV. Atender las solicitudes de los diferentes órganos del Organismo Garante en los asuntos de su competencia.
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica o sus recursos.
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control.
+
+XVII. Presentar al Pleno los informes previo y anual de resultados de su gestión, así como comparecer ante el mismo, cuando así lo requiera la Presidencia.
+
+XVIII. Presentar al Pleno los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas.
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 C. El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de las personas servidoras públicas del Organismo Garante, en coordinación con la Secretaría responsable del Control Interno del Ejecutivo, de conformidad con la Ley del Sistema Anticorrupción del Estado y la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 D. El Órgano Interno de Control, su titular y personal adscrito, cualquiera que sea su nivel, tienen impedimento para intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones conferidas a las y los servidores públicos del Organismo Garante.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 E. La persona titular del Órgano Interno de Control durará en su encargo siete años, será designada por el Congreso del Estado, por el voto de cuando menos las dos terceras partes de las y los diputados presentes, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 F. La persona titular del Órgano Interno de Control tendrá un nivel jerárquico igual al de una Dirección General o su equivalente en la estructura orgánica del Organismo Garante y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 G. La persona titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos de la docencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+ARTÍCULO 31 H. La persona titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Pleno, del cual enviará copia al Congreso del Estado.
 
 ## TÍTULO TERCERO. DE LOS SUJETOS DE LA LEY
 
-### CAPÍTULO II. DEL COMITÉ DE TRANSPARENCIA
+### CAPÍTULO I. DE LOS SUJETOS OBLIGADOS
 
 ###### ARTÍCULO 32.
 
@@ -703,7 +785,7 @@ IV. Procurar la accesibilidad de la información.
 
 V. Fomentar las prácticas de gobierno abierto.
 
-### CAPÍTULO III. DE LA UNIDAD DE TRANSPARENCIA
+### CAPÍTULO II. DEL COMITÉ DE TRANSPARENCIA
 
 ###### ARTÍCULO 35.
 
@@ -749,7 +831,7 @@ XIV. Establecer programas de capacitación en materia de transparencia, acceso a
 
 XV. Las demás que se desprendan de la normatividad aplicable.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 37.
 
@@ -801,7 +883,7 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 ## TÍTULO CUARTO. DEL ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO II. DE LA PLATAFORMA NACIONAL DE TRANSPARENCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 40.
 
@@ -1015,7 +1097,7 @@ Los costos para obtener la información deberán cubrirse de manera previa a la 
 
 Transcurridos dichos plazos, los Sujetos Obligados darán por concluida la solicitud y procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
 ###### ARTÍCULO 69.
 
@@ -1035,7 +1117,7 @@ IV. Sistema de comunicación entre Organismos Garantes y Sujetos Obligados.
 
 ## TÍTULO QUINTO. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
-### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA COMUNES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 71.
 
@@ -1077,9 +1159,7 @@ La información publicada por los sujetos obligados, en términos del presente T
 
 Los Sujetos Obligados, salvo disposición expresa en contrario, deberán mantener accesible la información en el portal de internet, durante los procesos electorales, comprendiendo dentro de ellos la etapa de las precampañas.
 
-### CAPÍTULO III
-
-DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA.
+### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA COMUNES
 
 ###### ARTÍCULO 77.
 
@@ -1649,7 +1729,9 @@ III. Determinar las obligaciones de transparencia que deben cumplir y los plazos
 
 Los Sujetos Obligados del sector energético, además deberán transparentar la información a que se refiere el artículo 83 de la Ley General.
 
-### CAPÍTULO IV. DE LA DENUNCIA POR INCUMPLIMIENTO A LAS OBLIGACIONES DE TRANSPARENCIA
+### CAPÍTULO III
+
+DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA.
 
 ###### ARTÍCULO 96.
 
@@ -1685,9 +1767,7 @@ Cuando el Organismo Garante considere que existe un incumplimiento total o parci
 
 Fenecido el plazo a que se refiere el artículo anterior, de subsistir dicho incumplimiento, el Pleno impondrá las medidas de apremio o sanciones, en su caso, conforme a lo establecido por esta Ley en un plazo no mayor a cinco días hábiles.
 
-### CAPÍTULO I
-
-DE LAS DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN.
+### CAPÍTULO IV. DE LA DENUNCIA POR INCUMPLIMIENTO A LAS OBLIGACIONES DE TRANSPARENCIA
 
 ###### ARTÍCULO 102.
 
@@ -1763,7 +1843,9 @@ El particular podrá impugnar la resolución por la vía del juicio de amparo qu
 
 ## TÍTULO SEXTO. DE LA INFORMACIÓN CLASIFICADA
 
-### CAPÍTULO II. DE LA INFORMACIÓN RESERVADA
+### CAPÍTULO I
+
+DE LAS DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN.
 
 ###### ARTÍCULO 109.
 
@@ -1885,7 +1967,7 @@ Cuando un documento contenga partes o secciones reservadas o confidenciales, los
 
 La información contenida en las obligaciones de transparencia no podrá omitirse en las versiones públicas.
 
-### CAPÍTULO III. DE LA INFORMACIÓN CONFIDENCIAL
+### CAPÍTULO II. DE LA INFORMACIÓN RESERVADA
 
 ###### ARTÍCULO 124.
 
@@ -1931,7 +2013,7 @@ II. Se trate de información relacionada con actos de corrupción de acuerdo con
 
 La información contenida en un documento que no esté expresamente reservada, se considerará de libre acceso al público.
 
-### CAPÍTULO IV. DE LOS DATOS PERSONALES
+### CAPÍTULO III. DE LA INFORMACIÓN CONFIDENCIAL
 
 ###### ARTÍCULO 128.
 
@@ -1975,7 +2057,7 @@ V. Cuando se transmita entre Sujetos Obligados y entre estos y los sujetos de de
 
 VI. Para efectos de la fracción IV del presente artículo, el Organismo Garante deberá aplicar la prueba de interés público, debiendo corroborarse una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información.
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN ANTE EL ORGANISMO GARANTE
+### CAPÍTULO IV. DE LOS DATOS PERSONALES
 
 ###### ARTÍCULO 134.
 
@@ -1991,7 +2073,7 @@ Los particulares, sin perjuicio de que sean considerados Sujetos Obligados, ser�
 
 ## TÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
+### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN ANTE EL ORGANISMO GARANTE
 
 ###### ARTÍCULO 136.
 
@@ -2235,7 +2317,7 @@ Por lo que se refiere al recurso de revisión en materia de Seguridad Nacional y
 
 ## TÍTULO OCTAVO. DE LAS MEDIDAS DE APREMIO, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
 
 ###### ARTÍCULO 160.
 
@@ -2274,6 +2356,8 @@ Las multas que fijen el Instituto y el Organismo Garante se harán efectivas ant
 ###### ARTÍCULO 164.
 
 El Organismo Garante, para hacer efectiva la medida de apremio consistente en la multa, solicitará a la autoridad competente, para que (sic) un plazo máximo de quince días hábiles, contados a partir de que sea notificada dicha medida, proceda en los términos de la normatividad aplicable.
+
+### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 165.
 
@@ -2458,3 +2542,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
