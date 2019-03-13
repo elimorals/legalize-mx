@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-01-30"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -2399,11 +2399,11 @@ Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jur�
 
 El procedimiento para la elección de Gubernatura Interina, Provisional o Sustituta, en los casos previstos por la Constitución Política del Estado, se sujetará a lo establecido en la misma.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 222.
 
-La designación de las magistraturas del Tribunal Superior de Justicia, del Tribunal Estatal de Justicia Administrativa, de las personas titulares de la Fiscalía General, de la Comisión Estatal de los Derechos Humanos, de la Fiscalía Especializada en Combate a la Corrupción y de las y los comisionados del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se sujetará a lo establecido en la Constitución Política del Estado y demás leyes específicas de cada organismo.
+La designación de las magistraturas del Tribunal Superior de Justicia, del Tribunal Estatal de Justicia Administrativa, de las personas titulares de la Fiscalía General, de la Comisión Estatal de los Derechos Humanos, de la Fiscalía Especializada en Combate a la Corrupción, de las y los comisionados del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y de los órganos internos de control de los organismos públicos autónomos, se sujetará a lo establecido en la Constitución Política del Estado, en las demás leyes específicas de cada organismo y en el Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
 TÍTULO DECIMOTERCERO
 
@@ -2816,3 +2816,15 @@ P.O. 30 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
