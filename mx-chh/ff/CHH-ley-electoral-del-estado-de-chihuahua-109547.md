@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2018-06-23"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -1857,155 +1857,101 @@ r) Dar tratos preferenciales o discriminatorios sin causa justificada.
 
 s) Asentar hechos falsos en las actuaciones o alterarlas aunque no se cause perjuicio con ello a parte interesada.
 
-t) El incumplimiento, en lo conducente, de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+t) El incumplimiento, en lo conducente, de las obligaciones previstas en la Ley General de Responsabilidades Administrativas.
 
 u) Las demás que determine esta Ley o las leyes que resulten aplicables.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+Artículo 272 c. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-Artículo 272 c
+Artículo 272 d. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-1) El procedimiento para determinar las responsabilidades de las y los servidores públicos del Instituto se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por la o el servidor público que tenga conocimiento de los hechos o, en su caso, por otras autoridades. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
+Artículo 272 e. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+Artículo 272 f. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-Artículo 272 d
+Artículo 272 g. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-1) El Órgano Interno de Control podrá determinar de oficio el inicio de investigaciones con la finalidad de esclarecer sobre la probable existencia de conductas que pudieran originar responsabilidades administrativas, pudiéndose auxiliar para tal efecto de los órganos del Instituto.
+Artículo 272 h. (DEROGADO, P. O. 13 DE MARZO DE 2019)
 
-2) El acuerdo que ordene la investigación deberá expresar las circunstancias que la justifiquen, la que no podrá extenderse a hechos distintos a los señalados, pero sí cuando se trate de circunstancias conexas. Si durante la investigación se descubren otros hechos probablemente constitutivos de responsabilidad, podrá ordenarse el inicio de una nueva investigación.
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 13 DE MARZO DE 2019)</small>
 
-3) El Organo Interno de Control deberá tomar las medidas necesarias para preservar la materia de la misma o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados.
+#### SECCIÓN TERCERA. DEL ÓRGANO INTERNO DE CONTROL
 
-4) La investigación deberá llevarse a cabo en un plazo máximo de ciento veinte días, pero podrá prorrogarse una sola ocasión hasta por un lapso igual cuando exista resolución en ese sentido, debidamente fundada y motivada. Finalizada la investigación o vencido su plazo, el Órgano Interno de Control emitirá dictamen, que será la base para el inicio del procedimiento de responsabilidad.
-
-5) Si se dictamina que no existen elementos suficientes para advertir la probable existencia de alguna causa de responsabilidad administrativa, la información o documentos recabados en la investigación podrán valorarse en una posterior, siempre y cuando así se autorice y no haya prescrito la facultad sancionadora.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
-
-Artículo 272 e
-
-1) Las quejas o denuncias deberán presentarse dentro de los 30 días hábiles siguientes a que se tenga conocimiento de los hechos denunciados. Transcurrido el plazo, caducará el derecho de quien tuvo conocimiento de los hechos.
-
-2) Las denuncias que se presenten deberán acompañarse del material probatorio con que se cuente para establecer la existencia de la infracción y la probable responsabilidad de la o el servidor público denunciado, en caso contrario, se declarará sin materia la queja o denuncia.
-
-3) Las quejas o denuncias serán improcedentes:
-
-a) Cuando se trate de actos u omisiones imputados a una misma persona que ya hayan sido materia de otra queja o denuncia y que cuenten con resolución definitiva.
-
-b) Cuando se denuncien actos u omisiones de los que el Órgano de Control Interno del Instituto resulte incompetente para conocer.
-
-c) Cuando los actos u omisiones denunciados no constituyan causas de responsabilidad en los términos de este ordenamiento.
-
-4) Procederá el sobreseimiento del procedimiento:
-
-a) Cuando habiendo sido recibida la queja o denuncia, sobrevenga una causa de improcedencia.
-
-b) Cuando el denunciante presente escrito de desistimiento, siempre y cuando se exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves o que constituyan violación a normas de orden público.
-
-5) El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
-
-Artículo 272 f
-
-1) Las faltas serán valoradas y, en su caso sancionadas, considerando las circunstancias siguientes:
-
-a) La gravedad de la conducta en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley.
-
-b) Las condiciones socioeconómicas de la o el servidor público.
-
-c) El nivel jerárquico, los antecedentes y condiciones del infractor y la antigüedad en el servicio público.
-
-d) Las condiciones exteriores y los medios de ejecución del hecho.
-
-e) La existencia de dolo, negligencia o culpa en el acto u omisión.
-
-f) La reincidencia en el incumplimiento de obligaciones o comisión de infracciones.
-
-g) El monto del beneficio, daño o perjuicio económico derivado de la responsabilidad cometida.
-
-2) En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones IX, X, XI, XII, XIII y XIV del artículo 23 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, así como en los incisos b) al g) del artículo 272 b de esta Ley.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
-
-Artículo 272 g
-
-1) Con independencia del sentido de la resolución que se dicte al final del procedimiento, se dictarán las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
-
-Artículo 272 h
-
-1) Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan los demás ordenamientos.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2017)</small>
-
-#### SECCIÓN TERCERA. DE LA CONTRALORÍA
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
 Artículo 272 i
 
-1) El Órgano Interno de Control del Instituto estará a cargo de la Contraloría, que será un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+1) El Órgano Interno de Control del Instituto estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-2) La Contraloría tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos del Instituto y de particulares vinculados con faltas graves; revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante las autoridades correspondientes; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
+2) El Órgano Interno de Control tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos del Instituto, así como de particulares a quienes se les vincule con faltas graves; revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante las autoridades correspondientes; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
 
-3) La persona titular de la Contraloría será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que éste determine. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
+3) La persona titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que determine la Ley Orgánica del Poder Legislativo del Estado. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
 
-4) La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+4) El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo Estatal a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
 
-5) En su desempeño, la Contraloría se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, presunción de inocencia, congruencia, verdad material, objetividad y respeto a los derechos humanos.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+5) En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, presunción de inocencia, congruencia, verdad material, objetividad y respeto a los derechos humanos.
 
 Artículo 272 j
 
-1) La persona titular de la Contraloría deberá reunir los mismos requisitos que esta Ley establece para las y los directores ejecutivos del Instituto, y además, los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)</small>
 
-a) No ser consejera o consejero electoral de cualquiera de las asambleas del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación.
+1) La persona titular del Órgano Interno de Control deberá reunir los mismos requisitos que esta Ley establece para las y los directores ejecutivos del Instituto, no haber sido consejera o consejero electoral de cualquiera de las asambleas del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación, y además, los que señale la Ley Orgánica del Poder Legislativo y su Reglamento.
 
-b) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+a) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 
-c) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos.
+b) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 
-d) Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público, u otro relacionado con las actividades de fiscalización y procedimientos administrativos, expedido por autoridad o institución legalmente facultada para ello.
+c) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 
-e) No pertenecer o haber pertenecido en los tres años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+d) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+e) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
 Artículo 272 k
 
-La persona titular del Órgano Interno de Control deberá rendir por escrito informe semestral y anual de actividades al Congreso del Estado del cual enviará copia al Consejo Estatal del Instituto.
+La persona titular del Órgano Interno de Control deberá rendir por escrito informe semestral y anual de actividades al Consejo Estatal del Instituto, del cual enviará copia al Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 272 l
 
-1) El contralor general podrá ser sancionado conforme a los artículos 269 y 270 de esta Ley, por las siguientes causas graves de responsabilidad administrativa:
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)</small>
+
+1) La persona titular del Órgano Interno de Control podrá ser sancionada conforme a los artículos 269 y 270 de esta Ley, por las siguientes causas graves de responsabilidad administrativa:
 
 a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia.
 
 b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado la o el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones.
 
-c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría, con motivo del ejercicio de sus atribuciones.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano Interno de Control y tenga acceso a ella, con motivo del ejercicio de sus atribuciones.
 
 d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley.
 
-e) Incurrir en alguna de las infracciones mencionadas en el artículo 23 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-2) El Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de al menos las dos terceras partes de las y los miembros presentes en la sesión.
+e) Incurrir en alguna de las infracciones que contempla la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+2) El Congreso del Estado resolverá sobre la aplicación de las sanciones a la persona titular del Órgano Interno de Control, incluida entre estas la remoción, por causas graves de responsabilidad administrativa, debiéndole garantizar el derecho de audiencia. La remoción requerirá del voto de al menos las dos terceras partes de las y los miembros presentes en la sesión.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 272 m
 
-1) La Contraloría tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)</small>
+
+1) El Órgano Interno de Control tendrá las facultades siguientes:
 
 a) Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto.
 
@@ -2023,9 +1969,13 @@ g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, 
 
 h) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
 
-i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las personas que tienen carácter de servidores públicos de la propia Contraloría del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-j) Instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de las y los servidores públicos del Instituto, y llevar el registro de las y los servidores públicos sancionados.
+i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las personas servidoras públicas del propio Órgano Interno de Control del Instituto, así como a las y los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+j) Instruir, desahogar, resolver y calificar los procedimientos administrativos respecto de las denuncias que se presenten en contra de las y los servidores públicos del Instituto, y llevar el registro de las y los servidores públicos sancionados.
 
 k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto.
 
@@ -2047,35 +1997,41 @@ s) Presentar al Consejo Estatal los informes previo y anual de resultados de su 
 
 t) Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo Estatal cuando por motivo del ejercicio de sus facultades, así lo considere necesario la Presidencia o alguno de los integrantes del Consejo Estatal.
 
-u) Recibir y resguardar las declaraciones patrimoniales que deban presentar las y los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+u) Recibir y resguardar las declaraciones patrimoniales que deban presentar las y los servidores públicos del Instituto, a partir del nivel de jefatura de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia.
 
 v) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda.
 
 w) Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
 Artículo 272 n
 
-1) Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+1) Los órganos, áreas ejecutivas y las personas servidoras públicas del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 Artículo 272 o
 
-1) Si transcurrido el plazo establecido por la Contraloría, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+1) Si transcurrido el plazo establecido por el Órgano Interno de Control, el área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, aquel procederá a fincar las responsabilidades que correspondan conforme a derecho.
 
 2) El afincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
-3) La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a treinta días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+3) Además de imponer la sanción respectiva, el Órgano Interno de Control, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a treinta días naturales, cumpla con la obligación omitida motivo de la sanción; y si aquel incumple, será sancionado.
 
 4) Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al afincamiento de responsabilidades, las y los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
 Artículo 272 p
 
-1) Las y los servidores públicos adscritos a la Contraloría del Instituto y, en su caso, las y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+1) Las y los servidores públicos adscritos al Órgano Interno de Control y, en su caso, las y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
@@ -4931,25 +4887,49 @@ t) Solicitar al Magistrado Presidente, cuando proceda, la suspensión, remoción
 
 u) Resolver la contradicción de criterios y establecer jurisprudencia dentro de su órbita competencial;
 
-v) Determinar y, en su caso, aplicar las sanciones previstas en este ordenamiento, y
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-w) Las demás que sean necesarias para su correcto funcionamiento.
+v) Determinar y, en su caso, aplicar las sanciones previstas en este ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P. O. 13 DE MARZO DE 2019)</small>
+
+w) Conocer y opinar sobre los informes que rinda la persona titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P. O. 13 DE MARZO DE 2019)</small>
+
+x) Las demás que sean necesarias para su correcto funcionamiento.
 
 Artículo 296
 
 1) El Tribunal Estatal Electoral tiene su domicilio en la capital del Estado, ejercerá sus funciones en todo el territorio estatal y se conforma de la manera siguiente:
 
-a) Pleno, compuesto por cinco magistrados, uno de los cuales fungirá como Presidente;
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-b) Secretario General;
+a) Pleno, compuesto por cinco magistraturas, una de las cuales fungirá como Presidencia.
 
-c) Los coordinadores, el General, el de Administración, y demás que se consideren necesarios para el cumplimiento de sus fines;
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-d) Secretarios de Estudio y Cuenta;
+b) Secretaría General.
 
-e) Secretarios Auxiliares, y
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
-f) Actuarios.
+c) La Coordinación General, la de Administración y las demás coordinaciones que se consideren necesarias para el cumplimiento de sus fines.
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+d) Secretarías de Estudio y Cuenta.
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+e) Secretarías Auxiliares.
+
+> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+
+f) Actuarías.
+
+> <small>(ADICIONADO, P. O. 13 DE MARZO DE 2019)</small>
+
+g) Órgano Interno de Control.
 
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
 
@@ -4991,7 +4971,9 @@ Artículo 298
 
 3) Los magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal, y estarán sujetos a los (sic) dispuesto por los artículos 117 y 118 de la Ley General de Instituciones y Procedimientos Electorales para efectos de su responsabilidad.
 
-## TÍTULO TERCERO. DEL MAGISTRADO PRESIDENTE, DEL SECRETARIO GENERAL Y DEL PERSONAL DEL TRIBUNAL
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 13 DE MARZO DE 2019)</small>
+
+## TÍTULO TERCERO. DE LA PRESIDENCIA, DE LA SECRETARÍA GENERAL, DEL ÓRGANO INTERNO DE CONTROL Y DEL PERSONAL DEL TRIBUNAL
 
 Artículo 299
 
@@ -5096,6 +5078,12 @@ b) Auxiliar a los magistrados en el ejercicio de sus funciones, y
 c) Las demás que les confieran el Reglamento Interior, el Pleno o el Presidente.
 
 7) Todos los servidores del Tribunal serán considerados de confianza, salvo el personal de apoyo administrativo.
+
+> <small>(ADICIONADO, P. O. 13 DE MARZO DE 2019)</small>
+
+Artículo 301 BIS
+
+1) El Órgano Interno de Control estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En la designación de su titularidad deberá observarse lo dispuesto por la Constitución Política del Estado y tendrá las mismas atribuciones que su similar en el Instituto, previstas en el Libro Sexto, Título Segundo, Capítulo Segundo, Sección Tercera de esta Ley, en lo conducente.
 
 # LIBRO OCTAVO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN Y NULIDADES EN MATERIA ELECTORAL
 
@@ -6354,3 +6342,15 @@ P.O. 23 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
