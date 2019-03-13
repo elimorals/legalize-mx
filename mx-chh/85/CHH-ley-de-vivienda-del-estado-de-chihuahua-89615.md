@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2017-02-22"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -355,9 +355,13 @@ Integración de la Junta de Gobierno.
 
 La autoridad suprema de la Comisión Estatal es su Junta de Gobierno, que se integra con:
 
-I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien será suplido en sus ausencias por el Secretario de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
-II. Siete vocales, integrados por los titulares de las siguientes dependencias de la Administración Pública del Estado:
+I. Una presidencia, que será ocupada por la persona titular del Poder Ejecutivo del Estado, quien será suplida en sus ausencias por quien ocupe la titularidad de la Secretaría de Desarrollo Urbano y Ecología.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2019)</small>
+
+II. Seis vocalías, integradas por las personas titulares de las siguientes dependencias de la Administración Pública del Estado:
 
 a) Secretaría General de Gobierno.
 
@@ -371,17 +375,25 @@ d) Secretaría de Desarrollo Social.
 
 e) Secretaría de Comunicaciones y Obras Públicas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+f) (DEROGADO, P.O. 13 DE MARZO DE 2019)
 
-f) Secretaría de la Función Pública
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-g) Coordinación Estatal de la Tarahumara.
+g) Comisión Estatal para los Pueblos Indígenas.
 
-El Director General de la Comisión Estatal fungirá como Secretario Técnico.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
 
-Cada uno de los integrantes de la Junta nombrará a su respectivo suplente, designación que deberá recaer en un servidor público de los que estén subordinados jerárquicamente.
+La persona titular de la Dirección General de la Comisión Estatal fungirá como titular de la Secretaría Técnica.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+
+Cada integrante de la Junta nombrará a quien pueda suplirle, designación que deberá recaer en una persona adscrita a la dependencia a su cargo.
 
 La calidad de integrante de la Junta de Gobierno no da derecho a la percepción de remuneración alguna por su desempeño por tratarse de un cargo honorífico.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+
+La Comisión Estatal contará con un Órgano Interno de Control cuya persona titular e integrantes se designarán por la Secretaría de la Función Pública del Estado. Dicho órgano desarrollará sus funciones conforme a los reglamentos y/o lineamientos que emita esta y podrá participar en las sesiones de la Junta de Gobierno, con voz, pero no con voto.
 
 ###### Artículo 17.
 
@@ -1563,7 +1575,7 @@ El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías 
 
 P.O. 22 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1576,3 +1588,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
+
+P.O. 13 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N°. LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
