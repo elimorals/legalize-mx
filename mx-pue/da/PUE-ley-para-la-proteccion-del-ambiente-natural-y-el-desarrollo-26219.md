@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2017-12-29"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -445,9 +445,9 @@ XXIV.- El ejercicio de las funciones que en materia de preservación del equilib
 
 XXV.- Promover la utilización de materiales biodegradables;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2019)</small>
 
-XXVI.- Proteger la imagen del entorno ambiental, respecto de las vialidades de jurisdicción estatal y los bienes inmuebles propiedad del Estado; y
+XXVI.- Proteger la imagen en los bienes inmuebles propiedad del Estado; y
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1809,7 +1809,7 @@ III.- Llevar y actualizar el registro de las descargas a las redes de drenaje y 
 
 ###### ARTÍCULO 129.
 
-Todas las descargas en las redes colectoras, ríos, cuencas, cauces, embalses, y demás depósitos o corrientes de agua, y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer los límites máximos permisibles de descarga establecidas en las Normas Oficiales Mexicanas aplicables. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
+Todas las descargas en las redes colectoras, ríos, cuencas, cauces, embalses, y demás depósitos o corrientes de agua, y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer los límites máximos permisibles de descarga establecidas (sic) en las Normas Oficiales Mexicanas aplicables. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
 
 El Reglamento de la Ley de Agua y Saneamiento determinará las industrias así como los establecimientos agropecuarios y de servicios, que por sus características y dimensiones no requieran tratar sus aguas residuales.
 
@@ -1909,47 +1909,29 @@ Los Ayuntamientos conforme al ámbito de su competencia deben incorporar en sus 
 
 ### CAPÍTULO VI. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 143.
 
-Los Ayuntamientos deben incorporar en sus Reglamentos correspondientes, la prevención y control de la contaminación visual ocasionada por obras, instalaciones y anuncios publicitarios que degraden la imagen del entorno ambiental.
+Los Ayuntamientos deben incorporar en sus Iniciativas de Leyes de Ingresos y Reglamentos correspondientes, la regulación, prevención y control de la contaminación visual ocasionada por obras, instalaciones y anuncios publicitarios que degraden la imagen del entorno ambiental.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 Para los efectos del párrafo anterior la Secretaría y los Ayuntamientos se atendrán a lo establecido en el artículo 20 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2019)</small>
 
-ARTÍCULO 143 BIS.- La Secretaría regulará la prevención y control de la contaminación visual ocasionada por instalaciones y anuncios publicitarios que degraden la imagen del entorno ambiental de las vialidades de jurisdicción estatal, zonas adyacentes a las mismas y de los bienes inmuebles propiedad del Estado.
+ARTÍCULO 143 BIS.- Los refrendos de licencias, permisos o autorizaciones para la instalación de estructuras que sustenten anuncios o publicidad no podrán tener vigencia mayor a un año.
 
-Se entiende por zonas adyacentes las que lindan con una vialidad de jurisdicción estatal hasta en una distancia de cien metros contados a partir del límite de estas.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2019)</small>
 
-La prevención y control de la contaminación visual de competencia estatal, comprende:
+ARTÍCULO 143 TER.- El reglamento respectivo establecerá la prohibición expresa de la instalación de nuevas estructuras que sustenten anuncios o publicidad en áreas verdes urbanas así como a menos de 250 metros lineales y radiales de otra estructura instalada con el mismo fin.
 
-I.- El procedimiento para la emisión de la licencia, permiso o autorización por parte de la Secretaría;
+Se entiende por áreas verdes, las áreas públicas cubiertas por vegetación natural como árboles, arbustos, plantas florales, plantas rastreras, cactáceas, camellones, o inducida, cuyos excedentes de lluvia o riego pueden infiltrarse al suelo natural.
 
-II.- Las especificaciones respecto de las dimensiones y el espacio físico que se ocupe, el tipo de anuncio, la ubicación, el alcance de la publicidad, las molestias o inconvenientes que puedan causar su colocación, el tiempo de su permanencia, y en su caso, la cantidad de anuncios; y
+ARTÍCULO 143 QUÁTER.- (DEROGADO, P.O. 14 DE MARZO DE 2019)
 
-III.- Los casos en que exista afectación al paisaje urbano.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
-
-ARTÍCULO 143 TER.- La construcción, instalación, modificación, retiro, y en su caso, demolición de estructuras que sustenten anuncios o publicidad, así como la colocación de anuncios publicitarios, requieren de licencia, permiso o autorización de la Secretaría.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
-
-ARTÍCULO 143 QUÁTER.- Para efectos del otorgamiento de la licencia, autorización o permiso a que se refiere el artículo anterior, se requerirá dictamen de la autoridad estatal en materia de protección civil, en términos de la Ley del Sistema Estatal de Protección Civil y demás estudios que establezcan la presente Ley y las disposiciones aplicables.
-
-La autoridad estatal en materia de protección civil podrá:
-
-I.- Realizar los actos de inspección, supervisión o vigilancia que se requieran;
-
-II.- Adoptar y ejecutar la clausura, aseguramiento, demolición, retiro de instalaciones, suspensión de trabajos y demás medidas de seguridad que tengan por objeto evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general, así como las que tiendan a garantizar el normal funcionamiento de los servicios públicos e impedir cualquier situación que afecte la seguridad o salud pública; y
-
-III.- Imponer las sanciones que correspondan, en términos de las disposiciones aplicables en materia de protección civil, sin perjuicio de las responsabilidades que se incurran en materia civil, penal o administrativa.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
-
-ARTÍCULO 143 QUINQUIES.- Las personas físicas o morales que construyan, instalen, modifiquen, retiren o demuelan estructuras que sustenten anuncios o publicidad, así como la colocación de anuncios publicitarios sin contar con la licencia, autorización o permiso correspondiente, se harán acreedores a las sanciones que establece esta Ley, sin perjuicio de las sanciones que en su caso correspondan en el orden civil, penal o administrativo.
+ARTÍCULO 143 QUINQUIES.- (DEROGADO, P.O. 14 DE MARZO DE 2019)
 
 ### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR EL APROVECHAMIENTO DE MINERALES O SUSTANCIAS
 
@@ -2561,8 +2543,20 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 14 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de noventa días naturales, a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las licencias, autorizaciones y permisos otorgadas hasta antes de la entrada en vigor del presente Decreto, continuarán vigentes y surtiendo efectos jurídicos en los términos y condiciones bajo los cuales fueron expedidos por la Secretaría.
