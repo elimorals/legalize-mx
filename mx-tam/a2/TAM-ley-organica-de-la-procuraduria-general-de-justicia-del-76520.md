@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2018-10-23"
+last_updated: "2019-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -1665,11 +1665,17 @@ IV. La estructura administrativa y el personal necesarios para el cumplimiento d
 
 El Consejo Ciudadano es un órgano ciudadano de consulta en materia de búsqueda de personas y estará integrado por:
 
-I. Cinco familiares que representen a los familiares de las personas desaparecidas o no localizadas;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2019)</small>
 
-II. Cinco especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General. Se procurará que uno de los especialistas siempre sea en materia forense.
+I. Tres familiares que representen a los familiares de las personas desaparecidas o no localizadas;
 
-III. Cinco representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2019)</small>
+
+II. Tres especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General. Se procurará que uno de los especialistas siempre sea en materia forense; y
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2019)</small>
+
+III. Tres representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
 
 Los integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y expertos en las materia previstos en la Ley Estatal y General.
 
@@ -4232,3 +4238,11 @@ La Dirección de Administración de la Procuraduría General de Justicia del Est
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
+
+P.O. 14 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-789 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, II Y III DEL PÁRRAFO PRIMERO DEL ARTÍCULO 27 DECIES, DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
