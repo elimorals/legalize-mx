@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2018-07-12"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -269,9 +269,9 @@ XI.- Disponer del apoyo técnico profesional con que cuenta el Congreso del Esta
 
 XII.- Tener acceso a la información y documentación necesarias para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, B.O. 16 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2019)</small>
 
-XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo no mayor de tres días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
+XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo de tres a quince días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, previa autorización de la Comisión de Administración, así como de la documentación relacionada con el proceso legislativo en su conjunto;
 
 > <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
@@ -689,6 +689,10 @@ VI.- Protocolarias.
 
 El pleno del Congreso del Estado definirá, por el voto de la mayoría absoluta de sus miembros, dentro de los primeros quince días después de su instalación, las comisiones que se integrarán y los miembros que formarán parte de éstas; el primero de los cuales fungirá como Presidente y los demás tendrán el carácter de Secretarios.
 
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2019)</small>
+
+Una vez integradas las Comisiones, estas comenzarán a desarrollar sus labores en términos de lo dispuesto en la presente Ley.
+
 ###### ARTÍCULO 85.
 
 Los presidentes de comisión serán responsables de los expedientes que pasen a su estudio y, al efecto, deberán recibir personalmente la documentación relativa a iniciativas de ley, de decreto o de acuerdo y demás asuntos que sean turnados o remitidos por el Presidente del Congreso del Estado.
@@ -707,6 +711,8 @@ Las comisiones podrán ser convocadas a reunión por su presidente o por la mayo
 
 Las reuniones se celebrarán en horas que no coincidan con las de sesión del pleno del Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 89.
 
 La convocatoria a reunión de las comisiones contendrá:
@@ -717,17 +723,17 @@ II.- La fecha, hora y sede programadas para la sesión;
 
 III.- La exposición del orden del día; y
 
-IV.- La firma autógrafa o electrónica del presidente de la comisión o la de mayoría de sus integrantes, las cuales no podrán ser sustituidas por la de otra persona u otras personas.
+IV.- La firma autógrafa o electrónica del presidente de la comisión o la de (sic) mayoría de sus integrantes, las cuales no podrán ser sustituidas por la de otra persona u otras personas.
 
-El defecto en las formalidades de la convocatoria no impedirá que se celebre la reunión, pero su validez quedará subordinada a la convalidación de la mayoría de los integrantes de la comisión.
+Para que una reunión de Comisión sea válida deberán estar presentes la mayoría de sus integrantes. La Convocatoria deberá ser notificada mediante oficio con 48 horas de anticipación a la fijada para la reunión y publicada en la Gaceta Parlamentaria del Congreso.
 
-> <small>(REFORMADO, B.O. 16 DE MAYO DE 2011)</small>
+El dictamen o dictámenes que se contemplen en el orden del día para el análisis, discusión y aprobación de la Comisión se deberán de entregar a los diputados con la anticipación suficiente que permita a sus integrantes analizar a profundidad cada uno de ellos.
 
-La convocatoria deberá publicarse en la Gaceta Parlamentaria, cuando menos con veinticuatro horas de anticipación a la fijada para la reunión.
+Tratándose de dictámenes que versen sobre reformas, adiciones o derogaciones a disposiciones de la Constitución del Estado y leyes de nueva creación, deberán ser entregados a los integrantes de las comisiones correspondientes con diez días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+Por lo que toca a dictámenes que versen sobre leyes de ingresos y decretos de egresos, deberán ser entregados a los integrantes de las comisiones correspondientes con cinco días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
 
-En caso de que en una reunión de Comisión se encuentre contemplado en el orden del día el análisis, discusión y, en su caso, la dictaminación del (sic) algún asunto que se encuentre turnado o remitido a la misma, deberá anexarse a la convocatoria para su publicación en los términos señalados en el párrafo anterior, el proyecto de dictamen correspondiente.
+Cuando los dictámenes versen sobre Decretos y Acuerdos, los dictámenes deberán ser entregados a los integrantes de las comisiones correspondientes con dos días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
 
 ###### ARTÍCULO 90.
 
@@ -1015,7 +1021,9 @@ La Comisión de Administración tendrá las siguientes atribuciones:
 
 I.- Elaborar, junto con la Oficialía Mayor, el proyecto de presupuesto anual de egresos del Congreso del Estado para el ejercicio fiscal del año siguiente, sometiéndolo a la aprobación del pleno del Congreso del Estado por medio de la Comisión de Régimen Interno y Concertación Política;
 
-II.- Presentar trimestralmente a la Comisión de Régimen Interno y Concertación Política, un informe sobre la administración de los recursos económicos del Congreso del Estado, durante los primeros diez días de cada trimestre. Ésta podrá solicitar información adicional sobre la rendición de cuentas y, la Comisión de Administración, deberá darle respuesta dentro de los tres días hábiles siguientes a la fecha en que fue solicitada;
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2019)</small>
+
+II.- Presentar trimestralmente a la Comisión de Régimen Interno y Concertación Política, un informe sobre la administración de los recursos económicos del Congreso del Estado, durante los primeros diez días de cada trimestre. Ésta podrá solicitar información adicional sobre la rendición de cuentas y, la Comisión de Administración, deberá darle respuesta dentro de los quince días hábiles siguientes a la fecha en que fue solicitada;
 
 III.- Aprobar, previo acuerdo con la Comisión de Régimen Interno y Concertación Política, las políticas de sueldos, honorarios, contratación de servicios profesionales, así como de utilización de recursos y patrimonio del Congreso del Estado, así como establecer las bases para el otorgamiento de compensación e incentivos al personal de las dependencias; con excepción del manejo que realicen los Grupos y Representaciones Parlamentarias de sus recursos, en términos de lo previsto en el título octavo de esta ley;
 
@@ -1031,13 +1039,25 @@ VIII.- Proponer a la Comisión de Régimen Interno y Concertación Política los
 
 IX.- Convocar a los titulares de las dependencias del Congreso del Estado a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso del Estado;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 14 DE MARZO DE 2019)</small>
+
 X.- Conocer las propuestas de los titulares de las dependencias del Congreso del Estado sobre los siguientes asuntos:
 
 a) La organización interna y procedimientos del órgano a su cargo; y
 
-b) Los programas de actividades del órgano a su cargo; y
+b) Los programas de actividades del órgano a su cargo;
 
-XI.- Otros análogos que a juicio del Presidente del Congreso del Estado, de la Diputación Permanente o de la Comisión de Régimen Interno y Concertación Política sean materia de tratamiento por esta comisión.
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2019)</small>
+
+XI.- Autorizar a los titulares de las dependencias del Congreso del Estado, a proporcionar a los diputados que lo soliciten, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias de este Poder Legislativo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 14 DE MARZO DE 2019)</small>
+
+XII.- Otros análogos que a juicio del Presidente del Congreso del Estado, de la Diputación Permanente o de la Comisión de Régimen Interno y Concertación Política sean materia de tratamiento por esta comisión.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2019)</small>
+
+Las atribuciones previstas en este artículo son indelegables.
 
 ## TÍTULO SÉPTIMO. DEL PROCESO LEGISLATIVO
 
@@ -1521,9 +1541,11 @@ Los recursos presupuestales serán ministrados a los Grupos Parlamentarios confo
 
 Los Grupos Parlamentarios están obligados a destinar los recursos que se les otorguen exclusivamente para el cumplimiento de sus funciones propias, debiendo informar semestralmente al Congreso del Estado el uso y destino de éstos, su aplicación y correcto manejo; así como justificar documentalmente su aplicación de acuerdo al objeto de su asignación. Los Grupos Parlamentarios deberán exhibir la documentación soporte o justificativa con el informe correspondiente, el cual para su aceptación y validez deberá ir firmado por la mayoría de los miembros integrantes del grupo.
 
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 169.
 
-La falta del informe correspondiente dará lugar a la suspensión de la entrega de las ministraciones siguientes, hasta en tanto no se subsane la omisión.
+La falta del informe correspondiente, dentro de los quince días hábiles siguientes a la conclusión de (sic) trimestre respectivo, dará lugar a la suspensión de la entrega de las ministraciones siguientes, hasta en tanto no se subsane la omisión.
 
 ## TÍTULO NOVENO. DE LA AGENDA LEGISLATIVA COMÚN
 
@@ -2525,17 +2547,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 12 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 230, QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 230, QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+B.O. 14 DE MARZO DE 2019.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 13, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 9 DE ENERO DE 2020.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
