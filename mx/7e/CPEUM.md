@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2018-08-27"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2019.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -776,23 +776,21 @@ e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional ser�
 
 Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
 
-No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2019)</small>
 
-I. Será jurisdiccional y autónomo del de materia penal;
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete la autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni de aquellos bienes cuyo dominio se declare extinto en sentencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2019)</small>
 
-II. Procederá en los casos de delincuencia organizada, delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
+La acción de extinción de dominio se ejercitará por el Ministerio Público a través de un procedimiento jurisdiccional de naturaleza civil y autónomo del penal. Las autoridades competentes de los distintos órdenes de gobierno le prestarán auxilio en el cumplimiento de esta función. La ley establecerá los mecanismos para que las autoridades administren los bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios, para que la autoridad lleve a cabo su disposición, uso, usufructo, enajenación y monetización, atendiendo al interés público, y defina con criterios de oportunidad el destino y, en su caso, la destrucción de los mismos.
 
-a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2019)</small>
 
-b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+Será procedente sobre bienes de carácter patrimonial cuya legítima procedencia no pueda acreditarse y se encuentren relacionados con las investigaciones derivadas de hechos de corrupción, encubrimiento, delitos cometidos por servidores públicos, delincuencia organizada, robo de vehículos, recursos de procedencia ilícita, delitos contra la salud, secuestro, extorsión, trata de personas y delitos en materia de hidrocarburos, petrolíferos y petroquímicos.
 
-c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2019)</small>
 
-d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
-
-III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+A toda persona que se considere afectada, se le deberá garantizar el acceso a los medios de defensa adecuados para demostrar la procedencia legítima del bien sujeto al procedimiento.
 
 ###### Art. 23.
 
@@ -2506,9 +2504,9 @@ XXIX-Y. Para expedir la ley general que establezca los principios y bases a los 
 
 XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 
-> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2019)</small>
 
-XXX. Para expedir la legislación única en materia procesal civil y familiar;
+XXX. Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -8199,3 +8197,15 @@ D.O.F. 27 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA POLÍTICA-ELECTORAL”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 10 DE FEBRERO DE 2014”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN XXX DEL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EXTINCIÓN DE DOMINIO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión, en un plazo de 180 días posteriores al inicio de vigencia de este Decreto expedirá la legislación nacional única en materia de extinción de dominio.
+
+Tercero. La Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política (sic) los Estados Unidos Mexicanos, así como la legislación respectiva del ámbito local, seguirán en vigor hasta en tanto el Congreso de la Unión expida la legislación nacional única en materia de extinción de dominio que ordena el presente Decreto.
+
+Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la legislación federal y local referida en el artículo transitorio anterior, así como las sentencias dictadas con base en las mismas, no se verán afectados por la entrada en vigor del presente Decreto, y deberán concluirse y ejecutarse conforme al orden constitucional y legal vigente al momento de su inicio.
