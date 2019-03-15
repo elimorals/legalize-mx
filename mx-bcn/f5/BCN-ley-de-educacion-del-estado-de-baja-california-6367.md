@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2019-02-01"
+last_updated: "2019-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -115,9 +115,9 @@ III.- Otorgar apoyos pedagógicos a grupos con requerimientos educativos especí
 
 IV.- Establecerá sistemas de educación a distancia.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2019)</small>
 
-V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos.
+V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos, asimismo promoverá la educación inicial, incentivando la participación comunitaria en el modelo de educación inicial no escolarizada para fortalecer las labores de crianza.
 
 VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
 
@@ -323,9 +323,13 @@ XXIV.- Desarrollará programas de capacitación, asesoría y apoyo a los maestro
 
 XXV.- Inculcar en los educandos valores del respeto a la dignidad de las personas y a la integridad de la familia, el aprecio por la diversidad cultural, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos, para contribuir a una mejor convivencia humana, evitando privilegios de razas, de religión, de grupos, de sexos, individuos y fomentar el derecho de las mujeres a una vida libre de violencia.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2019)</small>
 
-XXVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXVI.- Promover, fomentar e impulsar en los educandos, la cultura de la paz, a través de los mecanismos alternos en la solución de conflictos como la mediación, conciliación y los círculos de paz, como formas pacificas de solución de conflictos derivados del ámbito escolar y como métodos de reconciliación social.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2019)</small>
+
+XXVII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -697,7 +701,9 @@ ARTICULO 21 BIS.- Para garantizar la calidad de la educación obligatoria brinda
 
 El Sistema Educativo Estatal comprende los tipos y niveles, inicial, básico, medio superior y superior con sus respectivas modalidades. Estos podrán adoptar las modalidades escolarizada, no escolarizada y mixta, en los términos siguientes:
 
-I.- La educación inicial comprende la modalidad escolarizada que se imparta en los centros de desarrollo infantil y la modalidad no escolarizada que se imparte en comunidades rurales y urbano marginadas.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2019)</small>
+
+I.- La educación inicial comprende la modalidad escolarizada que se imparta en los centros de desarrollo infantil y la modalidad no escolarizada que hace referencia la fracción V del artículo 5 de esta ley, así como en comunidades rurales y urbano marginadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -723,11 +729,11 @@ b) La educación comercial, técnica y de capacitación para el trabajo serán t
 
 IV.- El tipo superior comprende la educación normal, la tecnológica y la universitaria; incluye estudios encaminados a obtener los grados de licenciatura, maestría y doctorado, así como cursos de actualización y especialización posteriores a la licenciatura.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 23.
 
-La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar, así como favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del educando. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
+La educación inicial tendrá la finalidad de fortalecer las labores de crianza en padres o cuidadores, así como familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar, así como favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del educando. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -965,9 +971,9 @@ En la impartición de la educación para menores de edad se tomarán medidas que
 
 Las autoridades educativas, educadores, directivos y personal de los planteles escolares tanto públicos como privados, en donde estén matriculados y cursen sus estudios niños y jóvenes menores de edad que tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, así mismo, tienen la obligación de dar aviso a las autoridades del Sistema Estatal para el Desarrollo Integral de la Familia, de aquellos estudiantes que hayan dejado de asistir sin causa justificada, en un periodo de cinco días continuos de clase, para que a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes realicen las indagatorias correspondientes para evitar la deserción escolar de los menores reportados, y en el caso de encontrar evidencias de ilícitos en perjuicio de los menores, se proceda a la denuncia pertinente ante la autoridad responsable. El aviso al Sistema Estatal para el Desarrollo Integral de la Familia deberá de realizarse dentro de los tres días hábiles posteriores al cumplimiento del plazo de las inasistencias.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
 
-Por cada tres zonas que comprenden las escuelas pertenecientes a la educación básica y educación media superior en el Sistema Educativo Estatal, deberá existir un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencié problemas de aprendizaje, maltrato físico, psicoemocional, o presentan conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o stress postraumático. De igual manera en el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada o integral.
+Por cada tres zonas que comprenden las escuelas pertenecientes a la educación básica y educación media superior en el Sistema Educativo Estatal, deberá existir un área especializada en psicología, cuyo personal deberá contar con la especialización adecuada para la detección de abuso sexual o conductas delictivas a temprana edad, para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencié problemas de aprendizaje, maltrato físico psicoemocional, o presentan conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o stress postraumático. De igual manera en el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada o integral.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -2262,3 +2268,31 @@ P.O. 1 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 16 TER DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 319 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 22, ASÍ COMO EL ARTÍCULO 23 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Sistema Educativo Estatal adecuará sus programas, lineamientos y normas conforme a las disposiciones del presente Decreto.
+
+TERCERO.- Los modelos de participación comunitaria en la implementación de la etapa de educación inicial no escolarizada se sujetarán a la disponibilidad presupuestal.
+
+CUARTO.- El Congreso del Estado gestionará la homologación de las retribuciones para los promotores educativos.
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 320 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- De conformidad con el artículo 34, inciso C, párrafo segundo, de la Constitución Política del Estado de Baja California, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Háganse las adecuaciones presupuestales correspondientes para todos los efectos legales a que haya lugar.
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 321 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 14 EN SU FRACCIÓN XXVI Y SE ADICIONA UNA FRACCIÓN XXVII A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
