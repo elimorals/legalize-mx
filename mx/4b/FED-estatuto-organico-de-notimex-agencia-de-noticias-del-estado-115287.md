@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-115
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-23"
-last_updated: "2016-08-04"
+last_updated: "2019-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115287&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2016-05-16"
 
 ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 4 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de junio de 2016.
 
@@ -273,7 +271,9 @@ El cargo de Consejero(a) es personalísimo, honorario y único, por lo que no se
 
 Para la ratificación de las y los Consejeros en funciones, para un periodo igual, la Junta de Gobierno recibirá la propuesta por parte del Consejo Editorial Consultivo y resolverá lo conducente.
 
-Para la substitución de Consejeros(as), la Junta de Gobierno emitirá la convocatoria en el Diario Oficial de la Federación y en un diario de circulación nacional, mencionando el número de vacantes.
+> <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2019)</small>
+
+Para la substitución de Consejeros(as), la Junta de Gobierno emitirá la convocatoria en el portal web de la Agencia, misma que será difundida mediante las redes sociales de la Entidad, mencionando el número de vacantes.
 
 ###### ARTÍCULO 19.
 
@@ -760,3 +760,11 @@ PRIMERO.- El presente Estatuto entrará en vigor el día siguiente de su publica
 SEGUNDO.- Se abroga el Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano publicado en el Diario Oficial de la Federación el 21 de diciembre de 2009.
 
 Ciudad de México, a 16 de mayo de 2016.- El Director General de Notimex, Agencia de Noticias del Estado Mexicano, Alejandro Ramos Esquivel.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 18 PÁRRAFO SEGUNDO DEL ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO".]
+
+ÚNICO.- La modificación al Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
