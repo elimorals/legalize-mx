@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-zonas-metropolitanas-del-estado-de-baja-california-93173
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-15"
-last_updated: "2013-03-15"
+last_updated: "2019-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ZONAS METROPOLITANAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 15 de marzo de 2013.
 
@@ -115,9 +115,13 @@ Para la firma de los convenios de coordinación metropolitana o de los acuerdos 
 
 Los convenios de coordinación metropolitana y los acuerdos de carácter metropolitano no podrán tener una vigencia mayor a cinco años, pero podrán refrendarse una vez que sean revisadas las condiciones que contengan.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+
 ###### Artículo 7.
 
-Los Consejos existentes y los que se conformen, deberán incluir a un Diputado integrante de la Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes del Congreso del Estado de Baja California, para que en el ámbito de su competencia coadyuve en el cumplimiento de sus funciones.
+Los Consejos Existentes y los que se conformen, deberán incluir al Diputado Presidente de la Comisión encargada de los asuntos de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes del Congreso del Estado de Baja California, para que en el ámbito de su competencia coadyuve en el cumplimiento de sus funciones.
+
+En caso de inasistencia del Diputado Presidente, podrá acudir en representación el Diputado que designe la Comisión señalada en el párrafo que antecede.
 
 ###### Artículo 8.
 
@@ -221,7 +225,9 @@ d) Secretario General de Gobierno;
 
 e) Secretario de Planeación y Finanzas;
 
-f) Un Diputado Integrante de la Comisión de Desarrollo Metropolitano, conurbación, Infraestructura, Comunicaciones y Transportes del Congreso del Estado de Baja California;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+
+f) El Diputado Presidente de la Comisión encargada de los asuntos de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes del Congreso del Estado de Baja California;
 
 g) Secretario de Desarrollo Social; y
 
@@ -392,3 +398,13 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 295 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL ARTÍCULO 7, EL CUAL FORMA PARTE DEL TÍTULO PRIMERO, RELATIVO A DISPOSICIONES GENERALES Y AL ARTÍCULO 21, FRACCIÓN II INCISO F), EL CUAL FORMA PARTE DEL TÍTULO SEGUNDO, DE LOS CONSEJOS DE DESARROLLO METROPOLITANO, DE LA LEY DE ZONAS METROPOLITANAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+SEGUNDO.- De conformidad con el artículo 34, párrafo H, de la Constitución Política del Estado de Baja California, las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
