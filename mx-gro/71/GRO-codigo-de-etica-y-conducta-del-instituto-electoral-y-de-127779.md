@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-y-conducta-del-instituto-electoral-y-de-127779"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-03-16"
-last_updated: "2018-03-16"
+last_updated: "2019-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO DE ETICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO 019/SE/07-03-2019, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 16 de marzo de 2018.
 
@@ -114,3 +116,19 @@ EL SECRETARIO DEL CONSEJO GENERAL.
 C. PEDRO PABLO MARTÍNEZ ORTIZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO 019/SE/07-03-2019 POR EL QUE SE ABROGA EL CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Código de Ética y Conducta del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, aprobado mediante acuerdo 035/SO/26-02-2018.
+
+SEGUNDO. El presente Acuerdo entrará en vigor y surtirá efectos a partir de su aprobación por el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+TERCERO. Notifíquese el presente acuerdo al Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado, así como en la página electrónica del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+Se tiene por notificado el presente acuerdo a las representaciones de los Partidos Políticos acreditados ante este Instituto Electoral, en términos de lo dispuesto por el artículo 35 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero.
