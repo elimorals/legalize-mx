@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2018-08-31"
+last_updated: "2019-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -257,11 +257,11 @@ VI.- Evitar procedimientos de mediación o conciliación, por ser inviables en u
 
 La violencia contra las mujeres en el ámbito laboral o docente, consiste en el aprovechamiento indebido de una situación de superioridad jerárquica, ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la mujer, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; menoscabo de sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de llevar a cabo el periodo de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la mujer, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -1188,6 +1188,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE AGOSTO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 14 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
