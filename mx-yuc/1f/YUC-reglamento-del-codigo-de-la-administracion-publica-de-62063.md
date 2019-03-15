@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2019-03-01"
+last_updated: "2019-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE FEBRERO DE 2019.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 1 DE MARZO DE 2019.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 15 DE MARZO DE 2019.]</small>
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3071,25 +3071,29 @@ a) Dirección de Contratos, Licitaciones y Procedimientos;
 
 b) (DEROGADO, D.O. 9 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(F. DE E., D.O. 15 DE MARZO DE 2019)</small>
 
-c) Dirección de Vinculación Institucional;
+c) Dirección de Vinculación Institucional, y
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(F. DE E., D.O. 15 DE MARZO DE 2019)</small>
 
 d) Dirección del Registro Civil;
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-e) Dirección del Archivo Notarial, y
+IV. Dirección del Archivo Notarial;
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-f) Coordinación General de Transparencia y Acceso a la Información Pública.
+V. Coordinación General de Transparencia y Acceso a la Información Pública;
 
-IV. Secretariado Ejecutivo, y
+(ADICIONADA [N. DE E. REUBICADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-V. Dirección de Administración y Finanzas.
+VI. Secretariado Ejecutivo, y
+
+(ADICIONADA [N. DE E. REUBICADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
+
+VII. Dirección de Administración y Finanzas.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
