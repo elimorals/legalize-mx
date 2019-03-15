@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-servicio-de-administracion-fiscal-del-estado-de-118150"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2019-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 0344 del Periódico Oficial del Estado de Campeche, el jueves 22 de diciembre de 2016.
 
@@ -51,29 +51,29 @@ La presente Ley es de interés público y de observancia general en todo el terr
 
 Se crea el Servicio de Administración Fiscal del Estado de Campeche como órgano desconcentrado de la Secretaría de Finanzas de la Administración Pública del Estado de Campeche, con el carácter de autoridad fiscal y con las facultades ejecutivas que señala esta Ley y cuyo acrónimo será "SEAFI".
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de la presente Ley se entenderá por:
 
-I. Administrador: El Administrador General del Servicio de Administración Fiscal del Estado de Campeche;
+I. Administrador: a la o el Administrador General del Servicio de Administración Fiscal del Estado de Campeche;
 
-II. Asamblea de Gobierno: La Asamblea de Gobierno del Servicio de Administración Fiscal del Estado de Campeche;
+II. Asamblea de Gobierno: a la Asamblea de Gobierno del Servicio de Administración Fiscal del Estado de Campeche;
 
-III. Consejo Consultivo: El Consejo Consultivo del Servicio de Administración Fiscal del Estado de Campeche;
+III. "El Servicio": al Servicio de Administración Fiscal del Estado de Campeche;
 
-IV. “El Servicio”: El Servicio de Administración Fiscal del Estado de Campeche;
+IV. Estado: al Estado de Campeche;
 
-V. Estado: El Estado Libre y Soberano de Campeche;
+V. Gobernador: a la o el Gobernador del Estado de Campeche;
 
-VI. Gobernador: El Gobernador Constitucional del Estado de Campeche;
+VI. Reglamento Interior: al Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche;
 
-VII. Reglamento Interior: El Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche;
+VII. Estatuto: al Estatuto del Servicio Fiscal de Carrera para el Servicio de Administración Fiscal del Estado de Campeche;
 
-VIII. Estatuto: El Estatuto del Servicio Fiscal de Carrera para el Servicio de Administración Fiscal del Estado de Campeche;
+VIII. Secretaria: a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche; y
 
-IX. Secretaría: La Secretaría de Finanzas de la Administración Pública del Estado de Campeche; y
-
-X. Secretario: El Secretario de Finanzas de la Administración Pública del Estado de Campeche.
+IX. Secretario: a la o el Secretario de Finanzas de la Administración Pública del Estado de Campeche.
 
 ### CAPÍTULO II. DEL OBJETO
 
@@ -163,7 +163,7 @@ I. Asamblea de Gobierno;
 
 II. Administrador;
 
-III. Consejo Consultivo; y
+III. (DEROGADA, P.O. 15 DE MARZO DE 2019)
 
 IV. Unidades Administrativas que establezca el Reglamento Interior.
 
@@ -181,7 +181,13 @@ III. El Subsecretario de Egresos; y
 
 IV. El Procurador Fiscal.
 
-A las sesiones de la Asamblea de Gobierno asistirá siempre el Administrador, con voz pero sin voto.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+
+A las sesiones de la Asamblea de Gobierno asistirá siempre la o el Administrador, con voz pero sin voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2019)</small>
+
+Asimismo, podrán ser invitadas e invitados especialistas en materia fiscal pertenecientes a las instituciones educativas de nivel superior del Estado, quienes participarán con voz pero sin voto en las sesiones.
 
 ###### ARTÍCULO 10.
 
@@ -263,17 +269,17 @@ VIII. Suscribir acuerdos interinstitucionales de cooperación técnica y adminis
 
 IX. Aquellas que le ordene, o en su caso, delegue la Asamblea de Gobierno y las demás que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2019)</small>
+
 ### CAPÍTULO IV. CONSEJO CONSULTIVO
 
 ###### ARTÍCULO 15.
 
-El Consejo Consultivo estará integrado por cinco especialistas en materia fiscal, pertenecientes a las Instituciones Educativas de Nivel Superior del Estado, quienes serán invitados por el Administrador. Los cargos del Consejo Consultivo son honoríficos, por lo que no recibirán salario alguno.
+(DEROGADO, P.O. 15 DE MARZO DE 2019)
 
 ###### ARTÍCULO 16.
 
-El Consejo Consultivo tiene como objetivo el apoyo técnico sobre los asuntos que determine la Asamblea de Gobierno, así como los que estime convenientes el Administrador en apoyo a la toma de decisiones para el eficaz y eficiente desempeño de sus atribuciones y obligaciones establecidas en esta Ley y en la demás legislación aplicable.
-
-El Consejo Consultivo se reunirá a convocatoria del Administrador.
+(DEROGADO, P.O. 15 DE MARZO DE 2019)
 
 ## TÍTULO TERCERO. DE LA PROFESIONALIZACIÓN Y LOS PRINCIPIOS QUE RIGEN AL PERSONAL
 
@@ -384,3 +390,15 @@ C. Juan Carlos Damián Vera, Diputado Presidente.- C. Leticia del Rosario Enríq
 RAFAEL ALEJANDRO MORENO CÁRDENAS, Gobernador del Estado de Campeche, mediante el presente Decreto se hace saber a los habitantes del Estado de Campeche:
 
 Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Campeche me ha dirigido el Decreto número 100, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 40 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2 Y 9; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 8 Y EL CAPÍTULO IV DENOMINADO “CONSEJO CONSULTIVO”, DEL TÍTULO SEGUNDO “DE LA ESTRUCTURA ORGANIZACIONAL” CON SUS RESPECTIVOS ARTÍCULOS 15 Y 16, TODOS DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El Ejecutivo del Estado contará con un plazo no mayor a treinta días, contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones al Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, conforme a lo dispuesto en el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
