@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proyectos-de-inversion-publica-a-largo-plazo-del-81358"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-11"
-last_updated: "2016-10-03"
+last_updated: "2019-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PROYECTOS DE INVERSION PUBLICA A LARGO PLAZO DEL ESTADO DE CHIHUAHUA
 
-LEY DE PROYECTOS DE INVERSION PUBLICA A LARGO PLAZO DEL ESTADO DE CHIHUAHUA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+LEY DE PROYECTOS DE INVERSIÓN PÚBLICA A LARGO PLAZO DEL ESTADO DE CHIHUAHUA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019 (ABROGADA).
 
 Ley publicada en el folleto anexo al Periódico Oficial del estado de Chihuahua, el miércoles 11 de mayo de 2011.
 
@@ -776,3 +778,39 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/EXLEY/0072/2018 I P.O. LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 38, del 11 de mayo del 2011.
+
+Los proyectos de inversión pública a largo plazo que se encuentren contratados o estén en trámite, continuarán rigiéndose por las disposiciones vigentes al momento en el que iniciaron, salvo que exista un acuerdo entre las partes para adecuarse a los términos de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado expedirá el Reglamento de la presente Ley en un plazo no mayor a 180 días naturales, contados a partir del día siguiente en el que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado y los Municipios contarán con un plazo de 180 días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto, para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de la Función Pública y la Auditoría Superior, ambas del Estado de Chihuahua, según corresponda, deberán fungir como órganos internos de control en aquellos entes públicos que aún no cuenten con un órgano de esta naturaleza, además vigilarán y comprobarán que se apliquen las disposiciones de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que el Sistema Electrónico de Compras del Estado se encuentre en funcionamiento, deberá fungir como medio adicional de difusión y publicación de resultados, además de la página oficial de internet del Ente Público Contratante.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto no se expida la Ley en materia de procedimiento administrativo, se aplicarán en lo conducente el Código Administrativo del Estado de Chihuahua y el Código de Procedimientos Civiles del Estado de Chihuahua.
+
+Los mecanismos alternativos de solución de controversias previstos en el presente Decreto se aplicarán conforme a lo dispuesto por la Ley de Justicia Alternativa del Estado, hasta en tanto no se expida la Ley en materia de justicia administrativa del Estado a que se hace referencia.
