@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2019-03-13"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1155,7 +1155,9 @@ E.- Las disposiciones aplicables en aquellos municipios que no cuenten con los b
 
 VI.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, discutiendo y aprobando primero las contribuciones que a su juicio deben decretarse para cubrirlo.
 
-En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los proyectos de inversión pública a largo plazo que haya aprobado, de acuerdo con lo dispuesto en la fracción IX, inciso G), del presente artículo.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará las erogaciones plurianuales necesarias para cumplir las obligaciones derivadas de los proyectos de Asociación Público Privada que haya aprobado, de acuerdo con lo dispuesto en la fracción IX, inciso G), del presente artículo.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -1219,9 +1221,9 @@ E.- Para que, bajo las condiciones que el Congreso le imponga, represente al Est
 
 F.- Para que arme y ponga en servicio la Guardia Nacional.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de inversión pública a largo plazo. Las obligaciones derivadas de los citados proyectos de inversión no constituyen deuda pública.
+G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de Asociación Público Privada. Las obligaciones derivadas de los citados proyectos no constituyen deuda pública.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1373,7 +1375,9 @@ XXXI.- Autorizar a los ayuntamientos para que:
 
 A) Se asocien y se coordinen con los de otros Estados para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
 
-B) De conformidad con la ley de la materia, celebren contratos sobre Proyectos de Inversión Pública a Largo Plazo.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+B) De conformidad con la ley de la materia, celebren contratos sobre Proyectos de Asociación Público Privada.
 
 XXXII.- Recabar de quien corresponda y por los conductos debidos, informes sobre todos los ramos de Administración Pública del Estado y de los Municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
@@ -2755,9 +2759,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley. En dichos presupuestos deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en los artículos 115 y 127 de la Constitución Federal y 165 bis de esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo aprobados en los términos del artículo 137.
+Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Asociación Público Privada aprobados en los términos del artículo 137.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -2791,11 +2795,13 @@ Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este ar
 
 Los integrantes de los Ayuntamientos correspondientes serán responsables, personal y pecuniariamente, de la contravención de este precepto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 ###### Art. 137.
 
-Los ayuntamientos, mediante el voto de las dos terceras partes de sus miembros, podrán aprobar la celebración de contratos para Proyectos de Inversión Pública a Largo Plazo, en los términos de la ley de la materia. Una vez aprobados, se remitirán al Congreso del Estado para su autorización.
+Los ayuntamientos, mediante el voto de las dos terceras partes de sus miembros, podrán aprobar la celebración de contratos para Proyectos de Asociación Público Privada, en los términos de la ley de la materia. Una vez aprobados, se remitirán al Congreso del Estado para su autorización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2011)</small>
 
 Los compromisos asumidos por los municipios en los términos del presente artículo, no se considerarán como contratación de créditos o empréstitos, por lo cual no constituyen deuda pública.
 
@@ -5108,3 +5114,15 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFCNT/0071/2018 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
