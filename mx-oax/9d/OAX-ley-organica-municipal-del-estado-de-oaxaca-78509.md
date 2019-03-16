@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-11-10"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -410,6 +410,10 @@ Si el día señalado para la instalación, el Ayuntamiento entrante no se presen
 Son atribuciones del Ayuntamiento:
 
 I.- Expedir y reformar de acuerdo con las leyes que expida la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de su ámbito territorial; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2019)</small>
+
+I Bis.- Aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno, y reglamentos o, en su caso, ratificar o actualizar los vigentes, debiendo remitirlo al Congreso del Estado para su conocimiento.
 
 II.- Proponer ante la Legislatura del Estado, iniciativas de leyes, decretos y acuerdos en materia municipal;
 
@@ -3236,3 +3240,13 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Órgano Superior de Fiscalización del Estado de Oaxaca, deberá emitir los lineamientos que regulen la creación y administración del "Padrón Estatal de Asesores Municipales Externos", dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 403.- MEDIANTE EL CUAL SE DECRETA LA ADICIÓN DE LA FRACCIÓN I BIS AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Los Ayuntamientos sin excepción contarán con noventa días a partir de la entrada en vigor del presente Decreto para aprobar y publicar su Bando de Policía y Gobierno.
+
+TERCERO.- El Congreso del Estado deberá comunicar a todos los ayuntamientos municipales del Estado de Oaxaca.
