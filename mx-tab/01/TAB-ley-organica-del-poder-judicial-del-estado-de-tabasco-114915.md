@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2017-11-18"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -67,9 +69,13 @@ c) Las Salas en materia civil;
 
 d) Las Salas en materia penal; y,
 
-e) Las Salas especializadas en materia de Oralidad, de Ejecución y de Justicia para Adolescentes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-II. Los juzgados de primera instancia, mismos que se clasifican en:
+e) Las Salas especializadas en materia de Ejecución y de Justicia para Adolescentes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2019)</small>
+
+II. Los juzgados y tribunales de primera instancia, mismos que se clasifican en:
 
 a) Civiles;
 
@@ -85,7 +91,9 @@ f) Mixtos;
 
 g) De control;
 
-h) De juicio oral;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+h) De enjuiciamiento;
 
 i) De ejecución; y,
 
@@ -415,7 +423,9 @@ Las Salas colegiadas estarán presididas por uno de sus Magistrados designado po
 
 Todas las Salas tendrán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados de las Salas de una misma materia.
 
-Los recursos que procedan contra resoluciones de Tribunales de Juicio Oral, de Jueces de Control o de Ejecución, serán resueltos por el Tribunal de Alzada que corresponda. El recurso de apelación de la sentencia deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en etapas anteriores.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Los recursos que procedan contra resoluciones del Tribunal de Enjuiciamiento, de Jueces de Control o de Ejecución, serán resueltos por el Tribunal de Alzada que corresponda. El recurso de apelación de la sentencia deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en etapas anteriores y habrán de integrarse de manera unitaria o colegiada, según se haya resuelto en primera instancia de acuerdo a la regla que establece el párrafo tercero del artículo 68 de esta ley.
 
 ###### Artículo 25.
 
@@ -453,15 +463,17 @@ IV. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los J
 
 V. De los demás asuntos que le señalan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### Artículo 28.
 
-Corresponde a las Salas Penales y a las de Oralidad, conocer:
+Corresponde a las Salas Penales conocer:
 
 I. De las apelaciones, casaciones y denegadas apelaciones, incluyéndose las determinaciones relativas a incidentes civiles que surjan en los procesos respectivos;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
-II. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia, se deberá de resolver en forma colegiada cuando el asunto provenga de un Tribunal de Juicio Oral o de un Juez del Sistema Mixto Tradicional, y de manera unitaria cuando el asunto emane de un Juez de Control, de Ejecución o de Justicia para Adolescentes;
+II. De las excusas, recusaciones, incompetencias, quejas o impedimentos de los Jueces y Secretarios de Acuerdos de la Sala de su competencia;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -470,6 +482,10 @@ III. De los asuntos de amparo que promuevan contra las resoluciones dictadas por
 IV. De la revisión extraordinaria de sentencia; y,
 
 V. De los demás asuntos que le señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+
+En lo conducente de las fracciones que preceden, se deberá de resolver en forma colegiada cuando el asunto provenga de un Tribunal de Enjuiciamiento Colegiado o de un Juez del Sistema Mixto Tradicional, y de manera unitaria cuando el asunto emane de un Juez de Control, de Ejecución, de Justicia para Adolescentes o de un Tribunal de Enjuiciamiento Unitario.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -1061,7 +1077,13 @@ Los órganos jurisdiccionales del Sistema Procesal Penal Acusatorio y Oral, tend
 
 Los órganos jurisdiccionales se integrarán con jueces que asuman atribuciones de control o de juicio oral o de ejecución, siempre y cuando los dos primeros no desempeñen ambas funciones en un mismo asunto, los cuales podrán tener competencia en las materias señaladas en el párrafo anterior y ejercerla en todo el territorio estatal, según las necesidades.
 
-Los Jueces de Control y de Ejecución actuarán en forma unitaria, en tanto que los de tribunal de juicio oral, de manera colegiada.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Los Jueces de Control y de Ejecución actuarán en forma unitaria en todos los casos. Los Tribunales de Enjuiciamiento serán integrados por un Juez; salvo en los asuntos que proceda prisión preventiva de manera oficiosa según prevé el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, que serán colegiados, integrados por tres jueces.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Para la sustanciación de los recursos de apelación en materia de justicia para adolescentes, se estará a lo dispuesto por el artículo 29 de esta Ley.
 
 Para ser juez del Sistema Procesal Penal Acusatorio y Oral se requieren los mismos requisitos establecidos en el artículo 46 de esta Ley, además de tener conocimientos del aludido sistema, así como de la materia a cuyo desempeño sean designados.
 
@@ -1079,13 +1101,17 @@ En cada Centro Regional de Administración de Justicia, la función jurisdiccion
 
 I. Los Jueces de Control;
 
-II. El Tribunal de juicio oral; y,
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+II. El Tribunal de Enjuiciamiento; y,
 
 III. Los Jueces de Ejecución, quienes tendrán la sede y competencia territorial que el Pleno del Consejo de la Judicatura determine.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### Artículo 72.
 
-En materia de justicia para adolescentes, los jueces especializados de control, de tribunal de juicio oral y de ejecución, tendrán la sede y competencia territorial que el Pleno del Consejo de la Judicatura determine.
+En materia de justicia para adolescentes, los jueces especializados de control, del Tribunal de Enjuiciamiento y de ejecución, tendrán la sede y competencia territorial que el Pleno del Consejo de la Judicatura determine.
 
 ###### Artículo 73.
 
@@ -1093,7 +1119,9 @@ Serán atribuciones de los Jueces de Control:
 
 I. Resolver de manera inmediata cualquier asunto que se les solicite, en los casos cuando así proceda conforme a la ley;
 
-II. Presidir la audiencia de vinculación a proceso, la intermedia y emitir las decisiones que en ellas corresponda, así como, celebrar cualquier otra audiencia que legalmente les sea solicitada y asumir las decisiones atinentes al caso;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+II. Presidir la audiencia inicial e intermedia, y emitir las decisiones que en ellas corresponda, así como, celebrar cualquier otra audiencia que legalmente les sea solicitada y asumir las decisiones atinentes al caso;
 
 III. Vigilar que se respeten los derechos constitucionales del imputado y de la víctima u ofendido;
 
@@ -1101,13 +1129,17 @@ IV. Ejercer las funciones que determina el Código Nacional de Procedimientos Pe
 
 V. Las demás que señalen las leyes.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### Artículo 74.
 
-Los Jueces de Tribunal de Juicio Oral presidirán las audiencias propias del juicio y determinarán la responsabilidad o atribuibilidad, según sea el caso, en que hubieren incurrido los acusados por algún delito o alguna conducta tipificada como delito conforme a las leyes aplicables.
+El Juez o los Jueces del Tribunal de Enjuiciamiento, presidirán las audiencias propias del juicio y determinarán la responsabilidad o atribuibilidad, según sea el caso, en que hubieren incurrido el o los acusados por algún delito conforme a las leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 ###### Artículo 75.
 
-El Tribunal de Juicio Oral se integrará por tres Jueces; quien presida el tribunal de juicio oral tendrá las facultades siguientes:
+El Tribunal de Enjuiciamiento se integrará por un Juez, salvo los casos previstos en el párrafo tercero del artículo 68 de esta ley. Quien presida dicho Tribunal, tendrá las facultades siguientes:
 
 I. Dirigir la audiencia y la deliberación de los asuntos de su competencia;
 
@@ -1117,7 +1149,9 @@ III. Firmar los autos de trámite que el caso genere; y,
 
 IV. Las demás que señalen las leyes.
 
-Los jueces redactores tendrán a su cargo la elaboración del fallo, de la sentencia y de su comunicación.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+En el caso de los Tribunales de Enjuiciamiento Colegiados, los Jueces redactores tendrán a su cargo la elaboración de la sentencia y de su comunicación. En los Tribunales Unitarios, el Juez tendrá a su cargo las funciones previstas en este último párrafo.
 
 ###### Artículo 76.
 
@@ -3961,7 +3995,7 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 18 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 131 POR EL QUE SE “REFORMAN LOS ARTÍCULOS 9, PÁRRAFO PRIMERO FRACCIÓN IV; 12; 16, LAS FRACCIONES I, X, XVIII, XXXIII Y XXXIV; 21, LA FRACCIÓN XVI, EL PÁRRAFO SEGUNDO; 24, TERCER PÁRRAFO; 28, PÁRRAFO SEGUNDO; 49 FRACCIÓN I; 57 PÁRRAFO PRIMERO, FRACCIÓN III, PÁRRAFOS PRIMERO Y SEGUNDO; 87, FRACCIÓN IX; 89, FRACCIÓN III; 97, FRACCIÓN II, IX Y X; 101, FRACCIÓN VIII; 113, FRACCIÓN II; 132, FRACCIÓN II, PÁRRAFO SEGUNDO; 164, FRÁCCIÓN IX; 191; 195, EL PÁRRAFO PRIMERO; 203; 204; 260, LAS FRACCIONES I Y II DEL PÁRRAFO PRIMERO; Y EL PÁRRAFO SEGUNDO; 325 Y 331. SE ADICIONAN: UNA FRACCIÓN XXXV AL ARTÍCULO 16; UN PÁRRAFO TERCERO A LA FRACCIÓN III DEL ARTÍCULO 57; LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 282. SE DEROGAN: LA FRACCIÓN II DEL ARTÍCULO 49; I AL XI DEL ARTÍCULO 204, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 131 POR EL QUE SE "REFORMAN LOS ARTÍCULOS 9, PÁRRAFO PRIMERO FRACCIÓN IV; 12; 16, LAS FRACCIONES I, X, XVIII, XXXIII Y XXXIV; 21, LA FRACCIÓN XVI, EL PÁRRAFO SEGUNDO; 24, TERCER PÁRRAFO; 28, PÁRRAFO SEGUNDO; 49 FRACCIÓN I; 57 PÁRRAFO PRIMERO, FRACCIÓN III, PÁRRAFOS PRIMERO Y SEGUNDO; 87, FRACCIÓN IX; 89, FRACCIÓN III; 97, FRACCIÓN II, IX Y X; 101, FRACCIÓN VIII; 113, FRACCIÓN II; 132, FRACCIÓN II, PÁRRAFO SEGUNDO; 164, FRACCIÓN IX; 191; 195, EL PÁRRAFO PRIMERO; 203; 204; 260, LAS FRACCIONES I Y II DEL PÁRRAFO PRIMERO; Y EL PÁRRAFO SEGUNDO; 325 Y 331. SE ADICIONAN: UNA FRACCIÓN XXXV AL ARTÍCULO 16; UN PÁRRAFO TERCERO A LA FRACCIÓN III DEL ARTÍCULO 57; LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 282. SE DEROGAN: LA FRACCIÓN II DEL ARTÍCULO 49; I AL XI DEL ARTÍCULO 204, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
@@ -3974,3 +4008,15 @@ CUARTO. Las menciones contenidas en otras leyes, reglamentos y en general en cua
 QUINTO. Las obligaciones derivadas de las reformas materia del presente Decreto, referentes a designación de servidores públicos; a la presentación de declaraciones patrimoniales y de intereses; y, a la inclusión de información en los sistemas de la Plataforma Digital Nacional; así como a la presentación de informes a las Instancias del Sistema Nacional Anticorrupción o del Sistema Anticorrupción del Estado de Tabasco, deberán ser cumplidas una vez que las autoridades competentes de dichos sistemas determinen los mecanismos y procedimientos correspondientes.
 
 SEXTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 072 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2, FRACCIONES I, INCISO E), II Y SU INCISO H); 24, PÁRRAFO QUINTO; 28, PRIMER PÁRRAFO Y FRACCIÓN II; 68, TERCER PÁRRAFO; 71, FRACCIÓN II; 72; 73, FRACCIÓN II; 74; Y 75, PRIMER Y ÚLTIMO PÁRRAFO; SE ADICIONAN: UN SEGUNDO PÁRRAFO AL ARTÍCULO 28, RECORRIÉNDOSE EL SUBSECUENTE PARA SER EL PÁRRAFO TERCERO; UN CUARTO PÁRRAFO AL ARTÍCULO 68, RECORRIÉNDOSE EL SUBSECUENTE PARA SER EL PÁRRAFO QUINTO; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de los treinta días hábiles posteriores a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, en los que se haya dictado el auto de apertura a juicio oral, el Tribunal de Enjuiciamiento Colegiado designado, continuará con su sustanciación, hasta su culminación.
+
+TERCERO. El Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, ambos del Poder Judicial del Estado de Tabasco, emitirán los acuerdos generales que sean necesarios, para el cumplimiento de las disposiciones del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
