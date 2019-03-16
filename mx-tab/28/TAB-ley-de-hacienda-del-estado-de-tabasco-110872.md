@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2018-12-22"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -33,7 +33,9 @@ LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO,
 
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
-ANTECEDENTES…
+ANTECEDENTES
+
+[...]
 
 SEXTO.- Que en virtud de lo anterior y tomando en cuenta que el Honorable Congreso del Estado, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social.
 
@@ -2351,7 +2353,9 @@ f) Que acredite con la factura expedida por el distribuidor, fabricante o comerc
 
 g) Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio particular, pretenda realizar el cambio a servicio público deberá acreditarlo con la manifestación de baja expedida por la Dirección General de la Policía Estatal de Caminos de la Policía Estatal de la Secretaría de Seguridad Pública.
 
-Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio público, pretenda realizar el cambio a servicio particular deberá acreditarlo con la manifestación de baja expedida por la Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio público, pretenda realizar el cambio a servicio particular deberá acreditarlo con la manifestación de baja expedida por la Secretaría de Movilidad.
 
 ###### Artículo 83.
 
@@ -2719,7 +2723,9 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
 
-### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
+### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 #### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
 
@@ -2873,11 +2879,13 @@ Por los servicios prestados por la Secretaría de Salud, sus órganos desconcent
 
 El paciente cubrirá los derechos a que se refiere esta Ley, de acuerdo al resultado del estudio socioeconómico realizado por el personal autorizado de la Secretaría de Salud, de conformidad con la normatividad aplicable.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2019)</small>
+
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 93.
 
-Por los servicios prestados por la Secretaría de Comunicaciones y Transportes, relacionados con el transporte público, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Movilidad, relacionados con el transporte público, se causarán y pagarán los derechos siguientes:
 
 I. A solicitud de parte, por realizar los estudios y dictámenes técnicos para la realización de:
 
@@ -3059,9 +3067,9 @@ con motocarro 80.0 UMA
 
 vehículo mecánico sin motor 10.0 UMA
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Para el otorgamiento de cualquiera de los permisos, autorizaciones y concesiones a que se refiere esta fracción será necesario a juicio de la Secretaría de Comunicaciones y Transportes que el interesado presente su inscripción en el Registro Federal de Contribuyentes.
+Para el otorgamiento de cualquiera de los permisos, autorizaciones y concesiones a que se refiere esta fracción será necesario a juicio de la Secretaría de Movilidad que el interesado presente su inscripción en el Registro Federal de Contribuyentes.
 
 III. A solicitud de parte, para el otorgamiento de constancias y localización de información:
 
@@ -3153,9 +3161,9 @@ j) Tarjeta de identificación Gafete:
 
 (a) Por 1 año. 8.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-(b) Por 2 años 15.0 UMA
+(b) Por 2 años 10.65 UMA
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -5144,3 +5152,11 @@ El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, i
 Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco.
 
 Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1° de enero de 2019 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 073 POR EL QUE "SE REFORMAN EL ARTÍCULO 82, PÁRRAFO TERCERO; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO, DEL TÍTULO TERCERO; EL ARTÍCULO 93, EN SU PÁRRAFO PRIMERO, EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y EN EL SUB INCISO (B), DEL INCISO J), DE SU FRACCIÓN IV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
