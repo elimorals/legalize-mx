@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obras-publicas-y-servicios-relacionados-con-las-131060"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2018-10-20"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -74,6 +74,10 @@ No podrán crearse fideicomisos, otorgarse mandatos o celebrar contratos o cualq
 Corresponde a los Entes Públicos llevar a cabo los procedimientos para contratar las obras públicas y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate.
 
 Salvo disposición expresa en contrario, el ejercicio de las atribuciones y cumplimiento de los deberes y obligaciones que conforme a la presente Ley corresponde a los Entes Públicos, se llevarán a cabo por conducto de sus órganos facultados conforme a su estructura orgánica establecida en la ley, decreto, contrato o acuerdo que regulan su creación y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Toda obra pública deberá cumplir con los lineamientos de accesibilidad, libre tránsito y diseño universal que se emitan para tal efecto, eliminando las barreras arquitectónicas y físicas que limiten la movilidad de las personas, particularmente de aquellas con discapacidad, tanto en espacios abiertos como cerrados.
 
 ###### Artículo 2.
 
@@ -131,7 +135,9 @@ XXV. Proyecto Ejecutivo Integral Llave en Mano.- Esquema en el que la persona co
 
 XXVI. Proyecto arquitectónico.- El que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros.
 
-XXVII. Proyecto de ingeniería.- El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+XXVII. Proyecto de ingeniería.- El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, incluyendo lo que corresponda a la accesibilidad; así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad.
 
 XXVIII. Reglamento.- El Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Chihuahua.
 
@@ -269,7 +275,13 @@ VIII. Considerar la tecnología aplicable en función de la naturaleza de la obr
 
 IX. Tomar en cuenta preferentemente, en igualdad de circunstancias, el empleo de los recursos humanos y los materiales propios de la región donde se ubique la obra.
 
-X. Ajustarse a las demás disposiciones legales y reglamentarias que resulten aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2019)</small>
+
+X. Lo dispuesto en el reglamento estatal que contenga los lineamientos en materia de accesibilidad y diseño universal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2019)</small>
+
+XI. Ajustarse a las demás disposiciones legales y reglamentarias que resulten aplicables en la materia.
 
 ###### Artículo 14.
 
@@ -295,9 +307,11 @@ Dicha partida será aplicada bajo la absoluta responsabilidad de la persona ejec
 
 Los Entes Públicos, publicarán en el sistema electrónico de contrataciones la partida presupuestal asignada para cubrir los costos relacionados con estudios de preinversión y preparación del Proyecto Ejecutivo Integral de Obra Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### Artículo 16.
 
-Los Entes Públicos que realicen obras públicas y servicios relacionados con las mismas, así como las personas contratistas con quienes aquellos contraten, observarán las disposiciones en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano del ámbito federal, estatal y municipal.
+Los Entes Públicos que realicen obras públicas y servicios relacionados con las mismas, así como las personas contratistas con quienes aquellos contraten, observarán las disposiciones en materia de asentamientos humanos, accesibilidad y diseño universal, ordenamiento territorial, así como desarrollo urbano del ámbito federal, estatal y municipal.
 
 Los Entes Públicos, desde la formulación de los programas anuales de obra pública, deberán considerar los derechos de servidumbre, la indemnización por derechos de expropiación y afectación, así como la obtención de permisos de construcción necesarios, previamente a la realización de los trabajos; deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas o, en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos.
 
@@ -345,7 +359,7 @@ XII. Los trabajos de mantenimiento de los bienes inmuebles a su cargo.
 
 XIII. Los permisos, autorizaciones y licencias que se requieran.
 
-Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 XIV. Las asignaciones presupuestales a que se refiere el párrafo cuarto del artículo 15 de la presente Ley.
 
@@ -375,7 +389,9 @@ Los Entes Públicos, bajo su responsabilidad, podrán convocar, adjudicar o cont
 
 En casos excepcionales, previo a la autorización de su presupuesto, los Entes Públicos podrán solicitar a la Secretaría, por lo que toca al Poder Ejecutivo y sus organismos, o bien, a su órgano de administración correspondiente, la aprobación para convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en el que se formalizan. Los referidos contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
 
-Para la realización de obras públicas se requerirá contar con los estudios y Proyectos Ejecutivos Integrales de Obras Públicas, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, en el caso de obras públicas de gran complejidad, con un avance en su desarrollo que permita a las personas licitantes preparar una proposición solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa de ejecución convenido. Se exceptúa de lo anterior, los casos a que se refieren las fracciones II y VII del artículo 58 de esta Ley.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Para la realización de obras públicas se requerirá contar con los estudios y Proyectos Ejecutivos Integrales de Obras Públicas, especificaciones de construcción, accesibilidad y diseño universal, normas de calidad y el programa de ejecución totalmente terminados, o bien, en el caso de obras públicas de gran complejidad, con un avance en su desarrollo que permita a las personas licitantes preparar una proposición solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa de ejecución convenido. Se exceptúa de lo anterior, los casos a que se refieren las fracciones II y VII del artículo 58 de esta Ley.
 
 Lo dispuesto en el párrafo anterior, será responsabilidad de las y los servidores públicos que autoricen el Proyecto Ejecutivo Integral de Obras Públicas.
 
@@ -2048,3 +2064,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de octubre de dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0298/2019 I P.E., MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
