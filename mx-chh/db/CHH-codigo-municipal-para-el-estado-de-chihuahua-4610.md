@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2018-12-12"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -747,9 +747,9 @@ En la formulación de dicho documento, los Ayuntamientos habrán de tomar en cue
 
 Los presupuestos sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo.
+Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Asociación Público Privada.
 
 XIV.- Vigilar que se dé publicidad mensualmente, por cualquiera de los medios de que se disponga, del movimiento de ingresos y egresos del mes correspondiente;
 
@@ -777,13 +777,13 @@ Cuando la desincorporación del régimen de dominio público tenga como finalida
 
 XXI.- Aprobar por las dos terceras partes de los integrantes del Ayuntamiento, la celebración de actos o convenios por un término que exceda a la gestión del propio ayuntamiento;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Autorizar, en los términos del párrafo anterior, los Proyectos de Inversión Pública a largo Plazo.
+Autorizar, en los términos del párrafo anterior, los Proyectos de Asociación Público Privada.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Inversión Pública a largo Plazo.
+Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Asociación Público Privada.
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -967,9 +967,9 @@ XII.- Representar al Municipio, con todas las facultades de un apoderado general
 
 XIII.- Formular y someter a la aprobación del Ayuntamiento el anteproyecto de ley de ingresos y el proyecto de presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
-XIV.- Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por los Títulos Quinto y Sexto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
+XIV.- Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por los Títulos Quinto y Sexto, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, así como la Ley de Asociaciones Público Privadas del Estado de Chihuahua.
 
 XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de dichos fondos se aplique con apego al presupuesto de egresos;
 
@@ -989,9 +989,9 @@ XXI.- Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley
 
 XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de las obras públicas de su competencia, siempre y cuando la (sic) mismas sean de utilidad social;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Asociación Público Privada, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Asociaciones Público Privadas del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -1037,7 +1037,7 @@ Las suplentes de los presidentes municipales, también deberán cumplir con esta
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XXXVIII. Constituir el Tribunal de Arbitraje Municipal en los términos que ordena el artículo 78 del presente ordenamiento.
+XXXVIII.- Constituir el Tribunal de Arbitraje Municipal en los términos que ordena el artículo 78 del presente ordenamiento.
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5572,3 +5572,11 @@ P.O. 12 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLYC/0073/2018 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL, LEY DE DEUDA PÚBLICA Y SUS MUNICIPIOS, LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
