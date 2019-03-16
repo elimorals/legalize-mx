@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2018-11-24"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -363,7 +363,9 @@ El Proyecto de Presupuesto de Egresos del Estado y de los Municipios, es el docu
 
 I. Exposición de motivos, en la que se señalen los efectos económicos y sociales que se pretendan lograr.
 
-II. Descripción de los programas, en donde se señalen objetivos, metas, indicadores estratégicos y de gestión aprobados, con base en los principios de eficiencia, eficacia, economía, transparencia y honradez; en especial, aquellos que abarcan dos o más ejercicios fiscales y los Proyectos de Inversión Pública a Largo Plazo.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+II. Descripción de los programas, en donde se señalen objetivos, metas, indicadores estratégicos y de gestión aprobados, con base en los principios de eficiencia, eficacia, economía, transparencia y honradez; en especial, aquellos que abarcan dos o más ejercicios fiscales y los Proyectos de Asociación Público Privada.
 
 III. Los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño.
 
@@ -377,9 +379,9 @@ VII. Ingresos y gastos realizados, tanto en el último ejercicio fiscal como el 
 
 VIII. Situación de la deuda pública al término del último ejercicio fiscal; estimación de los montos del ejercicio en curso y del siguiente.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
-IX. Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo, así como las de gasto que se autoricen en los términos del artículo 46-BIS de esta Ley.
+IX. Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Asociación Público Privada, así como las de gasto que se autoricen en los términos del artículo 46-BIS de esta Ley.
 
 X. Los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, sujetándose a las bases contenidas en el artículo 165 bis de la Constitución Política del Estado.
 
@@ -399,9 +401,11 @@ El Titular del Poder Ejecutivo, por conducto de la Secretaría proporcionará, a
 
 El H. Congreso del Estado analizará, discutirá y aprobará la iniciativa del Presupuesto de Egresos del Estado, de conformidad con el artículo 64 de la Constitución Política del Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 40.
 
-El Presupuesto de Egresos del Estado de Chihuahua es el aprobado por el H. Congreso del Estado que expresa, en términos monetarios, las previsiones de gasto público para el ejercicio fiscal correspondiente y las partidas plurianuales necesarias para cubrir las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo.
+El Presupuesto de Egresos del Estado de Chihuahua es el aprobado por el H. Congreso del Estado que expresa, en términos monetarios, las previsiones de gasto público para el ejercicio fiscal correspondiente y las partidas plurianuales necesarias para cubrir las obligaciones derivadas de los Proyectos de Asociación Público Privada.
 
 Tratándose de los municipios, es el documento aprobado por los Ayuntamientos, en los términos del párrafo anterior.
 
@@ -449,7 +453,9 @@ II. Ingresos adicionales que excedan al 5% de los presupuestos de egresos.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa en el presupuesto de egresos y tenga el saldo suficiente para cubrirlo.
 
-Las obligaciones de pago derivadas de los Proyectos de Inversión Pública a Largo Plazo, deberán quedar debidamente identificadas en la partida presupuestal correspondiente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+
+Las obligaciones de pago derivadas de los Proyectos de Asociación Público Privada, deberán quedar debidamente identificadas en la partida presupuestal correspondiente.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
@@ -475,9 +481,11 @@ Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus resp
 
 En los informes trimestrales se deberá incluir un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en los proyectos de presupuesto para los siguientes ejercicios fiscales, en los términos del artículo 36 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 47.
 
-El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamientos, o de Contratos de Proyectos de Inversión Pública a Largo Plazo, se efectuará con base a calendarios financieros y de metas propuestas por los entes públicos, de acuerdo con las normas y lineamientos que fije la Secretaría, las que comunicarán a más tardar durante el mes de enero de cada año.
+El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamientos, o de Contratos de Proyectos de Asociación Público Privada, se efectuará con base a calendarios financieros y de metas propuestas por los entes públicos, de acuerdo con las normas y lineamientos que fije la Secretaría, las que comunicarán a más tardar durante el mes de enero de cada año.
 
 Tratándose de los Municipios, lo dispuesto en el párrafo anterior lo llevará a cabo la unidad administrativa competente.
 
@@ -485,7 +493,9 @@ Tratándose de los Municipios, lo dispuesto en el párrafo anterior lo llevará 
 
 En la elaboración de los calendarios a que se refiere el artículo anterior, se observará lo siguiente:
 
-I. Serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlos, con excepción de los pagos correspondientes a los contratos de Proyectos de Inversión Pública a Largo Plazo.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+
+I. Serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlos, con excepción de los pagos correspondientes a los contratos de Proyectos de Asociación Público Privada.
 
 II. Contemplarán las necesidades de pago, en función de los compromisos a contraer. Para tal efecto se deberá tomar en cuenta la diferencia entre las fechas de celebración de los compromisos y las de realización de los pagos.
 
@@ -637,9 +647,11 @@ III. En caso de comisiones al extranjero, los titulares de los entes públicos y
 
 IV. Comprobar su aplicación de conformidad con la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 68.
 
-Los actos y contratos relativos a la adquisición o arrendamiento de bienes y servicios, los Proyectos de Inversión Pública a Largo Plazo y la realización de obra pública, deberán ajustarse a las leyes de la materia y sustentarse en programas o presupuestos de adquisición y de obra respectivos.
+Los actos y contratos relativos a la adquisición o arrendamiento de bienes y servicios, los Proyectos de Asociación Público Privada y la realización de obra pública, deberán ajustarse a las leyes de la materia y sustentarse en programas o presupuestos de adquisición y de obra respectivos.
 
 Por lo tanto, cualquier acto o contrato que establezca una obligación o genere un gasto con cargo al Presupuesto de Egresos, si se realiza en contravención a dichas leyes, no se considerará legalmente celebrado.
 
@@ -1718,3 +1730,11 @@ OCTAVO.- Se derogan los párrafos segundo y tercero, del artículo 142, de la Le
 NOVENO.- Se abroga la Ley de Coordinación en Materia de Derechos con la Federación, publicada en el Periódico Oficial del Estado número 104 del 30 de diciembre de 1981.
 
 DÉCIMO.- En tanto se congrega la Reunión Estatal y se conforma la Comisión Permanente para establecer las bases de la Coordinación Hacendaria en el Estado, y expedir el Reglamento Interior de los Organismos del Sistema Hacendario Estatal, el cálculo mensual de las Participaciones y Aportaciones descritas en la Ley, y con el propósito de facilitar el cálculo mensual de Participaciones y Aportaciones, la base de ambos rubros será dividida entre doce.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLYC/0073/2018 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL, LEY DE DEUDA PÚBLICA Y SUS MUNICIPIOS, LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
