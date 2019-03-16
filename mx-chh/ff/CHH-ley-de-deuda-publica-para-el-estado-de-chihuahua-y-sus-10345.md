@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "2016-09-24"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -113,9 +113,9 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las fra
 
 IV.- Todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades a que se refiere el artículo 2o. de esta Ley.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-No constituyen deuda pública las obligaciones de pago derivadas de los Proyectos de Inversión Pública a Largo Plazo, ni de los mecanismos de afectación de fuente o garantía de pago de los mismos.
+No constituyen deuda pública las obligaciones de pago derivadas de los Proyectos de Asociación Público Privada, ni de los mecanismos de afectación de fuente o garantía de pago de los mismos.
 
 ###### ARTICULO 10.
 
@@ -193,9 +193,9 @@ III.- Solicitar a las entidades a que se refiere el artículo 2o. de esta Ley, l
 
 IV.- Autorizar al Estado y a los municipios para afectar participaciones que les correspondan en ingresos federales, en garantía o como fuente de pago de los financiamientos y demás obligaciones, que contraten como deudores u obligados directos o bien, para garantizar o cumplir financiamientos u obligaciones contraídos por cualesquiera de las demás entidades públicas referidas en el artículo 2 de esta Ley;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, autorizar la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Prestación de Servicios, de conformidad con la ley de la materia.
+En los casos de Proyectos de Asociación Público Privada, autorizar la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los proyectos, de conformidad con la ley de la materia.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
 
@@ -223,9 +223,9 @@ c). El saldo de la deuda, que comprenderá la forma y plazos de amortización de
 
 II.- Solicitar al Congreso del Estado autorización para contratar créditos o empréstitos directos o contingentes, o a través de fideicomisos, así como otras operaciones financieras o bursátiles que impliquen compromisos crediticios y, en su caso, para afectar en garantía o como fuente de pago las participaciones del Estado en ingresos federales.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Inversión Pública a Largo Plazo, de conformidad con la ley de la materia.
+En los casos de Proyectos de Asociación Público Privada, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los proyectos, de conformidad con la ley de la materia.
 
 III.- Las demás facultades que le confiera la Constitución Política del Estado y leyes aplicables.
 
@@ -249,9 +249,9 @@ IV.- Celebrar los contratos y convenios, así como suscribir los documentos y t�
 
 V.- Con la autorización del Congreso del Estado, afectar en garantía o como fuente de pago de los empréstitos y obligaciones que se contraigan por las entidades públicas a que se refiere el artículo 2 de esta Ley, las participaciones que correspondan al Estado en ingresos federales, siempre que sean suficientes para garantizar o cumplir con su pago total dentro del plazo estipulado;
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Inversión Pública a Largo Plazo, de conformidad con la ley de la materia.
+En los casos de Proyectos de Asociación Público Privada, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los proyectos, de conformidad con la ley de la materia.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -321,9 +321,9 @@ Los Ayuntamientos, con la autorización de la mayoría de sus integrantes, podr�
 
 Asimismo, podrán contratar créditos o empréstitos que comprometan al municipio por un plazo mayor al del período en funciones, siempre y cuando: el pago de la deuda contraída y sus intereses no exceda del período de las siguientes dos administraciones municipales; medie autorización de por lo menos las dos terceras partes de sus integrantes; el monto pendiente a cargo de las subsecuentes administraciones municipales, no exceda al 10% del presupuesto correspondiente al ejercicio fiscal inmediato anterior al que se hayan celebrado los contratos; y, los recursos que se obtengan se destinen a infraestructura del municipio.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
-Así mismo, con la aprobación de las dos terceras partes, podrán contraer obligaciones plurianuales derivado de la celebración de contratos de proyectos de inversión pública a largo plazo.
+Así mismo, con la aprobación de las dos terceras partes, podrán contraer obligaciones plurianuales derivado de la celebración de contratos de proyectos de Asociación Público Privada.
 
 Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este artículo, durante los últimos seis meses de la administración municipal en funciones, ni deberán otorgar autorización para que con dichos recursos se cubran adeudos pendientes o para sufragar su gasto corriente.
 
@@ -457,11 +457,13 @@ Cada una de las entidades a que se refiere el artículo 2o. de esta Ley, deberá
 
 Asimismo, la Secretaría de Hacienda deberá llevar un registro central de deuda pública estatal.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 37.
 
-A fin de poder controlar la aplicación de los recursos provenientes de las operaciones de crédito público de las entidades mencionadas, el Congreso del Estado, por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda pública, tanto estatal como municipal, así como de los contratos derivados de los proyectos de inversión pública a largo plazo y las obligaciones plurianuales que se deriven de los mismos.
+A fin de poder controlar la aplicación de los recursos provenientes de las operaciones de crédito público de las entidades mencionadas, el Congreso de (sic) Estado, por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda pública, tanto estatal como municipal, así como de los contratos derivados de los proyectos de Asociación Público Privada y las obligaciones plurianuales que se deriven de los mismos.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 Por lo anterior, las entidades están obligadas a brindarle los informes que solicite.
 
@@ -622,3 +624,11 @@ P.O. 24 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLYC/0073/2018 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL, LEY DE DEUDA PÚBLICA Y SUS MUNICIPIOS, LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
