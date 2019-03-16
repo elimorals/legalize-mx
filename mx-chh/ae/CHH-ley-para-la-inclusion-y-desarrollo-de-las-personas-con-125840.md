@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2018-09-26"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -945,6 +945,10 @@ El Consejo y el Mecanismo, habrán de instalarse en un plazo máximo de 90 días
 
 El reglamento de esta Ley, deberá expedirse en un plazo máximo de 180 días naturales, a partir de la entrada en vigor del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+
+El reglamento estatal que contenga los lineamientos en materia de accesibilidad y diseño universal a que se refiere el artículo 13, fracción VI de la presente Ley, deberá expedirse antes del día 30 de marzo del año 2019.
+
 ###### ARTÍCULO QUINTO.
 
 Aquellas modificaciones legislativas que sean necesarias para la debida armonización de la presente Ley con la legislación del Estado, deberán realizarse en un plazo máximo de 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
@@ -976,3 +980,11 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0839/2018 XIV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 3, FRACCIÓN XVIII; Y SE ADICIONA AL ARTÍCULO 19, LA FRACCIÓN XIV, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0298/2019 I P.E., MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
