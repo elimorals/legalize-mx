@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2018-09-28"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COL"
 ---
 # LEY DE PENSIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2019 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO ARTICULO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA 1 DE ENERO DE 2019.]</small>
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MARZO DE 2019.]</small>
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -59,7 +59,9 @@ LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
 Ley reglamentaria
 
-1. La presente Ley es reglamentaria del artículo 34 fracción XIV de la Constitución Política del Estado Libre y Soberano de Colima reordenada y consolidada, de aplicación general y obligatoria en el Estado de Colima en la forma y términos que la misma establece; y sus disposiciones son de orden público y de interés social.
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2019)</small>
+
+1. La presente Ley es reglamentaria del artículo 33 fracción XIV de la Constitución Política del Estado Libre y Soberano de Colima reordenada y consolidada, de aplicación general y obligatoria en el Estado de Colima en la forma y términos que la misma establece; y sus disposiciones son de orden público y de interés social.
 
 ###### Artículo 2.
 
@@ -951,7 +953,9 @@ Entero de las cuotas y aportaciones a la Cuenta Institucional
 
 Prohibición de devolver aportaciones y salvedad a la regla
 
-1. Las aportaciones no serán materia de devolución, con las salvedades previstas en esta Ley. Las cuotas podrán ser devueltas, mantenerlas en el Instituto o ser transferidas a otra institución de seguridad social en los términos del artículo 129 de esta Ley.
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2019)</small>
+
+1. Las aportaciones no serán materia de devolución, con las salvedades previstas en esta Ley. Las cuotas podrán ser devueltas, mantenerlas en el Instituto o ser transferidas a otra institución de seguridad social en los términos del artículo 128 de esta Ley.
 
 ###### Artículo 64.
 
