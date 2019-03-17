@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2018-06-21"
+last_updated: "2019-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -697,21 +697,27 @@ El Presidente de la Mesa Directiva, en las sesiones de apertura de los periodos 
 
 La apertura de cualquier periodo de sesiones deberá constar en el decreto que al efecto se expida y será comunicado a las demás Legislaturas de las Entidades Federativas, a los Poderes Ejecutivo y Judicial del Estado y a los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2019)</small>
+
 ###### Artículo 65.
 
-Las proposiciones de punto de acuerdo serán turnadas a la Comisión o Comisiones competentes para que se forme el dictamen que corresponda y se someta a consideración del Pleno.
+Los puntos de acuerdo serán discutidos y votados en la sesión en que se presenten.
 
 Los asuntos generales serán registrados conforme al procedimiento que esta Ley considera para el registro de iniciativas.
 
-Las iniciativas, proposiciones de acuerdo y los asuntos generales serán hechos del conocimiento de los integrantes de la Legislatura, por conducto de las formas de organización partidista, en los términos que previene esta Ley.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
 
-Para que una proposición de Punto de Acuerdo sea votada en la misma sesión en que se presenta, se requiere que sea considerada como de urgente y obvia resolución y:
+Las iniciativas, puntos de acuerdo y los asuntos generales serán hechos del conocimiento de los integrantes de la Legislatura, por conducto de las formas de organización partidista, en los términos que previene esta Ley.
 
-a).- En la solicitud de inscripción se indique que se trata de un asunto de la naturaleza citada, y
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE MARZO DE 2019)</small>
 
-b).- El Congreso del Estado la califique de urgente y obvia resolución con el voto de las dos terceras partes de sus miembros presentes.
+a).- (DEROGADO, P.O. 17 DE MARZO DE 2019)
 
-El Presidente iniciará el desarrollo de los puntos relativos a proposiciones de acuerdo considerados de urgente y obvia resolución, los de otra naturaleza y asuntos generales haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra
+b).- (DEROGADO, P.O. 17 DE MARZO DE 2019)
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
+
+El Presidente iniciará el desarrollo del desahogo de los puntos de acuerdo y asuntos generales haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra.
 
 Para participar en asuntos generales, los Diputados deberán atender al acuerdo parlamentario que al efecto se apruebe, indicando el tema a tratar, en términos de lo acordado por el acuerdo referido.
 
@@ -723,7 +729,7 @@ Si algún diputado determina no hacer uso de la palabra cuando corresponda su tu
 
 Para clausurar un periodo ordinario o extraordinario de sesiones, el Presidente de la Mesa Directiva, solicitará a los asistentes al recinto, la más rigurosa solemnidad y hará la siguiente declaratoria:
 
-Hoy día __________ de ________ del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura su (según corresponda) su (numero) periodo (ordinario o extraordinario) correspondiente al (número) año de ejercicio Constitucional”
+Hoy día __________ de ________ del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura su (según corresponda) su (numero) periodo (ordinario o extraordinario) correspondiente al (número) año de ejercicio Constitucional"
 
 ### CAPÍTULO V. DEL PALACIO LEGISLATIVO, DEL SALÓN DE SESIONES Y DEL CEREMONIAL
 
@@ -2865,7 +2871,7 @@ SÉPTIMO.- La Junta de Gobierno y Coordinación Política a la que se refiere la
 
 OCTAVO.- El ciudadano Oficial Mayor en funciones asumirá el carácter de Secretario General del Congreso del Estado, con todas (sic) los derechos, obligaciones y competencias que a dicho cargo concede la presente Ley.
 
-NÓVENO.- El titular del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica en funciones, asumirá el carácter de Director del Centro de Investigaciones y Estudios Legislativos del Congreso del Estado, con las atribuciones, obligaciones y competencias establecidas en la presente Ley.
+NOVENO.- El titular del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica en funciones, asumirá el carácter de Director del Centro de Investigaciones y Estudios Legislativos del Congreso del Estado, con las atribuciones, obligaciones y competencias establecidas en la presente Ley.
 
 DÉCIMO.- El Director de Proceso Legislativo en funciones, asumirá el carácter de Secretario de Servicios Parlamentarios del Congreso del Estado
 
@@ -2909,8 +2915,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 
 P.O. 21 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 404.- QUE CONTIENE REFORMAS A DIVERSAS DISPOSICIONES A LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 404.- QUE CONTIENE REFORMAS A DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las Comisiones Legislativas Dictaminadoras de Protección Civil y Administración y Cuidado del Agua deberán instalarse conforme lo dispuesto en esta Ley a partir del ejercicio de la LXVIII Legislatura del H. Congreso del Estado de Durango.
+
+P.O. 17 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 79.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los puntos de acuerdo turnados a las comisiones legislativas hasta la entrada en vigor del presente decreto, se tienen por desestimados y la Secretaría de Servicios Parlamentarios del H. Congreso del Estado actualizara los registros correspondientes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
