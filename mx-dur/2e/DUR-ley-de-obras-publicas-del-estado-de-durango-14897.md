@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "2018-06-24"
+last_updated: "2019-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE OBRAS PUBLICAS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 4 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -138,6 +140,16 @@ Quedan sujetos a las disposiciones de esta ley, la obra pública y los servicios
 ###### ARTÍCULO 7.
 
 El gasto de la obra pública se sujetará, en su caso, en lo previsto en el presupuesto de egresos del Estado y los presupuestos de egresos de los municipios, en las disposiciones normativas que regulen el ejercicio y control del gasto público, a los preceptos de esta ley y a los convenios, acuerdos y contratos que celebren la federación, el Estado y los municipios.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+
+ARTÍCULO 7 BIS.- En las placas inaugurales, conmemorativas o de identificación de las obras públicas y los servicios relacionados con las mismas, que realicen las dependencias estatales, los Poderes Legislativo, Judicial, los Ayuntamientos, los organismos constitucionales autónomos del Estado, las dependencias municipales, los organismos descentralizados o las empresas de participación estatal, no deberán consignarse los nombres del Gobernador del Estado, Presidentes Municipales, ni de los funcionarios públicos, durante el tiempo de su encargo, ni el de sus cónyuges o parientes hasta el segundo grado.
+
+En dichas placas, deberá asentarse únicamente que las obras públicas y los servicios relacionados con las mismas fueron realizados por la instancia correspondiente, con el esfuerzo del pueblo, y que se entregan para beneficio de éste.
+
+Tampoco podrán emplearse signos, eslogan, emblemas y colores alusivos a los partidos políticos o característicos de la administración en turno en las obras realizadas.
+
+Es obligación de los funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios así como la legislación de responsabilidades administrativas aplicable.
 
 ###### ARTÍCULO 8.
 
@@ -1286,3 +1298,11 @@ P.O. 24 DE JUNIO DE 2018.
 PRIMERO.- Las reformas a éstas Leyes entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+
+P.O. 17 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 73.- QUE CONTIENE ADICIÓN AL ARTÍCULO 7 BIS A LA LEY DE OBRAS PÚBLICAS PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
