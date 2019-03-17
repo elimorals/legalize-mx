@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-51620"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-13"
-last_updated: "2017-04-06"
+last_updated: "2019-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de agosto de 2006.
 
@@ -35,7 +35,7 @@ Con fecha 20 de mayo del presente año, el C. C.P. Ismael Alfredo Hernández Der
 
 CONSIDERANDOS
 
-.
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXII Legislatura del Estado, expide el siguiente:
 
@@ -1671,9 +1671,7 @@ Quien haga aparecer como nacido en el Estado de Durango o en la zona de baja pre
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 192.
-
-BIS. Toda persona que movilice o introduzca al Estado o zona de baja prevalencia, ganado enfermo o portador de plagas, o sin observar los procedimientos sanitarios previstos y ponga en riesgo el estatus sanitario y la economía pecuaria del Estado, será excluida de los programas de apoyo gubernamentales por un periodo de cinco a diez años, sin perjuicio de las penas y sanciones a que se haga acreedor.
+ARTÍCULO 192 BIS. Toda persona que movilice o introduzca al Estado o zona de baja prevalencia, ganado enfermo o portador de plagas, o sin observar los procedimientos sanitarios previstos y ponga en riesgo el estatus sanitario y la economía pecuaria del Estado, será excluida de los programas de apoyo gubernamentales por un periodo de cinco a diez años, sin perjuicio de las penas y sanciones a que se haga acreedor.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS CAMPAÑAS EN MATERIA DE SANIDAD PECUARIA
 
@@ -2261,6 +2259,14 @@ En caso de que en las granjas, o cualquier otro establecimiento de explotación 
 
 La Secretaría proporcionará asistencia técnica a las personas que lo soliciten y deseen, dedicadas a la ovinocaprinocultura y contemplará dentro de sus programas acciones orientadas a fomentar estas actividades.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+
+La Secretaría atendiendo la demanda de la población rural, establecerá un programa de capacitación y asistencia técnica que impulse la ganadería de traspatio.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+
+Se entenderá como ganadería de traspatio, a la cría y manejo de animales, tanto nativos como criollos, en espacios conocidos como solares o huertos familiares, los cuales son áreas de cultivo, recreación, educación y experimentación aledaños a las viviendas; como pueden ser aves, equinos, vacunos, cerdos, caprinos, ovinos y bovinos.
+
 ### CAPÍTULO II. DE LA PROPIEDAD Y MOVILIZACIÓN DEL GANADO OVINO Y CAPRINO
 
 ###### ARTÍCULO 297.
@@ -2684,3 +2690,11 @@ SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado p
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 17 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 72.- QUE CONTIENE REFORMAS A LA LEY GANADERA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
