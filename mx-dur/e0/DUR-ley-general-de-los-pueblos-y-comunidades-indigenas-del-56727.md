@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-los-pueblos-y-comunidades-indigenas-del-56727"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-22"
-last_updated: "2017-03-19"
+last_updated: "2019-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de julio de 2007.
 
@@ -249,6 +249,14 @@ V. Asegurar que la población escolar en los municipios con habitantes mayoritar
 
 VI. Promover en los diferentes medios de comunicación de la entidad, campañas sobre la protección, desarrollo, enriquecimiento y uso de las lenguas indígenas que se hablan en el Estado.
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
+
+VII. Proporcionar de manera gratuita a los (sic) personas que pertenezcan a alguna cultura o comunidad indígena y hablen una lengua diferente al español los traductores e intérpretes necesarios para el desahogo de sus trámites y servicios que realicen en las dependencias del Estado, así como en sus órganos descentralizados, desconcentrados y autónomos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 17 DE MARZO DE 2019]</small>
+
+Para atender lo señalado en el párrafo anterior las dependencias del Estado, así como en sus órganos descentralizados, desconcentrados y autónomos recurrirán al Padrón Nacional de Intérpretes y Traductores en Lenguas Indígenas del Instituto Nacional de Lenguas Indígenas.
+
 ###### ARTÍCULO 30.
 
 Corresponde de manera exclusiva a los municipios que cuenten con habitantes indígenas:
@@ -265,6 +273,14 @@ V. Promover y difundir en sus respectivas casas de cultura, los documentos más 
 
 VI. Registrar y actualizar las toponimias de las comunidades y ejidos del municipio y señalizar las áreas públicas, de acuerdo a las normas ortográficas de la lengua indígena de los habitantes de dicho espacio territorial.
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
+
+VII.- Proporcionar de manera gratuita a los (sic) personas que pertenezcan a alguna cultura o comunidad indígena y hablen una lengua diferente al español los traductores e intérpretes necesarios para el desahogo de sus trámites y servicios que realicen en las dependencias del del (sic) Municipio, así como en sus órganos descentralizados, desconcentrados y autónomos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 17 DE MARZO DE 2019]</small>
+
+Para atender lo señalado en el párrafo anterior las dependencias del Municipio, así como en sus órganos descentralizados, desconcentrados y autónomos recurrirán al Padrón Nacional de Intérpretes y Traductores en Lenguas Indígenas del Instituto Nacional de Lenguas Indígenas.
+
 ###### ARTÍCULO 31.
 
 Los indígenas tienen derecho al uso y respeto de sus nombres y apellidos en los términos de la escritura y pronunciación de la lengua que hablen; de la misma manera, se preservará, pronunciará y escribirá la toponimia de sus asentamientos.
@@ -277,7 +293,9 @@ Los indígenas tienen derecho al uso y respeto de sus nombres y apellidos en los
 
 El Estado pondrá a disposición de los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental.
 
-La Secretaría de Salud y los Servicios Coordinados de Salud del Estado, instrumentarán las medidas necesarias para que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
+
+La Secretaría de Salud y los Servicios Coordinados de Salud del Estado, instrumentarán las medidas necesarias para que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten. En los hospitales generales, de especialidades y de tercer nivel se procurará contar con el servicio de traductores de lenguas indígenas certificados, el cual deberá pertenecer al Padrón Nacional de Intérpretes y Traductores en Lenguas Indígenas del Instituto Nacional de Lenguas Indígenas.
 
 El sistema de asistencia sanitaria deberá dar preferencia a la formación y al empleo de personal sanitario de la comunidad indígena, debiendo centrarse en los cuidados primarios de salud.
 
@@ -804,3 +822,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 17 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 70 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
