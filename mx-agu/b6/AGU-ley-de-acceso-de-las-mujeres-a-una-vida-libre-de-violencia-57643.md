@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2018-07-09"
+last_updated: "2019-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -69,13 +69,21 @@ VI. Asegurar la concurrencia, alineación y optimización de recursos e instrume
 
 VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres; y
+VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia.
+IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+
+X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+
+XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley.
 
 ###### Artículo 3°.
 
@@ -1472,3 +1480,11 @@ P.O. 9 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 117.- SE REFORMA EL ARTÍCULO 2° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
