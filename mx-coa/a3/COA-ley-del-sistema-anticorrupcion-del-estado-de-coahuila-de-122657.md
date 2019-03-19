@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2017-07-14"
+last_updated: "2019-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -493,9 +493,13 @@ I. Ser ciudadano mexicano, residente del estado y estar en pleno goce y ejercici
 
 II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación de políticas públicas, fiscalización, rendición de cuentas o combate a la corrupción;
 
-III. Tener más de treinta años de edad, al día de la designación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
-IV. Poseer al día de la designación, una antigüedad mínima de cinco años, título profesional de licenciatura y contar con los conocimientos y experiencia relacionadas (sic) con la materia de esta ley que le permitan el desempeño de sus funciones;
+III. Tener más de treinta y cinco años de edad, al día de la designación;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+IV. Poseer al día de la designación, una antigüedad mínima de diez años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas (sic) con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito;
 
@@ -694,3 +698,11 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 214.- SE REFORMAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 34, DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
