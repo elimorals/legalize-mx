@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2018-11-27"
+last_updated: "2019-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -227,7 +227,9 @@ I. Elegir y ser electos para integrar la Mesa Directiva del Pleno y la Diputaci�
 
 II. Ser integrantes de cuando menos una comisión o comité, pudiendo formar parte de más, sin que esta participación pueda exceder de cinco casos entre comisiones permanentes y comités;
 
-Excepcionalmente, podrán formar parte de más comisiones o comités de los señalados en el párrafo anterior, cuando así lo acuerde la Junta de Gobierno, tomando en consideración la proporcionalidad del número de integrantes de los grupos parlamentarios y partidos políticos representados en el Congreso;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
+Excepcionalmente, podrán formar parte de más comisiones o comités de los señalados en el párrafo anterior, cuando así lo acuerde la Junta de Gobierno, tomando en consideración la proporcionalidad del número de integrantes de los grupos parlamentarios y partidos políticos representados en el Congreso, procurando en todo momento observar el principio de paridad de género.
 
 También podrán asistir con voz pero sin voto a las sesiones de las comisiones o comités de las que no formen parte.
 
@@ -959,7 +961,13 @@ III. Los demás que se deriven de esta Ley y de los ordenamientos jurídicos rel
 
 Para estudiar y dictaminar los asuntos que son competencia del Congreso, habrá comisiones dictaminadoras permanentes y especiales. Las comisiones permanentes consideradas por la presente ley, se elegirán durante el desarrollo del período de instalación de la legislatura, mediante escrutinio secreto, por medio de cédulas o sistema electrónico y por mayoría de votos.
 
-Las Comisiones Permanentes, se integrarán en lo general con un máximo de siete diputados y diputadas; y, excepcionalmente, podrán integrarse con nueve, en aquellos casos en que a propuesta de la Junta de Gobierno lo apruebe el Pleno del Congreso y siempre y cuando se observe lo dispuesto en el artículo 21, fracción II, de esta ley, con relación al número de comisiones de las que pueden formar parte los diputados.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
+Las Comisiones Permanentes, se integrarán en lo general con un máximo de siete diputados y diputadas; y, excepcionalmente, podrán integrarse con nueve, en aquellos casos en que a propuesta de la Junta de Gobierno lo apruebe el Pleno del Congreso y siempre y cuando se observe lo dispuesto en el artículo 21, fracción II, de esta ley, con relación al número de comisiones de las que pueden formar parte los diputados y diputadas, procurando en todo momento observar el principio de paridad de género en la conformación del número de sus integrantes, hasta donde sea posible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 19 DE MARZO DE 2019)</small>
+
+Todos aquellos asuntos que sean turnados a las comisiones, serán analizados, estudiados y dictaminados con perspectiva de género.
 
 ###### ARTÍCULO 83.
 
@@ -1015,7 +1023,9 @@ VII. De Desarrollo Económico, Competitividad y Turismo;
 
 VIIII (SIC). De Desarrollo Social;
 
-IX. De Educación, Cultura y Actividades Cívicas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+IX. De Educación, Cultura, Familias y Actividades Cívicas;
 
 X. De Desarrollo Rural;
 
@@ -1227,9 +1237,11 @@ VII. Planes de conurbación; y
 
 VIII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 97.
 
-La Comisión de Educación, Cultura y Actividades Cívicas conocerá de los asuntos relacionados con:
+La Comisión de Educación, Cultura, Familias y Actividades Cívicas conocerá de los asuntos relacionados con:
 
 I. Materia de educación y recreación;
 
@@ -1241,11 +1253,17 @@ IV. Universidades e instituciones de educación superior en el Estado, mantenien
 
 V. Protección, preservación y difusión de los fósiles y vestigios paleontológicos existentes en la entidad;
 
-VI. Programas culturales, cívicos y artísticos;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
-VII. Creación de organismos e instituciones dedicados a las actividades culturales y artísticas;
+VI. Acciones para el fortalecimiento del núcleo familiar;
 
-VIII. Promoción, preservación, rescate y fomento de las actividades artesanales;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+VII. Fomentar la comunicación entre los miembros de las familias;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+VIII. Concientizar a los integrantes de las familias sobre la importancia de los valores;
 
 IX. Reconocimientos, premios, estímulos y recompensas al mérito ciudadano;
 
@@ -1691,7 +1709,9 @@ En caso de vacantes en las comisiones permanentes o especiales, la o el Presiden
 
 Los Comités son órganos del Congreso del Estado que se constituyen por disposición del Pleno, para realizar tareas diferentes a las de las comisiones. Tendrán la duración y funciones que señale el acuerdo de su creación.
 
-Se integrarán por cinco Diputadas o Diputados designados por el Pleno a propuesta de la Junta de Gobierno, de los cuales uno será la o el Presidente, otro será la o el Secretario y los tres restantes tendrán el carácter de vocales. Las o los vocales podrán suplir en sus faltas temporales a la o el Presidente y a la o el Secretario, atendiendo al orden de su vocalía.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
+Se integrarán por cinco Diputadas o Diputados, observando lo dispuesto en el artículo 21, fracción II, de esta ley, así como el principio de paridad de género en cuanto al número de sus integrantes, siendo designados por el Pleno a propuesta de la Junta de Gobierno, de los cuales uno será la o el Presidente, otro será la o el Secretario y los tres restantes tendrán el carácter de vocales. Las o los vocales podrán suplir en sus faltas temporales a la o el Presidente y a la o el Secretario, atendiendo al orden de su vocalía.
 
 Cada Comité podrá contar, a propuesta de la Junta de Gobierno, con el personal necesario para su buen desempeño.
 
@@ -2029,9 +2049,13 @@ Cuando se trate de hacer alguna modificación o reforma a la Constitución Polí
 
 I. Iniciativa suscrita por uno o varios diputados o diputadas o por la o el Gobernador;
 
-II. Dos lecturas a la Iniciativa con un intervalo de diez días, turnándose desde luego a comisión;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
-III. Dictamen de la comisión respectiva al que se darán dos lecturas con un intervalo de seis días;
+II. Lectura de la iniciativa, turnándose desde luego a comisión;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+III. Dictamen de la comisión respectiva;
 
 IV. Discusión del dictamen y aprobación de cuando menos las dos terceras partes de las y los diputados presentes;
 
@@ -2049,31 +2073,13 @@ Para cumplir con lo que se previene en la fracción VI del artículo que precede
 
 Una vez que se reciba el voto favorable de la mayoría absoluta de los municipios o transcurridos los treinta días sin recibir respuesta, se podrá proceder a la formulación y presentación del dictamen a que se refiere la fracción VII del artículo anterior.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 161.
-
-Cuando se trate de una iniciativa de ley o decreto en materia municipal a las que se refiere la fracción IX del Artículo 67 de la Constitución del Estado, quien Presida la Mesa Directiva del Congreso o la Diputación Permanente, inmediatamente que se reciba dispondrá su envío al Ayuntamiento o Ayuntamientos respectivos para oír su opinión, que deberán emitir y entregar al Congreso del Estado dentro de los siete días naturales siguientes a la fecha en que la reciban, sin perjuicio de realizar el turno que corresponda. Vencido el plazo señalado, con o sin opinión de los Ayuntamientos, se continuará con el trámite legislativo.
-
-En este caso, el envío será a todos los Ayuntamientos cuando se trate de una ley o decreto que tenga aplicación en todos los municipios, pero cuando se trate de una ley o decreto que sólo tenga aplicación en algún o algunos municipios, el envío únicamente se realizará al Ayuntamiento o Ayuntamientos involucrados. Será innecesario el envío de la ley o decreto al Ayuntamiento que inició el proceso legislativo.
-
-Cuando esté en funciones la Diputación Permanente, se determinará lo que se considere procedente y, en su caso, podrá convocar a un periodo extraordinario de sesiones para que se resuelva sobre estas iniciativas.
 
 Cuando un Ayuntamiento presente una ley o decreto en materia municipal, el Congreso del Estado podrá pedir la opinión del Ejecutivo del Estado, antes de hacer dictamen.
 
 Las normas fiscales o presupuestales que deban ser aprobadas para el ejercicio fiscal del año siguiente no estarán sujetas al trámite previsto en este artículo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
-
-El objeto de las leyes o decretos a que se refiere el primer párrafo de este Artículo, será lo relacionado con:
-
-a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de imparcialidad, igualdad, publicidad, inmediatez, gratuidad, audiencia y legalidad;
-
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
-
-c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, como el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política local;
-
-d) El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
-
-e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3278,3 +3284,27 @@ P.O. 27 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el día 01 de marzo de 2019.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 217.- SE MODIFICA EL CONTENIDO DE LOS ARTÍCULOS 159, FRACCIONES II Y III Y 161 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 218.- SE REFORMAN LOS ARTÍCULOS 21 FRACCIÓN II; 82; 88 FRACCIÓN IX; 97 FRACCIONES VI, VII, VIII Y 132 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
