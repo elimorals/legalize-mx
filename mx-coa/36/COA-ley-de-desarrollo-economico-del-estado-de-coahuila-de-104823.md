@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2017-12-26"
+last_updated: "2019-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -191,9 +191,11 @@ VII. Las demás acciones que, en los términos de la presente Ley, se consideren
 
 ### CAPÍTULO IV. LOS ESTÍMULOS E INCENTIVOS
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 9.
 
-Es facultad indelegable del Gobernador del Estado otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones al Estado, propuestos por la Secretaría y que sean votados por el gabinete, constituido en Consejo de Estado en los términos de los artículo 9 apartado A, fracción XXI y 15 fracción V de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
+Es facultad indelegable del Gobernador del Estado otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones al Estado, propuestos por la Secretaría y que sean aprobados por el gabinete legal, constituido en Consejo de Estado conforme a lo que establece la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 10.
 
@@ -437,29 +439,39 @@ La lista de las empresas a las cuales se les haya otorgado el Certificado, será
 
 ### CAPÍTULO VII. DE LOS CONSEJOS REGIONALES DE DESARROLLO ECONÓMICO
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 31.
 
-Por disposición de la presente Ley se crean los Consejos Regionales de Desarrollo Económico, como instancias de coordinación y cooperación para la competitividad, planeación, vinculación y otorgamiento de incentivos y estímulos con los sectores productivos del Estado.
+Por disposición de la presente Ley se crean los Consejos Regionales de Desarrollo Económico, como instancias de coordinación y cooperación con el objeto de impulsar acciones en materia de desarrollo económico, promoción de inversiones, generación de empleos, competitividad y vinculación con los sectores productivo y académico de cada una de las regiones del Estado.
 
 ###### Artículo 32.
 
 Los Consejos Regionales funcionarán en las cinco regiones geográficas del Estado, Carbonífera, Centro – Desierto, Laguna, Norte y Sureste, como órganos técnicos y de consulta encargados de estudiar, analizar y proponer alternativas productivas de los municipios que integran cada una de las regiones.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 33.
 
 Los Consejos Regionales estarán integrados por:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Una Presidencia a cargo de la persona titular de la Secretaría de Economía;
 
-I. Una Presidencia a cargo de la o el titular de la Secretaría de Economía y Turismo.
+II. Una Secretaría Técnica cuyo titular será designado por la Presidencia;
 
-II. Una Secretaría Técnica, cuyo titular será designado por la Presidencia; y
+III. La persona titular de la presidencia municipal de cada uno de los municipios de la región;
 
-III. El Presidente Municipal de cada uno de los municipios de la región.
+IV. Tres miembros del sector privado de cada una de las regiones;
 
-Los Consejos Regionales, funcionarán en los mismos términos previstos para el Consejo.
+V. Un representante de una universidad pública, un representante de una universidad privada de cada una de las regiones del estado;
 
-Cuando el Presidente lo considere conveniente, podrá invitar a la sesión, a las personas para el logro de los objetivos de la misma, las cuales tendrán derecho a voz, pero no a emitir voto
+VI. Un representante de un centro de educación tecnológica estatal y un representante de un centro de educación tecnológica federal de cada una de las regiones; y
+
+VII. Un representante del Congreso del Estado que será alguno de los integrantes de la Comisión de Desarrollo Económico, Competitividad y Turismo.
+
+Los miembros y representantes señalados en las fracciones IV, V y VI de este artículo, serán invitados por la persona titular de la presidencia del Consejo, quienes en caso de aceptar la participación, serán nombrados como integrantes del Consejo Regional de Desarrollo Económico que corresponda. El cargo de Consejero será honorífico.
+
+Los Consejos Regionales podrán invitar a sus sesiones a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias relacionados con la naturaleza de los asuntos a tratar, quienes tendrán derecho a voz, pero no a voto.
 
 ###### Artículo 34.
 
@@ -475,25 +487,29 @@ La o el titular de la Secretaría Técnica será el responsable de llevar a cabo
 
 Los cargos a los que se refiere el presente capítulo, serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 35.
 
-Los Consejos Regionales deberán mantener la confidencialidad de los datos que proporcionen las autoridades, organismos descentralizados y las empresas que deseen establecerse en el Estado y hacerse merecedoras de los estímulos e incentivos contemplados en la Ley.
+Los Consejos Regionales deberán mantener la confidencialidad de los datos que les proporcionen las autoridades y organismos públicos descentralizados, de las empresas que deseen establecerse en el Estado.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
 
 ###### Artículo 36.
 
-Son atribuciones de los Consejos Regionales de Desarrollo Económico:
+Los Consejos Regionales de Desarrollo tendrán las siguientes atribuciones:
 
-I. Definir estrategias en competitividad y planeación para su desarrollo integral, en coordinación con la Secretaría;
+I. Proponer, en el ámbito de su competencia, estrategias en materia de desarrollo económico, competitividad y vinculación para el desarrollo integral de cada una de las regiones, en coordinación con la Secretaría;
 
-II. Establecer mecanismos de cooperación con la Secretaría para la atracción de inversiones, mediante la definición de incentivos que coadyuven a su desarrollo económico;
+II. Establecer mecanismos de cooperación con la Secretaría para la atracción de inversiones;
 
-III. En el ámbito de su competencia, analizar el marco normativo relativo al otorgamiento de estímulos o incentivos para proponer las reformas que se requieran para conseguir una armonización legal;
+III. Analizar, en el ámbito de su competencia, el marco normativo relativo a la materia de desarrollo económico, para proponer las reformas que se estimen necesarias;
 
-IV. Coordinar con la Secretaría, en el ámbito de su competencia, las acciones que se deban de implementar para el cumplimiento del Plan Estatal de Desarrollo, en materia de desarrollo económico;
+IV. Coordinar con la Secretaría, en el ámbito de su competencia, las acciones que deban implementarse para el cumplimiento del Plan Estatal de Desarrollo, en materia de desarrollo económico;
 
-V. Llevar a cabo, en el ámbito de su competencia acciones en materia de competitividad, planeación, mejora regulatoria y simplificación administrativa, para la homologación de trámites y reducción de requisitos y plazos que faciliten y agilicen el establecimiento y operación de industrias, comercios y empresas de servicios; y
+V. Proponer, en el ámbito de su competencia, estrategias en materia de mejora regulatoria y simplificación administrativa, para la homologación de trámites y reducción de requisitos y plazos que faciliten y agilicen el establecimiento y operación de industrias, comercios y empresas de servicios; y
 
-VI. Las demás que se establezcan en esta o en otras disposiciones aplicables.
+VI. Las demás que se establezcan en esta u otras disposiciones aplicables.
 
 ### CAPÍTULO VIII. FONDOS DE INVERSIÓN
 
@@ -539,11 +555,17 @@ VI. Omitir la presentación del informe de cambio o variación de su calidad de 
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas en los siguientes términos:
 
-I. Hasta con 1,000 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en las fracciones I, III, IV y VI;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
-II. Hasta con 500 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en la fracción II; y
+I. Hasta con 1,000 veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en las fracciones I, III, IV y VI;
 
-III. Hasta con 250 unidades de salario mínimo diario vigente en el Estado, en el caso de lo previsto en la fracción V.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+II. Hasta con 500 veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en la fracción II; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+
+III. Hasta con 250 veces el valor diario de la Unidad de Medida y Actualización, en el caso de lo previsto en la fracción V.
 
 Independientemente de las sanciones administrativas establecidas en el párrafo anterior, la Secretaría de Finanzas a petición de la Secretaría, podrá suspender o cancelar los estímulos o incentivos otorgados al infractor.
 
@@ -722,3 +744,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 215.- SE REFORMAN LOS ARTÍCULOS 9, 31, 33, 35, 36 Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 39 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Consejos Regionales deberán ser instalados dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
