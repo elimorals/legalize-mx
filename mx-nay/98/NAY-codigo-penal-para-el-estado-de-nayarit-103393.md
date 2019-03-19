@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2018-12-21"
+last_updated: "2019-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -1797,15 +1797,47 @@ Cuando de común acuerdo violaren las partes interesadas en un negocio civil los
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres a siete años de prisión, además de las sanciones que le corresponda por el delito o los delitos cometidos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 216.
 
-Se impondrá una pena de dos a diez años de prisión y multa de doscientos a cuatrocientos días, a quien aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores de seguridad pública y de persecución del delito, con la finalidad de proporcionarla a terceras personas para facilitarles la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
+Comete el delito contra la seguridad pública y se le impondrán de tres a siete años de prisión y multa de doscientos a cuatrocientos días a quien incurra en cualquiera de las conductas siguientes:
 
-Además de las sanciones previstas en el párrafo anterior, se impondrá hasta una mitad más de la pena de prisión que le corresponda, al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
+I. Utilice instrumentos punzocortantes, punzo contundentes, contuso cortantes, contuso contundentes, que por su resistencia o su fuerza, dañe o impida el paso de vehículos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial;
 
-Sin perjuicio de lo anterior, las penas señaladas en este artículo, se aumentarán hasta en una mitad más de la que corresponda por el delito cometido, cuando para su perpetración se utilicen uno o más menores de edad.
+II. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, equipos de comunicación de cualquier tipo;
+
+III. Posea, porte o utilice equipos o artefactos que permitan la intervención, escucha o transmisión de datos para prácticas de espionaje, con respecto a canales de comunicaciones oficiales o privadas, estos últimos cuando sean utilizados para funciones de seguridad pública;
+
+IV. Permita o consienta la instalación de antenas o cualquier instrumento de comunicación en bienes de su propiedad o posesión, con los cuales se intercepte o transmita la señal o las comunicaciones para el espionaje o halconeo;
+
+V. Posea, porte o utilice para el espionaje, en su persona, domicilio o en el lugar donde se le aprehenda, uniformes, prendas de vestir, insignias, distintivos o equipos correspondientes o similares a los utilizados por cualquiera de las instituciones o corporaciones policiales municipales, estatales, federales o de las fuerzas armadas mexicanas, o que simulen la apariencia de los utilizados por éstas;
+
+VI. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, escritos o mensajes producidos por cualquier medio, que tengan relación con alguna pandilla o miembros de la delincuencia organizada, de algún grupo o actividades delictivas; así como de las actividades de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+
+VII. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, accesorios u objetos que se utilizan en los vehículos oficiales de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+
+VIII. Detente, posea, conduzca o custodie un vehículo que simule ser de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas para el espionaje, se le incrementará hasta la mitad de la sanción, prevista en este artículo, y
+
+IX. Dañe, altere o impida el funcionamiento o monitoreo de cámaras de vigilancia en la vía pública, establecimientos o edificios públicos, instaladas para ser utilizadas por las instituciones de seguridad pública o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial.
+
+Las mismas penas se impondrán a los participantes que se vean involucrados en la ejecución de alguno de los supuestos descritos en las fracciones del párrafo anterior.
+
+La pena se incrementará hasta la mitad cuando se empleen menores de edad, personas con discapacidad o de la tercera edad para la comisión de este delito.
+
+Para los fines de este artículo se entenderá por:
+
+I. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial.
+
+II. Espionaje: Intervenir comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, para obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2019)</small>
+
+ARTÍCULO 216 BIS.- Se incrementará hasta una mitad más de la pena de prisión que le corresponda, al que realice la conducta descrita en el artículo anterior utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
+
+De igual manera, se incrementará hasta el doble de la sanción prevista en el artículo 216, a quien siendo elemento de los cuerpos de seguridad pública municipales, estatales, federales, de las fuerzas armadas mexicanas, de seguridad privada o de traslado de valores, porte o utilice teléfonos móviles, radiofrecuencias, radiotransmisiones o cualquier aparato de comunicación y filtre información relativa a las actividades de los cuerpos de seguridad pública municipales, estatales, federales o de las fuerzas armadas mexicanas para grupos delictivos, con la finalidad de favorecer la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
+
+Así también, se incrementará hasta el doble de la sanción prevista en el artículo 216, a quienes hayan tenido el carácter de servidores públicos en materia de seguridad pública de los tres niveles de gobierno de los cuerpos de seguridad pública o de las fuerzas armadas mexicanas.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4336,3 +4368,9 @@ P.O. 21 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITOS CONTRA LA INTIMIDAD PERSONAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 216 Y ADICIONA EL ARTÍCULO 216 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
