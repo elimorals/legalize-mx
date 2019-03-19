@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2018-12-06"
+last_updated: "2019-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2015-08-17"
 ---
 # REGLAMENTO DE TRANSITO DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL --
 
-REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL
+REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2019.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -30,19 +30,25 @@ Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el
 
 MIGUEL ÁNGEL MANCERA ESPINOSA, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º, fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal; 12, 14 y 15 fracción I, IV, VIII, IX, X, 23, 26, 30 y 31 de la Ley Orgánica de la Administración Pública del Distrito Federal; y 68, 198, 251 y 252 de la Ley de Movilidad del Distrito Federal; artículo 2, fracción III de la Ley de Seguridad Pública del Distrito Federal, artículos 3°, 26 y 34 de la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE MARZO DE 2019)</small>
+
+REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DEL OBJETO Y CONCEPTOS GENERALES
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 1.
 
 El presente reglamento tiene por objeto regular la circulación de peatones y vehículos en la vía pública y la seguridad vial en la Ciudad de México.
 
-Las disposiciones de este reglamento son aplicables a peatones, conductores, pasajeros y propietarios de cualquier tipo de vehículo matriculado en el país o el extranjero y que circule en el territorio dela (sic) Ciudad de México. En el presente ordenamiento se establecen las normas respecto a sus movimientos y estacionamiento, en observancia a lo establecido en las leyes, reglamentos, acuerdos, decretos y normatividad local vigente, así como las maniobras de ascenso y descenso de pasajeros o de carga y descarga. De igual forma, determina las condiciones legales y de seguridad a las que se deben ajustar los vehículos y sus conductores para su circulación.
+Las disposiciones de este reglamento son aplicables a peatones, ciclistas, conductores, pasajeros y propietarios de cualquier tipo de vehículo matriculado en el país o el extranjero y que circule en el territorio de la Ciudad de México. En el presente ordenamiento se establecen las normas respecto a sus movimientos y estacionamiento, en observancia a lo establecido en las leyes, reglamentos, acuerdos, decretos y normatividad local vigente, así como las maniobras de ascenso y descenso de pasajeros o de carga y descarga. De igual forma, determina las condiciones legales y de seguridad a las que se deben ajustar los vehículos y sus conductores para su circulación, y establece los esquemas de sanciones por la comisión de infracciones a los preceptos contenidos en el presente reglamento.
 
-En todo lo no previsto en el presente ordenamiento, se aplicará de manera supletoria las disposiciones contenidas en la Ley de Movilidad del Distrito Federal, en la Ley de Cultura Cívica del Distrito Federal y en los programas ambientales y de seguridad vial.
+Corresponde a la Secretaría de Seguridad Ciudadana aplicar sanciones por infracciones a las disposiciones de este Reglamento. Corresponde a la Consejería Jurídica y de Servicios Legales, mediante la Dirección Ejecutiva de Justicia Cívica, supervisar el cumplimiento de los trabajos a favor de la comunidad.
+
+En todo lo no previsto en el presente ordenamiento se aplicará de manera supletoria las disposiciones contenidas en la Ley de Movilidad del Distrito Federal, en la Ley de Cultura Cívica de la Ciudad de México, Reglamento de la Ley de Cultura Cívica de la Ciudad de México, en los programas ambientales y de seguridad vial.
 
 ###### Artículo 2.
 
@@ -86,15 +92,25 @@ Además de lo que señala la Ley y sus reglamentos, para los efectos de este Reg
 
 I. Agente, elemento de la Policía del Distrito Federal con funciones para el control de tránsito;
 
-II. Amonestación verbal, acto por el cual el agente advierte a los peatones, conductores y pasajeros de un vehículo sobre el incumplimiento cometido a las disposiciones de este reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+II.- Amonestación, acto por el cual el agente advierte a los peatones, conductores y pasajeros de un vehículo sobre el incumplimiento cometido a las disposiciones de este reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares, puede realizarse de manera verbal o por escrito, mismo que será notificado en el domicilio del infractor que se encuentre registrado en los sistemas de la Secretaría;
 
 III. Área de espera para bicicletas y motocicletas, zona marcada sobre el pavimento en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
 
-IV. Ayudas técnicas, dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las Personas con Discapacidad.
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-V. Bicicleta, Vehículo no motorizado de propulsión humana a través de pedales;
+IV. Ayudas técnicas, dispositivos tecnológicos, materiales y/o motorizados que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad.
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+V. Bicicleta, Vehículo no motorizado de propulsión humana a través de pedales o de pedaleo asistido por motor eléctrico. No incluye a los vehículos que cuentan con un acelerador manual ni aquellas cuyo motor eléctrico continúe la aceleración después de alcanzar los 25 km/hr.
 
 VI. Boleta, documento en donde se hace constar la infracción y la sanción correspondiente;
+
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+VI Bis. Cajón de estacionamiento, espacio destinado y señalado en la vía pública para el estacionamiento temporal de vehículos;
 
 VII. Carril, espacio asignado para la circulación de vehículos, ubicado sobre la superficie de rodadura y delimitado por líneas continuas o discontinuas, el cual debe contar con el ancho suficiente para la circulación de vehículos en una fila;
 
@@ -102,7 +118,15 @@ VIII. Carril confinado, superficie de rodadura con dispositivos de delimitación
 
 IX. Ciclista, conductor de un vehículo de tracción humana a través de pedales; se considera también ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora; los menores de doce años a bordo de un vehículo no motorizado serán considerados peatones;
 
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+IX Bis. Cicloestación, Espacio exclusivo de estacionamiento para la prestación del servicio de un sistema de transporte individual en bicicleta pública con anclaje, que cuentan con dispositivos o infraestructura necesaria para dicho servicio.
+
 X. Circulación, desplazamiento por la vía pública de peatones, conductores y ocupantes de vehículos.
+
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+X Bis. Cochera, cajón de estacionamiento en el interior de un inmueble con capacidad para uno o más vehículos;
 
 XI. Conductor, toda persona que maneje un vehículo en cualquiera de sus modalidades;
 
@@ -110,7 +134,13 @@ XII. Cruce peatonal, área sobre el arroyo vehicular asignada para el tránsito 
 
 XIII. Dispositivos para el control del tránsito, conjunto de elementos que ordenan y orientan los movimientos de tránsito de personas y circulación de vehículos; que previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo peatonal y vehicular;
 
-XIV. Elemento de Seguridad Pública, miembro de la policía preventiva o complementaria;
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XIII Bis. Equipo Electrónico, Al conjunto de aparatos y dispositivos portátiles para el tratamiento de imagen e información para apoyar tareas de movilidad y seguridad vial;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XIV.- Elemento de Seguridad Ciudadana.- miembro de la policía preventiva o complementaria;
 
 XV. Espacios para servicios especiales, son todos aquellos sitios en la vía pública debidamente autorizados por la Secretaría, exclusivos para realizar maniobras de ascenso y descenso de pasajeros o para como áreas reservadas para personas con discapacidad, servicio de acomodadores, bicicletas y motocicletas, sitios y lanzaderas de transporte público, áreas para carga y descarga, transporte de valores, correos, mensajería, mensajería y paquetería, recolección de residuos sólidos, vehículos de emergencia, y los que se señalen por la Secretaria;
 
@@ -132,6 +162,10 @@ XXIII. Motociclista, persona que conduce una motocicleta;
 
 XXIV. Peatón, persona que transita por la vía a pie y/o que utiliza ayudas técnicas por su condición de discapacidad o movilidad limitada, así como en patines, patineta u otros vehículos recreativos; incluye a niños menores de doce años a bordo de un vehículo no motorizado;
 
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XXIV Bis.- Penalización por puntos a matrícula, procedimiento de asignación y contabilidad de puntos por sanciones derivadas de las infracciones registradas por los sistemas tecnológicos de la Ciudad de México, impuestos a las matrículas vehiculares.
+
 XXV. Personal de apoyo vial, elemento de la Secretaría responsable de brindar información vial, prestar apoyo a peatones y conductores de vehículos, así como promover la cultura vial y auxiliar en contingencias causadas por hechos de tránsito o eventos públicos masivos;
 
 XXVI. Persona con discapacidad, aquellas personas que tengan deficiencias físicas, mentales, intelectuales, o sensoriales a largo plazo que al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás1 (sic);
@@ -152,37 +186,67 @@ XXXIII. Programa conduce sin alcohol, el Programa de Control y Prevención de In
 
 XXXIV. Promotor voluntario, ciudadano capacitado por la Secretaría o Seguridad Pública que colabora a regular el tránsito en las inmediaciones de centros educativos para garantizar la seguridad vial de los escolares, zonas de obra o cruces conflictivos;
 
-XXXV. Reglamento, el Reglamento de Tránsito del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-XXXVI. Secretaría, la Secretaría de Movilidad del Distrito Federal;
+XXXV. Reglamento.- el Reglamento de Tránsito de la Ciudad de México;
 
-XXXVII. Secretaría de Obras, la Secretaría de Obras y Servicios del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-XXXVIII. Secretaria del Medio Ambiente, la Secretaría del Medio Ambiente del Distrito Federal;
+XXXVI. Secretaría, la Secretaría de Movilidad de la Ciudad de México;
 
-XXXIX. Seguridad Pública, la Secretaría de Seguridad Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XXXVII. Secretaría de Obras, la Secretaría de Obras y Servicios de la Ciudad de México;
+
+Federal (sic);
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XXXVIII. Secretaria del Medio Ambiente, la Secretaría del Medio Ambiente de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XXXIX. Seguridad Ciudadana, antes Secretaría de Seguridad Pública, la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
 XL. Seguridad Vial, conjunto de políticas y sistemas orientados a la prevención de hechos de tránsito;
 
 XLI. Señalización Vial, conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter, que se colocan (sic) la infraestructura vial;
 
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XLI Bis. Sistema de bicicletas públicas, conjunto de elementos, que incluye bicicletas, estaciones, equipo tecnológico, entre otros, para prestar el servicio de transporte individual en bicicleta pública de uso compartido al que se accede mediante membresía. Este servicio funge como complemento al Sistema Integrado de Transporte Público para satisfacer la demanda de viajes cortos en la ciudad de manera eficiente;
+
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XLI Ter. Sistema Tecnológico, Al conjunto organizado de dispositivos electrónicos, programas de cómputo y, en general, todo aquello basado en tecnologías de la información para apoyar tareas de movilidad y seguridad vial;
+
 XLII. Substancia peligrosa, Todo elemento, compuesto, material o mezcla que independientemente de su estado físico, represente un riesgo potencial para la salud, el ambiente, la seguridad de los usuarios y/o la propiedad de terceros;
 
 XLIII. Tirilla de resultados técnicos, ticket papeleta que contiene: última fecha de verificación del aparato, fecha y hora de la prueba realizada, grados de alcohol en aire espirado, número de prueba, líneas punteadas sobre las cuales se anota nombre completo del infractor, registro federal de contribuyentes, número de licencia, nombre y firma del médico o técnico aplicador;
 
-XLIV. Unidad de Cuenta de la Ciudad de México (UCCM), El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia, previstos en las normas locales vigentes del Distrito Federal.
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XLIV. Unidad de Medida y Actualización vigente (UMA), El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia, previstos en las normas locales vigentes de la Ciudad de México;
 
 XLV. Usuarios vulnerables de la vía, aquellos usuarios que están expuestos a un mayor peligro durante su circulación en la vía ya que no cuentan con una estructura de protección, por lo que son más propensos a sufrir lesiones graves o incluso perder la vida cuando se ven involucrados en hechos de tránsito;
 
 XLVI. Vehículo, aparato diseñado para el tránsito terrestre, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna y/o eléctrico, o cualquier otra fuerza motriz, el cual es utilizado para el transporte de personas o bienes;
 
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XLVI Bis. Vehículo de apoyo peatonal, aquellos utilizados por peatones tales como patines, patinetas, patines del diablo y bicicletas de tracción humana, pedaleo asistido o con motor con una velocidad máxima de 10 km/hr.
+
 XLVII. Vehículo de emergencia, aquellos destinados a la prestación de servicios médicos, de protección civil, rescate, apoyo vial, bomberos y de policía;
 
-XLVIII. Vehículo motorizado, aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-XLIX. Vehículo no motorizado, aquellos vehículos que utilizan tracción humana para su desplazamiento; incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
+XLVIII. Vehículo motorizado, aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que le proporciona velocidad a más de 25 km/hr;
 
-L. Vehículo recreativo, aquellos utilizados por peatones para actividades lúdicas y deportivas tales como patines, patinetas, patines del diablo y bicicletas para niños de hasta doce años de edad;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XLIX. Vehículo no motorizado, aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 km/hr.
+
+L. (DEROGADA, G.O. 19 DE MARZO DE 2019)
 
 LI. Vía, espacio físico destinado al tránsito de peatones y vehículos;
 
@@ -198,7 +262,9 @@ c) Ciclovía, carril confinado exclusivo para la circulación ciclista físicame
 
 d) Calle compartida ciclista, vía destinada a la circulación prioritaria de bicicletas, que cuenta con dispositivos que permiten orientar y regular el tránsito de todos los vehículos que circulen en ella, con la finalidad de compartir el espacio vial de forma segura y en estricto apego a la prioridad de uso del espacio indicada en el presente Reglamento.
 
-LIV. Vía de acceso controlado, vías primarias cuyas intersecciones generalmente son a desnivel; cuentan con carriles centrales y laterales separados por camellones; la incorporación y desincorporación al cuerpo de flujo continuo deberá realizarse a través de carriles de aceleración y desaceleración en puntos específicos, según el listado del anexo de este reglamento;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+LIV.- Vía de acceso controlado, vías primarias cuyas intersecciones generalmente son a desnivel; cuentan con carriles centrales y laterales separados por camellones; la incorporación y desincorporación al cuerpo de flujo continuo deberá realizarse a través de carriles de aceleración y desaceleración en puntos específicos; y/o que por sus características físicas y operacionales así lo determine la Secretaría y la Comisión de Clasificación de Vialidades, según el listado del anexo de este reglamento;
 
 LV. Vía peatonal, espacio destinado al tránsito exclusivo o prioritario de peatones, accesible para personas con discapacidad y movilidad limitada, y al alojamiento de instalaciones o mobiliario urbano y en la que el acceso a vehículos está restringida (sic) a reglas especificadas en este reglamento; éstas incluyen:
 
@@ -238,7 +304,9 @@ I. Obedecer las indicaciones de los agentes, personal de apoyo vial, promotores 
 
 II. Dar preferencia de paso y asistir a aquellos que utilicen ayudas técnicas o a personas con movilidad limitada;
 
-III. Cuando utilicen vehículos recreativos en las vías peatonales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
+
+III. Cuando utilicen vehículos de apoyo peatonal o ayudas técnicas motorizadas en las vías peatonales:
 
 a) Dar preferencia a los demás peatones;
 
@@ -292,23 +360,29 @@ El conductor de un vehículo no motorizado que no respete la preferencia de paso
 
 El conductor de un vehículo motorizado que no respete la preferencia de paso y/o la prioridad de uso de los peatones de acuerdo a lo dispuesto en este artículo será sancionado con base en la siguiente tabla:
 
-Tipo de vehículo Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-equivalente en penalización
+Tipo de Sanción Sanción con Sanción con
 
-veces la Unidad en licencia
+Vehículo con multa puntos de puntos de
 
-de Cuenta de para conducir
+equivalente penalización penalización
 
-la Ciudad de
+en veces la en licencia en matrícula
 
-México vigente
+Unidad de para conducir vehicular
 
-Conductores de 10 a 20 veces 3 puntos
+Medida y (por sistema
 
-vehículos de
+Actualización tecnológico)
 
-uso particular
+vigente
+
+Conductores de 10 a 20 veces 3 puntos 1 punto
+
+vehículos de uso
+
+particular
 
 Conductores de 40 a 60 veces 3 puntos
 
@@ -322,11 +396,9 @@ Conductores de 60 a 80 veces 3 puntos
 
 vehículos de
 
-transporte
+transporte público
 
-público de
-
-pasajeros
+de pasajeros
 
 ### CAPÍTULO II. DE LAS NORMAS GENERALES PARA LA CIRCULACIÓN DE VEHÍCULOS
 
@@ -400,29 +472,41 @@ a) Disminuir la velocidad del vehículo a treinta kilómetros por hora, a una di
 
 b) Realizar alto a una distancia de cinco metros antes de las vías y mantenerse en esa forma si el ferrocarril se encuentra a una distancia menor a doscientos metros en dirección al crucero.
 
-XIV. Ascender o descender del vehículo sobre el carril contiguo a la acera. En caso de que tenga que hacerlo del lado izquierdo extremará precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación.
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XIV.- Realizar el ascenso y descenso propio o de los ocupantes del vehículo contiguo a la acera. En caso de que algún ocupante del vehículo tenga que hacerlo del lado contiguo al carril vehicular inmediato, extremará precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación.
 
 Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo, de acuerdo a la naturaleza de su vehículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla:
 
-Fracción Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-equivalente en penalización
+Fracción Sanción Sanción con Sanción con
 
-veces la Unidad en licencia
+con multa puntos de puntos de
 
-de Cuenta de para conducir
+equivalente penalización penalización
 
-la Ciudad de
+en veces la en licencia en matrícula
 
-México vigente
+Unidad de para conducir vehicular
 
-III, V, VI, VIII 5 a 10 veces 1 punto
+Medida y (por sistema
 
-IX, XIII, XIV
+Actualización tecnológico)
 
-I, II, IV, X, XI, XII 10 a 20 veces 3 puntos
+vigente
+
+III, V, VI, VII, 5 a 10 veces 3 puntos 1 punto
+
+VIII, IX, XIII,
+
+XIV
+
+I, II, IV, X, 10 a 20 veces 3 puntos 1 punto
+
+XI, XII
 
 ###### Artículo 9.
 
@@ -442,49 +526,61 @@ VI. En estacionamientos y en vías peatonales en las cuales se permita el acceso
 
 Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
 
-El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima cuando se rebase el límite de velocidad por más de 20 kilómetros por hora.
+El Agente autorizado podrá realizar la infracción con apoyo de sistemas tecnológicos y equipos electrónicos.
 
-Fracción Sanción con multa Puntos de
+> <small>(ADICIONADO [N, DE E, REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
 
-equivalente en penalización
+El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima con una penalización de 5 puntos en matrícula vehicular cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por sistema tecnológico.
 
-veces la Unidad en licencia
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-de Cuenta de para conducir
+Fracción Sanción Sanción con Sanción con
 
-la Ciudad de
+con multa puntos de puntos de
 
-México vigente
+equivalente penalización penalización
+
+en veces la en licencia en matrícula
+
+Unidad de para conducir vehicular
+
+Medida y (por sistema
+
+Actualización tecnológico)
+
+vigente
 
 I, II, III 10 a 20 veces 3 puntos
 
 IV, V, VI 10 a 20 veces 6 puntos
 
-II, III, para 10 a 20 veces 3 puntos
+II, III, para 10 a 20 veces 3 puntos 1 a 5 puntos
 
 conductores
 
-de vehículos de
+de vehículos
 
-transporte público
+de transporte
 
-de pasajeros y
+público de
 
-de carga
+pasajeros
+
+y de carga
 
 IV, V, VI, para 20 a 30 veces 6 puntos
 
-conductores
+conductores de
 
-de vehículos de
+vehículos de
 
 transporte público
 
-de pasajeros y
+de pasajeros y de
 
-de carga
+carga
 
 ###### Artículo 10.
 
@@ -502,7 +598,7 @@ V. En las intersecciones reguladas por un agente, personal de apoyo vial o promo
 
 VI. En las intersecciones reguladas mediante semáforos se respetarán las siguientes reglas:
 
-a) Cuando la luz del semáforo esté en rojo, los conductores deben detener su vehículo en la línea de “alto”, sin invadir el cruce peatonal o el área de espera para bicicletas o motocicletas; los ciclistas y motociclistas deberán hacer uso de sus áreas de espera cuando éstas existan;
+a) Cuando la luz del semáforo esté en rojo, los conductores deben detener su vehículo en la línea de "alto", sin invadir el cruce peatonal o el área de espera para bicicletas o motocicletas; los ciclistas y motociclistas deberán hacer uso de sus áreas de espera cuando éstas existan;
 
 b) Cuando exista congestión vehicular que impida cruzar completamente la intersección y aunque la luz del semáforo indique siga, se deberá parar en la línea de alto para evitar obstruir la circulación de las calles transversales, principalmente en aquellas que cuenten con marca en el pavimento para indicar la prohibición de detención dentro de la intersección;
 
@@ -510,7 +606,7 @@ c) Cuando los semáforos se encuentren con luces intermitentes se cruzará con p
 
 d) Entre las 23:00 horas y las 5:00 horas del día siguiente, debe detener totalmente el vehículo frente a la luz roja del semáforo y, una vez que se cerciore de que ningún peatón o vehículo se dispone a cruzar la intersección, podrá continuar la marcha, aun cuando no haya cambiado la señal de alto.
 
-VII. En vías de acceso controlado, los vehículos que se incorporan a los carriles centrales deberán ceder el paso; los vehículos que circulan sobre la vía lateral, deberán ceder el paso a los que se desincorporan de los carriles centrales, con excepción de situaciones de congestionamiento vial con tránsito detenido, en las que se alternará el paso bajo el criterio de “uno y uno”;
+VII. En vías de acceso controlado, los vehículos que se incorporan a los carriles centrales deberán ceder el paso; los vehículos que circulan sobre la vía lateral, deberán ceder el paso a los que se desincorporan de los carriles centrales, con excepción de situaciones de congestionamiento vial con tránsito detenido, en las que se alternará el paso bajo el criterio de "uno y uno";
 
 VIII. Cuando los conductores circulen por una vía que no cuente con semáforos o se encuentren apagados y no haya señalamiento restrictivo que regule la preferencia de paso, luego de dejar pasar a los peatones, se ajustarán a la siguiente jerarquía de reglas:
 
@@ -522,7 +618,7 @@ c) En vías de la misma jerarquía, tiene la preferencia el vehículo que circul
 
 d) En vías secundarias de un sólo sentido y con el mismo número de carriles, cuando dos vehículos se encuentren en una intersección, se le cederá el paso al vehículo que se aproxime por su derecha; y
 
-e) Cuando en el cruce de dos vías secundarias con un sólo carril efectivo de circulación, se aproximen de forma simultánea vehículos en las diferentes vías, ambos deben realizar alto total y cruzar con precaución, alternándose el paso bajo el criterio de “uno y uno”.
+e) Cuando en el cruce de dos vías secundarias con un sólo carril efectivo de circulación, se aproximen de forma simultánea vehículos en las diferentes vías, ambos deben realizar alto total y cruzar con precaución, alternándose el paso bajo el criterio de "uno y uno".
 
 IX. En las glorietas, el vehículo que se encuentre dentro de la misma tiene preferencia de paso sobre el que pretenda acceder a ella; en aquellas glorietas de varios carriles tienen preferencia aquellos vehículos que realicen movimiento para salir de ella;
 
@@ -536,21 +632,35 @@ Los conductores de vehículos no motorizados que no cumplan con las obligaciones
 
 El incumplimiento de las reglas dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla:
 
-Fracción Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-equivalente en penalización
+Fracción Sanción Sanción Sanción
 
-veces la Unidad en licencia
+con multa con puntos con puntos
 
-de Cuenta de para conducir
+equivalente de penalización de penalización
 
-la Ciudad de
+en veces la en licencia en matrícula
 
-México vigente
+Unidad de para conducir vehicular
 
-III, IV, V, VI, X 10 a 20 veces 3 puntos
+Medida y (por sistema
 
-VII, VIII, IX, XI 10 a 20 veces 1 punto
+Actualización tecnológico)
+
+vigente
+
+IV, V, VI, X 10 a 20 veces 3 puntos 1 punto
+
+VII, VIII, IX, XI 10 a 20 veces 3 puntos
+
+III 20 a 30 veces 3 puntos
+
+y remisión del
+
+vehículo al depósito
+
+vehicular
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -564,9 +674,13 @@ II. Detener su vehículo sobre un área de espera para bicicletas o motocicletas
 
 III. Circular o detenerse en áreas restringidas que estén delimitadas por marcas en el pavimento, incluyendo las áreas señaladas para el estacionamiento en vía pública u otros dispositivos para el control del tránsito que establezcan este impedimento, en especial:
 
-a) Circular sobre aceras o cualquier otro tipo de vías peatonales; y
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
-b) Circular sobre vías ciclistas, a menos que se trate de una bicicleta.
+a) Circular sobre aceras o cualquier otro tipo de vías peatonales a excepción que se trate de un vehículo de apoyo peatonal.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+b) Circular sobre vías ciclistas a excepción que se trate de vehículos no motorizados.
 
 IV. Detenerse en sitios donde exista señalamiento restrictivo que así lo indique, o cuando la guarnición de la acera sea de color rojo, excepto para respetar la luz roja de un semáforo o por indicación de un Agente;
 
@@ -576,7 +690,7 @@ VI. Rebasar a otros vehículos cuando éstos se detengan para ceder el paso a lo
 
 VII. Realizar un movimiento diferente a lo indicado por la señalización vial sobre carriles destinados para giros a la derecha o izquierda;
 
-VIII. Dar vuelta en “U” cerca de una curva y donde el señalamiento restrictivo expresamente lo prohíba;
+VIII. Dar vuelta en "U" cerca de una curva y donde el señalamiento restrictivo expresamente lo prohíba;
 
 IX. Con excepción de vehículos no motorizados, circular sobre el acotamiento de la vía; éste se utilizará principalmente para el estacionamiento de vehículos que sufran alguna descompostura;
 
@@ -588,7 +702,7 @@ b) Realizar maniobras de ascenso y descenso de personas, o maniobras de carga y 
 
 c) Estacionarse o efectuar reparaciones a vehículos, en caso de contingencia o emergencia, de forma inmediata se debe retirar el vehículo a un lugar distinto donde no obstruya la circulación; y
 
-d) Interferir los carriles exclusivos de transporte público al dar vuelta a la izquierda, derecha o en “U”, así como cambiar de cuerpo de circulación en la misma vía cuando existan señalamientos restrictivos que prohíban estos movimientos.
+d) Interferir los carriles exclusivos de transporte público al dar vuelta a la izquierda, derecha o en "U", así como cambiar de cuerpo de circulación en la misma vía cuando existan señalamientos restrictivos que prohíban estos movimientos.
 
 XI. Realizar maniobras de ascenso o descenso de personas en carriles centrales de las vías de acceso controlado;
 
@@ -620,49 +734,49 @@ Los conductores de vehículos no motorizados que no cumplan con las obligaciones
 
 Los conductores de vehículos motorizados que incumplan lo dispuesto en este artículo, serán sancionados de acuerdo a la siguiente tabla:
 
-Fracción Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-equivalente en penalización
+Fracción Sanción Sanción con Sanción con
 
-veces la Unidad en licencia
+con multa puntos de puntos de
 
-de Cuenta de para conducir
+equivalente penalización en penalización
 
-la Ciudad de
+en veces la licencia para en matrícula
 
-México vigente
+Unidad de conducir vehicular
 
-IV, V, XIII 5 a 10 veces 1 punto
+Medida y (por sistema
 
-I, II, VI, VII, VIII, IX, 20 a 30 veces 3 puntos
+Actualización tecnológico)
 
-X b) c), XI, XII, XIV,
+vigente
 
-XV
+I, VI, VII, IX, 20 a 30 veces 3 puntos 1 punto
+
+X incisos b)
+
+y c) XI, XII,
+
+XIV, XV
+
+V, XIII 5 a 10 veces 1 punto
+
+II 20 a 30 veces 3 puntos
 
 III 20 a 30 veces 3 puntos
 
-I, II y III en caso 40 a 50 veces 3 puntos
+X. a) d) 40 a 60 veces 6 puntos
 
-de conductores
+y remisión del
 
-de vehículos de
+vehículo al
 
-transporte público
+depósito
 
-y conductores
+IV 5 a 10 veces 1 punto
 
-de vehículos de
-
-carga
-
-X a) d) 40 a 60 veces 6 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
+VIII. 20 a 30 veces 3 puntos
 
 ###### Artículo 12.
 
@@ -1228,7 +1342,9 @@ III. Sobre o debajo de cualquier puente o estructura elevada de una vía públic
 
 IV. En el costado izquierdo de la vía cuando existan camellones centrales, laterales o islas, así como en las glorietas, salvo que las marcas en el pavimento y el señalamiento lo permita (sic);
 
-V. En donde exista señalamiento restrictivo, o la guarnición de la acera sea de color amarillo, que indica el área donde está prohibido el estacionamiento;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+V. En donde exista señalamiento restrictivo, o la guarnición de la acera o las marcas de pavimento sean de color amarillo, que indica el área donde está prohibido el estacionamiento.
 
 VI. En los carriles exclusivos, confinados y/o prioritarios de transporte público;
 
@@ -1248,11 +1364,15 @@ c) Entradas y salidas de vehículos de emergencia;
 
 d) Entradas o salidas de estacionamientos públicos y gasolineras;
 
-e) Centros escolares y demás centros de concentración masiva que determine la Secretaría;
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+e) Accesos peatonales o vehiculares y salidas de emergencia de centros escolares y demás centros de concentración masiva que determine la Secretaría;
 
 f) Rampas peatonales;
 
-g) Rampas de acceso de vehículos, salvo que se trate de las del domicilio del propio conductor, siempre y cuando no se invada la acera o el tránsito de peatones; y
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+g) Rampas vehiculares para el acceso a cocheras, salvo que se trate del domicilio del propio conductor, siempre y cuando no se invada la acera, el tránsito de peatones, cajones de estacionamiento, o áreas de estacionamiento restringido;
 
 h) En entradas y salidas peatonales de instalaciones de hospitales o centros de salud.
 
@@ -1270,7 +1390,9 @@ b) Seis metros de la entrada de una estación de bomberos y de vehículos de eme
 
 c) Diez metros de cualquier cruce de vía férrea.
 
-XV. En lugares o cajones destinados al estacionamiento de vehículos que transporten o sean conducidos por personas con discapacidad, identificados con el señalamiento informativo;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XV. En cajones de estacionamiento exclusivos para personas con discapacidad debidamente identificados por marcas en el pavimento, guarnición y señalamiento vertical informativo, salvo por aquellos vehículos que cuenten con placas de matrícula para personas con discapacidad y vehículos que realicen el ascenso o descenso de personas con discapacidad por una permanencia máxima de 20 minutos.
 
 XVI. En carreteras de no más de dos carriles y con doble sentido de circulación, en un tramo menor a:
 
@@ -1282,7 +1404,13 @@ XVII. En sentido contrario a la circulación;
 
 XVIII. En los cajones exclusivos debidamente autorizados y que cuenten con marcas de color azul que así lo indique, a menos que se trate del vehículo para el cual están destinados estos espacios;
 
-XIX. En vías ciclistas, cicloestaciones de bicicleta pública y biciestacionamientos, así como el espacio contiguo a éstos, con excepción de los vehículos no motorizados para los cuales están destinados estos espacios;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XIX. En vías ciclistas, como ciclovías y ciclocarriles, con excepción de los vehículos no motorizados para los cuales están destinados estos espacios;
+
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
+
+XIX Bis. En los carriles de circulación frente a cicloestaciones de bicicleta pública y biciestacionamientos de corta estancia que se encuentren ubicados en la franja de estacionamiento, con excepción de los vehículos destinados para la operación del sistema de bicicleta pública, siempre y cuando se encuentren en servicio;
 
 XX. En los demás lugares que la Secretaría y Seguridad Pública determinen; y
 
@@ -1332,7 +1460,9 @@ Aun cuando se encuentre presente el conductor o alguna otra persona, los vehícu
 
 I. Los vehículos se encuentren estacionados en lugares prohibidos según lo establecido en el artículo 30 fracciones I, IV, V, VII, VIII, IX, XIII, XIV y XVIII de este ordenamiento, no se cuente inmediatamente con una grúa para remitirlos al depósito de vehículos y los agentes dispongan de inmovilizadores;
 
-II. Los vehículos se encuentren estacionados en zonas en las que existan sistemas de cobro por estacionamiento en vía pública, en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
+
+II. Los vehículos con placas foráneas que se encuentren estacionados en zonas en las que existan sistemas de cobro por estacionamiento en vía pública, en los siguientes casos:
 
 a) No se haya cubierto la cuota de estacionamiento en el momento de la revisión;
 
@@ -1340,7 +1470,9 @@ b) Haya concluido el tiempo pagado;
 
 c) En caso de haber comprobante de pago, éste no sea visible desde el exterior del vehículo, el número de placas de matrícula no coincida o la fecha del comprobante sea distinta;
 
-d) El vehículo esté estacionado fuera de un cajón y/o zona marcada para el estacionamiento, o esté invadiendo u obstruyendo otro cajón, con excepción de vehículos que por sus dimensiones rebasen el espacio del cajón marcado;
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+d) El vehículo esté estacionado fuera de un cajón y/o zona marcada para el estacionamiento, o esté invadiendo u obstruyendo otro cajón o acceso a cochera, con excepción de vehículos que por sus dimensiones rebasen el espacio del cajón marcado y hayan cubierto la cuota de estacionamiento por los espacios utilizados;
 
 e) El vehículo estacionado no coincida, por sus dimensiones o naturaleza, con el tipo de vehículo al que está destinado el cajón, de acuerdo a lo indicado por el señalamiento, incluidas las motocicletas que deben ser estacionadas en los lugares especiales para ese tipo de vehículo;
 
@@ -1354,7 +1486,17 @@ Cuando el usuario del servicio de estacionamiento en vía pública en zonas con 
 
 El vehículo será liberado hasta que se hayan cubierto las sanciones económicas y los derechos establecidos en el Código Fiscal, por retiro de inmovilizador correspondientes.
 
-Seguridad Pública puede auxiliarse de terceros para la inmovilización de vehículos y remisión de vehículos al depósito, previo convenio, permiso o autorización que haya celebrado para ello.
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+
+El vehículo con placa foránea será liberado cuando no cuente con adeudos motivo de infracciones registradas en el sistema de infracciones del Gobierno de la Ciudad de México y haya cubierto las sanciones económicas, así como los derechos establecidos en el Código Fiscal de la Ciudad de México, por retiro de inmovilizador correspondientes.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+
+Se exceptúa de lo dispuesto en la fracción II del presente artículo a los vehículos motorizados con matrícula vehicular de la Ciudad de México, los cuales únicamente serán infraccionados dejando la boleta de infracción correspondiente en el parabrisas del vehículo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
+
+Seguridad Ciudadana puede auxiliarse de terceros para la inmovilización de vehículos y remisión de vehículos al depósito, previo convenio, permiso o autorización que haya celebrado para ello.
 
 ### CAPÍTULO II. DE LA UTILIZACIÓN DE LA INFRAESTRUCTURA VIAL
 
@@ -1498,7 +1640,9 @@ incorporados
 
 Está prohibido abandonar en la vía pública un vehículo o remolque que se encuentre inservible, destruido o inutilizado. Se entiende por estado de abandono, los vehículos que:
 
-I. No sean movidos por más de 15 días y acumulen residuos que generen un foco de infección, malos olores o fauna nociva, o
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+I. Que no sean movidos por más de 15 días, o acumulen residuos que generen un foco de infección, malos olores o fauna nociva y
 
 II. Participaron en un hecho de tránsito, no están en posibilidades de circular y no cuenten con el permiso correspondiente.
 
@@ -1523,6 +1667,14 @@ y remisión
 del vehículo
 
 al depósito.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+
+Para estar en posibilidad de hacer la remisión del vehículo al depósito, el agente dejara adherido al mismo, apercibimiento por escrito debidamente fundado y motivado, en el que haga de conocimiento al propietario, poseedor, responsable del vehículo cuenta con un término de tres días hábiles contados a partir del día siguiente a su entrega, lo retire con sus propios medios y ante su omisión la autoridad lo hará con cargo a éste.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+
+Si el día señalado para tal efecto, continúa abandonado el vehículo y no estuviera presente el propietario, poseedor o responsable ó estándolo se negará a cumplir el acto, se procederá a la remisión inmediata del vehículo al depósito correspondiente.
 
 ###### Artículo 36.
 
@@ -1743,6 +1895,10 @@ del vehículo
 al deposito
 
 VI b) 400 a 600 veces 6 puntos
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+
+Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II incisos C y D del presente artículo.
 
 ###### Artículo 39.
 
@@ -2244,25 +2400,21 @@ Los conductores de vehículos motorizados a quienes se les encuentre cometiendo 
 
 En caso de que se certifique que el conductor sobrepase el límite de alcohol permitido, se encuentre en estado de ebriedad o de intoxicación de alcohol, narcóticos, estupefacientes o psicotrópicos al conducir, se sancionará con base en la siguiente tabla, sin menoscabo de lo estipulado en la Ley y demás reglamentos aplicables:
 
-Tipo de Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-conductor equivalente en penalización
+Tipo de conductor Sanción con multa Puntos de
 
-veces la Unidad en licencia
+equivalente en veces penalización en
 
-de Cuenta de para conducir
+la Unidad de Medida licencia para conducir
 
-la Ciudad de
-
-México vigente
+y Actualización vigente
 
 Conductores Arresto administrativo 6 puntos
 
-de vehículos inconmutable
+De vehículos inconmutable de 20 a 36
 
-motorizados de 20 a 36 horas
-
-particulares
+Motorizados horas
 
 ###### Artículo 51.
 
@@ -2330,7 +2482,9 @@ III. Llamar a la aseguradora para hacer uso de su póliza de seguro de responsab
 
 IV. En caso de que en un hecho de tránsito sólo hubiere daños materiales a propiedad privada:
 
-a) Cuando los involucrados estuvieran de acuerdo en la forma de reparación de los daños, si todos los vehículos están en condiciones de circular, ninguno de los conductores presenta síntomas de estar bajo el influjo de alcohol o narcóticos, estupefacientes o psicotrópicos y no hubiera daños en bienes públicos, las partes moverán sus vehículos con el fin de liberar el tránsito en las vías afectadas a fin de no obstruir la circulación; y
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+a) Si todos los vehículos están en condiciones de circular, ninguno de los conductores presenta síntomas de estar bajo el influjo de alcohol o narcóticos, estupefacientes o psicotrópicos y no hubiera daños en bienes públicos, invariablemente, las partes moverán sus vehículos con el fin de liberar el tránsito en las vías afectadas a fin de no obstruir la circulación, en caso de que las partes no acaten la disposición se sancionará de conformidad con el artículo 34 fracción VI; y
 
 b) Si las partes no estuvieran de acuerdo con la forma de reparación de los daños, el agente procederá a remitir a los involucrados y sus vehículos ante la autoridad correspondiente.
 
@@ -2478,9 +2632,11 @@ i) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2018)
 
 j) En caso de que el infractor insulte o denigre al agente, se sancionará conforme a las disposiciones de este Reglamento y de continuar con una conducta inadecuada se procederá a su remisión ante el Juez Cívico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2019)</small>
+
 ###### Artículo 60.
 
-Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría y por Seguridad Pública o recibos emitidos por los equipos electrónicos portátiles (Hand held), que para su validez contendrán:
+Las sanciones en materia de tránsito señaladas en este Reglamento y demás disposiciones jurídicas serán impuestas por el agente que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría, por Seguridad Ciudadana y en su caso Medio Ambiente, o recibos emitidos por los equipos electrónicos portátiles (Hand held), que para su validez contendrán:
 
 a) Artículos de la Ley o del presente Reglamento que prevén la infracción cometida y artículos que establecen la sanción impuesta;
 
@@ -2492,9 +2648,9 @@ d) Cuando esté presente el conductor: nombre y domicilio, número y tipo de lic
 
 e) Nombre, número de placa, adscripción y firma del agente que tenga conocimiento de la infracción, la cual debe ser en forma autógrafa o electrónica, en cuyo caso se estará a lo previsto en la Ley de la materia.
 
-Seguridad Pública coadyuvará con la Secretaría para la aplicación de sanciones por el incumplimiento a la Ley y a este Reglamento cuando exista flagrancia.
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2018)</small>
+Seguridad Ciudadana coadyuvará con la Secretaría para la aplicación de sanciones por el incumplimiento a la Ley y a este Reglamento cuando exista flagrancia.
 
 ###### Artículo 61.
 
@@ -2512,31 +2668,103 @@ I. Oficinas de la Administración Tributaria de la Tesorería del Distrito Feder
 
 II. Centros autorizados para este fin, incluyendo medios electrónicos de pago; o
 
-III. Con el agente que impuso la infracción en caso de que cuente con el equipo electrónico portátil (Hand held).
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
+III. Con el agente que impuso la infracción en caso de que cuente con el equipo electrónico portátil
 
 El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 33, fracción II de este Reglamento; vencido el plazo señalado sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Fiscal del Distrito Federal.
 
 Para el caso de las infracciones que son notificadas vía correo certificado o con acuse de recibo, el ciudadano podrá promover la aplicación del derecho mencionado si la línea de captura que acompaña al documento expira antes del plazo mencionado, siempre y cuando se acredite, en las Oficinas de Atención Ciudadana para la Aclaración de Infracciones, que la fecha de notificación domiciliaria fue extemporánea.
 
-Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país, el agente deberá retirar la placa delantera o retener la licencia de conducir o la tarjeta de circulación, cuando el cobro de la sanción no sea realizado en el sitio e indicar en la boleta de infracción que se procedió de esa forma. La placa de matrícula o documentación retenida le será devuelta al conductor en las oficinas de Seguridad Pública, una vez realizado el pago.
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
+Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país, el agente deberá retirar la placa delantera o retener la licencia de conducir o la tarjeta de circulación, cuando el cobro de la sanción no pueda ser realizado en el sitio e indicar en la boleta de infracción que se procedió de esa forma. La placa de matrícula o documentación retenida le será devuelta al conductor en las oficinas de Seguridad Ciudadana, una vez realizado el pago de los adeudos registrados en el sistema de infracciones de la Secretaría de Administración y Finanzas.
 
 ###### Artículo 63.
 
 La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular del Distrito Federal constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 ###### Artículo 64.
 
-Cuando se trate de infracciones a este Reglamento impuestaspor (sic) el Agente y expedidas mediante sistemas tecnológicos portátiles (Han helad), la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
+Las sanciones establecidas por infringir el presente reglamento serán de carácter monetario, o bien, cuando así lo establezca la sanción correspondiente, de amonestaciones, cursos en línea, sensibilización presencial, trabajos a favor de la comunidad, remisión de vehículos a depósito y puntos de penalización a la licencia.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2018)</small>
+Las sanciones impuestas a los infractores por agentes con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, sensibilización presencial y trabajos a favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matricula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
 
-Las multas impuestas por el agente y expedidas mediante sistemas tecnológicos portátiles (Han helad), en el caso que no fuera posible la entrega personal al infractor en el momento que se expida, será notificada por correo certificado o con acuse de recibo en el domicilio registrado del propietario del vehículo quien será responsable de su pago.
+Las sanciones que se impongan por invasión de carriles confinados e impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país en territorio de la Ciudad de México, por sistema tecnológico, serán siempre de carácter monetario.
 
-En el caso de los vehículos matriculados en el Distrito Federal, en cumplimiento de lo dispuesto por el artículo 63 del presente Reglamento, se presume salvo prueba en contrario, que el propietario del vehículo toma conocimiento de la infracción cometida, el día inmediato subsecuente al momento en que con motivo del trámite de verificación vehicular recibe el informe de la multa que aparece registrada en el sistema con cargo al vehículo.
+Cada infracción registrada por sistemas electrónicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el artículo 9, penúltimo párrafo, de este Reglamento, que tendrán una penalización de 5 puntos cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por sistema tecnológico.
 
-Las multas impuestas por violación al presente Reglamento con motivo del uso o tenencia de vehículos podrán consultarse en la página de Internet del Sistema del Infracciones del Gobierno del Distrito Federal http://www.finanzas.df.gob.mx/sma/consulta_ciudadana.php para su pago oportuno.
+Para infracciones con penalización de 5 puntos, las matrículas vehiculares también tendrán amonestación en las dos primeras infracciones que registren en cada ciclo de verificación vehicular, conforme a las dos primeras sanciones contempladas en la tabla del esquema de contabilidad de puntos.
+
+El esquema de contabilidad de puntos se rige por la siguiente tabla:
+
+Puntos restantes Sanción
+
+9 o primera infracción Amonestación
+
+8 o segunda infracción Amonestación
+
+7 Curso en línea básico
+
+6 Curso en línea intermedio
+
+5 Sensibilización presencial
+
+4 2 horas de trabajos a favor
+
+de la comunidad
+
+3 2 horas de trabajos a favor
+
+de la comunidad
+
+2 2 horas de trabajos a favor
+
+de la comunidad
+
+1 2 horas de trabajos a favor
+
+de la comunidad
+
+El cumplimiento de las sanciones referidas en la tabla anterior sigue una lógica acumulativa cada ciclo de verificación vehicular.
+
+En los casos en que se exceda el demérito de los 10 puntos, las sanciones seguirán contabilizando horas de trabajos a favor de la comunidad inconmutables, cuyo cumplimiento se dará en términos de la Ley de Cultura Cívica de la Ciudad de México.
+
+El infractor ingresará a la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/ para consultar el esquema de contabilidad de puntos y la forma en que deberá dar cumplimiento a las sanciones correspondientes.
+
+Para el caso de los vehículos que se encuentren exentos del programa de verificación obligatoria, los puntos acumulados por infracción serán registrados por la Secretaría de Seguridad Ciudadana, y el cumplimiento de las sanciones estará a cargo de la Consejería Jurídica y de Servicios Legales de manera semestral en cada ejercicio anual.
+
+Los trabajos a favor de la comunidad serán supervisados por la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales, y consistirán de manera enunciativa más no limitativa en las siguientes:
+
+I. Limpieza, pintura o restauración de centros públicos educativos, de salud o de servicios;
+
+II. Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
+
+III. Realización de obras de ornato en lugares de uso común;
+
+IV. Realización de obras de balizamiento, limpia o reforestación en lugares de uso común,
+
+V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor;
+
+VI. Participación en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organice la Alcaldía en donde se haya cometido la infracción; y;
+
+VII. Las demás que determine la persona titular de la Jefatura de Gobierno en coordinación con la Secretaría.
+
+Para el cumplimiento de los trabajos a favor de la comunidad inconmutables, los infractores se presentarán ante la unidad administrativa competente de la Consejería Jurídica y de Servicios Legales, para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica de la Ciudad de México. Para ello, consultarán actividades, horarios y espacios disponibles en la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/.
+
+Cumplidas las sanciones correspondientes, se restituirán los puntos mediante el sistema que para tal efecto implemente la Secretaría.
+
+Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente facultado y expedidas mediante equipos electrónicos portátiles, la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
+
+Las sanciones impuestas por sistemas tecnológicos serán notificadas por correo certificado, por medios electrónicos cuando sea procedente, o con acuse de recibo en el domicilio registrado de la persona física o moral que sea propietaria del vehículo, quien será responsable de su sanción.
+
+Cuadro anexo.
+
+Fracción (sic) VII. Vías Primarias que por sus características físicas y operacionales se asemejan a Vías de Acceso Controlado.
+
+[N. DE E. VÉASE CUADROS ANEXOS EN LA G.O. DE 19 DE MARZO DE 2019, PÁGINAS DE LA 14 A LA 15.
 
 ###### Artículo 65.
 
@@ -2639,3 +2867,13 @@ G.O. 6 DE DICIEMBRE DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día de su publicación.
+
+G.O. 19 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los veintidós días del mes de abril del año dos mil diecinueve.
+
+TERCERO.- En todos los casos en que se haga referencia a la Unidad de Cuenta de la Ciudad de México deberá entenderse, en su lugar, la Unidad de Medida y Actualización.
