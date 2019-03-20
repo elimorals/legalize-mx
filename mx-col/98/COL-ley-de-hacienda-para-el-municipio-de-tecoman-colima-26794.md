@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-11-25"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN, ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -86,8 +86,6 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 ###### ARTICULO 3º.
 
 Para efectos de la presente ley, se entiende por:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -437,15 +435,11 @@ A petición del contribuyente se pondrá el valor de la transacción, siempre y 
 
 La base de este impuesto, tratándose de transmisión de la propiedad que realicen los organismos públicos descentralizados del Gobierno Federal o Estatal, cuyo objeto sea la regularización de la tenencia de la tierra, será el valor señalado como precio de la operación entre dicho organismo como vendedor y el avecindado o comprador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 26.
 
 En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento de la base.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -455,13 +449,9 @@ La base del impuesto será el 50 por ciento en los siguientes casos:
 
 I.- En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -490,8 +480,6 @@ III.- Tratándose de adquisiciones efectuadas a través del fideicomiso, cuando 
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva; y
 
 V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -569,15 +557,11 @@ Los notarios no autorizarán ninguna escritura definitiva en donde consten los a
 
 Los notarios, jueces y demás servidores públicos no certificarán las firmas de los contratos privados a que se refiere este capítulo, si no les comprueba el pago de este impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
 Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto a que se refiere este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -671,8 +655,6 @@ I.- (SIC) Cuando no sea posible controlar los ingresos, el impuesto se gravará 
 
 a) Giros que realicen actividades en forma permanente, mensualmente 34.00
 
-b)
-
 b) Giros que realicen actividades en forma eventual, diariamente 10.00
 
 ###### ARTICULO 47.
@@ -738,8 +720,6 @@ No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -1058,8 +1038,6 @@ Evento promocionales para establecimientos comerciales 4.00 a 30.00
 Otros no especificados 1.00 a 30.00
 
 h) Por la reposición de la licencia municipal se pagará el 50 por ciento de las tarifas señaladas en el inciso b).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -1411,8 +1389,6 @@ ARTICULO 105 A.- En los términos de lo dispuesto en el último párrafo del art
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 106.
@@ -1663,11 +1639,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-Para el ejercicio fiscal 2015, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto, sin que ello genere multas o recargos.
+Para el ejercicio fiscal 2019, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante el mes de marzo, sin que ello genere multas o recargos.
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
@@ -1813,7 +1789,7 @@ P.O. 5 DE ABRIL DE 2014.
 
 P.O. 28 DE JUNIO DE 2014.
 
-ÚNICO.- El presente Decreto entrará en vigor el 01 de junio de 2014, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+ÚNICO.- El presente Decreto entrará en vigor el 01 de junio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 13 DE DICIEMBRE DE 2014.
 
@@ -1858,3 +1834,9 @@ P.O. 25 NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 376 POR EL QUE SE APRUEBA OTORGAR UN DESCUENTO DEL 50% EN EL PAGO DEL IMPUESTO PREDIAL POR CONCEPTO DE PRONTO PAGO O ANUALIDAD ADELANTADA, DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO A LAS INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa su su (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
