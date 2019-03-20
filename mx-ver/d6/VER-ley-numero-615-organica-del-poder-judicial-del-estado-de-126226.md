@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2018-12-21"
+last_updated: "2019-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -1439,7 +1439,9 @@ XIV. Ejercer el presupuesto del Poder Judicial, con excepción del correspondien
 
 XV. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, así como de la administración del Fondo Auxiliar para la Impartición de Justicia, en los términos que establezca la normativa aplicable;
 
-XVI. Resolver, previa garantía de audiencia, fundando y motivando su resolución, sobre las quejas administrativas e instructivos de responsabilidad de los servidores públicos del Poder Judicial, mediante los procedimientos establecidos en esta Ley, así como en los Reglamentos y acuerdos que el propio Consejo dicte en materia disciplinaria, con excepción de los magistrados de los Tribunales y del personal del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2019)</small>
+
+XVI. Resolver, previa garantía de audiencia, fundando y motivando su resolución, sobre las quejas administrativas, instructivos de responsabilidad de los servidores públicos del Poder Judicial y excitativas de justicia mediante los procedimientos establecidos en esta Ley, en la Ley para Declaración Especial de Ausencia por Desaparición de Personas para el Estado, así como en los Reglamentos y acuerdos que el propio Consejo dicte en materia disciplinaria, con excepción de los Magistrados de los Tribunales y del Personal del Tribunal Superior de Justicia;
 
 XVII. Convenir con instituciones de educación superior, a efecto de que la carrera judicial se desarrolle a nivel de excelencia, y aplicar los exámenes de oposición para ocupar los cargos relativos a la misma;
 
@@ -2705,7 +2707,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 21 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 785 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE CAPACITACIÓN JUDICIAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 785 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE CAPACITACIÓN JUDICIAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
@@ -2716,3 +2718,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 239 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS; LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL; ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL; Y DEROGA LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
