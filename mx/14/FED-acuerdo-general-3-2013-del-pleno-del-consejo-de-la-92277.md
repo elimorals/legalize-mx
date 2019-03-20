@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-03-07"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,9 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 7 DE MARZO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -131,9 +129,11 @@ I. PRIMER CIRCUITO:
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias Civil, Administrativa y Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 2/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2019)</small>
 
-3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
+3. Sesenta y siete juzgados de Distrito en la Ciudad de México especializados:
+
+Doce de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
 > <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -7376,3 +7376,17 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
 
 QUINTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, deberá nombrar al defensor de oficio y adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo, a efecto de que el defensor público designado inicie funciones en la misma fecha que el Juzgado Séptimo de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza.
+
+D.O.F. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 2/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS OCTAVO, DÉCIMO Y DECIMOCTAVO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS SUR, ORIENTE Y NORTE, RESPECTIVAMENTE; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y SEDE INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Juez Decimoctavo de Distrito de Procesos Penales Federales, con sede en la Ciudad de México, será readscrito por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+A efecto de respetar los derechos laborales de los servidores públicos adscritos a los órganos jurisdiccionales que concluyen funciones, éstos formarán parte de las plazas a disposición del Consejo de la Judicatura Federal, autorizándose la ubicación temporal de éstas, entre los Juzgados de Distrito de Amparo en Materia Penal en esta misma Ciudad, en tanto sean afines por materia.
+
+En caso de que alguno de los servidores públicos reasignados temporalmente, presente su renuncia, la plaza se cancelará, puesto que la propuesta tiene como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
