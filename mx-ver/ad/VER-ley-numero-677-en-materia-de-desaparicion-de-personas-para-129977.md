@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-677-en-materia-de-desaparicion-de-personas-para-1299
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2018-11-21"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 677 EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -977,33 +977,15 @@ Cuando durante la búsqueda o investigación, resulte ser competencia de las aut
 
 ###### Artículo 77.
 
-Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, que emita la Declaración Especial de Ausencia en términos de lo que (sic) dispuesto en la Ley General, esta Ley y las leyes aplicables.
-
-El procedimiento de Declaración Especial de Ausencia será estrictamente voluntario. Las autoridades en contacto con los Familiares deberán informar del procedimiento y efectos de la Declaración a éstos.
+(DEROGADO, G.O. 20 DE MARZO DE 2019)
 
 ###### Artículo 78.
 
-Para determinar la competencia de la autoridad jurisdiccional que conozca de la Declaración Especial de Ausencia se estará a cualquiera de los siguientes criterios:
-
-I. El último domicilio de la Persona Desaparecida;
-
-II. El domicilio de la persona quien promueva la acción;
-
-III. El lugar en donde se presuma que ocurrió la desaparición, o
-
-IV. El lugar en donde se esté llevando a cabo la investigación.
+(DEROGADO, G.O. 20 DE MARZO DE 2019)
 
 ###### Artículo 79.
 
-El plazo para resolver sobre la Declaración Especial de Ausencia no deberá exceder más de seis meses a partir de iniciado el procedimiento.
-
-Los procedimientos deberán contemplar aquellos casos en los cuales se haya declarado la presunción de ausencia o de muerte de una persona desaparecida, para permitirle acceder a la Declaratoria Especial de Ausencia y corregir el estatus legal de la persona desaparecida.
-
-El procedimiento de Declaración Especial de Ausencia podrá solicitarse a partir de los tres meses de que se haya hecho la Denuncia o Reporte de desaparición, o la presentación de queja ante la Comisión Nacional de los Derechos Humanos o la Comisión Estatal de Derechos Humanos.
-
-El procedimiento para emitir la Declaración Especial de Ausencia se regirá bajo los principios de inmediatez, celeridad y gratuidad. Los gastos derivados de este procedimiento, incluyendo publicación de edictos, no causarán contribución alguna en el caso de publicación en medios oficiales. La Comisión Ejecutiva Estatal, deberá otorgar las medidas de asistencia necesarias a los Familiares durante el procedimiento, incluido el gasto que se genere con motivo del mismo, de conformidad con lo dispuesto en la Ley de Víctimas del Estado y demás normativa aplicable.
-
-Los procedimientos a que se refiere este Capítulo deben contemplar la posibilidad de emitir medidas provisionales durante el procedimiento y deberán omitir requisitos que resulten onerosos para la emisión de las declaratorias. Los Familiares podrán en cualquier momento antes de emitida la Declaratoria desistirse de continuar con el procedimiento.
+(DEROGADO, G.O. 20 DE MARZO DE 2019)
 
 ###### Artículo 80.
 
@@ -1284,5 +1266,13 @@ G.O. 21 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 777 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO Y EL PÁRRAFO PRIMERO DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; SE ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y DEROGAN LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
