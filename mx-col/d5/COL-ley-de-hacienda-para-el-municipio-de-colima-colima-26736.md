@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-01-22"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1459,11 +1459,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-Para el ejercicio fiscal 2015, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto, sin que ello genere multas o recargos.
+Para el ejercicio fiscal 2019, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante el mes de marzo, sin que ello genere multas o recargos.
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
@@ -1728,3 +1728,9 @@ P.O. 22 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 34 POR EL QUE SE REFORMAN LOS NUMERALES 1 Y 2 DEL INCISO B) DE LA FRACCIÓN I, LAS FRACCIONES II, III Y IV E INCISO A) DE LA FRACCIÓN V; SE ADICIONA EL INCISO A) A LA FRACCIÓN IV; Y SE DEROGAN EL INCISO A) DE LA FRACCIÓN I, LOS NUMERALES 3, 4 Y 5 DEL INCISO B) DE LA FRACCIÓN I, INCISOS B), C) Y D) DE LA FRACCIÓN V Y LA FRACCIÓN VI; TODOS DEL ARTÍCULO 96 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA".]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
