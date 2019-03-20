@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2017-11-23"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3728,6 +3728,12 @@ Por causa de ausencia no se suspenden los términos que fija la ley para la pres
 ARTICULO 652
 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2019)</small>
+
+ARTICULO 652 BIS.
+
+Para la Declaración Especial de Ausencia por Desaparición, aplicable a una persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, se estará a lo establecido en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
 
 TITULO DECIMOSEGUNDO
 
@@ -16416,5 +16422,13 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 299 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 345 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 239 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; SE ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE DEROGAN LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
