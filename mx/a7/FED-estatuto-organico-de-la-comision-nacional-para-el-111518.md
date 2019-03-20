@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-el-111518"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-19"
-last_updated: "2016-01-19"
+last_updated: "2019-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111518&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-21"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 19 de enero de 2016.
 
@@ -636,3 +638,21 @@ Tercero. El Director General proveerá lo necesario para que el Manual General d
 Cuarto. En tanto entra en vigor el Manual General de Organización de la Comisión, el Director General podrá emitir las normas y lineamientos para la operación de ésta.
 
 Dado en la Ciudad de México, Distrito Federal, a los 21 días del mes de diciembre de dos mil quince.- La Directora General, Nuvia Magdalena Mayorga Delgado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS”.]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 19 de enero de 2016.
+
+Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto corresponda a las disposiciones que establecen la Ley del Instituto Nacional de los Pueblos Indígenas y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
+
+Cuarto. En virtud de la reasignación de competencias, los asuntos que se encuentran en trámite a la fecha de publicación de este Estatuto serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les da la competencia en el mismo.
+
+Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente ordenamiento.
+
+Quinto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, el Director General podrá emitir las normas y lineamientos para la operación de éste.
