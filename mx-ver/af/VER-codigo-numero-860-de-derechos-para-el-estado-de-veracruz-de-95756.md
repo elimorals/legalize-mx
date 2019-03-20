@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2018-09-10"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -5733,7 +5733,9 @@ g) Altamente complejo 20.0286 UMA
 
 Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción: 0. 2651 UMA
 
-En los Juicios de alimentos y en los de reconocimiento de hijos, la expedición de copias certificadas no tendrá costo.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2019)</small>
+
+En los Juicios de alimentos y en los de reconocimiento de hijos, así como en el procedimiento de Declaración Especial de Ausencia por Desaparición, la expedición de copias certificadas no tendrá costo.
 
 ###### Artículo 61.
 
@@ -5938,5 +5940,13 @@ G.O. 10 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 730 QUE REFORMA EL INCISO n) DE LA FRACCIÓN XXVIII, DEL APARTADO A, DEL ARTÍCULO 13 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 239 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS; LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL; ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL; Y DEROGA LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
