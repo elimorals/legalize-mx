@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2016-11-29"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -181,7 +181,7 @@ Las acciones del estado civil fundadas en la posesión de estado, producirán el
 
 ARTICULO 21
 
-Ninguna acción puede ejercitarse sino por aquél a quien competa o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor, cuando habiendo excitado a éste en forma judicial o extrajudicial ante notario, descuide o rehuse hacerlo dentro del término de diez días naturales contados a partir del siguiente al del requerimiento. El tercero demandado puede paralizar la acción pagando al demandante el monto del crédito o garantizando su pago a satisfacción de éste.
+Ninguna acción puede ejercitarse sino por aquél a quien competa o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor, cuando habiendo excitado a éste en forma judicial o extrajudicial ante notario, descuide o rehúse hacerlo dentro del término de diez días naturales contados a partir del siguiente al del requerimiento. El tercero demandado puede paralizar la acción pagando al demandante el monto del crédito o garantizando su pago a satisfacción de éste.
 
 Las acciones derivadas de derechos inherentes a la persona del deudor, nunca se ejercitarán por el acreedor.
 
@@ -877,11 +877,11 @@ XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente
 
 XV.- El que deba conoce por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año; a no ser que se trate de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a cien días de salario mínimo general vigente en la capital del Estado durante el mes de enero en que se presente la demanda o reconvención es competente un Juez de Paz; de este monto en adelante y hasta el equivalente a mil días del salario mínimo general antes mencionado es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de este equivalente en adelante, un Juez de Primera Instancia.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
-
 ARTICULO 117
 
-De las cuestiones inherentes a la familia, conocerán los jueces de Primera Instancia de lo Familiar.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2019)</small>
+
+Los Jueces de primera instancia de lo familiar conocerán de las cuestiones inherentes a la familia, así como de la Declaración Especial de Ausencia por Desaparición prevista en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas para el Estado de Veracruz.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1459,7 +1459,7 @@ En estos casos, la providencia tendrá por objeto impedir la continuación de la
 
 ARTICULO 196
 
-No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequías donde se recojan las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por mal olor, o por causa de los materiales que se arrojen en su predio o en la calle. En estos casos, se observarán los reglamentos gubernativos.
+No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recojan las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por mal olor, o por causa de los materiales que se arrojen en su predio o en la calle. En estos casos, se observarán los reglamentos gubernativos.
 
 ARTICULO 197
 
@@ -1909,7 +1909,7 @@ ARTICULO 250
 
 Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no contendrán más que un solo hecho cada una y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que exista entre ellos no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tienen por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder con el objeto de obtener una confesión contraria a la verdad.
 
-Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
+Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reunan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
 ARTICULO 251
 
@@ -2039,9 +2039,9 @@ I.- Los documentos que las partes reconozcan como tales, de común acuerdo;
 
 II.- Los documentos privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya la dudosa;
 
-III.- Los documentos privados cuya letra o firma ha sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
+III.- Los documentos privados cuya letra o firma ha sido judicialmente declarada propia de aquel a quien se atribuye la dudosa;
 
-IV.- El escrito impugnado en la parte en que reconozca la letra como suya a aquél a quien perjudique.
+IV.- El escrito impugnado en la parte en que reconozca la letra como suya a aquel a quien perjudique.
 
 V.- Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
 
@@ -2147,7 +2147,7 @@ Los que tengan conocimiento de los hechos que las partes quieran probar, están 
 
 ARTICULO 282
 
-Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente a treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente de treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -2685,7 +2685,7 @@ Sólo hasta después de asegurados los bienes por medio del secuestro, podrán t
 
 ARTICULO 356
 
-Pasado el plazo del artículo 353 sin haberse cumplido la sentencia, se procederá al embargo.
+Pasado el plazo del artículo 353 sin haberse cumplido la sentencia; se procederá al embargo.
 
 ARTICULO 357
 
@@ -2963,7 +2963,7 @@ ARTICULO 397
 
 Si el secuestro recayere en finca urbana y sus rentas o sobre éstas solamente, el depositario tendrá el carácter de administrador, con las facultades y obligaciones siguientes:
 
-I.- Podrá contratar los arrendamientos, sobre la base de que las rentas no sean menores de las que al tiempo de verificarse el secuestro rindiere la finca o departamento de ésta que estuviere arrendado; para el efecto, si ignorase cuál era en ese tiempo la renta, lo pondrá en conocimiento del juez, para que recabe la noticia de la oficina de contribuciones. Exigirá para asegurar el arrendamiento las garantías de estilo, bajo su responsabilidad. Si no quiere aceptar ésta, recabará la autorización judicial;
+I.- Podra contratar los arrendamientos, sobre la base de que las rentas no sean menores de las que al tiempo de verificarse el secuestro rindiere la finca o departamento de ésta que estuviere arrendado; para el efecto, si ignorase cuál era en ese tiempo la renta, lo pondrá en conocimiento del juez, para que recabe la noticia de la oficina de contribuciones. Exigirá para asegurar el arrendamiento las garantías de estilo, bajo su responsabilidad. Si no quiere aceptar ésta, recabará la autorización judicial;
 
 II.- Recaudará las pensiones que por arrendamiento rinda la finca, en sus términos y plazos; procediendo en su caso contra los inquilinos morosos, con arreglo a la ley;
 
@@ -5199,7 +5199,7 @@ V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombre
 
 VI.- El procedimiento voluntario de apeo y de deslinde;
 
-VII.- La constitución y extinción voluntaria del Patrimonio Familiar;
+VII.- La construcción y extinción voluntaria del Patrimonio Familiar;
 
 VIII.- La liquidación voluntaria de la sociedad conyugal, siempre que no existan menores;
 
@@ -5315,7 +5315,7 @@ ARTICULO 702
 
 La declaración de discapacidad intelectual que no resulte declarada en sentencia firme se acreditará en incidente que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
-El nombramiento de tutor interino deberá recaer, por su orden, en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del discapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
+El nombramiento de tutor interino deberá recaer, por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del discapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
 
 ARTICULO 703
 
@@ -5335,7 +5335,7 @@ III.- Si el auto de primera instancia fuere declaratorio de estado de minoridad 
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una cantidad equivalente a ciento ochenta días del salario mínimo general vigente en la Capital del Estado en el momento de su aplicación, que se destinará íntegramente el supuesto discapacitado; y
+IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una cantidad equivalente a ciento ochenta días del salario mínimo general vigente en la capital del Estado en el momento de su aplicación, que se destinará íntegramente al supuesto discapacitado; y
 
 V.- Luego que cause ejecutoria la sentencia de interdicción, se proveerá a discernir el cargo al tutor propietario en los términos de ley.
 
@@ -6232,3 +6232,11 @@ G.O. 29 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ."]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; SE ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE DEROGAN LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
