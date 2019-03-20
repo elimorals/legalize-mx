@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-11-25"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3245,11 +3245,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-Para el ejercicio fiscal 2015, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto, sin que ello genere multas o recargos.
+Para el ejercicio fiscal 2019, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante el mes de marzo, sin que ello genere multas o recargos.
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
@@ -3428,3 +3428,9 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 376 POR EL QUE SE APRUEBA OTORGAR UN DESCUENTO DEL 50% EN EL PAGO DEL IMPUESTO PREDIAL POR CONCEPTO DE PRONTO PAGO O ANUALIDAD ADELANTADA, DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO A LAS INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa su su (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
