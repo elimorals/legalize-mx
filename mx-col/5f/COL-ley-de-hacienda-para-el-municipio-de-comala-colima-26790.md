@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-11-25"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -86,8 +86,6 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 ###### ARTICULO 3º.
 
 Para efectos de la presente Ley, se entiende por:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -547,15 +545,11 @@ A petición del contribuyente se pondrá el valor de la transacción, siempre y 
 
 La base de este impuesto, tratándose de transmisión de la propiedad que realicen los organismos públicos descentralizados del Gobierno Federal o Estatal, cuyo objeto sea la regularización de la tenencia de la tierra, será el valor señalado como precio de la operación entre dicho organismo como vendedor y el avecindado o comprador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 26.
 
 En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento de la base.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -565,13 +559,9 @@ La base del impuesto será el 50 por ciento en los siguientes casos:
 
 I. En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -620,8 +610,6 @@ III. Tratándose de adquisiciones efectuadas a través del fideicomiso, cuando s
 IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva; y
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -699,15 +687,11 @@ Los notarios públicos no autorizarán ninguna escritura definitiva en donde con
 
 Los notarios, jueces y demás servidores públicos no certificarán las firmas de los contratos privados a que se refiere este Capítulo, si no les comprueban el pago de este impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
 Los servidores públicos del Registro no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no les sean exhibidos los comprobantes de pago del impuesto a que se refiere este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -1129,8 +1113,6 @@ este artículo, por metro cuadrado o
 
 fracción: 0.30 a 5.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 XI. Permisos de construcción de sistemas de comunicación, por metro lineal de altura de la antena, de acuerdo a la siguiente clasificación:
@@ -1138,8 +1120,6 @@ XI. Permisos de construcción de sistemas de comunicación, por metro lineal de 
 a).- Antenas de comunicación. 1.83
 
 b).- Antenas de radio comunicación. 1.83
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1155,8 +1135,6 @@ d).- Empedrados. 2.00
 
 e).- Adoquín. 4.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 XIII. Permiso de construcción de accesos, carril de aceleración y aceleración de bayonetas, glorietas y retornos, Por (sic) m2 según su clasificación:
@@ -1168,8 +1146,6 @@ b).- Asfalto. 0.05
 c).- Concreto hidráulico. 0.07
 
 d).- Adoquín. 0.09
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1698,8 +1674,6 @@ Es base para el cálculo de los derechos a que se refiere este Capítulo, el nú
 ###### ARTICULO 75.
 
 Para la realización de los actos de publicidad referidos en el artículo 71 de esta Ley, se requerirá tener previamente la licencia o autorización respectiva; tratándose de publicidad ya instalada deberá solicitarse el refrendo durante los meses de enero y febrero del ejercicio que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -2345,8 +2319,6 @@ D) OTRAS LICENCIAS Y PERMISOS
 
 Unidades de salario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 97, fracción I, inciso b), de este ordenamiento.
@@ -2931,8 +2903,6 @@ IV.- Vehículos de transporte urbano colectivo,
 
 anualmente, por cajón 7.34
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 V. Las personas físicas o morales que
@@ -3079,8 +3049,6 @@ cantidad diaria menor a 1.50 M3 sin
 
 compactar, pagarán 0.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 b) (sic) Quienes realicen actividades comerciales, industriales o de prestación de servicios que cuenten con licencia municipal de funcionamiento, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas medidas se estará a lo dispuesto por las siguientes:
@@ -3220,8 +3188,6 @@ Los servicios públicos que de conformidad con la Ley del Municipio Libre del Es
 ARTICULO 103 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Derechos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Derechos.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3485,11 +3451,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
-Para el ejercicio fiscal 2015, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto, sin que ello genere multas o recargos.
+Para el ejercicio fiscal 2019, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante el mes de marzo, sin que ello genere multas o recargos.
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
@@ -3672,3 +3638,9 @@ P.O. 25 NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 376 POR EL QUE SE APRUEBA OTORGAR UN DESCUENTO DEL 50% EN EL PAGO DEL IMPUESTO PREDIAL POR CONCEPTO DE PRONTO PAGO O ANUALIDAD ADELANTADA, DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO A LAS INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa su su (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
