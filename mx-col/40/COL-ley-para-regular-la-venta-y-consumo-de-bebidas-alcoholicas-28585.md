@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2018-06-02"
+last_updated: "2019-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -433,9 +433,9 @@ TERCERO.- En tanto se establecen los órganos de lo contencioso-administrativos 
 
 CUARTO.- Los Ayuntamientos expedirán los reglamentos municipales a que se refiere esta Ley, en un plazo que no excederá de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
-QUINTO.- Para el ejercicio fiscal 2015, la solicitud del refrendo de las licencias a que se refiere (sic) artículo 14 de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto.
+QUINTO.- Para el ejercicio fiscal 2019, la solicitud del refrendo de las licencias a que se refiere el artículo 14 de esta Ley, por única ocasión podrá realizarse durante el mes de marzo.
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
@@ -520,3 +520,9 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 489 POR EL QUE SE REFORMAN LOS ARTÍCULO 38Y 39 DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 20 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
