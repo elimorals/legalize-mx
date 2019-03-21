@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2018-09-06"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1279,13 +1279,17 @@ El Ayuntamiento debe reglamentar quién suplirá las ausencias menores a setenta
 
 De igual forma, el órgano de gobierno municipal debe designar por mayoría absoluta de votos, al munícipe que deba continuar en la conducción de las sesiones del Ayuntamiento en las que el Presidente Municipal deba retirarse por motivo de compromisos oficiales, urgentes que requieran de su presencia o por causas de fuerza mayor. En estos casos, el edil designado por el Ayuntamiento tiene facultades únicamente para presidir la sesión pero no suple al Presidente Municipal para la toma de decisiones ejecutivas, ni para el ejercicio del voto de calidad.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 69.
 
-El ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, un presidente municipal interino, en los siguientes casos:
+El ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, al Presidente o la Presidenta Municipal interino, en los siguientes casos:
 
-I. Por licencia del Presidente Municipal mayor a dos meses;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+I. Por licencia del Presidente o la Presidenta Municipal mayor a dos meses;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2008)</small>
 
 II. Por suspensión del mandato; o
 
@@ -1293,25 +1297,45 @@ II. Por suspensión del mandato; o
 
 III. Por privación de la libertad con motivo de un proceso penal.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 70.
 
-El ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, un presidente municipal substituto, en los siguientes casos:
+El Ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por mayoría absoluta de votos, al Presidente o la Presidenta Municipal substituto, en los siguientes casos:
 
-I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Presidente Municipal;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Presidente o la Presidenta Municipal;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2008)</small>
 
 II. Por revocación del mandato; o
 
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2008)</small>
+
 III. Por destitución del cargo, en los casos previstos en la ley estatal en materia de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 71.
 
-Antes de efectuar la elección de presidente municipal substituto se debe llamar al regidor suplente de la planilla registrada. Una vez completo el ayuntamiento se debe efectuar la elección del presidente municipal substituto.
+Para efectuar la designación de la o el Presidente Municipal substituto o interino, se deberá observar lo siguiente:
 
-El mismo procedimiento se seguirá cuando se deba nombrar presidente municipal interino por las causales establecidas en las fracciones II y III del artículo 69.
+I. El Secretario General del Ayuntamiento deberá llamar al regidor o regidora suplente de la planilla registrada. Una vez completo el Ayuntamiento se debe efectuar la elección, por mayoría absoluta de votos.
+
+En todos los casos de substitución o interinato la elección de la o el Presidente Municipal, deberá hacerse de entre los miembros en funciones que sean del mismo género que la o el Presidente ausente;
+
+II. En caso de ausencia de la o el Presidente Municipal designado de conformidad a la fracción anterior, el Ayuntamiento debe proceder a nombrar a quien lo sustituirá, de conformidad a lo siguiente:
+
+a) Antes de efectuar la elección de la o el Presidente Municipal, el Secretario General del Ayuntamiento deberá llamar al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido;
+
+b) Una vez completo el Ayuntamiento se debe efectuar la elección, por mayoría absoluta de votos;
+
+c) La elección de la o el Presidente, deberá hacerse de entre los miembros en funciones;
+
+d) En los casos en que el Presidente Municipal a sustituir sea mujer, deberá elegirse otra mujer para continuar en el cargo y en los casos en que se trate de un hombre, el ayuntamiento podrá elegir a un hombre o a una mujer; y
+
+III. En caso de ausencia del suplente de la o el Presidente independientemente de que ejerza el cargo designado de conformidad a la (sic) fracciones anteriores, el Ayuntamiento a través del Secretario General deberá llamar al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido que sea del mismo género del suplente ausente.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2714,3 +2738,11 @@ P.O. 6 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26936/LXI/18 QUE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
