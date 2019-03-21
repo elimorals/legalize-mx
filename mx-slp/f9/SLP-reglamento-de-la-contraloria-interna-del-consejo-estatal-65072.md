@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-contraloria-interna-del-consejo-estatal-65072"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-25"
-last_updated: "2008-11-25"
+last_updated: "2019-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA CONTRALORIA INTERNA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DE SAN LUIS POTOSI
 
-REGLAMENTO DE LA CONTRALORIA INTERNA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DE SAN LUIS POTOSI
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ POR MEDIO DEL CUAL SE EMITE EL REGLAMENTO DE LA CONTRALORÍA INTERNA, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA CONTRALORÍA INTERNA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de noviembre de 2008.
 
@@ -31,7 +33,9 @@ Consejo Estatal Electoral y de Participación Ciudadana
 
 REGLAMENTO DE LA CONTRALORÍA INTERNA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ.
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 DÉCIMO. Que con fundamento en las disposiciones legales anteriores, el Pleno del Consejo Estatal Electoral y de Participación Ciudadana expide el siguiente
 
@@ -194,3 +198,17 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aproba
 SEGUNDO. Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
 
 Así por unanimidad de votos lo aprobó el Pleno del Consejo Estatal Electoral y de Participación Ciudadana en Sesión Ordinaria de fecha doce de noviembre del año dos mil ocho. Lic. Rodolfo J, Aguilar Gallegos, Consejero Presidente. Lic. Rafael Rentería Armendáriz, Secretario de Actas. (Rúbricas)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA CONTRALORÍA INTERNA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Pleno del Consejo Estatal Electoral y de Participación Ciudadana.
+
+SEGUNDO. Se abroga el Reglamento de la Contraloría Interna del Consejo Estatal Electoral y de Participación ciudadana de San Luis Potosí, aprobado por Pleno del Consejo Estatal Electoral y de Participación Ciudadana en Sesión Ordinaria de fecha doce de noviembre del año dos mil ocho, (sic) que se opongan al presente Reglamento.
+
+TERCERO. Para la regulación de las facultades conferidas a las Jefaturas y/o áreas previstas en el presente reglamento, la Contraloría Interna del Consejo, emitirá los ordenamientos necesarios conducentes en la materia.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
