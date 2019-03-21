@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2018-07-03"
+last_updated: "2019-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1171,9 +1171,9 @@ Las autoridades educativas estatal y municipal en el ámbito de su competencia r
 
 I.- Promover y apoyar programas deportivos y de recreación, para preservar la salud física y mental de la niñez y la juventud;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-II.- Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud; haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente;
+II. Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud, implementando campañas para erradicar el uso de envases de politereftalato de etileno, así como haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente;
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -1403,13 +1403,17 @@ IV.- Cumplir los requisitos previstos en los artículos 77 y 78 de esta Ley;
 
 V.- Anotar en toda la documentación que expidan y en su publicidad, el número y fecha del acuerdo de autorización o de reconocimiento de validez oficial de estudios, así como el nombre de la autoridad que la otorgó;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-VI.- Ejecutar los programas establecidos por la Secretaría de Salud, en coordinación con la Secretaría de Educación del Estado, que fomenten el consumo de alimentos y bebidas con alto contenido nutricional, y
+VI.- Ejecutar los programas establecidos por la Secretaría de Salud, en coordinación con la Secretaría de Educación del Estado, que fomenten el consumo de alimentos y bebidas con alto contenido nutricional;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-VII.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
+VII.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen, y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2019)</small>
+
+VIII. Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud, implementando campañas para erradicar el uso de envases de politereftalato de etileno, así como haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -2474,3 +2478,11 @@ P.O. 3 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0131.- SE REFORMAN LOS ARTÍCULOS 67 Y 80; Y ADICIONA AL ARTÍCULO 80 LA FRACCIÓN VIII, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico (sic) Gobierno Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
