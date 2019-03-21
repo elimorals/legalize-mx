@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2017-02-05"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-02-05"
 ---
 # CONSTITUCION POLITICA DE LA CIUDAD DE MEXICO
 
-[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LA PRESENTE CONSTITUCIÓN ENTRARÁ EN VIGOR EL 17 DE SEPTIEMBRE DE 2018, EXCEPTO POR LO QUE HACE A LA MATERIA ELECTORAL, QUE ESTARÁ VIGENTE A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN; ASIMISMO, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS PARA CONOCER LOS DEMÁS SUPUESTOS QUE SE ESTABLECEN EN LA PROPIA CONSTITUCIÓN].
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2019.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -3888,9 +3888,13 @@ DÉCIMO.- De conformidad con lo que dispone la Constitución Política de los Es
 
 DÉCIMO PRIMERO.- Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México y a más tardar el 31 de diciembre de 2017, expida las leyes constitucionales relativas a la organización y funcionamiento de los Poderes Legislativo, Ejecutivo y Judicial de la Ciudad de México, así como para expedir las normas necesarias para la implementación de las disposiciones constitucionales relativas a la organización política y administrativa de la Ciudad de México y para que sus autoridades ejerzan las facultades que establece esta Constitución.
 
-Las leyes relativas al Poder Legislativo entrarán en vigor el 17 de septiembre de 2018; las del Poder Ejecutivo el 5 de diciembre de 2018 y las del Poder Judicial el 1 de junio de 2019, con excepción de las disposiciones relativas al Consejo Judicial Ciudadano y al Consejo de la Judicatura, las cuales deberán iniciar su vigencia a partir del 1 de octubre de 2018; así como las de la Sala Constitucional, que deberán iniciar su vigencia a partir del 1 de enero de 2019.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
 
-La I Legislatura del Congreso emitirá la convocatoria a que se refiere el artículo 37 de esta Constitución, a fin de que el Consejo Judicial Ciudadano quede constituido a más tardar el 31 de diciembre de 2018.
+Las leyes relativas al poder legislativo entraran en vigor el 17 de septiembre de 2018; las del Poder Ejecutivo el 5 de diciembre de 2018 y las del Poder Judicial, el 1° de junio de 2019.
+
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+
+La I Legislatura del Congreso emitirá la convocatoria a que se refiere el artículo 37 de esta Constitución, a fin de que el Consejo Judicial Ciudadano quede constituido a más tardar el 30 de septiembre de 2019.
 
 DÉCIMO SEGUNDO.- La Asamblea Legislativa del Distrito Federal expedirá, una vez publicada esta Constitución, las leyes inherentes a la organización, funcionamiento y competencias necesarias para las alcaldías, a partir del inicio de sus funciones en 2018. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
 
@@ -3922,13 +3926,17 @@ La comisión técnica también establecerá las bases para seleccionar al resto 
 
 En la selección de agentes del Ministerio Público y el resto del personal de la Fiscalía respetará la paridad de género.
 
-La Fiscalía deberá comenzar operaciones a más tardar el 31 de mayo de 2019 y lo podrá hacer de forma gradual.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+
+La Fiscalía deberá comenzar operaciones a más tardar el 10 de enero de 2020.
 
 La Procuraduría General de Justicia del Distrito Federal continuará encargándose de la función ministerial hasta que inicie sus funciones la Fiscalía.
 
 Todas las averiguaciones previas y carpetas de investigación iniciadas por la Procuraduría General de Justicia del Distrito Federal antes que entre en funcionamiento la Fiscalía General de Justicia, se concluirán por ésta en los términos de las disposiciones vigentes antes de la entrada en vigor de la ley que la rija.
 
-La ley de la Fiscalía General de Justicia entrará en vigor el 5 de diciembre de 2018. La o el Fiscal General de Justicia será designado por el Congreso de la Ciudad de México a más tardar el 30 de abril de 2019.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+
+La ley de la Fiscalía General de Justicia entrará en vigor el 5 de diciembre de 2019. La o el Fiscal General de Justicia será designado por el Congreso de la Ciudad de México a más tardar el 15 de diciembre de 2019.
 
 DÉCIMO OCTAVO.- El Congreso de la Ciudad de México expedirá las leyes o realizará las modificaciones a los ordenamientos que rigen a los organismos autónomos establecidos en esta Constitución, a más tardar el 30 de abril de 2019.
 
@@ -3962,19 +3970,25 @@ Los derechos laborales de las personas trabajadoras que presten sus servicios en
 
 VIGÉSIMO TERCERO.- Las y los jueces y magistrados del Tribunal Superior de Justicia del Distrito Federal se integrarán en el Poder Judicial de la Ciudad de México, una vez que éste inicie sus funciones, de conformidad con lo que establece esta Constitución.
 
-A partir del inicio de la vigencia de la legislación relativa, el Congreso deberá designar al Consejo Judicial Ciudadano a más tardar el 31 de diciembre de 2018.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII, SUBAPARTADOS A Y B, PARTE PRIMERA, Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 81/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO TERCERO DEL TRANSITORIO VIGÉSIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+A partir del inicio de la vigencia de la legislación relativa, el Congreso deberá designar al Consejo Judicial Ciudadano a más tardar el 30 de septiembre de 2019.
 
-ESTE CONSEJO, DEBERÁ DESIGNAR A LAS Y LOS INTEGRANTES DEL CONSEJO DE LA JUDICATURA A MÁS TARDAR EL 15 DE JUNIO DE 2019.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+
+Este Consejo, deberá designar a las y los integrantes del Consejo de la Judicatura a más tardar el 15 de diciembre de 2019, el cual iniciará sus funciones el 13 de enero de 2020; hasta en tanto el Consejo Judicial Ciudadano no designe a las y los integrantes del Consejo de la Judicatura, las y los Consejeros de la Judicatura designados con anterioridad a la entrada en vigor de la presente Constitución continuarán ejerciendo su encargo. El Presidente del Tribunal Superior de Justicia será el Presidente del Consejo de la Judicatura, hasta en tanto inicie funciones el nuevo Consejo de la Judicatura. Hasta en tanto inicie funciones el Consejo de la Judicatura nombrado por el Consejo Judicial Ciudadano, los nombramientos y ratificaciones de jueces y magistrados del Tribunal Superior de Justicia se realizarán conforme a las disposiciones previas a la entrada en vigor de la presente Constitución.
 
 Para la sustitución escalonada de las y los integrantes del Consejo de la Judicatura, en la primera integración, el Consejo Judicial Ciudadano designará a tres Consejeras o Consejeros de la Judicatura que ocuparán el cargo por cuatro años, a dos consejeras o consejeros que lo ocuparán por tres años y a dos consejeras o consejeros que lo ocuparán dos años.
 
 Los procedimientos del Consejo de la Judicatura iniciados antes del 17 de septiembre de 2018, se agotarán en los términos de las disposiciones vigentes hasta antes de la entrada en vigor de la presente Constitución.
 
-El Tribunal Superior de Justicia designará a las y los integrantes de la Sala Constitucional a más tardar el 31 de enero de 2019. La Sala Constitucional se instalará al día siguiente.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
 
-El Consejo de la Judicatura deberá instalar juzgados tutelares en cada una de las alcaldías, mismos que deberán entrar en funcionamiento a más tardar el 1 de enero de 2020.
+El Tribunal Superior de Justicia designará a las y los integrantes de la Sala Constitucional a más tardar el 1 de diciembre de 2019. La Sala Constitucional se instalará al día siguiente.
+
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+
+El Consejo de la Judicatura deberá instalar juzgados tutelares en cada una de las alcaldías, mismos que deberán entrar en funcionamiento a más tardar el 31 de julio de 2020.
 
 La competencia de dichos juzgados, así como el procedimiento que deberá seguirse ante éstos para el ejercicio de las acciones de protección efectiva de derechos, se regularán en la Ley Orgánica del Poder Judicial.
 
@@ -4053,3 +4067,13 @@ TRIGÉSIMO NOVENO.- En las materias de su competencia, el Congreso deberá adecu
 Dada en el Salón de Sesiones de la Asamblea Constituyente de la Ciudad de México, en la Antigua Casona de Xicoténcatl, a los treinta y un días del mes de enero de dos mil diecisiete.- Por la Mesa Directiva: el Presidente, Alejandro de Jesús Encinas Rodríguez.- Rúbrica.- La Primera Vicepresidenta, Clara Marina Brugada Molina.- Rúbrica.- La Segunda Vicepresidenta, Irma Cué Sarquis.- El Tercer Vicepresidente, Mauricio Tabe Echartea.- Rúbrica.- La Primer Secretaria, Margarita Saldaña Hernández.- Rúbrica.- La Segunda Secretaria, Bertha Elena Luján Uranga.- Rúbrica.- La Tercer Secretaria, Aída Arregui Guerrero.- Rúbrica.- Por la Mesa de Consulta, los Coordinadores de Grupos Parlamentarios: Partido de la Revolución Democrática, María de los Dolores Padierna Luna.- Rúbrica.- MORENA, Bernardo Bátiz Vázquez.- Rúbrica.- Partido Revolucionario Institucional, César Octavio Camacho Quiroz.- Rúbrica.- Partido Acción Nacional, Santiago Creel Miranda.- Rúbrica.- Ejecutivo Federal, Fernando Francisco Lerdo de Tejada Luna.- Rúbrica.- Constitucionalista y Coordinador de la Conferencia de Armonización, Porfirio Alejandro Muñoz Ledo y Lazo de la Vega.- Rúbrica.- Partido Verde Ecologista de México, Luis Alejandro Bustos Olivares.- Rúbrica.- Partido Movimiento Ciudadano, Alejandro Chanona Burguete.- Rúbrica.- Partido Nueva Alianza, Gabriel Ricardo Quadri de la Torre.- Rúbrica.- Partido Encuentro Social, Hugo Eric Flores Cervantes.- Rúbrica.- Los Presidentes de Comisiones: Principios Generales, Jesús Enrique Jackson Ramírez.- Rúbrica.- Carta de Derechos, María Marcela Lagarde y de los Ríos.- Rúbrica.- Desarrollo Sostenible y Planeación Democrática, Enrique Provencio Durazo.- Rúbrica.- Ciudadanía, Ejercicio Democrático y Régimen de Gobierno, Raúl Bautista González.- Rúbrica.- Poder Judicial, Procuración de Justicia, Seguridad Pública y Organismos Constitucionales Autónomos, Manuel Enrique Díaz Infante de la Mora.- Rúbrica.- Alcaldías, Gabriela Cuevas Barrón.- Rúbrica.- Pueblos y Barrios Originarios y Comunidades Indígenas Residentes, Jesús Ramírez Cuevas.- Rúbrica.- Buen Gobierno, Combate a la Corrupción y Régimen de Responsabilidades de los Servidores Públicos, Armando Ríos Piter.- Rúbrica.- Los Diputados Constituyentes: Claudia Aguilar Barroso.- Rúbrica.- Gonzalo Altamirano Dimas.- Rúbrica.- Diana Arellano Rivera.- Rúbrica.- Jorge Aréchiga Ávila.- Rúbrica.- Juan Ayala Rivero.- Rúbrica.- Armando Jesús Baez Pinal.- Rúbrica.- Marath Baruch Bolaños López.- Rúbrica.- María Fernanda Bayardo Salim.- Rúbrica.- Bruno Iván Bichir Nájera.- Rúbrica.- Héctor Hermilo Bonilla Rebentún.- Rúbrica.- Enrique Burgos García.- Rúbrica.- Jaime Fernando Cárdenas Gracia.- Rúbrica.- Lolkin Castañeda Badillo.- Rúbrica.- René Cervera García.- Rúbrica.- Elena Chávez González.- Rúbrica.- Isidro Hildegardo Cisneros Ramírez.- Rúbrica.- Ernesto Javier Cordero Arroyo.- Rúbrica.- Katia D´Artigues Beauregard.- Rúbrica.- Esthela Damián Peralta.- Rúbrica.- Yolanda de la Torre Valdez.- Rúbrica.- Mayela Eugenia Delgadillo Bárcena.- Rúbrica.- Federico Döring Casar.- Rúbrica.- José Eduardo Escobedo Miramontes.- Rúbrica.- Ismael Figueroa Flores.- Rúbrica.- Carlos Gelista González.- Rúbrica.- Roberto Gil Zuarth.- Rúbrica.- Mariana Gómez del Campo Gurza.- Rúbrica.- María Teresa Gómez Mont y Urueta.- Rúbrica.- Augusto Gómez Villanueva.- Rúbrica.- Lisbeth Hernández Lecona.- Rúbrica.- María Gloria Hernández Madrid.- Rúbrica.- Ana Julia Hernández Pérez.- Rúbrica.- Javier Jiménez Espriú.- Rúbrica.- Nelly Antonia Juárez Audelo.- Rúbrica.- Clara Jusidman Rapoport.- Rúbrica.- Elvira Daniel Kabbaz Zaga.- Rúbrica.- Tobyanne Ledesma Rivera.- Rúbrica.- Cynthia Iliana López Castro.- Rúbrica.- Kenia López Rabadán.- Rúbrica.- Roberto López Suárez.- Rúbrica.- Humberto Lozano Avilés.- Rúbrica.- Aristeo López Pérez.- Rúbrica.- Ana Laura Magaloni Kerpel.- Rúbrica.- María Lorena Marín Moreno.- Rúbrica.- José Andrés Millán Arroyo.- Rúbrica.- Ifigenia Martha Martínez y Hernández.- Rúbrica.- Julio César Moreno Rivero.- Rúbrica.- Edda Alejandra Beatriz Moreno y Toscano.- Rúbrica.- Guadalupe Elizabeth Muñoz Ruiz.- Rúbrica.- José Marco Antonio Olvera Acevedo.- Rúbrica.- María Eugenia Ocampo Bedolla.- Rúbrica.- José Manuel Oropeza Morales.- Rúbrica.- José Jesús Ortega Martínez.- Rúbrica.- Patricia Jimena Ortiz Couturier.- Rúbrica.- Beatriz Pagés Llergo Rebollar.- Rúbrica.- Claudia Pastor Badilla.- Rúbrica.- María de la Paz Quiñones Cornejo.- Rúbrica.- Javier Quijano Baz.- Rúbrica.- Gabriela Rodríguez Ramírez.- Rúbrica.- Jaime Eduardo Rojo Cedillo.- Rúbrica.- María Guadalupe Cecilia Romero Castillo.- Rúbrica.- Juan Carlos Romero Hicks.- Rúbrica.- Lilia Eugenia Rossbach Suárez.- Rúbrica.- Martha Patricia Ruiz Anchondo.- Rúbrica.- María Lucero Saldaña Pérez.- Rúbrica.- Olga María del Carmen Sánchez Cordero.- Rúbrica.- María del Consuelo Sánchez Rodríguez.- Rúbrica.- Irma Eréndira Sandoval Ballesteros.- Rúbrica.- María Esther de Jesús Scherman Leaño.- Rúbrica.- Jesús Sesma Suárez.- Rúbrica.- Cecilia Guadalupe Soto González.- Rúbrica.- Santiago Taboada Cortina.- Rúbrica.- Margarita María Valdés González Salas.- Rúbrica.- Jesús Salvador Valencia Guzmán.- Rúbrica.- Miguel Ángel Marcos Velázquez Muñoz.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero, Segundo y Octavo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; para su debida publicación y observancia, expido el presente Acuerdo por el que instruyo al Consejero Jurídico y de Servicios Legales, Dr. Manuel Granados Covarrubias que realice la publicación en la Gaceta Oficial de la Ciudad de México de la Constitución Política de la Ciudad de México, aprobada y expedida por el Pleno de la Asamblea Constituyente en Sesión Solemne el 31 de enero de 2017. Dado en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los cinco días del mes de febrero del año dos mil diecisiete.- El Jefe de Gobierno de la Ciudad de México, Miguel Ángel Mancera Espinosa.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO PRIMERO, PÁRRAFO TERCERO; DÉCIMO SÉPTIMO, PÁRRAFOS SÉPTIMO Y DÉCIMO Y VIGÉSIMO TERCERO, PÁRRAFOS SEGUNDO, TERCERO Y SEXTO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
