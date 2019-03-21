@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-02-01"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2441,7 +2441,9 @@ Declarada la ilegitimidad del matrimonio, se observarán respecto de las donacio
 
 I. Las hechas por un tercero a uno de los cónyuges o a los dos, quedarán en beneficio de los hijos;
 
-II. Las que hizo el cónyuge inocente al culpable, quedarán sin efecto y los bienes que fueron objeto de ellas, se devolverán al donante con todos sus productos;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+II. Las que hizo el cónyuge que no obró de mala fe quedarán sin efecto y los bienes que fueron objeto de ellas, se devolverán al donante con todos sus productos;
 
 III. Subsistirán las hechas al inocente por el cónyuge que obró de mala fe; y
 
@@ -5445,9 +5447,11 @@ En estos casos, podrán constituirse garantías reales sobre los inmuebles cuand
 
 En el acto de la Constitución del patrimonio de familia, deberá indicarse el nombre de los sucesores en la propiedad de los bienes, para el caso de que ocurra el fallecimiento del constituyente durante la vigencia del Régimen de patrimonio de familia; bastando para que opere la transmisión con la exhibición de la copia certificada del acta de defunción o presunción de muerte del constituyente.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### Art. 788.
 
-Cuando se constituya el patrimonio de familia; por personas unidas por vínculo matrimonial y se disuelva éste por el divorcio, no se entenderá extinguido el patrimonio de familia, pero el cónyuge culpable perderá el derecho de habitar el inmueble sujeto a dicho patrimonio.
+Cuando se constituya el patrimonio de familia por personas unidas por vínculo matrimonial y se disuelva éste por el divorcio, no se entenderá extinguido el patrimonio de familia.
 
 ###### Art. 789.
 
@@ -19064,3 +19068,11 @@ Organismo Público Descentralizado
 (En materia de captación de recursos) Pública
 
 DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
