@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2018-11-17"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -287,9 +287,9 @@ II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del 
 
 III. La Secretaría de Desarrollo e Integración Social;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-IV. La Fiscalía General del Estado;
+IV. La Fiscalía del Estado de Jalisco;
 
 V. La Secretaría de Educación (sic) Jalisco;
 
@@ -299,11 +299,17 @@ VII. La Secretaría de Cultura;
 
 VIII. La Secretaría del Trabajo;
 
-IX. La Procuraduría Social;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-X. El Instituto Jalisciense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+IX. La Secretaría de Seguridad;
 
-XI. El Instituto Jalisciense de Asistencia Social;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+X. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, quien ocupará la Secretaría Ejecutiva del Sistema;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+XI. La Procuraduría Social;
 
 XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -589,9 +595,9 @@ VI. Promover políticas de prevención y atención de la violencia contra las mu
 
 VII. Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
-#### Sección Cuarta. De la Fiscalía General del Estado
+#### Sección Cuarta. De la Fiscalía del Estado de Jalisco
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -609,7 +615,7 @@ III. Generar mecanismos de prevención, detección, atención y derivación de l
 
 IV. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-V. Diseñar la política integral para la prevención, detección y atención de delitos violentos cometidos contra las mujeres, en los ámbitos público y privado;
+V. (DEROGADA, P.O. 21 DE MARZO DE 2019)
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -643,6 +649,28 @@ XII. Celebrar con instancias públicas y privadas, convenios de cooperación, co
 
 XIII. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 28 Bis.
+
+Corresponde a la Secretaría de Seguridad
+
+I. Diseñar la política integral para la prevención, detección y atención de delitos violentos cometidos contra las mujeres, en los ámbitos público y privado; y
+
+II. Promover la creación de una Unidad Especializada de Coordinación Conjunta de Policía Investigadora, Policía Estatal y Policía Municipal, en materia de violencia contra las mujeres, que conozca, opere y atienda, por lo menos, lo siguiente:
+
+a) Intervención en casos de violencia contra las mujeres relacionados con Delincuencia Organizada;
+
+b) Mecanismos y acciones de Reacción Inmediata;
+
+c) Cumplimiento de Órdenes de Protección en casos de riesgo latente para la víctima;
+
+d) Capacidad de actuación en todo el territorio, enfáticamente en municipios en Alerta de Violencia de Género;
+
+e) Unidades Móviles de Órdenes de Protección para las mujeres, en municipios con declaratoria de Alerta de Violencia de Género;
+
+f) Estrategias coordinadas para la incidencia en tiempo real de las órdenes emitidas mediante técnicas de geo referenciación, en coordinación con los sistemas de los Centros de Control y Comando en video vigilancia, C4 y Escudo Urbano C5, del estado y municipios, respectivamente.
+
 #### Sección Quinta.
 
 De la Secretaría de Educación.
@@ -659,7 +687,9 @@ II. Desarrollar e implementar programas educativos, que fomenten la cultura de u
 
 III. Difundir y promover, de conformidad con su presupuesto, la investigación multidisciplinaria encaminada a conocer y analizar la violencia ejercida contra las mujeres en los centros educativos, así como su impacto en la deserción y desempeño escolar;
 
-IV. Capacitar al personal docente en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+IV. Capacitar anualmente al personal docente en materia de derechos humanos y prevención de tipos y modalidades de violencia hacia las mujeres;
 
 V. Formular y aplicar programas que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos;
 
@@ -929,9 +959,7 @@ IV. Promover la celebración de convenios con los ayuntamientos de la entidad a 
 
 V. Las demás que señale esta ley o su reglamento.
 
-#### Sección Décima Séptima.
-
-De los ayuntamientos.
+#### Sección Décima Séptima. Del Gobierno Municipal y sus Ayuntamientos
 
 ###### Artículo 40.
 
@@ -942,6 +970,8 @@ I. Promover con la comunidad científica y académica la participación con el G
 II. Promover la elaboración de estudios estadísticos sobre la violencia de género en el estado; y
 
 III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 41.
 
@@ -1207,6 +1237,16 @@ Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de h
 
 Para garantizar la integridad y seguridad de las mujeres víctimas de violencia, las y los jueces de primera instancia, municipales, ministerios públicos, síndicas y síndicos, dictarán las medidas y órdenes de protección previstas en la presente Ley, sin menoscabo de las que disponga la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, así como los códigos de procedimientos civiles y penales vigentes en el Estado y otras disposiciones legales, atendiendo al principio internacional del interés de la mujer víctima de violencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2019)</small>
+
+Las policías preventivas municipales y estatal deberán solicitar de inmediato la expedición de órdenes de protección de emergencia y preventivas cuando a su juicio se requiera, en interés a la protección de la mujer víctima de violencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2019)</small>
+
+Las autoridades competentes garantizaran un puntual seguimiento sobre el cumplimiento de las órdenes de protección a fin de preservar la vida, integridad y seguridad de la mujer víctima de violencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS FRACCIONES], P.O. 21 DE MARZO DE 2019)</small>
+
 Las órdenes de protección serán:
 
 I. De emergencia;
@@ -1234,6 +1274,10 @@ VI. Protección a la imagen personal, eliminando toda fotografía, pintura o vid
 VII. Protección a la víctima y su familia, para lo cual la autoridad competente determinará las medidas necesarias que se deban de tomar para garantizar el respeto a sus derechos incluyendo la adopción de medidas para que no se revele su paradero.
 
 Las autoridades en casos de emergencia además de lo establecido en el presente Artículo deberán de realizar las acciones que estimen pertinentes conforme a lo previsto en esta Ley garantizando el respeto a los derechos humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2019)</small>
+
+Con el mismo objetivo, las autoridades administrativas, con la finalidad de garantizar la vida, la integridad y la seguridad de mujeres y niñas víctimas de violencia, favorecerán la utilización de sistemas de monitoreo electrónico preservando en todo momento los principios de presunción de inocencia y de mínima intervención. En todo caso su implementación se basará en mecanismos para la gestión integral del riesgo y deberá ajustarse a las reglas que al efecto se emitan por medio de protocolos específicos para su operación.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1291,27 +1335,49 @@ Artículo 57 C. Las órdenes de protección, atendiendo a la naturaleza de cada 
 
 Respecto de las personas menores de edad que requieran de una orden de protección, su representación se sujetará a lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
-Artículo 57 D. Las órdenes de protección preventiva, son personalísimas e intransferibles, corresponderá a la autoridad competente, otorgar las órdenes señaladas en la presente ley, para lo que deberán tomar en consideración lo siguiente para determinar la duración de la misma:
+Artículo 57 D.
+
+A. Las órdenes de protección preventiva, son personalísimas e intransferibles, corresponderá a la autoridad competente, otorgar las órdenes señaladas en la presente ley, para lo que deberán tomar en consideración lo siguiente para determinar la duración de la misma:
 
 I. El riesgo o peligro existente;
 
-II. La seguridad de la víctima, o
+II. La seguridad de la víctima; o
 
 III. Los elementos con que se cuente.
 
 Deberán ser expedidas dentro de las ocho horas siguientes de que se tenga conocimiento del acto que la motiva; debiéndola notificar a la brevedad, la autoridad competente dictará los términos diferenciados de duración de cada medida otorgada, teniendo una duración mínima de setenta y dos horas y hasta por el plazo máximo que determine el juez, estas podrán ser prorrogables entre tanto subsista el riesgo.
 
-La mujer que lo solicite deberá de ser escuchada para determinar la duración.
+La mujer que lo solicite, deberá ser escuchada para determinar la duración.
 
-En el caso de las órdenes de protección de emergencia dictadas por el ministerio público la duración será de setenta y dos horas y podrán ser ampliadas por la autoridad jurisdiccional por el tiempo que considere de a (sic) la autoridad competente siempre y cuando existan actuaciones sustentables que acrediten la prevalencia de la violencia.
+En el caso de las órdenes de protección de emergencia dictadas por el ministerio público la duración será de setenta y dos horas y podrán ser ampliadas por autoridad jurisdiccional por el tiempo que considere la autoridad competente siempre y cuando existan actuaciones sustentables que acrediten la prevalencia de la violencia.
+
+B. En todo caso la emisión de órdenes de protección, preventivas y de emergencia, se sujetará a herramientas para la gestión del riesgo, por lo que se contemplará la duración de las órdenes de protección hasta en tanto la victima deje de estar expuesta al riesgo, debiéndose de evaluar cuando se estime necesario la permanencia de la mediada. Ello implica:
+
+I. La protección policial continuada;
+
+II. El monitoreo e incidencia de las órdenes de protección y de las restricciones para la persona generadora de violencia; y
+
+III. Estrategias para empoderar a la víctima.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 Artículo 57 E. Las y los jueces de primera instancia en materia civil o familiar, emitirán en el ámbito de su competencia las órdenes de protección de naturaleza civil en los términos previstos en el Código de Procedimientos Civiles del Estado.
 
 Las autoridades jurisdiccionales competentes valorarán las órdenes de protección y la determinación de medidas de protección necesarias para salvaguardar la integridad de las mujeres víctimas de violencia en sus resoluciones o sentencias, con motivo de los juicios o procesos que se sigan en materia civil, familiar o penal.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+Artículo 57 F. Para efectos de realizar acciones de política criminal y facilitar el análisis e intercambio de información entre las instancias involucradas, la Fiscalía Estatal deberá incorporar al Banco Estatal de Datos e Información sobre casos de Violencia Contra las Mujeres, los datos e información precisa sobre todas las órdenes de protección emitidas en la entidad, con al menos los siguientes elementos:
+
+I. Datos generales de la o las víctimas y de las personas sujetas a ellas;
+
+II. El tipo de orden;
+
+III. Autoridad que la emite; y
+
+IV. El seguimiento e incumplimiento de las mismas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1436,3 +1502,11 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26953/LXI/18 QUE REFORMA LOS ARTÍCULOS 57 B BIS A LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
