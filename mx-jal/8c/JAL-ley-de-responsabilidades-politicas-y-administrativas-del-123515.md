@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2018-09-13"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -505,6 +505,8 @@ V. Todos aquellos otros conceptos, definiciones, ámbitos, atribuciones o proced
 
 ###### Artículo 48.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE MARZO DE 2019)</small>
+
 1. Adicional a lo que señala el artículo anterior, se considerará que comete una falta administrativa no grave, el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
 I. Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
@@ -543,9 +545,17 @@ XVII. Responder las recomendaciones que les presente la Comisión Estatal de Der
 
 XVIII. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las normas aplicables;
 
-XIX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-XX. Observar el código de ética que emitan los respectivos órganos internos de control.
+XIX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+XX. Observar el código de ética que emitan los respectivos órganos internos de control; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+
+XXI. Cometer actos u omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables.
 
 ###### Artículo 49.
 
@@ -746,3 +756,11 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26863/LXI/18 QUE REFORMA EL ARTÍCULO 7° DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
