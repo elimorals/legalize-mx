@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-instituto-de-justicia-alternativa-82817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-08"
-last_updated: "2012-08-18"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de septiembre de 2011.
 
@@ -111,7 +111,7 @@ El Instituto tendrá la estructura de gobierno y administrativa que refiere la L
 
 El Instituto estará integrado por las instancias referidas en el artículo 26 de la Ley, y por los órganos que permita el presupuesto, según la siguiente estructura:
 
-l. Consejo:
+I. Consejo:
 
 a) Pleno
 
@@ -119,9 +119,7 @@ b) Comisiones
 
 II. Director General:
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
-
-a) Contralor
+a) (DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -303,7 +301,7 @@ III. Acreditación, Certificación y Evaluación;
 
 IV. Adquisiciones y Enajenaciones;
 
-V. Comisión Sustanciadora y de Responsabilidades.
+V. (DEROGADA, P.O. 21 DE MARZO DE 2019)
 
 Las Comisiones Transitorias, serán aquellas que no se contemplen en las permanentes y que sean a propuesta del Director General o de algún Consejero y aprobadas por el Consejo.
 
@@ -311,15 +309,15 @@ Las Comisiones Transitorias, serán aquellas que no se contemplen en las permane
 
 Los informes de las Comisiones deberán redactarse con claridad, precisión y deberán quedar en documento o en medios electrónicos.
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
-Compete a la Comisión de Capacitación e Investigación dictaminar ante el Pleno sobre los programas y talleres de capacitación, para los prestadores de servicio, sean mediadores, conciliadores y árbitros en función pública y privada.
+###### Articulo 25.
 
-Así mismo dictaminar sobre programas y líneas de investigación relacionadas a las funciones del Instituto.
+Compete a las Comisiones de Capacitación e Investigación, y de Difusión, dictaminar ante el Pleno sobre líneas y programas de investigación relacionados a las funciones del Instituto, proponiendo acciones a realizar.
 
 ###### Artículo 26.
 
-Compete a la Comisión de Difusión dictaminar sobre los programas de difusión de la cultura de la paz, y demás funciones del Instituto que se elaboren por el área correspondiente y coadyuvar a este fin, proponiendo acciones a realizar.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 27.
 
@@ -331,7 +329,7 @@ Compete a la Comisión de Adquisiciones y Enajenaciones verificar la adquisició
 
 ###### Artículo 29.
 
-Compete a la Comisión Sustanciadora y de Responsabilidades conocer y presentar dictamen al Director General sobre las faltas e infracciones previstas en la Ley, cometidas por los funcionarios, personal del Instituto, de las sedes regionales, centros públicos, privados y los prestadores del servicio.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ### CAPITULO IV. DEL DIRECTOR GENERAL
 
@@ -373,6 +371,10 @@ XVI. Conceder licencias con goce de sueldo hasta por cinco días a los servidore
 
 XVII. Las demás que le otorguen la Ley, el presente Reglamento, los Reglamentos Institucionales y los que considere el Consejo.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+De igual manera, integrar la Comisión Substanciadora del Instituto, en conjunto con los encargados de las áreas jurídica y de administración, para conocer sobre todo tipo de conflictos laborales que se susciten entre el Instituto y sus servidores públicos, conforme al conforme (sic) al procedimiento laboral previsto en el Título Quinto, Capítulos II y III de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
 ###### Artículo 31.
 
 Para el adecuado ejercicio de sus atribuciones el Director General tendrá el carácter de Apoderado General Judicial y para Actos de Administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley Civil del Estado. Particularmente para suscribir toda clase de operaciones activas, pasivas y mixtas o de servicio con instituciones de crédito, compañías aseguradoras, abrir y cancelar toda clase de cuentas a nombre del Instituto y girar cheques de conformidad con lo dispuesto en el artículo 9 de la Ley General de Títulos y Operaciones de Crédito.
@@ -385,25 +387,9 @@ Estas facultades les otorgan representación expresa ante las autoridades Federa
 
 El Director General puede delegar todo o en parte las facultades Generales Judiciales, antes señaladas, a quien considere necesario y revocarlas.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 33.
 
-La Dirección General contará a su cargo con la Contraloría, la cual desarrollara las siguientes funciones:
-
-I. Elaborar y ejecutar su programa anual de trabajo;
-
-II. Vigilar el cumplimiento por parte de los órganos administrativos, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
-
-III. Vigilar que las erogaciones y adquisiciones del Instituto se ajusten a las partidas, montos autorizados y procedimientos establecidos en la reglamentación institucional;
-
-IV. Vigilar el cumplimiento por parte de los distintos órganos del Instituto de los lineamientos que en materia de control para el uso de insumos, resguardo de bienes, entrega y recepción de áreas, que determine la Dirección General;
-
-V. Recibir y remitir al Director General las denuncias y quejas presentadas en contra de los servidores públicos del Instituto;
-
-VI. Llevar el control, registro y verificación de la situación patrimonial de los servidores públicos;
-
-VII. Las demás que determine el Director General y establezcan los reglamentos institucionales.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -813,9 +799,11 @@ VI. Rendir los informes que su superior jerárquico les requiera.
 
 #### Sección Tercera. De la Dirección de Capacitación y Difusión
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### Artículo 56.
 
-La Dirección de Capacitación y Difusión se encargara de elaborar los programas de capacitación y actualización de los prestadores de servicio, que determine el Director General con aprobación del Consejo, previo dictamen de la Comisión de Capacitación, Investigación y de Difusión.
+La Dirección de Capacitación y Difusión se encargara de elaborar los programas de capacitación y actualización de los prestadores de servicio, que determine el Director General con aprobación del Consejo.
 
 ###### Artículo 57.
 
@@ -1199,159 +1187,205 @@ El Instituto automatizará sus procedimientos y dará seguimiento a los mismos, 
 
 ### CAPÍTULO VIII. DE LA RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PUBLlCOS DEL INSTITUTO
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 89.
 
-Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, y sin perjuicio de sus derechos y obligaciones laborales tiene las siguientes obligaciones:
+Todos los servidores públicos del Instituto de Justicia Alternativa, deberán regir su actuar conforme a lo dispuesto en el Capítulo II del Libro Primero, Título Primero, asimismo deberán evitar incurrir en actos u omisiones que incumplan o transgredan las obligaciones contenidas en los artículos 49 y 50, así como abstenerse de realizar mediante cualquier acto u omisión las conductas previstas en el capítulo II del Título Tercero, todos de la de la (sic) Ley General de Responsabilidades Administrativas; en el mismo tenor, evitar incurrir en actos que transgredan las obligaciones contenidas en el artículo 48 de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
-l. Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencias de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
-
-II. Preservar los principios que rigen el funcionamiento del Instituto, en el desempeño de sus labores;
-
-III. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y normas que determinen el manejo de los recursos económicos públicos;
-
-IV. Utilizar los recursos que tengan asignados y las facultades que le sean atribuidas, o la información reservada a la que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
-
-V. Conservar y custodiar los bienes, valores, documentos e información que tenga bajo su cuidado, o a la que tuviere acceso impidiendo o evitando el uso, la sustracción, ocultamiento o utilización indebida de aquella;
-
-VI. Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
-
-VII. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato, y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
-
-VIII. Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
-
-IX. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que servidor o las personas antes referidas formen o hayan formado parte;
-
-X. Informar por escrito a su superior jerárquico inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, debiendo observar las instrucciones que por escrito le sean giradas por su superior sobre su atención, tramitación o resolución;
-
-XI. Abstenerse de inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
-
-XII. Abstenerse de ejercer funciones, después de concluido el periodo para el cual se le designo, o de haber cesado, por cualquier otra causa, en sus funciones;
-
-XIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, a sus labores más de quince días continuos o treinta discontinuos, en un año, así como otorgar licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, sin causa justificada;
-
-XIV. Abstenerse de desempeñar otro empleo, cargo o comisión oficial o particular en horarios concurrentes o que la ley prohíba;
-
-XV. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
-
-XVI Abstenerse de intervenir en el nombramiento, contratación, o promoción, por sí o por conducto de otro servidor público, a personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, para ocupar algún cargo público en el Instituto de los señalados en la Ley para los Servidores Públicos, cuando al momento que el servidor público asumió el cargo o comisión de que se trate ya se encontrare en ejercicio de una función o responsabilidad pública, el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
-
-XVII. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer o promover algo ilegal o dejar de hacer lo legal relacionado con sus funciones, esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
-
-XVIII. Atender los requerimientos y observaciones que reciba de la Contraloría del Instituto;
-
-XIX. Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
-
-XX. Abstenerse de realizar violaciones a los planes, programas, y presupuesto del Instituto y de los ordenamientos que determinen el manejo de los recursos económicos de éste;
-
-XXI. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias por parte de los ciudadanos;
-
-XXII. Supervisar que los servidores públicos adscritos a su área, cumplan con las disposiciones del presente ordenamiento y denunciar por escrito sin demora y bajo su estricta responsabilidad, ante el Director General, los actos y omisiones que en el ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de este ordenamiento;
-
-XXIII. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar un acta circunstanciada;
-
-XXIV. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa y solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción, de no hacerse se supondrá que no existen aclaraciones que hacer;
-
-XXV. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades con las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo al Reglamento de Adquisiciones y Enajenaciones del Instituto deba hacerlo;
-
-XXVI. Respetar el derecho de petición de los particulares en los términos del artículo 8 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XXVII. Recibir las promociones, que les sean presentadas en forma escrita por los ciudadanos;
-
-XXVIII. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en la Ley o reglamentos del Instituto;
-
-XXIX. Presentar con oportunidad y veracidad la declaración de situación patrimonial, quienes estén obligados a ello en los términos que señala el presente ordenamiento;
-
-XXX. Las demás que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, y le impongan las leyes y reglamentos que resulten aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+La investigación por la presunta responsabilidad de Faltas administrativas, la substanciación del procedimiento, resolución e imposición de sanciones a los servidores públicos del Instituto, deberá verificarse en la forma y términos establecidos en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 90.
 
-Cualquier persona mediante la presentación de elementos de prueba, podrá denunciar ante el Contralor del Instituto, los actos y omisiones que impliquen incumplimiento de las obligaciones de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas.
-
-El Contralor deberá remitir dentro de los 5 días hábiles siguientes, la denuncia al Director General con el resultado de las investigaciones que se hubieren desprendido.
-
-El Director General una vez recibida la denuncia y la información que de ella se derive resolverá sobre la instauración del procedimiento disciplinario en los casos que corresponda.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 91.
 
-El procedimiento para la aplicación de sanciones, estará sujeto a las reglas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, correspondiéndole el desahogo del mismo al Coordinador Jurídico del Instituto.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 92.
 
-El Director General una vez recibidas las actuaciones relativas al desahogo del procedimiento resolverá dentro de los treinta días naturales siguientes sobre la existencia o inexistencia de responsabilidad, imponiendo al infractor la sanción administrativa correspondiente.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 93.
 
-La imposición de sanciones por parte del Director General se regulará conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ### CAPÍTULO IX. DE LA SITUACION PATRIMONIAL
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 94.
 
-Tienen obligación de presentar la declaración de situación patrimonial el Director General, el Secretario Técnico, los Directores de Área, los Jefes de Departamento, Contralor y los Coordinadores de Departamento y Área.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+Todos los servidores públicos del Instituto, están obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad, ante el Órgano Interno de Control, en la forma y términos establecidos en la Ley General de Responsabilidades Administrativas. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
 ###### Artículo 95.
 
-El control, registro y verificación de la situación patrimonial de los servidores públicos del Instituto obligados a declararla, estará a cargo de la Contraloría del Instituto.
-
-La Contraloría, tendrá facultades para revisar las declaraciones de situación patrimonial a fin de verificar la veracidad de los datos asentados, para lo cual se podrá citar a los servidores públicos que considere, a efecto de que aclaren o proporcionen la información que se requiera para solventar errores o dudas con relación a su conducta patrimonial.
-
-La Contraloría, deberá expedir constancias que acrediten la oportuna presentación de las declaraciones patrimoniales a que hubiere estado obligado el servidor público.
-
-Así mismo deberá mandar publicar en el periódico oficial "el Estado de Jalisco” la lista de aquellos servidores públicos obligados, que no la hubieren presentado en los términos y bajo las condiciones que se establece en el presente ordenamiento.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 96.
 
-La declaración de situación patrimonial deberá presentarse en los plazos:
-
-I. La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión,
-
-II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese mismo año hubiese ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior; y
-
-III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 97.
 
-En caso de incumplimiento de las obligaciones consignadas en las fracciones I, II y III del artículo anterior, la Contraloría requerirá por oficio al servidor público omiso para que en el término de quince días hábiles, contados a partir del momento en que sea requerido cumpla con su obligación.
-
-Si transcurrido dicho término el servidor público no cumple con su obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 90 del presente ordenamiento.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 98.
 
-Los formatos en los cuales se debe presentar la declaración patrimonial deberán ser proporcionados oportunamente a los servidores públicos por la Contraloría, en forma impresa o bien a través de la página de internet del Instituto.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 99.
 
-Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad y debe contener cuando menos los datos establecidos en el artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 100.
 
-Cuando del contenido de la declaración del servidor público se desprendan elementos que hagan evidente un enriquecimiento ilícito, se detecte falsedad en los datos proporcionados o no presentare su declaración dentro del término establecido, aún una vez requerido, lo cual presuma un incremento en el patrimonio de procedencia ilícita, se deberá presentar la denuncia respectiva ante las autoridades correspondientes.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MARZO DE 2019)</small>
+
+### CAPITULO X
+
+ÓRGANO INTERNO DE CONTROL.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 101.
+
+El Órgano Interno de Control tendrá autonomía técnica y de gestión. Se integrará con un Titular y las siguientes áreas:
+
+- Área de auditoría y mejora de la gestión
+
+- Área de investigación
+
+- Área de substanciación y resolución
+
+El Órgano Interno de Control, tendrá las atribuciones que le otorguen la Ley General de Responsabilidades Administrativas y demás leyes aplicables.
+
+Así mismo, será competente para substanciar los procedimientos administrativos de responsabilidad laboral contemplados en términos del artículo 26 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 102.
+
+El titular del Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Evaluar el desempeño general y funciones del Instituto.
+
+II. Examinar y evaluar los sistemas, mecanismos y procedimientos de control y de vigilancia;
+
+III. Realizar estudios sobre la eficiencia en el ejercicio del gasto corriente y de inversión y vigilar que la planeación, programación, presupuesto y ejercicio del gasto público del Instituto, se efectúe conforme a las disposiciones jurídicas aplicables;
+
+IV. Solicitar la información y efectuar los actos de visita, inspección y vigilancia a las áreas del Instituto, que requieran para el cumplimiento de sus funciones.
+
+V. Apoyar la función directiva y promover el mejoramiento de gestión del Instituto.
+
+VI. Efectuar revisiones y auditorías.
+
+VII. Proponer acciones de mejora continua de los procedimientos a cargo del Instituto y vigilar su implementación y observancia;
+
+VIII. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
+
+IX. Presentar al Consejo y al Director General los informes resultantes de las auditorías, exámenes y evaluaciones realizadas;
+
+X. Inscribir y mantener actualizada la información correspondiente en el sistema de evolución patrimonial de declaración de intereses y constancia de presentación de declaración fiscal.
+
+XI. Intervenir en el proceso de entrega-recepción en los términos de la Ley.
+
+XII. Velar por el cumplimiento de las obligaciones que se desprendan de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, de manera preventiva;
+
+XIII. Vigilar la aplicación de las normas, lineamientos, acuerdos, bases, emanados de la Ley General de Contabilidad Gubernamental, del Consejo Nacional de Armonización Contable y del Consejo de Armonización Contable del Estado de Jalisco.
+
+XIV. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional Anticorrupción;
+
+XV. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción o en su caso ante sus homólogos en ámbito local.
+
+XVI. Conocer de los actos u omisiones de los Servidores Públicos, personas físicas y jurídicas en materia de contrataciones públicas.
+
+XVII. Recibir las declaraciones patrimoniales y de intereses de los servidores públicos del instituto; así como llevar el registro y control de las mismas.
+
+XVIII. Expedir los acuses de recibido de las referidas declaraciones.
+
+XIX. Integrar el Comité de Transparencia.
+
+XX. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 103.
+
+El área de auditoría y mejora de la gestión, tendrá las siguientes atribuciones:
+
+I. Practicar auditorías internas a fin de vigilar la aplicación de leyes, normas, instrumentos, procedimientos de control, evaluación y todos aquellos lineamientos vigentes que permitan regular el funcionamiento del Instituto.
+
+II. Auditar todo tipo de recursos que maneje el Instituto para garantizar el uso eficaz y eficiente.
+
+III. Elaborar y desarrollar el programa anual de auditorías integrales que requiera el Instituto.
+
+IV. Presentar al Titular del Órgano el programa anual de Auditorías.
+
+V. Ordenar de acuerdo al programa y/o indicaciones del Titular del Órgano, las auditorías a las unidades adscritas al Instituto, con la finalidad de promover la transparencia en el manejo administrativo y contable del Instituto.
+
+VI. Vigilar que las diferentes áreas administrativas cumplan con las normas y disposiciones en materia de: Sistemas de registro y contabilidad, fondos y valores, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, servicios, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales pertenecientes al Instituto.
+
+VII. Analizar el contenido de los informes derivados de la práctica de auditorías a las unidades administrativas y conforme a los resultados proponer a través del Titular del Órgano Interno de Control, las acciones pertinentes, así como remitir al Área que corresponda, la documentación necesaria en la que sustenten las irregularidades detectadas para que de ser procedente se instaure procedimiento de responsabilidad.
+
+VIII. Atender y participar en las auditorias, revisiones, actos de vigilancia o supervisiones que realice el órgano de control y/o fiscalización al Instituto.
+
+IX. Vigilar la aplicación de las normas, lineamientos, acuerdos, bases, emanados de la Ley General de Contabilidad Gubernamental, del Consejo Nacional de Armonización Contable y del Consejo de Armonización Contable del Estado de Jalisco, dentro de las áreas del Instituto.
+
+X. Requerir a las diversas áreas del Instituto la información documentación y su colaboración para el cumplimiento de sus atribuciones.
+
+XI. En general, todas aquellas que establezcan otras disposiciones jurídicas y administrativas aplicables de carácter local y federal; así como todas aquellas asignadas por su superior jerárquico en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 104.
+
+El Área de investigación tendrá las siguientes atribuciones:
+
+I. Recibir las denuncias que se formulen por posibles actos u omisiones que pudiesen constituir faltas administrativas cometidas por servidores públicos o particulares sancionables por las leyes en la materia, incluidas las que se deriven de resultados de auditorías.
+
+II. Iniciar de oficio, por denuncia o derivado de las auditorías practicadas, la investigación por la presunta responsabilidad de Faltas administrativas.
+
+III. Determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave o no grave.
+
+IV. Podrá solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas.
+
+V. Las demás que se desprendan de los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 105.
+
+El Área de substanciación y resolución tendrá las siguientes atribuciones:
+
+I. Dirigir y substanciar los procedimientos de responsabilidad administrativa a partir de la recepción del informe de presunta responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas.
+
+II. Substanciar el procedimiento de responsabilidad laboral previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, a partir de la recepción del acta administrativa correspondiente.
+
+III. Sancionar las conductas que constituyan faltas administrativas no graves.
+
+IV. Remitir el expediente a la autoridad correspondiente en caso de faltas graves, en términos de la Ley General de Responsabilidades Administrativas.
+
+V. Las demás que se desprendan de los ordenamientos aplicables.
+
+VI. Esta área, contará con un servidor público que hará las funciones de Secretario y dará fe de las actuaciones emanadas del propio Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Artículo 106.
+
+El Pleno del Consejo del Instituto designará al Titular del Órgano Interno de Control, quien a su vez tendrá la facultad para delegar las funciones de las áreas de auditoría, investigación y substanciación y resolución.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+###### Articulo 107.
+
+Para los efectos de lo enunciado en el párrafo último del artículo 101 de este Reglamento, las alusiones que hace el artículo 26 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios a "ÓRGANO DE CONTROL DISCIPLINARIO", deberán entenderse como "ÓRGANO INTERNO DE CONTROL" del Instituto.
 
 T R A N S I T O R I O S :
 
@@ -1440,3 +1474,25 @@ SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de
 TERCERO.- Publíquese el presente acuerdo en el Portal de Internet del Instituto de Justicia Alternativa del Estado.
 
 CUARTO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO DEL INSTITUTO DE JUSTICIA ALTERNATIVA POR MEDIO DEL CUAL SE MODIFICAN EL REGLAMENTO INTERNO Y EL REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO, AMBOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO, PARA LA ARMONIZACIÓN DE LA COMISIÓN SUBSTANCIADORA, CREACIÓN DEL ÓRGANO INTERNO DE CONTROL Y PARA AJUSTAR EL PROCEDIMIENTO DE DICTAMINACIÓN DE LOS PROGRAMAS DE CAPACITACIÓN".]
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de Jalisco" y notifíquese a las autoridades que corresponde.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Portal de Internet del Instituto de Justicia Alternativa del Estado.
+
+TERCERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+CUARTO.- En cuanto a los procedimientos iniciados antes de la aprobación de la presente reforma, serán desahogados conforme al Reglamento Interno vigente a la fecha de la resolución que dé inicio a cada etapa procesal.
+
+Por lo que respecta a derechos sustantivos, se estará sujeto a la normatividad vigente al momento en que se hayan consumado los hechos que hayan dado lugar al procedimiento de responsabilidad o jurisdiccional que corresponda siempre y cuando sea en beneficio de los servidores públicos.
+
+QUINTO.- El Órgano Interno de Control asumirá todas las atribuciones y funciones que correspondieron a la Contraloría del Instituto de Justicia Alternativa, en lo que no se contraponga a lo establecido en la Ley General de Responsabilidades Administrativas.
+
+SEXTO.- Deposítese en tres tantos el Reglamento de las Condiciones Generales de Trabajo en el Tribunal de Arbitraje y Escalafón del Estado de Jalisco.
+
+SÉPTIMO.- En cuanto a los procedimientos iniciados antes de la aprobación de la presente reforma, serán desahogados conforme al Reglamento de las Condiciones Generales de Trabajo vigente a la fecha de la resolución que dé inicio a cada etapa procesal.
+
+Por lo que respecta a derechos sustantivos, se estará sujeto a la normatividad vigente al momento en que se hayan consumado los hechos que hayan dado lugar al procedimiento de responsabilidad o jurisdiccional que corresponda siempre y cuando sea en beneficio de los servidores públicos.
