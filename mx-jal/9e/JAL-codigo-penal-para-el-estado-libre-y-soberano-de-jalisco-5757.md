@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-02-26"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2327,7 +2327,7 @@ II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, desp
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-III. Que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
+III. Que, nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
 Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de sustituirlo, siempre que la Ley no lo prohíba;
 
@@ -3287,7 +3287,9 @@ Comete el delito de hostigamiento sexual el que con fines o móviles lascivos as
 
 Comete el delito de acoso sexual el que con fines o móviles lascivos asedie o acose sexualmente a otra persona de cualquier sexo, al responsable se le impondrá sanción de uno a cuatro años de prisión.
 
-Si el acosador u hostigador fuese servidor público y utilizase medios o circunstancias que el encargo le proporcione además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
+Si el acosador u hostigador presta sus servicios en cualquier institución pública y utiliza medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo y se le podrá inhabilitar hasta por el doble de la pena privativa de libertad impuesta.
 
 Estos delitos sólo serán perseguidos por querella del ofendido o de su legítimo representante, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio.
 
@@ -3463,6 +3465,8 @@ Art. 185 A. (DEROGADO, P.O. 8 DE ABRIL DE 2017)
 
 ### CAPITULO III. Chantaje
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### Art. 186.
 
 Se impondrán de un mes a dos años de prisión al que incurra en alguno de los casos siguientes:
@@ -3545,17 +3549,13 @@ Si se aplica la violencia en la detención, la pena se aumentará de uno a tres 
 
 ###### Art. 190.
 
-Se impondrán de seis meses a seis años de prisión al que exija para sí o para otro cualquier beneficio, o la ejecución u omisión de algún acto determinado bajo la amenaza de divulgar algún hecho cierto o falso que afecte el honor, la tranquilidad familiar, negocios o patrimonio del amenazado o de alguien íntimamente ligado a éste.
+Se impondrán de seis meses a seis años de prisión al que exija para sí o para otro cualquier beneficio, o la ejecución u omisión de algún acto determinado bajo la amenaza de divulgar algún hecho cierto o falso, fotografías, contenido audiovisual o cualquier medio que afecte el honor, la tranquilidad familiar, negocios o patrimonio del amenazado o de alguien íntimamente ligado a éste.
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2019)</small>
-
 ###### Art. 190 Bis.
 
-Se impondrán de uno a ocho años de prisión al que exija para sí o para otro cualquier beneficio, o la ejecución u omisión de algún acto determinado bajo la amenaza de divulgar fotografías o contenido audiovisual que afecte el honor, la tranquilidad familiar, negocios o patrimonio del amenazado o de alguien íntimamente ligado a éste.
-
-Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza se impondrá el doble de la pena prevista para el delito de extorsión.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ### CAPITULO OCTAVO. Rapto
 
@@ -6574,3 +6574,11 @@ P.O. 26 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27237/LXII/19 QUE ADICIONA EL ARTÍCULO 190 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
