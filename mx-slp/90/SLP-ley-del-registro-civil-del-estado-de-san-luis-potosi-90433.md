@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2018-04-17"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -151,9 +151,11 @@ El acuerdo de creación o desaparición de una Oficialía, en los términos del 
 
 Cuando en un municipio haya dos o más oficialías, a cada una se les asignará, clave-número, y domicilio que las identifique.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezca la Ley de Hacienda del Estado. Queda prohibido cobrar cualquier tipo de emolumento o pago que no esté previsto expresamente.
+Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezcan la Ley de Hacienda del Estado; y las leyes de ingresos municipales que correspondan. Queda prohibido cobrar cualquier tipo de emolumento o pago que no esté previsto expresamente.
 
 ###### ARTÍCULO 15.
 
@@ -313,9 +315,9 @@ II. Ser mayor de veinticinco años de edad.
 
 III. Tener residencia efectiva dentro del territorio del estado, no menor a dos años anteriores a la fecha del nombramiento;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-IV. Ser abogado, o licenciado en derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años;
+IV. Ser abogado, abogada, licenciado o licenciada en Derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años, en las cabeceras municipales con población mayor a 20,000 habitantes. Y en las oficialías de las comunidades, así como en las que cuenten con menos de 20,000 habitantes, en los que no se cuente con persona de esta profesión, podrá dispensarse para persona que cuente con título de cualquier carrera, o profesión afín;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -669,7 +671,7 @@ Tienen obligación de declarar el nacimiento, la madre y el padre, dentro del t�
 
 ###### ARTÍCULO 64.
 
-La madre y el padre que estando obligados a declarar el nacimiento, lo hacen fuera del término fijado en el artículo anterior, serán sancionados con una multa correspondiente de hasta un día de salario mínimo, que impondrá la autoridad municipal del lugar donde se haga la declaración extemporánea de nacimiento.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### ARTÍCULO 65.
 
@@ -697,9 +699,11 @@ V. Comprobante del domicilio declarado por él o los presentantes del menor a re
 
 En las poblaciones en que no haya Oficial, el recién nacido será presentado ante el oficial más cercano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 67.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y. apellido que se le ponga, sin que por motivo alguno puedan omitirse; y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+La primera copia certificada del acta de nacimiento será gratuita, y se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
 
 Sí éste se presenta como hija o hijo de madre y padre desconocidos, el Oficial, le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
@@ -1541,8 +1545,32 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 17 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 934.- SE DEROGA EN LOS ARTÍCULOS, 94 SU FRACCIÓN II, Y 98 SUS FRACCIONES, II, Y IV, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 934.- SE DEROGA EN LOS ARTÍCULOS, 94 SU FRACCIÓN II, Y 98 SUS FRACCIONES, II, Y IV, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0133.- SE REFORMA EL ARTÍCULO 14 Y DEROGA EL ARTÍCULO 64 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0134.- SE REFORMA EL ARTÍCULO 67 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0135.- SE REFORMA EL ARTÍCULO 26 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
