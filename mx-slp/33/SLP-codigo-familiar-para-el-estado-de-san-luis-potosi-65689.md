@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2019-03-05"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -116,6 +116,10 @@ Para la interpretación del presente Código cuando el mismo se refiera a la fam
 ###### ARTICULO 11.
 
 Las y los menores de edad miembros de la familia, tienen el derecho esencial de vivir y desarrollarse bajo la custodia y cuidado de su madre y padre; en caso de separación o conflicto, a mantener la convivencia cotidiana con los dos; a falta de ambos padres, la custodia y cuidado serán a cargo de las o los parientes consanguíneos. Para lo anterior, la autoridad judicial competente tomará en consideración las circunstancias del caso.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
+
+Para efectos de salvaguarda de ese derecho, en caso de separación, los padres están obligados a evitar conductas de alienación parental, que se define como la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor, rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -663,9 +667,13 @@ La o el Juez, al recibir una solicitud de divorcio incausado, tiene la facultad 
 
 La sentencia de divorcio fijará la situación de las hijas o hijos, para lo cual la autoridad judicial deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación y, en especial, a la custodia y al cuidado de los mismos.
 
-De oficio o a petición de parte interesada, durante todo el procedimiento la autoridad judicial se allegará los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a las o los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de éstos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para la o el menor.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
-La protección para las o los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles para el Estado de San Luis Potosí.
+De oficio o a petición de parte interesada, durante todo el procedimiento la autoridad judicial se allegará los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a las o los menores, para evitar conductas de violencia familiar, alienación parental, o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de éstos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para la o el menor.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
+La protección para las o los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar y alienación parental, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles para el Estado de San Luis Potosí. En el caso de alienación parental se aplicarán medidas específicas de mediación y terapia.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -753,9 +761,9 @@ IV. Que ambos cónyuges manifiesten su voluntad de no reclamarse mutuamente alim
 
 V. En caso de sociedad conyugal, presentarán la liquidación de la misma.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
-ARTICULO 102 BIS. El divorcio voluntario sólo puede pedirse pasado un año de celebración del matrimonio y en la forma que establecen, el Código de Procedimientos Civiles para el Estado de San Luis Potosí; y la Ley del Registro Civil del Estado de San Luis Potosí, según sea el caso.
+ARTICULO 102 BIS. El divorcio voluntario podrá pedirse en cualquier momento, y en la forma que establecen, el Código de Procedimientos Civiles para el Estado de San Luis Potosí; y la Ley del Registro Civil del Estado de San Luis Potosí, según sea el caso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3556,6 +3564,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan el presente Decreto.
 P.O. 5 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0124.- SE REFORMA EL ARTÍCULO 113 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+[TRANSITORIOS DEL DECRETO 0136.- SE REFORMA EL ARTÍCULO 102 BIS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado ''Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+[TRANSITORIOS DEL "DECRETO 0137.- SE REFORMA EL ARTÍCULO 92 Y ADICIONA AL ARTÍCULO 11 EL PÁRRAFO SEGUNDO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
