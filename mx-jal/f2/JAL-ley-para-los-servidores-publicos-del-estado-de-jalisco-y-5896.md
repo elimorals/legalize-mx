@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2018-09-25"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1117,17 +1117,19 @@ XXVI. No desviar los recursos económicos y en especie que reciba como apoyo par
 
 XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-XXVIII. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos del Estado de Jalisco. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+XXVIII. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos del Estado de Jalisco. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y hacer pública su negativa.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte; y
 
-XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+
+XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabajo o usuarias y usuarios de los servicios públicos, actos u omisiones que materialicen cualquier tipo o modalidad de violencia de género previstas por las leyes aplicables.
 
 ## TITULO TERCERO
 
@@ -1225,13 +1227,19 @@ XX. Otorgar a los servidores públicos capacitación o actualización complement
 
 Art. 56 bis. Ninguna entidad pública podrá:
 
-I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público.
+I. Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público.
 
-II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado o estar al cuidado de hijos menores;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+II. Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado o estar al cuidado de hijos menores;
 
-III.- Provocar el despido o la renuncia del trabajador por cualquier causa distinta a las mencionadas en el artículo 22 de este ordenamiento y las demás leyes aplicables.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+
+III. Provocar el despido o la renuncia del trabajador por cualquier causa distinta a las mencionadas en el artículo 22 de este ordenamiento y las demás leyes aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+
+IV. Omitir las investigaciones de las denuncias de actos considerados como tipos o modalidades de violencia de género previstas por las leyes aplicables.
 
 ### CAPITULO II. Del escalafón
 
@@ -2884,3 +2892,11 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26929/LXI/18 QUE REFORMA LOS ARTÍCULOS 45 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 7° DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 PRIMERO. (SIC) El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
