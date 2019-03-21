@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-las-condiciones-generales-de-trabajo-para-los-897
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-18"
-last_updated: "2012-10-18"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO PARA LOS SERVIDORES PUBLICOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A PARTIR DE SU DEPÓSITO EN EL TRIBUNAL DE ARBITRAJE Y ESCALAFÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -37,7 +37,7 @@ C O N S I D E R A N D O .
 
 V. Que en el orden del día de la sesión extraordinaria de fecha 10 de julio del 2012, se somete a consideración del Consejo del Instituto, el Reglamento de las Condiciones Generales de Trabajo de los Servidores Públicos del Instituto de Justicia Alternativa, con la finalidad de aprobarlo, con el siguiente texto:
 
-"REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE DE JUSTICIA ALTERNATIVA
+"REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -55,7 +55,7 @@ II. Servidor público: la persona física que labora dentro del Instituto;
 
 III. Ley para los Servidores Públicos: Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
-IV. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+IV. (DEROGADA, P.O. 21 DE MARZO DE 2019)
 
 V. Ley de Transparencia: Ley de Información Pública del Estado de Jalisco y sus Municipios;
 
@@ -237,9 +237,11 @@ XXI. Las demás disposiciones que correspondan de conformidad con las disposicio
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
-Los servidores públicos tendrán las siguientes obligaciones:
+Los servidores públicos tendrán las obligaciones previstas en el artículo 55 de la Ley para los Servidores Públicos, así como las siguientes:
 
 I. Asistir puntualmente al desempeño de sus labores, registrando su asistencia mediante los controles o sistemas que determine el Instituto;
 
@@ -649,179 +651,103 @@ IV. Cuando el servidor público fuere detenido como consecuencia de la comisión
 
 ### CAPÍTULO XV. DE LA TERMINACIÓN DE LAS RELACIONES LABORALES
 
-###### Artículo 68.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
-La relación de servicio concluirá sin responsabilidad para el Instituto:
+###### Articulo 68.
 
-I. Por renuncia del servidor público legalmente aceptada. Si dentro de los ocho días hábiles siguientes a la presentación de la renuncia, el servidor público no recibe respuesta se tendrá como tácitamente aceptada para todos los efectos legales, por lo que podrá dejar de asistir a laborar sin responsabilidad para él ante la falta de respuesta del Instituto. Mientras la renuncia no haya sido aceptada, ni transcurrido el plazo, el servidor público deberá permanecer en el ejercicio de sus funciones;
-
-II. Por muerte o jubilación del servidor público;
-
-III. Por conclusión de la obra o vencimiento del término para que fue contratado o nombrado el servidor público;
-
-IV. Por la incapacidad permanente y total del servidor, física o mental, decretada por el Instituto Mexicano del Seguro Social, que le impida la prestación del servicio;
-
-V. Por el cese o terminación dictado por el Comité Disciplinario y Sancionador del Instituto previa instauración del procedimiento que el presente Reglamento dispone.
+La relación de servicio concluirá sin responsabilidad para el Instituto, en los casos previstos en el artículo 22 de la Ley para los Servidores Públicos.
 
 ###### Artículo 69.
 
-Para efectos de dictar el cese por el Comité Disciplinario y Sancionador del Instituto conforme el artículo anterior en su fracción V, se deberá comprobar alguno de los siguientes casos:
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
-I. Incurrir el servidor durante sus labores en faltas de probidad y honradez, en actos de violencia, amagos, injurias, malos tratos en contra del Titular del Instituto, sus superiores jerárquicos, compañeros, o contra los valores de uno u otros, dentro o fuera de las horas de servicio y de los lugares del desempeño de labores, salvo que medie provocación o que obre en legítima defensa;
+###### Articulo 70.
 
-II. Por faltar más de 3 días consecutivos a sus labores sin permiso y sin causa justificada, o cuando dichas faltas de asistencia las tuviere por cuatro ocasiones en un lapso de 30 días, aunque estas no fueren consecutivas;
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
-III. Ocasionar el servidor intencionalmente daños materiales graves en los edificios, obras, maquinaria instrumentos, materias primas y demás objetos relacionados con el trabajo o causar dichos daños con negligencia tal, que ella sea la causa del perjuicio;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
-IV. Por cometer actos inmorales durante el trabajo;
-
-V. Comprometer con su imprudencia, descuido o negligencia la seguridad de la oficina o del lugar donde presta sus servicios o de las personas que ahí se encuentren;
-
-VI. Por revelar los asuntos secretos o reservados de que tuviese conocimiento con motivo de su trabajo;
-
-VII. Desobedecer el servidor sin justificación las órdenes que reciba de sus superiores;
-
-VIII. Concurrir el servidor a sus labores en estado de embriaguez, o bajo la influencia de algún narcótico o droga enervante salvo que en este último caso, exista prescripción médica. Antes de iniciar su trabajo el servidor deberá poner el hecho en conocimiento de su jefe inmediato y presentar la prescripción suscrita por el médico;
-
-IX. Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo;
-
-X. Por falta grave en el cumplimiento de sus obligaciones laborales establecidas en el presente ordenamiento.
-
-###### Artículo 70.
-
-Cuando el servidor público incurra en alguna de las causales de terminación a que se refiere el artículo anterior, el superior jerárquico del servidor público, levantará acta circunstanciada en la que hará constar las situaciones de modo, tiempo y lugar de la conducta respectiva, a efecto de remitirla al Titular del Instituto.
-
-### CAPÍTULO XVI. DE LAS CORRECCIONES DISCIPLINARIAS Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XVI. DE LAS CORRECCIONES DISCIPLINARIAS Y SANCIONES LABORALES
 
 ###### Artículo 71.
 
 Ningún servidor público podrá ser sancionado por el desempeño en su empleo sino por causa justificada y plenamente comprobada.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
 ###### Artículo 72.
 
-Las correcciones disciplinarias y sanciones administrativas que se podrán imponer a los servidores públicos del Instituto, por mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, consisten en:
+Las correcciones disciplinarias y sanciones laborales que se podrán imponer a los servidores públicos del Instituto; por mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, serán las estipuladas en el artículo 25 de la Ley para los Servidores Públicos.
 
-I. Apercibimiento;
+###### Articulo 73.
 
-II. Amonestación;
-
-III. Suspensión en el empleo, cargo o comisión hasta por ocho días; y
-
-IV. Cese por comprobarse alguno de los supuestos previstos en el artículo 69 del presente ordenamiento.
-
-###### Artículo 73.
-
-Las sanciones por las faltas cometidas a lo establecido en este ordenamiento, se impondrán tomando en cuenta los siguientes aspectos:
-
-I. La gravedad de la falta;
-
-II. El nivel jerárquico, antecedentes, y la antigüedad en el servicio del servidor público;
-
-III. La reincidencia en el incumplimiento de sus obligaciones; y
-
-IV. El monto del daño o perjuicio derivado de la falta cometida.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 74.
 
-Una vez recibida el acta circunstanciada en la que se relacione la presunta irregularidad, el Titular del Instituto resolverá sobre la imposición de la sanción, o en caso de falta grave o alguna causal de terminación, sobre la instauración del procedimiento, remitiéndola al Coordinador Jurídico del Instituto para su desahogo, quien levantará e integrará las actuaciones que correspondan y las remitirá al Titular para su resolución.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
-### CAPÍTULO XVIII. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN Y EN SU NUMERAL [ANTES CAPÍTULO XVIII], P.O. 21 DE MARZO DE 2019)</small>
+
+### CAPÍTULO XVII. DEL PROCEDIMIENTO DE RESPONSABILIDAD LABORAL
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 75.
 
-El procedimiento para la aplicación de sanciones, estará sujeto a las siguientes reglas:
-
-I. Conocida una irregularidad por el Titular del Instituto, resolverá sobre su instauración, y dará cuenta al Coordinador Jurídico, quien solicitará un informe al servidor público presunto responsable de la misma, dándole a conocer los hechos y la conducta sancionable que se le imputa, haciéndole llegar copia del acuerdo en el que se le incoe el mismo, así como del acta circunstanciada y en su caso de la documentación en la que se motive, concediéndole un término de cinco días hábiles para que produzca por escrito su contestación, y ofrezca pruebas;
-
-II. Una vez recibida la contestación aludida y las pruebas ofrecidas, conforme la fracción anterior, dentro de los 15 días hábiles siguientes se señalara fecha y hora para celebrar la audiencia de defensa, citándose al servidor público presunto responsable, en la cual se retomaran los hechos que se desprenden del acta circunstanciada y de la contestación, se desahogarán las pruebas ofrecidas, así mismo en caso de ser servidor público de base podrá tener intervención la representación sindical si la hubiera. El orden de la audiencia será el siguiente:
-
-a) Se dará cuenta con el acuerdo en el que se establece la incoación del procedimiento administrativo;
-
-b) Se dará lectura al informe que haya presentado el servidor público presunto responsable;
-
-a) (sic) Se recibirán las pruebas que procedan, siempre que no sean contrarias a la moral y a las buenas costumbres, tengan relación con los hechos y se proporcionen los elementos necesarios para su desahogo, mismas que se desahogarán en el orden en que se hayan ofrecido;
-
-c) Se le dará intervención a la representación sindical, si fuera de base y la hubiera;
-
-d) Se le dará intervención al servidor público presunto responsable para que manifieste lo que a su interés convenga;
-
-e) Al concluir, se integrarán las actuaciones y se firmarán por el servidor público, testigos de asistencia y representante sindical si los hubiera y por el Coordinador Jurídico.
-
-III. La audiencia a que se refiere la fracción anterior podrá ser suspendida o prorrogada en los siguientes casos:
-
-a) Por el hecho de que alguna autoridad no entregue o remita la documentación o constancias que como pruebas haya ofrecido el servidor público presunto responsable;
-
-b) Por la ausencia del servidor público presunto responsable, peritos o testigos, siempre que esté motivada por alguna causa justificada.
-
-c) Cuando las pruebas se deban desahogar fuera de las instalaciones del Instituto, siempre que esté motivada por causa justificada.
-
-IV. Desahogadas las pruebas y presentadas las manifestaciones que se refiere en la fracción II, el Coordinador Jurídico, levantará e integrará las actuaciones y las remitirá dentro de lo (sic) 3 días hábiles siguientes al Titular del Instituto para su valoración y resolución;
-
-V. Una vez recibidas las actuaciones el Titular del Instituto, deberá resolver dentro de los 15 días hábiles siguientes sobre la sanción que en su caso corresponda. La resolución deberá notificarse en forma personal al servidor público procesado, al Director del área de su adscripción, dentro de las setenta y dos horas siguientes al momento en el que se pronuncie la resolución.
+Para la imposición de la suspensión, cese o inhabilitación se deberá instaurar el procedimiento de responsabilidad laboral, previsto en el artículo 26 de la Ley para los Servidores Públicos, atendiendo a lo dispuesto por el artículo 107 del Reglamento Interno del Instituto.
 
 ###### Artículo 76.
 
-Al iniciarse el procedimiento, si así conviene para la conducción y continuación del mismo y cuando la falta sea grave y pueda ser sancionada con la suspensión o cese del servidor público, el Titular podrá determinar la reubicación provisional del servidor público, sin afectar el salario o pago de sus percepciones. La reubicación regirá desde el momento en que sea notificada al interesado y cesará cuando se resuelva en definitiva el procedimiento. La reubicación de ninguna manera prejuzga sobre la responsabilidad imputada.
-
-Si el servidor público reubicado provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de sus derechos y en las mismas condiciones de trabajo en que se venía desempeñando con anterioridad a su cambio de adscripción.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 77.
 
-Las correcciones disciplinarias o sanciones que sean impuestas al servidor público, se harán constar en el expediente personal que al efecto lleve la Dirección de Administración y Planeación y en el libro de registro de sanciones.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 78.
 
-El Instituto deberá expedir, a solicitud del servidor público interesado, constancias que acrediten la existencia o no existencia de correcciones disciplinarias o sanción en su expediente.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
-### CAPITULO XIX. DE LOS CONFLICTOS LABORALES
+> <small>(REFORMADA SU DENOMINACIÓN Y EN SU NUMERAL [ANTES CAPÍTULO XIX], P.O. 21 DE MARZO DE 2019)</small>
+
+### CAPÍTULO XVIII. PROCEDIMIENTO PARA CONFLICTOS LABORALES
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 79.
 
-Las diferencias o conflictos laborales que surjan entre el Instituto y sus servidores públicos, serán resueltas por la Comisión Substanciadora.
+El servidor público del Instituto que hubiese sido despedido o afectado en sus derechos laborales, podrá inconformarse o deducir acciones legales que procedan mediante demanda que presentará directamente ante el Secretario Técnico del Instituto, atendiendo a las reglas de prescripción que establece la Ley para los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 80.
 
-La Comisión Substanciadora se integrará por los siguientes funcionarios:
+Las diferencias o conflictos laborales que surjan entre el Instituto y sus servidores públicos, serán resueltos por el Pleno del Consejo, al votar el dictamen que emita para tal efecto, la Comisión Substanciadora.
 
-I. Un Consejero, designado por el Consejo, quien la presidirá;
-
-II. Director de Administración y Planeación;
-
-III. El Secretario Técnico del Instituto;
-
-Los integrantes de la Comisión tendrán derecho de voz y voto, las resoluciones se tomarán por unanimidad o mayoría de votos de los presentes.
-
-La Comisión sesionara por convocatoria del Secretario cuando sea instruido por el Presidente de la misma.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 81.
 
-La Comisión Substanciadora tendrá las atribuciones siguientes:
+La Comisión Substanciadora se integrará en términos del último párrafo del artículo 28 de la Ley de Justicia Alternativa del Estado de Jalisco.
 
-I. Resolver en definitiva respecto los conflictos laborales entre el Instituto y sus servidores públicos.
+Los integrantes de la Comisión tendrán derecho de voz y voto, las resoluciones se tomarán por unanimidad o mayoría de votos.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 82.
 
-El servidor público del Instituto que hubiese sido sancionado, cesado o despedido de su cargo, podrá inconformarse o deducir acciones legales que procedan mediante demanda que presentará directamente ante el Secretario Técnico del Instituto, dentro de los cinco días hábiles siguientes a aquél que se le notifique la determinación del Titular del Instituto.
+La Comisión Substanciadora tendrá las atribuciones siguientes:
 
-Cuando el servidor público considere que fue afectado en sus derechos laborales, podrá inconformarse mediante demanda que presentará en los mismos términos que señala el párrafo anterior, dentro de los plazos previstos supletoriamente en la Ley para los Servidores Públicos.
+I.- Substanciar el procedimiento laboral previsto en el Título Quinto, Capítulos II y III de la Ley para los Servidores Públicos.
+
+II.- Realizar el dictamen para resolución del Consejo, respecto de los conflictos laborales suscitados entre el Instituto y sus servidores públicos, previa substanciación del procedimiento referido en el párrafo anterior, de conformidad con lo dictado por los artículos 28 fracción XVII y 31 fracción IX de la Ley de Justicia Alternativa del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 83.
 
-El escrito de demanda por el que se inconforme o ejercite sus derechos laborales el servidor público, deberá cumplir con los siguientes requisitos:
-
-I. Hacer constar el nombre completo y señalar el domicilio del actor para oír y recibir notificaciones en la zona metropolitana de Guadalajara;
-
-II. Identificar el acto o resolución que se impugna y la fecha en que se notificó el mismo;
-
-III. Mencionar de manera expresa los agravios que causen el acto o resolución que se impugna;
-
-IV. Manifestar las consideraciones de hecho y de derecho en que se funda la demanda;
-
-V. Ofrecer las pruebas en el escrito y acompañar las documentales; y
-
-VI. Asentar la firma autógrafa del servidor público.
-
-En el escrito de demanda, el servidor público deberá señalar si opta por que se le indemnice con el importe d meses de sueldo o por la reinstalación en el cargo o puesto que desempeñaba con las prestaciones inherentes a su nombramiento. Si fuera esa la acción que ejercita.
+Una vez presentada la demanda, el Secretario Técnico del Instituto dará cuenta a la Comisión, para el análisis de los presupuestos procesales y en su caso se dicte el acuerdo que corresponda.
 
 ###### Artículo 84.
 
@@ -829,71 +755,69 @@ Para efectos de la representación, en los procedimientos laborales, si el promo
 
 ###### Artículo 85.
 
-Una vez presentada la demanda, el Secretario Técnico del Instituto dará cuenta al Presidente de la Comisión, para que dentro de los 3 días hábiles siguientes a la interposición de la demanda, éste lo instruya respecto a la convocatoria para la sesión de la Comisión Substanciadora, para el análisis de los presupuestos procesales y en su caso se dicte el acuerdo que corresponda.
-
-Si se advierte alguna irregularidad u obscuridad en el escrito de demanda, se prevendrá al actor para que la subsane dentro de un plazo de tres días hábiles.
-
-Cuando el escrito de demanda satisfaga los requisitos previstos en el presente Reglamento, se admitirá.
-
-En el acuerdo de admisión se ordenará requerir al Titular del Instituto, corriéndole traslado con copia simple del escrito de demanda y sus anexos para que en un término de cinco días hábiles siguientes a aquél en que se le haya emplazado, dé contestación a la demanda, presentándola ante el Secretario Técnico del Instituto.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 86.
 
-El Secretario Técnico del Instituto dará cuenta al Presidente de la Comisión de la recepción del escrito de contestación de demanda, para que éste emita el acuerdo que tenga contestada la demanda, en el cual se señalara fecha para la celebración de la audiencia de conciliación, demanda y excepciones, ofrecimiento, admisión y desahogo de pruebas y alegatos.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 87.
 
-El Titular del Instituto podrá ser representado en la audiencia antes referida por el Coordinador Jurídico del Instituto o por quien este designe en el escrito de contestación de demanda como su apoderado.
+El Titular del Instituto podrá ser representado en la audiencia antes referida por quien este designe en el escrito de contestación de demanda como su apoderado.
 
 ###### Artículo 88.
 
-El desarrollo de la audiencia referida en el artículo 86 correrá a cargo del Secretario Técnico del Instituto.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 89.
 
-Si las partes no comparecen a la celebración de la audiencia, se le tendrá por ratificada su demanda y contestación de demanda; en caso de no asistir a la etapa de ofrecimiento y admisión de pruebas, se les tendrá por perdido el derecho a presentar pruebas y formular alegatos, dándose por concluidas todas y cada una de las etapas procesales, dando cuenta el Secretario Técnico al Presidente de la Comisión, para efectos de que convoque a la Comisión Substanciadora y resuelva lo conducente.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 90.
 
-La audiencia se iniciará con la etapa de conciliación, en la que se exhortará a las partes para que solucionen la controversia y de lograrse el convenio, se dará por concluido el procedimiento. El convenio en mención deberá ser sometido a la aprobación de la Comisión, para que surta los efectos jurídicos inherentes a un laudo.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 91.
 
-En caso de no lograse el arreglo conciliatoria, se tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para que ratifique o amplié su demanda, en este caso, el demandado podrá solicitar la suspensión de la audiencia, para reanudarse en un plazo que no excederá de dos días.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 92.
 
-Reanudada la audiencia o concluida la intervención de la parte actora, se concederá el uso de la palabra a la parte demandada, para que por sí o por conducto de su apoderado o representante legítimo, ratifique o precise lo aseverado en la contestación producida.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 93.
 
-Asimismo en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de las precisiones a la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los dos días hábiles siguientes, a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, procediendo de inmediato a abrir la etapa de ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin más limitaciones que las derivadas de la factibilidad para su desahogo.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 94.
 
-El Secretario Técnico del Instituto, calificará las pruebas admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconducentes o contrarias a la moral o a derecho, o que no tengan relación con la Litis planteada.
-
-Acto continúo se señalará el orden de su desahogo, procurando que sean primero las del actor y posteriormente las del demandando, tomando en cuenta la naturaleza de las pruebas y la celeridad del procedimiento.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 95.
 
-Concluido el desahogo de las pruebas, se abrirá la etapa de alegatos, concediéndole el uso de la voz a las partes, primero al actor y después a la demandada, para que manifiesten lo que en derecho corresponda ya sea por escrito o en forma verbal, finalizada esta etapa, el Secretario Técnico del Instituto levantará certificación de que en su caso no existen pruebas por desahogar, para declarar cerrada la instrucción, y dar cuenta inmediatamente al Presidente de la Comisión.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 ###### Artículo 96.
 
-El Presidente de la Comisión al día siguiente hábil del cierre de la instrucción, instruirá al Secretario Técnico para que emita la convocatoria para la sesión de la Comisión Substanciadora a más tardar dentro de los cinco días hábiles siguientes, para resolver lo conducente.
+(DEROGADO, P.O. 21 DE MARZO DE 2019)
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 97.
 
-La Comisión Substanciadora, emitirá su laudo, en el sentido de confirmar, modificar o revocar el acto o resolución impugnada.
+La Comisión Substanciadora, emitirá su dictamen, en el sentido de confirmar, modificar o revocar el acto o resolución impugnada, para posteriormente ser remitido al Consejo, que tiene la facultad de resolver en definitiva.
 
-El laudo tendrá el carácter de definitivo o inatacable y deberá notificarse personalmente a las partes.
+El laudo emitido por el Consejo tiene el carácter de definitivo e inatacable y deberá notificarse personalmente a las partes.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 98.
 
-En el supuesto de que el laudo ordene dejar sin efectos el cese del servidor público, el Secretario Técnico del Instituto llevará a cabo la diligencia de reinstalación.
+En el supuesto de que el laudo ordene dejar sin efectos la sanción del servidor público, el Secretario Técnico del Instituto llevará a cabo la diligencia de reinstalación.
 
-El titular del Instituto podrá negarse a reinstalarlo, para tal efecto, pagará al servidor público la indemnización equivalente a tres meses de salario, los salarios vencidos y demás prestaciones, desde la fecha del cese del cargo, hasta que se cumplimente el laudo.
+El titular del Instituto podrá negarse a reinstalarlo, para tal efecto, pagará al servidor público la indemnización constitucional.
 
 ## TRANSITORIOS
 
@@ -901,7 +825,7 @@ PRIMERO.- Deposítese en tres tantos las presentes Condiciones Generales de Trab
 
 SEGUNDO.- El presente ordenamiento entrará en vigor a partir de su depósito en el Tribunal de Arbitraje y Escalafón.
 
-TERCERO.- La resolución que emita la Comisión Substanciadora en materia de conflictos laborales, tendrá la validez requerida una vez que se apruebe la reforma a la Ley de Justicia Alternativa, en la que se le otorgue dicha facultad.
+TERCERO.- (DEROGADO, P.O. 21 DE MARZO DE 2019)
 
 CUARTO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" y notifíquese a las autoridades correspondientes.
 
@@ -964,3 +888,25 @@ SE EXPIDE LA PRESENTE CERTIFICACIÓN, EN LA CIUDAD DE GUADALAJARA, JALISCO A LOS
 LICENCIADO IGNACIO ALFONSO REJÓN CERVANTES
 
 SECRETARIO TÉCNICO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO DEL INSTITUTO DE JUSTICIA ALTERNATIVA POR MEDIO DEL CUAL SE MODIFICAN EL REGLAMENTO INTERNO Y EL REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO, AMBOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO, PARA LA ARMONIZACIÓN DE LA COMISIÓN SUBSTANCIADORA, CREACIÓN DEL ÓRGANO INTERNO DE CONTROL Y PARA AJUSTAR EL PROCEDIMIENTO DE DICTAMINACIÓN DE LOS PROGRAMAS DE CAPACITACIÓN”.]
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de Jalisco" y notifíquese a las autoridades que corresponde.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Portal de Internet del Instituto de Justicia Alternativa del Estado.
+
+TERCERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+CUARTO.- En cuanto a los procedimientos iniciados antes de la aprobación de la presente reforma, serán desahogados conforme al Reglamento Interno vigente a la fecha de la resolución que dé inicio a cada etapa procesal.
+
+Por lo que respecta a derechos sustantivos, se estará sujeto a la normatividad vigente al momento en que se hayan consumado los hechos que hayan dado lugar al procedimiento de responsabilidad o jurisdiccional que corresponda siempre y cuando sea en beneficio de los servidores públicos.
+
+QUINTO.- El Órgano Interno de Control asumirá todas las atribuciones y funciones que correspondieron a la Contraloría del Instituto de Justicia Alternativa, en lo que no contraponga a lo establecido en la Ley General de Responsabilidades Administrativas.
+
+SEXTO.- Deposítese en tres tantos el Reglamento de las Condiciones Generales de Trabajo en el Tribunal de Arbitraje y Escalafón del Estado de Jalisco.
+
+SÉPTIMO.- En cuanto a los procedimientos iniciados antes de la aprobación de la presente reforma, serán desahogados conforme al Reglamento de las Condiciones Generales de Trabajo vigente a la fecha de la resolución que dé inicio a cada etapa procesal.
+
+Por lo que respecta a derechos sustantivos, se estará sujeto a la normatividad vigente al momento en que se hayan consumado los hechos que hayan dado lugar al procedimiento de responsabilidad o jurisdiccional que corresponda siempre y cuando sea en beneficio de los servidores públicos.
