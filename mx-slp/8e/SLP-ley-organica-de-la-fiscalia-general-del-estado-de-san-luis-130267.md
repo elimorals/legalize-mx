@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -239,7 +239,9 @@ El patrimonio de la Fiscalía General será inembargable e imprescriptible, no s
 
 Elaboración del Anteproyecto de Presupuesto Anual de Egresos de la Fiscalía General.
 
-El Director General de Administración elaborará el Anteproyecto de Presupuesto Anual de Egresos de la Fiscalía General para la aprobación del Fiscal General, quien deberá enviarlo a la Secretaria de Finanzas para que éste sea incorporado en el proyecto de Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
+El Director General de Administración elaborará el Anteproyecto de Presupuesto Anual de Egresos de la Fiscalía General para la aprobación del Fiscal General, quien deberá enviarlo a la Secretaría de Finanzas para que éste sea incorporado en el proyecto de Presupuesto de Egresos. En el anteproyecto de presupuesto de egresos se considerará un incremento al tabulador de las percepciones a los agentes fiscales, a los policías de investigación, y a los peritos, de manera proporcional al grado de importancia, exposición al peligro, y carga laboral, en relación al demás personal, con base a lo que establecen la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 9°.
 
@@ -1269,7 +1271,9 @@ Subsistemas del Servicio Profesional de Carrera.
 
 Todos los cargos de la Fiscalía General serán cubiertos por concurso de oposición y méritos, según el Plan de Gestión de Capital Humano que sea aprobado por el Fiscal General.
 
-El sistema abarcará a los agentes fiscales, a los policías de investigación y a los peritos.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+
+El sistema abarcará a los agentes fiscales, a los policías de investigación, y a los peritos, quienes recibirán percepciones económicas y en especie, de manera proporcional al grado de importancia, exposición al peligro, y carga laboral, en relación al demás personal, con base en la suficiencia presupuestal de la Fiscalía.
 
 ###### ARTÍCULO 61.
 
@@ -1412,3 +1416,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0132.- SE REFORMAN LOS ARTÍCULOS 8° Y 60 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
