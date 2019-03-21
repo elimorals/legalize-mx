@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2017-05-20"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -249,11 +249,11 @@ El titular del Poder Ejecutivo del Estado; a través de la Secretaría y a petic
 
 El Poder Legislativo de conformidad a lo dispuesto por el artículo 26 de la Constitución Política del Estado, así como con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, elaborará su proyecto de Presupuesto de Egresos remitiéndolo al Poder Ejecutivo para su Inclusión en el proyecto de Presupuesto de Egresos del Estado y al aprobarlo, lo ejercerá con autonomía, de conformidad con leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Artículo 17.
 
-El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de presupuestos. Su Consejo General, lo hará para el resto del Poder Judicial, conforme lo establece el artículo 57 de la Constitución Política de la entidad, atendiendo lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Con ello, se integrará el Presupuesto del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía de conformidad con leyes aplicables.
+El pleno del Supremo Tribunal de Justicia elaborará su propio proyecto de presupuesto y el Consejo General lo hará para el resto del Poder Judicial, conforme lo establece el artículo 57 de la Constitución Política de la entidad, atendiendo lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Con ello, se integrará el Presupuesto del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía de conformidad con leyes aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1606,3 +1606,9 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26359/LXI/17 QUE ADICIONA EL TÍTULO SÉPTIMO Y LOS ARTÍCULOS 114, 115, 116 Y 117 A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor a los 90 días siguientes a partir del inicio de la vigencia del Presupuesto de Egresos del Estado de Jalisco para el año 2018.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27239/LXII/19 SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, PARA SU ARMONIZACIÓN CON LA NORMATIVIDAD RELATIVA AL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
