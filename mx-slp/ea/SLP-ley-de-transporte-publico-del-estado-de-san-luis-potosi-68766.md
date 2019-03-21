@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-12-18"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -883,11 +883,11 @@ Queda prohibido el cambio de modalidad, así como el cambio de área geográfica
 
 La modificación de los elementos de la concesión será resuelta por el titular de la Secretaría y, en caso de resultar procedente, éste expedirá el título de novación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 46.
 
-Los vehículos que se utilicen para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II, y III, del artículo 21 de esta Ley, serán de carrocería, chasis y motor con antigüedad máxima de diez años; de fabricación nacional, o que hayan sido ingresados legalmente al país.
+Los vehículos que se utilicen para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II, y III, del artículo 21 de esta Ley, serán de carrocería, chasis y motor con antigüedad máxima de diez años; preferentemente con sistema híbrido o eléctrico; de fabricación nacional, o que hayan sido ingresados legalmente al país.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -2882,3 +2882,11 @@ P.O. 18 DE DICIEMBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0130.- SE REFORMA EL ARTÍCULO 46 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
