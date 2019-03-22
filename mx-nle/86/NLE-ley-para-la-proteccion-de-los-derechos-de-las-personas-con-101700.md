@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-03-04"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MARZO DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MARZO DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -129,11 +129,11 @@ VI. Los habitantes del Estado y la Sociedad Civil Organizada, cualquiera que sea
 
 Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyan el objeto de esta Ley.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+(REFORMADO, P.O. 4 DE MARZO DE 2019) (F. DE E., P.O. 22 DE MARZO DE 2019)
 
 ###### Artículo 4.
 
-Los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por origen étnico o nacional, género, edad, trastorno de talla, condicón (sic) social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquier otra que atente contra su dignidad.
+Los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por origen étnico o nacional, género, edad, transtorno (sic) de talla, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquier otra que atente contra su dignidad.
 
 ###### Artículo 5.
 
@@ -1019,6 +1019,6 @@ P.O. 2 DE JUNIO DE 2017.
 
 P.O. 4 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 093. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 4 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 093. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 4 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
