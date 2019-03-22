@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2018-12-19"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -165,7 +165,7 @@ La seguridad pública comprende las acciones realizadas en ejercicio de sus atri
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-l. Las Instituciones Policiales en los términos y condiciones que prevé esta Ley;
+I. Las Instituciones Policiales en los términos y condiciones que prevé esta Ley;
 
 II. El Ministerio Público y sus órganos auxiliares: la policía dependiente de la Agencia Estatal de Investigaciones, y la Dirección de Criminalística y Servicios Periciales;
 
@@ -241,7 +241,9 @@ I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civi
 
 II. Tener cuando menos treinta y cinco años de edad al día de su designación;
 
-III. Poseer al día de su designación título profesional de licenciado en derecho o en criminología, debidamente registrado ante la autoridad competente con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello, deberá además contar con cédula profesional debidamente registrada por la Dirección General de Profesiones;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+III. Poseer al día de su designación título profesional, debidamente registrado ante la autoridad competente con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello, deberá además contar con cédula profesional debidamente registrada por la Dirección General de Profesiones;
 
 IV. Tener experiencia mínima de tres años en materia de seguridad pública, procuración de justicia o impartición de justicia en materia penal, lo anterior deberá acreditarlo con documental idónea;
 
@@ -619,7 +621,7 @@ Para el desempeño de sus atribuciones, el Consejo de Coordinación podrá promo
 
 El Consejo de Coordinación expedirá su Reglamento Interior en el que se establecerá su organización y funcionamiento, la forma y términos en que deberán llevar a cabo sus sesiones, la instalación y operación de sus comisiones, los mecanismos institucionales de comunicación y las demás disposiciones necesarias para el cumplimiento de sus atribuciones, en los términos que dispone esta Ley.
 
-### CAPÍTULO TERCERO. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES DE COORDINACIÓN DE SEGURIDAD PÚBLICA
+### CAPÍTULO TERCERO. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES DE COORDINACION DE SEGURIDAD PÚBLICA
 
 ###### Artículo 43.
 
@@ -755,7 +757,7 @@ I. Los Presidentes Municipales;
 
 II. Los Titulares de las Instituciones Policiales Municipales y aquellos funcionarios que ejerzan funciones operativas; y
 
-III. Todo aquel servidor público municipal que en razón de su empleo, cargo o comisión, esté expuesto a sufrir algún daño, amenaza o peligro, siempre que sea autorizado por el Ayuntamiento respectivo, pudiendo ser temporal o bien por todo el período que permanezca en el ejercicio de su función; según las circunstancias del caso.
+III. Todo aquel servidor público municipal que en razón de su empleo, cargo o comisión, esté expuesto a sufrir algún daño, amenaza o peligro, siempre que sea autorizado por el Ayuntamiento respectivo, pudiendo ser temporal o bien por todo el período que permanezca en el ejercicio de su función, según las circunstancias del caso.
 
 Lo anterior con cargo al erario municipal, para lo cual deberán efectuarse las previsiones correspondientes en el presupuesto anual del municipio respectivo, bajo los principios de optimización de recursos, humanos, materiales y financieros y de conformidad las disposiciones reglamentarias que para tal efecto emita el Ayuntamiento que corresponda.
 
@@ -807,7 +809,7 @@ Así mismo, le corresponde a las autoridades municipales regular e instrumentar 
 
 ###### Artículo 57 Bis 2.
 
-La estadística delictiva describe el desenvolvimiento del delito y de las infracciones administrativas durante un periodo de tiempo determinado. La estadística delictiva geográfica tiene por objeto visualizar de manera automatizada, en mapas digitales e interactivos, los datos, cifras e indicadores que permitan describir el comportamiento delictivo y de infracciones administrativas en un periodo de tiempo determinado, incluyendo su referencia espacial, temporal y su evolución.
+La estadística delictiva describe el desenvolvimiento del delito y de las infracciones administrativas durante un período de tiempo determinado. La estadística delictiva geográfica tiene por objeto visualizar de manera automatizada, en mapas digitales e interactivos, los datos, cifras e indicadores que permitan describir el comportamiento delictivo y de infracciones administrativas en un período de tiempo determinado, incluyendo su referencia espacial, temporal y su evolución.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -955,9 +957,9 @@ Los agentes policiales que realicen detenciones, deberán dar aviso administrati
 
 El registro administrativo de la detención deberá contener, al menos, los datos siguientes:
 
-l. Nombre y, en su caso, apodo del detenido;
+I. Nombre y, en su caso, apodo del detenido;
 
-Il. Descripción física del detenido;
+II. Descripción física del detenido;
 
 III. Descripción del estado físico aparente del detenido;
 
@@ -995,7 +997,7 @@ VIII. Otros medios que permitan la identificación del individuo.
 
 La información capturada en el Registro Administrativo de Detenciones será obligatoria, confidencial y reservada. A la información contenida en el registro sólo podrán tener acceso:
 
-l. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
+I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
 
 II. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
 
@@ -1659,7 +1661,7 @@ Los funcionarios o servidores públicos que contraviniendo esta disposición, ej
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2013)</small>
 
-### CAPITULO SEGUNDO. DE LAS INSTITUCIONES POLICIALES DEL ESTADO
+### CAPÍTULO SEGUNDO. DE LAS INSTITUCIONES POLICIALES DEL ESTADO
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -1729,7 +1731,7 @@ VII. Brindar apoyo y auxilio a la ciudadanía en labores de protección civil cu
 
 VIII. Dar cumplimiento a lo dispuesto en el Programa Estatal de Seguridad, observando las recomendaciones y sugerencias del Consejo Ciudadano;
 
-IX. Promover, con el ejemplo, una cultura de la legalidad, de la denuncia ciudadana y de la prevención o auto protección del delito; y
+IX. Promover, con el ejemplo, una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito; y
 
 X. Las demás que establezcan las disposiciones jurídicas aplicables.
 
@@ -1893,7 +1895,7 @@ La prestación de las funciones complementarias deberá seguir en todo caso las 
 
 ###### Artículo 140.
 
-La vigilancia especifica en barrios, colonias, fraccionamientos, comunidades o sectores urbanos delimitados, se otorgará previa formación de un comité ciudadano integrado por residentes del sector y cumpliendo los requisitos que al efecto se establezcan.
+La vigilancia específica en barrios, colonias, fraccionamientos, comunidades o sectores urbanos delimitados, se otorgará previa formación de un comité ciudadano integrado por residentes del sector y cumpliendo los requisitos que al efecto se establezcan.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2017)</small>
 
@@ -1917,7 +1919,7 @@ Si en el desempeño de esta función concurren instituciones policiales municipa
 
 ###### Artículo 143.
 
-La protección y escolta de servidores públicos, ex servidores públicos y demás personas que gocen de este beneficio, dentro de su respectivo ámbito de competencia, se observará lo dispuesto en el Capitulo Quinto del Título Tercero de la presente Ley y demás ordenamientos aplicables.
+La protección y escolta de servidores públicos, ex servidores públicos y demás personas que gocen de este beneficio, dentro de su respectivo ámbito de competencia, se observará lo dispuesto en el Capítulo Quinto del Título Tercero de la presente Ley y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -2177,7 +2179,7 @@ En el caso de las fracciones XIII y XIV del Artículo anterior, le corresponde a
 
 Las Instituciones Policiales deberán llenar un Informe Policial Homologado que contendrá, cuando menos, los siguientes datos:
 
-l. El área que lo emite;
+I. El área que lo emite;
 
 II. El usuario capturista;
 
@@ -2217,7 +2219,7 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 ###### Artículo 156 Bis 1.
 
-Los agentes policiales que realicen detenciones, deberán dar aviso administrativo de inmediato a la Secretaria de la detención, a través del Informe Policial Homologado.
+Los agentes policiales que realicen detenciones, deberán dar aviso administrativo de inmediato a la Secretaría de la detención, a través del Informe Policial Homologado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2271,7 +2273,7 @@ XIV. Los demás que les confieran las Leyes y reglamentos de la materia.
 
 Son conductas prohibidas y sujetas a la imposición de las sanciones las siguientes:
 
-l. Presentarse después del horario señalado para el inicio del servicio o comisión sin causa justificada;
+I. Presentarse después del horario señalado para el inicio del servicio o comisión sin causa justificada;
 
 II. Tomar parte activa en calidad de participante en manifestaciones, mítines u otras reuniones de carácter público de igual naturaleza, así como realizar o participar de cualquier forma, por causa propia o por solidaridad con causa ajena, en cualquier movimiento o huelga, paro o actividad similar que implique o pretenda la suspensión o disminución del servicio;
 
@@ -2307,7 +2309,7 @@ XVII. Participar en actos públicos en los cuales se denigre a la Institución, 
 
 XVIII. Faltar a su servicio sin permiso o causa que lo justifique;
 
-XIX. Cometer faltas graves a los principios de actuación previstos en la presente Ley y a las normas de disciplina que se establezcan en la Institución policial a la que pertenezca, evidenciando con ello una notoria deslealtad al servicio;
+XIX. Cometer faltas graves a los principios de actuación previstos en la presente Ley y a las normas de disciplina que se establezcan en la institución policial a la que pertenezca, evidenciando con ello una notoria deslealtad al servicio;
 
 XX. Actuar deshonestamente en el desempeño de sus funciones o cometer cualquier acto que atente contra la moral y el orden público;
 
@@ -2365,7 +2367,7 @@ Se sancionará con pena privativa de libertad de tres a nueve años, multa de do
 
 Al haberse dictado auto de formal prisión o de vinculación al proceso por la comisión de este delito, el imputado será suspendido de sus derechos laborales.
 
-Quedan excluídas de este delito las autoridades señaladas en el Artículo 122 de esta Ley.
+Quedan excluidas de este delito las autoridades señaladas en el Artículo 122 de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -2707,7 +2709,7 @@ El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente 
 
 ###### Artículo 197 Bis.
 
-A efecto de instrumentar y evaluar las reglas y procesos en materia de desarrollo policial, descritas en el artículo anterior, se crea con carácter funcional, consultivo, de opinión y honorifico, el Consejo Consultivo de Desarrollo Policial, el cual estará integrado de la siguiente manera:
+A efecto de instrumentar y evaluar las reglas y procesos en materia de desarrollo policial, descritas en el artículo anterior, se crea con carácter funcional, consultivo, de opinión y honorífico, el Consejo Consultivo de Desarrollo Policial, el cual estará integrado de la siguiente manera:
 
 I. Un Presidente, que será el Secretario de Seguridad Pública del Estado;
 
@@ -2791,7 +2793,7 @@ VIII. Se determinará un régimen de estímulos y previsión social que correspo
 
 IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio;
 
-X. El cambio de un Integrante de un área operativa a otra de distinta especialidad, requerirá autorización de la instancia correspondiente; y
+X. El cambio de un integrante de un área operativa a otra de distinta especialidad, requerirá autorización de la instancia correspondiente; y
 
 XI. Para cada una de las etapas que comprende la Carrera Policial deberá establecerse su regulación correspondiente.
 
@@ -2995,7 +2997,7 @@ VI. En cualquier otro supuesto previsto en otras Leyes.
 
 Los ascensos se concederán, teniendo en cuenta las circunstancias siguientes:
 
-l. Perfil y capacidad;
+I. Perfil y capacidad;
 
 II. Antigüedad en la corporación;
 
@@ -3023,7 +3025,7 @@ La antigüedad para los elementos se contará desde la fecha en que hayan causad
 
 No se computará como tiempo de servicio:
 
-l. El de las licencias ordinarias y extraordinarias, cuando se concedieron para asuntos particulares;
+I. El de las licencias ordinarias y extraordinarias, cuando se concedieron para asuntos particulares;
 
 II. El de las comisiones fuera del servicio de la Policía; y
 
@@ -3053,7 +3055,7 @@ IV. Escala Básica.
 
 Las categorías previstas en el artículo anterior considerarán, al menos, las siguientes jerarquías:
 
-l. Comisarios:
+I. Comisarios:
 
 a) Comisario General;
 
@@ -3103,9 +3105,9 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 ###### Artículo 198 Bis 24.
 
-El orden de las categorías jerárquicas y grados tope del personal de la Instituciones Policiales con relación a las tareas operativas y de servicios será:
+El orden de las categorías jerárquicas y grados tope del personal de la Instituciones Policiales con relación a las áreas operativas y de servicios será:
 
-l. Para las áreas operativas, de policía a Comisario General; y
+I. Para las áreas operativas, de policía a Comisario General; y
 
 II. Para los servicios, de policía a Comisario Jefe.
 
@@ -3407,7 +3409,7 @@ IX. Las demás que se determinen en el reglamento respectivo.
 
 El régimen disciplinario regula la actuación de los integrantes de las Instituciones Policiales y comprende el cabal cumplimiento de los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León.
 
-La disciplina es la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+La disciplina es la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
 
 La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
 
@@ -3429,7 +3431,7 @@ El régimen disciplinario se ajustará a los principios constitucionales, la pre
 
 ###### Artículo 218 Bis 2.
 
-Los Integrantes de las Instituciones Policiales, observarán las obligaciones previstas en el artículo 155 de esta Ley y se abstendrán de realizar las conductas a que se refiere el artículo 158 de esta Ley, con independencia de su adscripción orgánica.
+Los integrantes de las Instituciones Policiales, observarán las obligaciones previstas en el artículo 155 de esta Ley y se abstendrán de realizar las conductas a que se refiere el artículo 158 de esta Ley, con independencia de su adscripción orgánica.
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3535,7 +3537,7 @@ Le corresponde a la Secretaría verificar que las sanciones descritas en los Art
 
 Para el conocimiento, trámite y resolución de las quejas o denuncias que se interpongan en relación con la actuación de los servidores públicos de la Secretaría de Seguridad Pública del Estado, se crea la Comisión de Honor y Justicia, a cargo de dicha dependencia, integrada por cinco miembros designados por el Titular del Poder Ejecutivo del Estado y un representante de organizaciones de la sociedad civil organizada, vinculado con temas afines a la seguridad pública, el cual fungirá como invitado especial, con derecho a voz y no a voto.
 
-La participación del representante de las organizaciones de la sociedad civil organizada será a título de colaboración ciudadana y su desempeño tendrá carácter honorifico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirá remuneración alguna por el desempeño de sus funciones ni será considerado servidor público.
+La participación del representante de las organizaciones de la sociedad civil organizada será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirá remuneración alguna por el desempeño de sus funciones ni será considerado servidor público.
 
 En cada municipio, en los términos de su reglamentación respectiva, se crearán comisiones con iguales fines. La Procuraduría General de Justicia aplicará las disposiciones de su Ley Orgánica en lo que no se oponga al presente ordenamiento.
 
@@ -3834,3 +3836,9 @@ P.O. 19 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 027. SE REFORMA POR ADICIÓN DEL ARTÍCULO 32 BIS 1 A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
