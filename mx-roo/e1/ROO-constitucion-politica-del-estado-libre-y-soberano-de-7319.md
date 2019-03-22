@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2019-03-06"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -789,7 +789,11 @@ TITUTO (SIC) CUARTO
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+I.- La porción oriental de la Península de Yucatán que se encuentra limitada por una línea divisoria que partiendo de la Costa Norte del Golfo de México, siga el arco del meridiano 87º 32', longitud Oeste de Greenwich, hasta su intersección con el paralelo 21º, y de allí continúa a encontrar el paralelo que pasa por la torre Sur de Chemax, veinte kilómetros al oriente de este punto; y llegando después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche, cerca de Put, descienda al Sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
+
+El vértice "cerca de Put" que se indica en el párrafo que antecede se ubica en el centro del monumento en forma de pirámide truncada que aparece en la iglesia en ruinas del antiguo Rancho Put, con las coordenadas geográficas siguientes: Paralelo 19 grados 38 minutos 57 segundos Latitud Norte y meridiano 89 grados 24 minutos 44 segundos Longitud Oeste de Greenwich.
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -1449,7 +1453,9 @@ XXXV.- Crear o suprimir municipios y reformar la división política del Estado,
 
 XXXVI.- Resolver los conflictos que surjan entre los Ayuntamientos entre sí y entre éstos y el Ejecutivo Estatal, salvo cuando tengan carácter contencioso.
 
-XXXVII.- Definir los límites de los municipios en caso de duda surgida entre ellos, salvo cuando tengan carácter contencioso.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+XXXVII.- Aprobar los convenios amistosos que celebren los Municipios del Estado para arreglar entre sí, sus respectivos límites territoriales.
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
@@ -3379,13 +3385,13 @@ En todo caso se deberá escuchar al Ayuntamiento del Municipio que se pretenda s
 
 La Legislatura por acuerdo de sus integrantes, estará facultada para modificar la denominación de algún Municipio, cuando en su concepto, existan razones fundadas para ello, de acuerdo a la Ley de la Materia.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 131.
 
-Los conflictos de límites que se susciten entre los diversos Municipios del Estado, podrán resolverse mediante convenios que al efecto se celebren entre sus Ayuntamientos, con la aprobación de la Legislatura.
+Los Municipios del Estado pueden arreglar entre sí y en cualquier momento, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación de la Legislatura del Estado.
 
-Cuando dichos conflictos tengan el carácter de contenciosos, conocerá de ellas el Tribunal Superior de Justicia y resolverá en última instancia y con fuerza de cosa juzgada, en forma definitiva e inatacable en el ámbito estatal.
+De no existir el convenio a que se refiere el párrafo anterior, y a instancia de alguna de las partes en conflicto, el Tribunal Superior de Justicia del Estado conocerá, sustanciará y resolverá con carácter de inatacable en el ámbito estatal, las controversias sobre límites territoriales que se susciten entre los Municipios del Estado, en los términos de la fracción I, apartado A, del artículo 105 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -5391,7 +5397,7 @@ SEGUNDO: Se derogan todas aquellas disposiciones jurídicas de igual o menor jer
 
 P.O. 6 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO: 010 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 010 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 PRIMERO. Las reformas y adiciones de los artículos 12, 56 y 68 a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -5400,3 +5406,17 @@ SEGUNDO. Las reformas, derogaciones y adiciones de los artículos 21, 49, 59, 61
 TERCERO. En un plazo que no excederá de noventa días naturales siguientes a la publicación en el Periódico Oficial del Estado del presente Decreto, la Legislatura del Estado expedirá la legislación secundaria que regule la organización y el funcionamiento del Poder Legislativo en armonía con el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 303 POR EL QUE SE REFORMAN LOS ARTÍCULOS 46, EN SU FRACCIÓN I; 75, EN SU FRACCIÓN XXXVII; Y 131; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado mandará a publicar en el Periódico Oficial del Estado, el mapa oficial del Estado de Quintana Roo conforme a lo que se establece en el artículo 46 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, que se reforma mediante este Decreto.
+
+TERCERO.- El mapa oficial del Estado de Quintana a que se refiere el artículo transitorio que antecede será de observancia general para los Poderes, Municipios, Órganos Autónomos del Estado y, en general, para todas las entidades y dependencias estatales y municipales, así como para los particulares que publiquen, expongan o hagan uso por cualquier medio del mapa del Estado de Quintana Roo.
+
+CUARTO.- Una vez publicados el presente Decreto, así como el mapa oficial del Estado de Quintana Roo, en el Periódico Oficial del Estado, deberán ser remitidos por el Ejecutivo del Estado al Instituto Nacional de Estadística y Geografía, para los fines geoestadísticos estatales y municipales que correspondan.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
