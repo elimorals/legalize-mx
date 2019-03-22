@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-949
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-21"
-last_updated: "2018-07-02"
+last_updated: "2019-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE GUANAJUATO
 
-Reglamento publicado en la cuarta parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de junio de 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019 (ABROGADO).
+
+Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de junio de 2013.
 
 MIGUEL MÁRQUEZ MÁRQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXV y 79 de la Constitución Política para el Estado de Guanajuato, así como lo dispuesto por los artículos 2o., 3o., 6o., y 9 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
@@ -1512,3 +1514,45 @@ Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretar�
 Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
 
 Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 18, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento Interior
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social y Humano, contenido en el Decreto Gubernativo número 35, publicado en el Periódico Oficial del Gobierno del Estado número 99, Cuarta Parte, de 21 de junio del 2013.
+
+Asuntos en trámite
+
+Artículo Tercero. Los asuntos en trámite que a la entrada en vigenciadel (sic) presente Decreto, estuvieran siendo conocidos por las unidades administrativas cuya denominación cambie, serán continuados hasta su resolución por las unidades administrativas actuales, de conformidad con el siguiente cuadro explicativo:
+
+DENOMINACIÓN ANTERIOR DENOMINACIÓN ACTUAL
+
+Subsecretaría de Planeación y Subsecretaría de Información y
+
+Operación para la Organización Programación
+
+Subsecretaría de Administración e Subsecretaría de Inclusión e Inversión Inversión para el Desarrollo Social
+
+Dirección General de Información Dirección General de Padrones
+
+Social Sociales
+
+Dirección General de Planeación y Dirección General de Programación Evaluación y Control
+
+Dirección General de Inclusión al Dirección General de Economía y
+
+Desarrollo Vivienda Social
+
+Dirección General de Desarrollo Social Dirección General de Inversión
+
+para la Infraestructura Social
+
+Dirección General de Gestoría y Dirección General de Gestoría e
+
+Vinculación Interinstitucional Inclusión Social y Humana
