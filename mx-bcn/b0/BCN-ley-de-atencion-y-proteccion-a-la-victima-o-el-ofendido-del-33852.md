@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2018-10-29"
+last_updated: "2019-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -519,7 +519,9 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan a la present
 
 CUARTO.- En un plazo de 180 días contados a partir de la entrada en vigor de la Ley, el Ejecutivo del Estado y los Ayuntamientos deberán emitir o adecuar las disposiciones reglamentarias necesarias para que en el ámbito de sus competencias se hagan efectivas las disposiciones de esta Ley.
 
-QUINTO.- El Sistema Estatal de Atención a Víctimas deberá instalarse dentro de 180 días contados a partir de la entrada en vigor de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
+QUINTO.- El Sistema Estatal de Atención a Víctimas deberá instalarse dentro de treinta días contados a partir del nombramiento del Comisionado Ejecutivo Estatal.
 
 SEXTO.- La Procuraduría General de Justicia del Estado y demás dependencias o entidades del Ejecutivo del Estado, que ejercen funciones encomendadas de la Ley que se abroga, deberán transferir los recursos humanos, materiales y financieros a la Comisión Ejecutiva Estatal para el inicio de sus operaciones.
 
@@ -537,9 +539,13 @@ OCTAVO.- Todas las Instituciones a que se refiere esta Ley, deberán establecer 
 
 NOVENO.-·Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal o municipal, así como en la Comisión Estatal de Derechos Humanos, deberán ser remitidos a la Comisión Ejecutiva Estatal de Atención a Víctimas, en un plazo de treinta días siguientes a la conformación de la misma.
 
-DÉCIMO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Estatal, previa consulta pública a víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, remitirá al Congreso del Estado la propuesta de nombramiento del Comisionado Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
-Una vez recibida la propuesta a que se refiere el párrafo anterior, el Congreso de Estado contará con un plazo de 90 días para que proceda a su nombramiento.
+DÉCIMO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Estatal, previa consulta pública a colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en materia, remitirá al Congreso del Estado la terna propuesta de nombramiento del Comisionado Ejecutivo Estatal.
+
+En caso de que no logre integrar la referida propuesta y su remisión al Congreso Estatal, en el plazo que corresponda, el Titular del Poder Ejecutivo Estatal podrá convocar a consulta pública a colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, para los mismos fines, dentro de los 60 días siguientes, hasta en tanto se remita dicha propuesta.
+
+El Titular del Poder Ejecutivo Estatal deberá remitir la propuesta al Congreso de (sic) Estado, el cual una vez recibida, contará con un plazo de 45 días para que proceda a su nombramiento.
 
 DÉCIMO PRIMERO.- Por única ocasión, para la designación de los miembros del Consejo Consultivo, el Comisionado Ejecutivo dentro de los 30 días siguientes a su nombramiento enviará propuestas de integrantes al Congreso del Estado, el cual los elegirá dentro de los 60 días posteriores.
 
@@ -548,3 +554,9 @@ DÉCIMO SEGUNDO.- Dentro de los diez días siguientes de constituirse el Consejo
 DÉCIMO TERCERO.- Los recursos del Fondo General de Reparaciones a las Víctimas u Ofendidos que dispone la Ley de Atención y Protección a la Victima o el Ofendido del Delito para el Estado que se abroga, serán transferidos al Fondo Estatal de Ayuda, Asistencia y Reparación Integral que regula la Ley que se expide con el presente Decreto. El Titular del Poder Ejecutivo del Estado adoptará las medidas administrativas pertinentes para estos efectos.
 
 DÉCIMO CUARTO.- El Ejecutivo del Estado deberá hacer las previsiones presupuestales para la operación de la presente Ley dentro del ejercicio fiscal subsecuente a su entrada en vigor y a la designación del Comisionado Ejecutivo Estatal.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 324 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS TRANSITORIOS QUINTO Y DÉCIMO DEL DECRETO NÚMERO 270 QUE CREA LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.. (sic)
