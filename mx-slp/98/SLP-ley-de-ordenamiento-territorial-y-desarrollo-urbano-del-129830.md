@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2018-07-17"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -3343,7 +3343,9 @@ XVII. Los espesores mínimos del recubrimiento de la vialidad, según las normas
 
 XVIII. Las normas para la instalación de las señales de tránsito, lámparas, casetas y demás elementos integrantes del mobiliario urbano;
 
-XIX. La inclusión de ciclovías cuando el ancho de calle lo permita;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+XIX. La inclusión de ciclovías cuando el ancho de calle lo permita; considerando además, la instalación de la señalética necesaria para la circulación segura de los ciclistas;
 
 XX. La inclusión de carriles exclusivos para transporte público en las vías primarias, en desarrollos de cinco mil o más habitantes, y en desarrollos no habitacionales de más de veinticinco hectáreas. Asimismo se preverá el recorrido del transporte público dentro del desarrollo habitacional y la ubicación de los paraderos, procurando que la población no recorra más de quinientos metros para llegar a ellos;
 
@@ -6794,3 +6796,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE REFORMA EL ARTÍCULO 169 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
