@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-02-15"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -105,13 +105,17 @@ XI. Discriminación Múltiple o Agravada: Tipo de violencia contra la mujer caus
 
 XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social; y
+XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-XIV. Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección.
+XIV. Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+
+XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -1146,5 +1150,11 @@ Segundo.- El Instituto Estatal de las Mujeres deberá implementar las acciones p
 P.O. 15 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 089. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN IV DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 101. SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, III, V Y VII, ASÍ COMO POR ADICIÓN DE UN ÚLTIMO PÁRRAFO TODOS AL ARTÍCULO 331 BIS 2 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN.”]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
