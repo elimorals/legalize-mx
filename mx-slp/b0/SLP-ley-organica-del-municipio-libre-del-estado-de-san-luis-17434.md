@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2018-10-01"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1067,9 +1067,9 @@ XXXVII. En materia de seguridad pública ejercer las facultades que le confieren
 
 XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-XXXIX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+XXXIX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
@@ -1157,9 +1157,9 @@ VII. Solicitar se convoque a sesiones ordinarias y extraordinarias al Cabildo. C
 
 VIII. Suplir las faltas temporales de los síndicos suplentes en funciones, cuando para ello fueren designados por el Cabildo;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-IX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+IX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -1201,15 +1201,15 @@ X. Intervenir como asesor en las demás comisiones cuando se trate de dictámene
 
 XI. Fungir como Agente del Ministerio Público en los casos que determinen las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-XII. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
+XII. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
 
 (NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 (NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
 
@@ -2593,6 +2593,8 @@ Los servidores públicos administrativos serán suplidos en la forma que preveng
 
 ### CAPITULO III. De las Sanciones y de los Recursos
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 163.
 
 Tienen obligación de presentar declaración de situación patrimonial ante el Cabildo:
@@ -2629,7 +2631,7 @@ Para efectos de registro y control, el Cabildo remitirá a la Auditoría Superio
 
 ###### ARTICULO 167.
 
-Por el incumplimiento de las funciones públicas previstas en esta Ley se impondrán a los servidores públicos municipales, las sanciones señaladas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Por el incumplimiento de las funciones públicas previstas en esta Ley, se impondrán a los servidores públicos municipales, las sanciones señaladas por la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ## TITULO DECIMO PRIMERO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -3090,3 +3092,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0141 BIS.- SE REFORMAN LOS ARTÍCULOS 70, 74, 75 Y 167 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 56 Y 57 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+Primero. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
