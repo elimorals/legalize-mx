@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2019-02-22"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -45,15 +45,21 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
 ### CAPÍTULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 1º.
 
-En el Estado de Michoacán de Ocampo todas las personas gozarán de los derechos humanos que otorga la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal señala, así como de los demás derechos establecidos en esta Constitución y en las leyes que de ambas emanen.
+En el Estado de Michoacán de Ocampo todas las personas gozarán de los derechos humanos que reconoce la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal señala, así como de los demás derechos establecidos en esta Constitución y en las leyes que de ambas emanen.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, con los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -857,7 +863,7 @@ XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 
 XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 XXVI.- (DEROGADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)
 
@@ -3878,6 +3884,18 @@ P.O. 22 DE FEBRERO DE 2019.
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 01 POR EL QUE "SE REFORMA EL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
