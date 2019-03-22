@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-patronato-del-teatro-del-pueblo-44293"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-09"
-last_updated: "2005-03-09"
+last_updated: "2019-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL PATRONATO DEL TEATRO DEL PUEBLO, NAYARIT
 
-REGLAMENTO INTERIOR DEL PATRONATO DEL TEATRO DEL PUEBLO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL PATRONATO DEL PUEBLO, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL PATRONATO DEL TEATRO DEL PUEBLO DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 9 de marzo de 2005.
 
@@ -266,3 +268,19 @@ PRIMERO. El presente reglamento entrará en vigor al día siguiente de su public
 El presente Reglamento Interior fue aprobado por la Junta de Gobierno del Patronato del Teatro del Pueblo en sesión extraordinaria con fecha 13 de diciembre de 2002.
 
 ALEJANDRO GUZMAN HERNANDEZ, PRESIDENTE.- RÚBRICA.- LIC. ADAN MEZA BARAJAS. SECRETARIO GENERAL DE GOBIERNO.- RÚBRICA.- C.P. GERARDO GANGOITI RUIZ. SECRETARIO DE FINANZAS.- RÚBRICA.- C. BEATRIZ EUGENIA M. MUNGUIA MACIAS, SECRETARIA DE LA CONTRALORIA GENERAL.- RÚBRICA.- PROFR. JOSE RAMON PARRA RIVERA, SECRETARIO DE EDUCACION PÚBLICA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL PATRONATO DEL TEATRO DEL PUEBLO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Patronato publicado de (sic) fecha 09 de marzo de 2005 en el Periódico Oficial Órgano del Gobierno del Estado.
+
+TERCERO. En tanto se realiza la adecuación presupuestal y se nombra a los integrantes del Órgano Interno de Control, se procederá como sigue:
+
+a. Mientras no se nombre al Titular del Órgano Interno de Control, la Secretaría de la Contraloría General atraerá los casos que se llegasen a presentar, para su atención y resolución, de conformidad a lo dispuesto en la Ley Orgánica del Poder Ejecutivo.
+
+b. Si el Órgano Interno de Control no llegase a contar con el personal suficiente para dar cumplimiento al artículo 115 de la Ley General de Responsabilidades Administrativas, actuará el Titular del mismo como Autoridad Auditora e Investigadora, debiendo asumir las atribuciones establecidas en los artículos 45 y 46 del Reglamento Interior de la Secretaría de la Contraloría General, para posteriormente turnar a la Secretaría de la Contraloría General el expediente integrado, para que ésta actúe como Autoridad Substanciadora.
