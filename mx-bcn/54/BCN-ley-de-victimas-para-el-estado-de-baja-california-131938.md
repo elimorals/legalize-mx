@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2018-10-29"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -903,7 +903,7 @@ Tendrán el carácter de invitados a las sesiones del Sistema Estatal, las insti
 
 El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz, pero sin voto.
 
-### CAPÍTULO III. DEL CONSEJO CONSULTIVO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VICTIMAS
+### CAPITULO III. DEL CONSEJO CONSULTIVO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VICTIMAS
 
 ###### ARTICULO 68.
 
@@ -1045,17 +1045,23 @@ En ningún caso la Junta de Gobierno tendrá competencia para conocer de los rec
 
 La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa consulta pública a las organizaciones de la sociedad civil especializadas en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 85.
 
-Para ser comisionado se requiere:
+Para ser titular de la Comisión, se requiere:
 
-I.- Ser ciudadano mexicano y contar por lo menos con treinta años de edad al día de la designación;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+I.- Ser ciudadana o ciudadano mexicano y contar por lo menos con treinta años de edad al día de la designación.
 
 II.- No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
 
 III.- Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley por lo menos en los dos años previos a su designación;
 
-IV.- Contar con Título Profesional; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+IV.- Contar con Título Profesional o acreditar experiencia, cuando menos de tres años y gozar de reconocimiento público por su participación activa y aportes al conocimiento en temas relacionados con la atención integral a víctimas;
 
 V.- No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
 
@@ -1561,6 +1567,10 @@ De igual manera, se regirán por esta Ley las actividades de las instituciones, 
 
 ### CAPÍTULO II. DEL PODER EJECUTIVO DEL ESTADO
 
+SECCÍON I
+
+DE LAS FACULTADES DEL PODER EJECUTIVO DEL ESTADO
+
 ###### ARTÍCULO 119.
 
 Conforme a esta Ley y la Ley General, corresponde al Gobernador del Estado:
@@ -1601,7 +1611,7 @@ XVII.- Impulsar reformas, en el ámbito de su competencia, para el cumplimiento 
 
 XVIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y aplicables a la materia, que les conceda la Ley General u otros ordenamientos legales.
 
-#### SECCIÓN I. DE LAS FACULTADES DEL PODER EJECUTIVO DEL ESTADO
+#### SECCIÓN II. FACULTADES DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ###### ARTÍCULO 120.
 
@@ -1619,7 +1629,7 @@ V.- Otorgar a la autoridad judicial, dentro de su competencia, el auxilio que le
 
 VI.- Las demás que señalen esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN II. FACULTADES DE LA SECRETARÍA GENERAL DE GOBIERNO
+#### SECCIÓN III. FACULTADES DEL MINISTERIO PÚBLICO
 
 ###### ARTÍCULO 121.
 
@@ -1647,7 +1657,7 @@ X.- Cuando se entregue a la víctima el cuerpo o restos humanos del familiar o p
 
 XI.- Las demás acciones que establezcan las disposiciones jurídicas aplicables en materia de atención integral a víctimas y reparación.
 
-#### SECCIÓN III. FACULTADES DEL MINISTERIO PÚBLICO
+#### SECCIÓN IV. FACULTADES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 122.
 
@@ -1669,7 +1679,7 @@ VII.- Convenir con los Ayuntamientos todo lo necesario para la coordinación int
 
 VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN IV. FACULTADES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+#### SECCIÓN V. FACULTADES DE LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 123.
 
@@ -1691,7 +1701,7 @@ VII.- Proporcionar a la víctima del delito la información y asesoría que requ
 
 VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN V. FACULTADES DE LA SECRETARÍA DE SALUD
+#### SECCIÓN VI. FACULTADES DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 ###### ARTÍCULO 124.
 
@@ -1713,7 +1723,7 @@ VII.- Establecer apoyos para que las víctimas puedan participar en procesos de 
 
 VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN VI. FACULTADES DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
+#### SECCIÓN VII. FACULTADES DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ###### ARTÍCULO 125.
 
@@ -1725,7 +1735,7 @@ II.- Proporcionar a la víctima información sobre las reglas de acceso, operaci
 
 III.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN VII. FACULTADES DE LA SECRETARÍA DE DESARROLLO SOCIAL
+#### SECCIÓN VIII. FACULTADES DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### ARTÍCULO 126.
 
@@ -1747,7 +1757,7 @@ VI.- Implementar programas y acciones destinadas a la prevención y erradicació
 
 VII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN VIII. FACULTADES DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN IX. FACULTADES DEL INSTITUTO DE LA MUJER
 
 ###### ARTÍCULO 127.
 
@@ -1771,7 +1781,7 @@ VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables 
 
 ### CAPÍTULO III. DE LOS MUNICIPIOS
 
-#### SECCIÓN IX. FACULTADES DEL INSTITUTO DE LA MUJER
+#### SECCIÓN I. FACULTADES DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 128.
 
@@ -1795,7 +1805,7 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás aplicables a la materia, que les conceda la Ley General u otros ordenamientos legales aplicables.
 
-#### SECCIÓN I. FACULTADES DE LOS MUNICIPIOS
+#### SECCIÓN II. FACULTADES DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 129.
 
@@ -1811,7 +1821,7 @@ IV.- Autorizar la celebración de convenios de cooperación, coordinación y con
 
 V.- Las demás que les señale la Ley General de Víctimas, esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN II. FACULTADES DE LOS AYUNTAMIENTOS
+#### SECCIÓN III. FACULTADES DE LOS PRESIDENTES MUNICIPALES
 
 ###### ARTÍCULO 130.
 
@@ -1831,7 +1841,7 @@ VI.- Ordenar lo necesario para coadyuvar en las acciones de asistencia, protecci
 
 VII.- Las demás que señale la Ley General, esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN III. FACULTADES DE LOS PRESIDENTES MUNICIPALES
+#### SECCIÓN IV. FACULTADES DE LOS SÍNDICOS MUNICIPALES
 
 ###### ARTÍCULO 131.
 
@@ -1841,7 +1851,7 @@ I.- Recibir la declaración de la víctima del delito, en los casos en que el Mi
 
 II.- Las demás que señale la Ley General, esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
-#### SECCIÓN IV. FACULTADES DE LOS SÍNDICOS MUNICIPALES
+#### SECCIÓN V. DE LOS SISTEMAS MUNICIPALES PARA EL DESARROLLO INTREGRAL (SIC) DE LA FAMILIA
 
 ###### ARTÍCULO 132.
 
@@ -1860,8 +1870,6 @@ V.- Implementar programas y acciones destinadas a la prevención y erradicación
 VI.- Las demás que le señale esta Ley y otras disposiciones legales aplicables en la materia.
 
 #### SECCIÓN VI. FACULTADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES
-
-#### SECCIÓN V. DE LOS SISTEMAS MUNICIPALES PARA EL DESARROLLO INTREGRAL (SIC) DE LA FAMILIA
 
 ###### ARTÍCULO 133.
 
@@ -2193,7 +2201,7 @@ Cuando proceda el pago de la reparación, el Fondo Estatal registrará el fallo 
 
 ## TÍTULO NOVENO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN
 
-### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN EN GENERAL
+### CAPITULO ÚNICO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN EN GENERAL
 
 ###### ARTÍCULO 161.
 
@@ -2349,7 +2357,7 @@ X.- Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA PROTECCION A VICTIMAS DEL DELITO Y VIOLACIONES A DERECHOS HUMANOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 175.
 
@@ -2377,7 +2385,9 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan a la present
 
 CUARTO.- En un plazo de 180 días contados a partir de la entrada en vigor de la Ley, el Ejecutivo del Estado y los Ayuntamientos deberán emitir o adecuar las disposiciones reglamentarias necesarias para que en el ámbito de sus competencias se hagan efectivas las disposiciones de esta Ley.
 
-QUINTO.- El Sistema Estatal de Atención a Víctimas deberá instalarse dentro de 180 días contados a partir de la entrada en vigor de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
+QUINTO.- El Sistema Estatal de Atención a Víctimas deberá instalarse dentro de treinta días contados a partir del nombramiento del Comisionado Ejecutivo Estatal.
 
 SEXTO.- La Procuraduría General de Justicia del Estado y demás dependencias o entidades del Ejecutivo del Estado, que ejercen funciones encomendadas de la Ley que se abroga, deberán transferir los recursos humanos, materiales y financieros a la Comisión Ejecutiva Estatal para el inicio de sus operaciones.
 
@@ -2395,9 +2405,13 @@ OCTAVO.- Todas las Instituciones a que se refiere esta Ley, deberán establecer 
 
 NOVENO.- Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal o municipal, así como en la Comisión Estatal de Derechos Humanos, deberán ser remitidos a la Comisión Ejecutiva Estatal de Atención a Víctimas, en un plazo de treinta días siguientes a la conformación de la misma.
 
-DÉCIMO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Estatal, previa consulta pública a víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, remitirá al Congreso del Estado la propuesta de nombramiento del Comisionado Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
-Una vez recibida la propuesta a que se refiere el párrafo anterior, el Congreso de (sic) Estado contará con un plazo de 90 días para que proceda a su nombramiento.
+DÉCIMO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Estatal, previa consulta pública a colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, remitirá al Congreso del Estado la terna propuesta de nombramiento del Comisionado Ejecutivo Estatal.
+
+En caso de que no logre integrar la referida propuesta y su remisión al Congreso Estatal, en el plazo que corresponda, el Titular del Poder Ejecutivo Estatal podrá convocar a consulta pública a colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, para los mismos fines, dentro de los 60 días siguientes, hasta en tanto se remita dicha propuesta.
+
+El Titular del Poder Ejecutivo Estatal deberá remitir la propuesta al Congreso de (sic) Estado, el cual una vez recibida, contará con un plazo de 45 días para que proceda a su nombramiento.
 
 DÉCIMO PRIMERO.- Por única ocasión, para la designación de los miembros del Consejo Consultivo, el Comisionado Ejecutivo dentro de los 30 días siguientes a su nombramiento enviará propuestas de integrantes al Congreso del Estado, el cual los elegirá dentro de los 60 días posteriores.
 
@@ -2428,3 +2442,17 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 322 MEDIANTE EL CUAL SE REFORMA AL ARTÍCULO 85 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 324 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS TRANSITORIOS QUINTO Y DÉCIMO DEL DECRETO NÚMERO 270 QUE CREA LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA DE CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.. (sic)
