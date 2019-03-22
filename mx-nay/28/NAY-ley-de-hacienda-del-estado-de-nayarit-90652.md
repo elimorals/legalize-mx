@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2017-12-16"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -85,11 +85,17 @@ Este impuesto se causará y pagará conforme a las cuotas y tasas que señale la
 
 El pago de los impuestos que establece este Título, se hará en los formatos oficiales aprobados por la Secretaría de Administración y Finanzas en la recaudación de rentas que corresponda a su domicilio, en la siguiente forma:
 
-I. El impuesto sobre juegos permitidos, mensualmente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-II. El correspondiente sobre apuestas permitidas deberá ser cubierto a más tardar el día hábil siguiente a la celebración del espectáculo, y
+I. El impuesto sobre juegos y apuestas permitidas, se calculará mensualmente y se pagará a más tardar el día diez del mes siguiente a aquel en que corresponda el pago;
 
-III. El correspondiente a rifas, loterías o sorteos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, sorteo o lotería de que se trate.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+II. El impuesto sobre la venta total de billetes o boletos para participar en rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+III. El impuesto por la obtención de premios derivados de rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate.
 
 #### SECCIÓN QUINTA. De las Obligaciones
 
@@ -489,7 +495,7 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 #### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 54.
 
@@ -497,35 +503,43 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 ## TÍTULO TERCERO. SOBRE LA PRODUCCION, AL CONSUMO Y LAS TRANSACCIONES
 
-### CAPÍTULO I. DEL IMPUESTO AL HOSPEDAJE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2019)</small>
+
+### CAPÍTULO I. DEL IMPUESTO SOBRE HOSPEDAJE
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### Artículo 55.
 
-Será objeto de este impuesto la prestación de servicios de hospedaje, a cargo de personas físicas y morales en el Estado de Nayarit. Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por:
+El objeto de este impuesto lo constituyen las erogaciones realizadas por concepto de servicios de hospedaje recibidos en el Estado de Nayarit. Se considera servicio de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados en:
 
-I. Establecimientos hoteleros, hostales, mesones, moteles o tiempo compartido.
+I. Hoteles, moteles, tiempo compartido, multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, y
 
-II. Áreas de pernoctación destinadas a albergues móviles, tales como campamentos, o paraderos de casas rodantes.
+II. Casas o departamentos, amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
 
-III. Departamentos, casas y villas particulares, total o parcialmente.
-
-En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
+En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
 
 ###### Artículo 56.
 
 Tratándose de servicios prestados bajo el régimen de tiempo compartido o de cualquier otra denominación, se tomará como base del impuesto los ingresos percibidos por el albergue, a través del pago de cuotas de mantenimiento ordinarias.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### Artículo 57.
 
-El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, y cualquier otro concepto relativo a estos servicios.
+El impuesto al que se refiere este capítulo se causará en el momento en que se efectúen las erogaciones gravadas.
 
 #### SECCIÓN TERCERA. De la Base
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### Artículo 58.
 
-Están obligados al pago del Impuesto al Hospedaje, las personas físicas y morales que en el Estado de Nayarit otorguen los servicios señalados objeto de este impuesto.
+Están obligadas al pago de este impuesto las personas físicas y morales que realicen las erogaciones objeto del mismo, mediante las retenciones que deberán efectuar los prestadores de los servicios de hospedaje.
+
+Cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas electrónicas, en el cobro de las erogaciones por el servicio de hospedaje, previsto en el Artículo 55 de esta Ley, estará obligada a enterar el pago del impuesto sobre hospedaje a la autoridad fiscal, cuando este se cubra a través de ella.
 
 ###### Artículo 59.
 
@@ -535,13 +549,21 @@ El contribuyente trasladará el impuesto, en forma expresa y por separado, a las
 
 ###### Artículo 60.
 
-La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos o de cualquier otra denominación, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
+La base para el pago de este impuesto se integra con el monto total de las erogaciones gravadas a las que se refiere el Artículo 55 de esta Ley, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales y moratorios, penas convencionales y cualquier otro concepto, que derive de la prestación de dicho servicio.
+
+En ningún caso se considerará que el Impuesto al Valor Agregado que se cause por los servicios de hospedaje forma parte de la base gravable de este impuesto.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 61.
 
-Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue. El contribuyente podrá estimar el Importe relativo al servicio de hospedaje dentro del sistema "todo incluido" sin que ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+Los servicios prestados bajo el sistema "todo incluido" por el cual se realicen las erogaciones que contemplen servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente las erogaciones correspondientes al albergue.
+
+En ningún caso, la base del impuesto sobre hospedaje dentro del sistema ''todo incluido" podrá ser inferior al 40% del total de las erogaciones realizadas por la contraprestación de esos servicios.
 
 #### SECCIÓN QUINTA. Del Pago
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 62.
 
@@ -551,25 +573,25 @@ Este impuesto se calculará y liquidará aplicando la tasa que al efecto estable
 
 ###### Artículo 63.
 
-Los contribuyentes deberán presentar declaración bimestral ante la oficina recaudadora o institución de crédito autorizada por la Secretaría de Administración y Finanzas del Estado, a más tardar el día 10 del mes siguiente a aquel en que nace la obligación de presentarlas, utilizando las formas oficiales aprobadas.
+El pago del impuesto se hará mediante el entero bimestral de las retenciones que debió efectuar el prestador de los servicios que señala este Capítulo, a más tardar el día 10 del mes de calendario siguiente a la fecha de causación, o el día hábil siguiente si aquel no lo fuera. Dicho pago se entenderá definitivo.
 
-El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el período por el que se efectúa la declaración.
+El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios de hospedaje, obtenido en el período por el que se efectúa la declaración.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
 
-Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras que intervengan a través de plataformas digitales en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 55 de esta ley.
+###### Artículo 63 Bis.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras que intervengan a través de plataformas digitales en el cobro de las erogaciones por servicios de hospedaje y en caso de que se cubra a través de ellas el Impuesto sobre Hospedaje, estarán obligadas a lo siguiente:
 
-Asimismo, estará obligada a retener el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo legal correspondiente.
+I. Inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el Artículo 58 de esta Ley;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+II. Enterar el impuesto sobre hospedaje que se haya pagado a través de las plataformas tecnológicas en las oficinas autorizadas por la Secretaría de Administración y Finanzas, y
+
+III. Presentar declaraciones de manera agregada hasta en tanto no presente el aviso de baja al registro o de suspensión temporal de actividades.
 
 Se entiende por plataforma digital, a la aplicación de servicios de hospedaje que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
-
-Las plataformas digitales de servicios de hospedaje deberán inscribirse ante el Registro Estatal de Contribuyentes.
+Cuando la persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, entere el pago del impuesto sobre hospedaje, liberará al prestador del servicio de hospedaje de las obligaciones establecidas en este Artículo.
 
 #### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
 
@@ -589,7 +611,9 @@ E) Seminarios
 
 F) Internados
 
-#### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
+#### SECCIÓN OCTAVA. De las Obligaciones de los Prestadores de Servicios de Hospedaje
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 65.
 
@@ -599,13 +623,15 @@ I. Cuando no presenten sus declaraciones, o no lleven los libros y registros con
 
 II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2019)</small>
+
 #### SECCIÓN PRIMERA. Del Objeto
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
-Son obligaciones de los contribuyentes de este impuesto:
+Son obligaciones de los prestadores de servicios de hospedaje:
 
 I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Administración y Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar a los pagos de este impuesto;
 
@@ -613,15 +639,19 @@ II. Presentar ante las autoridades fiscales, dentro del plazo que señala la fra
 
 III. Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados para tal efecto;
 
-IV. Enterar en las oficinas autorizadas dentro del plazo señalado en este Capítulo el Impuesto de Hospedaje.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-Los contribuyentes de este impuesto están obligados a enterarlo, aun cuando no lo hubieren trasladado, pero si hubiesen prestado el servicio;
+IV. Enterar en las oficinas autorizadas dentro del plazo señalado en este Capítulo el Impuesto sobre Hospedaje;
 
-V. Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Administración y Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-Las personas físicas o morales que para efecto de impuesto federales (sic), su domicilio fiscal se encuentre en otra entidad federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje, tendrá la obligación de registrar como domicilio fiscal para efectos de este impuesto, el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Finanzas que corresponda a su jurisdicción, y
+V. Los prestadores de servicios de hospedaje que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Administración y Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
 
-VI. Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
+Las personas físicas o morales para efecto de impuestos federales, cuyo domicilio fiscal se encuentre en otra entidad federativa, pero que perciban erogaciones en el Estado de Nayarit por la prestación de servicios de hospedaje, tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto, el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Administración y Finanzas que corresponda a su jurisdicción, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+VI. Expedir comprobantes por las erogaciones objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -767,6 +797,8 @@ Este impuesto se causará y pagará conforme a las tasas que señala la Ley de I
 
 #### SECCIÓN PRIMERA. Del Objeto
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### Artículo 83.
 
 Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
@@ -777,29 +809,39 @@ Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, 
 
 ###### Artículo 84.
 
-Es objeto de este impuesto, la realización en el Estado de Nayarit, de pagos a través de nóminas, listas de raya, recibos o por cualquier otra denominación o forma, destinados a remunerar el trabajo personal subordinado derivado de una relación laboral.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, honorarios asimilados a salarios, prestado dentro del Estado de Nayarit, independientemente de la denominación que se le otorgue, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
 
 #### SECCIÓN TERCERA. De la Base
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 85.
 
 Son sujetos de este impuesto las personas físicas o morales obligadas a efectuar los pagos a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
-Están obligadas a retener y enterar este impuesto, las personas físicas o morales que contraten bajo cualquier esquema jurídico la prestación de servicios de contribuyentes domiciliados en otro Estado, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
+Están obligadas a retener y enterar este impuesto, las personas físicas o morales que contraten bajo cualquier esquema jurídico la prestación de servicios de contribuyentes domiciliados dentro o fuera del Estado, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.0% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
+
+Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado, honorarios asimilados a salarios en el territorio de este, en sucursales, bodegas, agencias, unidades académicas, dependencias y cualquier ente o figura que permita tener personal subordinado, honorarios asimilados a salarios dentro del mismo.
+
 #### SECCIÓN CUARTA. De la Cuota
 
 ###### Artículo 86.
 
-Es base del Impuesto Sobre Nómina el monto total de las erogaciones realizadas por el concepto de remuneraciones al trabajo personal subordinado, aun cuando no exceda del salario mínimo.
+Es base del Impuesto Sobre Nómina el monto total de las erogaciones realizadas por el concepto de remuneraciones al trabajo personal subordinado y/o honorarios asimilados a salarios, aun cuando no exceda del salario mínimo.
+
+Para efectos de este impuesto se consideran remuneraciones al trabajo personal, los pagos que se hagan en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por su trabajo.
 
 #### SECCIÓN QUINTA. Del Pago
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### Artículo 87.
 
@@ -809,7 +851,7 @@ El impuesto sobre nóminas se liquidará aplicando la tasa del 2.0 % a la base g
 
 ###### Artículo 88.
 
-El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Administración y Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó o se retuvo. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Administración y Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
 
 La Secretaría de Administración y Finanzas podrá celebrar convenios con los sujetos de este impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
 
@@ -845,7 +887,9 @@ II. Las erogaciones que efectúen:
 
 a) Las Instituciones públicas o privadas cuyo objeto de creación sea la realización de la asistencia social en cualquier de sus formas así previstas en la Ley estatal de la materia, siempre que se preste de forma regular y gratuita o sujeta a una cuota de recuperación, y sus ingresos provenga únicamente de donaciones u aportaciones voluntaria;
 
-b) Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas, y
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
+b) Asociaciones de trabajadores y colegios de profesionistas, y
 
 c) Los partidos políticos.
 
@@ -855,9 +899,21 @@ c) Los partidos políticos.
 
 La Secretaría de Administración y Finanzas podrá estimar las erogaciones en los siguientes casos:
 
-I. Cuando no presenten sus declaraciones o no lleven los libros o registros contables que legalmente estén obligados a llevar, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-II. Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%.
+I. Cuando no presenten sus declaraciones o no lleven los libros o registros contables que legalmente estén obligados a llevar;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+II. Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+
+III. Cuando la información solicitada le sea entregada de manera parcial, y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+
+IV. Cuando el contribuyente no entregue la información solicitada o no atienda el requerimiento.
 
 #### SECCIÓN PRIMERA. Diversos Aprovechamientos
 
@@ -1200,3 +1256,9 @@ P.O. 16 DE DICIEMBRE DE 2017.
 Primero.- El presente Decreto entrará en vigor el día primero de enero del 2018 previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Con el objetivo de otorgar eficacia a las modificaciones contenidas en este decreto, la Secretaria de Administración y Finanzas, realizará las acciones necesarias tendientes a garantizar el pago del impuesto por prestación de servicio de hospedaje.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
