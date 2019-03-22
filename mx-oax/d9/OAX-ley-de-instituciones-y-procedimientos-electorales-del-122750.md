@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2017-06-23"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -543,7 +543,9 @@ II.- Fomentar el ejercicio de los derechos político-electorales del ciudadano, 
 
 III.- Promover condiciones de paridad entre géneros en la participación política, postulación, acceso y desempeño de cargos públicos como criterio fundamental de la democracia;
 
-IV.- Asegurar a los ciudadanos el ejercicio de los derechos político-electorales, vigilar el cumplimiento de sus obligaciones, así como su efectivo acceso a los mecanismos de participación ciudadana establecidos en la Constitución Local y la ley de la materia.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+IV.- Asegurar a los ciudadanos del Estado, sin distinción con motivo de origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana, el ejercicio de los Derechos político-electorales, vigilar el cumplimiento de sus obligaciones, así como su efectivo acceso a los mecanismos de participación ciudadana establecidos en la Constitución Local y la presente Ley.
 
 V.- Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los poderes Legislativo, Ejecutivo y de los ayuntamientos que se rigen por el sistema de partidos políticos;
 
@@ -1357,7 +1359,9 @@ I.- Ser mexicano por nacimiento y estar en pleno goce y ejercicio de sus derecho
 
 II.- Tener residencia en el distrito o municipio de que se trate, de cuando menos dos años anteriores a la fecha de su encargo;
 
-III.- Tener veinticinco años de edad o más, al día de la designación;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+
+III.- Tener dieciocho años de edad o más;
 
 IV.- Contar con conocimientos para el desempeño adecuado de sus funciones;
 
@@ -5560,3 +5564,11 @@ P.O. 23 DE JUNIO DE 2017.
 PRIMERO.- Para dar debido cumplimiento a lo dispuesto por el artículo 53 fracciones V y VI de la Constitución Política del Estado Libre y Soberano de Oaxaca, remítase al Poder Ejecutivo el presente Decreto, para su debida promulgación y publicación, para que se integren a las partes no vetadas del Decreto 633 y constituyan la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 585.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
