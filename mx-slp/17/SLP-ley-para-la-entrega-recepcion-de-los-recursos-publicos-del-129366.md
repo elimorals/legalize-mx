@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2018-06-21"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -879,11 +879,15 @@ La Comisión de Vigilancia, podrá solicitar informes y canalizar denuncias que 
 
 La comisión de entrega será designada mediante Acuerdo de Cabildo, misma que se integrará por el Presidente Municipal, Síndico, un Regidor de cada partido político representado en el Cabildo y una comisión de enlace con la comisión de recepción conformada por el Secretario del Ayuntamiento, el Tesorero Municipal y el Contralor Municipal, salientes.
 
-Las comisiones de entrega y enlace se integrarán en el mes de agosto del año correspondiente a la conclusión del ejercicio constitucional.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
+Las comisiones de entrega y enlace se integrarán a más tardar, cuarenta y cinco días antes del acto protocolario de entrega-recepción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 57.
 
-La comisión de recepción será designada mediante escrito firmado por el Presidente electo, se integrará por el Síndico y las personas que al efecto sean designadas, además de un regidor electo de cada partido político representado en el Cabildo de entre los cuales se nombrará un Secretario Técnico.
+La comisión de recepción será designada por el presidente electo mediante escrito; y se integrará por el Síndico y las personas que al efecto sean designadas, además de un regidor electo de cada partido político representado en el Cabildo, de entre los cuales nombrará un Secretario Técnico.
 
 Los anteriores servidores públicos electos para acreditar su personalidad deberán exhibir la constancia de mayoría o asignación expedida por el Consejo Estatal Electoral y de Participación Ciudadana del Estado de San Luis Potosí.
 
@@ -1010,3 +1014,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0141 BIS.- SE REFORMAN LOS ARTÍCULOS 70, 74, 75 Y 167 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 56 Y 57 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+Primero. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
