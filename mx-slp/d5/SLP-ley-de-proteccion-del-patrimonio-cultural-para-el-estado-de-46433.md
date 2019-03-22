@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2018-05-15"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -515,9 +515,15 @@ b) Paisajes culturales: los espacios físicos determinados, que asocian dentro d
 
 IV. Zonas de protección del patrimonio cultural: son los sitios de protección del patrimonio cultural, declarados como tales por el titular del Ejecutivo del Estado;
 
-V. Patrimonio documental histórico y cultural: los acervos de archivos documentales religiosos y civiles; los acervos de hemerotecas, mapotecas, videotecas, fonotecas y fototecas públicas; las colecciones de museos estatales y municipales; y aquellos documentos o ejemplares bibliográficos, litografías, manuscritos, digitales, magnéticos, fílmicos o fotográficos que tengan especial importancia para la historia del Estado y sus municipios, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
-VI. Todos aquellos bienes culturales cuya conservación y salvaguarda representen un interés colectivo.
+V. Patrimonio documental histórico y cultural: los acervos de archivos documentales religiosos y civiles; los acervos de hemerotecas, mapotecas, videotecas, fonotecas y fototecas públicas; las colecciones de museos estatales y municipales; y aquellos documentos o ejemplares bibliográficos, litografías, manuscritos, digitales, magnéticos, fílmicos o fotográficos que tengan especial importancia para la historia del Estado y sus municipios;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+
+VI. Las obras literarias de gran significación cultural y social para el Estado, y
+
+VII. Todos aquellos bienes culturales cuya conservación y salvaguarda representen un interés colectivo.
 
 ### CAPITULO II. Del Patrimonio Cultural Intangible
 
@@ -780,3 +786,11 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0140.- SE REFORMA EL ARTÍCULO 41 Y ADICIONA AL MISMO ARTÍCULO 41 UNA FRACCIÓN, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
