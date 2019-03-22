@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-02-28"
+last_updated: "2019-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -295,9 +295,11 @@ IX. A la Comisión Intersecretarial Estatal para el Control de Plaguicidas, Fert
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 6o.
 
-El Gobierno del Estado a través de la SEGAM y los municipios, ejercerán sus atribuciones en materia de protección, conservación y restauración del ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en las disposiciones legales aplicables.
+El Gobierno del Estado, a través de la SEGAM; y los municipios, en el ámbito de sus respectivas competencias, ejercerán las atribuciones que en materia de protección, conservación y restauración del ambiente prevé esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 7o.
 
@@ -3331,8 +3333,16 @@ CUARTO. Los establecimientos comerciales y mercantiles dispondrán de un lapso d
 
 P.O. 28 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0116.- SE REFORMA EL ARTÍCULO 7° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0116.- SE REFORMA EL ARTÍCULO 7° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0140 BIS.- REFORMA EL ARTÍCULO 6° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
