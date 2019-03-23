@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-03-21"
+last_updated: "2019-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1845,6 +1845,10 @@ Se excluye de responsabilidad a quien con motivo de prestar servicios periciales
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de seis meses a tres años de prisión, además de la que le corresponda por el delito cometido.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2019)</small>
+
+Cuando el delito se cometa en contra de persona que desarrolle funciones de seguridad pública, impartición o procuración de justicia, o defensores de derechos humanos se regirá por las agravantes señaladas para el delito en específico.
+
 ###### Art. 134.
 
 Se impondrán de quince días a seis meses de prisión al que, por medio de la injuria o la afrenta, ultraje a quien represente legítimamente a algún Poder del Estado, o Cuerpo Colegiado de la Administración Pública.
@@ -2719,23 +2723,27 @@ El delito de desaparición forzada se considera permanente e imprescriptible.
 
 Se impondrá una pena de doce a cuarenta años de prisión y multa de seiscientos a mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa el delito de desaparición forzada de personas.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 23 DE MARZO DE 2019)</small>
 
-Se incrementará la pena hasta en una tercera parte cuando la víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena, persona de la tercera edad o periodista con motivo de su actividad como tal.
+I. Se incrementará la pena hasta en una tercera parte cuando:
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+a) La víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena, persona de la tercera edad, defensor de los derechos humanos o periodista, estos dos últimos con motivo de su actividad como tales; o
 
-Si dentro de los cinco días siguientes a su detención, se diera la liberación de la víctima, la pena aplicable será de seis a doce años de prisión, sin perjuicio del concurso de delitos.
+b) La víctima del delito sea persona que desarrolle funciones de seguridad pública, procuración o impartición de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO CUARTO], P.O. 23 DE MARZO DE 2019)</small>
 
-Las penas previstas para el delito de desaparición forzada se aumentarán hasta el doble cuando la desaparición forzada sea perpetrada como parte de un ataque generalizado o sistemático contra una población civil.
+II. Las penas previstas para el delito de desaparición forzada se aumentarán hasta el doble cuando la desaparición forzada sea perpetrada como parte de un ataque generalizado o sistemático contra una población civil; y
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO TERCERO], P.O. 23 DE MARZO DE 2019)</small>
 
-Estas penas podrán ser disminuidas hasta en cincuenta por ciento en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos y cuando contribuya a lograr la aparición con vida de la víctima
+III. Si dentro de los cinco días siguientes a su detención se diera la liberación de la víctima, la pena aplicable será de seis a doce años de prisión, sin perjuicio del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+
+Las penas podrán ser disminuidas hasta en cincuenta por ciento en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos y cuando contribuya a lograr la aparición con vida de la víctima.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE MARZO DE 2019)</small>
 
 El Estado proporcionará medidas de protección y resguardará la identidad de la persona o personas que sirvan como testigos o que proporcionen información que conduzca a la efectiva localización de la víctima, con el fin de salvaguardar su integridad física.
 
@@ -2813,15 +2821,25 @@ La pena señalada en el artículo anterior se aumentará en una tercera parte cu
 
 I. Que en la comisión del hecho se incluyan actos que impliquen delitos contra la seguridad y la libertad sexual de cualquier especie;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2019)</small>
 
-II. Que la víctima sea una persona que pertenezca a un grupo de población en situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad; se trate de un migrante, indígena, mujer en estado de embarazo o periodista con motivo de su actividad como tal;
+II. Que la víctima sea una persona que pertenezca a un grupo de población en situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad; se trate de un migrante, indígena, mujer en estado de embarazo, defensor de los derechos humanos o periodista, estos dos últimos con motivo de su actividad como tal;
 
-III. Que la tortura sea ejecutada por más de una persona;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2019)</small>
 
-IV. Que la conducta sea ejecutada con el propósito de ocultar o asegurar la impunidad de otro delito; o
+III. La víctima del delito sea persona que desarrolle funciones de seguridad pública, impartición o procuración de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo;
 
-V. Cuando se cometa al interior de los centros de detención, encarcelamiento, internamiento o custodia de personas.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2019)</small>
+
+IV. Que la tortura sea ejecutada por más de una persona;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2019)</small>
+
+V. Que la conducta sea ejecutada con el propósito de ocultar o asegurar la impunidad de otro delito; o
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2019)</small>
+
+VI. Cuando se cometa al interior de los centros de detención, encarcelamiento, internamiento o custodia de personas.
 
 > <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
 
@@ -3505,9 +3523,9 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
 
-Cuando el delito a que se refiere el presente artículo se cometa en contra de un periodista y con motivo de su actividad como tal, las penas aumentarán en un tercio.
+Cuando el delito a que se refiere el presente artículo se cometa en contra de un periodista o defensor de los derechos humanos con motivo de su actividad como tales, las penas aumentarán en un tercio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
 
@@ -3589,6 +3607,10 @@ Las sanciones a que se refiere este artículo se impondrán independientemente d
 
 Se impondrán de seis meses a cuatro años de prisión al particular que ilegítimamente prive a otro de su libertad personal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2019)</small>
+
+La pena de prisión se aumentará hasta el doble, cuando la privación de la libertad se realice en contra de personas que desarrollen funciones de seguridad pública, impartición o procuración de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 1999)</small>
 
 ### CAPITULO III. Difamación
@@ -3663,7 +3685,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 ### CAPITULO III. Homicidio
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
 
 ###### Art. 202 Bis.
 
@@ -3745,13 +3767,17 @@ III. De seis meses a cinco años de prisión, cuando las lesiones dejen al ofend
 
 IV. De uno a seis años de prisión, cuando las lesiones produzcan menoscabo de las funciones u órganos del ofendido;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2019)</small>
 
-V. De dos a ocho años de prisión, cuando las lesiones produzcan la pérdida de cualquier función orgánica o de un miembro, de un ojo, o causen una enfermedad probablemente incurable, deformidad incorregible o incapacidad permanente para trabajar, o cuando el ofendido quede sordo, ciego, impotente o pierda sus facultades mentales; o
+V. De dos a ocho años de prisión, cuando las lesiones produzcan la pérdida de cualquier función orgánica o de un miembro, de un ojo, o causen una enfermedad probablemente incurable, deformidad incorregible o incapacidad permanente para trabajar, o cuando el ofendido quede sordo, ciego, impotente o pierda sus facultades mentales;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2019)</small>
 
-VI. De dos a cinco años de prisión, cuando las lesiones fueren producidas a una mujer embarazada causándole alteración en la salud o integridad física al producto de la concepción.
+VI. De dos a cinco años de prisión, cuando las lesiones fueren producidas a una mujer embarazada causándole alteración en la salud o integridad física al producto de la concepción; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2019)</small>
+
+VII. De dos a cinco años de prisión, cuando las lesiones fueren producidas contra personas que desarrollen funciones de seguridad pública, impartición o procuración de justicia con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
 
 ###### Art. 208.
 
@@ -3798,6 +3824,8 @@ No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente 
 ###### Art. 213.
 
 Se impondrán de doce a dieciocho años de prisión a la persona que prive de la vida a otra. Pero, cuando el homicidio sea calificado, la sanción será de veinte a cuarenta años de prisión.
+
+Cuando se cometa en contra (sic) personas que desarrollen funciones de seguridad pública, impartición o procuración de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo, en este caso se impondrá de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2004)</small>
 
@@ -4581,6 +4609,8 @@ Es aplicable a este Capítulo, en lo conducente, el Artículo 238 de este Códig
 
 ### CAPITULO X. Daños en las cosas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
+
 ###### Art. 249.
 
 Se comete el delito de violación de depósito por:
@@ -4859,11 +4889,15 @@ II. Al que, abusando de la apremiante necesidad del ofendido, cobre para sí o p
 
 ###### Art. 259.
 
-Comete el delito de daños en las cosas el que, por cualquier medio, destruya o deteriore alguna cosa ajena o propia que conserve en su poder, pero en garantía del crédito de un tercero.
+Comete el delito de daño en las cosas el que, por cualquier medio, destruya o deteriore alguna cosa ajena o propia que conserve en su poder en garantía del crédito de un tercero.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 Al responsable del delito de daño en las cosas, se le impondrán de un mes a cinco años de prisión y multa por el importe de dos a veinte veces el valor diario de la Unidad de Medida y Actualización. Este delito sólo se perseguirá a petición de la parte ofendida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2019)</small>
+
+Se impondrán de seis meses a ocho años de prisión y multa por el importe de cuatro a cuarenta veces el valor diario de la Unidad de Medida y Actualización cuando se cometa contra cosas que estén destinadas a funciones de seguridad pública, impartición y procuración de justicia o se cometa contra cosas en posesión o propiedad de personas que desarrollen funciones de seguridad pública, impartición y procuración de justicia con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -6577,8 +6611,16 @@ P.O. 26 DE FEBRERO DE 2019.
 
 P.O. 21 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27240/LXII/19 SE REFORMA EL ARTÍCULO 176 BIS Y 190 Y SE DEROGA EL 190-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 401 Y REFORMA EL ARTÍCULO 788 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 69, 70 Y 71 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 55 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, SE REFORMA EL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; SE REFORMA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y DÉCIMA SÉPTIMA DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 17, 28, 29, 57, 57 A Y 57 D Y ADICIONANDO EL ARTÍCULO 57 F, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 23 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27249/LXII/19, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 154-B, 154-I, 188, 193, 207, 213 Y 259 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
