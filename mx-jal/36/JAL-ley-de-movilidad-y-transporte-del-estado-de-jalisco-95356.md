@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2018-12-06"
+last_updated: "2019-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -3143,17 +3143,21 @@ Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción
 
 La infracción dispuesta en el artículo 178 fracción XV se sancionará con multa de 5 a 10 unidades de medida y actualización. A esta infracción no le será aplicable la reducción del cobro señalada en el artículo 199 primer párrafo.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
 
-Las infracciones dispuestas en los artículos 182, 183, 184, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 unidades de medida y actualización.
+Las infracciones dispuestas en los artículos 182, 183, 184 fracciones I y IV a VII, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2019)</small>
+
+Las infracciones dispuestas en el artículo 176 fracción X y 184 fracciones II y III, se aplicará una sanción de 15 a 25 Unidades de Medida y Actualización.
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
 Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182, fracción II, 186 y 187 se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
 
-Las infracciones dispuestas en los artículos 185 fracciones II, III y IV y 190, fracción IV, se aplicarán una sanción de 20 a 35 unidades de medida y actualización.
+Las infracciones dispuestas en los artículos 185 fracciones II, III y IV y 190, fracción IV, se aplicarán una sanción de 20 a 35 Unidades de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -3207,11 +3211,17 @@ VI. Circular en reversa más de diez metros;
 
 VII. Dar vuelta prohibida;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+REFORMADA, P.O. 23 DE MARZO DE 2019)
 
-VIII. Producir ruido excesivo con claxon, mofleo o equipos de audio; o
+VIII. Producir ruido excesivo con claxon, mofleo o equipos de audio;
 
-IX. Falta de una placa de circulación.
+REFORMADA, P.O. 23 DE MARZO DE 2019)
+
+IX. Falta de una placa de circulación; o
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2019)</small>
+
+X. Cuando al circular exceda la capacidad de pasajeros que señale la tarjeta de circulación.
 
 ###### Artículo 177.
 
@@ -3389,7 +3399,9 @@ VII. Al que no porte debidamente los elementos de seguridad que establece el reg
 
 VIII. Al que transporte carga peligrosa para sí mismo o para terceros.
 
-Además de las sanciones anteriormente señaladas, en caso de reincidencia se retirará de la circulación la unidad, como medida de seguridad.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE MARZO DE 2019)</small>
+
+Además de las sanciones anteriormente señaladas, se retirará de la circulación la unidad como medida de seguridad, en los casos de las fracciones II y III, y en caso de reincidencia en los supuestos de las fracciones I y IV a VIII, del presente artículo.
 
 ###### Artículo 185.
 
@@ -4172,3 +4184,11 @@ del Estado de Jalisco"
 OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.
 
 NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 23 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27245/LXII/19 SE MODIFICAN LOS ARTÍCULOS 174 PÁRRAFO QUINTO Y SE LE AGREGA UN PÁRRAFO SEXTO, RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES, 176 AGREGANDO UNA FRACCIÓN X Y 184 ÚLTIMO PÁRRAFO, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a los 90 días naturales de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. La Secretaria del Transporte, durante el periodo comprendido entre la publicación y entrada en vigor, deberá realizar una campaña en comunicación, socialización y concientización de la presente reforma.
