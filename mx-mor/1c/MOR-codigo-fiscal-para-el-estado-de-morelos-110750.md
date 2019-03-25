@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2016-12-22"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE MORELOS
 
-[N. DE. E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, LA PRESENTE REFORMA INICIARÁ SU VIGENCIA EL 01 DE ENERO DE 2017.]
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -37,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-ANTECEDENTES:...
+ANTECEDENTES:
+
+[...]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir el siguiente:
 
@@ -1355,9 +1357,11 @@ III. Conceder subsidios o estímulos fiscales y cancelarlos cuando previa audien
 
 Las resoluciones que conforme a este artículo dicte el Gobernador deberán señalar las contribuciones o productos a que se refieren, salvo que se trate de estímulos fiscales, así como el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 97.
 
-La Secretaría, a través de la Subsecretaría de Ingresos, podrá condonar total o parcialmente las multas y los recargos por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción; pudiendo celebrar los convenios de regularización respectivos.
+La Secretaría podrá condonar total o parcialmente las multas y los recargos por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción; pudiendo celebrar los convenios de regularización respectivos.
 
 La Secretaría podrá condonar total o parcialmente las multas determinadas por el propio contribuyente, para lo cual establecerá mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la cancelación así como la forma y plazos para el pago de la parte no condonada.
 
@@ -1513,9 +1517,11 @@ IV. El impuesto o impuestos a revisar así como el período o ejercicio a que se
 
 Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente, sin que esto afecte la validez de la misma. El número de personas que podrán participar en la realización de la visita podrá ser aumentado o disminuido en cualquier tiempo, para efectos de lo cual las autoridades competentes emitirán orden que deberá notificarse personalmente para dar a conocer al interesado el aumento de visitadores. La notificación del aumento de personal que podrá realizar la visita surtirá sus efectos al ser efectuada, y el personal designado en el documento correspondiente podrá actuar de inmediato, pudiendo ser dicho personal quien realice su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 107.
 
-Para los efectos de determinación de los Impuesto sobre Diversiones y Espectáculos Públicos y del Impuesto sobre loterías, rifas, sorteos, juegos permitidos con apuesta y la obtención de premios con apuestas permitidas, que establece la Ley General de Hacienda del Estado de Morelos, la Secretaría, a través de la Subsecretaría de Ingresos, designará a los servidores públicos que, con el carácter de interventores, constaten, determinen y realicen el cobro de las cantidades correspondientes a los impuestos citados en el presente artículo.
+Para los efectos de determinación de los Impuesto (sic) sobre Diversiones y Espectáculos Públicos y del Impuesto sobre loterías, rifas, sorteos, juegos permitidos con apuesta y la obtención de premios con apuestas permitidas, que establece la Ley General de Hacienda del Estado de Morelos, la Secretaría designará a los servidores públicos que, con el carácter de interventores, constaten, determinen y realicen el cobro de las cantidades correspondientes a los impuestos citados en el presente artículo.
 
 Los interventores designados deberán levantar acta circunstanciada del inicio de intervención, desarrollo y cierre, misma que se notificará a los sujetos obligados, sus representantes legales o apoderados, en el domicilio fiscal o en el lugar en que se lleva a cabo el evento de que se trate, asentando el nombre o nombres del sujeto obligado, de su representante legal, apoderado, o de las personas con quienes se entienda la diligencia, junto con dos testigos designados por ellos o, ante su negativa, designados por el interventor, en términos del presente Código.
 
@@ -3626,3 +3632,19 @@ QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jer
 SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantias a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
 
 SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVENTA Y OCHO.- POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto por el que se aprueba el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal de 2019, entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial del estado de Morelos y deberán realizarse los ajustes presupuestarios que correspondan, a partir del 1 de enero de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
