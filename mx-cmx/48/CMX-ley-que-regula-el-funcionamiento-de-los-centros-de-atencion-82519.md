@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-funcionamiento-de-los-centros-de-atencion-825
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-19"
-last_updated: "2011-08-19"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82519&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-05-17"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA LA CIUDAD DE MEXICO -- ANTES LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL --
 
-LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL
+LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 19 de agosto de 2011.
 
@@ -350,6 +350,10 @@ Asimismo, podrán orientar a la madre, padre, o quienes judicialmente se le hubi
 
 Los CACI para admitir a un niño o niña, deberán suscribir una carta compromiso con el padre, madre, tutor, o quien ejerza la patria potestad o guarda y custodia sobre el niño o la niña, en el cual se fijarán entre otras circunstancias, el horario al que quedará sujeta la prestación del servicio, la persona o personas autorizadas para recoger al niño o niña, la tolerancia para su entrada y salida y, en su caso, el costo del servicio.
 
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2019)</small>
+
+Asimismo, tendrán prioridad para la admisión en los CACI las hijas e hijos de las madres entre 12 y 22 años 11 meses de edad, que comprueben estar inscritas en los niveles básico, medio superior o superior del sistema educativo nacional y que por asistir a la escuela no puedan proporcionar la atención y cuidados necesarios a sus hijas e hijos. En estos casos, el Gobierno de la Ciudad de México cubrirá el costo de los servicios de acuerdo a la suficiencia presupuestal disponible y atendiendo a los criterios socioeconómicos que para tales efectos sean expedidos anualmente por la autoridad.
+
 ###### ARTÍCULO 28.
 
 Cada CACI deberá contar con un reglamento interno que no contravenga la presente Ley, en el que se establecerán los derechos y obligaciones del usuario y del prestador de servicio, así como los requisitos de admisión del niño o niña.
@@ -583,3 +587,11 @@ SEXTO.- El Comité Interinstitucional deberá quedar legalmente instalado dentro
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de mayo del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 27 DE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
