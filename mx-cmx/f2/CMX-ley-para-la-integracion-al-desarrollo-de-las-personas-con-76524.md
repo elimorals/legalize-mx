@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2017-10-30"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-09-09"
 ---
 # LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MEXICO -- ANTES LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL --
 
-LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
+LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -48,25 +48,35 @@ PRIMERO.- Se aprueban las observaciones hechas por el Jefe de Gobierno del Distr
 
 SEGUNDO.- Se aprueban las modificaciones al Decreto por el que se expide la Ley para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, para quedar como sigue:
 
-LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MARZO DE 2019)</small>
+
+LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
-La presente Ley es de orden público, interés social y observancia general en el Distrito Federal y tiene por objeto normar las medidas y acciones que contribuyan a lograr la equiparación de oportunidades para la plena integración al desarrollo de las personas con discapacidad en un plano de igualdad al resto de los habitantes del Distrito Federal, por lo que corresponde a la Administración Pública del Distrito Federal velar en todo momento por el debido cumplimiento de la presente Ley.
+###### Artículo 1.
 
-Para efectos de esta Ley se entenderá por “Integración al Desarrollo”, a la participación activa y permanente de las personas con discapacidad en todos los ámbitos de la vida diaria, principalmente en el social, económico, político, cultural y recreativo.
+La presente Ley es de orden público, interés social y observancia general en la Ciudad de México y tiene por objeto normar las medidas y acciones que contribuyan a lograr la equiparación de oportunidades para la plena integración al desarrollo de las personas con discapacidad en un plano de igualdad al resto de los habitantes de la Ciudad de México, por lo que corresponde a la Administración Pública de la Ciudad de México velar en todo momento por el debido cumplimiento de la presente Ley.
 
-###### Artículo 2°.
+Para efectos de esta Ley se entenderá por "Integración al Desarrollo", a la participación activa y permanente de las personas con discapacidad en todos los ámbitos de la vida diaria, principalmente en el social, económico, político, cultural y recreativo.
 
-En el Distrito Federal todas las personas con discapacidad contarán con las condiciones necesarias para el libre ejercicio de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, así como los derechos consagrados en los Tratados Internacionales firmados y ratificados por el Estado Mexicano, sin limitación ni restricción alguna. Además tendrán los derechos y obligaciones que establece esta Ley y demás legislación aplicable.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
-###### Artículo 3°.
+###### Artículo 2.
 
-La creación de las condiciones adecuadas para la plena integración al desarrollo de las personas con discapacidad, es una causa de interés público y por consecuencia además de la Administración Pública del Distrito Federal, todos los sectores de la sociedad deberán participar activamente en el cumplimiento de la presente Ley, la cual establecerá las obligaciones y derechos que les corresponden.
+En la Ciudad de México todas las personas con discapacidad contarán con las condiciones necesarias para el libre ejercicio de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, así como los derechos consagrados en los Tratados Internacionales firmados y ratificados por el Estado Mexicano, sin limitación ni restricción alguna. Además tendrán los derechos y obligaciones que establece esta Ley y demás legislación aplicable.
 
-###### Artículo 4°.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
+###### Artículo 3.
+
+La creación de las condiciones adecuadas para la plena integración al desarrollo de las personas con discapacidad, es una causa de interés público y por consecuencia además de la Administración Pública de la Ciudad de México, todos los sectores de la sociedad deberán participar activamente en el cumplimiento de la presente Ley, la cual establecerá las obligaciones y derechos que les corresponden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
+
+###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
@@ -140,9 +150,9 @@ XIX. Educación Inclusiva.- Aquella que propicia la implementación de ajustes r
 
 XX.- Equiparación de Oportunidades para la Integración Social.- Todos los procesos y acciones mediante las cuales se crean o se generan condiciones necesarias para que las personas con discapacidad puedan gozar y ejercer sus derechos y libertades fundamentales bajo un marco de igualdad con el resto de la población;
 
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 25 DE MARZO DE 2019)</small>
 
-XXI. Instituto.- Instituto de las Personas con Discapacidad de la Ciudad de México;
+XXI. Instituto. Instituto de las Personas con Discapacidad de la Ciudad de México;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE MAYO DE 2017)</small>
 
@@ -200,7 +210,9 @@ Son acciones prioritarias para la integración al desarrollo de las personas con
 
 I.- Los programas de salud, y rehabilitación dirigidos a mejorar su calidad de vida;
 
-II.- El acceso oportuno a la educación en todos sus niveles, sin ninguna restricción, conforme lo establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la propia normatividad del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+II.- El acceso oportuno a la educación en todos sus niveles, sin ninguna restricción, conforme lo establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, la Ley General de Educación y la propia normatividad de la Ciudad de México;
 
 III.- El trabajo y los programas de incorporación al mercado laboral, facilitando su contratación, promoción y permanencia en el empleo, tanto en entidades públicas como privadas;
 
@@ -208,25 +220,31 @@ IV.- Los programas de accesibilidad universal que les garanticen el acceso, en i
 
 V.- Los programas que les garanticen el disfrute y la participación en las actividades culturales, recreativas y deportivas.
 
-###### Artículo 6°.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
-El Jefe de Gobierno del Distrito Federal tiene las siguientes obligaciones:
+###### Artículo 6.
 
-I.- Integrar al Plan General de Desarrollo del Distrito Federal, su propuesta respecto de las acciones tendientes a lograr la integración al desarrollo de las personas con discapacidad;
+La persona titular de la Jefatura de Gobierno de la Ciudad de México tiene las siguientes obligaciones:
 
-II.- Elaborar y difundir el Programa para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, así como supervisar su debido cumplimiento; y
+I.- Integrar al Plan General de Desarrollo de la Ciudad de México, su propuesta respecto de las acciones tendientes a lograr la integración al desarrollo de las personas con discapacidad;
 
-III.- Considerar en el Presupuesto de Egresos del Distrito Federal, los fondos necesarios para el debido cumplimiento de los programas dirigidos a las personas con discapacidad, que cada órgano de la Administración Pública del Distrito Federal programe y prevea realizar cada año en su beneficio.
+II.- Elaborar y difundir el Programa para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México, así como supervisar su debido cumplimiento; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
+III.- Considerar en el Presupuesto de Egresos de la Ciudad de México, los fondos necesarios para el debido cumplimiento de los programas dirigidos a las personas con discapacidad, que cada órgano de la Administración Pública de la Ciudad de México programe y prevea realizar cada año en su beneficio.
 
-###### Artículo 7°.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
-El Jefe de Gobierno de la Ciudad de México tiene las siguientes facultades:
+###### Artículo 7.
 
-I.- Establecer y definir las políticas públicas, encaminadas a la plena integración al desarrollo de las personas con discapacidad en el Distrito Federal, y que garanticen el ejercicio efectivo de sus derechos y libertades fundamentales;
+La persona titular de la Jefatura de Gobierno de la Ciudad de México tiene las siguientes facultades:
 
-II.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación y supervisión de las acciones que se emprendan a favor de las personas con discapacidad en el Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+I.- Establecer y definir las políticas públicas, encaminadas a la plena integración al desarrollo de las personas con discapacidad en la Ciudad de México, y que garanticen el ejercicio efectivo de sus derechos y libertades fundamentales;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+II.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación y supervisión de las acciones que se emprendan a favor de las personas con discapacidad en la Ciudad de México;
 
 III.- Nombrar a los titulares de los órganos especializados en materia de discapacidad;
 
@@ -252,21 +270,27 @@ VIII.- Impulsar la adopción de acciones afirmativas orientadas a evitar y compe
 
 IX.- Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales en la materia.
 
-> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 7 Bis.
 
-Las demarcaciones territoriales, en los ámbitos de su competencia, deberán coordinarse con las Dependencias y Entidades referidas en la presente Ley, a efecto de otorgar una mejor prestación de los servicios a favor de las personas con discapacidad.
+Las Alcaldías, en los ámbitos de su competencia, deberán coordinarse con las Dependencias y Entidades referidas en la presente Ley, a efecto de otorgar una mejor prestación de los servicios a favor de las personas con discapacidad.
 
-> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 7 Ter.
 
-Además de lo establecido en el artículo anterior, las demarcaciones territoriales deberán realizar lo siguiente:
+Además de lo establecido en el artículo anterior, las Alcaldías deberán realizar lo siguiente:
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
 I. Formular y desarrollar programas de atención a personas con discapacidad, conforme a los principios y objetivos de la presente Ley;
 
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
+
 II. Coadyuvar en la creación y actualización del Registro de las Personas con Discapacidad de la Ciudad de México, a efecto de poder cumplir con lo previsto en esta Ley; y
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
 III. Conformar el Consejo de Discapacidad en cada demarcación territorial, el cual será coordinado por el Consejo Consultivo.
 
@@ -360,15 +384,17 @@ Las agencias del Ministerio Público que atiendan los delitos cometidos contra o
 
 La Consejería Jurídica y de Servicios Legales de la Ciudad de México, en coordinación con el Instituto y de acuerdo a su disponibilidad, deberá actualizar y capacitar a la unidad especializada para la atención a las personas con discapacidad de la Defensoría Pública, para la debida atención y defensa de los derechos de las personas con discapacidad de escasos recursos, debiendo contar igualmente con el personal y material especializado, que garanticen una defensa adecuada y en igualdad de condiciones con las demás personas.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
-La Comisión de Derechos Humanos del Distrito Federal, deberá elaborar y ejecutar un programa especializado en el seguimiento y protección de los derechos y libertades fundamentales de las personas con discapacidad.
+La Comisión de Derechos Humanos de la Ciudad de México, deberá elaborar y ejecutar un programa especializado en el seguimiento y protección de los derechos y libertades fundamentales de las personas con discapacidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE MAYO DE 2017)</small>
 
 ### CAPÍTULO TERCERO. DEL DERECHO A LA SALUD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 16.
 
@@ -476,15 +502,15 @@ Corresponde a todas las dependencias que conforman el Sector Salud del Distrito 
 
 ### CAPÍTULO CUARTO. DEL DERECHO A LA EDUCACIÓN
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 20.
 
-La educación que imparta y regule la Secretaria de Educación del ámbito local, promoverá el respeto, la inclusión y el desarrollo pleno de las personas con discapacidad, para potenciar y ejercer al máximo sus capacidades, habilidades y aptitudes.
+La educación que imparta y regule la Secretaria de Educación, Ciencia, Tecnología e Innovación de la Ciudad México, promoverá el respeto, la inclusión y el desarrollo pleno de las personas con discapacidad, para potenciar y ejercer al máximo sus capacidades, habilidades y aptitudes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE MARZO DE 2019)</small>
 
-Para garantizar el derecho a la educación corresponde a la Secretaría de Educación de la Ciudad de México:
+Para garantizar el derecho a la educación corresponde a la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México:
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -498,7 +524,9 @@ III.- Crear y operar centros educativos en los que se instruya la Lengua de Señ
 
 IV.- Integrar a los libros de texto gratuitos, información sobre las personas con discapacidad que permita sensibilizar e informar a los estudiantes, sobre dichas personas e infundirles valores positivos con relación a la importancia de su integración social en su comunidad;
 
-V.- Elaborar y ejecutar un programa de adecuación arquitectónica de las instalaciones educativas, que garantice el acceso universal a los estudiantes con discapacidad en todos los planteles educativos del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V.- Elaborar y ejecutar un programa de adecuación arquitectónica de las instalaciones educativas, que garantice el acceso universal a los estudiantes con discapacidad en todos los planteles educativos de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -526,11 +554,11 @@ XII.- Impulsar programas en tomo a la Lengua de Señas Mexicana y de las formas 
 
 XIII.- Promover que las personas con discapacidad realicen dentro del sistema educativo, actividades deportivas, lúdicas, recreativas y de esparcimiento, junto con el resto de la comunidad educativa.
 
-> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 20 Bis.
 
-La Secretaría de Educación de la Ciudad de México procurará la atención, en condiciones adecuadas, de los alumnos con discapacidad que ingresen a las escuelas inclusivas, debiendo para ello, en caso de que sea necesario, realizar los ajustes razonables para utilizar personal especializado, de conformidad con el principio de progresividad.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México procurará la atención, en condiciones adecuadas, de los alumnos con discapacidad que ingresen a las escuelas inclusivas, debiendo para ello, en caso de que sea necesario, realizar los ajustes razonables para utilizar personal especializado, de conformidad con el principio de progresividad.
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -550,27 +578,29 @@ El sistema educativo en el ámbito local, procurará incluir docentes con discap
 
 ### CAPÍTULO QUINTO. DEL DERECHO AL TRABAJO Y A LA CAPACITACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 21.
 
-El Jefe de Gobierno de la Ciudad de México formulará el Programa de Empleo y Capacitación para las personas con discapacidad, que contendrá las siguientes acciones:
+La persona titular de la Jefatura de Gobierno de la Ciudad de México formulará el Programa de Empleo y Capacitación para las personas con discapacidad, que contendrá las siguientes acciones:
 
 I.- Incorporar a personas con discapacidad al sistema ordinario de trabajo, o en su caso, su incorporación a sistemas de trabajo protegido en condiciones salubres, dignas y de mínimo riesgo a su seguridad;
 
 II.- Asistencia Técnica a los sectores empresarial y comercial en materia de discapacidad;
 
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-III.- Incorporación de personas con discapacidad en las instancias de la Administración Pública de la Ciudad de México, incluyendo las Demarcaciones Territoriales;
+III.- Incorporación de personas con discapacidad en las instancias de la Administración Pública de la Ciudad de México, incluyendo las Alcaldías;
 
 IV.- Mecanismos de financiamiento, subsidio o coinversión para la ejecución de proyectos productivos y sociales, propuestos por las Organizaciones de y para personas con discapacidad; y
 
 V.- Vigilar y sancionar conforme la legislación aplicable, que las condiciones en que las personas con discapacidad desempeñen su trabajo no sean discriminatorias.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 22.
 
-El Jefe de Gobierno del Distrito Federal, otorgará incentivos fiscales a aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México, otorgará incentivos fiscales a aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -608,15 +638,19 @@ VIII.- Establecer el presupuesto suficiente para que en el Subprograma de Compen
 
 IX.- Promover la implementación de ajustes razonables en los espacios laborales.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 24.
 
-Es obligación de todas las autoridades de la Administración Pública del Distrito Federal, destinar el cinco por ciento de las plazas de creación reciente y de las vacantes, a la contratación de personas con discapacidad.
+Es obligación de todas las autoridades de la Administración Pública de la Ciudad de México, destinar el cinco por ciento de las plazas de creación reciente y de las vacantes, a la contratación de personas con discapacidad.
 
-El Jefe del Gobierno del Distrito Federal propondrá a las autoridades competentes, los estímulos fiscales y reconocimientos que beneficien a las empresas, industrias y comercios que cumplan con el presente capítulo, así como las multas y las sanciones para el caso de incumplimiento.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México propondrá a las autoridades competentes, los estímulos fiscales y reconocimientos que beneficien a las empresas, industrias y comercios que cumplan con el presente capítulo, así como las multas y las sanciones para el caso de incumplimiento.
+
+REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)
 
 ###### Artículo 25.
 
-Tanto los Órganos de la Administración Pública del Distrito Federal, como las empresas, industrias y comercios que contraten a personas con discapacidad deberán de:
+Tanto los Órganos de la Administración Pública de la Ciudad de México, como las empresas, industrias y comercios que contraten a personas con discapacidad deberán de:
 
 I.- Acondicionar físicamente los lugares de trabajo a fin de garantizar el libre tránsito y seguridad de los trabajadores con discapacidad;
 
@@ -630,23 +664,29 @@ Por ningún motivo se podrá pagar menos sueldo a un trabajador con discapacidad
 
 ### CAPÍTULO SEXTO. DE LA ACCESIBILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 26.
 
-Para garantizar el libre tránsito de las personas con discapacidad, corresponde a la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal elaborar, actualizar y publicar el Manual de Normas Técnicas de Accesibilidad, que deberán regir y aplicarse en todo inmueble con acceso al público.
+Para garantizar el libre tránsito de las personas con discapacidad, corresponde a la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México elaborar, actualizar y publicar el Manual de Normas Técnicas de Accesibilidad, que deberán regir y aplicarse en todo inmueble con acceso al público.
 
 Dichas normas deberán contener las medidas, las texturas, los materiales, las características y toda aquella información que permita realizar eficientemente las adecuaciones o modificaciones que establezca dicho Manual.
 
 El Manual igualmente contendrá las Normas Técnicas de Accesibilidad que deberán aplicarse tanto a la remodelación de viviendas como a las de nueva construcción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 27.
 
-Todos los Órganos de la Administración Pública del Distrito Federal, deberán elaborar y ejecutar un programa sexenal de adecuación o modificación de espacios físicos, a fin de crear las condiciones adecuadas de accesibilidad universal, seguridad y libre tránsito para personas con discapacidad.
+Todos los Órganos de la Administración Pública de la Ciudad de México, deberán elaborar y ejecutar un programa sexenal de adecuación o modificación de espacios físicos, a fin de crear las condiciones adecuadas de accesibilidad universal, seguridad y libre tránsito para personas con discapacidad.
 
 Los programas deberán contar y prever las medidas de seguridad y libre tránsito en los espacios con acceso al público.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 28.
 
-Los Titulares de los Órganos de la Administración Pública del Distrito Federal, deberán programar anualmente las adecuaciones que vayan a realizar a sus instalaciones y presupuestar el costo respectivo, debiendo integrar dicho costo a su presupuesto de egresos correspondiente.
+Los Titulares de los Órganos de la Administración Pública de la Ciudad de México, deberán programar anualmente las adecuaciones que vayan a realizar a sus instalaciones y presupuestar el costo respectivo, debiendo integrar dicho costo a su presupuesto de egresos correspondiente.
 
 ###### Artículo 29.
 
@@ -682,9 +722,11 @@ Los inmuebles deberán contar con las adecuaciones físicas de señalización, a
 
 ### CAPÍTULO SÉPTIMO. DEL TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 33.
 
-Corresponde a la Secretaría de Transportes y Vialidad del Distrito Federal realizar lo siguiente:
+Corresponde a la Secretaría de Movilidad de la Ciudad de México realizar lo siguiente:
 
 I.- Elaborar y ejecutar un programa permanente de adecuación y accesibilidad universal de las unidades de transporte público, tomando en consideración las disposiciones del Manual de Equipamiento Básico, a fin de que puedan garantizar la accesibilidad de usuarios con sillas de ruedas y demás personas con discapacidad que hagan uso del transporte público;
 
@@ -720,9 +762,11 @@ VI.- Realizar programas de sensibilización a todas las personas trabajadoras en
 
 VII.- Realizar programas de capacitación permanente sobre la accesibilidad universal, dirigidos a todo el personal que labora en el Sistema de Transporte Colectivo Metro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 35.
 
-Las empresas concesionarias de cualquier medio de transporte público en el Distrito Federal, están obligadas a:
+Las empresas concesionarias de cualquier medio de transporte público en la Ciudad de México, están obligadas a:
 
 I.- Adquirir sus nuevas unidades con las condiciones necesarias y características de accesibilidad que les permita brindar el servicio a las personas con discapacidad;
 
@@ -756,19 +800,27 @@ VII. Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüíst
 
 VIII. Promover la capacitación de recursos humanos, el uso de materiales y tecnología, con la finalidad de lograr su integración en las actividades culturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 37.
 
-Conforme a la Ley de Educación Física y Deporte del Distrito Federal, corresponde a las Delegaciones Políticas del Distrito Federal llevar a cabo lo siguiente:
+Conforme a la Ley de Educación Física y Deporte del Distrito Federal, corresponde a las Alcaldías de la Ciudad de México llevar a cabo lo siguiente:
 
 I.- Destinar horarios adecuados en las instalaciones deportivas a su cargo, para que puedan hacer uso de ellas los deportistas con discapacidad que lo soliciten;
 
-II.- Promover y apoyar la conformación de equipos representativos de deporte adaptado en su Delegación;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-III.- Difundir las disciplinas de deporte adaptado que se practican en su Delegación;
+II.- Promover y apoyar la conformación de equipos representativos de deporte adaptado en su Alcaldía;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+III.- Difundir las disciplinas de deporte adaptado que se practican en su Alcaldía;
 
 IV.- Prever y adquirir el equipo deportivo que se requiere para la practica del deporte adaptado; y
 
-V.- Contemplar tanto en las remodelaciones como en las nuevas construcciones de las instalaciones deportivas de su Delegación, las necesidades de equipamiento y accesibilidad universal de los deportistas con discapacidad.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V.- Contemplar tanto en las remodelaciones como en las nuevas construcciones de las instalaciones deportivas de su Alcaldía, las necesidades de equipamiento y accesibilidad universal de los deportistas con discapacidad.
 
 Por ningún motivo se cobrará el acceso o el uso de las instalaciones deportivas a las personas con discapacidad.
 
@@ -820,13 +872,17 @@ Las y los prestadores de servicios turísticos en la Ciudad de México deberán 
 
 ### CAPÍTULO DÉCIMO. DE LA PARTICIPACIÓN EN LA VIDA POLÍTICA Y PÚBLICA
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 38.
 
-El Instituto Electoral del Distrito Federal, deberá realizar las acciones que correspondan a fin de promover activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la vida política del Distrito Federal, principalmente deberá garantizar en todo momento su derecho a votar y a ser votados.
+El Instituto Electoral de la Ciudad de México, deberá realizar las acciones que correspondan a fin de promover activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la vida política de la Ciudad de México, principalmente deberá garantizar en todo momento su derecho a votar y a ser votados.
+
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 39.
 
-Los Partidos Políticos con registro en el Distrito Federal deberán garantizar la plena participación política de personas con discapacidad en sus órganos de dirección y promover la participación y afiliación a sus institutos políticos. Igualmente promoverán su participación en los cargos de elección popular.
+Los Partidos Políticos con registro en la Ciudad de México deberán garantizar la plena participación política de personas con discapacidad en sus órganos de dirección y promover la participación y afiliación a sus institutos políticos. Igualmente promoverán su participación en los cargos de elección popular.
 
 > <small>(REFORMADO, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -862,15 +918,19 @@ Las personas con discapacidad tendrán derecho a recibir un trato digno y apropi
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL APOYO ECONÓMICO A PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 41.
 
-Las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en el Distrito Federal, tienen derecho a recibir un apoyo económico diario equivalente a media Unidad de Cuenta de la Ciudad de México vigente.
+Las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en la Ciudad de México, tienen derecho a recibir un apoyo económico diario equivalente a media Unidad de Cuenta de la Ciudad de México vigente.
 
-El apoyo económico será entregado a los derechohabientes en forma mensual por el DIF-DF.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
-El DIF-DF determinará el medio idóneo para hacer entrega del apoyo económico a los derechohabientes.
+El apoyo económico será entregado a los derechohabientes en forma mensual por el DIF-CDMX.
+
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
+El DIF-CDMX determinará el medio idóneo para hacer entrega del apoyo económico a los derechohabientes.
 
 El derecho no estará condicionado a la carencia de recursos económicos por parte de los posibles derechohabientes.
 
@@ -880,6 +940,8 @@ El derecho no estará condicionado a la carencia de recursos económicos por par
 
 EL DIF-DF está obligado a elaborar y mantener actualizado el padrón de derechohabientes, en términos de lo dispuesto en el Capítulo Séptimo de la Ley de Desarrollo Social para el Distrito Federal, en lo concerniente a las personas con discapacidad, sin que ello implique un mayor proceso administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 43.
 
 Son requisitos para obtener el derecho al apoyo económico, los siguientes:
@@ -888,23 +950,27 @@ Son requisitos para obtener el derecho al apoyo económico, los siguientes:
 
 I. Acreditar su discapacidad con documento expedido por alguna institución pública de salud de la Ciudad de México.
 
-> <small>(REFORMADA, G.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-II. Contar con la calidad de habitante o vecino del Distrito Federal en los términos del Artículo 5º del Estatuto de Gobierno del Distrito Federal. Se dará prioridad a aquellas personas con mayor necesidad de apoyo, en términos del máximo de los recursos disponibles, y demás requisitos necesarios para asegurar la adecuada asignación del apoyo.
+II. Contar con la calidad de habitante o vecino de la Ciudad de México en los términos del Artículo 22 de la Constitución Política de la Ciudad de México. Se dará prioridad a aquellas personas con mayor necesidad de apoyo, en términos del máximo de los recursos disponibles, y demás requisitos necesarios para asegurar la adecuada asignación del apoyo; y
 
 III. Tener menos de sesenta y ocho años de edad.
 
 El trámite para la obtención del derecho lo podrá efectuar la persona con discapacidad permanente por sí o por interpósita persona que lo represente.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 44.
 
-El Jefe de Gobierno deberá incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación que garantice la universalización del derecho de las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en el Distrito Federal a recibir apoyo económico, sin perjuicio de otras asignaciones presupuestarias que se requieran para cumplir o instrumentar programas que se desarrollen en beneficio de las personas con discapacidad.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México deberá incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación que garantice la universalización del derecho de las personas con discapacidad permanente, menores de sesenta y ocho años y residentes en la Ciudad de México a recibir apoyo económico, sin perjuicio de otras asignaciones presupuestarias que se requieran para cumplir o instrumentar programas que se desarrollen en beneficio de las personas con discapacidad.
+
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 45.
 
-La Asamblea Legislativa deberá aprobar en el Decreto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación suficiente para hacer efectivo el derecho de las personas con discapacidad permanente, menores de sesenta y ocho años, residentes en el Distrito Federal a recibir apoyo económico.
+El Congreso de la Ciudad de México deberá aprobar en el Decreto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación suficiente para hacer efectivo el derecho de las personas con discapacidad permanente, menores de sesenta y ocho años, residentes en la Ciudad de México a recibir apoyo económico.
 
-Dicha asignación aumentará anualmente en forma progresiva hasta alcanzar la cobertura universal de las personas con discapacidad permanente, menores de sesenta y ocho años, residentes en el Distrito Federal; tal asignación, en ningún caso y por ningún motivo, podrá ser igual o menor a la del ejercicio fiscal anterior.
+Dicha asignación aumentará anualmente en forma progresiva hasta alcanzar la cobertura universal de las personas con discapacidad permanente, menores de sesenta y ocho años, residentes en la Ciudad de México; tal asignación, en ningún caso y por ningún motivo, podrá ser igual o menor a la del ejercicio fiscal anterior.
 
 ###### Artículo 46.
 
@@ -916,11 +982,11 @@ Los servidores públicos no podrán en ningún caso condicionar o negar el otorg
 
 ### CAPÍTULO DÉCIMO TERCERO. DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 47.
 
-Se crea el Instituto de las Personas con Discapacidad de la Ciudad de México, cuyo objeto fundamental es coadyuvar con el Ejecutivo local y las demás dependencias de la Administración Pública local, así como con los Jefes Delegacionales, a la integración al desarrollo de las personas con discapacidad, para lo cual cuenta con las atribuciones establecidas en el Artículo 48 del presente ordenamiento.
+Se crea el Instituto de las Personas con Discapacidad de la Ciudad de México, cuyo objeto fundamental es coadyuvar con el Ejecutivo local y las demás dependencias de la Administración Pública local, así como con las Alcaldías, a la integración al desarrollo de las personas con discapacidad, para lo cual cuenta con las atribuciones establecidas en el Artículo 48 del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -930,33 +996,51 @@ En la contratación del personal que labore en el Instituto, se deberá privileg
 
 En la tarea de integración al desarrollo de las personas con discapacidad, el Instituto deberá promover el empleo de las nuevas tecnologías disponibles, a fin de cumplir con su objeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 48.
 
 El Instituto de las Personas con Discapacidad de la Ciudad de México, tendrá las atribuciones siguientes:
 
-I.- Elaborar el Programa para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-II.- Ser el organismo público encargado de articular y diseñar las políticas públicas en materia de discapacidad en el Distrito Federal;
+I.- Elaborar el Programa para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México;
 
-III.- Coordinar y concertar con cada órgano de la Administración Pública del Distrito Federal los programas específicos que en materia de discapacidad deban elaborar y ejecutar cada año;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-IV.- Proponer y sugerir a cada órgano de la Administración Pública del Distrito Federal las acciones prioritarias que considere puedan servirles para un mejor desempeño en sus funciones específicas;
+II.- Ser el organismo público encargado de articular y diseñar las políticas públicas en materia de discapacidad en la Ciudad de México;
 
-V.- Promover y concertar con la iniciativa privada y con las organizaciones de la sociedad civil, los planes y programas que en materia de discapacidad se deban realizar en el Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-VI.- Promover y difundir todos los programas y acciones que en beneficio de las personas con discapacidad se desarrollen en el Distrito Federal;
+III.- Coordinar y concertar con cada órgano de la Administración Pública de la Ciudad de México los programas específicos que en materia de discapacidad deban elaborar y ejecutar cada año;
 
-VII.- Realizar las investigaciones jurídicas y los análisis legislativos que contribuyan a la integración al desarrollo de las personas con discapacidad en el Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+IV.- Proponer y sugerir a cada órgano de la Administración Pública de la Ciudad de México las acciones prioritarias que considere puedan servirles para un mejor desempeño en sus funciones específicas;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V.- Promover y concertar con la iniciativa privada y con las organizaciones de la sociedad civil, los planes y programas que en materia de discapacidad se deban realizar en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VI.- Promover y difundir todos los programas y acciones que en beneficio de las personas con discapacidad se desarrollen en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VII.- Realizar las investigaciones jurídicas y los análisis legislativos que contribuyan a la integración al desarrollo de las personas con discapacidad en la Ciudad de México;
 
 VIII.- Elaborar las propuestas legislativas que contribuyan a la reforma integral a la legislación vigente, garantizando en todo momento el interés y beneficio de las personas con discapacidad;
 
 Las propuestas legislativas que elabore el Instituto deberán en todo momento procurar la armonización con los ordenamientos internacionales;
 
-IX.- Crear y mantener actualizado el Registro de las Personas con Discapacidad del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-X.- Elaborar su propio presupuesto de egresos, el cual deberá ser integrado al Presupuesto de Egresos del Distrito Federal de cada año;
+IX.- Crear y mantener actualizado el Registro de las Personas con Discapacidad de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+X.- Elaborar su propio presupuesto de egresos, el cual deberá ser integrado al Presupuesto de Egresos de la Ciudad de México de cada año;
 
 XI.- Promover y difundir en la sociedad una cultura de respeto e inclusión de las personas con discapacidad, resaltando sus valores y habilidades residuales;
 
@@ -1026,29 +1110,31 @@ V. La Dirección Ejecutiva de Vinculación; y
 
 VI. Las demás áreas que sean necesarias para el cumplimiento de sus objetivos, las cuales estarán contempladas en el Estatuto Orgánico del Instituto.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 50.
 
-La Junta Directiva estará conformada por:
+La Junta Directiva estará conformada:
 
-I.- El titular de la Secretaría de Desarrollo Social quien fungirá como presidente de la junta;
+I.- El titular de la Secretaría de Inclusión y Bienestar Social quien fungirá como presidente de la Junta;
 
-II.- El titular de la Secretaría de Gobierno;
+II.- El titular de la Secretaría de Gobierno.
 
-III.- El titular de la Secretaría de Finanzas;
+III.- El titular de la Secretaría de Administración y Finanzas;
 
 IV.- El titular de la Secretaría de Salud;
 
-V.- El titular de la Secretaría de Educación;
+V.- El titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-VI.- El titular de la Secretaría del Trabajo;
+VI.- El titular de la Secretaría del Trabajo y Fomento al Empleo;
 
-VII.- El titular de la Secretaría de Transportes y Vialidad;
+VII.- El titular de la Secretaría de Movilidad;
 
 VIII.- El titular de la Secretaría de Obras y Servicios;
 
 IX.- El titular de la Secretaría de Desarrollo Urbano y Vivienda;
 
-X.- El titular de la Secretaria de Seguridad Pública; y
+X.- El titular de la Secretaría de Seguridad Ciudadana; y
 
 XI.- El Director General del Instituto, quien fungirá como Secretario Técnico de la Junta.
 
@@ -1064,9 +1150,13 @@ III.- Aprobar el presupuesto de egresos del Instituto; y
 
 IV.- Aprobar el informe anual del Instituto.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### Artículo 52.
 
-El Director General del Instituto será nombrado por el Jefe de Gobierno del Distrito Federal y durará en su cargo 5 años, pudiendo ser ratificado para un periodo adicional.
+El Director General del Instituto será nombrado por la persona titular de la Jefatura de Gobierno y durará en su cargo 5 años, pudiendo ser ratificado para un periodo adicional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 53.
 
@@ -1074,7 +1164,9 @@ Son requisitos indispensables para ser Director General del Instituto, además d
 
 I.- Ser mexicano por nacimiento;
 
-II.- Tener por lo menos 30 años de edad al momento de asumir el cargo;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+II.- Con relación a la mayoría de edad, cumplir con lo establecido por el artículo 646 del Código Civil del Distrito Federal;
 
 III.-Tener algún tipo de discapacidad permanente, con una antelación no menor a 5 años;
 
@@ -1082,7 +1174,11 @@ IV.- Tener título profesional; y
 
 V.- Tener experiencia y prestigio reconocido en el tema de la discapacidad.
 
-El Jefe de Gobierno del Distrito Federal, deberá verificar que los candidatos cuenten con los requisitos establecidos en el presente artículo, quedando facultado para entrevistar previamente a los aspirantes y examinarlos sobre su experiencia y en su caso sobre su formación profesional.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
+La persona titular de la Jefatura de Gobierno de la Ciudad de México, deberá verificar que los candidatos cuenten con los requisitos establecidos en el presente artículo, quedando facultado para entrevistar previamente a los aspirantes y examinarlos sobre su experiencia y en su caso sobre su formación profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 54.
 
@@ -1096,7 +1192,9 @@ III.- Administrar los bienes, recursos y el presupuesto del Instituto, debiendo 
 
 IV.- Nombrar y remover libremente a los funcionarios del Instituto que mencionan las fracciones IV, V, VI y VII, del artículo 49 de la presente Ley, así como al Director a que se refiere la fracción III quien deberá contar por lo menos, con título profesional de Licenciado en Derecho y una experiencia mínima de 5 años en su profesión; y
 
-V.- Elaborar el Programa para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V.- Elaborar el Programa para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México.
 
 ###### Artículo 55.
 
@@ -1192,9 +1290,9 @@ El incumplimiento de la presente ley será sancionado conforme a los criterios s
 
 I. El Instituto sancionará a quienes no realicen la señalización establecida por el artículo 9, fracciones I y II de la presente Ley, con 30 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-II.- En las infracciones a lo establecido por el artículo 20 de la presente Ley, se fincará responsabilidad administrativa, civil o penal correspondiente al servidor público. La Secretaría de Educación del Distrito Federal sancionará a las escuelas privadas que contravengan al Artículo 20 con una multa de 200 veces la Unidad de Cuenta de la Ciudad de México vigente, y en caso de reincidencia la clausura;
+II.- En las infracciones a lo establecido por el artículo 20 de la presente Ley, se fincará responsabilidad administrativa, civil o penal correspondiente al servidor público. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México sancionará a las escuelas privadas que contravengan al Artículo 20 con una multa de 200 veces la Unidad de Cuenta de la Ciudad de México vigente, y en caso de reincidencia la clausura;
 
 > <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -1208,7 +1306,9 @@ IV.- El Instituto sancionará a las y los infractores del artículo 32 del párr
 
 V.- La Secretaría de Movilidad, sancionará a los infractores del artículo 35 de la presente Ley, con multa de 200 veces la Unidad de Cuenta de la Ciudad de México vigente. En caso de reincidencia serán retiradas inmediatamente las concesiones y no se permitirá el uso de las unidades de transporte;
 
-VI.- Los funcionarios y demás servidores públicos que no den cumplimiento a las obligaciones establecidas en la presente Ley, serán sujetos al procedimiento administrativo, penal o civil que corresponda y en caso de determinarse su culpabilidad o responsabilidad, serán acreedores a las sanciones que establece la Ley Federal de Responsabilidades de los Servidores Públicos y demás legislación aplicable.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VI.- Los funcionarios y demás servidores públicos que no den cumplimiento a las obligaciones establecidas en la presente Ley, serán sujetos al procedimiento administrativo, penal o civil que corresponda y en caso de determinarse su culpabilidad o responsabilidad, serán acreedores a las sanciones que establece la Ley de Responsabilidades Administrativas de la Ciudad de México y demás legislación aplicable.
 
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
@@ -1335,3 +1435,11 @@ G.O. 30 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DE LA LEY Y DIVERSAS DISPOSICIONES DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
