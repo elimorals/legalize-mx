@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-03-22"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1481,7 +1481,7 @@ I. Vigilar el establecimiento y operación de sistemas y programas de verificaci
 
 II. Establecer y operar los centros de verificación vehicular en el Estado, conforme a las Normas Oficiales Mexicanas y leyes aplicables en la materia.
 
-La SEGAM, posterior a los procedimientos señalados en este Ordenamiento, en su caso, se encargará concesionar (sic) y vigilar los centros de verificación vehicular;
+La SEGAM, posterior a los procedimientos señalados en este Ordenamiento, en su caso, se encargará (sic) concesionar y vigilar los centros de verificación vehicular;
 
 III. Expedir anualmente el Programa Estatal de Verificación Vehicular, y
 
@@ -1566,6 +1566,10 @@ VII. Que el riego agrícola que se realice con aguas tratadas cumpla con la norm
 ###### ARTICULO 92.
 
 Será atribución de la SEGAM, con la participación que corresponda a la SEDARH, a los Servicios Coordinados de Salud Pública en el Estado, y a los ayuntamientos, vigilar que se utilicen en el territorio estatal plaguicidas y fertilizantes que sean compatibles con los ecosistemas y no causen efectos dañinos en la salud humana; así como la no aplicación de los que se encuentran identificados como prohibidos por la normatividad ambiental; asimismo, vigilar la observancia y cumplimiento de las disposiciones normativas vigentes en las actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+En las áreas significativas o que se consideren potenciales para el desarrollo de la apicultura en la Entidad, se prohíbe el uso de plaguicidas neonicotinoides, clotianidina, tiametoxam e imidacloprid. La SEDARH fijará los parámetros para determinar qué es un área significativa o potencial para esta actividad.
 
 Los envases que hayan contenido insumos fitosanitarios o plaguicidas e insumos de nutrición vegetal, previo dictamen de laboratorio acreditado donde se especifique su no peligrosidad, deberán someterse al procedimiento de lavado a que se refiere la Norma Oficial Mexicana que corresponda, así como en su caso a las disposiciones que establezca el CESPLAFEST.
 
@@ -2881,7 +2885,7 @@ V. El pago de derechos por otorgamiento de autorizaciones, permisos, y renovacio
 
 VI. Las donaciones, herencias o legados;
 
-VII. Las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas fisicas o morales, y las instituciones públicas o privadas;
+VII. Las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas físicas o morales, y las instituciones públicas o privadas;
 
 VIII. Los intereses que generen los recursos financieros incorporados al Fondo señalados en las fracciones anteriores, y
 
@@ -3344,5 +3348,13 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0140 BIS.- REFORMA EL ARTÍCULO 6° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0142.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
