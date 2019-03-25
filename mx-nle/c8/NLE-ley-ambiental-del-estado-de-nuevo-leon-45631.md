@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-01-25"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -101,393 +101,413 @@ VIII. El establecimiento de zonas intermedias de salvaguarda, por la presencia o
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISOS], P.O. 25 DE MARZO DE 2019)</small>
 
-I. Actividad que no es considerada como altamente riesgosa: Toda acción u omisión que ponga en peligro la integridad de los seres vivos y del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen y que no están consideradas como altamente riesgosas por la Federación, de acuerdo a la Ley General y demás ordenamientos ambientales aplicables;
+I. Aceras: Componentes de las vías, ubicadas entre las calzadas y los límites de propiedad y están conformadas por las siguientes partes:
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
+a) El cordón, que separa la calzada de la acera; la franja o isleta, donde se ubicarán los señalamientos viales, arbotantes, postes, anuncios, mobiliario y arbolado; la ciclovía, dependiendo del tipo de acera y la peatonvía, junto al límite de propiedad; y
 
-II. Actividad de explotación y aprovechamiento de materiales no reservados a la Federación: Trabajos destinados a la preparación y desarrollo del área que comprende el yacimiento del material, que culmina con la extracción de los recursos minerales y sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes naturales, tales como rocas o productos de su descomposición;
+b) La banqueta será el elemento constructivo pétreo, plástico o de arcilla compactada, que se instala sobre las aceras, vialidades peatonales o en los andadores de los parques.
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+c) Camellón: paseo o acera central de una avenida o calle, que separa los sentidos de la circulación para impedir el paso de los vehículos al carril contrario.
 
-III. Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+II. Actividad que no es considerada como altamente riesgosa: Toda acción u omisión que ponga en peligro la integridad de los seres vivos y del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen y que no están consideradas como altamente riesgosas por la Federación, de acuerdo a la Ley General y demás ordenamientos ambientales aplicables;
 
-IV. Agua potable: La apta para alimentación, lavado y uso industrial. La apreciación de potabilización se efectuará mediante un examen organoléptico seguido de un análisis químico-bacteriológico. Dicho líquido deberá satisfacer las condiciones siguientes: sabor: insípido o, en su caso, agradable; aireación: aireada; limpidez: limpia y transparente; dureza: no debe cortar el jabón;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+III. Actividad de explotación y aprovechamiento de materiales no reservados a la Federación: Trabajos destinados a la preparación y desarrollo del área que comprende el yacimiento del material, que culmina con la extracción de los recursos minerales y sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes naturales, tales como rocas o productos de su descomposición;
 
-V. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+IV. Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
-VI. Apilamiento o cúmulo: Acumulación de materiales a granel que tiene forma de cono o pilas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+V. Agua potable: La apta para alimentación, lavado y uso industrial. La apreciación de potabilización se efectuará mediante un examen organoléptico seguido de un análisis químico-bacteriológico. Dicho líquido deberá satisfacer las condiciones siguientes: sabor: insípido o, en su caso, agradable; aireación: aireada; limpidez: limpia y transparente; dureza: no debe cortar el jabón;
 
-VII. Aprovechamiento: Conjunto de actividades para la explotación de un yacimiento mineral y sustancias no reservadas a la federación, así como las encaminadas a su extracción;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+VI. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
-VIII. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+VII. Apilamiento o cúmulo: Acumulación de materiales a granel que tiene forma de cono o pilas;
 
-IX. Área de extracción: Sitio de donde se extrae el recurso mineral y sustancias no reservadas a la Federación y en la que no se incluyen las operaciones que impliquen la transformación del material;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+VIII. Aprovechamiento: Conjunto de actividades para la explotación de un yacimiento mineral y sustancias no reservadas a la federación, así como las encaminadas a su extracción;
 
-X. Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en la presente Ley, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+IX. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
-XI. Asentamiento humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+X. Área de extracción: Sitio de donde se extrae el recurso mineral y sustancias no reservadas a la Federación y en la que no se incluyen las operaciones que impliquen la transformación del material;
 
-XII. Aspersión: Dispersión de líquidos por medio de un mecanismo para humedecer materiales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XI. Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en la presente Ley, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
 
-XIII. Atmósfera: La capa de aire que circunda el planeta, formada por una mezcla principalmente de nitrógeno y oxígeno y otros gases como argón y neón, además de bióxido de carbono y vapor de agua; su límite se considera convencionalmente a veinte mil metros de altitud;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XII. Asentamiento humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-XIV. Balconeo: Desplazamiento de recurso mineral y sustancias no reservadas a la Federación desde la zona de escarpe al pie del talud por caída libre o medios mecánicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XIII. Aspersión: Dispersión de líquidos por medio de un mecanismo para humedecer materiales;
 
-XV. Barrenación: Perforación practicada en el terreno por medio de herramientas manuales, mecánicas, hidráulicas o neumáticas, con la finalidad de hacer orificios (barrenos) para alojar explosivos que fracturen la roca o toma de muestra de materiales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XIV. Atmósfera: La capa de aire que circunda el planeta, formada por una mezcla principalmente de nitrógeno y oxígeno y otros gases como argón y neón, además de bióxido de carbono y vapor de agua; su límite se considera convencionalmente a veinte mil metros de altitud;
 
-XVI. Berma: Área o franja de un terreno, casi horizontal entre el hombro de un talud y el pie del talud inmediato superior;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XV. Balconeo: Desplazamiento de recurso mineral y sustancias no reservadas a la Federación desde la zona de escarpe al pie del talud por caída libre o medios mecánicos;
 
-XVII. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XVI. Barrenación: Perforación practicada en el terreno por medio de herramientas manuales, mecánicas, hidráulicas o neumáticas, con la finalidad de hacer orificios (barrenos) para alojar explosivos que fracturen la roca o toma de muestra de materiales;
 
-XVIII. Cargador frontal: Máquina que se utiliza para carga o transporte de materiales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XVII. Berma: Área o franja de un terreno, casi horizontal entre el hombro de un talud y el pie del talud inmediato superior;
 
-XIX. Casa de bolsas: Equipo de control de partículas, generalmente compuesta de bolsas filtrantes para la captura de polvos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XVIII. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
-XX. Centro de población: Las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XIX. Cargador frontal: Máquina que se utiliza para carga o transporte de materiales;
 
-XXI. Condiciones particulares de descarga: La dictaminación que emita la Secretaría respecto de los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, fijados por las Normas Oficiales Mexicanas y la Ley de Aguas Nacionales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XX. Casa de bolsas: Equipo de control de partículas, generalmente compuesta de bolsas filtrantes para la captura de polvos;
 
-XXII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXI. Centro de población: Las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión;
 
-XXIII. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXII. Condiciones particulares de descarga: La dictaminación que emita la Secretaría respecto de los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, fijados por las Normas Oficiales Mexicanas y la Ley de Aguas Nacionales;
 
-XXIV. Contaminación ostensible: La presencia clara, contundente o directa en el ambiente, de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico o molestias a los seres vivos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXIII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
 
-XXV. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXIV. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XXVI. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXV. Contaminación ostensible: La presencia clara, contundente o directa en el ambiente, de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico o molestias a los seres vivos;
 
-XXVII. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXVI. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, así como pantallas electrónicas que por su colocación, tamaño o número, obstruyan u obstaculicen la libre circulación de todas las personas, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
 
-XXVIII. Cribado: Operación unitario que se usa para separar materiales en dos o más fracciones de diferente tamaño, mediante uno o más tamices;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXVII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-XXIX. Criterios ambientales: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXVIII Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XXX. Cuerpo receptor: La corriente, depósito de agua, cauce o bienes del dominio público del Estado o Municipios en donde se descargan, infiltran o inyectan aguas residuales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXIX. Cribado: Operación unitario (sic) que se usa para separar materiales en dos o más fracciones de diferente tamaño, mediante uno o más tamices;
 
-XXXI. Desarrollo urbano: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXX. Criterios ambientales: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
 
-XXXII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXI. Cuerpo receptor: La corriente, depósito de agua, cauce o bienes del dominio público del Estado o Municipios en donde se descargan, infiltran o inyectan aguas residuales;
 
-XXXIII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXII. Desarrollo urbano: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-XXXIV. Ecoeficiencia: Forma de cumplimiento ambiental que se sustenta en mecanismos proactivos en la aplicación de tecnologías ambientalmente compatibles para la producción de bienes o servicios, que redunden tanto en el ahorro económico o energético, como en la preservación y protección al ambiente, atendiendo a la premisa del desarrollo sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XXXV. Ecología: (Del griego "oicos" = casa y "logos"= tratado). Ciencia que estudia la distribución e interacción de los seres vivos entre sí y con su entorno o medio ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXIV. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXXVI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXV. Ecoeficiencia: Forma de cumplimiento ambiental que se sustenta en mecanismos proactivos en la aplicación de tecnologías ambientalmente compatibles para la producción de bienes o servicios, que redunden tanto en el ahorro económico o energético, como en la preservación y protección al ambiente, atendiendo a la premisa del desarrollo sustentable;
 
-XXXVII. Ecoturismo: Son las actividades encaminadas a la distracción, esparcimiento o recreo orientadas al disfrute de la naturaleza, de forma tal que se respete, mantenga y preserve el equilibrio de los ecosistemas, sus elementos y procesos naturales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXVI. Ecología: (Del griego "oicos" = casa y "logos"= tratado). Ciencia que estudia la distribución e interacción de los seres vivos entre sí y con su entorno o medio ambiente;
 
-XXXVIII. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la enseñanza, adquisición y asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
+XXXVII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXXIX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la coexistencia, transformación y desarrollo del hombre y demás seres vivos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXVIII. Ecoturismo: Son las actividades encaminadas a la distracción, esparcimiento o recreo orientadas al disfrute de la naturaleza, de forma tal que se respete, mantenga y preserve el equilibrio de los ecosistemas, sus elementos y procesos naturales;
 
-XL. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XXXIX. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la enseñanza, adquisición y asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-XLI. Emisiones a la atmósfera: La descarga directa o indirecta a la atmósfera de toda sustancia o energía, en cualquiera de sus estados físicos y formas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017 (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XL. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la coexistencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XLII. Emisiones fugitivas: Emisión a la atmósfera generada durante el aprovechamiento, por no existir medios para su captura, tratamiento y conducción a la atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLI. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
 
-XLIII. Encapsular: Dispositivos u obras de cualquier tipo que sirven para encerrar un área determinada o equipos de proceso, con el objeto de mitigar emisiones de polvos a la atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLII. Emisiones a la atmósfera: La descarga directa o indirecta a la atmósfera de toda sustancia o energía, en cualquiera de sus estados físicos y formas;
 
-XLIV. Equipo supresor de polvo: Equipo que sirve para minimizar las emisiones de polvo y que generalmente utiliza agua asperjada sola o mezclada con productos químicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLIII. Emisiones fugitivas: Emisión a la atmósfera generada durante el aprovechamiento, por no existir medios para su captura, tratamiento y conducción a la atmósfera;
 
-XLV. Explotación: Obras y trabajos destinados a la preparación y desarrollo del área en la que se encuentra el recurso mineral y sustancias no reservadas a la Federación, para su posterior extracción;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLIV. Encapsular: Dispositivos u obras de cualquier tipo que sirven para encerrar un área determinada o equipos de proceso, con el objeto de mitigar emisiones de polvos a la atmósfera;
 
-XLVI. Extracción: Obtención del recurso y sustancias no reservadas a la Federación, en forma manual, mecánica, hidráulica o neumática o cualquier otra;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLV. Equipo supresor de polvo: Equipo que sirve para minimizar las emisiones de polvo y que generalmente utiliza agua asperjada sola o mezclada con productos químicos;
 
-XLVII. Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLVI. Explotación: Obras y trabajos destinados a la preparación y desarrollo del área en la que se encuentra el recurso mineral y sustancias no reservadas a la Federación, para su posterior extracción;
 
-XLVIII. Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tiene un lugar fijo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLVII. Extracción: Obtención del recurso y sustancias no reservadas a la Federación, en forma manual, mecánica, hidráulica o neumática o cualquier otra;
 
-XLIX. Gestión integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLVIII. Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-L. Granulometría: Es la medición y clasificación del material pétreo según su tamaño;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+XLIX. Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tiene un lugar fijo;
 
-LI. Gran generador: Persona física o moral que genere una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+L. Gestión integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-LII. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LI. Granulometría: Es la medición y clasificación del material pétreo según su tamaño;
 
-LIII. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LII. Gran generador: Persona física o moral que genere una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-LIV. Instrumentos económicos: Mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LIII. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-LV. Ley: Ley Ambiental del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LIV. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 
-LVI. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LV. Instrumentos económicos: Mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
 
-LVII. Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LVI. Ley: Ley Ambiental del Estado de Nuevo León;
 
-LVIII. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LVII. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-LIX. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes, y de los residuos que éstos generan;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LVIII. Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-LX. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LIX. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-LXI. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LX. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes, y de los residuos que éstos generan;
 
-LXII. Mejoramiento: El incremento de la calidad del ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXI. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-LXIII. Opacidad: Propiedad de impedir el paso de la luz. Aplicado a la atmósfera implica reducción de la visibilidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXII. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-LXIV. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXIII. Mejoramiento: El incremento de la calidad del ambiente;
 
-LXV. Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXIV. Opacidad: Propiedad de impedir el paso de la luz. Aplicado a la atmósfera implica reducción de la visibilidad;
 
-LXVI. Polvo: Material que comprende, entre otros, las partículas suspendidas totales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXV. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-LXVII. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de biodiversidad fuera de sus hábitat naturales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXVI. Peatonvía: Componente de las aceras, cuya función es permitir el libre tránsito del peatón, cuya extensión máxima es de 2.40 metros, pudiendo ser mayor, y mínima de 1.40 metros, según lo establecido en el artículo 169 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León;
 
-LXVIII. Prestador de servicios en materia ambiental: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que tiene como actividad la gestión, tramitación o intermediación para la obtención de trámites, permisos y autorizaciones de cualquier tipo, ante la autoridad correspondiente, o cualquier diligencia administrativa o normativa ante ésta, por cuenta propia o a favor de terceros;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXVII. Peatón: Persona que transita a pie o se desplaza asistiéndose de aparatos;
 
-LXIX. Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXVIII. Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-LXX. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXIX. Material que comprende, entre otros, las partículas suspendidas totales;
 
-LXXI. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXX. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de biodiversidad fuera de sus hábitat naturales;
 
-LXXII. Reutilización: Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXI. Prestador de servicios en materia ambiental: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que tiene como actividad la gestión, tramitación o intermediación para la obtención de trámites, permisos y autorizaciones de cualquier tipo, ante la autoridad correspondiente, o cualquier diligencia administrativa o normativa ante ésta, por cuenta propia o a favor de terceros;
 
-LXXIII. Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXII. Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
 
-LXXIV. Recurso genético: El material genético de valor real o potencial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXIII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-LXXV. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXIV. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-LXXVI. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXV. Reutilización: Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-LXXVII. Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXVI. Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
 
-LXXVIII. Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXVII. Recurso genético: El material genético de valor real o potencial;
 
-LXXIX. Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXVIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
 
-LXXX. Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXIX. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
 
-LXXXI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de las zonas en las que se haya llevado a cabo la extracción, aprovechamiento de recursos y/o sustancias no reservadas a la Federación o de cualquier actividad que hubiere provocado deterioro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXX. Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-LXXXII. Restauración ambiental: Conjunto de actividades tendientes a la recuperación y restablecimiento de las zonas en las que se haya llevado a cabo la extracción o aprovechamiento de recursos y/o sustancias no reservadas a la federación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXI. Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
 
-LXXXIII. Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXII. Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
 
-LXXXIV. Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXIII. Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
 
-LXXXV. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de las zonas en las que se haya llevado a cabo la extracción, aprovechamiento de recursos y/o sustancias no reservadas a la Federación o de cualquier actividad que hubiere provocado deterioro;
 
-LXXXVI. Tensoactivo: Propiedad de ciertos productos químicos que disminuye la tensión superficial, para aumentar la fuerza de adhesión de las partículas a una superficie;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXV. Restauración ambiental: Conjunto de actividades tendientes a la recuperación y restablecimiento de las zonas en las que se haya llevado a cabo la extracción o aprovechamiento de recursos y/o sustancias no reservadas a la federación;
 
-LXXXVII. Torre meteorológica: Estructura diseñada para llevar a cabo el montaje de los equipos de medición de parámetros meteorológicos, que permiten conocer el comportamiento de la atmósfera por medio de mediciones directas de velocidad y dirección del viento, temperatura ambiente, humedad relativa, presión barométrica, radiación solar y precipitación pluvial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXVI. Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
 
-LXXXVIII. Transportador de banda: Máquina formada por una banda sin fin, plana o acanalada, que sirve para transportar, elevar o distribuir los materiales que se colocan sobre la misma;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXVII. Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
 
-LXXXIX. Triturador, quebradora o molino: Máquina electromecánica que se utiliza para el resquebrajamiento del material, ya sea por impacto o por desgaste, corte o compresión, para reducir el tamaño del material utilizado en las diferentes etapas del proceso, ya sea primaría, secundaría, terciaría, etc.;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+LXXXVIII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo
 
-XC. Unidad de monitoreo: Conjunto de elementos técnicos diseñados para medir, de forma continua o puntual, la concentración de contaminantes en el aire, con el fin de evaluar la calidad del aire en un área determinada;
+León;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCI. Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma;
+LXXXIX. Tensoactivo: Propiedad de ciertos productos químicos que disminuye la tensión superficial, para aumentar la fuerza de adhesión de las partículas a una superficie;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCII. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
+XC. Torre meteorológica: Estructura diseñada para llevar a cabo el montaje de los equipos de medición de parámetros meteorológicos, que permiten conocer el comportamiento de la atmósfera por medio de mediciones directas de velocidad y dirección del viento, temperatura ambiente, humedad relativa, presión barométrica, radiación solar y precipitación pluvial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCIII. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+XCI. Transportador de banda: Máquina formada por una banda sin fin, plana o acanalada, que sirve para transportar, elevar o distribuir los materiales que se colocan sobre la misma;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCIV. Voladura: Acción efectuada para la fracturación o desprendimiento de materiales utilizando explosivos;
+XCII. Triturador, quebradora o molino: Máquina electromecánica que se utiliza para el resquebrajamiento del material, ya sea por impacto o por desgaste, corte o compresión, para reducir el tamaño del material utilizado en las diferentes etapas del proceso, ya sea primaría, secundaría, terciaría, etc.;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCV. Zona o área de restricción: Área en la que se restringe toda actividad de aprovechamiento. Ésta deberá de ser de al menos 500 metros, medidos a partir del límite de predio del que tenga propiedad o legitima posesión hacia el interior del mismo;
+XCIII. Unidad de monitoreo: Conjunto de elementos técnicos diseñados para medir, de forma continua o puntual, la concentración de contaminantes en el aire, con el fin de evaluar la calidad del aire en un área determinada;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCVI. Zona de escarpe: Ladera abrupta o a desplome, de altura variable, y con pendientes mayores a los 45°, que puede formarse por distintas causas: tectónicas, por la abrasión (erosión marina), por procesos gravitacionales, tecnógenos, y
+XCIV. Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XCVII. Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
+XCV. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+XCVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+XCVII. Voladura: Acción efectuada para la fracturación o desprendimiento de materiales utilizando explosivos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+XCVIII. Zona o área de restricción: Área en la que se restringe toda actividad de aprovechamiento. Ésta deberá de ser de al menos 500 metros, medidos a partir del límite de predio del que tenga propiedad o legitima posesión hacia el interior del mismo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+XCIX. Zona de escarpe: Ladera abrupta o a desplome, de altura variable, y con pendientes mayores a los 45°, que puede formarse por distintas causas: tectónicas, por la abrasión (erosión marina), por procesos gravitacionales, tecnógenos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+C. Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
 
 ###### Artículo 4.
 
@@ -953,6 +973,18 @@ II. Regular fuera de los centros de población los usos de suelo con el propósi
 
 III. Establecer los criterios de regulación ecológica para la preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes de desarrollo urbano correspondientes.
 
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2019)</small>
+
+IV.- Facilitar y coadyuvar con la Federación, el Estado y la Secretaría, la realización de inventarios de los recursos naturales con los que cuente el Municipio. Dicha información será integrada para su consulta, al Sistema Estatal de Información Ambiental y de Recursos Naturales, y algún otro que determinen las leyes de la materia.
+
+En materia de arbolado urbano, el Programa de Ordenamiento Ecológico Local, buscará que los inventarios se realicen de manera quinquenal, permitiendo identificar, cuantificar, clasificar y proteger a las especies de árboles situados en espacios públicos y bienes de dominio municipal privado, en términos de la ley de Gobierno Municipal, de 7.5 centímetros de grosor, medido a un metro con treinta centímetros de altura y mayores a ésta medida, de cada uno de sus respectivos territorios. Se podrá establecer el uso de herramientas tecnológicas que permitan la localización e identificación del arbolado de sus respectivos municipios.
+
+El inventario de arbolado urbano se aplicará en los municipios que integren la zona conurbada de Monterrey, y los demás municipios de acuerdo a su posibilidad presupuestal también podrán realizarlo. Por su parte, el inventario forestal, se realizará de acuerdo a lo que determine la Ley de la Materia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 25 DE MARZO DE 2019]</small>
+
+Los resultados de cada inventario, deberán ser publicados en la página de internet, en la gaceta del municipio, y serán integrados al Sistema Estatal de Información Ambiental y de Recursos Naturales para su consulta permanente.
+
 ###### Artículo 25.
 
 Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los Programas de Ordenamiento Ecológico Local, se sujetará a lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, atendiendo las bases siguientes:
@@ -1061,7 +1093,7 @@ III. El ahorro, aprovechamiento sustentable y la prevención de la contaminació
 
 IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, de acuerdo a lo previsto en los programas y planes de ordenamiento ecológico y de desarrollo urbano;
 
-V El establecimiento, manejo y vigilancia de áreas naturales protegidas;
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas;
 
 VI. Los programas de autorregulación voluntaria para el cumplimiento de la normatividad ambiental; y
 
@@ -2227,7 +2259,7 @@ V. Programa de mantenimiento.
 
 ###### Artículo 126 Bis 13.
 
-Cuando la Secretaría emita la alerta de contingencia atmosférica, en base a los niveles de calidad del aire contemplado en el Programa de Respuesta a Contingencias Atmosféricas, los lugares de aprovechamiento deberán suspender sus procesos durante las horas que dure la alerta respectiva, conforme lo disponga el mismo programa. Las personas físicas o morales que lleven a cabo las actividades a que se refiere el presente capítulo, tendrán de igual manera la obligación de consultar con la Secretaría, los mecanismos de difusión, de ésta y otras alertas, con la finalidad de que en forma conjunta los encargados del aprovechamiento y la Secretaría, presenten una mejor respuesta, durante el período de contingencia.
+Cuando la Secretaría emita la alerta de contingencia atmosférica, en base a los niveles de calidad del aire contemplado en el Programa de Respuesta a Contingencias Atmosféricas, los lugares de aprovechamiento deberán suspender sus procesos durante las horas que dure la alerta respectiva, conforme lo disponga el mismo programa. Las personas físicas o morales que lleven a cabo las actividades a que se refiere el presente capítulo, tendrán de igual manera la obligación de consultar con la Secretaria, los mecanismos de difusión, de ésta y otras alertas, con la finalidad de que en forma conjunta los encargados del aprovechamiento y la Secretaría, presenten una mejor respuesta, durante el período de contingencia.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2293,7 +2325,7 @@ Para la aplicación de las disposiciones contenidas en el presente capítulo, se
 
 I. Fuentes emisoras de contaminación atmosférica de competencia estatal:
 
-a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111bis de la Ley General;
+a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el articulo 111bis de la Ley General;
 
 b) Los bienes y zonas de competencia estatal;
 
@@ -2303,7 +2335,7 @@ d) Las señaladas en otros ordenamientos aplicables.
 
 II. Fuentes emisoras de contaminación atmosférica de competencia municipal:
 
-a) Los establecimientos comerciales o de servicios, excepto los sectores que sean competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
+a) Los establecimientos comerciales o de servicios, excepto los sectores que sean competencia exclusiva de la Federación establecidos en el artículo 111bis de la Ley General;
 
 b) Los bienes y zonas de competencia municipal;
 
@@ -2703,7 +2735,7 @@ En caso de que se contraten los servicios de manejo y disposición final de resi
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 172 Bis 1.
+###### Artículo 172 Bis 1.
 
 Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Secretaría mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
 
@@ -2947,9 +2979,21 @@ IV. Cuando generen o proyecten imágenes o símbolos distractores;
 
 V. Cuando ocasionen riesgo o peligro para la población;
 
-VI. Cuando obstruyan la visibilidad en túneles, puentes, pasos a desnivel, vialidades o señalamientos de tránsito; ó
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
 
-VII. Contravengan esta Ley u otros ordenamientos aplicables a la materia.
+VI. Cuando la peatonvía de las aceras se vea afectada por obstrucción u obstaculización, salvo aquellas estructuras anexas a la vía pública que permiten la espera de los usuarios del transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
+
+VII. Cuando se pretendan colocar en los camellones de las vías públicas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+VIII. Cuando obstruyan la visibilidad en túneles, puentes, pasos a desnivel, vialidades o señalamientos de tránsito; ó
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
+
+VIII (SIC). Contravengan esta Ley u otros ordenamientos aplicables a la materia.
 
 Los Municipios deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
 
@@ -3091,9 +3135,9 @@ La autoridad que tenga conocimiento de los hechos u omisiones señalados en el p
 
 ###### Artículo 206.
 
-La denuncia ciudadana podrá realizarse por cualquier ciudadano, mediante cualquiera de las siguientes vías: de forma verbal, por escrito, llamada telefónica, por correo electrónico que para tal efecto establezca la Secretaría o cualquier otro medio que la Secretaria estime conveniente; proporcionando como mínimo el denunciante:
+La denuncia ciudadana podrá realizarse por cualquier ciudadano, mediante cualquiera de las siguientes vías: de forma verbal, por escrito, llamada telefónica, por correo electrónico que para tal efecto establezca la Secretaría o cualquier otro medio que la Secretaría estime conveniente; proporcionando como mínimo el denunciante:
 
-l. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
+I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 
 II. Los hechos, acciones u omisiones denunciados; y
 
@@ -3163,9 +3207,9 @@ La formulación de la denuncia, así como los acuerdos, resoluciones y recomenda
 
 Los expedientes de denuncia ciudadana que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 
-l. Por incompetencia de la autoridad estatal ambiental para conocer de la denuncia planteada;
+I. Por incompetencia de la autoridad estatal ambiental para conocer de la denuncia planteada;
 
-ll. Por haberse dictado la recomendación correspondiente;
+II. Por haberse dictado la recomendación correspondiente;
 
 III. Cuando no existan contravenciones a la normatividad ambiental;
 
@@ -3918,3 +3962,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Desarrollo Sustentable dispondrá de un lapso de trescientos sesenta y cinco días posteriores a la entrada en vigor de este Decreto, para promover mediante campañas de difusión, la no utilización de popotes en los términos que se proponen en el presente Decreto, así como impulsar el uso de reusables, biodegradables orgánicos, y compostables.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 104. SE REFORMA POR ADICIÓN DE UNA FRACCIÓN IV EL ARTÍCULO 24 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios del Estado deberán prever dentro de su presupuesto de egresos, una partida suficiente para dar cumplimiento a esta disposición, valiéndose para el efecto de los recursos y el personal con que ya cuentan para el ejercicio fiscal 2019.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I A XCVI DEL ARTÍCULO 3; LAS FRACCIONES VI Y VII DEL ARTÍCULO 190; Y POR ADICIÓN LAS FRACCIONES XCVII, XCVIII, XCIX, C DEL ARTÍCULO 3, Y LA FRACCIÓN VIII DEL ARTÍCULO 190 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 170 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
