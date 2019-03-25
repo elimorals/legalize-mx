@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2018-06-18"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES -- ANTES LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN LA PRIMERA SECCIÓN DEL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA PRIMERA SECCIÓN DEL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -40,8 +42,6 @@ La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de 
 LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
 ### CAPITULO I. Disposiciones Generales
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -65,8 +65,6 @@ c).- Fomentar la participación así como apoyar la actividad de las organizacio
 
 Para los efectos de esta Ley se entiende por persona con discapacidad, aquella persona con algún impedimento físico o requerimiento especial, por padecer una alteración funcional prolongada o permanente, física o mental, que implique desventajas considerables para su integración familiar, escolar, socia, laboral, deportiva y política.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4°.
@@ -87,17 +85,17 @@ Las medidas contra la discriminación consisten en la prohibición de conductas 
 
 Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado, promover la interrelación sistemática de acciones en favor de las personas con discapacidad que lleven a cabo las instituciones públicas; además de operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de educación especial y asistencia social a este sector de la población.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+###### ARTICULO 6°.
 
-###### ARTICULO 6º.
+El Ejecutivo del Estado, a través del Instituto de Servicios de Salud, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Desarrollo Social, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
 
-El Ejecutivo del Estado, a través del Instituto de Servicios de Salud, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Bienestar y Desarrollo Social, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2019)</small>
 
-###### ARTICULO 7º.
+###### ARTICULO 7°.
 
-Se crea el Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad que estará sujeto al Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; el mismo, coordinará todas las acciones a favor de las personas con discapacidad, unificando los criterios de las instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios con otras instituciones procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin, el cual tendrá las siguientes atribuciones:
+Se crea el Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad que estará sujeto al Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; el mismo, coordinará todas las acciones a favor de las personas con discapacidad, unificando los criterios de las instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, acceso a conocimientos técnicos especializados en arte y cultura, acceso y disfrute de espacios y servicios culturales, acceso a cursos, talleres y capacitación formal para el trabajo y asesoría integral para apertura de micro y pequeña empresa de forma inclusiva, evitando duplicidad de servicios con otras instituciones procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin, el cual tendrá las siguientes atribuciones:
 
 I.- Proponer al Ejecutivo del Estado la unificación de criterios de las Instituciones que otorguen el servicio social a favor de las personas con discapacidad;
 
@@ -171,13 +169,21 @@ l).- Dos representantes de Cámaras Empresariales y de Servicios a invitación d
 
 m).- Dos representantes de organizaciones sociales de apoyo a personas con discapacidad a invitación del Presidente;
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-n).- El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado; y
+n).- El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-ñ).- El Presidente de la Comisión Estatal de Derechos Humanos.
+ñ).- El Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+o).- Un representante del Instituto de Infraestructura Física y Educativa; y
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+p).- Un representante del Instituto de Capacitación para el Trabajo.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
@@ -846,3 +852,11 @@ El presente Decreto iniciará su vigencia el día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se exhorta a los Ayuntamientos de los Municipios del Estado a realizar las Reformas a sus disposiciones reglamentarias a efecto de dar cumplimiento a lo dispuesto por este Decreto.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 127.- SE REFORMAN LOS ARTÍCULOS 6° Y 7° PRIMER PÁRRAFO, Y LOS INCISOS N) Y Ñ) DEL ARTÍCULO 8° DE LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
