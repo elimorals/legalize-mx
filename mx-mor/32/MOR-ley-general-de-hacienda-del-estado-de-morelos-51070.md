@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2019-01-02"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -2117,47 +2119,37 @@ II. Por el registro de admisión o reconocimiento de hijos: 3.00
 
 III. Por el registro de sentencias de adopciones: 6.50
 
-IV. Matrimonios:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+IV. Matrimonios:
 
 A) En las oficinas del Registro
 
 Civil, en días hábiles y dentro
 
-del horario autorizado: 12.24
+del horario autorizado: 15.00
 
 B) Fuera de las oficinas del registro civil:
 
-1. En días hábiles: 42.00
+1. En días hábiles: 45.00
 
-2. En días hábiles fuera del horario autorizado: 45.00
+2. En días hábiles fuera del horario autorizado: 48.00
 
-3. Sábados, domingos y días inhábiles: 51.00
+3. Sábados, domingos y días inhábiles: 55.00
 
 En las hipótesis contempladas en el inciso B) de la
 
-presente fracción, por cada evento, le corresponderá el 10%
+presente fracción, por cada evento, le corresponderá el 20%
 
 del cobro efectuado al funcionario competente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-C) Por la inscripción del cambio
-
-de régimen matrimonial: 9.64
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-D) Anotación marginal por virtud
-
-de divorcio judicial: 9.20
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 V. Anotación marginal por orden judicial: 7.79
 
-VI. Aclaración o rectificación de actas: 4.50
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
+
+VI. Aclaración o rectificación de actas: 2.50
 
 VII. Constancia de inexistencia de registros: 2.00
 
@@ -2189,15 +2181,15 @@ C) Registro de defunciones: 2.18
 
 D) Otro no especificado: 2.51
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 25 DE MARZO DE 2019)</small>
 
 X. Copia certificada de actas del estado de Morelos y de otras
 
 entidades del país:
 
-A) Expedición en las oficinas del Registro Civil 2.11
+A) Expedición en las oficinas del Registro Civil 1.00
 
-B) Emisión en línea (por internet) 2.11
+B) Emisión en línea (por internet) 1.00
 
 XI. Distribución de formatos a oficialías municipales del registro civil:
 
@@ -2239,11 +2231,15 @@ Los servicios de control vehicular se causarán y pagarán previamente por los i
 
 Tarifa en UMA
 
-I. Registro en el padrón vehicular estatal, con expedición de placas metálicas,
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
-tarjeta de circulación, engomado y holograma:
+I. Registro en el padrón vehicular estatal.
 
-A) Servicio Particular:
+A) Servicio particular, con expedición de placas
+
+metálicas, tarjeta de circulación, engomado
+
+y holograma:
 
 1. Autos: 10.00
 
@@ -2259,7 +2255,9 @@ A) Servicio Particular:
 
 7. Auto antiguo: 12.00
 
-B) Servicio público:
+B) Servicio público, con expedición de placas,
+
+tarjeta de circulación, engomado y holograma:
 
 1. Transporte de pasajeros sin itinerario fijo: 14.50
 
@@ -2270,6 +2268,16 @@ B) Servicio público:
 4. Por sustitución o reposición de placas para todo
 
 el servicio de transporte público: 14.50
+
+C) Servicio público, con expedición de tarjeta
+
+de circulación y holograma:
+
+1. Transporte de pasajeros sin itinerario fijo: 6.00
+
+2. Transporte de pasajeros con itinerario fijo: 6.00
+
+3. Carga en general: 6.00
 
 II. Refrendo anual de los derechos de control vehicular, con expedición de
 
@@ -2301,15 +2309,23 @@ B) Servicio público:
 
 III. Servicio de control vehicular para circular sin placas, tarjeta de circulación y engomado, otros servicios:
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2019)</small>
+
+A) Expedición de permisos provisionales para
+
+circular sin placas, tarjeta de circulación y
+
+engomado, para el servicio particular:
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-A) Expedición de permisos para circular sin placas, tarjeta
-
-de circulación y engomado, para el servicio particular:
 
 1. Para automóvil por treinta días: 1.30
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 2. Para camión por treinta días: 1.30
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 3. Para camión o automóvil por tres días: 1.00
 
@@ -2337,15 +2353,21 @@ G). Expedición o refrendo de gafete de operador del
 
 servicio público: 1.00
 
-H) Expedición de permisos para circular sin placas y
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
-engomado para el servicio público:
+H) Expedición de permisos provisionales para circular sin placas y engomado, para el servicio público:
 
-1. Permiso para circular, transporte público con itinerario fijo: 4.00
+1. Permiso o autorización para circular, transporte
 
-2. Permiso para circular, transporte público sin itinerario fijo: 4.00
+público con itinerario fijo: 4.00
 
-3. Permiso para circular, transporte público de carga: 4.00
+2. Permiso o autorización para circular, transporte
+
+público sin itinerario fijo: 4.00
+
+3. Permiso o autorización para circular, transporte
+
+público de carga: 4.00
 
 I) Sustitución de vehículo de servicio público con
 
@@ -2461,15 +2483,27 @@ itinerario fijo en cada ruta, por cada unidad vehicular: 9.00
 
 IX. Depósito y arrastre de vehículos:
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
+
 A) Protección y control de vehículos en depósito,
 
-pensión diaria: 0.50
+pensión diaria:
+
+1. Auto o Taxi 1.62
+
+2. Furgoneta 2.00
+
+3. Ruta 2.60
+
+4. Camión 3.35
 
 B) Por arrastre de grúas de un resguardo de vehículos a otro: 1.50
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
 C) Por arrastre de grúas en la vía pública en el
 
-Municipio de Cuernavaca, Morelos: 5.50
+municipio de Cuernavaca, Morelos: 8.70
 
 D) Por arrastre de grúas en la vía pública, fuera del
 
@@ -2479,7 +2513,9 @@ señalado en el inciso anterior de esta fracción,
 
 adicionando por cada kilómetro de arrastre la cantidad de: 0.50
 
-E) Inventario o resguardo de vehículos: 1.50
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
+E) Inventario o resguardo de vehículos: 2.70
 
 X. Certificación de revista mecánica para unidades
 
@@ -2505,61 +2541,67 @@ identificación cromática ni la visibilidad: 4.50
 
 D) En transporte público sin itinerario fijo por mes: 1.00
 
-XII. Registro anual de apoderado legal
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
 
-para trámites de control vehicular: 9.00
+XII. Registro anual de apoderado legal para
+
+trámites de servicio público de transporte: 9.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 XIII. Expedición de licencias para manejar vehículos:
 
 A) Con vigencia de un año:
 
-1. Chofer: 6.50
+1. Chofer: 6.90
 
-2. Automovilista: 4.50
+2. Automovilista: 4.90
 
-3. Motociclista: 4.00
+3. Motociclista: 4.40
 
-4. Turista: 6.00
+4. Turista: 6.40
 
 B) Con vigencia de tres años:
 
-1. Chofer: 8.00
+1. Chofer: 8.40
 
-2. Automovilista: 6.00
+2. Automovilista: 6.40
 
-3. Motociclista: 5.00
+3. Motociclista: 5.40
 
 C) Con vigencia de cinco años:
 
-1. Chofer: 9.50
+1. Chofer: 9.90
 
-2. Automovilista: 7.50
+2. Automovilista: 7.90
 
-3. Motociclista: 6.50
+3. Motociclista: 6.90
 
 D) Expedición de certificación para operar vehículos
 
 del servicio de transporte público:
 
-Con vigencia de tres años: 11.50
+1. Con vigencia de tres años: 11.90
 
-Con vigencia de cinco años: 15.00
+2. Con vigencia de cinco años: 15.40
 
-E) Expedición de permiso provisional para menores de 18 años:
+E) Expedición de permiso provisional para
 
-1. Automovilista: 5.50
+menores de 18 años:
 
-2. Motociclista: 6.00
+1. Automovilista: 5.90
+
+2. Motociclista: 6.40
 
 F) Reposición de licencia para manejar vehículos:
 
-1. Chofer: 3.00
+1. Chofer: 3.40
 
-2. Automovilista: 3.00
+2. Automovilista: 3.40
 
-3. Motociclista: 3.00
+3. Motociclista: 3.40
 
-4. Operador certificado: 3.00
+4. Operador certificado: 3.40
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2613,9 +2655,9 @@ VII.- Son responsable solidarios, los servidores públicos que sin cerciorarse d
 
 Artículo 84 BIS-2.- La falta de presentación de los avisos a que se refiere este Capítulo, dará lugar a la imposición de sanciones en términos de lo dispuesto por el Código Fiscal para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos· contenidos en la fracción I, del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la Secretaría de Hacienda.
+Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos contenidos en la fracción I, del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la Secretaría de Movilidad y Transporte.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2629,13 +2671,15 @@ Los servicios en materia de desarrollo sustentable causarán derechos y se pagar
 
 Tarifa en UMA
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
+
 I. En materia de calidad del aire:
 
 A) Fuentes fijas:
 
 1. Combustión a cielo abierto,
 
-por cada evento a realizar se pagará: 6.00
+por cada evento a realizar se pagará: 7.00
 
 B) Fuentes móviles:
 
@@ -2645,21 +2689,19 @@ B) Fuentes móviles:
 
 del holograma o constancia técnica de rechazo: 6.58
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+1.1. Servicio de verificación vehicular para los
 
-1.1. Servicio de verificación vehicular para los automóviles
+automóviles a los que les corresponda
 
-a los que les corresponda el holograma tipo E: EXENTO
+el holograma tipo E: 2.3757
 
-1.2. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+1.2. Por la reposición de holograma de
 
-1.3. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+verificación con independencia del tipo: 2.3757
 
-1.4. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+1.3. Por el trámite de la Certificación
 
-1.5. (DEROGADO, P.O. 16 DE JULIO DE 2017)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+de la Verificación Vehicular: 2.3757
 
 2. Por otorgamiento de autorización por
 
@@ -2671,7 +2713,7 @@ analizadores de gases:
 
 (tratándose de equipos para gasolina,
 
-gas licuado de petróleo y gas natural): 4,107.34
+gas licuado de petróleo y gas natural): 4,108.00
 
 2.2. Por cada línea de verificación
 
@@ -2679,7 +2721,7 @@ dual (tratándose de equipos para
 
 gasolina, gas licuado de petróleo y
 
-gas natural, así como diésel): 6,161.01
+gas natural, así como diésel): 6,162.01
 
 2.3. Por el refrendo de cada línea
 
@@ -2689,7 +2731,7 @@ equipos para gasolina, gas licuado
 
 de petróleo y gas natural) así como
 
-dual: 221.34
+dual: 222.00
 
 3. Certificación, acreditación y autorización
 
@@ -2699,25 +2741,21 @@ o instalar sistemas, equipos y dispositivos
 
 de control de emisiones: 72.00
 
-4. Por el alta de un técnico verificador de
+4. Por el alta de un Gerente, Supervisor,
 
-Centros de Verificación Vehicular: 8.50
+Técnico Verificador, Auxiliar Administrativo,
+
+Auxiliar Operativo y Técnico de Impresión: 9.00
 
 5. Por el trámite de la certificación de la
 
 verificación vehicular: 1.00
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+6. Multa por el incumplimiento de la
 
-6. Multa por el incumplimiento de la verificación vehicular obligatoria;
+verificación vehicular obligatoria
 
-o ser ostensiblemente contaminante y exceder los límites máximos permisibles.
-
-El pago de estas multas deberá cubrirse en un plazo no mayor de 15 días naturales,
-
-contados a partir de la fecha de la notificación correspondiente; dentro de este mismo plazo
-
-se deberá realizar y aprobar la verificación vehicular del vehículo automotor de que se trate. 19.87 a 25.00
+o ser ostensiblemente contaminante: 14.00
 
 II. En materia de impacto ambiental:
 
@@ -2729,67 +2767,131 @@ B) Por evaluación y autorización de informe
 
 preventivo: 112.50
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
+
 C) Por evaluación de la manifestación de
 
 impacto ambiental modalidad general:
 
-1. Considerando proyectos industriales,
+1. Considerando proyectos industriales en
 
-comerciales, de servicios, habitacionales,
+una superficie menor a 500 m2: 185.00
 
-de aprovechamiento, turísticos o
+2. Considerando proyectos industriales en
 
-agropecuarios en una superficie menor a
+una superficie de 500 m2 hasta una hectárea: 370.00
 
-una hectárea: 169.00
+3. Considerando proyectos comerciales
 
-2 Por cada hectárea adicional en la
+de un establecimiento en una superficie
+
+menor o igual a una hectárea: 240.00
+
+4. Considerando proyectos comerciales
+
+de dos o más establecimientos en una
+
+superficie menor o igual a una hectárea: 500.00
+
+5. Considerando proyectos de servicios
+
+en una superficie menor a una hectárea: 240.00
+
+6. Considerando proyectos habitacionales
+
+(desarrollo inmobiliario) en una superficie
+
+menor a una hectárea: 495.00
+
+7. Considerado (sic) proyectos de
+
+aprovechamiento de recursos abióticos en
+
+una superficie menor a una hectárea: 171.00
+
+8. Considerando proyectos turísticos
+
+en una superficie menor a una hectárea: 370.00
+
+9. Considerando proyectos agropecuarios
+
+en una superficie menor a una hectárea: 169.00
+
+10. Considerando proyectos agropecuarios,
+
+específicamente de invernaderos, en una
+
+superficie menor a una hectárea: 185.00
+
+11. Por cada hectárea adicional en la
 
 superficie del predio:
 
-2.1. Proyectos turísticos y agropecuarios: 170.00
+11.1. Proyectos turísticos 170.00
 
-2.2. Proyectos habitacionales, comerciales
+11.2. Proyectos habitacionales 213.00
 
-y de servicios: 213.00
+11.3. Proyectos industriales 248.00
 
-2.3. Proyectos industriales y de
+11.4. Proyectos Agropecuarios EXENTOS
 
-aprovechamiento: 248.00
+11.5. Proyectos Comerciales 213.00
 
-2.4. Por compensación ambiental, en proyectos
+11.6. Proyectos de Servicios 213.00
 
-donde la construcción sea mayor a los 200
+11.7. Proyectos de aprovechamiento
 
-metros cuadrados, se pagará adicionalmente
+de recursos abióticos: 248.00
 
-por cada metro cuadrado de construcción: 0.25
+11.8. Por compensación ambiental, en
+
+proyectos donde la construcción sea mayor
+
+a los 200 metros cuadrados, se pagará
+
+adicionalmente por cada metro cuadrado
+
+de construcción: 0.25
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 D) Por evaluación de la manifestación de
 
-impacto ambiental modalidad específica: 394.00
+impacto ambiental modalidad específica: 500.00
 
 1. Por cada hectárea adicional:
 
-1.1 Proyectos turísticos y agropecuarios: 353.00
+1.1. Proyectos turísticos: 353.00
 
-1.2 Proyectos habitacionales, comerciales
+1.2. Proyectos agropecuarios: 50.00
 
-y de servicios: 381.50
+1.3. Proyectos habitacionales: 381.50
 
-1.3 Proyectos industriales y de
+1.4. Proyectos comerciales: 381.50
 
-aprovechamiento: 424.00
+1.5. Proyectos de servicios: 381.50
+
+1.6. Proyectos industriales: 424.00
+
+1.7. Proyectos de aprovechamiento
+
+de recursos abióticos: 424.00
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 E) Por estudios de riesgo ambiental:
 
-1. Nivel uno: 56.50
+1. Nivel uno: 60.00
 
-2. Nivel dos: 71.00
+2. Nivel dos: 75.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
 F) Por la revalidación del resolutivo de
 
-impacto ambiental: 169.00
+impacto ambiental: 180.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 III. En materia de mejoramiento ecosistémico:
 
@@ -2797,9 +2899,19 @@ A) Venta de planta forestal de edad menor
 
 a un año, por unidad:
 
-1. En charola: 0.10
+1. En charola de un volumen
 
-2. En bolsa 15 x 25: 0.10
+de 170 ml. hasta 250 mil: 0.07
+
+2. En charola de un volumen
+
+de 320 ml. a 500 mil: 0.10
+
+3. En bolsa de un volumen
+
+de 0.5 litros y hasta 1.36 litros
+
+(tamaño de 15x25): 0.10
 
 B) Venta de planta forestal de edad mayor
 
@@ -2807,7 +2919,15 @@ a un año, por unidad:
 
 1. En charola: 0.10
 
-2. En bolsa 15 x 25: 0.25
+2. En bolsa con capacidad mayor
+
+a 1.36 litros (tamaño 15x25) y
+
+hasta 5.68 litros (tamaño 25x35): 0.30
+
+3. En bolsa de un volumen mayor a 5.68 litros
+
+(tamaño 25x35) 1.00
 
 C) Venta de planta frutal para
 
@@ -2831,15 +2951,13 @@ D) Venta de planta frutal a público
 
 en general (por unidad):
 
-1. Aguacate (Hass y selección Méndez): 1.00
+1. Aguacate (criollo): 0.25
 
-2. Limón persa: 1.00
+2. Limón persa: 0.50
 
 3. Naranja valencia: 1.00
 
-4. Higo Mission: 0.50
-
-5. Durazno (Diamante y Robin): 0.50
+4. Higo Mission: 0.20
 
 IV En materia de gestión integral de residuos:
 
@@ -2919,15 +3037,19 @@ por residuos sólidos urbanos y de manejo
 
 especial:
 
-6.1. Por hectárea contaminada: 27.50
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
+6.1. Por hectárea contaminada 60.00
 
 7. Plan de manejo de residuos sólidos
 
 urbanos y de manejo especial:
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
 7.1. Registro de plan de manejo de residuos
 
-sólidos urbanos y de manejo especial: 17.50
+sólidos urbanos y de manejo especial: 20.00
 
 7.2. Actualización cada tercer año posterior al
 
@@ -3229,9 +3351,11 @@ F) Copia certificada de plano:
 
 (por lado):
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
 2.1. Por cada 30 cm adicionales
 
-de ancho: 1.1922
+de ancho: 0.900
 
 2.2. Por cada 30 cm adicionales
 
@@ -3287,17 +3411,17 @@ o de vivienda) sobre un predio,
 
 parcela o polígono: 9.2728
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
 7. Sobre el potencial de
 
-redensificiación (poblacional
+densificiación (poblacional
 
 o de vivienda) sobre un predio,
 
 parcela o polígono (anexando
 
-planos arquitectónicos); con
-
-compatibilidades de uso de suelo: 10.5974
+planos arquitectónicos): 10.5974
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -3310,6 +3434,8 @@ A) Constancia de no requerimiento
 de impacto urbano o de impacto vial: 33.1170
 
 B) Dictamen de impacto urbano:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE MARZO DE 2019)</small>
 
 1. Apertura, prolongación y
 
@@ -3325,39 +3451,49 @@ así como para los centros de
 
 población que carezcan de ésta: 105.9743
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2019)</small>
+
 2. Autorización de fraccionamientos,
 
-condominios y conjuntos urbanos
+condominios y conjuntos urbanos que
 
-que utilicen políticas de
+pretendan beneficiarse con la descomposición
 
-redensificación focal y en las
+en más de dos rangos. Así como en las
 
-áreas aptas para el desarrollo
+áreas aptas para el desarrollo urbano para
 
-urbano para los proyectos iguales
+proyectos iguales o superiores a cien viviendas;
 
-o superiores a cien viviendas:
+de acuerdo con los siguientes criterios:
 
-2.1. Redensificación máxima
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
+2.1. Densificación máxima
 
 permitida que se encuentre en el
 
-rango de 1 a 50 viviendas: 112.5977
+rango de 100 a 200 viviendas: 112.5977
 
-2.2. Redensificación máxima
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-permitida que se encuentre en
-
-el rango de 51 a 100 viviendas: 132.4679
-
-2.3. Redensificación máxima
+2.2. Densificación máxima
 
 permitida que se encuentre en
 
-el rango de 101 a 500 viviendas: 198.7018
+el rango de 201 a 300 viviendas: 132.4679
 
-2.4. Redensificación máxima
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
+2.3. Densificación máxima
+
+permitida que se encuentre en
+
+el rango de 301 a 500 viviendas: 198.7018
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+
+2.4. Densificación máxima
 
 permitida que se encuentre en
 
@@ -3469,13 +3605,11 @@ construcción: 162.2731
 
 construcción en adelante:
 
-5.1. Edificación de oficinas,
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-bodegas, almacenes, despachos
+5.1. Edificación de oficinas, despachos y
 
-y consultorios, locales de
-
-comercios o servicios: 158.9615
+consultorios, locales de comercios o servicios. 158.9615
 
 5.2. Bodegas o almacenes: 185.4550
 
@@ -3543,17 +3677,13 @@ o comercial: 264.9358
 
 de terreno en adelante:
 
-7.1. Granjas, rastros, zoológicos,
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
 
-acuarios y jardines botánicos,
+7.1. Granjas, rastros, zoológicos, acuarios
 
-etnobotánicas, piscícolas, aviarios,
+y jardines botánicos, etnobotánicas, piscícolas,
 
-herbolarios, o locales que contengan
-
-de forma legal flora o fauna de
-
-cualquier especie: 397.4036
+aviarios o herbolarios: 397.4036
 
 7.2. Locales que contengan de
 
@@ -3645,7 +3775,21 @@ pasajeros: 397.40
 
 industriales: 635.85
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+C) Factibilidad urbana y ambiental
+
+de un predio o polígono: 33.1170
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+D) Factibilidad urbana y ambiental de
+
+un predio o polígono que incluya un
+
+proyecto arquitectónico determinado. 66.234
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 VIII. En materia del parque
 
@@ -3659,7 +3803,7 @@ estatal urbano barranca de
 
 Chapultepec:
 
-1. Admisión general: 0.1325
+1. Admisión general 0.1241
 
 2. Adultos mayores y personas
 
@@ -3677,15 +3821,15 @@ parque estatal urbano barranca de
 
 Chapultepec:
 
-1. Herpetario: 0.1325
+1. Herpetario: 0.1241
 
-2. Granjita paraíso: 0.1325
+2. Granjita paraíso: 0.1241
 
-3. Eco lanchas: 0.1325
+3. Eco lanchas: 0. 1241
 
-4. Tirolesa: 0.40
+4. Tirolesa: 0.3723
 
-5. Muro de escalar: 0.40
+5. Muro de escalar: 0.3723
 
 C) Atracciones propias del
 
@@ -3693,15 +3837,15 @@ parque estatal urbano barranca
 
 de Chapultepec:
 
-1. Tren: 0.1325
+1. Tren: 0.1241
 
-2. Cabaña: 0.1325
+2. Cabaña: 0.1241
 
-3. Planetario: 0.1325
+3. Planetario: 0.1241
 
-4. Eurobongie: 0.40
+4. Eurobongie: 0.3723
 
-5. Telaraña 0.1325
+5. Telaraña 0.1241
 
 D) Otros servicios del parque
 
@@ -3711,13 +3855,13 @@ Chapultepec:
 
 1. Acceso a trotapista de
 
-6:00 a 9:00 (corredores) 0.0265
+6:00 a 9:00 (corredores) 0.0249
 
 2. Acceso a trotapista de
 
 6:00 a 9:00 horas paquete
 
-de 30 días (corredores): 0.6624
+de 30 días (corredores): 0.6204
 
 3. Renta de local comercial
 
@@ -3728,6 +3872,30 @@ metro cuadrado): 1.50
 4. Exposiciones semifijas
 
 (por día): 2.50
+
+5. Exposiciones semifijas (por día),
+
+de exposiciones registrados (sic) en el
+
+Programa estatal Mercado Verde Morelos EXENTAS
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
+
+IX. En materia de protección al ambiente
+
+A) Copias certificadas de expedientes
+
+administrativos instaurados en la
+
+Procuraduría de Protección al Ambiente
+
+del estado de Morelos.
+
+1. Por la primera página. 0.2649
+
+2. A partir de la página 2 a la página 50, por página. 0.1325
+
+3. A partir de la página 51 en adelante, por páginas. 0.0662
 
 ###### Artículo 86.
 
@@ -4607,9 +4775,9 @@ la fracción anterior: 2.00
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO DÉCIMO SEXTO BIS
+### CAPÍTULO DÉCIMO SEXTO BIS
 
-DE LOS SERVICIOS EN MATERIA DEL REGISTRO DE ANTECEDENTES PENALES, DE EXPEDICIÓN DE CONSTANCIAS DE IDENTIFICACIÓN VEHICULAR, ASÍ COMO POR LA EXPEDICIÓN DE ACTAS ESPECIALES, COPIAS Y CERTIFICACIONES POR PARTE DE ASESORES JURÍDICOS O AGENTES DEL MINISTERIO PÚBLICO.
+DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -4647,7 +4815,9 @@ Por el servicio de vigilancia, inspección y control que las leyes en la materia
 
 Por la expedición de oficios de habilitación, así como de otras constancias necesarias, por parte de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, para la contratación de servidores públicos, se causarán y pagarán derechos por la cantidad equivalente a 1.50 UMA.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS NÚMERO 98, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2019, SE ADVIERTE LA MODIFICACIÓN AL PRESENTE CAPÍTULO, EN EL QUE SE PRECISA QUE ÚNICAMENTE QUEDARÁ INTEGRADO POR EL ARTÍCULO 108 TER; SIN EMBARGO, NO SE MENCIONA MODIFICACIÓN AL ARTÍCULO 108 BIS 1.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2019)</small>
 
 ### CAPITULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO
 
@@ -4677,7 +4847,7 @@ III. Constancia de identificación vehicular: 5.20
 
 IV. Actas especiales: 1.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE MARZO DE 2019)</small>
 
 ###### Artículo 108 Ter.
 
@@ -4697,15 +4867,21 @@ Concepto Tarifa
 
 en UMA
 
-I. Legalización de firmas: 2.50
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
+
+I. Legalización de firma para
+
+documentos escolares y otros: 3.00
 
 II. Certificación de firmas: 1.50
 
-III. Apostilla: 3.50
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
 
-IV. Apostilla de documentos
+III. Certificaciones 1.50
 
-notariales: 4.50
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
+
+IV. Apostilla para todos los documentos: 6.00
 
 V. Copias certificadas
 
@@ -5824,3 +6000,19 @@ CUARTA. El Poder Ejecutivo, a través de la Secretaría de Hacienda, deberá ver
 QUINTA. Se deja sin efectos el procedimiento de liquidación y extinción de los fideicomisos referidos en el Decreto número tres mil doscientos cincuenta que se deja sin efectos.
 
 SEXTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto."
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVENTA Y OCHO POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto por el que se aprueba el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal de 2019, entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial del estado de Morelos y deberán realizarse los ajustes presupuestarios que correspondan, a partir del 1 de enero de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
