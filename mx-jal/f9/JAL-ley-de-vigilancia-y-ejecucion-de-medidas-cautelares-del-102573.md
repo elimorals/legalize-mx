@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vigilancia-y-ejecucion-de-medidas-cautelares-del-102573"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-27"
-last_updated: "2014-09-27"
+last_updated: "2019-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE VIGILANCIA Y EJECUCION DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 27255/LXII/19, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VIGILANCIA Y EJECUCIÓN DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019 (ABROGADA).
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2014.
 
@@ -355,7 +357,7 @@ Cuando durante el proceso penal se determine la medida cautelar de someterse al 
 
 Internamiento en centro de salud u hospital psiquiátrico.
 
-La autoridad judicial podrá decretar el internamiento del imputado en centros de salud u hospitales psiquiátricos, cuando su estado de salud asi lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución en centros u hospitales públicos o privados, quien tomará en cuenta la elección del imputado o de sus representantes, y de acuerdo con sus posibilidades económicas, o bien, en caso de contar con algún sistema de seguridad social.
+La autoridad judicial podrá decretar el internamiento del imputado en centros de salud u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución en centros u hospitales públicos o privados, quien tomará en cuenta la elección del imputado o de sus representantes, y de acuerdo con sus posibilidades económicas, o bien, en caso de contar con algún sistema de seguridad social.
 
 Durante la ejecución de la medida, la Secretaría de Salud, informará periódicamente y, en su caso, podrá opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar dicha medida.
 
@@ -592,3 +594,21 @@ EL Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO 27255/LXII/19.]</small>
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Vigilancia y Ejecución de Medidas Cautelares del Estado de Jalisco.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27255/LXII/19 SE ABROGA LA LEY DE VIGILANCIA Y EJECUCIÓN DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO Y EXPIDE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos deberán realizar las adecuaciones a sus disposiciones reglamentarias a los términos de este decreto, dentro de los 60 días siguientes a su entrada en vigor.
+
+TERCERO. Los ayuntamientos deberán constituir sus Unidades de Medidas de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso dentro de los 90 días siguientes a la entrada en vigor de este decreto.
