@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2019-03-21"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -717,13 +717,17 @@ XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el 
 
 XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
 
-XVII. Coordinarse con la Federación, Estados y Municipios, en materia de combate a la corrupción; y
+XVII. Coordinarse con la Federación, Estados y Municipios, en materia de combate a la corrupción;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
 
-XVIII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XVIII. Auxiliar a la Unidad Estatal de Medidas Cautelares de conformidad a la Ley de Evaluación y Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+
+XIX. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2746,3 +2750,13 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27255/LXII/19 SE ABROGA LA LEY DE VIGILANCIA Y EJECUCIÓN DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO Y EXPIDE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos deberán realizar las adecuaciones a sus disposiciones reglamentarias a los términos de este decreto, dentro de los 60 días siguientes a su entrada en vigor.
+
+TERCERO. Los ayuntamientos deberán constituir sus Unidades de Medidas de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso dentro de los 90 días siguientes a la entrada en vigor de este decreto.
