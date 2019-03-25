@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2018-11-12"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -910,6 +910,30 @@ La atención materno-infantil se regirá por los principios de respeto a la dign
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 En caso de emergencia, la atención integral médica deberá ser de la manera más expedita posible, independientemente de que se haya realizado pago alguno, y/o éste se realice con recursos propios o mediante la contratación de seguros individuales o colectivos. Siendo que lo anterior incluirá en su caso, el traslado a la unidad médica u hospitalaria más cercana.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE MARZO DE 2019)</small>
+
+En el caso de la atención a embarazadas de bajo riesgo, ésta comprende recibir como mínimo cinco consultas prenatales, iniciando preferentemente en las primeras 8 semanas de gestación y/o prueba positiva de embarazo atendiendo lo siguiente:
+
+I.- Primera consulta: entre las 6 a las 8 semanas;
+
+II.- Segunda consulta: entre las 10 a las 13.6 semanas;
+
+III.- Tercera consulta: entre las 16 a las 18 semanas;
+
+IV.- Cuarta consulta: a las 22 semanas;
+
+V.- Quinta consulta: a las 28 semanas;
+
+VI.- Sexta consulta: a las 32 semanas;
+
+VII.- Séptima consulta: a las 36 semanas; y
+
+VIII.- Octava consulta: entre las 38 a las 41 semanas.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+Toda mujer embarazada que necesite atención obstétrica deberá ser atendida de manera inmediata y gratuita en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la Emergencia Obstétrica.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3592,3 +3616,11 @@ P.O. 12 DE NOVIEMBRE DE 2018.
 ###### ARTICULO ÚNICO.
 
 .- (sic) El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.- SE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
