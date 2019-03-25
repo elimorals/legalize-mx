@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2018-11-12"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -948,6 +948,30 @@ La atención materno-infantil se regirá por los principios de respeto a la dign
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 En caso de emergencia, la atención integral médica deberá ser de la manera más expedita posible, independientemente de que se haya realizado pago alguno, y/o éste se realice con recursos propios o mediante la contratación de seguros individuales o colectivos. Siendo que lo anterior incluirá en su caso, el traslado a la unidad médica u hospitalaria más cercana.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE MARZO DE 2019)</small>
+
+En el caso de la atención a embarazadas de bajo riesgo, ésta comprende recibir como mínimo cinco consultas prenatales, iniciando preferentemente en las primeras 8 semanas de gestación y/o prueba positiva de embarazo atendiendo lo siguiente:
+
+I.- Primera consulta: entre las 6 a las 8 semanas;
+
+II.- Segunda consulta: entre las 10 a las 13.6 semanas;
+
+III.- Tercera consulta: entre las 16 a las 18 semanas;
+
+IV.- Cuarta consulta: a las 22 semanas;
+
+V.- Quinta consulta: a las 28 semanas;
+
+VI.- Sexta consulta: a las 32 semanas;
+
+VII.- Séptima consulta: a las 36 semanas; y
+
+VIII.- Octava consulta: entre las 38 a las 41 semanas.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+Toda mujer embarazada que necesite atención obstétrica deberá ser atendida de manera inmediata y gratuita en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la Emergencia Obstétrica.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3633,131 +3657,13 @@ P.O. 12 DE NOVIEMBRE DE 2018.
 
 .- (sic) El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 22/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO TERCERO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD MADERO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 25 DE MARZO DE 2019.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de julio de dos mil dieciséis, con excepción de lo dispuesto en el artículo transitorio CUARTO, que entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.- SE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico para incorporar a éste al juzgado de Distrito con residencia en Ciudad Madero, y quedar como sigue:
-
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN TAMPICO Y CIUDAD MADERO.
-
-PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 11 al 18 de julio. Juzgado Noveno
-
-Del 18 al 25 de julio. Juzgado Décimo
-
-Del 25 de julio al 1 de agosto. Juzgado Décimo Tercero
-
-Del 1 al 8 de agosto. Juzgado Noveno
-
-Del 8 al 15 de agosto. Juzgado Décimo
-
-Del 15 al 22 de agosto. Juzgado Décimo Tercero
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforman los numerales SEGUNDO, fracción XIX, número 3; y CUARTO, fracción XIX, párrafo quinto del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a XVIII. …
-
-XIX. …
-
-1. a 2. …
-
-3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
-
-XX. a XXXII. …
-
-CUARTO. …
-
-I. a XVIII. …
-
-XIX. …
-
-…
-
-…
-
-…
-
-…
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
-
-XX. a XXXIII. …".
-
-D.O.F. 31 DE MAYO DE 2016.
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO, el cual iniciará su vigencia a partir de la aprobación del mismo.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito de Amparo y Juicios Federales en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, para quedar como sigue:
-
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE QUERÉTARO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE.
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL
-
-AÑO 2016 AL QUE CORRESPONDE
-
-LA GUARDIA
-
-Del 30 mayo al 6 de junio. Juzgado Tercero
-
-Del 6 al 13 de junio. Juzgado Cuarto
-
-Del 13 al 20 de junio. Juzgado Quinto
-
-Del 20 al 27 de junio. Juzgado Sexto
-
-Del 27 de junio al 4 de julio. Juzgado Séptimo
-
-Del 4 al 11 de julio. Juzgado Primero
-
-Del 11 al 18 de julio. Juzgado Segundo
-
-Del 18 al 25 de julio. Juzgado Tercero
-
-Del 25 de julio al 1 de agosto. Juzgado Cuarto
-
-Del 1 al 8 de agosto. Juzgado Quinto
-
-Del 8 al 15 de agosto. Juzgado Sexto
-
-Del 15 al 22 de agosto. Juzgado Séptimo
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a XXI. ...
-
-XXII ...
-
-1. a 2. ...
-
-3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
-
-XXIII. a XXXII. ...".
-
-D.O.F. 8 DE JUNIO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, COMPETENCIA Y FECHA DE INICIO DE FUNCIONES DEL DÉCIMO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO".]
 
