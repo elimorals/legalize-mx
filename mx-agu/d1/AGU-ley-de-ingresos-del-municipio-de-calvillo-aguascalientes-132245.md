@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-calvillo-aguascalientes-132245
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-24"
-last_updated: "2018-12-24"
+last_updated: "2019-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE CALVILLO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en la Edición Vespertina de la Quinta Sección al Número 52 del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2018.
 
