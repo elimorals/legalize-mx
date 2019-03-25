@@ -1,0 +1,782 @@
+---
+title: "LEY DE EVALUACION Y SUPERVISION DE MEDIDAS CAUTELARES Y SUSPENSION CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO"
+identifier: "JAL-ley-de-evaluacion-y-supervision-de-medidas-cautelares-y-134647"
+country: "mx"
+rank: "ley"
+publication_date: "2019-03-25"
+last_updated: "2019-03-25"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134647&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "134647"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "21 BIS EDICION ESPECIAL"
+reform_count: "2"
+scjn_last_update: "2020-08-06"
+issue_date: "2019-03-25"
+state: "JAL"
+---
+# LEY DE EVALUACION Y SUPERVISION DE MEDIDAS CAUTELARES Y SUSPENSION CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO
+
+LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Especial al Número 21 Bis del Periódico Oficial del Estado de Jalisco, el lunes 25 de marzo de 2019.
+
+Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
+
+Enrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+
+NÚMERO 27255/LXII/19 EL CONGRESO DEL ESTADO DECRETA:
+
+SE ABROGA LA LEY DE VIGILANCIA Y EJECUCIÓN DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO Y EXPIDE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO.
+
+###### ARTÍCULO PRIMERO.
+
+Se expide la Ley de Evaluación y Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso del Estado de Jalisco, para quedar como sigue:
+
+LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO.
+
+## Título Primero. Disposiciones Generales
+
+### Capítulo I
+
+Reglas Generales.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 1.
+
+Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Jalisco, tienen por objeto establecer las bases para proporcionar a las partes en el proceso penal acusatorio, información sobre los riesgos procesales que el imputado representa para la imposición y revisión de medidas cautelares distintas a la prisión preventiva; así como la supervisión y seguimiento de las mismas y de la suspensión condicional del proceso en el procedimiento penal de adultos Y DE JUSTICIA PARA ADOLESCENTES.
+
+De igual manera, establecerá la coordinación entre las autoridades encargadas de la aplicación de la presente ley.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EN TODO LO NO PREVISTO EN ESTA LEY, SE APLICARÁ SUPLETORIAMENTE SEGÚN CORRESPONDA, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, CÓDIGO CIVIL DEL ESTADO DE JALISCO, CÓDIGO DE COMERCIO Y DEMÁS NORMATIVIDAD APLICABLE.
+
+###### Artículo 2.
+
+Para efectos de esta Ley, se entenderá por:
+
+I. Código Nacional: El Código Nacional de Procedimientos Penales;
+
+II. Condiciones: Al sometimiento del imputado a una o varias de las condiciones a que se refiere el Código Nacional que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse pueda dar lugar a la extinción de la acción penal;
+
+III. Entrevista de Evaluación de Riesgo: La realizada por el área de evaluación de la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional, previa a la imposición de la medida cautelar;
+
+IV. Entrevista Inicial de Supervisión: La realizada por el área de supervisión de la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional que se utilizará para establecer el plan de supervisión de la medida cautelar o de supervisión de cumplimiento de las condiciones impuestas en la suspensión condicional del proceso;
+
+V. Evaluación de Riesgo: El Análisis de las circunstancias personales, laborales, socioeconómicas u otras que la autoridad determine acerca del imputado y que pudieran representar un peligro de sustracción, de obstaculización del desarrollo de la investigación, riesgo para la víctima, ofendido, testigos o para la comunidad a efecto de solicitar la medida cautelar idónea y proporcional a dicho imputado;
+
+VI. Ley: La Ley de Evaluación y Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso del Estado de Jalisco;
+
+VII. Medidas cautelares: Las restricciones de la libertad personal o de otros derechos previstas en el Código Nacional, las cuales son impuestas por el tiempo indispensable para asegurar la presencia del imputado en el proceso, garantizar la seguridad de la víctima, ofendido, testigo o evitar la obstaculización del mismo;
+
+VIII. Órgano jurisdiccional: El Juez de Control, Juez de Ejecución Penal, Tribunal de Enjuiciamiento o el Tribunal de Alzada que intervienen en el procedimiento;
+
+IX. Unidad Estatal: la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional dependiente de la Fiscalía Estatal;
+
+X. Unidades Municipales: Unidades Municipales Auxiliares de la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional del Proceso, creadas por los Ayuntamientos para cumplir con el objeto de esta ley; y
+
+XI. Instituciones Auxiliares: Aquellas instituciones tanto públicas como privadas que coadyuven con la Unidad Estatal o las Unidades Municipales en la ejecución de medidas cautelares y las condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional y que se sujetarán a lo dispuesto por la misma.
+
+###### Artículo 3.
+
+En la aplicación de la presente Ley se observarán como mínimo los principios siguientes:
+
+I. Presunción de Inocencia: Toda persona imputada se presume inocente, por lo que será considerada y tratada como tal para los efectos de esta Ley, mientras no se declare su responsabilidad mediante sentencia firme emitida por el Órgano Jurisdiccional;
+
+II. Igualdad: La Evaluación de Riesgo deberá desarrollarse sin distinción de ningún tipo, en razones de origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+III. Mínima afectación: deberán observarse las políticas menos intrusivas posibles para el imputado;
+
+IV. Objetividad: El proceso de evaluación deberá desarrollarse con base en información concreta y verificable;
+
+V. Imparcialidad y neutralidad: deberá desarrollarse objetivamente, sin inclinaciones a ninguna de las partes; y
+
+VI. Confidencialidad: Deberá garantizarse la debida reserva de la información y abstenerse de proporcionarla a terceros ajenos al propósito de esta Ley.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 4.
+
+Se garantizará al imputado el respeto de los derechos humanos que la Constitución Política de los Estados Unidos Mexicanos reconoce a su favor, los Tratados Internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Jalisco, el Código Nacional, esta Ley y demás disposiciones aplicables durante la ejecución y supervisión de las medidas cautelares y de la suspensión condicional del proceso.
+
+Toda persona que se encuentre cumpliendo alguna de las medidas cautelares o condiciones, a excepción de la prisión preventiva, podrá ejercer sus derechos políticos, civiles, sociales, económicos y culturales en los términos y modalidades que el juez haya fijado, salvo que sean incompatibles con el objeto del cumplimiento de la medida procesal o restringidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Jalisco y las disposiciones legales que de ellas emanen.
+
+### Capítulo II. De la intervención del órgano jurisdiccional
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 5.
+
+Solo el órgano jurisdiccional podrá imponer las medidas cautelares previstas en el Código Nacional, en los términos y con las finalidades que las mismas establecen.
+
+###### Artículo 6.
+
+Toda resolución judicial que imponga, revoque, sustituya o modifique una medida cautelar o las condiciones de la suspensión condicional del proceso, deberá ser remitida de inmediato por el órgano jurisdiccional a la Unidad Estatal para que esta a su vez, se coordine con las Unidades Municipales y en su caso con las Instancias Auxiliares para su ejecución, supervisión y seguimiento.
+
+### Capítulo III. Autoridades relacionadas con la aplicación de la Ley
+
+###### Artículo 7.
+
+Corresponde al Poder Ejecutivo a través de la Fiscalía Estatal y por conducto de la Unidad Estatal, coordinar y dirigir las acciones relativas a la evaluación de riesgos, ejecución, supervisión y seguimiento de las medidas cautelares y las condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional.
+
+###### Artículo 8.
+
+La comunicación entre el órgano jurisdiccional que decrete la medida cautelar o la suspensión condicional del proceso y las autoridades responsables de la evaluación de riesgos, ejecución, supervisión y seguimiento, así como las que presten auxilio para ello, se llevará a cabo por conducto de la Unidad Estatal.
+
+###### Artículo 9.
+
+Los Ayuntamientos a través de sus Unidades Municipales e instituciones policiales, auxiliarán a la Fiscalía Estatal en la ejecución, supervisión y seguimiento de las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional, cuando se trate de imputados que residan dentro de su extensión territorial, en los casos previstos en esta Ley.
+
+###### Artículo 10.
+
+Las partes podrán solicitar directamente a la Unidad Estatal la elaboración de la evaluación de riesgos.
+
+La Unidad Estatal al recibir la resolución judicial que imponga, revoque, sustituya o modifique una medida cautelar o las condiciones de la suspensión condicional del proceso de un imputado, se podrá auxiliar con la Unidad Municipal en cuya extensión territorial resida el imputado, remitiéndole copia certificada para la ejecución, supervisión y seguimiento de las mismas.
+
+###### Artículo 11.
+
+Toda información relativa a las solicitudes de elaboración de evaluaciones de riesgos, así como aquélla derivada de una resolución judicial que imponga, revoque, sustituya o modifique una medida cautelar o las condiciones de la suspensión condicional del proceso de un imputado, deberá concentrarse en una base de datos que estará a cargo de la Unidad Estatal.
+
+Las Unidades Municipales deberán entregar inmediatamente a la Unidad Estatal los informes requeridos para la elaboración de evaluaciones de riesgos. De igual manera, informarán periódicamente el seguimiento y la supervisión de las medidas cautelares y de la suspensión condicional del proceso. Lo anterior, con independencia de informar de manera inmediata el cumplimiento o incumplimiento de las mismas, en términos de las disposiciones establecidas en la Ley General del Sistema Nacional de Seguridad Pública.
+
+###### Artículo 12.
+
+Las Unidades Municipales que auxilien en la elaboración de las evaluaciones de riesgos o en el seguimiento y la supervisión de las medidas cautelares y de la suspensión condicional del proceso se regirán por el o los protocolos que al efecto emita la Unidad Estatal y lo dispuesto en el código nacional de procedimientos penales.
+
+###### Artículo 13.
+
+Las Instancias Auxiliares colaborarán con las autoridades de esta Ley, en las siguientes acciones:
+
+I. Ejecución, supervisión y seguimiento de las medidas cautelares y de la suspensión condicional del proceso impuestas por el órgano jurisdiccional, en la forma y términos previstos por la ley, y de acuerdo a la naturaleza y modalidades específicas de las mismas;
+
+II. Elaboración en conjunción con la Unidad Estatal de programas y protocolos orientados a la eficacia y cumplimiento de las medidas cautelares y condiciones a su cargo;
+
+III. Informar a la Unidad Estatal o Municipal sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada en relación con la ejecución, supervisión y seguimiento de las medidas cautelares y de la suspensión condicional del proceso cuya aplicación o vigilancia les hubiere sido encomendada; y
+
+IV. Las demás que señale esta Ley o la normatividad aplicable.
+
+###### Artículo 14.
+
+Corresponderá a la Secretaría General de Gobierno, el auxilio en la ejecución, durante el proceso penal, de las medidas cautelares o condiciones de:
+
+I. Prohibición de salir sin autorización del país;
+
+II. La suspensión temporal en el ejercicio del cargo cuando se le atribuya un delito cometido por servidores públicos; y
+
+III. La suspensión temporal en el ejercicio de una determinada actividad profesional o laboral.
+
+###### Artículo 15.
+
+La Secretaría de la Hacienda Pública, auxiliará en la ejecución durante el proceso penal de las medidas cautelares siguientes:
+
+I. Garantía económica; y
+
+II. Embargo de bienes.
+
+###### Artículo 16.
+
+La Secretaría de Educación, durante el proceso penal, auxiliará en la ejecución de la condicionante consistente en aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez de control.
+
+###### Artículo 17.
+
+La Secretaría del Trabajo y Previsión Social, auxiliará en la ejecución durante el proceso penal de las condicionantes siguientes:
+
+I. Prestar servicio social a favor del Estado o de Instituciones de Beneficencia Pública;
+
+II. Tener un trabajo o empleo o adquirir en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia; y
+
+III. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez de control.
+
+###### Artículo 18.
+
+La Secretaría de Salud auxiliará en la ejecución durante el proceso penal, de las medidas cautelares o condiciones siguientes:
+
+I. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
+
+II. Participar en programas especiales para la prevención y el tratamiento de adicciones;
+
+III. Someterse a tratamiento médico o psicológico; y
+
+IV. Sometimiento al cuidado o vigilancia por una institución determinada o internamiento a institución determinada.
+
+###### Artículo 19.
+
+La Secretaría de Seguridad, auxiliará en la ejecución durante el proceso penal de la medida cautelar consistente en la colocación de localizadores electrónicos.
+
+###### Artículo 20.
+
+Las instituciones policiales del Estado y de los Municipios, en el ámbito de su competencia, auxiliarán en la ejecución, evaluación y supervisión, durante el proceso penal, de las medidas cautelares o condiciones de:
+
+I. Prohibición de salir sin autorización de la localidad en la cual reside o del ámbito territorial que fije el juez;
+
+II. Sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento a institución determinada;
+
+III. Prohibición de concurrir a determinadas reuniones o acercarse a ciertos lugares;
+
+IV. Prohibición de convivir, acercarse o comunicarse con determinadas personas, con las víctimas u ofendidos o testigos, siempre que no se afecte el derecho de defensa;
+
+V. Separación inmediata del domicilio;
+
+VI. El resguardo en su propio domicilio con las modalidades que el Juez disponga;
+
+VII. Residir en un lugar determinado;
+
+VIII. Frecuentar o dejar de frecuentar determinados lugares o personas;
+
+IX. Someterse a la vigilancia que determine el juez;
+
+X. No poseer ni portar armas;
+
+XI. No conducir vehículos; y
+
+XII. Cualquier otra condición que, a juicio del órgano jurisdiccional, logre una efectiva tutela de los derechos de la víctima.
+
+## Título Segundo. De la Unidad Estatal de Medidas Cautelares y de Suspensión Condicional del Proceso
+
+### Capítulo I. Estructura y Atribuciones
+
+###### Artículo 21.
+
+Corresponde a la Unidad Estatal:
+
+I. Vigilar que el mandato del órgano jurisdiccional en materia de medidas cautelares y de suspensión condicional del proceso sea debidamente cumplido;
+
+II. Recopilar, sistematizar, resguardar y retransmitir a través de una base de datos el seguimiento al cumplimiento de las medidas cautelares distintas a la prisión preventiva y la suspensión condicional del proceso;
+
+III. Informar al Ministerio Público y al Juez que dictó la medida, el cambio de las circunstancias de origen, las violaciones a las medidas y condiciones impuestas que estén debidamente verificadas, y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+
+IV. Mantener actualizada la base de datos sobre las medidas cautelares y condiciones impuestas, su seguimiento y conclusión;
+
+V. Solicitar y proporcionar información a las oficinas con funciones similares dentro de sus respectivos ámbitos de competencia;
+
+VI. Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares en sus respectivos ámbitos de competencia;
+
+VII. Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+VIII. Observar y aplicar lo establecido por el Código Nacional y la demás normatividad aplicable en la materia; y
+
+IX. Las demás que establezca la normatividad aplicable.
+
+###### Artículo 22.
+
+Además de lo señalado en el artículo anterior la Unidad Estatal tendrá las siguientes atribuciones:
+
+I. Realizar la evaluación de riesgo procesal, así como la evaluación y supervisión de medidas cautelares distintas a la prisión preventiva y la suspensión condicional del proceso;
+
+II. Proporcionar al Ministerio Público la información recabada con motivo de la evaluación de riesgo, en los términos que dispone el Código Nacional;
+
+III. Coordinarse con las áreas competentes, para tener acceso a los sistemas y bases de datos del Sistema Nacional de Información, registros públicos y demás relativos;
+
+IV. Proponer convenios de colaboración y coordinación con instituciones públicas, privadas, académicas nacionales e internacionales, de investigación y otras especialidades en materia de medidas cautelares y suspensión condicional del proceso; y
+
+V. A través de su titular, expedir certificaciones de los documentos existentes en el archivo a su cargo.
+
+### Capítulo II. De la evaluación de riesgos
+
+###### Artículo 23.
+
+La evaluación de riesgo es el análisis de las circunstancias personales, laborales, socioeconómicas u otras que la autoridad determine acerca del imputado y que pudieran representar un peligro de sustracción, de obstaculización del desarrollo de la investigación, riesgo para la víctima, ofendido, testigos o para la comunidad, a efecto de solicitar la medida cautelar idónea y proporcional a dicho imputado.
+
+###### Artículo 24.
+
+El procedimiento de evaluación de riesgo tiene por objeto proporcionar a las partes, la información objetiva y de calidad, necesaria para que el órgano jurisdiccional, a petición de las partes, pueda imponer, confirmar, modificar o revocar según el caso, la medida cautelar.
+
+Para los efectos de este artículo, se entenderá que la información es relevante en la medida en que contenga datos concretos relacionados con los criterios de riesgo procesal que señala el Código Nacional.
+
+La información proporcionada a las partes es de calidad cuando la veracidad de los datos proporcionados por el imputado fue verificada por la autoridad.
+
+###### Artículo 25.
+
+Previo a la imposición o modificación de medidas cautelares, el personal de la Unidad Estatal realizará, conforme a los protocolos establecidos, una evaluación de riesgo, para lo cual entrevistará al imputado, recabará información adicional y realizará tareas de verificación de los datos proporcionados.
+
+En caso de que sea necesario decidir sobre la necesidad de la revisión de las medidas cautelares, la Unidad Estatal proporcionará a las partes, la información necesaria para ello, de modo que puedan hacer la solicitud correspondiente al Órgano jurisdiccional.
+
+###### Artículo 26.
+
+La Unidad Estatal, encargada de la realización de la evaluación de riesgos procesales, se auxiliará de las instituciones públicas y privadas, para obtener la información necesaria para el eficaz cumplimiento de sus atribuciones.
+
+###### Artículo 27.
+
+La evaluación podrá ser entregada por escrito o por cualquier medio electrónico con la debida oportunidad al Ministerio Público, con el objeto de ser analizadas y formuladas, en su caso, las solicitudes que consideren pertinentes en la audiencia. En caso de urgencia, la evaluación podrá hacerse de manera verbal en audiencia ante el Juez de Control, con la presencia de las partes.
+
+### Capítulo III. Del área de evaluación de riesgos
+
+###### Artículo 28.
+
+El área encargada de la evaluación de riesgos deberá:
+
+I. Entrevistar al imputado previo a la discusión de imposición o modificación de cualquier medida cautelar, con el objeto de obtener información relevante para decidir sobre la necesidad de imponer las medidas cautelares y su idoneidad. Antes de empezar la entrevista, el funcionario debe hacerle saber al imputado el objetivo de la misma, que tiene derecho a que su defensor esté presente durante la entrevista, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada en la investigación. La entrevista se podrá llevar a cabo sin la presencia del defensor, al cual puede renunciar ya que no se trata de un acto procesal sino administrativo.
+
+Inmediatamente que la autoridad encargada de la elaboración de la evaluación de riesgos sea notificada por el Ministerio Público de una detención por flagrancia, caso urgente, o se ejecute una orden de aprehensión, se comunicará con la institución a la que será remitido el imputado, con la finalidad de solicitar que le faciliten sus instalaciones con un área determinada que cuente con los medios electrónicos necesarios y suficientes para llevar a cabo la entrevista, la cual podrá realizarse directamente o a través del sistema de comunicación a distancia o videoconferencia, antes de la discusión de imposición o modificación de una medida cautelar;
+
+II. Verificar la información proporcionada por el imputado y recolectar aquella otra que sea relevante, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales;
+
+III. Una vez recabada la información del imputado y realizadas las tareas de verificación que resulten procedentes, el entrevistador elaborará la evaluación de riesgo emitiendo la opinión técnica en la que se consigne el grado de riesgo que representa el imputado para el desarrollo de la investigación del delito, el riesgo o peligro que pueda correr la víctima o terceros, así como el riesgo de no comparecencia;
+
+IV. Entregar al Ministerio Público, la información que le requiera, en términos del Código Nacional;
+
+V. Elaborar reportes que contengan la información recabada en sus indagaciones y su evaluación de riesgo;
+
+VI. Entregar al área de supervisión la información sobre la evaluación de riesgos de los imputados;
+
+VII. Diseñar, modificar y evaluar los formatos e instrumentos de trabajo cuando así lo amerite de acuerdo a estándares objetivos;
+
+VIII. El área de evaluación de riesgos podrá apoyarse para la obtención de información de las oficinas con funciones similares de la Federación o de las entidades federativas y sus municipios, en sus respectivos ámbitos de competencia; y
+
+IX. Las demás que establezcan los instrumentos normativos aplicables.
+
+###### Artículo 29.
+
+La entrevista se llevará a cabo en idioma español. En caso de que el imputado no hable o no entienda el idioma español, deberá ser asistido por traductor o intérprete para comunicarse con el entrevistador.
+
+Si se trata de una persona con algún tipo de discapacidad que le impida comunicarse, tiene derecho a que se le facilite un intérprete o aquellos medios tecnológicos que le permitan obtener de forma comprensible la información solicitada o, a falta de éstos, a alguien que sepa comunicarse con ella.
+
+En ningún caso las partes o testigos podrán ser traductores o intérpretes.
+
+###### Artículo 30.
+
+Para incentivar que el imputado suministre información veraz y completa, se le informará que dicha información no podrá ser usada para demostrar su participación en la conducta antisocial que se le atribuye.
+
+###### Artículo 31.
+
+La solicitud que realicen las partes de practicar la evaluación de riesgo al imputado, deberá presentarse ante la Unidad Estatal o en las Unidades Municipales en cuyo municipio resida el imputado o por cualquier medio electrónico.
+
+###### Artículo 32.
+
+La autoridad que elabore la evaluación de riesgos, se auxiliará de las Instituciones policiales estatales y municipales y del Ministerio Público para obtener la información necesaria para el eficaz cumplimiento de sus atribuciones y dará las facilidades para que su personal realice las entrevistas con oportunidad y en condiciones de confidencialidad y respeto.
+
+### Capítulo IV. Del área de Supervisión de Medidas Cautelares y de Suspensión Condicional del Proceso
+
+###### Artículo 33.
+
+El área de supervisión dará seguimiento a las medidas cautelares distintas a la prisión preventiva impuestas por el órgano jurisdiccional y vigilará el estricto cumplimiento de las condiciones impuestas al imputado en el caso de la suspensión condicional del proceso, debiendo informar a las partes y a aquél sobre cualquier cambio que considere que amerita una revisión de las mismas.
+
+###### Artículo 34.
+
+El área de supervisión deberá:
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I. SUPERVISAR Y DAR SEGUIMIENTO A LAS MEDIDAS CAUTELARES IMPUESTAS POR EL ÓRGANO JURISDICCIONAL DISTINTAS A LA PRISIÓN PREVENTIVA Y LAS CONDICIONES A CARGO DEL IMPUTADO EN CASO DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO, VIGILAR EL ESTRICTO CUMPLIMIENTO POR PARTE DEL IMPUTADO DE LAS CONDICIONES IMPUESTAS Y HACER RECOMENDACIONES SOBRE CUALQUIER CAMBIO QUE AMERITE ALGUNA MODIFICACIÓN DE LAS MISMAS;
+
+II. Entrevistar al imputado, una vez impuestas la medida cautelar o las condiciones de la suspensión condicional del proceso, para corroborar datos, recabar información adicional e informarle sobre las medidas o condiciones impuestas, los beneficios de cumplimiento y las consecuencias de incumplimiento.
+
+Durante la entrevista inicial de supervisión, se informará al imputado las actividades específicas del área de supervisión y sus efectos. La información que proporcione sólo podrá utilizarse para preparar el plan de supervisión;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+III. ENTREVISTAR PERIÓDICAMENTE A LA VÍCTIMA O TESTIGO DEL DELITO, CON EL OBJETO DE DAR SEGUIMIENTO AL CUMPLIMIENTO DE LA MEDIDA CAUTELAR IMPUESTA O LAS CONDICIONES DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO Y CANALIZARLOS, EN SU CASO, A LA AUTORIDAD CORRESPONDIENTE;
+
+IV. Diseñar el plan de supervisión a mediano y largo plazo, donde se establezcan las acciones de supervisión; además, establecer las condiciones y periodicidad en que los imputados deben cumplir con la resolución judicial, sin modificar sus alcances y naturaleza;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+V. CANALIZAR A LOS IMPUTADOS A SERVICIOS SOCIALES DE ASISTENCIA, PÚBLICOS O PRIVADOS, EN MATERIA DE SALUD, EMPLEO, EDUCACIÓN, VIVIENDA Y APOYO JURÍDICO CUANDO LA MODALIDAD DE LA MEDIDA CAUTELAR O DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO IMPUESTA POR LA AUTORIDAD JUDICIAL ASÍ LO REQUIERA;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VI. REALIZAR VISITAS NO ANUNCIADAS EN LOS DOMICILIOS O LUGARES DE TRABAJO DE LOS IMPUTADOS;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VII. VERIFICAR LA LOCALIZACIÓN DEL IMPUTADO EN SU DOMICILIO O EN EL LUGAR DONDE SE ENCUENTRE, CUANDO LA MODALIDAD DE LA MEDIDA CAUTELAR O LA CONDICIÓN DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO IMPUESTA POR EL ÓRGANO JURISDICCIONAL ASÍ LO REQUIERA;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VIII. REQUERIR QUE LOS IMPUTADOS PROPORCIONEN MUESTRAS SIN PREVIO AVISO PARA DETECTAR EL POSIBLE CONSUMO DE ALCOHOL, EN SU CASO, O DE DROGAS PROHIBIDAS O EL RESULTADO DEL EXAMEN DE LAS MISMAS EN SU CASO, CUANDO LA MODALIDAD DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO IMPUESTA POR LA AUTORIDAD JUDICIAL ASÍ LO REQUIERA;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IX. SUPERVISAR QUE LAS PERSONAS E INSTITUCIONES PÚBLICAS O PRIVADAS A LAS QUE EL ÓRGANO JURISDICCIONAL ENCARGUE EL CUIDADO DEL IMPUTADO, CUMPLAN LAS OBLIGACIONES CONTRAÍDAS;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+X. Recabar DEL IMPUTADO O de cualquier institución auxiliar de la supervisión de la medida cautelar, la información necesaria para la elaboración de los reportes sobre el cumplimiento de las medidas cautelares o de las condiciones de la suspensión condicional del proceso;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XI. PROPORCIONAR INFORMACIÓN AL MINISTERIO PÚBLICO Y AL JUEZ QUE DICTÓ LA MEDIDA SOBRE EL CAMBIO DE LAS CIRCUNSTANCIAS QUE ORIGINARON LA IMPOSICIÓN DE LA MEDIDA CAUTELAR A EFECTO DE QUE, EN SU CASO, SOLICITE SU MODIFICACIÓN AL ÓRGANO JURISDICCIONAL;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XII. INFORMAR AL MINISTERIO PÚBLICO Y AL JUEZ QUE DICTÓ LA MEDIDA, DE MANERA INMEDIATA, LOS INCUMPLIMIENTOS DE LAS MEDIDAS CAUTELARES Y CONDICIONES IMPUESTAS QUE ESTÉN DEBIDAMENTE VERIFICADAS Y PUEDAN IMPLICAR LA MODIFICACIÓN O REVOCACIÓN DE LA MEDIDA O SUSPENSIÓN CONDICIONAL DEL PROCESO Y SUGERIR LAS MODIFICACIONES QUE ESTIME PERTINENTES;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XIII. REVISAR LAS BASES DE DATOS Y DOCUMENTOS PARA VERIFICAR EL CUMPLIMIENTO DE LAS MEDIDAS CAUTELARES O CONDICIONES IMPUESTAS, CUANDO ASÍ LO AMERITE;
+
+XIV. Continuar con la supervisión de las medidas cautelares y de la suspensión condicional del proceso hasta que el órgano jurisdiccional informe sobre la conclusión de las mismas;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XV. MANTENER ACTUALIZADA LA BASE DE DATOS SOBRE LAS MEDIDAS CAUTELARES Y CONDICIONES IMPUESTAS, SU SEGUIMIENTO Y CONCLUSIÓN;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XVI. APOYARSE PARA LA OBTENCIÓN DE INFORMACIÓN DE LAS OFICINAS CON FUNCIONES SIMILARES DE LA FEDERACIÓN O DE LAS ENTIDADES FEDERATIVAS Y SUS MUNICIPIOS, EN SUS RESPECTIVOS ÁMBITOS DE COMPETENCIA;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XVII. SUPERVISAR Y EJECUTAR LAS SOLICITUDES DE APOYO PARA LA OBTENCIÓN DE INFORMACIÓN QUE LE REQUIERAN LAS OFICINAS CON FUNCIONES SIMILARES DE LA FEDERACIÓN O DE ENTIDADES FEDERATIVAS DENTRO DE SUS RESPECTIVOS ÁMBITOS DE COMPETENCIA;
+
+XVIII. Diseñar, modificar y evaluar los formatos e instrumentos de trabajo cuando así lo amerite de acuerdo a los estándares objetivos;
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XIX. DAR AVISO INMEDIATAMENTE Y POR CUALQUIER MEDIO, AL ÓRGANO JURISDICCIONAL, SI EL IMPUTADO ES SORPRENDIDO INFRINGIENDO UNA MEDIDA CAUTELAR EN TÉRMINOS DE LO DISPUESTO POR EL CÓDIGO NACIONAL;
+
+XX. Previo al vencimiento del plazo establecido por el órgano jurisdiccional para el cumplimiento de la suspensión condicional del proceso, deberá informar sobre el debido cumplimiento o incumplimiento de las condiciones impuestas; y
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XXI. LAS DEMÁS QUE ESTABLEZCAN LOS INSTRUMENTOS NORMATIVOS APLICABLES.
+
+### Capítulo V. Confidencialidad
+
+###### Artículo 35.
+
+El imputado tiene derecho a la protección de sus datos personales en términos de la legislación de la materia y sólo podrán ser proporcionados a las autoridades encargadas del seguimiento de la medida cautelar para los fines de la supervisión de su cumplimiento o a la persona que autorice el imputado.
+
+## Título Tercero. De la ejecución de las Medidas Cautelares
+
+### Capítulo I. De la presentación periódica ante la autoridad judicial o ante autoridad distinta
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 36.
+
+Al dictarse la medida cautelar de presentación periódica ante la autoridad judicial, el imputado concurrirá ante el órgano jurisdiccional que corresponda, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 37.
+
+Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el imputado concurrirá ante la autoridad que el órgano jurisdiccional haya designado, con la periodicidad que se hubiese establecido.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 38.
+
+La presentación a que se refieren los artículos anteriores se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el órgano jurisdiccional, lo que se ejecutará, previa orden judicial, por personal adscrito a la Secretaría de Seguridad o por las Instituciones Policiales de los Ayuntamientos.
+
+Al dictarse la medida, el órgano jurisdiccional dará aviso inmediato a la unidad Estatal y está a su vez se coordinará con las Unidades Municipales a efecto de estar en posibilidades de ejecutarla.
+
+En cualquier supuesto, la autoridad responsable designada en cada caso, informará oportunamente a las partes sobre el cumplimiento o incumplimiento de la medida; en caso de incumplimiento, el Ministerio Público deberá solicitar la audiencia de revisión de medidas.
+
+### Capítulo II. De las Garantías Económicas
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 39.
+
+CUANDO SE CONSTITUYA UNA GARANTÍA ECONÓMICA, ÉSTA DEBERÁ CUMPLIR CON LAS FORMAS QUE AL EFECTO EXIJAN LAS LEYES APLICABLES Y SERÁ BENEFICIARIA LA SECRETARÍA DE LA HACIENDA PÚBLICA DEL GOBIERNO DEL ESTADO.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+LAS GARANTÍAS PODRÁN CONSTITUIRSE DE LA SIGUIENTE MANERA:
+
+I. DEPÓSITO EN EFECTIVO;
+
+II. FIANZA DE INSTITUCIÓN AUTORIZADA;
+
+III. HIPOTECA;
+
+IV. PRENDA;
+
+V. FIDEICOMISO, O
+
+VI. CUALQUIER OTRA QUE A CRITERIO DEL JUEZ DE CONTROL CUMPLA SUFICIENTEMENTE CON ESTA FINALIDAD.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+ESTAS GARANTÍAS SE REGIRÁN POR LAS REGLAS GENERALES PREVISTAS POR LA LEGISLACIÓN PROCESAL EN MATERIA CIVIL VIGENTE Y DEMÁS LEGISLACIONES APLICABLES.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 40.
+
+Cuando, durante el proceso, el órgano jurisdiccional haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, se estará a lo dispuesto en el artículo 173 del Código Nacional.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 41.
+
+Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia de la autoridad correspondiente.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 42.
+
+Cuando se otorgue al imputado el beneficio de aportar fianza legal o judicial, ésta deberá cumplir con los requisitos que para ello establece el Código Civil del Estado de Jalisco.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 43.
+
+Cuando la garantía económica fijada como medida cautelar consista en fideicomiso se constituirá sobre bienes o derechos del fideicomitente, con arreglo a la Ley General de Títulos y Operaciones de Crédito y La Ley de Instituciones de Crédito.
+
+En el fideicomiso que se constituya tendrá carácter de fideicomitente el imputado o tercera persona y de fideicomisario la Secretaría de la Hacienda Pública del Gobierno del Estado. El valor del contrato será por el monto que al efecto fije el órgano jurisdiccional.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 44.
+
+La garantía prendaria también podrá otorgarse ante el juzgado que impuso la medida cautelar y, en lo conducente, serán aplicables las reglas establecidas por el Código Civil del Estado de Jalisco, podrá ser mediante transmisión de posesión o sin ella, en el primer caso la autoridad competente del Juzgado correspondiente, será responsable de la guarda y custodia de los bienes otorgados en prenda, siendo beneficiaria de ella la Secretaría de la Hacienda Pública del Gobierno del Estado.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 45.
+
+Cuando la medida cautelar de garantía económica consista en hipoteca, podrá ser otorgada por el imputado o por tercera persona, DE CONFORMIDAD CON LAS DISPOSICIONES DE LA HIPOTECA VOLUNTARIA, PREVISTAS POR EL CÓDIGO CIVIL DEL ESTADO DE JALISCO, ADQUIRIENDO EL CARÁCTER DE ACREEDOR LA SECRETARÍA DE LA HACIENDA PÚBLICA DEL ESTADO.
+
+El inmueble no deberá tener gravamen alguno y su valor comercial determinado por la Institución autorizada.
+
+### Capítulo III. Del embargo de Bienes
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 46.
+
+Al decretarse la medida cautelar de embargo de bienes, se remitirá la resolución a la Secretaría de la Hacienda Pública del Estado, la cual deberá cumplir estrictamente lo ordenado por el órgano jurisdiccional.
+
+Para el caso de embargo de inmuebles se ordenará el registro del gravamen correspondiente en la oficina del Registro Público de la Propiedad que corresponda.
+
+### Capítulo IV. De la inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 47.
+
+Cuando se imponga la medida cautelar de inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero, se realizará mediante orden del órgano jurisdiccional a la autoridad financiera de que se trate, correspondiendo a las unidades de medidas cautelares o de suspensión condicional del proceso, vigilar que se cumplan las disposiciones legales y solicitar en su caso, información sobre la aplicación y cumplimiento a las autoridades competentes en materia financiera.
+
+Una vez impuesta esta medida cautelar, el órgano jurisdiccional que ordene la inmovilización de cuentas y demás valores en la cuenta e institución bancaria o de valores correspondiente, girará oficio a tal institución, haciendo del conocimiento la orden judicial decretada para que se dé cumplimiento, debiendo acreditar la institución bancaria que se han realizado los movimientos respectivos de forma inmediata ante la Unidad Estatal de manera oficial.
+
+### Capítulo V. De la Prohibición de Salir sin Autorización del País, de la Localidad en la cual Reside o del ámbito territorial que fije la Autoridad Judicial
+
+###### Artículo 48.
+
+Cuando se determine la medida cautelar de prohibición de salir del país, el órgano jurisdiccional requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo copia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a la autoridad federal en materia de relaciones exteriores.
+
+El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
+
+###### Artículo 49.
+
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o del ámbito territorial que fije el órgano jurisdiccional dentro de los límites del Estado, se comunicará la resolución respectiva a la Unidad Estatal, la que de manera periódica requerirá a la Unidad Municipal para que visite el domicilio proporcionado por el imputado para corroborar que aún reside en la localidad y se prevendrá al imputado para que se presente ante dicha autoridad, con la periodicidad que la propia autoridad judicial establezca al fijar la medida.
+
+Durante la ejecución de esta medida, el imputado deberá comunicar a la Unidad Estatal que corresponda, el cambio de domicilio y cualquier otra circunstancia que permita su localización.
+
+En caso de incumplimiento, la Secretaría de Seguridad, así como las Instituciones Policiales de cada Municipio encargadas de la ejecución de la presente medida, darán aviso oportuno para los efectos procesales a que haya a lugar.
+
+### Capítulo VI. Del Sometimiento al Cuidado o Vigilancia de una Persona o Institución Determinada o Internamiento a Institución Determinada
+
+###### Artículo 50.
+
+Cuando durante el proceso penal se determine la medida cautelar de someterse al cuidado o vigilancia de una persona o institución determinada por el órgano jurisdiccional ya sea pública, privada o de asistencia social, se señalará a quien resulte responsable de la ejecución, las modalidades con que la medida se habrá de cumplir, así como la periodicidad con la que se deberá informar.
+
+###### Artículo 51.
+
+Si el órgano jurisdiccional decreta el internamiento del imputado en centros de salud u hospitales psiquiátricos, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la supervisión en centros u hospitales públicos o privados, quien tomará en cuenta la elección del imputado o de sus representantes, y de acuerdo con sus posibilidades económicas, o bien, en caso de contar con algún sistema de seguridad social.
+
+Durante la ejecución de la medida, la Secretaría de Salud, informará periódicamente y, en su caso, podrá opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar dicha medida.
+
+La vigilancia de esta medida quedará a cargo de la Unidad Estatal en coordinación con la Secretaría de Salud.
+
+### Capítulo VII. De la Prohibición de Concurrir a Determinadas Reuniones o Acercarse a Ciertos Lugares
+
+###### Artículo 52.
+
+Al determinarse la prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Unidad Estatal, para que en coordinación con la Unidad Municipal que corresponda, ejecute la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, indicando específicamente las restricciones impuestas.
+
+La autoridad ejecutora informará a la autoridad supervisora sobre el cumplimiento o incumplimiento de la medida con la periodicidad determinada por el órgano jurisdiccional.
+
+### Capítulo VIII. De la Prohibición de Convivir, Acercarse o Comunicarse con Determinadas Personas, con las Víctimas u Ofendidos o Testigos
+
+###### Artículo 53.
+
+Al imponerse la medida de prohibición de convivencia o comunicación con personas determinadas, se comunicará la resolución a la Unidad Estatal, para que en coordinación con la Unidad Municipal que corresponda, ejecute la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, indicando específicamente las restricciones impuestas.
+
+###### Artículo 54.
+
+Al imponerse la medida de prohibición de aproximarse a la víctima o a su familia, se comunicará la resolución a la Unidad Estatal, para que en coordinación con la Unidad Municipal que corresponda, ejecute la vigilancia pertinente sobre el cumplimiento de esa determinación, sin perjuicio de que la víctima o sus familiares puedan dar aviso del incumplimiento a las autoridades competentes.
+
+###### Artículo 55.
+
+La autoridad ejecutora informará sobre el cumplimiento o incumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
+
+Esta prohibición no podrá afectar, en ningún caso, el derecho a la defensa del imputado.
+
+### Capítulo IX. De la Separación Inmediata del Domicilio
+
+###### Artículo 56.
+
+Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, se comunicará la resolución a la Unidad Estatal, para que en coordinación con la Unidad Municipal que corresponda, provea a su efectivo cumplimiento.
+
+### Capítulo X. De la Suspensión Temporal en el Ejercicio del Cargo cuando se le Atribuye un Delito cometido por Servidores Públicos
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 57.
+
+La aplicación de esta medida comprende tanto el impedimento para continuar desempeñando un cargo público por el que haya sido nombrado o electo, como para acceder a ellos.
+
+###### Artículo 58.
+
+Tratándose de la suspensión temporal en el ejercicio del cargo, cuando se le atribuya un delito cometido por servidores públicos, se remitirá la resolución a la autoridad correspondiente y al superior jerárquico del imputado, para que materialmente ejecute la medida.
+
+En todos los casos, se remitirá junto con la resolución los datos necesarios para la efectiva ejecución de la medida y se deberá recabar del imputado o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la suspensión.
+
+### Capítulo XI. De la Suspensión Temporal en el Ejercicio de una Determinada Actividad Profesional o Laboral
+
+###### Artículo 59.
+
+La aplicación de esta medida consiste en el impedimento para el ejercicio de una labor o profesión, en cuyo caso se dará aviso a la Secretaría General de Gobierno, y esta a su vez a la Dirección de Profesiones del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal.
+
+### Capítulo XII. De la Colocación de Localizadores Electrónicos
+
+###### Artículo 60.
+
+Al dictarse la medida cautelar de colocación de localizadores electrónicos al imputado, la resolución que al efecto se dicte se comunicará directamente a la Unidad Estatal, a efecto de que dicha autoridad la ejecute.
+
+La ejecución de la medida estará sujeta a la normatividad del programa de monitoreo electrónico a distancia que expida el Ejecutivo del Estado de Jalisco, así como a su disponibilidad, sin que pueda mediar violencia o lesión a la dignidad o integridad física del imputado.
+
+### Capítulo XIII. Del Resguardo en su Propio Domicilio con las Modalidades que Disponga la Autoridad Judicial
+
+###### Artículo 61.
+
+Cuando se decrete el arresto sin vigilancia, el imputado informará al órgano jurisdiccional el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, la autoridad judicial pedirá el auxilio a la Unidad Estatal para que en coordinación con la unidad municipal que corresponda, verifique la existencia del lugar.
+
+Verificado lo anterior, el órgano jurisdiccional comunicará en su resolución el tiempo por el que habrá de desarrollarse la medida.
+
+###### Artículo 62.
+
+Si se decreta la medida cautelar de arresto con vigilancia de la autoridad, se comunicará la resolución respectiva a la Unidad Estatal, para que en coordinación con la Unidad Municipal que corresponda, coordine la vigilancia permanente o intermitente del imputado en el domicilio, en los términos de la orden judicial.
+
+### Capítulo XIV. De la Prisión Preventiva
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 63.
+
+La medida cautelar de prisión preventiva se cumplirá de manera tal que no adquiera las características de una pena, ni provoque otras limitaciones que las necesarias para evitar la fuga y para garantizar la seguridad de los demás internos y de las personas que cumplieren funciones o por cualquier motivo se encontraren en el reclusorio preventivo. En todo caso, el interno será tratado como inocente.
+
+Cualquier restricción que la autoridad encargada del Centro penitenciario de Prisión Preventiva o de Reinserción Social del Estado impusiere al interno, deberá ser inmediatamente comunicada al órgano jurisdiccional.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 64.
+
+El órgano jurisdiccional remitirá su resolución a la autoridad encargada del Centro penitenciario de Prisión Preventiva o de Reinserción Social del Estado, donde se formará el expediente respectivo, para el debido y exacto cumplimiento de la medida.
+
+La autoridad judicial deberá instruir a la autoridad encargada del recinto en que el interno se encontrare, acerca del modo de llevar a cabo la medida, el que en ningún caso podrá consistir en el encierro en celdas de castigo.
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27255/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 65.
+
+La prisión preventiva se ejecutará en establecimientos especiales diferentes de los que se utilizan para los condenados por sentencia firme, y cuando esto no sea posible, se llevará a cabo en los centros de reinserción social del Estado, en lugares absolutamente separados de los destinados para la ejecución de las sentencias.
+
+Las mujeres deberán ser internadas en lugares diferentes al de los hombres.
+
+La medida cautelar de prisión preventiva será cumplida en el reclusorio preventivo que designe el órgano jurisdiccional.
+
+## Título Cuarto
+
+### Capítulo I. De la Supervisión de la Suspensión Condicional del Proceso
+
+###### Artículo 66.
+
+La Unidad Estatal en coordinación con la Unidad Municipal que corresponda, serán las encargadas de supervisar, coordinar y vigilar el cumplimiento de las condiciones impuestas en la suspensión condicional del proceso.
+
+La Unidad Estatal en coordinación con la Unidad Municipal que corresponda, en caso de ser necesario, deberán canalizar a los imputados a instituciones públicas u organizaciones civiles, para que den cumplimiento cabal a sus obligaciones.
+
+###### Artículo 67.
+
+La coordinación y supervisión de las condiciones se darán de la siguiente manera:
+
+I. Residir en un lugar determinado. La autoridad encargada de llevar a cabo la supervisión, requerirá al imputado comprobante de domicilio, carta de residencia o cualquier otro documento con el que acredite habitar en el lugar que le fue impuesto; realizará visita al lugar para verificar la existencia y programará en su agenda diversas fechas a fin de constituirse en el lugar, para corroborar que esté dando cumplimiento a la obligación que le fue impuesta y realizará todas las actividades que considere necesarias para verificar el cumplimiento;
+
+II. Frecuentar o dejar de frecuentar determinados lugares o personas. Se comunicará a la Unidad Estatal para que en coordinación con la Unidad Municipal que corresponda, sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación;
+
+La autoridad encargada de llevar a cabo la supervisión, deberá de indicarle al imputado específicamente las restricciones impuestas.
+
+III. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas. El imputado quedará sujeto a la revisión de la Unidad Estatal para que en coordinación con la Unidad Municipal que corresponda, y con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes le brindará el tratamiento para la deshabituación al consumo y practicará, periódicamente o en cualquier momento, exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+
+IV. Participar en programas especiales para la prevención y el tratamiento de adicciones. Quedará sujeta a la revisión por parte de las unidades competentes en medidas cautelares y condiciones de la suspensión condicional del proceso, con el auxilio de la Secretaría de Salud, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento o incumplimiento y en su caso, podrá canalizarlo a organizaciones de la sociedad civil que presten este servicio de manera gratuita;
+
+Lo anterior sin perjuicio de los programas aplicados por la suspensión condicional del proceso para personas que presentan abuso y dependencia de sustancias psicoactivas.
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el órgano jurisdiccional. Quedará sujeta a la revisión por parte de la Secretaría de Educación y/o Secretaría del Trabajo y Previsión Social, las cuales darán seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+
+En caso de que el órgano jurisdiccional no determine lugar o institución, el supervisor del caso canalizará al imputado a institución u organización civil en la que pueda dar cumplimiento, se podrá auxiliar de la Secretaría del Trabajo y Previsión Social y demás instituciones de gobierno que presten estos servicios a los ciudadanos;
+
+VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. Quedará sujeta a la autoridad encargada de llevar a cabo la supervisión, la cual, en caso de que el órgano jurisdiccional no señale lugar específico, lo canalizará y le indicará la institución en la que deba prestar el servicio, el horario en el que se cumplirá, así como las labores que desempeñará, mismas que serán supervisadas periódicamente, informándose sobre su cumplimiento o incumplimiento;
+
+VII. Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas. La autoridad encargada de llevar a cabo la supervisión canalizará al imputado a la institución pública u organización civil que preste el servicio requerido para que el imputado pueda dar cumplimiento a la condición impuesta; dará seguimiento y solicitará los informes necesarios a tales instituciones únicamente respecto al cumplimiento en el tratamiento, asimismo, informará al Ministerio Público cualquier situación que considere relevante.
+
+VIII. Tener un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia. La Secretaría de Educación del Poder Ejecutivo Estatal, informará a la autoridad encargada de llevar a cabo la supervisión sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso. Si la condición consiste en conseguir empleo, se dará intervención a la dependencia de la Secretaría del Trabajo y Previsión Social; en general, el supervisor podrá realizar todas las acciones necesarias a fin de lograr el cumplimiento a la condición;
+
+IX. Someterse a la vigilancia que determine el Juez de control. El cumplimiento de esta condición se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al Juez;
+
+X. No poseer ni portar armas. Al decretarse esta condición, se dará aviso a los cuerpos de Seguridad Pública en el Estado así como a la Secretaría de la Defensa Nacional, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al órgano jurisdiccional para los efectos procesales correspondientes;
+
+XI. No conducir vehículos. Al imponerse esta condición, la Unidad Estatal de Medidas Cautelares y Suspensión Condicional del Proceso en coordinación con la Unidad Municipal correspondiente, requerirá al imputado la entrega de su licencia de manejo, misma que quedará bajo resguardo de la unidad competente, hasta en tanto permanezca vigente la condición. Girará oficio a la Secretaria de Transporte del Ejecutivo Estatal, a fin de que se abstenga de expedir licencia de conducir a la persona que se señale e informe en caso de que sea detenido por dicha autoridad manejando algún tipo de vehículo;
+
+XII. Abstenerse de viajar al extranjero. Cuando se determine esta restricción, se dará aviso a la Secretaría General de Gobierno para que por su conducto, informe a la dependencia federal en materia de relaciones exteriores, proporcionándole todos los documentos y requisito necesarios para que se pueda dar cumplimiento a la medida. El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida;
+
+XIII. Cumplir con los deberes de deudor alimentario. El cumplimiento de esta condición quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al órgano jurisdiccional; y
+
+XIV. Cualquier otra condición que, a juicio del órgano jurisdiccional, logre una efectiva tutela de los derechos de la víctima.
+
+## TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos deberán realizar las adecuaciones a sus disposiciones reglamentarias a los términos de este decreto, dentro de los 60 días siguientes a su entrada en vigor.
+
+TERCERO. Los ayuntamientos deberán constituir sus Unidades de Medidas de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso dentro de los 90 días siguientes a la entrada en vigor de este decreto.
+
+SALÓN SE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 25 DE MARZO DE 2019
+
+Diputado Presidente
+
+SALVADOR CARO CABRERA
+
+(Rúbrica)
+
+Diputada Secretaria
+
+MIRIAM BERENICE RIVERA RODRÍGUEZ
+
+(Rúbrica)
+
+Diputada Secretaria
+
+IRMA DE ANDA LICEA
+
+(Rúbrica)
+
+PROMULGACIÓN DEL DECRETO 27155/LXII/19, MEDIANTE EL CUAL SE ABROGA LA LEY DE VIGILANCIA Y EJECUCIÓN DE MEDIDAS CAUTELARES DEL ESTADO DE JALISCO Y EXPIDE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO.
+
+En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 25 veinticinco días del mes de marzo de 2019 dos mil diecinueve.
+
+ENRIQUE ALFARO RAMÍREZ
+
+Gobernador Constitucional del Estado de Jalisco
+
+(Rúbrica)
+
+JUAN ENRIQUE IBARRA PEDROZA
+
+Secretario General de Gobierno
+
+(Rúbrica)
