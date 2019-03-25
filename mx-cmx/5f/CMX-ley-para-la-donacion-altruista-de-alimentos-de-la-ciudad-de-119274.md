@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-donacion-altruista-de-alimentos-de-la-ciudad-de-119
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-16"
-last_updated: "2017-02-16"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119274&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-16"
 
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en el No. 9 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 16 de febrero de 2017.
 
@@ -56,6 +56,8 @@ LEY PARA LA DONACION ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO
 
 Las disposiciones contenidas en esta ley son de carácter público e interés social y tienen por objeto promover, orientar y regular la donación altruista de alimentos susceptible para consumo humano para contribuir satisfacer las necesidades alimentarias de la población menos favorecida, con carencia alimentaria o dificultad para acceder a alimentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
 Esta Ley tiene por objeto:
@@ -66,23 +68,39 @@ II. Establecer los principios y criterios que orienten las políticas públicas 
 
 III. Contribuir a satisfacer las necesidades alimentarias de la población vulnerable.
 
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2019)</small>
+
+IV. Fomentar la colaboración de los sectores público, social y privado para que sea posible el traslado y distribución de alimentos que no sean considerados para su venta pero que se encuentren en buen estado para el consumo humano, a los bancos de alimentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Alimento. Todas las sustancias o productos de cualquier naturaleza, sólidos o líquidos, naturales o transformados, que por sus características, aplicaciones, componentes, preparación, calidad, higiene y estado de conservación sean susceptibles e idóneamente utilizados para la normal nutrición de las personas.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-II. Alimento Susceptible de Donación Altruista. Todos los productos de cualquier naturaleza, sólidos o líquidos, naturales o transformados que tiene las mismas garantías de inocuidad alimentaria que los aptos para consumo humano, no comercializables y/o excedentarios, tendientes para su distribución gratuita
+I. Alcaldías.- Los órganos político administrativos de cada una de las demarcaciones territoriales;
 
-III. Altruismo.- Acción de carácter individual o colectiva mediante la cual se ayuda voluntariamente a la población menos favorecida de la Ciudad de México;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-IV. ALDF.- Asamblea Legislativa del Distrito Federal.
+II. Alimento.- Todas las sustancias o productos de cualquier naturaleza, sólidos o líquidos, naturales o transformados, que por sus características, aplicaciones, componentes, preparación, calidad, higiene y estado de conservación sean susceptibles e idóneamente utilizados para la normal nutrición de las personas.
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+III. Alimento Susceptible de Donación Altruista.- Todos los productos de cualquier naturaleza, sólidos o líquidos, naturales o transformados que tiene (sic) las mismas garantías de inocuidad alimentaria que los aptos para consumo humano, no comercializables y/o excedentarios, tendientes para su distribución gratuita;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+IV. Altruismo.- Acción de carácter individual o colectiva mediante la cual se ayuda voluntariamente a la población menos favorecida de la Ciudad de México;
 
 V. Bancos de Alimentos.- Organizaciones públicas, sociales o privadas establecidas en la Ciudad de México, sin fines de lucro, cuyo objetivo es recuperar, recolectar y recibir en donación los alimentos aptos para consumo humano para la distribución en favor de los beneficiarios.
 
 VI. Beneficiario.- La persona física que recibe a título gratuito los productos entregados por el donante, que carece de los recursos económicos suficientes para obtener total o parcialmente los alimentos que requiere para subsistir.
 
-VII. Delegaciones.- Órganos Político Administrativos de las demarcaciones Territoriales.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VII. Congreso.- Congreso de la Ciudad de México.
 
 VIII. Desperdicio de Alimentos.- Son los alimentos que se tiran o desperdician en la parte de las cadenas alimentarias que conducen a productos comestibles destinados al consumo humano.
 
@@ -94,11 +112,15 @@ XI. Institución.- Las instituciones de beneficencia pública, privada, asociaci
 
 XII. Ley.- Ley de Procedimiento Administrativo del Distrito Federal.
 
-XIII. SEDESO. A la Secretaría de Desarrollo Social del Gobierno de la Ciudad de México.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+XIII. Secretaría.- La Secretaría de Inclusión y Bienestar Social del Gobierno de la Ciudad de México.
 
 ###### ARTÍCULO 4.
 
 En la Ciudad de México queda prohibido el desperdicio de alimentos aptos para el consumo humano cuando estos sean susceptibles de donación altruista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
@@ -112,19 +134,27 @@ III. Garantizar la participación de los consumidores y de los sectores público
 
 IV. Fomentar y promover las propuestas de los ciudadanos y sus organizaciones para garantizar la satisfacción de las necesidades alimentarias de la población menos favorecida, así como estimular las aportaciones libres y voluntarias de alimentos.
 
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V. Promover la operación de al menos un Banco de Alimentos en cada una de las zonas de alta marginación o el número necesario para cubrir las necesidades de las comunidades con mayor vulnerabilidad;
+
 ###### ARTÍCULO 6.
 
 La donación de alimentos se hará en favor de las instituciones que realicen labores sociales comprobadas y con registro o certificación oficial.
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 7.
 
-Corresponde a la SEDESO formular, coordinar y conducir la política general relativa a la presente Ley y tendrá las siguientes facultades:
+Corresponde a la Secretaría formular, coordinar y conducir la política general relativa a la presente Ley y tendrá las siguientes facultades:
 
 I. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
 
-II. Promover la donación altruista de alimentos aptos para el consumo humano entre los consumidores y los sectores público, social y privado.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+II. Promover la donación altruista de alimentos aptos para el consumo humano entre los consumidores y los sectores público, social y privado, priorizando a la población de alta marginación y vulnerabilidad.
 
 III. Desarrollar, promover y evaluar los programas específicos de donación altruista de alimentos;
 
@@ -146,21 +176,47 @@ XI. Realizar un informe y evaluación anual del programa de donación altruista 
 
 XII. Impulsar la creación y fortalecimiento de Bancos de Alimentos, enfocados al manejo y aprovechamiento de las donaciones altruistas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde a las Delegaciones:
+Corresponde a las Alcaldías:
 
-I. Participar y colaborar con la SEDESO en la formulación, planeación y ejecución de los Programas de donación de alimentos;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+I. Participar y colaborar con la Secretaría en la formulación, planeación y ejecución de los Programas de donación de alimentos;
 
 II. Promover y fomentar la participación de la sociedad en la elaboración de programas de donación altruista de alimentos.
 
-III. Coordinar con la SEDESO las acciones en la donación de alimentos;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-IV. Operar la infraestructura a su cargo en la promoción e implementación de acciones en favor de la donación de alimentos en su demarcación para la población menos favorecida.
+III. Coordinar con la Secretaría las acciones en la donación de alimentos;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+IV. Operar la infraestructura a su cargo en la promoción e implementación de acciones en favor de la donación de alimentos en su demarcación para la población menos favorecida, así como promover la participación activa de los ciudadanos como voluntarios en los bancos de alimentos;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2019)</small>
+
+V. Establecer acciones que permitan a la población acceder a los Bancos de Alimentos;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VI. Coadyuvar en el ámbito de sus atribuciones para cumplir con el objetivo de promover la operación de los Bancos de Alimentos;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2019)</small>
+
+VII. En coordinación (sic) los sectores público, social y privado, promoverán la recuperación de los productos perecederos, enlatados y envasados, a efecto de que éstos sean entregados a los Bancos de Alimentos dentro de un período razonable de vigencia para su óptimo consumo.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2019)</small>
+
+En todas las acciones mencionadas en el presente artículo deberá priorizarse a la población de alta marginación y vulnerabilidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde a la Asamblea Legislativa del Distrito Federal:
+Corresponde al Congreso:
 
 I. Aprobar el presupuesto necesario para la ejecución del programa de donación altruista de alimentos.
 
@@ -176,7 +232,11 @@ IV. Las demás que le sean atribuidas en su ley orgánica y demás disposiciones
 
 Es obligación de donantes y donatarios distribuir y entregar alimentos en condiciones de calidad, higiene y previo a su fecha de caducidad a fin de ser aptos para el consumo de los beneficiarios, cumpliendo con la normatividad aplicable.
 
-Sin perjuicio de lo anterior, en caso de considerarlo procedente, la SEDESO o cualquier autoridad competente llevará a cabo la revisión de las condiciones de inocuidad alimentaria de los alimentos susceptibles de donación altruista.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
+Sin perjuicio de lo anterior, en caso de considerarlo procedente, la Secretaría o cualquier autoridad competente llevará a cabo la revisión de las condiciones de inocuidad alimentaria de los alimentos susceptibles de donación altruista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 11.
 
@@ -184,13 +244,17 @@ Corresponde a los Donantes:
 
 I. Garantizar que los alimentos en donación se encuentren en condiciones adecuadas de higiene, calidad y previo a su fecha de caducidad.
 
-II. Informar a la SEDESO sobre las condiciones y mecanismos de recepción, acopio, conservación y distribución de los alimentos susceptibles de donación altruista, así como de su programa de distribución que considerará; cantidad, variedad y periodicidad de entrega a las instituciones (y/o beneficiarios).
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+II. Informar a la Secretaría sobre las condiciones y mecanismos de recepción, acopio, conservación y distribución de los alimentos susceptibles de donación altruista, así como de su programa de distribución que considerará; cantidad, variedad y periodicidad de entrega a las instituciones (y/o beneficiarios).
 
 III. Elaborar y promover campañas permanentes de sensibilización con temas generales y específicos relativos a la donación de alimentos;
 
 ###### ARTÍCULO 12.
 
 El Donante puede suprimir la marca de los productos que done cuando así lo estime conveniente, conservando los datos que identifiquen la caducidad de los mismos, su descripción y valor nutricional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 13.
 
@@ -202,7 +266,11 @@ II. Es obligación distribuir los alimentos a los beneficiarios con la oportunid
 
 III. Capacitar de manera periódica a su personal en el manejo de los alimentos.
 
-IV. Informar a la SEDESO el destino final y aprovechamiento de los alimentos susceptibles de donación altruista por parte de los beneficiarios, así como de los programas sociales de seguridad alimentaria vigentes en la CDMX, conforme a los mecanismos que la propia SEDESO establezca.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+IV. Informar a la Secretaría el destino final y aprovechamiento de los alimentos susceptibles de donación altruista por parte de los beneficiarios, así como de los programas sociales de seguridad alimentaria vigentes en la CDMX, conforme a los mecanismos que la propia Secretaría establezca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
@@ -210,9 +278,17 @@ Corresponde a los Beneficiarios:
 
 I. Recibir los alimentos en donación totalmente gratuitos;
 
-II. Los beneficiarios, para ser sujetos de beneficio de la donación de alimentos, deberán cubrir los requisitos que en coordinación con las Delegaciones establecerá la SEDESO.
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-III. Los beneficiarios recibirán de los Donatarios, los lineamientos de distribución de alimentos en cuanto a cantidad, variedad y periodicidad, acorde con la disponibilidad. Estas acciones las llevarán coordinadamente la SEDESO las delegaciones y los Donatarios.
+II. Los beneficiarios, para ser sujetos de beneficio de la donación de alimentos, deberán cubrir los requisitos que en coordinación con las Alcaldías establecerá la Secretaría.
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+III. Los beneficiarios recibirán de los Donatarios, los lineamientos de distribución de alimentos en cuanto a cantidad, variedad y periodicidad, acorde con la disponibilidad. Estas acciones las llevarán coordinadamente la Secretaría, las Alcaldías y los Donatarios.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2019)</small>
+
+Quienes sean beneficiarios de programas de asistencia social, por ningún motivo serán excluidos de la donación de alimentos.
 
 ###### ARTÍCULO 15.
 
@@ -227,6 +303,8 @@ Los donatarios y los donantes podrán celebrar convenios destinados a regular la
 ###### ARTÍCULO 17.
 
 Los bancos de alimentos son todas aquellas Instituciones que tengan por objeto recibir en donación alimentos para almacenarlos, preservarlos en buenas condiciones de calidad e higiene y distribuirlos, con la finalidad de contribuir a satisfacer las carencias alimentarias de la población de escasos recursos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 25 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
@@ -244,13 +322,17 @@ V. Distribuir los alimentos oportunamente;
 
 VI. No lucrar o comercializar con los alimentos;
 
-VII Destinar las donaciones a los Beneficiarios;
+VII. Destinar las donaciones a los Beneficiarios;
 
 VIII. Evitar el desvío o mal uso de los alimentos en perjuicio de las personas de escasos recursos;
 
-IX. Informar trimestralmente a la SEDESO de los donativos recibidos y de los aplicados;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
-X. Observar las disposiciones administrativas y medidas de control que dicte la SEDESO, en materia de donación de alimentos; y
+IX. Informar trimestralmente a la Secretaría de los donativos recibidos y de los aplicados;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
+
+X. Observar las disposiciones administrativas y medidas de control que dicte la Secretaría, en materia de donación de alimentos; y
 
 XI. Las demás que determine esta Ley.
 
@@ -260,9 +342,11 @@ XI. Las demás que determine esta Ley.
 
 Los donantes, además de los estímulos y beneficios que señala la legislación tributaria federal, podrán establecer convenios de estímulos con el Gobierno de la Ciudad.
 
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 20.
 
-La SEDESO en coordinación con las Delegaciones, entregará anualmente un reconocimiento público a los donantes y donatarios de alimentos que se hayan distinguido por sus contribuciones en favor de los ciudadanos menos favorecidos de la Ciudad de México.
+La Secretaría en coordinación con las Alcaldías, entregará anualmente un reconocimiento público a los donantes y donatarios de alimentos que se hayan distinguido por sus contribuciones en favor de los ciudadanos menos favorecidos de la Ciudad de México.
 
 ###### ARTÍCULO 21.
 
@@ -311,3 +395,13 @@ TERCERO.- Se deberán considerar recursos suficientes en el Presupuesto de Egres
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de octubre del año dos mil dieciséis.- POR LA MESA DIRECTIVA.- DIP. A. XAVIER LÓPEZ ADAME, PRESIDENTE.- DIP. SOCORRO MEZA MARTÍNEZ, SECRETARIA.- DIP. RAYMUNDO MARTÍNEZ VITE, PROSECRETARIO.- FIRMAS.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los dieciséis días del mes de febrero del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
