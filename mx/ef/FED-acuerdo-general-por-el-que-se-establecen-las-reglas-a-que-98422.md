@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-por-el-que-se-establecen-las-reglas-a-que-98422
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2014-02-06"
+last_updated: "2019-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98422&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-02-05"
 ---
 # ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS A QUE SE SUJETARA LA REPRESENTACION DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, EN TODOS LOS TRAMITES PREVISTOS EN LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS A QUE SE SUJETARÁ LA REPRESENTACIÓN DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, EN TODOS LOS TRÁMITES PREVISTOS EN LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 25 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
 ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS A QUE SE SUJETARÁ LA REPRESENTACIÓN DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, EN TODOS LOS TRÁMITES PREVISTOS EN LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -1118,3 +1120,17 @@ TERCERO. La representación del Presidente de los Estados Unidos Mexicanos que s
 CUARTO. La Secretaría de la Función Pública conocerá de los juicios de amparo, incluidos los recursos o procedimientos derivados de éstos, en contra de normas y actos señalados en el presente Acuerdo hasta en tanto se actualice lo dispuesto en el artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, momento en que los juicios de amparo serán remitidos a la Secretaría que resulte competente.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de febrero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.- El Secretario de Relaciones Exteriores, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de la Defensa Nacional, Salvador Cienfuegos Zepeda.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- La Secretaria de Desarrollo Social, María del Rosario Robles Berlanga.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- El Secretario de Educación Pública, Emilio Chuayffet Chemor.- Rúbrica.- La Secretaria de Salud, María de las Mercedes Martha Juan López.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Jorge Carlos Ramírez Marín.- Rúbrica.- La Secretaria de Turismo, Claudia Ruiz Massieu Salinas.- Rúbrica.- En ausencia del Secretario de la Función Pública, en términos de lo dispuesto por los artículos 18 de la Ley Orgánica de la Administración Pública Federal; 7, fracción XII, y 86 del Reglamento Interior de la Secretaría de la Función Pública, el Subsecretario de Responsabilidades Administrativas y Contrataciones Públicas de la Secretaría de la Función Pública, Julián Alfonso Olivas Ugalde.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS A QUE SE SUJETARÁ LA REPRESENTACIÓN DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, EN TODOS LOS TRÁMITES PREVISTOS EN LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La representación del Presidente de los Estados Unidos Mexicanos que se hubiere otorgado con anterioridad a la entrada en vigor del presente Acuerdo, continuará ejerciéndose hasta la conclusión definitiva del juicio correspondiente, sin perjuicio de que dicha representación pueda ser reasignada por el Consejero Jurídico del Ejecutivo Federal.
+
+TERCERO. En caso de que cambie la residencia oficial de las Secretarías de Estado mencionadas en el artículo Décimo Segundo del presente Acuerdo, éstas deberán informar de inmediato tal situación a los órganos jurisdiccionales y a la Consejería Jurídica del Ejecutivo Federal.
+
+CUARTO. Se abroga el Acuerdo General por el que se establecen las reglas a que se sujetará la representación del Presidente de los Estados Unidos Mexicanos, en todos los trámites previstos en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de febrero de 2014.
