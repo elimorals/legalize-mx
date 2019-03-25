@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-1308
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-10-04"
-last_updated: "2018-10-10"
+last_updated: "2019-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 4 de octubre de 2018.
 
@@ -1823,6 +1821,14 @@ DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administr
 
 DÉCIMA TERCERA. Dentro de un plazo de 30 días hábiles, contados a partir de la entrada en vigor de la presente Ley, se deberán realizar las adecuaciones a las leyes, reglamentos y demás disposiciones que resulten aplicables de conformidad a la presente Ley; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por la misma.
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+DÉCIMA CUARTA. Los archivos, asuntos en trámite y, en su caso, los bienes que se pudieron haber asignado a la extinta Secretaría de Innovación, Ciencia y Tecnología, se trasladarán al Consejo de Ciencia y Tecnología del Estado de Morelos; así como la asunción de facultades, atribuciones, competencias y funciones que le hayan sido conferidas a la entonces Secretaría de Innovación, Ciencia y Tecnología mismas que serán ejercidas por el Consejo de Ciencia y Tecnología del Estado de Morelos en tanto se realice la armonización jurídica respectiva a la normatividad aplicable.
+
+> <small>[N. DE E. PERTENECE A LA DISPOSICIÓN TRANSITORIA DÉCIMA CUARTA, P.O. 25 DE MARZO DE 2019]</small>
+
+Así mismo, cuando otras disposiciones normativas hagan alusión a la Secretaría de Innovación, Ciencia y Tecnología, se entenderán referidas al Consejo de Ciencia y Tecnología del Estado de Morelos.
+
 Recinto Legislativo, en Sesión Ordinaria del día cuatro de octubre del año dos mil dieciocho.
 
 Diputados Integrantes de la Mesa Directiva del Congreso del Estado de Morelos. Dip. Alfonso de Jesús Sotelo Martínez. Presidente. Dip. Cristina Xochiquetzal Sánchez Ayala. Secretaria. Dip. Marcos Zapotitla Becerro. Secretario. Rúbricas.
@@ -1852,3 +1858,17 @@ M. EN D. MELODY IVONNE ZAMUDIO SOLÍS
 ENCARGADA DE DESPACHO DE LA DIRECCIÓN GENERAL DE LA SECRETARÍA DE GOBIERNO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVENTA Y SIETE POR EL QUE SE ADICIONA LA DISPOSICIÓN TRANSITORIA DÉCIMA CUARTA AL DECRETO NÚMERO CINCO, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERO. Aprobado el presente Decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso b), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERO. El traslado de los recursos a los que hubiese lugar será coordinado y supervisado por las Secretarías de Hacienda, de la Contraloría y de Administración, iniciando dicho proceso al momento de entrada en vigor de esta disposición.
+
+CUARTO. Dentro de un plazo que no exceda los 180 días naturales, se deberán realizar las adecuaciones normativas respectivas complementarias a la presente reforma.
