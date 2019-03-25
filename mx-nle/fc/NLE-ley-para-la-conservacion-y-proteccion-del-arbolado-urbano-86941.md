@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-86941
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-30"
-last_updated: "2012-03-30"
+last_updated: "2019-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 30 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 25 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de marzo de 2012.
 
@@ -95,7 +93,9 @@ XII. Mulch: Material resultado del triturado de madera, que se coloca sobre la s
 
 XIII. Personal autorizado: Personas que han recibido capacitación por parte de una institución especializada;
 
-XIV. Plantación: Siembra de un árbol en un sitio determinado para que crezca y se desarrolle;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2019)</small>
+
+XIV. Plantación: Plantar especies arbóreas o arbustivas en un sitio determinado para que crezca y se desarrolle;
 
 XV. Poda: Eliminación selectiva de hasta un 30% del follaje de un árbol, para proporcionar un adecuado desarrollo del mismo o con un propósito estético específico;
 
@@ -255,6 +255,12 @@ Será responsabilidad de quien realice los trabajos de poda y derribo del arbola
 
 Los materiales y deshechos producto de la poda o derribo del arbolado urbano se utilizarán preferentemente para la elaboración de mulch, siempre y cuando se encuentren libres de plagas o enfermedades.
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+
+###### Artículo 19 Bis.
+
+Toda poda o derribo del arbolado o plantas arbustivas, deberá hacerse mediante acción mecánica o física, quedando prohibido el uso de fuego o de elementos químicos, así como encender fogatas en la zona donde tenga verificativo la poda o derribo.
+
 ### CAPÍTULO VI. DE LAS CAUSAS DE RIESGO, ALTO RIESGO O DE EMERGENCIA
 
 ###### Artículo 20.
@@ -380,6 +386,10 @@ En los casos de restitución física, deberá de apegarse a los siguientes linea
 I. Prever que el crecimiento del árbol no pueda llegar a obstruir, interferir o afectar otros árboles, bienes inmuebles, infraestructura urbana y personas; y
 
 II. Replantar otro árbol de las mismas condiciones y tamaño, cuando el árbol que sirva de restitución no sobreviva.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2019)</small>
+
+III. Deberá restituirse, por la pérdida de la cubierta vegetal y biomasa, con especies arbóreas tratándose de árboles o con especies arbustivas en los casos de arbustos, que sean nativos de la región donde deba tener verificativo la restitución.
 
 ###### Artículo 40.
 
@@ -750,3 +760,11 @@ ALVARO IBARRA HINOJOSA
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 FERNANDO GUTIÉRREZ MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 105. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIV DEL ARTÍCULO 6 Y POR ADICIÓN EL ARTÍCULO 19 BIS Y LA FRACCIÓN III DEL ARTÍCULO 39, TODOS DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN.”]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
