@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-114839"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2018-08-17"
+last_updated: "2019-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -81399,3 +81399,7 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 5 DE JUNIO DE 2018.
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 17 DE AGOSTO DE 2018.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 25 DE MARZO DE 2019.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN Y EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL”.]</small>
