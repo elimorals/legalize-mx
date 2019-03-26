@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2018-09-03"
+last_updated: "2019-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1403,13 +1403,17 @@ Cuando las lesiones sean calificadas, la sanción correspondiente a las lesiones
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2019)</small>
+
 ### CAPÍTULO IV. OMISIÓN DE AUXILIO O DE CUIDADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 141.
 
-Al que en estado de emoción violenta cometa homicidio o inflinja (sic) lesiones, se le impondrá una tercera parte de las sanciones que correspondan por su comisión. El estado de emoción violenta consiste en una reacción motora, circulatoria y secretoria hacia un sentimiento de gran intensidad, el cual produce una perturbación psicológica transitoria que se manifiesta a través de formas violentas de expresión, falta de razonamiento, de discernimiento y de voluntad y, como consecuencia, se atenúa la imputabilidad del agente.
+Al que en estado de emoción violenta cometa homicidio o inflija lesiones, se le impondrá una tercera parte de las sanciones que correspondan por su comisión. El estado de emoción violenta consiste en una reacción motora, circulatoria y secretoria hacia un sentimiento de gran intensidad, el cual produce una perturbación psicológica transitoria que se manifiesta a través de formas violentas de expresión, falta de razonamiento, de discernimiento y de voluntad y, como consecuencia, se atenúa la imputabilidad del agente.
+
+No podrá alegarse estado de emoción violenta por las lesiones u homicidio cometidos en perjuicio de niñas, niños y adolescentes.
 
 ###### Artículo 142.
 
@@ -4287,8 +4291,16 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 
 P.O. 3 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 309 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III "ASEDIO SEXUAL" DEL TÍTULO SEGUNDO, PARA QUEDAR COMO CAPÍTULO III "HOSTIGAMIENTO Y ACOSO SEXUAL"; SE REFORMAN LOS ARTÍCULOS 167; 168; EL PÁRRAFO PRIMERO DEL ARTÍCULO 222; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 224; Y SE ADICIONA UN ARTÍCULO 167 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 309 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III "ASEDIO SEXUAL" DEL TÍTULO SEGUNDO, PARA QUEDAR COMO CAPÍTULO III "HOSTIGAMIENTO Y ACOSO SEXUAL"; SE REFORMAN LOS ARTÍCULOS 167; 168; EL PÁRRAFO PRIMERO DEL ARTÍCULO 222; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 224; Y SE ADICIONA UN ARTÍCULO 167 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 41 POR EL QUE "SE REFORMA EL ARTÍCULO 141 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
