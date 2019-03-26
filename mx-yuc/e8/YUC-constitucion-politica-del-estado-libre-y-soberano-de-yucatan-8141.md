@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2018-02-28"
+last_updated: "2019-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 26 DE MARZO DE 2019.]</small>
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -249,7 +251,7 @@ IV.- desempeñar las funciones electorales y las de jurado en los términos de l
 
 V.- inscribirse en las Juntas Municipales de Reclutamiento para el servicio de las armas;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 26 DE MARZO DE 2019)
 
 VI.- votar en los procedimientos de elección y consulta popular, en los términos que señale la ley;
 
@@ -269,9 +271,13 @@ La calidad de ciudadano yucateco se pierde por la pérdida de la ciudadanía mex
 
 (DEROGADO, D.O. 26 DE JULIO DE 2013)
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 26 DE MARZO DE 2019) (F. DE E., D.O. 26 DE MARZO DE 2019)
 
-### CAPITULO I. Del Estado
+### CAPITULO III. De los Medios de Participación Ciudadana
+
+###### Artículo 11 Bis.
+
+(F. DE E., D.O. 26 DE MARZO DE 2019)
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -279,9 +285,9 @@ La calidad de ciudadano yucateco se pierde por la pérdida de la ciudadanía mex
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO II. Del Territorio del Estado
+### CAPITULO I. Del Estado
 
-(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., D.O. 3 DE ABRIL DE 1975)
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 12.
 
@@ -299,9 +305,9 @@ El Estado de Yucatán adopta la forma de gobierno republicano, representativo, d
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO UNICO. De la división de Poderes
+### CAPITULO II. Del Territorio del Estado
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+(REFORMADO, D.O. 26 DE MARZO DE 1975) (F. DE E., D.O. 3 DE ABRIL DE 1975)
 
 ###### Artículo 14.
 
@@ -319,9 +325,9 @@ Para su régimen político-administrativo, judicial, fiscal y electoral, el Terr
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO I. Del Poder Legislativo del Estado
+### CAPITULO UNICO. De la división de Poderes
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 16.
 
@@ -443,9 +449,9 @@ Los Poderes Públicos del Estado, residirán en la ciudad de Mérida, dichos pod
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO II. De la Elección e Instalación del Congreso
+### CAPITULO I. Del Poder Legislativo del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 18.
 
@@ -463,9 +469,9 @@ El Presidente del Congreso en los términos de las leyes garantizará la inviola
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO III. De las facultades del Congreso
+### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 20.
 
@@ -605,9 +611,9 @@ Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. La
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO IV. De la iniciativa y formación de las Leyes
+### CAPITULO III. De las facultades del Congreso
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 30.
 
@@ -961,9 +967,9 @@ La contabilidad gubernamental y la cuenta pública se regirán por las leyes apl
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO V. De la Diputación Permanente y sus atribuciones
+### CAPITULO IV. De la iniciativa y formación de las Leyes
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 35.
 
@@ -1025,9 +1031,9 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO VI. De la Auditoría Superior del Estado
+### CAPITULO V. De la Diputación Permanente y sus atribuciones
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 42.
 
@@ -1077,9 +1083,9 @@ IX.- las demás que le confiere esta Constitución.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 19 DE MARZO DE 2010)</small>
 
-### CAPITULO I. Del Gobernador del Estado
+### CAPITULO VI. De la Auditoría Superior del Estado
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 43 Bis.
 
@@ -1133,9 +1139,7 @@ Los servidores públicos estatales y municipales, así como cualquier entidad, p
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO II. De las facultades y obligaciones del
-
-Gobernador del Estado
+### CAPITULO I. Del Gobernador del Estado
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1211,7 +1215,7 @@ XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Cr
 
 Para ser Gobernador Interino del Estado, se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 26 DE MARZO DE 2019)
 
 ###### Artículo 48.
 
@@ -1271,9 +1275,11 @@ Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se re
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO III. Restricciones a las facultades del Gobernador
+### CAPITULO II. De las facultades y obligaciones del
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 1984)</small>
+Gobernador del Estado
+
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 55.
 
@@ -1385,9 +1391,9 @@ XXV.- las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO IV. De la Organización del Poder Ejecutivo
+### CAPITULO III. Restricciones a las facultades del Gobernador
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 56.
 
@@ -1427,9 +1433,9 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 1970)</small>
 
-### CAPITULO V. Del Ministerio Público
+### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 57.
 
@@ -1465,9 +1471,9 @@ Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo ser
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO VI. De la Defensoría Pública
+### CAPITULO V. Del Ministerio Público
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 62.
 
@@ -1491,9 +1497,9 @@ La ley regulará la integración, estructura, funcionamiento, competencia y admi
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO I. Del Poder Judicial
+### CAPITULO VI. De la Defensoría Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -1511,15 +1517,15 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 (REUBICADO, D.O. 17 DE MAYO DE 2010)
 
-### CAPITULO II. De los Requisitos para ser Magistrado
+### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
+### CAPITULO II. De los Requisitos para ser Magistrado
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1595,7 +1601,7 @@ Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO IV. Del Control Constitucional Local
+### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1663,7 +1669,9 @@ Los impedimentos previstos en este artículo serán aplicables a los servidores 
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO V
+### CAPITULO IV. Del Control Constitucional Local
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 69.
 
@@ -1687,9 +1695,7 @@ VIII.- Las demás que le confieran esta Constitución y otras leyes.
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO VI. Del Consejo de la Judicatura
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+### CAPITULO V
 
 ###### Artículo 70.
 
@@ -1745,7 +1751,7 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPITULO VII. De las Disposiciones Generales
+### CAPITULO VI. Del Consejo de la Judicatura
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1755,9 +1761,9 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. De las Disposiciones Generales
+### CAPITULO VII. De las Disposiciones Generales
 
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 72.
 
@@ -1803,9 +1809,9 @@ El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cua
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
+### CAPÍTULO I. De las Disposiciones Generales
 
-> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 73.
 
@@ -1843,9 +1849,9 @@ El internamiento se utilizará como medida extrema, en el menor tiempo posible, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 73 Ter.
 
@@ -1873,9 +1879,9 @@ Los organismos autónomos reconocidos por esta Constitución deberán enviar al 
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
+### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 74.
 
@@ -1891,9 +1897,9 @@ Todo servidor público del Estado de Yucatán está obligado a responder las rec
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
+### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
+(REFORMADO, D.O. 20 DE JUNIO DE 2014) (F. DE E., D.O. 26 DE MARZO DE 2019)
 
 ###### Artículo 75.
 
@@ -1921,9 +1927,9 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
+### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
 
-> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75 Bis.
 
@@ -1948,6 +1954,10 @@ La ley determinará las bases del servicio profesional electoral nacional y las 
 El plebiscito, el referéndum y la iniciativa popular son mecanismos de participación ciudadana. Su organización, desarrollo, cómputo y declaración de los resultados es una función estatal que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 > <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 75 Ter.
 
@@ -4238,3 +4248,53 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Obligación normativa
 
 El Congreso deberá armonizar las leyes secundarias relacionadas con la disciplina financiera, en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 26 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 49/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REVOCACIÓN DE MANDATO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor y será aplicable a los presidentes municipales, regidores y síndicos a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
+
+Para el caso de los diputados locales, este decreto entrará en vigor y será aplicable a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
+
+Para el caso de la figura del Gobernador Constitucional del Estado, este decreto entrará en vigor y será aplicable a partir del uno de octubre del 2024. En todos los casos, previa publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Adecuación normativa
+
+El congreso deberá realizar las adecuaciones normativas correspondientes, dentro de los 180 días siguientes a la declaratoria constitucional que para tal efecto haga este o la Diputación Permanente, en su caso.
+
+Tercero. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 26 DE MARZO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA "NOTA ACLARATORIA" DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN PUBLICADA EN EDICIÓN ESPECIAL DEL D.O. DE 26 DE MARZO DE 2019.]</small>
+
+LIC. MAURICIO TAPPAN SILVEIRA.
+
+CONSEJERO JURÍDICO DEL
+
+GOBIERNO DEL ESTADO DE YUCATÁN.
+
+P R E S E N T E
+
+Por este medio, me permito hacer de su conocimiento que por error involuntario se envió al Diario Oficial la minuta de reformas a la Constitución Política del Estado de Yucatán en materia de Revocación de Mandato, misma que fue publicada el día de hoy en la edición vespertina mediante del (sic) decreto 49/2019, por lo que respetuosamente me permito solicitar se publique una NOTA ACLARATORIA en donde se exprese lo siguiente:
+
+"NOTA ACLARATORIA: La minuta de reformas a la Constitución Política del Estado de Yucatán en materia de Revocación de Mandato, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, en la edición vespertina de fecha 26 de marzo de 2019, mediante del (sic) decreto 49/2019, no surtirá sus efectos legales hasta en tanto concluya el proceso de aprobación por parte del Constituyente Permanente Municipal, en términos de lo dispuesto en el artículo 108 de la Constitución Política del Estado de Yucatán y el Congreso del Estado emita la Declaratoria correspondiente.”
+
+Asimismo, le comunico que una vez agotada la etapa legislativa referida anteriormente, se le informará el resultado obtenido y, en caso de ser procedente, se hará de su conocimiento la declaratoria que emita el Congreso del Estado para los efectos legales que correspondan.
+
+Lo anterior con fundamento en lo señalado en el artículo 108 de la Constitución Política del Estado de Yucatán; y 11 de la Ley del Diario Oficial del Gobierno del Estado de Yucatán.
+
+Sin otro particular, le envío un cordial saludo.
+
+A T E N T A M E N T E
+
+Mérida, Yucatán a 26 de marzo de 2019
+
+DIP. MARTÍN ENRIQUE CASTILLO RUZ
+
+PRESIDENTE DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO DE YUCATÁN.
