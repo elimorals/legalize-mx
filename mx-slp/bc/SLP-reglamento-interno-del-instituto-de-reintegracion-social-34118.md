@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-del-instituto-de-reintegracion-social-34118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2008-10-14"
+last_updated: "2019-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACION SOCIAL RAFAEL NIETO
 
-REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACION SOCIAL RAFAEL NIETO
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL "RAFAEL NIETO", PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2008.
+REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACIÓN SOCIAL RAFAEL NIETO DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el martes 9 de septiembre de 2003.
 
@@ -59,7 +61,7 @@ El Instituto desarrollará sus tareas de acuerdo a las políticas y modelos que 
 
 Para el despacho de los asuntos de su competencia, el Instituto contará con los siguientes:
 
-l.- Órganos Superiores:
+I.- Órganos Superiores:
 
 a) Junta de Gobierno
 
@@ -245,7 +247,7 @@ Corresponde al Área Académica:
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2008)</small>
 
-l. Determinar en coordinación con el Director General, el número máximo de alumnos por salón, a efecto de brindar una atención especializada;
+I. Determinar en coordinación con el Director General, el número máximo de alumnos por salón, a efecto de brindar una atención especializada;
 
 II. (REFORMADA [N. DE E. DEROGADA], P.O. 14 DE OCTUBRE DE 2008)
 
@@ -265,7 +267,7 @@ VII. Las demás que sean encomendadas por el Director General y la Junta de Gobi
 
 Corresponde al Area de Psicología:
 
-l. Tener actualizado y ordenado el expediente psicológico de los niños, registrando en hojas membreteadas (sic) la valoración psicológica, bitácora de entrevistas realizadas, del trabajo llevado a cabo. Mencionando de forma general lo revisado, así como los avances o retrocesos manifestados por el menor y sus posibles causas;
+I. Tener actualizado y ordenado el expediente psicológico de los niños, registrando en hojas membreteadas (sic) la valoración psicológica, bitácora de entrevistas realizadas, del trabajo llevado a cabo. Mencionando de forma general lo revisado, así como los avances o retrocesos manifestados por el menor y sus posibles causas;
 
 II. Organizar talleres según aptitudes y necesidades de los niños (sexualidad, autoestima, etc.). Estos programas una vez revisados en el Departamento de Psicología, deberán ser aprobados y ajustarse a los lineamientos marcados por la Dirección del Instituto;
 
@@ -321,7 +323,7 @@ XII. Las demás que le encomiende el Director General del instituto y la Junta d
 
 Corresponde al Area de Trabajo Social:
 
-l. Mantener coordinación constante con el área de trabajo social de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, para seguimiento y actualización de los casos;
+I. Mantener coordinación constante con el área de trabajo social de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, para seguimiento y actualización de los casos;
 
 II. Participar en reuniones interdisciplinarias del instituto;
 
@@ -343,7 +345,7 @@ IX. Las demás que le encomiende el Director General del Instituto y la Junta de
 
 Corresponde al Área de Prefectura:
 
-l. Asistir a las reuniones mensuales del área convocadas por el Director General del Instituto, donde se analizará el avance integral de los menores;
+I. Asistir a las reuniones mensuales del área convocadas por el Director General del Instituto, donde se analizará el avance integral de los menores;
 
 II. Mantener comunicación y actitud positiva, respetuosa y sana con los menores;
 
@@ -391,7 +393,9 @@ En caso de que la ausencia del Director General, sea inferior a dieciséis días
 
 El Director General del Instituto, tendrá la facultad de presentar a la Junta de Gobierno, las iniciativas para la modificación del presente reglamento.
 
-ARTICULO24.- Corresponde a la Junta de Gobierno aprobar las modificaciones propuestas.
+###### ARTICULO 24.
+
+Corresponde a la Junta de Gobierno aprobar las modificaciones propuestas.
 
 ###### ARTICULO 25.
 
@@ -424,3 +428,19 @@ P.O. 14 DE OCTUBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al entrar en vigor el presente Decreto.
+
+P.O. 26 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL “RAFAEL NIETO”.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno del Instituto de Reintegración Social "RAFAEL NIETO", publicado en el Periódico Oficial del Estado con fecha 9 de septiembre de 2003.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los manuales que este Reglamento menciona, la o el titular del "Centro" queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
