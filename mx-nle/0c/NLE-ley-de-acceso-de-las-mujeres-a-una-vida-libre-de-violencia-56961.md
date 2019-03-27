@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-03-22"
+last_updated: "2019-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -403,7 +403,9 @@ I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de la
 
 II. Transformar los modelos socioculturales de conducta de mujeres y hombres, a través de la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
-III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración e impartición de justicia, policías y demás servidores públicos encargados de la políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+
+III. Educar y capacitar en materia de derechos humanos de las mujeres, al personal encargado de la procuración e impartición de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 IV. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, por medio de las autoridades y las instituciones públicas, privadas o sociales;
 
@@ -593,7 +595,9 @@ VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+
+I. Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la recopilación adecuada de pruebas en casos de hechos que puedan constituirse como delitos.
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
@@ -625,7 +629,9 @@ X. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Fiscalía General de Justicia del Estado:
 
-I. Fomentar la formación y capacitación del personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+
+I. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación;
 
 II. Promover la especialización de los agentes del Ministerio Público en materia de derechos humanos de las mujeres;
 
@@ -1015,9 +1021,11 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2019)</small>
+
 ###### Artículo 56.
 
-En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley el Código Civil para el Estado de Nuevo León, el Código de Procedimientos Civiles para el Estado de Nuevo León, el Código Penal para el Estado de Nuevo León, el Código de Procedimientos Penales del Estado de Nuevo León, la Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, la Ley del Instituto Estatal de las Mujeres y la Ley que Crea la Comisión Estatal de Derechos Humanos y las demás leyes relativas a la materia.
+En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley el Código Civil para el Estado de Nuevo León, el Código de Procedimientos Civiles para el Estado de Nuevo León, el Código Penal para el Estado de Nuevo León, el Código Nacional de Procedimientos Penales, la Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Nuevo León, la Ley del Instituto Estatal de las Mujeres y la Ley que Crea la Comisión Estatal de Derechos Humanos y las demás leyes relativas a la materia.
 
 T R A N S I T O R I O S
 
@@ -1158,3 +1166,9 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 101. SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, III, V Y VII, ASÍ COMO POR ADICIÓN DE UN ÚLTIMO PÁRRAFO TODOS AL ARTÍCULO 331 BIS 2 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN.”]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 110. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III Y IV DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 26; Y EL ARTÍCULO 49; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 28; LA FRACCIÓN I DEL ARTÍCULO 35; LA FRACCIÓN I DEL ARTÍCULO 36; Y EL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
