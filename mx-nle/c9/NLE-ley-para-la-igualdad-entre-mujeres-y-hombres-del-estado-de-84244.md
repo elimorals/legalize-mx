@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2017-03-10"
+last_updated: "2019-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -237,9 +237,17 @@ I. Armonizar las resoluciones jurisdiccionales en base a los instrumentos intern
 
 II. Promover el conocimiento de la legislación y la jurisprudencia en materia de igualdad;
 
-III. Diseñar y aplicar lineamientos que fomenten la igualdad en el ingreso, selección, permanencia y profesionalización del personal; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
 
-IV. Institucionalizar la perspectiva de género al interior del Poder Judicial, a través de mecanismos de capacitación permanente para favorecer las prácticas igualitarias entre mujeres y hombres.
+III. Diseñar y aplicar lineamientos que fomenten la igualdad en el ingreso, selección, permanencia y profesionalización del personal;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+
+IV. Institucionalizar la perspectiva de género al interior del Poder Judicial, a través de mecanismos de capacitación permanente para favorecer las prácticas igualitarias entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2019)</small>
+
+V. Capacitar al personal de impartición de justicia sobre los tipos de violencia de género, delitos que se cometen por razones de género, protocolos de actuación y atención a víctimas de violencia de género, así como perfiles y patrones de conducta de víctimas y victimarios.
 
 ### CAPÍTULO QUINTO. DE LOS MUNICIPIOS
 
@@ -367,7 +375,9 @@ II. Secretaría General de Gobierno;
 
 III. Secretaría de Finanzas y Tesorería General del Estado;
 
-IV. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+
+IV. Fiscalía General de Justicia del Estado de Nuevo León;
 
 V. Oficina Ejecutiva del Gobernador;
 
@@ -735,9 +745,11 @@ IV. Eliminar cualquier trato diferenciado en los sistemas de procuración y admi
 
 V. Otorgar seguridad pública en condiciones de igualdad a las mujeres y los hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2019)</small>
+
 ###### Artículo 49.
 
-Para los efectos de lo previsto en el artículo anterior la Procuraduría General de Justicia del Estado, la Secretaría de Seguridad Pública y el Instituto de Defensoría Pública de Nuevo León, así como el Tribunal Superior de Justicia del Estado y demás autoridades competentes, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior la Fiscalía General de Justicia del Estado de Nuevo León, la Secretaría de Seguridad Pública y el Instituto de Defensoría Pública de Nuevo León, así como el Tribunal Superior de Justicia del Estado y demás autoridades competentes, desarrollarán las siguientes acciones:
 
 I. Impulsar la capacitación a las autoridades encargadas de la procuración de justicia en materia de igualdad entre mujeres y hombres;
 
@@ -1061,6 +1073,12 @@ JAVIER TREVIÑO CANTÚ
 
 P.O. 10 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 241. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 3° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 241. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 3° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 27 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 110. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III Y IV DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 26; Y EL ARTÍCULO 49; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 28; LA FRACCIÓN I DEL ARTÍCULO 35; LA FRACCIÓN I DEL ARTÍCULO 36; Y EL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
