@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2019-03-25"
+last_updated: "2019-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MARZO DE 2019.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -3641,9 +3641,11 @@ P.O. 25 DE MARZO DE 2019.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto por el que se aprueba el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal de 2019, entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial del estado de Morelos y deberán realizarse los ajustes presupuestarios que correspondan, a partir del 1 de enero de 2019.
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
