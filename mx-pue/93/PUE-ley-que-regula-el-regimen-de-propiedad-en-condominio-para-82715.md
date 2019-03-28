@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2017-12-29"
+last_updated: "2019-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
+LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -141,9 +141,17 @@ V.- El destino general del edificio, terreno o predio y el especial de cada loca
 
 VI.- Los bienes de propiedad común, su destino con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
 
-VII.- Los casos y condiciones en que puede ser modificada la escritura constitutiva; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
 
-VIII.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones.
+VII.- Los casos y condiciones en que puede ser modificada la escritura constitutiva;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
+
+VIII.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2019)</small>
+
+IX.- El reglamento interno del condominio certificado por el Notario Público, su elaboración será propuesta por quienes otorguen la escritura constitutiva, por el desarrollador, el constructor o por la asamblea constituida legalmente.
 
 ###### Artículo 9.
 
@@ -180,6 +188,32 @@ La declaración de voluntad que exige el artículo 8, podrá hacerse también, l
 ###### Artículo 14.
 
 En los testimonios de las escrituras a que se refiere el artículo anterior, se insertará el reglamento interior y se agregará a cada uno de ellos, un ejemplar de ese reglamento certificado por el Notario.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2019)</small>
+
+###### Artículo 14 Bis.
+
+El Reglamento Interno del Condominio deberá contener las disposiciones que por las características específicas del condominio se consideren necesarias, refiriéndose, por lo menos, a lo siguiente:
+
+I.- Los derechos, obligaciones y limitaciones de los condóminos referente a los bienes de uso común, especificando estos últimos, la limitación a que queda sujeto el ejercicio del derecho de usar tales bienes y los propios; así como las sanciones que procedan imponerse a los condóminos;
+
+II.- El cobro de las cuotas del condominio, en caso de aprobarse, no podrán sufrir incrementos superiores al porcentaje establecido como inflación anual por la autoridad competente;
+
+III.- La periodicidad y el procedimiento del cobro de las cuotas;
+
+IV.- Las disposiciones necesarias que propicien la integración, organización, operación y desarrollo de los condóminos;
+
+V.- Las formas de convocar a las asambleas de condóminos y personas que las presidirán;
+
+VI.- Los requisitos, forma de designación y facultades de la administración, en caso de aprobarse;
+
+VII.- La facultad de la asamblea para remunerar, en su caso, a la administración;
+
+VIII.- Casos en que proceda la remoción de la administración;
+
+IX.- El establecimiento de medidas provisionales en los casos de ausencia temporal del administrador; y
+
+X.- Las bases para la modificación del reglamento interior conforme a lo establecido en la escritura constitutiva.
 
 ###### Artículo 15.
 
@@ -650,3 +684,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 8, Y EL ARTÍCULO 14 BIS, TODOS DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
