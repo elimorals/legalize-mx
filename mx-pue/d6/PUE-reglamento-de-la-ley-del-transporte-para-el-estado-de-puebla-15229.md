@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-del-transporte-para-el-estado-de-puebla-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "2015-03-17"
+last_updated: "2019-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 1999.
 
@@ -2155,9 +2155,9 @@ III.- Por caso fortuito o fuerza mayor.
 
 ### CAPÍTULO VII. DE LA PUBLICIDAD Y PROPAGANDA
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2019)</small>
 
-ARTÍCULO 146 BIS.- Los concesionarios o permisionarios que pretendan colocar, fijar o instalar publicidad o propaganda en el exterior o interior del vehículo destinado a la prestación del Servicio Público de Transporte o del Servicio Mercantil, que tenga por objeto exhibir, promover, proyectar, difundir, publicar o prestar productos, bienes o servicios, o en su caso, la promoción o difusión de la materia político-electoral, deberán obtener de la autoridad competente el permiso correspondiente.
+ARTÍCULO 146 BIS.- Se autorizará a los concesionarios o permisionarios la colocación, o instalación de publicidad o propaganda en los vehículos destinados a la prestación del Servicio de Transporte, únicamente cuando ésta tenga por objeto exhibir, promover, proyectar, difundir, publicar o prestar productos, bienes o servicios. Previo a ello, deberán obtener de la autoridad competente el permiso correspondiente.
 
 > <small>(REFORMADO, P.O. 17 DE MARZO DE 2015)</small>
 
@@ -3224,3 +3224,11 @@ P.O. 17 DE MARZO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente.
+
+P.O. 28 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 146 BIS, DEL REGLAMENTO DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA."
+
+PRIMERO. El presente Decreto, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el mismo día de su publicación.
+
+SEGUNDO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
