@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-03-15"
+last_updated: "2019-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -353,13 +353,21 @@ Las órdenes de protección son actos de urgente cumplimiento en función del in
 
 Las órdenes de protección que consagra esta Ley son personalísimas e intransferibles y podrán ser:
 
-I.- De emergencia; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
 
-II.- Preventivas.
+I.- De emergencia;
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
 
-Las órdenes de protección de emergencia y preventivas deberán expedirse de manera inmediata dentro de las ocho horas siguientes al conocimiento de los hechos que las generen. Tendrán una temporalidad no mayor de setenta y dos horas y se dictarán sucesivamente manteniendo su vigencia en tanto permanezcan las condiciones de riesgo que las originaron.
+II.- Preventivas; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2019)</small>
+
+III.- De naturaleza Civil o Familiar.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2019)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generen. Tendrán una temporalidad no mayor de setenta y dos horas y se dictarán sucesivamente manteniendo su vigencia en tanto permanezcan las condiciones de riesgo que las originaron.
 
 ###### ARTÍCULO 26.
 
@@ -413,6 +421,20 @@ VII.- Proporcionar servicios integrales especializados, gratuitos y con perspect
 
 VIII.- Las demás previstas en otras disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2019)</small>
+
+ARTÍCULO 27 BIS.- Son órdenes de protección de naturaleza civil o familiar las siguientes:
+
+I.- Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+II.- Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III.- Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV.- Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
+
+V.- Obligación alimentaria provisional e inmediata.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 28.
@@ -427,11 +449,11 @@ II.- La seguridad de la víctima; y
 
 III.- Los elementos que consten y originen el procedimiento o proceso respectivo.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
-Las órdenes de protección de emergencia, así como las preventivas de naturaleza civil o familiar, se decretarán conforme a las disposiciones establecidas para el procedimiento privilegiado previsto por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+Las órdenes de protección de emergencia, preventivas y las de naturaleza civil o familiar, se decretarán conforme a las disposiciones establecidas para el procedimiento privilegiado previsto por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -1200,3 +1222,13 @@ P.O. 15 DE MARZO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y II, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 25, Y EL ARTÍCULO 29, Y ADICIONA LA FRACCIÓN III AL ARTÍCULO 25, Y EL ARTÍCULO 27 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro del presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 30 días hábiles a partir de la entrada en vigor del presente Decreto.
