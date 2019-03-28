@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-11495
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2017-09-14"
+last_updated: "2019-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el sábado 31 de diciembre de 1983.
 
@@ -293,6 +293,10 @@ V.- Promover la instrumentación del proceso de planeación en sus vertientes de
 
 VI.- Aprobar en Asamblea plenaria y dentro del marco normativo del Sistema Estatal de Planeación Democrática, el Plan Estatal de Desarrollo, dentro de los ciento veinte días posteriores a la fecha de toma de posesión del Gobernador del Estado, para que éste se publique a más tardar dentro de los treinta días siguientes al de su aprobación; su vigencia no excederá del periodo constitucional que le corresponda, pudiendo contener consideraciones y proyecciones de mayor plazo.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2019)</small>
+
+VII.- Promover que el control, seguimiento y evaluación de todos los programas y acciones, incluido el Programa Estatal de Desarrollo, se realice con perspectiva de género a fin de visibilizar el gasto realizado específicamente para la promoción, garantía, respeto y protección de los derechos humanos de las mujeres.
+
 ### CAPITULO III. DEL PROCESO DE PLANEACION
 
 ###### ARTICULO 13.
@@ -311,7 +315,7 @@ III.- Control y,
 
 IV.- Evaluación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 15.
 
@@ -349,17 +353,21 @@ IV.- Regional; y
 
 V.- Municipal.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 18.
 
-Para efectos de esta Ley, se considerará la formulación como la elaboración de planes y programas que contengan objetivos, metas y estrategias.
+Para efectos de esta Ley, se considerará la formulación como la elaboración de planes y programas que contengan objetivos, metas y estrategias con perspectiva de género atendiendo a la protección y garantía de los derechos humanos.
 
 ###### ARTICULO 19.
 
 Para apoyar la elaboración de los planes y programas que refiere la presente Ley, se establece al "Sistema Estatal de Información" como el instrumento de captación, procesamiento y difusión de la información estadística socioeconómica de la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 20.
 
-Se deberán asignar prioridades a los planes y programas para el desarrollo integral y equilibrado atendiendo a los siguientes componentes:
+Se deberán asignar con perspectiva de género las prioridades a los planes y programas para el desarrollo integral y equilibrado atendiendo a los siguientes componentes:
 
 I.- Desarrollo Social.
 
@@ -383,6 +391,10 @@ II.- Determinar los instrumentos y responsables de su ejecución.
 
 III.- Establecer los lineamientos de política social, económica, y administrativa de carácter global, sectorial y regional, según sea el caso.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2019)</small>
+
+Los mecanismos de evaluación, de los programas y acciones que se diseñen e implementen con base en la presente Ley, deberán de generar la estadística que dé cuenta de la situación de derechos humanos de las mujeres y de la reducción de las brechas de género, especialmente en materia de violencias contra las mujeres y empoderamiento económico.
+
 ###### ARTICULO 22.
 
 Los planes y programas que se elaboren deberán someterse a un análisis de congruencia, compatibilización y ajuste para asegurar que los objetivos, metas y estrategias conduzcan al desarrollo integral y equilibrado del Estado.
@@ -391,7 +403,7 @@ Los planes y programas que se elaboren deberán someterse a un análisis de cong
 
 El plan elaborado a nivel estatal indicará los programas sectoriales y regionales que deban realizarse en las diversas dependencias de la administración pública estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 24.
 
@@ -769,7 +781,7 @@ Por tanto mando se imprima, publique y circule para sus efectos.
 
 Dado en el Palacio del Poder Ejecutivo Local, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de diciembre de mil novecientos ochenta y tres.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Carlos Palafox Vázquez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 22 DE MAYO DE 2002
 
@@ -806,3 +818,13 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. EI presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado, implementará las acciones y previsiones presupuestarias para la correcta aplicación y ejecución de la presente reforma.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
