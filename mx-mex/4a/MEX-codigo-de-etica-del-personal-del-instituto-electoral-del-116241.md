@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-del-personal-del-instituto-electoral-del-116241
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-12"
-last_updated: "2016-08-12"
+last_updated: "2019-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DEL PERSONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NO. IEEM/CG/09/2019, EN RELACIÓN CON EL CÓDIGO DE ÉTICA DEL PERSONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PERSONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MARZO DE 2019 (ABROGADO).
 
 Código publicado en el número 31 de la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 12 de agosto de 2016.
 
@@ -178,3 +180,21 @@ PRINCIPIOS RECTORES DE LA FUNCIÓN ELECTORAL Y LOS VALORES ÉTICOS DEL PERSONAL 
 7.5. Evitaré sujetar mi comportamiento a consideraciones o juicios personales que afecten mi desempeño.
 
 7.6. Me mostraré cortés y atento con mis compañeras y compañeros de trabajo, así como con quienes trato laboralmente y con toda persona en general, a través de una conducta coherente con los principios y valores manifestados en el presente Código de Ética, los cuales orientan mis actitudes, decisiones y acciones.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. IEEM/CG/09/2019.- POR EL QUE SE ABROGA EL CÓDIGO DE ÉTICA DEL PERSONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, EXPEDIDO MEDIANTE ACUERDO IEEM/CG/62/2016”.]
+
+PUNTOS DE ACUERDO
+
+PRIMERO.- Se abroga el Código de Ética del Personal del IEEM expedido por el Consejo General mediante Acuerdo IEEM/CG/62/2016.
+
+SEGUNDO.- La difusión del Código de Ética del IEEM al personal del OPLE, que al efecto determinen la Contraloría General y la Junta General deberá incluir lo relativo a la información sobre la presente abrogación.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo surtirá efectos a partir de su aprobación por el Consejo General.
+
+SEGUNDO.- Publíquese el presente Acuerdo en la Gaceta del Gobierno y en la página electrónica del IEEM.
