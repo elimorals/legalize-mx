@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2019-03-08"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -87,9 +87,9 @@ IV. Consejo: Consejo de la Judicatura Federal;
 
 V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
-VI. Coordinaciones: La de Administración Regional; y la de Seguridad del Poder Judicial de la Federación;
+VI. Coordinaciones: Coordinación de Asesores de la Presidencia, Coordinación de Seguridad del Poder Judicial de la Federación y Coordinación de Administración Regional;
 
 VII. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -358,6 +358,10 @@ f) Unidad de Transparencia; y
 g) Las demás que determine el Pleno.
 
 II. Dirección General de Comunicación Social y Vocería.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
+
+III. Coordinación de Asesores de la Presidencia.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -1103,7 +1107,9 @@ La falta temporal del titular de la Dirección de Normatividad y Enlace Instituc
 
 Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Institucional y al titular de la Dirección de Administración Financiera, para determinar el número de servidores públicos necesarios para el óptimo ejercicio de las atribuciones antes descritas.
 
-#### SECCIÓN SEGUNDA. DE LA OFICIALÍA MAYOR
+#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 ### CAPÍTULO SEXTO. DE LA UNIDAD DE ENLACE LEGISLATIVO
 
@@ -1127,7 +1133,9 @@ DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN
 
 Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-En el caso del Secretario General de la Presidencia, Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
+
+En el caso del Secretario General de la Presidencia, del Coordinador de Asesores, los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina; y de los titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral, el título profesional deberá ser de Licenciado en Derecho.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -1203,15 +1211,33 @@ Las ausencias del titular de la Secretaría General, secretarios ejecutivos, Con
 
 Los servidores públicos que suplan por ausencia, incorporarán una leyenda en su firma con fundamento en el presente artículo, e indicarán que actúan en suplencia por ausencia del servidor público que suplen.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
+
 #### SECCIÓN CUARTA. DE LAS SECRETARÍAS EJECUTIVAS EN LO PARTICULAR
 
 ###### Artículo 71.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
+La Coordinación de Asesores de la Presidencia es la unidad administrativa de asesoría y apoyo técnico multidisciplinario de alto nivel que tiene como objetivo constituirse en el área de enlace estratégico de la Presidencia con los órganos jurisdiccionales, unidades administrativas y órganos auxiliares; así como, fungir como enlace con otras instancias, para dotar de información clara, pronta y precisa, de carácter cuantitativo y cualitativo, para la toma de decisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 ###### Artículo 72.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
+El titular de la Coordinación de Asesores, tendrá las siguientes atribuciones:
+
+I. Presentar propuestas de políticas públicas judiciales para implementar las atribuciones constitucionales del Consejo de la Judicatura Federal, en materia de administración, vigilancia, disciplina y carrera judicial;
+
+II. Brindar apoyo y asesoría técnica que requiera el Ministro Presidente para el ejercicio de sus funciones;
+
+III. Dar seguimiento a los programas, proyectos, planes y tareas que el Ministro Presidente le encomiende;
+
+IV. Coadyuvar con el Secretario General de la Presidencia, en la atención a los órganos jurisdiccionales, unidades administrativas y órganos auxiliares del propio Consejo, para contar con información para la toma de decisiones;
+
+V. Asistir, en su caso, como invitado a las sesiones de Pleno, Comités, Comisiones y grupos de trabajo y demás reuniones institucionales que determine el Ministro Presidente. Salvo las que se refieran a sesiones del Pleno, el Coordinador de Asesores podrá designar a un servidor público para que lo represente en las demás reuniones.
+
+VI. Recibir el apoyo de las unidades administrativas y órganos auxiliares del propio Consejo, que sea requerido por la Coordinación de Asesores de la Presidencia para el cumplimiento de las atribuciones conferidas; y
+
+VII. Las demás que le confieran las disposiciones legales y acuerdos generales del Consejo, así como las que le sean encomendadas por el Ministro Presidente.
 
 ###### Artículo 73.
 
@@ -5766,3 +5792,13 @@ DECIMOQUINTO. La Contraloría del Poder Judicial de la Federación, intervendrá
 DECIMOSEXTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional, para que elabore la propuesta de estructura orgánica y documentos administrativos que correspondan.
 
 DECIMOSÉPTIMO. Los servidores públicos que previo a la publicación de la presente reforma iniciaron funciones y no hayan protestado en sesión pública su cargo, deberán rendir la protesta descrita en el nuevo texto del artículo 18, fracción XIII, por escrito y dentro de los 30 días siguientes a aquel en que se publique el presente Acuerdo.
+
+D.O.F. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este acuerdo.
