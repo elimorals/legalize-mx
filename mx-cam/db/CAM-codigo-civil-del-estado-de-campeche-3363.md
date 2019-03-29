@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2018-09-20"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -430,6 +430,10 @@ De las actas de nacimiento.
 ###### Art. 67.
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en el lugar en que hubiere nacido.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+El Oficial del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita la expedición de la primera copia certificada del acta de nacimiento con motivo del registro.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -2224,6 +2228,10 @@ Cuando el deudor alimentario no estuviere presente o estándolo rehusare entrega
 ###### Art. 339.
 
 El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 175. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+Toda persona a quien, por su cargo, empleo o comisión, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar información veraz y exacta que le solicite el Juez competente; de no hacerlo responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos, sin menoscabo de lo dispuesto por otros ordenamientos legales.
 
 ### CAPITULO III.
 
@@ -16390,3 +16398,11 @@ P.O. 20 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 308 POR EL QUE “SE REFORMA EL ARTÍCULO 146 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
 
 ÚNICO.- Este decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 42 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 67 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 339 AL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
