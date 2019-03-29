@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2018-05-23"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -1306,13 +1306,23 @@ Artículo 122
 
 Artículo 123
 
-1. Las comisiones ordinarias no tienen menos de tres ni más de quince integrantes.
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2019)</small>
+
+1. Las comisiones ordinarias estarán conformadas por no menos de tres ni más de quince integrantes.
 
 2. Para efectos del número de comisiones ordinarias en las que participa cada senador, no se considera la pertenencia a comisiones especiales, bicamarales y comités.
 
 3. La Junta, en la medida de lo posible, da preferencia en la selección de comisiones a los grupos parlamentarios cuyo número de integrantes les impide participar en todas las de carácter ordinario.
 
 4. Los senadores que no integran grupo parlamentario son considerados, cuando sea factible, para formar parte en las comisiones ordinarias de su interés. Para ello lo solicitan oportunamente por escrito a la Junta.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2019)</small>
+
+5. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 del artículo 104 de la Ley y del numeral 3 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta y sea aprobado por el Pleno.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2019)</small>
+
+6. Ningún senador pertenecerá a más de cinco comisiones ordinarias, salvo Acuerdo de la Junta.
 
 Artículo 124
 
@@ -3398,7 +3408,7 @@ D.O.F. 6 DE ABRIL DE 2018.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-D.O. F. 13 DE ABRIL DE 2018.
+D.O.F. 13 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 212, 214 Y 217 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
@@ -3439,3 +3449,9 @@ D.O.F. 23 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+D.O.F. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 123 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
