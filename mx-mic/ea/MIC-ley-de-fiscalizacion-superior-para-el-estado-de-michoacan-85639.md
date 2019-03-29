@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-para-el-estado-de-michoacan-85639
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-24"
-last_updated: "2017-07-18"
+last_updated: "2019-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019 (ABROGADO).
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 24 de enero del 2012.
 
@@ -1640,3 +1642,43 @@ QUINTO. La Contraloría Interna del Congreso del Estado, investigará, sustancia
 SEXTO. El Congreso y la Auditoría Superior deberán emitir la normatividad secundaria que les corresponda en los términos de esta Ley; el primero, contará con 90 días hábiles para aprobarla a partir de los proyectos que la Auditoría Superior presente a través de la Comisión, la segunda, contará con 45 días a partir de que el Congreso apruebe lo que le compete.
 
 SÉPTIMO. La Auditoría Superior deberá entregar a la Comisión dentro de los noventa días naturales a partir de la vigencia de la presente Ley, un proyecto en que se disponga un cronograma que marque tiempos en que el órgano técnico concluya las auditorías en proceso de revisión o pendientes, así como desahogue los procedimientos administrativos que se encuentran en trámite o pendientes de resolver, de las diferentes áreas que integran la Auditoría Superior de Michoacán, éste deberá ser aprobado por la Comisión y estará a cargo de la Unidad de Evaluación y Control de su cumplimiento, de no lograrse la unidad iniciará los procedimientos de responsabilidad por su incumplimiento.
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 129 POR EL QUE SE EXPIDE LA "LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, de conformidad con lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 24 de enero del año 2012.
+
+TERCERO. Se abroga el Acuerdo Legislativo número 494, aprobado el día 25 de octubre de 2017, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo los días 30 y 31 de octubre y 1º de noviembre de 2017, y queda sin efectos la Convocatoria emitida mediante para (sic) la designación del titular de la Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán, cuyos plazos concluyeron sin que se hubiere logrado la finalidad de la misma.
+
+Quedan a salvo los derechos de los aspirantes registrados en la convocatoria referida en el párrafo inmediato anterior para que, si así lo consideran, participen en la convocatoria que al efecto emita el Congreso del Estado conforme a lo dispuesto en la ley contenida en el presente Decreto.
+
+La Comisión Inspectora de la Auditoría Superior de Michoacán del Congreso del Estado de Michoacán de Ocampo someterá a consideración y votación del Pleno del Congreso del Estado de Michoacán de Ocampo las convocatorias correspondientes para la designación de los titulares de la Auditoría Especial de Fiscalización Municipal y de la Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán conforme al presente Decreto, a fin de que dichos nombramientos se realicen dentro del periodo ordinario de sesiones que comenzó el 1 de febrero de 2019 y concluirá el 15 de julio del mismo año.
+
+CUARTO. Los procesos de fiscalización, de responsabilidades o trámites en los que la Auditoría Superior de Michoacán forme parte y que se encuentren en curso a la fecha de la entrada en vigor del presente Decreto, se sustanciarán y resolverán conforme a la normatividad que les era aplicable al momento de realización del acto materia de la fiscalización de que se trate.
+
+QUINTO. La reglamentacioìn (sic) de esta Ley deberá expedirse por la Auditoría Superior de Michoacán en ejercicio de su autonomía, en un plazo no mayor a sesenta días naturales, contados a partir del día siguiente al de su entrada en vigor, misma que deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; hasta en tanto, se seguirán aplicando las disposiciones reglamentarias de la Auditoría Superior de Michoacán vigentes al momento de la entrada en vigor del presente Decreto en lo que no se opongan al mismo.
+
+SEXTO. Hasta en tanto el Auditor Superior nombre a los titulares de las áreas de investigación y substanciación de la Auditoría Superior de Michoacán, se atenderá a lo dispuesto a la normatividad en la materia de responsabilidades administrativas y a la normatividad reglamentaria vigente a la fecha de publicación del presente Decreto. El Auditor Superior deberá realizar dichos nombramientos en un plazo máximo de treinta días naturales.
+
+SÉPTIMO. Hasta en tanto se nombre al titular de la Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán, se atenderá la normatividad vigente previa a la aprobación del presente Decreto en materia de responsabilidad de los servidores públicos de la Auditoría Superior de Michoacán, conforme al artículo transitorio quinto de la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo, cuya reforma se publicó en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 18 de julio de 2017, que el presente Decreto abroga.
+
+Una vez nombrado, el titular de la Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán presentará a la Comisión Inspectora un proyecto de reglamento interior, así como los lineamientos, manuales y procedimientos que guiarán el ejercicio de su función. La Comisión Inspectora de la Auditoría Superior de Michoacán, en base al proyecto presentado elaborará el documento correspondiente a efecto de someterlo a consideración del Pleno del Congreso del Estado.
+
+OCTAVO. Para el Plan de Fiscalización correspondiente al Ejercicio Fiscal del Año 2018 se estará a lo dispuesto en la Ley que se abroga mediante el presente Decreto.
+
+NOVENO. El titular de la Auditoría Superior de Michoacán, mediante Acuerdo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en ejercicio de la autonomía que otorga la presente Ley y la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, realizará los ajustes de organización necesarios para el cumplimiento del presente Decreto. El Comité de Dirección de la Auditoría Superior de Michoacán proveerá lo necesario a efecto de que el Servicio Civil de Carrera sea implementado de inmediato.
+
+DÉCIMO. A efecto de conocer sobre los casos en trámite pendientes de resolver, dentro de los veinte días naturales posteriores a la entrada en vigor del presente Decreto la Auditoría Superior rendirá un informe ante la Comisión Inspectora sobre los mismos, especificando su plan de resolución para evitar su posible prescripción o caducidad.
+
+UNDÉCIMO. Se abroga el Acuerdo Legislativo número 53, aprobado el día 30 de noviembre de 2018, y queda sin efectos la Convocatoria emitida para la elección del titular de la Auditoría Superior de Michoacán.
+
+La Comisión Inspectora de la Auditoría Superior de Michoacán del Congreso del Estado de Michoacán de Ocampo someterá a consideración y votación del Pleno del Congreso del Estado de Michoacán de Ocampo la convocatoria referida conforme al presente Decreto, a fin de que dicho nombramiento se realice dentro del periodo ordinario de sesiones que comenzó el 1 de febrero de 2019 y concluirá el 15 de julio del mismo año.
+
+DUODÉCIMO. El Congreso del Estado de Michoacán contará con un término de sesenta días naturales para aprobar las disposiciones que regulan el presupuesto, la contabilidad y la cuenta pública de la Auditoría Superior.
+
+DÉCIMO TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+DÉCIMO CUARTO. Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
