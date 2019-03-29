@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2015-03-23"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,19 @@ issue_date: "2003-05-09"
 ---
 # LEY DEL DERECHO AL ACCESO, DISPOSICION Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MEXICO -- ANTES LEY DEL DERECHO A LOS SERVICIOS PUBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGIA HIDRICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE AGUAS DEL DISTRITO FEDERAL --
 
-LEY DE AGUAS DEL DISTRITO FEDERAL
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MAYO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2015.
+LEY DEL DERECHO A LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGÍA HÍDRICA DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE MARZO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México - La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-DECRETO LEY DE AGUAS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE MARZO DE 2019)</small>
+
+LEY DEL DERECHO A LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGÍA HÍDRICA DE LA CIUDAD DE MEXICO
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -208,21 +212,19 @@ XL. USUARIO.- La persona física o moral que haga uso de uno o más de los servi
 
 XLI. ZANJA DE ABSORCIÓN.- Excavación practicada en el suelo para canalizar el agua pluvial y propiciar su infiltración.
 
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2019)</small>
+
 ###### Artículo 5º.
 
-Toda persona en el Distrito Federal, tiene el derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias. Las autoridades garantizarán este derecho, pudiendo las personas presentar denuncias cuando el ejercicio del mismo se limite por actos, hechos u omisiones de alguna autoridad o persona, tomando en cuenta las limitaciones y restricciones que establece la presente Ley.
+Toda persona en la Ciudad de México, tiene el derecho al acceso suficiente, seguro e higiénico de agua potable disponible para su uso personal y doméstico, así como al suministro libre de interferencias. Las autoridades garantizarán este derecho, pudiendo las personas presentar denuncias cuando el ejercicio del mismo se limite por actos, hechos u omisiones de alguna autoridad o persona, tomando en cuenta las limitaciones y restricciones que establece la presente Ley.
 
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+Se procurará la instalación de sistemas para la captación y reutilización de aguas pluviales en todos los edificios públicos, así como en las unidades habitacionales, colonias, pueblos y barrios en donde no haya abastecimiento continuo o no exista la red de agua potable.
 
-Cuando se suspenda el servicio de suministro de agua, en caso de uso domestico, de acuerdo con lo previsto en esta Ley, las autoridades garantizarán el abasto de agua para consumo humano a quienes se encuentren en este supuesto, mediante la dotación gratuita a través de carros tanques, hidrantes provisionales o públicos distribuidos en las demarcaciones territoriales, del Distrito Federal o garrafones de agua potable, conforme a criterios poblacionales, geográficos, viales, de accesibilidad y de equidad determinados por el Sistema de Aguas.
-
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+Cuando se suspenda el servicio de suministro de agua, en caso de uso doméstico, de acuerdo con lo previsto en esta Ley, las autoridades garantizarán el abasto de agua para consumo humano a quienes se encuentren en este supuesto, mediante la dotación gratuita a través de carros tanques, hidrantes provisionales o públicos distribuidos en las demarcaciones territoriales, de la Ciudad de México o garrafones de agua potable, conforme a criterios poblacionales, geográficos, viales, de accesibilidad y de equidad determinados por el Sistema de Aguas.
 
 La suspensión o restricción del suministro de agua ordenada por el Sistema de Aguas, se sustenta en los criterios establecidos en el párrafo anterior, salvaguardando, en todo momento, el derecho al acceso de agua para consumo humano.
 
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
-
-Para garantizar a la población el libre acceso al agua para su consumo humano, se deberán establecer en los parques; plazas comerciales, y oficinas públicas del Gobierno del Distrito Federal bebederos o estaciones de recarga de agua potable.
+Para garantizar a la población el libre acceso al agua para su consumo humano, se deberán establecer en los parques; plazas comerciales, y oficinas públicas del Gobierno de la Ciudad de México bebederos o estaciones de recarga de agua potable.
 
 ###### Artículo 6º.
 
@@ -396,6 +398,8 @@ XI. Las demás que le atribuyan otras leyes y reglamentos.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2019)</small>
+
 ###### Artículo 15.
 
 Corresponde a la Secretaría el ejercicio de las siguientes facultades:
@@ -404,33 +408,27 @@ I. Integrar a la política ambiental las disposiciones que esta Ley establece en
 
 II. Proteger las cuencas fluviales del agotamiento y degradación de sus suelos y cubierta forestal, así como de actividades perjudiciales que incluyan en sus cauces;
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+II. BIS. Instalar y operar sistemas de captación y reutilización del agua pluvial, en edificios públicos, en las Unidades Habitacionales y en las Colonias de la Ciudad de México, en donde no haya abastecimiento continuo o no exista la red de agua potable.
 
 III. Promover, conjuntamente con la Secretaría de Desarrollo Rural y Equidad para las Comunidades, la investigación sobre la contribución de los recursos forestales al desarrollo sustentable de los recursos hídricos;
 
-IV. Establecer y operar sistemas de monitoreo de la calidad del agua en el Distrito Federal;
+IV. Establecer y operar sistemas de monitoreo de la calidad del agua en la Ciudad de México;
 
 V. Fomentar las mejores prácticas posibles para el uso de productos agroquímicos con miras a reducir al mínimo sus efectos en los recursos hídricos;
 
-> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2011)</small>
+V BIS. Establecer y operar sistemas de monitoreo eléctrico y ahorro de energía en la red de distribución del agua en la Ciudad de México, que permitan reducir los consumos eléctricos de los mismos;
 
-V BIS. Establecer y operar sistemas de monitoreo eléctrico y ahorro de energía en la red de distribución del agua en el Distrito Federal, que permitan reducir los consumos eléctricos de los mismos.
+VI. Emitir las normas ambientales para la Ciudad de México, con relación al manejo integral de los recursos hídricos, la prestación de servicios del agua potable, drenaje y alcantarillado, así como el tratamiento y reúso de aguas residuales, con base en lo establecido en la Ley Ambiental;
 
-VI. Emitir las normas ambientales para el Distrito Federal con relación al manejo integral de los recursos hídricos, la prestación de servicios del agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales, con base en lo establecido en la Ley Ambiental;
+VII. Coordinar y vigilar el registro de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje y alcantarillado y demás cuerpos receptores en la Ciudad de México;
 
-VII. Coordinar y vigilar el registro de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje y alcantarillado y demás cuerpos receptores en el Distrito Federal;
+VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en la Ciudad de México; y
 
-VIII. Establecer y actualizar el registro de descargas de aguas residuales que se viertan en el sistema de drenaje y alcantarillado o a cuerpos receptores en el Distrito Federal; y
+IX. Conducir la política relacionada con la construcción de obras hidráulicas.
 
-> <small>(ADICIONADA, G.O. 30 DE MAYO 2005)</small>
+X. Otorgar concesiones para la realización.
 
-IX. Conducir la política relacionada con la construcción de obras hidráulicas;
-
-> <small>(ADICIONADA, G.O. 30 DE MAYO 2005)</small>
-
-X. Otorgar concesiones para la realización de obras y la prestación de los servicios hidráulicos y vigilar su cumplimiento;
-
-XI. La atención de los demás asuntos que le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la federación o a otras dependencias o entidades de la Administración Pública del Distrito Federal.
+XI. La atención de los demás asuntos que le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la federación o a otras dependencias o entidades de la Administración Pública la Ciudad de México.
 
 ###### Artículo 16.
 
@@ -1166,29 +1164,27 @@ Los términos y condiciones a que deban sujetarse los usuarios para la contratac
 
 ### CAPÍTULO I. DEL TRATAMIENTO DE AGUAS RESIDUALES Y SU REUSO
 
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2019)</small>
+
 ###### Artículo 77.
 
 El Sistema de Aguas está facultada (sic) para:
 
-I. Establecer criterios técnicos para el control y la prevención de la contaminación por la descarga de aguas residuales al sistema de drenaje del Distrito Federal, con base en las normas oficiales mexicanas y las normas ambientales para el Distrito Federal;
+I. Establecer criterios técnicos para el control y la prevención de la contaminación por la descarga de aguas residuales al sistema de drenaje de la Ciudad de México, con base en las normas oficiales mexicanas y las normas ambientales para la Ciudad de México;
 
-II. Ejercer las atribuciones en materia de calidad del agua a través del monitoreo que se lleve a cabo en el Laboratorio Central de Calidad del Agua del sistema hidráulico del Distrito Federal, en cumplimiento a las normas oficiales mexicanas y a las diversas disposiciones legales;
-
-> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2011)</small>
+II. Ejercer las atribuciones en materia de calidad del agua a través del monitoreo que se lleve a cabo en el Laboratorio Central de Calidad del Agua del sistema hidráulico de la Ciudad de México, en cumplimiento a las normas oficiales mexicanas y a las diversas disposiciones legales;
 
 III. Ejercer el control electrónico del bombeo en la red de distribución de agua que permita reducir el consumo eléctrico.
 
 IV. Revisar y aprobar los proyectos de los sistemas de tratamiento de aguas residuales;
 
+IV BIS. Revisar y aprobar los proyectos de los sistemas de recolección de aguas pluviales.
+
 V. Establecer las condiciones específicas de pretratamiento de las descargas no domésticas que lo requieran para la remoción o reducción de concentraciones de determinados contaminantes;
 
 VI. Otorgar los permisos de descarga de aguas residuales no domésticas al sistema de drenaje;
 
-> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2011)</small>
-
 VII. Registrar, monitorear y vigilar el cumplimiento de las disposiciones de las Normas Oficiales mexicanas y las disposiciones aplicables de la calidad de las descargas de aguas residuales;
-
-> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2011)</small>
 
 VIII. Revisar los proyectos de las obras de los sistemas de tratamiento que se pretenden construir por parte de los particulares, que descarguen a los sistemas de drenaje y, en su caso, recomendar las modificaciones que estime convenientes, y
 
@@ -2221,3 +2217,13 @@ SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Di
 TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
 
 CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE AGUAS DEL DISTRITO FEDERAL POR LA LEY DEL DERECHO A LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGÍA HÍDRICA DE LA CIUDAD DE MÉXICO, Y REFORMA, MODIFICA Y ADICIONA DIVERSAS DISPOSICIONES. ASIMISMO, SE REFORMA Y ADICIONA EL ARTÍCULO 5 DE LA LEY DE AGUAS DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial.
+
+TERCERO.- En términos del artículo Trigésimo Noveno Transitorio de la Constitución Política de la Ciudad de México, se armonizan y adecuan todos los artículos y disposiciones en la Ley del Derecho al Acceso, Disposición y Saneamiento del agua de la Ciudad de México.
