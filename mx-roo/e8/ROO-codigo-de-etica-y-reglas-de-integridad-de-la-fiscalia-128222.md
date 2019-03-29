@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-y-reglas-de-integridad-de-la-fiscalia-128222"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-30"
-last_updated: "2018-04-30"
+last_updated: "2019-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA Y REGLAS DE INTEGRIDAD DE LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de abril de 2018.
 
@@ -300,3 +302,13 @@ SEGUNDO. Se dejan sin efecto todas las disposiciones jurídicas y administrativa
 TERCERO. Publíquese en el Periódico Oficial del Estado de Quintana Roo.
 
 DADO EN LAS OFICINAS QUE OCUPA EL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DEL ESTADO, A LOS VEINTE DÍAS DEL MES DE ABRIL DE DOS MIL DIECIOCHO. LA TITULAR DEL ÓRGANO INTERNO DE CONTROL, M.D.E. AIDA LETICIA LEÓN CANTO. (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ADMINISTRATIVO 01/2019 DEL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Acuerdo tendrá una vigencia indefinida y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Acuerdo 01/2018 emitido por la Titular del Órgano Interno de Control, mediante el cual emitió el Código de Ética y Reglas de Integridad de la Fiscalía General del Estado de Quintana Roo, dejando sin efecto todas las disposiciones jurídicas y administrativas que contravengan el presente Acuerdo.
