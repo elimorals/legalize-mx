@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-pesca-y-acuacultura-9400
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-19"
-last_updated: "2013-04-19"
+last_updated: "2019-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE PESCA Y ACUACULTURA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 19 de abril de 2013.
 
 JOSÉ GUADALUPE OSUNA MILLAN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 49 FRACCION XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 10, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 X.- Que de acuerdo a lo dispuesto en los artículos 49 fracción XVI, de la Constitución Política del Estado Libre y Soberano de Baja California, y 3 de la Ley Orgánica de la Administración Pública del Estado de Baja California y, en atención a lo dispuesto en los considerandos anteriores, el Gobernador del Estado está facultado para formular y expedir el Reglamento Interno de la Secretaría de Pesca y Acuacultura, para el buen despacho de la Administración Pública Estatal; por lo que se expide el siguiente:
 
@@ -44,6 +46,12 @@ El presente Reglamento Interno tienen (sic) por objeto regular la organización 
 ###### ARTÍCULO 2.
 
 Corresponde a la Secretaría de Pesca y Acuacultura, como dependencia del Poder Ejecutivo del Estado, el despacho de los asuntos a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California, la Ley Orgánica de la Administración Pública del Estado de Baja California, la Ley de Pesca y Acuacultura Sustentable para el Estado de Baja California, y demás atribuciones que le otorguen otras leyes, decretos, reglamentos, acuerdos y demás disposiciones vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 2 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
 ###### ARTÍCULO 3.
 
@@ -68,6 +76,10 @@ a) Unidad de Regulación.
 b) Unidad de Asesoría, Capacitación y Asistencia Técnica.
 
 c) Unidad de Planeación e Inversión.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+d) Órgano Interno de Control.
 
 II.- Dirección de Pesca.
 
@@ -167,7 +179,13 @@ XXIX. Emitir resolución sobre los recursos administrativos que se interpongan, 
 
 XXX. Establecer los planes de trabajo y política interna que empleará la Secretaría para el cumplimiento de sus atribuciones; y
 
-XXXI. Las demás que le sean encomendadas por el Ejecutivo Estatal, y aquéllas que se establezcan en las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2019)</small>
+
+XXXI. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2019)</small>
+
+XXXII. Las que con el carácter de no delegables le atribuya el Gobernador del Estado, y las demás que le confieran los diversos ordenamientos y disposiciones legales aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -178,6 +196,10 @@ a) Unidad de Regulación.
 b) Unidad de Asesoría, Capacitación y Asistencia Técnica.
 
 c) Unidad de Planeación e Inversión.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+d) Órgano Interno de Control.
 
 ###### ARTÍCULO 10.
 
@@ -193,7 +215,9 @@ IV. Recopilar y difundir entre las unidades administrativas de la Secretaría, l
 
 V. Remitir a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado, leyes, reglamentos, decretos y demás disposiciones relativas a asuntos competencia de la Secretaría;
 
-VI. Representar legalmente a la Secretaría en los juicios contenciosos en los que sea parte, así como en los amparos interpuestos en contra de actos de la Secretaría, elaborar los informes previos y justificados e intervenir cuando ésta tenga el carácter de tercero perjudicado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2019)</small>
+
+VI. Representar legalmente a la Secretaría en los juicios contenciosos en los que sea parte, así como en los amparos interpuestos en contra de actos de la Secretaría, elaborar los informes previos y justificados e intervenir cuando ésta tenga el carácter de tercero interesado;
 
 VII. Intervenir en las reclamaciones que puedan afectar el interés jurídico de la Secretaría; formular ante el agente del ministerio público querella, denuncia y otorgamiento del perdón y consentimiento, presentar los desistimientos que procedan previo acuerdo con el Secretario;
 
@@ -229,7 +253,7 @@ I. Planear y brindar la asistencia técnica en los programas de apoyo, inversió
 
 II. Planear y coordinar con las unidades administrativas de la Secretaría, el Programa Operativo Anual, aplicando las metodologías requeridas para ello, buscando impulsar y fomentar la participación de los productores pesqueros y acuícolas en las políticas de desarrollo del sector; que permita evaluar mediante indicadores de seguimiento, la administración de los recursos públicos en el cumplimiento de las acciones estratégicas;
 
-III. Llevar el seguimiento y evaluar la operación de los programas y proyectos que ejecuten las unidades administrativas de la Secretaría, así como el análisis de la información para determinar el impacto económico y social;
+III. (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 IV. Aplicar las políticas y procedimientos, que en materia de planeación, programación y presupuestación, establezca la legislación vigente;
 
@@ -237,7 +261,7 @@ V. Coordinar y brindar asesoría necesaria a las áreas operativas de la Secreta
 
 VI. Realizar las acciones de gestión de los planes, programas o proyectos para la obtención de recursos que requiera la Secretaría, para su implementación y operación;
 
-VII. Dar seguimiento y evaluar la operación de los programas y proyectos que ejecute la Secretaría en materia de pesca y acuacultura;
+VII. (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 VIII. Coordinar la integración de los informes que requiera la Secretaría, a fin de cumplir con las normas que regulen los programas y proyectos en base a su fuente de financiamiento o modalidad de inversión;
 
@@ -246,6 +270,44 @@ IX. Coordinarse con la dependencia competente, en el proceso de elaboración o a
 X. Coordinar y ejecutar a través del Sistema Integral de Inversión Pública, la planeación, aprobación y ejecución de los recursos aprobados o que se asigne a la Secretaría, para el cumplimiento de su operación y cumplimiento de acciones de su competencia; y
 
 XI. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 12 BIS.- La Secretaría contará con un Órgano Interno de Control para el cumplimiento de lo previsto en el artículo 92 Apartado A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Secretaría y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Secretaría;
+
+III. Revisar que las operaciones presupuestales que realice la Secretaría se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+III (SIC). Requerir a las unidades administrativas de la Secretaría que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+IV. Informar al Secretario sobre los resultados de las revisiones, auditorias y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+V. Vigilar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la Dependencia se realicen con apego a las Leyes en la materia;
+
+VI. Requerir a terceros que hubieran contratado bienes o servicios con la Secretaría la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+VIII. Intercambiar con contralores internos de otras dependencias y entidades paraestatales de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
+
+IX. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Secretaría cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+X. Requerir a los servidores públicos de la Secretaría, información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XI. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental a través del Director de Auditoria Gubernamental de la misma dependencia, derivados de las funciones comentadas;
+
+XII. Expedir, previo cotejo, copias certificas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de la Secretaría en coordinación con la Secretaria de la Contraloría y Transparencia Gubernamental, a fin de facilitar un actuar en apego a las disposiciones que la rigen; y
+
+XIV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoria Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 12 TER.- El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LOS DIRECTORES
 
@@ -283,7 +345,13 @@ XIV. Informar periódicamente al Secretario sobre el avance y resultado de los p
 
 XV. Proponer a la unidad administrativa que corresponda en la Secretaría, el Presupuesto de Egresos de sus áreas de competencia; y
 
-XVI. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2019)</small>
+
+XVI. En el ámbito de su competencia, supervisar los avances de los contratos de prestación de servicios, programas y convenios en los que participe la Secretaría o se comprometan recursos económicos de la misma; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MARZO DE 2019)</small>
+
+XVII. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS JEFES DE DEPARTAMENTO Y TITULARES DE UNIDADES ADMINISTRATIVAS ADSCRITAS A LA OFICINA DEL TITULAR
 
@@ -479,7 +547,7 @@ XI. Promover la utilización de energías alternativas que sean armónicas con e
 
 XII. Promover y actualizar el Programa de Ordenamiento Pesquero de Baja California, actualizando el padrón de embarcaciones, unidades de producción pesquera, pescadores y pesquerías;
 
-XIII. Mantener actualizado el padrón de mecanismos electrónicos identificadores (chips) en las embarcaciones existentes e instalar nuevos chips en las embarcaciones que ingresen a la actividad;
+XIII. (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 XIV. Promover la utilización de nuevas tecnologías para el apoyo de la pesca y la seguridad de la vida en el mar; y
 
@@ -535,11 +603,11 @@ I. Coordinar, supervisar y atender la observancia de la normatividad en materia 
 
 II. Participar, instrumentar y evaluar las campañas de sanidad en coordinación con las instancias federales, estatales y municipales;
 
-III. Establecer, en el ámbito de competencia de la Secretaría, las medidas de control para la movilización de productos y subproductos pesqueros y acuícolas en la entidad;
+III. (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 IV. Difundir permanentemente entre los productores pesqueros y acuícolas, los comerciantes de sus productos y subproductos, así como del público consumidor, las medidas de prevención para garantizar la sanidad e inocuidad de los productos del sector;
 
-V. Establecer, en atención a las atribuciones de la Secretaría, los parámetros de control sanitario en materia acuícola, expidiendo las normas que garanticen la inocuidad de los productos en todas las etapas de su producción;
+V. (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 VI. Coordinarse con el titular del Departamento de Inspección y Vigilancia de la Secretaría, para el eficaz desempeño de sus funciones;
 
@@ -605,7 +673,9 @@ XI. Informar al Secretario, de los avances físicos de los programas y proyectos
 
 XII. Resguardar la documentación soporte del ejercicio de los programas y disposiciones presupuestales;
 
-XIII. Supervisar los avances de los contratos de servicios, ejecución de obras o programas en los que participe la Secretaría; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2019)</small>
+
+XIII. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
 
 XIV. Las demás que le encomiende el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -624,6 +694,12 @@ Oficina del Titular, serán suplidos en sus ausencias por el servidor público q
 ###### ARTÍCULO 28.
 
 Los Jefes de Departamento serán suplidos en sus ausencias por el servidor público que designe el Director de la adscripción del área que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+###### ARTÍCULO 29.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -648,3 +724,15 @@ SECRETARIO GENERAL DE GOBIERNO
 ALBERTO FAUSTINO SILVA GALINDO
 
 SECRETARIO DE PESCA Y ACUACULTURA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO INTERNO DE LA SECRETARÍA DE PESCA Y ACUACULTURA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Pesca y Acuacultura, a partir de la entrada en vigor del presente decreto deberá realizar la (sic) gestiones necesarias en conjunto de la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas de autorización de las modificaciones presupuestales necesarias de acuerdo a su techo presupuestal ante la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar al término del primer trimestre del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO.- La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
