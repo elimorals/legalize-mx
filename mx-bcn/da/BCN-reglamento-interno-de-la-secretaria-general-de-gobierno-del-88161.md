@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-del-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-01"
-last_updated: "2018-04-13"
+last_updated: "2019-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -55,9 +55,9 @@ I. Oficina del Titular.
 
 A) Secretaría Particular.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
 
-B) Coordinación de Protección Civil del Estado.
+B) Coordinación Estatal de Protección Civil de Baja California.
 
 C) Dirección de Administración.
 
@@ -117,13 +117,37 @@ IV. Subsecretaría de Gobierno para Asuntos legislativos.
 
 A) Dirección de Estudios y Proyectos Legislativos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+A1) Coordinación de Proyectos Legislativos.
+
 B) Dirección de Seguimiento Legislativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+B1) Coordinación de Vinculación Gubernamental.
 
 C) Dirección de Planeación y Estudios Legislativos.
 
 V. Subsecretaría de Enlace para Asuntos de Justicia.
 
 A) Dirección Estatal de Defensoría Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+A1) Coordinación de Defensoría Pública Mexicali.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+A2) Coordinación de Defensoría Pública Tijuana.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+A3) Coordinación de Defensoría Pública Ensenada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2019)</small>
+
+A4) Coordinación de Defensoría Pública Tecate.
 
 B) Dirección de Estudios para Asuntos de Justicia.
 
@@ -271,11 +295,13 @@ XXXVI. Designar a los integrantes del Comité de Transparencia y proveer lo nece
 
 XXXVII. Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
-Se adscriben directamente a la Oficina del Titular, la Secretaría Particular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica, la Subsecretaría de Gobierno para Asuntos Legislativos, la Subsecretaría de Enlace para Asuntos de Justicia, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Coordinación de Protección Civil del Estado, y la Dirección de Administración.
+Se adscriben directamente a la Oficina del Titular, la Secretaría Particular, la Subsecretaría de Gobierno, la Subsecretaría Jurídica, la Subsecretaría de Gobierno para Asuntos Legislativos, la Subsecretaría de Enlace para Asuntos de Justicia, las Subsecretarías de Gobierno ubicadas en los municipios de Tijuana y Ensenada, la Coordinación Estatal de Protección Civil de Baja California, y la Dirección de Administración.
+
+Corresponde al Secretario General de Gobierno, el nombrar y remover libremente a los titulares de las referidas áreas, salvo a aquellos funcionarios que le corresponda a una autoridad distinta.
 
 ###### ARTÍCULO 8.
 
@@ -305,11 +331,11 @@ VIII. Convocar y organizar reuniones de trabajo que el Secretario establezca con
 
 IX. Las demás que le sean encomendadas por el Secretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 10.
 
-Corresponde a la Coordinación de Protección Civil del Estado, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Coordinación Estatal de Protección Civil de Baja California, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
 I. Coordinar conjuntamente con las dependencias y entidades de los tres órdenes de gobierno en el Estado, actividades que se relacionen con la protección civil;
 
@@ -429,11 +455,25 @@ XX. Las demás que le sean encomendadas por el Secretario y aquellas que le conf
 
 Se adscribe a la Dirección de Administración, el Departamento de Servicios Administrativos.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde al Departamento de Servicios Administrativos, por conducto de su titular, el ejercicio de la atribución siguiente:
+Corresponde al Departamento de Servicios Administrativos, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
-Proporcionar los servicios de apoyo administrativo en materia de recursos humanos y materiales, de conformidad con las normas, lineamientos y procedimientos establecidos y demás disposiciones que emita la Dependencia normativa correspondiente.
+I. Diseñar, proponer y verificar el cumplimiento de normas, políticas, lineamientos y procedimientos aplicados en los procesos inherentes a los recursos humanos, materiales y financieros;
+
+II. Gestionar y operar, en el ámbito de sus atribuciones, los procesos de reclutamiento, selección, inducción, remuneraciones, relaciones laborales, contratación, capacitación y desarrollo del personal que se requiera para el mejor desarrollo de los programas establecidos en la Secretaría;
+
+III. Establecer el control de incidencias, pre-nómina y trámite para el pago de sueldos, salarios y demás remuneraciones por servicios personales de la Secretaría;
+
+IV. Programar las adquisiciones y suministro de bienes y servicios administrativos con el propósito de proporcionar los servicios generales requeridos por las unidades administrativas para el desarrollo de actividades;
+
+V. Controlar y actualizar los inventarios de los bienes muebles asignados en lo que respecta a la Secretaría;
+
+VI. Proporcionar los servicios de limpieza a las diferentes unidades administrativas de la dependencia; y
+
+VII. Las demás que le san encomendadas por el superior inmediato, y aquellas que confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS SUBSECRETARIOS
 
@@ -667,7 +707,7 @@ XIV. Notificar las resoluciones sobre la expedición, revalidación,, (sic) modi
 
 XV. Realizar el estudio de cumplimiento de requisitos y practicar las visitas de verificación e inspección necesarias conforme al marco jurídico en materia de casas de empeño.
 
-XVI. Apoyar, orientar, canalizar y dar seguimiento a demandas y planteamientos por los ciudadanos en lo individual, sobre asuntos de interés económico y social, que por conducto del Secretario soliciten la intervención del Ejecutivo del Estado;
+XVI.- (DEROGADA, P.O. 29 DE MARZO DE 2019)
 
 XVII. Promover la cultura de los derechos humanos y la política institucional del Ejecutivo del Estado en la materia;
 
@@ -681,11 +721,21 @@ XX. Las demás que les sean encomendadas por el superior inmediato, y aquellas q
 
 Se adscribe a la Dirección de Gobierno, el Departamento de Gobierno.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponde al Departamento de Gobierno, por conducto de su titular, el ejercicio de la atribución siguiente:
+Corresponde al Departamento de Gobierno, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
-Coordinar las acciones de gobierno relacionadas con la legalización, apostilla, casas de empeño, correspondencia y archivo, anuencias y expedición de concesiones y permisos que no estén asignados a otra Dependencia, y las demás que le sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+I. Coordinar y dirigir las acciones de gobierno, relativas a apostilla, control de correspondencia y archivo, al registro y legalización de firmas autógrafas de los servidores públicos estatales, presidentes municipales, y demás servidores públicos;
+
+II. Recibir, registrar, tramitar y archivar la legalización de firmas en documentos elaborados o certificados por notarios públicos; así como los certificados de estudios de primaria, secundaria, universitarios y títulos profesionales expedidos en el Estado;
+
+III. Recibir, registrar y tramitar la certificación de copias del Periódico Oficial y permisos del Ejecutivo; así como coordinar las acciones de gobierno relacionadas con la anuencia y expedición de concesiones y permisos que no estén asignados a otra dependencias;
+
+IV. Verificar que se realicen las publicaciones en el Periódico Oficial del Estado, que hubiere ordenado el titular o solicitado por las autoridades municipales y federales, según sea el caso; y
+
+V. Las demás que le san (sic) encomendadas por el superior inmediato, y aquellas que confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -1185,9 +1235,25 @@ VIII. Participar en las comisiones de dictamen legislativo del Congreso del Esta
 
 IX. Las demás que le sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
+
 ###### ARTÍCULO 43.
 
-La Dirección de Estudios y Proyectos Legislativos, contará con los servidores públicos que se consideren necesarios para el desempeño de sus funciones y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que se les instruya el superior inmediato.
+Se adscribe a la Dirección de Estudios y Proyectos Legislativos la Coordinación de Proyectos Legislativos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 43 BIS.- Corresponde a la Coordinación de Proyectos Legislativos, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Elaborar o revisar los proyectos de iniciativas de ley, decretos, reglamentos de ley, acuerdos de ley internos o modificaciones a los mismos que soliciten las dependencias y entidades del sector;
+
+II. Revisar y aprobar las opiniones jurídicas de los trabajos técnicos jurídicos legislativos;
+
+III. Diseñar, integrar y proponer las normas y lineamientos que regulen la ejecución de acciones aplicables en los procesos y sistemas;
+
+IV. Evaluar y aprobar los trabajos técnicos jurídicos legislativos que elaboran en el área; y
+
+V. Las demás que le san (sic) encomendadas por el superior inmediato, y aquellas que confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -1208,6 +1274,26 @@ VI. Representar al Ejecutivo del Estado, en ausencia del Subsecretario de Gobier
 VII. Llevar a cabo reuniones con los Diputados o Grupos Parlamentarios del Congreso del Estado, para revisar y analizar las iniciativas, o bien para atender algún punto de acuerdo económico que decrete la Legislatura local; y,
 
 VIII. Las demás que le sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 44 BIS.- Se adscribe a la Dirección de Seguimiento Legislativo la Coordinación de Vinculación Gubernamental.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 44 TER.- Corresponde a la Coordinación de Vinculación Gubernamental, el ejercicio de las atribuciones siguientes:
+
+I. Llevar a cabo el control y seguimiento de los asuntos que se presenten en las sesiones de pleno del Congreso del Estado;
+
+II. Recibir, organizar y registrar las leyes, decretos y acuerdos que envíe el Congreso para su publicación, así mismo revisar en el Periódico Oficial su publicación;
+
+III. Solicitar información al Congreso Local de las opiniones de iniciativas presentadas en las sesiones de pleno a fin de llevar un control de las mismas;
+
+IV. Llevar el registro de los asuntos presentados en las sesiones de cabildo de los ayuntamientos del Estado, para determinar su control y seguimiento;
+
+V. Participar en reuniones con la Secretaría de Planeación y Finanzas y la Auditoria Superior del Estado, a fin de establecer la coordinación de actividades para el registro de información relacionada con las cuentas públicas que permita la prevención de posibles problemas; y
+
+VI. Las demás que le san (sic) encomendadas por el superior inmediato, y aquellas que confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
@@ -1272,6 +1358,26 @@ V. Defender jurídicamente, al personal de los cuerpos de seguridad en el Estado
 VI. Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 La Dirección Estatal de Defensoría Pública contará con los asesores jurídicos y servidores públicos que se consideren necesarios para el cabal desempeño de sus funciones y que se autoricen en el presupuesto de egresos vigente, los cuales estarán agrupados por coordinaciones, según la materia de los asuntos litigiosos que ante ella se planteen.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 48 BIS.- Se adscriben a la Dirección Estatal de Defensoría Pública, las Coordinaciones de Defensoría Pública Mexicali, Tijuana, Ensenada y Tecate.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+
+ARTÍCULO 48 TER.- Corresponde a las Coordinaciones de Defensoría Pública Mexicali, Tijuana, Ensenada y Tecate, por conducto de sus titulares, el ejercicio de las atribuciones siguientes:
+
+I. Defender jurídicamente en materia penal, en cualquier etapa del procedimiento a las personas que lo soliciten, o cuando a falta de un defensor particular, el ministerio público o el juez designe al de oficio;
+
+II. Patrocinar en materia familiar y civil, a las personas que no cuenten con los recursos económicos necesarios para contratar o continuar con los servicios de un abogado particular, debiendo al (sic) interesado demostrar su situación patrimonial;
+
+III. Orientar y asesorar en materia jurídica a las personas que lo soliciten;
+
+IV. Defender, orientar y asesorar a los menores infractores y/o a representantes legales, conforme a la ley en materia;
+
+V. Defender jurídicamente, al personal de los cuerpos de seguridad en el estado cuando no cuenten con un defensor, en los términos de la ley aplicable; y
+
+VI. Las demás que le san (sic) encomendadas por el superior inmediato, y aquellas que confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 49.
 
@@ -1640,3 +1746,9 @@ La Comisión Local de Búsqueda iniciará sus funciones a partir del nombramient
 ###### ARTÍCULO CUARTO.
 
 La Secretaría General de Gobierno, realizará las gestiones necesarias a fin de que en los recursos asignados a la referida Secretaría en el Presupuesto de Egresos para el Ejercicio Fiscal 2019, se incorporen los destinados a la Comisión Local de Búsqueda, previéndose los compromisos programáticos y presupuestales requeridos para su operación.
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 7, 10, 13, 26, 43 Y 48; SE ADICIONAN LOS ARTÍCULOS 43 BIS, 44 BIS, 44 TER, 48 BIS Y 48 TER; Y SE DEROGA LA FRACCIÓN XVI DEL ARTÍCULO 24 DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
