@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2013-03-01"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACIÓN PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -49,7 +49,9 @@ SECRETARIO DEL XVI AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACIÓN PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto, he tenido a bien someter a consideración del Ayuntamiento de Mexicali, el siguiente:
 
@@ -311,13 +313,19 @@ El acuerdo que autorice el desarrollo de las acciones de urbanización a que se 
 
 El proyecto ejecutivo de toda acción de urbanización, se integrará con la documentación a que se refiere el artículo 172 de la Ley, así como con la que para cada caso determine el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2019)</small>
+
 ###### Artículo 23.
 
-La autorización para realizar cualquier acción de urbanización se emitirá mediante acuerdo de la Dirección que deberá observar las siguientes disposiciones:
+La autorización para realizar acciones de urbanización se emitirá mediante acuerdo de la Dirección que deberá observar las siguientes disposiciones:
 
-I.- Deberá publicarse en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, cuando se trate de autorización de fraccionamientos, o modificaciones a éstos;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2019)</small>
 
-II.- En cualquier caso, la autorización deberá inscribirse en el Registro Público de la Propiedad y de Comercio, así como en el catastro municipal;
+I.- Deberá publicarse en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, para los casos de nuevos fraccionamientos, modificaciones a los previamente autorizados y aquellos que ameriten la suspensión parcial o definitiva de su autorización.
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2019)</small>
+
+II.- En los casos de autorizaciones, modificaciones y suspensiones de acciones de urbanización que modifiquen las dimensiones de propiedad, deberán inscribirse en el Registro Público de la Propiedad y de Comercio, así como en el catastro municipal;
 
 III.- El acuerdo de autorización deberá incluir:
 
@@ -325,7 +333,9 @@ a.- La descripción de los antecedentes de propiedad del predio objeto de la acc
 
 b.- Las obligaciones a cargo del urbanizador y del promotor inmobiliario.
 
-c.- Los proyectos, planos y demás elementos gráficos necesarios para expresar las características y especificaciones de las obras de urbanización a llevar a cabo.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
+
+c.- Antecedentes de la aprobación respectiva, así como la descripción y características de los proyectos, planos y demás elementos gráficos necesarios para expresar las características y especificaciones de las obras de urbanización a llevar a cabo.
 
 d.- La determinación de las áreas para equipamiento cuya propiedad deberá cederse gratuitamente al Gobierno del Estado de Baja California o al Municipio, y el plazo para formalizar dichas cesiones.
 
@@ -337,9 +347,9 @@ f.- Los plazos para la terminación de las obras de urbanización, las garantía
 
 g.- Las condiciones a que se sujetará la autorización para transmitir el dominio de los predios resultantes de la acción de urbanización.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2019)</small>
 
-h.- Acuerdo de Cabildo; donde manifieste que el urbanizador o promotor inmobiliario, cumple con la normatividad vigente, para realizar la acción de urbanización.
+h.- Para la acción de urbanización denominada Fraccionamiento, se requiere dictamen por parte de la Dirección de Administración Urbana, de que la propuesta del urbanizador cumple con la normatividad vigente, previa opinión en el ámbito de sus respectivas competencias, de la Dirección de Obras Públicas Municipales, Dirección de Servicios Públicos y Oficialía Mayor.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -348,6 +358,14 @@ i.- Los demás elementos e información que para cada caso se determinan en el p
 IV.- Todos los gastos y derechos que se causen en el procedimiento de autorización, serán a cargo del urbanizador o promotor inmobiliario;
 
 V.- En el caso de que el urbanizador sea el Municipio, la autorización la emitirá el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2019)</small>
+
+VI.- Todo fraccionamiento en proceso de autorización, se expondrá ante la Comisión de Desarrollo Urbano y Control Ecológico del Ayuntamiento, conforme a la calendarización que determinen de manera conjunta la Dirección y la Comisión. La Dirección de Administración Urbana informará a dicha Comisión, cuando un fraccionamiento se encuentre próximo a autorizarse, para que dicha exposición se lleve a cabo de manera previa por parte del urbanizador o del promotor inmobiliario, con la presencia de la Dirección, y pueda ser conocido por los Regidores integrantes de la citada Comisión para su retroalimentación, antes de su correspondiente autorización por la Dirección de Administración Urbana.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 29 DE MARZO DE 2019.]</small>
+
+La falta de exposición ante la Comisión referida, no constituirá impedimento o limitante para la autorización correspondiente.
 
 ###### Artículo 24.
 
@@ -1205,10 +1223,16 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 
 P.O. 7 DE SEPTIEMBRE DE 2012.
 
-SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 1 DE MARZO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA MODIFICAR EL PRIMER PÁRRAFO DEL ARTÍCULO 23, ASÍ COMO SUS FRACCIONES I, II Y III INCISOS C) Y H) Y SE ADICIONA LA FRACCIÓN VI, DEL REGLAMENTO GENERAL DE ACCIONES DE URBANIZACIÓN PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
