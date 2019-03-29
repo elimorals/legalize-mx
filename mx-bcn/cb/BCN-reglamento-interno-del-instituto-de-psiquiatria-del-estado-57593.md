@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-psiquiatria-del-estado-5759
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-26"
-last_updated: "2007-10-26"
+last_updated: "2019-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE PSIQUIATRIA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL INSTITUTO DE PSIQUIATRIA DEL ESTADO DE BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE PSIQUIATRÍA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL INSTITUTO DE PSIQUIATRÍA DEL ESTADO DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -159,7 +161,7 @@ VIII. Redactar las comunicaciones oficiales cuando así se acuerde en el Pleno d
 
 IX. Las demás que le señale la Junta Directiva, para el adecuado desarrollo de las sesiones.
 
-#### SECCIÓN IV. DE lOS VOCALES
+#### SECCIÓN IV. DE LOS VOCALES
 
 ###### ARTÍCULO 18.
 
@@ -1168,3 +1170,23 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SALUD
 
 JOSÉ GUADALUPE BUSTAMANTE MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DE PSIQUIATRÍA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto de Psiquiatría del Estado de Baja California publicado en el Periódico Oficial del Estado de fecha 26 de octubre del 2007.
+
+TERCERO.- Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no autorice los recursos financieros necesarios para dar cumplimiento a lo previsto en el Artículo 25 del presente Reglamento, lo cual no podrá excederse del mes de marzo del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del primer trimestre del ejercicio fiscal 2019.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el mes de marzo de 2019.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Reglamento se estuvieren substanciado en las unidades administrativas que en virtud de este ordenamiento se suprimen o modifican en la estructura del IPEBC, se turnan de inmediato a las unidades administrativas que por efecto del mismo, resulten competentes para la continuación de su trámite.
+
+QUINTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia y/o estructura, en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las unidades administrativas que asumen las correspondientes funciones, de conformidad con la normatividad aplicable.
