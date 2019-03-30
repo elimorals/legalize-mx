@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2018-05-30"
+last_updated: "2019-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 16 de diciembre de 2015.
 
@@ -81,7 +81,9 @@ I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los
 
 II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto General de Egresos del Estado, a los Presupuestos de Egresos Municipales o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
-III. Administración: la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2019)</small>
+
+III. Administración: la Secretaría de Administración e Innovación Gubernamental del Gobierno del Estado de Tabasco;
 
 IV. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
@@ -97,7 +99,7 @@ V. Capítulo de gasto: el mayor nivel de agregación que identifica el conjunto 
 
 VI. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica por-objeto del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto General de Egresos del Estado y los Presupuestos de Egresos Municipales desde la perspectiva económica y dar seguimiento a su ejercicio;
 
-VII. Contraloría: la Secretaría de Contraloría;
+VII. (DEROGADA, P.O. 30 DE MARZO DE 2019)
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -107,7 +109,9 @@ VIII. Cuenta Pública: la Cuenta de la Hacienda Pública Estatal, o en su caso, 
 
 IX. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
-X. Dependencias: los ejecutores de gasto previstos en los artículos 13 y 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y 73 y 97 de la Ley Orgánica de los Municipios del Estado de Tabasco, incluyendo a sus respectivos órganos desconcentrados;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2019)</small>
+
+X. Dependencias: los ejecutores de gasto previstos en los artículos 29 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y 73 y 97 de la Ley Orgánica de los Municipios del Estado de Tabasco, incluyendo a sus respectivos órganos desconcentrados.
 
 XI. Dependencias coordinadoras de sector: las dependencias que designe el Ejecutivo en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, para orientar y coordinar la planeación, programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
 
@@ -136,6 +140,10 @@ XVIII. Entidades: los organismos descentralizados, empresas de participación es
 XIX. Estructura Programática: el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo o los Planes Municipales de Desarrollo y en los programas y presupuestos, así como ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
 
 XX. Flujo de efectivo: el registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2019)</small>
+
+XX Bis. Función Pública: la Secretaría de la Función Pública del Gobierno del Estado de Tabasco;
 
 XXI. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
@@ -205,7 +213,9 @@ XLV. Requerimientos financieros del sector público: las necesidades de financia
 
 XLVI. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
-XLVII. Secretaría: la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2019)</small>
+
+XLVII. Secretaría: la Secretaría de Finanzas del Gobierno del Estado de Tabasco;
 
 XLVIII. Sistema de evaluación del desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores de desempeño que permitan conocer el impacto social del ejercicio del gasto público;
 
@@ -229,9 +239,11 @@ Salvo referencias específicas, las hechas en la presente Ley al Gobierno Estata
 
 Los Municipios quedan exceptuados de lo previsto en el párrafo anterior en el ejercicio de las atribuciones y obligaciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tabasco y demás ordenamientos jurídicos aplicables le confieren exclusivamente al Gobierno Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 4.
 
-La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría y a la Contraloría, así como a sus equivalentes en los Municipios, en el ámbito de sus respectivas atribuciones.
+La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría y a la Función Pública, así como a sus equivalentes en los Municipios, en el ámbito de sus respectivas atribuciones.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -241,9 +253,9 @@ Serán supletorias de la presente Ley, en lo que corresponda, la Ley de Discipli
 
 El Consejo Estatal de Armonización Contable es el órgano de coordinación con el Consejo Nacional de Armonización Contable en el proceso de armonización en la materia que aplicará a los ejecutores de gasto previstos en los artículos 4 y 5 de la Ley de Disciplina Financiera; y el artículo 5 de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
 
-Las dependencias y entidades del Poder Ejecutivo deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, sus respectivas unidades de administración deberán establecer las disposiciones generales correspondientes, conforme a lo establecido en la Ley de Disciplina Financiera y en esta Ley.
+Las dependencias y entidades del Poder Ejecutivo deberán observar las disposiciones generales que emitan la Secretaría y la Función Pública, en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, sus respectivas unidades de administración deberán establecer las disposiciones generales correspondientes, conforme a lo establecido en la Ley de Disciplina Financiera y en esta Ley.
 
 Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Periódico Oficial del Estado.
 
@@ -285,7 +297,9 @@ La autonomía presupuestaria otorgada a los Poderes Legislativo y Judicial y los
 
 a) Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los criterios de política económica y demás disposiciones aplicables;
 
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Contraloría. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Función Pública. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
 
 c) Autorizar las adecuaciones a sus presupuestos sin requerir la aprobación de la Secretaría, observando las disposiciones de esta Ley;
 
@@ -297,9 +311,11 @@ f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta
 
 El margen de autonomía presupuestaria de dependencias y entidades se sujetará estrictamente a lo dispuesto en esta Ley, su Reglamento y, en su caso, a las disposiciones específicas contenidas en las leyes o decretos de su creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 7.
 
-El Ejecutivo, por conducto de la Secretaría, estará a cargo de la programación, presupuestación, evaluación y control presupuestario del gasto público correspondiente a las dependencias y entidades. La evaluación la realizará a través de la instancia técnica denominada Unidad de Evaluación del Desempeño. Asimismo, la Contraloría, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto por parte de las dependencias y entidades.
+El Ejecutivo, por conducto de la Secretaría, estará a cargo de la programación, presupuestación, evaluación y control presupuestario del gasto público correspondiente a las dependencias y entidades. La evaluación la realizará a través de la instancia técnica denominada Unidad de Evaluación del Desempeño. Asimismo, la Función Pública, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto por parte de las dependencias y entidades.
 
 Los Poderes Legislativo y Judicial y los órganos autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control del gasto corresponderá al órgano competente, y la evaluación del mismo correrá a cargo de su respectiva Unidad de Evaluación del Desempeño, en los términos previstos en sus respectivas leyes orgánicas o los ordenamientos jurídicos que les sean aplicables.
 
@@ -521,7 +537,9 @@ Los Poderes Legislativo y Judicial y los órganos autónomos deberán coadyuvar 
 
 Las entidades deberán comprometer ante la Secretaría sus respectivas metas de balance de operación y financiero, en el primer bimestre de cada ejercicio fiscal.
 
-La Secretaría, la Contraloría y, en su caso, la dependencia coordinadora de sector, llevarán el seguimiento periódico del cumplimiento de dichos compromisos, el cual deberán reportar en los informes trimestrales y la Cuenta Pública.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+La Secretaría, la Función Pública y, en su caso, la dependencia coordinadora de sector, llevarán el seguimiento periódico del cumplimiento de dichos compromisos, el cual deberán reportar en los informes trimestrales y la Cuenta Pública.
 
 ###### Artículo 20.
 
@@ -777,9 +795,11 @@ Las dependencias y entidades podrán obtener la autorización a que se refiere e
 
 En el proyecto de Presupuesto de Egresos deberán incluirse las previsiones para constituir reservas que permitan llevar a cabo acciones preventivas o atender oportunamente los daños ocasionados por fenómenos naturales.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 34.
 
-El ejercicio de recursos destinados a comunicación social le corresponderá a la Coordinación General de Comunicación Social y Relaciones Públicas, debiendo prever lo dispuesto en el artículo 18 de esta Ley y demás disposiciones aplicables.
+El ejercicio de recursos destinados a comunicación social le corresponderá a la Gubernatura, debiendo prever lo dispuesto en el artículo 18 de esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO II. De la Ley de Ingresos y el Presupuesto de Egresos
 
@@ -889,7 +909,9 @@ b) Se podrán plantear requerimientos específicos de información;
 
 c) En su caso, se podrán proponer acciones para avanzar en el logro de los objetivos planteados en el Plan de Desarrollo y los programas que deriven del mismo, y
 
-d) En el caso del Presupuesto de Egresos, la Comisión de Hacienda y Presupuesto del Congreso del Estado deberá acordar con la Junta de Coordinación Política los mecanismos de participación del resto de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales;
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+d) En el caso del Presupuesto de Egresos, la Comisión de Hacienda y Finanzas del Congreso del Estado deberá acordar con la Junta de Coordinación Política los mecanismos de participación del resto de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales;
 
 VII. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos, y
 
@@ -921,7 +943,9 @@ En el ámbito municipal, el órgano competente estará obligado a comunicar a la
 
 Las unidades de administración de los ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y las demás disposiciones generales aplicables.
 
-Para el cumplimiento de lo anterior, la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, establecerán los controles presupuestarios necesarios para constatar y vigilar que los resultados y medidas presupuestarias promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Las dependencias y entidades se sujetarán a dichos controles conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría, en los términos del Reglamento.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Para el cumplimiento de lo anterior, la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, establecerán los controles presupuestarios necesarios para constatar y vigilar que los resultados y medidas presupuestarias promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Las dependencias y entidades se sujetarán a dichos controles conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría, en los términos del Reglamento.
 
 Las dependencias y entidades serán responsables de conservar la documentación original comprobatoria y justificativa del gasto y, en su caso, ponerla a disposición de las autoridades competentes en los términos de la Ley General de Contabilidad Gubernamental.
 
@@ -951,13 +975,23 @@ El Reglamento establecerá los plazos para regularizar la ministración de recur
 
 Los ejecutores de gasto, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente, siempre que éstas no puedan revocarse o modificarse a través de algún medio de defensa ordinario o extraordinario.
 
-Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere la parte final del párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
 
-Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere la parte final del párrafo anterior, se realizarán conforme a los principios establecidos en el artículo 18 de la presente Ley. Estas no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos, así como la operatividad y buen funcionamiento de los ejecutores de gasto. Para tales efectos las dependencias y entidades no podrán afectar las partidas programadas para el pago de servicios personales, de materiales y suministros; así como todas aquellas de carácter irreductible.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
 
-Los Municipios, los Poderes Legislativo y Judicial, los órganos autónomos, y demás entes públicos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
+Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que, para todos los efectos legales deberá ser considerado en vía de ejecución con respecto a la resolución que se hubiese emitido. Esto con la finalidad de cumplir con las obligaciones hasta por un monto que no afecte la operatividad, los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+
+(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 4/2024, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PARTE SEGUNDA DEL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Para la elaboración del programa de pago a que hace referencia el párrafo anterior, se deberán considerar los principios de austeridad, racionalización y disciplina presupuestaria, por lo que el ejecutor de gasto en su anteproyecto para la programación y presupuestación anual del gasto público, NO PODRÁ CONSIDERAR LA TOTALIDAD DEL PAGO CONDENADO PARA EL EJERCICIO FISCAL SUBSECUENTE; Y EN NINGÚN CASO LOS PAGOS COMPROMETIDOS PODRÁN EXCEDER DEL QUINCE POR CIENTO DEL TOTAL DE LA CONDENA, ASÍ HASTA SU ABSOLUTO CUMPLIMIENTO.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Los Municipios, los Poderes Legislativo y Judicial, los órganos autónomos, y demás entes públicos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo, tercero y cuarto de este artículo.
 
 ###### Artículo 44.
 
@@ -1009,9 +1043,13 @@ IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal corresp
 
 Las dependencias y entidades requerirán la autorización presupuestaria de la Secretaría para la celebración de los contratos a que se refiere este artículo, en los términos del Reglamento.
 
-Las dependencias y entidades deberán informar a la Contraloría sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
 
-En el caso de proyectos de asociaciones público privadas, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Contraloría.
+Las dependencias y entidades deberán informar a la Función Pública sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+En el caso de proyectos de asociaciones público privadas, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Función Pública.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -1037,7 +1075,9 @@ La ministración de los recursos atenderá primordialmente el principio de oport
 
 El destino de los recursos ministrados será responsabilidad de los ejecutores de gasto. En el caso de la ministración de recursos sujeta a la suscripción de convenios, los ejecutores de gasto deberán apegarse invariablemente al procedimiento, términos y plazos establecidos en el Reglamento y demás disposiciones aplicables.
 
-Los ejecutores de gasto que administren y ejerzan recursos públicos serán responsables de integrar los reportes e informes a los que estén obligados por disposiciones legales aplicables, así como de entregar toda la información que soliciten la Contraloría, el Órgano Superior de Fiscalización y, en su caso, la Secretaría de la Función Pública y la Auditoría Superior de la Federación.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Los ejecutores de gasto que administren y ejerzan recursos públicos serán responsables de integrar los reportes e informes a los que estén obligados por disposiciones legales aplicables, así como de entregar toda la información que soliciten la Función Pública, el Órgano Superior de Fiscalización y, en su caso, la Secretaría de la Función Pública Federal y la Auditoría Superior de la Federación.
 
 La Secretaría podrá suspender, diferir o determinar reducciones en la ministración de los recursos, cuando las dependencias y entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, reportando al respecto en los informes trimestrales.
 
@@ -1079,7 +1119,9 @@ La Secretaría será la beneficiaria de todas las garantías que se otorguen a f
 
 Las dependencias y entidades deberán exigir las garantías a que se refiere este artículo, verificar su autenticidad e informar a la Secretaría trimestralmente la situación que guardan.
 
-En los casos en los que sea procedente hacer efectiva una garantía, la dependencia o entidad deberá integrar el expediente correspondiente con las constancias que justifiquen el incumplimiento y por consecuencia la exigibilidad de la garantía, remitiéndolo oportunamente mediante oficio a la Secretaría, conforme a lo establecido en el Reglamento. La omisión en el aviso y entrega oportuna del expediente o de documentos para la efectividad de garantías, se informará a la Contraloría para que inicie el procedimiento de responsabilidad a que haya lugar.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+En los casos en los que sea procedente hacer efectiva una garantía, la dependencia o entidad deberá integrar el expediente correspondiente con las constancias que justifiquen el incumplimiento y por consecuencia la exigibilidad de la garantía, remitiéndolo oportunamente mediante oficio a la Secretaría, conforme a lo establecido en el Reglamento. La omisión en el aviso y entrega oportuna del expediente o de documentos para la efectividad de garantías, se informará a la Función Pública para que inicie el procedimiento de responsabilidad a que haya lugar.
 
 Los Poderes Legislativo y Judicial y los órganos autónomos, por conducto de sus respectivas unidades de administración, establecerán en sus disposiciones legales y administrativas los requisitos aplicables a las garantías que se constituyan a su favor.
 
@@ -1129,7 +1171,9 @@ Los ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deber�
 
 Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables, a los programas prioritarios del ejecutor de gasto que los genere.
 
-El Ejecutivo, por conducto de la Secretaría, la Contraloría y Administración, establecerá los criterios generales para promover el uso eficiente de los recursos humanos y materiales de la administración pública, a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las dependencias y entidades y reducir gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+El Ejecutivo, por conducto de la Secretaría, la Función Pública y Administración, establecerá los criterios generales para promover el uso eficiente de los recursos humanos y materiales de la administración pública, a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las dependencias y entidades y reducir gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
 
 A fin de lograr los objetivos a que se refiere el párrafo anterior, el Ejecutivo, durante su primer año de gobierno, deberá emitir un programa de austeridad, racionalidad y disciplina del gasto, el cual deberá publicarse en el Periódico Oficial del Estado en la misma fecha en que se publique el Plan de Desarrollo, y deberá mantener concordancia con éste.
 
@@ -1299,7 +1343,9 @@ El Ejecutivo, por conducto de la Secretaría, autorizará las transferencias que
 
 La recepción de los recursos que no pierden su carácter federal por parte de las entidades conlleva la obligación de expedir a favor del Gobierno Estatal comprobante fiscal digital por el monto total transferido.
 
-Las dependencias y entidades receptoras de recursos que no pierden su carácter federal estarán obligadas a la retención y entero de los recursos destinados a la Contraloría y el Órgano Superior de Fiscalización del Estado.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Las dependencias y entidades receptoras de recursos que no pierden su carácter federal estarán obligadas a la retención y entero de los recursos destinados a la Función Pública y el Órgano Superior de Fiscalización del Estado.
 
 Las asignaciones presupuestales aprobadas en el Presupuesto de Egresos a los Poderes Legislativo y Judicial y órganos autónomos se ministrarán en las partidas presupuestales indicadas y de conformidad con sus calendarios de presupuesto.
 
@@ -1389,9 +1435,11 @@ Las dependencias y entidades que soliciten y, en su caso, ejerzan donativos prov
 
 ### CAPÍTULO I. De la Información y Transparencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 77.
 
-Los ejecutores de gasto deberán remitir al Congreso del Estado la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. También estarán obligados a proporcionar a la Secretaría, la Contraloría, el Órgano Superior de Fiscalización y, en su caso, a la Secretaría de la Función Pública y a la Auditoría Superior de la Federación, la información que éstas requieran, en los términos de las disposiciones generales aplicables.
+Los ejecutores de gasto deberán remitir al Congreso del Estado la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. También estarán obligados a proporcionar a la Secretaría, la Función Pública, el Órgano Superior de Fiscalización y, en su caso, a la Secretaría de la Función Pública Federal y a la Auditoría Superior de la Federación, la información que éstas requieran, en los términos de las disposiciones generales aplicables.
 
 Los ejecutores de gasto, en la administración de recursos que no pierden su carácter federal, podrán ser evaluados conforme a las disposiciones establecidas en el artículo 110 de la Ley Federal, con base en indicadores de desempeño, por instancias técnicas independientes de las instituciones que ejerzan dichos recursos, observando los requisitos de información correspondientes.
 
@@ -1399,7 +1447,9 @@ De conformidad con los lineamientos establecidos por la Secretaría de Hacienda 
 
 La Secretaría, una vez validada la información capturada por cada uno de los ejecutores de gasto, procederá a la publicación de los informes que correspondan al Gobierno Estatal en el Periódico Oficial del Estado, debiendo tramitar los Ayuntamientos la publicación que les corresponda, y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet, a más tardar cinco días hábiles posteriores a la fecha en que el Ejecutivo Federal entregue los informes a la Cámara de Diputados del Congreso de la Unión.
 
-Los ejecutores de gasto deberán observar las disposiciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
+Los ejecutores de gasto deberán observar las disposiciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
 ###### Artículo 78.
 
@@ -1437,9 +1487,11 @@ La Secretaría, o en el ámbito municipal su órgano competente, presentará al 
 
 La información que la Secretaría y los Ayuntamientos proporcionen al Congreso del Estado deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 79.
 
-La información de la cartera de programas y proyectos de inversión, así como la relativa a los análisis costo – beneficio, se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley General de Transparencia y Acceso a la Información Pública.
+La información de la cartera de programas y proyectos de inversión, así como la relativa a los análisis costo - beneficio, se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
 ### CAPÍTULO II. De la Evaluación
 
@@ -1497,9 +1549,11 @@ Los resultados a los que se refiere este artículo deberán ser considerados par
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2019)</small>
+
 ###### Artículo 82.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco.
 
 ###### Artículo 83.
 
@@ -1519,7 +1573,9 @@ IV. Cuando por razón de la naturaleza de sus funciones tengan conocimiento de q
 
 V. Distraigan de su objeto dinero o valores, para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito o por otra causa;
 
-VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2019)</small>
+
+VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias;
 
 VII. Incumplan con la obligación de proporcionar información al Congreso del Estado en los términos de esta Ley y otras disposiciones aplicables;
 
@@ -1529,7 +1585,9 @@ IX. Realicen acciones u omisiones que deliberadamente generen subejercicios por 
 
 X. Cuando por acto u omisión impidan el reintegro de recursos no ejercidos a la Secretaría o, en su caso, a la Tesorería de la Federación, en los plazos señalados por esta Ley, la Ley Federal y demás disposiciones generales aplicables, y
 
-XI. Infrinjan las disposiciones generales que emitan la Secretaría, la Contraloría y el Órgano Superior de Fiscalización, en el ámbito de sus respectivas atribuciones.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2019)</small>
+
+XI. Infrinjan las disposiciones generales que emitan la Secretaría, la Función Pública y el Órgano Superior de Fiscalización, en el ámbito de sus respectivas atribuciones.
 
 ###### Artículo 85.
 
@@ -1711,7 +1769,7 @@ IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General
 
 Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
 
-NOVENO. El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de enero de 2018 un programa adicional al contemplado en el artículo Sexto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas dichos vehículos (sic).
+NOVENO. El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de enero de 2018 un programa adicional al contemplado en el artículo Sexto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas (sic) dichos vehículos.
 
 Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco.
 
@@ -1728,3 +1786,13 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 075 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 2, FRACCIONES III, X Y XLVII; 4, PÁRRAFO PRIMERO Y CUARTO; 6, PÁRRAFO TERCERO, INCISO B); 7 PÁRRAFO PRIMERO; 19, PÁRRAFO SEGUNDO; 34; 38, FRACCIÓN VI, INCISO D); 41, PÁRRAFO SEGUNDO; 43, PÁRRAFO SEGUNDO, TERCERO Y CUARTO; 46, PÁRRAFO TERCERO Y CUARTO; 47, PÁRRAFO SÉPTIMO; 51, PÁRRAFO TERCERO; 56, PÁRRAFO TERCERO; 69, PÁRRAFO TERCERO; 77, PÁRRAFO PRIMERO Y QUINTO; 79; 82; 84, FRACCIONES VI Y XI. SE ADICIONA: LA FRACCIÓN XX BIS, AL ARTÍCULO 2; EL PÁRRAFO CUARTO AL ARTÍCULO 43, RECORRIÉNDOSE EL PÁRRAFO SUBSECUENTE. SE DEROGA: LA FRACCIÓN VII, DEL ARTÍCULO 2; TODOS DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Reglamento de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios deberá modificarse a más tardar a los 180 días naturales posteriores a la entrada en vigor del presente Decreto, a efectos de armonizarlo con la presente reforma.
