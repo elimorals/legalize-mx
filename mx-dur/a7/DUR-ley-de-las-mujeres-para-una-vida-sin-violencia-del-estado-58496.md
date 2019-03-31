@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2018-12-25"
+last_updated: "2019-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
+LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -119,19 +119,27 @@ XIII. Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar 
 
 XIV. Programa Municipal: Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se elaborará en cada uno de los Municipios del Estado de Durango;
 
-XV. Refugios: A los albergues, centros o establecimientos constituidos por organismos públicos, privados o asociaciones civiles del Estado para la atención y protección de las víctimas de la violencia contra las mujeres;
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
 
-XVI. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XV. Razón de género: Actitud y/o conducta a través de la cual se manifiesta la discriminación, la subordinación y sometimiento de la mujer por el varón, basada en una relación desigual de poder.
 
-XVII. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XVI. Relación desigual de poder: Aquella que se configura por prácticas socioculturales históricas basadas en la idea de la inferioridad de las mujeres o la superioridad de los varones, o en conductas estereotipadas de hombres y mujeres, que limitan total o parcialmente el reconocimiento o goce de los derechos de éstas, en cualquier ámbito en que desarrollen sus relaciones interpersonales.
+
+XVII. Refugios: A los albergues, centros o establecimientos constituidos por organismos públicos, privados o asociaciones civiles del Estado para la atención y protección de las víctimas de la violencia contra las mujeres;
+
+XVIII. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+XIX. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
+XX. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-XIX. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
+XXI. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -197,11 +205,15 @@ VIII. Hostigamiento: Ejercicio del poder en una relación de subordinación real
 
 IX. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en espacios públicos o privados, en uno o varios eventos;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2019)</small>
 
-X. Violencia Política.- Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos; y
+X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos;
 
-XI. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XI. Violencia simbólica: la que se ejerza a través de patrones estereotipados, mensajes, valores, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, y
+
+XII. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -299,13 +311,37 @@ h) Obligar, intimidar o amenazar a suscribir documentos, a colaborar en proyecto
 
 i) Asignar responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político publica;
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2019)</small>
 
-j) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-publicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan; y
+j) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-publicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan;
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2019)</small>
 
-k) Restrinjir (sic) el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
+k) Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+l) Impedir, por cualquier medio, asistir a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+m) Dañar, en cualquier forma, elementos de la precampaña o de la campaña electoral de la mujer, impidiendo que la competencia electoral se desarrolle en condiciones de Igualdad.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+n) Imponer, por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+ñ) Impedir o restringir la reincorporación de la mujer a su cargo, cuando hagan uso de una licencia justificada, incluyendo la licencia de maternidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+o) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos, y/o evitar el cumplimiento de las resoluciones correspondientes; y
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+p) Aplicar sanciones pecuniarias, descuentos arbitrarios e Ilegales (sic) y/o retención de salarios.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -789,9 +825,15 @@ IX. La Secretaría de Seguridad Pública;
 
 X. La Secretaría de Finanzas y de Administración;
 
-XI. La Secretaría de Educación Pública del Estado; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2019)</small>
 
-XII. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
+XI. La Secretaría de Educación Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XII. El Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
+
+XIII. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
 
 El desempeño de estas funciones será de manera honoraria y gratuita.
 
@@ -1003,9 +1045,23 @@ IX. Promover que los medios de comunicación fomenten la erradicación de todos 
 
 X. Fomentar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar este hecho;
 
-XI. Promover la inclusión prioritaria en el Plan Estatal y los Planes Municipales de Desarrollo, de las medidas y las políticas de gobierno, para erradicar la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XI. Promover la inclusión prioritaria en el Plan Estatal y los Planes Municipales de Desarrollo, de las medidas y las políticas de gobierno, para erradicar la violencia contra las mujeres;
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XIII. Sensibilizar y capacitar, con enfoque intercultural de educación democrática, sobre el ejercicio de los derechos políticos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XIV. Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones; promoviendo el combate a conductas que limiten el goce de los derechos de las mujeres, por razón de género y relaciones desiguales de poder; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+
+XV. Definir recomendaciones específicas mediante las cuales las Instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres.
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1750,5 +1806,25 @@ P.O. 25 DE DICIEMBRE DE 2018.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 75.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76.- QUE CONTIENE LA ADICIÓN DE UNA FRACCIÓN XI AL ARTÍCULO 6 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
