@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2018-07-19"
+last_updated: "2019-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -279,11 +279,17 @@ El Plan se elaborará y actualizará en base al diagnóstico de la situación ec
 
 El plan, determinará los lineamientos de política global, sectorial y regional de la planeación, supeditando los demás instrumentos de desarrollo a sus objetivos estrategias y prioridades. Sus revisiones se referirán al conjunto de la actividad económica y social del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2019)</small>
+
 ###### ARTICULO 20o.
 
-Previamente a la aprovación (sic) del plan, el Titular del Poder Ejecutivo lo enviará al Congreso del Estado a fin de que lo analice y emita su opinión.
+Dentro de los cinco meses contados a partir de su toma de protesta, el Titular del Poder Ejecutivo enviará al Congreso del Estado el proyecto de Plan Estatal de Desarrollo, a fin de que lo analice y emita su opinión; el Congreso del Estado tendrá un plazo de 30 días para emitir la opinión correspondiente.
 
 La Legislatura podrá en todo tiempo formular las observaciones que considere pertinentes durante la ejecución, evaluación y control de dicho Plan.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+
+El Congreso del Estado podrá solicitar la colaboración del Instituto de Evaluación de Políticas Públicas del Estado de Durango para efectos de formar su opinión respecto del Plan Estatal de Desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -798,3 +804,9 @@ P.O. 19 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 31 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 77.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el 14 de septiembre del año 2022, previa publicación en el Periódico Oficial del Gobierno del Estado.
