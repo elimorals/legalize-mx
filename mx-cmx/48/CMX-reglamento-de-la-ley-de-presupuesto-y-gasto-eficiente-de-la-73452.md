@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-presupuesto-y-gasto-eficiente-de-la-734
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-08"
-last_updated: "2018-06-07"
+last_updated: "2019-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73452&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-03-05"
 ---
 # REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 2019 (DEROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 8 de marzo de 2010.
 
@@ -1387,3 +1389,15 @@ SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
 TERCERO.- Considerando que el último párrafo del artículo 71 de la Ley, faculta a la Secretaría de Finanzas para prever como parte de los recursos del fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Delegaciones, las previsiones para constituir un Fondo para apoyar a los contribuyentes del impuesto predial de la Ciudad de México, cuyas viviendas sean afectadas directamente por un sismo, éstas se asignarán como patrimonio inicial y podrá ser incrementado con las aportaciones que se autoricen, previa revisión y disponibilidad presupuestal.
 
 CUARTO.- Todas las referencias que en el presente Reglamento se hagan al Distrito Federal, deberán entenderse realizadas a la Ciudad de México.
+
+G.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+Segundo. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Todas las referencias hechas al Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, se entenderán hechas al presente Reglamento en su parte conducente.
+
+Cuarto. Se deroga el Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, así como todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
