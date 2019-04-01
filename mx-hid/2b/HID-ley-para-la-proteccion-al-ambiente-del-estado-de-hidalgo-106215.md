@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2018-07-02"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -1429,9 +1429,11 @@ En el caso de la fracción IV, el procedimiento administrativo para obtener la c
 
 #### SECCIÓN DÉCIMA CUARTA. PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 77.
 
-El Consejo Estatal de Participación Ciudadana Ambiental es un órgano permanente de opinión, consulta, concertación social y, en su caso, emisor de recomendaciones a los Poderes del Estado y los ayuntamientos, en el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en materia de protección al ambiente, desarrollo sustentable y ordenamiento territorial del Estado.
+El Consejo Estatal de Participación Ciudadana Ambiental es un órgano permanente de opinión, consulta, concertación social y, en su caso, emisor de recomendaciones a los Poderes del Estado y los ayuntamientos, en el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en materia de protección al ambiente, desarrollo sustentable y ordenamiento territorial del Estado. En la integración de este prevalecerá el principio de paridad de género.
 
 Su funcionamiento se regulará por el Reglamento Interior que para tal efecto se expida.
 
@@ -3296,3 +3298,9 @@ P.O. 2 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 451 QUE REFORMA LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 51 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
