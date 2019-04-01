@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-04-03"
+last_updated: "2019-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -73,13 +73,21 @@ VI.- Junta de Gobierno.- Junta de Gobierno del Instituto Hidalguense de la Juven
 
 VII.- Director.- Director del Instituto Hidalguense de la Juventud;
 
-VIII.- Programa.- Programa Estatal de Atención a la Juventud; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-IX.- Ley.- Ley de la Juventud del Estado de Hidalgo.
+VIII.- Programa.- Programa Estatal de Atención a la Juventud;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-X.- Consejo.- El Consejo Consultivo de la Juventud.
+IX.- Ley.- Ley de la Juventud del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+X.- Consejo.- El Consejo Consultivo de la Juventud; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XI.- Instancias.- Instancias Municipales de Juventud.
 
 ###### Artículo 3.
 
@@ -587,13 +595,17 @@ XX.- Auxiliar a las Dependencias y Entidades de la Administración pública Esta
 
 XXI.- Gestionar ante las autoridades competentes, en beneficio de los jóvenes, servicios de medicina en general y especializada para preservar su salud;
 
-XXII.- Promover el establecimiento de Comités Municipales de la Juventud y establecer criterios para la coordinación y concertación de acciones; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-XXIII.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
+XXII.- Promover en conjunto con los municipios la Instancia Municipal de Juventud y establecer criterios para la coordinación y concertación de acciones;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-XXIV. Establecer mecanismos consultivos de participación ciudadana; como lo son: foros, congresos, coloquios, consultas, entre otros, en los temas que por demanda de las y los jóvenes se requiera la intervención del Gobierno del Estado de Hidalgo, a efecto de tomar en cuenta la opinión de la juventud.
+XXIII.- Establecer mecanismos consultivos de participación ciudadana; como lo son: foros, congresos, coloquios, consultas, entre otros, en los temas que por demanda de las y los jóvenes se requiera la intervención del Gobierno del Estado de Hidalgo, a efecto de tomar en cuenta la opinión de la juventud; y
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XXIV.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE ADMINISTRACIÓN
 
@@ -797,7 +809,9 @@ I.- GARANTIZAR EL PLENO EJERCICIO DE LOS DERECHOS QUE ESTA LEY RECONOCE A FAVOR 
 
 II.- Asegurar que los jóvenes, en sus respectivos Municipios, gocen de los programas de desarrollo físico, psicológico, social y cultural, según las partidas presupuestales asignadas;
 
-III.- Establecer Comités Municipales de la Juventud, en coordinación con el Instituto, de conformidad con la fracción XXII del Artículo 58 de la presente Ley;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+III.- Conformar la Instancia Municipal de Juventud;
 
 IV.- Promover las expresiones culturales y artísticas en los jóvenes;
 
@@ -895,11 +909,11 @@ V.- Mantener actualizado el contenido de la Agenda Estatal de Juventud; y
 
 VI.- Formular sugerencias a las entidades públicas, sobre la transversalización de las acciones dirigidas a la juventud en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
 
 ###### Artículo 77.
 
-El Consejo Estatal de la Juventud estará integrado de la siguiente forma:
+El Consejo Consultivo de la Juventud estará integrado de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
 
@@ -909,77 +923,93 @@ I.- Por el Director del Instituto;
 
 II.- Por los Diputados integrantes de la Comisión de la Niñez, la Juventud, el Deporte y la Familia del Congreso del Estado Libre y Soberano de Hidalgo;
 
-III.- Por un representante de una organización no gubernamental que tenga estrecha vinculación con la problemática juvenil;
+III.- (DEROGADA, P.O. 1 DE ABRIL DE 2019)
 
-IV.- Por un representante de los sectores económico y productivo del Estado, el cual tenga participación activa y directa en el desarrollo de programas para jóvenes;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+IV.- Por el Secretario de Desarrollo Económico, en representación de los sectores económico y productivo del Estado;
 
-V.- Por 17 miembros de la sociedad civil, que representarán las siguientes regiones administrativas del Estado:
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-Región 1 Pachuca de Soto
+V.- Por 18 miembros de la sociedad civil distribuidos de manera equitativa en cuanto a su género, que representarán los siguientes distritos en el Estado:
 
-Región 2 Tulancingo de Bravo
+Distrito 1 Zimapán
 
-Región 3 Tula de Allende
+Distrito 2 Zacualtipán de Ángeles
 
-Región 4 Huichapan
+Distrito 3 San Felipe Orizatlán
 
-Región 5 Zimapán
+Distrito 4 Huejutla de Reyes
 
-Región 6 Ixmiquilpan
+Distrito 5 Ixmiquilpan
 
-Región 7 Actopan
+Distrito 6 Huichapan
 
-Región 8 Meztitlán
+Distrito 7 Mixquiahuala de Juárez
 
-Región 9 Molango de Escamilla
+Distrito 8 Actopan
 
-Región 10 Huejutla de Reyes
+Distrito 9 Metepec
 
-Región 11 Apan
+Distrito 10 Apan
 
-Región 12 Tizayuca
+Distrito 11 Tulancingo de Bravo
 
-Región 13 Tenango de Doria
+Distrito 12 Pachuca de Soto
 
-Región 14 Tepeji del Río
+Distrito 13 Pachuca de Soto
 
-Región 15 Atotonilco el Grande
+Distrito 14 Tula de Allende
 
-Región 16 Jacala de Ledezma
+Distrito 15 Tepeji del Rio de Ocampo
 
-Región 17 Zacualtipán de Ángeles
+Distrito 16 Tizayuca
 
-VI.- Por un representante del Consejo Consultivo Ciudadano del Estado de Hidalgo.
+Distrito 17 Villas del Álamo
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
+Distrito 18 Tepeapulco
+
+VI.- (DEROGADA, P.O. 1 DE ABRIL DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
 
 ###### Artículo 77 Bis.
 
-Los miembros de la sociedad civil que conformen el Consejo Consultivo de la Juventud, serán elegidos, previa Convocatoria abierta, emitida por el Instituto Hidalguense de la Juventud a través del Director General; durarán en su cargo dos años y podrán ser removidos libremente, por acuerdo de las dos terceras partes de los integrantes del Consejo y deberán reunir los siguientes requisitos:
+Los miembros de la sociedad civil que conformen el Consejo Consultivo de la Juventud, serán elegidos, previa Convocatoria abierta, bajo el principio de paridad de género, emitida por el Instituto Hidalguense de la Juventud a través del Director General; durarán en su cargo dos años y podrán ser removidos libremente, por acuerdo de las dos terceras partes de los integrantes del Consejo y deberán reunir los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
 
 I.- Ser ciudadano mexicano.
 
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
+
 II.- Tener entre 18 y 29 años.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
 
 III.- Tener residencia mínima de tres años en el Estado.
 
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
+
 IV.- Contar con el aval o ser propuesto (a) por alguna dependencia pública, privada o social.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
 
 V.- No ocupar cargo o función pública al momento de la publicación de la Convocatoria, y
 
-VI.- Presentar acta de nacimiento, currículum vitae, carta exposición de motivos.
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
 
-Los cargos en el consejo serán honoríficos y por su desempeño no se percibirá retribución alguna.
+VI.- Presentar acta de nacimiento, currículum vitae, carta exposición de motivos.
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
 
+Los cargos en el consejo serán honoríficos y por su desempeño no se percibirá retribución alguna.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 77 Ter.
 
-El Consejo Consultivo de la Juventud, deberá sesionar en pleno una vez al mes y en forma extraordinaria, cuando sea expresamente convocado para ello, por el Director General del Instituto.
-
-Las sesiones ordinarias o extraordinarias del Pleno del Consejo se celebrarán si la concurrencia alcanza la mitad más uno de la totalidad de los integrantes y se encuentra completa la Directiva.
+El Consejo Consultivo de la Juventud, deberá sesionar en pleno una vez cada tres meses y en forma extraordinaria, cuando sea expresamente convocado para ello, por el Director General del Instituto.
 
 ###### Artículo 78.
 
@@ -1058,3 +1088,17 @@ P.O. 3 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 171 POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 172.- QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
