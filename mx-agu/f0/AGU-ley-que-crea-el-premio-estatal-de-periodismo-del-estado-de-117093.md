@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-premio-estatal-de-periodismo-del-estado-de-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2016-11-07"
+last_updated: "2019-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY QUE CREA EL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 130, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019 (ABROGADO).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -248,3 +250,17 @@ Dip. Oswaldo Rodríguez. García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de noviembre de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 130.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XI Y XII DEL PÁRRAFO PRIMERO DEL ARTÍCULO 4°; EL ARTÍCULO 6°; LA DENOMINACIÓN DEL ARTÍCULO 12 BIS, QUE PASA A SER 12 A; LA DENOMINACIÓN DEL ARTÍCULO 12 TER, PARA QUEDAR COMO ARTÍCULO 12 B; LA DENOMINACIÓN DEL ARTÍCULO 12 QUATER, QUEDANDO COMO ARTÍCULO 12 C; LA DENOMINACIÓN DEL ARTÍCULO 12 QUINQUIES, QUEDANDO COMO ARTÍCULO 12 D; LA DENOMINACIÓN Y EL CONTENIDO DEL ARTÍCULO 12 SEXIES, QUEDANDO COMO ARTÍCULO 12 E; Y LA DENOMINACIÓN DE LA SECCIÓN XII "MEDALLA MUJER AGUASCALENTENSE" DEL CAPÍTULO II "DE LOS PREMIOS Y RECONOCIMIENTOS" PARA PASAR A SER SECCIÓN XII "MEDALLA MARÍA DEL CARMEN MARTÍN DEL CAMPO RAMÍREZ"; DEL CAPÍTULO II "DE LOS PREMIOS Y RECONOCIMIENTOS". ASÍ COMO SE ADICIONAN UNAS FRACCIONES XIII Y XIV AL ARTÍCULO 4°; UNA SECCIÓN XIII "MEDALLA 3 DE DICIEMBRE, DÍA INTERNACIONAL DE LAS PERSONAS CON DISCAPACIDAD" AL CAPÍTULO II "DE LOS PREMIOS Y RECONOCIMIENTOS", INTEGRADA POR UN ARTÍCULO 12 G QUE TAMBIÉN SE ADICIONA; Y UNA SECCIÓN XIV "MEDALLA ANTONIO ACEVEDO ESCOBEDO", INTEGRADA POR UN ARTÍCULO 12 H QUE TAMBIÉN SE ADICIONA; TODOS ELLOS A LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogar (sic) la Ley que Crea el Premio Estatal de Periodismo del Estado de Aguascalientes, emitida mediante el Decreto Número 413, expedido por la LXII Legislatura del H. Congreso del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
