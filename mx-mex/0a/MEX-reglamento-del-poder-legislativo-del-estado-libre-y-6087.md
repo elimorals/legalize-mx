@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2018-04-30"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -557,17 +557,61 @@ f) De las iniciativas de ley, decreto o acuerdo relacionadas con la rendición d
 
 g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2019)</small>
 
-XXXV. La Comisión de Familia y Desarrollo Humano, conocerá de los temas e iniciativas siguientes:
+XXXV. La Comisión de Familia y Desarrollo Humano, conocerá de forma transversal de los temas, iniciativas y trabajos legislativos que se citan de manera enunciativa, más no limitativa, relativos y relacionados a las familias y sus integrantes:
 
-a) De las iniciativas de ley, decreto o acuerdo relacionadas con la familia y el desarrollo humano.
+a) El estudio, análisis y dictamen de las reformas constitucionales del ámbito federal y local, así como legales propuestas ante la Asamblea que se relacionen con asuntos que trastoquen los temas de familia y desarrollo humano;
 
-b) Revisar el marco normativo en materia de derecho a la familia y desarrollo humano.
+b) La coadyuvancia con los diputados que deseen presentar iniciativas en materia de familia y desarrollo humano;
 
-c) Evaluar el marco normativo y las desigualdades que éste podría generar en los integrantes de la familia.
+c) El estudio acerca de temas de desarrollo de la familia y humano el contacto permanente con las instituciones públicas y privadas dedicadas al desarrollo integral de la familia y la asistencia de grupos vulnerables para conocer sus necesidades y así estar en la aptitud de presentar proyectos que tiendan a satisfacerlas;
 
-d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+d) La atención de asuntos relacionados con la familia en la rama del derecho civil, así como temas vinculados con las familias y sus integrantes, en todas sus modalidades;
+
+e) La legislación, políticas, planes y programas tendientes a la promoción, desarrollo y fortalecimiento de los valores y defensa de la familia;
+
+f) La legislación en materia de asistencia social y desarrollo humano;
+
+g) La normatividad, políticas, planes y programas de desarrollo humano, desarrollo social y asistencial para grupos vulnerables en el ámbito estatal;
+
+h) La legislación relativa a la consolidación de la familia, la integración social al desarrollo de las personas con discapacidad, de las personas adultos mayores y la protección de los derechos de las niñas y los niños;
+
+i) La legislación en materia de desarrollo humano y poblacional;
+
+j) En temas relativos a la administración y procuración de Justicia, relacionados con violación a los derechos humanos de cualquier miembro de la familia, de personas que formen parte de los grupos vulnerables y personas en lo general;
+
+k) De educación y cultura, relacionados con el fomento de las actividades culturales y artísticas en el Estado;
+
+l) En todo asunto relacionado con los Derechos Humanos para el respeto, promoción y defensa de estos derechos en cualquier forma, dentro del ámbito estatal;
+
+m) En lo que respecta al desarrollo agropecuario y rural sustentable, de la agricultura, ganadería, silvicultura, apicultura y acuicultura, así como de política para el desarrollo rural; abasto y medidas para garantizar la autosuficiencia agroalimentaria en el Estado;
+
+n) En lo relativo al desarrollo económico, comercial, industrial, fomento de inversiones productivas y economía solidaria que conlleven el impulso de una mejor calidad de vida para los habitantes del Estado;
+
+ñ) El fomento a la vivienda;
+
+o) En asuntos electorales, que propicien la participación democrática de los habitantes del Estado
+
+p) En lo relativo a la juventud y deporte, para promover la atención de asuntos en materia de atención y desarrollo de los jóvenes y fomento de las actividades deportivas en el Estado;
+
+q) En materia del medio ambiente, en asuntos relacionados con la protección y conservación del medio ambiente, ecología y desarrollo sustentable;
+
+r) En trabajo y previsión social, en materia de decretos de pensiones por vejez, por muerte y jubilaciones, de conformidad con las disposiciones vigentes;
+
+s) En igualdad, equidad y paridad de Género, en los rubros siguientes:
+
+I) De igualdad de género;
+
+II) Violencia de género;
+
+III) Los relativos a iniciativas y reformas de Leyes y Códigos, relativos a la familia, niños, niñas y adolescentes y mujeres.
+
+t) En la defensa de los derechos humanos de los integrantes de las familias, en coordinación con diversas instituciones públicas, sociedades civiles y sociedad en general, con el propósito de sumar esfuerzos para lograr atender las necesidades de las familias mexiquenses.
+
+u) De manera global, todos aquellos asuntos que estén relacionados de manera directa o indirecta, mediata o inmediata con la familia y el desarrollo humano;
+
+v) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
 
@@ -2584,3 +2628,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37.- POR EL QUE SE REFORMA EL ARTÍCULO 13 A EN SU FRACCIÓN XXXV, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se instruye a la Dirección General de Comunicación Social para que dé a conocer esta Iniciativa a la ciudadanía mediante los mecanismos correspondientes a fin de cumplir con el principio de máxima publicidad y el derecho de acceso a la información pública;
