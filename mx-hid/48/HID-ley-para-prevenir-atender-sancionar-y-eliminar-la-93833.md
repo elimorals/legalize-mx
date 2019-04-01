@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2017-04-10"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -45,7 +45,9 @@ A N T E C E D E N T E S
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -571,9 +573,11 @@ El Consejo Consultivo de la Comisión en materia de discriminación, sesionara v
 
 Las sesiones serán ordinarias y extraordinarias; las ordinarias se llevaran a cabo de manera trimestral y las extraordinarias se celebraran cuando se requieran, previa convocatoria. Quien presida la Junta de Gobierno, podrá invitar a participar en las sesiones, con derecho a voz pero no a voto, a los servidores públicos de gobierno, así como a integrantes de organizaciones civiles, empresariales, sindicales y académicas, y en general a cualquier persona vinculada a los temas de derechos humanos.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 34.
 
-La Comisión podrá contar con una Asamblea Consultiva, que fungirá como órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión en materia de Prevención, Atención y Eliminación de la Discriminación, integrada por un número no menor de cinco ni mayor de diez ciudadanos, representantes de los sectores privado, social y de la comunidad académica, que por su experiencia en materia de prevención, atención y eliminación de la discriminación, puedan contribuir al logro de los objetivos de la Comisión, quienes no recibirán retribución, emolumento o compensación alguna por su participación, durarán en su encargo tres años y serán propuestos por los sectores privado, social y de la comunidad académica, siendo ,aprobados por la Junta de Gobierno del Consejo.
+La Comisión podrá contar con una Asamblea Consultiva, que fungirá como órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión en materia de Prevención, Atención y Eliminación de la Discriminación, integrada por un número no menor de cinco ni mayor de diez ciudadanos, representantes de los sectores privado, social y de la comunidad académica, que por su experiencia en materia de prevención, atención y eliminación de la discriminación, puedan contribuir al logro de los objetivos de la Comisión, quienes no recibirán retribución, emolumento o compensación alguna por su participación, durarán en su encargo tres años y serán propuestos por los sectores privado, social y de la comunidad académica, siendo aprobados por la Junta de Gobierno del Consejo. En la integración de este prevalecerá el principio de paridad de género.
 
 ###### Artículo 35.
 
@@ -863,6 +867,12 @@ P.O. 15 DE AGOSTO DE 2016.
 
 P.O. 10 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 173 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 28 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO Y ADICIONA LA FRACCIÓN XVII BIS, AL INCISO A, DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 173 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 28 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO Y ADICIONA LA FRACCIÓN XVII BIS, AL INCISO A, DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
