@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2018-07-02"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -43,7 +43,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E...
+A N T E C E D E N T E
+
+[...]
 
 Por lo que, en mérito de lo expuesto; y
 
@@ -503,9 +505,11 @@ El cargo de Presidente de la Comisión será remunerado y recibirá las mismas p
 
 ### Capítulo V. Del Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 35.
 
-El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por el Presidente de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo.
+El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por el Presidente de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo. El Consejo será integrado bajo el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1423,7 +1427,7 @@ Artículo Tercero.- Se abroga la Ley Orgánica de la Comisión de Derechos Human
 
 Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
-Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a mas tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
+Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a más tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
 
 AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECISIETE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
 
@@ -1488,3 +1492,9 @@ P.O. 2 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 452.- QUE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 86 DE LA LEY DE DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
