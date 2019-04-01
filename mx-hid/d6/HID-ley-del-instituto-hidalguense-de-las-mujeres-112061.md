@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-hidalguense-de-las-mujeres-112061"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
 
-LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
+LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II, de la Constitución Política del Estado de Hidalgo; D E C R E T A:
 
-A N T E C E D E N T E S…
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO,
 
@@ -331,9 +333,11 @@ Cuando la ausencia de la persona que está al frente de la Dirección General se
 
 ### CAPÍTULO V. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 18.
 
-El Instituto contará con un Consejo Consultivo como órgano asesor, evaluador y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley.
+El Instituto contará con un Consejo Consultivo como órgano asesor, evaluador y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley. En este prevalecerá el principio de paridad de género.
 
 El Consejo Consultivo estará constituido por una persona integrante permanente de carácter honorífico, proveniente de las siguientes instituciones y organizaciones:
 
@@ -436,3 +440,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTITRÉS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
