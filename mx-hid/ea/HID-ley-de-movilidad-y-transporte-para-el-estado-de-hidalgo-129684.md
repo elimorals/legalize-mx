@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2018-07-30"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -573,9 +573,11 @@ El Ejecutivo Estatal y los ayuntamientos atenderán, conforme a los convenios qu
 
 ### CAPÍTULO III. DEL CONSEJO DE MOVILIDAD Y TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 20.
 
-Consejo de Movilidad y Transporte es el órgano de carácter deliberativo y de participación ciudadana, que tiene por objeto coadyuvar en las acciones relativas al mejoramiento en la prestación del Servicio Público de Transporte y del Sistema de Movilidad del Estado.
+Consejo de Movilidad y Transporte es el órgano de carácter deliberativo y de participación ciudadana, que tiene por objeto coadyuvar en las acciones relativas al mejoramiento en la prestación del Servicio Público de Transporte y del Sistema de Movilidad del Estado. Este será integrado bajo el principio de paridad de género.
 
 El consejo se integra por:
 
@@ -3256,3 +3258,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
