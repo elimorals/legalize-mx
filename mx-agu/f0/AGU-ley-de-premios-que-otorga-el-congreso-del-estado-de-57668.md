@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2017-03-06"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -83,31 +83,39 @@ V. Medalla "Palmas Académicas";
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VI. Medalla “Miguel Ángel de Quevedo”;
+VI. Medalla "Miguel Ángel de Quevedo";
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VII. Medalla “Manuel M. Ponce”;
+VII. Medalla "Manuel M. Ponce";
 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VIII. Medalla “César E. Chávez”;
+VIII. Medalla "César E. Chávez";
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-IX. Medalla “Saturnino Herrán”;
+IX. Medalla "Saturnino Herrán";
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
 X. Medalla "Jesús Terán Peredo";
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-XI. Medalla "Al Mérito Deportivo"; y
+XI. Medalla "Al Mérito Deportivo";
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-XII. Medalla "Mujer Aguascalentense".
+XII. Medalla "María del Carmen Martín del Campo Ramírez";
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XIII. Medalla “3 de Diciembre, Día Internacional de las Personas con Discapacidad”; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XIV. Medalla “Antonio Acevedo Escobedo”.
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -123,9 +131,11 @@ III. A propuesta de la Comisión de Postulaciones y siempre que exista disponibi
 
 #### Sección I. Medalla "Benito Juárez García"
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 6°.
 
-La Medalla "Benito Juárez García" se concederá para premiar relevantes servicios prestados a la Humanidad, a la Patria, al Estado o a la comunidad; actos heroicos; méritos eminentes y conducta o trayectoria vital ejemplares.
+La Medalla "Benito Juárez García" se concederá para premiar relevantes servicios prestados a la Humanidad, a la Patria, al Estado o a la comunidad; actos heroicos; méritos eminentes y conducta o trayectoria vital ejemplares en los diversos ámbitos del desarrollo humano, como el económico, político y social del Estado.
 
 #### Sección II. Medalla "José María Morelos y Pavón"
 
@@ -167,43 +177,59 @@ Esta Medalla se otorgará a quienes por sus méritos, se destaquen en el arte de
 
 #### Sección VIII. Medalla "César E. Chávez"
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 12 BIS], P.O. 1 DE ABRIL DE 2019)</small>
 
-ARTÍCULO 12 BIS.- Esta Medalla se otorgará a. la persona física o moral que se distinga por su labor, trabajo y aportaciones realizadas en México o en el extranjero, en beneficio de los aguascalentenses y sus familias radicados en otros países; por actividades y trabajos que fomenten y mejoren las relaciones de nuestro país con personas y gobiernos de otros países; por trabajos y actividades que mejoren la presencia y percepción de México y los mexicanos en el extranjero, así como aquellos que permitan disminuir la migración de mexicanos.
+ARTÍCULO 12 A.- Esta Medalla se otorgará a. la persona física o moral que se distinga por su labor, trabajo y aportaciones realizadas en México o en el extranjero, en beneficio de los aguascalentenses y sus familias radicados en otros países; por actividades y trabajos que fomenten y mejoren las relaciones de nuestro país con personas y gobiernos de otros países; por trabajos y actividades que mejoren la presencia y percepción de México y los mexicanos en el extranjero, así como aquellos que permitan disminuir la migración de mexicanos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2012)</small>
 
 #### Sección IX. Medalla "Saturnino Herrán"
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 12 TER], P.O. 1 DE ABRIL DE 2019)</small>
 
-ARTÍCULO 12 TER.- Esta medalla se otorgará a la persona física o moral que se distinga por su labor, trabajo, aportaciones, apoyos, investigaciones o acciones realizadas en el Estado en beneficio de los jóvenes de Aguascalientes, o bien por actividades y trabajos que fomenten y mejoren el desarrollo y la calidad de vida de la juventud del Estado y que les permitan allegarse de mejores herramientas de vida, desarrollo y superación; así como en su caso a aquel menor de 25 años que por sus logros académicos, sociales, deportivos, intelectuales o de investigación, ponga en alto, a nivel nacional o internacional a la juventud de Aguascalientes.
+ARTÍCULO 12 B.- Esta medalla se otorgará a la persona física o moral que se distinga por su labor, trabajo, aportaciones, apoyos, investigaciones o acciones realizadas en el Estado en beneficio de los jóvenes de Aguascalientes, o bien por actividades y trabajos que fomenten y mejoren el desarrollo y la calidad de vida de la juventud del Estado y que les permitan allegarse de mejores herramientas de vida, desarrollo y superación; así como en su caso a aquel menor de 25 años que por sus logros académicos, sociales, deportivos, intelectuales o de investigación, ponga en alto, a nivel nacional o internacional a la juventud de Aguascalientes.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2012)</small>
 
 #### Sección X. Medalla "Jesús Terán Peredo"
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 12 QUATER], P.O. 1 DE ABRIL DE 2019)</small>
 
-ARTÍCULO 12 QUATER.- Esta Medalla se otorgará a la persona física o moral que basando sus principios en la honestidad, la transparencia y la calidad, además de conducirse por políticas, programas y estrategias que favorecen el pleno desarrollo humano, busque la excelencia en el seno de la empresa, atendiendo con especial atención a las personas y sus condiciones de trabajo, así como a la calidad de sus procesos productivos, en el mismo sentido, promueva e impulse una cultura de competitividad responsable.
+ARTÍCULO 12 C.- Esta Medalla se otorgará a la persona física o moral que basando sus principios en la honestidad, la transparencia y la calidad, además de conducirse por políticas, programas y estrategias que favorecen el pleno desarrollo humano, busque la excelencia en el seno de la empresa, atendiendo con especial atención a las personas y sus condiciones de trabajo, así como a la calidad de sus procesos productivos, en el mismo sentido, promueva e impulse una cultura de competitividad responsable.
 
 Indistintamente se podrá otorgar esta presea a la persona física o moral que se haya dedicado a crear, desarrollar o consolidar una empresa a partir de una idea emprendedora, incluso con insuficiente experiencia empresarial, tecnológica y de financiamiento; además de tener como finalidad la generación de empleos en el Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE MARZO DE 2013)</small>
 
-#### SECCIÓN XI. Medalla "Al Merito Deportivo"
+#### SECCIÓN XI. Medalla "Al Mérito Deportivo"
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 12 QUINQUIES], P.O. 1 DE ABRIL DE 2019)</small>
 
-ARTÍCULO 12 QUINQUIES.- Esta medalla se otorgará a la persona física o moral que se distinga por su trayectoria, labor o aportaciones realizadas en México o en el extranjero, en materia deportiva y sea ejemplo para la niñez y la juventud de Aguascalientes.
+ARTÍCULO 12 D.- Esta medalla se otorgará a la persona física o moral que se distinga por su trayectoria, labor o aportaciones realizadas en México o en el extranjero, en materia deportiva y sea ejemplo para la niñez y la juventud de Aguascalientes.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2019)</small>
 
-#### SECCIÓN XII. Medalla "Mujer Aguascalentense"
+#### Sección XII. Medalla "María del Carmen Martín del Campo Ramírez"
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 12 SEXIES], P.O. 1 DE ABRIL DE 2019)</small>
 
-ARTÍCULO 12 SEXIES.- La medalla "Mujer Aguascalentense" se otorgará a la mujer que se destaque por su trayectoria en el ámbito cultural, económico, académico, político y social, en el Estado de Aguascalientes.
+ARTÍCULO 12 E.- La medalla "Mujer Aguascalentense" se otorgará a la mujer que se destaque por su trayectoria en el ámbito cultural, económico, académico, político y social, en el Estado de Aguascalientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE ABRIL DE 2019)</small>
+
+#### Sección XIII. Medalla “3 de Diciembre, Día Internacional de las Personas con Discapacidad”
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 12 G (SIC).- Esta medalla se otorgará a la Persona con alguna Discapacidad que destaque por su contribución a la integración social y productiva de personas con discapacidad dentro del Estado de Aguascalientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE ABRIL DE 2019)</small>
+
+#### Sección XIV. Medalla “Antonio Acevedo Escobedo”
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 12 H.- Esta medalla se entregará a quienes se distingan, en el uso eficiente, ético y responsable de los medios de comunicación, por la veracidad y objetividad de la información que manejan y de los artículos, así como el interés que susciten y el efecto socialmente benéfico que produzcan. El otorgamiento de este premio no está condicionado por la amplitud de la cobertura del órgano de difusión; así mismo sólo serán beneficiarias las personas físicas, individualmente o en grupo.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -279,7 +305,7 @@ La presente Ley entrará en vigencia al día siguiente de su publicación en el 
 
 ###### ARTÍCULO SEGUNDO
 
-Se abroga la Ley que establece el Galardón "Palmas Académicas" expedida el 7 de abril de 1942, y publicada mediante el Decreto Número 257 de fecha 26 de abril del mismo año; la Ley que Instituye la "Medalla José Guadalupe Posada", expedida el 28 de enero de 1952, mediante el Decreto Número 35; el Decreto Número 26, que instituye la "Medalla José María Morelos y Pavón", expedido el 19 de agosto de 1975 y publicado el 31 de agosto del mismo año; el Reglamento de la "Medalla José Maria Bocanegra" del Honorable Congreso del Estado de Aguascalientes, expedido a través del Decreto Número 39, de fecha 8 de julio de 1999 y publicado el 25 de julio del mismo año; el Decreto Número 160 que instituye la Medalla "Maestro Manuel M. Ponce", expedido a los 7 días del mes de agosto del año 1980 y publicado el día 17 de agosto del mismo año; así como las reformas de cada uno de los ordenamientos que se abrogan.
+Se abroga la Ley que establece el Galardón "Palmas Académicas" expedida el 7 de abril de 1942, y publicada mediante el Decreto Número 257 de fecha 26 de abril del mismo año; la Ley que Instituye la "Medalla José Guadalupe Posada", expedida el 28 de enero de 1952, mediante el Decreto Número 35; el Decreto Número 26, que instituye la "Medalla José María Morelos y Pavón", expedido el 19 de agosto de 1975 y publicado el 31 de agosto del mismo año; el Reglamento de la "Medalla José María Bocanegra" del Honorable Congreso del Estado de Aguascalientes, expedido a través del Decreto Número 39, de fecha 8 de julio de 1999 y publicado el 25 de julio del mismo año; el Decreto Número 160 que instituye la Medalla "Maestro Manuel M. Ponce", expedido a los 7 días del mes de agosto del año 1980 y publicado el día 17 de agosto del mismo año; así como las reformas de cada uno de los ordenamientos que se abrogan.
 
 Dado en el salón de sesiones del Palacio Legislativo, en la ciudad de Aguascalientes, a los nueve días del mes de octubre del año 2007.
 
@@ -346,3 +372,15 @@ III.- Los premios de la Sexagésima Tercera Legislatura se otorgarán en el segu
 ###### ARTÍCULO TERCERO.
 
 Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 130.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XI Y XII DEL PÁRRAFO PRIMERO DEL ARTÍCULO 4°; EL ARTÍCULO 6°; LA DENOMINACIÓN DEL ARTÍCULO 12 BIS, QUE PASA A SER 12 A; LA DENOMINACIÓN DEL ARTÍCULO 12 TER, PARA QUEDAR COMO ARTÍCULO 12 B; LA DENOMINACIÓN DEL ARTÍCULO 12 QUATER, QUEDANDO COMO ARTÍCULO 12 C; LA DENOMINACIÓN DEL ARTÍCULO 12 QUINQUIES, QUEDANDO COMO ARTÍCULO 12 D; LA DENOMINACIÓN Y EL CONTENIDO DEL ARTÍCULO 12 SEXIES, QUEDANDO COMO ARTÍCULO 12 E; Y LA DENOMINACIÓN DE LA SECCIÓN XII “MEDALLA MUJER AGUASCALENTENSE” DEL CAPÍTULO II “DE LOS PREMIOS Y RECONOCIMIENTOS” PARA PASAR A SER SECCIÓN XII “MEDALLA MARÍA DEL CARMEN MARTÍN DEL CAMPO RAMÍREZ”; DEL CAPÍTULO II “DE LOS PREMIOS Y RECONOCIMIENTOS”. ASÍ COMO SE ADICIONAN UNAS FRACCIONES XIII Y XIV AL ARTÍCULO 4°; UNA SECCIÓN XIII “MEDALLA 3 DE DICIEMBRE, DÍA INTERNACIONAL DE LAS PERSONAS CON DISCAPACIDAD” AL CAPÍTULO II “DE LOS PREMIOS Y RECONOCIMIENTOS”, INTEGRADA POR UN ARTÍCULO 12 G QUE TAMBIÉN SE ADICIONA; Y UNA SECCIÓN XIV “MEDALLA ANTONIO ACEVEDO ESCOBEDO”, INTEGRADA POR UN ARTÍCULO 12 H QUE TAMBIÉN SE ADICIONA; TODOS ELLOS A LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogar (sic) la Ley que Crea el Premio Estatal de Periodismo del Estado de Aguascalientes, emitida mediante el Decreto Número 413, expedido por la LXII Legislatura del H. Congreso del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
