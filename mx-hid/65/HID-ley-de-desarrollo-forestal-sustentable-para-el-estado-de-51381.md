@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2018-06-18"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -1685,7 +1685,9 @@ Para llevar a cabo sus atribuciones, el Consejo podrá formas comités y subcomi
 
 En el Consejo podrán participar, representantes de las Dependencias y Entidades del Poder Ejecutivo Federal, del Poder Ejecutivo del Estado y de los Municipios, de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales y demás personas físicas o morales relacionadas e interesadas de cada una de las demarcaciones. Se establecerá la vinculación con los Consejos para el Desarrollo Rural Sustentable, en los ámbitos previstos por la Ley General de Desarrollo Rural Sustentable.
 
-Además, en la constitución del Consejo se propiciará la representación proporcional y equitativa de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
+Además, en la constitución del Consejo se propiciará la paridad de género, de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -2084,3 +2086,9 @@ P.O. 18 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 443 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
