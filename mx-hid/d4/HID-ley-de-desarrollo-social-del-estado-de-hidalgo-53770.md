@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2018-08-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -43,7 +43,9 @@ A N T E C E D E N T E S
 
 2.- Las Comisiones Legislativas actuantes registraron el presente asunto en el Libro de Gobierno con el número 056/2005.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -139,9 +141,17 @@ XIX.- Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado d
 
 XX.- Sistema: El Sistema Estatal de Desarrollo Social;
 
-XXI.- Zonas de Atención Prioritaria: Las áreas o regiones de carácter rural o urbano, definidas por la Secretaría, cuya población registra pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en esta Ley; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
-XXII.- Contraloría Social: Son los Comités Ciudadanos encargados de supervisar, vigilar y verificar la correcta aplicación de los recursos públicos destinados a cada programa.
+XXI.- Zonas de Atención Prioritaria: Las áreas o regiones de carácter rural o urbano, definidas por la Secretaría, cuya población registra pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XXII.- Contraloría Social: Mecanismo de los beneficiarios, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+XXIII.- Comités de Contraloría Social: Instrumento de que disponen los beneficiarios y la sociedad de manera organizada, independiente, voluntaria y honorífica, para verificar el cumplimiento de las metas y los programas de desarrollo social, la correcta aplicación de los recursos destinados a cada programa social, así como para interponer quejas o denuncias ante la autoridad competente.
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
@@ -941,11 +951,35 @@ La Secretaría, realizará la difusión de los programas sociales, en donde pued
 
 ###### Artículo 79.
 
-La Contraloría Social es el instrumento de que disponen los beneficiarios y la sociedad, para verificar el cumplimiento de los programas y de desarrollo social y la correcta aplicación de los recursos destinados a esta materia.
+(DEROGADO, P.O. 1 DE ABRIL DE 2019)
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
 
 ###### Artículo 80.
 
-El Gobierno del Estado y los Municipios impulsarán la contraloría social y facilitarán la información necesaria para el cumplimiento de sus funciones a través de Comités Ciudadanos, los que tendrán la facultad de acudir en forma directa ante el Órgano de Fiscalización Superior del Congreso y la Secretaría de Contraloría del Gobierno del Estado, bien sea para interponer quejas o denuncias o para recibir apoyo y asesoría.
+El Gobierno del Estado y los Municipios impulsarán la Contraloría Social, facilitarán y otorgarán la información y capacitación necesarias para el cumplimiento de sus funciones a través de Comités de Contraloría Social, los que tendrán la facultad de acudir en forma directa ante el Órgano de Fiscalización Superior del Congreso y la Secretaria de Contraloría del Gobierno del Estado, bien sea para interponer quejas o denuncias o para recibir apoyo y asesoría.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
+
+###### Artículo 80 Bis.
+
+Sin detrimento de lo señalado en otras disposiciones aplicables, las funciones de la Contraloría Social son:
+
+a) Solicitar la información a las autoridades federales, estatales y municipales que considere necesaria para comprobar el cumplimiento de las metas y la correcta aplicación de los recursos públicos.
+
+b) Vigilar el ejercicio de los recursos públicos y la aplicación de los programas de desarrollo social conforme a la Ley y a las reglas de operación;
+
+c) Emitir informes sobre el desempeño de los programas, el cumplimiento de metas y la aplicación de los recursos públicos; y
+
+d) Recibir, interponer y dar seguimiento a las quejas y denuncias presentadas ante la autoridad competente, sobre la aplicación y ejecución de los programas.
+
+(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE FEBRERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
+
+###### Artículo 80 Ter.
+
+Quienes conformen los Comités de Contraloría Social deberán ser ciudadanos residentes y beneficiarios del lugar donde se aplica el programa social, SIN ANTECEDENTES PENALES, definiéndose en el Reglamento de la presente Ley y en las reglas de operación del programa correspondiente, las bases para su elección, conformación e integración.
 
 ###### Artículo 81.
 
@@ -1112,3 +1146,11 @@ P.O. 1 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 480 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 175 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO. El Ejecutivo Estatal realizará las adecuaciones al Reglamento de la Ley de Desarrollo Social del Estado de Hidalgo, dentro de los 60 días siguientes a su publicación a efecto de dar cumplimiento al presente Decreto.
