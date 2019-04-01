@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-03-27"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -81,7 +81,9 @@ I. Acciones afirmativas: Es el conjunto de medidas de carácter temporal ejercid
 
 II. Comisión: La Comisión Estatal de Derechos Humanos;
 
-III. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, idioma, religión, opiniones, preferencias sexuales, estado civil, obligaciones familiares o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+
+III. Discriminación: Toda acción, omisión, distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, idioma, religión, opiniones, preferencia sexual, estado civil, obligaciones familiares o cualquier otra, que tenga por efecto impedir o anular los beneficios, acciones, programas, reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas garantizadas por esta Ley;
 
 IV. Equidad de Género: Es la plena participación de la mujer y del hombre, en condiciones de igualdad, en la vida civil, cultural, económica, política, social y familiar del país en el que vive, así como la erradicación de todas las formas de discriminación por motivos de sexo;
 
@@ -1079,6 +1081,12 @@ P.O. 10 DE MARZO DE 2017.
 
 P.O. 27 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 110. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III Y IV DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 26; Y EL ARTÍCULO 49; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 28; LA FRACCIÓN I DEL ARTÍCULO 35; LA FRACCIÓN I DEL ARTÍCULO 36; Y EL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 110. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III Y IV DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 26; Y EL ARTÍCULO 49; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 28; LA FRACCIÓN I DEL ARTÍCULO 35; LA FRACCIÓN I DEL ARTÍCULO 36; Y EL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 109. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
