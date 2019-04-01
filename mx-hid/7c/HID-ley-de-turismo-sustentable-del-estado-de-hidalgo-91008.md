@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2018-07-30"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -495,9 +495,11 @@ La Comisión Ejecutiva podrá crear comités especializados para los diversos as
 
 ### CAPÍTULO IX. DEL CONSEJO CONSULTIVO PARA EL DESARROLLO TURÍSTICO SUSTENTABLE DE HIDALGO
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 23.
 
-En cumplimiento de lo establecido en la Ley General, el Consejo será el órgano de consulta de la Secretaría y el instrumento por el que se fomentarán acciones de cooperación, análisis y suma de esfuerzos entre los sectores público, privado y social, con el fin de lograr un desarrollo integral y sustentable de la actividad turística del Estado.
+En cumplimiento de lo establecido en la Ley General, el Consejo será el órgano de consulta de la Secretaría y el instrumento por el que se fomentarán acciones de cooperación, análisis y suma de esfuerzos entre los sectores público, privado y social, con el fin de lograr un desarrollo integral y sustentable de la actividad turística del Estado. Este será integrado bajo el principio de paridad de género.
 
 ###### Artículo 24.
 
@@ -1070,3 +1072,9 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 461 QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
