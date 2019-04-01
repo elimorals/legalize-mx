@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2017-07-31"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -689,9 +689,11 @@ VI.- Las demás que se determinen en el Reglamento Interno de la Comisión o que
 
 #### SECCIÓN SEGUNDA. CONSEJO DE CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### Artículo 30.
 
-El Consejo, es el órgano de consulta de la Comisión, se integrará por miembros de los sectores social, privado y académico, con experiencia en materia ambiental y de cambio climático, que serán designados por el presidente de la Comisión, a propuesta de sus integrantes y de conformidad a lo señalado en su Reglamento Interno, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos.
+El Consejo, es el órgano de consulta de la Comisión, se integrará por miembros de los sectores social, privado y académico, bajo el principio de paridad de género, con experiencia en materia ambiental y de cambio climático, que serán designados por el presidente de la Comisión, a propuesta de sus integrantes y de conformidad a lo señalado en su Reglamento Interno, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos.
 
 ###### Artículo 31.
 
@@ -1182,3 +1184,9 @@ P.O. 31 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 208 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO."]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 176.- QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
