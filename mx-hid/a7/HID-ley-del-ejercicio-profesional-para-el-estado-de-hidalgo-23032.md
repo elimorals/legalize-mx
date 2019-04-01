@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2018-07-02"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -401,9 +401,11 @@ XXIII.- Las demás que se derivan de esta Ley, su Reglamento y de otras disposic
 
 El Consejo de Profesiones es un Organo Consultivo y de coordinación, que tiene por objeto coadyuvar a la vigilancia, mejoramiento y superación del ejercicio profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 49.
 
-El Consejo de Profesiones estará integrado por los presidentes de los Colegios de Profesionistas debidamente registrados, un representante designado por cada institución de educación superior, pertenecientes al Sistema Educativo Nacional, dos representantes que designe el sector productivo a través de sus órganos representativos, un secretario técnico y por el titular de la Dirección de Profesiones del mismo Instituto, quien lo presidirá.
+El Consejo de Profesiones estará integrado por los presidentes de los Colegios de Profesionistas debidamente registrados, un representante designado por cada institución de educación superior, pertenecientes al Sistema Educativo Nacional, dos representantes que designe el sector productivo a través de sus órganos representativos, un secretario técnico y por el titular de la Dirección de Profesiones del mismo Instituto, quien lo presidirá. Este será integrado bajo el principio de paridad de género.
 
 El secretario técnico será nombrado por el Presidente del Consejo de Profesiones.
 
@@ -706,3 +708,9 @@ P.O. 2 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 449.- QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 176.- QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
