@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2017-06-07"
+last_updated: "2019-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE ABRIL DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1246,7 +1246,7 @@ a) El monto total de recursos al que asciende el presupuesto participativo por D
 
 b) Los recursos de presupuesto participativo correspondientes a cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal. Para tal efecto, el monto total de recursos de presupuesto participativo de cada una de las Delegaciones se dividirá entre el número de colonias y pueblos originarios que existan en aquéllas, de modo que la asignación de recursos sea igualitaria, y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO {N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2017)</small>
 
 c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia remita el Instituto Electoral.
 
@@ -4467,3 +4467,21 @@ SÉPTIMO.- Una vez entrada en vigor la Constitución Política de la Ciudad de M
 OCTAVO.- Las alcaldías deberán informar trimestralmente al Congreso de la Ciudad de México acerca del ejercicio, seguimiento y control del presupuesto participativo; el primer informe, deberá presentarse a más tardar el 11 de abril; el segundo informe, el 11 de julio; el tercer informe, el 10 de octubre. En lo que corresponde al cuarto informe, este deberá presentarse el 10 de enero del año inmediato. Estos informes deberán presentarse a partir del año 2017.
 
 NOVENO.-Todas las referencias hechas al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, en tanto concluye la VII Legislatura y se instala el Congreso Local.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2019)</small>
+
+DÉCIMO.- El proceso de elección de los Órganos de Representación Ciudadana y la Consulta en materia de Presupuesto Participativo que se contemplan en los artículos 83, 84 y 107 de la Ley de Participación Ciudadana del Distrito Federal, se realizarán hasta que la I Legislatura del Congreso de la Ciudad de México establezca lo conducente en la nueva Ley en Materia de Participación Ciudadana, todo ello deberá realizarse antes de la segunda semana de diciembre de 2019.
+
+Las y los integrantes de los actuales comités ciudadanos, de los Consejos Delegaciones (sic), de los Consejos de los Pueblos y los Representantes de Manzana permanecerán en el desempeño de su encargo hasta el día para el cual fueron electos.
+
+El Instituto Electoral de la Ciudad de México realizará los ajustes necesarios a los recursos presupuestados en el ejercicio fiscal 2019 para la realización de la elección de Órganos de Representación Ciudadana y Consulta de Presupuesto Participativo, de acuerdo al calendario que resulte de lo que establezca la nueva ley de la materia.
+
+G.O. 1 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Túrnese el presente dictamen a la Presidencia de la Mesa Directiva del Congreso de la Ciudad de México para los efectos a los que se refieren los artículos 84, 85, 86, 87, 103, 104, 105, 106 y 107 del Reglamento Interno del Congreso de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión;
+
+TERCERO.- El presente Decreto entrará en vigor en el momento de su publicación en la Gaceta Oficial de la Ciudad de México;
