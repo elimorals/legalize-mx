@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2018-08-24"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE ABRIL DE 2019.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -86,9 +86,9 @@ XIII. Constructor, a la persona física o moral encargada de ejecutar la obra de
 
 XIV. Bases Generales, a las bases para la contratación de los Directores Responsables de Obra y Corresponsables;
 
-> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-XV. Arancel, a las cuotas que regulen los honorarios de los Directores Responsables de Obra y Corresponsables que en el ejercicio de las actividades que realizan, tienen derecho a cobrar por la prestación de sus servicios;
+XV. Arancel, son las cuotas que determinaran los honorarios que cobrarán los Directores Responsables de Obra y Corresponsables por la prestación de sus servicios profesionales, establecidos por el Instituto y publicados en la Gaceta Oficial de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -146,9 +146,9 @@ III. Establecer de acuerdo con las disposiciones legales aplicables, los fines p
 
 IV. Registrar las manifestaciones de construcción, así como otorgar o negar licencias de construcción especial y permisos para la ejecución de las obras y el uso de edificaciones y predios a que se refiere el artículo 1 de este Reglamento;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-V. Llevar un padrón clasificado de Directores Responsables de Obra y Corresponsables; el cual deberá ser actualizado y publicado en el portal de internet de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México;
+V. Llevar un padrón clasificado de Directores Responsables de Obra y Corresponsables, el cual deberá ser actualizado y publicado en los portales de internet de la Secretaría de Desarrollo Urbano y Vivienda o del Instituto según corresponda;
 
 VI. Practicar visitas de verificación administrativa para que durante el proceso de ejecución y para que el uso que se haga o se haya hecho de un predio, estructura, instalación, edificación o construcción, se ajuste a las características previamente registradas;
 
@@ -474,11 +474,11 @@ Si las determinaciones de los Programas modificaran el alineamiento oficial de u
 
 ### CAPÍTULO I. DE LOS DIRECTORES RESPONSABLES DE OBRA
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-Director Responsable de Obra es la persona física auxiliar de la Administración, con autorización y registro otorgado por la Secretaría de Desarrollo Urbano y Vivienda, quien tiene la atribución en todas aquellas actividades vinculadas con su responsiva, de ordenar y hacer valer en la obra, la observancia de la Ley, de este Reglamento y demás disposiciones aplicables, incluyendo las ambientales.
+Director Responsable de Obra es la persona física auxiliar de la Administración, con autorización y registro otorgado por la Secretaría de Obras y Servicios, a través del Instituto, quien tiene la atribución en todas aquellas actividades vinculadas con su responsiva, de ordenar y hacer valer en la obra, la observancia de la Ley, de este Reglamento y demás disposiciones aplicables, incluyendo las ambientales.
 
 ###### ARTÍCULO 33.
 
@@ -584,15 +584,9 @@ VI. Ordenar al propietario y/o constructor la colocación en la obra, en lugar v
 
 VII. Solicitar al propietario, poseedor o constructor el aviso de terminación de la obra ejecutada, debiendo anexarlo a la bitácora y conservar copias delos (sic) planos actualizados y registrados del proyecto completo, del libro de bitácora y de las memorias de cálculo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-VIII. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al aniversario de la fecha de su expedición y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior o los Colegios de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías previamente aprobados por las Secretaría de Desarrollo Urbano y Vivienda y de Obras y Servicios, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda.
-
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-En el caso de que no se reselle el carnet, en un período de tres años, será obligatorio presentar una evaluación de conocimientos ante el Comité Técnico de Director Responsable de Obra.
-
-En particular informará a la Comisión sobre su participación en las responsivas suscritas a que se refiere el artículo 34 de este Reglamento durante el período anterior al refrendo o resello;
+VIII. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al vencimiento y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades.
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -606,25 +600,35 @@ X. Observar conjuntamente con el Corresponsable en Instalaciones, las previsione
 
 XI. Vigilar que, en los planos del proyecto ejecutivo, se encuentren las áreas de donación en los casos que corresponda;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-XII. Celebrar el contrato de prestación de servicios profesionales, en el cual se establecerá el Arancel correspondiente;
+XII. Suscribir un contrato de prestación de servicios profesionales, en el cual se establezca el Arancel correspondiente por los servicios que le hayan sido solicitados;
 
-> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-XIII. Verificar que los proyectistas hayan firmado los planos y memorias del proyecto, así como el especialista el (sic) estudio de mecánica de suelos, el estudio correspondiente, con base en lo dispuesto en el artículo 54 de la Ley de Desarrollo Urbano del Distrito Federal, asumiendo la responsabilidad establecida en la Ley y demás normatividad vigente; y
+XIII. Verificar que los proyectistas hayan firmado los planos y memorias del proyecto, así como el especialista haya firmado el estudio de mecánica de suelos y/o en su caso, los estudios correspondientes, con base en lo dispuesto en el artículo 54 segundo párrafo de la Ley de Desarrollo Urbano del Distrito Federal, asumiendo la responsabilidad de su actuar en apego a la normatividad vigente;
 
-> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ABRIL DE 2019)</small>
 
-XIV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+XIV. Emitir opinión técnica respecto de los avisos de ocupación y terminación de obra ante la Administración, antes de que ésta lo autorice o lo niegue de conformidad con lo establecido en este Reglamento, los Programas de Desarrollo Urbano vigentes, la ocupación total o parcial, o uso de instalación, predio o edificación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE ABRIL DE 2019)</small>
+
+XV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
 
 ### CAPÍTULO II. DE LOS CORRESPONSABLES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS APARTADOS], G.O. 2 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-Corresponsable es la persona física auxiliar de la Administración, con autorización y registro de la Secretaría de Desarrollo Urbano y Vivienda, con conocimientos técnicos relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones, quien responderá en forma conjunta con el Director Responsable de Obra, o autónoma en los casos en que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, y deberá cumplir con lo establecido en la Ley, en este Reglamento y en las demás disposiciones aplicables, correspondiendo a la Secretaría de Desarrollo Urbano y Vivienda otorgar su autorización y registro.
+Corresponsable es la persona física auxiliar de la Administración con autorización, registro y conocimientos técnicos especializados en las siguientes materias:
+
+A. Seguridad Estructural.
+
+B. Diseño Urbano y Arquitectónico e.
+
+C. Instalaciones.
 
 > <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -645,6 +649,18 @@ Nivel 2, son los Corresponsables con al menos 15 años de experiencia acreditada
 > <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
 Las obligaciones y responsabilidades de los Corresponsables en Seguridad Estructural serán las indicadas en el artículo 39 y en las NTC-RSEE.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+Tratándose de Corresponsables en Seguridad Estructural, corresponderá al Instituto otorgar su autorización y registro.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+Tratándose de Corresponsables en Diseño Urbano y Arquitectónico y Corresponsables en Instalaciones corresponderá a la Secretaría de Desarrollo Urbano y Vivienda otorgar su autorización y registro.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+Dicho profesional responderá, en forma conjunta con el Director Responsable de Obra o de manera autónoma, en los casos en que otorgue su responsiva en los aspectos técnicos relacionados al ámbito de su intervención profesional, debiendo cumplir con lo establecido en la Ley, en este Reglamento y en las demás disposiciones aplicables.
 
 Se requiere responsiva de los Corresponsables para obtener el registro de manifestación de construcción o la licencia de construcción especial a que se refieren los artículos 53 y 58 de este Reglamento, en los siguientes casos:
 
@@ -768,9 +784,9 @@ c) Verificar que los proyectos cumplan con las características generales para s
 
 d) Avalar el proyecto estructural de la edificación en conjunto con los Especialistas Auxiliares, en su caso. En ningún caso el Corresponsable de un edificio podrá ser el Proyectista del mismo;
 
-> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-e) Firmar la Constancia de Cumplimiento de la Revisión emitida por el Instituto;
+e) Firmar la “Constancia de Registro de la Revisión por parte del Corresponsable en Seguridad Estructural del Proyecto Estructural” emitida por el Instituto;
 
 > <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -836,9 +852,9 @@ d) Notificar al Director Responsable de Obra cualquier irregularidad en el ámbi
 
 e) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE ABRIL DE 2019)</small>
 
-IV. Resellar anualmente el carnet dentro de los cinco días hábilesanteriores (sic) al aniversario de la fecha de su expedición y refrendar su registro de Corresponsable cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior o los Colegios de los que formen parte, con una duración mínima de treinta horas, en los temas de normatividad y nuevas tecnologías previamente aprobados por las Secretaría de Desarrollo Urbano y Vivienda y de Obras y Servicios, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda o el Instituto.
+IV. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al vencimiento y refrendar su registro de Corresponsable cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías; previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto tratándose de Corresponsables en Seguridad Estructural y en los casos de Corresponsables en Diseño Urbano y Arquitectónico y Corresponsables en Instalaciones corresponderá dicha aprobación a la Secretaría de Desarrollo Urbano y Vivienda; sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -846,9 +862,9 @@ En el caso de que un Corresponsable no haya resellado en un período de tres añ
 
 En particular, informará a la Comisión sobre su participación en las responsivas suscritas a que se refiere el artículo 38 de este Reglamento durante el periodo anterior al refrendo o resello.
 
-> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-V. Celebrar el contrato de prestación de servicios profesionales en el cual se establecerá el Arancel correspondiente.
+V. Suscribir un contrato de prestación de servicios profesionales, en el cual se establezca el Arancel correspondiente por los servicios que le hayan sido solicitados.
 
 ### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
@@ -856,15 +872,9 @@ V. Celebrar el contrato de prestación de servicios profesionales en el cual se 
 
 Las funciones del Director Responsable de Obra y Corresponsables, en las obras y casos para los que hayan otorgado su responsiva se terminarán:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-I. Cuando ocurra sustitución o retiro del Director Responsable de Obra y/o Corresponsables en la obra correspondiente; para lo cual se deberá levantar un acta administrativa ante la Secretaría de Desarrollo Urbano y Vivienda o el Instituto asentando los motivos por los que el Director Responsable de Obra o el Corresponsable, sea sustituido o retire su responsiva, así como el avance de la obra hasta ese momento, la cual será suscrita por la Autoridad correspondiente, por el Director Responsable de Obra y/o Corresponsables, según sea el caso, y por el propietario o poseedor. Una copia de esta acta se enviará a la Administración y otra se asentará y anexará a la bitácora de la obra.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-La Administración ordenará la suspensión de la obra cuando el Director Responsable de Obra y/o Corresponsable no sean sustituidos en forma inmediata y no permitirá la reanudación hasta en tanto no se designe un nuevo Director Responsable de Obra y/o Corresponsable.
+I. Cuando ocurra sustitución o retiro del Director Responsable de Obra y/o Corresponsables en seguridad estructural en la obra correspondiente, se deberá levantar un acta administrativa ante el Instituto. En caso de Corresponsables en Diseño Urbano y Arquitectónico y Corresponsables en Instalaciones se levantará ante la Secretaría de Desarrollo Urbano y Vivienda. En dicha acta se asentarán los motivos por los que se realiza la sustitución o retiro de responsiva al auxiliar de la administración correspondiente, así como el avance de la obra hasta ese momento. El acta será suscrita por la autoridad correspondiente, el Director Responsable de Obra y/o Corresponsables respectivos según sea el caso, así como por el propietario o poseedor. Una copia de esta acta se enviará a la Administración y otra se asentará y anexará a la bitácora de la obra.
 
 II. Cuando no hayan refrendado su registro correspondiente, y
 
@@ -880,11 +890,11 @@ I. La fecha en que se expida la autorización de uso y ocupación a que se refie
 
 II. La fecha en que formalmente hayan terminado su responsiva, según se establece en la fracción I del artículo 40 anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 42.
 
-La Secretaría de Desarrollo Urbano y Vivienda o el Instituto, en su caso, son la Autoridad competente para conocer y resolver las infracciones en que incurran los Directores Responsables de Obra y/o Corresponsables, considerando el dictamen que formule la Comisión Dictaminadora señalada en la fracción V del artículo 45 de este Reglamento, para emitir la resolución que a derecho proceda, conforme al procedimiento administrativo correspondiente, independientemente de las sanciones previstas en el Capítulo II del Título Décimo Primero del presente ordenamiento, en los siguientes casos:
+La Secretaría de Desarrollo Urbano y Vivienda o el Instituto según corresponda, son las autoridades competentes para sustanciar, notificar e imponer las infracciones en que incurran los Directores Responsables de Obra y/o Corresponsables, considerando el dictamen que formule la Comisión Dictaminadora señalada en la fracción V del artículo 45 de este Reglamento, para aplicar la resolución que a derecho proceda, conforme al procedimiento administrativo correspondiente, independientemente de las sanciones previstas en el Capítulo II del Título Décimo Primero del presente ordenamiento, en los siguientes casos:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -898,15 +908,17 @@ a) Infrinja el presente Reglamento y demás ordenamientos aplicables, sin causar
 
 b) Presente la documentación incompleta o con datos erróneos y que formen parte de los procedimientos que inicien ante la Administración;
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-c) Omita notificar a la Secretaría de Desarrollo Urbano y Vivienda, para el Registro en su carnet de la responsiva otorgada a una obra pública realizada por la Administración;
+c) Omita notificar a la Secretaría de Desarrollo Urbano y Vivienda o al Instituto según corresponda, para el registro en su Carnet de la responsiva otorgada a una obra pública realizada por la Administración.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 II. Suspensión temporal por dos años del registro de Director Responsable de Obra o Corresponsables, según sea el caso, cuando infrinjan el presente Reglamento y demás ordenamientos aplicables sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
 
-a) Sin conocimiento y aprobación de la Delegación o de la Secretaría de Desarrollo Urbano y Vivienda, en su caso, se modifique la obra o instalación sin apegarse a las condiciones de la manifestación de construcción registrada o de la licencia de construcción especial expedida, con excepción de las diferencias permitidas que se señalan en la fracción II del artículo 70 del presente Reglamento, y
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+a) Sin conocimiento y aprobación de la Alcaldía o de la Secretaría de Desarrollo Urbano y Vivienda o del Instituto según corresponda, se modifique la obra o instalación sin apegarse a las condiciones de la manifestación de construcción registrada o de la licencia de construcción especial expedida, con excepción de las diferencias permitidas que se señalan en la fracción II del artículo 70 del presente Reglamento,
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -956,9 +968,13 @@ En el caso de las fracciones II y III, los infractores deben entregar su carnet 
 
 En el caso de la fracción II, el infractor deberá entregar a la Comisión en un plazo máximo de 30 días naturales un informe detallado de las obras bajo su responsiva, el cual deberá acompañar de copias de la bitácora y memoria fotográfica.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-La Secretaría de Desarrollo Urbano y Vivienda o el Instituto, en su caso, notificarán a las Delegaciones de los Directores Responsables de Obra o Corresponsables que hayan sido sancionados para que éstas procedan conforme al presente Reglamento. De igual forma, se publicará en la página de internet de las citadas dependencias. Adicionalmente, se informará al Colegio de Profesionales al que pertenezca el infractor.
+La Secretaría de Desarrollo Urbano y Vivienda o el Instituto según corresponda, notificarán a las Alcaldías de los Directores Responsables de Obra o Corresponsables que hayan sido sancionados para que éstas procedan conforme a lo establecido en el presente Reglamento, de igual forma se habilitará una sección en las páginas de internet de las citadas autoridades para conocimiento público.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+Adicionalmente, se informará lo conducente al Colegio de Profesionales al que pertenezca el infractor.
 
 ### CAPÍTULO IV. DE LA COMISIÓN DE ADMISIÓN DE DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
@@ -972,9 +988,9 @@ La Comisión de Admisión de Directores Responsables de Obra y Corresponsables e
 
 La Comisión se integra por:
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
 
-I. El Secretario de Obras y Servicios, quien la presidirá, el Secretario de Desarrollo Urbano y Vivienda, quien fungirá como Secretario Técnico.
+I. El Secretario de Obras y Servicios, quien la presidirá, el Secretario de Desarrollo Urbano y Vivienda y el Director General del Instituto fungirán como Secretarios Técnicos para presentar los casos que les correspondan en el ámbito de su competencia,
 
 II. Un representante de cada uno de los Colegios de Profesionales y Cámaras siguientes, a invitación del Presidente de la Comisión:
 
@@ -1000,11 +1016,13 @@ i) Cámara Mexicana de la Industria de la Construcción, Delegación Distrito Fe
 
 j) Colegio Vanguardista de Ingenieros Arquitectos.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-Todos los miembros de la Comisión deben contar con un suplente, en el caso del Presidente, será el Titular del Instituto. Los representantes de los Colegios y Cámaras deben tener registro vigente de Director Responsable de Obra o de Corresponsable y durarán en sus funciones cuatro años. En el caso de que un miembro no pueda cumplir con su periodo, se aplicará para su sustitución lo dispuesto en el Manual de funcionamiento.
+Todos los miembros de la Comisión deben contar con un suplente. Los representantes de los Colegios y Cámaras deben tener registro vigente de Director Responsable de Obra o de Corresponsable y durarán en sus funciones cuatro años. En el caso de que un miembro no pueda cumplir con su periodo, se aplicará para su sustitución lo dispuesto en el Manual de funcionamiento. Todos los miembros de la Comisión deben contar con un suplente.
 
-Los miembros de la Comisión no podrán formar parte de los Comités señalados en el artículo 46 de este Reglamento y viceversa.
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+Los representantes de los Colegios y Cámaras deben tener registro vigente de Director Responsable de Obra o de Corresponsable y durarán en sus funciones cuatro años. En el caso de que un miembro no pueda cumplir con su periodo, se aplicará para su sustitución lo dispuesto en el Manual de funcionamiento.
 
 ###### ARTÍCULO 45.
 
@@ -1056,7 +1074,9 @@ Dichos manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
 ARTÍCULO 46 BIS.- El propietario y/o poseedor, de manera individual o mancomunada, según se actúe, tiene las siguientes obligaciones:
 
-a) Celebrar contrato de prestación de servicios profesionales con el Director Responsable de Obra o Corresponsable, según sea el caso, en el cual se establecerá el Arancel correspondiente;
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
+
+a) Suscribir un contrato de prestación de servicios profesionales con el Director Responsable de Obra o Corresponsable, según sea el caso, en el cual se establezca el Arancel correspondiente por los servicios que hayan sido solicitados;
 
 b) Solicitar por escrito los cambios al proyecto ejecutivo de obra al Director Responsable de Obra y/o Corresponsable, según sea el caso, quienes autorizarán o no dichos cambios, lo cual deberá ser asentado en la bitácora, así como los motivos para ello;
 
@@ -1260,9 +1280,9 @@ Los planos anteriores deberán incluir el proyecto de protección a colindancias
 
 f) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
 
-> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-g) Constancia del registro de la Revisión del proyecto estructural emitida por el Instituto, de conformidad con las Normas Técnicas Complementarias para la revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), cuando se requiera.
+g) Constancia de “Registro de la Revisión por parte del Corresponsable en Seguridad Estructural del Proyecto Estructural” emitida por el Instituto, cuya revisión deberá realizarse de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), para el caso de las edificaciones que pertenezcan al Grupo A o Subgrupo B1, según el artículo 139 de este Reglamento o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1444,9 +1464,9 @@ Los planos anteriores, deberán incluir el proyecto de protección a colindancia
 
 h) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
 
-> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
-i) Constancia del registro de la Revisión del proyecto estructural emitida por el Instituto de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones.
+i) Constancia de “Registro de la Revisión por parte del Corresponsable en Seguridad Estructural del Proyecto Estructural” emitida por el Instituto, cuya revisión deberá realizarse de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), para el caso de las edificaciones que pertenezcan al Grupo A o Subgrupo B1, según el artículo 139 de este Reglamento o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1738,7 +1758,7 @@ En el caso de la manifestación de construcción tipo A y la licencia de constru
 
 Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, y haya cumplido las condicionantes contenidas en el Dictamen de Factibilidad de Servicios Hidráulicos, así como con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
 
-Adicionalmente, para las edificaciones que pertenezcan al grupo A o subgrupo B1 o subgrupo B2 inciso a), según el artículo 139 de este Reglamento, se deberá presentar la Constancia de Cumplimiento de la Revisión firmada por el Corresponsable y emitida por el Instituto.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 2 DE ABRIL DE 2019)</small>
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -3753,3 +3773,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto continuarán su trámite conforme a la norma que aplicaba al inicio del mismo.
+
+G.O. 2 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Queda sin efecto el Artículo Transitorio Tercero del Acuerdo por el que se integra e instala la Comisión para el estudio y propuestas de reformas al Reglamento de Construcciones para el Distrito Federal, publicado el 10 de noviembre de 2016, en relación con la suspensión de la aplicación de los artículos 2, fracción XV; 35, fracciones XII y XIII; 39, fracción V; 40, 42, 46 Bis, 53, fracción I, inciso j) y 58, fracción I, inciso m) y por lo que respecta a los artículos 58, fracción I, inciso l; 82, fracción VI; 82 Bis y 124 continúan en suspensión.
+
+CUARTO.- Se establece un plazo máximo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto para contratar el seguro de responsabilidad civil por daños a terceros que refieren los artículos 53, fracción I, inciso j) y 58, fracción I, inciso m) de este Reglamento.
+
+QUINTO.- Las Bases Generales para la Contratación de los Directores Responsables de Obra y Corresponsables de la Ciudad de México que servirán como base para los aranceles a que hace referencia este Reglamento serán publicados dentro de los 90 días naturales siguientes a la publicación del presente Decreto.
+
+SEXTO.- El Manual de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra y Corresponsables a que hace referencia este Reglamento será publicado dentro de los 90 días naturales siguientes a la publicación del presente Decreto.
