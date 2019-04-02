@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2019-03-21"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -41,7 +41,7 @@ EXPOSICIÓN DE MOTIVOS
 
 Todo lo anterior, conforme a las circunstancias de la vida moderna, es congruente con los avances de la tecnología y las exigencias de mejorar el transporte público, para la mejor prestación del mismo a los ciudadanos de los diversos sectores de la población.
 
-LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -262,6 +262,10 @@ XIV. Equipamiento auxiliar de transporte: a todos los accesorios directos e indi
 > <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
 
 XIV Bis. Estudiante: persona que se encuentra cursando estudios académicos, ciencia, arte u oficio, en un centro docente público o privado con reconocimiento oficial;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2019)</small>
+
+XIV Ter. Hora pico de servicio: periodos de tiempo en los que la demanda de trasporte es mayor a la capacidad máxima de pasajeros autorizada;
 
 XV. Itinerario: a los puntos de recorrido de una ruta;
 
@@ -1227,9 +1231,11 @@ El servicio urbano colectivo en todas sus modalidades, y los operadores del mism
 
 I. Relativos a las condiciones de operación:
 
-a) Las frecuencias serán establecidas por la Secretaría, en función de la programación del servicio para cada ruta o sistema de rutas.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
-b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicío serán obligatorios para los concesionarios.
+a) Las frecuencias serán establecidas por la Secretaría en función de la programación del servicio para cada ruta o sistema de rutas, y tomando en cuenta que se cumplan itinerarios suficientes por los vehículos exclusivos para mujeres y los menores de edad que las acompañen, así como para personas de la tercera edad.
+
+b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicio serán obligatorios para los concesionarios.
 
 c) Bajo los esquemas que establezca la propia Secretaría, los concesionarios serán corresponsables de la supervisión y mejora del servicio, eliminando desviaciones en la aplicación de horarios, frecuencia de paso y cupo.
 
@@ -1258,6 +1264,12 @@ d) Las unidades contarán con los sistemas o dispositivos de control y seguridad
 4. Sistema de cámaras de video colocadas en el interior del vehículo y al frente del mismo, con capacidad para trasmitir (sic) las imágenes en tiempo real a la Secretaría, en los términos que la misma determine, debiendo conservar los archivos generados por dicho sistema, en apego a lo dispuesto por el Reglamento de esta Ley.
 
 5. Los demás que en razón del desarrollo tecnológico vayan siendo aplicables a esta modalidad de servicio, para protección y seguridad de la población;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+e) En todas las rutas deberán operar durante las horas pico de servicio, vehículos de uso exclusivo para mujeres y los menores de edad que las acompañen, así como para personas de la tercera edad, en número suficiente para atender la demanda de acuerdo con los estándares de ocupación a que se refiere el artículo 21 de este Ordenamiento.
+
+Será responsabilidad de la Secretaría determinar en cada ruta los horarios, la frecuencia y la forma en que se han de identificar de manera clara los vehículos en los que se preste ese servicio exclusivo. La programación y sus modificaciones, deberán ser publicadas por la Secretaría en su página de internet, y fijarlos además en todos los centros de emisión y recarga de tarjeta de prepago.
 
 III. Relativos al operador:
 
@@ -2890,3 +2902,13 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0143.- SE REFORMA EL ARTÍCULO 67 Y ADICIONA A LOS ARTÍCULOS 12 LA FRACCIÓN XIV TER, Y 67 EN SU FRACCIÓN II EL INCISO E), DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. La Secretaría de Comunicaciones y Transportes del Ejecutivo del Estado de San Luis Potosí, deberá dar a conocer la programación pormenorizada del servicio exclusivo en cada ruta, por lo menos con setenta y dos horas de anticipación a la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
