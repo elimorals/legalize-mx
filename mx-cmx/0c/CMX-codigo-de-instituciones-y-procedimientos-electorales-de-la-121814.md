@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2017-06-21"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G. O. DE LA CIUDAD DE MÉXICO DEL 21 DE JUNIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE ABRIL DE 2019.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -2482,11 +2480,13 @@ III. Las autoridades federales, de las entidades federativas, municipales y de l
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES DISTRITALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2019)</small>
+
 ###### Artículo 111.
 
-En cada una de las demarcaciones territoriales en que se divide la Ciudad de México, el Instituto Electoral contará con un órgano desconcentrado permanente denominado Dirección Distrital cabecera de demarcación.
+En cada uno de los distritos electorales en que se divide la Ciudad de México, el Instituto Electoral contará con un órgano desconcentrado permanente denominado Dirección Distrital.
 
-Durante los procesos electorales, el Consejo General del Instituto Electoral, contará temporalmente con los órganos desconcentrados necesarios para cubrir todos los Distritos electorales locales en que se divida la Ciudad de México.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE ABRIL DE 2019)</small>
 
 Las plazas que se ocupen en las Direcciones Distritales estarán integradas por personal que pertenece al Servicio Profesional Electoral Nacional, también podrá adscribirse personal de la Rama Administrativa, de acuerdo con las necesidades del Instituto en relación con la organización de los procesos electorales y de participación ciudadana, así como actividades de Educación Cívica y Construcción de Ciudadanía.
 
@@ -7524,9 +7524,7 @@ A partir de la creación de la Defensoría referida el Presidente del Tribunal E
 
 Por única ocasión, la Asamblea Legislativa del Distrito Federal, nombrará al titular de la defensoría.
 
-DÉCIMO SEGUNDO.- Las Direcciones Distritales del Instituto Electoral de la Ciudad de México continuarán funcionando con las mismas características y atribuciones de forma permanente en términos de las normas vigentes previas a la entrada en vigor del presente Decreto, hasta la conclusión del Proceso Electoral Ordinario de 2017-2018.
-
-Lo anterior solo podrá ser modificado en virtud de la redistritación local que se lleve a cabo para ajustar la geografía electoral a lo que dispone la Constitución Local, en lo que resulte aplicable a partir del proceso electoral 2017-2018.
+DÉCIMO SEGUNDO.- (DEROGADO, G.O. 2 DE ABRIL DE 2019)
 
 DÉCIMO TERCERO.- A partir de la entrada en vigor del presente decreto las autoridades electorales contarán con un plazo de 60 días naturales para adecuar y aprobar toda la normatividad interna, su estructura orgánica y funcional con base en las atribuciones y responsabilidades previstas en este Código. Este proceso de restructuración deberá sujetarse a los principios de racionalidad, austeridad y eficacia previstos para el ejercicio del gasto público, previendo un modelo de organización compacto que brinde una mayor calidad en el servicio; hecho lo anterior, dará a conocer lo anterior a la Asamblea Legislativa del Distrito Federal.
 
@@ -7595,3 +7593,13 @@ G.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 7 DE JUNIO DE 2017, TOMO II”.]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 111, Y SE DEROGA EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, EN MATERIA ELECTORAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
