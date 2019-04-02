@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-135186
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-29"
-last_updated: "2019-03-29"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ABRIL DE 2019 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ABRIL DE 2019.]</small>
 
 Ley publicada en la Décima Tercera Sección al Número 17 del Periódico Oficial del Estado de Michoacán, el viernes 29 de marzo de 2019.
 
@@ -763,11 +763,17 @@ Los estados correspondientes a los ingresos y gastos públicos presupuestarios s
 
 La Cuenta Pública del Gobierno del Estado, que será formulada por la Secretaría de Finanzas y Administración, deberá atender en su cobertura a lo establecido en su marco legal vigente y contendrá como mínimo:
 
-I. Información contable, conforme a lo señalado en la fracción I del artículo 35 de esta ley;
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2019)</small>
 
-II. Información presupuestaria, conforme a lo señalado en la fracción II del artículo 35 de esta Ley;
+I. Información contable, conforme a lo señalado en la fracción I del artículo 33 de esta Ley;
 
-III. Información programática, de acuerdo con la clasificación establecida en la fracción III del artículo 35 de esta Ley;
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2019)</small>
+
+II. Información presupuestaria, conforme a lo señalado en la fracción II del artículo 33 de esta Ley;
+
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2019)</small>
+
+III. Información programática, de acuerdo con la clasificación establecida en la fracción III del artículo 33 de esta Ley;
 
 IV. Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el programa económico anual:
 
@@ -789,9 +795,15 @@ La información presupuestaria y programática que forme parte de la Cuenta Púb
 
 Para ello, deberán utilizar indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de los programas, así como vincular los mismos con la planeación del desarrollo.
 
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2019)</small>
+
 ###### Artículo 41.
 
-Las cuentas públicas de los ayuntamientos y concejos municipales y de las comunidades o consejos indígenas y ciudadanos, deberán contener la información contable y presupuestaria a que se refiere el artículo 36 de la presente ley conforme a lo que determine el Consejo, en atención a las características de los mismos.
+Las cuentas públicas de los ayuntamientos y concejos municipales y de las comunidades o consejos indígenas y ciudadanos, deberán contener la información contable y presupuestaria a que se refiere el artículo 34 de la presente Ley conforme a lo que determine el Consejo, en atención a las características de los mismos.
+
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 2019)</small>
+
+De conformidad con los artículos 10 fracción I y 11 de la Ley del Periódico Oficial del Estado de Michoacán de Ocampo.
 
 ###### Artículo 42.
 
