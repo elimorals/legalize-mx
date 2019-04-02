@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-02-12"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -969,9 +969,9 @@ Para el desempeño de sus atribuciones, la Diputación Permanente aplicará en l
 
 1. Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones parlamentarias y la atención eficiente de sus necesidades administrativas y financieras, el Congreso cuenta con una Secretaría General.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
-2. El Congreso contará también con las Unidades de Certificación y Capacitación, y de Género de los integrantes de sus servicios parlamentarios, administrativos y financieros, las cuales dependerán de la Secretaría General.
+2. El Congreso contará también con la Unidad de Género de los integrantes de sus servicios parlamentarios, administrativos y financieros, la cual dependerá de la Secretaría General.
 
 ###### ARTICULO 60.
 
@@ -1047,9 +1047,7 @@ e) Del Registro Parlamentario y Diario de los Debates, que comprende los de: ela
 
 f) De Archivo, que comprende los de: formación, clasificación y custodia de expedientes derivados de las actividades del Pleno y de los órganos parlamentarios; desahogo de consultas institucionales y públicas sobre documentos relacionados con esos expedientes; conservación, preparación de documentos y estudios de valor histórico o de interés general para su edición o reproducción por el Congreso; elaboración y actualización de un respaldo electrónico de toda la información documental existente físicamente en el archivo; y, atención en lo conducente de los lineamientos establecidos por las leyes generales y locales en materia de transparencia y acceso a la información, archivo público y protección de datos personales;
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
-
-g) De Biblioteca, que comprende los de: resguardo, administración y actualización del acervo de libros, periódicos y revistas, videograbaciones e información parlamentaria en versiones impresas y/o electrónicas, así como la organización y promoción de eventos institucionales de carácter cultural para vincular y difundir entre la sociedad las actividades de la función legislativa;
+g) (DEROGADO, P.O. 2 DE ABRIL DE 2019)
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1111,9 +1109,9 @@ a) De Recursos Humanos, que comprende los de: reclutamiento, promoción y evalua
 
 b) De Tesorería, que comprende los de: programación y presupuesto; control presupuestal; finanzas; elaboración de los estados financieros y demás información contable, presupuestal, patrimonial y programática del Congreso del Estado para su inclusión en el Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas, y elaboración de nóminas;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
-c) De Recursos Materiales y Servicios Generales, que comprende los de: inventario, provisión y control de bienes muebles, materiales de oficina y papelería; adquisición de recursos materiales; mantenimiento de bienes inmuebles; alimentación, y servicios generales y de limpieza; adquisiciones de materiales y lo necesario para el mantenimiento del Congreso del Estado; y, de almacén para el resguardo de las compras e inventarios adquiridos;
+c) De Servicios Generales, que comprende los de: control del inventario de los bienes y su mantenimiento, así como los servicios que se consideren necesarios para el buen funcionamiento de los mismos;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1123,17 +1121,25 @@ d) De Informática, que comprende los de: servicios de tecnología de la informa
 
 e) De Asistencia Jurídica, que comprende los de: atención de los asuntos legales del Congreso en sus aspectos consultivo y contencioso, que no deriven del ejercicio de la función legislativa del Pleno;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
-f) De Seguridad, que comprende los de: salvaguarda de la integridad física de las personas; vigilancia y cuidado de bienes muebles e inmuebles; y supervisión de los accesos a las instalaciones del Congreso; y
+f) De Seguridad, que comprende los de: salvaguarda de la integridad física de las personas; vigilancia y cuidado de bienes muebles e inmuebles; y supervisión de los accesos a las instalaciones del Congreso;
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
-g) De Planeación Estratégica, que comprende los de: administración de los programas operativos, formulación de manuales de organización y procedimientos administrativos.
+g) De Planeación Estratégica, que comprende los de: administración de los programas operativos, formulación de manuales de organización y procedimientos administrativos; y
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+h) De Biblioteca, que comprende los de: resguardo, administración y actualización del acervo de libros, periódicos y revistas, videograbaciones e información parlamentaria en versiones impresas y/o electrónicas, así como la organización y promoción de eventos institucionales de carácter cultural para vincular y difundir entre la sociedad las actividades de la función legislativa.
 
 2. Los servicios establecidos en el párrafo anterior tendrán la estructura administrativa que prevea el presupuesto de egresos del Congreso.
 
 3. Cada servicio tendrá el rango de departamento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+4. La Unidad de Servicios Administrativos y Financieros contará con tres áreas de apoyo, para la atención de los servicios relativos a recursos materiales, que tendrá a cargo el almacén para el resguardo temporal de bienes de consumo interno; a adquisiciones, que estará a cargo del registro y actualización del padrón de proveedores, y de la compra de bienes y servicios necesarios para el funcionamiento del Congreso del Estado; así como con un área especializada en Certificación y Capacitación de los servidores públicos de los servicios parlamentarios y administrativos.
 
 ###### ARTICULO 64.
 
@@ -1165,7 +1171,9 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 1. La Unidad de la Contraloría interna es el órgano que depende de la Junta de Coordinación Política y tiene a su cargo las siguientes tareas:
 
-a) De Auditoría Interna, y que comprende las de control, fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; registro y actualización del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción; y
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+a) De Auditoría Interna, y que comprende las de fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; verificación del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción; y
 
 b) De Quejas y Responsabilidades, que comprende las de atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne el titular de la Unidad de la Contraloría.
 
@@ -1782,6 +1790,14 @@ d) Es iniciativa de acuerdo económico la que contiene un proyecto de resolució
 5. Para poder discutirse, toda iniciativa deberá pasar primero a la comisión o comisiones competentes y haberse producido el dictamen correspondiente. Cuando se trate de asuntos de obvia o de urgente resolución, el Pleno podrá acordar la dispensa de trámites en los términos de esta ley.
 
 6. Las iniciativas que se presenten durante el receso serán conocidas y dictaminadas por la Diputación Permanente. Al concluir el periodo de responsabilidad de ésta, se dará cuenta al Pleno con los dictámenes emitidos en la primera sesión ordinaria del siguiente periodo de sesiones; o en la sesión extraordinaria a que se convoque, si se trata de asuntos incluidos en la propia convocatoria.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+7. El derecho de presentar una iniciativa conlleva también el de retirarla. Cuando la iniciativa haya sido suscrita por más de un legislador, se requiere que la totalidad de los firmantes manifiesten su voluntad de retirarla; en caso contrario, sólo se tomará nota de quienes retiran su firma.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+8. El retiro de una iniciativa se comunica al Presidente de la mesa directiva antes de que sea dictaminada. De ello, se informa al Pleno y a las comisiones que corresponda para su baja de los asuntos pendientes de dictaminar.
 
 ###### ARTICULO 94.
 
@@ -3242,3 +3258,11 @@ P.O. 12 DE FEBRERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al momento de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-791 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
