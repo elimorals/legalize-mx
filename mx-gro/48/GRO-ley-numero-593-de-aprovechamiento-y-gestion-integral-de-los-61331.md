@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-593-de-aprovechamiento-y-gestion-integral-de-los-613
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-23"
-last_updated: "2017-01-20"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de mayo de 2008.
 
@@ -833,7 +833,27 @@ ADICIONADA, P.O. 20 DE ENERO DE 2017)
 
 III.- Sustituir las bolsas, envases y embalajes de plástico y de otros materiales no reciclables utilizados en la prestación de sus servicios, por aquellos que sean reutilizables, reciclables o biodegradables.
 
-El otorgamiento de popotes y bolsas de material plástico desechable, deberá ser a solicitud expresa del cliente o consumidor y, los establecimientos, deberán implementar una campaña permanente tendiente a la reducción del uso de los mismos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE ABRIL DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 49 BIS.- Se prohíbe a las entidades gubernamentales del ámbito estatal y municipal; establecimientos industriales, comerciales y de servicios en el Estado de Guerrero:
+
+I.- Proporcionar a título gratuito u oneroso cualquier tipo de bolsa de plástico desechable para fines de envoltura, carga o traslado de productos o mercancías;
+
+II.- Proporcionar envases de poliestireno expandido, así como utensilios de plástico de un solo uso, en la venta y entrega de alimentos y bebidas; y
+
+III.- Usar, entregar o vender popotes de plástico.
+
+Se excluye de esta prohibición, los popotes que se empleen en hospitales o por cuestiones médicas, siempre y cuando sean de material biodegradable y/o compostable, refiriéndose a los materiales que al desecharse se convierten en composta o abono.
+
+Asimismo, esta prohibición no es aplicable en los casos en que se empleen por razones de higiene o conservación de alimentos, siempre y cuando sean de material biodegradable o compostable.
+
+El Estado, a través de la Secretaria de Medio Ambiente y Recursos Naturales y los Municipios en coordinación con las Cámaras Empresariales, la Universidad, las Organizaciones de la Sociedad Civil y la ciudadanía en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre el uso y destino final de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, englobando educación sobre el impacto ambiental generado por los plásticos no biodegradables y biodegradables y de los recipientes elaborados con poliestireno expandido, así como fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables.
+
+Los establecimientos deberán incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso tales como: bolsas de tela, canastas, redes u otras hechas de material reutilizable, para fines de envoltura, trasportación, carga o traslado de productos o mercancías.
+
+En caso de incumplimiento, se aplicará lo estipulado en el reglamento de la presente Ley.
 
 ###### ARTÍCULO 50.
 
@@ -905,11 +925,11 @@ II.- El inventario de residuos generados en el Estado, de los diversos sectores 
 
 III.- La infraestructura disponible y necesaria para el manejo integral de los residuos;
 
-IV.- Los incentivos para alentar la inversión del sector privado;
+IV. - Los incentivos para alentar la inversión del sector privado;
 
 V.- Los objetivos a corto, mediano y largo plazo para la gestión y manejo integral de residuos;
 
-VI. - El inventario de sitios de disposición final no controlados en la entidad;
+VI.- El inventario de sitios de disposición final no controlados en la entidad;
 
 VII.- El marco legal regulatorio y de instrumentos económicos aplicables;
 
@@ -1868,3 +1888,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para que a través de la SEMAREN (Secretaría de Medio Ambiente y Recursos Naturales) y, los Presidentes Municipales del Estado de Guerrero, se realicen acciones tendientes a la difusión de esta campaña, como lo establecen los Artículos 7 fracción VII de la Ley Numero 593 de Aprovechamiento y Gestión Integral de los Residuos Sólidos en el Estado de Guerrero y 229 Fracción V de la Ley Número 878 de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en el portal Web del H. Congreso del Estado y en 3 diarios de circulación estatal, para el conocimiento general.
+
+P.O. 2 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 220 POR EL QUE SE ADICIONA EL ARTÍCULO 49 BIS Y SE DEROGA EL SEGUNDO PÁRRAFO AL ARTÍCULO 49 DE LA LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Las autoridades estatales y municipales, en el ámbito de su competencia, adecuarán los reglamentos necesarios para la debida aplicación de los criterios establecidos en el presente Decreto, en un plazo no mayor de 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. Sin perjuicio de lo dispuesto en el Artículo Transitorio Primero, previo a la entrada en vigor de la restricción definitiva para el uso de bolsas plásticas y popotes, la transición progresiva de sustitución de bolsas de plástico para fines de envoltura, transportación, carga o traslado de productos o mercancías; así como de popotes de plástico, se permitirá temporalmente su venta, facilitación y obsequio de aquellos productos elaborados con materiales biodegradables, sujeta a la gradualidad siguiente:
+
+a). En supermercados, tiendas de autoservicios, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de 6 meses a la entrada en vigor del presente Decreto; y
+
+b). En establecimientos dedicados a la venta de mayoreo y de menudeo de bolsas y popotes de plástico, en un plazo de 12 meses a la entrada en vigor del presente Decreto.
+
+Concluidos los plazos señalados en los incisos anteriores, todos los establecimientos comerciales señalados, en el presente Decreto, deberán de llevar a cabo la eliminación definitiva de las bolsas y popotes de plástico.
+
+Los establecimientos industriales, comerciales y de servicios, contaran con un año, a partir de la entrada en vigor del presente Decreto, para la transición progresiva de sustitución de bolsas y popotes de plástico.
+
+CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+QUINTO. Se deroga la disposición que contraviene a lo señalado en el presente Decreto, establecida en el 2º párrafo del Artículo 217 de la Ley Número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero.
