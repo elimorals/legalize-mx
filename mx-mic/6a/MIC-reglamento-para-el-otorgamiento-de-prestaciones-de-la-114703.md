@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-otorgamiento-de-prestaciones-de-la-114703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-19"
-last_updated: "2018-06-18"
+last_updated: "2019-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE JUNIO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
 
@@ -123,15 +121,21 @@ XVIII. Solicitante: A toda persona que solicita el otorgamiento de una prestaci�
 
 XIX. Trabajador Temporal: Aquel o a quien se les otorga nombramiento para obra o tiempo determinado.
 
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+XX. Comprobante de Pago: El documento emitido por el sujeto obligado donde labora el servidor público, que describe sus percepciones y deducciones.
+
 ### CAPÍTULO SEGUNDO. DE LAS APORTACIONES AL FONDO DE PENSIONES
 
 ###### Artículo 4°.
 
 Para los efectos de las aportaciones al fondo de pensiones previsto por la Ley, el sueldo base de cotización se integra por la remuneración ordinaria en efectivo señalada en el acto jurídico que dé origen a la relación de trabajo, de conformidad con la plaza o cargo que el servidor público desempeñe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 5°.
 
-Las cantidades que sirven de base para las cotizaciones previstas en la Ley, son las que los servidores públicos perciben por concepto de sueldo, por lo que no es permitido a los sujetos obligados tomar en cuenta para efectos de cotización, las compensaciones, sobresueldos, gratificaciones, viáticos; y cualquier otra remuneración distinta al sueldo base.
+Las cantidades que sirven de base para las cotizaciones previstas en la Ley, son las que los servidores públicos perciben por concepto de sueldo base de cotización, por lo que no es permitido a los sujetos obligados tomar en cuenta para efectos de cotización, las compensaciones, sobresueldos, gratificaciones, viáticos; y cualquier otra remuneración distinta al sueldo base de cotización.
 
 Para aquellos casos en que el servidor público desempeñe dos o más empleos durante el mismo periodo, las aportaciones se realizaran, en términos del artículo 23 de la Ley, generándose una clave de identificación del servidor público por cada una de las mismas.
 
@@ -197,6 +201,10 @@ Con el objeto de generar la cédula de identificación y designación de benefic
 
 Para que los servidores públicos puedan percibir las prestaciones que les correspondan deberán cumplir con los requisitos que se establezcan en la ley y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+El servidor público, jubilado o pensionado que mediante engaño, simulación, sustitución de persona o por cualquier otro medio, obtenga indebidamente las prestaciones que señala la Ley, pagará a la Dirección de Pensiones el importe de los montos obtenidos a cantidades actualizadas, independientemente de la responsabilidad penal, civil o administrativa en que incurra.
+
 ###### Artículo 18.
 
 Para el control y administración de la información se implementará una base de datos de servidores públicos, la cual contendrá la información individualizada y pormenorizada de los servidores públicos y sus beneficiarios en términos de lo que previene la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, en materia de protección de datos personales.
@@ -205,15 +213,21 @@ Para el control y administración de la información se implementará una base d
 
 En los casos extraordinarios no previstos en el presente Reglamento, se resolverá por la Junta Directiva, cuyo objetivo será analizar, evaluar y determinar la forma y condiciones en que se dará solución a los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 20.
 
-La prestación económica concedida por los Artículos 68, 69 y 70 de la Ley, prescriben en 5 años; para el caso de fallecimiento del servidor público la prestación se otorgará en el orden de prelación siguiente:
+La prestación económica concedida por los artículos 68, 69 y 70 de la Ley, prescriben en 5 años; para el caso de fallecimiento del servidor público, en lo que corresponde a los artículos 69 y 70, la prestación se otorgará en el orden de prelación siguiente:
 
 I. Beneficiarios designados expresamente por el servidor público, pensionado o jubilado causante;
 
-II. Dependientes económicos del servidor público, pensionado o jubilado causante; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-III. Herederos legítimos del servidor público, pensionado o jubilado causante, judicialmente declarados, a falta de los beneficiarios y dependientes económicos señalados en las dos fracciones anteriores.
+II. El cónyuge y los hijos del servidor público, pensionado o jubilado causante; y,
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+III. Herederos legítimos del servidor público, pensionado o jubilado causante, judicialmente declarados.
 
 ###### Artículo 21.
 
@@ -243,11 +257,23 @@ Si, presentada la solicitud de la prestación, y antes de ser otorgada, fallece 
 
 La Dirección de Pensiones podrá conceder a los servidores públicos y a los jubilados y pensionados por vejez o invalidez, préstamos Hipotecarios en cualquiera de sus modalidades y de Corto Plazo, conforme a la disponibilidad financiera de la propia Dirección de Pensiones. La Junta Directiva, determinará anualmente en lo general, los montos máximos que habrán de ejercerse en las diferentes modalidades de préstamos considerando los criterios que determine anualmente la Junta Directiva.
 
-El otorgamiento de préstamos hipotecarios de los trabajadores temporales, estarán sujetos al análisis de la Dirección de Pensiones y al acuerdo respectivo de la Junta Directiva.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+El otorgamiento de préstamos hipotecarios de los trabajadores temporales estarán sujetos previamente al análisis de la Dirección de Pensiones y al acuerdo respectivo de la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+La retención que realicen los sujetos obligados por concepto de descuentos de préstamos y aportaciones al fondo de pensiones, serán de manera preferente sobre cualquier otra deducción a favor de terceros; salvo resolución judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 26.
 
-Para el otorgamiento de los préstamos otorgados a los servidores públicos, pensionados o jubilados se considerará que los pagos periódicos a que se obligue el deudor no sobrepasen el 50% de su sueldo base o pensión, una vez deducidos los cargos por impuestos y cuotas de seguridad social.
+Para el otorgamiento de los préstamos otorgados a los servidores públicos, pensionados o jubilados se considera que los pagos periódicos a que se obligue el deudor no sobrepasen el 50% de su sueldo base de cotización o pensión, una vez deducidos los cargos por impuestos, cuotas de seguridad social y pensión alimenticia.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+El servidor público podrá, en cualquier tiempo efectuar pagos anticipados a cuenta del adeudo durante la vigencia del préstamo; todo pago anticipado se aplicará para reducir el saldo insoluto del mismo, siempre y cuando se encuentren al corriente de sus pagos. Los pagos anticipados que se hagan al capital no liberan al servidor público de su obligación de pagar las amortizaciones periódicas quincenales correspondientes a su préstamo.
 
 ###### Artículo 27.
 
@@ -257,15 +283,15 @@ En caso de que el servidor público, pensionado o jubilado cuente con un adeudo 
 
 El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
-Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda; la suma total del monto de ambos préstamos no superará la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.), salvo acuerdo de la Junta Directiva.
+Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda y/o terreno; la suma total del monto de ambos préstamos no superará la cantidad de $600,000.00 salvo acuerdo de la Junta Directiva.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 29.
 
-Los préstamos de corto plazo otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo, sin necesidad de autorización de la Junta Directiva; para los préstamos hipotecarios en sus diferentes modalidades, la renovación podrá realizarse cuando haya transcurrido la mitad del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo.
+Los préstamos de corto plazo otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo sin necesidad de autorización de la Junta Directiva; para los préstamos hipotecarios en sus diferentes modalidades, la renovación podrá realizarse cuando se haya pagado el 50% cincuenta por ciento del monto del capital prestado, siempre y cuando haya sido cubierto mediante descuentos vía nómina o pagos por quincenas vencidas. Para el caso de que se cuenten con dos modalidades de préstamos hipotecarios, se podrá renovar para liquidar ambos, teniendo en uno de ellos cubierto el 50% del capital prestado, sin recibir monto alguno.
 
 ###### Artículo 30.
 
@@ -275,13 +301,15 @@ Los servidores públicos que cambien su situación jurídica de activos a pensio
 
 Los servidores públicos que causen baja al servicio del Gobierno del Estado, o que por cualquier otra causa no se le puedan realizar vía nómina los descuentos respectivos durante la vigencia del préstamo, deberán cubrir los pagos quincenales y los accesorios directamente en las ventanillas de caja de la Dirección de Pensiones o en su caso mediante depósito en la cuenta que sea señalada para tal efecto sin necesidad de requerimiento previo.
 
-Todos los préstamos otorgados por la Dirección de Pensiones a los servidores públicos, serán garantizados en primer lugar, mediante garantía del total de las aportaciones a que se refiere el artículo 22 de la Ley, las que en caso de mora de tres o más quincenas consecutivas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren activos como servidores públicos; debiendo el deudor pagar las cantidades actualizadas de acuerdo al contrato.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+Todos los préstamos otorgados por la Dirección de Pensiones a los servidores públicos, serán garantizados en primer lugar, mediante garantía del total de las aportaciones a que se refiere el artículo 22 de la Ley, las que en caso de mora de tres o más quincenas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren activos como servidores públicos; pudiendo el deudor pagar el monto del fondo aplicado al adeudo en cantidades actualizadas para recuperar su antigüedad afectada con la aplicación, siempre y cuando se encuentre como servidor público cotizante al fondo de pensiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 32.
 
-Si por baja u otras causas graves a juicio de la Dirección de Pensiones, el servidor público no pudiere cubrir los abonos provenientes del préstamo de corto plazo e hipotecario en cualquiera de sus modalidades, podrá concedérsele, previa solicitud a la Dirección de Pensiones, un plazo de espera de seis meses, en los siguientes casos:
+Si por baja u otras causas graves a juicio de la Dirección de Pensiones, el servidor público no pudiere cubrir los abonos provenientes del préstamo de corto plazo e hipotecario en cualquiera de sus modalidades, podrá concedérsele, previa solicitud a la Dirección de Pensiones, un plazo de espera de hasta seis meses, en los siguientes casos:
 
 I. Cuando la cantidad que se adeude a la fecha de la solicitud sea el equivalente a las aportaciones recibidas a la misma fecha, el plazo de espera se podrá otorgar sin restricción alguna;
 
@@ -313,9 +341,11 @@ II. Cuando se declare procedente la aplicación del seguro del préstamo por fal
 
 III. Cuando se haya procedido a la cancelación del saldo en virtud de resolución judicial de autoridad competente.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 36.
 
-La sustitución de la garantía inicial sólo procederá cuando el nuevo inmueble garantice plenamente el monto total del préstamo otorgado y siempre que el acreditado se encuentre al corriente de sus pagos y lo haya fundado y motivado por escrito.
+La sustitución de la garantía inicial solo procederá cuando el nuevo inmueble garantice plenamente el monto total del préstamo otorgado, siempre y cuando el acreditado se encuentre al corriente de sus pagos y lo solicite a la Dirección de Pensiones por escrito, señalando los motivos y fundamentos que originen la sustitución; esta última no generará nueva solicitud de préstamo.
 
 ###### Artículo 37.
 
@@ -377,6 +407,10 @@ En la modalidad de construcción o mejoramiento de vivienda, el préstamo será 
 
 La Dirección de Pensiones vigilará mediante supervisión de obra, que el importe del préstamo sea invertido para lo cual fue solicitado, quedando a cargo del Servidor Público los gastos que se originen por motivo de las supervisiones de acuerdo con las tarifas de supervisión que acuerde la Junta Directiva.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+El monto máximo que se puede otorgar para el caso de ministraciones será de hasta $100,000.00 (Cien mil pesos 00/100 M.N.), independientemente de las supervisiones que se deriven para corroborar la inversión del 100% cien por ciento del préstamo; el plazo para la inversión total del préstamo será de 6 meses a partir de la entrega de la primera ministración.
+
 ###### Artículo 45.
 
 Los préstamos hipotecarios que otorgue la Dirección de Pensiones serán sujetos al presupuesto anual autorizado por la Junta Directiva, atendiendo a la disponibilidad de recursos, el otorgamiento del monto del préstamo será dependiendo del nivel salarial en que se encuentren los solicitantes y el valor del inmueble garante, así como en múltiplos de $5,000.00 cinco mil pesos 00/ 100 M.N.
@@ -393,6 +427,10 @@ El proceso de otorgamiento de préstamo hipotecario podrá iniciarlo directament
 
 Es obligatorio que los servidores públicos, pensionados o jubilados, así como en su caso los representantes legales firmen el contrato respectivo en las oficinas de la Dirección de Pensiones o en el lugar que esta les indique.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+Los servidores públicos deberán presentar su comprobante de pago de la última quincena transcurrida.
+
 ###### Artículo 49.
 
 Para iniciar el trámite de otorgamiento de préstamo hipotecario se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
@@ -403,15 +441,21 @@ a) Solicitud del préstamo hipotecario;
 
 b) Copia de la escritura de propiedad del inmueble dado en garantía;
 
-c) Certificado de libertad de gravamen original expedido por el Registro Público de la Propiedad Raíz y del Comercio, a 10 o 20 años de acuerdo con la fecha de celebración de la escritura del inmueble; podrá recibirse el certificado con gravámenes, siempre y cuando sean de préstamos otorgados por la Dirección de Pensiones liquidados o vigentes;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+c) Certificado de libertad de gravamen original expedido por el Registro Público de la Propiedad Raíz y del Comercio, a 10, 20 o más años de acuerdo con la fecha de celebración de la escritura del inmueble, con vigencia de un mes; podrá recibirse el certificado con gravámenes, siempre y cuando sean de préstamos otorgados por la Dirección de Pensiones liquidados o vigentes;
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 d) Copia de la constancia del número reciente, expedido por la autoridad municipal o pago de predial;
 
-e) Avalúo de la propiedad (vigencia 2 años); emitido por perito valuador autorizado por la Comisión Nacional Bancaria y de Valores o por la Secretaría de Finanzas y Administración con la copia de acreditación de perito valuador vigente;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
-f) Copia del último talón de cheque de pago de nómina;
+e) Avalúo de la propiedad emitido por perito valuador autorizado por la Comisión Nacional Bancaria y de Valores o por la Secretaría de Finanzas y Administración con la copia de acreditación de perito valuador vigente; o a través de la Secretaría de Educación en el Estado, con la copia de autorización de práctico para ejercer la profesión de perito valuador en bienes inmuebles. La vigencia del avalúo será de hasta dos años siempre y cuando la propiedad no sufra alguna modificación o cambien drásticamente las condiciones económicas que disminuyan el valor del inmueble, sujeta al análisis de la Dirección de Pensiones; y,
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+f) Copia de comprobante de pago de la última quincena transcurrida.
 
 g) Copia de comprobante de domicilio actualizado;
 
@@ -447,19 +491,19 @@ La Dirección de Pensiones podrá solicitar más requisitos si legalmente los co
 
 De manera adicional a los requisitos señalados en el artículo 49 del presente Reglamento se pedirá la documentación siguiente:
 
-I. Construcción y Mejoras:
+I. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-a) Proyecto de inversión.
+a) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
 
 II. Liberación de Gravamen:
 
 a) Finiquito del banco o de la Institución acreedora.
 
-III. Pago a terceros:
+III. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-a) Copia del documento en donde conste el adeudo a liquidar; y,
+a) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
 
-b) Copia de identificación oficial del acreedor.
+b) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
 
 IV. Compra de Inmueble:
 
@@ -481,9 +525,11 @@ g) Copia de identificación personal del apoderado jurídico.
 
 Los préstamos que otorgue la Dirección de Pensiones, se calcularán según el sueldo base de cotización del servidor público, o a la percepción que por concepto de pensión se reciba; en ambos casos, de igual manera se considerará el 90% del valor de avalúo del inmueble.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 52.
 
-Para los servidores públicos, el plazo máximo para la redención del préstamo hipotecario será de hasta 15 años con descuentos quincenales, que irían desde el 30% al 50% del salario base de cotización en múltiplos de 5,000.00 cinco mil pesos 00/100 M.N.
+Para los servidores públicos, el plazo máximo para la redención del préstamo hipotecario será de hasta 15 años con descuentos quincenales, que irían desde el 30% al 50% del salario base de cotización.
 
 Para los jubilados o pensionados por vejez e invalidez, el plazo máximo para la redención del préstamo será de hasta 15 años mediante descuentos quincenales sujetos al 50% de la percepción que tengan por concepto de pensión.
 
@@ -553,15 +599,21 @@ VI. Los pensionados o jubilados con excepción de las pensiones derivadas tendr�
 
 VII. El monto del préstamo lo constituirá el capital y los intereses correspondientes al plazo señalado para el pago del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 64.
 
-Para iniciar el trámite de otorgamiento de préstamo de corto plazo se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
+El trámite de otorgamiento de préstamo de corto plazo se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
 
-I. Copia del último talón de cheque de pago de nómina, en el caso de pensionados o jubilados, copia de la constancia de pago de pensión;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-II. Copia de identificación oficial (Credencial de elector, pasaporte vigente, cédula profesional o cartilla militar);
+I. Copia del comprobante de pago de la última quincena transcurrida; en el caso de pensionados o jubilados, copia de la constancia de pago de pensión;
 
-III. Copia de comprobante de domicilio actualizado; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+II. Copia de identificación oficial vigente (Credencial de elector, pasaporte, cédula profesional o cartilla militar);
+
+III. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
 
@@ -582,6 +634,8 @@ El plazo para devolución no será mayor de 24 meses y el pago del préstamo se 
 Los préstamos a corto plazo causarán un interés mínimo del 12% anual global; el que podrá ser revisado anualmente y modificado por acuerdo de la Junta Directiva, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares, más un 1% para servidores públicos y el 0.50% para jubilados y pensionados, ambos sobre el capital del préstamo otorgado, para la constitución del fondo de seguro para este tipo de préstamos, de conformidad con lo dispuesto por el artículo 44 de la Ley.
 
 #### SECCIÓN PRIMERA. PENSIÓN POR VIUDEZ
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ### CAPÍTULO QUINTO. DE LA CONSTITUCIÓN DE LOS FONDOS DE SEGURO
 
@@ -643,13 +697,17 @@ Deberán de adecuarse los procedimientos administrativos en las áreas involucra
 
 ### CAPÍTULO SEXTO. DE LAS JUBILACIONES Y PENSIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 77.
 
-En el otorgamiento de jubilaciones y pensiones se tomará como base para calcular el monto de una jubilación o pensión, el equivalente al salario regulador del servidor público, salvo lo contemplado en el artículo cuarto transitorio de la Ley, promediando el salario base de cotización de los últimos tres años, es decir las últimas 72 aportaciones recibidas de manera quincenal al fondo de pensiones, con un monto máximo diario de pensión o jubilación de hasta veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
+En el otorgamiento de jubilaciones y pensiones se tomará como base para calcular el monto de una jubilación o pensión, el equivalente al salario regulador del servidor público, promediando el salario base de cotización de los últimos tres años es decir las últimas 72 aportaciones recibidas de manera quincenal, con un monto máximo diario de pensión o jubilación de hasta los (sic) veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
 
 Los pensionados o jubilados que se encuentren en el supuesto que marca el artículo 65 de la Ley, de inmediato deberán reintegrar las cantidades actualizadas percibidas indebidamente.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+Los servidores públicos contribuyentes al fondo de pensiones, en el caso que sean jubilados o pensionados, no tendrán derecho a la devolución de descuentos con que hayan contribuido al mismo; el importe acumulado por este concepto se destinará para financiar la jubilación o pensión que conforme a la Ley le corresponda.
 
 ###### Artículo 78.
 
@@ -677,27 +735,43 @@ I. Acta de nacimiento original del titular, cónyuge e hijos menores de 18 años
 
 II. Acta de matrimonio original (reciente);
 
-III. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar);
 
 IV. Copia de CURP (Clave Única del Registro de Población) del titular y cónyuge;
 
 V. Hoja de baja como trabajador al servicio del Gobierno (sic) Estado (para efectos del pago de jubilación o pensión) expedida por la dependencia competente
 
-VI. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+VI. Copia del comprobante de pago de la última quincena transcurrida;
 
 VII. Permiso prejubilatorio (en su caso);
 
-VIII. Comprobante de domicilio actualizado;
+VIII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-IX. Certificado de cotización al fondo de pensiones;
+IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-XI. Demás documentos que la Dirección de Pensiones estime conveniente.
+X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] , P.O. 3 DE ABRIL DE 2019)</small>
+
+XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
+
+XII. Demás documentos que la Dirección de Pensiones estime conveniente.
 
 ###### Artículo 83.
 
 Tendrá derecho a la pensión por Invalidez cuando un servidor público se inhabilite física o mentalmente, temporal o permanentemente, por causa del servicio o a consecuencia de él, de conformidad con el artículo 59 de la Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+Para los efectos del artículo 62 de la Ley, cuando el servidor público pensionado por invalidez recupere su capacidad para el trabajo, se cancelará el pago de la pensión; el importe acumulado de descuentos con que hubiera contribuido al fondo al momento de ser pensionado, y que de conformidad con el artículo 77 del presente Reglamento se había destinado para el pago de su pensión, se restituirá al fondo solidario, restableciéndose con ello los derechos de cotización generados al momento en que se otorgó la pensión temporal por invalidez.
 
 ###### Artículo 84.
 
@@ -707,23 +781,35 @@ I. Acta de nacimiento original del titular, cónyuge e hijos menores de 18 años
 
 II. Acta de matrimonio original (reciente);
 
-III. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
 
 IV. Copia de CURP (Clave Única del Registro de Población) del titular y cónyuge;
 
 V. Hoja de baja por invalidez como trabajador al servicio del Gobierno del Estado expedida por la dependencia competente;
 
-VI. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-VII. Comprobante de domicilio actualizado;
+VI. Copia del comprobante de pago de la última quincena transcurrida;
+
+VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 VIII. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
 
-IX. Certificado de Cotización al fondo de pensiones;
+IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-X. Dictamen de invalidez parcial o total expedido por una Institución Médica; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-XI. Demás documentos que la Dirección de Pensiones estime conveniente.
+X. Dictamen de invalidez parcial o total expedido por una Institución Médica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2019)</small>
+
+XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
+
+XII. Demás documentos que la Dirección de Pensiones estime conveniente.
 
 ###### Artículo 85.
 
@@ -737,23 +823,35 @@ I. Original de acta de nacimiento del titular, cónyuge e hijos menores de 18 a�
 
 II. Original de acta de matrimonio (reciente);
 
-III. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
 
 IV. Copia de CURP del titular y cónyuge;
 
 V. Hoja de baja como trabajador al servicio del Gobierno del Estado (para efectos del pago de jubilación o pensión) expedida por la dependencia competente;
 
-VI. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-VII. Copia del comprobante de domicilio actualizado;
+VI. Copia del comprobante de pago de la última quincena transcurrida;
+
+VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 VIII. Oficio de autorización de permiso pre-pensionario (en su caso);
 
-IX. Certificado de Cotización al fondo de pensiones;
+IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-XI. Demás documentos que la Dirección de Pensiones estime conveniente.
+X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2019)</small>
+
+XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
+
+XII. Demás documentos que la Dirección de Pensiones estime conveniente.
 
 ### CAPÍTULO SEPTIMO. DE LAS PENSIONES DERIVADAS
 
@@ -801,17 +899,21 @@ Los familiares derechohabientes que gocen del pago de una pensión por fallecimi
 
 ###### Artículo 94.
 
-Tendrá derecho a la pensión por viudez, la que fue esposa del servidor público, pensionado o jubilado, fallecido; y el que fue esposo de la servidora pública, pensionada o jubilada, fallecida, siempre y cuando hubiese dependido económicamente de ella y estuviere imposibilitado física o mentalmente. A falta de esposa tendrá derecho a recibir la pensión, la persona con quien el servidor público, pensionado o jubilado, fallecido, acredite que vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte, o con la que tuvo hijos siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
+Tendrá derecho a la pensión por viudez, el cónyuge del servidor público, pensionado o jubilado fallecido; a falta de cónyuge tendrá derecho a recibir la pensión, la persona con quien el servidor público, pensionado o jubilado fallecido, acredite que vivió como concubino durante los 5 años que precedieron inmediatamente a su muerte, o con quien tuvo hijos siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
 
 ###### Artículo 95.
 
 Para los efectos del artículo anterior, los familiares derechohabientes, deberán de cumplir con los requisitos siguientes:
 
-I. Acta de nacimiento original de la viuda y del servidor público fallecido (reciente);
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+I. Acta de nacimiento original de la viuda o del viudo y del servidor público fallecido (reciente);
 
 II. Acta de matrimonio original (reciente);
 
-III. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) de la viuda y del servidor público fallecido;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) de la viuda o el viudo del servidor público fallecido;
 
 IV. Acta de defunción del servidor público, pensionado o jubilado;
 
@@ -819,15 +921,17 @@ V. Copia de CURP (Clave Única del Registro de Población) de la viuda y del ser
 
 VI. Hoja de baja por fallecimiento del servidor público, expedida por la dependencia competente;
 
-VII. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-VIII. Comprobante de domicilio actualizado;
+VII. Copia del comprobante de la última quincena transcurrida;
+
+VIII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 IX. Resolución dictada por autoridad jurisdiccional en materia laboral o civil, que acredite la dependencia económica o concubinato en su caso;
 
-X. Certificado de Cotización al fondo de pensiones;
+X. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
-XI Certificado de invalidez parcial o permanente expedida por una Institución médica (en caso del cónyuge o dependiente económico); y,
+XI. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 XII. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión.
 
@@ -869,7 +973,9 @@ Para los efectos del artículo anterior, los familiares derechohabientes deberá
 
 I. Acta de nacimiento original de los hijos del servidor público, pensionado o jubilado fallecido y de quien funja como tutor legal (reciente);
 
-II. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) de hijos mayores de 18 años y del tutor legal;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+II. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) de hijos mayores de 18 años y del tutor legal;
 
 III. Original de acta de defunción del servidor público, pensionado o jubilado;
 
@@ -877,9 +983,11 @@ IV. Copia de CURP (Clave Única de Registro de Población) de los hijos y del tu
 
 V. Hoja de baja por fallecimiento del servidor público, expedida por la dependencia competente;
 
-VI. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-VII. Copia del comprobante de domicilio actualizado;
+VI. Copia del comprobante de pago de la última quincena transcurrida;
+
+VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 VIII. Resolución dictada por autoridad jurisdiccional, que acredite la tutoría legal de los hijos menores de 18 años;
 
@@ -889,7 +997,7 @@ X. Copia del periódico oficial que contenga la publicación de la tutoría lega
 
 XI. Constancia de estudios de hijos mayores de 16 años, que acredite sus estudios en algún plantel del sistema educativo nacional;
 
-XII. Certificado de Cotización al fondo de pensiones;
+XII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 XIII. Certificado de invalidez de hijos discapacitados mayores de 25 años, expedido por Institución Médica; y,
 
@@ -929,7 +1037,9 @@ Para los efectos del artículo anterior, los familiares derechohabientes deberá
 
 I. Acta de nacimiento original del padre o la madre del servidor público, pensionado o jubilado fallecido (reciente);
 
-II. Copia de identificación oficial con fotografía (credencial de elector, pasaporte vigente, cédula profesional y/o cartilla del servicio militar) del padre o la madre del servidor público, pensionado o jubilado fallecido;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+II. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del padre o la madre del servidor público, pensionado o jubilado fallecido;
 
 III. Original del acta de defunción del servidor público, pensionado o jubilado;
 
@@ -937,13 +1047,15 @@ IV. Copia de CURP (Clave Única de Registro de Población) del padre o la madre 
 
 V. Hoja de baja por fallecimiento del servidor público, expedida por la Dirección de Recursos Humanos respectiva;
 
-VI. Copia del último talón de cheque cobrado vía nómina;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
 
-VII. Copia del comprobante de domicilio actualizado;
+VI. Copia de comprobante de pago de la última quincena transcurrida;
+
+VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 VIII. Resolución dictada por autoridad jurisdiccional, que acredite la dependencia económica del padre o la madre del servidor público, pensionado o jubilado fallecido;
 
-IX. Certificado de Cotización al fondo de pensiones;
+IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
 
 X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión; y,
 
@@ -1003,9 +1115,15 @@ A la muerte del servidor público, el derecho a que se refiere el párrafo anter
 
 Para los efectos del presente Reglamento, la indemnización por retiro corresponde a una cantidad igual a la de las aportaciones que el servidor público realizó durante el tiempo que prestó sus servicios al Gobierno del Estado, Instituciones, Organismos Descentralizados o Municipios, afectándose las percepciones si tuviere algún adeudo con la Dirección de Pensiones o responsabilidades con los sujetos obligados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 115.
 
-El derecho al pago de la indemnización prescribe en cinco años contados a partir de la fecha de baja; de darse la prescripción se perderá la antigüedad reconocida por la Dirección de Pensiones para efectos del otorgamiento de prestaciones que establece la Ley. La antigüedad afectada por la prescripción podrá reactivarse si el interesado comparece y cubre a la Dirección de Pensiones la cantidad que prescribió del fondo, como cantidades actualizadas.
+El derecho al pago de la indemnización prescribe en cinco años contados a partir de la fecha de baja; de darse la prescripción se perderá la antigüedad reconocida por la Dirección de Pensiones para efectos del otorgamiento de prestaciones que establece la Ley. La antigüedad afectada por la prescripción podrá reconocerse solamente para el otorgamiento de jubilación o pensión cuando el interesado cotice al fondo de pensiones durante seis meses a partir de su reincorporación como servidor público.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+
+En caso de que el sujeto obligado solicite a la Dirección de Pensiones la terminación del convenio de incorporación a los beneficios de la Ley, por así convenir a sus intereses y a los de sus trabajadores incorporados, lo anterior no generará derecho para el pago de la indemnización por retiro establecida en el artículo 70 de la Ley.
 
 ###### Artículo 116.
 
@@ -1188,5 +1306,17 @@ Hasta el día primero de septiembre del año 2018, los préstamos hipotecarios o
 Asimismo, hasta la fecha señalada en el párrafo anterior, se podrán otorgar préstamos a la par entre modalidades de garantía hipotecaria, solamente cuando uno de ellos sea de liquidez y la suma total del monto de ambos préstamos no supere la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.); en casos excepcionales se estará a lo que acuerde la Junta Directiva.
 
 ###### ARTÍCULO CUARTO.
+
+La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+
+P.O. 3 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
 
 La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
