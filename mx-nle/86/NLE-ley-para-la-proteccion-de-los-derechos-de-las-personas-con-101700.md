@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-03-22"
+last_updated: "2019-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -415,13 +413,19 @@ Así mismo instrumentarán estímulos fiscales que deberán ser otorgados a las 
 
 Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
 
-I. Promover el establecimiento de políticas estatales en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad; a fin de garantizar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento de un empleo;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+I. Promover el establecimiento de políticas estatales en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad de cualquier tipo; a fin de garantizar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento de un empleo;
 
 II. Promover acciones de capacitación para el empleo y el desarrollo de actividades productivas destinadas a personas con discapacidad;
 
 III. Diseñar, ejecutar y evaluar acciones estatales de trabajo y capacitación para personas con discapacidad, cuyo objeto principal será la inclusión laboral;
 
-IV. Formular y ejecutar acciones específicas de incorporación de personas con discapacidad como servidores públicos del Estado y los Municipios;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+
+IV. Formular y ejecutar acciones específicas de incorporación de personas con discapacidad como servidores públicos del Estado y los municipios, las cuales deberán garantizar que al menos el 2 por ciento del total de la plantilla laboral de la administración pública sea destinada a la contratación de personas con discapacidad.
+
+Las autoridades competentes realizarán las acciones para impulsar la contratación de personas con discapacidad establecidas en esta fracción, para ello deberán utilizar fuentes de información accesibles sobre los empleos y con las tecnologías adecuadas a los diferentes tipos de discapacidad.
 
 V. Instrumentar acciones estatales de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, entidades públicas, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de inclusión laboral, centros de trabajo protegido, talleres, asistencia técnica, becas económicas temporales;
 
@@ -1022,3 +1026,15 @@ P.O. 4 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 093. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 4 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I Y IV DEL ARTÍCULO 22 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial del Estado de Nuevo León.
+
+Segundo.- Las autoridades Estatales y municipales, tendrán tres años a partir de haber entrado en vigor el presente Decreto para implementar de forma completa las acciones para impulsar la contratación, así como para completar el porcentaje de contratación mínima del 2 por ciento de personas con discapacidad en sus administraciones públicas.
+
+Artículo Tercero.- La contratación de personas con discapacidad se realizará preferentemente sin incrementar la plantilla laboral de las administraciones públicas Estatal y municipales.
+
+El Estado y los Municipios, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
