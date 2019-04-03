@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-74538"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-12"
-last_updated: "2013-03-13"
+last_updated: "2019-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 3 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de marzo de 2010.
 
@@ -486,3 +488,19 @@ PRIMERO.- Las presentes reformas al Reglamento de Participación Ciudadana del M
 SEGUNDO.- Instrúyase a la Dirección General de Participación Ciudadana para que a la brevedad inicie el proceso de conformación de los Comités de Participación Ciudadana.
 
 TERCERO.- Instrúyase por parte del Presidente Municipal al Secretario de Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 3 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 22 DE MARZO DE 2019, SE APRUEBA EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GUADALUPE, N.L.".]
+
+Primero.- El presente Reglamento de Participación Ciudadana del Municipio de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado;
+
+Segundo.- Se Abroga el Reglamento de Participación Ciudadana del Municipio de Guadalupe Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, Tomo CXLVII No. 34, de fecha 12 de marzo de 2010.
+
+Tercero.- La Dirección jurídica del Ayuntamiento realizará los proyectos de adecuaciones necesarias en los reglamentos correspondientes, y así mismo los reglamentos derivados del presente ordenamiento en un plazo no mayor a 180 días hábiles, contados a partir de la entrada en vigor del presente reglamento, mismos que presentará como dictamen, para la aprobación en su caso por parte del R. Ayuntamiento.
+
+Cuarto.- Las Secretaría de Finanzas y Tesorería Municipal hará las modificaciones necesarias en el Proyecto de Egresos del año fiscal en que entre en vigor el presente Reglamento, a fin de incluir las partidas necesarias para la aplicación y ejecución del Presupuesto Participativo que se destine en el Municipio.
+
+Quinto.- Se derogan todas las disposiciones municipales que contravengan lo contemplado en el presente ordenamiento.
+
+Sexto.- Dado en la Recinto Oficial de Sesiones del R. Ayuntamiento de Guadalupe, Nuevo León, publíquese y cúmplase el presente ordenamiento, una vez promulgado y publicado en el Periódico Oficial del Estado de Nuevo León.
