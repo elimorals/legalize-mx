@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2019-02-05"
+last_updated: "2019-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE ABRIL DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -246,9 +246,11 @@ La satisfacción de las solicitudes de las y los Diputados, con base en las prer
 
 #### Sección Tercera. De las Obligaciones de las y los Diputados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 7.
 
-Son obligaciones de las y los Diputados:
+Son obligaciones de las y los diputados:
 
 I. Rendir protesta y tomar posesión de su cargo;
 
@@ -306,7 +308,11 @@ XVII. Permitir la libre discusión y decisión parlamentaria en las sesiones, as
 
 XVIII. Retirar cualquier expresión material que haya utilizado para su intervención en el Pleno, una vez que ésta haya concluido, y
 
-XIX. Las demás previstas por la ley y el presente reglamento.
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2019)</small>
+
+XIX. Acatar las disposiciones y procedimientos del Código de Responsabilidad Parlamentaria del Congreso de la Ciudad de México; y
+
+XX. Las demás previstas por la ley y el presente reglamento.
 
 ### CAPÍTULO IV. De las Suplencias, Vacantes y Licencias de las y los Diputados
 
@@ -553,6 +559,10 @@ En el Salón de Sesiones habrá un lugar denominado galerías, destinado al púb
 Las y los Diputados guardarán el debido respeto y compostura en el interior del Recinto, en las sesiones y en cualquier acto de carácter oficial y observarán las normas de cortesía y el respeto parlamentario.
 
 Las y los Diputados en el ejercicio de sus funciones observarán una conducta y comportamiento en congruencia con la civilidad política, tolerancia y respeto en su carácter de representantes ciudadanos.
+
+> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2019)</small>
+
+Como una normativa interna, el Congreso de la Ciudad de México expedirá su Código de Responsabilidad Parlamentaria, con perspectiva de género y no discriminación entre mujeres y hombres.
 
 ###### Artículo 39.
 
@@ -3436,7 +3446,9 @@ III. Emitir opinión a las autoridades de la Administración Pública Local, res
 
 IV. Informar, semestralmente y por escrito, a la Junta sobre las peticiones y quejas presentadas por las y los ciudadanos y las gestiones realizadas ante los Órganos Internacionales y otras autoridades en los cuales tenga competencia la Ciudad de México;
 
-V. Proponer la celebración de Convenios Internacionales con autoridades relacionadas con la Seguridad Pública, Desarrollo Social, Desarrollo Urbano, Medio Ambiente, y otras dependencias y autoridades, de las cuales se desprenda la necesidad de la celebración y vinculación de los mismos; asimismo, apoyar y dar atención a las observaciones que deriven de la aplicación a la normatividad en materia internacional, relacionadas con la Ciudad de México;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2019)</small>
+
+V. Proponer la celebración de convenios internacionales con autoridades relacionadas con la seguridad pública y la seguridad ciudadana en el caso de la Ciudad de México, desarrollo social, desarrollo urbano, medio ambiente, y otras dependencias y autoridades, de las cuales se desprenda la necesidad de la celebración y vinculación de los mismos; asimismo, apoyar y dar atención a las observaciones que deriven de la aplicación a la normatividad en materia internacional, relacionadas con la Ciudad de México;
 
 VI. Realizar visitas y giras de trabajo, por si o conjuntamente con las autoridades de la administración pública local, y/o Comisiones del Congreso para supervisar el cumplimiento de la normatividad y los Convenios celebrados en materia internacional, y en los cuales tenga competencia la Ciudad de México, y
 
@@ -4214,7 +4226,9 @@ IX. Comisión Especial para garantizar el ejercicio periodístico de la Ciudad d
 
 X. Comisión de Protección Civil;
 
-XI. Comisión de Seguridad Pública, y
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2019)</small>
+
+XI. Comisión de Seguridad Ciudadana, y
 
 XII. Comisión de Turismo.
 
@@ -4640,11 +4654,11 @@ La medalla se otorgará en las categorías y géneros periodísticos que tenga a
 
 #### Sección Décima Primera. Medalla al Mérito Policial
 
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 434.
 
-El Congreso otorgará la Medalla al Mérito Policial, a las y los elementos de los Cuerpos de Seguridad Pública y de Policía de Investigación en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
-
-Sólo podrá otorgarse a las y los elementos de las corporaciones policiales federales, de la Policía Preventiva de la Ciudad de México, con todas las unidades y agrupamientos, de la Policía Complementaria, que está integrada por la Policía Auxiliar y la Bancaria e Industrial, además de la Policía de Investigación, dependiente de la Fiscalía General de Justicia de la Ciudad de México.
+El Congreso otorgará la Medalla al Mérito Policial, a las y los elementos de los cuerpos de seguridad ciudadana y de policía de investigación en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
 
 ###### Artículo 435.
 
@@ -4660,25 +4674,27 @@ IV. Por la persecución y captura de delincuentes, con riesgo de su vida; y
 
 V. Por la diligencia y cumplimiento demostrados en las comisiones conferidas.
 
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2019)</small>
+
 ###### Artículo 436.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente Medalla es la de Seguridad Pública del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente Medalla es la de Seguridad Ciudadana del Congreso.
+
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 437.
 
-La Medalla se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública y seis de la Policía de Investigación, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
+La Medalla se podrá otorgar hasta un máximo de seis elementos de los cuerpos de seguridad ciudadana y seis de la policía de investigación, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Ciudadana, del cual se respetará que el 50% deba ser de un mismo sexo.
 
 ###### Artículo 438.
 
 (DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 439.
 
-Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, así como por los integrantes en activo de los diversos cuerpos de seguridad pública, conforme a las bases establecidas en la convocatoria respectiva.
-
-Además de los requisitos señalados en el artículo 374 se deberá tomar en cuenta a las y los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
+Las propuestas y la documentación correspondiente de las y los candidatos para ser merecedores a la medalla, serán presentadas ante la comunidad, así como por los integrantes en activo de los diversos cuerpos de seguridad ciudadana, del 16 de octubre al 15 de noviembre del año que corresponda. Además de los requisitos señalados en el artículo 374 se deberá tomar en cuenta a las y los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
 ###### Artículo 440.
 
@@ -5901,3 +5917,19 @@ G.O. 5 DE FEBRERO DE 2019.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- Las convocatorias que hayan emitido las Comisiones Legislativas señaladas en el artículo 371 del Reglamento del Congreso de la Ciudad de México, previo a la entrada en vigor del presente decreto, se regirán bajo las bases de su convocatoria y de conformidad con las disposiciones aplicables al momento de su emisión.
+
+G.O. 3 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN V, DEL ARTÍCULO 307, FRACCIÓN XI, DEL ARTÍCULO 371, ARTÍCULOS 434, 436, 437 Y 439 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE ADICIONA UNA FRACCIÓN XIX, RECORRIENDO LA ACTUAL A LA XX DEL ARTÍCULO 7, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 38, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE EXPIDE EL CÓDIGO DE RESPONSABILIDAD PARLAMENTARIA DEL CONGRESO DE LA CIUDAD DE MÉXICO"].
+
+PRIMERO: El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
