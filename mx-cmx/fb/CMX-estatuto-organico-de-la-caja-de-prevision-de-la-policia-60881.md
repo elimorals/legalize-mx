@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-de-la-policia-60881"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-05-15"
-last_updated: "2008-05-15"
+last_updated: "2019-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60881&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-03-27"
 ---
 # ESTATUTO ORGANICO DE LA CAJA DE PREVISION DE LA POLICIA PREVENTIVA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DE LA CAJA DE PREVISION DE LA POLICIA PREVENTIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 15 de mayo de 2008.
 
@@ -479,3 +481,17 @@ SEXTO.- Las funciones y atribuciones contempladas para la Coordinación Administ
 ACT. OSCAR SANDOVAL GARCÍA
 
 GERENTE GENERAL DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DEL D.F.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Estatuto Orgánico de la Caja de Previsión de la Policía Preventiva del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de mayo de 2008, y se derogan todas las disposiciones administrativas que se opongan al presente Estatuto.
+
+CUARTO. Los casos no previstos en el presente Estatuto, serán resueltos por el Consejo Directivo.
