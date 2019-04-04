@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2018-12-10"
+last_updated: "2019-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3347,7 +3347,9 @@ La reparación del daño en los casos de estupro, o violación comprenderá adem
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
+#### SECCIÓN OCTAVA. DELITO DE CIBERACOSO
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2019)</small>
 
 ###### Artículo 278 Bis.
 
@@ -3395,21 +3397,29 @@ En los supuestos a que se refiere el artículo anterior, los delitos se persegui
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION SEGUNDA.- BIGAMIA
+#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 278 Octies.
 
 Cualquier persona que tenga conocimiento de la comisión del delito de violación, acoso sexual, o abuso sexual a niños menores de catorce años y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de dos a siete años de prisión.
 
-#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+#### SECCION SEGUNDA.- BIGAMIA
+
+###### Artículo 278 Nonies.
+
+Comete el delito de ciberacoso quien hostigue o amenace por medio de las nuevas Tecnologías de la Información y Telecomunicación (TICS), redes sociales, correo electrónico o cualquier espacio digital y cause un daño en la dignidad personal, o afecte la paz, la tranquilidad o la seguridad de las personas.
+
+Se le impondrá la pena de once meses a tres años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
+Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico y la sanción se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
-#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
+#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 279.
 
@@ -3437,9 +3447,9 @@ VIII.- Usurpar el estado civil de otro con el fin de adquirir derechos de famili
 
 Además de las sanciones indicadas, el sujeto activo perderá todo derecho de heredar que tuviere respecto de las personas a quienes, por la comisión del delito, perjudique en sus derechos de familia.
 
-#### SECCION PRIMERA.- AMENAZAS
+#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 280.
 
@@ -3457,9 +3467,9 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+#### SECCION PRIMERA.- AMENAZAS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 283.
 
@@ -3501,7 +3511,9 @@ Las mismas sanciones se impondrán a los terceros que recibieren al menor y a la
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA.- ASALTO Y ATRACO
+#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 284 Bis.
 
@@ -3571,7 +3583,7 @@ Si en los casos previstos en el artículo anterior se cometiere otro delito, se 
 
 CAPITULO DECIMOCUARTO.- DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTIAS DE LAS PERSONAS
 
-#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
+#### SECCION TERCERA.- ASALTO Y ATRACO
 
 ###### Artículo 290.
 
@@ -3609,9 +3621,7 @@ Al culpable de este delito se le impondrán de dos a diez años de prisión y mu
 
 Si el o los responsables del delito son o fueron servidores públicos o miembros de una institución de seguridad privada que en razón de su función utilizasen los medios o circunstancias que ésta le proporciona para la comisión del delito, se aumentará en dos tercios la pena que corresponda. Se impondrá además en el primer caso, la destitución del empleo, cargo o comisión público; en el segundo supuesto se estará a lo previsto en las leyes aplicables.
 
-#### SECCION QUINTA.- PLAGIO Y SECUESTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2003)</small>
+#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
 
 ###### Artículo 293.
 
@@ -3621,9 +3631,9 @@ Al que sin motivo justificado, sin orden de autoridad competente y fuera de los 
 
 La penalidad se aumentará hasta en una mitad, cuando la o el agraviado tenga más de 70 años de edad. En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
-#### SECCION SEXTA.- DESAPARICIÓN FORZADA DE PERSONAS
+#### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 294.
 
@@ -3649,9 +3659,9 @@ Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noch
 
 Cuando dos o más salteadores atacaren una población, se impondrán de quince a cincuenta años de prisión a los cabecillas o jefes, y de doce a cuarenta años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
 
-#### SECCIÓN SÉPTIMA.- VIOLENCIA EN EVENTOS DEPORTIVOS O DE ESPECTÁCULO
+#### SECCION SEXTA.- DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 299.
 
@@ -3683,7 +3693,9 @@ Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la
 
 La privación de la libertad con el propósito de realizar un acto sexual se perseguirá por querella de la parte ofendida.
 
-#### SECCION PRIMERA.- LESIONES
+#### SECCIÓN SÉPTIMA.- VIOLENCIA EN EVENTOS DEPORTIVOS O DE ESPECTÁCULO
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 302.
 
@@ -3741,9 +3753,7 @@ Para efectos de la fracción V del artículo 302, comete el delito de robo de in
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION SEGUNDA.- HOMICIDIO
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION PRIMERA.- LESIONES
 
 ###### Artículo 304 Bis.
 
@@ -3761,7 +3771,9 @@ Este delito no se sujetará a las reglas de la prescripción.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE AGOSTO DE 2016)</small>
 
-#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
+#### SECCION SEGUNDA.- HOMICIDIO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 304 Quater.
 
@@ -3793,7 +3805,7 @@ Las sanciones aplicables a los delitos a que se refiere la presente Sección, se
 
 CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
 
 ###### Artículo 305.
 
@@ -3879,7 +3891,7 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Al que infiera lesiones calificadas se les impondrán las sanciones correspondientes a las lesiones simples, aumentadas hasta en un tercio más de su duración, por la concurrencia de cada una de las circunstancias previstas en el artículo 323.
 
-#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
+#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Artículo 312.
 
@@ -3933,9 +3945,7 @@ Al responsable de cualquier homicidio simple intencional y que no tenga señalad
 
 Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable una sanción de dos a nueve años de prisión, si es el provocado y de cinco a doce años, si es el provocador.
 
-#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### Artículo 318.
 
@@ -3961,9 +3971,9 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignorare quiénes i
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se impondrán de tres a ocho años de prisión a todos los que hubieren atacado al occiso con armas a propósito para causarle esas lesiones.
 
-#### SECCIÓN SÉPTIMA.- FEMINICIDIO
+#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 321.
 
@@ -4057,7 +4067,9 @@ El homicidio de una mujer cometido por odio en razón de género, se sancionará
 
 De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-#### SECCION OCTAVA.- ABORTO
+#### SECCIÓN SÉPTIMA.- FEMINICIDIO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2015)</small>
 
 ###### Artículo 333.
 
@@ -4075,9 +4087,7 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 1994)</small>
 
-#### SECCION NOVENA.- DELITOS EN MATERIA DE ESTERILIZACIÓN Y REPRODUCCIÓN ASISTIDA
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION OCTAVA.- ABORTO
 
 ###### Artículo 336.
 
@@ -4095,7 +4105,9 @@ Al que cometa el delito a que se refiere el artículo que antecede, se le impond
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2015)</small>
 
-#### SECCION PRIMERA.- ATAQUES PELIGROSOS
+#### SECCION NOVENA.- DELITOS EN MATERIA DE ESTERILIZACIÓN Y REPRODUCCIÓN ASISTIDA
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 338.
 
@@ -4157,7 +4169,7 @@ Además de las penas aplicables por el concurso real, si la víctima se encuentr
 
 Se presumirá que hay tentativa de feminicidio cuando las lesiones dolosas previstas en los artículos 306 fracción II, y 307, ocasionadas a una mujer, tengan algún precedente de violencia contemplada en esos artículos o en los artículos 284 Bis y 284 Ter respecto del mismo agresor.
 
-#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
+#### SECCION PRIMERA.- ATAQUES PELIGROSOS
 
 ###### Artículo 339.
 
@@ -4197,9 +4209,7 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
 
 ###### Artículo 343 Bis.
 
@@ -4255,7 +4265,9 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
-#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
+#### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 344.
 
@@ -4265,9 +4277,7 @@ Se aplicará de tres días a dos años de prisión y multa de tres a treinta dí
 
 Si a consecuencia de los actos a que se refiere el artículo anterior se causare algún daño, solamente se impondrán las sanciones del delito que resultare.
 
-#### SECCION SEGUNDA.- DISCRIMINACION
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2012)</small>
+#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
 
 ###### Artículo 346.
 
@@ -4313,7 +4323,9 @@ Si en los supuestos previstos por los artículos que forman esta sección, se ca
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION TERCERA.- CALUMNIA
+#### SECCION SEGUNDA.- DISCRIMINACION
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 354 Bis.
 
@@ -4339,7 +4351,7 @@ II.- El sobreseimiento a que se refiere la fracción anterior se dictará sin pe
 
 CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR Y LA DIGNIDAD
 
-#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+#### SECCION TERCERA.- CALUMNIA
 
 ###### Artículo 355.
 
@@ -4355,9 +4367,7 @@ Son simples los golpes y las violencias físicas que no causen lesión en el ofe
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2012)</small>
 
-#### SECCION PRIMERA.- ROBO
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### Artículo 357.
 
@@ -4393,9 +4403,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
-#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
+#### SECCION PRIMERA.- ROBO
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 362.
 
@@ -4413,7 +4423,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
-#### SECCION TERCERA.- ABUSO DE CONFIANZA
+#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 366.
 
@@ -4445,7 +4457,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
-#### SECCION CUARTA.- FRAUDE
+#### SECCION TERCERA.- ABUSO DE CONFIANZA
 
 ###### Artículo 373.
 
@@ -4693,7 +4705,7 @@ El robo o destrucción de un título de crédito o de un documento original, en 
 
 Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla tomado con carácter temporal para su uso, se le aplicarán de uno a seis meses de prisión, si no se negó a devolverla cuando se le requirió para ello.
 
-#### SECCION QUINTA.- DESPOJO
+#### SECCION CUARTA.- FRAUDE
 
 ###### Artículo 390.
 
@@ -4777,7 +4789,7 @@ IV.- Con prisión de tres a ocho años y multa de ciento cincuenta a cuatrocient
 
 Para la aplicación de las sanciones previstas en los artículos anteriores de esta sección, los jueces y tribunales tendrán en cuenta, además de las reglas generales consignadas en los artículos 72 a 75, la importancia del daño causado, en relación con las condiciones económicas del ofendido.
 
-#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+#### SECCION QUINTA.- DESPOJO
 
 ###### Artículo 396.
 
@@ -4815,7 +4827,7 @@ Cuando el delito previsto en esta Sección, se cometa en perjuicio de cooperativ
 
 En el supuesto previsto en el artículo anterior, si el autor del delito repara el daño, antes de dictarse sentencia condenatoria, la sanción será de dos a cinco años de prisión y multa de treinta a trescientos días de salario.
 
-#### SECCION SEPTIMA.- EXTORSIÓN
+#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
 
 ###### Artículo 402.
 
@@ -4963,13 +4975,11 @@ Para efectos de este artículo se entenderá que existe captación de recursos d
 
 Cuando el delito previsto en esta sección, se cometa en perjuicio de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientos días de salario.
 
+#### SECCION SEPTIMA.- EXTORSIÓN
+
 #### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
-
-#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 408.
 
@@ -5005,7 +5015,9 @@ Lo dispuesto en los dos artículos anteriores, se aplicará aun cuando la posesi
 
 (DEROGADO, P.O. 22 DE MAYO DE 2013)
 
-#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
+#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 412.
 
@@ -5087,15 +5099,15 @@ IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea m
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION TERCERA.- DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
 ###### Artículo 415.
 
 (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
-#### SECCION CUARTA.- COHECHO
+#### SECCION TERCERA.- DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 416.
 
@@ -5105,7 +5117,7 @@ Los delitos de abuso de confianza y fraude se perseguirán a petición de parte 
 
 CAPITULO DECIMONOVENO.- DELITOS POR HECHOS DE CORRUPCION
 
-#### SECCION QUINTA.- PECULADO
+#### SECCION CUARTA.- COHECHO
 
 ###### Artículo 417.
 
@@ -5149,7 +5161,7 @@ IX.- A quien teniendo obligación por razones de empleo, cargo o comisión, de c
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
-#### SECCION SEXTA.- CONCUSION
+#### SECCION QUINTA.- PECULADO
 
 ###### Artículo 419.
 
@@ -5241,9 +5253,7 @@ Al que cometa el delito de intimidación se le impondrá de uno a siete años de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+#### SECCION SEXTA.- CONCUSION
 
 ###### Artículo 421.
 
@@ -5405,7 +5415,7 @@ A quien cometa los delitos previstos en las fracciones VI, X, XIV, XV, XVI, XVII
 
 Las disposiciones anteriores se aplicarán en lo conducente a todos los servidores públicos, incluyendo a los de los Tribunales Administrativos o del Trabajo, y del Ministerio Público cuando en el ejercicio de sus encargos o comisiones, ejecuten los actos o incurran en las omisiones que expresan los artículos que preceden.
 
-#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
+#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5449,9 +5459,9 @@ El delito de cohecho se sancionará con prisión de seis meses a nueve años y m
 
 Cuando el particular cometa el delito por exigencia del servidor público, la sanción será disminuida en un tercio, pero si denunció oportunamente el delito no recibirá ninguna sanción.
 
-#### SECCION NOVENA.- COALICION
+#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 428.
 
@@ -5483,7 +5493,7 @@ Al que comete el delito de peculado, se le impondrá de seis meses a doce años 
 
 La sanción de prisión se reducirá en una tercera parte si desde la fecha en que se decrete el auto de vinculación a proceso, se devolviere incondicionalmente lo distraído o los fondos utilizados indebidamente, con los intereses legales correspondientes.
 
-#### SECCION DECIMA.- USO ILICITO DE ATRIBUCIONES Y FACULTADES
+#### SECCION NOVENA.- COALICION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5497,7 +5507,7 @@ Comete el delito de concusión el servidor público que, con el carácter de tal
 
 El delito de concusión se sancionará con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito y prisión de dos a seis años.
 
-#### SECCION DECIMA PRIMERA.- EVASION DE PRESOS
+#### SECCION DECIMA.- USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5516,6 +5526,34 @@ Al responsable del delito de enriquecimiento ilícito, se le impondrá de dos a 
 ###### Artículo 434.
 
 El servidor público que tenga una profesión cuyo ejercicio sea legalmente compatible con la función a su cargo, así como aquéllos que tengan reconocidas actividades comerciales, industriales, o de cualquier otra especie, que les proporcionen ingresos adicionales a los derivados de su remuneración en los cargos, comisiones o empleos oficiales, podrán prevalerse de esta circunstancia para acreditar la honesta procedencia de sus bienes.
+
+#### SECCION DECIMA PRIMERA.- EVASION DE PRESOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 435.
+
+Comete el delito de tráfico de influencia por sí o por interpósita persona:
+
+I.- El servidor público que:
+
+a) Gestione o promueva, aprovechándose de su empleo, cargo o comisión, la tramitación o resolución ilícita de negocios públicos;
+
+b) Gestione, sin estar autorizado para ello, y aprovechándose del empleo, cargo o comisión que desempeñe, ante la propia dependencia donde presta sus servicios o ante cualquier otra autoridad, para obtener una resolución favorable a sus intereses o los de un tercero.
+
+II.- El particular que:
+
+a) Promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hacen referencia las fracciones anteriores de este numeral;
+
+b) Sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos a cambio de obtener un beneficio para sí o para otro.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 436.
+
+Al que cometa el delito de tráfico de influencia se le impondrán de dos a seis años de prisión y multa de diez a cien días de (sic) valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION DECIMA SEGUNDA.- REGLAS GENERALES
 
@@ -5557,32 +5595,6 @@ Artículo 436 Sedecies.- Se sancionará de seis meses a diez años de prisión y
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 435.
-
-Comete el delito de tráfico de influencia por sí o por interpósita persona:
-
-I.- El servidor público que:
-
-a) Gestione o promueva, aprovechándose de su empleo, cargo o comisión, la tramitación o resolución ilícita de negocios públicos;
-
-b) Gestione, sin estar autorizado para ello, y aprovechándose del empleo, cargo o comisión que desempeñe, ante la propia dependencia donde presta sus servicios o ante cualquier otra autoridad, para obtener una resolución favorable a sus intereses o los de un tercero.
-
-II.- El particular que:
-
-a) Promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hacen referencia las fracciones anteriores de este numeral;
-
-b) Sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos a cambio de obtener un beneficio para sí o para otro.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 436.
-
-Al que cometa el delito de tráfico de influencia se le impondrán de dos a seis años de prisión y multa de diez a cien días de (sic) valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-#### SECCION UNICA
-
 ###### Artículo 436 Bis.
 
 Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley, reglamento u otras disposiciones de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
@@ -5592,8 +5604,6 @@ Al que cometa el delito de coalición de servidores públicos se le impondrá de
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION UNICA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 436 Ter.
 
@@ -5635,9 +5645,9 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrá 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-#### SECCIÓN ÚNICA
+#### SECCION UNICA
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 436 Quinquies.
 
@@ -5686,6 +5696,10 @@ Artículo 436 Duodecies.- Al detenido, imputado o sentenciado que se fugue se le
 Artículo 436 Terdecies.- Al prófugo no se le contará el tiempo que estuviere fuera del lugar de su reclusión, ni se le tendrá en cuenta la buena conducta que hubiere tenido antes de su evasión.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN ÚNICA
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 437.
 
@@ -6736,3 +6750,11 @@ P.O. 10 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO SÉPTIMO, DEL LIBRO SEGUNDO, PARA LLAMARSE DELITOS CONTRA LA INTIMIDAD SEXUAL, Y EL ARTÍCULO 225, Y SE ADICIONA EL ARTÍCULO 225 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 ÚNICO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día de su publicación.
+
+P.O. 4 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE SE ADICIONAN LA SECCIÓN OCTAVA “DELITO DE CIBERACOSO”, AL CAPÍTULO UNDÉCIMO DELITOS SEXUALES; Y EL ARTÍCULO 278 NONIES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
