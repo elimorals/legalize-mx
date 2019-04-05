@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-ingreso-promocion-y-permanencia-del-personal-6545
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2019-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA
 
-REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL REGLAMENTO DE INGRESO, PROMOCIÓN Y PERMANENCIA DEL PERSONAL ACADÉMICO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA , PUBLICADO EN LA G.G. DE 5 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE INGRESO, PROMOCIÓN Y PERMANENCIA DEL PERSONAL ACADÉMICO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 12 de diciembre de 2008.
 
@@ -924,3 +926,23 @@ Q.F.B. MARTHA GARCIARIVAS PALMEROS
 RECTORA DE LA UTVT
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE INGRESO, PROMOCIÓN Y PERMANENCIA DEL PERSONAL ACADÉMICO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El personal que haya ingresado a la Universidad bajo cualquier esquema diverso al presente Reglamento, conservará las condiciones previamente pactadas las cuales continuarán vigentes.
+
+TERCERO. Las disposiciones relativas al Título Cuarto relativo a "la Promoción" entrarán en vigor cuando existan las condiciones presupuestales que permitan emitir las convocatorias respectivas.
+
+CUARTO. El estímulo señalado en el artículo 64 no podrá ser retroactivo, por lo que, a partir de la fecha de vigencia del presente Reglamento, todo el personal bajo ese supuesto iniciará su primer año.
+
+QUINTO. Los reconocimientos estipulados en el artículo 66 no tendrán retroactividad y no serán acumulativos para el Personal Académico.
+
+SEXTO. Se abroga el Reglamento de Ingreso, Promoción y Permanencia del Personal Académico de la Universidad Tecnológica del Valle de Toluca, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 12 de diciembre de 2008.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
