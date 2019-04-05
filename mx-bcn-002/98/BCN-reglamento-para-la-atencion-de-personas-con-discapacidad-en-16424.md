@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-de-personas-con-discapacidad-en-164
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-18"
-last_updated: "2013-09-13"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de febrero de 2000.
 
@@ -141,11 +141,23 @@ La credencial servirá para que la persona con discapacidad pueda acreditar su c
 
 El gobierno municipal promoverá con los demás órdenes de gobierno, empresas e instituciones, que la credencial expedida por el departamento de Servicios Médicos Municipales, sea el medio de identificación suficiente para el otorgamiento de beneficios a personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### Artículo 10.
 
-La credencial municipal para personas con discapacidad y la tarjeta para vehículo, permanecerán vigentes por tres años en caso de discapacidad permanente y por un año en caso de discapacidad temporal.
+La credencial municipal para personas con discapacidad tendrá al momento de su emisión el carácter de permanente.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### Artículo 10 Bis.
+
+La tarjeta para vehículo para personas con discapacidad, tendrá al momento de su emisión, las siguientes vigencias:
+
+I.- Por tres años en caso de discapacidad permanente.
+
+II.- Tres, seis, nueve o doce meses tratándose de discapacidad temporal.
+
+En ambos casos la vigencia de estos documentos se contará a partir del mes en que se expidan.
 
 ###### Artículo 11.
 
@@ -163,11 +175,25 @@ III.- Presentarse el solicitante en las oficinas que indique el departamento de 
 
 IV.- Éste trámite será gratuito para los solicitantes con discapacidad permanente. Sólo se aplicará el pago de derechos a los solicitantes con discapacidad temporal, según lo indique la Ley de Ingresos Municipal; y,
 
-V.- En el caso de que se solicite tarjeta para vehículo, deberá presentarse original y copia de la tarjeta de circulación de vehículo en el que habitualmente se transporte la persona con discapacidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2019)</small>
+
+V.- En el caso de que se solicite tarjeta para vehículo, deberá presentarse original vigente y copia de la tarjeta de circulación de vehículo en el que habitualmente se transporte la persona con discapacidad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+Cuando se trate de vehículo extranjero, además de presentar tarjeta de circulación vigente en la fecha de la solicitud, deberá acreditarse que la persona con discapacidad tiene su domicilio permanente o principal en el Municipio de Mexicali, exhibiendo para ello identificación oficial vigente con fotografía, así como recibos de servidos públicos de los últimos tres meses. De igual manera, deberá acreditarse la estancia legal del vehículo en los Estados Unidos Mexicanos, para lo cual el propietario del vehículo deberá exhibir los documentos expedidos por autoridad competente, en los que conste su doble nacionalidad, su nacionalidad extranjera o el permiso migratorio respectivo, que sustenten su capacidad para conducir el vehículo de procedencia extranjera en territorio nacional.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+Para la revalidación de la tarjeta de vehículo, deberán entregarse los originales de la credencial y tarjeta vencidos, en caso de no hacerlo el titular de estos documentos, se hará acreedor a la multa de una UMA.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+En caso de extravío de la tarjeta de vehículo, se deberá presentar la constancia de extravío emitida por la Autoridad competente.
 
 ###### Artículo 12.
 
-La tarjeta para vehículo en el que viajen personas con discapacidad, será expedido junto con la credencial, a quien lo solicite.
+La tarjeta para vehículo en el que viajen personas con discapacidad, será expedido (sic) junto con la credencial, a quien lo solicite.
 
 Esta tarjeta servirá para que el vehículo en el que se transporte la persona con discapacidad que la obtenga, pueda estacionarse en los lugares reservados de la vía pública y de los estacionamientos de establecimientos que conforme a la reglamentación correspondiente deban contar con los mismos.
 
@@ -175,11 +201,39 @@ La tarjeta deberá colocarse en un lugar visible del vehículo cuando éste se e
 
 Se podrá exigir a quien ocupe un lugar reservado para personas con discapacidad, que exhiba adicionalmente a la tarjeta, la credencial municipal para personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+Las tarjetas para vehículos, deberán contener los siguientes elementos:
+
+I.- Al anverso:
+
+a).- El símbolo internacional de accesibilidad;
+
+b).- Número consecutivo de tarjeta para vehículo, y
+
+c).- Vigencia.
+
+II.- Al reverso:
+
+a).- Nombre del titular; y
+
+b).- Leyenda de que la tarjeta es personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+Las tarjetas para vehículos expedidas por autoridades competentes en los municipios del Estado u otros lugares del país o del extranjero, tendrán plena validez en el municipio de Mexicali.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 13.
 
-El titular de alguno de los medios de identificación a que se refiere este capítulo, o algún familiar cercano de éste, deberá informar por escrito e inmediatamente al departamento de Servicios Médicos Municipales, cuando se lo roben o lo extravíe, a fin de que se le reponga, y además se evite su uso por personas sin derecho.
+El titular de alguno de los medios de identificación a que se refiere este capítulo, o algún familiar cercano de éste, deberá informar por escrito en un término no mayor a sesenta días naturales al Departamento de Servicios Médicos Municipales, cuando le sea robado o extravíe alguno de estos medios, a fin de que se le reponga, y además se evite su uso por personas sin derecho. En caso de no informarlo en dicho término, se hará acreedor a la multa de una UMA, la cual será aplicada al momento de hacer su solicitud de reposición.
 
 En el caso de que se utilice cualquiera de los medios de identificación por persona diversa a su titular, sin que éste hubiere informado de su robo o extravío, se le podrá sancionar a dicho titular por el Departamento de Servicios Médicos Municipales con la revocación temporal o definitiva del documento.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+El Departamento de Servicios Médicos deberá requerir cada año al Registro Civil Municipal, para que, conforme a sus actas de defunción, le haga entrega al Departamento de una relación que contenga los nombres de las personas que hayan fallecido durante ese periodo, a efecto de que Servicios Médicos proceda a cancelar las credenciales municipales para personas con discapacidad y las tarjetas para vehículos correspondientes.
 
 ### CAPÍTULO CUARTO. DE LA ASISTENCIA SOCIAL A PERSONAS CON DISCAPACIDAD
 
@@ -426,3 +480,9 @@ SEGUNDO.- Dentro del plazo de treinta días a partir de la publicación de las p
 TERCERO.- Gírense instrucciones a la Secretaría de éste XX Ayuntamiento de Mexicali, a fin de que sean publicadas las presentes reformas en el Periódico Oficial del Estado de Baja California.
 
 CUARTO.- Gírense instrucciones a las dependencias involucradas en el presente Reglamento para que establezcan, en el Presupuesto de Egresos del ejercicio presupuestal inmediato siguiente a la publicación del mismo, las necesidades presupuestales en los programas respectivos para dar cumplimiento a las atribuciones y obligaciones previstas en tal ordenamiento normativo; con base a planes y programas anuales, que deberán ser contemplados en el Presupuesto de Egresos próximo a la fecha de aprobación de dicho Reglamento.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+Único: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
