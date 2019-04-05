@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2017-03-31"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO ESTATAL DE LAS MUJERES, NUEVO LEON
 
-LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
+LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -143,9 +143,25 @@ XX. Impulsar la creación de institutos municipales de las mujeres;
 
 XXI. Generar y promover la elaboración de indicadores para medir el impacto de los programas y acciones relacionados con mujeres y niñas;
 
-XXII. Participar en la formulación de iniciativas de ley, vinculadas con el objeto del Instituto, que proponga el Titular del Ejecutivo del Estado, que favorezcan la equidad e igualdad de oportunidades, de trato, toma de decisiones y beneficios del desarrollo; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XXIII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XXII. Participar en la formulación de iniciativas de ley, vinculadas con el objeto del Instituto, que proponga el Titular del Ejecutivo del Estado, que favorezcan la equidad e igualdad de oportunidades, de trato, toma de decisiones y beneficios del desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIII. Promover y fomentar en las mujeres el acceso al empleo y al comercio e informarles sobre las condiciones de trabajo apropiadas en condiciones de igualdad con los hombres;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIV. Promover los proyectos productivos que impulsen las dependencias y entidades en el ámbito local y fomentar movimientos sociales que favorezcan una nueva cultura de participación femenil;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXV. Otorgar atención especial a las mujeres de las comunidades indígenas, promoviendo entre ellas, el respeto a los derechos humanos y la revaloración de los derechos específicos al género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ###### Artículo 8.
 
@@ -584,3 +600,9 @@ P.O. 31 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 244. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO PRIMERO DEL ARTICULO 4 DE LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 111. SE REFORMAN POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV, XXV Y XXVI, TODAS DEL ARTÍCULO 7 DE LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
