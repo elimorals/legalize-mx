@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2018-08-14"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -859,6 +859,10 @@ X. De fomento al empleo.
 
 X (SIC). De Cultura, Recreación y Espectáculos.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XI. De los derechos de las Niñas, Niños y Adolescentes.
+
 ###### ARTICULO 60.
 
 En los Municipios que posean dos sindicaturas, el Primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el Segundo será competente en materia de gobernación, justicia, seguridad pública y policía y buen gobierno. En aquellos de sólo una, el Síndico conocerá todos los ramos.
@@ -869,7 +873,9 @@ En los Municipios que posean dos sindicaturas, el Primer Síndico conocerá de l
 
 Son facultades y obligaciones de los Ayuntamientos en materia de Gobernación y Seguridad Pública las siguientes:
 
-I. Cumplir y hacer cumplir la Constitución General de la República, la Constitución Política del Estado de Guerrero y las Leyes derivadas de las mismas, así como vigilar el estricto cumplimiento de los reglamentos y ordenamientos municipales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+I. Cumplir y hacer cumplir la Constitución General de la República, la Constitución Política del Estado de Guerrero y las Leyes derivadas de las mismas y vigilar el estricto cumplimiento de los reglamentos y ordenamientos municipales; así como la aplicación de los Tratados y Convenios Internacionales en materia de derechos humanos de los que el Estado Mexicano forme parte;
 
 II. Celebrar convenios con el Gobierno del Estado para la más eficaz prestación de servicios públicos que le corresponden;
 
@@ -931,11 +937,21 @@ XXIV. Elegir mediante convocatoria pública abierta al titular del Órgano de Co
 
 XXV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
 
-XXVI. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XXVII. Determinar los límites territoriales que integran el primer cuadro de su cabecera municipal, y
+XXVI. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, aplicando la perspectiva de género y garantizando los principios de igualdad de género y no discriminación, así como la protección de los derechos humanos;
 
-XXVIII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVII. Determinar los límites territoriales que integran el primer cuadro de su cabecera municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVIII. Promover, respetar, proteger y garantizar los derechos humanos dentro de su jurisdicción, conforme a los principios de universalidad, interdependencia, indivisibilidad, progresividad y máxima protección, a través de la capacitación a servidores públicos municipales con el objeto de prevenir, en el ámbito de su competencia, las violaciones a los derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIX. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 62.
 
@@ -1047,41 +1063,29 @@ XI. En el ámbito de su competencia regular en beneficio social el aprovechamien
 
 XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 64.
 
-Son facultades y obligaciones de los ayuntamientos en materia de Educación y juventud, las siguientes:
+Son facultades y obligaciones de los Ayuntamientos en materia de Educación y Juventud, las siguientes:
 
-I. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
+I. Vigilar la prestación de los servicios educativos en el Municipio dando cuenta a las autoridades educativas sobre el funcionamiento de los establecimientos de educación en sus distintos niveles y grados;
 
-II. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
+II. Participar en el mantenimiento de establecimientos educativos con la participación de padres de familia, maestros y grupos ciudadanos;
 
-III. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
+III. Promover los programas de alfabetización y educación para los adultos en coordinación con las autoridades educativas correspondientes;
 
-IV. Vigilar la prestación de los servicios educativos en el Municipio dando cuenta a las autoridades educativas sobre el funcionamiento de los establecimientos de educación en sus distintos niveles y grados;
+IV. Vigilar que los niños en edad escolar asistan a las escuelas y que los maestros cumplan con sus horarios y obligaciones;
 
-V. Participar en el mantenimiento de establecimientos educativos con la participación de padres de familia, maestros y grupos ciudadanos;
+V. Fomentar las actividades que exalten los valores cívicos nacionales, estatales, regionales y locales;
 
-VI. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
+VI. Implementar programas de incorporación de la juventud al desarrollo municipal, darles seguimiento y evaluarlos periódicamente;
 
-VII. Promover los programas de alfabetización y educación para los adultos en coordinación con las autoridades educativas correspondientes;
+VII. Establecer mecanismos de coordinación con el gobierno federal y estatal y demás entes públicos para la planeación y ejecución de políticas públicas orientadas a desarrollo garantizar el ejercicio de los derechos de la juventud;
 
-VIII. Vigilar que los niños en edad escolar asistan a las escuelas y que los maestros cumplan con sus horarios y obligaciones;
+VIII. Promover y gestionar el diseño y la implementación de procesos de formación, información y capacitación permanente en materia de derechos humanos en las instituciones educativas de su municipio, y
 
-IX. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
-
-X. Fomentar las actividades que exalten los valores cívicos nacionales, estatales, regionales y locales;
-
-XI. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
-
-XII. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
-
-XIII. Implementar programas de incorporación de la juventud al desarrollo y darles seguimiento y evaluarlos periódicamente;
-
-XIV. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
-
-XV. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+IX. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2012)</small>
 
@@ -1327,6 +1331,26 @@ XVI. Dirigir y orientar a las solicitudes más adecuados por su preparación y a
 
 XVII. Dar publicidad de la demanda existente de puestos de trabajos.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### ARTICULO 69 Quinquies.
+
+Son facultades y obligaciones de los Ayuntamientos en materia de los Derechos de las Niñas, Niños y Adolescentes, las siguientes:
+
+I. Garantizar la protección de las niñas, niños y adolescentes en el municipio;
+
+II. Implementar los programas, acciones y estrategias en materia de protección de niñas, niños y adolescentes en el municipio;
+
+III. Implementar la difusión de los reglamentos y disposiciones administrativas de observancia general, para regular lo relativo a la protección de niñas, niños y adolescentes;
+
+IV. Incluir en el Presupuesto de Egresos anual, las partidas para la difusión, promoción, ejecución, supervisión y evaluación del programa y acciones a favor de niñas, niños y adolescentes en el municipio;
+
+V. Convenir la suscripción de acuerdos o convenios de coordinación con Federación, el Estado, otros Ayuntamientos u organismos sociales o privados, para el cumplimiento en materia de derechos de las niñas, niños y adolescentes;
+
+VI. Transversalizar el enfoque de los derechos humanos en los planes, programas y políticas públicas municipales; así como garantizar los principios rectores de interés superior, igualdad sustantiva, no discriminación, inclusión, interculturalidad, autonomía progresiva, pro persona, accesibilidad y corresponsabilidad de los miembros de la familia, la sociedad y las autoridades municipales, para la protección y desarrollo integral de la niñez y la adolescencia, y
+
+VII. Las demás que les otorgue esta Ley, la Ley número 812 para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado, u otros ordenamientos aplicables.
+
 ###### ARTICULO 70.
 
 Queda prohibido a los Ayuntamientos:
@@ -1367,9 +1391,11 @@ El programa trianual deberá aprobarse dentro del primer cuatrimestre del primer
 
 ### CAPITULO VI. DEL PRESIDENTE MUNICIPAL
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 72.
 
-El Presidente Municipal es el representante del Ayuntamiento y Jefe de la Administración Municipal en los términos de ley, así como el encargado de ejecutar sus resoluciones. Sus funciones son incompatibles con cualquier otro cargo de la Federación o de los Poderes del Estado excepto los docentes, de beneficencia y de salud, o los honoríficos.
+El Presidente Municipal es el representante del Ayuntamiento y Jefe de la Administración Municipal en los términos de ley, así como el encargado de ejecutar sus resoluciones, las que en todo momento serán respetuosas de los derechos humanos contenidos en la legislación. Sus funciones son incompatibles con cualquier otro cargo de la Federación o de los Poderes del Estado excepto las docentes, de beneficencia y de salud, o los honoríficos.
 
 ###### ARTICULO 73.
 
@@ -2765,7 +2791,9 @@ Las Delegaciones tendrán las facultades delegadas en función del tamaño del �
 
 ARTICULO 203 A.- Para ser Delegado Municipal deberán reunir los siguientes requisitos:
 
-I.- Ser mayor de 30 años de edad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+I.- Ser mayor de 21 años de edad;
 
 II.- Contar con experiencia administrativa;
 
@@ -4050,3 +4078,35 @@ TERCERO.- El Sistema Municipal para la Igualdad entre Mujeres y Hombres y el Sis
 CUARTO.- Los Ayuntamientos deberán poner a consideración para su aprobación los programas previstos en las fracciones II y III del artículo 69, a más tardar a los treinta días hábiles posteriores a la instalación del Sistema Municipal.
 
 QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 202, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 203 A DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
