@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-al-ambiente-para-el-municipio-de-12128
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-08"
-last_updated: "2017-09-08"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 8 de diciembre de 1997.
 
@@ -57,19 +57,21 @@ REGLAMENTO DE PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFOR
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto proveer en la esfera administrativa, la observancia de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, en las materias de competencia municipal que éstas declaran.
-
-Sus disposiciones rigen dentro del territorio del Municipio de Mexicali, Baja California, y son de orden público e interés social.
+El presente Reglamento tiene por objeto proveer en la esfera administrativa, la observancia de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección al Ambiente para el Estado de Baja California, en las materias de competencia municipal que éstas declaran. Sus disposiciones rigen dentro del territorio del Municipio de Mexicali, Baja California, y son de orden público e interés social.
 
 ###### Artículo 2.
 
 La aplicación de las disposiciones previstas en el presente Reglamento corresponde al Presidente Municipal, por conducto de la Oficina Municipal de Ecología, así como a las demás dependencias de la administración pública municipal en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 3.
 
-Para efectos de lo dispuesto en el presente Reglamento, se estará a las definiciones previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California y en los Reglamentos que de las mismas emanan; entre y además de las cuales, por su relevancia para este ordenamiento, destacan:
+Para efectos de lo dispuesto en el presente Reglamento, se estará a las definiciones previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como en la Ley De Protección Al Ambiente Para El Estado De Baja California y en los Reglamentos que de las mismas emanan; entre y además de las cuales, por su relevancia para este ordenamiento, destacan:
 
 I. Actividad: Es el conjunto de actividades, operaciones o tareas, temporales o permanentes, que desarrolla una persona física o moral, o una entidad;
 
@@ -83,85 +85,191 @@ V. Áreas verdes: Son aquellas áreas que están constituidas por cualquier tipo
 
 VI. Auditor Ambiental Externo: Persona física o moral habilitada como perito por haber acreditado su capacidad y conocimientos en materia de ecología y de prevención y control de la contaminación;
 
-VII. Condiciones Particulares de Descarga o de Emisión: Son el conjunto de características que deben satisfacer las aguas residuales previo a su descarga final o aquellas que deben satisfacer las emisiones de las fuentes generadoras de aguas residuales; su establecimiento es individualizado en función de las peculiaridades de la fuente generadora así como del medio receptor de las mismas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-VIII. Contaminante: Toda materia o energía en cualquiera de sus estados físicos o formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición o condición natural;
+VII.- Bolsa biodegradable desechable: Tipo de empaque para el acarreo de productos, fabricado de materiales compuestos a base de recursos renovables que pueden ser metabolizados por alguno de los componentes del medio ambiente;
 
-IX. Contingencia ambiental: Situación de riesgo generada por contaminación, que puede poner en peligro la integridad de la población o de uno o varios ecosistemas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-X. Control ecológico: Son las actividades y programas de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este Reglamento;
+VIII.- Bolsa de empaque: Tipo de empaque que no cuenta con asas y que por cuestiones de asepsia, deba ser utilizado para contener alimentos, o insumos húmedos elaborados o pre elaborados;
 
-XI. Coplademm: Es el Comité de Planeación para el Desarrollo Municipal de Mexicali, Baja California.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XII. Criterios: Conjunto de normas que regulan actividades específicas, destinadas a preservar y restaurar el equilibrio ecológico y proteger al ambiente, expedidas por las autoridades ambientales competentes;
+IX.- Bolsa de plástico desechable: Tipo de empaque con asas, fabricado con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, así como cualquier bolsa que no cumpla con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final; y el cual es distribuido por unidades económicas para el acarreo de productos de los consumidores;
 
-XIII. Decibel: Décima parte de un Bel, su símbolo es dB;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XIV. Decibel (A): Decibel sopesado con la malla de ponderación (A), su símbolo es dB(A);
+X.- Bolsa reutilizable: Tipo de empaque con asas, que por el material de que está fabricado, tiene como fin ser usado más de diez veces para el acarreo de productos, puede ser de fibra natural o sintética de calibre grueso;
 
-XV. Dirección de Ecología: La Dirección General de Ecología del Estado de Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XVI. Disposición final: Acción de depositar permanentemente los residuos en sitios y condiciones adecuados para evitar daños al ambiente;
+XI.- Condiciones Particulares de Descarga o de Emisión: Son el conjunto de características que deben satisfacer las aguas residuales, previo a su descarga final o aquellas que deben satisfacer las emisiones de las fuertes generadoras de aguas residuales; su establecimiento es individualizado en función de las peculiaridades de la fuente generadora así como del medio receptor de las mismas;
 
-XVII. El Ayuntamiento o Gobierno Municipal: El Ayuntamiento del Municipio de Mexicali, Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XVIII. Emisión: Descarga directa o indirecta a la atmósfera, de energía o materia en cualquiera de sus estados físicos;
+XII.- Contaminante: Toda materia o energía en cualquiera de sus estados físicos o formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición o condición natural;
 
-XIX. Establecimientos de servicios: Todo establecimiento o actividad que ofrezca bienes, servicios o ambos al público en general;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XX. Establecimientos mercantiles: Todo establecimiento o actividad comercial en los que no existan procesos de transformación;
+XIII.- Contingencia ambiental: Situación de riesgo generada por contaminación, que puede poner en peligro la integridad de la población o de uno o varios ecosistemas;
 
-XXI. Fuente emisora: Cualquier fuente fija, estacionaria o móvil que genere emisiones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXII. Fuente estacionaria: Unidad trasladable que permanece estática por espacio de tiempo predecible y programado, y que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+XIV.- Control ecológico: Son las actividades y programas de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este Reglamento;
 
-XXIII. Fuente fija: Unidad establecida en un solo lugar, que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XXIV. Fuente móvil: Unidad sujeta a movimiento que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+XV.- Coplademm: Es el Comité de Planeación para el Desarrollo Municipal de Mexicali, Baja California;
 
-XXV. Gases: Son los fluidos cuyas moléculas carecen de cohesión y sus componentes pueden no ser visibles en las (sic) atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXVI. Gobierno del Estado: Es el Gobierno del Estado de Baja California;
+XVI.- Criterios: Conjunto de normas que regulan actividades específicas, destinadas a preservar y restaurar el equilibrio ecológico y proteger al ambiente, expedidas por las autoridades ambientales competentes;
 
-XXVII. Humos: Son los residuos resultantes de una combustión incompleta, compuestos en su mayoría de carbón, cenizas, partículas sólidas y líquidas de materiales combustibles que son visibles en la atmósfera;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XXVIII. Impacto ambiental: Es la modificación del ambiente, ocasionada por la acción del hombre o de la naturaleza;
+XVII.- Decibel: Décima parte (sic) un Bel, su símbolo es dB;
 
-XXIX. La Comisión: La Comisión Municipal de Ecología, integrada al Comité de Planeación para el Desarrollo Municipal de Mexicali;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXX. Ley Estatal: Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California;
+XVIII.- Decibel (A): Decibel sopesado con la malla de ponderación (A), su símbolo es dB(A);
 
-XXXI. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXXII. Ley Orgánica: Ley Orgánica de la Administración Pública Municipal del Estado de Baja California;
+XIX.- Disposición final: Acción de depositar permanentemente los residuos en sitios y condiciones adecuados para evitar daños al ambiente;
 
-XXXIII. Municipio: Lo es el Municipio de Mexicali, Baja California.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXXIV. Normas: Incluye las Normas Oficiales Mexicanas, las normas emitidas con base en la Ley Estatal y otras normas que expidan las autoridades competentes en materia de protección al ambiente, en las cuales se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el uso y destino de bienes o en el desarrollo de actividades, que causen o puedan causar desequilibrio ecológico o modificación del ambiente;
+XX.- El Ayuntamiento o Gobierno Municipal: El Ayuntamiento del Municipio de Mexicali, Baja California;
 
-XXXV. Olores: Son las emanaciones perceptibles al sentido corporal, que pueden causar molestias y afectar el bienestar general;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXXVI. Polvos: Son las partículas de materia emitidas a la atmósfera por elementos naturales o por procesos mecánicos;
+XXI.- Emisión: Descarga directa o indirecta a la atmósfera, de energía o materia en cualquiera de sus estados físicos;
 
-XXXVII. Preservación: Conjunto de políticas y medidas tendentes a mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XXXVIII. Prevención: Conjunto de disposiciones y medidas tendentes a evitar el deterioro del ambiente;
+XXII.- Establecimientos de servicios: Todo establecimiento o actividad que ofrezca bienes, servicios o ambos al público en general;
 
-XXXIX. Protección: Conjunto de políticas y medidas tendentes a mejorar el ambiente y prevenir y controlar su deterioro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XL. Residuo: Cualquier material en estado sólido o líquido, generado en los procesos o actividades de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita utilizarlo nuevamente en los procesos que lo generaron;
+XXIII.- Establecimientos mercantiles: Todo establecimiento o actividad comercial en los que no existan procesos de transformación;
 
-XLI. Residuo sólido no peligroso: Cualquier residuo sólido no considerado como peligroso de acuerdo a la normatividad ambiental vigente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XLII. Ruido: Es todo sonido que cause molestias, o que lesione o dañe física o psicológicamente al individuo, la flora, la fauna o a los bienes públicos o privados;
+XXIV.- Fuente emisora: Cualquier fuente fija, estacionaria o móvil que genere emisiones;
 
-XLIII. Secretaría: Es la Secretaría del Gobierno Federal, responsable de las atribuciones que a éste corresponden, en materia de medio ambiente y recursos naturales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
 
-XLIV. Zona crítica: Es aquella área territorial en la que se registran altas concentraciones de contaminantes en la atmósfera.
+XXV.- Fuente estacionaria: Unidad trasladable que permanece estática por espacio de tiempo predecible y programado, y que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVI.- Fuente fija: Unidad establecida en un solo lugar, que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVII.- Fuente móvil: Unidad sujeta a movimiento que produce o puede producir emisiones a la atmósfera, o cuyo consumo energético genera la necesidad de producirlas por otras fuentes;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXVIII.- Gases: Son los fluidos cuyas moléculas carecen de cohesión y sus componentes pueden no ser visibles en la atmósfera;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIX.- Gobierno del Estado: Es el Gobierno del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXX.- Humos: Son los residuos resultantes de una combustión incompleta, compuestos en su mayoría de carbón, cenizas, partículas sólidas y líquidas de materiales combustibles que son visibles en la atmósfera;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXI.- Impacto ambiental: Es la modificación del ambiente, ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXII.- La Comisión: La Comisión Municipal de Ecología, integrada al Comité de Planeación para el Desarrollo Municipal de Mexicali;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXIII.- Ley Estatal: Ley de Protección al Ambiente del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXIV.- Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXV.- Ley Orgánica: Ley Orgánica de la Administración Pública Municipal del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXVI.- Municipio: Lo es el Municipio de Mexicali, Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXVII.- Normas: Incluye las Normas Oficiales Mexicanas, las normas emitidas con base en la Ley Estatal y otras normas que expidan las autoridades competentes en materia de protección al ambiente, en las cuales se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el uso y destino de bienes o en el desarrollo de actividades, que causen o puedan causar desequilibrio ecológico o modificación del ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXVIII.- Olores: Son las emanaciones perceptibles al sentido corporal, que pueden causar molestias y afectar el bienestar general;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XXXIX.- Polvos: Son las partículas de materia emitidas a la atmósfera por elementos naturales o por procesos mecánicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XL.- Popote de plástico desechable: Tubo hueco delgado, fabricado con derivados del petróleo que se utiliza para sorber líquidos y ser descartado después de un único uso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLI.- Popote biodegradable: Tubo hueco delgado, fabricado de materiales y procesos de tecnología que le permitan ser metabolizado por alguno de los componentes del medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLII.- Popote reutilizable: Tubo hueco delgado que se utiliza para sorber líquidos y que por el material de que está fabricado, su densidad, calibre y cualidad de lavable, tiene como fin ser usado más de diez veces;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLIII.- Preservación: Conjunto de políticas y medidas tendentes a mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLIV.- Prevención: Conjunto de disposiciones y medidas tendentes a evitar el deterioro del ambiente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLV.- Protección: Conjunto de políticas y medidas tendentes a mejorar el ambiente y prevenir y controlar su deterioro;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLVI.- Residuo: Cualquier material en estado sólido o líquido, generado en los procesos o actividades de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita utilizarlo nuevamente en los procesos que lo generaron;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLVII.- Residuo sólido no peligroso: Cualquier residuo sólido no considerado como peligroso de acuerdo a la normatividad ambiental vigente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLVIII.- Ruido: Es todo sonido que cause molestias, o que lesione o dañe física o psicológicamente al individuo, la flora, la fauna o a los bienes públicos o privados;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+XLIX.- Secretaría: Es la Secretaría del Gobierno Federal, responsable de las atribuciones que a éste corresponden, en materia de medio ambiente y recursos naturales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+L.- Secretaría de Protección al Ambiente: Es la Secretaría del Estado de Baja California, responsable de las atribuciones que a este corresponden, en materia de protección al medio ambiente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2019)</small>
+
+LI.- Zona crítica: Es aquella área territorial en la que se registran altas concentraciones de contaminantes en la atmósfera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### Artículo 4.
 
-Son atribuciones de la Oficina Municipal de Ecología, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
+Son atribuciones de la Dirección de Protección al Ambiente, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
 
 I.- En materia de Política Ambiental;
 
@@ -274,6 +382,10 @@ d) Coadyuvar con la Secretaría, conforme a los convenios y acuerdos de coordina
 e) Inspeccionar y vigilar que las actividades de recolección, transporte, manejo, almacenamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos, cumplan con las Normas y disposiciones expedidas por las autoridades competentes;
 
 f) Promover la instalación de centros de acopio de residuos sólidos no peligrosos que puedan ser reutilizados o reciclados, así como la formulación y promoción de programas de reutilización y reciclaje de dichos residuos.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+g) Vigilar el cumplimiento de las disposiciones para la regulación del uso de bolsas de plástico desechables y popotes de plástico desechables y sancionar el incumplimiento a la prohibición de obsequiar dichos instrumentos, de acuerdo a lo establecido en el presente reglamento.
 
 VIII.- En materia de Planeación Urbana;
 
@@ -831,7 +943,9 @@ En los casos que no exista una normatividad específica, la Oficina Municipal de
 
 Los establecimientos y actividades mercantiles o de servicios que por su naturaleza produzcan ruidos, vibraciones, energía térmica, energía lumínica u olores perjudiciales, y que no estén comprendidas en las disposiciones del presente Capítulo, requieren autorización de la Oficina Municipal de Ecología para operar y quedan sujetos a las Normas ambientales y criterios aplicables vigentes, así como las condiciones que se establezcan en las autorizaciones correspondientes.
 
-### CAPÍTULO SEXTO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y CONTROL DE RESIDUOS SÓLIDOS
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO SEXTO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y CONTROL DE RESIDUOS SÓLIDOS, Y REGULACIÓN DEL USO DE PLÁSTICOS DESECHABLES
 
 ###### Artículo 97.
 
@@ -954,6 +1068,22 @@ Los responsables de letrinas o fosas sépticas que generen efectos al ambiente p
 La disposición final de lodos resultantes del tratamiento de aguas residuales se realizará a través de algún servicio de recolección autorizado por la Oficina Municipal de Ecología. Dichos lodos no podrán ser entregados al servicio contratado de recolección, ni depositados en los rellenos sanitarios cuando excedan veinte por ciento de humedad.
 
 Para el cumplimiento de lo anterior, la fuente generadora deberá aplicar a los lodos un proceso de solidificación.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### Artículo 120
+
+BIS. Se prohíbe a todo establecimiento mercantil o de cualquier tipo en el municipio de Mexicali obsequie a los consumidores finales cualquier tipo de bolsa de plástico desechable, para el acarreo de productos.
+
+Esta disposición no es aplicable respecto al obsequio de bolsas de empaque, bolsas reutilizables, ni bolsas biodegradables desechables, según quedaron definidos dichos conceptos en el presente reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### Artículo 120
+
+TER. Se prohíbe a todo establecimiento mercantil o de cualquier tipo en el municipio de Mexicali obsequie a los consumidores finales cualquier tipo de popote de plástico desechable.
+
+Esta disposición no es aplicable respecto al obsequio de popotes biodegradables o popotes reutilizables, según quedaron definidos dichos conceptos en el presente reglamento.
 
 ### CAPÍTULO SEPTIMO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR VEHÍCULOS AUTOMOTORES QUE CIRCULEN EN EL TERRITORIO MUNICIPAL
 
@@ -1315,7 +1445,9 @@ A los infractores de las disposiciones previstas en este Reglamento, le serán a
 
 I. Amonestación;
 
-II. Multa que se impondrá según la infracción cometida, por el equivalente de diez a trescientos días de salario mínimo general vigente en el municipio de Mexicali, Baja California, al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+II.- Multa que se impondrá según la infracción cometida, por el equivalente de diez a cuatrocientas veces la Unidad de Medida y Actualización, en el municipio de Mexicali, Baja California, al momento de imponer la sanción; o la multa que se señale expresamente para casos particulares en este reglamento.
 
 III. Clausura temporal o definitiva, parcial o total;
 
@@ -1363,9 +1495,11 @@ Cuando la gravedad de la infracción lo amerite y sin perjuicio de las sanciones
 
 Cuando el infractor corrija la causa que originó el desequilibrio ecológico, los deterioros al ambiente o los daños a la salud pública, la Oficina Municipal de Ecología podrá revocar parcialmente la sanción impuesta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 199.
 
-Se sancionará con multa de diez a cien días de Salario Mínimo General Vigente, a quien cometa cualquiera de las siguientes infracciones.
+Se sancionará con multa de diez a cien veces la Unidad de Medida y Actualización, a quien cometa cualquiera de las siguientes infracciones:
 
 I. Mantener sin fines comerciales, animales domésticos o de crianza dentro de cualquier predio urbano y no tomar cualquiera de las siguientes medidas;
 
@@ -1393,9 +1527,11 @@ VII. Utilizar en zonas urbanas o rurales, dispositivos sonoros tales como altavo
 
 VIII. A quien cometa cualquier infracción a las disposiciones de este Reglamento, que no señale en alguno de los siguientes artículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 200.
 
-Se sancionará con multa de veinte a doscientos días de Salario Mínimo General Vigente, a quien cometa cualquiera de las siguientes infracciones:
+Se sancionará con multa de veinte a doscientas veces la Unidad de Medida y Actualización, a quien cometa cualquiera de las siguientes infracciones:
 
 I. A los propietarios o poseedores de cualquier vehículo automotor, público o privado, que no efectúen la verificación vehicular de emisión de contaminantes a la atmósfera a que estén obligados, en los términos de los programas que se establezcan para tal efecto.
 
@@ -1451,9 +1587,11 @@ XXII. Al promovente que incumpla cualquiera de las disposiciones o plazos del pr
 
 XXIII. Al que incumpla las disposiciones que en base a lo dispuesto en el presente Reglamento, sean dictadas por la Oficina Municipal de Ecología con fines correctivos, de autorización o de regularización, en cualquier resolución o dictamen técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### Artículo 201.
 
-Se sancionará con multa de treinta a trescientos días de Salario Mínimo General Vigente, a quien cometa cualquiera de las siguientes infracciones:
+Se sancionará con multa de treinta a cuatrocientas veces la Unidad de Medida y Actualización, a quien cometa cualquiera de las siguientes infracciones:
 
 I. A quien descargue aguas residuales al sistema de drenaje y alcantarillado sin contar con el permiso de descarga de la Oficina Municipal de Ecología;
 
@@ -1474,6 +1612,32 @@ VIII. No realizar la obra o actividad de que se trate, de conformidad con la lic
 IX. Al propietario o representante legal de los lugares objeto de inspección que se nieguen a permitir el acceso al lugar o lugares sujetos a inspección y no otorguen facilidades para el desarrollo de la diligencia; y,
 
 X. A los propietarios de establecimientos que se nieguen a sufragar los costos del análisis de muestras tomadas en diligencia de inspección por la Oficina Municipal de Ecología en dichos establecimientos, siempre que los resultados de dichos análisis demuestren que exista incumplimiento a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### Artículo 201
+
+BIS. Las violaciones o infracciones a las disposiciones que regulan el uso de las bolsas plásticas desechables para el acarreo, y popotes de plástico desechables serán las siguientes:
+
+a) A quien obsequie bolsas de plástico desechables a los consumidores finales en establecimientos mercantiles con una caja despachadora, multa de diez a veinticinco veces la Unidad de Medida y Actualización.
+
+b) A quien obsequie bolsas de plástico desechables a los consumidores finales en establecimientos mercantiles con dos o tres cajas despachadoras, multa de veinticinco a trescientas veces la Unidad de
+
+Medida y Actualización.
+
+c) A quien obsequie bolsas de plástico desechables a los consumidores finales en establecimientos mercantiles con cuatro o más cajas despachadoras, multa de cien a seiscientas veces la Unidad de Medida y Actualización.
+
+d) A quien obsequie popotes de plástico desechables a los consumidores finales en establecimientos mercantiles con hasta diez metros cuadrados de construcción en sus instalaciones comerciales, multa de diez a veinte veces la Unidad de Medida y Actualización.
+
+e) A quien obsequie popotes de plástico desechables a los consumidores finales en establecimientos mercantiles de diez y hasta cincuenta metros cuadrados de construcción en sus instalaciones comerciales, multa de veinticinco a cincuenta veces la Unidad de Medida y Actualización.
+
+f) A quien obsequie popotes de plástico desechables a los consumidores finales en establecimientos mercantiles con más de cincuenta metros cuadrados de construcción en sus instalaciones comerciales, multa de cuarenta a cien veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+###### Artículo 201
+
+TER. En el caso de segunda reincidencia en la infracción a los artículos 120 Bis y 120 Ter se procederá a la clausura temporal de la negociación mercantil.
 
 ###### Artículo 202.
 
@@ -1526,3 +1690,15 @@ SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protec
 SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
 
 OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, ESTO A FIN DE CREAR EL MARCO REGULATORIO NECESARIO PARA PROHIBIR QUE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, OBSEQUIEN A LOS CONSUMIDORES FINALES BOLSAS DE PLÁSTICOS DESECHABLES Y POPOTES DE PLÁSTICO DESECHABLES”.]
+
+PRIMERO.- Las modificaciones y adiciones que se contienen en el presente Acuerdo entrarán en vigor 90 días siguientes a la publicación del presente Acuerdo en el Periódico Oficial del Estado de Baja California; y no serán objeto de multa o sanción sino hasta transcurridos 365 días con posterioridad a su entrada en vigor.
+
+SEGUNDO.- Se insta al Presidente Municipal a efecto de que gire instrucciones a la Dirección de Protección al Ambiente, para efectos de implementar programas de concientización respectos (sic) a las consecuencias de uso de bolsas de plástico en el medio ambiente, así como al uso de popotes de plástico en términos de esta reforma, dirigidas tanto al sector público como el privado.
+
+TERCERO.- Se insta al Presidente Municipal a efecto de que gire instrucciones a la Dirección de Protección al Ambiente, para la implementación de un plan de beneficios para las empresas ecológicamente responsables que acrediten de forma voluntaria ante dicha dirección el cumplimiento a las disposiciones creadas por ésta reforma mediante la utilización y manejo de bolsas y popotes que cumplan con lo aquí estipulado.
+
+CUARTO.- Todas las menciones encontradas en el Reglamento de Protección al Ambiente para el municipio de Mexicali, Baja California que hagan referencia a la "Oficina Municipal en Ecología" deberán entenderse como referentes a la "Dirección de Protección al Ambiente"; de igual manera las menciones relativas a "Dirección de Ecología" deberán de entenderse como referentes a la "Secretaría de Protección al Ambiente del Estado de Baja California".
