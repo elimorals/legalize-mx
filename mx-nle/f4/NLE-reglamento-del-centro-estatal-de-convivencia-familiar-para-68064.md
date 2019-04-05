@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-centro-estatal-de-convivencia-familiar-para-6806
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-03"
-last_updated: "2011-03-11"
+last_updated: "2019-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEON
 
-REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2011.
+REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de abril de 2009.
 
@@ -195,7 +197,7 @@ XV. Realizar juntas periódicas con el personal.
 
 XVI. Asesorar al personal de las Unidades de Convivencia y de Servicios Psicológicos.
 
-Las ausencias temporales del Director del Centro serán cubiertas por la persona que designe el Consejo de la Judicatura. El Director podrá proponer la (sic) persona que pueda suplir su ausencia.
+Las ausencias temporales del Director del Centro serán cubiertas por la persona que designe el Consejo de la Judicatura. El Director podrá proponer la persona que pueda suplir su ausencia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -689,7 +691,7 @@ X. Resolver los asuntos jurídicos inherentes al Centro.
 
 XI. Además de las tareas que se le asignen para el buen funcionamiento del Centro.
 
-Asistente (sic) de Dirección tendrá a su cargo apoyar a la misma, en todas las actividades, necesarias para el buen desarrollo y funcionamiento de las actividades que por ley debe realizar el Centro.
+(sic) Asistente de Dirección tendrá a su cargo apoyar a la misma, en todas las actividades, necesarias para el buen desarrollo y funcionamiento de las actividades que por ley debe realizar el Centro.
 
 Los Auxiliares Administrativos serán las personas encargadas de apoyar, supervisar y vigilar las diversas actividades que se desarrollen en el Centro para su buen funcionamiento.
 
@@ -1015,7 +1017,7 @@ EL C. SECRETARIO GENERAL DE ACUERDOS
 
 LIC. ALAN PABEL OBANDO SALAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 3 DE AGOSTO DE 2009.
 
@@ -1028,3 +1030,17 @@ P.O. 11 DE MARZO DE 2011.
 PRIMERO.- Vigencia. Este acuerdo General entrará en vigor, a partir del día siguiente al de su publicación en el Boletín Judicial.
 
 SEGUNDO.- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese este Acuerdo en el Boletín Judicial, así como en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: Vigencia. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Estado de Nuevo León.
+
+SEGUNDO: Se abroga el Reglamento del Centro Estatal de Convivencia Familiar para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 3 tres de abril de 2009 dos mil nueve, y sus reformas. Asimismo, se derogan todas las disposiciones que se opongan a lo previsto en el presente Reglamento.
+
+TERCERO: Publicación. Para su conocimiento y observancia, publíquese este Reglamento tanto en el Boletín Judicial, como en el Periódico Oficial, ambos del Estado de Nuevo León.
+
+CUARTO: Competencia. Los espacios e instalaciones del Centro en donde deberán prestarse los servicios respectivos en los asuntos que sean remitidos por los jueces familiares, serán preferentemente en las más cercanas al domicilio del menor.
+
+Atendiendo a las cargas de trabajo del Centro, los usuarios podrán ser canalizados indistintamente a las diversas sedes con que cuenta este, con el objetivo de que los servicios prestados sean otorgados con la mayor eficiencia posible y evitar la saturación de usuarios en alguna sede en específico.
