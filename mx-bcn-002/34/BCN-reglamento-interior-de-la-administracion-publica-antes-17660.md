@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2019-01-04"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1033,87 +1033,199 @@ I.- Ser ciudadano mexicano en ejercicio de sus derechos civiles y políticos, re
 
 II.- Tener título profesional de Contador Público o afín a este;
 
-III.- No haber sido condenado por delito de carácter intencional ni en juicio de responsabilidades como funcionario público;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IV.- Caucionar el manejo de los fondos, en los términos establecidos por la Ley Orgánica de la Contaduría Mayor de Hacienda; y,
+III.- No haber sido condenado por delito de carácter patrimonial; y
+
+IV.- (DEROGADA, P.O. 5 DE ABRIL DE 2019)
 
 V.- Cumplir con los requisitos que señalen otras leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 5 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 52.
+
+La Tesorería Municipal contará con un titular denominado Tesorero Municipal, a quien le corresponde originalmente la representación, coordinación, dirección, supervisión y resolución de los asuntos competencia de la Tesorería Municipal.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ESTE PÁRRAFO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO], P.O. 5 DE ABRIL DE 2019)</small>
 
 La Tesorería Municipal tendrá las siguientes atribuciones:
 
-I.- Formular para someter a consideración del Ayuntamiento, y en su oportunidad, aplicar la política hacendaría, crediticia y del gasto público del gobierno municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+I.- Formular para someter a consideración del Ayuntamiento, y en su oportunidad, aplicar las políticas en materia de planeación, programación, presupuestación, financiera, fiscal, patrimonial, de gasto público, deuda pública y de inversión pública del gobierno municipal;
 
 II.- Determinar los ingresos y egresos del gobierno municipal, tomando en cuenta las necesidades de recursos para la ejecución del Plan Municipal de Desarrollo y sus programas;
 
-III.- Recibir de las dependencias y entidades, sus anteproyectos de presupuestos de egresos para ser incluidos en el proyecto de presupuesto de egresos del Municipio, realizar los análisis correspondientes, y orientar a dichas dependencias y entidades en relación con las erogaciones que propongan;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IV.- Formular y presentar oportunamente a consideración del Presidente Municipal, los proyectos de iniciativa de ley de ingresos, y presupuesto de egresos municipales;
+III.- Recibir de las dependencias sus propuestas de presupuesto de egresos para ser incluidos en el proyecto de presupuesto de egresos del Municipio, realizar los análisis correspondientes, y orientar a dichas dependencias en relación con las erogaciones que propongan;
 
-V.- Orientar a las entidades en la formulación de sus anteproyectos de presupuestos de egresos, cuando éstos no queden comprendidos en el presupuesto de egresos municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VI.- Ser el conducto para someter a consideración del Presidente Municipal, los proyectos de presupuestos de egresos de las entidades a que se refiere la fracción anterior;
+IV.- Formular y presentar oportunamente a consideración del Presidente Municipal, la iniciativa de ley de ingresos municipal, en los términos de las disposiciones aplicables;
 
-VII.- Presentar al Presidente Municipal, para que éste las someta a consideración del Ayuntamiento, las solicitudes de modificaciones, transferencias y ampliaciones de presupuesto que formulen las dependencias y entidades, dándolas a conocer previamente al Síndico Procurador para que emita sus opiniones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VIII.- Recaudar y administrar las contribuciones municipales, de acuerdo con las disposiciones legales en vigor;
+V.- Formular y presentar oportunamente a consideración del Presidente Municipal, el proyecto de presupuesto de egresos municipal, en los términos de las disposiciones aplicables;
 
-IX.- Cumplir y hacer cumplir las leyes, reglamentos, convenios, y demás disposiciones legales de carácter fiscal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-X.- Llevar la contabilidad de la hacienda pública municipal, y formular sus cuentas públicas;
+VI.- Aprobar las bases para desarrollar el sistema de presupuestos basado en gestión para resultados en las dependencias y entidades, así como aquellas que se requieran para su ejercicio, seguimiento, control y evaluación;
 
-XI.- Contestar oportunamente las observaciones que haga a las cuentas públicas municipales, la Contaduría Mayor de Hacienda en los términos de la Ley respectiva;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XII.- Emitir las bases para fijar precios, tarifas y cuotas, que deberán pagarse por concepto de enajenación de bienes o prestación de servicios, sujetos al dominio privado del Municipio, y cuando correspondan a sus funciones de derecho público que no estén previstos en la Ley de Ingresos del Municipio;
+VII.- Orientar a las entidades en la formulación de sus anteproyectos de presupuestos de egresos, cuando éstos no queden comprendidos en el presupuesto de egresos municipal;
 
-XIII.- Administrar la deuda pública municipal, de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XIV.- Ejercer el gasto público del gobierno municipal, y llevar su control, seguimiento y evaluación;
+VIII.- Ser el conducto para someter a consideración del Presidente Municipal, los proyectos de presupuestos de egresos de las entidades a que se refiere la fracción anterior;
 
-XV.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Administrativa en materia Fiscal, que se celebren con el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XVI.- Presentar mensualmente al Ayuntamiento, el estado de origen y aplicación de recursos municipales, con el visto bueno del Síndico Procurador; y,
+IX.- Presentar al Presidente Municipal, para que éste someta a consideración del Ayuntamiento, las solicitudes de modificaciones, transferencias y ampliaciones de presupuesto que formulen las dependencias y entidades, dándolas a conocer previamente al Síndico Procurador para que emita sus opiniones;
 
-XVII.- Integrar los programas de inversión de la Administración Pública Municipal, y vigilar el ejercicio de los recursos de los mismos.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Autorizar los procedimientos para la recaudación, concentración, administración y aplicación de los recursos que conforme a las leyes, convenios, decretos y acuerdos procedentes, corresponden al gobierno municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XI.- Designar al personal, propio o ajeno, para el desempeño de comisiones y servicios ordinarios o especiales, fijándole sus facultades;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XII.- Cumplir y hacer cumplir las leyes, reglamentos, convenios, y demás disposiciones legales de carácter fiscal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Opinar las iniciativas de leyes, reglamentos, decretos y demás disposiciones previo a la expedición o promulgación por parte del Ayuntamiento, en la materia de su competencia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIV.- Llevar la contabilidad gubernamental de la hacienda pública municipal, y formular sus cuentas públicas;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XV.- Contestar en tiempo y forma las observaciones que hagan a las cuentas públicas municipales, las instancias fiscalizadoras en los términos de la Ley respectiva;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVI.- Administrar la deuda pública municipal, de acuerdo con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVII.- Ejercer el gasto público del gobierno municipal, y llevar su control, seguimiento y evaluación;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVIII.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Administrativa en materia Fiscal, que se celebren con el Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIX.- Concertar y suscribir convenios, con otros organismos gubernamentales, instituciones de crédito o sociedades nacionales de crédito e instituciones y empresas privadas, para la recepción y/o recaudación de ingresos que el fisco municipal tiene derecho a percibir por cuenta propia o ajena;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XX.- Concertar y suscribir los convenios y contratos para la realización de operaciones de financiamiento temporal y operaciones de financiamiento que constituyan deuda pública, en los términos de la Ley de la materia, así como de las demás operaciones bancarias y financieras;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXI.- Intervenir en la celebración de convenios con la Federación, con el Ejecutivo Estatal y con otros Municipios, que incluyan materias competencia de la Tesorería Municipal, y ejercer las atribuciones derivadas de los mismos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXII.- Integrar los programas de inversión de la administración pública municipal, y vigilar el ejercicio de los recursos de los mismos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIII.- Certificar y expedir constancias de los sistemas, documentos y expedientes relativos a los asuntos competencia de la Tesorería Municipal, que se encuentre bajo su custodia en la Tesorería Municipal; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XXIV.- Las demás que le sean encomendadas por el Presidente Municipal, y aquellas que se establezcan en las leyes, reglamentos y demás disposiciones normativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 53.
 
-La Tesorería Municipal para el cumplimiento de sus atribuciones tendrá bajo su cargo una Subtesorería, y los siguientes Departamentos:
+La Tesorería Municipal para el cumplimiento de sus atribuciones tendrá bajo su cargo una Subtesorería y una coordinación administrativa, y los siguientes Departamentos:
 
 I.- Recaudación de Rentas;
 
 II.- Programación y Presupuesto;
 
-III.- Contabilidad; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IV.- Inversión Pública.
+III.- Contabilidad;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+IV.- Inversión Pública; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+V.- Egresos.
 
 ###### ARTICULO 54.
 
 La Subtesorería tendrá como función, controlar y supervisar las normas y procedimientos para la recaudación de los ingresos municipales y programar los gastos públicos de la Administración Pública Municipal centralizada, encargándose de:
 
-I.- Proponer al Tesorero previo acuerdo con el Recaudador de Rentas, criterios internos respecto a la aplicación de las disposiciones tributarias, así como las medidas necesarias para simplificar los sistema (sic) de control fiscal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-II.- Concentrar, custodiar, vigilar y situar los fondos provenientes de la aplicación de la Ley de Ingresos Municipal, efectuando los depósitos diarios correspondientes, de conformidad con los lineamientos que se establezcan por el Tesorero, en las cuentas establecidas para el efecto en las instituciones bancarias;
+I.- Proponer al Tesorero Municipal previo acuerdo con el Recaudador de Rentas, criterios internos respecto a la aplicación de las disposiciones tributarias, así como las medidas necesarias para simplificar y eficientar los sistemas de control fiscal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+II.- Concentrar, custodiar, vigilar, registrar y administrar los fondos provenientes de la aplicación de la Ley de Ingresos Municipal;
 
 III.- Formular y someter a consideración del Tesorero para su aprobación, el programa financiero municipal;
 
-IV.- Programar el egreso diario y realizar los pagos autorizados de conformidad con los lineamientos internos, cuidando que las operaciones que las originen se encuentren debidamente formalizadas con la documentación y requisitos fiscales correspondientes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-V.- Participar en la realización de los convenios financieros y ejercer las atribuciones que deriven de éstos;
+IV.- Autorizar la programación del egreso diario;
+
+V.- (DEROGADA, P.O. 5 DE ABRIL DE 2019)
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
 VI.- Coordinar la elaboración del proyecto de presupuesto de egresos para el Municipio;
 
-VII.- Revisar y dictaminar los programas financieros y crediticios de las entidades, elaborando los estudios necesarios en materia de subsidios, para someterlos a consideración del Tesorero;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VIII.- Proporcionar al Tesorero toda la información necesaria para que este en posibilidad de emitir su opinión respecto a la capacidad de endeudamiento de (sic) gobierno municipal;
+VII.- Revisar y orientar respecto los programas financieros y crediticios de las entidades, coordinando la elaboración de los estudios necesarios en materia de subsidios, para someterlos a consideración del Tesorero Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VIII. Proporcionar al Tesorero Municipal toda la información necesaria para que esté en posibilidad de emitir su opinión respecto a la capacidad de endeudamiento del gobierno municipal;
 
 IX.- Vigilar el oportuno cumplimiento de las obligaciones contables y presupuestales del gobierno municipal, que impongan las diversas leyes aplicables, así como las derivadas de empréstitos, convenios y contratos a su cargo;
 
-X.- Coordinar la solicitud y evaluación de la información trimestral sobre el grado y avance de los programas y metas realizadas de las dependencias y entidades; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Coordinar la obtención y evaluación de la información trimestral sobre el grado de avance de los programas y metas realizadas por las dependencias;
 
 XI.- Autorizar a las dependencias el fondo de operaciones para gastos menores, de conformidad con los lineamientos autorizados.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XII.- Proponer al Tesorero Municipal para su aprobación, las políticas, normas, lineamientos y procedimientos de manera enunciativa en las siguientes materias:
+
+a) Recaudación, administración, control, y forma de pago de contribuciones;
+
+b) Formulación de la programación y presupuestación del gasto público basado en gestión para resultados y para el desarrollo de la inversión pública;
+
+c) Tramitación de pagos, respaldo y comprobación de los egresos; y,
+
+d) Registro contable de los ingresos y egresos, bienes, derechos, obligaciones y patrimonio del gobierno municipal.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Coordinar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIV.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Tesorero Municipal.
 
 ###### ARTICULO 55.
 
@@ -1123,13 +1235,17 @@ I.- Recaudar, controlar y supervisar los ingresos por los distintos conceptos es
 
 II.- Aplicar las disposiciones legales de competencia municipal de carácter fiscal, y vigilar que los contribuyentes cumplan con el pago de sus contribuciones;
 
-III.- Aplicar el procedimiento administrativo de ejecución para la recuperación de créditos fiscales municipales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+III.- Aplicar el procedimiento administrativo de ejecución para la recuperación de créditos fiscales municipales, incluyendo la expedición de documentos que identifiquen a los ejecutores, acuerdos de habilitación y cualquier otro necesario para implementación de dicho procedimiento;
 
 IV.- Habilitar mediante acuerdo escrito, horas y días inhábiles para la práctica de actuaciones administrativas y fiscales, o para recibir pagos;
 
 V.- Realizar las intervenciones a los espectáculos públicos para determinación y cobro de contribuciones que correspondan;
 
-VI.- Autorizar prórrogas o pago (sic) parcialidades, para el cumplimiento de los distintos conceptos de ingreso que se establecen en la Ley municipal de la materia;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VI.- Autorizar prórrogas o pago en parcialidades, para el cumplimiento de los distintos conceptos de ingreso que se establecen en la Ley municipal de la materia;
 
 VII.- Elaborar y someter a aprobación del Tesorero, las formas para la presentación de declaraciones, manifestaciones o avisos, por parte de los contribuyentes;
 
@@ -1137,115 +1253,315 @@ VIII.- Autorizar la libertad de gravámenes fiscales;
 
 IX.- Turnar al Departamento Jurídico, los cobros que deban exigirse por la vía judicial;
 
-X.- Supervisar y autorizar las percepciones del personal por concepto de gastos de ejecución;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Determinar las percepciones del personal por concepto de gastos de ejecución, para someterlo a la autorización del Tesorero Municipal;
 
 XI.- Coordinarse con las distintas dependencias y entidades municipales para verificar el ingreso y establecer estrategias de recuperación de créditos fiscales municipales;
 
-XII.- Participar en la elaboración del proyecto de presupuesto de egresos y del proyecto de iniciativa de ley de ingresos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XIII.- Solventar ante la Sindicatura Municipal y la Contaduría mayor de Hacienda del Congreso del Estado, las observaciones que formulen a la Cuenta Pública Municipal de Ingresos;
+XII.- Coordinar la elaboración del proyecto de iniciativa de ley de ingresos municipal, para someterlo a consideración del Tesorero Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Integrar las solventaciones de las observaciones realizadas por las instancias fiscalizadoras, en materia de ingresos;
 
 XIV.- Analizar y opinar sobre proyectos de ley o reglamentación, que puedan tener repercusión en los ingresos municipales;
 
-XV.- Informar al tesorero de los avances de los programas para recuperación de ingresos municipales; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XV.- Informar al Tesorero Municipal de los avances de los programas para recuperación de ingresos municipales;
 
 XVI.- Establecer y operar cajas en los lugares del Municipio que se determinen, para realizar la recaudación de los ingresos municipales,
 
-Los Subrecaudadores de Rentas Municipales, tendrán las facultades a que se refieren las fracciones I, II, III, IV, VI, VIII, X y XIII del presente artículo, y podrán ser:
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVII.- Expedir copias certificadas de los documentos que le soliciten y obren en su archivo;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVIII.- Observar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIX.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Administrativa que se celebren con el Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XX.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, o le encomiende el Subtesorero y/o el Tesorero Municipal.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+Los subrecaudadores de Rentas Municipales, tendrán las facultades a que se refieren las fracciones I, II, III, IV, VI, VIII, X, XIII y XVII del presente artículo, y podrán ser:
 
 Centrales.- Aquellos cuyo desempeño se ubica en la esfera operativa y funcional del titular del departamento de Recaudación de rentas.
 
 Adscritos.- Que serán los asignados a Delegaciones Municipales, oficinas de servicios municipales, o entidades en el caso de que perciban contribuciones. Los Subrecaudadores Adscritos en el ejercicio de las funciones previstas en este artículo, se sujetarán a la normatividad que emita la Tesorería Municipal.
 
-###### ARTICULO 56.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
 
-El Departamento de Programación y Presupuesto tendrá como función, controlar el ejercicio del Presupuesto de Egresos para el Municipio y coordinar el pago de las erogaciones municipales, encargándose de:
+###### Artículo 56.
 
-I.- Supervisar que el procedimiento de registro del egreso se apegue a la normatividad aplicable;
+El Departamento de Programación y Presupuesto tendrá como función, controlar el ejercicio del Presupuesto de Egresos para el Municipio, encargándose de:
 
-II.- Coordinar que el ejercicio del presupuesto de egresos se lleve a cabo cumpliendo con los programas autorizados y de acuerdo con los montos de los recursos aprobados;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-III.- Autorizar la documentación comprobatoria de los egresos, verificando que cumpla con los lineamientos establecidos;
+I.- Elaborar y proponer las normas, lineamientos y procedimientos a que deban sujetarse las dependencias y entidades en materia de presupuestación basada en gestión para resultados;
 
-IV.- Autorizar la documentación de egresos que deberá enviar a la Contaduría Mayor de Hacienda del Congreso, el Departamento de Contabilidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-V.- Coordinar la recepción de las propuestas para formular el anteproyecto de presupuesto anual de egresos para el Municipio;
+II.- Validar la estructura programática de las dependencias y entidades, así como sus modificaciones;
 
-VI.- Establecer sistemas y procedimientos relacionados con los egresos, para el control del ejercicio del Presupuesto de Egresos para el Municipio;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VII.- Coordinarse con el Departamento de Recursos Humanos de la Oficialía Mayor y el Departamento de Informática, para el establecimiento del sistema a que se sujetará la emisión de las nóminas de percepciones del personal de la Administración Pública Municipal centralizada, así como su entrega a las diferentes dependencias, y la devolución por éstas;
+III.- Revisar y analizar las propuestas de los anteproyectos de los Programas Operativos Anuales y de los Presupuestos de Egresos de las dependencias y entidades, para determinar su viabilidad o modificación en su caso;
 
-VIII.- Informar al Tesorero de las partidas presupuestales próximas a agotarse, a fin de que se inicien en su caso, los trámites correspondientes para autorizar su ampliación;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IX.- Vigilar el seguimiento del Presupuesto de Egresos para el Municipio, en lo relativo a transferencias, ampliaciones y modificaciones de sus partidas durante su ejercicio;
+IV.- Coordinar, integrar y someter a consideración del Subtesorero, el anteproyecto del Programa Operativo Anual y del Presupuesto de Egresos de la administración pública centralizada y descentralizada;
 
-X.- Documentar la información de transferencias presupuestales que deban ser sometidas a la consideración y aprobación del Ayuntamiento; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XI.- Efectuar la solventación de las observaciones efectuadas por la Sindicatura Municipal y la Contaduría Mayor de Hacienda del Congreso, en relación a la Cuenta Pública Municipal de Egresos.
+V.- Verificar la congruencia de la programación con los objetivos y prioridades establecidos en el Plan Municipal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VI.- Coordinar y orientar a dependencias y entidades en los procesos internos de planeación;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VII.- Validar y mantener actualizada la información contenida en el Sistema Municipal de Indicadores en concordancia con el Programa Operativo Anual;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VIII.- Coordinar la operación del Sistema de Evaluación del Desempeño en los programas del municipio;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+IX.- Analizar las propuestas de modificaciones programáticas y presupuestales que soliciten las dependencias y entidades, para determinar su viabilidad y en su caso, realizar la tramitación correspondiente;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Integrar el avance de gestión de las dependencias, y el cierre del ejercicio fiscal en materia de programación, presupuestación e indicadores, para su integración en el Informe de Avance de Gestión Financiera trimestral y Cuenta Pública Anual;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XI.- Revisar la integración del Informe de Avance de Gestión Financiera trimestral y de la Cuenta Pública Anual de cada una de las entidades;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XII.- Consolidar los estados financieros de las entidades;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Dar seguimiento al ejercicio del presupuesto de las dependencias, con el propósito de verificar su congruencia con el cumplimiento de metas y acciones establecidas;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIV.- Integrar las solventaciones de las observaciones realizadas por las instancias fiscalizadoras, en materia programática y presupuestal;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XV.- Ministrar los subsidios autorizados a las entidades;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVI.- Observar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVII.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, o le encomiende el Subtesorero y/o el Tesorero Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 57.
 
-El Departamento de Contabilidad tendrá como función mantener a su cargo y llevar la contabilidad de la hacienda pública municipal, encargándose de:
+El Departamento de Contabilidad tendrá como función mantener a su cargo y llevar la contabilidad gubernamental de la hacienda pública municipal, encargándose de:
 
-I.- Proponer al Tesorero para su aprobación, los procedimientos a que deba apegarse el registro contable de los ingresos y egresos de la hacienda pública, así como las cuentas de control de bienes, obligaciones y patrimonio del gobierno municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-II.- Recibir, registrar y custodiar la documentación comprobatoria del presupuesto de egresos ejercido;
+I.- Proponer al Subtesorero para su aprobación, los procedimientos a que deba apegarse el registro contable de los ingresos y egresos de la hacienda pública, así como las cuentas de control de bienes, obligaciones y patrimonio del gobierno municipal;
 
-III.- Elaborar los cheques para cubrir los egresos del gobierno municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IV.- Formular la cuenta anual de la hacienda pública municipal, y supervisar su envío oportuno a la Contaduría Mayor de Hacienda del Congreso;
+II.- Custodiar la documentación comprobatoria del presupuesto de egresos ejercido, que soporte la aplicación contable de los mismos;
 
-V.- Conservar bajo su custodia los documentos que constituyan valores para la hacienda pública municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VI.- Formular los estados financieros del gobierno municipal, incluyendo el de origen y aplicación de recursos que mensualmente debe presentarse por el Tesorero al Ayuntamiento;
+III.- Integrar el Informe de Avance de Gestión Financiera trimestral y la Cuenta Pública Anual, para su presentación en términos de las disposiciones aplicables, ante el Congreso del Estado;
 
-VII.- Elaborar o coordinar la formulación de los análisis contables y administrativos que le sean solicitados por el Tesorero;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VIII.- Supervisar que se formulen las solventaciones de la Cuenta Pública Municipal, que deban enviarse a la Contaduría Mayor de Hacienda del Congreso del Estado;
+IV.- Formular los análisis contables y administrativos que le sean solicitados;
 
-IX.- Tener a su cargo el archivo contable del gobierno municipal, y administrarlo conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-X.- Coordinar y supervisar la atención a instituciones de crédito a fin de que se pueda formular oportunamente el reporte diario de las posiciones bancarias;
+V.- Integrar las solventaciones de las observaciones realizadas por las instancias fiscalizadoras;
 
-XI.- Solicitar y controlar saldos, comprobantes de cargos, créditos y estados de cuenta bancarios;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XII.- Realizar las conciliaciones bancarias;
+VI.- Tener a su cargo el archivo contable del gobierno municipal, y administrarlo conforme a las disposiciones legales aplicables;
 
-XIII.- Supervisar y coordinar la atención que deba prestarse por cada departamento de la Tesorería a los órganos de fiscalización, poniendo a su disposición la información que requieran para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XIV.- Realizar, supervisar y controlar la aplicación contable, así como su captura para obtener una información veraz y oportuna;
+VII.- Solicitar y controlar saldos, comprobantes de cargos, créditos y estados de cuenta bancarios;
 
-XV.- Proponer dentro del proyecto de presupuesto de egresos municipal, las partidas necesarias para cubrir las amortizaciones por concepto del capital e intereses de la deuda pública municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XVI.- Expresar contablemente la deuda pública municipal, así como las obligaciones contingentes a cargo del gobierno municipal; y
+VIII.- Realizar las conciliaciones bancarias;
 
-XVII.- Elaborar la estadística financiera del gobierno municipal.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+IX.- Coordinar la atención que deba prestarse por cada departamento de la Tesorería Municipal a los órganos de fiscalización, poniendo a su disposición la información que requieran para el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Dirigir el proceso contable, para la obtención de información oportuna y confiable;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XI.- Proponer dentro del proyecto de presupuesto de egresos municipal, las partidas necesarias para cubrir las amortizaciones por concepto del capital e intereses de la deuda pública municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XII.- Llevar un adecuado control de la deuda pública municipal, así como las obligaciones contingentes a cargo del gobierno municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Elaborar la estadística financiera del gobierno municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIV.- Coordinar y observar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable; y,
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XV.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, o le encomiende el Subtesorero y/o Tesorero Municipal.
+
+XVI.- (DEROGADA, P.O. 5 DE ABRIL DE 2019)
+
+XVII.- (DEROGADA, P.O. 5 DE ABRIL DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 58.
 
-El Departamento de Inversión Pública tendrá como función controlar presupuestal y financieramente la inversión que en obra pública lleve a cabo la Administración Pública Municipal encargándose de:
+El Departamento de Inversión Pública tendrá como función controlar presupuestal y financieramente la inversión pública que lleve a cabo la Administración Pública Municipal encargándose de:
 
-I.- Realizar análisis financieros de las propuestas de obras públicas para cada ejercicio fiscal;
+la Administración Pública Municipal encargándose de: (sic)
 
-II.- Establecer controles presupuestales a los recursos destinados para la obra pública;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-III.- Proponer al Tesorero las modificaciones presupuestales relacionadas con la obra pública;
+I.- Elaborar y proponer las normas, lineamientos y procedimientos a que deban sujetarse las dependencias y entidades en materia de inversión pública;
 
-IV.- Efectuar las operaciones para la autorización presupuestal de los diferentes conceptos de gastos indirectos de las dependencias o entidades ejecutoras y normativas de obras públicas, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-V.- Revisar presupuestalmente los contratos de obras y proyectos que se celebren;
+II.- Realizar análisis financieros de las propuestas de obras públicas para cada ejercicio fiscal;
 
-VI.- Participar en la licitación, adjudicación y supervisión de la aplicación de recursos, en las obras o proyectos que lleve a cabo la Administración Pública Municipal, con la finalidad de verificar el cumplimiento de la normatividad en el ejercicio del Presupuesto de Egresos para el Municipio;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-VII.- Llevar a cabo verificación física de los proyectos y áreas donde se desarrollen las obras, para vigilar la aplicación de los recursos financieros;
+III.- Revisar que los expedientes técnicos de cada una de las obras y/o acciones, cumplan con los requisitos establecidos en la normatividad aplicable a los programas de inversión, emitiendo en su caso oficio de aprobación de recursos, previa autorización del Ayuntamiento;
 
-VIII.- Revisar y aprobar en su caso, los trámites de anticipos, estimaciones y finiquitos de obras y proyectos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-IX.- Proporcionar al Tesorero Municipal información sobre los avances financieros de cada uno de los programas de inversión;
+IV.- Concentrar expedientes de autorización de la inversión pública municipal;
 
-X.- Efectuar el control financiero de programas especiales donde tenga participación el gobierno municipal; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
-XI.- Controlar, custodiar y administrar el archivo de inversión pública municipal conforme a las disposiciones aplicables.
+V.- Dar seguimiento a la ejecución de la inversión en la obra pública, registrando sus avances físicos y financieros;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VI.- Promover la correcta aplicación de recursos en materia de inversión pública, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VII.- Verificar que las transferencias o modificaciones programáticas-presupuestales requeridas por las instancias ejecutoras cumplan con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+VIII.- Establecer controles programáticos-presupuestales a los recursos destinados para inversión pública;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+IX.- Llevar un adecuado control de los gastos indirectos de las instancias ejecutoras y normativas de obra pública, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+X.- Validar la viabilidad presupuestal de los contratos de inversión pública;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XI.- Llevar a cabo visitas de campo durante la ejecución de las obras, para verificar la razonabilidad de las solicitudes de pago;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XII.- Tramitar las solicitudes de pago gestionadas y autorizadas por las dependencias ejecutoras del presupuesto de egresos, así como de aquellas erogaciones que no afecten el Presupuesto de Egresos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIII.- Proporcionar al Subtesorero y/o Tesorero Municipal la información sobre los avances físicos y financieros de cada uno de los programas de inversión;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XIV.- Efectuar el control financiero de programas especiales donde tenga participación el gobierno municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XV.- Dar seguimiento a la solventación de las observaciones realizadas por las instancias fiscalizadoras a la ejecución de los programas federales de inversión pública;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVI.- Integrar las solventaciones de las observaciones realizadas por las instancias fiscalizadoras, sobre temas relativos al ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVII.- Observar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+
+XVIII.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, o le encomiende el Subtesorero y/o Tesorero Municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+
+ARTICULO 58 BIS.- El Departamento de Egresos tendrá como función, coordinar el pago de las erogaciones municipales, encargándose de:
+
+I.- Proponer al Subtesorero las políticas, normas, lineamientos y procedimientos a los que se deban sujetar los trámites de pago, respaldo y comprobación de los egresos;
+
+II.- Recibir los trámites de solicitud de pago, siempre y cuando se encuentren debidamente soportados con la documentación comprobatoria del gasto, observando las disposiciones aplicables en materia de gasto;
+
+III.-Tramitar las solicitudes de pago gestionadas y autorizadas por las dependencias ejecutoras del presupuesto de egresos, así como de aquellas erogaciones que no afecten el Presupuesto de Egresos;
+
+IV.- Llevar un adecuado control de las solicitudes de pago recibidas en Tesorería Municipal, así como aquellas pendientes de pago;
+
+V.- Remitir al Departamento de Contabilidad la documentación comprobatoria del egreso, para efectos de su administración y custodia;
+
+VI.- En coordinación con el Departamento de Programación y Presupuesto, establecer procedimientos relacionados con los egresos, para el control del ejercicio del Presupuesto de Egresos del Municipio;
+
+VII.- Realizar las transferencias electrónicas y elaboración de cheques correspondientes, para cubrir las erogaciones del gobierno municipal;
+
+VIII.- Establecer mecanismos de coordinación con el Departamento de Recursos Humanos de la Oficialía Mayor y el Departamento de Informática, para establecer el procedimiento a que se sujetará la emisión y entrega de las nóminas del personal;
+
+IX.- Supervisar que el procedimiento de registro del egreso se apegue a la normatividad emitida por el Consejo Nacional de Armonización Contable, y demás normatividad aplicable en materia de registro;
+
+X.- Integrar la solventación de las observaciones que realicen las instancias fiscalizadoras, en materia de egresos;
+
+XI.- Formular diariamente el reporte de las posiciones bancarias;
+
+XII.- Administrar los remanentes de efectivo bancarios a través de inversiones productivas procurando obtener los mejores rendimientos financieros;
+
+XIII.- Tramitar la apertura y cancelación de cuentas bancarias;
+
+XIV.- Custodiar y administrar el inventario de cheques bancarios preimpresos, pendientes de ser utilizados;
+
+XV.- Custodiar los cheques girados pendientes de entrega;
+
+XVI.- Elaborar la propuesta de programación de pagos para someterla a la autorización del Subtesorero;
+
+XVII.- Observar el cumplimiento de las normas y lineamientos emitidos por el Consejo Nacional de Armonización Contable; y,
+
+XVIII.- Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, o le encomiende el Subtesorero y/o Tesorero Municipal.
 
 ### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
@@ -3532,3 +3848,11 @@ PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su p
 SEGUNDO.- La Tesorería Municipal deberá tomar las previsiones y realizar las adecuaciones pertinentes, para cubrir los emolumentos del defensor público administrativo.
 
 TERCERO.- La Oficialía Mayor deberá llevar a cabo las acciones necesarias para formalizar la contratación del defensor público administrativo, conforme a las disposiciones aplicables en la materia.
+
+P.O. 5 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN REFORMA, ADICIÓN Y DEROGACIÓN A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Comuníquese el presente acuerdo a la Tesorería Municipal, así como a la Oficialía Mayor del Ayuntamiento, a efecto de realizar las modificaciones presupuestales y administrativas pertinentes para la generación y funcionamiento de la nueva estructura organizacional de la Tesorería Municipal.
