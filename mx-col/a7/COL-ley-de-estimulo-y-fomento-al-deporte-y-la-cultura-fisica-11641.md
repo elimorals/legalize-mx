@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2018-10-20"
+last_updated: "2019-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -39,7 +39,9 @@ Por lo anteriormente expuesto y fundado ha tenido a bien expedir el siguiente
 
 DECRETO No. 281
 
-LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2019)</small>
+
+LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -75,9 +77,9 @@ VI.- Fomentar la creación, conservación, mejoramiento, protección, difusión,
 
 VII.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades;
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
 
-VIII.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito;
+VIII.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito, las adicciones y el uso indebido de drogas;
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -625,7 +627,9 @@ ARTICULO 23 BIS 4.- En los términos de los convenios de coordinación y colabor
 
 ARTICULO 23 BIS 5.- El INCODE promoverá acciones para el uso óptimo de las instalaciones públicas.
 
-Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos, debiéndose observar las disposiciones de los instrumentos de gestión territorial vigentes.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos, debiéndose observar las disposiciones de los instrumentos de gestión territorial vigentes. En coordinación con la Secretaría de Educación y en apoyo del Instituto Nacional de Estadística y Geografía, con el padrón de este, realizará un censo estatal de las instalaciones deportivas escolares, mismo que será inscrito en el Registro Estatal de Cultura Física y Deporte del INCODE.
 
 Asimismo, se respetarán las áreas clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas y la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
@@ -1152,3 +1156,9 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 560 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 2º BIS, LA FRACCIÓN VII DEL ARTÍCULO 2º BIS 2; Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI AL ARTÍCULO 2º BIS 2; DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 POR EL QUE SE REFORMA EL NOMBRE DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA; LA FRACCIÓN VIII, DEL ARTÍCULO 1; EL PÁRRAFO PRIMERO DEL ARTÍCULO 23 BIS 5, TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA CÍVICA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
