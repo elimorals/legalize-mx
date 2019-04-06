@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2019-02-27"
+last_updated: "2019-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -783,17 +783,19 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 ART. 34.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas, en archivos físicos y electrónicos, autorizados con firma autógrafa o con la firma electrónica certificada, utilizando los medios electrónicos autorizados al efecto y las formas únicas aprobadas por el Registro Nacional de Población o en papel simple, pero conservando el formato autorizado.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
-
-El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerárquicamente dependerá de la Secretaría General de Gobierno. El Registro Civil estará constituido por una Dirección, un Archivo Central, Unidades Administrativas y las Oficialías que establezca el Reglamento respectivo.
+(REUBICADO CON SU CAPITULO I, P.O. 6 DE ABRIL DE 2019)
 
 ## TITULO CUARTO. Del Registro Civil
 
-### CAPITULO I. Disposiciones generales
+(REUBICADO, P.O. 6 DE ABRIL DE 2019)
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas y resguarda la información en archivos físicos y electrónicos, autorizados con firma autógrafa o con la firma electrónica certificada, utilizando los medios electrónicos autorizados al efecto y las formas únicas aprobadas por el Registro Nacional de Población o en papel simple, pero conservando el formato autorizado.
+
+El Registro Civil estará a cargo de la Dirección General del Registro Civil que jerárquicamente dependerá de la Secretaría General de Gobierno. El Registro Civil estará constituido por una Dirección General, un Archivo Central, Unidades Administrativas, las Oficialías y las auxiliares de éstas, que disponga el Reglamento respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2019)</small>
 
@@ -815,37 +817,49 @@ VII. Muerte de los mexicanos y extranjeros residentes en el territorio del mismo
 
 VIII. Las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; y
 
-IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+IX. Levantamiento de un acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 En materia de actos del estado civil, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Tales actos podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-Las Oficialías del Registro Civil estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro Civil.
+Las personas titulares de las Oficialías del Registro Civil y las auxiliares de éstas, estarán bajo la coordinación, inspección y vigilancia de la Dirección General del Registro Civil.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 36.- Las actas del Registro Civil se podrán asentar en formas físicas o electrónicas, la infracción a esta disposición producirá su nulidad, las inscripciones se harán mediante el uso de medios electrónicos, en forma electrónica o mecanografiada, en ambos casos deberán contener la clave única de registro de población o en su defecto la transcripción de la misma. En caso de inscripción electrónica se regirá conforme al procedimiento de guarda y distribución de las copias de respaldo electrónico que establezca el reglamento respectivo y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes de doscientas actas que correspondan al año a que se refiera y que constituirán los Libros del Registro Civil.
 
-Las formas del Registro Civil serán autorizadas y distribuidas de forma física y electrónica, con la firma autógrafa o con la firma electrónica certificada por la Dirección del Registro Civil.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-De las actas que se levanten en forma electrónica los oficiales del Registro Civil entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
+Las formas del Registro Civil serán autorizadas y distribuidas de forma física y electrónica, con la firma autógrafa o con la firma electrónica certificada por la Dirección General del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan “Registro Civil” y que contendrán: el primero actas de nacimiento, las nuevas actas para el reconocimiento de identidad de género y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+De las actas que se levanten en forma electrónica las Oficialías del Registro Civil y los auxiliares de éstas entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección General del Registro Civil para su resguardo en el Archivo Central.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2019)</small>
 
-Toda acta deberá asentarse en los dos ejemplares del Registro; además será almacenada la información en archivo electrónico, en su base de datos la cual estará intercomunicada con la base de datos de la Dirección del Registro Civil.
+ART. 37.- Las Oficialías del Registro Civil llevarán por duplicado siete libros que se denominan “Registro Civil” y que contendrán: el primero actas de nacimiento, de reconocimiento de identidad de género y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+Las personas auxiliares de las Oficialías del Registro Civil, llevarán aquellos libros que para tal efecto les autoricen.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+Toda acta deberá asentarse en los dos ejemplares del Registro; además será almacenada la información en archivo electrónico, en su base de datos la cual estará intercomunicada con la base de datos de la Dirección General del Registro Civil, y ésta a su vez, lo haga con el Registro Nacional de Población.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 38.- Si se perdiere o destruyere alguno de los libros o archivos electrónicos del Registro, se sacará inmediatamente copia del otro ejemplar, y en su caso de la copia de seguridad y respaldo que se tenga en la base de datos o en otro medio electrónico, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la Autoridad Administrativa a quien se hubieren remitido los duplicados o por daño de la base de datos.
 
-El Procurador General de Justicia del Estado cuidará de que se cumpla esta disposición, y a ese efecto, el oficial del Registro, o el encargado del Archivo General del Estado le dará aviso de la pérdida.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+La Fiscalía General del Estado cuidará de que se cumpla esta disposición, y a ese efecto, la Oficialía del Registro, o quien se encargue del Archivo General del Estado le dará aviso de la pérdida.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -885,6 +899,10 @@ ART. 47.- Los vicios o defectos que haya en las actas, sujetan al oficial del Re
 
 ART. 48.- Toda persona puede pedir de forma física o electrónica testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales Registradores estarán obligados a darlo.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+Los apuntes dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta y el sello de la Oficialía y se reunirán y depositarán en el archivo de la misma, formándose con ellos el Apéndice correspondiente.
+
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros físicos y electrónicos y se autorizarán por el Director General del Registro Civil.
@@ -921,13 +939,9 @@ La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el 
 
 Recibido el aviso, el Oficial del Registro Civil, deberá emitir el acta de nacimiento respectiva dentro de los tres días hábiles siguientes.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-ART. 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante el Oficial del Registro Civil.
-
-En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, el Oficial del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento.
-
-La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección del Registro Civil.
+Artículo 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante la Oficialía del Registro Civil. En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, la Oficialía del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento. La Dirección General del Registro Civil determinará las instituciones médicas, públicas y privadas, en las que se instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección General.
 
 ART. 56.- (DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
@@ -1443,33 +1457,55 @@ También procede la complementación de las actas del estado civil, respecto de 
 
 El Congreso del Estado expedirá las bases conforme a las cuales el Director o los Oficiales del Registro Civil podrán efectuar dicha complementación y expedir las copias certificadas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2019)</small>
+
+ART. 135 BIS.- Pueden pedir el levantamiento de una acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+El proceso administrativo para el reconocimiento de identidad de género se llevará a cabo ante la Dirección General del Registro Civil del Estado, cumpliendo todas las formalidades que exige su Reglamento.
+
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
-
-ART. 135 Bis.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
-
-El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado de Colima, cumpliendo todas las formalidades que exige su Reglamento.
 
 Se entenderá por identidad de género a la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, psiquiátrica, terapias u otro diagnóstico y/o procedimiento pericial o de cualquier otro tipo, para el reconocimiento de la identidad de género.
 
-Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de (sic) su levantamiento.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+Los efectos del acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de (sic) su levantamiento.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-ART. 135 Ter.- Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición del acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2019)</small>
+
+ART. 135 Ter.- Para realizar el proceso administrativo de una acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2019)</small>
 
 I. Solicitud debidamente requisitada;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2019)</small>
+
 II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2019)</small>
 
 III. Original y copia fotostática de su identificación oficial; y
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2019)</small>
+
 IV. Comprobante de domicilio.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 El levantamiento se realizará ante la oficina del Oficial del Registro Civil respectivo, quien procederá de inmediato a hacer la anotación y la reserva correspondiente.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
+
 El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 Una vez cumpliendo el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría General de Gobierno, a la Secretaría de Planeación y Finanzas, a la Secretaría de Educación, a la Secretaría de Salud y Bienestar Social, al Supremo Tribunal de Justicia, a la Fiscalía General, todos del Estado de Colima, así como al Instituto Nacional Electoral, al Servicio de Administración Tributaria y a la Secretaría de Relaciones Exteriores, para los efectos legales procedentes.
 
@@ -1481,7 +1517,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Tener al menos 18 años de edad;
 
-III. Desahogar ante el Oficial del Registro Civil, la comparecencia que se detalla en el reglamento y manual de Procedimientos del Registro Civil;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+III. Desahogar ante la Dirección General del Registro Civil, la comparecencia que se detalla en el Reglamento y manual de Procedimientos del Registro Civil;
 
 IV. Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
 
@@ -11636,3 +11674,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que s
 TERCERO.- El Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
 
 CUARTO.- La Dirección del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
+
+P.O. 6 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 49 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 34 BIS, 35 FRACCIÓN IX Y TERCER PÁRRAFO, 36 SEGUNDO Y TERCER PÁRRAFOS, 37 PÁRRAFO PRIMERO Y EL AHORA TERCER PÁRRAFO, 38 SEGUNDO PÁRRAFO, 55, 135 BIS PRIMERO, SEGUNDO, CUARTO Y QUINTO PÁRRAFOS, 135 TER PRIMER PÁRRAFO Y 135 QUÁTER FRACCIÓN III, ASÍ COMO ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 37, HACIENDO EL CORRIMIENTO RESPECTIVO DE LOS PÁRRAFOS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 48, Y SE REUBICA EL TÍTULO CUARTO Y SU CAPÍTULO I, DEL LIBRO PRIMERO DENOMINADO DE LAS PERSONAS, PARA QUE INICIE A PARTIR DEL ARTÍCULO 34 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ASÍ MISMO SE APRUEBA REFORMAR EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 47, DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que proceda con las actualizaciones reglamentarias derivadas de su vigencia.
