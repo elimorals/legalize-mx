@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2018-07-28"
+last_updated: "2019-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
 DECRETO
 
-EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN IV Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN IV Y 39 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
 [...]
 
@@ -441,9 +441,9 @@ III. Nombramiento de la comisión que se encargue de invitar al recinto a los in
 
 IV. Formulación de la protesta legal, que hará el presidente entrante, en los siguientes términos:
 
-"PROTESTO CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO, POR EL BIEN Y PROSPERIDAD DE LAS PERSONAS Y DEL MUNICIPIO.
+"PROTESTO CUMPLIR Y HACER CUMPLIR LA CONSTITUCION POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO, POR EL BIEN Y PROSPERIDAD DE LAS PERSONAS Y DEL MUNICIPIO.
 
-Y SI NO LO HICIERE ASÍ, QUE EL MUNICIPIO ME LO DEMANDE".
+Y SI NO LO HICIERE ASI, QUE EL MUNICIPIO ME LO DEMANDE".
 
 V. Toma de la protesta a los demás miembros del ayuntamiento, por el presidente municipal, en los términos conducentes señalados por la fracción anterior.
 
@@ -849,7 +849,9 @@ j) Rendir al ayuntamiento, en sesión solemne, un informe por escrito de su gest
 
 k) Vigilar el desempeño de los servidores y empleados del municipio, corregir oportunamente las faltas que observe y hacer del conocimiento de la autoridad correspondiente las que a su juicio puedan constituir la comisión de un delito;
 
-l) Tener a su cargo el registro civil, pudiendo ejercerlo mediante el oficial que designe en la cabecera municipal y por los encargados en los lugares que lo ameriten;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+l) Tener a su cargo el Registro Civil, pudiendo ejercerlo por sí o mediante la persona titular de la oficialía que designe en la cabecera municipal y por las auxiliares de ésta, en los lugares que lo ameriten;
 
 m) Preparar, en unión del secretario, la información y documentación que soporten la propuesta de acuerdos que deban analizarse en sesión. Dichos documentos, además de los dictámenes que preparen las comisiones, deberán ser entregados a los integrantes del ayuntamiento por lo menos con cuarenta y ocho horas de anticipación, tratándose de sesiones ordinarias del cabildo;
 
@@ -1485,9 +1487,7 @@ Los ayuntamientos vigilarán que la prestación de los servicios públicos se re
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 86 Bis.
-
-Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
+ARTICULO 86 BIS.- Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
 
@@ -1835,7 +1835,7 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 ## TÍTULO QUINTO. DE LA PLANEACIÓN PARA EL DESARROLLO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO UNICO
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -1941,7 +1941,7 @@ b) Atribuciones, funciones y responsabilidades de las autoridades auxiliares.
 
 ###### ARTICULO 119.
 
-Sin perjuicio de lo dispuesto en el artículo anterior los Ayuntamientos expedirán en el ámbito de su competencia, entre otros, los siguientes reglamentos:
+Sin perjuicio de lo dispuesto en el artículo anterior los Ayuntamientos expedirán en el ámbito de su competencia, ente (sic) otros, los siguientes reglamentos:
 
 I.- Los que regulen a los organismos que integran a la administración pública paramunicipal;
 
@@ -1991,7 +1991,7 @@ ARTICULO 119 TER.- Todos los municipios deberán contar con el Reglamento del Go
 
 ## TÍTULO SÉPTIMO. DEL PROCESO CONTENCIOSO MUNICIPAL
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO UNICO
 
 ###### ARTICULO 120.
 
@@ -2370,3 +2370,11 @@ P.O. 28 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 518 POR EL QUE SE APRUEBA ADICIONAR LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 86 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 49 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 34 BIS, 35 FRACCIÓN IX Y TERCER PÁRRAFO, 36 SEGUNDO Y TERCER PÁRRAFOS, 37 PÁRRAFO PRIMERO Y EL AHORA TERCER PÁRRAFO, 38 SEGUNDO PÁRRAFO, 55, 135 BIS PRIMERO, SEGUNDO, CUARTO Y QUINTO PÁRRAFOS, 135 TER PRIMER PÁRRAFO Y 135 QUÁTER FRACCIÓN III, ASÍ COMO ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 37, HACIENDO EL CORRIMIENTO RESPECTIVO DE LOS PÁRRAFOS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 48, Y SE REUBICA EL TÍTULO CUARTO Y SU CAPÍTULO I, DEL LIBRO PRIMERO DENOMINADO DE LAS PERSONAS, PARA QUE INICIE A PARTIR DEL ARTÍCULO 34 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ASÍ MISMO SE APRUEBA REFORMAR EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 47, DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que proceda con las actualizaciones reglamentarias derivadas de su vigencia.
