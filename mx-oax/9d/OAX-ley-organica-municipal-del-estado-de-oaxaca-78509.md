@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-03-16"
+last_updated: "2019-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -287,13 +287,19 @@ I.- Por dejar de residir en el territorio del Municipio por más de seis meses, 
 
 II.- Por renuncia expresa ante la autoridad municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-Son derechos de los ciudadanos del Municipio:
+Son derechos de las y los ciudadanos del Municipio:
 
-I.- Acceder en igualdad de circunstancias para toda clase de comisiones, o cargos de carácter municipal;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
 
-II.- Votar y ser votado para los cargos de elección popular de carácter municipal;
+I.- Que mujeres y hombres accedan en Igualdad de circunstancias a toda clase de comisiones, o cargos de carácter municipal;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+II.- Votar y ser votado y votada para los cargos de elección popular de carácter municipal de conformidad con las disposiciones normativas aplicables;
 
 III.- Presentar ante las autoridades municipales proyectos para reglamentos o normas de carácter municipal; y
 
@@ -359,6 +365,10 @@ Los integrantes de los Ayuntamientos electos por Sistemas Normativos Internos, d
 
 Los cargos de Presidente Municipal, Síndicos y Regidores del Ayuntamiento serán obligatorios y sólo podrá renunciarse a ellos por causa justificada que calificará el propio Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+En todos los actos de integración e Instalación del Ayuntamiento se deberá aplicar sin excepción, el principio de paridad de género; en caso de renuncia, el Ayuntamiento garantizará que la sustitución al cargo sea por una persona del mismo género.
+
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
 
 ###### ARTÍCULO 35.
@@ -398,6 +408,10 @@ Los Ayuntamientos podrán instalarse válidamente con la mayoría de sus miembro
 El Ayuntamiento instalado, sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de cinco días hábiles, si no se presentan, transcurrido este plazo, serán llamados los Suplentes, quienes entrarán en ejercicio definitivo.
 
 Si no se presentan los Suplentes que correspondan, se dará aviso a la Legislatura del Estado, para que ésta designe de entre los Suplentes electos restantes al o los que deban ocupar el o los cargos vacantes.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+En caso de Concejales mujeres propietario y suplente, el Ayuntamiento sin excepción, garantizará que la sustitución al cargo sea por una persona del mismo género, respetando de esta manera el principio de paridad de género, establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 42.
 
@@ -699,6 +713,14 @@ V.- Delegar a las agencias municipales y de policía facultades de su competenci
 
 VI.- Omitir la aplicación de recursos para brindar al Municipio los servicios básicos.
 
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+VII.- Impedir el acceso o el desempeño a los cargos políticos y de elección popular para los que hayan sido electas o designadas.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+VIII.- Ejercer violencia política contra las mujeres, o impedir el ejercicio de sus derechos políticos electorales.
+
 ### CAPÍTULO III. DEL CABILDO MUNICIPAL
 
 ###### ARTÍCULO 45.
@@ -909,7 +931,9 @@ Son causas graves para la desaparición de un Ayuntamiento:
 
 I.- Cuando sea imposible el funcionamiento, por falta absoluta de la mayoría de sus integrantes, si no existen suplentes que puedan integrarlo, cualquiera que fueren las causas que motiven dicha falta;
 
-II.- La violación reiterada por parte del Ayuntamiento, de las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
+
+II.- La violación reiterada por parte del Ayuntamiento, de los derechos humanos y sus garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local;
 
 III.- La promoción o adopción que realice un Ayuntamiento, de formas de gobierno u organización política, distintas a las establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado;
 
@@ -1491,7 +1515,9 @@ b) Tratándose de los Síndicos y Regidores, se requerirá al suplente respectiv
 
 III.- Licencias que excedan de ciento veinte días naturales:
 
-a) El Presidente Municipal, será suplido por su Suplente, y en ausencia o negativa de éste, por el Concejal que el Ayuntamiento designe. De no lograr el acuerdo respectivo, el Congreso del Estado lo designará de entre los mismos concejales; y
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+a) El Presidente Municipal, será suplido por su Suplente, y en su ausencia o negativa de éste, por el Concejal que el Ayuntamiento designe, considerando los principios constitucionales de paridad, alternancia y prelación. De no lograr el acuerdo respectivo, el Congreso del Estado lo designará de entre los mismos concejales, tutelando los principios de este inciso; y
 
 b) Tratándose de los Síndicos y Regidores, se llamará al suplente respectivo. De no aceptar el cargo, se requerirá a cualquiera de los suplentes para que asuma el cargo.
 
@@ -1501,9 +1527,9 @@ Al término del plazo de la licencia concedida, el concejal deberá integrarse d
 
 De los casos a que se refieren las fracciones II y III del presente artículo, se dará aviso a la Legislatura para la emisión del decreto que corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-Las licencias a que se refiere el párrafo anterior, así como las renuncias de miembros del Ayuntamiento, que hayan sido autorizadas y calificadas por éste, deberán ratificarse ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto en cada caso.
+Las licencias a que se refiere el párrafo anterior, así como las renuncias de miembros del Ayuntamiento, que hayan sido autorizadas y calificadas por éste, deberán ratificarse ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto en cada caso, tutelando los principios del inciso a).
 
 ###### ARTÍCULO 84.
 
@@ -1528,6 +1554,10 @@ Ante el fallecimiento del concejal Presidente o Sindico, el Ayuntamiento teniend
 El mismo procedimiento se seguirá, para el caso de los integrantes de los Consejos Municipales.
 
 De todos los casos se comunicará al Congreso del Estado para que emita la declaratoria respectiva para los efectos de acreditación.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 86 BIS.- En los casos de licencias, suspensión, revocación, renuncias abandono del cargo y fallecimiento a los que hace mención el presente capítulo, tratándose de concejales mujeres, el Ayuntamiento en todos los casos garantizará que la sustitución sea por otra mujer, respetando de esta manera el principio de paridad establecido en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ## TÍTULO QUINTO. DE LOS LINEAMIENTOS GENERALES PARA LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -3250,3 +3280,9 @@ PRIMERO.- El presente Decreto entra en vigor al día siguiente de su publicació
 SEGUNDO.- Los Ayuntamientos sin excepción contarán con noventa días a partir de la entrada en vigor del presente Decreto para aprobar y publicar su Bando de Policía y Gobierno.
 
 TERCERO.- El Congreso del Estado deberá comunicar a todos los ayuntamientos municipales del Estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 583.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
