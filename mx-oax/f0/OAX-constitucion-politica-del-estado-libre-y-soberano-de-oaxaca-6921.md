@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2018-11-10"
+last_updated: "2019-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1885,9 +1885,9 @@ LXIII. Legislar en materia de turismo en los términos de la fracción XXIX-K de
 
 LXIV. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
 
-LXV. Autorizar el Plan Estatal de Desarrollo; y
+LXV. Autorizar y en su caso solicitar que se modifique el Plan Estatal de Desarrollo;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -5205,4 +5205,10 @@ TERCERO.- El Gobernador del Estado deberá considerar en su presupuesto de egres
 
 P.O. 10 DE NOVIEMBRE DE 2018.
 
-> <small>[N. DE E. EL "DECRETO NÚM. 1615.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
+> <small>[N. DE E. EL “DECRETO NÚM. 1615.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
+
+P.O. 6 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 582.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- La presente Ley entrará en vigor al siguiente día hábil de su publicación en el Periódico Oficial del Estado de Oaxaca.
