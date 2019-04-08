@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-vivienda-del-instituto-de-84128"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2018-03-26"
+last_updated: "2019-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL ISSSTELEON DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de noviembre de 2011.
 
@@ -33,25 +33,41 @@ REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento regula el otorgamiento de préstamos para vivienda previstos en el Capitulo II del Título VIII de la Ley del ISSSTELEON. Para los efectos del presente Reglamento se entenderá por:
+El presente Reglamento regula el otorgamiento de préstamos para vivienda previstos en el Capítulo II del Título VIII de la Ley del ISSSTELEON. Para los efectos del presente reglamento se entenderá por:
 
-a) “Instituto”, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León;
+a) "Instituto", al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León;
 
-b) “Consejo Directivo”, el órgano máximo de Gobierno del Instituto;
+b) “Consejo Directivo", el órgano máximo de Gobierno del Instituto;
 
 c) “Ley”, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León;
 
-d) “Entidades Públicas”, las dependencias del sector central y paraestatal donde prestan sus servicios los servidores públicos;
+d) "Entidades Públicas", las dependencias del sector central y paraestatal donde prestan sus servicios los servidores públicos;
 
-e) “Servidor Público”, el empleado al servicio de las entidades públicas incorporado al régimen de cotización de la Ley, al corriente en sus cotizaciones por un mínimo de diez años;
+e) "Servidor Público", el empleado al servicio de las entidades públicas incorporado al régimen de cotización de la Ley, al corriente en sus cotizaciones por un mínimo de diez años;
 
-f) “Salario Base de Cotización”, el total de percepciones sobre las que cotiza el trabajador de acuerdo con el artículo 20 de la “Ley”;
+f) "Salario Base de Cotización", el total de percepciones sobre las que cotiza el trabajador de acuerdo con el artículo 20 de la "Ley";
 
-g) “Salario”, el salario mínimo mensual vigente en el Distrito Federal.
+g) “Salario”, el salario mínimo general.
 
-h) “Préstamos para vivienda”, recursos monetarios otorgados por el Instituto a servidores públicos para la adquisición, construcción o remodelación de una vivienda.
+h) "Préstamos para vivienda", recursos monetarios otorgados por el Instituto a servidores públicos para la adquisición, construcción o remodelación de una vivienda.
+
+i) "Descuento", es el porcentaje del Salario Base de Cotización con que deberá ser cubierto el capital, intereses y accesorios; sin rebasar el 30% de dicho salario".
+
+j) “Actualización", es el incremento proporcional al descuento autorizado por el Servidor Público del Salario Base de Cotización y en el caso de la tasa de interés es la variación de la inflación respecto al año anterior.
+
+k) "Aumentos Generales", es el porcentaje anual de incremento al Salario Base de Cotización aplicado de manera colectiva a los Servidores Públicos.
+
+l) "Monto Máximo de Crédito", es el monto establecido por las Tablas de Montos Máximo (sic) de Créditos.
+
+m) "Monto Total del Crédito", es el monto de crédito otorgado al Servidor Público que en el caso del personal perteneciente al Sistema Certificado de Jubilación incluye el saldo de la subcuenta de vivienda.
+
+n) “Monto del Crédito a Disponer”, es el monto que generará intereses de acuerdo a lo establecido en el artículo 16 del reglamento de préstamos para vivienda, y será producto del análisis de la capacidad de pago del Servidor Público.
+
+o) "Régimen de Pensiones Transitorio", régimen de seguridad social contemplado en el artículo sexto transitorio de la Ley del Instituto, contenida en el Decreto número 201, de fecha trece de octubre de mil novecientos noventa y tres, que comprende a aquellos servidores públicos que se encontraban sujetos al régimen de cotización previsto en la abrogada Ley del Instituto, contenida en el Decreto número 62, de fecha veintiuno de enero de mil novecientos ochenta y tres, y que continuaron cotizando durante la vigencia de la primera ley en cita.
 
 OBJETO DE LOS PRÉSTAMOS PARA VIVIENDA
 
@@ -93,15 +109,35 @@ IV. Los años de cotización del servidor público, dándole preferencia en el o
 
 MONTO DE LOS PRÉSTAMOS PARA VIVIENDA
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 6.
 
-El Consejo Directivo determinará los montos máximos de los préstamos que otorgue el Instituto con base en la Tabla de Montos máximos de préstamo y de acuerdo al Sistema de Asignación de puntos para obtener un préstamo del Instituto, que forma parte integrante del presente reglamento, expresados en veces el salario mínimo mensual vigente en el Distrito Federal.
+El Consejo Directivo determinará los montos máximos de los préstamos que otorgue el Instituto con base en la Tabla de Montos Máximos de préstamo y de acuerdo al Sistema de Asignación de puntos para obtener un préstamo del Instituto, que forma parte integrante del presente reglamento, expresados en veces el salario mínimo general.
 
 Asimismo, será tomado en cuenta el precio máximo de las viviendas cuya adquisición pueda ser objeto de los préstamos citados, fijando un mínimo a los préstamos otorgados, los cuales deberán ser suficientes para la adquisición de una vivienda.
 
 El Servidor Público al momento del ejercicio del préstamo deberá tener relación activa sujeta al régimen de cotización de este Instituto.
 
-El Instituto deberá elaborar un análisis de la capacidad de pago del servidor público solicitante para acreditar su capacidad de pago en función de la amortización del monto del préstamo de vivienda que le corresponde.
+El Instituto deberá elaborar un análisis de la capacidad de pago del servidor público solicitante para acreditar su capacidad de pago en función de la amortización del monto del préstamo de vivienda que le corresponde. Dicho análisis deberá de considerar la edad, antigüedad y Salario Base de Cotización del Servidor Público, a fin de determinar el plazo, monto del crédito y descuento quincenal.
+
+I. Para los Servidores Públicos pertenecientes al Sistema Certificado de Jubilación, el plazo expresado en años a otorgar será el que resulte menor de:
+
+a) 65 menos la edad del solicitante, o
+
+b) Los años de servicio restantes que resulten de la aplicación de lo establecido en el artículo 67 de la Ley del ISSSTELEON, en cuanto al puntaje requerido para su retiro o jubilación.
+
+II. El monto del crédito que le resulte al Servidor Público, conforme a la Tabla de Montos (sic) Máximo de Crédito del Reglamento de Préstamos para Vivienda para los Servidores Públicos adscritos al Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, que contiene los montos máximos de crédito a que tiene derecho el Servidor Público, se ajustará:
+
+a) De acuerdo al plazo establecido en el inciso I.
+
+b) De acuerdo al descuento quincenal, el cual no podrá ser superior al el (sic) 30% del Salario Base de Cotización.
+
+c) Para el caso de los Servidores Públicos pertenecientes al régimen del Sistema Certificado de Jubilación, no se considerará lo acumulado en la Subcuenta de Vivienda en el análisis de capacidad de pago.
+
+III. El descuento quincenal, de acuerdo al plazo y monto otorgados, será determinado por el servidor público a partir del porcentaje de salario base de cotización que cubra capital, intereses y accesorios y sin rebasar el 30% del salario base de cotización.
+
+IV. El modelo financiero que se utilice para calcular la capacidad de pago se ajustará a las condiciones establecidos (sic) en el "Anexo A" del presente reglamento.
 
 ###### Artículo 7.
 
@@ -117,11 +153,19 @@ El Instituto podrá promover el financiamiento de conjuntos habitacionales para 
 
 Los servidores públicos tienen derecho a ejercer el préstamo y a aplicar los recursos otorgados sólo en el Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 9.
 
 El Instituto notificará a las Entidades Públicas, de manera fehaciente, sobre los servidores públicos que hayan calificado y se les adjudique un préstamo, así como el importe del descuento que deberá realizar en forma quincenal.
 
-El Instituto podrá ajustar el monto del descuento en el porcentaje que estipule el Consejo Directivo, en forma anual, tomando en cuenta los aumentos concedidos al salario, sin rebasar el 30% del salario base de cotización.
+El Instituto actualizará el monto del descuento en base a los incrementos reflejados en el Salario Base de Cotización, en un 50% o en un 100% conforme a lo establecido en el contrato firmado por el Servidor Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2019)</small>
+
+###### Artículo 9 Bis.
+
+Los incrementos reflejados en el Salarlo Base de Cotización producto de cambios escalafonarios, categorías, tabulador o dependencia, podrán, a solicitud del Servidor Público, ser tomado en cuenta en el descuento quincenal.
 
 ### CAPÍTULO II. DE LOS PRÉSTAMOS PARA VIVIENDA
 
@@ -149,11 +193,15 @@ De entre las solicitudes recibidas por el Instituto sólo serán seleccionadas a
 
 DESCUENTOS
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 12.
 
 El monto del descuento se calculará de manera que se asegure la amortización completa del préstamo en el plazo previsto, aplicando la tasa de interés a que se refiere el artículo 16 del presente Reglamento.
 
 Los descuentos que se realicen deberán ser aceptados por escrito por los propios servidores públicos, no debiendo exceder del 30% del total de su salario base de cotización.
+
+Para los casos en que el descuento no cubra la totalidad de los intereses, éstos serán acumulados a fin de ser cubiertos, sin que sean recapitalizados.
 
 Los descuentos que se señalan deberán realizarse por las dependencias y entidades públicas y entregarlos al Instituto junto con las demás aportaciones de Ley sobre el salario base de cotización de los servidores públicos, en los términos del artículo 27 de la Ley del ISSSTELEON, en la inteligencia de que la omisión de su entrega será responsabilidad de cada dependencia.
 
@@ -169,7 +217,11 @@ TERMINACIÓN DE LA RELACIÓN LABORAL
 
 PRÓRROGAS
 
-Artículo 13 bis.- En caso de que un servidor público deje de percibir ingresos salariales, el Instituto le otorgará prórrogas en los importes correspondientes a los pagos de la amortización que tenga que hacer por concepto de capital e intereses ordinarios. Durante dichas prórrogas los intereses ordinarios que se generen se capitalizarán al saldo insoluto del préstamo.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+###### Artículo 13 Bis.
+
+En caso de que un servidor público deje de percibir ingresos salariales, el Instituto le otorgará prórrogas en los importes correspondientes a los pagos de la amortización que tenga que hacer por concepto de capital e intereses ordinarios. Durante dichas prórrogas los intereses ordinarios que se generen se acumularán para su posterior pago sin que sean recapitalizados.
 
 Para tal efecto, el servidor público acreditado deberá presentar su solicitud por escrito al Instituto, dentro del mes siguiente a la fecha que se deje de percibir ingresos salariales.
 
@@ -185,25 +237,19 @@ a) Cuando pierda su relación laboral y no hubiere tramitado oportunamente su pr
 
 b) Al vencimiento de la prórroga y que no esté sujeto a una relación laboral;
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
 
 ###### Artículo 14.
 
-Cuando un servidor público sea dado de baja por cese, renuncia, terminación de la obra o del tiempo para los cuales hubiera sido contratado y por tanto deje de cotizar al Instituto, deberá de continuar al corriente en los pagos de amortización que tenga que hacer por concepto de capital e intereses, independientemente de que exista litigio en trámite sobre la subsistencia de la relación de trabajo. La existencia de los supuestos a que se refiere este artículo y el anterior deberá de comprobarse ante el Instituto.
+Los intereses se calcularán a la tasa contratada más 3.0 porcentuales.
 
-Los intereses normales se calcularan a la tasa fija anual contratada más 3.0 puntos porcentuales.
-
-Este interés comenzará a aplicarse a partir del séptimo mes en que el servidor público sea dado de baja.
+Este interés comenzara a aplicarse a partir del séptimo mes en que el servidor público sea dado de baja.
 
 El incumplimiento en el pago causará un interés moratorio por abono vencido, que se calculara a una tasa anual que será 50% mayor a la tasa acordada. Si el incumplimiento en el pago se prolonga por un lapso mayor a tres meses consecutivos, el Instituto podrá dar por rescindido el préstamo otorgado y convenir a la reestructura del mismo.
 
-El Instituto podrá celebrar convenio de pago con los acreditados en forma individual, cuando estos deseen regularizar su situación crediticia. Igualmente los servidores públicos que se encuentran en el caso del primer párrafo de este artículo podrá solicitar al Instituto la sustitución de deudor de entre las solicitudes de préstamo que se tengan en trámite de adjudicar, enajene su inmueble objeto del préstamo y finiquite el mismo, y en su caso, le reembolse el remanente. Durante el tiempo que dure la adjudicación, el Servidor Público continuara obligado a pagar las amortizaciones.
+El Instituto podrá celebrar convenio de pago con los acreditados en forma individual, cuando estos deseen regularizar su situación crediticia. Igualmente los servidores públicos que se encuentran en el caso del primer párrafo de este artículo podrá (sic) solicitar al Instituto la sustitución de deudor de entre la solicitudes de préstamo que se tengan en trámite de adjudicar, enajene su inmueble objeto del préstamo y finiquite el mismo, y en su caso, le reembolse el remanente. Durante el tiempo (sic) dure la adjudicación, el Servidor Público continuara obligado a pagar las amortizaciones.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
-
-Las gestiones de cobro extrajudicial y judicial deberán ser coordinadas por la Dirección de Prestaciones Sociales y Económicas o el departamento que ésta designe para ese efecto, en todo caso deberá documentarse debidamente dicha gestión a fin de rendir los informes correspondientes.
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+Las gestiones de cobros extrajudiciales y judiciales deberán ser coordinadas por la Dirección de Prestaciones Sociales y Económicas o del departamento que este se designe para ese efecto, en todo caso deberá documentarse debidamente dicha gestión a fin de rendir los informes correspondientes.
 
 En caso de ser necesario, se podrá contratar servicios de cobranza judicial y/o extrajudicial para la actividad de recuperación.
 
@@ -213,13 +259,13 @@ Los contratos y convenios a que se refieren los artículos anteriores, así como
 
 AJUSTE DEL SALDO Y TASA DE INTERÉS
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
 
 ###### Artículo 16.
 
-Los préstamos para vivienda que otorga el Instituto son a un plazo de amortización máximo de 30 años y devengarán intereses sobre una tasa fija durante toda la vida del préstamo, la cual se calculará tomando en cuenta la base de la inflación anual registrada para el año inmediato anterior, más 3-tres puntos porcentuales misma que en ningún caso deberá ser inferior al 6% anual. De igual manera, el descuento quincenal se ajustará conforme a los incrementos salariares del servidor público anualmente.
+Los préstamos para vivienda que otorga el Instituto son a un plazo de amortización máximo de treinta años y devengarán intereses sobre una tasa de interés actualizable durante toda la vida del préstamo, la cual se calculará tomando en cuenta la base de la inflación anual registrada para el año inmediato anterior, más 1-un punto porcentual.
 
-Si transcurrido un plazo de 30 años de pagos, en los montos correspondientes, que está obligado a efectuar el acreditado para la amortización del préstamo otorgado, existiere todavía algún saldo insoluto a cargo del servidor público, el Instituto lo liberará de dicho saldo pendiente, cancelando los gravámenes que se tengan constituidos a esa fecha sobre la vivienda objeto del préstamo, excepto en los casos que existan pagos omisos del servidor público o en prórrogas concedidas.
+Si transcurrido un plazo de 30 años de pagos, en los montos correspondientes, que está obligado a efectuar el acreditado para la amortización del préstamo otorgado, existiere todavía algún saldo insoluto a cargo del servidor público, el Instituto lo liberará de dicho saldo pendiente, cancelando los gravámenes que se tengan constituidos a esa fecha sobre la vivienda objeto del préstamo, excepto en los casos que existan pagos omisos del servidor público o en prorrogas concedidas.
 
 PAGOS ANTICIPADOS
 
@@ -239,7 +285,7 @@ Los préstamos que otorgue el Instituto se darán por vencidos anticipadamente c
 
 ###### Artículo 19.
 
-La existencia de cualquiera de los supuestos señalados en el artículo 13 del presente Reglamento deberán comprobarse según corresponda, mediante el acta de defunción o el dictamen médico emitido por el Comité de Evaluación Médica del Instituto, de conformidad con el artículo 88 de la Ley.
+La existencia de cualquiera de los supuestos señalados en el artículo 13 del presente Reglamento deberán (sic) comprobarse según corresponda, mediante el acta de defunción o el dictamen médico emitido por el Comité de Evaluación Médica del Instituto, de conformidad con el artículo 88 de la Ley.
 
 Una vez decretados los supuestos señalados en el artículo 13 del presente Reglamento, el Instituto enviará el oficio correspondiente a los registradores para que cumplan con las cancelaciones y reinscribirse. En el caso de fallecimiento de los servidores públicos se aplicará lo dispuesto en el Código Civil del Estado, en las reglas previstas para la sucesión.
 
@@ -564,3 +610,9 @@ P.O. 26 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEÓN)".]
 
 ÚNICO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 8 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA REFORMA AL “REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON)”.]
+
+UNICO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León entrara en vigor a partir del día siguiente de su publicación.
