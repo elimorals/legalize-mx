@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-82329
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-08"
-last_updated: "2011-07-08"
+last_updated: "2019-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEZIUTLAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEZIUTLAN DEL ESTADO DE PUEBLA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE TEZIUTLÁN, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE TEZIUTLÁN DEL ESTADO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 8 de julio de 2011.
 
@@ -435,4 +437,18 @@ SEGUNDO.- Se abroga el Reglamento Interior del Instituto Tecnológico Superior d
 
 TERCERO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
-Dado en las instalaciones del Instituto Tecnológico Superior de Teziutlán, a los 30 días del mes de noviembre de 2010.- Presidente Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- LICENCIADO JESÚS GALINDO LÓPEZ.- Rúbrica.- Vocal Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- INGENIERO JESÚS ROMERO VALENCIA.- Rúbrica.- Vocal Suplente, Representante del Gobierno Federal en el Órgano de Gobierno.- INGENIERO FERNANDO ANGEL VELAZQUEZ VALDES. Rúbrica.- Vocal Suplente, Representante del Gobierno Federal en el Órgano de Gobierno.- INGENIERO FAUSTO LEON JACOBO.- Rúbrica.- Vocal Suplente, Representante del Gobierno Municipal en el Órgano de Gobierno. MAESTRA AlDA GUZMÁN PÉREZ.- Rúbrica.- Vocal Propietario, Representante del Sector Productivo en el Órgano de Gobierno.- MÉDICO VETERINARIO MARIO RAMÍREZ ROLDÁN.- Rúbrica.- Representante del Sector Industrial en el Órgano de Gobierno.- LICENCIADA MARÍA FELlX MUÑOZ VALENCIA.- Rúbrica.- Vocal Propietario Representante del Sector Social en el Órgano de Gobierno.- CIUDADANA MERCEDES CATALINA GONZALES MOLINA.- Rúbrica.- Comisario.- CONTADOR PÚBLICO ENRIQUE BUSTOS LÓPEZ.- Rúbrica.- Director General del Instituto Tecnológico Superior de Teziutlán.- MAESTRO GUSTAVO URBANO JUÁREZ.- Rúbrica.
+Dado en las instalaciones del Instituto Tecnológico Superior de Teziutlán, a los 30 días del mes de noviembre de 2010.- Presidente Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- LICENCIADO JESÚS GALINDO LÓPEZ.- Rúbrica.- Vocal Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- INGENIERO JESÚS ROMERO VALENCIA.- Rúbrica.- Vocal Suplente, Representante del Gobierno Federal en el Órgano de Gobierno.- INGENIERO FERNANDO ANGEL VELAZQUEZ VALDES. Rúbrica.- Vocal Suplente, Representante del Gobierno Federal en el Órgano de Gobierno.- INGENIERO FAUSTO LEON JACOBO.- Rúbrica.- Vocal Suplente, Representante del Gobierno Municipal en el Órgano de Gobierno. MAESTRA AIDA GUZMÁN PÉREZ.- Rúbrica.- Vocal Propietario, Representante del Sector Productivo en el Órgano de Gobierno.- MÉDICO VETERINARIO MARIO RAMÍREZ ROLDÁN.- Rúbrica.- Representante del Sector Industrial en el Órgano de Gobierno.- LICENCIADA MARÍA FELIX MUÑOZ VALENCIA.- Rúbrica.- Vocal Propietario Representante del Sector Social en el Órgano de Gobierno.- CIUDADANA MERCEDES CATALINA GONZALES MOLINA.- Rúbrica.- Comisario.- CONTADOR PÚBLICO ENRIQUE BUSTOS LÓPEZ.- Rúbrica.- Director General del Instituto Tecnológico Superior de Teziutlán.- MAESTRO GUSTAVO URBANO JUÁREZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE TEZIUTLÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo de la Honorable Junta Directiva del Instituto Tecnológico Superior de Teziutlán, que expide el Reglamento Interior del Instituto Tecnológico Superior de Teziutlán, publicado en el Periódico Oficial del Estado el ocho de julio de dos mil once.
+
+TERCERO. Derivado de la entrada en vigor del presente Decreto, los asuntos que hubiesen iniciado su trámite con anterioridad a su entrada en vigor, serán continuados por la unidad administrativa a la que sean conferidas las facultades que correspondan conforme a este Reglamento, debiendo realizar las modificaciones conducentes en los sellos y documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+CUARTO. Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización del presente Decreto, tendrán plena validez siempre y cuando no contravengan al mismo.
