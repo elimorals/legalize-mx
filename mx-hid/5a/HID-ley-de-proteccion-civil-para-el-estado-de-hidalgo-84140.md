@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2018-06-18"
+last_updated: "2019-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -39,19 +39,19 @@ QUE CONTIENE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos,
 
-DECRETA:
+D E C R E T A:
 
-ANTECEDENTE
+A N T E C E D E N T E
 
 ÚNICO.- En sesión ordinaria de fecha 20 de octubre del presente año, nos fue turnada la Iniciativa de referencia, la cual fue registrada en el Libro de Gobierno de la Comisión actuante bajo el número 60/2011, y
 
-CONSIDERANDO
+C O N S I D E R A N D O
 
 [...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-DECRETO
+D E C R E T O
 
 QUE CONTIENE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO.
 
@@ -655,6 +655,12 @@ Los H. Cuerpos de Bomberos, en caso de contingencia y/o desastre, coadyuvaran co
 
 Los H. Cuerpos de Bomberos, podrán participar en los programas de prevención, simulacros, atención y mitigación de las emergencias, riesgos, contingencias y desastres de toda índole y magnitud.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+###### Artículo 41 Bis.
+
+El Ejecutivo del Estado y Municipios, proporcionará el equipo técnico y personal necesario al H. cuerpo de bomberos, de acuerdo a la disponibilidad presupuestaria, para el cumplimiento de lo previsto en el artículo 40 y 41 de esta Ley.
+
 ## TÍTULO NOVENO. De los Grupos Voluntarios
 
 ###### Artículo 42.
@@ -952,3 +958,13 @@ P.O. 18 DE JUNIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo del Estado, a través del Consejo Estatal de Protección Civil, tendrá hasta 120 días a partir de la entrada en vigor, para realizar las adecuaciones reglamentarias correspondientes.
+
+P.O. 8 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 177 QUE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo del Estado y Municipios, contemplará en el presupuesto de Egresos del ejercicio fiscal del año que corresponda, los recursos para cumplir con lo señalado en el presente Decreto.
+
+TERCERO. El Ejecutivo del Estado y Municipios, fomentará las acciones necesarias para que en el Fondo de Protección Civil precisado en el artículo 73 de la Ley de Protección Civil, se cumpla con lo señalado en el presente Decreto.
