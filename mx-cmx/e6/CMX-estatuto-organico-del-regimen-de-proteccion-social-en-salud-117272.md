@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-regimen-de-proteccion-social-en-salud-117
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-11-17"
-last_updated: "2016-11-17"
+last_updated: "2019-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117272&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-10-14"
 
 ESTATUTO ORGÁNICO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE ABRIL DE 2019.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el jueves 17 de noviembre de 2016.
 
@@ -92,15 +92,25 @@ Un Órgano ejecutivo que será el Director General; y
 
 Unidades Administrativas y Sustantivas
 
-Dirección de Financiamiento;
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
 
-Dirección de Afiliación;
+Coordinación de Financiamiento;
 
-Dirección de Gestión de Servicios de Salud;
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
 
-Dirección Jurídica;
+Coordinación de Afiliación;
 
-Subdirección de Administración;
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+Coordinación de Gestión de Servicios de Salud;
+
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+Subdirección Jurídica y Normativa;
+
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+Subdirección de Administración y Finanzas;
 
 Órganos de Vigilancia y Control
 
@@ -110,27 +120,35 @@ Contraloría Interna.
 
 ### CAPÍTULO II. Del Consejo Directivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 6.
 
-El Consejo es el órgano de Gobierno del Organismo, tendrá a su cargo establecer políticas generales y definir acciones para la programación, supervisión y control de sus actividades, el cual estará integrado de la siguiente manera:
+El Consejo es el Órgano de Gobierno del Organismo, tendrá a su cargo establecer políticas generales y definir acciones para la programación, supervisión y control de sus actividades, el cual estará integrado de la siguiente manera:
 
 I.- La persona titular de la Secretaría, quien fungirá como Presidente del Consejo Directivo;
 
 II.- La persona titular de la Secretaría de Gobierno, quien fungirá como vocal;
 
-III.- La persona titular de la Secretaría de Finanzas, quien fungirá como vocal;
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
 
-IV.- La persona titular de la Oficialía Mayor, quien fungirá como vocal y;
+III.- La persona titular de la Secretaría de Administración y Finanzas, quien fungirá como vocal;
 
-V.- La persona titular de la Secretaría de Desarrollo Social, quien fungirá como vocal.
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+IV.- La persona titular de la Secretaria de las Mujeres de la Ciudad de México, quien fungirá como vocal;
+
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+V.- La persona titular de la Secretaría de Inclusión y Bienestar Social, quien fungirá como vocal.
 
 Se invitará de forma permanente, a una persona representante de la Comisión, quien únicamente tendrá derecho a voz. Los demás integrantes del Consejo tendrán derecho a voz y a voto.
 
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 7.
 
-El Consejo tendrá las facultades establecidas en el artículo Décimo Primero del Decreto, y el Artículo 70, de la Ley Orgánica de la Administración Pública del Distrito Federal.
-
-Los miembros del Consejo serán suplidos por la persona que al efecto designe cada uno de ellos, debiendo registrarse a los nombres del titular como del suplente.
+El Consejo tendrá las facultades establecidas en el artículo Décimo Primero del Decreto, y el Artículo 73 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 ###### Artículo 8.
 
@@ -190,21 +208,27 @@ El Consejo podrá contar con el apoyo de comités especializados que estarán in
 
 Tendrá a su cargo la representación, planeación, ejecución y evaluación del Organismo, conforme al presente Estatuto y a las demás disposiciones aplicables, a fin de que todas las actividades se realicen con base en los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, profesionalidad y eficacia.
 
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN LA G.O. DE 8 DE ABRIL DE 2019, SE ELIMINA LA FRACCIÓN I Y SE RECORREN LAS SUBSECUENTES FRACCIONES.]</small>
+
 ###### Artículo 14.
 
 Para ser nombrado Director General se requiere:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+I.- Tener una trayectoria reconocida en el campo de la administración pública o la salud pública;
 
-II.- Tener una trayectoria reconocida en el campo de la administración pública o la salud pública;
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
 
-III.- Tener cuando menos 3 años de experiencia profesional en las áreas financieras, administrativas o de salud pública, y
+II.- Tener cuando menos 3 años de experiencia profesional en las áreas financieras, administrativas o de salud pública; y
 
-IV.- No haber sido condenado por delito patrimonial o inhabilitado para desempeñar un empleo, cargo o c omisión (sic) en el servicio público.
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2019)</small>
+
+III.- No haber sido condenado por delito patrimonial o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
 
 ###### Artículo 15.
 
-De conformidad con el Decreto y los artículos 54 y 71 de la Ley Orgánica de la Administración Pública del Distrito Federal, el Director General tendrá además las siguientes facultades y obligaciones:
+De conformidad con el Decreto y el artículo 74 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, el Director General tendrá además las siguientes facultades y obligaciones:
 
 I.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
@@ -292,9 +316,11 @@ V.- Proporcionar la información y cooperación técnica que les sea requerida p
 
 VI.- Atender asuntos relacionados con el personal adscrito al área de su responsabilidad, de conformidad a las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 17.
 
-La Dirección Jurídica tendrá entre sus atribuciones la atención de los siguientes asuntos:
+La Subdirección Jurídica y Normativa tendrá entre sus atribuciones la atención de los siguientes asuntos:
 
 I.- Otorgar asesoría jurídica a la Dirección General y a los titulares de las áreas que integran el Organismo, actuando como área de consulta especializada;
 
@@ -350,9 +376,11 @@ XXVI.- Atender las solicitudes de información pública de conformidad a la norm
 
 XXVII.- Las demás que le encomiende el Director General y le correspondan de acuerdo con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 18.
 
-La Dirección de Gestión de Servicios de Salud tendrá entre sus atribuciones:
+La Coordinación de Gestión de Servicios de Salud tendrá entre sus atribuciones:
 
 I.- Implementar y supervisar las estrategias y los procedimientos necesarios para garantizar que la atención recibida por el usuario del Sistema, esté vinculada a los Catálogos de Servicios emitidos por la Comisión;
 
@@ -386,9 +414,11 @@ XV.- Participar en la emisión de opiniones y propuestas sobre las políticas, l
 
 XVI.- Las demás que le encomiende el Director General y le correspondan de acuerdo con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 19.
 
-La Dirección de Afiliación tendrá entre sus atribuciones:
+La Coordinación de Afiliación tendrá entre sus atribuciones:
 
 I.- Identificar, supervisar e i ncorporar (sic) al Sistema a l os (sic) beneficiarios al mismo, a t ravés (sic) de actividades de promoción y difusión;
 
@@ -422,9 +452,11 @@ XV.- Participar en la emisión de opiniones y propuestas sobre las políticas, l
 
 XVI.- Las demás que le encomiende el Director General y le correspondan de acuerdo con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 20.
 
-La Dirección de Financiamiento tendrá entre sus atribuciones:
+La Coordinación de Financiamiento tendrá entre sus atribuciones:
 
 I.- Programar la asignación presupuestal respecto a los recursos recibidos del financiamiento, de acuerdo con las metas de operación de Servicios de Salud Pública del Distrito Federal y de la Secretaría;
 
@@ -538,17 +570,27 @@ XXXII.- Las demás que le encomiende el Director General y le correspondan de ac
 
 ### Capítulo V. De los Órganos de Vigilancia y Control
 
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 22.
 
-El Órgano de Vigilancia, se integra por un Comisario Público Propietario y un Suplente, designados por la Contraloría General de la Ciudad de México, su función es tomar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz.
+El Órgano de Vigilancia, se integra por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Contraloría General de la Ciudad de México, su función es tomar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz.
+
+Recibir y gestionar las solicitudes de incorporación de auditorías extraordinarias y la modificación o cancelación de auditorías internas, que presenten los órganos internos de control en Dependencias, Órganos Desconcentrados y Entidades y comunicarles las determinaciones conducentes.
+
+Realizar la integración de propuestas de intervenciones al programa anual por parte de los órganos internos de control en Dependencias, Órganos Desconcentrados y Entidades, así como de solicitudes de modificaciones, cancelaciones o adiciones de intervenciones;
+
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2019)</small>
 
 ###### Artículo 23.
 
-La Contraloría Interna es el Órgano de Control, que tiene por objeto apoyar la función directa y promover el mejoramiento de la gestión del Organismo.
+La Contraloría Interna es el Órgano Interno de Control, que tiene por objeto apoyar la función directa y promover el mejoramiento de la gestión del Organismo.
+
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2019)</small>
 
 ###### Artículo 24.
 
-La Contraloría Interna en el ámbito de su competencia, tendrá las facultades y atribuciones que expresamente le confiere el artículo 113 del Reglamento Interior de la Administración Pública del Distrito Federal.
+La Contraloría Interna en el ámbito de su competencia, tendrá las facultades y atribuciones que expresamente le confiere el artículo 136 del Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 ### Capítulo VI. De la Suplencia de los Servidores Públicos
 
@@ -562,9 +604,17 @@ Corresponde a las y los Directores, ante la ausencia de la Directora o Director 
 
 La persona titular de la Dirección General podrán nombrar una encargada o encargado de despacho para el trámite de los asuntos de su competencia en el caso de ausencia justificada.
 
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2019)</small>
+
 ###### Artículo 27.
 
-La ausencia de las o los Directores será suplida por las y los servidores públicos de la jerarquía inmediata inferior, dentro del área de cada responsabilidad.
+Corresponde a las y los Coordinadores, ante la ausencia permanente de la Directora o Director General del Organismo, la atención y resolución de los asuntos conforme a la siguiente jerarquía:
+
+a) Coordinación de Financiamiento;
+
+b) Coordinación de Afiliación;
+
+c) Coordinación de Gestión de Servicios de Salud.
 
 ### Capítulo VII. De Las Modificaciones al Estatuto
 
@@ -593,3 +643,13 @@ DIRECTOR GENERAL DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERA
 RUBÉN FERNANDO RAMÍREZ ORTUÑO
 
 (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A SU ESTATUTO ORGÁNICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso por el cual se da a conocer las Reformas y Adiciones al Estatuto Orgánico del Régimen de Protección Social en Salud del Distrito Federal, entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial de la Ciudad de México.
