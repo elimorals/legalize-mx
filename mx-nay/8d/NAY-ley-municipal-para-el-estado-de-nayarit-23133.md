@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2018-04-30"
+last_updated: "2019-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -565,21 +565,39 @@ I.- Ordinarias, las veces que indique su reglamento interior, mismas que no podr
 
 II.- Extraordinarias, cuando la importancia o urgencia del asunto que se trate, lo requiera; y
 
-III.- Secretas, en las materias siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ABRIL DE 2019)</small>
+
+III.- Privadas, en las materias siguientes:
 
 a) Los asuntos graves que alteren el orden y la tranquilidad pública del municipio;
 
 b) Las comunicaciones que con nota de reservado dirijan al Ayuntamiento los poderes Legislativo, Ejecutivo y Judicial;
 
-c) Las solicitudes de licencia y de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
 
-d) La aprobación del informe del estado que guarda la administración municipal;
+c) La remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento;
 
-e) Las demás que el Ayuntamiento determine;
+d) (DEROGADO, P.O. 8 DE ABRIL DE 2019)
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+e) Las demás que el Ayuntamiento determine por mayoría absoluta.
 
 IV.- Solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el informe de la administración municipal y aquellas que acuerde el Ayuntamiento. En estas sesiones no habrá lugar a interpelaciones; y
 
 V.- Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto para realizar audiencias públicas, foros de consulta, cursos de capacitación municipal, reuniones de instrucción cívica o actos políticos cuya importancia coadyuve al desarrollo social, económico y cultural y fomente la participación de los habitantes del municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+Todas las sesiones serán públicas y deberán ser transmitidas en vivo a través de la página oficial de internet y por redes sociales con las que cuente el Ayuntamiento, con excepción de aquellas de carácter privado.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+En caso de que no sea posible la transmisión en vivo de la sesión por internet, deberá grabarse y estar disponible en la página de internet del Ayuntamiento de manera posterior.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+Para cada sesión se deberá contar con una versión videograbada, la cual formará parte del acta correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
@@ -1183,7 +1201,9 @@ III.- La competencia de las comisiones se derivará de su propia denominación, 
 
 IV.- Funcionarán de manera conjunta cuando proceda y sesionarán de manera colegiada; sus propuestas las adoptarán por mayoría de votos, y quien se oponga a los criterios de su comisión lo hará valer ante el Cabildo; podrán sesionar válidamente con la mitad más uno de sus miembros, y en caso de que se integre por tres miembros sus determinaciones serán válidas con el acuerdo de dos de sus miembros; y
 
-V.- Podrán sesionar en forma secreta o pública, así como celebrar reuniones de trabajo para sustentar sus criterios de dictamen.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2019)</small>
+
+V.- Deberán sesionar en forma pública y se deberá llevar registro audiovisual de las mismas, salvo en las materias previstas en la fracción III del artículo 50 de la presente Ley, y podrán celebrar reuniones de trabajo para sustentar sus criterios de dictamen.
 
 ###### ARTICULO 82.
 
@@ -4211,10 +4231,22 @@ Sexto. Las referencias establecidas en otras leyes y disposiciones reglamentaria
 
 P.O. 30 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 79 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 79 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Los ayuntamientos contarán con 60 días naturales para integrar la Comisión Ordinaria de Transparencia Gubernamental y Protección de Datos Personales, así como crear su reglamento.
 
 TERCERO.- Comuníquese a los ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 8 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE SESIONES DE CABILDO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de sesenta días naturales, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+CUARTO.- Comuníquese a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
