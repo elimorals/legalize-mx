@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2017-11-16"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -1017,11 +1017,17 @@ Los derechos por inspección de vehículos establecidos en las leyes de ingresos
 
 VIII. El pago de los derechos que establezca la Ley de Ingresos del Estado, se hará en la oficina de recaudación fiscal más cercana a la dependencia que origine el derecho; con excepción de los que se refieran a certificaciones de escritura, documentos privados de carácter contractual o no contractual; copias certificadas o constancias de educación y otros servicios, referidos en dicha Ley de Ingresos del Estado, cuyo pago deberá efectuarse en la oficina de recaudación fiscal, adjunta al Registro Público de la Propiedad de la ciudad de Guadalajara.
 
-En el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal, y
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+En el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal;
 
-IX. El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia e Información Pública del Estado de Jalisco, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+IX. El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia e Información Pública del Estado de Jalisco, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+X. El pago de los derechos que se generen por la verificación vehicular.
 
 ###### Artículo 71.
 
@@ -1288,3 +1294,23 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26591/LXI/17 QUE DEROGA LOS ARTÍCULOS 1° FRACCIÓN I, NUMERAL 2), INCISO C), 13, 14, 15, 16, 17, 18, 19, 20, 21 Y 22 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el 1° de enero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27260/LXII/19 QUE ESTABLECE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 72 Y SE ADICIONA UN ARTÍCULO 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 5° FRACCIÓN XII, 19 FRACCIÓN X, 44 PRIMER PÁRRAFO Y SE AGREGA UN PÁRRAFO CUARTO RECORRIÉNDOSE TODOS LOS DEMÁS, 51, 169 PRIMER PÁRRAFO, FRACCIÓN V, SE CREA UNA FRACCIÓN VI RECORRIÉNDOSE TODAS LAS DEMÁS Y SE AGREGA UN ÚLTIMO PÁRRAFO, 174 PRIMER PÁRRAFO Y SE ELIMINA EL SÉPTIMO PÁRRAFO RECORRIÉNDOSE TODOS LOS DEMÁS, SE CREA EL ARTÍCULO 174 BIS, 185 FRACCIONES II, III, IV, SE ADICIONA UNA FRACCIÓN V Y SE AGREGAN TRES ÚLTIMOS PÁRRAFOS, 188 ADICIONÁNDOLE UN PÁRRAFO TERCERO Y RECORRIÉNDOSE TODOS LOS DEMÁS Y 190 FRACCIÓN IV, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES" Y SE EXPIDE SU LEY ORGÁNICA".]
+
+PRIMERO. Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan los ARTÍCULOS PRIMERO y SEGUNDO, así como los artículos SEGUNDO TRANSITORIO, TERCERO TRANSITORIO Y CUARTO TRANSITORIO del decreto 25921/LXI/16, aprobado por este Congreso el seis de noviembre de dos mil dieciséis publicado en el periódico oficial "El Estado de Jalisco" el veinticinco de noviembre de dos mil dieciséis.
+
+TERCERO. El Ejecutivo del Estado de Jalisco, contará con el plazo de noventa días para emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico en materia de verificación vehicular, así como el Programa de Verificación Vehicular.
+
+CUARTO. La Junta de Gobierno del Organismo Público Descentralizado "Agencia Integral de Regulación de Emisiones", deberá aprobar el Reglamento Interno de la Agencia, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento; el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+QUINTO. Los establecimientos acreditados para ofrecer el servicio de verificación vehicular que a la fecha de entrada en vigor del presente decreto se encuentren vigentes deberán transitar al programa de verificación vehicular cumpliendo con las disposiciones que se establezcan conforme al presente decreto. La vigencia de las acreditaciones actuales, no podrá ser excedida ni prorrogada, si antes no transitan al programa de verificación vehicular conforme a lo dispuesto en este Decreto.
+
+SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169 fracción V y 185 fracción II, III y IV de la Ley de Movilidad y Transporte del Estado de Jalisco, serán aplicables a partir del primero de enero de 2020.
+
+SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
+
+OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
