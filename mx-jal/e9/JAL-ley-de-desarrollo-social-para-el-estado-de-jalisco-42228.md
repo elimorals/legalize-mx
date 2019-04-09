@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2017-02-16"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
-A l margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
 Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
@@ -901,9 +901,9 @@ II. Realizar consultas públicas periódicas para verificar la calidad de los se
 
 III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas;
+IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas; la conformación de las contralorías sociales estará sujeta a lo establecido en la ley en materia de participación ciudadana;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
@@ -1122,3 +1122,25 @@ P.O. 16 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26265/LXI/17 QUE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial ''El Estado de Jalisco".
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial "EI Estado de Jalisco".
+
+SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
+
+Para garantizar la sucesión escalonada de las y los Consejeros designados mediante convocatoria pública, por única ocasión se elegirá a los Consejeros previstos en las fracciones V, VI, VII y VIII por un periodo de un año, los previstos en las fracciones IX, X y XI por un periodo de dos años y los previstos en las fracciones XII, XIII, XIV y XV por un periodo de tres años.
+
+TERCERO. Los trámites y procesos de participación ciudadana iniciados antes de la entrada en vigor del presente decreto, se concluirán con las reglas vigentes a su presentación.
+
+CUARTO. Los Ayuntamientos que aún no cuenten con un Consejo de Participación Ciudadana, deberán conformarlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+QUINTO. Los Ayuntamientos que aún no cuenten con su Reglamento de Participación Ciudadana, deberán expedirlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemplen (sic) dicha figura para las entidades federativas.
+
+Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
