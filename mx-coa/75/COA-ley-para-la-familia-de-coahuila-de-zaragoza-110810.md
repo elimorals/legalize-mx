@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2018-11-27"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2068,6 +2068,10 @@ Ocurrido lo anterior, la autoridad judicial ordenará la cancelación de la insc
 ###### Artículo 297.
 
 Los patrones, administradores, gerentes de empresas, directores y jefes de oficinas y, en general todas aquellas personas que por razón de su cargo público o privado estén en condiciones de proporcionar informes a la autoridad judicial sobre la capacidad económica de los deudores alimentistas, están obligados a suministrar los datos que se les requieran y de no hacerlo en la forma y términos solicitados, incurrirán en responsabilidad que será sancionada con una multa de veinte a cien unidades de cuenta en el Estado, que se duplicará en caso de reincidencia, sin perjuicio de la responsabilidad penal en que pudieran incurrir.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada. De no hacerlo, el deudor alimentario incurrirá en responsabilidad sancionada en los términos del párrafo anterior.
 
 ###### Artículo 298.
 
@@ -4502,3 +4506,15 @@ CUARTO. Dentro del plazo de 30 días hábiles siguientes a la entrada en vigor d
 QUINTO. Todos los asuntos que se encuentren en trámite seguirán tramitándose de conformidad con las disposiciones vigentes al momento que fueron iniciados.
 
 SEXTO. Dentro del plazo de 60 días hábiles siguientes a la entrada en vigor de este Decreto, se deberán de realizar las adecuaciones necesarias a las leyes y reglamentos, (sic) demás disposiciones que resulten procedentes.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 223.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 297 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Una vez entrado en vigor el presente decreto, la Secretaría del Trabajo del Estado de Coahuila, emitirá una circular dirigida a todas las entidades públicas y empresas radicadas en la Entidad, en el cual conste el presente decreto y se comunique a los trabajadores, las obligaciones que se derivan del mismo.
+
+TERCERO.- El Juez de lo familiar que determine la pensión alimentaria, deberá incluir en su resolución la obligación establecida en esta reforma a la ley para la familia.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
