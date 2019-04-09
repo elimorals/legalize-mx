@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2019-02-12"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
-
-> <small>[N. DE E. EL DECRETO NÚMERO 27235/LXII/19, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -789,7 +787,7 @@ IV. Las demás que le sean requeridas.
 
 ###### Artículo 50.
 
-1. La Secretaría General del Congreso del Estado·es el órgano administrativo dependiente de la Asamblea que se encarga de la coordinación, supervisión y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas y la atención eficiente de las necesidades administrativas y financieras.
+1. La Secretaría General del Congreso del Estado es el órgano administrativo dependiente de la Asamblea que se encarga de la coordinación, supervisión y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas y la atención eficiente de las necesidades administrativas y financieras.
 
 2. La Secretaría General asegura la imparcialidad de los servicios que se prestan al Congreso del Estado y observa en su actuación, las disposiciones contenidas en esta ley y en las disposiciones reglamentarias, así como las políticas y los lineamientos aprobados por la Asamblea o los órganos que establece esta ley.
 
@@ -1807,7 +1805,9 @@ IV. Tratándose de las iniciativas que involucren la enajenación o actos trasla
 
 V. Se establezca plazo diverso para su dictamen en la agenda legislativa común o medie acuerdo específico de la Asamblea que determine plazo distinto.
 
-2. Las iniciativas populares referidas en el artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+2. Las iniciativas ciudadanas referidas en el artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley en materia de participación ciudadana, deben ser dictaminadas de conformidad al proceso legislativo establecido en esta ley orgánica.
 
 3. En el supuesto que una comisión incumpla lo señalado en los párrafos anteriores, el Presidente de la Mesa Directiva propone en la sesión siguiente se turne el asunto a la Junta de Coordinación Política para que, a más tardar en la sesión siguiente, proponga a la Asamblea la creación de la comisión especial con carácter transitorio que debe concluir el estudio y dictamen de la iniciativa o asunto que se trate. Para tal efecto, la comisión especial cuenta con un plazo no mayor a treinta días naturales, contados a partir de la fecha en que la comisión es integrada.
 
@@ -2185,6 +2185,8 @@ III. Asunto que motiva la convocatoria.
 
 ###### Artículo 135.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2019)</small>
+
 1. La facultad de presentar iniciativas de ley y decreto, corresponde a:
 
 I. Los diputados y las diputadas;
@@ -2195,7 +2197,9 @@ III. El Supremo Tribunal de Justicia, en asuntos del ramo de justicia;
 
 IV. Los ayuntamientos, en asuntos de competencia municipal; y
 
-V. Los ciudadanos inscritos en la lista nominal de electores correspondiente al Estado, cuyo número represente cuando menos el 0.1 por ciento del total de dicha lista, mediante escrito presentado en los términos y las formalidades que exija la ley de la materia.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+V. Los ciudadanos inscritos en la lista nominal de electores de conformidad a lo establecido en la ley en materia de participación ciudadana.
 
 2. La presentación de una iniciativa no genera derecho a persona alguna, ni supone que deba aprobarse; sólo constituye el inicio del procedimiento legislativo, que debe agotarse en virtud del interés público, y que la iniciativa debe valorarse y resolverse como corresponda.
 
@@ -3530,3 +3534,25 @@ CUARTO. La entrada en vigor del presente decreto no menoscabará o afectará la 
 QUINTO. El Congreso del Estado deberá realizar las adecuaciones presupuestales necesarias, para el debido cumplimiento del presente decreto.
 
 SEXTO. Se dejan a salvo los derechos del titular del Órgano Técnico de la Comisión de Vigilancia y Sistema Anticorrupción del Congreso del Estado, para que participe en la convocatoria pública a la sociedad, que para efecto de elegir al nuevo titular de dicho órgano, se emita.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
+
+Para garantizar la sucesión escalonada de las y los Consejeros designados mediante convocatoria pública, por única ocasión se elegirá a los Consejeros previstos en las fracciones V, VI, VII y VIII por un periodo de un año, los previstos en las fracciones IX, X y XI por un periodo de dos años y los previstos en las fracciones XII, XIII, XIV y XV por un periodo de tres años.
+
+TERCERO. Los trámites y procesos de participación ciudadana iniciados antes de la entrada en vigor del presente decreto, se concluirán con las reglas vigentes a su presentación.
+
+CUARTO. Los Ayuntamientos que aún no cuenten con un Consejo de Participación Ciudadana, deberán conformarlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+QUINTO. Los Ayuntamientos que aún no cuenten con su Reglamento de Participación Ciudadana, deberán expedirlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemplen (sic) dicha figura para las entidades federativas.
+
+Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
