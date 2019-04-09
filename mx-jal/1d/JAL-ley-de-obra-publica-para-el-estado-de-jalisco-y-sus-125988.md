@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2018-01-30"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE OBRA PUBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -2417,7 +2419,9 @@ Del Comité de Contraloría Social
 
 2. La Secretaría y los entes públicos impulsarán la formación de Comités de Contraloría Social y les facilitarán el acceso a la información necesaria para el cumplimiento de sus funciones.
 
-3. Lo señalado en los párrafos anteriores se dará en los términos de lo estipulado en la presente ley, su reglamento, además de lo contenido en el Código Electoral y de Participación Ciudadana en el Estado de Jalisco.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+3. Lo señalado en los párrafos anteriores se dará en los términos de lo estipulado en la presente ley, su reglamento, además de lo contenido en la legislación en materia de participación ciudadana.
 
 ###### Artículo 120.
 
@@ -2441,7 +2445,9 @@ Comité de Contraloría Social - Integración.
 
 2. En el caso de que existan dos o más Comités Vecinales u organismos de la sociedad civil legalmente constituidos que deseen participar, como parte del Comité de Contraloría Social, a juicio de la Contraloría del ente público se podrá incrementar como máximo a cinco el número de integrantes del Comité de Contraloría Social.
 
-3. La Contraloría y los OIC podrán auxiliarse de otras dependencias públicas encargadas de la participación social para llevar a cabo el proceso de integración de los comités de contraloría social.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+3. La Contraloría y los OIC podrán auxiliarse del Consejo de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco, así como de los Consejos Municipales de Participación Ciudadana para llevar a cabo el proceso de integración de los comités de contraloría social.
 
 ###### Artículo 122.
 
@@ -3110,3 +3116,27 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
+
+Para garantizar la sucesión escalonada de las y los Consejeros designados mediante convocatoria pública, por única ocasión se elegirá a los Consejeros previstos en las fracciones V, VI, VII y VIII por un periodo de un año, los previstos en las fracciones IX, X y XI por un periodo de dos años y los previstos en las fracciones XII, XIII, XIV y XV por un periodo de tres años.
+
+TERCERO. Los trámites y procesos de participación ciudadana iniciados antes de la entrada en vigor del presente decreto, se concluirán con las reglas vigentes a su presentación.
+
+CUARTO. Los Ayuntamientos que aún no cuenten con un Consejo de Participación Ciudadana, deberán conformarlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+QUINTO. Los Ayuntamientos que aún no cuenten con su Reglamento de Participación Ciudadana, deberán expedirlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemplen dicha figura para las entidades federativas.
+
+Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
