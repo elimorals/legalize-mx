@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2018-12-10"
+last_updated: "2019-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-11-12"
 ---
 # BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, POR EL CUAL SE ABROGAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, PUBLICADO Y REFERENCIADO VÍA ELECTRÓNICA EN EL D.O.F. DE 9 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2019 (ABROGADO).
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -1803,7 +1805,7 @@ SEGUNDO.- Toda vez que estas Bases Generales establecen el servicio civil de car
 
 Las presentes Bases Generales son aprobadas, por unanimidad de seis votos de los miembros presentes de la Junta Directiva del Instituto Federal de Defensoría Pública, reunidos en sesión extraordinaria, firmándose a los doce días del mes de noviembre de mil novecientos noventa y ocho.- Los miembros integrantes de la Junta Directiva del Instituto Federal de Defensoría Pública: José Antonio Bernal Guerrero, Director General del Instituto y Presidente de la Junta.- Rúbrica.- Héctor Fix Zamudio, Sergio García Ramírez, Gonzalo Moctezuma Barragán, José Luis Soberanes Fernández, Jesús Zamora Pierce.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES BASES.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES BASES.]</small>
 
 D.O.F. 19 DE FEBRERO DE 2002.
 
@@ -1827,11 +1829,11 @@ D.O.F. 16 DE MARZO DE 2011.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
 
-D.O.F. 27 DE MARZO DE 2012.
+D.O.F. 11 DE JUNIO DE 2012.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
 
-D.O.F. 11 DE JUNIO DE 2012.
+D.O.F. 27 DE MARZO DE 2012.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
 
@@ -1852,3 +1854,9 @@ D.O.F. 10 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, ÓRGANO AUXILIAR DEL CONSEJO DE LA JUDICATURA FEDERAL, CORRESPONDIENTE A LA SESIÓN ORDINARIA DEL DÍA 29 DE NOVIEMBRE DEL 2018, QUE MODIFICA DIVERSOS ARTÍCULOS DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
 
 TRANSITORIO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA".]
+
+ÚNICO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión extraordinaria de doce de febrero del año dos mil diecinueve, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
