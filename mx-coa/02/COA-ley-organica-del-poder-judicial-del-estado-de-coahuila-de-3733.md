@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2017-08-11"
+last_updated: "2019-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -199,13 +199,17 @@ V.- Se podrá modificar el número de distritos y circunscripciones determinadas
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 6o.
 
-El Tribunal Superior de Justicia del Estado, estará integrado por catorce Magistrados Numerarios y nueve Supernumerarios, y funcionará en Pleno o en Salas.
+El Tribunal Superior de Justicia del Estado, estará integrado por dieciséis Magistrados Numerarios y once Supernumerarios, y funcionará en Pleno o en Salas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Será Presidente uno de los Magistrados numerarios designado por el Pleno, quien no integrará Sala durante el tiempo que dure su encargo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Esta ley y los demás ordenamientos aplicables determinarán la competencia, organización y atribuciones de las Salas, así como la forma en que deberá designarse al Presidente del Tribunal.
 
@@ -221,11 +225,11 @@ Los magistrados supernumerarios del Tribunal Superior de Justicia durarán en su
 
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 8o.
 
-El Pleno del Tribunal Superior de Justicia, se integra por el Presidente electo en los términos del artículo 13 de esta ley, los diez Magistrados Numerarios de las Salas que residan en la capital del Estado y con el Presidente de la Sala Auxiliar con jurisdicción en los Distritos Judiciales de Torreón y San Pedro de las Colonias.
+El Pleno del Tribunal Superior de Justicia, se integra por el Presidente electo en los términos del artículo 13 de esta ley, los diez Magistrados Numerarios de las Salas que residan en la capital del Estado y con el Presidente de la Sala Regional con jurisdicción en los Distritos Judiciales de Torreón y San Pedro de las Colonias.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -243,11 +247,11 @@ Las resoluciones del Pleno deberán ser autorizadas por el presidente, el magist
 
 Las observaciones y los votos particulares que se hagan por escrito, deberán ser firmados por los magistrados que los formulen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 10.
 
-Las sesiones del Pleno del Tribunal Superior de Justicia, podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o secretas. El Presidente convocará a las sesiones ordinarias que se celebrarán una vez a la semana y a las extraordinarias, cuando sea necesario.
+Las sesiones del Pleno del Tribunal Superior de Justicia, podrán ser ordinarias o extraordinarias y, en ambos casos públicos (sic) o secretas, salvo estas últimas, las demás se transmitirán por medios electrónicos en línea para facilitar su seguimiento, así mismo deberán ser video grabadas, para su debido acceso de los interesados como información pública. El presidente convocará a las sesiones ordinarias que se celebrarán una vez a la semana y a las extraordinarias cuando sea necesario.
 
 Las sesiones en el proceso disciplinario siempre serán secretas.
 
@@ -507,25 +511,25 @@ La Presidencia del Tribunal Superior de Justicia dispondrá del número de emple
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 16.
 
-El Tribunal Superior de Justicia tendrá cuando menos dos Salas con residencia en la capital del Estado y con jurisdicción en todos los Distritos Judiciales, excepción hecha de los de Torreón y San Pedro de las Colonias, en donde contará con una Sala Auxiliar que tendrá como sede la ciudad de Torreón, Coahuila; en uno y otro caso, con la competencia que les asigne el Pleno, quien podrá determinar la creación de nuevas Salas, en atención a las necesidades del servicio y conforme al presupuesto anual de egresos.
+El Tribunal Superior de Justicia tendrá cuando menos dos Salas con residencia en la capital del Estado y con jurisdicción en todos los Distritos Judiciales, excepción hecha de los de Torreón y San Pedro de las Colonias, en donde contará con una Sala Regional que tendrá como sede la ciudad de Torreón, Coahuila; en uno y otro caso, con la competencia que les asigne el Pleno, quien podrá determinar la creación de nuevas Salas, en atención a las necesidades del servicio y conforme al presupuesto anual de egresos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Las Salas del Tribunal Superior de Justicia con residencia en la capital del Estado se integrarán con los magistrados numerarios y supernumerarios que determine el Pleno conforme a las necesidades del servicio.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
-La Sala Auxiliar con jurisdicción en los distritos de Torreón y San Pedro de las Colonias estará conformada por tres magistrados numerarios y tres supernumerarios designados para tal efecto.
+La Sala Regional con jurisdicción en los distritos de Torreón y San Pedro de las Colonias estará conformada por cinco magistrados numerarios y cinco supernumerarios designados para tal efecto.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 17.
 
-Las sesiones serán públicas, excepto cuando los integrantes de la Sala determinen que deban ser secretas por que estimen que se afecta la moral o el orden público. Las sesiones tendrán verificativo por lo menos un día hábil de cada semana.
+Las sesiones serán públicas, excepto cuando los integrantes de la Sala determinen que deban de ser secretas, por que estimen que se afecta a la moral o el orden público, salvo estas últimas, las demás se transmitirán por medios electrónicos en línea para facilitar su seguimiento, así mismo deberán ser video grabadas para su debido acceso de los interesados como información pública. Las sesiones tendrán verificativo por lo menos un día hábil de cada semana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -617,11 +621,11 @@ Toda solicitud de licencia requiere causa justificada y las de los secretarios d
 
 VIII.- Las demás que les confieran las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
-###### ARTÍCULO 22.
+###### ARTICULO 22.
 
-La Sala en Materia Civil y Familiar, conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
+La Sala en Materia Civil y Familiar, conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Regional con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -655,11 +659,11 @@ VII.- Fijar jurisprudencia por contradicción, reiteración o por declaración e
 
 VIII.- De los demás asuntos que le encomiende la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 23.
 
-La Sala en Materia Penal conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
+La Sala en Materia Penal conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Regional con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
 
 I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal;
 
@@ -685,11 +689,11 @@ VI.- De los recursos de apelación y de queja en contra de autos y sentencias in
 
 VII.- De los demás asuntos que le encomiende la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
-La Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias tendrá competencia en materia civil, mercantil, familiar, penal y de narcomenudeo y conocerá de:
+La Sala Regional con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias tendrá competencia en materia civil, mercantil, familiar, penal y de narcomenudeo y conocerá de:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1191,7 +1195,9 @@ V. De los recursos de apelación y de queja en contra de autos y sentencias inte
 
 Si éste último estuviera impedido para conocer y resolver, pasarán al siguiente tribunal distrital del distrito judicial más próximo territorialmente.
 
-Si todos los tribunales distritales competentes para conocer de los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo estuvieran impedidos, conocerá unitariamente un magistrado de la Sala Colegiada Penal o de la Sala Auxiliar del Tribunal Superior de Justicia del Estado, según corresponda, asignado de acuerdo al orden secuencial fijado por el Presidente de la Sala respectivo, quien al mismo tiempo deberá incluirse en el orden de asignación de asuntos;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+Si todos los tribunales distritales competentes para conocer de los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo estuvieran impedidos, conocerá unitariamente un magistrado de la Sala Colegiada Penal o de la Sala Regional del Tribunal Superior de Justicia del Estado, según corresponda, asignado de acuerdo al orden secuencial fijado por el Presidente de la Sala respectivo, quien al mismo tiempo deberá incluirse en el orden de asignación de asuntos;
 
 VI. De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia y Jueces Letrados de su adscripción;
 
@@ -3783,11 +3789,11 @@ I.- Sustente el mismo criterio en dos resoluciones ininterrumpidas;
 
 II.- Fije en contradicción de criterios el que debe prevalecer.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 263.
 
-Las Salas del Tribunal Superior de Justicia y la Sala Auxiliar del mismo, formarán jurisprudencia cuando:
+Las Salas del Tribunal Superior de Justicia y la Sala Regional del mismo, formarán jurisprudencia cuando:
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3871,9 +3877,9 @@ La jurisprudencia del Pleno del Tribunal Superior de Justicia por contradicción
 
 I.- La denuncia de contradicción se podrá formular por cualquier persona o autoridad. En todo caso se deberá señalar el órgano u órganos que incurren en contradicción, en qué consiste ésta y, si está a su disposición, el denunciante deberá acompañar el original o copia autorizada de la o las resoluciones que sean materia de la contradicción. Sin perjuicio de lo anterior, la Presidencia podrá mandar traer los documentos necesarios para analizar la denuncia de que se trate;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-II.- La denuncia versará sobre criterios sustentados por las Salas del Tribunal Superior de Justicia o por su Sala Auxiliar.
+II. La denuncia versará sobre criterios sustentados por las Salas del Tribunal Superior de Justicia o por su Sala Regional.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -4387,7 +4393,9 @@ En la impartición de justicia para adolescentes, se observará el sistema proce
 
 Los órganos jurisdiccionales de primera y segunda instancia competentes para conocer de la materia penal en el sistema acusatorio y oral, podrán hacerlo también para la materia de adolescentes.
 
-Por lo anterior, corresponderá a la Sala Penal y a la Sala Auxiliar, en el ámbito de sus competencias, conocer de manera definitiva e inatacable, los recursos de casación y revisión en los términos de la ley de la materia, para lo cual actuarán en forma colegiada.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+Por lo anterior, corresponderá a la Sala Penal y a la Sala Regional, en el ámbito de sus competencias, conocer de manera definitiva e inatacable, los recursos de casación y revisión en los términos de la ley de la materia, para lo cual actuarán en forma colegiada.
 
 El recurso de casación deberá ser conocido por magistrados que no hubieren intervenido en el mismo asunto en revisión; y del recurso de revisión deberán conocerlo magistrados que no hubieren intervenido en el mismo asunto en casación.
 
@@ -4856,3 +4864,17 @@ NOVENO.- La Secretaría de Fiscalización y Rendición de Cuentas como Órgano E
 DÉCIMO.- Los artículos 74, 75 y 75 BIS de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza continuarán en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses.
 
 DÉCIMO PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 221.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 16, EL PRIMER PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 23, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL TERCER PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 27, EL PRIMER PÁRRAFO DEL ARTÍCULO 263, LA FRACCIÓN II DEL ARTÍCULO 269 Y EL TERCER PÁRRAFO DEL ARTÍCULO 299, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 222.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 10 Y SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a los 12 meses contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
