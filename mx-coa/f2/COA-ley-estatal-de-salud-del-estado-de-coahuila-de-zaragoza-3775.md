@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-01-15"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -53,19 +53,21 @@ Los recursos destinados por el estado y los municipios a la protección de la sa
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-I. El bienestar físico y mental de las personas, para contribuir al ejercicio pleno de sus capacidades;
+I. El bienestar físico y mental de las personas, para contribuir al ejercicio de sus capacidades, mediante la oportuna atención al paciente por parte de profesionales de la salud, que cuenten con la debida acreditación y certificación de la especialidad médica de que se trate, misma que los habilite para el correcto ejercicio de su práctica profesional, mediante los títulos, cedulas y certificaciones vigentes que les hayan sido expedidas por las Instituciones Educativas Correspondientes, y avaladas por el Comité Normativo Nacional de Consejos de Especialidades Médicas (CONACEM).
 
-II. La prolongación y el mejoramiento de la calidad de la vida humana;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+II. La prolongación y el mejoramiento de la calidad de la vida humana, mediante la intervención de profesionales médicos titulados, acreditados y certificados en los términos contenidos en la fracción anterior de este cuerpo normativo.
 
 III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
 IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-V. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población, bajo condiciones que aseguren su integridad física;
+V. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población, bajo las condiciones que aseguren su integridad física, debiéndose supervisar estrictamente por las autoridades de salud correspondientes, que las practicas medicas sean vigiladas y evaluadas periódicamente para garantizar que quienes las ejerzan, acrediten debidamente la necesaria y obligatoria profesionalización, especialidad, pericia, habilidad, destreza y capacidad para tutelar eficazmente la salud de los pacientes.
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -107,9 +109,9 @@ III. La prestación de servicios de planificación familiar;
 
 IV. La salud mental;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-V. La organización, coordinación, verificación, vigilancia y posible sanción del ejercicio de las actividades profesionales, técnicas y auxiliares de la salud, bajo la premisa de una estricta observación y cumplimiento de los requisitos y condiciones para su ejercicio, previstos expresamente en la Ley General de Salud, esta Ley y demás disposiciones aplicables, para el correcto y profesional ejercicio de la práctica médica del Estado;
+V. La organización, coordinación, verificación, vigilancia y posible sanción del ejercicio de las actividades profesionales, técnicas y auxiliares de la salud, bajo la premisa de una estricta observación y cumplimiento de los requisitos y condiciones para su ejercicio, previstos expresamente en la Ley General de Salud, esta Ley y demás disposiciones aplicables, para el correcto y profesional ejercicio de la práctica médica en el Estado;
 
 VI. La promoción de la formación de recursos humanos para la salud;
 
@@ -237,7 +239,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas, por lo que para la tutela efectiva del derecho a la salud de las personas, queda expresamente prohibido efectuar prácticas de medicina plástica y reconstructiva en salones y clínicas de belleza, o cualquier otro tipo de local que no cuente con las condiciones materiales o de higiene, tecnología y con el personal médico debidamente titulado y especializado que tenga la (sic) certificaciones vigentes de ese ramo, que estén debidamente reconocidas por las autoridades educativas correspondientes, y avaladas por el Comité Normativo Nacional de Consejos de Especialidades Médicas (CONACEM), salvo que el responsable médico y tratante sea un médico cirujano plástico y reconstructivo que cuente con la debida certificación de la especialidad en dicha materia, en los términos antes expuestos, y en ese sentido, los administradores o directores de los hospitales o clínicas, tanto públicas como privadas de salud en el estado, deben negarle el acceso y uso de sus instalaciones a aquellos médicos que no cuenten con la debida especialización de la rama de cirugía plástica y reconstructiva debidamente reconocida por el "CONACEM", para la práctica de ese tipo de intervenciones.
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -914,6 +918,10 @@ III. La certificación vigente de profesionista o, en su caso, de especialista q
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+Para el ejercicio de las actividades profesionales en el campo de la medicina especializada en cirugía plástica, estética y reconstructiva, y sus ramas, se requiere que quienes la ejerzan cuenten con el título y cedula profesional expedidos y registrados por las autoridades educativas correspondientes, así como con la obligatoria certificación vigente de la especialización de dicho ramo, por parte del Comité Normativo Nacional de Consejos de Especialidades Médicas (CONACEM), mediante la cual se acredite que tiene la capacidad, habilidad, pericia y destreza profesional en ese tipo de intervenciones médicas conforme a lo que expresamente establecen los artículos 272 bis, 272 bis 1, 272 bis 2, y 272 bis 3, de la Ley General de Salud.
 
 ###### Artículo 73.
 
@@ -1637,7 +1645,7 @@ IV. La orientación educativa en materia de rehabilitación a la colectividad en
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-V. La atención integral de personas con discapacidad, incluyendo la adaptación de la (sic) prótesis, órtesis y ayudas funcionales que requieran;
+V. La atención integral de personas con discapacidad, incluyendo la adaptación de la prótesis, órtesis y ayudas funcionales que requieran;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -2450,6 +2458,10 @@ Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señal
 ###### Artículo 228.
 
 Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas, de manos y pies o a la aplicación de tratamientos de belleza en general al público y como centros de masaje, aquellos lugares donde se den masajes de relajación, excepto, aquellos dedicados a tratamientos de ortopedia, traumatología y quiroprácticos.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+Conforme a lo anterior, queda expresamente prohibido que en las peluquerías, salones de belleza y estéticas, se apliquen productos médicos y biológicos mediante inyecciones, así como tratamientos con aparatología médica como láser y ultrasonido, en los términos, condiciones y salvedades expresamente establecidos en artículo 6° de la presente ley.
 
 ###### Artículo 229.
 
@@ -3482,3 +3494,9 @@ P.O. 15 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 236.- SE MODIFICAN Y ADICIONAN EL CONTENIDO DE LAS FRACCIONES I, II Y V, DEL ARTÍCULO 2; LA FRACCIÓN V, DEL ARTÍCULO 4; LA FRACCIÓN I, DEL ARTÍCULO 6; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 72, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 228, DE LA LEY ESTATAL DE SALUD DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
