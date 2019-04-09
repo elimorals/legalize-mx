@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-de-los-servidores-publicos-de-la-secretaria-135
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-29"
-last_updated: "2019-03-29"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE ABRIL DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 29 DE MARZO DE 2019.]</small>
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 29 de marzo de 2019.
 
@@ -149,9 +149,9 @@ XII. Responsabilidad. Cumplir con diligencia las obligaciones que derivan del ej
 
 ## Transitorios
 
-Artículo primero. Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+Artículo primero. Publíquese el presente Código en el Periódico Oficial “Gaceta del Gobierno”.
 
-Artículo segundo. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", y en un plazo no mayor a 60 días naturales se deberá emitir (sic) lineamientos para la integración, operación y funcionamiento del Comité de Ética del Poder Legislativo del Estado de México.
+Artículo segundo. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, y en un plazo no mayor a 60 días naturales se deberá emitir (sic) lineamientos para la integración, operación y funcionamiento del Comité de Ética del Poder Legislativo del Estado de México.
 
 Artículo tercero. La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México llevará a cabo las acciones que permitan la implementación y difusión del presente Código.
 
