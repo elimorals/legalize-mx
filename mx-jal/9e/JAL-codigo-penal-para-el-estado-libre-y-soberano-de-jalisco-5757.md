@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-03-23"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5083,7 +5083,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 ### CAPITULO UNICO. Crueldad contra los animales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 269.
 
@@ -5491,29 +5491,47 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 ###### Art. 305.
 
-Se impondrán de veinte a ochenta jornadas de trabajo y multa por el equivalente de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien de manera intencional y derivado de actos de maltrato y crueldad cause lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
+Se impondrán de seis a ocho meses de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien de manera intencional realice actos de maltrato y crueldad sin que ponga en peligro su vida, causando lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+Se impondrán de seis meses a un año de prisión, multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien con la intención de causar un daño a un animal, realice actos de maltrato y crueldad que lesionen de forma evidente y afecten de manera permanente las funciones físicas de un animal o que pongan en riesgo la vida del mismo.
 
-Se impondrán de ochenta a ciento veinte jornadas de trabajo y multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, a quien con la intención de causar un daño a un animal, realice actos de maltrato y crueldad que lesionen de forma evidente y afecten de manera permanente las funciones físicas de un animal o que pongan en riesgo la vida del mismo.
+Cuando el delito se cometa en perjuicio de los animales que se encuentren bajo su resguardo, la pena se agravará en una mitad y se asegurará a los animales maltratados. Para los efectos del presente Capítulo, se consideran actos de crueldad y maltrato en perjuicio de un animal los siguientes:
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+I. La mutilación, alteración a la integridad física, orgánica o funcional de los tejidos, menoscabo al equilibrio o la modificación en perjuicio de los instintos naturales del animal, que no se efectué bajo causa justificada y bajo el cuidado de un especialista o persona debidamente autorizada que cuente con los conocimientos técnicos en la materia;
 
-Cuando el delito se cometa en perjuicio de los animales que se encuentren bajo su resguardo, la pena se agravará en una mitad y se asegurará a los animales maltratados.
+II. El acto u omisión que ocasione dolor, afectación al bienestar, o lesión;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+III. La omisión de brindar la atención médico veterinaria cuando así lo requiera el animal;
 
-En los casos de reincidencia, se impondrá una pena de seis meses a dos años de prisión y multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+IV. Provocar o inducir a los animales para que se ataquen entre ellos o a las personas; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+V. La privación de aire, luz, alimento, agua, abrigo o espacio acorde a su especie, que cause o pueda causar un daño al animal.
+
+En los casos de reincidencia o en el abandono de animales en la vía pública o la desatención por periodos prolongados en propiedad privada que pueda comprometer su bienestar, se impondrá una pena de seis meses a dos años de prisión y multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 306.
 
-A quien con la intención de causarle un daño le provoque la muerte a un animal, se le impondrán de seis meses a tres años de prisión y multa de doscientos a mil veces el valor diario de la Unidad de Medida y Actualización, la inhabilitación profesional en caso de ejercer profesión relacionada con el cuidado animal, así como el aseguramiento de los animales que estén bajo su resguardo.
+A quien con la intención de causarle un daño le provoque la muerte a un animal, se le impondrán de dos a tres años de prisión, multa de doscientos a mil veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, la inhabilitación profesional en caso de ejercer profesión relacionada con el cuidado animal, así como el aseguramiento de los animales que estén bajo su resguardo.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+La pena se incrementará en una mitad a quien a través de la tortura o extrema brutalidad realice actos de crueldad y maltrato en contra de un animal, que tengan como consecuencia el grave sufrimiento y muerte de éste.
 
-La pena se incrementará en una mitad cuando se ocasione un grave sufrimiento al provocar la muerte no inmediata, prolongando la agonía del animal.
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+###### Art. 306 Bis.
+
+A quien no utilice los métodos establecidos en las Normas Oficiales Mexicanas en la materia y, en su caso, aquellas aplicables para inducir a la brevedad a un animal a sacrificar para abasto de alimentos a un estado de inconsciencia, y como resultado prolongue la agonía o la muerte del animal sacrificado, se le impondrán de uno a cuatro años de prisión y multa de cuatrocientos a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Además de las sanciones señaladas en el párrafo anterior, se le impondrá inhabilitación del empleo, cargo, profesión por un lapso de uno a tres años; asimismo, se le revocará la licencia, permiso o cualquier autorización para el sacrificio de animales de abasto de alimentos por el mismo lapso de tiempo. En caso de reincidencia, la inhabilitación y revocación serán definitivas.
+
+Las sanciones previstas en este artículo solo serán aplicables tratándose de conductas que se realicen en rastros, unidades de sacrificio y demás establecimientos dedicados expresamente al sacrificio animal para consumo humano.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+###### Art. 306 Ter.
+
+Si el delito de maltrato animal es cometido en presencia deliberada de un menor de edad, o ejecutadas por un menor de edad y ordenado o consentido por una persona mayor de edad, la pena, incluidos sus agravantes, serán aplicados a los adultos involucrados en estos hechos.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5523,13 +5541,11 @@ El Ministerio Público asegurará de oficio los instrumentos y efectos, objetos 
 
 Para lo dispuesto en el presente Título se entenderá por animal cualquier especie de mamíferos no humanos, aves, reptiles, anfibios o peces.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 308.
 
-Quedan exceptuados de los delitos previstos en el presente Título los sacrificios humanitarios de animales, las corridas de toros, novillos, rejones, jaripeos, charreadas, carrera de caballos o perros, actividades dentro de los clubes cinegéticos, pesca o caza deportiva, y las peleas de gallos, los sacrificados para consumo humano, investigación científica y de enseñanza, tratamientos e intervenciones veterinarias, las cuales habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables, así como el combate de plagas y aquellos que cuenten con licencia municipal o de autoridad competente.
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+Quedan exceptuados de los delitos previstos en el presente Título los sacrificios humanitarios de animales, las corridas de toros, novillos, rejones, jaripeos, charreadas, carrera de caballos o perros, pesca o caza deportiva, las peleas de gallos, investigación científica y de enseñanza, tratamientos e intervenciones veterinarias, el sacrificio de animales de abasto siempre y cuando se apeguen a lo dispuesto en las leyes, reglamentos, normas oficiales vigentes y demás ordenamientos jurídicos aplicables, así como el combate de plagas y aquellos que cuenten con licencia municipal o de autoridad competente.
 
 Será excluyente de los delitos contemplados en el presente capítulo cuando prevalezca un riesgo inminente en la integridad física de las personas o los que se originen por accidentes sin que medie la intención de causar un daño al animal.
 
@@ -6619,8 +6635,22 @@ SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plaz
 
 P.O. 23 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 27249/LXII/19, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 154-B, 154-I, 188, 193, 207, 213 Y 259 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27249/LXII/19, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 154-B, 154-I, 188, 193, 207, 213 Y 259 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27263/LXII/19 QUE REFORMA LOS ARTÍCULOS 305, 306, 308 Y CREA LOS ARTÍCULOS 306 BIS Y 306 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a los ciento ochenta días siguientes de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos del Estado de Jalisco que operen, subroguen o autoricen Centros de Matanza y Servicio Municipal de Rastros, contarán con un plazo de 180 días a partir de la publicación del presente decreto, para realizar las previsiones administrativas, sanitarias, presupuestales y la capacitación de recursos humanos, necesarias para garantizar mejores prácticas y el debido cumplimiento de las normas en materia de sacrificio de animales para abasto.
+
+TERCERO. Los ayuntamientos que operen, subroguen o autoricen Centros de Matanza y Servicio Municipal de Rastros, contarán con un plazo de un año a partir de la publicación del presente decreto, para realizar adecuaciones materiales, y las administrativas, sanitarias, presupuestales, y de capacitación de recursos humanos a que hace referencia el artículo anterior.
+
+CUARTO. Los ayuntamientos deberán vigilar que los Centros de Matanza que autoricen, cumplan con las normas en materia de sacrificio de animales para abasto y las disposiciones reglamentarias, previo a la entrada en vigor de este decreto.
+
+QUINTO. El Gobierno del Estado, a través de sus dependencias o entidades, deberá llevar a cabo la supervisión de las condiciones de los rastros respecto de las actividades y cumplimiento de las normas de la materia.
