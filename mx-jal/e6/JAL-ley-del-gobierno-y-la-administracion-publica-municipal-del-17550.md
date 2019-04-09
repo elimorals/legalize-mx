@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2019-03-25"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -721,13 +723,17 @@ XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcc
 
 XVII. Coordinarse con la Federación, Estados y Municipios, en materia de combate a la corrupción;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-XVIII. Auxiliar a la Unidad Estatal de Medidas Cautelares de conformidad a la Ley de Evaluación y Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso del Estado de Jalisco; y
+XVIII. Auxiliar a la Unidad Estatal de Medidas Cautelares de conformidad a la Ley de Evaluación y Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2019)</small>
 
-XIX. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XIX. Conformar un Consejo de Participación Ciudadana Municipal como órgano auxiliar para la organización y desarrollo de los mecanismos de participación establecidos en la Ley de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ABRIL DE 2019)</small>
+
+XX. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -751,7 +757,9 @@ Tratándose de la asociación de los municipios de dos o más Estados, deben con
 
 VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones;
 
-VIII. Fomentar la participación ciudadana y vecinal a través de los mecanismos y figuras que para tal efecto establezcan en sus ordenamientos municipales;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+VIII. Fomentar la participación ciudadana y vecinal a través de los mecanismos y figuras establecidos en la Ley de Participación Ciudadana y Popular para el Estado de Jalisco, así como aquellos que establezcan en sus ordenamientos municipales;
 
 IX. Implementar instrumentos para la modernización administrativa y la mejora regulatoria;
 
@@ -763,9 +771,17 @@ XII. Solicitar al Congreso del Estado, conjuntamente con otros municipios, la de
 
 XIII. Instrumentar, en coordinación con el Gobierno del Estado, políticas públicas en materia de equilibrio ecológico y protección al medio ambiente, en los términos de las disposiciones legales de la materia;
 
-XIV. Elaborar la crónica municipal a través del registro del acontecer histórico local; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
-XV. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
+XIV. Elaborar la crónica municipal a través del registro del acontecer histórico local;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2019)</small>
+
+XV. Establecer los porcentajes requeridos para la presentación de la iniciativa ciudadana, los cuales en ningún caso podrán exceder los establecidos en el artículo 11 de la Constitución Política del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ABRIL DE 2019)</small>
+
+XVI. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -841,11 +857,11 @@ VI. Los ordenamientos municipales pueden reformarse, modificarse, adicionarse, d
 
 VII. Los Ayuntamientos deben mandar una copia de los ordenamientos municipales y sus reformas al Congreso del Estado, para su compendio en la biblioteca del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Artículo 43.
 
-Los ordenamientos municipales de carácter general, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia, pueden ser sometidos a referéndum derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite ante el Instituto Electoral y de Participación Ciudadana del Estado, en (sic) cinco por ciento de los ciudadanos inscritos en el Registro Nacional de Ciudadanos en el municipio de que se trate, cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, basta con que lo soliciten tres por ciento de los ciudadanos inscritos.
+Los ordenamientos municipales de carácter general, pueden ser sometidos a referéndum derogatorio, total o parcial, dentro de los treinta días siguientes a la fecha de su publicación, en los términos establecidos en la Constitución Política del Estado de Jalisco y de la legislación en materia de participación ciudadana.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1997,17 +2013,11 @@ IV. Proporcionar a las personas jurídicas con funciones de representación ciud
 
 V. Las demás que les confiere esta ley, los reglamentos municipales respectivos y los estatutos de las personas jurídicas con funciones de representación ciudadana y vecinal.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Artículo 123 Bis.
 
-Las asociaciones vecinales y las personas jurídicas que tengan función de representación ciudadana tienen derecho a presentar propuestas o solicitudes en por lo menos seis sesiones ordinarias de las que celebre en (sic) Ayuntamiento en el año bajo las siguientes bases:
-
-I. No podrán presentar propuestas o solicitudes cuando se trate de ley de ingresos, disposiciones orgánicas, escalafón y condiciones generales de trabajo de los servidores públicos;
-
-II. Las propuestas o solicitudes deberán presentarse por escrito ante la oficialía de partes del Ayuntamiento con las formalidades mínimas del procedimiento, por escrito, firmado el representante legal de la asociación vecinal, precisar de manera clara y sencilla el asunto a exponer, y establecer un domicilio dentro de la cabecera municipal para recibir notificaciones, anexar el documento que acredite la vigencia de la asociación vecinal; y
-
-III. Cada Ayuntamiento deberá regular la participación social en el Cabildo Abierto en términos de igualdad.
+Las asociaciones vecinales y las personas jurídicas que tengan función de representación ciudadana tienen derecho a presentar propuestas o solicitudes en sesiones ordinarias que se celebren de conformidad al mecanismo de Ayuntamiento Abierto establecido en la Ley de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
 
 ## TITULO OCTAVO. DE LA PLANEACION PARA EL DESARROLLO MUNICIPAL
 
@@ -2760,3 +2770,25 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos deberán realizar las adecuaciones a sus disposiciones reglamentarias a los términos de este decreto, dentro de los 60 días siguientes a su entrada en vigor.
 
 TERCERO. Los ayuntamientos deberán constituir sus Unidades de Medidas de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso dentro de los 90 días siguientes a la entrada en vigor de este decreto.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
+
+Para garantizar la sucesión escalonada de las y los Consejeros designados mediante convocatoria pública, por única ocasión se elegirá a los Consejeros previstos en las fracciones V, VI, VII y VIII por un periodo de un año, los previstos en las fracciones IX, X y XI por un periodo de dos años y los previstos en las fracciones XII, XIII, XIV y XV por un periodo de tres años.
+
+TERCERO. Los trámites y procesos de participación ciudadana iniciados antes de la entrada en vigor del presente decreto, se concluirán con las reglas vigentes a su presentación.
+
+CUARTO. Los Ayuntamientos que aún no cuenten con un Consejo de Participación Ciudadana, deberán conformarlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+QUINTO. Los Ayuntamientos que aún no cuenten con su Reglamento de Participación Ciudadana, deberán expedirlo dentro de los siguientes seis meses a la entrada en vigor del presente decreto.
+
+SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemplen dicha figura para las entidades federativas.
+
+Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
