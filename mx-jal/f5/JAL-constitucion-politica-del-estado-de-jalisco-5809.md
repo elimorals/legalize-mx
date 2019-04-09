@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2019-03-12"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -551,61 +551,137 @@ Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga c
 
 ## TITULO SEGUNDO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2019)</small>
 
-### CAPITULO I. Del Sufragio y de la Participación Social
+### CAPÍTULO I. Del Sufragio y la Participación Ciudadana, la Popular y de Gobernanza
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 11.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación social. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación ciudadana y popular. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
 
-La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social estará a cargo del Instituto Electoral y de Participación Ciudadana.
+La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana estará a cargo del Instituto Electoral y de Participación Ciudadana.
 
-Los Ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación social y vecinal, teniendo como bases mínimas, las establecidas en la ley estatal relativa a la materia.
+Los Ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación ciudadana y popular, teniendo como bases mínimas, las establecidas en la ley estatal relativa a la materia.
 
-En el Estado de Jalisco se reconocen por lo menos, los siguientes instrumentos de participación social:
+Apartado A. En el Estado de Jalisco se reconocen por lo menos, los siguientes mecanismos de participación ciudadana y popular:
 
-I. Gobierno abierto es el instrumento que permite la participación social de toda persona en los procesos de elaboración y evaluación de las políticas públicas, contribuyendo a la transparencia, a la rendición de cuentas y el combate a la corrupción, de acuerdo con esta Constitución y a las normas aplicables correspondientes;
+I. Plebiscito: es el mecanismo de participación mediante el cual se someten a la consideración de la ciudadanía los actos o decisiones del Poder Ejecutivo del Estado y de los ayuntamientos, conforme a lo siguiente:
 
-II. Plebiscito es el instrumento mediante el cual se someten a la consideración de la ciudadanía los actos o decisiones del Ejecutivo del Estado y de los ayuntamientos. En el ámbito estatal podrá ser solicitado por el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores. En los municipios, en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores. En todos los casos será vinculante cuando participe por lo menos el 40 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor;
+a) En el ámbito estatal podrá ser solicitado por el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado;
 
-III. Referéndum es el instrumento mediante el cual se somete a la consideración de la ciudadanía la abrogación o derogación de disposiciones legales y constitucionales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso, el Ejecutivo del Estado o los municipios. En el ámbito estatal podrá ser solicitado por el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores. En los municipios en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores. En todos los casos será vinculante cuando participe por lo menos el 40 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor;
+b) En los municipios en que la población no exceda de cincuenta mil habitantes, podrá solicitarlo el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
 
-IV. La ratificación constitucional es el instrumento de participación social mediante el cual la ciudadanía, podrá validar o derogar una reforma a la Constitución Política del Estado de Jalisco, siempre y cuando sea solicitada, dentro de los treinta días naturales siguientes a la fecha de su publicación, por el Gobernador, el 50 por ciento de los ayuntamientos o el 50 por ciento de los diputados integrantes del Congreso, todos del Estado. Será organizada por el Instituto Electoral y de Participación Ciudadana, en los términos precisados por la ley.
+c) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, podrán solicitarlo el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
 
-Se realizará el mismo día de la jornada electoral, salvo que el Instituto Electoral y de Participación Ciudadana autorice por unanimidad de votos su realización en una fecha distinta, fuera del periodo del proceso electoral, y siempre que exista suficiencia presupuestal para realizarla.
+d) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes podrán solicitarlo el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y
 
-Sus resultados serán vinculantes, cuando en el procedimiento democrático participe cuando menos el 40 por ciento del número de ciudadanos inscritos en la lista nominal de electores del Estado y vote en sentido afirmativo el cincuenta por ciento mas uno;
+e) En los municipios en los que la población exceda los quinientos mil habitantes, podrán solicitarlo el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio.
 
-V. Iniciativa popular es el instrumento mediante el cual los ciudadanos pueden presentar iniciativas ante los poderes Legislativo y Ejecutivo. Podrán presentarla el 0.1 por ciento de los ciudadanos inscritos en la lista nominal de electores de (sic) del Estado;
+El resultado del plebiscito será vinculante cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto en un mismo sentido, ya sea a favor o en contra.
 
-VI. Iniciativa popular municipal es el instrumento mediante el cual los ciudadanos inscritos en la lista nominal de electores pueden presentar iniciativas ante la autoridad municipal. En los municipios en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores;
+II. Referéndum: es el mecanismo de participación mediante el cual se somete a la consideración de la ciudadanía la abrogación o derogación de disposiciones legales y constitucionales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso, el Poder Ejecutivo del Estado o los ayuntamientos, conforme a lo siguiente:
 
-VII. Presupuesto participativo es el instrumento mediante el cual se define el destino de un porcentaje de los recursos públicos, para lo cual el Gobierno del Estado proyectará anualmente en el presupuesto de egresos una partida equivalente al menos al quince por ciento del presupuesto destinado para inversión pública.
+a) En el ámbito estatal podrá ser solicitado por el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado;
 
-Para impulsar el desarrollo municipal y regional los ayuntamientos podrán convenir con el Poder Ejecutivo Estatal la realización de inversiones públicas conjuntas, que los habitantes de sus municipios determinen mediante el presupuesto participativo;
+b) En los municipios en que la población no exceda de cincuenta mil habitantes, podrá solicitarlo el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
 
-VIII. La revocación de mandato es el mecanismo mediante el cual los ciudadanos jaliscienses deciden que un representante de elección popular concluya anticipadamente el ejercicio del cargo para el que fue electo siempre y cuando se configuren las causales y se cumpla con los procedimientos establecidos en las leyes.
+c) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, podrán solicitarlo el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
 
-Podrá ser solicitado por el 5 por ciento de los ciudadanos inscritos en la lista nominal de electores distribuidos en las dos terceras partes de los distritos o secciones electorales de la demarcación territorial que corresponda, y sólo podrá solicitarse transcurrida la mitad del período constitucional correspondiente al ejercicio del cargo de un representante electo popularmente y hasta 120 días después del inicio de la segunda mitad del periodo constitucional.
+d) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes, podrán solicitarlo el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y
 
-La votación para determinar la revocación de mandato deberá llevarse a cabo a más tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral, y para su validez deberán participar en el procedimiento respectivo, por lo menos la misma cantidad de ciudadanos que lo hicieron en el proceso electoral donde resultó electo el representante popular sujeto a este mecanismo de participación democrática.
+e) En los municipios en los que la población exceda los quinientos mil habitantes, podrán solicitarlo el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio.
 
-Procederá la revocación del mandato siempre y cuando el número de votos en el sentido de revocarlo sea mayor al número de votos por el que fue electo el representante popular sujeto del procedimiento.
+El resultado del referéndum será vinculante y se declarará abrogado o derogado el acto sometido a este mecanismo, cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor de la abrogación o derogación.
 
-De ser procedente la revocación del mandato, se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.
+III. Ratificación Constitucional: es el mecanismo de participación mediante el cual la ciudadanía podrá validar o derogar una reforma a la Constitución Política del Estado de Jalisco, siempre y cuando sea solicitada, dentro de los treinta días naturales siguientes a la fecha de su publicación, por:
 
-La revocación del mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del representante popular sujeto a ese mecanismo;
+a) El Gobernador del Estado;
 
-IX. Consulta popular es el instrumento mediante el cual los habitantes del Estado, un municipio o demarcación territorial, expresan sus opiniones respecto a temas de carácter público o impacto social que son consultados por la autoridad correspondiente. Podrá ser solicitada por el 50 por ciento de los integrantes del Congreso del Estado, el titular del Ejecutivo del Estado o por el 0.1 por ciento de los habitantes de la demarcación territorial correspondiente, cuando la consulta se dirija a temas relativos a los Poderes Ejecutivo o Legislativo; y por 50 por ciento de los integrantes del cabildo o por lo menos el 0.5 por ciento de los habitantes de la demarcación territorial especifica cuando la consulta se dirija a temas relativos al gobierno municipal;
+b) El 50 por ciento de los ayuntamientos del Estado; o
 
-X. La contraloría social es un espacio para que la ciudadanía y los organismos del sector social y privado formen una instancia de vigilancia y observación de las actividades de gobierno;
+c) El 50 por ciento de los diputados integrantes del Congreso del Estado.
 
-XI. Cabildo abierto es el instrumento en el que los ciudadanos, a través de representantes de asociaciones vecinales debidamente registradas, tienen derecho a presentar propuestas o peticiones en por lo menos seis de las sesiones ordinarias que celebre el Ayuntamiento en el año; y
+La votación de la ratificación constitucional se realizará el mismo día de la jornada electoral, salvo que el Instituto Electoral y de Participación Ciudadana autorice por unanimidad de votos su realización en una fecha distinta, fuera del periodo del proceso electoral, y siempre que exista suficiencia presupuestal para realizarla.
 
-XII. Las Juntas Municipales son una instancia de participación social en los asuntos gubernamentales del municipio, a través de asociaciones vecinales debidamente registradas.
+El resultado de la ratificación constitucional será vinculante cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado y de los mismos más del 50 por ciento emita su voto a favor de la derogación de la reforma.
+
+IV. Iniciativa Ciudadana: es el mecanismo de participación mediante el cual los ciudadanos pueden presentar iniciativas de ley dirigidas al Congreso del Estado, o iniciativas de reglamento dirigidas al Poder Ejecutivo o a los ayuntamientos, para que sean analizadas y resueltas de conformidad con los procedimientos aplicables.
+
+La iniciativa ciudadana dirigida al Congreso del Estado y al Poder Ejecutivo deberá ser solicitada al menos por el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado.
+
+La iniciativa ciudadana de carácter municipal para su presentación se sujetará a los porcentajes establecidos en los ordenamientos municipales en la materia, los cuales no podrán exceder de:
+
+a) En los municipios en que la población no exceda de cincuenta mil habitantes, el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
+
+b) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;
+
+c) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes, el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y
+
+d) En los municipios en los que la población exceda los quinientos mil habitantes, el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio.
+
+V. Ratificación de Mandato: es el mecanismo de participación y de rendición de cuentas, mediante el cual la ciudadanía evalúa el desempeño del Gobernador, los diputados, presidentes municipales y regidores del Estado.
+
+La ratificación de mandato únicamente pueden solicitarla los propios servidores públicos de elección popular que deseen someterse a este mecanismo.
+
+La solicitud de ratificación de mandato sólo puede presentarse dentro de los primeros 120 días de la segunda mitad del periodo constitucional.
+
+La votación para la ratificación de mandato debe llevarse a cabo a más tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral.
+
+Para la validez del procedimiento de ratificación de mandato deberán participar por lo menos la misma cantidad de ciudadanos que lo hicieron en la elección donde resultó electo el servidor público sujeto a este mecanismo.
+
+Cuando el número de votos en contra de la ratificación del servidor público sea mayor al número de votos a favor por el que fue electo, el servidor público cesará en el cargo y se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.
+
+La no ratificación de mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del servidor público sujeto a este mecanismo.
+
+VI. Revocación de Mandato: es el mecanismo de participación mediante el cual los ciudadanos deciden que un servidor público de elección popular concluya anticipadamente el ejercicio del cargo para el que fue electo, siempre y cuando se configuren las causales y se cumpla con los procedimientos establecidos en las leyes.
+
+La revocación de mandato podrá ser solicitada por el 3 por ciento de los ciudadanos inscritos en la lista nominal de electores, distribuidos en las dos terceras partes de los distritos o secciones electorales de la demarcación territorial que corresponda.
+
+La revocación de mandato sólo podrá solicitarse dentro de los primeros 120 días de la segunda mitad del periodo constitucional.
+
+La votación debe llevarse a cabo a mas tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral.
+
+Para la validez del procedimiento de revocación de mandato deberán participar por lo menos la misma cantidad de ciudadanos que lo hicieron en la elección donde resultó electo el servidor público sujeto a este mecanismo.
+
+Cuando el número de votos a favor de la revocación del mandato del servidor público sea mayor al número de votos a favor por el que fue electo, el servidor público cesará en el cargo y se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.
+
+La revocación del mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del servidor público sujeto a este mecanismo.
+
+VII. Consulta Popular: es el mecanismo mediante el cual los habitantes del Estado, un municipio o demarcación territorial, expresan sus opiniones respecto a temas de carácter público o impacto social que son consultados por la autoridad correspondiente.
+
+Cuando la consulta se dirija a temas relativos a los Poderes Ejecutivo o Legislativo podrá ser solicitada por: el 50 por ciento de los integrantes del Congreso del Estado; el Gobernador del Estado; o por el 0.05 por ciento de los habitantes de la demarcación territorial correspondiente.
+
+Cuando la consulta se dirija a temas relativos a los gobiernos municipales podrá ser solicitada por: el 50 por ciento de los integrantes del ayuntamiento; o por el 0.05 por ciento de los habitantes de la demarcación territorial correspondiente.
+
+VIII. Presupuesto Participativo: es el mecanismo de participación mediante el cual los habitantes del Estado definen el destino de un porcentaje de los recursos públicos, para lo cual el Gobierno del Estado proyectará anualmente en el Presupuesto de Egresos una partida equivalente al menos al quince por ciento del presupuesto destinado para inversión pública.
+
+Para impulsar el desarrollo municipal y regional, los ayuntamientos podrán convenir con el Poder Ejecutivo del Estado la realización de inversiones públicas conjuntas, que los habitantes de sus municipios determinen mediante el presupuesto participativo.
+
+IX. Comparecencia Pública: es el mecanismo de participación y democracia deliberativa, mediante el cual los habitantes del Estado o un municipio dialogan y debaten con los funcionarios públicos del Estado o los municipios para solicitarles la rendición de cuentas, pedir información, proponer acciones, cuestionar y solicitar la realización de determinados actos o la adopción de acuerdos.
+
+X. Proyecto Social: es el mecanismo de participación social, mediante el cual los habitantes de un municipio colaboran, cooperan y trabajan en conjunto con el ayuntamiento para la solución de una necesidad o problemática existente en los barrios, fraccionamientos y colonias municipales.
+
+XI. Asamblea Popular: es un mecanismo de participación, mediante el cual los habitantes del Estado o de un municipio construyen un espacio para la opinión sobre temas de interés general o asuntos de carácter local o de impacto en la comunidad.
+
+XII. Ayuntamiento Abierto: es el mecanismo de participación, mediante el cual los habitantes de un municipio, a través de representantes de asociaciones vecinales debidamente registradas, tienen derecho a presentar propuestas o peticiones en por lo menos seis de las sesiones ordinarias que celebre el ayuntamiento en el año.
+
+XIII. Colaboración Popular: es el mecanismo de participación, mediante el cual los habitantes del Estado o de un municipio, participan en la ejecución de una obra o prestación de un servicio existente, aportando recursos económicos, materiales o trabajo personal en coordinación con los gobiernos municipales y estatal.
+
+XIV. Planeación Participativa: es el mecanismo de participación mediante el cual la toma de decisiones se construye en coordinación con la ciudadanía, para la creación de los instrumentos de planeación del desarrollo. Sólo podrá ejercerse por la ciudadanía dentro de los periodos de elaboración o actualización de los citados instrumentos.
+
+XV. Diálogo Colaborativo: es el mecanismo de participación por el cual la autoridad establece acuerdos y consensos con la ciudadanía, a través de la construcción de nuevos espacios de representatividad para la toma de decisiones públicas, mediante la libre expresión de ideas y posiciones ciudadanas para el fortalecimiento de la democracia.
+
+XVI. Contraloría Social: es el mecanismo de participación mediante el cual la ciudadanía y los organismos del sector social y privado forman una instancia de vigilancia y observación de las actividades de gobierno.
+
+Apartado B. Se reconocen como políticas gubernamentales dirigidas a propiciar el trabajo colaborativo, con la finalidad de incentivar la participación ciudadana, las siguientes:
+
+I. Gobierno Abierto: es una política gubernamental estatal y municipal orientada a una nueva gobernanza enfocada a generar alternativas de solución a los problemas, demandas y necesidades sociales involucrando a los ciudadanos, facilitando el acceso a la información, la planeación, la colaboración y la co- creación, de manera proactiva.
+
+II. Congreso Abierto: es una política gubernamental legislativa que pone a disposición de la ciudadanía información de forma transparente, sencilla y accesible; rinde cuentas y permite la vigilancia y el monitoreo de los ciudadanos, y utiliza las tecnologías de la información para definir el vínculo con la ciudadanía y hacerla partícipe de las decisiones de los asuntos públicos. De igual manera convoca a la ciudadanía a hacer propuestas de iniciativas de ley y reformas que impacten en el bienestar social; y
+
+III. Justicia Abierta: es la política gubernamental orientada a adoptar los principios del gobierno abierto para el ámbito jurisdiccional, traducidos en herramientas como lenguaje ciudadano en la redacción de documentos jurídicos, publicación y difusión de expedientes y de criterios legales aplicados, así como transparencia en los procesos de nombramiento, designación y evaluación de jueces y magistrados y en general todo aquello que haga más accesible el funcionamiento del Sistema de Administración de Justicia del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -3892,3 +3968,13 @@ P.O. 12 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26940/LXI/18 QUE REFORMA LOS ARTÍCULOS 21, 35, 37, 74 Y 81 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO NÚMERO AL-112-LXII-19”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27254/LXII/19 SE CAMBIA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO SEGUNDO Y SE REFORMA EL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, EN MATERIA DE PARTICIPACIÓN CIUDADANA”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemple dicha figura en las entidades federativas.
+
+Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
