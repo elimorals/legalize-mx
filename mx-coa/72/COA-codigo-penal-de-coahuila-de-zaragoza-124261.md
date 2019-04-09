@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2017-10-27"
+last_updated: "2019-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -4421,6 +4421,12 @@ VIII. (Participación de menor de edad)
 
 Valiéndose de un menor de doce años; o con la intervención de quien tenga doce años o más, pero menos de dieciocho años, ya sea que el mismo intervenga como autor, determinador o como cómplice.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2019)</small>
+
+IX. (Robo a centros educativos)
+
+Cuando se cometa en contra de uno o más bienes de cualquier institución pública o privada que funcione como Centro Educativo.
+
 Artículo 286 (Querella)
 
 Los delitos previstos en este capítulo se perseguirán por querella, salvo los cometidos con cualquiera de las modalidades agravantes previstas en las fracciones IX y XI del artículo 283 de este código, o bien, con cualquiera de las calificativas previstas en las fracciones I, II, V, VI, VII y VIII del artículo 284 de este código, o con cualquiera de las calificativas especiales del artículo 285 de este código.
@@ -7520,3 +7526,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 220.- SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 285, PARA AÑADIR EL ROBO A CENTROS EDUCATIVOS, COMO CALIFICATIVA ESPECIAL DE ROBO, DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
