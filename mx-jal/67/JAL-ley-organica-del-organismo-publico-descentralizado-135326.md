@@ -1,0 +1,368 @@
+---
+title: "LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO \"AGENCIA INTEGRAL DE REGULACION DE EMISIONES\", DEL ESTADO DE JALISCO"
+identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-135326"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2019-04-09"
+last_updated: "2019-04-09"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135326&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "135326"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "28 SECCION VII"
+reform_count: "1"
+scjn_last_update: "2022-02-17"
+issue_date: "2019-04-08"
+state: "JAL"
+---
+# LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACION DE EMISIONES", DEL ESTADO DE JALISCO
+
+LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES DEL ESTADO DE JALISCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección VII al Número 28 del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
+
+Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
+
+Enrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber; que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+
+NÚMERO 27260/LXII/19 EL CONGRESO DEL ESTADO DECRETA:
+
+SE ESTABLECEN LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 72 Y SE ADICIONA UN ARTÍCULO 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN XII, 19 FRACCIÓN X, 44 PRIMER PÁRRAFO Y SE AGREGA UN PÁRRAFO CUARTO RECORRIÉNDOSE TODOS LOS DEMÁS, 51, 169 PRIMER PÁRRAFO, FRACCIÓN V, SE CREA UNA FRACCIÓN VI RECORRIÉNDOSE TODAS LAS DEMÁS Y SE AGREGA UN ÚLTIMO PÁRRAFO, 174 PRIMER PÁRRAFO Y SE ELIMINA EL SÉPTIMO PÁRRAFO RECORRIENDOSE TODOS LOS DEMAS, SE CREA EL ARTÍCULO 174 BIS, 185 FRACCIONES II, III, IV, SE ADICIONA UNA FRACCIÓN V Y SE AGREGAN TRES ÚLTIMOS PÁRRAFOS, 188 ADICIONÁNDOLE UN PÁRRAFO TERCERO Y RECORRIÉNDOSE TODOS LOS DEMAS Y 190 FRACCIÓN IV, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES" Y SE EXPIDE SU LEY ORGÁNICA.
+
+###### ARTÍCULO PRIMERO.
+
+[…]
+
+[…]
+
+###### ARTÍCULO SEXTO.
+
+Se expide la Ley Orgánica del Organismo Público Descentralizado denominado "Agencia Integral de Regulación de Emisiones", para quedar como sigue:
+
+LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES"
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO. OBJETO Y DEFINICIONES
+
+###### Artículo 1.
+
+La presente Ley Orgánica tiene por objeto regular la organización y el funcionamiento de la "Agencia Integral de Regulación de Emisiones" como organismo público descentralizado del Poder Ejecutivo del Estado.
+
+###### Artículo 2.
+
+Para los efectos de la presente Ley, deberá entenderse por:
+
+I. Agencia: El Organismo Público Descentralizado denominado "Agencia Integral de Regulación de Emisiones";
+
+II. Bases del Programa: Las Bases del Programa de Verificación Vehicular del Estado de Jalisco;
+
+III. Centro de Control del Sistema de Verificación Vehicular: La tecnología instalada para controlar, vigilar e intervenir desde una central, la operación del Programa de Verificación Vehicular mediante el uso de tecnologías, operada por el Proveedor de Tecnología con la intervención (sic) vigilancia y acceso permanente de la Secretaría;
+
+IV. Contrato: Contrato de prestación de servicios que otorgue la Secretaría al Proveedor de Tecnología, para prestar el servicio de proveeduría de tecnología para la verificación vehicular;
+
+V. Contrato de Suministro de Líneas de Verificación Vehicular: El contrato aprobado por la Secretaría por el que el Proveedor de Tecnología suministra la tecnología y las Líneas de Verificación a los Establecimientos de Verificación Vehicular;
+
+VI. Director General: El Director General del Organismo Público Descentralizado denominado "Agencia Integral de Regulación de Emisiones";
+
+VII. Establecimiento de Verificación Vehicular: El establecimiento autorizado por la Secretaría a personas físicas o jurídicas, privadas o públicas, asociaciones público-privadas u otras asociaciones entre particulares y entes públicos, para instalar y operar la tecnología y las Líneas de Verificación Vehicular, en los que se prestará el servicio de verificación de emisiones de gases contaminantes de los vehículos automotores;
+
+VIII. Fondo Ambiental: El Fondo Estatal de Protección al Ambiente;
+
+IX. Línea de Verificación Vehicular: El conjunto de equipos y sistemas para realizar verificaciones vehiculares conforme a los procedimientos establecidos en las Normas Oficiales Mexicanas, con conexión a través de una línea de comunicación con el Centro de Control del Sistema de Verificación Vehicular;
+
+X. Programa de Verificación Vehicular: El programa emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial conforme a las Bases del Programa y el Reglamento, que establece la verificación vehicular en el Estado de Jalisco;
+
+XI. Proveedor de Tecnología: El proveedor de tecnología unificada para prestar el servicio de verificación vehicular en el Estado de Jalisco, a través de contratos de suministro a los Establecimientos de Verificación Vehicular;
+
+XII. Reglamento: El Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente en materia de verificación vehicular que emita el Ejecutivo del Estado de Jalisco;
+
+XIII. Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial; y
+
+XIV. Tecnología de Verificación Vehicular: los aparatos, equipos, sistema físico, electrónico y de programación, que integran un sistema único para operar el Programa de Verificación Vehicular, que cumple con las Normas Oficiales Mexicanas vigentes.
+
+###### Artículo 3.
+
+La Agencia Integral de Regulación de Emisiones es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la operación de Establecimientos de Verificación Vehicular.
+
+###### Artículo 4.
+
+La Agencia Integral de Regulación de Emisiones, tendrá su domicilio oficial en el Área Metropolitana de Guadalajara y podrá establecer oficinas en otros municipios o áreas metropolitanas del Estado.
+
+## TÍTULO SEGUNDO. DE LA AGENCIA
+
+### CAPÍTULO I. ATRIBUCIONES
+
+###### Artículo 5.
+
+La Agencia tiene las siguientes atribuciones:
+
+I. Prestar el servicio de verificación vehicular a través de Establecimientos de Verificación Vehicular propios;
+
+II. Asociarse o celebrar contratos con personas físicas o jurídicas, privadas o públicas, para la instalación y operación de Establecimientos de Verificación Vehicular para prestar el servicio;
+
+III. Invertir en la construcción, instalación y operación de los Establecimientos de Verificación Vehicular propios;
+
+IV. Tramitar ante la Secretaría las autorizaciones para la instalación y operación de los Establecimientos de Verificación Vehicular propios;
+
+V. Tramitar ante las autoridades competentes las licencias, permisos o autorizaciones que se requieran para la construcción, instalación y operación de los Establecimientos de Verificación Vehicular propios;
+
+VI. Percibir y administrar los ingresos por la prestación del servicio del Programa de Verificación Vehicular en sus Establecimientos de Verificación Vehicular;
+
+VII. Recibir y ejercer los recursos presupuestales que se autoricen por el Congreso del Estado;
+
+VIII. Realizar transferencias y donativos al Fondo Estatal de Protección al Ambiente;
+
+IX. Realizar o contratar publicidad o actividades de difusión para el cumplimiento del Programa de Verificación Vehicular;
+
+X. Adquirir créditos para la construcción, instalación y operación de los Establecimientos de Verificación Vehicular propios, cumpliendo con las disposiciones de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios;
+
+XI. Celebrar convenios y contratos para la adquisición de bienes inmuebles y muebles o derechos posesorios, que sean necesarios para la instalación de sus oficinas, el espacio físico del Centro de Control del Sistema de Verificación Vehicular y los Establecimientos de Verificación Vehicular propios;
+
+XII. Celebrar actos jurídicos y contratos con personas físicas o jurídicas, privadas o públicas, para la construcción e instalación de los Establecimientos de Verificación Vehicular propios;
+
+XIII. Participar en asociaciones público-privadas cumpliendo con las disposiciones de la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco, y otros esquemas de contratación y asociativos para el establecimiento u operación de Establecimientos de Verificación Vehicular;
+
+XIV. Solicitar a la Secretaría la gestión ante la Secretaría de Infraestructura y Obra Pública para la construcción o instalación de los Establecimientos de Verificación Vehicular propios;
+
+XV. Adquirir recursos materiales para colaborar con grupos especializados de policías viales para la supervisión y el cumplimiento del Programa de Verificación Vehicular;
+
+XVI. Adquirir equipos exclusivamente para ser utilizados en operativos en coordinación con la policía vial para el cumplimiento del Programa de Verificación Vehicular;
+
+XVII. Celebrar los contratos o actos jurídicos que exija el cumplimiento de sus objetivos;
+
+XVIII. Ejercer las acciones y defensas legales para el cumplimiento de sus objetivos; y
+
+XIX. Las demás establecidas en el Reglamento y en las leyes.
+
+### CAPÍTULO II. ORGANIZACIÓN DE LA AGENCIA
+
+###### Artículo 6.
+
+La Agencia se conforma por:
+
+I. Junta de Gobierno;
+
+II. Director General;
+
+III. Estructura Administrativa, como órgano de administración y operación; y
+
+IV. Órgano de Control.
+
+###### Artículo 7.
+
+La Estructura Administrativa, se establecerá en el reglamento interno de la Agencia.
+
+#### Sección Primera. De la Junta de Gobierno
+
+###### Artículo 8.
+
+La Junta de Gobierno, es el máximo órgano de gobierno de la Agencia y se integra por los siguientes miembros titulares y sus respectivos suplentes:
+
+I. Un Presidente que será el Titular del Poder Ejecutivo del Estado o el funcionario público que éste designe;
+
+II. Los vocales, que serán los titulares de las dependencias que se expresan a continuación o a quien éstos designen:
+
+a) Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+b) Secretaría de la Hacienda Pública;
+
+c) Secretaría del Transporte;
+
+d) Secretaría de Seguridad;
+
+e) Procuraduría Estatal de Protección al Ambiente;
+
+f) Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
+
+g) Contraloría del Estado; y
+
+h) Organismo de la Sociedad Civil.
+
+III. Un Secretario Técnico, que será el Director General del Organismo.
+
+###### Artículo 9.
+
+Todos los miembros de la Junta de Gobierno participarán con voz y voto, a excepción del Secretario Técnico, la Contraloría del Estado y el Organismo de la Sociedad Civil, quienes únicamente participarán con voz.
+
+Los miembros de la Junta de Gobierno no recibirán remuneración alguna por el desempeño de sus actividades, con excepción del Director General.
+
+La Junta de Gobierno requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones, los acuerdos se tomarán por mayoría simple de votos y, en caso de empate, el Presidente tendrá el voto de calidad.
+
+Las reglas de votación y suplencias se establecerán en el Reglamento Interno de la Agencia.
+
+Los miembros de la Junta de Gobierno elegirán al Organismo de la Sociedad Civil, que se integrará a la misma; para ello deberán considerar que cuente con mínimo 5 años de experiencia probada en políticas públicas en la calidad el (sic) aire, que esté debidamente constituida y que no tenga conflicto de interés con las decisiones o acuerdos que se tomen en la Junta de Gobierno.
+
+###### Artículo 10.
+
+La Junta de Gobierno además de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, cuenta con las siguientes atribuciones:
+
+I. Autorizar anualmente las políticas, planes, programas y estrategias para la consecución de los objetivos y fines de la Agencia;
+
+II. Autorizar el gasto operativo de la Agencia y su modificación;
+
+III. Aprobar la estructura de la Agencia, así como sus modificaciones;
+
+IV. Aprobar los sueldos y prestaciones de los servidores públicos de la Agencia, conforme a la normativa vigente;
+
+V. Vigilar el debido cumplimiento de los criterios de austeridad, racionalidad y disciplina, conforme a los cuales la Agencia ejercerá su presupuesto;
+
+VI. Elaborar un informe público anual, detallando las actividades realizadas por la Junta de Gobierno;
+
+VII. Comunicar, por conducto del Director General, por escrito sobre el nombramiento y cualquier cambio en los miembros que integran la Junta de Gobierno;
+
+VIII. Autorizar las modificaciones que requiera la Agencia, dejando a salvo los derechos previamente generados a favor de terceros dentro de la misma;
+
+IX. Aprobar el Reglamento Interior, que será expedido por el Titular del Poder Ejecutivo, así como demás lineamientos y normativa interna;
+
+X. Autorizar la estructura administrativa y operativa que formará parte de la Agencia, así como los términos en que se llevará a cabo dicha contratación a través de manera directa;
+
+XI. Aprobar la inversión para la instalación de Establecimientos de Verificación Vehicular;
+
+XII. Aprobar la inversión de recursos materiales para el equipamiento de grupos especializados de policías viales para la supervisión y el cumplimiento del Programa de Verificación Vehicular;
+
+XIII. Aprobar la contratación de créditos para la construcción, instalación y operación de los Establecimientos de Verificación Vehicular propios, cumpliendo con las disposiciones de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios; y
+
+XIV. Las demás previstas en la presente Ley y demás ordenamientos aplicables.
+
+###### Artículo 11.
+
+El Presidente de la Junta de Gobierno tendrá las siguientes atribuciones:
+
+I. Convocar a las sesiones, ya sean ordinarias o extraordinarias, que celebre la Junta de Gobierno;
+
+II. Autorizar el orden del día de las sesiones;
+
+III. Presidir las sesiones;
+
+IV. Autorizar, junto con el Secretario Técnico, las actas que se levanten en virtud de la celebración de las sesiones de la Junta de Gobierno;
+
+V. Recibir y resguardar, las acreditaciones de los integrantes de la Junta de Gobierno;
+
+VI. Representar jurídicamente a la Junta de Gobierno, facultad que podrá delegar en otro servidor público en caso de ser necesario;
+
+VII. Procurar que los acuerdos y decisiones que apruebe la Junta de Gobierno, se apeguen a los criterios de economía, eficacia, transparencia, imparcialidad y honradez, con el objeto de buscar siempre las mejores condiciones para la consecución de los fines de la Agencia; y
+
+VIII. Las demás que le otorguen otras disposiciones legales aplicables.
+
+#### Sección Segunda. Del Director General
+
+###### Artículo 12.
+
+El Director de la Agencia será nombrado y removido libremente por el Gobernador del Estado.
+
+###### Artículo 13.
+
+Para ser Director General se requiere:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con título profesional preferentemente en la materia que se trate o acreditar experiencia en la misma al momento de su designación;
+
+III. Preferentemente demostrar experiencia en dirección y manejo de empresas; y
+
+IV. No haber sido condenado por delito doloso.
+
+###### Artículo 14.
+
+El Director General, tiene las atribuciones establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, además:
+
+I. Ejercer las atribuciones de la Agencia que no se encuentran establecidas para otras instancias públicas;
+
+II. Atender las políticas, normas o lineamientos que emita la Secretaría;
+
+III. Proponer a la Secretaría políticas para la mejora continua de la operación de los Establecimientos de Verificación Vehicular y del Programa de Verificación Vehicular;
+
+IV. Rendir un informe mensual a la Secretaría, sobre la instalación y operación de los Establecimientos de Verificación Vehicular propios;
+
+V. Proporcionar la información que le sea requerida por la Secretaría o la Procuraduría Estatal de Protección al Ambiente;
+
+VI. Mantener actualizados los estados financieros de la Agencia;
+
+VII. Convocar, por instrucción del Presidente de la Junta de Gobierno a las sesiones de este órgano;
+
+VIII. Vigilar la debida operación de sus Establecimientos de Verificación Vehicular; y
+
+IX. Las demás establecidas en otras disposiciones legales y reglamentarias.
+
+#### Sección Tercera. Del Órgano de Control
+
+###### Artículo 15.
+
+La Agencia tendrá un órgano de control en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco. El funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado.
+
+### CAPÍTULO III. PATRIMONIO DEL ORGANISMO
+
+###### Artículo 16.
+
+El patrimonio de la Agencia se integra en términos de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
+
+### CAPÍTULO IV. DEL RÉGIMEN LABORAL
+
+###### Artículo 17.
+
+El régimen laboral de los trabajadores al servicio de la Agencia, se regirá conforme a las disposiciones aplicables.
+
+## TRANSITORIOS
+
+PRIMERO. Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan los ARTÍCULOS PRIMERO y SEGUNDO, así como los artículos SEGUNDO TRANSITORIO, TERCERO TRANSITORIO Y CUARTO TRANSITORIO del decreto 25921/LXI/16, aprobado por este Congreso el seis de noviembre de dos mil dieciséis publicado en el periódico oficial "El Estado de Jalisco" el veinticinco de noviembre de dos mil dieciséis.
+
+TERCERO. El Ejecutivo del Estado de Jalisco, contará con el plazo de noventa días para emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico en materia de verificación vehicular, así como el Programa de Verificación Vehicular.
+
+CUARTO. La Junta de Gobierno del Organismo Público Descentralizado "Agencia Integral de Regulación de Emisiones", deberá aprobar el Reglamento Interno de la Agencia, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento; el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+QUINTO. Los establecimientos acreditados para ofrecer el servicio de verificación vehicular que a la fecha de entrada en vigor del presente decreto se encuentren vigentes deberán transitar al programa de verificación vehicular cumpliendo con las disposiciones que se establezcan conforme al presente decreto. La vigencia de las acreditaciones actuales, no podrá ser excedida ni prorrogada, si antes no transitan al programa de verificación vehicular conforme a lo dispuesto en este Decreto.
+
+SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169 fracción V y 185 fracción II, III y IV de la Ley de Movilidad y Transporte del Estado de Jalisco, serán aplicables a partir del primero de enero de 2020.
+
+SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
+
+OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
+
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
+
+GUADALAJARA, JALISCO, 5 DE ABRIL DE 2019
+
+Diputado Presidente
+
+SALVADOR CARO CABRERA
+
+(RÚBRICA)
+
+Diputada Secretaria
+
+MIRIAM BERENICE RIVERA RODRÍGUEZ
+
+(RÚBRICA)
+
+Diputada Secretaria
+
+IRMA DE ANDA LICEA
+
+(RÚBRICA)
+
+PROMULGACIÓN DEL DECRETO 27260/LXII/19, MEDIANTE EL CUAL SE ESTABLECEN LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 72 Y SE ADICIONA UN ARTÍCULO 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X DEL ARTICULO 70 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN XII, 19 FRACCIÓN X, 44 PRIMER PÁRRAFO Y SE AGREGA UN PÁRRAFO CUARTO RECORRIÉNDOSE TODOS LOS DEMÁS, 51, 169 PRIMER PÁRRAFO, FRACCIÓN V, SE CREA UNA FRACCIÓN VI RECORRIÉNDOSE TODAS LAS DEMÁS Y SE AGREGA UN ÚLTIMO PÁRRAFO, 174 PRIMER PÁRRAFO Y SE ELIMINA EL SÉPTIMO PÁRRAFO RECORRIÉNDOSE TODOS LOS DEMÁS, SE CREA EL ARTÍCULO 174 BIS, 185 FRACCIONES II, III, IV, SE ADICIONA UNA FRACCIÓN V Y SE AGREGAN TRES ÚLTIMOS PÁRRAFOS, 188 ADICIONÁNDOLE UN PÁRRAFO TERCERO Y RECORRIÉNDOSE TODOS LOS DEMÁS Y 190 FRACCIONES IV, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES" Y SE EXPIDE SU LEY ORGÁNICA; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 5 DE ABRIL DE 2019.
+
+En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 8 ocho días del mes de abril de 2019 dos mil diecinueve.
+
+ENRIQUE ALFARO RAMÍREZ
+
+Gobernador Constitucional del Estado de Jalisco
+
+(RÚBRICA)
+
+JUAN ENRIQUE IBARRA PEDROZA
+
+Secretario General de Gobierno
+
+(RÚBRICA)
