@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-111890"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-19"
-last_updated: "2016-12-31"
+last_updated: "2019-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2016
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
 
 Ley publicada en la Sección LIX del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 2015.
 
@@ -739,18 +739,38 @@ P.O. 15 DE MARZO DE 2016.
 
 P.O. 25 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 25921/LXI/16 QUE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE JALISCO, PARA QUE OTORGUE A PARTICULARES LA OPERACIÓN DE LÍNEA DE VERIFICACIÓN Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, VIGENTE EN EL EJERCICIO FISCAL 2016”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25921/LXI/16 QUE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE JALISCO, PARA QUE OTORGUE A PARTICULARES LA OPERACIÓN DE LÍNEA DE VERIFICACIÓN Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, VIGENTE EN EL EJERCICIO FISCAL 2016".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un vehículo por carecer del holograma del programa de verificación vehicular obligatoria, así como la multa por verificación vehicular extemporánea, previstas en los artículos 169, fracción V, 185, fracción IV, primer párrafo, de la Ley de Movilidad y Transporte del Estado de Jalisco, respectivamente, serán aplicables a partir del 1 de enero de 2017.
+SEGUNDO. (DEROGADO POR EL TRANSITORIO SEGUNDO DEL DECRETO 27260/LXII/19, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2019)
 
-TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
+TERCERO. (DEROGADO POR EL TRANSITORIO SEGUNDO DEL DECRETO 27260/LXII/19, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2019)
 
-CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
+CUARTO. (DEROGADO POR EL TRANSITORIO SEGUNDO DEL DECRETO 27260/LXII/19, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2019)
 
 P.O. 31 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26181/LXI/16 QUE REFORMA LOS ARTÍCULOS 19, 20, 41, 43, 82, 87, 102, 103, 120 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; 69 DE LA LEY DE HACIENDA DE JALISCO; Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO 2016”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. DE 9 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27260/LXII/19 QUE ESTABLECE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 72 Y SE ADICIONA UN ARTÍCULO 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 5° FRACCIÓN XII, 19 FRACCIÓN X, 44 PRIMER PÁRRAFO Y SE AGREGA UN PÁRRAFO CUARTO RECORRIÉNDOSE TODOS LOS DEMÁS, 51, 169 PRIMER PÁRRAFO, FRACCIÓN V, SE CREA UNA FRACCIÓN VI RECORRIÉNDOSE TODAS LAS DEMÁS Y SE AGREGA UN ÚLTIMO PÁRRAFO, 174 PRIMER PÁRRAFO Y SE ELIMINA EL SÉPTIMO PÁRRAFO RECORRIÉNDOSE TODOS LOS DEMÁS, SE CREA EL ARTÍCULO 174 BIS, 185 FRACCIONES II, III, IV, SE ADICIONA UNA FRACCIÓN V Y SE AGREGAN TRES ÚLTIMOS PÁRRAFOS, 188 ADICIONÁNDOLE UN PÁRRAFO TERCERO Y RECORRIÉNDOSE TODOS LOS DEMÁS Y 190 FRACCIÓN IV, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES" Y SE EXPIDE SU LEY ORGÁNICA”.]
+
+PRIMERO. Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan los ARTÍCULOS PRIMERO y SEGUNDO, así como los artículos SEGUNDO TRANSITORIO, TERCERO TRANSITORIO Y CUARTO TRANSITORIO del decreto 25921/LXI/16, aprobado por este Congreso el seis de noviembre de dos mil dieciséis publicado en el periódico oficial "El Estado de Jalisco" el veinticinco de noviembre de dos mil dieciséis.
+
+TERCERO. El Ejecutivo del Estado de Jalisco, contará con el plazo de noventa días para emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico en materia de verificación vehicular, así como el Programa de Verificación Vehicular.
+
+CUARTO. La Junta de Gobierno del Organismo Público Descentralizado "Agencia Integral de Regulación de Emisiones", deberá aprobar el Reglamento Interno de la Agencia, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento; el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+QUINTO. Los establecimientos acreditados para ofrecer el servicio de verificación vehicular que a la fecha de entrada en vigor del presente decreto se encuentren vigentes deberán transitar al programa de verificación vehicular cumpliendo con las disposiciones que se establezcan conforme al presente decreto. La vigencia de las acreditaciones actuales, no podrá ser excedida ni prorrogada, si antes no transitan al programa de verificación vehicular conforme a lo dispuesto en este Decreto.
+
+SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169 fracción V y 185 fracción II, III y IV de la Ley de Movilidad y Transporte del Estado de Jalisco, serán aplicables a partir del primero de enero de 2020.
+
+SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
+
+OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
