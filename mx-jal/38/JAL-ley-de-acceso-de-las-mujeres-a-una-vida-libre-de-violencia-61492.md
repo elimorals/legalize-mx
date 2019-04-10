@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2019-03-21"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -271,7 +271,7 @@ El Sistema Estatal fundará dichas acciones en los principios de igualdad de gé
 
 El Consejo Estatal es la instancia encargada de dictar los ejes rectores y transversales de las políticas públicas en la materia de igualdad de género, prevención, atención, sanción, erradicación de la violencia contra las mujeres y operadora del sistema estatal, a través de acciones afirmativas que propicien su acceso a una vida libre de violencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 17.
 
@@ -283,21 +283,25 @@ I. El Gobernador o Gobernadora Constitucional del Estado, quien fungirá como Pr
 
 II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-III. La Secretaría de Desarrollo e Integración Social;
+III. La Secretaría del Sistema de Asistencia Social;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
 IV. La Fiscalía del Estado de Jalisco;
 
-V. La Secretaría de Educación (sic) Jalisco;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
 VII. La Secretaría de Cultura;
 
-VIII. La Secretaría del Trabajo;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII. La Secretaría de Trabajo y Previsión Social;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -307,9 +311,9 @@ IX. La Secretaría de Seguridad;
 
 X. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XI. La Procuraduría Social;
+XI. Procuraduría Social del Estado;
 
 XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -323,13 +327,21 @@ XV. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafami
 
 XVI. Comisión Estatal Indígena.
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-XVII. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado; y
+XVII. La Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XVIII. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+XVIII. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XIX. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XX. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
 
 Los titulares o los representantes que formen parte del Consejo tendrán cargos honoríficos.
 
@@ -491,9 +503,17 @@ X. Publicar semestralmente la información general y estadística sobre los caso
 
 XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo, las medidas y políticas públicas para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres;
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XIII. Diseñar un modelo integral de atención que instrumenten las instituciones, los centros de atención y los refugios previstos por esta ley, relativos a los derechos humanos y ciudadanía de las mujeres.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres, para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XIII. Diseñar un modelo integral de atención que instrumenten las instituciones, los centros de atención y los refugios previstos por esta ley, relativos a los derechos humanos y ciudadanía de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XIV. Promover la implementación y, en su caso, expedir los lineamientos para la operación y funcionamiento de la Red de Información de Violencia contra las Mujeres y un Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida, tanto para la Administración Pública Estatal y Municipal, en coordinación con instituciones públicas y privadas.
 
 ### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, DETECCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -505,9 +525,11 @@ Los poderes públicos del Estado y los gobiernos municipales, de acuerdo a su di
 
 Del Gobierno del estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 25.
 
-Son facultades y obligaciones del Estado; además de las establecidas en otros ordenamientos:
+Son facultades y obligaciones del Estado, además de las establecidas en otros ordenamientos:
 
 I. Promover se garantice el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
 
@@ -525,7 +547,9 @@ VII. Coordinar la creación de Programas de reeducación y reinserción social c
 
 VIII. Promover la coordinación entre el Estado y los ayuntamientos, con la finalidad de prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres;
 
-IX. Promover a través del Instituto Jalisciense de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Promover a través de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, con el apoyo de las instancias locales, campañas de información, con énfasis en la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 X. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
 
@@ -571,15 +595,17 @@ VIII. Realizar, a través del Consejo un Diagnóstico Estatal y otros estudios c
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
 
-#### Sección Tercera. De la Secretaría de Desarrollo e Integración Social
+#### Sección Tercera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+De la Secretaría del Sistema de Asistencia Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Secretaría de Desarrollo e Integración Social, además de lo establecido en otros ordenamientos:
+Corresponde a la Secretaría del Sistema de Asistencia Social, además de lo establecido en otros ordenamientos:
 
 I. Fomentar el desarrollo humano desde la visión de protección integral de los derechos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -591,9 +617,29 @@ IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus 
 
 V. Promover políticas de prevención, detección, atención y erradicación de la violencia y oportunidades entre mujeres y hombres, para lograr el empoderamiento de las mujeres y la eliminación de las brechas y desventajas de género;
 
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-VII. Las demás previstas para el cumplimiento de la presente ley.
+VI. Promover políticas de prevención y atención de la violencia contra las mujeres, en el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+VII. Celebrar convenios de colaboración con las dependencias e instituciones de asistencia social públicas o privadas, para ejecutar programas de ayuda directa, establecidos por el Estado, relacionados con la protección y garantía de los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII. Gestionar y suministrar recursos económicos suficientes del Estado para cumplir con la obligación de contar con centros de refugio temporal para mujeres víctimas de violencia en el Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Apoyar, gestionar y suministrar recursos económicos para el establecimiento de centros de atención y rehabilitación para personas agresoras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+X. Promover y difundir conocimientos y prácticas de respeto a los derechos de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -807,13 +853,17 @@ V. En caso de tener conocimiento de un acto de violencia de género deberá comu
 
 VI. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
+
 #### Sección Décima.
 
-Del Instituto Jalisciense de las Mujeres.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 34.
 
-Corresponde al Instituto Jalisciense de las Mujeres, además de lo establecido en otros ordenamientos:
+Corresponde a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, además de lo establecido en otros ordenamientos:
 
 I. Integrar las investigaciones promovidas por las dependencias de la administración pública estatal sobre las causas, características y consecuencias de la violencia contra las mujeres. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes para la erradicación de la violencia;
 
@@ -855,9 +905,13 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 XIII. Las demás previstas para el cumplimiento de la ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
+
 #### Sección Décima Primera.
 
-Del Instituto Jalisciense de Asistencia Social.
+La Comisión Estatal de Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 #### Sección Décima Segunda.
 
@@ -865,19 +919,9 @@ Del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 35.
 
-Corresponde al Instituto Jalisciense de Asistencia Social, además de lo establecido en otros ordenamientos:
+La observancia al cumplimiento estatal de las políticas para el acceso de las mujeres a una vida libre de violencia, estará a cargo de la Comisión Estatal de Derechos Humanos.
 
-I. Celebrar convenios de colaboración con las dependencias e instituciones de asistencia social públicas o privadas, para ejecutar programas de ayuda directa, establecidos por el Estado o por el propio instituto, relacionados con la protección de los derechos humanos de las mujeres;
-
-II. Apoyar, gestionar y suministrar recursos económicos para coadyuvar con el estado para el establecimiento de los centros de refugio temporal para mujeres víctimas de violencia;
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-III. Apoyar, gestionar y suministrar recursos económicos para el establecimiento de centros de atención y rehabilitación para personas agresoras;
-
-IV. Promover y difundir conocimientos y prácticas de respeto a los derechos de las mujeres; y
-
-V. Las demás previstas para el cumplimiento de la ley.
+El Gobierno del Estado de Jalisco será el responsable de garantizar a las mujeres el acceso a una vida libre de violencias (sic), de acuerdo con el derecho internacional de derechos humanos.
 
 #### Sección Décima Tercera.
 
@@ -1510,3 +1554,23 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27262/LXII/19 QUE REFORMA LOS ARTÍCULOS 16, PÁRRAFO 1, FRACCIÓN IX, 17, 25 Y 60, Y ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ASÍ COMO AL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2019, ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Poder Ejecutivo, para que a través de la Secretaría de la Hacienda Pública y la Secretaría de Administración, en el ámbito de sus competencias, realice las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio del gasto público.
+
+TERCERO. Los programas sujetos a reglas de operación, cuyas reglas ya fueron emitidas y que sufran alguna modificación con motivo del presente decreto, deberán ser actualizados dentro de los cuarenta y cinco días posteriores al inicio de vigencia del presente decreto. Así mismo, se faculta a los Titulares de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres y la Secretaría General de Gobierno, a realizar los convenios, contratos y acuerdos, que permitan garantizar la operación ininterrumpida de dichos programas, en tanto se implementan en sus respectivas dependencias los cambios estructurales que se derivan del presente decreto.
+
+CUARTO. Los informes trimestrales correspondientes al primer trimestre, que deban presentar la Secretaría General de Gobierno y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres con motivo del sistema de evaluación de desempeño y respecto del ejercicio del gasto, así como las matrices de indicadores de resultados de los programas presupuestarios asignados, serán presentados dentro de los 45 días posteriores al inicio de vigencia del presente decreto.
+
+QUINTO. Las facultades, derechos y obligaciones establecidas a cargo de los extintos Instituto Jalisciense para los Migrantes, Instituto Jalisciense de la Juventud y Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, en la Ley de Protección y Atención de los Migrantes, la Ley de Atención de la Juventud y la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad, todas del Estado de Jalisco, serán asumidas por la Secretaría General de Gobierno.
+
+SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal, en lo relativo a las atribuciones en materia de derechos humanos que se otorgan a la Secretaría General de Gobierno; entre otras, se deberán armonizar la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad y la Ley para el Desarrollo Integral del Adulto Mayor, ambas del Estado de Jalisco, modificadas mediante decretos 27210/LXII/2018, 26743/LXII/18 y 26954/LXII/18.
+
+SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
