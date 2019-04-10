@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-02-02"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE FEBRERO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27228/LXII/19 PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -361,7 +359,9 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría de Gestión Integral del Agua.
 
-IX. Secretaría de Igualdad Sustantiva;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
 X. Secretaría de Infraestructura y Obra Pública;
 
@@ -384,6 +384,8 @@ XVIII. Secretaría del Sistema de Asistencia Social; y
 XIX. Secretaría del Transporte.
 
 ###### Artículo 17.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE ABRIL DE 2019)</small>
 
 1. La Secretaría General de Gobierno tiene las siguientes atribuciones:
 
@@ -445,9 +447,89 @@ XXVIII. Hacerse cargo a través de su titular, del despacho del Ciudadano Gobern
 
 XXIX. Coordinar, supervisar y evaluar el diseño y desarrollo de los sistemas de información de las dependencias y entidades de la Administración Pública Estatal, relacionadas con el ámbito de su competencia;
 
-XXX. Participar en los sistemas nacional y estatal, tanto de seguridad pública, como de protección civil, en los términos de la legislación aplicable; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXXI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XXX. Participar en los sistemas nacional y estatal, tanto de seguridad pública, como de protección civil, en los términos de la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXI. Instrumentar y coordinar, como eje rector, la política pública estatal en materia de derechos humanos con un enfoque especial en los grupos en situación de desigualdad y discriminación por edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, situación de discapacidad o migración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXII. De conformidad con el párrafo tercero del artículo 1.° de la Constitución Federal, promover, respetar, proteger y garantizar los derechos humanos de todas las personas que habitan o transitan en el Estado, con especial énfasis en los grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno Estatal y de los mecanismos institucionales necesarios para su efectivo cumplimiento, o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades fundamentales de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIII. Incorporar en el diseño, la planeación e implementación del plan estatal de desarrollo, en la programación institucional y sectorial, en el presupuesto de egresos del estado, así como en las acciones a realizar por parte del sistema estatal de desempeño, el enfoque de derechos humanos con principal atención en grupos y comunidades en situación de desigualdad y discriminación por su edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, situación de discapacidad o migración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIV. Promover la incorporación de los derechos de niñas, niños y adolescentes en los instrumentos de planeación y presupuesto del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXV. Vigilar y dar seguimiento al Programa Estatal de Protección de Niñas, Niños y Adolescentes, y de los programas y políticas públicas del Gobierno de Jalisco de manera transversal, a efecto de que se promuevan, respeten, protejan y garanticen sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVI. Coordinar el Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad, dar el seguimiento continuo de la ejecución de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad contenidas en el Programa Estatal en la materia, y las medidas de nivelación y de inclusión que deberán reflejarse en todos los instrumentos de planeación, presupuesto y evaluación del Estado de Jalisco, para erradicar la discriminación, así como promover la igualdad de oportunidades, accesibilidad, no discriminación, participación e inclusión plenas y efectivas en la sociedad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVII. Coadyuvar y auxiliar, en coordinación con la Comisión Estatal Indígena, en el desarrollo integral y sustentable así como la plena efectividad de los derechos sociales, económicos y culturales de los pueblos originarios y comunidades indígenas, respetando su identidad social y cultural, sus costumbres y tradiciones, y sus instituciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVIII. Propiciar la participación y cooperación de los pueblos originarios y comunidades indígenas en los instrumentos de planeación y presupuesto del Gobierno del Estado, con el objeto de mejorar las condiciones de vida, de trabajo y del nivel de salud y educación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIX. Diseñar, promover y articular políticas, programas y acciones, bajo los criterios de transversalización e institucionalización, que permitan a las juventudes asumir su potencial como recurso estratégico en el desarrollo integral del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XL. Diseñar y coordinar la ejecución y cumplimiento del Programa Estatal de la Juventud y promover su integración en los Planes Estatal y Municipales de Desarrollo, de acuerdo con el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLI. Diseñar, promover y articular políticas, programas y acciones con diferentes sectores públicos y sociales, con el propósito de respetar, proteger, garantizar y promover los derechos humanos en el estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLII. Promover y garantizar, en el Gobierno del Estado, la generación de información pública, la rendición de cuentas y la transparencia gubernamental en materia de derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLIII. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de derechos humanos de personas, grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLIV. Coadyuvar con la Secretaría de Planeación y Participación Ciudadana en la incorporación del eje transversal de derechos humanos dentro del plan estatal de desarrollo correspondiente y en los instrumentos de programación consecuentes con la transversalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLV. Coadyuvar con la Secretaria de la Hacienda Pública en la incorporación del enfoque integrado de derechos humanos dentro de todo el presupuesto de egresos del Estado de Jalisco, y especialmente en los programas presupuestarios indicados en el eje transversal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLVI. Promover y coordinar la política al interior de las dependencias y entidades públicas, que permita institucionalizar una cultura de respeto a los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLVII. Coordinar y supervisar, dentro del ámbito estatal, la ejecución de los programas federales y los mecanismos de cooperación internacional especializados en grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración en el Estado, de acuerdo con los convenios suscritos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLVIII. Coordinar con las dependencias y entidades de la Administración Pública Estatal, el diseño e implementación de una Política Integral de Derechos Humanos, así como evaluar su cumplimiento. En el caso de los municipios, coadyuvar en el diseño, implementación y evaluación de sus políticas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLIX. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2019)</small>
+
+2. La Secretaría contará con los Consejos de Participación Ciudadana que estime necesarios para la atención focalizada de cada grupo prioritario, en los términos que establezca su reglamento.
 
 ###### Artículo 18.
 
@@ -835,55 +917,219 @@ Artículo 25
 
 1.- Las facultades de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres son las siguientes:
 
-I. Ser el mecanismo de adelanto para las Mujeres en todos los términos de los Tratados y Convenios Internacionales a los que México está adherido;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-II. Integrar una Contraloría Social de Género para establecer indicadores de impacto y evaluar los avances del mecanismo;
+I. Fungir como ente rector y gestor de las políticas estatales para la igualdad entre mujeres y hombres y de acceso de las mujeres a una vida libre de violencia, a fin de garantizar los derechos humanos de las mujeres, conforme al derecho nacional e internacional en la materia;
 
-III. Gestionar y administrar los recursos federales y estatales a favor de la igualdad sustantiva entre mujeres y hombres, así como celebrar convenios con Organismos Internacionales para la planeación y ejecución de políticas y programas que aseguren el cumplimiento de los mecanismos de adelanto para las mujeres;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-IV. Ejercer las atribuciones que la Constitución Política y legislación federal establece para los Estados, así como las atribuciones descentralizadas por la Federación hacia los Estados, en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
+II. Coordinar el diseño, la implementación, monitoreo y evaluación de las Políticas Estatales para la Igualdad entre Mujeres y Hombres, así como para el Acceso de las Mujeres a una Vida Libre de Violencia;
 
-V. Garantizar, proteger, promover y respetar los derechos humanos de todas las personas que habitan o transitan el estado, con especial énfasis en las mujeres, niñas, grupos y comunidades en situación de desigualdad por su edad, origen étnico, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno del Estado de Jalisco y de los mecanismos institucionales necesarios para su efectivo cumplimiento;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-VI. Incorporar el enfoque de derechos humanos y la perspectiva de género de manera integral y transversal a la planeación estatal del desarrollo, el Presupuesto de Egresos del Estado y el Sistema Estatal del Desempeño, así como en la programación institucional o sectorial, de conformidad con los programas derivados de los diversos tratados internacionales, leyes federales y estatales en materia de igualdad sustantiva entre mujeres y hombres y no discriminación, y acceso a una vida libre de violencia, en coordinación con la Federación y los municipios;
+III. Ejercer las funciones, las atribuciones y las obligaciones que, en su calidad de Mecanismo para el Adelanto de las Mujeres, establece el derecho nacional e internacional en la materia;
 
-VII. Diseñar, promover y ejecutar acciones y políticas con diferentes sectores públicos y sociales, con el propósito de prevenir, atender, sancionar y erradicar la discriminación y la violencia contra las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-VIII. Diseñar, ejecutar, y en su caso administrar, los instrumentos diagnósticos, estadísticos, normativos y reglamentarios en materia de igualdad sustantiva entre mujeres y hombres en Jalisco;
+IV. Diseñar, coordinar, monitorear y evaluar la implementación de las políticas públicas para la igualdad entre mujeres y hombres y de acceso de las mujeres a una vida libre de violencia, a través de procesos que serán transversales, interseccionales e interculturales en favor de las mujeres, y que logren institucionalizar dichas políticas, desde un enfoque de género y derechos humanos garantizando los principios de interdependencia y de progresividad, desde un ejercicio de transparencia y gobernanza;
 
-IX. Vigilar la generación de información pública, la rendición de cuentas y la transparencia gubernamental con relación a los derechos humanos y la perspectiva de género;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-X. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos y de personas, grupos o comunidades en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o condición migratoria, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
+V. Asegurar, en coordinación con las demás dependencias y entidades de la administración pública estatal, la incorporación estratégica y transversal de la perspectiva de género y de derechos humanos de las mujeres en el plan estatal de desarrollo, el presupuesto de egresos del estado y el sistema estatal de desempeño, así como en todas las políticas y programas sectoriales del Estado, desde un enfoque interseccional, intercultural, intergeneracional e intersectorial;
 
-XI. Coadyuvar con la Secretaría de Planeación y Participación Ciudadana en la incorporación del eje transversal de derechos humanos, igualdad de género y acceso de las mujeres a una vida libre de violencia dentro del plan estatal de desarrollo correspondiente;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XII. Coadyuvar con la Secretaría de la Hacienda Pública en la incorporación del enfoque integrado de derechos humanos e igualdad de género dentro de todo el presupuesto de egresos del Estado de Jalisco;
+VI. Asegurar, en coordinación con las demás dependencias y entidades de la administración pública estatal, la institucionalización de políticas, programas y buenas prácticas, modelos y protocolos con perspectiva de género, que garanticen la igualdad entre mujeres y hombres y el acceso de las mujeres a una vida libre de violencia;
 
-XIII. Capacitar, coordinar y acompañar las redes de institucionalización de la igualdad sustantiva entre mujeres y hombres en las instituciones públicas del estado;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XIV. Vigilar el cumplimiento y dictaminar la aplicación de las políticas de igualdad sustantiva entre mujeres y hombres en las acciones del estado. En el caso de los municipios y las instituciones descentralizadas, coadyuvar en dichas políticas;
+VII. Fungir como Secretaría Técnica del Sistema Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres, de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco;
 
-XV. Promover la coordinación y cooperación con los organismos o entes públicos de otras entidades federativas y de nivel internacional, que aseguren el cumplimiento de los objetivos en la materia en Jalisco;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XVI. Apoyar en la conformación y funcionamiento de consejos, institutos, comités u órganos en materia de igualdad sustantiva entre mujeres y hombres;
+VIII. Coordinar el Sistema Estatal para la Igualdad entre Mujeres y Hombres, de conformidad con lo establecido en la Ley de la materia;
 
-XVII. Vincular, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil, en la elaboración, ejecución y evaluación de políticas de igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE ABRIL DE 2019)</small>
 
-XVIII. Producir, comunicar y socializar información sobre el estado de la igualdad sustantiva entre mujeres y hombres en Jalisco;
+IX. Integrar, elaborar, coordinar, dar seguimiento y evaluar los resultados de los siguientes programas estatales:
 
-XIX. Prestar capacitación, asesoría y asistencia técnica a entes públicos municipales y estatales, sobre igualdad sustantiva entre mujeres y hombres;
+a) El Programa Estatal para la Igualdad entre Mujeres y Hombres; y
 
-XX. Suscribir los convenios necesarios con organismos internacionales, federales, paraestatales y municipales, en materias de igualdad sustantiva entre mujeres y hombres, derechos humanos, grupos en situación de desigualdad por su origen étnico, edad, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración, de conformidad con las disposiciones jurídicas aplicables;
+b) El Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres.
 
-XXI. Coadyuvar e impulsar la armonización de los diversos programas en materia de igualdad sustantiva entre mujeres y hombres, con el objetivo de prevenir y eliminar la discriminación y violencia en el Estado de Jalisco;
+Los programas a cargo de la Secretaría deberán ser formulados garantizando los derechos humanos de las mujeres, asegurando la perspectiva de género, la interseccionalidad, interculturalidad, intergeneracionalidad, progresividad e intersectorialidad;
 
-XXII. Coordinar la planeación de proyectos y programas en materia de igualdad sustantiva entre mujeres y hombres, derechos humanos, así como en la atención para prevenir, atender, sancionar y erradicar la violencia y discriminación contra mujeres y niñas, grupos en situación de desigualdad por su edad, etnia, preferencia sexual u orientación sexo-afectiva, situación de discapacidad o migración;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXIII. Coadyuvar en el diseño, integración, y ejecución, de manera conjunta con los sistemas estatales, institutos y organismos, de mecanismos para identificar y analizar las problemáticas derivadas de la desigualdad, con la finalidad de llevar a cabo el diseño efectivo de políticas públicas;
+X. Asegurar, en coordinación con las demás dependencias y entidades de la administración pública estatal, la creación de Unidades de Igualdad de Género en las instituciones públicas estatales, así como brindarles capacitación, asesoría y acompañamiento;
 
-XXIV. Ejecutar una política de coordinación entre los diferentes órganos de gobierno, así como los sectores social y privado para, la promoción de acciones medidas de inclusión y nivelación y políticas dirigidas a mejorar la condición y posición de las personas en general y de mujeres y las niñas y población en situación de desigualdad entre mujeres y hombres en lo particular; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XI. Dar seguimiento y evaluar la implementación y los resultados del eje transversal de los derechos humanos de las mujeres en el plan estatal de desarrollo, el presupuesto de egresos, las políticas y programas sectoriales del estado, así como en el Sistema Estatal de Desempeño, mediante un sistema estatal de indicadores para la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XII. Dar seguimiento y evaluar las asignaciones presupuestarias estatales y su aplicación para asegurar las políticas transversales y sectoriales de igualdad de género y derechos humanos de las mujeres;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XIII. Implementar un sistema estatal para dar seguimiento a la igualdad de género y el empoderamiento de las mujeres y asegurar un presupuesto suficiente, progresivo e intransferible para ese fin;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XIV. Promover, orientar, dar seguimiento y evaluar políticas públicas estatales para asegurar el acceso de las mujeres rurales e indígenas a la capacitación, la tierra, los recursos naturales y productivos, los créditos, los programas de desarrollo y las estructuras de cooperativas que contribuyan en mayor medida al desarrollo sostenible;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XV. Asegurar la participación ciudadana, así como de organizaciones de la sociedad civil, en la elaboración, seguimiento y evaluación de las políticas públicas para la igualdad entre mujeres y hombres, y de acceso de las mujeres a una vida libre de violencia, mediante mecanismos de gobernanza y contraloría social;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XVI. Diseñar e implementar planes de formación y capacitación, especialización y profesionalización, continua y sistemática, de las y los servidores de las (sic) administración pública en materia de transversalización e institucionalización de la perspectiva de género en las políticas públicas, igualdad de género y derechos humanos de las mujeres, con un enfoque interseccional, intercultural, intergeneracional e intersectorial;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XVII. Promover, orientar, dar seguimiento y evaluar los resultados de políticas públicas estatales que promuevan el acceso igualitario de las mujeres a los recursos económicos, a la propiedad y control de la tierra, la vivienda y otros bienes, a los servicios financieros y los recursos naturales, de conformidad con los tratados internacionales de derechos humanos de las mujeres y la legislación nacional y estatal en estas materias;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XVIII. Impulsar, orientar, dar seguimiento y evaluar políticas públicas orientadas al reconocimiento y valoración de los cuidados y el trabajo doméstico no remunerados, de responsabilidad compartida en el hogar y las familias, así como medidas de conciliación entre la vida laboral y la vida familiar, tanto en el ámbito rural como urbano;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XIX. Promover junto con el sector privado y evaluar los resultados de la adopción de prácticas de conciliación entre la vida familiar, laboral y personal con corresponsabilidad social, la inserción y el desarrollo profesional de las mujeres, en su diversidad, valorando el impacto de la igualdad de género en la productividad y competitividad;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XX. Promover que el sector privado, en particular el empresarial, contribuya de manera eficaz al financiamiento de emprendimientos de mujeres, particularmente jefas de familia, mujeres jóvenes, mujeres indígenas, mujeres migrantes, adultas mayores y con discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXI. Promover medidas para combatir el hostigamiento y el acoso sexual, laboral y escolar en las instituciones públicas estatales y municipales, en las empresas, en los sistemas de transporte público y privado, así como en cualquier espacio público y comunitario; así como brindar servicios de capacitación y emitir propuestas de mejora;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXII. Asegurar, en coordinación con la Secretaría de Salud, el acceso universal y la calidad de los mismos, de las mujeres, las niñas y adultas mayores, en su diversidad, especialmente a la salud sexual y reproductiva, desde el enfoque de derechos sexuales y reproductivos;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXIII. Promover y revisar la adopción de medidas para eliminar prácticas nocivas como el matrimonio infantil, precoz y forzado en el estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXIV. Diseñar, instrumentar, dar seguimiento y evaluar, en coordinación con las demás dependencias y entidades estatales y municipales, medidas orientadas a promover la participación de los niños, los jóvenes y los hombres en la construcción de nuevas masculinidades, el logro de la igualdad de género y la eliminación de todas las formas de discriminación y violencia contra las mujeres y las niñas, en su diversidad, desde un enfoque que atienda la problemática estructural de las relaciones de poder entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXV. Diseñar e instrumentar, en coordinación con las demás instituciones públicas del Estado y municipales, medidas para asegurar la participación plena y efectiva de las mujeres en todos los ámbitos de la vida pública, respetando la paridad de género en la integración de los órganos de gobierno y el fortalecimiento de su liderazgo a todos los niveles decisorios en la vida política, económica y pública, incluyendo acciones afirmativas para las niñas, adolescentes, jóvenes, mujeres y adultas mayores, respetando sus expresiones de organización particular y contextual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXVI. Asegurar, en coordinación con las Secretarías General de Gobierno y de Planeación y Participación Ciudadana, la incorporación de los ejes transversales de derechos humanos de las mujeres, la perspectiva de género dentro de los instrumentos de planeación, programas y políticas del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXVII. Promover, en coordinación con las Secretarías General de Gobierno, de la Hacienda Pública y de Planeación y Participación Ciudadana, la creación de un fondo estatal para el fomento de actividades de incidencia social, entre otras, para el apoyo y fortalecimiento a las organizaciones civiles de mujeres, feministas y defensoras de derechos humanos, mujeres jóvenes, mujeres migrantes, mujeres adultas mayores, mujeres con discapacidad, de la diversidad sexual y mujeres indígenas, tomando en consideración los aportes de la sociedad civil desde la perspectiva de la progresividad de los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXVIII. Instrumentar, en coordinación con las demás dependencias y entidades estatales y municipales medidas orientadas a prevenir, disminuir y atender el embarazo adolescente, considerando las necesidades de las jóvenes en situación de embarazo en relación al acceso a los servicios de salud, a redes de soporte, al respeto a sus derechos y a la atención de sus necesidades de inclusión en el desarrollo social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXIX. Realizar campañas orientadas a promover el cambio de patrones socioculturales para el logro de la igualdad de género, la garantía, protección, promoción y respeto a los derechos humanos de las mujeres, particularmente las niñas y las mujeres jóvenes, mujeres indígenas, mujeres migrantes, mujeres con discapacidad, jefas de familia, mujeres lesbianas, mujeres transexuales y todas las mujeres en sus diversidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXX. Fomentar y promover la presentación de una imagen equilibrada y no estereotipada de las mujeres y de las múltiples funciones que ellas desempeñan, a través de la investigación, la educación y la aplicación de estrategias de comunicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXI. Impulsar programas para cerrar las brechas de género en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación, y fomentar la participación de las mujeres y niñas en este ámbito, particularmente las mujeres y niñas indígenas, rurales, con discapacidad, adultas mayores y migrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXII. Coadyuvar en el diseño, en coordinación con las dependencias y entidades de la administración pública estatal y municipal, la incorporación en los sistemas de información de la gestión pública, de indicadores probados a nivel regional e internacional de evaluación con perspectiva de género, que permitan medir el grado de compromiso y cumplimiento con los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIII. Coordinar, garantizar y promover la sensibilización en las instituciones competentes, donde se brinden los servicios de asesoría y acompañamiento a las mujeres víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIV. Garantizar la publicidad y acceso de la ciudadanía a la información relativa a los resultados de las evaluaciones del Programa Estatal para la Igualdad entre Mujeres y Hombres, así como del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXV. Realizar estudios técnicos y diagnósticos estratégicos con enfoque de género que resulten necesarios para orientar la toma de decisiones y la definición de las políticas públicas que aseguren la igualdad entre mujeres y hombres y el adelanto de las mujeres en la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVI. Proponer las modificaciones que sean necesarias al marco normativo estatal y reglamentario, a efecto de armonizarlos conforme al derecho internacional y nacional en materia de derechos humanos de las mujeres y la perspectiva de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVII. Diseñar e implementar estrategias de capacitación, gestión y evaluación continuas para construir una cultura organizacional que garantice la incorporación de las políticas públicas con perspectiva de derechos humanos de las mujeres, con enfoques interseccionales e interculturales en la administración pública estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXVIII. Promover el acceso de las niñas, mujeres y adultas mayores, en su diversidad, a la justicia con perspectiva de género y el pleno respeto a sus derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XXXIX. Proponer y, en su caso, suscribir con la representación del Ejecutivo del Estado, convenios con instituciones públicas y organismos internacionales, para fortalecer las atribuciones de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XL. Promover y, en su caso, observar que toda publicación y comunicación, incluida la gubernamental, a través de cualquier medio, contenga un lenguaje incluyente, con perspectiva de género y esté libre de roles y estereotipos sexistas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLI. Proporcionar la asistencia técnica y especializada a las dependencias estatales y municipales en los procesos de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLII. Coadyuvar con los municipios, en pleno respeto a su autonomía, para:
+
+a) Promover, impulsar y difundir los programas de la Secretaría en los municipios del Estado de manera integral e intersectorial;
+
+b) Promover el fortalecimiento de las instancias municipales de las mujeres, estableciendo una agenda de trabajo común que abone a la política estatal de igualdad entre mujeres y hombres y de acceso de las mujeres a una vida libre de violencia;
+
+c) Promover la corresponsabilidad y colaboración entre la Secretaría y los municipios, y celebrar convenios de colaboración para cumplir con el objeto de la Secretaría y los programas diseñados por los municipios;
+
+d) Orientar y acompañar a los consejos o sistemas municipales para la igualdad entre mujeres y hombres, y para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+e) Coadyuvar en el fortalecimiento de competencias y capacidades técnicas de los municipios para el diseño, ejecución, seguimiento y evaluación de las políticas públicas municipales para la igualdad entre mujeres y hombres, y de acceso de las mujeres a una vida libre de violencia;
+
+f) Coadyuvar en el diseño e instrumentación de medidas orientadas a promover la participación de los niños, los jóvenes y los hombres en la construcción de nuevas masculinidades, el logro de la igualdad de género y poner fin a todas las formas de discriminación y violencia de género, entre ellas, la violencia contra las mujeres y las niñas;
+
+g) Fortalecer los liderazgos y la participación política de las mujeres a través de procesos de formación, capacitación y programas de mentorías, en alianza con organizaciones de la sociedad civil e instituciones públicas federales y estatales; y
+
+h) Promover la participación de mujeres en la gobernanza municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLIII. Proponer lineamientos para que las dependencias y entidades estatales y municipales transparenten y rindan informes periódicos con indicadores de género sobre el ejercicio de los recursos asignados y ejercidos, de conformidad a sus capacidades como sujetos obligados y en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLIV. Generar un sistema de información que facilite el seguimiento y monitoreo de las políticas de igualdad y que permitan evaluar su impacto y resultados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLV. Instrumentar, en coordinación con las demás dependencias y entidades estatales y los municipios, medidas orientadas a prevenir y erradicar el embarazo infantil, considerando las necesidades de las niñas en situación de embarazo en relación al acceso a servicios de salud, a redes de soporte y al respeto a sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLVI. Generar un sistema de información que facilite el seguimiento y monitoreo de las políticas de Prevención, Atención, Sanción y Erradicación de las Violencias (sic) Contra las Mujeres y de acceso a la justicia en delitos cometidos contra las mujeres, que permitan evaluar su impacto y resultados; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XLVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2019)</small>
+
+2. La Secretaría contará con un Consejo Ciudadano de las Mujeres, en los términos que establezca su reglamento.
 
 ###### Artículo 26.
 
@@ -1831,6 +2077,8 @@ III. Las demás que establezcan otras disposiciones legales y reglamentarias apl
 
 ###### Artículo 60.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE ABRIL DE 2019)</small>
+
 1. Los órganos auxiliares son:
 
 I. Agencia de Proyectos Estratégicos;
@@ -1842,6 +2090,18 @@ III. Las Comisiones Interinstitucionales;
 IV. Los Consejos Consultivos; y
 
 V. Las Unidades Administrativas de Apoyo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+VI. Alto Consejo Asesor en materia de Género y Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 60 Bis.
+
+1. El Alto Consejo Asesor en materia de Género y Derechos Humanos, como un órgano auxiliar de la Administración Pública Estatal, que estará a cargo de proponer, orientar y evaluar la Política Estatal en la materia, a efecto de garantizar la transversalidad e institucionalización de los derechos, bajo los más altos estándares de protección y en apego a los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+2. En su integración se garantizarán los principios de paridad de género y progresividad de derechos humanos.
 
 ###### Artículo 61.
 
@@ -2553,19 +2813,9 @@ P.O. 31 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 27228/LXII/19 QUE MODIFICA EL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
 
-## TRANSITORIOS
+PRIMERO. (DEROGADO, P.O. 10 DE ABRIL DE 2019)
 
-PRIMERO. Se instruye a las dependencias competentes a modificar el reglamento de la Secretaría de Igualdad Sustantiva en los siguientes puntos:
-
-1. Nombre de la Secretaría para quedar como: Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
-
-2. Crear la Subsecretaría de las Mujeres y la Igualdad de Género que se encargará de llevar a cabo las políticas públicas derivadas de los planes y programas estatales, así como el cumplimiento de los acuerdos internacionales suscritos por el Estado Mexicano, que faculta a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
-
-3. Se faculta a la Subsecretaría de las mujeres y la Igualdad de Género para darle atención, seguimiento y continuidad a los compromisos y actividades que venía desarrollando el Instituto Jalisciense de las Mujeres.
-
-4. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO. A fin de garantizar que la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres alberge (sic) el mecanismo de adelanto para las mujeres (MAM) que le permitan dar cumplimiento a los compromisos internacionales como; la CEDAW, la Convención Interamericana Belem Do Pará, la Plataforma de Acción de Beijing, los Consensos Regionales de DDHH de las Mujeres, así como las leyes generales y estatales de acceso de las mujeres a una vida libre de violencia; la extinción del Instituto Jalisciense de las Mujeres entrará en vigor una vez publicadas las reformas al reglamento mencionado, en el punto primero transitorio de este decreto.
+SEGUNDO. (DEROGADO, P.O. 10 DE ABRIL DE 2019)
 
 TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -2672,3 +2922,23 @@ Organismo Público Descentralizado
 (En materia de captación de recursos) Pública
 
 DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27262/LXII/19 QUE REFORMA LOS ARTÍCULOS 16, PÁRRAFO 1, FRACCIÓN IX, 17, 25 Y 60, Y ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ASÍ COMO AL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2019, ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se autoriza al Poder Ejecutivo, para que a través de la Secretaría de la Hacienda Pública y la Secretaría de Administración, en el ámbito de sus competencias, realice las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio del gasto público.
+
+TERCERO. Los programas sujetos a reglas de operación, cuyas reglas ya fueron emitidas y que sufran alguna modificación con motivo del presente decreto, deberán ser actualizados dentro de los cuarenta y cinco días posteriores al inicio de vigencia del presente decreto. Así mismo, se faculta a los Titulares de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres y la Secretaría General de Gobierno, a realizar los convenios, contratos y acuerdos, que permitan garantizar la operación ininterrumpida de dichos programas, en tanto se implementan en sus respectivas dependencias los cambios estructurales que se derivan del presente decreto.
+
+CUARTO. Los informes trimestrales correspondientes al primer trimestre, que deban presentar la Secretaría General de Gobierno y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres con motivo del sistema de evaluación de desempeño y respecto del ejercicio del gasto, así como las matrices de indicadores de resultados de los programas presupuestarios asignados, serán presentados dentro de los 45 días posteriores al inicio de vigencia del presente decreto.
+
+QUINTO. Las facultades, derechos y obligaciones establecidas a cargo de los extintos Instituto Jalisciense para los Migrantes, Instituto Jalisciense de la Juventud y Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, en la Ley de Protección y Atención de los Migrantes, la Ley de Atención de la Juventud y la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad, todas del Estado de Jalisco, serán asumidas por la Secretaría General de Gobierno.
+
+SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal, en lo relativo a las atribuciones en materia de derechos humanos que se otorgan a la Secretaría General de Gobierno; entre otras, se deberán armonizar la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad y la Ley para el Desarrollo Integral del Adulto Mayor, ambas del Estado de Jalisco, modificadas mediante decretos 27210/LXII/2018, 26743/LXII/18 y 26954/LXII/18.
+
+SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
