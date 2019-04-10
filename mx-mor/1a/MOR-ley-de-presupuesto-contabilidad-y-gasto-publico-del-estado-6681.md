@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2016-12-22"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -117,13 +117,33 @@ XXII. Sistema de Evaluación del Desempeño, al conjunto de elementos metodológ
 
 Cualquier otro término que no se integre en el presente articulado se deberá entender en los términos del glosario de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y, en su caso, del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 3.
 
-La programación, presupuestación, aprobación, ejercicio y control del Gasto Público del Estado y los Municipios por conducto de sus Dependencias y Entidades Paraestatales y Paramunicipales, se basará en las directrices, lineamientos y políticas que establezcan sus respectivos Planes Estatal y Municipal de Desarrollo y en los programas que de éstos se deriven.
+La programación, presupuestación y ejercicio del Gasto Público estatal y municipal se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipales de Desarrollo y en los programas que de éstos se deriven atendiendo a los principios de equidad y perspectiva de género.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 La interpretación de la presente Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Poder Ejecutivo Estatal, corresponde a la Secretaría y a la Contraloría, en el ámbito de sus respectivas atribuciones y competencias legales; del mismo modo, la Secretaría contará con facultades para emitir los criterios, reglas y lineamientos necesarios, para dar cumplimiento a la presente Ley, y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 3 Bis.
+
+Los presupuestos con perspectiva de género son aquellos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
+
+Para efectos de la presente Ley los principios de equidad y perspectiva de género en el presupuesto implican, de manera enunciativa, lo siguiente:
+
+I. Su transversalización en las etapas de planificación, elaboración, ejecución y evaluación del presupuesto público;
+
+II. Análisis de la situación actual de mujeres y niñas;
+
+III. Sensibilidad de género de las políticas públicas;
+
+IV. Análisis de las asignaciones de gasto, gastos específicamente enfocados a mujeres y niñas y resto del gasto público que no está específicamente destinado a mujeres pero que puede tener un impacto sobre sus (sic) condición; y,
+
+V. Evaluación de resultados y generación de indicadores.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -148,6 +168,8 @@ VII. Los Municipios, y
 VIII. Cualquier otro ente del Estado o Municipio, con independencia de su naturaleza, que ejerza recursos públicos.
 
 Los ejecutores del gasto administrarán sus recursos con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y están obligados a rendir cuentas por la administración de los recursos públicos en los términos de este ordenamiento y demás normativa aplicable.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, A SABER: “Lo anterior atendiendo al principio de equidad y perspectiva de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo”. PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -279,11 +301,15 @@ El incumplimiento a dichas disposiciones se sancionará en términos de la norma
 
 Las Dependencias y Entidades Paraestatales y Paramunicipales, que con motivo de sus actividades o funciones generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría en el primer caso y con las Tesorerías Municipales en el segundo para que dichos ingresos se incorporen en la Ley de Ingresos para el ejercicio fiscal que corresponda.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 19, A SABER: "Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, equidad y perspectiva de género". PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
 El proyecto de Ley de Ingresos del Gobierno del Estado incluirá, además de otros requisitos señalados en esta Ley, la expectativa de entradas de efectivo por ingresos fiscales y las Entidades Paraestatales y Paramunicipales, los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través de la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 20, A SABER: "I.- Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género. La Secretaría de Hacienda y las Tesorerías Municipales enviarán programadas (sic), con base en los principios de equidad y perspectiva de género y lineamientos que señala el Plan Estatal de Desarrollo." PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -848,3 +874,23 @@ Los trámites iniciados ante el Registro de Obligaciones y Empréstitos del Esta
 Las referencias al Registro de Obligaciones y Empréstitos del Estado de Morelos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público de Financiamientos y Obligaciones del Estado de Morelos.
 
 SÉPTIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
