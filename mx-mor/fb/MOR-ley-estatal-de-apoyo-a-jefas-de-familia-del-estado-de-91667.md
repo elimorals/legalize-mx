@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-apoyo-a-jefas-de-familia-del-estado-de-91667"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-23"
-last_updated: "2013-01-23"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE APOYOS A JEFAS DE FAMILIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 23 de enero de 2013.
 
@@ -63,17 +63,21 @@ Se considerará también jefa de familia a la mujer que tenga la misma obligaci�
 
 Para los efectos de la presente Ley, los hijos o descendientes a que aluden los párrafos anteriores tendrán el carácter de beneficiarios de las jefas de familia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 5.
 
 Son principios rectores de la presente Ley:
 
-I. La igualdad de oportunidades para todas las mujeres jefas de familia,
+I. La igualdad de oportunidades para todas las mujeres jefas de familia;
 
-II. El bienestar físico y mental de las jefas de familia y sus beneficiarios,
+II. La perspectiva de género y no discriminación contra la mujer en la aplicación de las disposiciones de esta Ley y las que de ella deriven;
 
-III. La integración de las jefas de familia a la vida económica y social sin discriminación ni exclusión, y
+III. El bienestar físico y mental de las jefas de familia y sus beneficiarios;
 
-IV. Las políticas públicas compensatorias para contrarrestar la vulnerabilidad económica y social de las jefas de familia.
+IV. La integración de las jefas de familia a la vida económica y social sin discriminación ni exclusión, y;
+
+V. Las políticas públicas compensatorias para contrarrestar la vulnerabilidad económica y social de las jefas de familia.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LAS JEFAS DE FAMILIA
 
@@ -137,9 +141,13 @@ El Ejecutivo del Estado, a través de sus Secretarías y organismos, promoverá 
 
 En el proyecto de Presupuesto de Egresos del Gobierno del Estado, deberán preverse las partidas presupuestales correspondientes para impulsar los programas y acciones a que se refiere el presente capítulo.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 14.
 
 Los proyectos y programas de apoyo a que se refiere esta Ley, deberán garantizar el disfrute de las prerrogativas que la misma otorga a las jefas de familia y a sus beneficiarios.
+
+Dichos proyecto (sic) y programas deberán de elaborarse con base en la perspectiva de género, no discriminación y erradicación de la violencia contra la mujer, en términos de la normativa aplicable.
 
 ### CAPÍTULO IV. DE LAS ACCIONES GUBERNAMENTALES
 
@@ -228,3 +236,25 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
