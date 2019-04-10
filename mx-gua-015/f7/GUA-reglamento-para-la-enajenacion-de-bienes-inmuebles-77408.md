@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-enajenacion-de-bienes-inmuebles-77408"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-16"
-last_updated: "2011-10-21"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA ENAJENACIÓN DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de noviembre de 2010.
 
@@ -59,17 +59,21 @@ II. El Presidente Municipal;
 
 III. El Tesorero Municipal;
 
-IV. La Dirección General de Desarrollo Urbano y Protección Ambiental;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IV. La Dirección General de Medio Ambiente y Ordenamiento Territorial;
 
 V. La Dirección de Catastro e Impuesto Predial;
 
 VI. La Dirección General de Servicios Jurídicos;
 
-VII. La Dirección General de Desarrollo Social, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+VII. La Dirección General de Desarrollo Social y Humano, y
 
-VIII. La Comisión de Desarrollo Urbano y Protección Ambiental o su equivalente.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII. La Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental.
 
 ###### Artículo 4.
 
@@ -77,17 +81,25 @@ El procedimiento de enajenación de bienes inmuebles se regirá por este Reglame
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 5.
 
-La solicitud será dirigida y entregada por cuadriplicado, a elección del particular, a la Dirección General de Desarrollo Urbano y Protección Ambiental, o a la Comisión de Desarrollo Urbano y Protección Ambiental del Ayuntamiento, la cual deberá contener como mínimo lo siguiente:
+La solicitud será dirigida y entregada por cuadriplicado, a elección del particular, a la Dirección General de Medio Ambiente y Ordenamiento Territorial, o a la Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental, la cual deberá contener como mínimo lo siguiente:
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 I. Nombre del solicitante y carácter con el que promueve;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
 II. Dirección para recibir notificaciones en la ciudad;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
 III. Teléfono y/o correo electrónico; y,
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 IV. Tres fotografías ilustrativas del inmueble, tomadas desde distintos ángulos.
 
@@ -103,27 +115,39 @@ III. Copia de identificación oficial y;
 
 IV. En caso de tratarse de persona moral, deberá acompañar la documental que acredite la legal existencia de la misma y que la persona física que suscribe la solicitud cuenta con facultades suficientes.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 7.
 
-En el supuesto de que la solicitud sea recibida por la Comisión de Desarrollo Urbano y Protección Ambiental, deberá remitir dentro del plazo de 5 días hábiles, oficios a las siguientes dependencias para los fines contenidos en este reglamento:
+En el supuesto de que la solicitud sea recibida por la Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental, deberá remitir dentro del plazo de 5 días hábiles, oficios a las siguientes dependencias para los fines contenidos en este reglamento:
 
-I. Dirección General de Desarrollo Urbano y Protección Ambiental;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-II. Dirección General de Desarrollo Social; y,
+I. Dirección General de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+II. Dirección General de Desarrollo Social y Humano; y,
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 III. Dirección de Catastro e Impuesto Predial.
 
-En el supuesto de que la solicitud sea recibida por la Dirección General de Desarrollo Urbano y Protección Ambiental, ésta sólo remitirá oficios a las dependencias contenidas de la fracción II y III.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+En el supuesto de que la solicitud sea recibida por la Dirección General de Medio Ambiente y Ordenamiento Territorial, ésta sólo remitirá oficios a las dependencias contenidas de (sic) la fracción II y III.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 8.
 
-La Dirección de Desarrollo Urbano y Protección Ambiental deberá hacer constar por escrito la factibilidad del uso de suelo de conformidad con la normatividad aplicable y por lo tanto la compatibilidad para darle un destino habitacional o comercial al bien, además del alineamiento y nomenclatura.
+La Dirección General de Medio Ambiente y Ordenamiento Territorial deberá hacer constar por escrito la factibilidad del uso de suelo de conformidad con la normatividad aplicable y por lo tanto la compatibilidad para darle un destino habitacional o comercial al bien, además del alineamiento y nomenclatura.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 9.
 
-La Dirección General de Desarrollo Social deberá realizar una inspección del inmueble, haciendo constar la situación actual o el uso real del mismo, es decir, si el terreno solicitado se encuentra baldío o con alguna construcción o delimitación, es decir si se encuentra cercado; indagar con los vecinos si existe algún obvio poseedor, y rendir una opinión sobre la factibilidad de enajenación del mismo tomando en cuenta la opinión de los mismos vecinos, anexando también un impreso fotográfico y croquis de localización.
+La Dirección General de Desarrollo Social y Humano deberá realizar una inspección del inmueble, haciendo constar la situación actual o el uso real del mismo, es decir, si el terreno solicitado se encuentra baldío o con alguna construcción o delimitación, es decir si se encuentra cercado; indagar con los vecinos si existe algún obvio poseedor, y rendir una opinión sobre la factibilidad de enajenación del mismo tomando en cuenta la opinión de los mismos vecinos, anexando también un impreso fotográfico y croquis de localización.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
@@ -133,23 +157,23 @@ La Dirección de Catastro e Impuesto Predial deberá determinar el valor comerci
 
 En el supuesto de que se trate de un bien del dominio público, deberá emitir su opinión además sobre la viabilidad de su desafectación.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 11.
 
-Las dependencias referidas en los tres artículos anteriores deberán dar contestación en un término de 10 días hábiles. Ya sea que la instancia iniciadora del procedimiento sea la Dirección de Desarrollo Urbano y Protección Ambiental, o en su caso, la Comisión de Desarrollo Urbano y Protección Ambiental, una vez recibidos los informes de las referidas dependencias, deberán integrar el expediente y remitirlo a la Dirección General de Servicios Jurídicos en un plazo máximo de 3 días hábiles.
+Las dependencias referidas en los tres artículos anteriores deberán dar contestación en un término de 10 días hábiles. Ya sea que la instancia iniciadora del procedimiento sea la Dirección General de Medio Ambiente y Ordenamiento Territorial, o en su caso, la Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental, una vez recibidos los informes de las referidas dependencias, deberán integrar el expediente y remitirlo a la Dirección General de Servicios Jurídicos en un plazo máximo de 3 días hábiles.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 12.
 
-La Dirección General de Servicios Jurídicos deberá dar su opinión sobre el proceso una vez que le sea remitido el expediente, y en un plazo máximo de 10 días hábiles a partir de que lo recibe, remitirlo a la Comisión de Desarrollo Urbano y Protección Ambiental.
+La Dirección General de Servicios Jurídicos deberá dar su opinión sobre el proceso una vez que le sea remitido el expediente, y en un plazo máximo de 10 días hábiles a partir de que lo recibe, remitirlo a la Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 13.
 
-Una vez recibido el expediente correspondiente, la Comisión de Desarrollo Urbano y Protección Ambiental deberá sesionar y dictaminar en un plazo de 15 días hábiles, y posteriormente someter su determinación al pleno del Ayuntamiento en la siguiente Sesión Ordinaria, para que éste autorice o no la enajenación, ordenando en su caso la desafectación del bien y la correspondiente publicación en el Periódico Oficial de Gobierno del Estado.
+Una vez recibido el expediente correspondiente, la Comisión del Ayuntamiento en materia de Desarrollo Urbano y Protección Ambiental deberá sesionar y dictaminar en un plazo de 15 días hábiles, y posteriormente someter su determinación al pleno del Ayuntamiento en la siguiente Sesión Ordinaria, para que éste autorice o no la enajenación, ordenando en su caso la desafectación del bien y la correspondiente publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
@@ -184,3 +208,11 @@ P.O. 21 DE OCTUBRE DE 2011.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO MUNICIPAL, MEDIANTE EL CUAL, SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA ENAJENACIÓN DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GTO., PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 183, SEGUNDA PARTE, DE FECHA 16 DE NOVIEMBRE DE 2010".]
 
 Artículo Único.- Las presentes modificaciones entrarán en vigor al cuarto día hábil siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL H. AYUNTAMIENTO DE GUANAJUATO, GTO., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA ENAJENACIÓN DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GTO., PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 183, SEGUNDA PARTE, DE FECHA 16 DE NOVIEMBRE DEL 2010”.]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente acuerdo.
