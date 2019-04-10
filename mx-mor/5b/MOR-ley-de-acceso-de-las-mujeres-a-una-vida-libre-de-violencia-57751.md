@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2018-07-11"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -101,7 +101,9 @@ XVIII.- Modelo: La representación conceptual o física de un proceso o sistema 
 
 XIX.- Victimización: El impacto psicológico y emocional de cada tipo y modalidad de la violencia contra las mujeres;
 
-XX.- Derechos Humanos de las Mujeres: Los derechos inalienables e imprescriptibles consagrados en las convenciones e instrumentos internacionales en la materia de no discriminación y violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XX.- Derechos Humanos de las Mujeres: Los derechos inalienables e imprescriptibles consagrados en las convenciones e instrumentos internacionales en materia de no discriminación y violencia contra las mujeres, tales como la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, la Conferencia Mundial de Derechos Humanos de Viena, entre otros;
 
 XXI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
@@ -115,13 +117,19 @@ XXV.- Daño: Es la afectación o menoscabo que sufre una persona en su integrida
 
 XXVI.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño;
 
 XXVIII.- Alerta de violencia contra las mujeres: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXIX.- Noviazgo.- Es una vinculación que se establece entre dos personas que se sienten atraídas mutuamente; representa una oportunidad para conocerse, una etapa de experimentación y de búsqueda, con actividades, gustos y pensamientos en común, y es un preámbulo para una relación duradera.
+XXIX.- Noviazgo: Es una vinculación que se establece entre dos personas que se sienten atraídas mutuamente; representa una oportunidad para conocerse, una etapa de experimentación y de búsqueda, con actividades, gustos y pensamientos en común, y es un preámbulo para una relación duradera, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXX.- Mesa de Armonización Legislativa: A la Mesa de Armonización Legislativa para la no Discriminación y Erradicación de la Violencia contra las Mujeres.
 
 ###### Artículo 5.
 
@@ -265,19 +273,43 @@ Violencia en el noviazgo: son todos los actos de violencia física, sexual, mora
 
 El Estado y los Municipios participaran de manera conjunta en la implementación de Políticas Públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención de la violencia en el noviazgo en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles, estereotipos sexistas, las prácticas de resolución violentas de conflictos, la misoginia y la legitimación social al uso de la violencia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
 
 ### CAPÍTULO VI BIS. DE LA VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 19 Quater.
 
-La Violencia política es cualquier acción, conducta u omisión, que basada en elementos de género, tenga por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento o ejercicio de los derechos políticos de las mujeres, su participación en asuntos públicos, o de las prerrogativas inherentes a un cargo público.
+La violencia contra las mujeres en el ámbito político es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos en cuestiones como:
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+I.- Participación igualitaria en materia política;
 
-Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres.
+II.- Acceso a puestos públicos por elección o designación estatal como municipal, en agrupaciones, partidos políticos o función pública;
+
+III.- Acceso a los medios, información, recursos presupuestarios y espacios públicos, necesarios para su desarrollo, promoción, capacitación y participación;
+
+IV.- El acceso a programas, proyectos, actividades a los que sean sujetas de derecho;
+
+V.- La libre expresión de sus ideas, filiación o visión política;
+
+VI.- El respeto a sus opiniones, imagen, posturas y posicionamientos, y
+
+VII.- La erradicación al acoso, violencia y agresiones por razones políticas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
+
+Artículo 19 Quintus.- El Estado y los Municipios, deberán garantizar e impulsar la defensa del pleno ejercicio de los derechos políticos de las mujeres, debiendo implementar políticas públicas con el fin de erradicar la violencia política, como una práctica que atenta contra los derechos de las mujeres. Con tal fin, en el ámbito de sus competencias, deberán:
+
+I.- Realizar las reformas necesarias a sus ordenamientos jurídicos a fin de garantizar a las mujeres una vida libre de violencia en el ámbito político, con disposiciones que garanticen la protección de las mujeres que incursionan en las actividades políticas y sancionen las acciones u omisiones que impidan o dificulten su participación;
+
+II.- Establecer políticas públicas que garanticen a las mujeres el derecho a una vida libre de violencia en el ámbito político;
+
+III.- Establecer acciones a fin de que las mujeres conozcan y hagan uso de las instituciones y los instrumentos legales que existen para defender sus derechos político electorales y, si son víctimas de discriminación o violencia, denuncien, demanden o impugnen;
+
+IV.- Documentar los casos de violencia contra las mujeres en la actividad política, y
+
+V.- Impulsar la investigación en el tema en las instituciones de carácter público.
 
 ### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -295,9 +327,11 @@ III.- Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la 
 
 IV.- Violencia patrimonial.- Cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la mujer;
 
-V.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+V.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 VI.- Violencia obstétrica.- Es toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto puerperio, expresados en:
 
@@ -309,21 +343,31 @@ c. Omisión de una atención oportuna y eficaz en urgencias obstétricas;
 
 d. No propiciar el apego precoz del niño con la madre, sin causa medica justificada.
 
-e. Alterar el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, uso de técnicas de aceleración, sin que ellas sean necesarias, y;
+e. Alterar el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, uso de técnicas de aceleración, sin que ellas sean necesarias, y
 
-f. Practicar el parto vía cesárea cuando existan condiciones para el parto natural, sin obtener el consentimiento expreso e informado e (sic) la mujer embarazada
+f. Practicar el parto vía cesárea cuando existan condiciones para el parto natural, sin obtener el consentimiento expreso e informado de la mujer embarazada;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-VII.- Violencia mediática en razón de género, toda acción u omisión tendiente a la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, así como la utilización de mujeres, adolescentes y niñas en mensajes e imágenes promoción sexualmente explicita, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+VII.- Violencia Política.- Es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII.- Violencia cibernética.- Violencia ejercida mediante tecnologías de la información y comunicación de manera continuada, a través de Internet, mensajes de texto, fotografías o imágenes modificadas o editadas, videos, sonidos, o cualquier otra forma tecnológica que atenta contra la integridad y dignidad de la mujer, y
 
 > <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2018)</small>
 
-VIII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+El Estado y los Municipios deberán de emprender las acciones necesarias para erradicar las modalidades y tipos de violencia señaladas debiendo existir coordinación entre sus Secretarías, Dependencias y Entidades que los integran a fin de que las políticas públicas se encaminen a objetivos comunes.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO I. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN Y DE LOS EJES DE ACCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO I. DE LOS EJES DE ACCIÓN DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN
 
 ###### Artículo 21.
 
@@ -375,7 +419,9 @@ VII.- Mecanismos de evaluación y medición.
 
 ### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
 
-#### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LOS MODELOS
 
 ###### Artículo 25.
 
@@ -417,7 +463,9 @@ I.- Comités para erradicar la violencia contra las mujeres, en todas y cada una
 
 II.- Un subprograma anual de capacitación y modificación conductual para servidores públicos en materia de no discriminación y género, el cual se podrá hacer extensivo previa invitación al Poder Judicial del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE GOBIERNO
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS REFUGIOS
 
 ###### Artículo 29.
 
@@ -439,9 +487,21 @@ VII.- La educación libre de estereotipos de comportamiento y prácticas sociale
 
 VIII.- La capacitación dirigida a adquirir conocimientos para el desempeño de una actividad laboral, profesional, artística o cultural;
 
-IX.- La información sobre la bolsa de trabajo con que se cuente, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que así lo soliciten, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-X.- Los demás señalados en esta Ley y otras disposiciones legales.
+IX.- La información sobre la bolsa de trabajo con que se cuente, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+X.- La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XI.- Los demás señalados en esta Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y asesores jurídicos estatales que tengan conocimiento de su lengua y cultura. Las mujeres con discapacidad visual, auditiva u otra, serán asistidas gratuitamente en todo tiempo por intérpretes y asesores jurídicos estatales que tengan conocimientos del lenguaje necesario para su adecuada defensa.
 
 ###### Artículo 30.
 
@@ -473,9 +533,47 @@ Dichos refugios quedaran a cargo de la Fiscalía General del Estado de Morelos, 
 
 La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE HACIENDA
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
+#### SECCIÓN TERCERA. DE LOS CENTROS DE REHABILITACIÓN PARA AGRESORES
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 32 Bis.
+
+Los agresores podrán optar por acudir voluntariamente a un Centro de Rehabilitación para obtener la asistencia adecuada e integrarse nuevamente a la sociedad.
+
+Estarán obligados a asistir a dichos Centros cuando esta situación sea ordenada por determinación jurisdiccional.
+
+La Secretaría de Salud, en coordinación con las demás Secretarías, Dependencias y Entidades del Sistema Estatal, elaborará y expedirá el Modelo de Intervención a Agresores.
+
+La atención que se dé al agresor, será reeducativa y ausente de cualquier estereotipo, y tendrá como propósito la eliminación de rasgos violentos de los agresores, mediante el otorgamiento de servicios integrales y especializados.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 32 Ter.
+
+Los Centros tendrán las siguientes facultades y obligaciones:
+
+I.- Aplicar en lo conducente el programa;
+
+II.- Proporcionar a los agresores la atención que coadyuve a su reinserción en la vida social;
+
+III.- Proporcionar talleres educativos a los agresores para motivar su reflexión sobre los patrones socioculturales que generan en ellos conductas violentas, y
+
+IV.- Contar con el personal debidamente capacitado y especializado en las materias relacionadas con la atención que brindan.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 32 Quater.
+
+Los Centros podrán brindar a los agresores los siguientes servicios:
+
+I.- Tratamiento psicológico o psiquiátrico;
+
+II.- Información jurídica sobre las consecuencias legales de sus conductas, y
+
+III.- En su caso, capacitación para que adquieran habilidades para el desempeño de un trabajo.
 
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
 
@@ -537,13 +635,25 @@ II.- Determinará la instancia de la Administración Pública Estatal que será 
 
 El agravio comparado implica un trato inequitativo de las mujeres dentro del marco jurídico del Estado, en relación con otra entidad federativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 39.
 
-Para los efectos anticipados de cualquier agravio comparado, la Consejería Jurídica del Estado conformará la Mesa de Armonización legislativa para la No Discriminación y Erradicación de la Violencia contra las Mujeres, conjuntamente con el Instituto de la Mujer para el Estado de Morelos y el Congreso del Estado, con el objeto de revisar semestralmente los avances legislativos en el país, en la materia, a fin de evitar cualquier declaratoria de alerta de violencia contra las mujeres, con motivo del agravio comparado.
+Para los efectos anticipados de cualquier agravio comparado, se conformará la Mesa de Armonización Legislativa, con el objeto de revisar semestralmente los avances legislativos en el país, en la materia, a fin de evitar cualquier declaratoria de alerta de violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+La Mesa de Armonización Legislativa estará presidida y coordinada por el Instituto de la Mujer para el Estado de Morelos, participando como integrantes de ella el Congreso del Estado y la Consejería Jurídica del Poder Ejecutivo Estatal. A sus sesiones se podrá invitar a instituciones, academias y organizaciones de la sociedad civil que se considere que su participación pueda aportar en el desarrollo de la misma.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+La manera de sesionar, las atribuciones y funciones de la Mesa de Armonización Legislativo (sic) serán coordinadas por el Instituto de la Mujer para el Estado de Morelos, conforme lo establezca el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 40.
 
-La Mesa de Armonización legislativa a que hace alusión el artículo anterior de esta ley, será parte del Sistema Estatal, ante quién rendirá informe anual de las iniciativas de ley que presenten el Congreso del Estado o el Ejecutivo Estatal, con motivo de la armonización normativa sistemática que se realice para erradicar la discriminación y la violencia contra las mujeres.
+La Mesa de Armonización Legislativa a que hace alusión el artículo anterior de esta Ley, será parte del Sistema Estatal, ante quien rendirá un informe anual de los instrumentos legislativos o reglamentarios que se presenten para aprobación del Congreso del Estado o se expidan, con motivo de la armonización normativa sistemática que se realice para erradicar la discriminación y la violencia contra las mujeres.
 
 ### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
@@ -607,39 +717,43 @@ El Sistema Estatal tendrá cuatro comisiones, una por cada eje de acción, adem�
 
 Dichas comisiones estarán integradas por los miembros del Sistema Estatal, con arreglo a la presente ley y los que determinen los ordenamientos que crean los consejos temáticos, que mediante el acuerdo respectivo se adhieran a dicho Sistema.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 46.
 
-El Sistema Estatal estará integrado por las y los titulares de las siguientes dependencias, recayendo su suplencia en el servidor público de inmediata jerarquía inferior que éstos designen:
+El Sistema Estatal estará integrado por las personas titulares de las siguientes Secretarías, Dependencias y Entidades, recayendo su suplencia en el servidor público que designe al efecto con nivel jerárquico necesario para la toma de decisiones:
 
-I.- Secretaría de Gobierno;
+I.- La Secretaría de Gobierno, que lo presidirá;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+II.- La Secretaría de Hacienda;
 
-II.- Secretaría de Hacienda.
+III.- La Secretaría de Educación;
 
-III.- Secretaría de Educación;
+IV.- La Secretaría de Salud;
 
-IV.- Secretaría de Salud;
+V.- La Comisión Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+VI.- La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
-V.- Comisión Estatal de Seguridad Pública;
+VII.- La Fiscalía General del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+VIII.- El Instituto de la Mujer para el Estado de Morelos, que ocupará la Secretaría Ejecutiva del Sistema;
 
-VI.- Fiscalía General del Estado de Morelos;
+IX.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VII.- Instituto de la Mujer para el Estado de Morelos;
+X.- La Secretaría del Trabajo;
 
-VIII.- El o la Directora General del Sistema Estatal para el Desarrollo Integral de la Familia, e
+XI.- La Secretaría de Desarrollo Social;
 
-IX.- Instituto de Desarrollo y Fortalecimiento Municipal.
+XII.- La Secretaría de Desarrollo Agropecuario;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+XIII.- El Instituto de Desarrollo y Fortalecimiento Municipal, y
 
-X.- La Presidenta de la Comisión de Equidad y Género del Congreso del Estado de Morelos.
+XIV.- La Comisión de Equidad de Género del Congreso del Estado de Morelos.
 
-Dicho Sistema Estatal será presidido por el Secretario de Gobierno, recayendo la Secretaría Ejecutiva del mismo, en la titular del Instituto de la Mujer para el Estado de Morelos, el cual sesionará de forma ordinaria cuando menos tres veces al año, sin perjuicio de que celebre sesiones extraordinarias de acuerdo a lo que señale el reglamento de la presente ley.
+Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y Entidades que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
+
+El Sistema Estatal sesionará de forma ordinaria cuando menos tres veces al año, sin perjuicio de que celebre sesiones extraordinarias de acuerdo a lo que señale el Reglamento de la presente Ley.
 
 ###### Artículo 47.
 
@@ -671,9 +785,11 @@ VII.- Los mecanismos de evaluación, y
 
 VIII.- El subprograma de capacitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 50.
 
-Las acciones del Programa Estatal se articularan en los ejes de acción respectivos, tomado en consideración:
+Las acciones del Programa Estatal se articularán en los ejes de acción respectivos, tomado (sic) en consideración:
 
 I.- Las modalidades y tipos de violencia contra las mujeres;
 
@@ -689,13 +805,21 @@ VI.- La estadística de las sanciones en la materia;
 
 VII.- Las estadísticas existentes en el Estado sobre la violencia contra las mujeres;
 
-VIII.- Los avances en materia de armonización normativa y judicial, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-IX.- La operación de las dependencias e instituciones encargadas de la atención de la violencia contra las mujeres.
+VIII.- Los avances en materia de armonización normativa y judicial;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que se fomenten (sic) la violencia de género, estos deberán promover la erradicación de todo tipo de violencia, fortaleciendo el respeto a los derechos humanos y la dignidad de las mujeres.
+IX.- La operación de las dependencias e instituciones encargadas de la atención de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que se fomente la violencia de género, estos deberán promover la erradicación de todo tipo de violencia, fortaleciendo el respeto a los derechos humanos y la dignidad de las mujeres, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XI.- Las acciones y programas a ejecutar para la atención y rehabilitación de los agresores.
 
 ### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -703,7 +827,7 @@ X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que
 
 ### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
+#### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
 
 ###### Artículo 51.
 
@@ -733,9 +857,7 @@ XI.- Incluir en el Informe Anual de Gobierno, la situación, avances y resultado
 
 Las facultades antes señaladas serán desempeñadas a través de las dependencias de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, debiendo en todo momento ser supervisadas por el Titular del Ejecutivo del Estado.
 
-#### SECCIÓN QUINTA. DE LA SECRETARIA DE SALUD
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 52.
 
@@ -769,9 +891,9 @@ XIII.- Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2015)</small>
 
-#### SECCIÓN SEXTA. DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE HACIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 53.
 
@@ -791,15 +913,15 @@ VI.- Celebrar convenios de cooperación y coordinación económica para financia
 
 VII.- Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN SÉPTIMA. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### Artículo 54.
 
 Corresponde a la Secretaría de Educación:
 
-I.- Contemplar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos de las mujeres;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+I.- Contemplar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos de las mujeres, así como fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
 
 II.- Incluir en sus políticas, programas y contenidos educativos, los ejes de acción de prevención y erradicación de la violencia contra las mujeres, con apoyo en la equidad de género, el aprendizaje emocional y la resolución pacifica de conflictos.
 
@@ -819,7 +941,9 @@ IX.- Proporcionar formación y capacitación anualmente a todo el personal de lo
 
 X.- Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
+#### SECCIÓN QUINTA. DE LA SECRETARIA DE SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 55.
 
@@ -853,7 +977,9 @@ XII.- Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2014)</small>
 
-#### SECCIÓN NOVENA. DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN SEXTA. DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 56.
 
@@ -881,7 +1007,39 @@ X.- Apoyar a las autoridades e instituciones estatales encargadas de efectuar in
 
 XI.- Cumplir con todas y cada una de las atribuciones que le confiere la normatividad aplicable.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN SEXTA BIS. DE LA COMISIÓN EJECUTIVA DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL ESTADO DE MORELOS
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos:
+
+I.- Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las mujeres víctimas de delitos o de violaciones de Derechos Humanos, para lograr su reincorporación a la vida social;
+
+II.- Proporcionar asesoría jurídica a las mujeres víctimas de delitos o de violaciones de Derechos Humanos;
+
+III.- Facilitar a las mujeres víctimas de delitos o de violaciones de Derechos Humanos, el acceso al Fondo de Ayuda, Asistencia y Reparación del Estado, conforme a lo que establezca la Ley de Víctimas, su reglamento y demás normativa;
+
+IV.- Desarrollar las medidas para la protección inmediata de las víctimas, cuando su vida o su integridad se encuentren en riesgo;
+
+V.- Registrar a las víctimas de violencia de género en el Registro Estatal de Víctimas, conforme a lo que establezca la Ley de Víctimas, su reglamento y demás normativa;
+
+VI.- Vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+
+VII.- Diseñar y difundir materiales que promuevan la prevención, atención, reparación y erradicación de la violencia contra las mujeres en el estado;
+
+VIII.- Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal, y
+
+IX.- Las demás previstas para el cumplimiento de la presente Ley.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
@@ -941,6 +1099,8 @@ La información integrada en esta base deberá ser reguardada (sic) y únicament
 
 XIX.- Las demás previstas en el cumplimiento de la presente ley.
 
+#### SECCIÓN OCTAVA. DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
+
 ###### Artículo 58.
 
 El Instituto de la Mujer para el Estado de Morelos implementará las políticas públicas en materia de erradicación de la violencia contra las mujeres en el Estado, coordinándose para tal efecto con todas las dependencias de la Administración Pública Estatal y Municipal, en concordancia con la política nacional respectiva, desarrollando entre otras facultades las siguientes:
@@ -999,6 +1159,8 @@ Corresponde a la Comisión de Equidad de Género del Congreso del Estado:
 
 2.- Promover la actualización del marco normativo vigente en el Estado; en relación a erradicar la discriminación y la violencia contra las mujeres;
 
+#### SECCIÓN NOVENA. DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
 ###### Artículo 59.
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia:
@@ -1018,6 +1180,82 @@ VI.- Capacitar anualmente al personal a su cargo sobre la igualdad de oportunida
 VII.- Capacitar y sensibilizar al personal para proporcionar una atención con perspectiva de género, en especial la atención urgente a las mujeres y niñas victimas de la violencia, y
 
 VIII.- Las demás previstas para el cumplimiento de esta ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN DÉCIMA. DE LA SECRETARÍA DEL TRABAJO
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 59 Bis.
+
+Corresponde a la Secretaría del Trabajo:
+
+I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V.- Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI.- Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal;
+
+VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+VIII.- Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 59 Ter.
+
+Corresponde a la Secretaría de Desarrollo Social:
+
+I.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+II.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+
+III.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+
+IV.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+V.- Promover, en coordinación con las demás autoridades competentes, las políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
+
+VI.- Promover políticas de prevención y atención de la violencia contra las mujeres;
+
+VII.- Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal;
+
+VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+IX.- Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 59 Quater.
+
+Corresponde a la Secretaría de Desarrollo Agropecuario:
+
+I. Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de su competencia;
+
+II. Delinear, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres en las comunidades agrarias y ejidos, incluyendo a las de origen étnico, conforme a su ámbito competencial;
+
+III. Fomentar la cultura de respeto a los derechos humanos de las mujeres que habitan en zonas rurales, incluyendo a las de origen étnico;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en el ámbito de su competencia;
+
+V. Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal, y
+
+VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 60.
 
@@ -1293,15 +1531,15 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 11 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
-TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y publicada en el Periódico Oficial "Tierra y Libertad", número 5172, el día 26 del mismo mes y año.
+TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y publicada en el Periódico Oficial “Tierra y Libertad”, número 5172, el día 26 del mismo mes y año.
 
-CUARTA. Se abroga el "ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA "UNIDAD DE COMBATE AL SECUESTRO", publicado en el Periódico Oficial "Tierra y Libertad" número 4680, el día 4 de febrero de 2009, así como los demás Acuerdos que se contrapongan a lo previsto en el presente Decreto.
+CUARTA. Se abroga el “ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA “UNIDAD DE COMBATE AL SECUESTRO”, publicado en el Periódico Oficial “Tierra y Libertad” número 4680, el día 4 de febrero de 2009, así como los demás Acuerdos que se contrapongan a lo previsto en el presente Decreto.
 
 QUINTA. Una vez publicado el presente Decreto, dentro de los ciento veinte días siguientes, contados a partir del inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes correspondientes para su armonización con el presente Decreto.
 
@@ -1315,7 +1553,7 @@ NOVENA. En todo caso no se afectará la situación administrativa o laboral del 
 
 DÉCIMA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado, que ha venido ocupando y administrando la Fiscalía General del Estado de Morelos hasta ahora, pasan a formar parte del patrimonio de ésta última por virtud de esta Ley desde el momento de su entrada en vigor, dada su naturaleza de órgano constitucional autónomo, otorgada en términos del artículo 79-A de la Constitución Política del Estado Libre y Soberano de Morelos; para lo cual el Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
 
-Toda vez que respecto del bien inmueble identificado como Lote 10, manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca, Morelos, con clave catastral 1100-19-007-009, y una superficie de 11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros cuadrados), conforme a la autorización concedida mediante Decreto Legislativo número dos mil doscientos uno, emitido por este Congreso y publicado en el Periódico Oficial "Tierra y Libertad", número 5513, el 16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal ha realizado la desincorporación respectiva por Decreto Administrativo, publicado en el mismo órgano de difusión, número 5546 de 01 de noviembre de 2017, sin que a la fecha se haya materializado la enajenación del mismo; por lo que se deberá estar a lo señalado en el primer párrafo de la presente Disposición Transitoria.
+Toda vez que respecto del bien inmueble identificado como Lote 10, manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca, Morelos, con clave catastral 1100-19-007-009, y una superficie de 11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros cuadrados), conforme a la autorización concedida mediante Decreto Legislativo número dos mil doscientos uno, emitido por este Congreso y publicado en el Periódico Oficial “Tierra y Libertad”, número 5513, el 16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal ha realizado la desincorporación respectiva por Decreto Administrativo, publicado en el mismo órgano de difusión, número 5546 de 01 de noviembre de 2017, sin que a la fecha se haya materializado la enajenación del mismo; por lo que se deberá estar a lo señalado en el primer párrafo de la presente Disposición Transitoria.
 
 Así mismo, el Poder Ejecutivo del Estado, por conducto de la Dirección General de Patrimonio de la Secretaría de Administración, debe informar al Congreso del Estado respecto del cumplimiento de la presente Disposición Transitoria y, por ende, del Decreto Legislativo número dos mil doscientos uno.
 
@@ -1339,10 +1577,30 @@ DÉCIMA SÉPTIMA. En un plazo no mayor de 180 días hábiles la Junta de Gobiern
 
 DÉCIMA OCTAVA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto.
 
-DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al Centro de Evaluación y Control de Confianza del Estado de Morelos como órgano desconcentrado de la Administración Pública Estatal, publicado en el Periódico Oficial "Tierra y Libertad", número 5585, el 07 de marzo de 2018.
+DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al Centro de Evaluación y Control de Confianza del Estado de Morelos como órgano desconcentrado de la Administración Pública Estatal, publicado en el Periódico Oficial “Tierra y Libertad”, número 5585, el 07 de marzo de 2018.
 
 VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, deberán realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr la transferencia a la Fiscalía General del Estado de los recursos humanos, materiales y financieros que el Centro de Evaluación y Control de Confianza del Estado de Morelos ha ocupado y proyectado para su funcionamiento.
 
 VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
 
 VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
