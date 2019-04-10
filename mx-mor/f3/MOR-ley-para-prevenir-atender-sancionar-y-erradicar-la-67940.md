@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2018-08-30"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -65,11 +65,15 @@ a) Violencia psicológica y emocional.- Cualquier acción de negligencia, abando
 
 b) Violencia física.- Cualquier acto intencional en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física, independientemente de que se produzcan o no, lesiones internas o externas o ambas y que va encaminado a obtener el sometimiento y control;
 
-c) Violencia sexual.- Cualquier acto que degrada o daña al cuerpo y/o la sexualidad del receptor, y por lo tanto atenta contra su libertad, dignidad e integridad física, es una expresión de abuso de poder que implica la supremacía del generador sobre el receptor, al denigrarlo y concebirlo como objeto;
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
 
-d) Violencia patrimonial.- Cualquier acto u omisión que afecta la supervivencia del receptor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios del receptor, y
+c) Violencia cibernética.- Violencia ejercida mediante tecnologías de la información y comunicación de manera continuada, a través de internet, mensajes de texto, fotografías o imágenes modificadas o editadas, videos, sonidos, o cualquier otra forma que atenta contra la integridad y dignidad de los miembros de la familia, y
 
-e) Violencia económica.- Es toda acción u omisión del generador que afecta la supervivencia económica del receptor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
+d) Violencia sexual.- Cualquier acto que degrada o daña al cuerpo y/o la sexualidad del receptor, y por lo tanto atenta contra su libertad, dignidad e integridad física, es una expresión de abuso de poder que implica la supremacía del generador sobre el receptor, al denigrarlo y concebirlo como objeto;
+
+e) Violencia patrimonial.- Cualquier acto u omisión que afecta la supervivencia del receptor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios del receptor, y
+
+f) Violencia económica.- Es toda acción u omisión del generador que afecta la supervivencia económica del receptor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
 
 II.- Generador de violencia familiar: quien realice cualquiera de los actos u omisiones señaladas en la fracción anterior y ocurran en perjuicio de las personas con las que tenga vínculo familiar;
 
@@ -109,9 +113,11 @@ Corresponde la aplicación de la presente ley al Ejecutivo Estatal y a los Ayunt
 
 ### CAPÍTULO I. DE LA PREVENCIÓN Y DE LA ATENCIÓN
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 6.
 
-Las autoridades de la Administración Pública Estatal y Municipal, los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias y en pleno ejercicio de sus atribuciones y funciones deberán establecer políticas públicas, incluir en la legislación, prever mecanismos procesales y realizar acciones en general, encaminadas a la prevención de la violencia familiar.
+Las autoridades de la Administración Pública Estatal y Municipal, los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias y en pleno ejercicio de sus atribuciones y funciones deberán establecer políticas públicas, incluir en la legislación, prever mecanismos procesales y realizar acciones en general, encaminadas a la prevención de la violencia familiar, en especial, a la violencia ejercida contra la mujer, a fin de eliminar desde el seno familiar la eliminación de estereotipos establecidos en función del género.
 
 ###### ARTÍCULO 7.
 
@@ -139,13 +145,17 @@ La atención estará libre de discriminación por género, raza, condición soci
 
 La atención al generador de violencia familiar se basará en modelos psicoterapéuticos y reeducativos, tendientes a disminuir y erradicar las conductas de violencia, consecuentemente:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-I.- Los modelos de atención a generadores de violencia familiar serán debidamente validados y, en su caso, aprobados por el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, previo registro de los mismos, independientemente de que sean proporcionados por instancias públicas y privadas, y
+I.- Los modelos de atención a generadores serán debidamente validados y en su caso aprobados por la Secretaría de Desarrollo Social, previo registro de los mismos, independientemente de que sean proporcionados por instancias públicas y privadas;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-II.- Los modelos de atención a generadores de violencia familiar serán evaluados anualmente por el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en cuanto a su efectividad y disminución de prácticas violentas.
+II.- Los modelos de atención a generadores de violencia serán evaluados anualmente por la Secretaría de Desarrollo Social, en cuanto a su efectividad y disminución de prácticas violentas, y,
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+III.- Entre otros, tendrán por objeto eliminar las conductas violentas del generador de violencia familiar, mediante la eliminación de estereotipos.
 
 ###### ARTÍCULO 11.
 
@@ -769,10 +779,30 @@ VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conduc
 
 P.O. 30 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CATORCE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO".]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial "Tierra y Libertad" de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
