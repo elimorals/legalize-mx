@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-912
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-16"
-last_updated: "2013-01-16"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 
@@ -65,9 +65,11 @@ LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres, en el ámbito público y privado promoviendo el empoderamiento de las mujeres, mediante la coordinación entre los diferentes órganos de gobierno de acciones y el establecimiento de mecanismos institucionales y políticas públicas de aceleramiento para la igualdad, es de orden público, de interés social y de observancia general y obligatoria para todo el Estado de Morelos.
+La presente Ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres, en el ámbito público y privado promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el género, mediante la coordinación entre los diferentes órganos de gobierno de acciones y el establecimiento de mecanismos institucionales y políticas públicas de aceleramiento para la igualdad; es de orden público, de interés social y de observancia general y obligatoria para todo el Estado de Morelos.
 
 ###### Artículo 2.
 
@@ -93,49 +95,55 @@ La trasgresión a los principios y programas que esta Ley prevé será sancionad
 
 En lo no previsto por esta Ley, se aplicará en forma supletoria y en lo conducente, lo dispuesto por la Ley General para la Igualdad entre Mujeres y Hombres; Ley Federal para Prevenir y Eliminar la Discriminación; la Ley de la Comisión de Derechos Humanos del Estado de Morelos; los instrumentos internacionales ratificados por el Estado mexicano, y los demás aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 5.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Ley.- Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos;
+I. Acciones positivas o afirmativas, al conjunto de medidas de carácter temporal, correctivo, compensatorio y de promoción; encaminadas a acelerar la igualdad de hecho entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y de oportunidades; mismas que deberán observar en todo momento los principios generales del derecho, así como las disposiciones legales en la materia en las cuales se pretende aplicar con el objeto de no causar un daño irreparable;
 
-II.- Instituto.- Instituto de la Mujer para el Estado de Morelos;
+II. Discriminación, a toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, la orientación sexual, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, la identidad o filiación política, los antecedentes penales o cualquier otro motivo.
 
-III.- Instancias.- Dirección de la Instancia Municipal de la mujer;
+También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial y otras formas conexas de intolerancia;
 
-IV.- Igualdad entre mujeres y hombres.- Implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo;
+III. Discriminación contra la Mujer, a toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-V.- Igualdad real o sustantiva.- Es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, siendo parte de esta:
+IV. Equidad de Género, al principio conforme al cual el hombre y la mujer acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyéndose aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones, el trato digno, las oportunidades y los beneficios del desarrollo, en todos los ámbitos de la vida política, económica, social, cultural y familiar;
 
-a).- La igualdad jurídica;
+V. Género, a la asignación que socialmente se hace a mujeres y hombres de determinados valores, creencias, atributos, interpretaciones, roles, representaciones y características;
 
-b).- La igualdad de oportunidades;
+VI. Igualdad de Oportunidades entre mujeres y hombres, al acceso igualitario al pleno desarrollo de las mujeres y los hombres, en los ámbitos público y privado, originado por la creación de políticas públicas que reconozcan que ambos géneros tienen necesidades diferentes y que construyan instrumentos capaces de atender esas diferencias;
 
-c).- La igualdad salarial, y
+VII. Igualdad entre mujeres y hombres, a la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo;
 
-d).- La igualdad de género.
+VIII. Igualdad real o sustantiva, al acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, siendo parte de esta:
 
-VI.- Igualdad de Oportunidades.- Es el acceso igualitario al pleno desarrollo de las mujeres y los hombres, en los ámbitos público y privado, originado por la creación de políticas públicas que reconozcan que ambos géneros tienen necesidades diferentes y que construyan instrumentos capaces de atender esas diferencias;
+a) La igualdad de género;
 
-VII.- Sexo.- Características distintivas de las personas en razón de su conformación biológica para la procreación;
+b) La igualdad de oportunidades;
 
-VIII.- Género.- Asignación que socialmente se hace a mujeres y hombres de determinados valores, creencias, atributos, interpretaciones, roles, representaciones y características;
+c) La igualdad jurídica, y
 
-IX.- Equidad de Género.- Principio conforme al cual el hombre y la mujer acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyéndose aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones, el trato digno, las oportunidades y los beneficios del desarrollo, en todos los ámbitos de la vida política, económica, social, cultural y familiar;
+d) La igualdad salarial.
 
-X.- Perspectiva de género.- Es una visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de opresión de género como la desigualdad, la injusticia, la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+IX. Instancias.- a las instancias municipales de la mujer a las que refiere la Ley Orgánica Municipal del Estado de Morelos;
 
-XI.- Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, que concrete el principio de igualdad.
+X. Instituto, al Instituto de la Mujer para el Estado de Morelos;
 
-XII.- Discriminación.- Cualquier tipo de distinción, exclusión o restricción, que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de las personas, sobre la base de la igualdad de oportunidades con equidad de género, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera; en concordancia con los instrumentos nacionales e internacionales ratificados por el Estado Mexicano;
+XI. Ley, al presente instrumento legislativo;
 
-XIII.- Acciones positivas o afirmativas.- Es el conjunto de medidas de carácter temporal, correctivo, compensatorio y de promoción; encaminadas a acelerar la igualdad de hecho entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y de oportunidades;
+XII. Paridad, a la estrategia política que tiene por objetivo garantizar una participación equilibrada de mujeres y hombres en todos los ámbitos de la sociedad, particularmente en la toma de decisiones;
 
-XIV.- Paridad.- Estrategia política que tiene por objetivo garantizar una participación equilibrada de mujeres y hombres en todos los ámbitos de la sociedad, particularmente en la toma de decisiones;
+XIII. Perspectiva de género, a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XV.- Sistema.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+XIV. Programa, al Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
-XVI.- Programa.- El Programa Estatal para la Igualdad entre Mujeres y Hombres.
+XV. Sexo, a las Características distintivas de las personas en razón de su conformación biológica para la procreación;
+
+XVI. Sistema Estatal, al Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+
+XVII. Transversalidad, al proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, que concrete el principio de igualdad sustantiva.
 
 ###### Artículo 6.
 
@@ -157,7 +165,9 @@ Para la integración y funcionamiento del Sistema Estatal, el Gobierno y los Ayu
 
 El Gobierno del Estado, a través de la Secretaría, Dependencia o entidad que corresponda, según la materia de que se trate, o los Ayuntamientos a través de las Instancias, podrán suscribir convenios o acuerdos de coordinación, con la coparticipación del Instituto, a fin de:
 
-I.- Fortalecer sus funciones y atribuciones en materia de institucionalización de los principios de igualdad y no discriminación, hacia el interior de su estructura orgánica y hacia las formas de prestación de los servicios y atención al público;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+I.- Fortalecer sus funciones y atribuciones en materia de institucionalización de los principios de igualdad sustantiva y no discriminación contra la mujer, hacia el interior de su estructura orgánica y hacia las formas de prestación de los servicios y atención al público;
 
 II.- Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función estatal y municipal;
 
@@ -209,7 +219,9 @@ XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 Corresponde al Congreso del Estado:
 
-I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los compromisos internacionales suscritos por México, en materia de igualdad y no discriminación, así como con las normas federales en la materia;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los compromisos internacionales suscritos por México, en materia de igualdad sustantiva y no discriminación contra la mujer, así como con las normas federales en la materia;
 
 II. Promover las iniciativas correspondientes para dar cumplimiento a lo previsto en dichos ordenamientos y en la presente Ley;
 
@@ -225,7 +237,9 @@ I. Implementará mecanismos y acciones encaminadas a promover y garantizar la ig
 
 II. Capacitará a las magistradas, magistrados; jueces y juezas y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género; y
 
-III. Garantizará que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Convenios Internacionales suscritos por México, en materia de derechos humanos, igualdad y no discriminación.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+III. Garantizará que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Convenios Internacionales suscritos por el Estado Mexicano, en materia de derechos humanos, igualdad sustantiva y no discriminación contra la mujer.
 
 ### CAPÍTULO TERCERO. DE LOS AYUNTAMIENTOS
 
@@ -243,7 +257,11 @@ II. Coadyuvar con el gobierno estatal a la consolidación de los programas en ma
 
 III. Considerar, de conformidad con lo establecido en la Ley Orgánica Municipal del Estado de Morelos, la infraestructura, así como el presupuesto, para atender las necesidades financieras para la ejecución de los programas de igualdad;
 
-IV. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IV. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del género de las personas, y
 
 V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas, como en las rurales.
 
@@ -279,9 +297,29 @@ IV. Fomentar la participación y representación política equilibrada entre muj
 
 V. Promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales y culturales, para las mujeres y los hombres;
 
-VI. Promover la eliminación de estereotipos establecidos en función del sexo; e
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-VII. Instrumentar acciones de formación y capacitación permanente con perspectiva de género, para servidoras y servidores públicos encargados de la planeación y programación de las políticas públicas, en materia de igualdad y no discriminación.
+VI. Promover la eliminación de estereotipos establecidos en función del género;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VII. Instrumentar acciones de formación y capacitación permanente con perspectiva de género, para servidoras y servidores públicos encargados de la planeación y programación de las políticas públicas, en materia de igualdad sustantiva y no discriminación contra la mujer;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+X. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XI. En materia de educación, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; y la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -327,13 +365,13 @@ Los Ayuntamientos ejerciendo la representación en el Presidente Municipal que r
 
 La sociedad civil a través de las organizaciones involucradas en el tema.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 25.
 
-El Sistema será presidido por el Instituto de la Mujer en el Estado de Morelos, a través de su Junta Directiva. El Gobernador del Estado será Presidente Honorario del mismo. El Sistema Estatal sesionará de manera ordinaria tres veces al año, y extraordinaria cuando así se requiera, y de conformidad con lo que se establezca en el Reglamento de esta Ley.
+El Sistema Estatal será presidido por el Instituto, a través de su Junta Directiva. El Gobernador del Estado será Presidente Honorario del mismo. El Sistema Estatal sesionará de manera ordinaria tres veces al año, y extraordinaria cuando así se requiera, y de conformidad con lo que se establezca en el Reglamento de esta Ley.
 
-Formarán parte del Sistema Estatal, una o un representante del Congreso del Estado; una o un representante del Poder Judicial; y la o el Titular de la Comisión Estatal de Derechos Humanos.
-
-Las y los representantes de las organizaciones civiles estatales relacionadas con la materia, se integrarán al mismo, por invitación del propio Sistema Estatal. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema Estatal.
+Formarán parte del Sistema Estatal, una persona representante del Congreso del Estado; una persona representante del Poder Judicial; y la persona titular de la Comisión de Derechos Humanos del Estado de Morelos. Las y los representantes de las organizaciones civiles estatales relacionadas con la materia, se integrarán al mismo por invitación del propio Sistema Estatal. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema Estatal.
 
 ###### Artículo 26.
 
@@ -405,19 +443,31 @@ Será objetivo de la política estatal, el fortalecimiento de la igualdad entre 
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo, en los procesos productivos y en los espacios de toma de decisiones;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género, en materia política, social y económica; e
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-III. Impulsar liderazgos igualitarios en todos los ámbitos de la vida.
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género, en materia política, social y económica;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+III. Impulsar liderazgos igualitarios en todos los ámbitos de la vida, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad sustantiva y no discriminación contra la mujer en las condiciones de trabajo entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA ESTATAL
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 34.
 
-La política definida en el Programa Estatal, guiada a través del Sistema, deberá desarrollar acciones transversales para alcanzar los objetivos que definan el rumbo de la igualdad entre mujeres y hombres, conforme a los objetivos operativos y acciones específicas a que se refiere este Título y en cumplimiento al Plan Estatal de Desarrollo.
+La política definida en el Programa Estatal, guiada a través del Sistema Estatal, deberá desarrollar acciones transversales para alcanzar los objetivos que definan el rumbo de la igualdad entre mujeres y hombres, conforme a los objetivos operativos y acciones específicas a que se refiere este Título y en cumplimiento al Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 35.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades, las dependencias y entidades de la administración pública del Estado, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades de la Administración Pública Estatal, garantizarán el principio de igualdad sustantiva en el ámbito del empleo, así como el derecho fundamental a la no discriminación contra las mujeres en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -425,7 +475,7 @@ II. Fomentar la incorporación a la educación y formación de las personas que 
 
 III. Fomentar el acceso a los puestos directivos de las personas que, en razón de su sexo, están relegadas;
 
-IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres y la transversalización de la perspectiva de género en la estrategia estatal laboral
+IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres y la transversalización de la perspectiva de género en la estrategia estatal laboral;
 
 V. Financiar las acciones de información, concientización y sensibilización destinadas a fomentar la igualdad entre mujeres y hombres, en todas las dependencias y entidades de la administración pública del Estado;
 
@@ -433,11 +483,17 @@ VI. Vincular todas las acciones financiadas para el adelanto y empoderamiento de
 
 VII. Evitar la segregación de las personas por razón de su sexo, en el mercado de trabajo;
 
-VIII. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
+VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
 
-IX. Diseñar políticas y programas de desarrollo y reducción de la pobreza con perspectiva de género;
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento;
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos;
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal;
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
+
+IX. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y
 
 X. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece este artículo.
 
@@ -446,6 +502,8 @@ X. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar
 ###### Artículo 36.
 
 La política estatal propondrá los mecanismos de operación adecuados para la participación igualitaria entre mujeres y hombres, en la toma de decisiones políticas y socioeconómicas.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 37.
 
@@ -459,9 +517,9 @@ III. Promover la participación igualitaria entre mujeres y hombres en los cargo
 
 IV. Promover la participación y representación igualitaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
 
-V. Fomentar la participación equitativa de mujeres y hombres en todos los niveles de la administración pública estatal considerando primordialmente el primer nivel de gobierno; y
+V. Fomentar la participación equitativa de mujeres y hombres en todos los niveles de la administración pública estatal considerando primordialmente el primer nivel de gobierno, y,
 
-VII (sic). Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en la administración pública estatal y municipal.
+VI. Fomentar la participación equilibrada y sin discriminación contra la mujer y hombres en los procesos de selección, contratación y ascensos en la administración pública estatal y municipal.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -469,9 +527,21 @@ VII (sic). Fomentar la participación equilibrada y sin discriminación de mujer
 
 Con el fin de promover la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de la política estatal:
 
-I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-II. Garantizar la integración de la perspectiva de género en la concepción, aplicación y evaluación de las políticas y actividades públicas, privadas y sociales, que impactan la cotidianeidad de mujeres y hombres.
+I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+II. Garantizar la integración de la perspectiva de género en la concepción, aplicación y evaluación de las políticas y actividades públicas, privadas y sociales, que impactan la cotidianeidad de mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y,
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los género (sic) o en funciones estereotipadas de hombres y mujeres.
 
 ###### Artículo 39.
 
@@ -513,19 +583,43 @@ V. Reforzar la cooperación y los intercambios de información sobre los derecho
 
 VI. Impulsar las reformas legislativas y políticas públicas para prevenir, sancionar y erradicar en los ámbitos público y privado, la discriminación contra la (sic) personas por razón de sexo.
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VII. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+VIII. Fomentar las investigaciones en materia de prevención, atención, sanción, reparación y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres el derecho a un permiso y a una prestación por paternidad.
+
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 42.
 
-Será objetivo de la política estatal, la eliminación de los estereotipos que fomentan la discriminación y la sumisión de las mujeres.
+Será objetivo de la política estatal, la eliminación de los estereotipos que fomentan la discriminación contra las mujeres y la sumisión de las mujeres.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 43.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-I. Promover acciones que contribuyan a erradicar todas las formas de discriminación por razón de género y sus estereotipos; y
+I. Promover acciones que contribuyan a erradicar todas las formas de discriminación por razón de género y sus estereotipos;
 
-II. Desarrollar actividades de concientización y sensibilización sobre la importancia de la igualdad entre mujeres y hombres para la erradicación de estereotipos.
+II. Desarrollar actividades de concientización y sensibilización sobre la importancia de la igualdad entre mujeres y hombres para la erradicación de estereotipos;
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y,
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del género de las personas.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -610,3 +704,25 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que (sic) refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
