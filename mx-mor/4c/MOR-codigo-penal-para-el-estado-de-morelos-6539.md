@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2018-03-21"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1565,7 +1565,9 @@ II. De tres a ocho años de prisión y de cuarenta a cuatrocientos días-multa, 
 
 III. De seis a ocho años de prisión si mediare violencia física o moral.
 
-Los médicos que realicen injustificadamente el aborto serán sancionados de acuerdo a la fracción II de este artículo, y si a ello se dedicaren, se les aplicará la prevista en la fracción III de esta disposición; en ambos casos serán inhabilitados para ejercer la profesión, condenándoseles, en su caso, a la cancelación de su cédula profesional. Quienes no siendo médicos, realicen o practiquen el aborto, serán sancionados conforme a la fracción III del presente artículo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
+
+Los médicos que realicen injustificadamente el aborto serán sancionados de acuerdo a la fracción II de este artículo, y si a ello se dedicaren, se les aplicará la prevista en la fracción III de esta disposición; en ambos casos serán inhabilitados para ejercer la profesión hasta por las dos terceras partes de la pena impuesta; en caso de la fracción III se le condenará a la cancelación de su cédula profesional. Quienes no siendo médicos, realicen o practiquen el aborto, serán sancionados conforme a la fracción III del presente artículo.
 
 ###### ARTICULO 116.
 
@@ -2775,39 +2777,17 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá por querella.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III DEL TÍTULO DÉCIMO SEGUNDO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 207.
 
 Al que contraiga nuevo matrimonio sin que se haya declarado la nulidad o la disolución del que contrajo con anterioridad, se le impondrá de seis meses a dos años de prisión. Las mismas sanciones se aplicarán al otro contrayente cuando éste tenga conocimiento del impedimento a que se refiere este artículo.
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
-
-###### ARTICULO 208.
-
-A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitación de grado, que tengan cópula entre sí, se les impondrá de seis meses a dos años de prisión o de seis meses a un año de tratamiento en libertad. El juez podrá reducir la sanción hasta en una mitad, si en el caso median circunstancias que justifiquen esa reducción.
-
-### CAPITULO II. LENOCINIO Y TRATA DE PERSONAS
-
-###### ARTICULO 209.
-
-(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
-
-###### ARTICULO 210.
-
-(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-## TITULO DECIMO PRIMERO. DELITOS CONTRA EL DESARROLLO, LA DIGNIDAD DE LA PERSONA Y LA EQUIDAD DE GENERO
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
-
-### CAPITULO III. FEMINICIDIO
+### CAPITULO IV. FEMINICIDIO
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-ARTICULO 213 Quintus.- Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer. Existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
+ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer. Existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
 
 I. Hay o se haya dado, entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho;
 
@@ -2829,9 +2809,29 @@ A quien cometa delito de feminicidio se le impondrá una sanción de 40 a 70 añ
 
 En el caso de la fracción I se le impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
-TITULO DECIMOTERCERO
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
-DELITOS CONTRA LA FE PUBLICA
+###### ARTICULO 208.
+
+A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitación de grado, que tengan cópula entre sí, se les impondrá de seis meses a dos años de prisión o de seis meses a un año de tratamiento en libertad. El juez podrá reducir la sanción hasta en una mitad, si en el caso median circunstancias que justifiquen esa reducción.
+
+### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+
+###### ARTICULO 209.
+
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
+
+###### ARTICULO 210.
+
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO DECIMO PRIMERO. DELITOS CONTRA EL DESARROLLO, LA DIGNIDAD DE LA PERSONA Y LA EQUIDAD DE GENERO
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
+
+### CAPITULO II. LENOCINIO Y TRATA DE PERSONAS
 
 ###### ARTICULO 211.
 
@@ -2959,7 +2959,9 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 (DEROGADO, P.O. 9 DE JULIO DE 2008)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+TITULO DECIMOTERCERO
+
+DELITOS CONTRA LA FE PUBLICA
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LOS MEDIOS DE TRANSPORTE Y LAS VIAS DE COMUNICACION
 
@@ -5042,3 +5044,23 @@ P.O. 21 DE MARZO DE 2018.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO".]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial "Tierra y Libertad" de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
