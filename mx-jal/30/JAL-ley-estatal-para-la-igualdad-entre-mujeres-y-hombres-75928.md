@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2017-08-08"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -259,13 +259,17 @@ II. El Programa Estatal para la Igualdad entre Mujeres y Hombres, y
 
 III. La observancia en materia de igualdad de trato y oportunidades entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 32.
 
-El Instituto Jalisciense de las Mujeres coordinará las acciones que el Sistema Estatal para la Igualdad entre Mujeres y Hombres genere y expedirá, a través de su Junta de Gobierno, las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional o internacional.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres coordinará las acciones que el Sistema Estatal para la Igualdad entre Mujeres y Hombres genere y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional o internacional.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 33.
 
-Para los efectos del artículo anterior, el Instituto Jalisciense de las Mujeres, sin menoscabo de las atribuciones que le confiere la Ley que lo rige, supervisará la coordinación de los instrumentos de la política en materia de igualdad sustantiva entre mujeres y hombres en el Estado de Jalisco.
+Para los efectos del artículo anterior, la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, sin menoscabo de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo y su Reglamento Interno, supervisará la coordinación de los instrumentos de la política en materia de igualdad sustantiva entre mujeres y hombres en el Estado de Jalisco.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -273,53 +277,93 @@ Para los efectos del artículo anterior, el Instituto Jalisciense de las Mujeres
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos del Estado de Jalisco entre sí, con la sociedad civil organizada, instituciones académicas y de investigación, con el objetivo de garantizar la igualdad entre mujeres y hombres en Jalisco.
 
-El Sistema para la Igualdad entre Mujeres y Hombres se estructurará con un Consejo Técnico, a cargo del Instituto Jalisciense de las Mujeres y deberá contar, al menos, con representantes de:
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+El Sistema para la Igualdad entre Mujeres y Hombres se estructurará con un Consejo Técnico, que deberá contar, al menos, con representantes de:
 
-I. La Secretaría de Desarrollo e Integración Social;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+I. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, quien lo presidirá
 
-II. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-III. La Secretaría del Trabajo y Previsión Social;
+II. La Secretaría General de Gobierno;
 
-IV. La Secretaría de Salud;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-V. La Secretaría de Educación;
+III. La Secretaría del Sistema de Asistencia Social;
 
-VI. La Secretaría de Cultura;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+IV. La Secretaría de Desarrollo Económico;
 
-VII. La Fiscalía General del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-VIII. La Procuraduría Social;
+V. La Secretaría del Trabajo y Previsión Social;
 
-IX. El Poder Legislativo del Estado, representado por la Comisión de Equidad y Género del Congreso del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-X. El Supremo Tribunal de Justicia del Estado de Jalisco;
+VI. La Secretaría de Salud;
 
-XI. La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+VII. La Secretaría de Educación;
 
-XII. La Comisión Estatal Indígena;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+VIII. La Secretaría de Cultura;
 
-XIII. La Universidad de Guadalajara; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+IX. La Fiscalía del Estado;
 
-XIV. Representantes de organizaciones no gubernamentales previamente acreditados ante el Instituto.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+X. La Procuraduría Social del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XI. El Poder Legislativo del Estado, representado por la Comisión de Igualdad Sustantiva y de Género del Congreso del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XII. El Supremo Tribunal de Justicia del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XIII. La Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XIV. La Comisión Estatal Indígena;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XV. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XVI. La Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XVII. La Universidad de Guadalajara;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XVIII. Al menos 7 representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+
+XIX. Cinco personas acreditadas por instituciones académicas.
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, está obligado a sesionar semestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente Ley y sus decisiones se tomarán por mayoría simple.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 35.
 
-El Instituto Jalisciense de las Mujeres, coordinará, las acciones que el Sistema Estatal para la Igualdad entre Mujeres y Hombres genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter local o nacional.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres coordinará las acciones que el Sistema Estatal para la Igualdad entre Mujeres y Hombres genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y expedirá las reglas para la organización y el funcionamiento de este, así como las medidas para vincularlo con otros de carácter local o nacional.
 
 ###### Artículo 36.
 
@@ -351,9 +395,11 @@ XII. Las demás que se requieran para el cumplimiento de los objetivos del Siste
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 37.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres, será elaborado por el Instituto Jalisciense de las Mujeres tomando en consideración las necesidades de la entidad, así como también las particularidades de la desigualdad en cada demarcación territorial.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres, será elaborado por la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres tomando en consideración las necesidades y derechos humanos de las mujeres en su diversidad.
 
 ###### Artículo 38.
 
@@ -377,9 +423,11 @@ III. Promover cambios culturales que permitan compartir en condiciones de iguald
 
 Las acciones propuestas por el Programa Estatal para la Igualdad entre Mujeres y Hombres, se implementarán a través de los distintos organismos ejecutores del Estado, de acuerdo a los principios rectores establecidos en los artículos precedentes, convocando a la más amplia participación de la sociedad civil.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 41.
 
-El Instituto Jalisciense de las Mujeres deberá revisar y evaluar el Programa Estatal para la Igualdad entre Mujeres y Hombres cada tres años.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres deberá revisar y evaluar el Programa Estatal para la Igualdad entre Mujeres y Hombres cada dos años, y publicará periódicamente los resultados e indicadores de su cumplimiento, así como las recomendaciones realizadas por la Comisión Estatal de Derechos Humanos, derivadas del ejercicio de la observancia de la Política Estatal para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 42.
 
@@ -387,31 +435,53 @@ Los informes anuales del Titular del Poder Ejecutivo del Estado de Jalisco, debe
 
 ### CAPÍTULO QUINTO. DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 43.
 
-El Instituto Jalisciense de las Mujeres es el responsable de la coordinación de las políticas y medidas adoptadas por los Poderes Públicos del Estado y organismos auxiliares de la Administración Pública Estatal con la finalidad de garantizar el derecho a la igualdad de trato y oportunidades entre mujeres y hombres y promover su efectividad.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres es responsable de la coordinación de las políticas y medidas adoptadas por los Poderes Públicos del Estado y organismos auxiliares de la administración pública estatal con la finalidad de garantizar el derecho a la igualdad de trato y oportunidades entre mujeres y hombres y promover su efectividad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 44.
 
-Entre sus funciones relacionadas con el principio de igualdad de trato y oportunidades entre mujeres y hombres, al Instituto Jalisciense de las Mujeres le corresponde, además de lo establecido en otros ordenamientos, lo siguiente:
+Entre sus funciones relacionadas con el principio de igualdad de trato y oportunidades entre mujeres y hombres, la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres le corresponde, además de lo establecido en otros ordenamientos, lo siguiente:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
 I. Coordinar los programas de igualdad de trato y oportunidades entre mujeres y hombres de las dependencias y entidades de la Administración Pública Estatal;
 
-II. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-III. Servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad de trato y oportunidades y la lucha contra la discriminación;
+II. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad entre mujeres y hombres;
 
-IV. Apoyar la coordinación entre las instituciones de la Administración Pública Federal para formar y capacitar a su personal en materia (sic) igualdad de trato y oportunidades entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-V. Promover la impartición de cursos de formación sobre la igualdad de trato y oportunidades;
+III. Servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad de trato y oportunidades entre mujeres y hombres y la lucha contra la discriminación;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IV. Apoyar la coordinación entre las instituciones de la administración pública federal para formar y capacitar a su personal en materia de igualdad de trato y oportunidades entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+V. Promover la impartición de cursos de formación sobre los derechos humanos de las mujeres, así como la igualdad de trato y oportunidades entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
 VI. Impulsar la participación de la sociedad civil en la promoción de la igualdad de trato y oportunidades entre mujeres y hombres;
 
 VII. Recabar la información estadística elaborada por los Poderes Públicos del Estado y organismos auxiliares de la Administración Pública Estatal y asesorar a los mismos en relación con su elaboración;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE ABRIL DE 2019)</small>
+
 VIII. Incluir en su informe anual, un apartado específico sobre la efectividad y el impacto del principio de igualdad de trato y oportunidades entre mujeres y hombres;
 
-IX. Determinar la periodicidad y características de la información que en materia de igualdad de trato y oportunidades, y no discriminación, deberán proporcionarlas dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Determinar la periodicidad y características de la información que en materia de igualdad de trato y oportunidades entre mujeres y hombres y no discriminación, deberán proporcionar las dependencias y entidades de la administración pública estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
 X. Elaborar estudios con la finalidad de promover la igualdad de trato y oportunidades entre mujeres y hombres; y
 
@@ -509,9 +579,11 @@ Los Poderes Públicos del Estado y los organismos auxiliares de la Administraci�
 
 Toda persona tendrá derecho a que las autoridades del Estado y los organismos públicos, previo cumplimiento de los requisitos que la Ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad de trato y oportunidades entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 55.
 
-El Instituto Jalisciense de las Mujeres promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres a que se refiere esta Ley.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política estatal en materia de igualdad entre mujeres y hombres a que se refiere esta Ley.
 
 ### CAPÍTULO SEXTO. DEL DEPORTE
 
@@ -673,15 +745,31 @@ En el acceso a bienes y servicios, ningún contratante podrá indagar sobre la s
 
 ### CAPÍTULO PRIMERO. DE LA VIGILANCIA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 81.
 
-El Instituto Jalisciense de las Mujeres, con base en lo dispuesto en la presente Ley, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad entre mujeres y hombres en el Estado de Jalisco.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres y la Comisión Estatal de Derechos Humanos, con base en lo dispuesto en la presente Ley y en el ámbito de sus respectivas competencias, llevarán a cabo el seguimiento, evaluación y monitoreo de la igualdad entre mujeres y hombres en el Estado de Jalisco.
 
-> <small>(F. DE E., P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+La observación de los avances de la Política Estatal de Igualdad entre mujeres y hombres estará a cargo de la Comisión Estatal de Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 82.
 
-El Instituto Jalisciense de las Mujeres contará con un Sistema de Información para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado de Jalisco.
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado de Jalisco.
+
+En el ámbito de su competencia, la Comisión Estatal de Derechos Humanos, incluirá en su informe anual el avance sobre las políticas para la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+Artículo 82 bis. Los poderes públicos y organismos auxiliares de la administración pública estatal y municipal coadyuvarán a la consolidación de este instrumento proporcionando la información que obre en sus archivos en materia de igualdad, para lo cual deberán observar lo siguiente:
+
+I. Incluir sistemáticamente la variable del género en las estadísticas, encuestas y obtención de datos que lleven a cabo;
+
+II. Incluir indicadores que posibiliten un mejor conocimiento de las diferencias en los valores, roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres; y
+
+III. Revisar y, en su caso, adecuar las definiciones estadísticas existentes con objeto de contribuir al reconocimiento y valoración del trabajo de las mujeres y evitar la estigmatización de determinados colectivos de mujeres.
 
 ###### Artículo 83.
 
@@ -768,3 +856,23 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26419/LXI/17, QUE REFORMA LOS ARTÍCULOS 24 Y 34 DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27262/LXII/19 QUE REFORMA LOS ARTÍCULOS 16, PÁRRAFO 1, FRACCIÓN IX, 17, 25 Y 60, Y ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ASÍ COMO AL PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2019, ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Poder Ejecutivo, para que a través de la Secretaría de la Hacienda Pública y la Secretaría de Administración, en el ámbito de sus competencias, realice las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio del gasto público.
+
+TERCERO. Los programas sujetos a reglas de operación, cuyas reglas ya fueron emitidas y que sufran alguna modificación con motivo del presente decreto, deberán ser actualizados dentro de los cuarenta y cinco días posteriores al inicio de vigencia del presente decreto. Así mismo, se faculta a los Titulares de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres y la Secretaría General de Gobierno, a realizar los convenios, contratos y acuerdos, que permitan garantizar la operación ininterrumpida de dichos programas, en tanto se implementan en sus respectivas dependencias los cambios estructurales que se derivan del presente decreto.
+
+CUARTO. Los informes trimestrales correspondientes al primer trimestre, que deban presentar la Secretaría General de Gobierno y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres con motivo del sistema de evaluación de desempeño y respecto del ejercicio del gasto, así como las matrices de indicadores de resultados de los programas presupuestarios asignados, serán presentados dentro de los 45 días posteriores al inicio de vigencia del presente decreto.
+
+QUINTO. Las facultades, derechos y obligaciones establecidas a cargo de los extintos Instituto Jalisciense para los Migrantes, Instituto Jalisciense de la Juventud y Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, en la Ley de Protección y Atención de los Migrantes, la Ley de Atención de la Juventud y la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad, todas del Estado de Jalisco, serán asumidas por la Secretaría General de Gobierno.
+
+SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal, en lo relativo a las atribuciones en materia de derechos humanos que se otorgan a la Secretaría General de Gobierno; entre otras, se deberán armonizar la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad y la Ley para el Desarrollo Integral del Adulto Mayor, ambas del Estado de Jalisco, modificadas mediante decretos 27210/LXII/2018, 26743/LXII/18 y 26954/LXII/18.
+
+SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
