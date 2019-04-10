@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2018-10-04"
+last_updated: "2019-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -119,7 +119,9 @@ El Gobernador del Estado contará con unidades de asesoría, de apoyo técnico, 
 
 El Gobernador Constitucional del Estado, a través de las secretarías, dependencias y entidades privilegiará, promoverá y protegerá los derechos humanos, al ser éstos el eje central del proceso de planeación y desarrollo democrático del Estado, vigilando, en el ámbito de sus atribuciones, el respeto irrestricto de los derechos fundamentales de todas las personas.
 
-En el diseño, ejecución, seguimiento y evaluación de las políticas públicas se tendrá como finalidad la eliminación de inequidades y desigualdades, con la aplicación de ejes transversales que conforman un gobierno red, rigiéndose, bajo el enfoque de los derechos humanos, por los principios de participación ciudadana, equidad de género, coordinación, efectividad, sustentabilidad y pluralidad.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
+En el diseño, ejecución, seguimiento y evaluación de las políticas públicas se tendrá como finalidad la eliminación de inequidades y desigualdades, con la aplicación de ejes transversales que conforman un gobierno red, rigiéndose, bajo el enfoque de los derechos humanos, por los principios de participación ciudadana, igualdad, equidad y perspectiva de género, coordinación, efectividad, sustentabilidad y pluralidad.
 
 ###### Artículo 7.
 
@@ -127,11 +129,13 @@ Las secretarías, dependencias y entidades de la administración pública regir�
 
 En la ejecución del gobierno red a que se refiere el párrafo anterior, los sujetos participantes harán uso intensivo de las tecnologías de la información y comunicación, constituyendo una plataforma de gobierno digital, propiciando el acercamiento a la población a los trámites y servicios, con la finalidad de proporcionar información de manera clara y oportuna, contribuyendo a la democratización y socialización del conocimiento.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 8.
 
-Los actos y procedimientos de la administración pública, se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia, austeridad e imparcialidad, en estricto respeto a los derechos humanos.
+Los actos y procedimientos de la administración pública, se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia, austeridad, imparcialidad, equidad y perspectiva de género, en estricto respeto a los derechos humanos.
 
-Los servidores públicos se sujetarán a los principios de legalidad, honradez, ética, lealtad, imparcialidad, eficiencia profesionalización y eficacia, de conformidad con la Ley que expida, para este efecto, el Congreso del Estado.
+Los servidores públicos se sujetarán a los principios de legalidad, honradez, ética, lealtad, imparcialidad, eficiencia, no discriminación, profesionalización y eficacia, de conformidad con la Ley que expida, para este efecto, el Congreso del Estado.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -2308,3 +2312,23 @@ DÉCIMA PRIMERA. Las atribuciones conferidas en otros ordenamientos jurídicos o
 DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor de la presente Ley, para realizar la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios de la misma.
 
 DÉCIMA TERCERA. Dentro de un plazo de 30 días hábiles, contados a partir de la entrada en vigor de la presente Ley, se deberán realizar las adecuaciones a las leyes, reglamentos y demás disposiciones que resulten aplicables de conformidad a la presente Ley; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por la misma.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
