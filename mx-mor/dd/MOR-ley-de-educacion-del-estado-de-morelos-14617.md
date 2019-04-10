@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2018-09-26"
+last_updated: "2019-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -269,9 +269,9 @@ XXI.- Difundir los derechos y deberes de niños, niñas y adolescentes y las for
 
 XXII.- Fomentar la cultura vial dentro de las instituciones educativas, públicas y privadas, con la finalidad de inculcar entre los estudiantes hábitos y medidas preventivas tendientes a evitar accidentes en la vía pública;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXIII.- Promover una cultura de igualdad de género desde la infancia, a través de literatura didáctica, actividades lúdicas, talleres escolares y otro tipo de actividades que permitan cambiar actitudes estereotipadas sobre los roles de género, y
+XXIII.- Promover una cultura de igualdad de género y no discriminación y violencia contra las mujeres, desde la infancia, a través de literatura didáctica, actividades lúdicas, talleres escolares y otro tipo de actividades que permitan cambiar actitudes estereotipadas sobre los roles de género, y,
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -1233,9 +1233,9 @@ VII.- Hacer del conocimiento de la autoridad educativa del plantel, las irregula
 
 ### CAPITULO II. DE LA ESCUELA DE PADRES Y TUTORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
 
-ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar de manera obligatoria con un programa de escuela de padres y tutores;
+ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar de manera obligatoria con un programa de escuela de padres y tutores.
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -1249,17 +1249,13 @@ II.- La escuela de padres y tutores propiciará entre otros, facilitar recursos 
 
 III.- La duración de la escuela de padres y tutores en ningún caso, podrá ser menor a 10 sesiones por ciclo escolar, y cada sesión no podrá durar menos de 90 minutos efectivos en su desarrollo.
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 IV.- Los temas a desarrollar en la escuela de padres y tutores deberán ser incluidos en un manual didáctico en el Reglamento que para tal efecto expida el Titular del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la equidad de género, la no discriminación y violencia contra las mujeres, el respeto por las personas con discapacidad, la tolerancia y el respeto en general a la dignidad humana como valores primordiales.
 
-Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la equidad de género, el respeto por las personas con discapacidad, la tolerancia y el respeto en general, a la dignidad humana como valores primordiales.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-Asimismo, se incluirán temas como la prevención, detección y atención de la violencia escolar.
+Asimismo, se incluirán temas como la prevención, detección y atención de la violencia escolar;
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -1923,10 +1919,30 @@ SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 
 P.O. 26 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS UNO.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS UNO.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
