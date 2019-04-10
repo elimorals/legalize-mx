@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2017-12-31"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2019.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -399,9 +399,11 @@ IV. Intervención.
 
 ### CAPÍTULO II. PRISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 35.
 
-Concepto y duración. La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de cincuenta años.
+Concepto y duración. La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de ochenta años.
 
 En toda pena de prisión que se imponga se computará el tiempo de la detención.
 
@@ -721,6 +723,8 @@ Estos derechos quedan a salvo aun cuando el juzgador no tome las medidas a que s
 
 ### CAPÍTULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 72.
 
 Regla general. Dentro de los límites fijados por la ley, los jueces y tribunales impondrán las consecuencias jurídicas establecidas para cada delito, considerando las circunstancias exteriores de la ejecución y de la persona que cometió el delito, conforme a lo establecido en el artículo 74 de este Código:
@@ -797,11 +801,17 @@ Se exceptúa la reparación del daño y la sanción económica, por lo que no se
 
 ###### Artículo 78.
 
-Punibilidad del delito culposo. En los casos de delitos culposos, se impondrá al sujeto activo del delito hasta la mitad de máximo de las sanciones aplicables al delito doloso correspondiente, con excepción de aquellos para los cuales la ley señale una pena específica. Además se podrá imponer, en su caso, la suspensión de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
+Punibilidad del delito culposo. En los casos de delitos culposos, se impondrá al sujeto activo del delito desde una cuarta parte del mínimo y hasta la mitad del máximo de las sanciones aplicables al delito doloso correspondiente, con excepción de aquellos para los cuales la ley señale una pena específica. Además impondrá en su caso, la suspensión de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-Cuando el delito se cometa en la conducción de vehículo de motor en virtud de la prestación del servicio de transporte público de pasajeros, de personal, de escolares o de turismo y se cause homicidio, las sanciones podrán ser hasta las tres cuartas partes del máximo de las correspondientes a las del delito doloso. Se tomará en consideración lo establecido por el artículo 128 de este Código.
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
+En el caso de homicidio culposo la pena será de dos a seis años de prisión y multa de cien a quinientas veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2019)</small>
+
+Cuando el delito se cometa en la conducción de vehículo de motor en virtud de la prestación del servicio de transporte público de pasajeros, de personal, de escolares, de turismo o de personas, las sanciones se podrán aumentar hasta en una mitad del mínimo y máximo de las sanciones correspondientes a las del delito culposo, en términos de lo establecido en los párrafos que anteceden.
 
 ###### Artículo 79.
 
@@ -1199,23 +1209,7 @@ Si en la comisión de este delito concurre alguna circunstancia agravante de las
 
 ###### Artículo 130.
 
-Homicidio agravado por feminicidio. Cuando el homicidio sea ejecutado dolosamente, por la condición de género de la víctima y por ende, este recaiga sobre el pasivo por su condición de mujer, se le impondrá de veinticinco a cincuenta años de prisión, así como la pérdida del derecho a heredar que pudiera tener respecto a la víctima.
-
-Existen razones de género de parte del sujeto activo, cuando concurra alguna de las siguientes circunstancias:
-
-I. La víctima presente signos de violencia sexual de cualquier tipo;
-
-II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida;
-
-III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
-
-IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
-
-V. Exista antecedente de violencia en el ámbito familiar, laboral, vecinal, escolar del sujeto activo en contra de la víctima; o
-
-VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento;
-
-Si en la comisión de este delito concurre alguna circunstancia calificativa de las previstas en el artículo 144 de este Código, se impondrán las penas del homicidio calificado, pudiéndose aumentar la pena hasta en un tercio.
+(DEROGADO, B.O. 10 DE ABRIL DE 2019)
 
 ###### Artículo 131.
 
@@ -1279,7 +1273,9 @@ I. Que la conducta sea ejecutada dolosamente sobre un menor de 18 años;
 
 II. Que la conducta sea ejecutada dolosamente por la condición de género de la víctima; o
 
-III. Que la conducta sea ejecutada dolosamente en razón de la preferencia sexual, el color o cualquier otra característica genética, procedencia étnica, lengua, religión, ideología, nacionalidad o lugar de origen, condición social o económica, ocupación o actividad, vinculación, pertenencia o relación con un grupo social definido, capacidades diferentes, características físicas o estado de salud de la víctima.
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2019)</small>
+
+III. Que la conducta sea ejecutada dolosamente en razón de la preferencia sexual, el color o cualquier otra característica genética, procedencia étnica, lengua, religión, ideología, nacionalidad o lugar de origen, condición social o económica, ocupación o actividad, vinculación, pertenencia o relación con un grupo social definido, discapacidad, características físicas o estado de salud de la víctima.
 
 ###### Artículo 139.
 
@@ -1343,9 +1339,11 @@ VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo comete el
 
 Excusa absolutoria en delitos imprudenciales. No se impondrá pena o medida de seguridad alguna, a quien de forma culposa ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario, o cuando entre el sujeto activo y el pasivo exista relación de familia, salvo que el sujeto activo se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que se diere a la fuga y no auxiliare a la víctima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 146.
 
-Homicidio o lesiones culposas con motivo de tránsito vehicular. Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito vehicular, se disminuirá hasta en un tercio del máximo de las penas previstas en los artículos 128 y 136 respectivamente, según se adecuen a los siguientes casos:
+Homicidio o lesiones culposas con motivo de tránsito vehicular. Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito vehicular, se aumentará en una mitad del mínimo y máximo de las penas previstas en los artículos 78 respectivamente, según se adecuen a los siguientes casos:
 
 I. Cuando el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares; o
 
@@ -1679,6 +1677,8 @@ Reparación del daño. Si a consecuencia de la comisión de alguno de los delito
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 187.
 
 Exhibicionismo corporal. Se impondrán de seis meses a tres años de prisión y multa hasta por cincuenta días, a quien públicamente ejecute o haga ejecutar a otro, actos obscenos de naturaleza sexual.
@@ -1799,6 +1799,8 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO I. AMENAZAS Y COBRANZA EXTRAJUDICIAL ILEGAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 200.
 
 Violencia familiar. A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física, psicológica, emocional, patrimonial o económicamente a un miembro de la familia, se le impondrán de uno a cinco años de prisión y multa de cien a cuatrocientos días, y pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
@@ -1831,19 +1833,33 @@ Medidas de protección victimal. En los casos vinculados a violencia familiar, e
 
 ###### Artículo 205.
 
-Discriminación. Se impondrán de uno a tres años de prisión o multa de cincuenta a doscientos días y de cien a trescientos días de trabajo a favor de la comunidad, a quien por motivo de género, edad, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, preferencia sexual, color de piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, capacidades diferentes, características físicas, estado de salud o cualquier circunstancia que atente contra la dignidad humana y tenga por objeto anular o afectar los derechos o libertades de las personas:
+Discriminación. Se impondrán de uno a tres años de prisión o multa de cincuenta a doscientos días y de cien a trescientos días de trabajo a favor de la comunidad, a quien por motivo de género, edad, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, preferencia sexual, color de piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, discapacidad, características físicas, estado de salud o cualquier circunstancia que atente contra la dignidad humana y tenga por objeto anular o afectar los derechos o libertades de las personas:
 
 I. Provoque o incite al odio o a la violencia;
 
 II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
 
-III. Veje o excluya a alguna persona; o
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2019)</small>
 
-IV. Niegue o restrinja derechos laborales.
+III. Veje o excluya a alguna persona;
+
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2019)</small>
+
+IV. Niegue o restrinja derechos laborales;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
+V. Niegue o límite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
+VI. Niegue o restrinja derechos Educativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 206.
 
-Agravantes. Al servidor público que, por las razones previstas en el primer párrafo del artículo anterior, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará la pena a que se refiere el artículo anterior, hasta en una mitad. Así mismo, se le impondrá destitución o inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública por el mismo lapso de la privación de la libertad impuesta.
+Agravantes. Al servidor público que, por las razones previstas en el primer párrafo del artículo anterior, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará la pena a que se refiere el artículo anterior, hasta en una mitad. Así mismo, se le impondrá destitución o inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública por el mismo lapso de la privación de la libertad impuesta. Cuando las conductas sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad. Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 
 Este delito se perseguirá por querella, salvo que se trate de grupos vulnerables.
 
@@ -1957,9 +1973,31 @@ II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, b
 
 ###### Artículo 218.
 
-Amenazas. A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos; o en la persona, bienes, honor o derechos de alguien con quien esté ligado por algún vínculo, se le impondrán de uno a cuatro años de prisión o multa de cien a trescientos días y de cien a doscientas jornadas de trabajo a favor de la comunidad.
+Amenazas. Al que amenace a otro con causarle un daño en alguno sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco o gratitud, se le impondrá prisión (sic) de uno a cuatro años de prisión o multa de cien a trescientos días y de cien a doscientas jornadas de trabajo en favor de la comunidad.
 
 En este caso procede a criterio del juez, prohibir al condenado que vaya o resida en el lugar en que habita el amenazado, por un término no menor a seis meses ni mayor a tres años, contados desde el cumplimiento de la pena de prisión o desde la concesión de un beneficio de libertad.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
+El delito de amenazas se perseguirá por querella de parte. Cuando el sujeto activo pertenezca a grupos delictivos relacionados con delincuencia organizada o la amenaza sea abierta a una Institución gubernamental se perseguirá por oficio.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 10 DE ABRIL DE 2019)</small>
+
+Con independencia de la sanción impuesta en sentencia; al responsable de la comisión del delito de amenazas se le exigirá caución de no ofender:
+
+I.- Si los daños con que se amenaza son leves o evitables;
+
+II.- Si las amenazas son por medio de emblemas o señas, jeroglíficos o frases de doble sentido, y
+
+III.- Si la amenaza tiene por condición que el amenazado no ejecute un hecho ilícito en sí.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
+En este caso también se exigirá caución al amenazado, si el juez lo estima necesario. Si el responsable no otorga la caución de no ofender se le impondrá la pena establecida en el primer párrafo.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
+Si el amenazador cumple su amenaza se acumulará la sanción de esta y la del delito que resulte. Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de la amenaza se acumulará la que le corresponda en su caso, por su participación o autoría mediata en el delito que resulte.
 
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -3673,6 +3711,10 @@ Agravación de la pena por la calidad del sujeto activo. Cuando en la comisión 
 
 Conspiración. Hay conspiración por el sólo hecho de que dos o más personas acuerden ejecutar alguno de los delitos previstos en el presente Título. La sanción será de uno a cinco años de prisión e inhabilitación para ejercer derechos políticos hasta por cinco años, independientemente de la sanción que corresponda al delito o delitos cometidos.
 
+### CAPÍTULO I. FEMINICIDIO
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 379.
 
 Rebelión. A los que no siendo militares en activo se alcen en armas, se les impondrán de cinco a diez años de prisión e inhabilitación de derechos políticos hasta por diez años, siempre que se propongan algunos de los siguientes fines:
@@ -3690,6 +3732,10 @@ Rebelión equiparada. Las penas señaladas en el artículo anterior también se 
 Cuando en el transcurso de una rebelión se cometa cualquier delito ajeno al combate y desvinculado de los fines previstos en el artículo anterior, se aplicarán las reglas del concurso y se considerará como delito común.
 
 Declaración de responsabilidad penal sin pena. No se impondrá pena alguna por este delito a quienes depongan las armas antes de ser detenidos, sin perjuicio de las consecuencias jurídicas aplicables por la comisión de otros delitos.
+
+### CAPÍTULO II. VIOLENCIA POLÍTICA DE GÉNERO
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 381.
 
@@ -3752,6 +3798,74 @@ III. Si además de realizar los actos de maltrato o crueldad en contra de cualqu
 ###### Artículo 388.
 
 Maltrato de animal doméstico equiparado. Se impondrá de uno a tres años de prisión y multa de doscientos a cuatrocientos días a la persona que organice, promueva, difunda o realice una o varias peleas de perros, con o sin apuestas, o las permita en su propiedad.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE ABRIL DE 2019)</small>
+
+## TÍTULO VIGÉSIMO SEXTO. DELITOS POR RAZONES DE GÉNERO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 389.
+
+Feminicidio. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, y se le impondrá de treinta a sesenta años de prisión y la reparación integral del daño.
+
+Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III. Existan antecedentes, datos o medios de prueba de cualquier tipo de violencia en el ámbito familiar, vecinal, laboral o escolar, del sujeto activo en contra de la víctima; independientemente de que exista denuncia o haya sido del conocimiento de alguna autoridad;
+
+IV. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, o sentimental, cualquier otra relación de hecho o amistad, laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
+
+V. Existan datos o medios de prueba que establezcan que hubo amenazas o violencia relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+VII. El cuerpo de la víctima sea expuesto, exhibido, depositado o arrojado en un lugar público o paraje despoblado; y
+
+VIII. El Cuerpo o restos de la víctima hayan sido enterrados u ocultados.
+
+La pena se agravará hasta en un tercio cuando concurra cualquiera de las siguientes circunstancias:
+
+I.- Cuando la víctima sea mujer menor de edad, adulta mayor, indígena, estuviera embarazada o discapacitada; o se encuentre en cualquier otra condición especial;
+
+II.- Cuando el sujeto activo sea servidora o servidor público y haya cometido la conducta valiéndose de esta condición o haya intervenido en cualquier etapa del hecho delictivo;
+
+III.- Si fuere cometido por dos o más personas;
+
+IV.- Si fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad, civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación; y
+
+V.- Si la víctima se encontraba bajo el cuidado o responsabilidad del agente, utilizando los medios o circunstancias que su cargo o situación personal le proporcionen.
+
+En el tipo penal de feminicidio, el sujeto activo puede ser persona conocida o desconocida y sin ningún tipo de relación con la víctima.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso que no se acredite que existieron razones de género al privar de la vida a una mujer, se estará a la punibilidad prevista para el delito de homicidio calificado establecido en el artículo 132 y demás relativos y aplicables de este Código.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
+
+###### Artículo 390.
+
+Violencia política de género. A quien por cualquier medio realice por si o a través de terceros la acción u omisión que, en el marco del ejercicio de los derechos político-electorales, o bien, en el ejercicio de un cargo público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o mujeres, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público, se le impondrá de seis meses a dos años de prisión y de cincuenta a trescientos días multa. El delito de violencia política de género se perseguirá a petición de parte ofendida.
+
+Constituyen acciones y omisiones que configuran violencia política en razón de género, las siguientes:
+
+I. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir a ejercicio indebido de sus atribuciones o facultades;
+
+II. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+III. Difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+IV. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+V. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables, por el único motivo de ser mujer; y
+
+VI. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
+
+Las sanciones a que se refieren en el primer párrafo de este artículo se aumentaran de una mitad del mínimo a una mitad del máximo cuando en la comisión de este delito intervenga un servidor público o un dirigente partidista, cuando se emplease violencia o engaño, o por el aprovechamiento de una situación de vulnerabilidad de la mujer.
 
 T R A N S I T O R I O S:
 
@@ -3864,3 +3978,15 @@ B.O. 31 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+B.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2596 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por el delito previsto en el artículo 130 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se deroga, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+TERCERO.- En la aplicación de la presente reforma al tipo penal de discriminación, amenazas y a la punibilidad de los delitos culposos, se empleará el principio de sucesión de normas penales sustantivas.
+
+CUARTO.- Con la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al mismo.
