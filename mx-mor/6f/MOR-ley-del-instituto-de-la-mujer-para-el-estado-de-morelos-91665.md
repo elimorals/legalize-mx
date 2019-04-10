@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-la-mujer-para-el-estado-de-morelos-91665"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-23"
-last_updated: "2014-07-23"
+last_updated: "2019-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 23 de enero de 2013.
 
@@ -45,7 +45,9 @@ ANTECEDENTES
 
 Derivado de lo anterior, se delibero en Sesión de la Comisión resultando los siguientes:
 
-CONSIDERACIONES.
+CONSIDERACIONES
+
+[...]
 
 Por lo anteriormente expuesto, esta comisión se sirve:
 
@@ -85,11 +87,13 @@ VI.- Diseñar el Programa Estatal de la Mujer; el programa a que hace referencia
 
 VII.- Vigilar la correcta aplicación de la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### Artículo 4.
 
 Para la aplicación de la presente Ley, se observarán los siguientes principios:
 
-I. Equidad de género;
+I. Equidad y perspectiva de género;
 
 II. Libertad para el pleno ejercicio e irrestricto de los derechos de las mujeres;
 
@@ -101,7 +105,7 @@ V. Transparencia en el diseño, promoción y ejecución de los programas del Ins
 
 VI. Igualdad; y,
 
-IV(SIC). No discriminación.
+VII. No discriminación.
 
 ###### Artículo 5.
 
@@ -125,7 +129,9 @@ VIII. IGUALDAD: Concepto por el cual, mujeres y hombres como seres humanos con l
 
 IX. GÉNERO: Concepto que se refiere a los valores, atributos, roles y representaciones que la sociedad asigna a hombres y mujeres;
 
-X. PERSPECTIVA DE GÉNERO: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base a las diferencias biológicas entre hombres y mujeres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de equidad de género;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+X. PERSPECTIVA DE GÉNERO: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 XI. TRANSVERSALIDAD: Herramienta metodológica para garantizar la inclusión de la perspectiva de género a todos los sistemas, estructuras, políticas, programas, procesos y proyectos del Estado;
 
@@ -676,3 +682,23 @@ P.O. 23 DE JULIO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- EI presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO".]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial "Tierra y Libertad" de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
