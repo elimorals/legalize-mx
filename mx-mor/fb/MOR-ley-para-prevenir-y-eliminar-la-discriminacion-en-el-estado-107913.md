@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-107
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-20"
-last_updated: "2015-05-20"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 2015.
 
@@ -75,33 +75,39 @@ XI. Discriminación, a toda distinción, exclusión, restricción o preferencia 
 
 También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial y otras formas conexas de intolerancia;
 
-XII. Diseño universal, al diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XIII. Igualdad real de oportunidades, al acceso que tienen las personas o grupos de personas, por la vía de las normas o los hechos, para el igual disfrute de sus derechos;
+XII. Discriminación contra la Mujer, a toda distinción, exclusión o restricción basada en el género que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-XIV. Instancia Municipal, a la instancia que cada uno de los Ayuntamientos del Estado determine como encargadas de aplicar las disposiciones de la presente Ley, conforme su competencia;
+XIII. Diseño universal, al diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
 
-XV. Ley Federal, a la Ley Federal para Prevenir y Eliminar la Discriminación;
+XIV. Igualdad real de oportunidades, al acceso que tienen las personas o grupos de personas, por la vía de las normas o los hechos, para el igual disfrute de sus derechos;
 
-XVI. Ley, al presente ordenamiento;
+XV. Instancia Municipal, a la instancia que cada uno de los Ayuntamientos del Estado determine como encargadas de aplicar las disposiciones de la presente Ley, conforme su competencia;
 
-XVII. Medidas de inclusión, aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;
+XVI. Ley Federal, a la Ley Federal para Prevenir y Eliminar la Discriminación;
 
-XVIII. Medidas de nivelación, aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades, eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad;
+XVII. Ley, al presente ordenamiento;
 
-XIX. Medidas de política pública, al conjunto de acciones que formulan e implementan las instituciones de gobierno encaminadas o dirigidas a atender las demandas o necesidades económicas, políticas, sociales, culturales, entre otras, de las personas, grupos o comunidades en situación de discriminación;
+XVIII. Medidas de inclusión, aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;
 
-XX. Perspectiva de género, a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las personas, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+XIX. Medidas de nivelación, aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades, eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad;
 
-XXI. Programa, al Programa Estatal para la Igualdad y no Discriminación;
+XX. Medidas de política pública, al conjunto de acciones que formulan e implementan las instituciones de gobierno encaminadas o dirigidas a atender las demandas o necesidades económicas, políticas, sociales, culturales, entre otras, de las personas, grupos o comunidades en situación de discriminación;
 
-XXII. Reglamento, al Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-XXIII. Resolución por disposición, a la resolución emitida por la Unidad Administrativa o la Instancia Municipal, según corresponda, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria y, por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas;
+XXI. Perspectiva de Género, a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XXIV. Secretaría, a la Secretaría de Gobierno del Poder Ejecutivo Estatal, y
+XXII. Programa, al Programa Estatal para la Igualdad y no Discriminación;
 
-XXV. Unidad Administrativa, a la unidad administrativa de la Secretaría de Gobierno a la que se refiere el artículo 27 de la presente Ley.
+XXIII. Reglamento, al Reglamento de esta Ley;
+
+XXIV. Resolución por disposición, a la resolución emitida por la Unidad Administrativa o la Instancia Municipal, según corresponda, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria y, por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas;
+
+XXV. Secretaría, a la Secretaría de Gobierno del Poder Ejecutivo Estatal, y
+
+XXVI. Unidad Administrativa, a la unidad administrativa de la Secretaría de Gobierno a la que se refiere el artículo 27 de la presente Ley.
 
 ###### Artículo 3.
 
@@ -760,3 +766,25 @@ SECRETARIO DE GOBIERNO
 DR. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
