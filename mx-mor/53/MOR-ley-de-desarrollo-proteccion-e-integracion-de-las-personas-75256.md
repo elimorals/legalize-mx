@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2018-08-30"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -403,7 +403,9 @@ VII. Fomentar en la familia, el Estado y la sociedad, una cultura de aprecio a l
 
 VIII. Promover la participación activa de las personas adultas mayores en la formulación y ejecución de las políticas públicas que les afecten;
 
-IX. Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual ó colectiva hacia la mujer;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+IX. Impulsar el desarrollo humano integral de las personas adultas mayores observando los principios de equidad y perspectiva de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual ó colectiva hacia la mujer;
 
 X. Fomentar la permanencia, cuando así lo deseen, de las personas adultas mayores en su núcleo familiar y comunitario;
 
@@ -1038,3 +1040,23 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que (sic) refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
