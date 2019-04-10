@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2017-11-15"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -103,7 +101,7 @@ VIII. Firma autógrafa del quejoso o denunciante.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
-En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
+En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
 
 ###### ARTÍCULO 5.
 
@@ -353,9 +351,13 @@ El Consejero Jurídico del Poder Ejecutivo, el Oficial Mayor del Poder Ejecutivo
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA OCTAVA DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS, P.O. 19 DE JULIO DE 2017)
+Los Servidores Públicos en el desempeño de sus funciones, deberán cumplir con sus obligaciones bajo los principios de legalidad, honradez, no discriminación, perspectiva de género, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
+
+… (SIC)
 
 ###### ARTÍCULO 27.
 
@@ -819,11 +821,11 @@ SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de s
 
 P.O. 19 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
 
-PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
 
 TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
 
@@ -837,7 +839,7 @@ SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a l
 
 SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
 
-OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
+OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
 
 NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
 
@@ -857,7 +859,7 @@ DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ám
 
 DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
 
-DÉCIMASÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial “Tierra y Libertad” número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
+DÉCIMA SÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
 
 DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
 
@@ -867,12 +869,32 @@ VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fra
 
 VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
 
-VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
+VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
 
-VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
+VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
 
 VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
 
 VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
 
 VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVAS DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
