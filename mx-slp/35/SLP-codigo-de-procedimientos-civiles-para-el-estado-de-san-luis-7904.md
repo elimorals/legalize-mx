@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-03-05"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -317,6 +317,10 @@ Para la obtención de copia simple de cualquier documento que obre en el juicio,
 
 En ambos casos, se expedirán las copias a costa del solicitante, y así mismo, se dejará constancia en autos de su recepción.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2019)</small>
+
+De igual modo y, previa autorización, se podrá hacer uso de las innovaciones tecnológicas que permitan de una manera más ágil a las partes, el acceso a las constancias que obran en el expediente o toca, mediante el uso de cámaras fotográficas, grabadoras, lectores ópticos u otro medio electrónico de reproducción portátil, para copiar o reproducir el contenido de las actuaciones o resoluciones que obran en ellos. Debiendo observarse, desde luego, lo previsto en la parte final del párrafo anterior.
+
 ART. 70.- Los tribunales no admitirán nunca promociones de incidentes o recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de substanciación alguna; y, en su caso, consignarán el hecho al Ministerio Público para lo que fuere procedente.
 
 Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los jueces.
@@ -433,7 +437,9 @@ ART. 95.- De todo documento que se presente después del término de prueba, en 
 
 ART. 96.- Cuando la impugnación del documento nuevo se refiera a su admisión, por no hallarse en ninguno de los casos expresados en el artículo 93, el juez reservará para la sentencia definitiva la resolución de lo que estime procedente.
 
-ART. 97.- Las copias de los escritos y los documentos se entregarán a las partes al notificárseles la providencia que haya recaído en el escrito respectivo o al hacerles la citación o emplazamiento que proceda.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
+
+ART. 97.- Las copias de los escritos y los documentos se entregarán a las partes al notificárseles la providencia que haya recaído en el escrito respectivo, o al hacerles la citación o emplazamiento que proceda, en este último caso, deberán entregarse copias de traslado de la demanda y sus anexos, completas, legibles y cotejadas con las que exhibió el actor.
 
 ART. 98.- Lo (sic) omisión de las copias no será motivo para dejar de admitir los escritos y documentos que se presenten en tiempo oportuno. En este caso, el juez señalará, sin ulterior recurso, un término que no exceda de tres días para exhibir las copias y si no se presentaren en dicho término, las mandará expedir por el secretario a costa de la parte que las omitió.
 
@@ -5892,3 +5898,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0145.- SE REFORMA EL ARTÍCULO 97 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0146.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
