@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2015-09-06"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -1085,7 +1085,7 @@ El Instituto tiene a su cargo la dirección, operación y administración de las
 
 El Director General del Instituto será designado y removido libremente por el Ejecutivo del Estado.
 
-El Director General será el ejecutor de las propuestas, política (sic), acuerdos, planes y programas del Instituto; ejercerá las facultades y atribuciones que le confiere esta Ley y las que disponga la Junta Directiva; el cargo deberá recaer en la persona que reúna los siguientes requisitos:
+El Director General será el ejecutor de las propuestas, política, acuerdos, planes y programas del Instituto; ejercerá las facultades y atribuciones que le confiere esta Ley y las que disponga la Junta Directiva; el cargo deberá recaer en la persona que reúna los siguientes requisitos:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
@@ -1177,9 +1177,7 @@ III. Casa de la Cultura "Francisco Zarco" de Lerdo;
 
 IV. Casa de Iniciación al Arte y la Cultura;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
-
-V. Centro de Arte Multidisciplinario Korian;
+V. (DEROGADA, P.O. 11 DE ABRIL DE 2019)
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -1632,3 +1630,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 80.- QUE CONTIENE REFORMA A LA LEY DE CULTURA PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, materiales y financieros del Instituto de Cultura del Estado de Durango que correspondan al Centro de Arte Multidisciplinario Korian, se transferirán a partir de la entrada en vigor del presente Decreto, al área que designe la Secretaría de Educación del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
