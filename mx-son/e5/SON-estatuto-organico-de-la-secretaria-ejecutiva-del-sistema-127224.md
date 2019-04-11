@@ -4,7 +4,7 @@ identifier: "SON-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-127224
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-15"
-last_updated: "2018-03-08"
+last_updated: "2019-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "SON"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, PUBLICADO EN EL B.O. DE 11 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO SONORA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE MARZO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE ABRIL DE 2019 (ABROGADO).
 
 Estatuto publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 15 de febrero de 2018.
 
@@ -607,3 +607,19 @@ TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico debe
 CUARTO. La atribución referida en el artículo 18, fracción VII del presente Estatuto, será ejercida por el Secretario Técnico a partir de la entrada en vigor del mismo.
 
 Hermosillo, Sonora.- El Secretario Técnico de la Secretaria Ejecutiva del Sistema Estatal Anticorrupción. Raúl Guillén López.- Rúbrica.
+
+B.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico publicado en el Boletín Oficial número 14 secc. IV de fecha jueves 15 de febrero de 2018.
+
+TERCERO. Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Estatuto Orgánico, el titular de la Secretaria Técnica queda facultado para resolver cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
+
+CUARTO. La atribución referida en el artículo 17, fracción VII del presente Estatuto, será ejercida por el Secretario Técnico a partir de la entrada en vigor del mismo.
