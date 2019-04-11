@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-121471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-22"
-last_updated: "2017-05-22"
+last_updated: "2019-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-05-11"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 22 de mayo de 2017.
 
@@ -1139,3 +1141,23 @@ Ciudad de México, a 11 de mayo de 2017
 RODRIGO MONTOYA CASTILLO
 
 ENCARGADO DE DESPACHO DE LA SECRETARÍA TÉCNICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE ABRIL DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, en los términos del documento que, como anexo, forma parte del presente Acuerdo.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 22 de mayo de 2017 y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
+
+TERCERO. El presente Acuerdo surte efectos al momento de su aprobación.
+
+CUARTO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones, realice las gestiones necesarias para publicar el nuevo Reglamento Interior en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México puede ser consultado en la dirección electrónica siguiente: http://www.infodf.org.mx/documentospdf/constitucion_cdmx/Reglamento.pdf
