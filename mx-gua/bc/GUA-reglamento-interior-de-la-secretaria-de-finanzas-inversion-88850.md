@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-inversion-8885
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2018-07-17"
+last_updated: "2019-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de julio de 2012.
 
@@ -127,7 +127,7 @@ b) Dirección General de Ingresos:
 
 6. Coordinación de Oficinas Recaudadoras;
 
-7. Oficinas Recaudadoras del Estado; y (sic)
+7. Oficinas Recaudadoras del Estado; y
 
 8. Oficinas Recaudadoras Auxiliares del Estado.
 
@@ -193,7 +193,7 @@ g) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-h) Dirección General de Verificación al Comercio Exterior; y (sic)
+h) Dirección General de Verificación al Comercio Exterior; y
 
 1. Dirección de Verificación de Mercancías;
 
@@ -300,6 +300,40 @@ Representación, trámite y resolución de los asuntos
 ###### Artículo 4.
 
 La representación, trámite y resolución de los asuntos de la Secretaría, corresponden originalmente al Secretario, quien puede delegar sus facultades en servidores públicos subalternos, con excepción de aquellas que tengan el carácter de no delegables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 11 DE ABRIL DE 2019)</small>
+
+En materia de análisis tributario, el Secretario tendrá las siguientes facultades delegables:
+
+I. Determinar y emitir en el ámbito de su competencia, las medidas y procedimientos que tengan por objeto prevenir y detectar actos, omisiones, operaciones, servicios y demás análogos que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en materia de operaciones con recursos de procedencia ilícita;
+
+II. Elaborar los reportes sobre los actos, omisiones, operaciones, servicios y demás análogos que las dependencias y entidades de la Administración Pública Estatal y municipales obligadas a ello, realicen con los contribuyentes, usuarios y personas físicas o morales que, en su caso, pudiesen contravenir o vulnerar las disposiciones señaladas en la fracción anterior, para lo cual deberá coordinar la recepción y el análisis de dicha información y documentación;
+
+III. Emitir los lineamientos sobre el procedimiento y criterios que las dependencias y entidades de la Administración Pública Estatal y municipales obligados a ello deban observar en términos de las disposiciones legales y normatividad aplicables respecto del adecuado conocimiento de los contribuyentes, usuarios y demás personas físicas o morales con quienes realicen operaciones o actividades;
+
+IV. Requerir a las unidades administrativas de la Secretaría, la información y documentación necesaria, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos que establezca, de conformidad con las disposiciones aplicables;
+
+V. Recibir y recopilar los indicios, constancias, reportes, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en materia de operaciones con recursos de procedencia ilícita e integrar los expedientes respectivos;
+
+VI. Atender los requerimientos y resoluciones de autoridades judiciales y administrativas, incluyendo al Ministerio Público, que le sean formulados;
+
+VII. Coordinarse con las autoridades competentes para la práctica de los actos que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo y demás normatividad aplicable;
+
+VIII. Proporcionar, requerir e intercambiar con las autoridades competentes la información y documentación necesaria para el ejercicio de sus facultades;
+
+IX. Denunciar ante el Ministerio Público las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en materia de operaciones con recursos de procedencia ilícita;
+
+X. Coordinar el seguimiento de las denuncias que formule, desde su presentación y, en su caso, hasta el ejercicio de la acción penal, así como de los reportes que en el ámbito de su competencia, presente ante la autoridad competente;
+
+XI. Gestionar, celebrar e implementar convenios o cualquier otro instrumento jurídico con las dependencias y entidades de la Administración Pública Federal, Estatal y municipales, así como con la Fiscalía General de la República, las Procuradurías Generales de Justicia o Fiscalías de las Entidades Federativas, los Organismos Constitucionalmente Autónomos y Órganos Desconcentrados de los tres órdenes de gobierno y las personas físicas y jurídico colectivas que sean necesarios para el ejercicio de sus atribuciones; lo anterior de manera enunciativa mas no limitativa;
+
+XII. Participar en foros y eventos relativos a las materias de su competencia;
+
+XIII. Definir, en coordinación con la Dirección General de Tecnologías de la Información y Telecomunicaciones, los lineamientos, estrategias, normas y programas en materia de infraestructura tecnológica y comunicaciones para el adecuado ejercicio de sus facultades;
+
+XIV. Implementar, en coordinación con la Dirección General de Tecnologías de la Información y Telecomunicaciones, las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de la información relacionada con los servicios informáticos de la Secretaría; y
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan.
 
 Facultades no delegables
 
@@ -699,7 +733,7 @@ XI. Ejercer las atribuciones derivadas de los convenios en materia hacendaria, q
 
 XII. Fungir, previo acuerdo del Procurador Fiscal del Estado, como enlace en los asuntos de carácter jurídico materia de su competencia, con las unidades administrativas de la Secretaría, dependencias, entidades paraestatales, órganos desconcentrados, así como con las entidades federativas, el Gobierno Federal y los municipios;
 
-XIII. Asesorar y apoyar en materia jurídica, en el ámbito de su competencia, a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado; y (sic)
+XIII. Asesorar y apoyar en materia jurídica, en el ámbito de su competencia, a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -739,7 +773,7 @@ X. Dar seguimiento jurídico a los proyectos estratégicos o corporativos del Go
 
 XI. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos;
 
-XII. Asesorar jurídicamente, previa petición, a los servidores públicos que se desempeñen como representantes de la Secretaría ante los diferentes cuerpos colegiados donde formen parte; y (sic)
+XII. Asesorar jurídicamente, previa petición, a los servidores públicos que se desempeñen como representantes de la Secretaría ante los diferentes cuerpos colegiados donde formen parte; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1057,7 +1091,7 @@ VI. Coordinar y evaluar las acciones tendentes a la verificación del cumplimien
 
 VII. Supervisar el ejercicio y control del gasto público estatal;
 
-VIII. Supervisar las funciones vinculadas con la administración, operación y explotación de las carreteras y puentes estatales de cuota; y (sic)
+VIII. Supervisar las funciones vinculadas con la administración, operación y explotación de las carreteras y puentes estatales de cuota; y
 
 IX. Dirigir la asesoría y apoyo técnico que en el ámbito de su competencia, le soliciten las dependencias y entidades paraestatales, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios.
 
@@ -3815,7 +3849,7 @@ X. Formular y presentar las declaraciones de impuestos y avisos a que esté obli
 
 XI. Suscribir, previo acuerdo del Subsecretario del ramo, convenios de promoción con personas físicas o morales, que tengan por objeto facilitar la adquisición de bienes o servicios a los servidores públicos de la Administración Pública Estatal, siempre y cuando no impliquen obligaciones de carácter económico para el Estado;
 
-XII. Coordinar y supervisar las acciones para el ingreso, profesionalización y evaluación de los servidores públicos sujetos al Servicio Civil de Carrera del Poder Ejecutivo; y (sic)
+XII. Coordinar y supervisar las acciones para el ingreso, profesionalización y evaluación de los servidores públicos sujetos al Servicio Civil de Carrera del Poder Ejecutivo; y
 
 XIII. Expedir las constancias y hojas de servicio del personal de las dependencias y, en su caso, entidades de Administración Pública del Estado.
 
@@ -3887,7 +3921,7 @@ VII. Tramitar los nombramientos del personal de las dependencias y, en su caso, 
 
 VIII. Expedir las constancias y hojas de servicio del personal de las dependencias y, en su caso, entidades de Administración Pública del Estado; salvo las solicitadas para efectos de realizar algún trámite con otros países;
 
-IX. Validar los cálculos de pago de prestaciones derivado de la terminación de la relación laboral de los servidores públicos de las dependencias y, en su caso entidades de la Administración Pública Estatal, con excepción de los fideicomisos públicos; y (sic)
+IX. Validar los cálculos de pago de prestaciones derivado de la terminación de la relación laboral de los servidores públicos de las dependencias y, en su caso entidades de la Administración Pública Estatal, con excepción de los fideicomisos públicos; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -5084,3 +5118,15 @@ Firma Electrónica Normas y Procedimientos
 Asuntos en trámite
 
 Artículo Tercero. Los asuntos que se encuentren en trámite ante las unidades administrativas de la Secretaría que cambian su denominación, serán atendidos hasta su culminación por las nuevas unidades administrativas, de conformidad con lo dispuesto en el artículo anterior.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 20, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO COMPUESTO POR DIVERSAS FRACCIONES, AL ARTÍCULO 4 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN, CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 216, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 120, TERCERA PARTE, EL 27 DE JULIO DE 2012”]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Manual de Organización
+
+Artículo Segundo. La Secretaría deberá actualizar el Manual de Organización, publicado en el Periódico Oficial del Gobierno del Estado número 170 Segunda Parte del 24 agosto 2018, acorde al contenido del presente Decreto Gubernativo.
