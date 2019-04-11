@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2018-06-28"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -45,7 +45,7 @@ CUARTO.- Que las Iniciativas, coinciden en que ambas contienen la normatividad d
 
 QUINTO.- Que la Comisión estimó pertinente hacer una síntesis del contenido en el Decreto, estableciéndose lo siguiente:
 
-El Capítulo Primero contiene las Disposiciones Generales que delimitan la materia y el ámbito de aplicación de la Ley; se precisa el carácter de orden público y de interés social de sus disposiciones; se ratifican los principios y orientaciones filosóficas de la educación nacional contenidos en el Artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, en el 4o de la Constitución Política del Estado de Durango y en la Ley General de Educación; se señalan las finalidades de la educación duranguense, tanto pública como privada, manifestándose el derecho de todo individuo a recibir educación y la obligación de todo duranguense de estudiar Primaria y Secundaria; se reiteran los principios de estructuración y funcionamiento de la dependencia del Poder Ejecutivo del Estado de Durango encargada de las funciones educativas, de conformidad con los principios constitucionales complementados por la Ley Orgánica de la Administración Pública del Estado de Durango; se establece la instrumentación de programas permanentes para erradicar el rezago educativo; se establece la obligación del Gobierno del Estado de Durango de atender todos los tipos de educación, incluida la Superior, y de apoyar la investigación científica y tecnológica en las actividades culturales y deportivas; regula la gratuidad de la educación y la voluntariedad de los donativos; confirma el carácter laico de la educación; define las finalidades de la educación duranguense en términos de beneficios para el individuo, la familia y la sociedad; señala la necesidad de mejorar continuamente las Instituciones del Sistema Estatal de Educación; norma la designación de funcionarios y las atribuciones de los organismos que pueden crear escuelas; menciona los casos de inaplicabilidad de la presente Ley y, finalmente, prohibe la creación de escuelas públicas por cualquier persona u organización no autorizados.
+El Capítulo Primero contiene las Disposiciones Generales que delimitan la materia y el ámbito de aplicación de la Ley; se precisa el carácter de orden público y de interés social de sus disposiciones; se ratifican los principios y orientaciones filosóficas de la educación nacional contenidos en el Artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, en el 4o de la Constitución Política del Estado de Durango y en la Ley General de Educación; se señalan las finalidades de la educación duranguense, tanto pública como privada, manifestándose el derecho de todo individuo a recibir educación y la obligación de todo duranguense de estudiar Primaria y Secundaria; se reiteran los principios de estructuración y funcionamiento de la dependencia del Poder Ejecutivo del Estado de Durango encargada de las funciones educativas, de conformidad con los principios constitucionales complementados por la Ley Orgánica de la Administración Pública del Estado de Durango; se establece la instrumentación de programas permanentes para erradicar el rezago educativo; se establece la obligación del Gobierno del Estado de Durango de atender todos los tipos de educación, incluida la Superior, y de apoyar la investigación científica y tecnológica en las actividades culturales y deportivas; regula la gratuidad de la educación y la voluntariedad de los donativos; confirma el carácter laico de la educación; define las finalidades de la educación duranguense en términos de beneficios para el individuo, la familia y la sociedad; señala la necesidad de mejorar continuamente las Instituciones del Sistema Estatal de Educación; norma la designación de funcionarios y las atribuciones de los organismos que pueden crear escuelas; menciona los casos de inaplicabilidad de la presente Ley y, finalmente, prohíbe la creación de escuelas públicas por cualquier persona u organización no autorizados.
 
 En el Capítulo Segundo, se especifica la forma como estará constituido el Sistema Estatal de Educación. Se encuentra dividido en dos Secciones: la Primera, que habla de la Estructuración del Sistema y la Segunda, que se refiere a los Tipos y Modalidades de la Educación. En la Primera Sección, se establece cuales instituciones educativas constituyen el Sistema Estatal de Educación, incluidas las que tienen categorías de Escuelas Libres de Educación Superior; también se definen los elementos con que funciona dicho Sistema, tales como educandos, educadores, planes, medios educativos, autoridades educativas, estructura administrativa e instituciones educativas. La Segunda Sección define los tipos de Educación Básica, Media Superior y Superior, con sus respectivos niveles y grados y en sus diversas adaptaciones; finalmente, determina los reglamentos que regularán los requisitos de ingreso, permanencia y promoción de los educandos en los diferentes niveles. Este Capítulo pues, sigue en términos similares, las disposiciones generales de la Ley General de Educación, lo anterior resulta necesario por tratarse de las definiciones básicas en materia de estructura y organización educativa, mismas que deben ser coincidentes para asegurar la homogeneidad de términos necesaria para la eficaz coordinación entre niveles de Gobierno.
 
@@ -63,9 +63,7 @@ El Capítulo Séptimo, se refiere a la equidad de la educación. Este principio 
 
 El Capítulo se divide en catorce Secciones, y en cada una se define y amplía un concepto relacionado con el proceso educativo y se imprimen sus características de acuerdo al objetivo de un desarrollo integral del educando y un mejoramiento en la calidad de la educación. Las Secciones abordan el proceso educativo en general, la Educación Inicial, la Educación Preescolar, la Educación Primaria, la Educación Secundaria, la Educación Indígena, la Educación Especial, la Educación Media Superior, la Formación y Superación Profesional de los maestros de Educación Básica, la Educación Superior, la Educación Física, la Educación para Adultos, la Educación Informal y el Calendario Escolar.
 
-Cabe destacar aquí la regulación relacionada con la formación, actualización, nivelación y superación profesional para maestros; y la regulación relativa a la Educación Superior. En cuanto a la primera, se crea el Sistema Estatal que habrá de responsabilizarse de estas materias, dándose de esta manera una instancia de coordinación y articulación local a las múltiples instituciones normales o especiales que se ocupan de estas materias. Asimismo, se faculta a la autoridad local para regular el crecimiento de la matricula de tal manera que pueda ajustarse a las necesidades de las escuelas.
-
-Si bien, gran parte de la responsabilidad en esta materia, todavía recae en las autoridades educativas federales, esta Ley propone dotar a las autoridades locales de las facultades necesarias para colaborar activamente con la Federación en el corto plazo y, prepara el terreno para un futuro cercano en el que las autoridades estatales duranguenses deban asumir un papel más destacado en la materia.
+Cabe destacar aquí la regulación relacionada con la formación, actualización, nivelación y superación profesional para maestros; y la regulación relativa a la Educación Superior. En cuanto a la primera, se crea el Sistema Estatal que habrá de responsabilizarse de estas materias, dándose de esta manera una instancia de coordinación y articulación local a las múltiples instituciones normales o especiales que se ocupan de estas materias. Asimismo, se faculta a la autoridad local para regular el crecimiento de la matrícula de tal manera que pueda ajustarse a las necesidades de las escuelas. Si bien, gran parte de la responsabilidad en esta materia, todavía recae en las autoridades educativas federales, esta Ley propone dotar a las autoridades locales de las facultades necesarias para colaborar activamente con la Federación en el corto plazo y, prepara el terreno para un futuro cercano en el que las autoridades estatales duranguenses deban asumir un papel más destacado en la materia.
 
 En cuanto a las disposiciones relativas a la Educación Superior, la Ley establece las bases para el fomento de instituciones públicas y privadas de dicho nivel. Se señala la necesidad de promover la excelencia y alta calidad en la impartición de la formación de profesionistas y la de fomentar las áreas profesionales que más requiera el desarrollo social de las diversas regiones del Estado de Durango. Se señala que la planta de profesores debe ser de gran calidad y altos niveles de preparación escolar, estableciéndose los porcentajes de maestros con licenciatura, maestría y doctorado que deberán existir en las instituciones particulares de Educación Superior que se proponen para obtener y mantener el status de Escuelas Libres de Educación Superior. Es de destacarse que la Ley reafirma el compromiso del Estado de promover la Educación Superior, subrayando su carácter estratégico, nacionalista y su profunda vinculación con el desarrollo regional de nuestro Estado.
 
@@ -77,7 +75,7 @@ El Capítulo Décimo Primero, ratifica y complementa lo dispuesto por la Ley Gen
 
 Este Capítulo reconoce pues, la validez y equiparamiento de la educación duranguense y la del resto del territorio nacional, y destaca el hecho de que en la práctica y el estudio autodidacta, también surgen muchos de los mejores educandos y trabajadores.
 
-El Capítulo Décimo Segundo, se circunscribe a la participación social en la educación; en él se complementa lo que establece la Ley General de Educación sobre los derechos y las obligaciones de los padres y tutores respecto de sus hijos o pupilos, así como el objeto de las Asociaciones de Padres de Familia. También se establecen el procedimiento y estructuración de los Consejos de Participación Social en sus diferentes instancias. Con detalle se delinean los derechos y obligaciones de los padres de familia en relación con el proceso educativo. De igual forma, se establecen los objetivos de las Asociaciones de Padres de Familia, como instancias de participación y observancia de la educación de los hijos. Se delimitan sus funciones y su relación con el proceso pedagógico, así como su interrelación con las autoridades de acuerdo a las disposiciones que emita la autoridad educativa federal. Adicionalmente, este Capítulo señala la necesidad de coordinación y participación, bajo la dirección del Gobierno del Estado, de los Ayuntamientos y, en general, de todos los sectores de la sociedad duranguense, y dispone la organización de un Consejo Estatal de Participación Social en la Educación, que funcionará como órgano de consulta, orientación y apoyo. Derivado del mismo, se dispone la organización, en cada Municipio, de un Consejo Municipal de Participación Social en la Educación; y en cada escuela pública de Educación Básica, de un Consejo Escolar de Participación Social en la Educación. Todos estos Consejos tendrán las funciones establecidas por la Ley General de Educación y se regirán por los lineamientos que establezca la autoridad educativa federal. En el Capitulo de referencia, se hace especial énfasis en que los Consejos de Participación Social en la Educación, sean estos estatales, municipales o escolares, se abstendrán de participar en los aspectos laborales de los establecimientos educativos y en cuestiones políticas y religiosas.
+El Capítulo Décimo Segundo, se circunscribe a la participación social en la educación; en él se complementa lo que establece la Ley General de Educación sobre los derechos y las obligaciones de los padres y tutores respecto de sus hijos o pupilos, así como el objeto de las Asociaciones de Padres de Familia. También se establecen el procedimiento y estructuración de los Consejos de Participación Social en sus diferentes instancias. Con detalle se delinean los derechos y obligaciones de los padres de familia en relación con el proceso educativo. De igual forma, se establecen los objetivos de las Asociaciones de Padres de Familia, como instancias de participación y observancia de la educación de los hijos. Se delimitan sus funciones y su relación con el proceso pedagógico, así como su interrelación con las autoridades de acuerdo a las disposiciones que emita la autoridad educativa federal. Adicionalmente, este Capítulo señala la necesidad de coordinación y participación, bajo la dirección del Gobierno del Estado, de los Ayuntamientos y, en general, de todos los sectores de la sociedad duranguense, y dispone la organización de un Consejo Estatal de Participación Social en la Educación, que funcionará como órgano de consulta, orientación y apoyo. Derivado del mismo, se dispone la organización, en cada Municipio, de un Consejo Municipal de Participación Social en la Educación; y en cada escuela pública de Educación Básica, de un Consejo Escolar de Participación Social en la Educación. Todos estos Consejos tendrán las funciones establecidas por la Ley General de Educación y se regirán por los lineamientos que establezca la autoridad educativa federal. En el Capítulo de referencia, se hace especial énfasis en que los Consejos de Participación Social en la Educación, sean estos estatales, municipales o escolares, se abstendrán de participar en los aspectos laborales de los establecimientos educativos y en cuestiones políticas y religiosas.
 
 El Capítulo Décimo Tercero, en congruencia con el espíritu de la fracción VIII del Artículo 3o. Constitucional y las disposiciones correspondientes de la Ley General de Educación, establece las infracciones y las sanciones correspondientes para quienes incumplan o contravengan las disposiciones contenidas en la legislación educativa aplicable al ámbito estatal. Asimismo, establece el Recurso de Revisión contra las resoluciones de las autoridades educativas locales y las formas, instancias y tiempos para interponerlo, de donde se observa que la finalidad de este Capítulo es coercitiva, es decir, se busca el cumplimiento de la presente Ley y de las normatividades pertinentes; constituyendo asimismo, un conjunto de mecanismos de sanción para quienes, indebidamente y en perjuicio de la educación, violenten las reglas establecidas por la Ley o cometan infracciones a la misma, independientemente que algunas de ellas impliquen sanciones derivadas de los Códigos Civiles y Penales correspondientes.
 
@@ -157,7 +155,7 @@ Además de impartir la educación básica y la media superior, el Gobierno del E
 
 ###### ARTICULO 6.
 
-El Gobierno del Estado y los municipios, dando impulso a la participación social, Instrumentaran programas permanentes para erradicar el rezago educativo en coordinación con la Secretaría de Educación Pública, "La SEP", conforme a lo dispuesto en el Articulo 34 de la Ley General de Educación.
+El Gobierno del Estado y los municipios, dando impulso a la participación social, instrumentaran programas permanentes para erradicar el rezago educativo en coordinación con la Secretaría de Educación Pública, "La SEP", conforme a lo dispuesto en el Articulo 34 de la Ley General de Educación.
 
 En la erradicación del rezago se dará prioridad a los programas que persigan cumplir el objetivo de proporcionar educación básica para todos los habitantes del Estado
 
@@ -235,9 +233,9 @@ XIV.- Arraigar en los educandos el amor y la lealtad a la Patria, así como el r
 
 XV.- Crear conciencia en los educandos de la importancia del trabajo productivo, del ahorro y de la inversión de recursos que requiere el país para lograr un desarrollo socioeconómico sostenible, en una sociedad mundial de economía abierta y competitiva;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-XVI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+XVI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, fomentar el cuidado del agua, su uso y consumo responsables, así como la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -531,9 +529,9 @@ XXXIV.- Otorgar en concesión la operación de centros de distribución de alime
 
 XXXV.- Formular, expedir, publicar y modificar, en su caso, las disposiciones reglamentarias y administrativas de carácter general que regulen la organización, funcionamiento, operación, supervisión y vigilancia de los centros de distribución de alimentos que funcionen en los centros escolares de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2019)</small>
 
-XXXVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Durango, atendiendo a sus respectivos ámbitos de competencia, las disposiciones reglamentarias y administrativas de carácter general aplicables a los centros de distribución que funcionen en los centros escolares de educación básica del Sistema Educativo Estatal y en los planteles incorporados al mismo en las siguientes materias:
+XXXVI.- Establecer y dar seguimiento, en coordinación con la Secretaría de Salud y el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Durango, atendiendo a sus respectivos ámbitos de competencia, las disposiciones reglamentarias y administrativas aplicables a los centros de distribución de alimentos ubicados en el interior de los centros escolares del Sistema Educativo Estatal y en los planteles incorporados al mismo, en las siguientes materias:
 
 a) Contenido nutricional de los alimentos que se expendan en los centros de distribución de alimentos aludidos en el párrafo anterior de esta fracción;
 
@@ -549,21 +547,25 @@ c) Fomento de buenas prácticas nutricionales y hábitos saludables de alimentac
 
 d) Desarrollar programas que promuevan la alimentación correcta e informen sobre la desnutrición, el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
 
-e) Tratándose de la elaboración, comercialización y consumo de alimentos y bebidas en escuelas de educación básica públicas o particulares se limitará el consumo de alimentos de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales; y quienes elaboren o comercialicen alimentos o bebidas deberán cumplir con la normatividad de salubridad que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal;
+e) Tratándose de las escuelas del Sistema Educativo Estatal, públicas o particulares, queda prohibida la preparación, comercialización y distribución de alimentos y bebidas de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales; quienes elaboren o comercialicen alimentos o bebidas en los planteles escolares, deberán cumplir con la normatividad de salubridad que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal;
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
 
-f) Garantizar que los planteles de educación básica y media superior o equivalente cuenten con depósitos equipados con filtros de agua y bebederos públicos; y
+f) Garantizar que los planteles de educación básica y media superior o equivalente, cuenten con depósitos equipados con filtros de agua y bebederos públicos;
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2011)</small>
 
 g) La Secretaría deberá coordinarse con la Secretaría de Salud, con la finalidad de detectar los cambios epidemiológicos de la obesidad, el sobrepeso y trastornos de la conducta alimentaria de los educandos de la entidad.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
 
-h) Impulsar el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, incluyendo a cada institución educativa del sector público y privado con cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia. La Secretaría a tal efecto suscribirá convenios con instituciones de educación superior a efecto de que sus graduados realicen el servicio social en psicología y trabajo social en escuelas de nivel básico.
+h) Impulsar el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, incluyendo a cada institución educativa del sector público y privado con cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia. La Secretaría a tal efecto suscribirá convenios con instituciones de educación superior a efecto de que sus graduados realicen el servicio social en psicología y trabajo social en escuelas de nivel básico; y
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2019)</small>
+
+i) Queda prohibida la elaboración, comercialización y distribución de bebidas energizantes en las escuelas públicas o particulares del Sistema Educativo Estatal.
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -601,7 +603,7 @@ XLIII.- Promover la transparencia en las escuelas públicas y particulares en la
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
 
-XLlV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
+XLIV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2315,17 +2317,21 @@ XIV.- Contravenir las disposiciones contempladas en el artículo 7, en el artíc
 
 XV.- Promover o permitir en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas, estupefacientes o con contenido alcohólico;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-XVI.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos, o clínicas específicas para la atención de problemas de aprendizaje de los educandos; y
+XVI.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
 
 XVII.- Incumplir con las medidas correctivas derivadas de las visitas de inspección o supervisión.
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-XVIII.- A quienes restrinjan el derecho humano consagrado en el artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 22 de la Constitución Política del Estado Libre y Soberano de Durango y no permitan la entrada de alumnos a la institución de educación por motivo de falta de uniforme, o bien, porque este no sea de una marca determinada o por quererse imponer un solo proveedor autorizado por la institución educativa, serán objeto de una multa de cincuenta a doscientas cincuenta veces el equivalente a la Unidad (sic) Medida y Actualización, sin perjuicio de las sanciones penales que corresponda.
+XVIII.- A quienes restrinjan el derecho humano consagrado en el artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 22 de la Constitución Política del Estado Libre y Soberano de Durango y no permitan la entrada de alumnos a la institución de educación por motivo de falta de uniforme, o bien, porque este no sea de una marca determinada o por quererse imponer un solo proveedor autorizado por la institución educativa, serán objeto de una multa de cincuenta a doscientas cincuenta veces el equivalente a la Unidad (sic) Medida y Actualización, sin perjuicio de las sanciones penales que corresponda; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+XIX.- Autorizar o tolerar la preparación, comercialización y distribución en el interior de las escuelas del Sistema Educativo Estatal, públicas o particulares, de bebidas energizantes y de alimentos o bebidas de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales que no cumplan con la normatividad de salubridad, que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal.
 
 Las disposiciones de este artículo no son aplicables a los Trabajadores de la Educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ello.
 
@@ -2618,3 +2624,19 @@ P.O. 28 DE JUNIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La Secretaría de Educación del Gobierno del Estado realizará las adecuaciones normativas y administrativas que correspondan para dar cumplimiento al presente decreto en un plazo que no exceda de 120 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 81.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 21 Y 177 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La implementación del presente Decreto en los planteles de educación básica se llevará a cabo a partir del ciclo escolar 2019-2020 y en los de educación media superior y superior, en el ciclo lectivo correspondiente al segundo semestre de 2019.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 82.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
