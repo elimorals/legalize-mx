@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-reguladora-de-energia-121174"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2018-12-28"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121174&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2019.
 
 Reglamento publicado en la Segunda Sección al Número 20 del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -111,21 +111,23 @@ III. Secretaría Ejecutiva;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
-IV. Unidad de Administración… (sic)
+IV. Unidad de Administración. (sic)
 
 V. Unidad de Planeación y Vinculación;
 
 VI. Unidad de Asuntos Jurídicos;
 
-VII. Unidad de Gas Natural;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-VIII. Unidad de Gas Licuado de Petróleo;
+VII. Unidad de Hidrocarburos;
 
-IX. Unidad de Petrolíferos;
+(REUBICADA, D.O.F. 11 DE ABRIL DE 2019)
 
-X. Unidad de Electricidad, y
+VIII. Unidad de Electricidad, y
 
-XI. Oficinas estatales o regionales que estime necesarias para el desempeño de sus atribuciones, de conformidad con el presupuesto.
+(REUBICADA, D.O.F. 11 DE ABRIL DE 2019)
+
+IX. Oficinas estatales o regionales que estime necesarias para el desempeño de sus atribuciones, de conformidad con el presupuesto.
 
 La Comisión contará con un Órgano Interno de Control que tendrá en su adscripción las áreas de Auditoría, Quejas y Responsabilidades, respectivamente, en términos de la legislación aplicable.
 
@@ -219,7 +221,9 @@ VI. Aportar elementos técnicos al Ejecutivo Federal sobre la formulación y seg
 
 VII. Aprobar con la opinión favorable de la Secretaría de Energía la creación de Sistemas Integrados, sus condiciones de prestación del servicio y expedir las metodologías tarifarias respectivas, así como expedir las reglas de operación de los gestores independientes de estos Sistemas;
 
-VIII. Aprobar las metodologías y bases necesarias para el cálculo de tarifas, precios y contraprestaciones;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+VIII. Aprobar las metodologías, bases y criterios necesarios para el cálculo de tarifas, precios y contraprestaciones;
 
 IX. Aprobar las bases de las licitaciones que realice el Cenagas, así como los procesos de Temporadas Abiertas que realicen los Permisionarios para asignar la capacidad en los sistemas de Transporte y Almacenamiento Nacional de Control de Gas Natural;
 
@@ -227,7 +231,9 @@ X. Aprobar los procesos de las Temporadas Abiertas que propongan los permisionar
 
 XI. Aprobar los términos y condiciones, modelos de contratos, tarifas y precios que propongan los permisionarios para la realización de Actividades Reguladas;
 
-XII. Emitir opinión sobre la planificación de la expansión del Transporte, Almacenamiento y la Distribución de Gas Natural y de Gas Licuado de Petróleo y propano como combustible, conforme a los lineamientos que, en su caso, establezca la Secretaría de Energía;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XII. Aprobar el calendario de labores de la Comisión;
 
 XIII. Determinar las zonas geográficas para la Distribución por ducto de Gas Natural, debiendo contar con la opinión de la Secretaría de Energía y de las autoridades competentes, conforme a la Ley de Hidrocarburos;
 
@@ -247,7 +253,9 @@ XX. Expedir modelos de contrato de interconexión de Centrales Eléctricas, cone
 
 XXI. Autorizar al Cenace lleve a cabo subastas para adquirir potencia cuando lo considere necesario con el objeto de asegurar la Confiabilidad del Sistema Eléctrico Nacional, determinar la asignación de los costos que resulten de las subastas, y expedir protocolos para que el Cenace gestione la contratación de potencia en casos de emergencia;
 
-XXII. Emitir opinión sobre los programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución que sean sometidos por el Cenace o por los Distribuidores, así como solicitar modificaciones a las mismas;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXII. Instruir la aportación al fideicomiso público del saldo remanente de ingresos propios excedentes;
 
 XXIII. Autorizar los cobros para la realización de estudios de las características específicas de la infraestructura, así como, para los otros componentes del proceso de interconexión y conexión;
 
@@ -259,11 +267,17 @@ XXVI. Resolver las controversias entre el Cenace y los demás integrantes de la 
 
 XXVII. Dictar las medidas necesarias para proteger los intereses del público con relación a la Calidad, Confiabilidad, Continuidad y seguridad del Suministro Eléctrico, así como solicitar a otras autoridades competentes la aplicación de medidas de seguridad adicionales o necesarias;
 
-XXVIII. Resolver los procedimientos administrativos y recursos de reconsideración que son competencia de la Comisión;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXIX. Imponer las sanciones que correspondan respecto de los actos u omisiones a los que haya lugar;
+XXVIII. Iniciar y resolver los procedimientos administrativos que son competencia de la Comisión, con excepción de aquellos procedimientos administrativos de sanción que sean competencia expresa del Jefe de la Unidad de Asuntos Jurídicos conforme a lo previsto en el presente Reglamento;
 
-XXX. Aprobar el programa regulatorio anual de la Comisión;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXIX. Imponer las sanciones económicas y no económicas que correspondan respecto de los actos u omisiones a los que haya lugar derivadas de los procedimientos administrativos de sanción, revocación y caducidad, con excepción de aquellas sanciones que provengan de procedimientos administrativos de sanción que sean de competencia expresa del Jefe de la Unidad de Asuntos Jurídicos conforme a lo previsto en el presente Reglamento;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXX. Aprobar los programas anuales de trabajo y regulatorio de la Comisión;
 
 XXXI. Aprobar el informe anual de labores de la Comisión;
 
@@ -371,9 +385,13 @@ XXIV. Las demás atribuciones señaladas en la Ley, este Reglamento u otros orde
 
 Con fundamento en la fracción XII del artículo 23 de la Ley, el Comisionado Presidente podrá delegar en los Servidores Públicos de la Comisión las facultades contempladas en:
 
-I. El artículo 23 de la Ley, con excepción de las señaladas en las fracciones II, VI, VII, IX, y XII, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-II. El artículo 23 de este Reglamento, con excepción de las previstas en las fracciones VI, VII, IX, XII, XIV, XV, XVIII, XIX y XXI, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno.
+I. El artículo 23 de la Ley, con excepción de las señaladas en las fracciones II, VI, VII y IX, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno, y
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+II. El artículo 23 de este Reglamento, con excepción de las previstas en las fracciones VI, VII, IX, XII, XIV, XV, XVIII y XIX, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno.
 
 Los acuerdos delegatorios deberán publicarse en el Diario Oficial de la Federación y podrán ser de duración indefinida o sujetos a una condición o plazo. La revocación de un acuerdo delegatorio también deberá publicarse en el Diario Oficial de la Federación para surtir efectos.
 
@@ -449,7 +467,9 @@ XII. Publicar en el portal de Internet de la Comisión las actas, resoluciones, 
 
 XIII. Coordinar las notificaciones a los interesados y ejecutar las resoluciones y los acuerdos que emita el Órgano de Gobierno, en su caso, con el apoyo de la (sic) Unidades Administrativas competentes;
 
-XIV. Coordinar las notificaciones a los sujetos que realizan Actividades Reguladas sobre el inicio del procedimiento para la imposición de sanciones o medidas de seguridad por parte de la Comisión;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XIV. Coordinar las notificaciones a los sujetos que realizan Actividades Reguladas que formen parte de los procedimientos para la imposición de sanciones o medidas de seguridad por parte de la Comisión;
 
 XV. Dar a conocer a los interesados aquellos proyectos de resolución que por su complejidad o relevancia ameriten que los Comisionados, previo a su resolución, los escuchen mediante audiencia y, en su caso, tomen en consideración sus opiniones en la decisión final;
 
@@ -465,13 +485,21 @@ XX. Ordenar y dar por concluidas las visitas de verificación, tanto ordinarias 
 
 XXI. Habilitar días y horas inhábiles para la práctica de diligencias;
 
-XXII. Dirigir los trabajos de la Oficialía de Partes y la Oficialía de Partes Electrónica de la Comisión;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXIII. Establecer los mecanismos de operación, control y comunicación de la Oficialía de Partes y la Oficialía de Partes Electrónica de la Comisión;
+XXII. Dirigir los trabajos y establecer los mecanismos de operación, control y comunicación de la Oficialía de Partes de la Comisión;
 
-XXIV. Administrar el control general de trámites y procedimientos, la recepción, turno y registro de documentos físicos o electrónicos y llevar a cabo las notificaciones físicas o electrónicas de los documentos, oficios y actos administrativos emitidos tanto por el Órgano de Gobierno como por las Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXV. Admitir a trámite los escritos iniciales que sean presentados ante la Comisión o desechar los trámites iniciados y remitir las promociones a la dependencia o entidad de la Administración Pública Federal que sea competente, cuando la Comisión carezca de competencia para conocer del asunto;
+XXIII. Analizar y tramitar las solicitudes de los particulares para el acceso a la Oficialía de Partes Electrónica de la Comisión y participar, en coordinación con las Unidades Administrativas correspondientes, en el diseño e implementación de los sistemas requeridos para su funcionamiento;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXIV. Administrar la recepción, turno y registro de documentos físicos o electrónicos y llevar a cabo las notificaciones físicas o electrónicas de los documentos, oficios y actos administrativos emitidos por el Órgano de Gobierno o relacionados con éste;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXV. Admitir a trámite los escritos iniciales que sean presentados ante la Comisión, desechar los trámites iniciados e iniciar y remitir promociones a otras autoridades;
 
 XXVI. Expedir a petición de parte interesada las constancias de negativa o afirmativa ficta a que se refiere el artículo 17 de la Ley Federal de Procedimiento Administrativo;
 
@@ -517,11 +545,11 @@ Para el despacho de los asuntos de su competencia, el Secretario Ejecutivo podr�
 
 ### CAPÍTULO VI. De los Jefes de Unidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2019)</small>
 
 ###### Artículo 28.
 
-Al frente de cada una de las Unidades Administrativas, de la Secretaría Ejecutiva y de la Unidad de Administración habrá un Jefe de Unidad, quien tendrá a su cargo la dirección técnica y administrativa y será responsable de su funcionamiento.
+Al frente de cada una de las Unidades Administrativas, de la Secretaría Ejecutiva y de la Unidad de Administración habrá un Jefe de Unidad, quien tendrá a su cargo la dirección técnica y administrativa y será responsable de su funcionamiento. Los Jefes de Unidad se auxiliarán por los Directores Generales, Directores Generales Adjuntos, Directores, Subdirectores, Jefes de Departamento y demás funcionarios, en los términos que establezcan los manuales de organización y otras disposiciones legales.
 
 Además de las atribuciones específicas que le confiere el presente Reglamento, cada Jefe de Unidad tendrá las atribuciones generales que se establecen en este capítulo.
 
@@ -577,9 +605,31 @@ XX. Prevenir a los interesados para que subsanen la omisión de información o l
 
 XXI. Clasificar y resguardar la información y documentos que haya obtenido en el ejercicio de sus atribuciones de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública y en materia de organización y conservación de archivos;
 
-XXII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia y, en su caso, de aquellos que obren en sus archivos, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXIII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+XXII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia y, en su caso, de aquellos que obren en sus archivos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXIII. Delegar en los Directores Generales referidos en el primer párrafo del artículo 28 de este Reglamento, cualesquiera de sus facultades genéricas o específicas de cada Unidad;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXIV. Presidir los Comités Consultivos Nacionales de Normalización que les sean asignados;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXV. Proponer los anteproyectos de normativa interna necesarios para el cumplimiento de las atribuciones de su Unidad Administrativa;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXVI. Designar, cuando así proceda, a los servidores públicos adscritos a su Unidad Administrativa para representarla en los comités o grupos de trabajo que se determinen para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXVII. Formular los requerimientos de actualización del sistema electrónico de gestión en coordinación con las Unidades Administrativas competentes cuando lo consideren necesario, y
+
+XXVIII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -667,9 +717,15 @@ XXXV. Coordinar a las Unidades Administrativas en materia de solicitudes, requer
 
 XXXVI. Fungir como enlace y coordinar a las Unidades Administrativas para la atención de los requerimientos de las diversas instancias de fiscalización y el seguimiento de observaciones que deriven de auditorías practicadas;
 
-XXXVII. Establecer las políticas en materia de organización y conservación de archivos y coordinar su operación, de conformidad con la Ley Federal de Archivos y demás ordenamientos en la materia, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXXVIII. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+XXXVII. Establecer las políticas en materia de organización y conservación de archivos y coordinar su operación, de conformidad con la Ley Federal de Archivos y demás ordenamientos en la materia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXXVIII. Programar y supervisar la operación y funcionamiento del sistema electrónico de gestión, conforme a los requerimientos realizados por las diversas áreas que integran la Comisión, y
+
+XXXIX. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
 
 ### CAPÍTULO VIII. Del Jefe de la Unidad de Planeación y Vinculación
 
@@ -681,7 +737,9 @@ I. Presentar al Presidente, ejecutar y coordinar la planeación, programas y pro
 
 II. Determinar las metodologías y herramientas necesarias para el análisis, seguimiento, control y evaluación de la planeación y proyectos estratégicos de la Comisión;
 
-III. Elaborar y proponer para su aprobación al Órgano de Gobierno el programa regulatorio anual;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+III. Elaborar y proponer para su aprobación al Órgano de Gobierno los programas anuales de trabajo y regulatorio;
 
 IV. Monitorear los instrumentos regulatorios en proceso de elaboración por parte de las Unidades Administrativas;
 
@@ -769,7 +827,9 @@ VIII. Proponer al Órgano de Gobierno la interpretación, para efectos administr
 
 IX. Determinar el criterio cuando dos o más Unidades Administrativas emitan criterios o elaboren proyectos de resolución o acuerdo en los que desarrollen contenidos jurídicos potencialmente contradictorios y actuar como órgano de consulta interno de la Comisión;
 
-X. Fungir como enlace con las unidades o áreas de asuntos jurídicos de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+X. Fungir como enlace con las unidades o áreas de asuntos jurídicos de las dependencias y entidades de la Administración Pública Federal, así como con la Comisión Nacional de los Derechos Humanos y coordinar la atención de los requerimientos en esta materia;
 
 XI. Coordinar la instrucción de procedimientos legales que soliciten las Unidades Administrativas, hasta su resolución;
 
@@ -799,7 +859,35 @@ XXIII. Rendir los informes previos y justificados e intervenir en todo el proced
 
 XXIV. Coordinar los informes previos y justificados que debe rendir el Presidente o cualquier Servidor Público de la Comisión en que sean señalados como autoridades responsables;
 
-XXV. Autorizar y proponer al Órgano de Gobierno los proyectos de resolución por los que se inicien procedimientos de sanción, se impongan sanciones o se ordenen medidas de seguridad a los sujetos que realizan Actividades Reguladas, competencia de la Comisión;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXV. Iniciar, tramitar y resolver en todo el territorio nacional los procedimientos administrativos de sanción, revocación o caducidad de permisos, incluyendo la facultad de admitir o desechar manifestaciones y pruebas, o en su caso, allegarse de mayores elementos para resolver en términos de las disposiciones aplicables en los supuestos en que la conducta constitutiva de infracción se base en los siguientes supuestos:
+
+a. En materia de Hidrocarburos.
+
+1. Incumplimiento de forma continua de pago de derechos o aprovechamientos por concepto de supervisión de los permisos, de conformidad con lo previsto en el artículo 56, fracción VII de la Ley de Hidrocarburos;
+
+2. Omisión de otorgar y mantener vigentes las garantías o los seguros correspondientes, incluyendo aquellos necesarios para cubrir los daños a terceros, de conformidad con lo previsto en el artículo 56, fracción V de la Ley de Hidrocarburos;
+
+3. Falta de presentación de informes o reportes que se requieran a permisionarios, conforme a las disposiciones aplicables, de conformidad con el artículo 86, fracción III, inciso b) o c) de la Ley de Hidrocarburos;
+
+4. Suspender sin la autorización correspondiente los servicios amparados por un permiso, de conformidad con el artículo 86, fracción II, inciso e) de la Ley de Hidrocarburos, y
+
+5. No ejercer los derechos derivados de los permisos dentro del plazo establecido en el permiso o por un periodo de 365 días naturales, de conformidad con el artículo 55 de la Ley de Hidrocarburos.
+
+b. En materia de Electricidad.
+
+1. Incumplimiento continuo de pago de derechos o aprovechamientos o cualquier otra cuota aplicable al permiso, de conformidad con el artículo 131, fracción III, inciso f) de la Ley de la Industria Eléctrica;
+
+2. Incumplir con las obligaciones o condiciones establecidas en el título de permiso relativas a la falta de presentación de informes o reportes de carácter periódico, conforme a lo previsto en el artículo 165, fracción II, inciso g) de la Ley de la Industria Eléctrica;
+
+3. Interrumpir sin causa justificada el servicio permisionado, conforme a lo previsto en el artículo 131, fracción III, inciso b) de la Ley de la Industria Eléctrica, y
+
+4. No iniciar actividades objeto del permiso en los plazos que al efecto se establezcan en el título respectivo, de conformidad con el artículo 131, fracción III, inciso a) de la Ley de la Industria Eléctrica.
+
+El Jefe de la Unidad de Asuntos Jurídicos deberá rendir por escrito ante el Órgano de Gobierno, de manera trimestral o cuando sea solicitado por el Órgano de Gobierno, un informe de la situación que guardan los procedimientos administrativos tramitados bajo su competencia. En el cual deberá contener, cuando menos, el número de reportes de incumplimiento recibidos y atendidos durante el trimestre y su acumulado, así como el estado procesal de los procedimientos administrativos iniciados.
+
+En los demás supuestos, deberá autorizar y proponer al Órgano de Gobierno los proyectos de resolución por los que se inicien procedimientos de sanción, se impongan sanciones o se ordenen medidas de seguridad a los sujetos que realizan Actividades Reguladas, competencia de la Comisión conforme a las fracciones XXVIII y XXIX del artículo 18 del presente Reglamento;
 
 XXVI. Coordinar, si se considera conveniente, la mediación en la solución de controversias respecto de las Actividades Reguladas, siempre y cuando lo soliciten y estén de acuerdo las partes reguladas;
 
@@ -807,23 +895,33 @@ XXVII. Dirigir y coordinar la presentación de denuncias o querellas ante el Min
 
 XXVIII. Coordinar la elaboración de la opinión jurídica sobre el inicio de procedimientos de rescisión administrativa de los contratos de adquisiciones, arrendamientos y prestación de servicios, cuando sea requerida;
 
-XXIX. Administrar los seguros de responsabilidad civil y asistencia legal para los Servidores Públicos, a que se refiere el artículo 26 de la Ley, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXX. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+XXIX. Administrar los seguros de responsabilidad civil y asistencia legal para los Servidores Públicos, a que se refiere el artículo 26 de la Ley;
 
-### CAPÍTULO X. Del Jefe de la Unidad de Gas Natural
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+XXX. Ejercer las atribuciones establecidas en el artículo 22 Bis de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, y
+
+XXXI. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO X. Del Jefe de la Unidad de Hidrocarburos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2019)</small>
 
 ###### Artículo 33.
 
-El Jefe de la Unidad de Gas Natural tendrá las atribuciones siguientes en materia de Gas Natural y Petróleo:
+El Jefe de la Unidad de Hidrocarburos tendrá las atribuciones siguientes en materia de Gas Natural, Petróleo, condensados, líquidos del Gas Natural e hidratos de metano, petroquímicos, bioenergéticos y petrolíferos, incluyendo Gas Licuado de Petróleo y propano como combustible:
 
 I. Proponer el marco regulatorio y su actualización en materia de las actividades de transporte, almacenamiento, distribución, sistemas integrados, compresión, descompresión, licuefacción, regasificación, comercialización, venta de primera mano y expendio al público, en coordinación con la Unidad de Asuntos Jurídicos;
 
 II. Elaborar, actualizar y supervisar el cumplimiento de las disposiciones en materia de participación cruzada de capital, separación legal, operativa, funcional y contable y códigos de conducta a que deben sujetarse los permisionarios;
 
-III. Realizar el análisis y evaluación de la planificación de la expansión del transporte y la distribución por ducto para elaborar la opinión sobre los planes de desarrollo elaborados por la Secretaría de Energía, en coordinación con las Unidades Administrativas que correspondan;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+III. Emitir opinión sobre la planificación de la expansión del Transporte, Almacenamiento y la Distribución de Gas Natural y de Gas Licuado de Petróleo y propano como combustible, conforme a los lineamientos que, en su caso, establezca la Secretaría de Energía, en coordinación con las Unidades Administrativas que correspondan;
 
 IV. Realizar la evaluación para la declaratoria de utilidad pública para el tendido de ductos o de otras construcciones relacionadas;
 
@@ -831,7 +929,9 @@ V. Evaluar las bases de licitación para proyectos de infraestructura de sistema
 
 VI. Evaluar la procedencia técnica y dar seguimiento a los procesos de Temporadas Abiertas que propongan los permisionarios de los sistemas de transporte por ducto y almacenamiento;
 
-VII. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos y precios que propongan los permisionarios para la realización de Actividades Reguladas;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+VII. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos, precios y tarifas que propongan los permisionarios para la realización de Actividades Reguladas;
 
 VIII. Diseñar la propuesta que en su caso se envíe a la Secretaría de Energía para que instruya a las empresas productivas del Estado, sus subsidiarias y filiales que realicen las acciones necesarias para garantizar que sus actividades y operación no obstaculicen la competencia y el desarrollo eficiente de los mercados, así como la política pública en materia energética;
 
@@ -845,7 +945,9 @@ XII. Elaborar la opinión técnica relativa a los planes quinquenales de expansi
 
 XIII. Atender las solicitudes de apoyo técnico que presenten las Secretarías de Hacienda y Crédito Público, de Energía y de Desarrollo Social, para la instrumentación de programas de apoyos focalizados conforme al artículo 124 de la Ley de Hidrocarburos;
 
-XIV. Coordinar en materia de distribución por ducto, la atención y evaluación de las manifestaciones de interés para la determinación de zonas geográficas y la modificación de éstas, así como los procesos de licitación que en su caso se lleven a cabo para el otorgamiento de dichas zonas;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XIV. Coordinar en materia de distribución por ducto de Gas Natural, la atención y evaluación de las manifestaciones de interés para la determinación de zonas geográficas y la modificación de éstas, así como los procesos de licitación que en su caso se lleven a cabo para el otorgamiento de dichas zonas;
 
 XV. Identificar las necesidades de infraestructura común para las actividades de transporte por ductos o de almacenamiento en la región que corresponda;
 
@@ -893,169 +995,23 @@ XXXV. Coordinar el monitoreo del comportamiento de los mercados y de las transac
 
 XXXVI. Compilar y actualizar la información de precios, volúmenes, otras estadísticas e información diversa en materia de las Actividades Reguladas que sean necesarias para el desempeño de las Unidades Administrativas;
 
-XXXVII. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan solucionar al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXXVIII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+XXXVII. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan solucionar al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente;
 
-### CAPÍTULO XI. Del Jefe de la Unidad de Gas Licuado de Petróleo
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXXVIII. Ejercer las atribuciones establecidas en el artículo 22 Bis de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, y
+
+XXXIX. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], D.O.F. 11 DE ABRIL DE 2019)
+
+### CAPÍTULO XI. Del Jefe de la Unidad de Electricidad
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 36], D.O.F. 11 DE ABRIL DE 2019)
 
 ###### Artículo 34.
-
-El Jefe de la Unidad de Gas Licuado de Petróleo tendrá las atribuciones siguientes en materia de Gas Licuado de Petróleo y propano como combustible:
-
-I. Proponer el marco regulatorio y su actualización en materia de las actividades de almacenamiento, transporte, distribución, sistemas integrados, venta de primera mano, expendio al público y comercialización, en coordinación con la Unidad de Asuntos Jurídicos;
-
-II. Elaborar, actualizar y supervisar el cumplimiento de las disposiciones en materia de participación cruzada de capital, separación legal, operativa, funcional y contable y códigos de conducta a que deben sujetarse los permisionarios;
-
-III. Realizar el análisis y evaluación de la planificación de la expansión del transporte y la distribución por ducto para elaborar la opinión sobre los planes de desarrollo elaborados por la Secretaría de Energía, en coordinación con las Unidades Administrativas que correspondan;
-
-IV. Realizar la evaluación para la declaratoria de utilidad pública para el tendido de ductos o de otras construcciones relacionadas;
-
-V. Diseñar la propuesta que en su caso se envíe a la Secretaría de Energía para que instruya a las empresas productivas del Estado, sus subsidiarias y filiales que realicen las acciones necesarias para garantizar que sus actividades y operación no obstaculicen la competencia y el desarrollo eficiente de los mercados, así como la política pública en materia energética;
-
-VI. Proponer al Órgano de Gobierno las metodologías y bases necesarias para el cálculo de tarifas, precios y contraprestaciones;
-
-VII. Coordinar los procesos de evaluación y determinación inicial de tarifas, precios y contraprestaciones, así como sus revisiones o ajustes periódicos para las Actividades Reguladas en materia económica;
-
-VIII. Elaborar la opinión relacionada con los proyectos que se lleven a cabo para la generación de beneficios sociales y como mecanismos de promoción de desarrollo económico, conforme a lo establecido en el artículo 122 de la Ley de Hidrocarburos;
-
-IX. Atender las solicitudes de apoyo técnico que presenten las Secretarías de Hacienda y Crédito Público, de Energía y de Desarrollo Social, para la instrumentación de programas de apoyos focalizados conforme al artículo 124 de la Ley de Hidrocarburos;
-
-X. Evaluar la procedencia técnica y dar seguimiento a los procesos de Temporadas Abiertas que propongan los permisionarios de los sistemas de transporte por ducto y almacenamiento;
-
-XI. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos y precios que propongan los permisionarios para la realización de Actividades Reguladas;
-
-XII. Identificar las necesidades de infraestructura común para las actividades de transporte por ductos o de almacenamiento en la región que corresponda;
-
-XIII. Representar a la Comisión en comités, subcomités y grupos de trabajo a cargo de la misma y en aquellos en que presidan otras dependencias, con el fin de elaborar la regulación técnica relacionada con las Actividades Reguladas;
-
-XIV. Coordinar los procedimientos de aprobación y supervisión de terceros especialistas y unidades de verificación que realicen actividades de supervisión, inspección, verificación y evaluación de conformidad con las normas oficiales mexicanas emitidas por la Comisión;
-
-XV. Coordinar los procedimientos de autorización de Servidores Públicos y acreditación a terceros para que lleven a cabo las actividades de supervisión, inspección y verificación, así como de certificación y de auditorías referidas en la Ley y demás disposiciones jurídicas aplicables;
-
-XVI. Proponer al Órgano de Gobierno el programa anual de visitas de verificación, inspección y supervisión, así como las visitas de verificación, inspección y supervisión extraordinarias;
-
-XVII. Realizar las visitas de verificación, inspección y supervisión, y requerir la presentación de información y documentación, para el cumplimiento de la regulación, autorizaciones y obligaciones de los permisos emitidos;
-
-XVIII. Proponer al Órgano de Gobierno los proyectos de otorgamiento, modificación, cesión, transferencia, terminación anticipada, prórroga, autorización, caducidad y demás actos relacionados con los permisos para las Actividades Reguladas;
-
-XIX. Emitir y suscribir los títulos de permisos aprobados por el Órgano de Gobierno, así como la actualización y terminación por renuncia del permisionario;
-
-XX. Determinar los medios y formatos a través de los cuales los permisionarios deberán presentar la información requerida como parte de las obligaciones de los permisos;
-
-XXI. Emitir la justificación y proponer los montos de las contribuciones y contraprestaciones por la prestación de los servicios de la Comisión;
-
-XXII. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
-
-XXIII. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
-
-XXIV. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
-
-XXV. Elaborar las propuestas de modificación de oficio de la naturaleza de los permisos;
-
-XXVI. Requerir la presentación de información a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia;
-
-XXVII. Supervisar y vigilar el cumplimiento de la regulación, las normas oficiales mexicanas y las disposiciones administrativas de carácter general aplicables a quienes realicen Actividades Reguladas;
-
-XXVIII. Emitir y suscribir la validación técnica de los proyectos de resoluciones y acuerdos que se presenten al Órgano de Gobierno para su aprobación;
-
-XXIX. Informar a la Unidad de Asuntos Jurídicos sobre los posibles incumplimientos a las obligaciones de los permisionarios para que, en su caso, se inicie el procedimiento administrativo de sanción correspondiente; y proporcionar la información o documentación que lo sustenten;
-
-XXX. Informar a la Unidad de Asuntos Jurídicos sobre la detección de posibles ilícitos en la realización de Actividades Reguladas para que, en su caso, se inicie el procedimiento ante las autoridades correspondientes; y proporcionar la información o documentación que lo sustenten;
-
-XXXI. Informar al Presidente cualquier situación que pueda poner en riesgo la continuidad de la prestación de los servicios permisionados, así como proponerle las acciones que estime convenientes;
-
-XXXII. Coordinar el monitoreo del comportamiento de los mercados y de las transacciones comerciales e informar al Presidente sobre la posible existencia de prácticas anticompetitivas, indebidamente discriminatorias, barreras de entrada, insumos esenciales o restricciones al desarrollo eficiente de los mercados, así como proponerle las acciones que estime convenientes, dirigidas a fomentar y promover la competencia;
-
-XXXIII. Compilar y actualizar la información de precios, volúmenes, otras estadísticas e información diversa en materia de las Actividades Reguladas que sean necesarias para el desempeño de las Unidades Administrativas;
-
-XXXIV. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan solucionar al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente, y
-
-XXXV. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
-
-### CAPÍTULO XII. Del Jefe de la Unidad de Petrolíferos
-
-## TÍTULO TERCERO. Del Consejo Consultivo
-
-###### Artículo 35.
-
-El Jefe de la Unidad de Petrolíferos tendrá las siguientes atribuciones en materia de petrolíferos, petroquímicos y bioenergéticos, excluyendo al Gas Licuado de Petróleo y propano como combustible:
-
-I. Proponer el marco regulatorio y su actualización en materia de las actividades de transporte, almacenamiento, distribución, sistemas integrados, expendio, comercialización y ventas de primera mano, en coordinación con la Unidad de Asuntos Jurídicos;
-
-II. Elaborar, actualizar y supervisar el cumplimiento de las disposiciones en materia de participación cruzada de capital, separación legal, operativa, funcional y contable y códigos de conducta a que deben sujetarse los permisionarios;
-
-III. Realizar la evaluación para la declaratoria de utilidad pública para el tendido de ductos o de otras construcciones relacionadas;
-
-IV. Diseñar la propuesta que en su caso se envíe a la Secretaría de Energía para que instruya a las empresas productivas del Estado, sus subsidiarias y filiales que realicen las acciones necesarias para garantizar que sus actividades y operación no obstaculicen la competencia y el desarrollo eficiente de los mercados, así como la política pública en materia energética;
-
-V. Proponer al Órgano de Gobierno las metodologías y bases necesarias para el cálculo de tarifas, precios y contraprestaciones;
-
-VI. Coordinar los procesos de evaluación y determinación inicial de tarifas, precios y contraprestaciones, así como sus revisiones o ajustes periódicos para las Actividades Reguladas en materia económica;
-
-VII. Elaborar la opinión relacionada con los proyectos que se lleven a cabo para la generación de beneficios sociales y como mecanismos de promoción de desarrollo económico, conforme a lo establecido en el artículo 122 de la Ley de Hidrocarburos;
-
-VIII. Atender las solicitudes de apoyo técnico que presenten las Secretarías de Hacienda y Crédito Público, de Energía y de Desarrollo Social, para la instrumentación de programas de apoyos focalizados conforme al artículo 124 de la Ley de Hidrocarburos;
-
-IX. Evaluar la procedencia técnica y dar seguimiento a los procesos de Temporadas Abiertas que propongan los permisionarios de los sistemas de transporte por ducto y almacenamiento;
-
-X. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos y precios que propongan los permisionarios para la realización de Actividades Reguladas;
-
-XI. Identificar las necesidades de infraestructura común para las actividades de transporte por ductos o de almacenamiento en la región que corresponda;
-
-XII. Representar a la Comisión en comités, subcomités y grupos de trabajo a cargo de la misma y en aquellos en que presidan otras dependencias, con el fin de elaborar la regulación técnica relacionada con las Actividades Reguladas;
-
-XIII. Coordinar los procedimientos de aprobación y supervisión de terceros especialistas y unidades de verificación que realicen actividades de supervisión, inspección, verificación y evaluación de conformidad con las normas oficiales mexicanas emitidas por la Comisión;
-
-XIV. Coordinar los procedimientos de autorización de Servidores Públicos y acreditación a terceros para que lleven a cabo las actividades de supervisión, inspección y verificación, así como de certificación y de auditorías referidas en la Ley y demás disposiciones jurídicas aplicables;
-
-XV. Proponer al Órgano de Gobierno el programa anual de visitas de verificación, inspección y supervisión, así como las visitas de verificación, inspección y supervisión extraordinarias;
-
-XVI. Realizar las visitas de verificación, inspección y supervisión, y requerir la presentación de información y documentación, para el cumplimiento de la regulación, autorizaciones y obligaciones de los permisos emitidos;
-
-XVII. Proponer al Órgano de Gobierno los proyectos de otorgamiento, modificación, cesión, transferencia, terminación anticipada, prórroga, autorización, caducidad y demás actos relacionados con los permisos para las Actividades Reguladas;
-
-XVIII. Emitir y suscribir los títulos de permisos aprobados por el Órgano de Gobierno, así como la actualización y terminación por renuncia del permisionario;
-
-XIX. Determinar los medios y formatos a través de los cuales los permisionarios deberán presentar la información requerida como parte de las obligaciones de los permisos;
-
-XX. Emitir la justificación y proponer los montos de las contribuciones y contraprestaciones por la prestación de los servicios de la Comisión;
-
-XXI. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
-
-XXII. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
-
-XXIII. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
-
-XXIV. Elaborar las propuestas de modificación de oficio de la naturaleza de los permisos;
-
-XXV. Requerir la presentación de información a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia;
-
-XXVI. Supervisar y vigilar el cumplimiento de la regulación, las normas oficiales mexicanas y las disposiciones administrativas de carácter general aplicables a quienes realicen Actividades Reguladas;
-
-XXVII. Emitir y suscribir la validación técnica de los proyectos de resoluciones y acuerdos que se presenten al Órgano de Gobierno para su aprobación;
-
-XXVIII. Informar a la Unidad de Asuntos Jurídicos sobre los posibles incumplimientos a las obligaciones de los permisionarios para que, en su caso, se inicie el procedimiento administrativo de sanción correspondiente; y proporcionar la información o documentación que lo sustenten;
-
-XXIX. Informar a la Unidad de Asuntos Jurídicos sobre la detección de posibles ilícitos en la realización de Actividades Reguladas para que, en su caso, se inicie el procedimiento ante las autoridades correspondientes; y proporcionar la información o documentación que lo sustenten;
-
-XXX. Informar al Presidente cualquier situación que pueda poner en riesgo la continuidad de la prestación de los servicios permisionados, así como proponerle las acciones que estime convenientes;
-
-XXXI. Coordinar el monitoreo del comportamiento de los mercados y de las transacciones comerciales e informar al Presidente sobre la posible existencia de prácticas anticompetitivas, indebidamente discriminatorias, barreras de entrada, insumos esenciales o restricciones al desarrollo eficiente de los mercados, así como proponerle las acciones que estime convenientes, dirigidas a fomentar y promover la competencia;
-
-XXXII. Compilar y actualizar la información de precios, volúmenes, otras estadísticas e información diversa en materia de las Actividades Reguladas que sean necesarias para el desempeño de las Unidades Administrativas;
-
-XXXIII. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan solucionar al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente, y
-
-XXXIV. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
-
-### CAPÍTULO XIII. Del Jefe de la Unidad de Electricidad
-
-###### Artículo 36.
 
 El Jefe de la Unidad de las actividades en materia de Electricidad tendrá las atribuciones siguientes:
 
@@ -1071,9 +1027,13 @@ V. Coordinar los procesos de evaluación y determinación inicial de tarifas, pr
 
 VI. Atender las solicitudes de apoyo técnico que presenten las Secretarías de Hacienda y Crédito Público, de Energía y de Desarrollo Social, para la instrumentación de programas de apoyos focalizados conforme al artículo 116 de la Ley de la Industria Eléctrica;
 
-VII. Emitir la opinión sobre la base de licitación para proyectos de infraestructura de transmisión que realicen las empresas productivas del Estado;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-VIII. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos y precios que propongan los permisionarios para la realización de Actividades Reguladas;
+VII. Emitir opinión sobre los programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución que sean sometidos por el Cenace o por los Distribuidores, así como solicitar modificaciones a los mismos;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+VIII. Evaluar la procedencia técnica y proponer ajustes a los términos y condiciones, modelos de contratos, precios y tarifas que propongan los permisionarios para la realización de Actividades Reguladas;
 
 IX. Representar a la Comisión en comités, subcomités y grupos de trabajo a cargo de la misma y en aquellos en que presidan otras dependencias, con el fin de elaborar la regulación técnica relacionada con las Actividades Reguladas;
 
@@ -1095,9 +1055,9 @@ XVII. Emitir la justificación y proponer los montos de las contribuciones y con
 
 XVIII. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XIX. Informar a la Oficialía Mayor la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
+XIX. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
 
 XX. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
 
@@ -1121,7 +1081,9 @@ XXIX. Coordinar la inscripción, emisión y suscripción de constancias, actuali
 
 XXX. Ejercer la vigilancia del Mercado Eléctrico Mayorista;
 
-XXXI. Proponer al Órgano de Gobierno la opinión respecto de los programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución que sean propuestos por el Cenace o por los Distribuidores, así como su impacto en la operación del Mercado Eléctrico Mayorista;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXXI. Evaluar el impacto en la operación del Mercado Eléctrico Mayorista de los programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución que sean propuestos por el Cenace o por los Distribuidores;
 
 XXXII. Realizar los proyectos de otorgamiento de los Certificados de Energías Limpias y verificar su cumplimiento;
 
@@ -1131,17 +1093,27 @@ XXXIV. Elaborar los protocolos para que el Cenace gestione la contratación de p
 
 XXXV. Autorizar los procesos de subasta que lleve a cabo el Cenace;
 
-XXXVI. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2019)</small>
 
-XXXVII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+XXXVI. Atender en el ámbito de su competencia, aquellas quejas de los usuarios de los servicios, que no le correspondan al permisionario, a la Procuraduría Federal del Consumidor o a cualquier otra autoridad competente;
 
-###### Artículo 37.
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+XXXVII. Aplicar las metodologías para determinar el cálculo y ajuste de las tarifas reguladas y las tarifas finales del Suministro Básico y publicar en el portal de internet de la Comisión las memorias de cálculo correspondientes, y
+
+XXXVIII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
+
+## TÍTULO TERCERO. Del Consejo Consultivo
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 37], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 35.
 
 El Consejo Consultivo de la Comisión es el órgano que contribuye al procedimiento de consulta pública para la definición de los criterios de regulación contenidos en las disposiciones administrativas de carácter general que expida la Comisión, a través de propuestas y opiniones que privilegien el interés general.
 
-## TÍTULO CUARTO. Del Comité de Evaluación del Desempeño Regulatorio de la Comisión
+(REUBICADO [N. DE E. ANTES ARTÍCULO 38], D.O.F. 11 DE ABRIL DE 2019]
 
-###### Artículo 38.
+###### Artículo 36.
 
 En la integración del Consejo Consultivo, la Comisión procurará la participación de representantes de instituciones destacadas del sector energético, de asociaciones que agrupen a permisionarios y usuarios, y de instituciones académicas.
 
@@ -1151,79 +1123,101 @@ Los Comisionados podrán asistir a las sesiones del Consejo Consultivo.
 
 Cuando el Presidente del Consejo Consultivo lo estime necesario, podrá invitar a participar en las sesiones a servidores públicos de dependencias y entidades de cualquiera de los tres niveles de gobierno. En este caso, los invitados tendrán voz, pero no voto.
 
-###### Artículo 39.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 39], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 37.
 
 Las reglas de operación serán expedidas y podrán ser modificadas por el Órgano de Gobierno. Éstas deberán contener, al menos, los términos generales de funcionamiento e integración del Consejo Consultivo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ABRIL DE 2019)</small>
+
+## TÍTULO CUARTO. Del Comité de Evaluación del Desempeño de la Comisión
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 40], D.O.F. 11 DE ABRIL DE 2019)</small>
+
+###### Artículo 38.
+
+La Comisión contará con un Comité de Evaluación del Desempeño que tendrá como objeto analizar el cumplimiento de la estrategia, programas y proyectos de la Comisión.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 41], D.O.F. 11 DE ABRIL DE 2019)</small>
+
+###### Artículo 39.
+
+El Comité estará integrado por los siete Comisionados incluyendo al Presidente, Secretario Ejecutivo y los Jefes de las Unidades Administrativas.
+
+Las sesiones del Comité serán presididas por el Presidente y el Jefe de la Unidad de Planeación y Vinculación fungirá como Secretario Técnico del mismo.
+
+El Comité sesionará de manera ordinaria trimestralmente. El Comité podrá sesionar de manera extraordinaria cuando a criterio del Presidente así lo determine.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 42], D.O.F. 11 DE ABRIL DE 2019]
+
 ###### Artículo 40.
-
-La Comisión contará con un Comité de Evaluación del Desempeño Regulatorio que tendrá como objeto analizar la implementación de la política regulatoria de la Comisión.
-
-## TÍTULO QUINTO. Del Presupuesto y el Fideicomiso
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 41.
-
-El Comité estará integrado por el Presidente, Secretario Ejecutivo y los Jefes de las Unidades Administrativas y será presidido por el primero. El Jefe de la Unidad de Planeación y Vinculación fungirá como Secretario Técnico del Comité.
-
-El Presidente del Comité podrá ser suplido en las sesiones de trabajo, por el Secretario Ejecutivo o, en su ausencia, por alguno de los Jefes de Unidad que al efecto determine el Presidente del Comité.
-
-El Secretario Técnico y los demás integrantes del Comité podrán designar a sus respectivos suplentes, que deberán tener al menos el nivel de Director General Adjunto o equivalente.
-
-El Comité sesionará cuando se considere necesario a convocatoria del Secretario Técnico, previo acuerdo con el Presidente, para discutir los asuntos relacionados con su objeto.
-
-###### Artículo 42.
 
 A las reuniones de trabajo del Comité se podrá invitar a participar a cualquier Servidor Público cuyas opiniones y propuestas coadyuven al análisis de los temas a tratar.
 
 Las Unidades Administrativas de la Comisión colaborarán con el Comité en el ámbito de sus atribuciones respectivas, establecidas en el presente Reglamento.
 
-###### Artículo 43.
+## TÍTULO QUINTO. Del Presupuesto y el Fideicomiso
+
+(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 43], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 41.
 
 La Comisión, a través de la Unidad de Administración, realizará las acciones necesarias para cumplir con lo previsto en el artículo 30 de la Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 44], D.O.F. 11 DE ABRIL DE 2019]
 
-## TÍTULO SEXTO. De las Suplencias y los Encargados de Despacho
-
-###### Artículo 44.
+###### Artículo 42.
 
 La Unidad de Administración será la encargada de administrar el fideicomiso público, debiendo contar con la aprobación del Órgano de Gobierno para cumplir con las obligaciones establecidas en el artículo 31 de la Ley, sobre la aportación de los remanentes de ingresos propios excedentes que obtenga.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 45], D.O.F. 11 DE ABRIL DE 2019]
 
-###### Artículo 45.
+###### Artículo 43.
 
 La Unidad de Administración deberá informar de manera trimestral al Presidente sobre la administración del fideicomiso público.
 
-###### Artículo 46.
+## TÍTULO SEXTO. De las Suplencias y los Encargados de Despacho
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 46], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 44.
 
 En las ausencias temporales del Presidente, el despacho y resolución de los asuntos de naturaleza administrativa correspondientes a la Comisión quedarán a cargo del Secretario Ejecutivo.
 
-###### Artículo 47.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 47], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 45.
 
 En las ausencias temporales del Secretario Ejecutivo, el despacho y resolución de los asuntos quedarán a cargo del Servidor Público que proponga el Presidente y apruebe el Órgano de Gobierno.
 
-###### Artículo 48.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 48], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 46.
 
 En las ausencias temporales de los Jefes de Unidad, Directores Generales, y demás funcionarios de mando, serán suplidos por los Servidores Públicos que el Presidente designe. A falta de designación, los suplirán los Servidores Públicos de la jerarquía inmediata inferior que de ellos dependan y que por las circunstancias y naturaleza del asunto les corresponda conocer.
 
-## TÍTULO SÉPTIMO. De las Reformas al Reglamento
+(REUBICADO [N. DE E. ANTES ARTÍCULO 49], D.O.F. 11 DE ABRIL DE 2019]
 
-###### Artículo 51.
-
-El presente Reglamento podrá ser reformado, adicionado, modificado o derogado por el Órgano de Gobierno a propuesta del Presidente.
-
-###### Artículo 49.
+###### Artículo 47.
 
 En las ausencias definitivas de los Jefes de Unidad o Directores Generales, el Presidente, podrá designar un encargado de despacho, en tanto emita el nombramiento del Servidor Público que ocupe el puesto de forma definitiva.
 
-###### Artículo 50.
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 50], D.O.F. 11 DE ABRIL DE 2019)</small>
 
-Los suplentes encargados de despacho en términos de las disposiciones de este capítulo y de las que de ellas emanen, contarán con las facultades del Servidor Público al que suplan. En caso de requerirse, se les otorgarán los poderes correspondientes.
+###### Artículo 48.
+
+Los suplentes y los encargados de despacho en términos de las disposiciones de este capítulo y de las que de ellas emanen, contarán con las facultades del Servidor Público al que suplan. En caso de requerirse, se les otorgarán los poderes correspondientes.
 
 En caso de no designarse suplente, cada Jefe de Unidad, continuará desarrollando las atribuciones que le corresponden al Servidor Público en ausencia.
+
+## TÍTULO SÉPTIMO. De las Reformas al Reglamento
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 51], D.O.F. 11 DE ABRIL DE 2019]
+
+###### Artículo 49.
+
+El presente Reglamento podrá ser reformado, adicionado, modificado o derogado por el Órgano de Gobierno a propuesta del Presidente.
 
 ## TRANSITORIOS
 
@@ -1259,7 +1253,7 @@ Ramiro Ximénez, Jesús Serrano Landeros, Guillermo Zúñiga Martínez.- Rúbric
 
 D.O.F. 29 DE JUNIO DE 2017.
 
-> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL “ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA QUE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL "ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA QUE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -1268,3 +1262,19 @@ D.O.F. 28 DE DICIEMBRE DE 2018.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “ACUERDO POR EL QUE EL ÓRGANO DE GOBIERNO DE LA COMISIÓN REGULADORA DE ENERGÍA APRUEBA LA MODIFICACIÓN A SU REGLAMENTO INTERNO, EN TÉRMINOS DEL ARTÍCULO 22 DE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS, EN CONCORDANCIA CON EL ARTÍCULO 43 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ABRIL DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA QUE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. […]
+
+SEGUNDO. Con motivo de las modificaciones referidas, aquellos instrumentos normativos expedidos con anterioridad al presente Acuerdo, en los cuales se haga referencia a las Unidades de Gas Natural, Gas Licuado de Petróleo y Petrolíferos, o a sus Titulares, deberá entenderse que hacen alusión a la Unidad de Hidrocarburos y al Titular de la Unidad de Hidrocarburos.
+
+TERCERO. Los procedimientos administrativos de sanción, revocación o caducidad de permisos que se encuentren en trámite a la entrada en vigor del presente Acuerdo y que se encuentren en alguno de los supuestos señalados en la ahora fracción XXV del artículo 32 del Reglamento Interno continuarán sujetándose a las disposiciones vigentes al momento de su inicio y serán resueltos hasta su conclusión por la Unidad de Asuntos Jurídicos.
+
+CUARTO. Se instruye al Secretario Ejecutivo de esta Comisión Reguladora de Energía a efectuar las adecuaciones en el Reglamento Interno derivadas de las modificaciones referidas en los acuerdos anteriores, mismas que deberá (sic) estar seguidas del número y la fecha del presente Acuerdo, con el propósito de brindar claridad sobre las determinaciones adoptadas por este Órgano de Gobierno.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Inscríbase el presente Acuerdo bajo el número A/011/2019, en el registro al que se refieren los artículos 22, fracción XXVI, inciso a), y 25, fracción X de la Ley de los Órganos Reguladores Coordinados en Materia Energética y 4 y 16 del Reglamento Interno de la Comisión Reguladora de Energía.
