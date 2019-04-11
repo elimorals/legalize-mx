@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2018-10-02"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -83,6 +83,10 @@ XV. Billares: establecimientos que tienen mesas para practicar el juego de billa
 
 XVI. Boliches: establecimientos en los que se practica el juego de bolos, y en los que se puede autorizar la venta para consumo inmediato de bebidas alcohólicas de baja graduación;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+XVI Bis. Boutique de cerveza artesanal: establecimiento mercantil especializado en la venta de cerveza artesanal, local y nacional, en envase cerrado y al menudeo;
+
 XVII. Casino: establecimiento que está destinado a la práctica de los juegos de azar, y en los que se puede autorizar la venta, para consumo inmediato de bebidas alcohólicas;
 
 XVIII. Centros nocturnos, subclasificados en:
@@ -93,7 +97,15 @@ b) Discoteca: establecimientos con venta de bebidas alcohólicas para consumo in
 
 XIX. Centros o clubes sociales, deportivos y recreativos: establecimientos de asociaciones civiles o sociedades mercantiles, que dan acceso y servicio a socios e invitados, y que dentro de sus instalaciones destinan áreas para restaurante, bar, centro nocturno o salón y/o jardín de fiestas y eventos;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+XIX Bis. Cervecería artesanal: establecimiento mercantil dedicado a la venta exclusiva de cerveza artesanal, local y nacional, en envase abierto para su consumo inmediato, con o sin servicios de alimentos, y que puede contar con música grabada o en vivo;
+
 XX. Cervecerías: establecimientos en los que sólo se vende cerveza de hasta media graduación, para consumo inmediato y dentro de los mismos;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+XX Bis. Cerveza artesanal: bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen;
 
 XXI. Cine: establecimiento que se dedica a la proyección de, películas o cortometrajes; eventos especiales; o cualquier otro tipo de producción afín, con propósito de explotación comercial, en el que cuentan con salas con equipamiento e infraestructura, servicio de restaurante completo, donde se venden bebidas alcohólicas para su consumo inmediato y en el interior del mismo;
 
@@ -112,6 +124,12 @@ XXVII. Hoteles y moteles: establecimientos cuya actividad primordial es la renta
 XXVIII. Licencia: documento que autoriza la venta, distribución, consumo, y suministro de bebidas alcohólicas, en cualquiera de las modalidades; y pueden ser permanentes, temporales y de degustación, de conformidad a lo solicitado y autorizado al efecto, por la autoridad correspondiente;
 
 XXIX. Licorerías o vinaterías: establecimientos comerciales fijos dedicados preponderantemente a la venta de bebidas alcohólicas en envase cerrado o por caja, para llevar;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+XXIX Bis. Microcervecerías: establecimientos para la producción, envasado, degustación, venta, distribución, almacenaje, difusión y comercialización por diversos medios, de cerveza artesanal de fabricación propia, así como productos relacionados; cumpliendo las características de ser de pequeña escala, independiente y de producción tradicional. Puede contar con sala de degustación, y con productos de la misma gama de diverso fabricante estatal o nacional.
+
+La sala de degustación es el área de la microcervecería, delimitada para la recepción de público en general, venta y consumo exclusivo de cerveza artesanal cerrada y abierta, con o sin servicios de alimentos, sean provistos por el establecimiento o por terceros, y que puede contar con música grabada o en vivo.
 
 XXX. Modalidad: es la forma en que se venden o suministran las bebidas alcohólicas; las que pueden ser para consumo inmediato, o en envase cerrado para llevar;
 
@@ -251,9 +269,17 @@ I. Los dedicados a la venta y suministro de bebidas alcohólicas, para consumo i
 
 II. Aquéllos en donde en forma accesoria puede autorizarse la venta y suministro de bebidas alcohólicas, para consumo inmediato dentro de los mismos: restaurantes, restaurante-bar, centros o clubes sociales, deportivos o recreativos, centros nocturnos, baños públicos, hoteles, moteles, establecimientos turísticos, salones de eventos y banquetes, cafés, cines, billares, boliches, fondas, cenadurías, taquerías, teatros, antojerías, y similares;
 
-III. Aquéllos en los que se puede autorizar en forma eventual y transitoria la venta y suministro de bebidas alcohólicas para consumo inmediato dentro de los mismos: jardines o salones de fiestas, estadios, centros de convenciones, arenas de box y lucha libre, plazas de toros, lienzos charros, carriles para carreras de caballos, palenques móviles, palenques permanentes, centros de espectáculos culturales, artísticos y deportivos, ferias estatales, regionales y municipales, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-IV. Aquéllos en donde puede autorizarse el almacenaje, venta, distribución y suministro de bebidas alcohólicas en envase cerrado para llevar: almacenes, agencias, depósitos, destilerías, distribuidoras, tiendas de autoservicio, abarrotes, misceláneas, tendajones, licorerías, vinaterías, supermercados y minisúper.
+III. Aquéllos en los que se puede autorizar en forma eventual y transitoria la venta y suministro de bebidas alcohólicas para consumo inmediato dentro de los mismos: jardines o salones de fiestas, estadios, centros de convenciones, arenas de box y lucha libre, plazas de toros, lienzos charros, carriles para carreras de caballos, palenques móviles, palenques permanentes, centros de espectáculos culturales, artísticos y deportivos, ferias estatales, regionales y municipales;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+IV. Aquéllos en donde puede autorizarse el almacenaje, venta, distribución y suministro de bebidas alcohólicas en envase cerrado para llevar: almacenes, agencias, depósitos, destilerías, distribuidoras, tiendas de autoservicio, abarrotes, misceláneas, tendajones, licorerías, vinaterías, supermercados y minisúper, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+V. Aquéllos en donde puede autorizarse la producción, el almacenaje, la venta, distribución, suministro de bebidas alcohólicas en su modalidad de cerveza artesanal, sea en envase cerrado para llevar, o para su consumo inmediato dentro de los mismos.
 
 ### CAPÍTULO IV. De las Licencias
 
@@ -281,9 +307,17 @@ IV. A destilerías, almacenes, abarrotes, misceláneas, tendajones, licorerías 
 
 V. A pulquerías, deberá especificar que se autoriza únicamente la venta, consumo y suministro de pulque, sin que tal producto pueda alterarse con ninguna otra clase de bebida alcohólica;
 
-VI. A casinos, cines, y teatros licencia que deberá condicionarse a la venta y suministro de bebidas alcohólicas para consumo inmediato dentro del establecimiento, y con servicio de restaurante completo, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-VII. A hoteles y moteles que ofrezcan dentro de sus mismas instalaciones, los servicios de centro nocturno, bar, restaurante-bar, salón para fiestas, centro social o de convenciones, servicio al cuarto, se expedirá una licencia única que ampare los mismos.
+VI. A casinos, cines, y teatros licencia que deberá condicionarse a la venta y suministro de bebidas alcohólicas para consumo inmediato dentro del establecimiento, y con servicio de restaurante completo;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+VII. A hoteles y moteles que ofrezcan dentro de sus mismas instalaciones, los servicios de centro nocturno, bar, restaurante-bar, salón para fiestas, centro social o de convenciones, servicio al cuarto, se expedirá una licencia única que ampare los mismos, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+VIII. A microcervecerías, salas de degustación, boutiques de cerveza artesanal, y cervecerías artesanales para producción, venta, distribución y suministro de bebidas alcohólicas de baja y media graduación, para consumo inmediato dentro del local, y venta en envase cerrado para llevar.
 
 ###### ARTÍCULO 13.
 
@@ -431,13 +465,17 @@ VIII. En los demás casos que establezcan esta Ley y disposiciones relativas.
 
 Los establecimientos que se señalan en el artículo 10 de esta Ley, podrán permanecer abiertos al público dentro del horario autorizado, según su giro comercial, pero únicamente podrán vender o suministrar y, en su caso, permitir el consumo de bebidas alcohólicas, en el horario que determine cada ayuntamiento, y dentro de los límites siguientes:
 
-I. Bares y cervecerías: de 9:00 a 1:00 horas del día siguiente;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+I. Bares, cervecerías, salas de degustación, y cervecerías artesanales: de 10:00 a 2:00 horas del día siguiente;
 
 II. Billares, cines, baños públicos y boliches: de 11:00 a 23:00 horas;
 
 III. Pulquerías: de 11:00 a 19:00 horas;
 
-IV. Depósitos, agencias, distribuidoras y destilerías: de 10:00 a 23:00 horas;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
+
+IV. Depósitos, agencias, distribuidoras, destilerías y boutiques de cerveza artesanal: de 10:00 a 23:00 horas;
 
 V. Supermercados, minisupers, tiendas departamentales, tiendas de conveniencia, abarrotes, misceláneas, tendajones, licorerías y vinaterías: de 9:00 a 23:00 horas;
 
@@ -836,3 +874,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0144.- SE REFORMAN LOS ARTÍCULOS 10, 12 Y 27; Y ADICIONA A LOS ARTÍCULOS 2°, 10 Y 12, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOS”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado “Plan de San Luis”
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
