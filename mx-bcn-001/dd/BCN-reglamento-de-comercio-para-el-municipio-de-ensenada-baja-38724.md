@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2019-02-01"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -427,11 +427,13 @@ La Comisión Federal de Electricidad no podrá instalar ningún tablero ni aprob
 
 ### CAPITULO IV. DE LAS ZONAS PARA EJERCER EL COMERCIO
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 35.
 
-Considerando que la Zona Turística comprendida por la Av. Adolfo López Mateos (Primera), Bulevar Lázaro Cárdenas (Costero), y el Primer Cuadro de la Ciudad, constituyen el patrimonio histórico de los ensenadenses, queda establecida como zona restringida, con relación a toda actividad comercial que se realice en la vía pública, y por tanto en dicha zona queda prohibido elotorgamiento (sic) de permisos nuevos anuales y accidentales salvo en la época decembrina (permisos accidentales) en que se sujetará (sic) las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección (sic) Servicios Públicos Municipales e Infraestructura y la Dirección de Seguridad Pública Municipal.
+Considerando que la Zona Turística comprendida por la Av. Adolfo López Mateos (Primera), Bulevar Lázaro Cárdenas (Costero), y el Primer Cuadro de la Ciudad, constituyen el patrimonio histórico de los ensenadenses, queda establecida como zona restringida, con relación a toda actividad comercial que se realice en la vía pública, y por tanto en dicha zona queda prohibido el otorgamiento de permisos nuevos anuales y accidentales.
+
+Se podrán otorgar permisos accidentales únicamente en la época decembrina, el 13 y 14 de febrero y el 09 y 10 de mayo (permisos accidentales), en que se sujetará (sic) las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección (sic) Servicios Públicos Municipales e Infraestructura y la Dirección de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 36.
 
@@ -926,3 +928,9 @@ P.O. 1 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 24 BIS DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE SALONES SOCIALES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- adición (sic) del Artículo 28 del Reglamento de Comercio para el Municipio de Ensenada Baja California, Entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 35 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado de Baja California y/o Gaceta Municipal.
