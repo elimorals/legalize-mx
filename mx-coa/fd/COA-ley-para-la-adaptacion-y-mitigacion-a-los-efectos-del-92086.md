@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-adaptacion-y-mitigacion-a-los-efectos-del-92086"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2018-01-05"
+last_updated: "2019-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2013.
 
@@ -337,7 +337,9 @@ VII. Identificar oportunidades, evaluar, y en su caso, someter a consideración 
 
 VIII. Impulsar el desarrollo de proyectos de investigación de interés estatal, en relación con el cambio climático;
 
-IX. Propiciar la sustentabilidad y reducción de costos inherentes a su gestión, y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+IX. Promover el desarrollo de vivienda sustentable en el estado que contemple energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua.
 
 X. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
@@ -580,3 +582,11 @@ P.O. 5 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1151.- SE REFORMAN LOS ARTÍCULOS 15 Y 16, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 17, RECORRIENDO LAS ULTERIORES, DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 244.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 17 DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
