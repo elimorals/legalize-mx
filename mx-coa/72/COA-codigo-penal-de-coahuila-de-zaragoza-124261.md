@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-04-09"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -155,7 +155,11 @@ A. (Prisión preventiva oficiosa)
 
 La prisión preventiva se ordenará oficiosamente en los supuestos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y conforme a lo previsto en este código, cuando se trate de los delitos siguientes:
 
-I. Homicidio doloso, simple o calificado, inclusive el cometido en riña con carácter de provocador, o bajo emoción violenta. Así como los eventos de feminicidio, parricidio, matricidio, filicidio, uxoricidio, fratricidio y otros homicidios por razón del parentesco o relación. Igualmente, cuando se trate de homicidio cometido con acuerdo e indeterminación del autor, de homicidio en codominio, o de homicidio por corresponsabilidad en delito emergente, sean o no calificados.
+(NOTA: EL 9 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 143/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN I, DEL APARTADO A DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+I. HOMICIDIO DOLOSO, SIMPLE O CALIFICADO, INCLUSIVE EL COMETIDO EN RIÑA CON CARÁCTER DE PROVOCADOR, O BAJO EMOCIÓN VIOLENTA. ASÍ COMO LOS DELITOS DE FEMINICIDIO, PARRICIDIO, MATRICIDIO, FILICIDIO, FRATRICIDIO Y OTROS HOMICIDIOS POR RAZÓN DEL PARENTESCO O RELACIÓN. IGUALMENTE, CUANDO SE TRATE DE HOMICIDIO COMETIDO CON ACUERDO E INDETERMINACIÓN DEL AUTOR, DE HOMICIDIO EN CODOMINIO, O DE HOMICIDIO POR CORRESPONSABILIDAD EN DELITO EMERGENTE, SEAN O NO CALIFICADOS.
 
 II. Violación, violación equiparada y violación impropia por instrumento o elemento distinto al natural, cometidas con o sin modalidades agravantes, previstas en las fracciones I y III del artículo 224 y los artículos 225 y 228 de este código; con inclusión de cualquiera de dichas conductas cometidas contra personas menores de quince años previstas en las fracciones I y II del artículo 229 y los artículos 230 y 231 de este código.
 
@@ -3431,13 +3435,21 @@ Se impondrá de una cuarta parte del mínimo a cuarta parte del máximo de las p
 
 ### Capítulo Tercero. Privación de la libertad con fines sexuales
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Artículo 222 (Privación de la libertad con fines sexuales)
 
-Se impondrá de uno a siete años de prisión y multa, a quien prive a una persona de su libertad con el propósito de realizar con ella un acto sexual.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Cuando la persona a quien se le prive de la libertad sea menor de dieciocho años o sea una persona que no tuviere capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo, se le impondrá de dos a ocho años de prisión y multa.
+Se impondrá de dos a ocho años de prisión y multa, a quien prive a una persona de su libertad con el propósito de realizar con ella un acto sexual.
 
-Si dentro de las veinticuatro horas siguientes a la privación, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Cuando la persona a quien se le prive de la libertad sea menor de dieciocho años o sea una persona que no tuviere capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo, se le impondrá de tres a nueve años de prisión y multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si dentro de las veinticuatro horas siguientes a la privación, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de cuatro meses a cuatro años de prisión.
 
 Este delito se perseguirá de oficio solo en cuanto hace a personas menores de dieciocho años y personas que no tuvieren capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no puedan resistirlo.
 
@@ -3463,7 +3475,9 @@ Además de los previstos en el artículo siguiente, los delitos de violación, v
 
 I. (Violación)
 
-Se considera violación y se impondrá de siete a catorce años de prisión y multa, a quien por medio de la violencia física, psicológica o moral tenga cópula con una persona de cualquier sexo sin su voluntad.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se considera violación y se impondrá de ocho a quince años de prisión y multa, a quien por medio de la violencia física, psicológica o moral tenga cópula con una persona de cualquier sexo sin su voluntad.
 
 II. (Violación a cónyuge y a otras personas con vínculos similares)
 
@@ -3477,7 +3491,9 @@ EN LOS SUPUESTOS DE ESTA FRACCIÓN, EL DELITO SE PERSEGUIRÁ POR QUERELLA.
 
 III. (Violación equiparada)
 
-Se equipará a la violación y se impondrá de nueve a dieciséis años de prisión y multa, a quien tenga cópula con una persona sin capacidad para comprender la naturaleza de la relación sexual o de decidir de acuerdo a esa comprensión; o de resistir la conducta delictuosa.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se equipará a la violación y se impondrá de diez a diecisiete años de prisión y multa, a quien tenga cópula con una persona sin capacidad para comprender la naturaleza de la relación sexual o de decidir de acuerdo a esa comprensión; o de resistir la conducta delictuosa.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3487,9 +3503,15 @@ El párrafo anterior también será aplicable a la violación equiparada previst
 
 Artículo 225 (Violación impropia por instrumento o elemento distinto al natural)
 
-Se considera violación impropia y se impondrá prisión de cuatro a nueve años y multa, a quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Se aplicará de seis a once años y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
+Se considera violación impropia y se impondrá prisión de cinco a diez años y multa, a quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
+
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+SE APLICARÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA QUE POR CUALQUIER CAUSA NO TENGA LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O POSIBILIDAD DE RESISTIR LA CONDUCTA DELICTUOSA.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3497,15 +3519,21 @@ Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, la
 
 Artículo 226 (Abuso sexual)
 
-Se aplicará de uno a cinco años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de dos a seis años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
 Si se hiciere uso de la violencia física, psicológica o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
 Artículo 227 (Abuso sexual de persona incapaz)
 
-Se impondrá de dos a seis años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de tres a ocho años de prisión y multa.
+Se impondrá de tres a siete años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de cuatro a nueve años de prisión y multa.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3531,7 +3559,9 @@ III. (Abuso de poder o de confianza)
 
 Se cometa por quien se sirva de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, oficio, profesión o ministerio religioso, de la hospitalidad que brinde o que reciba, o se aproveche de la posición de subordinación de la víctima ante él, o cuando tenga a la víctima bajo su custodia, guarda o educación.
 
-Si el agente es servidor público, se le destituirá e inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los sujetos cualificados señalados en el párrafo precedente, serán suspendidos de uno a tres años en el ejercicio de su profesión, oficio o en la clase de actividad en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si el agente es servidor público, se le destituirá e inhabilitará de once a dieciséis años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los sujetos cualificados señalados en el párrafo precedente, serán suspendidos de dos a cuatro años en el ejercicio de su profesión, oficio o en la clase de actividad en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
 
 IV. (Vehículo particular o de servicio público)
 
@@ -3551,15 +3581,23 @@ Artículo 229 (Violación equiparada, violación impropia y abuso sexual contra 
 
 I. (Violación equiparada en persona menor de quince años)
 
-Se considera violación equiparada y se impondrá de nueve a dieciséis años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-II. (Violación impropia en persona menor de quince años)
+Se considera violación equiparada y se impondrá de diez a diecisiete años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años de edad.
 
-Se considera violación impropia y se impondrá de seis a once años y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona menor de quince años de edad.
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. (VIOLACIÓN IMPROPIA EN PERSONA MENOR DE QUINCE AÑOS)
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+SE CONSIDERA VIOLACIÓN IMPROPIA Y SE IMPONDRÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA MENOR DE QUINCE AÑOS DE EDAD.
 
 III. (Abuso sexual en persona menor de quince años)
 
-Se considera abuso sexual y se impondrá de dos a seis años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se considera abuso sexual y se impondrá de tres a siete años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
 
 Si en los supuestos de las fracciones anteriores se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan
 
@@ -3577,7 +3615,9 @@ II. (Conducta con abuso de autoridad o de confianza)
 
 La conducta se realice por quien se sirva de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, oficio, profesión o ministerio religioso, de la hospitalidad que brinde o que reciba, o se aproveche de la posición de subordinación de la víctima ante él, o cuando tenga a la víctima bajo su custodia, guarda o educación.
 
-Si el agente es servidor público, se le destituirá e inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los demás sujetos cualificados señalados en el párrafo precedente, serán suspendidos de tres a seis años de su derecho al ejercicio de su profesión, oficio o en la clase de actividad, en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si el agente es servidor público, se le destituirá e inhabilitará de once a dieciséis años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los demás sujetos cualificados señalados en el párrafo precedente, serán suspendidos de cuatro a siete años de su derecho al ejercicio de su profesión, oficio o en la clase de actividad, en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
 
 Artículo 231 (Otras modalidades agravantes de los delitos previstos en el artículo 229 de este código)
 
@@ -3605,11 +3645,15 @@ Se cometa dentro de un inmueble público, centro educativo, cultural, deportivo,
 
 Artículo 232 (Procuración sexual a menores de quince años)
 
-Se impondrá de dos a cuatro años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Artículo 233 (Omisión de denuncia respecto a los delitos de violación, equiparado a la violación, violación impropia o abuso sexual, contra personas menores de edad)
+Se impondrá de tres a cinco años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
 
-Se impondrá de tres meses a dos años de prisión y multa, a quien le conste cualquiera de las conductas de violación, equiparada a la violación, violación impropia o abuso sexual contra una persona menor (sic) quince años de edad, previstas en este capítulo, o le conste cualquiera de dichas conductas cuando sean cometidas contra incapaces, y no acuda al ministerio público a denunciarlas, a menos que haya causa de licitud o excusa legal para esa omisión.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Artículo 233 (Omisión de denuncia respecto a los delitos de violación equiparada, violación impropia o abuso sexual, contra personas menores de edad)
+
+Se impondrá de cuatro meses a tres años de prisión y multa, a quien le conste cualquiera de las conductas de violación equiparada, violación impropia o abuso sexual contra una persona menor de quince años de edad, previstas en este capítulo, o le conste cualquiera de dichas conductas cuando sean cometidas contra incapaces, y no acuda a denunciarlas, a menos que haya causa de licitud o excusa legal para esa omisión.
 
 Artículo 234 (Reparación del daño ampliada)
 
@@ -3619,7 +3663,9 @@ Cuando a consecuencia de la comisión de alguno de los delitos previstos en este
 
 Artículo 235 (Estupro)
 
-Se aplicará prisión de seis meses a cuatro años y multa: A quien por medio de la seducción o el engaño tenga cópula con un menor de dieciocho años de edad y mayor de quince.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará prisión de siete meses a cinco años y multa, a quien por medio de la seducción o el engaño tenga cópula con un menor de dieciocho años de edad y mayor de quince.
 
 Si como consecuencia del estupro resulta descendencia, la reparación del daño comprenderá, además de la que señala este código, el pago de alimentos para el hijo o la hija y para la madre, en los términos de la Ley para la Familia de Coahuila de Zaragoza.
 
@@ -3629,21 +3675,29 @@ Artículo 236 (Acoso sexual y hostigamiento sexual)
 
 I. (Acoso sexual)
 
-Se aplicará de uno a cinco años de prisión y multa: A quien solicite favores sexuales para sí o para una tercera persona o realice una conducta de naturaleza sexual indeseable para quien la recibe, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, que le cause un daño o sufrimiento psicológico el cual lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de dos a seis años de prisión y multa, a quien solicite favores sexuales para sí o para una tercera persona o realice una conducta de naturaleza sexual indeseable para quien la recibe, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, que le cause un daño o sufrimiento psicológico el cual lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
 
 Si la acción se realiza a través de medios informáticos, se impondrá además, la prohibición de comunicarse a través de dichos medios o redes sociales, hasta por un tiempo igual a la pena impuesta.
 
 Las sanciones se aumentarán en un tercio más si el sujeto activo puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
-La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de dos a seis años.
 
 II. (Hostigamiento sexual)
 
-Se aplicará de dos a siete años de prisión y multa: A quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de tres a ocho años de prisión y multa, a quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
 
 Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posición de ejercicio de poder puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
-Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de dos a siete años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de tres a ocho años.
 
 Estos delitos se perseguirán por querella.
 
@@ -7536,3 +7590,9 @@ P.O. 9 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 242.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
