@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2019-03-26"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -616,19 +616,15 @@ Los sentenciados, en los casos y condiciones que establezca la ley, podrán comp
 
 Para la reclusión preventiva y la ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASÍ COMO, POR LO QUE CORRESPONDE AL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 ###### Art. 19.
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
-
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -8305,3 +8301,33 @@ Séptimo. Los Ejecutivos de las entidades federativas presentarán ante el Conse
 Para la ejecución del programa, se establecerán las previsiones necesarias en los presupuestos de Egresos de la Federación y de las entidades federativas, sobre la base de la corresponsabilidad a partir del ejercicio fiscal de 2020.
 
 Un año después de haberse emitido el programa referido, el Ejecutivo local enviará anualmente a la Legislatura de la entidad federativa correspondiente y al Consejo Nacional de Seguridad Pública, la evaluación integral del mismo con el informe sobre los avances en los objetivos señalados y su cumplimiento en un horizonte de seis años. Los resultados de la evaluación serán considerados para el ajuste del programa y su calendario de ejecución, por los órganos correspondientes.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para los efectos a que se refiere el párrafo segundo del artículo 19, materia de este Decreto, el Congreso de la Unión, en un lapso de 90 días siguientes a la publicación en el Diario Oficial de la Federación, deberá realizar las adecuaciones normativas necesarias para incluir en el artículo 167 del Código Nacional de Procedimientos Penales, y demás ordenamientos correspondientes las hipótesis delictivas a que se refiere el artículo 19.
+
+Tercero. Entrando en vigor el presente Decreto, los delitos en materia de corrupción tratándose de aquellos correspondientes a enriquecimiento ilícito y ejercicio abusivo de funciones, entrarán en vigor a partir del nombramiento que realice el Titular de la Fiscalía General de la República respecto de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción.
+
+Cuarto. La prisión preventiva oficiosa, deberá evaluarse para determinar la continuidad de su aplicación, a partir de los cinco años cumplidos de la vigencia del presente Decreto.
+
+En el lapso señalado en el párrafo anterior, se deberá evaluar conforme a los criterios del Sistema Nacional de Seguridad Pública, la eficacia de esta medida cautelar, y la eficiencia del sistema penal acusatorio, mediante informes emitidos, por el gobierno federal y los gobiernos de las entidades federativas, tomando en cuenta a los poderes judiciales respectivos, así como a las fiscalías o procuradurías correspondientes, y organismos de protección de los derechos humanos, y que deberá contener, al menos, los siguientes elementos:
+
+1. Desempeño eficaz de las Unidades Estatales de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
+
+2. Eficacia de las medidas cautelares aplicadas;
+
+3. Creación y desempeño de instancias de atención integral de víctimas;
+
+4. Implementación de sistemas de información criminal y de judicialización;
+
+5. Resultado de la aplicación de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
+
+6. Los avances de la implementación de elementos críticos como la capacitación de los operadores de los poderes judiciales y del Ministerio Público, policía de investigación, policía preventiva, peritos, entre otros.
+
+Los parámetros para la medición de la eficacia en la implementación de los elementos críticos serán dispuestos por la ley correspondiente.
+
+Quinto. La aplicación de las normas relativas al artículo 19 en los supuestos delictivos materia del presente Decreto, se harán conforme a lo dispuesto en el artículo 14 de la Constitución.
