@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-12-21"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -858,6 +858,14 @@ El Congreso del Estado podrá crear entidades paramunicipales sólo a iniciativa
 5. Nombrar y remover al secretario del ayuntamiento, al tesorero municipal y demás funcionarios de la administración pública municipal, a propuesta del presidente municipal y sin menoscabo del servicio profesional de carrera en el Municipio.
 
 6. Nombrar al titular del órgano de control interno municipal. Podrán establecerse contralorías sociales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+En cuanto al contralor interno municipal, el ayuntamiento deberá emitir una convocatoria pública en la que deberán participar organismos, las cámaras y órganos empresariales, el sector académico, los colegios de contadores y auditores y la sociedad civil en general, a fin de que propongan a ciudadanas y ciudadanos para que desempeñen dicho cargo. Las propuestas, una vez recibidas, deberán ser turnadas por el Presidente Municipal al pleno del ayuntamiento para que se delibere y elija al perfil idóneo para el cargo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+En el proceso descrito en el párrafo que antecede el ayuntamiento deberá tomar en consideración, aquellos lineamientos o recomendaciones que emita el Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, o el del Sistema Nacional Anticorrupción.
 
 7. Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia.
 
@@ -4640,3 +4648,11 @@ P.O. 21 DE DICIEMBRE DE 2018.
 PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 241.- SE ADICIONA UN PÁRRAFO SEGUNDO Y TERCERO AL NUMERAL 6, DE LA FRACCIÓN II, DEL ARTÍCULO 102, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los titulares de los órganos internos de control de los municipios, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados.
