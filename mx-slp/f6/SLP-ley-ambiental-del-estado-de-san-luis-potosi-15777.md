@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-03-25"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2269,11 +2269,13 @@ La conformación de la Subcomisión de Evaluación de Proyectos Estratégicos, a
 
 Las autoridades ambientales a quienes corresponda por razón de competencia iniciar y dar seguimiento al procedimiento administrativo de evaluación y en su caso, autorización de impacto ambiental respecto de dichos proyectos, fijarán oportunamente los mecanismos que permitan compaginar las acciones de esta Subcomisión con los términos y plazos previstos en las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 132.
 
-En cada municipio del Estado se integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
+El ayuntamiento, a más tardar en el primer semestre del inicio de su gestión, integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable se integrarán por:
 
@@ -2289,15 +2291,27 @@ V. Dos representantes de la sociedad civil, y
 
 VI. Un representante de los pueblos o comunidades indígenas, que se ubiquen en el municipio.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 Los integrantes del Consejo Consultivo Municipal tendrán derecho a voz y voto. Los cargos de los integrantes del Consejo son de carácter honorífico, por lo que no percibirán retribución alguna. Por cada integrante habrá un suplente, quien actuará en ausencia del propietario.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 Para ser integrante del Consejo y representar a la sociedad civil se requiere por lo menos, ser ciudadano mexicano; estar en pleno uso de sus derechos; mayor de edad; ser designado por la institución, organización o sector que represente; y contar con méritos científicos, técnicos, académicos o sociales en materia de protección ambiental y aprovechamiento sustentable de los recursos naturales.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 Los integrantes serán designados por cada ayuntamiento por un periodo de tres años, y podrán ser ratificados por única vez por un periodo igual; además, el Consejo Consultivo por acuerdo de sus integrantes, podrá invitar a sus sesiones a las instituciones públicas y privadas, a representantes de la sociedad, de organizaciones académicas, de investigación y de profesionales especialistas en la materia, así como a ciudadanos que puedan aportar conocimientos, experiencias o propuestas para el cumplimiento de los objetivos de este órgano; quienes sólo contarán con derecho a voz.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 El Consejo designará de entre sus miembros a un Secretario Técnico, quien será responsable de convocar a las sesiones, previo acuerdo con el Presidente, así como de dar seguimiento a los acuerdos emitidos y los demás asuntos que le encomiende el Consejo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 El Consejo Consultivo sesionará de manera ordinaria por lo menos cada tres meses; y de manera extraordinaria las veces que sean necesarias para el cumplimiento de sus fines. Sus decisiones se tomarán por mayoría de votos, privilegiando en todo momento el diálogo; en caso de empate, quien presida tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 El Reglamento del Consejo Consultivo será emitido por cada ayuntamiento.
 
@@ -3353,8 +3367,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0142.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0142.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0147. SE REFORMA EL ARTÍCULO 132 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE ADICIONA AL ARTÍCULO 31 EN SU INCISO A), LA FRACCIÓN I BIS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor de este Decreto, el reglamento del Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, será expedido dentro de los tres primeros meses por los ayuntamientos.
+
+CUARTO. Las actuales administraciones municipales periodo 2018 - 2021, contarán con tres meses a partir de la entrada en vigor del presente Decreto, para integrar su Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable.
+
+QUINTO. Los consejos consultivos municipales de Medio Ambiente y Desarrollo Sustentable, que los ayuntamientos hayan integrado antes de la entrada en vigencia de este Decreto, quedan conformados en los términos y formas que se constituyeron, y su organización y funcionamiento se regirá por el Reglamento a que alude la fracción I Bis del inciso a) del artículo 31, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
