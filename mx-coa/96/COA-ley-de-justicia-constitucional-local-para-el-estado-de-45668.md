@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-constitucional-local-para-el-estado-de-45668"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2017-12-26"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -68,6 +68,10 @@ IV. Las controversias constitucionales locales.
 El control difuso de la constitucionalidad local. Todo juez podrá declarar de oficio o a petición de parte, la inaplicabilidad de una norma o acto que estime contrario a la Constitución Local.
 
 Este control difuso de la constitucionalidad local se ejercerá por el juez dentro de su jurisdicción ordinaria conforme a los procedimientos que le competa resolver de acuerdo con las disposiciones aplicables. Las partes del juicio podrán oponer como excepción, la inconstitucionalidad de la norma o acto, para que el juez declare su inaplicabilidad en el caso concreto.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+En todas las sentencias dictadas por los jueces y magistrados del Poder Judicial del estado deberá observarse el cumplimiento a los derechos fundamentales consagrados en los tratados internacionales suscritos por el Estado Mexicano.
 
 ###### Artículo 5.
 
@@ -526,6 +530,10 @@ De oficio o de parte. Todo juez podrá declarar de oficio o a petición de parte
 Las partes de un juicio podrán oponer como excepción la inconstitucionalidad de la norma o acto, para que el juez declare su inaplicabilidad en el caso concreto.
 
 En el ejercicio de este control difuso, los jueces también podrán analizar la inconstitucionalidad por omisión cuando la falta de norma requiera ser colmada o resuelta para garantizar la tutela judicial efectiva.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Además, deberán atender lo dispuesto por el tercer párrafo del artículo 4 de esta ley.
 
 ###### Artículo 66.
 
@@ -1064,3 +1072,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 239.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4, Y UN CUARTO PÁRRAFO AL ARTÍCULO 65, AMBOS DE LA LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
