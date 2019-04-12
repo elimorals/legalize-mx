@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2019-02-01"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -7899,9 +7899,11 @@ Dichos legados subsistirán aunque el testador haya demandado judicialmente al d
 
 El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 1342.
 
-El legado de cosa mueble indeterminada, pero comprendida en género determinado, será válido, aunque en la herencia no haya cosa alguna del género a que la cosa legada pertenezca.
+El legado de cosa mueble indeterminada, pero comprendida en género determinado, será válido, aunque en la herencia no haya cosa alguna del género a que la cosa legada pertenezca, teniendo los legatarios de la cosa legada antes mencionada el derecho de elegir albacea para que administre su legado.
 
 ###### ARTICULO 1343.
 
@@ -9007,11 +9009,13 @@ IV.- Los que no tengan un modo honesto de vivir.
 
 El testador puede nombrar uno o más albaceas.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 1569.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos que sean personas menores de dieciocho años de edad votarán sus legítimos representantes.
+Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos o legatarios de cosa mueble indeterminada elegirán por mayoría de votos. Por los herederos que sean personas menores de dieciocho años de edad votarán sus legítimos representantes.
+
+Los legatarios menores de edad, participarán a través de sus legítimos representantes.
 
 ###### ARTICULO 1570.
 
@@ -9335,13 +9339,17 @@ IV.- Por excusa que el Juez califique de legítima, con audiencia de los interes
 
 V.- Por terminar el plazo señalado por la Ley y las prórrogas concedidas para desempeñar el cargo;
 
-VI.- Por revocación de sus nombramientos, hecha por los herederos;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+VI.- Por revocación de sus nombramientos, hecha por los herederos, quienes tomarán en cuenta la opinión de los legatarios, cuando en la herencia exista un legado de cosa mueble indeterminada.
 
 VII.- Por remoción.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 1633.
 
-La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse el substituto.
+La revocación puede hacerse por los herederos o legatarios de cosa mueble indeterminada en cualquier tiempo, pero en el mismo acto debe nombrarse el substituto.
 
 ###### ARTICULO 1634.
 
@@ -9581,7 +9589,7 @@ II.- Por vicios del consentimiento;
 
 III.- Por que su objeto o su motivo o fin sea ilícito;
 
-IV.- Porque el consentimiento no se haya manifestado en la forma que la Ley establece.
+IV.- Por que el consentimiento no se haya manifestado en la forma que la Ley establece.
 
 ###### ARTICULO 1683.
 
@@ -16676,5 +16684,11 @@ P.O. 1 DE FEBRERO DE 2019.
 P.O. 1 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 299 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL TÍTULO DÉCIMO DEL LIBRO CUARTO, ASÍ COMO LA REFORMA A LOS ARTÍCULOS 2480, 2483, 2484, 2485, 2486, 2487 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 336 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1342, 1569, 1632 Y 1633 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
