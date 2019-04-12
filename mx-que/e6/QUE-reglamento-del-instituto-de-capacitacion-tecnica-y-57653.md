@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-instituto-de-capacitacion-tecnica-y-57653"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-23"
-last_updated: "2009-09-25"
+last_updated: "2019-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL INSTITUTO DE CAPACITACION TECNICA Y PROFESIONAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-REGLAMENTO DEL INSTITUTO DE CAPACITACION TECNICA Y PROFESIONAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ACADÉMICO DEL INSTITUTO DEL SERVICIO PROFESIONAL DE CARRERA, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. 25 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO MANTENDRA SU VIGENCIA EN LO QUE NO SE OPONGA AL NUEVO REGLAMENTO.</small>
+REGLAMENTO DEL INSTITUTO DE CAPACITACIÓN TÉCNICA Y PROFESIONAL DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBREDE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 23 de noviembre de 2007.
 
@@ -709,7 +709,7 @@ Procurador General de Justicia
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
@@ -720,3 +720,17 @@ Artículo primero. El presente Reglamento entrará en vigor al siguiente día de
 Artículo segundo. El Reglamento del Instituto de Capacitación Técnica y Profesional y el Reglamento de la Policía de Investigación del Delito, mantendrán su vigencia en lo que no se oponga al presente Reglamento.
 
 Artículo tercero...
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO ACADÉMICO DEL INSTITUTO DEL SERVICIO PROFESIONAL DE CARRERA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga el Reglamento del Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia del Estado de Querétaro, publicado el 23 de noviembre de 2007, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+TERCERO. Se abrogan los Lineamientos Generales de Evaluación y Titulación, el Manual de Disciplina y el Manual de Operación de la Biblioteca, todos ellos de la Procuraduría General de Justicia del Estado de Querétaro, publicados el 21 de diciembre de 2007, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+CUARTO. Se derogan todas las disposiciones jurídicas y administrativas de igual o menor jerarquía, en lo que se opongan al presente Reglamento.
+
+QUINTO. Todos los procedimientos que se encuentren en trámite, se regirán por los preceptos normativos vigentes en la fecha correspondiente.
