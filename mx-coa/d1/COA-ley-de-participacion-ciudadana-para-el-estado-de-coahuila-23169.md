@@ -4,7 +4,7 @@ identifier: "COA-ley-de-participacion-ciudadana-para-el-estado-de-coahuila-23169
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2008-06-27"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -333,9 +333,9 @@ El plebiscito municipal se circunscribirá a las decisiones de los Ayuntamientos
 
 LOS SUJETOS FACULTADOS PARA SOLICITAR EL PLEBISCITO ESTATAL. Podrán solicitar el plebiscito estatal:
 
-I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de su credencial de elector.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
 
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral.
+I. El dos por ciento de los ciudadanos inscritos en la lista nominal de electores del estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de su credencial de elector.
 
 II. El titular del Poder Ejecutivo del Estado.
 
@@ -419,9 +419,9 @@ II. Determinar la observancia o inobservancia de la norma o normas de la ley o d
 
 LOS SUJETOS FACULTADOS PARA SOLICITAR EL REFERENDO. Podrán solicitar el referendo:
 
-I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de su credencial de elector.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
 
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral.
+I. El dos por ciento de los ciudadanos inscritos en la lista nominal de electores del estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de su credencial de elector.
 
 II. El cincuenta por ciento de los miembros del Congreso del Estado.
 
@@ -1726,3 +1726,11 @@ P.O. 27 DE JUNIO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 243.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN I DEL ARTÍCULO 25; Y LA FRACCIÓN I DEL ARTÍCULO 33, DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA (SIC) ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las solicitudes de plebiscito o referendo que se hayan iniciado previo a la vigencia de este decreto, se resolverán conforme a los porcentajes de la lista nominal de electores aplicables a cada caso establecidos en esta ley antes de la entrada en vigor de estas reformas.
