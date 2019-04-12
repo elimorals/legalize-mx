@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2018-11-30"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -2284,9 +2284,9 @@ VIII.- Participar, junto con las demás dependencias competentes, en la actualiz
 
 IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios y procedimientos en que el titular del Ejecutivo Federal intervenga con cualquier carácter. En el caso de los juicios y procedimientos, la Consejería Jurídica del Ejecutivo Federal podrá determinar la dependencia en la que recaerá la representación para la defensa de la Federación. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
 > <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -3381,3 +3381,9 @@ Vigésimo.- La Secretaría de Hacienda y Crédito Público propondrá al titular
 Vigésimo Primero.- El Ejecutivo Federal deberá instituir las Unidades de Género de la Administración Pública Federal en un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto.
 
 Vigésimo Segundo.- Las modificaciones referidas en esta Ley a la Procuraduría General de la República surtirán efectos en el momento en que se apruebe la Ley Orgánica de la Fiscalía General de la República.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
