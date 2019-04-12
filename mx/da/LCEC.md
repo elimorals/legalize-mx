@@ -4,7 +4,7 @@ identifier: "LCEC"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-20"
-last_updated: "2009-06-09"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42390&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LCEC"
 ---
 # LEY DE CAMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-LEY DE CAMARAS EMPRESARIALES Y SUS CONFEDERACIONES
+LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -170,9 +170,17 @@ XI. Participar con el gobierno en el diseño y divulgación de las estrategias d
 
 XII. Promover, orientar e impartir capacitación sobre la realización de toda clase de trámites administrativos obligatorios ante toda clase de autoridades administrativas con las que se pueda tener ingerencia por virtud de la actividad empresarial y comercial que desempeñan sus afiliados, con la finalidad de generar una cultura social de responsabilidad y observancia de la legislación que regulan sus actividades como sector productivo;
 
-XIII. Defender los intereses particulares de las empresas afiliadas a solicitud expresa de éstas, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-XIV. Llevar a cabo las demás actividades que se deriven de su naturaleza, de sus Estatutos y las que les señalen otros ordenamientos legales.
+XIII. Defender los intereses particulares de las empresas afiliadas a solicitud expresa de éstas;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+XIV. Promover entre sus afiliados principios éticos que prevengan acciones de corrupción con las dependencias de los tres niveles de gobierno y demás dependencias del sector público, y
+
+(REUBICADA, D.O.F. 12 DE ABRIL DE 2019)
+
+XV. Llevar a cabo las demás actividades que se deriven de su naturaleza, de sus Estatutos y las que les señalen otros ordenamientos legales.
 
 ###### Artículo 8.
 
@@ -822,8 +830,14 @@ México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ram
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 9 DE JUNIO DE 2009.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 7 DE LA LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
