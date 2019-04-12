@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2018-12-19"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -276,6 +276,12 @@ IX. En tratándose de los contratos previstos por el segundo párrafo del artíc
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 X. Cuando en un procedimiento de licitación pública se ponga en riesgo la seguridad del Estado o municipios, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 22 Bis.
+
+Tratándose de la contratación de servicios de comunicación social, se atenderá a lo establecido en la Ley General de Comunicación Social, siendo competencia de la Secretaría Administradora o de la unidad administrativa de cada Ente Público responsable de regular el gasto en materia de comunicación social a que hace referencia dicho ordenamiento legal, realizar y firmar las contrataciones, bajo la modalidad de adjudicación directa, considerando criterios de eficacia, eficiencia, honradez y transparencia, en términos de las disposiciones legales y normativas aplicables.
 
 ###### Artículo 23.
 
@@ -1498,3 +1504,13 @@ c) El testimonio en el que conste la adquisición de negociaciones en operación
 d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes, y
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN ARTÍCULO 22 BIS, A LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los Medios de Comunicación que pretendan participar en la contratación de servicios de Comunicación Social, deberán estar inscritos previamente en el Padrón Nacional de Medios de Comunicación a cargo de la Secretaría de Gobernación del Ejecutivo Federal; si a la entrada en vigor de la presente Ley no se encuentra disponible el Padrón Nacional, se deberá contar al menos con el registro respectivo en el Padrón de Proveedores del Ente Público correspondiente.
