@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2018-06-20"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -1296,7 +1296,9 @@ En concordancia con las atribuciones conferidas en la Ley Orgánica de la Admini
 
 La política de financiamiento para el desarrollo rural sustentable se orientará a establecer un sistema financiero múltiple en sus modalidades, instrumentos, instituciones y agentes, que permita a los productores de todos los estratos y a sus organizaciones económicas y empresas sociales disponer de recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas.
 
-Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las zonas del país con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, así como la integración y fortalecimiento de la banca social. Serán reconocidas como parte de la banca social, todas aquellas instituciones financieras no públicas que, sin fines de lucro, busquen satisfacer las necesidades de servicios financieros de los agentes de la sociedad rural, en los términos de la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las zonas del país con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático, así como la integración y fortalecimiento de la banca social. Serán reconocidas como parte de la banca social, todas aquellas instituciones financieras no públicas, que sin fines de lucro, busquen satisfacer las necesidades de servicios financieros de los agentes de la sociedad rural, en los términos de la legislación aplicable.
 
 La Comisión Intersecretarial, con la participación del Consejo Mexicano, promoverá la integración del Sistema Nacional de Financiamiento Rural con la banca de desarrollo y la banca privada y social, las cuales desarrollarán sus actividades de manera concertada y coordinada.
 
@@ -1936,7 +1938,7 @@ El otorgamiento de apoyo a los productores observará los siguientes criterios:
 
 I. La certidumbre de su temporalidad sujeta a las reglas de operación que se determinen para los diferentes programas e instrumentos por parte de las dependencias del Gobierno Federal;
 
-II. Su contribución a compensar los desequilibrios regionales e internacionales, derivados de la relaciones asimétricas en las estructuras productivas o de los mercados cuando la producción nacional sea afectada por la competencia desigual derivada de los acuerdos comerciales con el exterior o por políticas internas;
+II. Su contribución a compensar los desequilibrios regionales e internacionales, derivados de la (sic) relaciones asimétricas en las estructuras productivas o de los mercados cuando la producción nacional sea afectada por la competencia desigual derivada de los acuerdos comerciales con el exterior o por políticas internas;
 
 III. Precisión en cuanto a su naturaleza generalizada o diferenciada por tipo de productor, ubicación geográfica y nivel socioeconómico del beneficiario;
 
@@ -2057,3 +2059,9 @@ D.O.F. 20 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL INCISO H) DEL PÁRRAFO PRIMERO DEL ARTÍCULO 21 Y LA FRACCIÓN I DEL ARTÍCULO 48 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 116 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
