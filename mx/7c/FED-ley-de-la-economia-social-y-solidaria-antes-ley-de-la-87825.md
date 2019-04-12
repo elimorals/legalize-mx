@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-economia-social-y-solidaria-antes-ley-de-la-87825"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-23"
-last_updated: "2015-12-30"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-22"
 
 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -151,7 +151,9 @@ Los Organismos del Sector podrán acogerse y disfrutar de los apoyos y estímulo
 
 Son fines del Sector Social de la Economía:
 
-I. Promover el desarrollo integral del ser humano;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+I. Promover los valores de los Derechos Humanos, de la inclusión social y en general, el desarrollo integral del ser humano;
 
 II. Contribuir al desarrollo socioeconómico del país, participando en la producción, distribución y consumo de bienes y servicios socialmente necesarios;
 
@@ -219,13 +221,17 @@ X. Subsidiariedad;
 
 XI. Transparencia;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-XII. Confianza, y
+XII. Confianza;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-XIII. Autogestión.
+XIII. Autogestión, e
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+XIV. Inclusión Social.
 
 ###### Artículo 11.
 
@@ -854,3 +860,9 @@ b) Los beneficiarios de los programas que actualmente opera la Secretaría corre
 c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
 
 Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
