@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-estatal-de-conciliacion-y-5952
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-28"
-last_updated: "2008-01-28"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE
+REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 12 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 28 de enero de 2008.
 
 EL PLENO DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE, CON FUNDAMENTO EN EL ARTÍCULO 189 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto, ha tenido a bien expedir el siguiente:
 
@@ -53,7 +55,9 @@ III. Ley Federal del Trabajo aplicada supletoriamente únicamente en materia pro
 
 IV. Ley del Trabajo de los Servidores Públicos del Estado y Municipios;
 
-V. Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+V. Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 VI. Ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
@@ -81,9 +85,35 @@ VII. Presidente de Sala: al Presidente de Sala Auxiliar del Tribunal Estatal de 
 
 VIII. Representantes: a los Integrantes del Pleno del Tribunal o las Salas;
 
-IX. Ley de Responsabilidades: a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; y
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+IX. Ley de Responsabilidades: a la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 X. Boletín: al Boletín Laboral Burocrático.
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XI. Autoridad Investigadora: a la autoridad en el Órgano Interno de Control encargada de la investigación de faltas administrativas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XII. Autoridad Substanciadora: a la autoridad en el Órgano Interno de Control encargada de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XIII. Autoridad Resolutora: a la autoridad en el Órgano Interno de Control responsable de emitir la resolución que ponga fin al procedimiento de responsabilidades administrativas, tratándose de faltas no graves;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XIV. Faltas Administrativas Graves: a las catalogadas como graves en términos de la Ley de Responsabilidades, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de México;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XV. Faltas Administrativas no Graves: a las faltas administrativas de los servidores públicos catalogadas como no graves en términos de la Ley de Responsabilidades Administrativas del Estado de México, cuya sanción corresponde al Órgano Interno de Control; y
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XVI. Órgano Interno de Control: aquella con funciones de control y evaluación y con plena competencia para aplicar la Ley de Responsabilidades.
 
 ###### Artículo 4.
 
@@ -96,6 +126,12 @@ El calendario oficial de días laborables del Tribunal y de las Salas, será el 
 ###### Artículo 6.
 
 El Tribunal y las Salas en los casos no previstos en este Reglamento Interior, y en las disposiciones de la Ley, se regularán por la jurisprudencia, analogía jurídica, atendiendo a la costumbre, a los principios generales del derecho y de la justicia social y la equidad.
+
+> <small>(ADICIONADO, G.G. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 6 Bis.
+
+El Tribunal, tiene en el ámbito de su competencia la obligación de promover, así como de proteger la igualdad de oportunidades y trato entre Hombres y Mujeres en el acceso e impartición de justicia laboral. Asimismo, entre los servidores públicos, adscritos al mismo; a efecto de coadyuvar con la Federación y con el Gobierno del Estado de México para prevenir y erradicar la violencia de género para que todas las personas gocen de los derechos humanos reconocidos en la Carta Magna y en los Tratados Internacionales de los que el Estado Mexicano sea parte; tal y como se señala en los artículos 1, 4 y 133 de la Constitución Política de los Estados Unidos Mexicanos; el artículo 5 de la Constitución Política del Estado Libre y Soberano de México; el artículo 1 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; artículo 1 de la Ley General para la igualdad entre mujeres y hombres; el artículo 1 de la Ley de acceso de las mujeres a una vida libre de violencia del Estado de México; y el artículo 1 de la Ley de igualdad de trato y oportunidades entre mujeres y hombres del Estado de México, así como relativos y aplicables.
 
 ###### Artículo 7.
 
@@ -121,7 +157,17 @@ VIII. Unidad de Amparos;
 
 IX. Unidad de Apoyo Administrativo; y
 
-X. Contraloría Interna.
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+X. Órgano Interno de Control, dividido en:
+
+a) Un Área de Control y Evaluación;
+
+b) Un Área de Investigación;
+
+c) Un Área de Substanciación; y
+
+d) Un Área de Resolución.
 
 B). PARA LAS SALAS
 
@@ -145,6 +191,20 @@ VI. Conciliadores.
 
 El Pleno del Tribunal es el órgano supremo y sus disposiciones son obligatorias, celebrará Sesiones Ordinarias dos veces al mes, para conocer y resolver los asuntos de su competencia, podrá celebrar Sesiones Extraordinarias en las que se tratarán la elección del Presidente del Tribunal, y los asuntos que propongan éste o alguno de los Representantes y cuando sea necesario.
 
+> <small>(ADICIONADO, G.G. 12 DE ABRIL DE 2019)</small>
+
+Los integrantes del Pleno del Tribunal y de las Salas, deberán contar con los siguientes requisitos:
+
+a) Gozar de buena reputación;
+
+b) Abstenerse de intervenir personalmente en los litigios y/o expedientes laborales en los que su representado sea parte;
+
+c) Mantener en absoluta confidencialidad y secrecía los datos, cifras, estado procesal; y en general, cualquier tipo de información referente a los expedientes laborales radicados en el Tribunal y las Salas, así como de los criterios, discusiones, disposiciones, resoluciones, análisis y/o cualquier otro que se acuerde o discuta en las sesiones de Pleno correspondientes;
+
+d) Tener conocimientos en la materia laboral; y
+
+e) No ostentar un cargo de elección popular;
+
 ###### Artículo 9.
 
 El Pleno tendrá las facultades y obligaciones siguientes:
@@ -165,7 +225,43 @@ VII. Elaborar, presentar, discutir y aprobar, el Reglamento Interior del Tribuna
 
 VIII. Cuidar y supervisar la administración del Fondo Auxiliar para la Justicia Laboral Burocrática; y
 
-IX. Las demás que le confieran las leyes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 12 DE ABRIL DE 2019)</small>
+
+IX. Conocer, evaluar y resolver los casos de recusación o renuncia de los miembros del Pleno del Tribunal o las Salas, donde se discutirá, evaluará y de ser el caso, se aprobarán o negarán las propuestas de los representantes y suplentes sugeridos por el representado.
+
+En caso de que el Pleno del Tribunal no apruebe a los miembros propuestos por parte del representado, se lo hará saber por escrito al Titular del representado correspondiente, a efecto de que éste último someta nuevamente a consideración del Pleno del Tribunal las propuestas respectivas.
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+X. Los miembros del Pleno del Tribunal y las Salas podrán ser recusados exclusivamente por el Pleno del Tribunal en los siguientes casos:
+
+a) Cuando se encuentren en los supuestos contemplados por el artículo 190 de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios sin que se haya excusado por escrito previo apercibimiento para ello;
+
+b) Cuando sin autorización por escrito del Pleno del Tribunal revelen a cualquier tercero, datos, cifras, estado procesal y en general cualquier tipo de información referente a los expedientes laborales radicados en el Tribunal y las Salas, así como de los criterios, discusiones, disposiciones, resoluciones, análisis y/o cualquier otro que se acuerde o discuta en las sesiones de Pleno correspondientes;
+
+c) Cuando en el desempeño de sus funciones, no atiendan de manera puntual y responsable las sesiones y obligaciones del Pleno;
+
+d) Los demás casos en los que el Pleno del Tribunal considere convenientes en beneficio de la Institución Pública.
+
+Por su parte, el Tribunal reconoce la autonomía de los Sindicatos sus representantes y suplentes que forman parte del Pleno, por lo que a los mismos no le serán aplicables el procedimiento de recusación señalado anteriormente, sin embargo, deberán cumplir los requisitos señalados por el Artículo 8 del presente reglamento.
+
+El Presidente del Tribunal y los Presidentes de las Salas no podrá (sic) ser recusados;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XI. Autorizar el calendario oficial de labores del Tribunal, procurando coincidir con el anuario del Poder Ejecutivo Estatal y del Poder Judicial de la Federación, y declarar días inhábiles conforme a las necesidades del servicio;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XII. Discutir y aprobar en su caso, los criterios que sean sometidos a su consideración respecto a las cuestiones procedimentales que, una vez aprobados, serán de observancia obligatoria;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XIII. Discutir y aprobar los lineamientos establecidos para la notificación vía correo electrónico y demás necesarios que sean necesarios procesalmente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 12 DE ABRIL DE 2019)</small>
+
+XIV. Las demás que le confieran las Leyes.
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE DEL TRIBUNAL
 
@@ -181,7 +277,9 @@ III. Ejecutar los laudos emitidos por el Pleno y los convenios celebrados ante e
 
 IV. Revisar los actos de los Actuarios en las ejecuciones de los laudos y los convenios en los que les corresponda actuar, de oficio o a solicitud de cualquiera de las partes;
 
-V. Nombrar a los Secretarios Generales;
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+V. Nombrar y remover a los Secretarios Generales, secretario particular y secretarios auxiliares, así como demás personal de confianza adscrito al Tribunal y a las Salas;
 
 VI. Designar a los servidores públicos que correspondan, por ausencia temporal de los titulares;
 
@@ -217,9 +315,99 @@ XXI. Rendir los informes en los Amparos que se interpongan en contra de los laud
 
 XXII. Atender el manejo y administración del Fondo Auxiliar para la Justicia Laboral Burocrática, con el servidor público que él designe;
 
-XXIII. Las demás que le confiera la Ley.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 12 DE ABRIL DE 2019)</small>
+
+XXIII. Someter en Sesión Extraordinaria ante el Pleno del Tribunal a los nuevos integrantes de los representados, en caso de revocación, recusación o renuncia de sus anteriores;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXIV. Autorizar la instalación y el uso de tecnologías adecuadas al interior del Tribunal y de las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXV. Organizar, dirigir y evaluar el desempeño del personal adscrito al Tribunal y las Salas mediante los procedimientos que así designe;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXVI. Asignar los horarios de labores de los mandos medios y superiores del Tribunal y las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXVII. Designar y remover al personal jurídico y administrativo necesario para el correcto funcionamiento del Tribunal y las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXVIII. Votar en la aprobación, negación o recusación de los miembros del Pleno del Tribunal y las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXIX. Gestionar, adquirir y arrendar bienes y servicios en representación del Tribunal y las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXX. Promover, organizar, dirigir y evaluar las actividades y programas que permitan mejorar las labores del Tribunal y las Salas;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXXI. Realizar las gestiones necesarias para modificar la estructura interna del Tribunal y las Salas; y
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXXII. Las demás que le confieran las Leyes.
 
 Los actos de ejecución de laudos y convenios que emita el Presidente del Tribunal o de las Salas no son revisables.
+
+> <small>(ADICIONADO, G.G. 12 DE ABRIL DE 2019)</small>
+
+Artículo 10 A.- La Presidencia del Tribunal, para su óptimo funcionamiento, contará con un Secretario Particular que será designado libremente por el Presidente, y que tendrá el personal necesario para el mejor desempeño y desarrollo de las actividades inherentes a la Presidencia. Las funciones de la oficina de la Secretaría Particular son:
+
+I. Coordinar la oficina del Presidente;
+
+II. Acordar y coordinar la agenda del Presidente;
+
+III. Asistir al Presidente en la atención y control de las audiencias, reuniones con las áreas del Tribunal, así como con otras instituciones públicas federales, estatales y municipales;
+
+IV. Previo acuerdo con el Presidente, asistir, turnar y tramitar los asuntos y problemáticas planteados a la Presidencia al área correspondiente, e informar al Presidente los asuntos prioritarios para su atención en casos de ausencia;
+
+V. Recibir y despachar la correspondencia a las áreas competentes, de los asuntos recibidos en la oficina del Presidente, para su debida atención y gestión;
+
+VI. Dar seguimiento a los acuerdos tomados en las reuniones de trabajo del Presidente;
+
+VII. Supervisar y coordinar las actividades del personal adscrito a la oficina del Presidente;
+
+VIII. Custodiar y manejar el archivo de la correspondencia dirigido (sic) al Presidente, particularmente aquellas que requieran cumplimiento de plazos y términos;
+
+IX. Coordinar y supervisar a la Unidad de Tecnologías de la Información, previo acuerdo con el Presidente; y
+
+X. Gestionar el Sistema de Atención Ciudadana manejado por la Coordinación de Atención Ciudadana del Gobernador del Estado.
+
+> <small>(ADICIONADO, G.G. 12 DE ABRIL DE 2019)</small>
+
+Artículo 10 B.- El Tribunal contará con una Unidad de Tecnologías de la Información, que dependerá directamente del Presidente del Tribunal, con las siguientes facultades y obligaciones:
+
+I. Formular y aplicar las políticas en materia de tecnologías de información y comunicaciones que rijan su uso y aprovechamiento de los recursos del Tribunal y las Salas;
+
+II. Proponer y aplicar políticas y procedimientos para asegurar la integridad y seguridad de los datos, información que se procese a través de las tecnologías de la información;
+
+III. Impulsar y realizar, en su caso, la automatización de los procesos de trabajo del Tribunal, mediante la aplicación adecuada de las tecnologías de información y comunicaciones, previa autorización del Presidente;
+
+IV. Administrar el Portal del Gobierno del Estado de México, así como promover la difusión de información gubernamental;
+
+V. Emitir los dictámenes para la adquisición de bienes y servicios en materia de tecnologías de la información y comunicaciones del Tribunal;
+
+VI. Proponer y actualizar los lineamientos para el desarrollo y actualización de sitios "web" del Tribunal;
+
+VII. Proporcionar asistencia técnica en materia de tecnologías de la información al personal del Tribunal;
+
+VIII. Integrar de forma trimestral, en coordinación con la unidad de apoyo administrativo los indicadores de desempeño correspondientes;
+
+IX. Integrar los programas de trabajo de tecnologías de la información y comunicaciones;
+
+X. Formular la estadística de los juicios laborales del Tribunal y las Salas, previa autorización del Presidente;
+
+XI. Coordinar con los Actuarios del Tribunal y las Salas las notificaciones electrónicas en los términos de la Ley; y
+
+XII. Las demás que le señalen otras disposiciones legales.
 
 #### SECCIÓN TERCERA. DE LOS SECRETARIOS GENERALES
 
@@ -277,6 +465,10 @@ IV. No ser ministro de algún culto religioso; y
 
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+VI. No tener interés personal de forma directa o indirecta con los asuntos que se tramiten en el Tribunal y de las Salas y de existir el caso, excusarse en tiempo y forma conforme a los lineamientos de la Ley.
+
 #### SECCIÓN CUARTA. DE LA SECRETARÍA GENERAL OPERATIVA
 
 ###### Artículo 14.
@@ -329,7 +521,9 @@ XXII. Vigilar que el personal del Archivo del Tribunal actúe con toda probidad 
 
 XXIII. Vigilar que se resguarden durante cinco años, los expedientes de asuntos concluidos y una vez transcurrido el término, se solicitará a la instancia correspondiente, la autorización para realizar la depuración y destrucción de los mismos;
 
-XXIV. Vigilar que los servidores públicos adscritos al Archivo y Oficialía de Partes del Tribunal, otorguen documentos, expedientes, copias simples o certificadas no autorizadas y así como dar información a personas no autorizadas de los asuntos que se tramiten en el Tribunal;
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXIV. Vigilar que los servidores públicos adscritos al Archivo y Oficialía de Partes del Tribunal, única y exclusivamente otorguen documentos, expedientes, copias simples o certificadas autorizadas y proporcionen información a personas acreditadas y debidamente identificadas, de los asuntos que se tramiten en el Tribunal;
 
 XXV. Vigilar que se conserven actualizados los registros estadísticos de los procedimientos, en apoyo al Presidente del Tribunal y estar coordinada con la Unidad de Informática para tal fin;
 
@@ -348,6 +542,20 @@ XXXI. Vigilar que toda la documentación de entrada, tanto en los originales com
 XXXII. Verificar que el Archivo y la Oficialía de Partes del Tribunal, le entreguen al Secretario General Jurídico y Consultivo, los Convenios de Condiciones Generales de Trabajo que sean depositados por las partes, así como cualquier documento relacionado con asuntos colectivos; y
 
 XXXIII. Las demás que le confiera el Presidente del Tribunal y la Ley.
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXXIV. Coordinar y promover en el personal bajo su cargo, la utilización y actualización permanente de la información de los juicios laborales en los módulos que integran la plataforma informática del Tribunal y las Salas, así como proponer al Presidente del Tribunal las mejoras necesarias en la misma;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXXV. Cuidar el orden y disciplina del personal jurídico del Tribunal y las Salas y dar cuenta al Presidente del Tribunal las irregularidades que advierta; y
+
+> <small>[N. DE E. E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXIII.]</small>
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XXXVI. Las demás que le confiera el Presidente del Tribunal y la Ley.
 
 ###### Artículo 15.
 
@@ -391,7 +599,17 @@ X. Vigilar que los proyectos de laudos y resoluciones presentados al Pleno del T
 
 XI. Procurar la celebración de arreglos conciliatorios entre las partes, en todas y cada una de las fases del procedimiento; y
 
-XII. Las demás que le confiera el Presidente del Tribunal y la Ley.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 12 DE ABRIL DE 2019)</small>
+
+XII. Asesorar jurídicamente al Presidente del Tribunal;
+
+> <small>(ADICIONADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+XIII. Coordinar y promover en el personal bajo su cargo, la utilización y actualización permanente de la información de los juicios laborales en los módulos que integran la plataforma informática del Tribunal y las Salas, así como proponer al Presidente del Tribunal las mejoras necesarias en la misma; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 12 DE ABRIL DE 2019)</small>
+
+XIV. Las demás que le confiera el Presidente del Tribunal y la Ley.
 
 #### SECCIÓN SEXTA. DE LOS SECRETARIOS AUXILIARES
 
@@ -541,7 +759,7 @@ Los Actuarios del Tribunal y de las Salas, tendrán las facultades y obligacione
 
 I. Practicar las notificaciones que ordenen los Secretarios Generales, Auxiliares o de Acuerdos, sea por cédula o por comparecencia personal de las partes en el Tribunal o en las Salas, con los requisitos de forma que marca la Ley y realizar las diligencias ordenadas por el Tribunal y las Salas;
 
-II. Levantar las actas correspondientes en el lugar donde practiquen las diligencias en forma pormenorizada, dando fe de los hechos que e susciten en las mismas;
+II. Levantar las actas correspondientes en el lugar donde practiquen las diligencias en forma pormenorizada, dando fe de los hechos que se susciten en las mismas;
 
 III. Poner inmediatamente a disposición del Presidente del Tribunal, los valores o dinero que sean embargados en los procesos que así lo determine la Ley;
 
@@ -695,43 +913,211 @@ II. Contar con título legalmente expedido de Licenciatura en materia de Adminis
 
 III. No haber sido condenado por delito intencional sancionado con pena corporal.
 
-### CAPÍTULO III. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO III. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 36.
 
-El Tribunal contará con una Contraloría Interna, que dependerá directamente del Presidente del Tribunal, quien tendrá a su cargo el personal necesario para cumplir con las actividades que tiene encomendadas, sujetándose a la Ley, al presente Reglamento y a la Ley de Responsabilidades y tendrá las facultades y obligaciones siguientes:
+El Tribunal contará con un Órgano Interno de Control, que dependerá directamente del Presidente; al frente de éste, habrá un Titular, quien será auxiliado en el ejercicio de sus atribuciones y que comprende las siguientes áreas:
 
-l. Supervisar el cumplimiento de los planes, programas y funciones que de acuerdo con las Leyes, normas y demás disposiciones que le corresponde ejecutar al Tribunal y las Salas, ya sea por actos de revisión, de oficio o a petición de parte;
+A. Un Área de Control y Evaluación
 
-II. Atender, tramitar y dar seguimiento a las quejas y denuncias que interpongan en contra de los servidores públicos del Tribunal y las Salas, ya sea por actos de revisión, de oficio o a petición de parte;
+B. Un Área de Investigación;
 
-III. Instrumentar procedimientos administrativos, disciplinarios y resarcitorios y, en su caso, imponer sanciones que correspondan en los términos de la Ley de Responsabilidades y el presente Reglamento, previo acuerdo con el Presidente del Tribunal;
+C. Un Área (sic) Substanciación; y
 
-IV. Realizar supervisiones, revisiones, evaluaciones y auditorias administrativas, financieras, operacionales y técnicas a las unidades administrativas del Tribunal y a las Salas, tendientes a verificar el cumplimiento de las leyes, reglamentos, normas y demás disposiciones relacionadas con los sistemas de registro, contabilidad, contratación, pago de personal, contratación de servicios, adquisiciones, arrendamientos, obras públicas, conservación, uso y destino, enajenación y baja de bienes y demás activos y recursos materiales asignados al Tribunal ya las Salas;
+D. Un Área de Resolución.
 
-V. Supervisar y fiscalizar el correcto ejercicio del presupuesto del Tribunal y de las Salas, verificando el apego a los principios de racionalidad, austeridad y disciplina presupuestal que establezcan las Leyes y normas en la materia;
+1. El Área de Control y Evaluación, tendrá las siguientes atribuciones y funciones:
 
-VI. Intervenir en los procesos de entrega-recepción de las unidades administrativas del Tribunal y de las Salas, verificando el apego a las normas establecidas para tal efecto;
+1.1. Elaborar el Programa Anual de Control y Evaluación del Órgano Interno de Control, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a consideración del Titular del Órgano Interno de Control;
 
-VII. Supervisar el adecuado y oportuno cumplimiento de las declaraciones de situación patrimonial de los servidores públicos del Tribunal y de las Salas;
+1.2. Ejecutar el Programa Anual de Control y Evaluación autorizado, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan;
 
-VIII. Informar al Presidente del Tribunal el resultado de las acciones, comisiones o funciones que se le encomienden y sugerir la instrumentación de normas complementarias en materia de control;
+1.3. Realizar, las auditorías y acciones de control y evaluación que ordene el Titular del Órgano Interno de Control, así como emitir el informe correspondiente y comunicar su resultado al Titular del Órgano Interno de Control y a los responsables de las unidades administrativas auditadas;
 
-IX. Supervisar que el personal jurídico y administrativo del Tribunal y de las Salas, se abstenga de cometer cualquier acto u omisión que implique abuso o ejercicio indebido, con motivo de las funciones que desempeña, siempre que medie denuncia, queja o acta circunstanciada o medio escrito o electrónico, en caso de que las partes no tengan un recurso o juicio legal para revocar la resolución motivo de queja;
+1.4. Realizar el seguimiento a la solventación y cumplimiento de las observaciones y acciones de mejora derivadas de las mismas;
 
-X. Supervisar que el personal jurídico y administrativo del Tribunal y de las Salas, observe buena conducta en su trabajo, tratándose con respeto, diligencia, imparcialidad y rectitud con las que tenga relación, con motivo de su actividad;
+1.5. Requerir a las unidades administrativas del Tribunal, a través de auditorías y acciones de control y evaluación, la información, documentación y su colaboración para el cumplimiento de sus atribuciones;
 
-XI. Supervisar que el personal jurídico y administrativo del Tribunal y de las Salas, no reciba ninguna clase de dádiva, ya sea económica o en especie, por el servicio que otorga el Tribunal o las Salas, dentro de su horario de trabajo o fuera del mismo, que implique parcialidad hacia las partes de un proceso; y
+1.6. Verificar que las unidades administrativas del Tribunal atiendan la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las observaciones o hallazgos, que se deriven de las auditorías o acciones de control y evaluación practicadas, por sí o por las diferentes instancias externas de fiscalización;
 
-XII. Las demás que señalen otros ordenamientos legales y las que le encomiende el Presidente del Tribunal.
+1.7. Verificar que las unidades administrativas del Tribunal se apeguen a las disposiciones jurídicas aplicables en la que sustentan su actuación, a través de las auditorías y acciones de control y evaluación;
+
+1.8. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+1.9. Promover el fortalecimiento de mecanismos de control de la gestión de las unidades administrativas del Tribunal, en el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos;
+
+1.10. Turnar el expediente correspondiente, de las auditorías y de las acciones de control y evaluación al área de investigación, de los cuales se advierta la existencia de presuntas faltas administrativas, en términos de la Ley de Responsabilidades;
+
+1.11. Participar cuando se lo instruya el Titular del Órgano Interno de Control en los procesos de entrega y recepción de las unidades administrativas del Tribunal, verificando su apego a la normatividad correspondiente;
+
+1.12. Coadyuvar al seguimiento de las observaciones derivadas de las auditorías y de las acciones de control y evaluación que sean practicadas al Tribunal, así como de la solventación y cumplimiento de las observaciones o hallazgos formulados por auditores externos y, en su caso, por otras instancias externas de fiscalización;
+
+1.13. Contribuir a la promoción del fortalecimiento de mecanismos de control de la gestión del Tribunal, para el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos, y de combate a la corrupción; y
+
+1.14. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Presidente y el Titular del Órgano Interno de Control.
+
+II. El Área de Investigación, tendrá las siguientes atribuciones y funciones:
+
+2.1. Recibir las denuncias que se formulen por presuntas infracciones o faltas administrativas derivadas de actos u omisiones cometidas por servidores públicos del Tribunal o por particulares por conductas sancionables en términos de la Ley de Responsabilidades;
+
+2.2. Iniciar de oficio, por denuncia o derivado de auditorías realizadas por las autoridades competentes, las investigaciones por presuntas faltas administrativas o infracciones cometidas por los servidores públicos o de los particulares por conductas sancionables, en términos de la Ley de Responsabilidades;
+
+2.3. Elaborar los informes, demandas y contestaciones en los juicios en los que sea parte, así como intervenir en el cumplimiento y defensa de las resoluciones respectivas, en los asuntos de su competencia;
+
+2.4. Integrar y verificar la información del sistema de evolución patrimonial, de los servidores públicos, derivado de las revisiones aleatorias que realice el área de Substanciación;
+
+2.5. Practicar las investigaciones para verificar la evolución del patrimonio de los servidores públicos, e integrar el expediente respectivo, de conformidad con el procedimiento de investigación previsto en la Ley de Responsabilidades;
+
+2.6. Realizar la revisión y análisis contable-financiero, para verificar la evolución del patrimonio de los servidores públicos;
+
+2.7. Formular el dictamen contable-financiero en el procedimiento de investigación para verificar la evolución del patrimonio de los servidores públicos, que identifique la existencia o, en su caso la aclaración del incremento;
+
+2.8. Emitir el acuerdo por el que se determina la integración del expediente con motivo de la investigación realizada, para verificar la evolución del patrimonio del servidor público, para efectos de la presentación de la denuncia que corresponda cuando no se justifique la procedencia del enriquecimiento;
+
+2.9. Citar, cuando lo estime necesario, al denunciante para la ratificación de la denuncia presentada por actos u omisiones posiblemente constitutivos de faltas administrativas cometidas por servidores públicos del Tribunal y particulares, por conductas sancionables en términos de la Ley de Responsabilidades, o incluso citar a servidores públicos que puedan tener conocimiento de los hechos, a fin de constatar la veracidad de los mismos;
+
+2.10. Requerir la información necesaria para el esclarecimiento de los hechos materia de la investigación en términos de la Ley de Responsabilidades, incluyendo aquélla que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas a que se refiere la Ley de Responsabilidades, con la obligación de mantener la misma con reserva o secrecía, conforme a dichas disposiciones;
+
+2.11. Solicitar información a las autoridades competentes, incluyendo la relacionada con la materia fiscal, bursátil, fiduciario (sic) o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, en términos de la Ley de Responsabilidades. Lo anterior, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas graves;
+
+2.12. Ejecutar todas las acciones y dictar las medidas necesarias, tratándose de denuncias que se presenten en carácter de anónimas, para garantizar, proteger y mantener la confidencialidad de la identidad de los denunciantes. Para ello la autoridad investigadora dictará las medidas precautorias provisionales o definitivas que la naturaleza de cada caso requiera, las cuales podrán otorgarse de oficio o a solicitud del denunciante;
+
+2.13. Intervenir como parte, en los procedimientos de responsabilidad administrativa, conforme a lo dispuesto en la Ley de Responsabilidades;
+
+2.14. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en el Código de Procedimientos Administrativos del Estado de México;
+
+2.15. Solicitar a la Dirección General de Responsabilidades Administrativas la información necesaria para las investigaciones administrativas, que se encuentre en el Sistema Electrónico del Registro de Empresas y/o Personas Físicas Objetadas y Sancionadas y el Registro del Procedimiento Administrativo Sancionador;
+
+2.16. Solicitar, cuando lo estime necesario la colaboración de la Fiscalía General de Justicia del Estado de México o de cualquier otra institución pública o educativa, que permita el acceso a los instrumentos tecnológicos que se requieran para la realización de la investigación; así como la intervención de un perito en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones para determinar la autenticidad de cualquier documento o elemento relacionado con los hechos motivo del procedimiento de investigación;
+
+2.17. Integrar y emitir el Informe de Presunta Responsabilidad Administrativa con los requisitos que establece la Ley de Responsabilidades y presentarlo a la autoridad substanciadora, a efecto de iniciar el procedimiento de responsabilidad administrativa;
+
+2.18. Solicitar cuando se requiera, a la autoridad substanciadora en el Informe de Presunta Responsabilidad Administrativa, la imposición de las medidas cautelares en términos de la Ley de Responsabilidades;
+
+2.19. Presentar las denuncias o querellas que procedan por la probable responsabilidad de orden penal que se detecte en la sustanciación del procedimiento de investigación, ante la Fiscalía General de Justicia del Estado de México o en su caso ante el homólogo en el ámbito federal;
+
+2.20. Hacer uso de las medidas de apremio establecidas en la Ley de Responsabilidades para hacer cumplir sus determinaciones;
+
+2.21. Analizar la documentación que integre las investigaciones a su cargo para determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave o no grave;
+
+2.22. Emitir en el ámbito de su competencia los acuerdos correspondientes, debidamente fundados y motivados;
+
+2.23. Recibir, aclarar y dar cumplimiento al pronunciamiento de prevención realizado por la autoridad substanciadora cuando esta le advierta que el Informe de Presunta Responsabilidad Administrativa, contiene omisiones, requiere aclaraciones en los hechos narrados o carece de alguno de los requisitos señalados en la Ley de Responsabilidades, para subsanarlos;
+
+2.24. Emitir, difundir, sistematizar y fijar criterios de interpretación de disposiciones jurídicas en las materias de su competencia, previa consideración de la Secretaria de la Contraloría;
+
+2.25. Impugnar ante la autoridad competente el acuerdo que determine la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones, en términos de lo dispuesto en la Ley de Responsabilidades;
+
+2.26. Interponer en tiempo y forma, así como resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables en el ámbito de competencia;
+
+2.27. Requerir mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes o para realizar notificaciones que deban llevar a cabo en lugares que se encuentren fuera de su ámbito jurisdiccional;
+
+2.28. Administrar, operar y mantener actualizados los sistemas electrónicos relativos a procedimientos de investigación que lleve respecto de faltas administrativas en términos de la Ley de Responsabilidades y de atención de denuncias;
+
+2.29. Administrar y difundir la operación del sistema correspondiente de atención de denuncias que facilite su utilización por la ciudadanía;
+
+2.30. Proponer al Presidente del Tribunal, en las materias de su competencia, la celebración de bases y convenios de coordinación con otras autoridades competentes;
+
+2.31. Recibir y tramitar las denuncias que presenten los particulares con motivo del incumplimiento de los acuerdos, convenios o contratos que hubieren celebrado con el Tribunal; y
+
+2.32 Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Presidente del Tribunal y la Secretaría de la Contraloría.
+
+III. El Área de Sustanciación, tendrá las siguientes atribuciones y funciones:
+
+3.1. Representar legalmente al Órgano Interno de Control, en asuntos jurisdiccionales, contenciosos-administrativos, penales y ante toda clase de autoridades administrativas y judiciales, en los procesos o procedimientos de toda índole, juicios de amparo, así como en los que intervenga en el cumplimiento de las resoluciones respectivas, debiendo interponer toda clase de recursos o medios de impugnación que tenga a su alcance para cuidar sus intereses;
+
+3.2. Emitir, difundir, sistematizar y fijar criterios de interpretación de disposiciones jurídicas en las materias de su competencia, previa consideración de la Secretaria de la Contraloría;
+
+3.3. Coordinar la ejecución de campañas, programas preventivos y acciones que se determinen en relación con la presentación de la declaración de situación patrimonial y de intereses, de los servidores públicos del Tribunal;
+
+3.4. Coordinar las acciones que permitan la integración del padrón de servidores públicos del Tribunal, obligados a presentar declaración de situación patrimonial, de intereses y el acuse de la presentación de la declaración fiscal;
+
+3.5. Coordinar las acciones para que la presentación de la declaración de situación patrimonial, de intereses y en su caso, el acuse de la presentación de la declaración fiscal de los servidores públicos del Tribunal se realice conforme a las normas y los formatos impresos, de medios magnéticos y electrónicos, así como los manuales e instructivos emitidos por el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, observando lo dispuesto en la Ley de Responsabilidades;
+
+3.6. Recibir el acuse de la presentación de la declaración fiscal de los servidores públicos del Tribunal, cuando se dé el supuesto;
+
+3.7. Coordinar las acciones para la detección de quienes omitieron o presentaron extemporáneamente la declaración de situación patrimonial, de intereses y el acuse de la presentación de la declaración fiscal, conforme a la Ley de Responsabilidades y turnar al área de Investigación del Órgano Interno de Control, a efecto de que éstos determinen lo conducente;
+
+3.8. Coordinar la práctica de verificaciones aleatorias, de las declaraciones de situación patrimonial presentadas por los servidores públicos, así como la posible existencia de conflicto de intereses, revisando la información asentada y en su caso, remitir a la autoridad investigadora correspondiente;
+
+3.9. Coordinar la integración y turno de los hallazgos en relación con las inconsistencias detectadas en la situación patrimonial de los servidores públicos, así como a un posible conflicto de intereses a la autoridad investigadora;
+
+3.10. Para el caso de no existir ninguna anomalía, expedirá la certificación correspondiente, para su anotación en el sistema respectivo;
+
+3.11. Emitir, los acuerdos que procedan en el ámbito de su competencia;
+
+3.12. Proponer al Presidente del Tribunal, en materia de responsabilidades, así como de declaración de situación patrimonial y de intereses, la celebración de bases y convenios de coordinación con otras autoridades competentes;
+
+3.13. Admitir los Informes de Presunta Responsabilidad Administrativa turnados por las autoridades investigadoras competentes;
+
+3.14. Abstenerse de iniciar el procedimiento de responsabilidad administrativa, así como de sancionar a los servidores públicos por faltas no graves, de conformidad con lo dispuesto en la Ley de Responsabilidades;
+
+3.15. Prevenir a las autoridades investigadoras, para que subsanen el Informe de Presunta Responsabilidad Administrativa, cuando éste adolezca de alguno o algunos de los requisitos exigidos por la Ley de Responsabilidades y en su caso, tenerlo por no presentado;
+
+3.16. Determinar sobre la procedencia, improcedencia o sobreseimiento del procedimiento de responsabilidad administrativa y, en su caso, emplazar a la audiencia inicial al presunto responsable y citar a las partes, en términos de la Ley de Responsabilidades;
+
+3.17. Imponer las medidas cautelares que corresponda, previa solicitud de la autoridad investigadora, en términos de la Ley de Responsabilidades;
+
+3.18. Substanciar el procedimiento de responsabilidad administrativa, conforme a la Ley de Responsabilidades;
+
+3.19. Solicitar mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar de la preparación o desahogo de las pruebas, así como para realizar las notificaciones que deban llevar a cabo en lugares que se encuentren fuera de su ámbito jurisdiccional;
+
+3.20. Tramitar y en su caso, resolver los incidentes promovidos por las partes;
+
+3.21. Recibir y tramitar la impugnación promovida por la autoridad investigadora o el denunciante, respecto al acuerdo que determine la abstención de iniciar el procedimiento de responsabilidad administrativa, en términos de lo dispuesto en la Ley de Responsabilidades;
+
+3.22. Ordenar la realización de diligencias para mejor proveer, disponiendo la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien la hubiera cometido en los términos de la Ley de Responsabilidades y demás legislación aplicable en la materia;
+
+3.23. Resolver los procedimientos de responsabilidad administrativa que se instauren contra servidores públicos del Tribunal, por faltas administrativas no graves, e imponer en su caso las sanciones que correspondan;
+
+3.24. Ejecutar, cuando resulte procedente, las sanciones impuestas en el ámbito de su competencia;
+
+3.25. Remitir al Tribunal de Justicia Administrativa del Estado de México, los autos originales de los expedientes de responsabilidad administrativa para su resolución, cuando se trate de faltas administrativas graves y de faltas de particulares vinculados con éstas;
+
+3.26. Recibir, tramitar y resolver los recursos de revocación previstos en la Ley de Responsabilidades;
+
+3.27. Recibir y tramitar los recursos de reclamación previstos en la Ley de Responsabilidades;
+
+3.28. Tramitar, sustanciar y resolver los demás medios de impugnación que se promuevan conforme a las leyes, o cuando así proceda conforme a las disposiciones jurídicas aplicables, que inciden en el ámbito de competencia del Órgano Interno de Control del Tribunal, en los asuntos cuya atención no esté asignada expresamente a otra unidad administrativa de dicha Dependencia;
+
+3.29. Emitir, previa solicitud del área de administración del Tribunal, las constancias de los registros de servidores públicos sancionados;
+
+3.30. Administrar el sistema de registro patrimonial, declaración de intereses y constancia de presentación de declaración fiscal, conforme a las disposiciones jurídicas aplicables;
+
+3.31. Administrar el sistema que para tal efecto se establezca, de los servidores públicos y particulares sancionados por las autoridades competentes y de las abstenciones que hayan realizado las autoridades a servidores públicos del Tribunal, de conformidad con la Ley de Responsabilidades, para suministrar la información a la Plataforma Digital Nacional y Estatal del Sistema Nacional, Estatal y Municipal Anticorrupción;
+
+3.32. Administrar en términos de las disposiciones aplicables, el registro de los obsequios entregados a los servidores públicos, así como de la transmisión de la propiedad o del ofrecimiento para el uso de cualquier bien, sin haberlo solicitado y de manera gratuita con motivo del ejercicio de sus funciones;
+
+3.33. Iniciar, substanciar y resolver el procedimiento administrativo sancionador, por infracciones de licitantes o contratistas en términos de lo dispuesto en el Libro Décimo Segundo del Código Administrativo del Estado de México, su Reglamento y demás disposiciones aplicables;
+
+3.34. Administrar el registro de las empresas, proveedores, contratistas y prestadores de servicios que incurran en irregularidades derivadas de los contratos que celebren con las dependencias y organismos auxiliares del Poder Ejecutivo Estatal, así como con los gobiernos municipales, a través del Sistema Electrónico del Registro de Empresas y/o Personas Físicas Objetadas y Sancionadas y el Registro del Procedimiento Administrativo Sancionador, difundiendo públicamente su consulta en el boletín respectivo;
+
+3.35. Requerir la información necesaria para llevar a cabo el desarrollo del procedimiento de responsabilidad administrativa, en términos de la Ley de Responsabilidades, incluyendo aquélla que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas a que se refiere la Ley de Responsabilidades, con la obligación de mantener la misma con reserva o secrecía;
+
+3.36. Presentar las denuncias o querellas sobre hechos probablemente constitutivos de delito de los que tenga conocimiento en el ejercicio de las atribuciones del órgano de Control interno;
+
+3.37. Administrar la información contenida en los sistemas electrónicos que se requieran para el control, registro y seguimiento de los asuntos de su competencia, intercambio y suministro de la misma conforme a las disposiciones jurídicas aplicables;
+
+3.38. Evaluar y determinar las medidas de protección que resulten razonables, previa solicitud que realicen los servidores públicos del Tribunal, cuando le denuncien faltas administrativas graves o faltas de particulares, o sean testigos en el procedimiento; y
+
+3.39. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Titular del órgano de control interno. Satisfacer los requisitos siguientes (sic):
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 37.
 
-El Contralor Interno, deberá satisfacer los requisitos siguientes:
+El titular del Órgano Interno de Control, deberá satisfacer los requisitos siguientes:
 
 I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
 
-II. Contar con licenciatura de cualquier materia o estudios equivalentes; y
+> <small>(REFORMADA, G.G. 12 DE ABRIL DE 2019)</small>
+
+II. Preferentemente contar con Licenciatura en Derecho, Contaduría o Administración, o de cualquier materia que guarde relación directa con las actividades inherentes al órgano interno de control; y
 
 III. No haber sido condenado por delito intencional sancionado con pena corporal.
 
@@ -805,19 +1191,11 @@ Los Presidentes de Salas se abocarán a realizar todos y cada uno de los actos q
 
 ### CAPÍTULO V. DE LA APLICACIÓN DE LAS MEDIDAS DE APREMIO Y SANCIONES
 
+> <small>(REFORMADO, G.G. 12 DE ABRIL DE 2019)</small>
+
 ###### Artículo 43.
 
-El incumplimiento de las obligaciones del personal jurídico y de los servidores públicos en general del Tribunal y de las Salas, independientemente que constituya una causa de rescisión de la relación laboral, se sancionará en la forma siguiente:
-
-I. Amonestación;
-
-II. Apercibimiento;
-
-III. Sanción económica de 3 a 8 días de salario mínimo diario vigente en área geográfica respectiva;
-
-IV. Suspensión del cargo de 1 a 8 días sin goce de sueldo; y
-
-V. Inhabilitación.
+El incumplimiento de las obligaciones del personal adscrito al Tribunal y de las Salas, será sancionado de la siguiente forma: En caso de tratarse (sic) faltas administrativas no graves el Órgano Interno de Control impondrá las previstas en el artículo 79 de la Ley de Responsabilidades; tratándose de faltas administrativas graves, será el Tribunal de Justicia Administrativa quien impondrá las sanciones administrativas señaladas en el artículo 82 de la Ley antes invocada.
 
 ###### Artículo 44.
 
@@ -845,29 +1223,11 @@ Si falta alguno de los requisitos anteriores, la denuncia será desechada de pla
 
 II. Por acta administrativa levantada con motivo de la revisión practicada a los servidores públicos del Tribunal y de las Salas, por el ejercicio de su función.
 
+> <small>(REFORMADO, G.G. 12 DE ABRIL DE 2019)</small>
+
 ###### Artículo 48.
 
-El procedimiento se instaurará en los términos siguientes:
-
-I. Se iniciará con la denuncia respectiva en la que se ofrecerán las pruebas;
-
-II. Se le hará saber al servidor público el contenido de la denuncia o del acta, para que dentro de los 5 días hábiles siguientes al de la notificación, rinda un informe por escrito y ofrezca las pruebas que estime pertinentes;
-
-III. Se citará al servidor público a una audiencia que se celebrará dentro de los 15 días naturales siguientes y en ella se les oirá y se desahogarán las pruebas ofrecidas;
-
-IV. En caso de que no comparezca el servidor público a la garantía de audiencia sin causa justificada, se determinará su responsabilidad o se sobreseerá ya sea por denuncia o acta;
-
-V. Si el denunciante no comparece a la audiencia sin causa justificada y las pruebas aportadas no acreditan plenamente por si solas la responsabilidad del servidor público, se sobreseerá el procedimiento;
-
-VI. El Contralor Interno podrá llevara cabo la práctica de cualquier diligencia probatoria que considere necesaria para el esclarecimiento de los hechos; y
-
-VII. De no existir diligencias probatorias adicionales, el Contralor Interno formulará su opinión de responsabilidad o de no responsabilidad administrativa, así como la propuesta de sanción dentro de un plazo de 15 días hábiles, dando cuenta al Presidente del Tribunal, para que se dicte la resolución que proceda y sea cumplimentada.
-
-Están legitimados para formular denuncias por faltas administrativas:
-
-a) Los servidores públicos del Tribunal y de las Salas;
-
-b) Las partes en el procedimiento.
+El procedimiento administrativo se instaurará en los términos y condiciones señalados por la Ley de Responsabilidades.
 
 ###### Artículo 49.
 
@@ -916,6 +1276,12 @@ Los Presidentes de Salas, serán suplidos en sus ausencias temporales hasta por 
 ###### Artículo 55.
 
 Los Secretarios Generales, Secretarios Auxiliares, Secretarios de Acuerdos, Actuarios y Conciliadores, serán suplidos en sus ausencias temporales por el servidor público que designe el Presidente del Tribunal.
+
+> <small>(ADICIONADO, G.G. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 56.
+
+El titular del Órgano Interno de Control de este Tribunal será suplido en sus ausencias por el servidor público que designe el Presidente del Tribunal. El servidor público designado deberá estar adscrito al Órgano Interno de Control.
 
 T R A N S I T O R I O S
 
@@ -980,3 +1346,17 @@ SECRETARIO GENERAL JURÍDICO Y CONSULTIVO
 LIC. DANIEL ORTEGA GUERRA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 12 DE ABRIL DE 2019.
+
+[TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
