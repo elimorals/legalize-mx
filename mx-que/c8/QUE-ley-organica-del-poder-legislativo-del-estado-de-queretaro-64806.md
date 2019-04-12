@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-02-15"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -357,9 +357,15 @@ El descuento por inasistencia a una sesión del Pleno consistirá en el equivale
 
 (Tipos de licencias) Las licencias se concederán por las siguientes causas:
 
-I. Por embarazo; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
 
-II. Por solicitud expresa.
+I. Por embarazo o adopción;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+II. Por paternidad; y
+
+III. Por solicitud expresa.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -369,11 +375,19 @@ Las licencias de Diputados y titulares de las dependencias se tramitarán ante l
 
 Cuando la licencia se realice por solicitud expresa, la Presidencia de la Legislatura llamará al suplente respectivo, o designará titulares interinos conforme a la presente Ley.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 24.
 
-(Licencia por causa de embarazo) Las solicitudes por embarazo se considerarán con goce de precepciones (sic) económicas, hasta por noventa días naturales antes o después del parto, según la solicitante.
+(Licencia por causa de embarazo, paternidad o adopción) Las solicitudes por embarazo se considerarán con goce de percepciones económicas, hasta por noventa días naturales antes o después del parto, según la solicitante.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Las solicitantes disfrutarán de quince días naturales de descanso con goce de sueldo, cuando les concedan en adopción a un menor o incapaz, contados a partir del día de su entrega.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Asimismo, los solicitantes disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de su hijo o hijos, o bien, cuando les concedan en adopción a un menor o incapaz, contados a partir de su entrega.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3148,6 +3162,16 @@ Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 15 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 23 Y 24 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
 
