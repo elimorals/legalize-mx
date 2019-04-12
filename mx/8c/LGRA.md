@@ -4,7 +4,7 @@ identifier: "LGRA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LGRA"
 ---
 # LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGENCIA AL AÑO SIGUIENTE DE LA ENTRADA EN VIGOR DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -176,7 +176,9 @@ IV. Dar a las personas en general el mismo trato, por lo que no concederán priv
 
 V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;
 
-VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;
 
 VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;
 
@@ -540,6 +542,10 @@ Las conductas previstas en el presente Capítulo constituyen Faltas administrati
 
 Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.
+
 ###### Artículo 53.
 
 Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
@@ -547,6 +553,10 @@ Cometerá peculado el servidor público que autorice, solicite o realice actos p
 ###### Artículo 54.
 
 Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.
 
 ###### Artículo 55.
 
@@ -761,6 +771,12 @@ IV. Las condiciones exteriores y los medios de ejecución;
 V. La reincidencia en el incumplimiento de obligaciones, y
 
 VI. El monto del beneficio derivado de la infracción que haya obtenido el responsable.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 80 Bis.
+
+Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.
 
 ### Capítulo III. Sanciones por Faltas de particulares
 
@@ -1871,3 +1887,13 @@ Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia F
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 75 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan derogadas todas (sic) disposiciones que se opongan al contenido del presente Decreto.
