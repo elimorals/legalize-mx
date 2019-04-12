@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2018-12-28"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
 
@@ -496,8 +496,6 @@ Los proveedores están obligados a informar de inmediato a las autoridades si de
 
 En el caso de la medida precautoria a que se refiere la fracción VII de este precepto, la Procuraduría podrá requerir al proveedor que remita la información que obre en sus archivos o bases de datos, tal como: el número de consumidores notificados, cantidad de productos o servicios involucrados y su distribución geográfica, las acciones, plazos, calendarios, programas de mantenimiento o de pago, cartas compromiso, presupuestos o cualquiera otra medida dirigida a cumplirlas, y podrá supervisar la disposición de los productos o servicios involucrados y los avances en la atención a los consumidores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 26.
@@ -549,8 +547,6 @@ El Procurador Federal del Consumidor será designado por el Presidente de la Rep
 ###### ARTICULO 29.
 
 Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
 
@@ -1322,8 +1318,6 @@ Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuer
 
 ### Capítulo X. De los contratos de adhesión
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 85.
@@ -1451,6 +1445,10 @@ III. Si el bien reparado no queda en estado adecuado para su uso o destino, dent
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 IV. En los demás casos previstos por esta ley.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+Cuando aplique la devolución de la cantidad pagada, ésta se efectuará utilizando la misma forma de pago con la que se realizó la compra, pudiendo hacerse por una forma de pago distinta si el consumidor lo acepta al momento en que se efectúe la devolución.
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
@@ -2521,3 +2519,9 @@ D.O.F. 28 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN PARA EL AÑO DOS MIL DIECINUEVE, LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2019.
+
+D.O.F. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 92 DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
