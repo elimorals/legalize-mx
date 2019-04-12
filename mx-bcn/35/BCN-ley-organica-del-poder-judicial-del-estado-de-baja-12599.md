@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2019-02-22"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL PUNTO SEGUNDO DEL DECRETO NÚMERO 237 PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1955,9 +1953,9 @@ Son atribuciones del Consejo de la Judicatura del Estado.
 
 I.- Establecer las unidades administrativas que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura del Estado y designar a los consejeros que deban integrarlas.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
 
-II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado.
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón, régimen disciplinario y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado, así como el Reglamento de haber de retiro a que se refiere el artículo 293 de esta ley.
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3119,6 +3117,10 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
+### CAPITULO UNICO. DEL HABER DE RETIRO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 287.
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2015)
@@ -3148,6 +3150,22 @@ ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 ###### ARTICULO 292.
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2015)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
+
+TITULO DECIMOQUINTO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### ARTÍCULO 293.
+
+Al retirarse del cargo los Magistrados Numerarios tendrán derecho a un haber de retiro, el cual tendrá carácter intransferible; en ningún caso y bajo ninguna circunstancia, podrá exceder del término de siete años contados a partir del día siguiente al último día en que hayan fungido, mismo que no será mayor al salario establecido para el cargo de juez de primera instancia, y que no podrá incrementarse más allá de los términos inflacionarios. El Consejo de la Judicatura, expedirá el Reglamento del haber de retiro, donde se determine el esquema, cuantía, temporalidad y condiciones para su entrega, el cual deberá ser aprobado por las dos terceras partes de sus integrantes.
+
+En el Reglamento de Haber de Retiro, deberá contemplarse un Fondo para el otorgamiento de este, en el que, mediante estudios de índole actuarial contable, a solicitud y patrocinio a cargo del poder judicial, se establecerá la determinación de un esquema de aportaciones económicas por parte de los magistrados para cubrir el Haber de Retiro.
+
+El retiro forzoso de los Magistrados se producirá al cumplir setenta años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. Tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en términos del reglamento respectivo.
+
+El Magistrado que haya sido removido de su cargo, en términos de lo dispuesto por el párrafo sexto inciso d) del artículo 58 de la Constitución Política del Estado Libre y Soberano de Baja California, no tendrá derecho al haber por retiro.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3630,3 +3648,17 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 334 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 168 FRACCIÓN II, ASÍ COMO LA ADICIÓN DEL TÍTULO DÉCIMO QUINTO, CAPÍTULO ÚNICO DENOMINADO "DEL HABER DE RETIRO" QUE CONTIENE EL ARTÍCULO 293, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto, entrará en vigor a partir del 1 de junio de 2019, mismo que deberá publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Magistrados que se retiraron de su cargo, conforme lo previsto en el párrafo sexto inciso a) del artículo 58 de la Constitución Estatal, y que, mediante orden judicial, se les reconozca el Derecho al Haber de retiro, gozarán del mismo, conforme lo dispone el presente Decreto. Así mismo, el Poder Judicial del Estado, tomará las previsiones presupuestales para pagar el haber de retiro a que se refiere el presente transitorio.
+
+TERCERO.- El Consejo de la Judicatura, deberá expedir el Reglamento relativo al Haber de Retiro, dentro de un término de 90 días posteriores a la entrada en vigor de la presente reforma.
+
+CUARTO.- Los Magistrados Numerarios, que hayan sido nombrados, previa (sic) a la entrada en vigor del presente Decreto tendrán derechos a un haber de retiro de hasta 12 años en los términos dispuestos en la presente reforma y el reglamento correspondiente.
+
+QUINTO.- El Plan a que hace referencia el Contrato No. 140898-2 de Fideicomiso Irrevocable para la creación del Fondo Judicial de Retiro para el pago de Haber de Retiro para Magistrados Numerarios del H. Tribunal Superior de Justicia del Estado de Baja California, celebrado entre el Poder Judicial del Estado y Banco Nacional de México, S.A., deberá sujetarse, para su ejecución, al Reglamento a que hace referencia el (sic) 293 de la Ley Orgánica del Poder Judicial del Estado de Baja California.
