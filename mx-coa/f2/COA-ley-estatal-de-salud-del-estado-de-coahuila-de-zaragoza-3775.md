@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-04-09"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1461,7 +1461,9 @@ III. Vehículo de enfermedades transmisibles a las personas, a través de sus pr
 
 Se prohíbe la introducción o el transporte por el territorio del Estado, de animales que padezcan una enfermedad transmisible a las personas, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria federal considere infectadas.
 
-### CAPITULO UNICO
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 121.
 
@@ -1485,9 +1487,9 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 124.
 
@@ -1513,6 +1515,238 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
+
+## TITULO OCTAVO BIS. DE LOS CUIDADOS PALIATIVOS A ENFERMOS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
+
+### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis.
+
+El presente título tiene por objeto:
+
+I. Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
+
+II. Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+III. Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV. Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V. Determinar los medios ordinarios y extraordinarios en los tratamientos; y
+
+VI. Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 1.
+
+Para los efectos de este Título, se entenderá por:
+
+I. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+II. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+III. Cuidados Paliativos. Es el cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo. El control del dolor, y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales;
+
+IV. Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+V. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+VI. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VII. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+VIII. Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual; y
+
+IX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físico y emocional producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
+
+X. Sedación al final de la vida. Se entiende por "sedación en el enfermo paliativo en fase terminal" a la administración intencionada de medicamentos (en las dosis y combinaciones) con el fin de reducir la consciencia superficial o profundamente, de forma transitoria o permanente con la intención de aliviar el sufrimiento físico y/o psicológico inalcanzable con otras medidas, con el consentimiento implícito, explícito o delegado del paciente.
+
+XI. Principio de doble efecto. De acuerdo a este principio, se permite aplicar un tratamiento o una intervención terapéutica que beneficie al paciente, aunque se prevea un efecto perjudicial como perder el estado de alerta o acortar su vida. El deber prioritario es aliviar o evitar su sufrimiento.
+
+XII. La capacidad funcional se refiere a la posibilidad que tiene el enfermo para caminar o deambular, realizar actividades relacionadas con la vida diaria, completar una inspiración profunda o toser. Es recomendable evaluar los arcos de movilidad o las restricciones al movimiento que refiere el enfermo a consecuencia del dolor. Para medir la funcionalidad se utilizan las escalas de Karnofsky y la Palliative Performance Scale (PPS).
+
+XIII. Futilidad Terapéutica. Procedimiento médico que no merece la pena instaurarse.
+
+XIV. Limitación de esfuerzo terapéutico. Consiste en no aplicar medidas extraordinarias o desproporcionadas para la finalidad terapéutica que se plantea en un paciente con mal pronóstico vital y/o mala calidad de vida, ya que se considera que no lo beneficiarán y no son curativas. Existen dos posibilidades: no iniciar determinadas medidas (withholding) o retirar un tratamiento previamente instaurado (withdrawing).
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 2.
+
+Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
+
+### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 3.
+
+Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I. Recibir atención médica integral;
+
+II. Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV. Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII. Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario o, en su caso, sedación paliativa.
+
+XI (SIC). Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+X (SIC). A recibir los servicios espirituales, así como los de expertos en tanatología, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+
+XI. Los demás que las leyes señalen.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 4.
+
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 5.
+
+Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título, serán asumidos (sic) por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 6.
+
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista con experiencia, y estar sujeta (sic) a revisión permanente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 7.
+
+Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este título.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 8.
+
+En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista o por el Comité de Bioética institucional.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 9.
+
+Todos los documentos a que se refiere este título se regirán de acuerdo a lo que se establezca en (sic) Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ABRIL DE 2019)</small>
+
+### CAPITULO UNICO
+
+###### Artículo 125 Bis 10.
+
+Las Instituciones del Sistema Estatal de Salud:
+
+I. Ofrecerán el servicio para la atención debida a los enfermos en situación terminal; aliviarán el dolor y otros síntomas angustiantes; responder (sic) a las necesidades de los pacientes y sus familias, incluido el apoyo emocional en el duelo y ofrecer (sic) un sistema de apoyo para ayudar a la familia a adaptarse durante la enfermedad del paciente y en su propio duelo.
+
+II. Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza;
+
+III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V. Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
+
+VI. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos, tanatología y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 125 Bis 11.
+
+Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 12.
+
+Los médicos especialistas en las instituciones, encargadas de detectar enfermedades terminales, tendrán las siguientes obligaciones:
+
+I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Pedir el consentimiento informado del enfermo en situación terminal, según lo marca la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV. Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V. Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
+
+VII. Procurar las medidas mínimas necesaria (sic) para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX. Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que le señalen ésta y otras leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 13.
+
+Los médicos tratantes podrán suministrar fármacos paliativos a un enfermo en situación terminal, aún cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la Ley de la materia, de analgésicos del grupo de los opioides. En estos casos será necesario el consentimiento del enfermo.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 14.
+
+Los médicos tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 15.
+
+Para garantizar una vida de calidad y el respeto a la dignidad del enfermo en situación terminal, el personal médico no deberá aplicar tratamientos o medidas consideradas como obstinación terapéutica ni medios extraordinarios.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 16.
+
+El personal médico que deje de proporcionar los cuidados básicos a los enfermos en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 17.
+
+El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+###### Artículo 125 Bis 18.
+
+Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad, así como el suicidio asistido. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ## TITULO NOVENO. PREVENCION EN MATERIA DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
@@ -1520,26 +1754,6 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 ### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
-
-> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
-
-> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
-
-## TITULO DÉCIMO. DE LAS ADICCIONES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 126.
 
@@ -1661,11 +1875,13 @@ Los servicios de rehabilitación que proporcionen los establecimientos del Secto
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-## TITULO DECIMO PRIMERO
+## TITULO DÉCIMO. DE LAS ADICCIONES
 
-DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 148.
 
@@ -1735,7 +1951,9 @@ VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 150.
 
@@ -1777,7 +1995,9 @@ El Ejecutivo del Estado y los Municipios, deberán incluir en su informe anual, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### Artículo 152.
 
@@ -1809,7 +2029,9 @@ III. Las demás previstas en esta Ley, la Ley para la Protección de los No Fuma
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 154.
 
@@ -1989,11 +2211,11 @@ V. Promover la participación de organismos públicos, privados y de la sociedad
 
 VI. Las demás previstas para el cumplimiento de esta Ley.
 
-## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
+## TITULO DECIMO PRIMERO
 
-### CAPITULO VI. RASTROS
+DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 156.
 
@@ -2041,9 +2263,9 @@ Para determinar la ubicación de los establecimientos en que se vendan o consuma
 
 Los propietarios, encargados o responsables de los establecimientos en que se expendan o suministren bebidas alcohólicas, en ningún caso y de ninguna forma las expenderán o suministrarán a menores de edad.
 
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 160.
 
@@ -2101,7 +2323,7 @@ La autoridad sanitaria competente publicará en el Periódico Oficial del Gobier
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efecto a partir del día siguiente de su publicación.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 167.
 
@@ -2119,7 +2341,7 @@ La Secretaría de Salud del Estado, verificará que los mercados y centros de ab
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### Artículo 170.
 
@@ -2159,7 +2381,9 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO VI. RASTROS
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 179.
 
@@ -2193,7 +2417,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación, traslado y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas oficiales mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 185.
 
@@ -2237,7 +2461,7 @@ El Gobierno del Estado, por conducto de los municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables, las normas oficiales mexicanas y las normas técnicas correspondientes.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 191.
 
@@ -2285,9 +2509,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO IX. PROSTITUCION
 
 ###### Artículo 199.
 
@@ -2327,7 +2549,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales aplicables.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### Artículo 208.
 
@@ -2353,7 +2575,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### Artículo 211.
 
@@ -2393,7 +2615,7 @@ Queda prohibido el funcionamiento de prostíbulos en lugares cercanos a las áre
 
 Para la determinación del criterio de cercanía, se medirá una distancia de tres kilómetros a los puntos señalados en el párrafo anterior, el cual se considerará área no autorizada.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 218.
 
@@ -2411,7 +2633,9 @@ Los reclusorios y Centros de Readaptación Social deberán contar además de lo 
 
 Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento a juicio del personal médico de la Institución, previa autorización del director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que él mismo determine; en cuyo caso se deberá hacer del conocimiento de las autoridades competentes. Las personas encargadas de los servicios médicos de los reclusorios y Centros de Readaptación Social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 108 de esta Ley.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 222.
 
@@ -2425,7 +2649,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse al cu
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas en materia de salubridad local correspondientes que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### Artículo 225.
 
@@ -2438,6 +2662,62 @@ La Secretaría de Salud del Estado, podrá en cualquier momento ordenar la claus
 ###### Artículo 227.
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+
+###### Artículo 228.
+
+Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas, de manos y pies o a la aplicación de tratamientos de belleza en general al público y como centros de masaje, aquellos lugares donde se den masajes de relajación, excepto, aquellos dedicados a tratamientos de ortopedia, traumatología y quiroprácticos.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+
+Conforme a lo anterior, queda expresamente prohibido que en las peluquerías, salones de belleza y estéticas, se apliquen productos médicos y biológicos mediante inyecciones, así como tratamientos con aparatología médica como láser y ultrasonido, en los términos, condiciones y salvedades expresamente establecidos en artículo 6° de la presente ley.
+
+###### Artículo 229.
+
+El funcionamiento y personal de los establecimientos señalados en el Artículo 228 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
+
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+
+###### Artículo 230.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Tintorería: el establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
+
+II. Lavandería: el establecimiento dedicado al lavado de ropa, y
+
+III. Lavadero público: el establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa.
+
+###### Artículo 231.
+
+Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+### CAPITULO XVII. GASOLINERIAS
+
+###### Artículo 232.
+
+Para los efectos de esta Ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
+
+###### Artículo 233.
+
+La Secretaría de Salud del Estado, realizará la verificación sanitaria a los establecimientos para el hospedaje, que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+
+###### Artículo 234.
+
+Para la construcción, acondicionamiento y/o funcionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberá cumplir con lo establecido en esta Ley y demás disposiciones aplicables.
+
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+
+###### Artículo 235.
+
+Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga, o de pasajeros sea cual fuere su medio de propulsión.
+
+###### Artículo 236.
+
+Los transportes que circulen por uno o más municipios del Estado de Coahuila no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas técnicas que para tal efecto se emitan.
 
 ### CAPITULO XIX. GUARDERÍAS, ASILOS Y CASAS HOGAR
 
@@ -2455,62 +2735,6 @@ III. Casa Hogar: Establecimiento destinado a proporcionar asistencia a menores o
 
 Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señalados en el presente capítulo, deberán apegarse a lo establecido en esta Ley, a las normas técnicas correspondientes y otras disposiciones legales aplicables.
 
-###### Artículo 228.
-
-Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas, de manos y pies o a la aplicación de tratamientos de belleza en general al público y como centros de masaje, aquellos lugares donde se den masajes de relajación, excepto, aquellos dedicados a tratamientos de ortopedia, traumatología y quiroprácticos.
-
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
-
-Conforme a lo anterior, queda expresamente prohibido que en las peluquerías, salones de belleza y estéticas, se apliquen productos médicos y biológicos mediante inyecciones, así como tratamientos con aparatología médica como láser y ultrasonido, en los términos, condiciones y salvedades expresamente establecidos en artículo 6° de la presente ley.
-
-###### Artículo 229.
-
-El funcionamiento y personal de los establecimientos señalados en el Artículo 228 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
-
-### CAPITULO I. AUTORIZACIONES
-
-###### Artículo 230.
-
-Para los efectos de esta Ley, se entiende por:
-
-I. Tintorería: el establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
-
-II. Lavandería: el establecimiento dedicado al lavado de ropa, y
-
-III. Lavadero público: el establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa.
-
-###### Artículo 231.
-
-Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
-
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
-
-###### Artículo 232.
-
-Para los efectos de esta Ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
-
-###### Artículo 233.
-
-La Secretaría de Salud del Estado, realizará la verificación sanitaria a los establecimientos para el hospedaje, que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
-
-###### Artículo 234.
-
-Para la construcción, acondicionamiento y/o funcionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberá cumplir con lo establecido en esta Ley y demás disposiciones aplicables.
-
-### CAPITULO III. CERTIFICADOS
-
-###### Artículo 235.
-
-Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga, o de pasajeros sea cual fuere su medio de propulsión.
-
-###### Artículo 236.
-
-Los transportes que circulen por uno o más municipios del Estado de Coahuila no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas técnicas que para tal efecto se emitan.
-
-### CAPITULO UNICO
-
 ###### Artículo 237.
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
@@ -2519,7 +2743,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 239.
 
@@ -2555,13 +2779,13 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO III. CERTIFICADOS
 
-## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO UNICO
 
 ###### Artículo 243.
 
@@ -2607,7 +2831,7 @@ Los establecimientos que prestan servicios de asistencia social, no requerirán 
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 248.
 
@@ -2667,6 +2891,8 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efecto, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
 ###### Artículo 256.
 
 Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
@@ -2707,7 +2933,9 @@ En su caso, a las funerarias, velatorios o vehículos que presten el servicio de
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, para el traslado o inhumación de cadáveres o sus partes, se deberá cumplir con lo establecido en la Ley General de Salud, esta ley y demás disposiciones aplicables.
 
-## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 261.
 
@@ -2808,6 +3036,10 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 ###### Artículo 272.
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
+
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### Artículo 273.
 
@@ -2916,6 +3148,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### Artículo 285.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### Artículo 286.
 
@@ -3500,3 +3734,11 @@ P.O. 9 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 236.- SE MODIFICAN Y ADICIONAN EL CONTENIDO DE LAS FRACCIONES I, II Y V, DEL ARTÍCULO 2; LA FRACCIÓN V, DEL ARTÍCULO 4; LA FRACCIÓN I, DEL ARTÍCULO 6; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 72, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 228, DE LA LEY ESTATAL DE SALUD DE COAHUILA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 245.- SE REFORMA Y ADICIONA UN TÍTULO OCTAVO BIS Y LOS ARTÍCULOS 125 BIS AL ARTÍCULO 125 BIS 18 DE LA LEY ESTATAL DE SALUD DE COAHUILA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
