@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-03-21"
+last_updated: "2019-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1397,6 +1397,10 @@ Las instituciones educativas podrán otorgar un número de becas mayor al cinco 
 
 Las becas serán otorgadas por una comisión integrada como mínimo por, la máxima autoridad educativa de la institución privada, un representante de padres de familia, y un representante de la autoridad educativa;
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Asimismo, las becas que se otorguen deberán asignarse tanto a los alumnos de primer ingreso a la institución, como a los demás estudiantes que cursen los siguientes ciclos escolares del plan de estudios;
+
 IV.- Cumplir los requisitos previstos en los artículos 77 y 78 de esta Ley;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
@@ -1413,7 +1417,7 @@ VII.- Facilitar y colaborar en las actividades de evaluación, inspección y vig
 
 > <small>(ADICIONADA, P.O. 21 DE MARZO DE 2019)</small>
 
-VIII. Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud, implementando campañas para erradicar el uso de envases de politereftalato de etileno, así como haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente.
+VIII.- Estimular la promoción de esquemas y acciones en los programas educativos, con el objetivo de fomentar la cultura ecológica en todos los integrantes de la comunidad educativa, con especial énfasis en nuestra niñez y juventud, implementando campañas para erradicar el uso de envases de politereftalato de etileno, así como haciendo obligatoria la siembra de árboles y el cuidado de los mismos, a fin de lograr la preservación del medio ambiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -1975,6 +1979,28 @@ IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en término
 
 En lo no previsto en el Título Octavo, se aplicarán supletoriamente, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
+T R A N S I T O R I O S
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Educación Pública del Estado de San Luis Potosí, publicada según Decreto número 62 suplemento al número 2 del Periódico Oficial, de fecha 6 de enero de 1944, así como sus reformas, adiciones y modificaciones.
+
+Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Todos aquellos asuntos o trámites que, al entrar en vigor esta Ley, se encuentren en proceso de resolución, se concluirán de conformidad con la normatividad vigente al inicio de su gestión.
+
+CUARTO.- El Gobierno del Estado y los gobiernos municipales, de conformidad con lo establecido en el Acuerdo Nacional para la Modernización Educativa, reconocen a las Secciones 26 y 52 del Sindicato Nacional de Trabajadores de la Educación como representantes legales de los trabajadores de la educación en el Estado.
+
+En lo relativo a las plazas de nueva creación en el Sistema Educativo Estatal, éstas se distribuirán tomando en cuenta a las representaciones sindicales de las Secciones 26 y 52 del Sindicato Nacional de Trabajadores de la Educación de acuerdo con las necesidades educativas.
+
+QUINTO.- Hasta en tanto se expida la reglamentación que regule el régimen laboral de los trabajadores al servicio de la Secretaría de Educación del Gobierno del Estado, éstos se seguirán rigiendo por las disposiciones vigentes y demás ordenamientos aplicables, que no se opongan a la presente Ley.
+
+SEXTO.- El Gobierno del Estado, establece un plazo no mayor de 90 días a partir de la vigencia de la presente Ley, para que las instituciones que ofrezcan servicios educativos de cualquier tipo o modalidad se registren ante la Secretaría de Educación del Gobierno del Estado.
+
+I N D I C E
+
+LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
+
 ## TITULO PRIMERO.
 
 Del Sistema Educativo Estatal.
@@ -2089,13 +2115,13 @@ Del procedimiento y del Recurso Administrativo.
 
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-DADO en el Salón de Sesiones del H. Congreso del Estado a los diecisiete días del mes de mayo de mil novecientos noventa y cinco.
+D A D O en el Salón de Sesiones del H. Congreso del Estado a los diecisiete días del mes de mayo de mil novecientos noventa y cinco.
 
 DIP. PRESIDENTE, GUSTAVO ENRIQUEZ GUERRERO.- DIP. SECRETARIO. DANIEL VAZQUEZ LOPEZ.- DIP. SECRETARIO. BERTHA GALARZA REGALADO. Rúbricas.
 
 POR TANTO, MANDO SE CUMPLA Y EJECUTE EL PRESENTE DECRETO Y QUE TODAS LAS AUTORIDADES LO HAGAN CUMPLIR Y GUARDAR Y AL EFECTO SE IMPRIMA, PUBLIQUE Y CIRCULE A QUIENES CORRESPONDA.
 
-DADO EN EL PALACIO DE GOBIERNO, SEDE DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A LOS DOCE DIAS DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO.
+D A D O EN EL PALACIO DE GOBIERNO, SEDE DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A LOS DOCE DIAS DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
@@ -2375,28 +2401,6 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 11 DE JUNIO DE 2016.
 
-## TRANSITORIOS
-
-PRIMERO.- Esta ley entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se abroga la Ley de Educación Pública del Estado de San Luis Potosí, publicada según Decreto número 62 suplemento al número 2 del Periódico Oficial, de fecha 6 de enero de 1944, así como sus reformas, adiciones y modificaciones.
-
-Se derogan las demás disposiciones que se opongan a la presente Ley.
-
-TERCERO.- Todos aquellos asuntos o trámites que, al entrar en vigor esta Ley, se encuentren en proceso de resolución, se concluirán de conformidad con la normatividad vigente al inicio de su gestión.
-
-CUARTO.- El Gobierno del Estado y los gobiernos municipales, de conformidad con lo establecido en el Acuerdo Nacional para la Modernización Educativa, reconocen a las Secciones 26 y 52 del Sindicato Nacional de Trabajadores de la Educación como representantes legales de los trabajadores de la educación en el Estado.
-
-En lo relativo a las plazas de nueva creación en el Sistema Educativo Estatal, éstas se distribuirán tomando en cuenta a las representaciones sindicales de las Secciones 26 y 52 del Sindicato Nacional de Trabajadores de la Educación de acuerdo con las necesidades educativas.
-
-QUINTO.- Hasta en tanto se expida la reglamentación que regule el régimen laboral de los trabajadores al servicio de la Secretaría de Educación del Gobierno del Estado, éstos se seguirán rigiendo por las disposiciones vigentes y demás ordenamientos aplicables, que no se opongan a la presente Ley.
-
-SEXTO.- El Gobierno del Estado, establece un plazo no mayor de 90 días a partir de la vigencia de la presente Ley, para que las instituciones que ofrezcan servicios educativos de cualquier tipo o modalidad se registren ante la Secretaría de Educación del Gobierno del Estado.
-
-INDICE
-
-LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
-
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0224.- SE DEROGAN LOS ARTÍCULOS, 46 BIS, Y 46 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2484,5 +2488,13 @@ P.O. 21 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO 0131.- SE REFORMAN LOS ARTÍCULOS 67 Y 80; Y ADICIONA AL ARTÍCULO 80 LA FRACCIÓN VIII, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico (sic) Gobierno Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0148.- SE ADICIONA AL ARTÍCULO 80 EN SU FRACCIÓN III PÁRRAFO CUARTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis“.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
