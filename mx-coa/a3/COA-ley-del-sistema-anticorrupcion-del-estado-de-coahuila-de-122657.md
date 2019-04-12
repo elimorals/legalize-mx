@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2019-03-19"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -223,9 +223,11 @@ VIII. Presentar para su aprobación al Comité Coordinador las recomendaciones e
 
 IX. Aquellas que prevean las reglas de funcionamiento y organización interna del Comité Coordinador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2019)</small>
+
 ###### Artículo 13.
 
-El Comité Coordinador se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
+El Comité Coordinador se reunirá en sesión ordinaria cada mes. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
 
 Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mayoría de sus integrantes.
 
@@ -301,9 +303,11 @@ Los integrantes del Consejo de Participación Ciudadana se rotarán anualmente l
 
 De presentarse la ausencia temporal del representante, el Consejo de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
 ###### Artículo 20.
 
-El Consejo de Participación Ciudadana se reunirá, previa convocatoria de su Presidente, cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviará el asunto a la siguiente sesión.
+El Consejo de Participación Ciudadana se reunirá, en sesión ordinaria cada mes, previa convocatoria de su Presidente. Las decisiones se tomaran por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviara el asunto a la siguiente sesión.
 
 ###### Artículo 21.
 
@@ -613,7 +617,7 @@ Asimismo, solicitará a la Auditoría Superior del Estado y a los órganos inter
 
 Los informes serán integrados al informe anual del Comité Coordinador como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Comité Coordinador.
 
-El informe anual a que se refiere el párrafo anterior deberá ser aprobado como máximo treinta días previos a que culmine el período anual de la presidencia.
+El informe anual a que se refiere el párrafo anterior deberá ser aprobado como máximo treinta días previos a que culmine el periodo anual de la presidencia.
 
 En los casos en los que del informe anual se desprendan recomendaciones, el Presidente del Comité Coordinador instruirá al Secretario Técnico para que, a más tardar a los quince días posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen.
 
@@ -704,5 +708,11 @@ VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 P.O. 19 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 214.- SE REFORMAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 34, DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 238.- SE REFORMA EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 13 Y EL CONTENIDO DEL ARTÍCULO 20 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
