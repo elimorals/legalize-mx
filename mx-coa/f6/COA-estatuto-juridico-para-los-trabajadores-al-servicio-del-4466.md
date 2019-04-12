@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2017-06-23"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -57,9 +57,9 @@ La presente Ley es de observancia general para los Titulares de las dependencias
 
 El trabajo es un derecho y un deber social. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de raza, sexo, edad, preferencias sexuales, doctrina política, creencias religiosas, estado de gravidez, antecedentes penales, o cualquier otra que signifique un detrimento hacia la igualdad de oportunidades de las personas.
+Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación profesional por razones de origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, opiniones, preferencias sexuales, estado civil, doctrina política, creencias religiosas, estado de gravidez, antecedentes penales, o cualquier otra que signifique un detrimento hacia la igualdad de oportunidades de las personas.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
 
@@ -164,6 +164,24 @@ XVI.- El derecho de huelga;
 XVII.- Las trabajadoras mujeres tienen derecho a los descansos por gravidez y lactancia, y
 
 XVIII.- Las demás que señale esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+ARTICULO 9 BIS.- Los procesos de selección, contratación y promoción de personal que realicen las dependencias y entidades de los Poderes del Estado deberán cumplirse con criterios de igualdad y no discriminación, considerando las habilidades y capacidades de las y los candidatos.
+
+En la contratación de personal está prohibida la fijación de límite máximo de edad, excepto en los casos en que la naturaleza del trabajo lo requiera. Se deberá en todo momento priorizar las aptitudes profesionales, experiencia y calificaciones.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+ARTICULO 9 BIS 1.- Las dependencias y entidades de los Poderes del Estado, en el ámbito de sus respectivas competencias, propiciarán la contratación dentro de su planta laboral de personas con discapacidad y adultos mayores que reúnan las condiciones y los requisitos que para esos puestos señala cada una de las dependencias y entidades.
+
+En las plazas de nueva creación o las vacantes que ocurrieren, previo estudio realizado por los titulares de las dependencias y entidades, en caso de ser procedente, se promoverá su ocupación por personas con discapacidad y/o adultas mayores, procurando cubrir una proporción no inferior al 3% del total de su personal. En todo caso, los aspirantes para ocupar las plazas vacantes deberán reunir los requisitos que para esos puestos señala cada una de las dependencias y entidades.
+
+Las personas con discapacidad a que se refiere este artículo deberán contar con el certificado de reconocimiento y certificación que establece el artículo 10 de la Ley General para la Inclusión de las Personas con Discapacidad.
+
+En todo caso, las dependencias y entidades procurarán que toda vacante producida por la renuncia, el despido justificado, la jubilación o el fallecimiento de un trabajador con discapacidad o persona adulta mayor sea cubierta por otra persona con discapacidad o adulta mayor, considerando las habilidades y capacidades de las y los candidatos.
+
+En el caso de las dependencias a cargo de la seguridad pública o protección ciudadana, lo dispuesto en este artículo sólo considerará a su personal civil o administrativo.
 
 ## TITULO SEGUNDO.
 
@@ -929,9 +947,17 @@ XIII.- Hacer las deducciones en los salarios siempre que se ajusten a los térmi
 
 XIV.- Impedir que se realicen colectas o suscripciones en los lugares de trabajo;
 
-XV.- Contribuir al fomento de las actividades culturales y deportivas entre sus trabajadores y de ser posible proporcionarles los equipos y útiles indispensables; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
 
-XVI.- Cubrir a los deudos del trabajador fallecido, por concepto de pago de defunción y sepelio, tres meses de salario. El pago podrá hacerse a la persona con la cual haya vivido el trabajador hasta el momento de su fallecimiento.
+XV.- Contribuir al fomento de las actividades culturales y deportivas entre sus trabajadores y de ser posible proporcionarles los equipos y útiles indispensables;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+XVI.- Cubrir a los deudos del trabajador fallecido, por concepto de pago de defunción y sepelio, tres meses de salario. El pago podrá hacerse a la persona con la cual haya vivido el trabajador hasta el momento de su fallecimiento; y
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+XVII.- Tratándose de trabajadores con discapacidad, otorgar los permisos para someterse al tratamiento médico o de rehabilitación, previa constancia médica.
 
 ###### ARTICULO 87.
 
@@ -2230,3 +2256,11 @@ P.O. 23 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 240.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2° Y LAS FRACCIONES XV Y XVI DEL ARTÍCULO 86 Y SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 BIS 1 Y LA FRACCIÓN XVII DEL ARTÍCULO 86 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las dependencias y entidades de los Poderes Públicos deberán realizar un cómputo de las personas adultas mayores y personas con discapacidad que se encuentran actualmente laborando. El cómputo mencionado incluirá cualquier modalidad de contratación laboral que vincule directamente a los trabajadores con el empleador público.
