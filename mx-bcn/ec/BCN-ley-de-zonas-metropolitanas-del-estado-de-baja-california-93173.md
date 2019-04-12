@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-zonas-metropolitanas-del-estado-de-baja-california-93173
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-15"
-last_updated: "2019-03-15"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ZONAS METROPOLITANAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 15 de marzo de 2013.
 
@@ -51,7 +51,9 @@ I.- Municipios: Los Municipios que integran el Estado de Baja California;
 
 II.- Consejo: Al Consejo de Desarrollo Metropolitano;
 
-III.- Consejos: A los Consejos de Desarrollo Metropolitano de las zonas Metropolitanas de Tijuana y Mexicali;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+III.- Consejos: A los Consejos de Desarrollo Metropolitano de las zonas Metropolitanas de Tijuana, Mexicali y Ensenada;
 
 IV.- El Ejecutivo: Al Gobernador del Estado de Baja California;
 
@@ -67,13 +69,25 @@ IX.- Zona Metropolitana de Tijuana: La zona metropolitana definida por distancia
 
 X.- Zona Metropolitana de Mexicali: La zona metropolitana definida por distancia, integración funcional y carácter urbano que comprende al municipio de Mexicali;
 
-XI.- Reglas de Operación: A las Reglas de Operación del Fondo Metropolitano publicadas en el Diario Oficial de la Federación el 11 de Abril de 2011;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2019)</small>
 
-XII.- Fideicomisos.- A los Fideicomisos del Fondo Metropolitano de Tijuana y Mexicali;
+XI.- Zona Metropolitana de Ensenada: Zona Metropolitana comprendida por el territorio integrado por el Centro de Población de Ensenada, las localidades de El Sauzal, el ex Ejido Chapultepec, Maneadero, El Zorrillo y Esteban Cantú, así como las áreas urbanas del Estero de Punta Banda y La Joya; así como las veintidós Delegaciones: Bahía de los Ángeles, Camalú, El Mármol, El Porvenir, El Rosario, El Sauzal, Eréndida, Francisco Zarco, Isla de Cedros, La Misión, Maneadero, Puertecitos, Punta Colonet, Punta Prieta, Real de Castillo, San Antonio de la (sic) Minas, San Quintín, San Vicente, Santo Tomás, Valle de la Trinidad, San Vicente Guerrero y Villa Jesús María.
 
-XIII.- Fondo Metropolitano: Al Fondo Metropolitano a que se refiere el Presupuesto de Egresos de la Federación; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE ABRIL DE 2019)</small>
 
-XIV.- Secretario Técnico: Al Secretario Técnico del Consejo para el Desarrollo de la Zona Metropolitana de cada Zona.
+XII.- Reglas de Operación: A las Reglas de Operación del Fondo Metropolitano publicadas en el Diario Oficial de la Federación el 11 de Abril de 2011;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+XIII.- Fideicomisos.- A los Fideicomisos del Fondo Metropolitano de Tijuana, Mexicali y Ensenada;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+XIV.- Fondo Metropolitano: Al Fondo Metropolitano a que se refiere el Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE ABRIL DE 2019)</small>
+
+XV.- Secretario Técnico: Al Secretario Técnico del Consejo para el Desarrollo de la Zona Metropolitana de cada Zona.
 
 ###### Artículo 3.
 
@@ -408,3 +422,9 @@ P.O. 15 DE MARZO DE 2019.
 PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
 SEGUNDO.- De conformidad con el artículo 34, párrafo H, de la Constitución Política del Estado de Baja California, las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 325 MEDIANTE (SIC) SE REFORMAN LAS FRACCIONES III, XI, XII, XIII, XIV, Y SE ADICIONA LA FRACCIÓN XV; DEL ARTÍCULO 2 DE LA LEY DE ZONAS METROPOLITANAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
