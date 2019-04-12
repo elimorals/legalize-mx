@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-03-22"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -476,6 +476,10 @@ Son facultades y obligaciones de los ayuntamientos:
 a) En materia de Planeación:
 
 I. Constituir a través de la dependencia correspondiente, al inicio de su gestión, el Comité de Planeación y Desarrollo Municipal, atendiendo las sugerencias de los sectores social y privado cuyas opiniones se hayan solicitado previamente; dicho Comité promoverá la coordinación con los planes nacionales y estatales de desarrollo;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+I BIS. Constituir, a más tardar en el primer semestre el Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, cuyas funciones y organización se establecerán en su reglamento;
 
 II. Formular y actualizar los programas municipales de desarrollo urbano con sujeción a las leyes estatales y federales, en los cuales se deberán incluir estadísticas y datos sociológicos;
 
@@ -3100,3 +3104,17 @@ P.O. 22 DE MARZO DE 2019.
 Primero. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0147.- SE REFORMA EL ARTÍCULO 132 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE ADICIONA AL ARTÍCULO 31 EN SU INCISO A) LA FRACCIÓN I BIS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor de este Decreto, el reglamento del Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, será expedido dentro de los tres primeros meses por los ayuntamientos.
+
+CUARTO. Las actuales administraciones municipales periodo 2018 – 2021, contarán con tres meses a partir de la entrada en vigor del presente Decreto, para integrar su Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable.
+
+QUINTO. Los consejos consultivos municipales de Medio Ambiente y Desarrollo Sustentable, que los ayuntamientos hayan integrado antes de la entrada en vigencia de este Decreto, quedan conformados en los términos y formas que se constituyeron, y su organización y funcionamiento se regirá por el Reglamento a que alude la fracción I Bis del inciso a) del artículo 31, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
