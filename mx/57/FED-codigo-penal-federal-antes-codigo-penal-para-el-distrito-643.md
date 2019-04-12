@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2018-11-05"
+last_updated: "2019-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3169,7 +3169,7 @@ ARTICULO 211 bis 6.- Para los efectos de los artículos 211 Bis 4 y 211 Bis 5 an
 
 ARTICULO 211 bis 7.- Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE ABRIL DE 2019)</small>
 
 ### CAPITULO I
 
@@ -3209,7 +3209,7 @@ ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuic
 
 ### CAPITULO III BIS. Desaparición forzada de personas
 
-## TÍTULO DÉCIMO. Delitos Cometidos por Servidores Públicos
+## TITULO DECIMO. Delitos por hechos de corrupción
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -3291,8 +3291,6 @@ Bis.- Cuando los delitos a que se refieren los artículos 215, 219 y 222 del pre
 
 ### CAPÍTULO V. Uso ilícito de atribuciones y facultades
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 214.
@@ -3341,31 +3339,25 @@ Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete a
 
 ### CAPÍTULO V BIS. Del pago y recibo indebido de remuneraciones de los servidores públicos
 
-(NOTA: EL 20 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2018 Y SU ACUMULADA 108/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 6 DE DICIEMBRE DE 2018 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+ARTICULO 217 TER. Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
 
-ARTICULO 217 Bis (sic). Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
+I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la Ley Federal de Remuneraciones de los Servidores Públicos;
 
-I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la presente Ley;
+II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la Ley Federal de Remuneraciones de los Servidores Públicos, teniendo conocimiento de la ilicitud del acto, excepto cuando forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas, o en los casos considerados por el mismo artículo 5 de la mencionada Ley como falta administrativa no grave.
 
-II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la presente Ley, excepto quien forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2019)</small>
 
-(NOTA: EL 20 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2018 Y SU ACUMULADA 108/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 6 DE DICIEMBRE DE 2018 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+ARTICULO 217 QUATER. Por la comisión del delito señalado en el artículo precedente se impondrán las siguientes penas:
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+I. Si el beneficio indebidamente otorgado no excede del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
 
-###### ARTICULO 217 Ter.
+II. Si el beneficio indebidamente otorgado excede el equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, pero no es mayor que el equivalente a dos mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
 
-Por la comisión del delito señalado en el artículo precedente se impondrán las siguientes penas:
+III. Si el beneficio indebidamente otorgado excede el equivalente a dos mil veces, pero no es mayor que el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, y
 
-I. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley no excede del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
-
-II. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito pero no es mayor que el equivalente a mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito;
-
-III. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a mil veces pero no es mayor que el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, y
-
-IV. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de cinco a catorce años de prisión y multa de quinientas a tres mil veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión y multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 
 Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 
@@ -3493,8 +3485,6 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 Comete el delito de uso ilícito de atribuciones y facultades:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 I.- El servidor público que ilícitamente:
@@ -3503,31 +3493,21 @@ I.- El servidor público que ilícitamente:
 
 A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3541,25 +3521,17 @@ B) Siendo responsable de administrar y verificar directamente el cumplimiento de
 
 II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3591,13 +3563,9 @@ Comete el delito de concusión el servidor público que con el carácter de tal 
 
 Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3635,8 +3603,6 @@ Cuando alguno de los delitos comprendidos en este artículo se cometa en los sup
 
 Comete el delito de intimidación:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 I.- El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
@@ -3644,8 +3610,6 @@ I.- El servidor público que por sí, o por interpósita persona, utilizando la 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -8278,3 +8242,11 @@ D.O.F. 5 DE NOVIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
+
+D.O.F. 12 DE ABRIL DE 2019
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 75 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan derogadas todas (sic) disposiciones que se opongan al contenido del presente Decreto.
