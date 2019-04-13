@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2018-11-10"
+last_updated: "2019-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -100,6 +100,10 @@ VI. Consejo: El Consejo Estatal de Vivienda;
 VII. Crédito para Vivienda: Préstamo que se concede para la adquisición de suelo para vivienda, construcción, rehabilitación, mejoramiento, ampliación, complementación o adquisición de una vivienda; así como aquellos destinados al pago de pasivos;
 
 VIII. Estímulo: Medidas de carácter jurídico, administrativo, fiscal o financiero que aplican las entidades y dependencias del sector público para promover y facilitar la participación de los sectores social y privado en la ejecución de acciones, procesos o programas habitacionales;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VIII Bis.·Ecotecnologías: Dispositivos, métodos y procesos que propician beneficios sociales y económicos tangibles a sus usuarios, con referencia a un contexto socio ecológico específico, utilizando los avances de la tecnología para conseguir mejorar el medio ambiente mediante una menor contaminación y una mayor sostenibilidad,
 
 IX. Estado: Estado Libre y Soberano de Oaxaca, así como sus dependencias y entidades competentes para realizar las acciones de vivienda previstas en esta Ley;
 
@@ -819,6 +823,10 @@ VII. La observación de normas que mitiguen el impacto de posibles desastres nat
 
 VIII. Utilizar bienes y servicios normalizados.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2019)</small>
+
+Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las zonas bioclimáticas de cada región de la entidad, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
+
 ###### Artículo 48.
 
 Las acciones de vivienda que se realicen en el Estado y los Municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y los programas que regulan el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado.
@@ -1175,6 +1183,14 @@ SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1638.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1638.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 599.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado.
