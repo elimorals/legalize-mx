@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-04-09"
+last_updated: "2019-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -2207,7 +2207,7 @@ III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación 
 
 IV. La Secretaría tendrá siempre la facultad de modificar las rutas, tramos, itinerarios e inclusive de suprimirlos con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado cuando aplique;
 
-V. Cada concesión autorizará la operación de los vehículos necesarios para la operación de la ruta correspondiente, en los horarios y con la frecuencia establecidas (sic);
+V. Cada concesión autorizará la operación de los vehículos necesarios para la operación de la ruta correspondiente, en los horarios y con la frecuencia establecidas;
 
 VI. Las concesiones para la explotación del servicio público de transporte colectivo en centros de población menores de cincuenta mil habitantes, que se otorguen a las personas físicas, serán individuales y no podrán amparar más de una unidad, y
 
@@ -4173,7 +4173,9 @@ PRIMERO. El presente decreto entrará en vigor a partir del día 6 de diciembre 
 
 SEGUNDO. Las funciones del Instituto de Movilidad y Transporte del Estado de Jalisco relacionadas con las labores de movilidad y la dictaminación de rutas de transporte del Área Metropolitana de Guadalajara, serán asumidas por el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara; en el interior del estado por la Secretaría de Medio Ambiente y Desarrollo Territorial; y las funciones relacionadas con el transporte público serán asumidas por la Secretaría del Transporte.
 
-Los asuntos en trámite ante el Instituto de Movilidad y Transporte del Estado de Jalisco que se extingue, pasarán a las secretarías e Instituto señalados en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado. En el caso del Instituto, se requerirá la suscripción del convenio respectivo, previa aprobación de la Junta de Coordinación Metropolitana. En tanto no se firme dicho convenio por parte del Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara (IMEPLAN de la AMG), las funciones que le corresponden a éste serán asumidas por la Secretaría del Transporte.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2019)</small>
+
+Los asuntos en trámite ante el Instituto de Movilidad y Transporte del Estado de Jalisco que se extingue, pasarán a las secretarías e Instituto señalados en este artículo, de conformidad con el presente decreto, o en los términos que establezca el Gobernador del Estado.
 
 TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto de Movilidad y Transporte del Estado de Jalisco, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
 
@@ -4252,3 +4254,9 @@ SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169
 SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
 
 OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27272/LXII/19 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 27212/LXII/18, PUBLICADO EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO EL DÍA 6 DE DICIEMBRE DEL 2018, MEDIANTE EL CUAL SE ABROGÓ LA LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, Y SE REFORMARON DIVERSOS ARTÍCULOS DE LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO Y LA LEY DE COORDINACIÓN METROPOLITANA.”]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
