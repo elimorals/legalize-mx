@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2018-09-29"
+last_updated: "2019-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -567,9 +567,15 @@ IV.- Exhortar al personal para que dicten sentencias con perspectiva de género 
 
 V.- Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
 
-VI.- Difundir las sentencias emitidas con perspectiva de género y derechos humanos de las mujeres, con respeto a la privacidad de datos personales previstos por la Ley de la materia; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-VII.- Las demás que le atribuyan otros ordenamientos legales.
+VI.- Difundir las sentencias emitidas con perspectiva de género y derechos humanos de las mujeres, con respeto a la privacidad de datos personales previstos por la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+VIII.- Las demás que le atribuyan otros ordenamientos legales.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
@@ -631,13 +637,17 @@ III.- Los organismos de derechos humanos a nivel nacional o estatal, los organis
 
 ### CAPÍTULO II. DEL AGRAVIO COMPARADO
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-El Agravio Comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado en relación con otro Estado, incluso de procedimientos y trámites de índole administrativo.
+El Agravio Comparado implica un trato desigual a las mujeres dentro del marco jurídico del Estado en relación con otra entidad federativa, incluso de procedimientos y trámites de índole administrativo, que impide el reconocimiento o el ejercicio pleno de los Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado Mexicano, leyes generales, leyes federales y leyes estatales.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-Para preveer cualquier Agravio Comparado, el Sistema Estatal conformará la mesa de Armonización Legislativa con el objeto de revisar semestralmente los avances legislativos en la materia.
+Para prever cualquier Agravio Comparado, el Sistema Estatal, por conducto de la Comisión de Igualdad y Equidad de Género del H. Congreso del Estado, conformará y coordinará la mesa de Armonización Legislativa con el objeto de revisar semestralmente los avances legislativos en la materia.
 
 ### CAPÍTULO III. LAS ÓRDENES DE PROTECCIÓN
 
@@ -809,13 +819,19 @@ VII.- Titulares de los DIF Estatal y Municipales, respectivamente;
 
 VIII.- Titular del CEPAVI;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-IX.- Titulares de los organismos y dependencias instituidos en el ámbito estatal y municipal, para la protección de los derechos de la mujer; y
+IX.- Titulares de los organismos y dependencias instituidos en el ámbito estatal y municipal, para la protección de los derechos de la mujer;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-X.- Titulares de las corporaciones policiales preventivas en el Estado.
+X.- Titulares de las corporaciones policiales preventivas en el Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XI.- La Comisión de Igualdad y Equidad de Género del H. Congreso del Estado, por conducto de su Presidenta.
+
+> <small>[N. DE E. ÉSTE CORRESPONDE AL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO, ASÍ COMO SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA.]</small>
 
 Podrán ser invitados los servidores públicos o miembros de la sociedad civil, que se considere procedente a las sesiones ordinarias o extraordinarias, a propuesta de dos o más miembros del Sistema Estatal.
 
@@ -977,7 +993,9 @@ III.- Formular, instrumentar y conducir las políticas públicas del Sistema Est
 
 IV.- Promover una cultura de respeto a los derechos humanos de las mujeres;
 
-V.- Impulsar la creación de refugios para la atención y protección de las receptoras, conforme al modelo de atención diseñado por el Sistema Estatal;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+V.- Impulsar la creación, operación y fortalecimiento de refugios para la atención y protección de las receptoras, conforme al modelo de atención diseñado por el Sistema Estatal;
 
 VI.- Vigilar el cumplimiento de la presente Ley, así como de los instrumentos internacionales en la materia y demás normatividad aplicable en el Estado;
 
@@ -1031,9 +1049,15 @@ VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidad
 
 VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
 
-IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-X.- Las demás que le señalen las disposiciones legales.
+IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
+
+XI.- Las demás que le señalen las disposiciones legales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -1133,7 +1157,9 @@ I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de con
 
 II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
 
-III.- Generar mecanismos de prevención, detección y canalización de las mujeres víctima de violencia;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+III.- Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos y perspectiva de género, así como generar mecanismos de prevención, detección y canalización de las mujeres víctima (sic) de violencia;
 
 IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
 
@@ -1141,9 +1167,19 @@ V.- Diseñar la política integral para la prevención de delitos violentos cont
 
 VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
 
-VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-VIII.- Las demás que les señalen las disposiciones legales aplicables.
+VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VIII.- Brindar, en coordinación con la Secretaría de Salud y Bienestar Social, atención médica obstétrico-ginecológica y pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+IX.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+X.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 59.
 
@@ -1329,11 +1365,17 @@ XV.- Brindar protección para salvaguardar la integridad física de las mujeres 
 
 XVI.- Celebrar convenios de colaboración, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual; y
+XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XVIII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XIX.- Las demás que les señalen las disposiciones legales aplicables.
 
 #### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
@@ -1424,6 +1466,8 @@ XVI.- Celebrar convenios de colaboración, coordinación y concertación en la m
 XVII.- Las demás previstas para el cumplimiento de esta Ley.
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 64.
 
@@ -1531,11 +1575,23 @@ VIII.- Apoyar la creación de programas de psicoterapia reeducativa para los Gen
 
 IX.- Promover programas sobre la igualdad entre los géneros para eliminar la Violencia contra las Mujeres;
 
-X.- Impulsar y apoyar la creación de refugios seguros para las receptoras;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-XI.- Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley; y
+X.- Impulsar y apoyar la creación, operación y fortalecimiento de refugios seguros para las receptoras;
 
-XII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XI.- Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XII.- Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XIII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+XIV.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
@@ -1569,15 +1625,31 @@ I.- El respeto a su integridad, y al ejercicio pleno de sus derechos para la pro
 
 II.- El derecho de la información veraz y suficiente que les permita decidir sobre las opciones de atención, previa recepción;
 
-III.- La atención por personal psicojurídico especializado para los servicios de asesoría jurídica, atención psicoterapéutica y médica;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+III.- La atención por personal psicojurídico especializado para los servicios de asesoría jurídica, atención psicoterapéutica y médica, los cuales deberán ser gratuitos y expeditos;
 
 IV.- A integrarse junto con sus hijas e hijos menores de edad, a un refugio y durante su permanencia a recibir servicios especializados dentro del tiempo que establezca el Reglamento de cada refugio, así como recibir apoyos gratuitos de hospedaje, alimentación y servicios médicos. En caso de hijas adolescentes, ubicarlas en refugios de acuerdo a su edad.
 
 V.- La capacitación, que favorezca el desempeño de una actividad laboral;
 
-VI.- Acceder al servicio de las bolsas de trabajo para tener una actividad laboral remunerada; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-VII.- Los demás señalados en esta Ley y otras disposiciones legales.
+VI.- Acceder al servicio de las bolsas de trabajo para tener una actividad laboral remunerada;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VII.- A no ser obligada a participar en mecanismos de conciliación con la persona generadora de violencia; y
+
+VIII.- Los demás señalados en esta Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2019)</small>
+
+Las mujeres de pueblos originarios serán asistidas gratuitamente en todo tiempo por intérpretes y deberán recibir asesoría jurídica por personal que tenga conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 72 BIS.- La persona generadora de violencia deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
 ### CAPÍTULO V. DE LOS REFUGIOS
 
@@ -1607,9 +1679,15 @@ VIII.- Realizar las acciones inherentes a la prevención, protección y atenció
 
 IX.- Proporcionar talleres educativos o de recreación a las personas atendidas;
 
-X.- Mantener secrecía sobre la ubicación o domicilio del refugio para proteger la integridad física y emocional de las usuarias del servicio; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
 
-XI.- Contar con la infraestructura adecuada y el personal debidamente capacitado para proporcionar los servicios de protección y atención a las receptoras de violencia.
+X.- Mantener secrecía sobre la ubicación o domicilio del refugio para proteger la integridad física y emocional de las usuarias del servicio;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+XI.- Prestar a las usuarias y, en su caso, a sus hijas e hijos, los servicios especializados y gratuitos de hospedaje, alimentación, vestido, calzado, servicio médico, asesoría jurídica, apoyo psicológico, programas reeducativos integrales, capacitación laboral y bolsa de trabajo; y
+
+XII.- Contar con la infraestructura adecuada y el personal debidamente capacitado para proporcionar los servicios de protección y atención a las receptoras de violencia.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -1962,5 +2040,11 @@ CUARTO.- Hasta en tanto se constituya la Fiscalía General del Estado de Colima,
 P.O. 29 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 522 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 78 BIS Y 86 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 45 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 45 FRACCIONES IX Y X, 35, 36, 56 FRACCIÓN V, 56 BIS FRACCIÓN VI, 60 BIS FRACCIÓN IX, 60 BIS 2 FRACCIONES III Y VII, 61 FRACCIÓN XVII, 69 PRIMER PÁRRAFO Y FRACCIONES X Y XI, 72 FRACCIONES III Y VI, Y 74 FRACCIÓN X; ASÍ COMO ADICIONAR LA FRACCIÓN XI AL ARTÍCULO 45, LA FRACCIÓN VII AL ARTÍCULO 56 BIS CON EL CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, LA FRACCIÓN X AL ARTÍCULO 60 BIS HACIÉNDOSE EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, LA FRACCIÓN XVIII AL ARTÍCULO 61 RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 69 Y SE RECORRE LA SIGUIENTE FRACCIÓN, LA FRACCIÓN VII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72 HACIÉNDOSE EL RESPECTIVO CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, EL ARTÍCULO 72 BIS, LA FRACCIÓN XI AL ARTÍCULO 74 RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
