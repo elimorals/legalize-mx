@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2019-02-16"
+last_updated: "2019-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -1141,7 +1141,9 @@ PRIMERO. El presente decreto entrará en vigor a partir del día 6 de diciembre 
 
 SEGUNDO. Las funciones del Instituto de Movilidad y Transporte del Estado de Jalisco relacionadas con las labores de movilidad y la dictaminación de rutas de transporte del Área Metropolitana de Guadalajara, serán asumidas por el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara; en el interior del estado por la Secretaría de Medio Ambiente y Desarrollo Territorial; y las funciones relacionadas con el transporte público serán asumidas por la Secretaría del Transporte.
 
-Los asuntos en trámite ante el Instituto de Movilidad y Transporte del Estado de Jalisco que se extingue, pasarán a las secretarías e Instituto señalados en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado. En el caso del Instituto, se requerirá la suscripción del convenio respectivo, previa aprobación de la Junta de Coordinación Metropolitana. En tanto no se firme dicho convenio por parte del Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara (IMEPLAN de la AMG), las funciones que le corresponden a éste serán asumidas por la Secretaría del Transporte.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2019)</small>
+
+Los asuntos en trámite ante el Instituto de Movilidad y Transporte del Estado de Jalisco que se extingue, pasarán a las secretarías e Instituto señalados en este artículo, de conformidad con el presente decreto, o en los términos que establezca el Gobernador del Estado.
 
 TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto de Movilidad y Transporte del Estado de Jalisco, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
 
@@ -1198,3 +1200,9 @@ P.O. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27236/LXII/19 QUE ADICIONA UN NUEVO NUMERAL 4 Y RECORRE LAS SIGUIENTES AL ARTÍCULO 3° Y SE CREA UN CAPÍTULO V AL TÍTULO SEGUNDO Y UN ARTÍCULO 25 BIS, DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27272/LXII/19 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 27212/LXII/18, PUBLICADO EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO EL DÍA 6 DE DICIEMBRE DEL 2018, MEDIANTE EL CUAL SE ABROGÓ LA LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, Y SE REFORMARON DIVERSOS ARTÍCULOS DE (SIC) LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO Y LA LEY DE COORDINACIÓN METROPOLITANA”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco.
