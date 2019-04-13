@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-04-06"
+last_updated: "2019-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3877,9 +3877,9 @@ La Ley preverá la coordinación necesaria entre la instancia técnica, la Secre
 
 Por lo que respecta a los Municipios del Estado, éstos serán evaluados por el Órgano Superior de Fiscalización del Estado de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2019)</small>
 
-Los servidores públicos de la Federación, del Estado y de los municipios, así como del Distrito Federal y sus Delegaciones tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en equidad de la competencia entre los partidos políticos.
+Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en equidad de la competencia entre los partidos políticos.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -5212,3 +5212,9 @@ P.O. 6 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 582.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- La presente Ley entrará en vigor al siguiente día hábil de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 598.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado.
