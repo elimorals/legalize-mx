@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-zacatecano-de-educacion-96748"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2019-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO ZACATECANO DE EDUCACION PARA ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO ZACATECANO DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO ZACATECANO DE EDUCACIÓN PARA ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019 (ABROGADO).
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de noviembre de 2013.
 
 LA JUNTA DE GOBIERNO INSTITUTO ZACATECANO DE EDUCACIÓN PARA ADULTOS EN EJERCICIO DE LAS ATRIBUCIONES QUE LE CONFIEREN LOS ARTÍCULOS 13 Y 15 DE LA LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES DE LA ENTIDAD; 44 FRACCIÓN VI DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y 10 FRACCIÓN V DEL DECRETO DE CREACIÓN DEL PROPIO INSTITUTO; Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, tenemos a bien emitir el siguiente:
 
@@ -624,3 +628,21 @@ Segundo.- Se abroga el Estatuto Orgánico del Instituto Zacatecano de Educación
 Tercero.- Dentro del término de treinta días naturales a partir de la publicación del presente Estatuto, deberá expedirse el Manual de Organización y ciento ochenta días naturales el de Procedimientos.
 
 APROBADO POR LA JUNTA DE GOBIERNO DEL INSTITUTOZACATECANO (SIC) DE EDUCACIÓN PARA ADULTOS, EN SESIÓN ORDINARIA CELEBRADA EL DÍA VEINTIDÓS DE MARZO DE 2013, EN LA CIUDAD DE GUADALUPE, ZACATECAS.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO ZACATECANO DE EDUCACIÓN PARA ADULTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico del Instituto Zacatecano de Educación para Adultos, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, suplemento al número 95, en fecha 27 de noviembre del año 2013, así como aquellas disposiciones internas que se opongan al presente Ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de 90 días naturales se expedirá el Manual de Organización y 90 días naturales el Manual de Procedimientos, contando a partir de la entrada en vigor del presente Estatuto Orgánico.
