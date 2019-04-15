@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-03-25"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -499,13 +499,13 @@ En el caso de establecimientos que expidan alimentos y bebidas en las escuelas d
 
 t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado";
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
-v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal y la diabetes;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -3665,31 +3665,13 @@ P.O. 25 DE MARZO DE 2019.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, COMPETENCIA Y FECHA DE INICIO DE FUNCIONES DEL DÉCIMO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO".]
+P.O. 15 DE ABRIL DE 2019.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciséis, con excepción de lo dispuesto en el artículo transitorio TERCERO, que entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 133.- SE REFORMA EL INCISO V DE LA FRACCIÓN IV APARTADO A DEL ARTÍCULO 28 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-CUARTO. Se reforman los artículos PRIMERO, fracción I y SEGUNDO, fracción I, numeral 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
-
-I. PRIMER CIRCUITO: Ciudad de México.
-
-...
-
-SEGUNDO. ...
-
-I. PRIMER CIRCUITO:
-
-1. Sesenta y un tribunales colegiados especializados: diez en materia penal... todos con residencia en la Ciudad de México.
-
-...".
-
-D.O.F. 9 DE JUNIO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
 
