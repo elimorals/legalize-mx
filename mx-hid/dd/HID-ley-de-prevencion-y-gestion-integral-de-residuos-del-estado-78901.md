@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2018-08-01"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -85,6 +85,10 @@ V.- Ley Ambiental: La Ley para la Protección al Ambiente del Estado de Hidalgo;
 
 VI.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VI Bis.- Plásticos de un solo uso descartables: aquellos elaborados con materiales plásticos derivados de combustibles fósiles, tales como: bolsas, popotes, vasos, charolas, cubiertos, platos, agitadores y tapas, incluyendo sus similares de poliestireno expandido;
+
 VII.- Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
 
 VIII.- Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como, cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
@@ -107,7 +111,9 @@ II.- Incorporar en los planes y programas de ordenamiento territorial, ordenamie
 
 III.- Requerir a las autoridades municipales correspondientes y a los grandes generadores de residuos de la Entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los mismos;
 
-IV.- Formular e instrumentar un programa maestro con enfoque regional e intermunicipal, para detener la creación y proceder al cierre de tiraderos de residuos a cielo abierto en todo el Estado: y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+IV.- Formular e instrumentar un programa maestro con enfoque regional e intermunicipal, para detener la creación y proceder al cierre de tiraderos de residuos a cielo abierto en todo el Estado;
 
 V.- Participar y evaluar, en coordinación con las autoridades municipales, en:
 
@@ -127,15 +133,39 @@ d).- En la Implementación de los esquemas administrativos para recabar el pago 
 
 e).- En la planificación, puesta en marcha, evaluación y seguimiento de programas que permitan la gestión integral de residuos de alimentos acorde a lo establecido por la normatividad vigente.
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VI. Generar políticas públicas dirigidas a establecimientos y empresas, para la eliminación de plásticos de un solo uso descartables, que se entreguen a los consumidores a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga, uso o traslado de bienes, a fin de generar un compromiso ambiental;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VII. Emprender esfuerzos y elaborar políticas públicas para incorporar a los establecimientos y empresas correspondientes, en la generación de un compromiso ambiental tendiente a la eliminación de la utilización de plásticos de un solo uso descartables;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VIII. Promover esfuerzos mediante campañas de difusión, actividades de educación ambiental, capacitación y otras similares para generar conciencia en la población de los efectos perjudiciales en el ambiente que produce el uso de plásticos de un solo uso descartables; así como estimular la investigación y desarrollo de materiales reutilizables y alternativas, convenios de cooperación con establecimientos para incentivar el uso de bolsas reutilizables y de la necesidad de eliminar el uso de plásticos de un sólo uso; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+IX. Vigilar que los establecimientos pongan a disposición de los clientes bolsas reutilizables.
+
 ###### Artículo 6.
 
 Corresponde a las Autoridades Municipales el ejercicio de las facultades, respecto al objeto de esta Ley previstas en la Ley Ambiental y en la Ley General, así como las siguientes:
 
 I.- Promover el establecimiento de programas de minimización y gestión integral de los residuos producidos por los grandes generadores de su municipio;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
-a) Establecer un programa ambiental en coordinación con el Estado en que se de difusión al perjuicio y deterioro que causan las bolsas y popotes de plástico, a fin de promover la conciencia ecológica o informar a la ciudadanía sobre las posibles alternativas de sustitución de estos.
+a) Establecer un programa ambiental en coordinación con el Estado en que se dé difusión al perjuicio y deterioro que causan las bolsas y popotes de plástico, a fin de promover la conciencia ecológica o informar a la ciudadanía sobre las posibles alternativas de sustitución de estos;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+b) Vigilar el cumplimiento de las disposiciones de regulación del uso de plásticos de un solo uso descartables y sancionar en caso de incumplimiento, de acuerdo con lo establecido en la legislación correspondiente; e
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+c) Implementar políticas públicas encaminadas a la reducción y posterior eliminación de materiales plásticos de un solo uso descartables, buscando alternativas que impulsen su sustitución definitiva por productos elaborados con materiales que sean biodegradables y reduzcan o eliminen el impacto ambiental por el uso de esos productos.
 
 II.- Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
@@ -657,13 +687,23 @@ XIV.- El confinamiento o depósito final de residuos en estado líquido o con co
 
 XV.- Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-XVI.- Proporcionar en tiendas departamentales, de autoservicio, de conveniencia, tianguis, comercios en general y establecimientos donde se comercialicen alimentos y bebidas, bolsas y popotes de plástico, sustituyéndose preferentemente por materiales biodegradables.
+XVI.- Proporcionar a título gratuito u oneroso, en supermercados, en tiendas departamentales, de autoservicio, de conveniencia, farmacias, mercados, centrales de abasto, tianguis, comercios en general y establecimientos donde se comercialicen alimentos y bebidas, plásticos de un solo uso descartables a título gratuito u oneroso, para fines de envoltura, transportación, carga o traslado de productos o mercancías.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 15 DE ABRIL DE 2019]</small>
+
+Quedan excluidas de esta prohibición aquéllas que se empleen por razones de salud, higiene o conservación de alimentos en términos de las Normas Oficiales.
 
 > <small>[N. DE E. PERTENECE AL ARTÍCULO 44, P.O. 1 DE AGOSTO DE 2018]</small>
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+###### Artículo 44 Bis.
+
+Los establecimientos y comercios a que se refiere la fracción XVI del artículo anterior, deberán incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso tales como: bolsas de tela, canastas, redes, u otras hechas de material reutilizable, para fines de envoltura, transportación, carga o traslado de productos o mercancías.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
 
@@ -1312,3 +1352,11 @@ P.O. 1 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 478 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NúM. 178 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Los establecimientos y comercios señalados en la fracción XVI del artículo 44 de esta Ley, contarán con un plazo máximo de 180 días naturales para la eliminación definitiva de los productos de plástico de un solo uso descartable, conforme a lo establecido en el presente Decreto.
