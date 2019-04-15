@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-01-01"
+last_updated: "2019-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1242,6 +1242,10 @@ Los acuerdos de la Junta deben estar suscritos por el Presidente, o por quien ha
 De cada reunión se levantará un acta en la cual se asentará una síntesis de las discusiones y los acuerdos de la Junta. Las actas serán firmadas por quien haya presidido la sesión y por el Secretario, así como por los demás integrantes de la Junta que habiendo estado presentes en la sesión respectiva así lo decidan.
 
 Asimismo, se llevará un libro de registro en el que se anotarán los acuerdos y las disposiciones de la Junta que, junto con las actas de las sesiones, se integrarán al archivo del Congreso.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+Una vez que haya sido aprobada por la Junta, el acta deberá ser notificada en forma escrita o electrónica a cada uno de los diputados que integran la Legislatura, y publicarse en los medios de difusión digital del Congreso.
 
 ###### ARTICULO 126.
 
@@ -2696,6 +2700,14 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 1 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0049 BIS.- SE REFORMA EL ARTÍCULO 89 EN SU PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0151.- SE ADICIONA (SIC) PÁRRAFO TERCERO AL ARTÍCULO 125 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
