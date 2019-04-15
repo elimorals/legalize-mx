@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-creacion-de-la-universidad-tecnologica-metropolitana-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-03"
-last_updated: "2018-09-03"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de septiembre de 2018.
 
@@ -45,11 +45,13 @@ LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES
 
 ### CAPÍTULO I. La Naturaleza, Objeto y Funciones
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 1º.
 
-La presente Ley, tiene como finalidad la creación de la Universidad Tecnológica Metropolitana de Aguascalientes, siendo un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios. Con domicilio en el Municipio de Aguascalientes, correspondiente al Estado de mismo nombre, pudiendo establecer subsedes en otros lugares dentro de la Entidad Federativa.
+La presente Ley, tiene como finalidad la creación de la Universidad Tecnológica Metropolitana de Aguascalientes, siendo un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios. Con domicilio en el Municipio de Aguascalientes, correspondiente al Estado de (sic) mismo nombre.
 
-En cuanto al modelo pedagógico se integrará al Sistema Nacional de Universidades Tecnológicas y Politécnicas, en su modalidad Bilingüe, Internacional y Sustentable denominado “BIS”, de acuerdo con los criterios que señalen la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes, conforme a lo prescrito en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Aguascalientes.
+En cuanto al modelo pedagógico se integrará al Subsistema de Universidades Tecnológicas y Politécnicas, en su modalidad Bilingüe, Internacional y Sustentable denominado "BIS", cumpliendo con los criterios y disposiciones establecidos tanto por la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas y Politécnicas, y por el Instituto de Educación de Aguascalientes, conforme a lo prescrito en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Aguascalientes.
 
 ###### ARTÍCULO 2º.
 
@@ -73,9 +75,13 @@ VII.- Universidad: La Universidad Tecnológica Metropolitana de Aguascalientes.
 
 La Universidad tendrá como objeto:
 
-I.- Formar, a partir de egresados del bachillerato, Técnicos Superiores Universitarios con una sólida preparación humanística, aptos para la aplicación de conocimientos y la solución de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos; asimismo, ofrecer, a partir del Técnico Superior Universitario, la continuidad de estudios de Ingeniería Técnica (Licencia Profesional), Licenciaturas, Ingenierías y Posgrados;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-II.- Impartir programas de Técnico Superior Universitario, Licenciaturas, Ingenierías y Posgrado, con las características de intensidad, pertinencia, flexibilidad, calidad, en sus diferentes modalidades;
+I.- Formar, a partir de egresados del bachillerato, Técnicos Superiores Universitarios con una sólida preparación humanística, aptos para la aplicación de conocimientos y la solución de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos; asimismo, ofrecer, a partir del Técnico Superior Universitario, la continuidad de estudios de Licenciaturas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+II.- Impartir programas de Técnico Superior Universitario y Licenciaturas, con las características de intensidad, pertinencia, flexibilidad, calidad, en sus diferentes modalidades;
 
 III.- Desarrollar estudios o proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento, eficiencia y competitividad en la producción industrial y mayor eficiencia de la producción de bienes o servicios, y a la elevación de la calidad de vida del Estado y la región;
 
@@ -87,7 +93,9 @@ VI.- Implementar mecanismos de evaluación de la calidad en los procesos institu
 
 VII.- Desarrollar las funciones de vinculación con los sectores público, privado y social, para contribuir al desarrollo tecnológico y social de la Entidad;
 
-VIII.- Promover y organizar programas de prestación del servicio social, estadías, residencias, prácticas profesionales u otras modalidades de vinculación entre la sociedad y la Universidad, acorde a los objetivos de los programas educativos; e
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VIII.- Promover y organizar programas de estancias y estadía profesional u otras modalidades de vinculación entre la sociedad y la Universidad, acorde a los objetivos de los programas educativos; e
 
 IX.- Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la proyección de las actividades productivas, con los más altos niveles de eficiencia y sentido social.
 
@@ -103,7 +111,9 @@ III.- Expedir certificados de estudio, títulos, diplomas, distinciones especial
 
 IV.- Revalidar y establecer equivalencias de los estudios realizados en otras instituciones educativas, nacionales y extranjeras, de acuerdo con lo establecido en las disposiciones legales aplicables;
 
-V.- Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título profesional de: "Técnico Superior Universitario"; así como programas de continuidad de estudios para sus egresados y de otras Instituciones que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciaturas, ingenierías y posgrados, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas y Politécnicas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+V.- Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título profesional de: "Técnico Superior Universitario"; así como programas de continuidad de estudios para sus egresados y de otras Instituciones que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas y Politécnicas;
 
 VI.- Organizar actividades culturales y deportivas que contribuyan a la formación integral de los alumnos;
 
@@ -165,9 +175,9 @@ II.- Unidades Administrativas;
 
 III.- Órganos de Control y Evaluación:
 
-a) Órgano de Vigilancia; y
+a) (DEROGADO, P.O. 15 DE ABRIL DE 2019)
 
-b) Órgano Interno de Control; y
+b) (DEROGADO, P.O. 15 DE ABRIL DE 2019)
 
 IV.- Órganos Colegiados.
 
@@ -183,15 +193,17 @@ El Consejo estará conformado por los siguientes miembros:
 
 I.- El Titular del Poder Ejecutivo del Estado o la persona quien designe, presidirá el Consejo;
 
-II.- El Titular de la Secretaría General de Gobierno del Estado;
+II.- (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
-III.- El Titular de la Secretaría de Finanzas del Estado;
+III.- (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
 IV.- El Titular de la Secretaría de Desarrollo Económico del Estado;
 
 V.- El Titular del Instituto de Educación de Aguascalientes;
 
-VI.- Dos representantes de la Administración Pública Federal, designados por el Secretario de Educación Pública, por conducto de la Subsecretaría de Educación Superior y/o de la Coordinación General de Universidades Tecnológicas y Politécnicas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VI.- Tres representantes de la Administración Pública Federal, designados por el Secretario de Educación Pública, por conducto de la Subsecretaría de Educación Superior y/o de la Coordinación General de Universidades Tecnológicas y Politécnicas;
 
 VII.- Un representante del Ayuntamiento de Aguascalientes; y
 
@@ -219,7 +231,9 @@ I.- Dictar las políticas y lineamientos generales para el debido funcionamiento
 
 II.- Conocer, discutir y aprobar, en su caso, los temas particulares o regionales que a su juicio deban ser incorporados a los planes y programas de estudios;
 
-III.- Conocer, discutir y aprobar, en su caso, la apertura o cierre de nuevos programas de Técnico Superior Universitario, Licenciaturas, Ingenierías y Posgrados; así como Diplomados y Estudios de Educación Continua;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+III.- Conocer, discutir y aprobar, en su caso, la apertura o cierre de nuevos programas de Técnico Superior Universitario y Licenciaturas; así como Diplomados y Estudios de Educación Continua;
 
 IV.- Nombrar y remover a los servidores públicos de la Universidad que ocupen cargos en el segundo nivel jerárquico inferior al del Rector, a propuesta formulada por el propio Rector;
 
@@ -231,7 +245,9 @@ VII.- Integrar Comisiones de análisis de los asuntos y problemas de su competen
 
 VIII.- Conocer y aprobar, en su caso, el plan anual de trabajo y los informes de actividades del Rector;
 
-IX.- Reglamentar el ingreso y promoción del personal docente mediante concurso de oposición que será evaluado por una Comisión integrada por acuerdo del Consejo, el cual deberá cumplir con los perfiles que para tal efecto establezca la Secretaría de Educación Pública, exigido por el programa educativo conforme al Reglamento de Ingreso, Permanencia y Promoción del Personal Académico;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+IX.- Reglamentar el ingreso y promoción del personal docente mediante concurso de oposición que será evaluado por una Comisión Dictaminadora integrada de acuerdo a lo señalado por el Reglamento de Ingreso, Promoción y Permanencia del Personal Académico, y demás normatividad aplicable;
 
 X.- Designar a los miembros del Patronato de la Universidad;
 
@@ -325,9 +341,11 @@ El Rector en ausencias temporales será sustituido por el servidor público que 
 
 En caso de ausencia definitiva, el Titular del Poder Ejecutivo del Estado designará a un Rector Interino, quien concluirá el período de cuatro años correspondiente al Titular separado de su cargo, en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 20.
 
-El Rector para la atención y despacho de los asuntos de su competencia, contará con la estructura orgánica que determine el Consejo en el Reglamento Interno, en los Manuales de Organización y demás disposiciones aplicables, todo ello atendiendo al presupuesto establecido al efecto.
+El Rector para la atención y despacho de los asuntos de su competencia, contará con la estructura orgánica que determine el Consejo en el Reglamento Interno, en los Manuales de Organización y demás disposiciones aplicables previamente aprobados por la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas y Politécnicas, todo ello atendiendo al presupuesto establecido al efecto.
 
 Para garantizar la calidad institucional el Rector podrá contar además con Órganos Colegiados internos los cuales estarán sujetos a las funciones y facultades que se indiquen en la normatividad respectiva.
 
@@ -357,9 +375,13 @@ V.- Ejercer las facultades que le confieran otras disposiciones aplicables, así
 
 Las Unidades Administrativas serán todas aquellas Áreas y Unidades, dependientes del Rector, necesarias para el cumplimiento del objeto de la Universidad, mismas que se establezcan en el Reglamento Interno, los Manuales de Organización y demás disposiciones aplicables.
 
-El Consejo podrá aprobar la creación la creación (sic) de Unidades Administrativas.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-### CAPÍTULO VI. El Órgano de Vigilancia
+El Consejo podrá aprobar la creación de Unidades Administrativas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO VI. Los Órganos de Control y Evaluación
 
 ###### ARTÍCULO 24.
 
@@ -369,29 +391,19 @@ El Comisario Público cuenta con facultades para evaluar el desempeño general y
 
 Para el cumplimiento de las funciones citadas el Consejo y el Rector deberán proporcionar la información que solicite el Comisario Público de la Universidad y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 25.
 
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la Universidad, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la Universidad, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública; dicho órgano funcionará de acuerdo a lo dispuesto en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2019)</small>
 
 ### CAPÍTULO VII. El Órgano Interno de Control
 
 ###### ARTÍCULO 26.
 
-Para el ejercicio de sus funciones, el Órgano Interno de Control se conformará con las siguientes Autoridades:
-
-I.- Autoridad Auditora: Encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno.
-
-II.- Autoridad Investigadora: Encargada de recibir las denuncias y elaborar en su caso el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas, la cual gozará de independencia en el ejercicio de sus funciones.
-
-III.- Autoridad Substanciadora y Resolutora: Encargada de dirigir y conducir el procedimiento de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso en términos de lo establecido en la Ley de Responsabilidades Administrativas, la cual gozará de independencia en el ejercicio de sus funciones.
-
-Los Titulares de dichas Autoridades serán designados por el Titular del Poder Ejecutivo del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
-
-El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas.
-
-Para efecto del conocimiento de las facultades en lo particular de cada una de las Autoridades que conforman el Órgano Interno de Control de la Universidad se estará a lo dispuesto por la Ley de Responsabilidades Administrativas, al Reglamento Interno y a las demás disposiciones aplicables.
-
-El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+(DEROGADO, P.O. 15 DE ABRIL DE 2019)
 
 ### CAPÍTULO VIII. Los Órganos Colegiados
 
@@ -498,3 +510,37 @@ ARGELIA SALAS DEL HOYO
 PROSECRETARIA EN FUNCIONES DE SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 31 de agosto de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 134.- SE REFORMA LA LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A efecto de establecer la integración del Consejo Directivo de la Universidad Tecnológica Metropolitana de Aguascalientes, y a efectos de dar cumplimiento a lo establecido en las presentes modificaciones, el Consejo Directivo debe sesionar dentro de los treinta días siguientes de la publicación del presente Decreto, a efecto de acordar lo necesario para el cumplimiento del objeto de la Universidad.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, la Universidad Tecnológica Metropolitana de Aguascalientes, deberá adoptar el modelo académico, así como la estructura administrativa y orgánica autorizada por la Secretaría de Educación Pública a través de la Coordinación General de Universidades Tecnológicas y Politécnicas, de acuerdo a lo señalado en el Convenio de Colaboración para la Operación y Apoyo Financiero de la Universidad Tecnológica Metropolitana de Aguascalientes, suscrito entre la federación y el Gobierno del Estado, de fecha 30 de noviembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+Con la entrada en vigor del presente Decreto el nombramiento del Rector de la Universidad Tecnológica Metropolitana de Aguascalientes seguirá vigente, en base al nombramiento autorizado por el Consejo Directivo y emitido por el C. Gobernador del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efecto todas aquellas disposiciones que se contrapongan con el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Directivo de la Universidad Tecnológica Metropolitana de Aguascalientes deberá expedir la normatividad institucional y reglamentaria necesaria, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, en virtud de las presentes modificaciones a la Ley de Creación de la Universidad Tecnológica Metropolitana de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Rector de la Universidad Tecnológica Metropolitana de Aguascalientes deberá solicitar la inscripción de las presentes reformas y derogaciones en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el apartado correspondiente a las entidades paraestatales, dentro de los 30 días siguientes a la publicación del presente Decreto.
