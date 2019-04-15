@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2019-03-01"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -2095,9 +2095,17 @@ XIV. Participar en la evaluación de las políticas y de las instituciones de se
 
 XV. Proponer reconocimientos por méritos o estímulos para los integrantes de las instituciones;
 
-XVI. Realizar denuncias o quejas sobre irregularidades, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-XVII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas, y participar en las actividades que no sean confidenciales, o pongan en riesgo el buen desempeño en la función de seguridad pública.
+XVI. Realizar denuncias o quejas sobre irregularidades;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+XVII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas, y participar en las actividades que no sean confidenciales, o pongan en riesgo el buen desempeño en la función de seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+XVIII. Realizar y fomentar, en coordinación con los ayuntamientos, acciones enfocadas al rescate de espacios públicos con fines de prevención del delito y de la violencia.
 
 ###### ARTICULO 144.
 
@@ -2726,5 +2734,13 @@ P.O. 1 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0122.- SE REFORMA Y ADICIONA EL ARTÍCULO 17 DE LA LEY DE SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0151 BIS.- SE REFORMA EL ARTÍCULO 143 EN SUS FRACCIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
