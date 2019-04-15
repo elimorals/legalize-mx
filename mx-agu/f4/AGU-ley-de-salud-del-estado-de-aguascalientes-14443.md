@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-03-25"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -461,13 +461,13 @@ En el caso de establecimientos que expidan alimentos y bebidas en las escuelas d
 
 t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado";
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
-v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal y la diabetes;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -3620,6 +3620,14 @@ P.O. 12 DE NOVIEMBRE DE 2018.
 P.O. 25 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.- SE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 133.- SE REFORMA EL INCISO V DE LA FRACCIÓN IV APARTADO A DEL ARTÍCULO 28 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
