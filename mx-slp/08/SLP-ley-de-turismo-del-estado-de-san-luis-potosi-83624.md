@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2018-05-29"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -737,6 +737,8 @@ XVIII. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplic
 
 ### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 68.
 
 Los turistas, con independencia de los derechos que les asisten como consumidores, tendrán en los términos previstos en esta Ley, los siguientes derechos:
@@ -811,11 +813,15 @@ En el caso de la promoción internacional, ésta se llevará a cabo en coordinac
 
 La Secretaría expedirá los lineamientos técnicos para el diseño y la producción de las campañas publicitarias del turismo del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 78.
 
-La marca turística del Estado, así como las de las regiones, centro, huasteca, altiplano, y media, son elementos gráficos que identifican a la Entidad como destino turístico en el ámbito local, nacional, e internacional.
+La marca turística del Estado, así como las de las regiones; centro; huasteca; altiplano; y media, son elementos gráficos asociados a atributos singulares y, en algunos casos, exclusivos, que facilitan la identificación, asociación y reconocimiento de la Entidad y las regiones que la integran; tienen el objetivo de aumentar la proyección y competitividad turística del Estado y las regiones a nivel nacional e internacional, por medio de su presencia estable y a largo plazo, con independencia de los periodos administrativos.
 
-La Secretaría promoverá el uso de las marcas turísticas en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+La Secretaría promoverá el uso de las marcas turísticas en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas; y procurará que las marcas turísticas regionales sean utilizadas junto a los elementos de la marca estatal.
+
+Los elementos gráficos utilizados por la administración estatal y las administraciones municipales en sus campañas de comunicación social, en todos los casos, deberán ser distintos a los de la marca turística del Estado y a las de las regiones.
 
 ###### ARTICULO 79.
 
@@ -851,7 +857,7 @@ La Secretaría determinará el sitio de internet oficial del Estado, para la inf
 
 ###### ARTICULO 82.
 
-El Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, tiene como función primordial implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado.
+El Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, tiene como función primordial implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado, y se integrará con la partida presupuestal que, en su caso, apruebe el Poder Legislativo a propuesta del Poder Ejecutivo.
 
 ###### ARTICULO 83.
 
@@ -953,9 +959,17 @@ IV. Establecer mecanismos de coordinación, comunicación e intercambio de Infor
 
 V. Opinar sobre la elaboración del Programa Sectorial de Turismo;
 
-VI. Conocer las opiniones y recomendaciones de los Consejos Consultivos Regionales Municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-VII. Vigilar la aplicación de los métodos de control y evaluación del servicio.
+VI. Conocer las opiniones y recomendaciones de los Consejos Consultivos Regionales Municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VII. Vigilar la aplicación de los métodos de control y evaluación del servicio, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+VIII. Hacer propuestas a la Secretaría sobre el diseño y los elementos de las marcas turísticas estatal y regionales.
 
 ###### ARTICULO 87.
 
@@ -1166,3 +1180,19 @@ P.O. 29 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0149.- SE REFORMAN LOS ARTÍCULOS 78 Y 86 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0150.- SE REFORMA EL ARTÍCULO 82 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
