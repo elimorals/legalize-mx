@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-anticorrupcion-de-la-ciudad-de-mexico-123182"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2017-09-01"
+last_updated: "2019-04-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123182&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-31"
 ---
 # LEY DEL SISTEMA ANTICORRUPCION DE LA CIUDAD DE MEXICO
 
-(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE EXPIDE ESTA LEY, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL PRIMERO DE SEPTIEMBRE DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE ESTA LEY, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL QUINCE DE ABRIL DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en el Número 146 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -86,17 +86,27 @@ I. Auditoría Superior de la Ciudad de México: La Entidad de Fiscalización Sup
 
 II. Auditoría Social: Proceso que permite al poder público, sus instituciones y las personas servidoras públicas que lo integran, evaluar, medir y controlar su eficacia social y su comportamiento ético en relación a sus atribuciones, facultades y acciones, de manera que pueda mejorar progresivamente su gestión y resultados sociales; así como dar cuenta de ellos a todas las personas comprometidas o relacionadas con su actividad fortaleciendo la rendición de cuentas;
 
-III. Comisión Ejecutiva: El órgano técnico auxiliar de la Secretaría Ejecutiva;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN III DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IV. Comisión de selección: La que se constituya en términos de esta Ley, para nombrar a los integrantes del Comité de Participación Ciudadana;
+III. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN IV DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+IV. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 V. Comité Coordinador: la instancia gubernamental colegiada a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Local;
 
-VI. Comité de Participación Ciudadana: La instancia ciudadana colegiada a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, que cuenta con las facultades que establece esta Ley;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN VI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VII. Días: Días hábiles;
+VI. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
-VIII. Entes públicos: Los Poderes, las dependencias, órganos, organismos y entidades de la Administración Pública Local, los Órganos Político Administrativos, Alcaldías o Demarcaciones Territoriales de la Ciudad de México; los Órganos Autónomos; la Procuraduría General de Justicia de la Ciudad de México; los órganos jurisdiccionales que no formen parte del poder judicial; los Organismos Paraestatales, Universidades Públicas, Fideicomisos y Fondos Públicos, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes e instancias públicas gubernamentales antes citadas; sus dependencias y entidades;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN VII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+VII. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN VIII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+VIII. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 IX. Ley: La Ley del Sistema Anticorrupción de la Ciudad de México;
 
@@ -106,25 +116,41 @@ XI. Organizaciones de la Sociedad Civil: Las agrupaciones, Asociaciones o Socied
 
 XII. Órganos Autónomos: Aquellos que la Constitución Política de la Ciudad de México, y la legislación determinen con ese carácter a nivel local;
 
-XIII. Órganos internos de control: Los Órganos internos de control en los Entes públicos;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN XIII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XIII. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 XIV. Personas servidoras públicas: Los mencionados en el párrafo primero del Artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y sus correlativos establecidos en la normatividad aplicable en la Ciudad de México;
 
 XV. Poderes: Los Poderes Ejecutivo, Legislativo y Judicial de la Ciudad de México;
 
-XVI. Rendición de Cuentas: Para efectos de la presente ley, consiste en el derecho de toda persona para exigir al poder público, sus instituciones y las personas servidoras públicas que las conforman, que informen, pongan a disposición en medios adecuados, justifiquen sus acciones y decisiones emprendidas derivadas del desarrollo de su actividad, incluyendo el establecimiento de indicadores que permitan el conocimiento, la forma en que se llevaron a cabo, y la evaluación de los resultados obtenidos; así como la obligación de dicho poder público de cumplir con los principios y obligaciones que se le establecen en la Ley General, la presente ley y demás legislación aplicable;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+XVI. RENDICIÓN DE CUENTAS: ES EL DERECHO DE TODA PERSONA PARA EXIGIR AL PODER PÚBLICO, SUS INSTITUCIONES Y LAS PERSONAS SERVIDORAS PÚBLICAS QUE LAS CONFORMAN, QUE INFORMEN Y PONGAN A DISPOSICIÓN EN MEDIOS ADECUADOS, LAS ACCIONES Y DECISIONES EMPRENDIDAS DERIVADAS DEL DESARROLLO DE SU ACTIVIDAD, ASÍ COMO LOS INDICADORES QUE PERMITAN EL CONOCIMIENTO Y LA FORMA EN QUE SE LLEVARON A CABO, INCLUYENDO LOS RESULTADOS OBTENIDOS; ASÍ COMO LA OBLIGACIÓN DE DICHO PODER PÚBLICO DE CUMPLIR CON LOS PRINCIPIOS Y OBLIGACIONES QUE SE LE ESTABLECEN EN LA LEY GENERAL, LA PRESENTE LEY Y DEMÁS LEGISLACIÓN APLICABLE;
 
 XVII. Secretaría de la Contraloría General de la Ciudad de México: a la dependencia del gobierno central encargada del control interno del Gobierno de la Ciudad de México;
 
-XVIII. Secretaría Ejecutiva: Organismo que funge como órgano de apoyo técnico del Comité Coordinador;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN XVIII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XIX. Secretario Técnico: La persona servidora pública a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás facultades que le confiere la presente Ley;
+XVIII. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN XIX DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XIX. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 XX. Sistema Local: El Sistema Anticorrupción de la Ciudad de México;
 
-XXI. Sistema Local de Fiscalización: El Sistema de Fiscalización de la Ciudad de México, integrado por el conjunto de mecanismos interinstitucionales de coordinación entre los órganos responsables de las tareas de auditoría gubernamental en la Ciudad de México, así como de quienes practican auditoría interna y externa a los entes públicos, colegios y barras de profesionistas de la materia, con el objetivo de maximizar la calidad técnica, cobertura y el impacto de la auditoría y la fiscalización gubernamental en la Ciudad de México, con base en una visión estratégica, la aplicación de estándares profesionales similares innovadores, la creación de capacidades y el intercambio efectivo de información, evitando al máximo duplicidades, obsolescencia u omisiones; y
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XXII. Sistema Nacional: El Sistema Nacional Anticorrupción.
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+XXI. SISTEMA LOCAL DE FISCALIZACIÓN: EL SISTEMA DE FISCALIZACIÓN DE LA CIUDAD DE MÉXICO ES EL CONJUNTO DE MECANISMOS INTERINSTITUCIONALES DE COORDINACIÓN ENTRE LOS ÓRGANOS RESPONSABLES DE LAS TAREAS DE AUDITORÍA GUBERNAMENTAL EN LOS DISTINTOS ÓRDENES DE GOBIERNO DE LA CIUDAD DE MÉXICO, CON EL OBJETIVO DE MAXIMIZAR LA CALIDAD TÉCNICA, COBERTURA Y EL IMPACTO DE LA AUDITORÍA Y LA FISCALIZACIÓN GUBERNAMENTAL EN LA CIUDAD DE MÉXICO, CON BASE EN UNA VISIÓN ESTRATÉGICA, LA APLICACIÓN DE ESTÁNDARES PROFESIONALES SIMILARES, LA CREACIÓN DE CAPACIDADES Y EL INTERCAMBIO EFECTIVO DE INFORMACIÓN, EVITANDO AL MÁXIMO DUPLICIDADES, OBSOLESCENCIA U OMISIONES;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN XXII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XXII. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 ###### Artículo 4.
 
@@ -146,11 +172,17 @@ Los Entes públicos de la Ciudad de México están obligados a crear y mantener 
 
 El Sistema Local tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de todos los entes públicos de la Ciudad de México en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la transparencia, control, fiscalización y rendición de cuentas sobre los recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar la política en la materia en la Ciudad de México, en colaboración y complementación con el Sistema Nacional.
 
-Las políticas públicas que establezca el Comité Coordinador del Sistema Local deberán ser implementadas por todos los entes públicos en la Ciudad de México, guardarán congruencia como mínimo con las establecidas por las del Sistema Nacional y podrán complementar e ir más allá en la implementación de principios y obligaciones para eficientar el cumplimiento de los principios rectores del servicio público.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+LAS POLÍTICAS PÚBLICAS QUE ESTABLEZCA EL COMITÉ COORDINADOR DEL SISTEMA LOCAL DEBERÁN SER IMPLEMENTADAS POR TODOS LOS ENTES PÚBLICOS EN LA CIUDAD DE MÉXICO, DEBIENDO GUARDAR CONGRUENCIA CON LAS ESTABLECIDAS POR EL SISTEMA NACIONAL.
 
 La Secretaría Ejecutiva dará seguimiento a la implementación de dichas políticas.
 
-En el Presupuesto de Egresos de la Ciudad de México, se contemplarán los recursos suficientes para la operación del Sistema Anticorrupción, y se identificará por área específica el monto aprobado para el respectivo ejercicio fiscal.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 7.
 
@@ -206,7 +238,11 @@ XIV. Promover y disponer las medidas necesarias para la práctica de auditorías
 
 XV. Disponer las medidas necesarias para que las autoridades competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, accedan a la información necesaria para el ejercicio de sus atribuciones, contenida en los sistemas que se conecten con la Plataforma Digital Local;
 
-XVI. Observar las leyes en la materia, referentes a los mecanismos de cooperación internacional para el combate a la corrupción, a fin de conocer y compartir las mejores prácticas internacionales, para colaborar en el combate global del fenómeno; y, en su caso, compartir a la comunidad internacional las experiencias relativas a los mecanismos de evaluación de las políticas anticorrupción;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+XVI. PARTICIPAR, CONFORME A LAS LEYES EN LA MATERIA, EN LOS MECANISMOS DE COOPERACIÓN INTERNACIONAL PARA EL COMBATE A LA CORRUPCIÓN, A FIN DE CONOCER Y COMPARTIR LAS MEJORES PRÁCTICAS INTERNACIONALES, PARA COLABORAR EN EL COMBATE GLOBAL DEL FENÓMENO; Y, EN SU CASO, COMPARTIR A LA COMUNIDAD INTERNACIONAL LAS EXPERIENCIAS RELATIVAS A LOS MECANISMOS DE EVALUACIÓN DE LAS POLÍTICAS ANTICORRUPCIÓN;
 
 XVII. Fomentar el uso intensivo de las tecnologías en los Entes Públicos, el cual permita detectar bajo los principios de respeto a los derechos humanos y certeza jurídica, para la detección de situaciones de corrupción, o en su caso, cualquier conducta contraria a derecho, que fomente la comisión de actos de corrupción;
 
@@ -242,9 +278,13 @@ Las personas Titulares de las Alcaldías serán invitados permanentes, participa
 
 Para el adecuado funcionamiento del Sistema Local, la presidencia del Comité Coordinador durará un año, la cual será rotativa entre los miembros del Comité de Participación Ciudadana.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 12.
 
-Son atribuciones del Presidente del Comité Coordinador:
+SON ATRIBUCIONES DE LA PRESIDENCIA DEL COMITÉ COORDINADOR:
 
 I. Presidir las sesiones del Sistema Local y del Comité Coordinador correspondientes;
 
@@ -256,15 +296,41 @@ IV. Dar seguimiento a los acuerdos del Comité Coordinador, a través de la Secr
 
 V. Presidir el órgano de gobierno de la Secretaría Ejecutiva;
 
-VI. Informar a los integrantes del Comité Coordinador sobre el seguimiento de los acuerdos y recomendaciones adoptados en las sesiones;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VII. Presentar para su aprobación y publicar, el informe anual de resultados del Comité Coordinador;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE ABRIL DE 2019)</small>
 
-VIII. Presentar para su aprobación las recomendaciones en materia de combate a la corrupción;
+VI. PROPONER AL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA, EL NOMBRAMIENTO DE LA SECRETARÍA TÉCNICA;
 
-IX. Aquellas que prevean las reglas de funcionamiento y organización interna del Comité Coordinador; y
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-X. Cumplir con la normatividad interna para su funcionamiento y organización del Comité Coordinador.
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+VII. INFORMAR A LAS PERSONAS INTEGRANTES DEL COMITÉ COORDINADOR SOBRE EL SEGUIMIENTO DE LOS ACUERDOS Y RECOMENDACIONES ADOPTADOS EN LAS SESIONES;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 15 DE ABRIL DE 2019)</small>
+
+VIII. PRESENTAR PARA SU APROBACIÓN Y PUBLICAR, EL INFORME ANUAL DE RESULTADOS DEL COMITÉ COORDINADOR;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 15 DE ABRIL DE 2019)</small>
+
+IX. PRESENTAR PARA SU APROBACIÓN LAS RECOMENDACIONES EN MATERIA DE COMBATE A LA CORRUPCIÓN;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 15 DE ABRIL DE 2019)</small>
+
+X. AQUELLAS QUE PREVEAN LAS REGLAS DE FUNCIONAMIENTO Y ORGANIZACIÓN INTERNA DEL COMITÉ COORDINADOR; Y
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+XI. CUMPLIR CON LA NORMATIVIDAD INTERNA PARA EL FUNCIONAMIENTO Y ORGANIZACIÓN DEL COMITÉ COORDINADOR.
 
 ###### Artículo 13.
 
@@ -298,25 +364,53 @@ Durarán en su encargo cinco años, sin posibilidad de reelección y serán reno
 
 En la conformación del Comité de Participación Ciudadana, se garantizará que exista equidad de género, por lo que deberá conformarse de al menos tres ciudadanos de un género distinto al de la mayoría
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 17.
 
-Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
+Las personas integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, y estarán sujetos a la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recurso (sic) de la Ciudad de México por lo que su remuneración no podrá ser superior a la de la persona que ocupe la Jefatura de Gobierno de la Ciudad de México, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
 
-Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determina el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos, y durante su gestión, no podrán desempeñar empleo, cargo o comisión, de cualquier naturaleza, en cualquiera de los órdenes de gobierno.
+Las personas integrantes del Comité de Participación Ciudadana estarán sujetas al régimen de responsabilidades que determina el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos, y durante su gestión, no podrán desempeñar empleo, cargo o comisión, de cualquier naturaleza, en cualquiera de los órdenes de gobierno.
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 18.
 
-Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
+Las personas integrantes del Comité de Participación Ciudadana serán nombradas conforme al siguiente procedimiento:
 
-I. El Poder Legislativo de la Ciudad de México de conformidad con su Ley Orgánica y la presente Ley, constituirá a través de la Comisión de Transparencia y Combate a la Corrupción, y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, una Comisión de Selección integrada por 7 ciudadanos;
+I. El Poder Legislativo de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción constituirá una Comisión de selección integrada por nueve mexicanas y mexicanos, debiendo ser cinco personas de un mismo género y cuatro de un género distinto, por un periodo de tres años, de la siguiente manera:
+
+a) Convocará a las instituciones de educación superior y de investigación, para proponer candidatas y candidatos a fin de integrar la Comisión de selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco personas, observando la paridad de género, basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+
+b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro personas integrantes, observando la paridad de género, en los mismos términos del inciso anterior.
+
+c) Para ser integrante de la Comisión de Selección se deberá cumplir con los siguientes requisitos:
+
+1) Ser de ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+2) Contar con identificación oficial vigente;
+
+3) Gozar de buena reputación y no haber sido condenada o condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitada o inhabilitado para ocupar el cargo, cualquiera que haya sido la pena.
+
+4) No pertenecer o militar en algún partido político o haber sido candidata o candidato de partido o desempeñado algún cargo de elección popular federal, estatal, de la Ciudad de México o municipal durante los cuatro años anteriores a la fecha de su designación.
+
+5) No haber sido titular de alguna dependencia de la Administración Pública municipal, local o federal, de alguna Fiscalía o Procuraduría de justicia, Director o Directora General de una entidad paraestatal, así como titular de algún Órgano Autónomo de la federación o de la Ciudad de México, durante los cuatro años anteriores a la fecha de su designación.
+
+6) No haber desempeñado el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia o Consejera o Consejero de la Judicatura Federal o de la Ciudad de México durante los cuatro años anteriores a la fecha de su designación, así como tampoco en ningún Tribunal Federal o de los Estados de la República.
+
+7) Tener por lo menos 25 años de edad al momento de la elección.
 
 II. Una vez constituida la Comisión de Selección, ésta deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública dirigida a toda la sociedad en general en la Ciudad de México, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
-La convocatoria definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana, deberá emitirse por lo menos sesenta días naturales previos a la fecha en que se desocupe la vacante a designar en el Comité y contendrá al menos las siguientes características:
+La convocatoria definirá la metodología, plazos y criterios de selección de las personas integrantes del Comité de Participación Ciudadana, deberá emitirse por lo menos sesenta días naturales previos a la fecha en que se desocupe la vacante a designar en el Comité y contendrá al menos las siguientes características:
 
-a) El método de registro y evaluación de los aspirantes;
+a) El método de registro y evaluación de las personas aspirantes;
 
 b) Hacer pública la lista de las y los aspirantes;
 
@@ -324,11 +418,19 @@ c) Hacer públicos los documentos que hayan sido entregados para su inscripción
 
 d) Hacer público el cronograma de audiencias;
 
-e) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia, y
+e) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadoras e investigadores, académicas y académicos y a organizaciones de la sociedad civil, personas especialistas en la materia, y
 
-f) El plazo máximo de noventa días en que se deberá hacer la designación que al efecto se determine de los miembros del Comité de Participación Ciudadana, contados a partir de la conformación de la Comisión de Selección y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
+f) El plazo máximo de sesenta días en que se deberá hacer la designación que al efecto se determine de las personas integrantes del Comité de Participación Ciudadana, contados a partir de la conformación de la Comisión de Selección y que se tomará, en sesión pública, por el voto de la mayoría de sus integrantes.
 
-En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de sesenta días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante no podrá exceder el límite de sesenta días y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+###### Artículo 18
+
+bis. El cargo de persona integrante de la Comisión de selección será honorario. Quienes funjan como tal no podrán ser designadas o designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
 
 ###### Artículo 19.
 
@@ -460,9 +562,13 @@ III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro
 
 Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 30.
 
-La Secretaría Ejecutiva contará con un Órgano de Control Interno, cuyo titular será designado en los mismos términos que del titular de la Secretaría de la Contraloría y deberá contar con el proceso de selección, evaluación y formación conforme al sistema de profesionalización que al efecto se establezca, contará con la estructura que dispongan las disposiciones jurídicas aplicables. Las atribuciones del órgano de control serán las señaladas en la Ley General del Sistema Nacional Anticorrupción, otras leyes generales y leyes locales aplicables.
+LA SECRETARÍA EJECUTIVA CONTARÁ CON UN ÓRGANO DE CONTROL INTERNO, CUYA TITULARIDAD SERÁ DESIGNADA Y REMOVIDA POR LA PERSONA TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO DE ACUERDO CON EL PROCESO DE SELECCIÓN, EVALUACIÓN Y FORMACIÓN DEL SISTEMA DE PROFESIONALIZACIÓN QUE AL EFECTO SE ESTABLEZCA, CONTARÁ CON LA ESTRUCTURA QUE DISPONGAN LAS DISPOSICIONES JURÍDICAS APLICABLES. LAS ATRIBUCIONES DEL ÓRGANO DE CONTROL SERÁN LAS SEÑALADAS EN LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN, OTRAS LEYES GENERALES Y LEYES LOCALES APLICABLES.
 
 El órgano interno de control estará limitado en sus atribuciones al control y fiscalización de la Secretaría Ejecutiva, exclusivamente respecto a las siguientes materias:
 
@@ -506,9 +612,23 @@ VI. Aprobar la estructura básica de la organización de la Secretaría Ejecutiv
 
 VII. Autorizar la creación de comités de apoyo;
 
-VIII. Nombrar y remover a propuesta del Secretario Técnico, a las personas servidoras públicas de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IX. Aprobar la fijación de los sueldos, remuneraciones y prestaciones de las personas servidoras públicas de la Secretaría Ejecutiva;
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+VIII. NOMBRAR Y REMOVER POR MAYORÍA CALIFICADA DE CINCO VOTOS, A LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA, DE CONFORMIDAD CON LO ESTABLECIDO POR ESTA LEY;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA LA FRACCIÓN VIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+VIII BIS. NOMBRAR Y REMOVER, A PROPUESTA DE LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA, A LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA QUE OCUPEN CARGOS CON LAS DOS JERARQUÍAS ADMINISTRATIVAS INFERIORES A LA DE AQUÉL;
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+IX. APROBAR LA FIJACIÓN DE LOS SUELDOS, REMUNERACIONES Y PRESTACIONES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA CONFORME A LA LEY DE TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO.
 
 X. Analizar y aprobar en su caso, los informes periódicos que rinda el Secretario Técnico de la operación y manejo de la Secretaría Ejecutiva; y
 
@@ -516,11 +636,17 @@ XI. Las demás que le establezca la Ley General, la presente Ley y demás dispos
 
 #### Sección II. Del Secretario Técnico
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 33.
 
-El Secretario Técnico será nombrado y removido por el Poder Legislativo de la Ciudad de México, a propuesta de las Comisiones de Transparencia y Combate a la Corrupción, y de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, por el voto favorable de la mayoría de los miembros presentes del pleno. Durará cinco años en su encargo y no podrá ser reelegido.
+La persona titular de la Secretaría Técnica será nombrada y removida por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus integrantes. Durará cinco años en su encargo y no podrá ser reelegida.
 
-El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o bien por causa plenamente justificada en términos de la legislación aplicable, en los siguientes casos:
+Para efectos del párrafo anterior, la persona que ocupe la Presidencia del órgano de gobierno, previa aprobación del Comité de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designadas Secretarias Técnicas, de conformidad con la presente Ley.
+
+La persona Secretaria Técnica podrá ser removida por falta a su deber de diligencia, o bien por causa plenamente justificada en términos de la legislación aplicable, en los siguientes casos:
 
 I. Utilizar en beneficio propio o de terceros la documentación e información confidencial relacionada con las atribuciones que le corresponden en términos de la presente Ley y de la legislación en la materia;
 
@@ -642,43 +768,35 @@ I. La Auditoría Superior de la Ciudad de México;
 
 II. La Secretaría de la Contraloría General de la Ciudad de México; y
 
-III. Un representante del Comité Consultivo del Sistema de Fiscalización de la Ciudad de México.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-El Secretario Técnico del Sistema Anticorrupción de la Ciudad de México, también lo será del Sistema de Fiscalización de la Ciudad de México y del Comité Consultivo.
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+III. UNA PERSONA REPRESENTANTE DEL COMITÉ DE PARTICIPACIÓN CIUDADANA.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+LA PERSONA SECRETARIA TÉCNICA DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO, TAMBIÉN LO SERÁ DEL SISTEMA DE FISCALIZACIÓN DE LA CIUDAD DE MÉXICO.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Artículo 41.
 
-El Comité Consultivo del Sistema de Fiscalización de la Ciudad de México, se integrará al menos con los siguientes:
+(DEROGADO, G.O. 15 DE ABRIL DE 2019)
 
-I. Un representante de algún colegio o agrupación de profesionistas en materia contable, debidamente constituido;
-
-II. Un representante de alguna barra o agrupación de profesionistas en materia de derecho, debidamente constituido;
-
-III. Un representante de algún colegio o agrupación de profesionistas en materia de arquitectura e ingeniería, debidamente constituido;
-
-IV. Un representante de alguna academia especializada en auditoría integral o al desempeño debidamente constituida;
-
-V. Un representante de alguna institución educativa de nivel superior con registro de validez oficial, que se haya destacado en su contribución a la materia de la presente Ley;
-
-VI. Un representante de algún centro de investigación de prestigio y reconocimiento nacional debidamente constituido, especializado en cualquiera de las materias de la presente Ley, y
-
-VII. Un Testigo Social
-
-Todas las organizaciones a que se refieren las fracciones anteriores, deberán estar formalmente constituidas y con sede en la Ciudad de México.
-
-En lo relativo al Testigo Social, éste será nombrado con base en la normatividad de la materia.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Artículo 42.
 
-La representación en el Comité Consultivo de las organizaciones señaladas en el artículo anterior, será institucional y permanente.
+(DEROGADO, G.O. 15 DE ABRIL DE 2019)
 
-El Poder Legislativo a través de las comisiones parlamentarias en materia de auditoría de la Ciudad de México, de transparencia y combate a la corrupción, designarán a las organizaciones que conformarán el Comité Consultivo, y decidirán sobre su sustitución o bien nombrar adicionales que consideren convenientes para su mejor funcionamiento.
-
-El Secretario Técnico será el responsable de recibir y controlar las acreditaciones y sustituciones de los representantes de dichas organizaciones, y compromiso de las mismas a quienes nombren para desempeñar tales funciones.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Artículo 43.
 
-El Comité Consultivo se encaminará a proporcionar elementos técnicos, emitir guías y lineamientos orientadores, así como recomendaciones públicas para que el Sistema de Fiscalización de la Ciudad de México, cumpla de mejor manera con su objeto y el desarrollo de sus actividades, y sus instituciones fortalezcan las actividades institucionales que por ley tienen encomendadas. Asimismo para tales efectos, podrá crear grupos de trabajo técnico especializados e invitar a personas o instituciones que considere convenientes.
+(DEROGADO, G.O. 15 DE ABRIL DE 2019)
 
 ###### Artículo 44.
 
@@ -712,25 +830,41 @@ II. Informar al Comité Coordinador sobre los avances en la fiscalización, cont
 
 Todos los Entes públicos están obligados a colaborar en todo momento con el Sistema de Fiscalización de la Ciudad de México para el cumplimiento de su objeto y el desarrollo de sus actividades a fin de fortalecer la rendición de cuentas, eficientar al máximo la fiscalización gubernamental en todos sus aspectos y potenciar su impacto en el desempeño de la gestión pública.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 46.
 
-El Sistema de Fiscalización de la Ciudad de México contará con un Comité Rector conformado por la Auditoría Superior de la Ciudad de México, la Secretaría de la Contraloría General de la Ciudad de México, y tres de sus integrantes que de manera rotativa permanecerán dos años, sin posibilidad de reelección inmediata, electos por la mayoría de votos de sus miembros.
+EL SISTEMA DE FISCALIZACIÓN DE LA CIUDAD DE MÉXICO CONTARÁ CON UN COMITÉ RECTOR CONFORMADO POR LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, LA SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO, DOS PERSONAS INTEGRANTES DEL COMITÉ COORDINADOR Y UNA PERSONA INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN CIUDADANA.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA UN PÁRRAFO SEGUNDO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+ESTAS TRES ÚLTIMAS SERÁN SUSTITUIDAS CADA DOS AÑOS, SIN POSIBILIDAD DE REELECCIÓN INMEDIATA, ELECTAS POR LA MAYORÍA DE VOTOS DEL ÓRGANO QUE LES CONFIRIÓ EL NOMBRAMIENTO.
 
 El Comité Rector será presidido de manera dual por el Auditor Superior de la Ciudad de México y el titular de la Contraloría General, o por los representantes que de manera respectiva ellos designen para estos efectos.
 
 El Auditor Superior de la Ciudad de México y el titular de la Secretaría de la Contraloría General participarán en el Sistema Nacional de Fiscalización referido en la Ley General, y representarán al Sistema de Fiscalización de la Ciudad de México.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 47.
 
 Para el ejercicio de las competencias del Sistema de Fiscalización de la Ciudad de México en materia de fiscalización, auditoría gubernamental y control de los recursos públicos, el Comité Rector ejecutará las siguientes acciones:
 
-I. El diseño, generación y promoción de políticas en la materia, para su aprobación en el Sistema de Fiscalización de la Ciudad de México;
+I. El diseño, generación y promoción de políticas en la materia, para su aprobación en el Sistema de Fiscalización de la Ciudad de México y su implementación en las atribuciones, procesos y procedimientos que tienen a su cargo la Auditoría Superior de la Ciudad de México y la Secretaría de la Contraloría General de la Ciudad de México;
 
-II. La instrumentación de mecanismos de coordinación entre todos los integrantes del Sistema;
+II. La instrumentación de mecanismos de coordinación entre todas las personas integrantes del Sistema, a efecto de ejecutar las atribuciones, procesos y procedimientos que tienen a su cargo la Auditoría Superior de la Ciudad de México y la Secretaría de la Contraloría General de la Ciudad de México, bajo temáticas focalizadas, evitación de duplicación de esfuerzos, registro, control y sistematización de observaciones detectadas en las auditorías y demás procesos;
 
-III. La integración e instrumentación de mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización, control de recursos públicos y rendición de cuentas generen las instituciones competentes y los organismos especializados en dichas materias; y
+III. La integración e instrumentación de mecanismo de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización, control de recursos públicos y rendición de cuentas, generen las instituciones competentes y los organismos especializados en dicha materia;
 
-IV. El cumplimiento de las obligaciones señaladas en el artículo 45 de esta ley.
+IV. La emisión de recomendaciones públicas a los entes sujetos de fiscalización, ante la reincidencia en la detección e (sic) probables irregularidades y en casos relevantes; y
+
+V. El cumplimiento de las obligaciones señaladas en el artículo 45 de esta ley.
 
 ###### Artículo 48.
 
@@ -770,11 +904,21 @@ II. El fortalecimiento institucional;
 
 III. Evitar duplicidades y omisiones en el trabajo, en un ambiente de profesionalismo y transparencia;
 
-IV. Mayor cobertura de la fiscalización de los recursos públicos;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-V. Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, y a la rendición de cuentas para que el ciudadano conozca cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de la auditoría; y
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
 
-VI. Considerar las aportaciones de su Comité Consultivo señaladas en el artículo 43 de la presente Ley.
+IV. MAYOR COBERTURA DE LA FISCALIZACIÓN DE LOS RECURSOS PÚBLICOS; Y
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+V. EMITIR INFORMACIÓN RELEVANTE EN LOS REPORTES DE AUDITORÍA Y FISCALIZACIÓN, CON LENGUAJE SENCILLO Y ACCESIBLE, QUE CONTRIBUYA A LA TOMA DE DECISIONES PÚBLICAS, LA MEJORA DE LA GESTIÓN GUBERNAMENTAL, Y A LA RENDICIÓN DE CUENTAS PARA QUE EL CIUDADANO CONOZCA CÓMO SE GASTA EL DINERO DE SUS IMPUESTOS, ASÍ COMO LA MÁXIMA PUBLICIDAD EN LOS RESULTADOS DE LA AUDITORÍA.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA LA FRACCIÓN VI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+VI. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 Corresponderá al Comité Rector del Sistema de Fiscalización de la Ciudad de México emitir las normas internas que regulen su operación y funcionamiento.
 
@@ -814,17 +958,29 @@ Los integrantes del Sistema Local promoverán la publicación de la información
 
 El Sistema Local establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 58.
 
-Los sistemas de evolución patrimonial y de declaración de intereses, así como de las personas servidoras públicas que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas de la Ciudad de México, que en la materia apruebe el Poder Legislativo de la Ciudad de México. El Sistema de Información Pública de Contrataciones contará con la información pública que remitan las autoridades competentes al Comité Coordinador a solicitud de éste, para el ejercicio de sus funciones y los objetivos de esta Ley.
+Los sistemas de evolución patrimonial y de declaración de intereses, así como de las personas servidoras públicas que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas de la Ciudad de México. El Sistema de Información Pública de Contrataciones contará con la información pública que remitan las autoridades competentes al Comité Coordinador a solicitud de éste, para el ejercicio de sus funciones y los objetivos de esta Ley.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 59.
 
-El sistema local de personas servidoras públicas y particulares sancionados tiene como finalidad que las sanciones impuestas a las personas servidoras públicas y particulares por la comisión de faltas administrativas en términos de la Ley General de Responsabilidades Administrativas, la ley local que en la materia apruebe el Poder Legislativo de la Ciudad de México y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+El sistema local de personas servidoras públicas y particulares sancionadas tiene como finalidad que las sanciones impuestas a las personas servidoras públicas y particulares por la comisión de faltas administrativas en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas de la Ciudad de México, y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 60.
 
-Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como personas servidoras públicas o como prestadores de servicios o contratistas del sector público, en términos de la Ley General de Responsabilidades Administrativas y la ley local que en la materia apruebe el Poder Legislativo de la Ciudad de México.
+LAS SANCIONES IMPUESTAS POR FALTAS ADMINISTRATIVAS GRAVES SERÁN DEL CONOCIMIENTO PÚBLICO CUANDO ÉSTAS CONTENGAN IMPEDIMENTOS O INHABILITACIONES PARA SER CONTRATADOS COMO PERSONAS SERVIDORAS PÚBLICAS O COMO PRESTADORAS DE SERVICIOS O CONTRATISTAS DEL SECTOR PÚBLICO, EN TÉRMINOS DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO.
 
 Los registros de las sanciones relativas a responsabilidades administrativas no graves, quedarán registradas para efectos de eventual reincidencia, pero no serán públicas.
 
@@ -870,23 +1026,45 @@ Toda la información relacionada con la emisión, cumplimiento y supervisión de
 
 En caso de que el Comité Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante, y la implementación de las acciones que considere necesarias para la atención de las mismas, independientemente de las responsabilidades a que haya a lugar conforme la legislación aplicable.
 
-## TÍTULO SEXTO. DEL FISCAL ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA DENOMINACIÓN DEL TÍTULO SEXTO DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-### Capítulo Único. Del Fiscal Anticorrupción
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ABRIL DE 2019)</small>
+
+## TÍTULO SEXTO. DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DE LA CIUDAD DE MÉXICO
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO SEXTO DE ESTE ORDENAMIENTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DE LA PERSONA TITULAR DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 68.
 
-El Fiscal Anticorrupción de la Ciudad de México, durará en su encargo siete años, prorrogables hasta por una sola ocasión y será designado por el Poder Legislativo de la Ciudad de México, con aprobación de la mayoría de los miembros presentes del pleno de entre una terna propuesta por el Jefe de Gobierno de la Ciudad de México.
+La persona titular de la Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México, durará en su encargo cuatro años y podrá ser ratificada por un periodo más.
+
+Será designada conforme a lo dispuesto por la Constitución Política de la Ciudad de México, la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México y demás disposiciones jurídicas aplicables.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 69.
 
-Para ser el Fiscal Anticorrupción de la Ciudad de México, se deberá contar con los siguientes requisitos:
+PARA SER TITULAR DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DE LA CIUDAD DE MÉXICO, SE DEBERÁ CONTAR CON LOS SIGUIENTES REQUISITOS:
 
 I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-III. Contar con título profesional de licenciado en derecho o su equivalente con antigüedad mínima de diez años;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+III. CONTAR CON TÍTULO PROFESIONAL DE LICENCIATURA EN DERECHO CON EXPERIENCIA MÍNIMA DE CINCO AÑOS;
 
 IV. Haber residido en la Ciudad de México durante los dos años anteriores al día de la designación;
 
@@ -896,15 +1074,23 @@ VI. No haber sido condenado por delito que amerite pena corporal de más de un a
 
 VII. No haber sido candidato o desempeñado algún cargo de elección popular federal, estatal, de la Ciudad de México o municipal durante el año inmediato anterior a la fecha de su designación;
 
-VIII. No haber sido titular de alguna dependencia de la Administración Pública de la Ciudad de México, Procurador, Director General de una entidad paraestatal, así como titular de algún Órgano Autónomo de la Ciudad de México, durante el año inmediato anterior a la fecha de su designación;
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
+
+VIII. NO HABER SIDO TITULAR DE ALGUNA DEPENDENCIA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PROCURADURÍA O FISCALÍA GENERAL DE JUSTICIA, DIRECTORA O DIRECTOR GENERAL DE UNA ENTIDAD PARAESTATAL, O TITULAR DE ALGÚN ÓRGANO AUTÓNOMO DE LA CIUDAD DE MÉXICO, DURANTE EL AÑO INMEDIATO ANTERIOR A LA FECHA DE SU DESIGNACIÓN;
 
 IX. No haber desempeñado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura Local durante el último año inmediato a la fecha de su designación; y
 
 X. Presentar las declaraciones patrimonial, de intereses y fiscal.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 70.
 
-El Fiscal Anticorrupción de la Ciudad de México, tendrá nivel de Subprocurador y ejercerá por si o a través de las personas servidoras públicas que le estén adscritos, las atribuciones que le confiera la normatividad de la materia que al efecto se expida.
+La Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México estará adscrita a la Fiscalía General de la Ciudad de México y gozará de autonomía técnica y de gestión para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción en la Ciudad de México y ejercerá sus atribuciones respondiendo a la satisfacción del interés social y del bien común, de conformidad con las disposiciones jurídicas de la materia.
 
 ###### Artículo 71.
 
@@ -919,6 +1105,40 @@ En el anteproyecto de presupuesto de la Fiscalía General de Justicia de la Ciud
 ###### Artículo 73.
 
 El Fiscal Anticorrupción, al igual que las personas servidoras públicas que le estén adscritas, estarán sujetos a la legislación en materia de responsabilidades administrativas vigente en la Ciudad de México, así como al régimen especial previsto en la ley de la materia aplicable. Su actuación será fiscalizada por la Auditoría Superior de la Ciudad de México, así como la Visitaduría Ministerial y el Órgano Interno de Control de la Fiscalía General de Justicia de la Ciudad de México, conforme a sus respectivas competencias.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL TÍTULO SÉPTIMO DE ESTE ORDENAMIENTO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ABRIL DE 2019)</small>
+
+## TÍTULO SÉPTIMO. DE LOS ORGANISMOS AUTÓNOMOS
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL CAPÍTULO ÚNICO DEL TÍTULO SÉPTIMO DE ESTE ORDENAMIENTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+DE LA DESIGNACIÓN DE LAS PERSONAS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+###### Artículo 74.
+
+Las personas titulares de los Órganos de Control Interno de los Organismos Autónomos de acuerdo al artículo 46 de la Constitución Política de la Ciudad de México, serán designadas por el Congreso de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción y, la Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México mediante convocatoria pública abierta, una persona titular por cada Organismo Autónomo.
+
+Las Comisiones de Transparencia y Combate a la Corrupción y Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México, presentarán al pleno una terna de personas aspirantes a titulares de Órganos de Control Interno por cada Organismo Autónomo, dentro de las cuales, serán electas una por cada terna para el Organismo Autónomo al que fueron propuestas, dichos nombramientos deberán ser aprobados por las dos terceras partes del Pleno del Congreso de la Ciudad de México.
+
+En caso en el que la primera terna propuesta por las comisiones no fuese aprobada, se presentará una nueva, hasta lograr la aprobación de las dos terceras partes del Pleno del Congreso.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+###### Artículo 75.
+
+Para ser titular de los Órganos Internos de Control de los Organismos Autónomos, se deberán cumplir lo (sic) mismos requisitos que para ser titular de los Órganos de Control Interno de las dependencias de la Administración Pública de la Ciudad de México en el caso que no se encuentren previstos dichos requisitos en las Leyes Aplicables de cada Organismo.
 
 ## TRANSITORIOS
 
@@ -952,11 +1172,17 @@ La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los tr
 
 QUINTO. El Consejo de Evaluación y las Alcaldías referidas en el artículo 10 de la presente Ley, participaran como integrantes del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México una vez que entre en vigor la Constitución Política de la Ciudad de México y las leyes correspondientes, hasta en tanto suceda lo anterior, el Comité Coordinador se integrará con los titulares y representantes establecidos en las fracciones I al (sic) VIII del citado artículo.
 
-SEXTO. Para el nombramiento del primer Fiscal Especializado en Combate a la Corrupción de la Ciudad de México y del primer Secretario Técnico de conformidad con lo dispuesto en el artículo Transitorio Décimo Tercero de la Constitución Política de la Ciudad de México; el Jefe de Gobierno de la Ciudad de México, propondrá a la Asamblea Legislativa del Distrito Federal una terna, cuyos integrantes deberán cubrir los requisitos señalados en la presente Ley, y previa valoración de la cumplimentación de los mismos, la Comisión de Transparencia y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México someterán a consideración del Pleno dicha terna, dentro de la cual será elegido el Fiscal Anticorrupción de la Ciudad de México por un periodo de 7 años, y el Secretario Técnico por un período de 5 años a más tardar 60 días naturales siguientes a la entrada en vigor del presente decreto.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA EL ARTÍCULO SEXTO TRANSITORIO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-SÉPTIMO. Para el nombramiento de los titulares de los Órganos Internos de Control de los organismos autónomos de la Ciudad de México, y de conformidad con lo dispuesto en el artículo Transitorio Décimo Tercero de la Constitución Política de la Ciudad de México, la Asamblea Legislativa del Distrito Federal dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, a través de la Comisión de Transparencia y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, presentarán al pleno una terna de aspirantes a titulares de Órganos de Control Interno por cada organismo autónomo, dentro de las cuales, serán electos uno por cada terna para el organismo autónomo al que fueron propuestos por la mayoría de los miembros presentes del Pleno de la Asamblea Legislativa del Distrito Federal.
+SEXTO. (DEROGADO, G.O. 15 DE ABRIL DE 2019)
 
-OCTAVO. La Comisión de Transparencia y Combate a la Corrupción, y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, presentarán al pleno la propuesta de Secretario Técnico a fin de que sea nombrado por el Pleno en un plazo máximo de 60 días naturales posteriores a la entrada en vigor del presente Decreto.
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA EL ARTÍCULO SÉPTIMO TRANSITORIO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+SÉPTIMO. (DEROGADO, G.O. 15 DE ABRIL DE 2019)
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE DEROGA EL ARTÍCULO OCTAVO TRANSITORIO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+OCTAVO. (DEROGADO, G.O. 15 DE ABRIL DE 2019)
 
 NOVENO. Se deroga toda disposición que contravenga lo señalado en el presente Decreto.
 
@@ -968,8 +1194,32 @@ DÉCIMO SEGUNDO. El Poder Legislativo de la Ciudad de México deberá adecuar la
 
 DÉCIMO TERCERO. Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, así como observar las disposiciones establecidas en materia de disciplina financiera, ello con el objeto de garantizar el equilibrio presupuestal.
 
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL ARTÍCULO DÉCIMO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+DÉCIMO CUARTO.- EN EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, SE CONTEMPLARÁN LOS RECURSOS SUFICIENTES PARA LA OPERACIÓN DEL SISTEMA ANTICORRUPCIÓN, Y SE IDENTIFICARÁ POR ÁREA ESPECÍFICA EL MONTO APROBADO PARA EL RESPECTIVO EJERCICIO FISCAL, DE CONFORMIDAD CON LO DISPUESTO POR LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO Y LA NORMATIVIDAD APLICABLE.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL ARTÍCULO DÉCIMO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
+
+DÉCIMO QUINTO.- CON LA FINALIDAD DE QUE SE PUEDA AVANZAR CON LA IMPLEMENTACIÓN DEL SISTEMA LOCAL ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO, LAS DEPENDENCIAS LOCALES QUE TENGAN QUE EXPEDIR ALGÚN TIPO DE FORMATO, SOLICITUD O CUALQUIER OTRO TIPO DE DOCUMENTO INHERENTE AL SISTEMA LOCAL, PODRÁN UTILIZAR LOS FORMATOS QUE SE UTILIZAN PARA EL SISTEMA NACIONAL ANTICORRUPCIÓN, HASTA EN TANTO NO SE EXPIDAN LOS REFERENTES A LA CIUDAD DE MÉXICO.
+
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecisiete días del mes de julio del año dos mil diecisiete.- POR LA MESA DIRECTIVA, DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.-
 
 (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de agosto del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE ESTA LEY, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL QUINCE DE ABRIL DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+G.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO"].
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
