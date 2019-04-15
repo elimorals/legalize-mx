@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2018-07-02"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -57,9 +57,11 @@ La presente ley es de interés público y tiene por objeto establecer las bases 
 
 El Municipio libre es la base de la división territorial y de la organización política y administrativa del Estado, con personalidad jurídica, patrimonio propio y libre administración de su hacienda pública, sujeto a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los ordenamientos que de ambas emanen y la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 3o.
 
-El Municipio es la institución jurídica, política y social de carácter público, con autoridades propias, funciones específicas, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que esta requiera.
+El Municipio es la institución jurídica, política y social de carácter público, con autoridades propias, funciones específicas, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que esta requiera, conforme a las disposiciones constitucionales y a los tratados internacionales en materia de derechos humanos en los que el Estado mexicano sea parte.
 
 El Municipio es libre en su régimen interior y será gobernado por un ayuntamiento de elección popular directa, que ejercerá sus atribuciones de manera exclusiva, estarán dotados de competencia, en los términos que les ha sido otorgada por las Constituciones Federal y Estatal, las leyes y demás disposiciones jurídicas.
 
@@ -109,7 +111,7 @@ La declaración de pérdida de vecindad será realizada por el Ayuntamiento.
 
 La calidad de avecindado, no se perderá por ausencia en el desempeño de un cargo público o de elección popular, comisión oficial o de estudios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO TERCERO BIS. De las Mujeres
 
@@ -455,13 +457,13 @@ XXXIX. Organizar la administración pública municipal mediante la reglamentaci�
 
 XL. Otorgar concesiones y autorizaciones para que el sector privado pueda participar en la prestación de servicios públicos no estratégicos que son de su competencia y revocarlas en los términos que señalen la Constitución del Estado y demás disposiciones legales aplicables. Tratándose de cualquier tipo de concesión de los servicios públicos municipales, los ayuntamientos deberán recabar previamente la autorización del Congreso del Estado;
 
-XLI.- Autorizar la relotificación, fusión y subdivisión de terrenos en el ámbito de su competencia;
+XLI. Autorizar la relotificación, fusión y subdivisión de terrenos en el ámbito de su competencia;
 
-XLII.- Expedir la autorización de fraccionamiento de predios la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, las leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado.
+XLII. Expedir la autorización de fraccionamiento de predios la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, las leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-XLIII.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, las personas adultas mayores, indigentes y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
+XLIII. Establecer un sistema de asistencia social para atender a niñas, niños y adolescentes, la integración familiar, las personas adultas mayores, indigentes y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de las personas;
 
 XLIV. Dividir el territorio municipal en los términos establecidos en esta ley para una mejor prestación de los servicios públicos;
 
@@ -483,7 +485,9 @@ LII. Intervenir en la formulación y aplicación de programas de transporte púb
 
 LIII. Celebrar convenios para la administración y custodia de las zonas federales;
 
-LIV. Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en esta ley;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+LIV. Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en esta ley, a los principios de igualdad entre mujeres y hombres y al respeto a los derechos humanos;
 
 LV. Solicitar en términos de la Ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
 
@@ -495,27 +499,39 @@ LVII. Acordar la categoría y denominación política que les corresponda a las 
 
 LVIII. Nombrar al Titular de la Policía Preventiva Municipal y Tránsito;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ABRIL DE 2019)</small>
 
-LIX. En materia de igualdad y género:
+LIX.- En materia de igualdad entre mujeres y hombres, respeto a sus derechos y no discriminación:
 
-a. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
-b. Promover, en coordinación con el Estado, cursos de capacitación y esquemas de modificación conductual para quienes atienden a mujeres que viven algún tipo de violencia de género;
+a. Instrumentar y articular, en concordancia con las disposiciones constitucionales y tratados internacionales en materia de derechos humanos, y la legislación nacional y estatal, la política municipal orientada a identificar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+b. Promover, en coordinación con el Estado, cursos de capacitación y esquemas de modificación conductual para quienes atienden a mujeres que viven algún tipo de violencia;
 
 c. Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres, que responsabilicen a quienes ejercen dicha violencia siempre priorizando la seguridad e integridad física de las mujeres;
 
-d. Promover de buenas prácticas que favorezcan y establezcan la igualdad sustantiva entre los géneros;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
-e. Apoyar la creación de refugios seguros que protejan a las mujeres y sus hijos que reciban violencia familiar y sexual;
+d. Promover y realizar acciones que garanticen la igualdad sustantiva entre las mujeres y hombres;
 
-f. Participar y coadyuvar en los cuatro ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+e. Apoyar la creación de refugios seguros que protejan a las mujeres y sus hijas e hijos que reciban violencia en cualquiera de sus manifestaciones;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+f. Realizar acciones tendientes a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 g. Impartir cursos y talleres de protección contra la violencia de género en los cuerpos policíacos;
 
 h. Evaluar anualmente las actitudes de los cuerpos policíacos y servidores públicos encargados de la atención a la violencia de género;
 
-i. Elaborar una guía de asistencia inmediata que seguirán los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+i. Elaborar una guía de asistencia inmediata que seguirán los elementos de seguridad pública cuando se presenten casos de violencia;
 
 j. Designar a los integrantes del Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia, y vigilar su correcta instalación y funcionamiento;
 
@@ -524,8 +540,6 @@ k. Aprobar el Programa Municipal para prevenir, atender, sancionar y erradicar l
 l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo; y
 
 m. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
 
@@ -549,9 +563,11 @@ LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en
 
 LXII. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 37.
 
-Los ayuntamientos vigilarán que los acuerdos, políticas y decisiones tomadas en el ejercicio de las atribuciones conferidas en el artículo 36 de esta Ley, sean ejecutados por los organismos y dependencias correspondientes, en apego a los principios de generalidad, eficiencia, continuidad, imparcialidad, honradez y certeza.
+Los ayuntamientos vigilarán que los acuerdos, políticas y decisiones tomadas en el ejercicio de las atribuciones conferidas en el artículo 36 de esta Ley, sean ejecutados por los organismos y dependencias correspondientes, en apego a los principios de igualdad entre mujeres y hombres, generalidad, eficiencia, continuidad, imparcialidad, honradez y certeza.
 
 ### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
 
@@ -1311,9 +1327,11 @@ En delitos del orden común, los servidores públicos municipales no gozan de fu
 
 El Presidente Municipal, los regidores y síndicos gozan de fuero en términos del artículo 74 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 97.
 
-Por las infracciones administrativas cometidas a esta Ley, Bandos y Reglamentos Municipales, los servidores públicos municipales incurrirán en responsabilidad en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Por las infracciones administrativas cometidas a esta Ley, Bandos y Reglamentos Municipales, los servidores públicos municipales incurrirán en responsabilidad en términos de la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -1351,7 +1369,7 @@ Los servidores públicos salientes harán constar por escrito cuando así proced
 
 Las contralorías municipales, en el ámbito de sus respectivas atribuciones, quedan facultadas para dictar las disposiciones que requieran para la adecuada aplicación y cumplimiento del contenido de este capítulo, con aprobación de la mayoría del Ayuntamiento y en base a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ## TITULO SEPTIMO BIS. DEL SISTEMA MUNICIPAL DE PREVENCION, ATENCION, SANCION Y ERRADICACION DE LA VIOLENCIA
 
@@ -1419,11 +1437,11 @@ VIII. El Subprograma de Capacitación.
 
 Sin perjuicio de las atribuciones que le otorguen otros ordenamientos, son facultades del Sistema Municipal para el Desarrollo Integral de la Familia para garantizar el derecho de las mujeres a una vida libre de violencia, las siguientes:
 
-I. Implementar y substanciar los procedimientos de amigable composición o arbitraje y contencioso, previsto por las disposiciones en materia de Violencia Familiar del Estado;
+I. (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
-II. Resolver y emitir las resoluciones y laudos que sean procedentes, con motivo de los procedimientos referidos en la Fracción que antecede;
+II. (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
-III. Imponer las sanciones que correspondan a dichos procedimientos y recibir los recursos a que haya lugar;
+III. (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
 IV. Sensibilizar, capacitar y evaluar a su personal operativo para detectar, atender y canalizar a víctimas y generadores de la violencia familiar;
 
@@ -1433,7 +1451,9 @@ VI. Coadyuvar con las dependencias competentes en las acciones y programas de se
 
 VII. Prestar servicios de atención y asesoría jurídica, psicológica y social a las receptoras de la violencia familiar.
 
-Para tales efectos, el Sistema Municipal para el Desarrollo Integral de la Familia tendrá adscritos los amigables componedores, oficiales contenciosos, y notificadores, de acuerdo a lo que el Reglamento de la Ley en materia de Violencia Familiar establezca. Sin menoscabo del auxilio que recibirá de los cuerpos policíacos municipales.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+Para tales efectos, el Sistema Municipal para el Desarrollo Integral de la Familia tendrá adscritos los Servidores Públicos necesarios (sic) acuerdo a lo que el Reglamento de la Ley en materia de Violencia Familiar establezca. Sin menoscabo del auxilio que recibirá de los cuerpos policíacos municipales.
 
 ## TITULO OCTAVO. DISPOSICIONES REGLAMENTARIAS
 
@@ -1549,17 +1569,21 @@ XIV. Acción Social y Deportes;
 
 XV. Relojes y Panteones;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-XVI. Igualdad y género cuya competencia será: promover la expedición de las normas legales correspondientes, y proponer las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, en el ámbito público y privado; así como promover mecanismos de evaluación respecto a la aplicación de la legislación sobre violencia de género en el Municipio, buscando la adecuación y armonización, con la Legislación Estatal y Federal;
+XVI. Igualdad sustantiva y equidad de género cuya competencia será: promover políticas públicas administrativas, presupuestales, y mecanismos de evaluación en materia de igualdad sustantiva entre mujeres y hombres, respeto y no discriminación, mismas que deberán armonizarse con las normas constitucionales y tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, así como demás legislación estatal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2018)</small>
 
 XVII. De Derechos Humanos cuya competencia será: conocer de los asuntos relacionados con derechos humanos, su difusión, promoción y reglamentación, además del fomento de acciones en favor de una cultura de respeto, protección y garantía de dichos derechos en el marco del ámbito municipal; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2019)</small>
 
-XVIII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XVIII. Cultura, cuya competencia será promover y salvaguardar el patrimonio cultural y los aspectos históricos de cada municipio, así como fomentar, promover, difundir y fortalecer el desarrollo cultural entre la ciudadanía. Además, brindar difusión, espacios y apoyo a las personas que realicen actividades artísticas y culturales de cada municipio, otorgándoles preferencia en los eventos que se realicen dentro del territorio de cada ente Municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2019)</small>
+
+XIX. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -2009,9 +2033,11 @@ Una vez decretada la municipalización del servicio, si el Ayuntamiento carece d
 
 ### CAPITULO PRIMERO. De la Planeación Municipal
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+
 ###### Artículo 161.
 
-Los municipios deberán elaborar sus planes de Desarrollo Municipal, así como los programas de trabajo necesarios para su ejecución, y lo harán en forma democrática y participativa, siendo dichos planes los rectores de toda actividad que realicen.
+Los municipios deberán elaborar sus planes de Desarrollo Municipal, así como los programas de trabajo necesarios para su ejecución, y lo harán en forma democrática y participativa, respetando las disposiciones constitucionales y los tratados internacionales y en materia de derechos humanos, siendo dichos planes los rectores de toda actividad que realicen.
 
 ###### Artículo 162.
 
@@ -2480,3 +2506,19 @@ P.O. 2 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de la Reforma al Artículo 113, que entrará en vigor el 15 de octubre de 2019.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 138.- SE REFORMAN LOS ARTÍCULOS 3°, 36, 37, 97, 103, 113 Y 161; Y SE DEROGAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 103 SEXIES, DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 139.- SE REFORMA Y ADICIONA EL ARTÍCULO 113 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el 15 de Octubre de 2019.
