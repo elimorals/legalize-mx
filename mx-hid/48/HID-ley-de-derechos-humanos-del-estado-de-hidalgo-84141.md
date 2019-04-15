@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2019-04-01"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -399,7 +399,13 @@ I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civ
 
 II.- Tener cumplidos treinta años de edad, el día de su elección;
 
-III.- Contar con experiencia profesional y prestigio en materia de derechos humanos, o actividades afines reconocidas, de por lo menos cinco años previos a la designación;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+III.- Contar con experiencia profesional y prestigio en materia de derechos humanos, o actividades afines, reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales de por lo menos cinco años previos a la designación;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+III.- Bis. No haber sido persona que haya violado o sido objeto de recomendación por alguna Comisión de Derechos Humanos atribuible de manera directa a su actuar, dentro de la República Mexicana, por acción u omisión en la violación de derechos humanos, así como que cuente con una resolución que lo haya confirmado como infractor de derechos humanos o que se encuentren bajo revisión, en su ejercicio profesional previo a la designación, de igual forma atribuible de manera directa a su actuar.
 
 IV.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
 
@@ -447,7 +453,9 @@ III.- Expedir el Reglamento Interno y formular los lineamientos generales a los 
 
 IV.- Establecer las políticas generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos nacionales e internacionales;
 
-V.- Nombrar, dirigir y coordinar a los Visitadores y al Secretario Ejecutivo, así como a los demás funcionarios y personal de la Comisión;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+V.- Nombrar, dirigir y coordinar a los Visitadores y al Secretario Ejecutivo, así como a los demás funcionarios y personal de la Comisión, apelando a los requisitos de elegibilidad, que, para cada cargo, la presente ley contemple.
 
 VI.- Dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades de la Comisión;
 
@@ -603,13 +611,21 @@ Los Visitadores Generales de la Comisión deberán reunir para su designación, 
 
 I.- Ser ciudadano mexicano con amplio conocimiento de la problemática del Estado, en la materia y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+I Bis.- Contar con experiencia, prestigio o actividades afines de mínimo tres años en materia de derechos humanos, previos a la designación;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+I Ter.- No haber sido persona que haya violado o sido objeto de recomendación por alguna Comisión de Derechos Humanos atribuible de manera directa a su actuar, dentro de la República Mexicana, por acción u omisión en la violación de derechos humanos, así como que cuente con una resolución que lo haya confirmado como infractor de derechos humanos o que se encuentren bajo revisión, en su ejercicio profesional previo a la designación, de igual forma atribuible de manera directa a su actuar;
+
 II.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
 
 III.- Ser mayor de treinta años de edad, el día de su nombramiento; y
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-IV.- Tener título de licenciatura en Derecho expedido legalmente, y acreditar cinco años de ejercicio profesional cuando menos.
+IV.- Tener título de licenciatura en Derecho expedido legalmente, por institución facultada para ello, y acreditar cinco años de ejercicio profesional cuando menos.
 
 ###### Artículo 45.
 
@@ -1498,3 +1514,11 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 179 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
