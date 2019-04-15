@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2018-12-28"
+last_updated: "2019-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -139,13 +139,45 @@ XXII. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por c
 
 XXIII. Toma: conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
 
-XXIV. Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes, o la prestación de servicios;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-XXV. Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
+XXIV. Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas dedicadas a la compra y venta de bienes, así como la prestación de servicios incluyendo aquellos con fines recreativos, entendiéndose por fines recreativos las actividades de esparcimiento organizadas por instituciones públicas o privadas con fines comerciales;
 
-XXVI. Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2019)</small>
 
-XXVII. Usuario: la persona, física o moral que utilice los servicios públicos.
+XXV. Uso agrícola y pecuario: la utilización del agua en la producción agrícola, en la cría y engorda de ganado, de aves de corral y otros animales, así como para la preparación de estos para la primera enajenación, siempre y cuando los productos no hayan sido objeto de transformación industrial; lo anterior, sin incluir riego de pastizales para el uso pecuario;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+XXVI. Uso doméstico: la utilización de agua en casa-habitación para el uso particular de las personas y del hogar, la preparación de alimentos, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, y para satisfacer las necesidades básicas como son el servicio sanitario, la limpieza personal y la limpieza de bienes;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+
+XXVII. Uso industrial: la utilización de agua en fábricas o empresas que realicen extracción, conservación o transformación de materias primas o minerales, acabado de productos o elaboración de satisfactores, así como el agua utilizada en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2019)</small>
+
+XXVIII. Usuario: la persona, física o moral que utilice los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+ARTICULO 3o A.- La política hídrica estatal se sustentará en los siguientes principios rectores:
+
+I. El agua es un recurso vital, limitado y finito; su cuidado, preservación y sostenibilidad competen de forma compartida al Estado y a la sociedad;
+
+II. Las autoridades deberán garantizar el derecho humano al agua, particularmente de quienes viven en situación de marginación o vulnerabilidad;
+
+III. Los usos del agua serán regulados por el Estado, considerando el manejo sustentable de este recurso;
+
+IV. Las autoridades fomentarán el aprovechamiento eficiente del agua, promoviendo su reúso;
+
+V. La gestión integral del agua y el fomento a la cultura del agua tendrán como base la participación informada y responsable de los usuarios;
+
+VI. El uso doméstico del agua se considerará preferente en la distribución de este recurso;
+
+VII. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable; y
+
+VIII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 "A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE, SE DEROGA EL TÍTULO SEGUNDO DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EN FECHA 24 DE JULIO DE 2000, QUEDANDO EXTINTO EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DENOMINADO "INSTITUTO DEL AGUA DEL ESTADO".]</small>
 
@@ -211,6 +243,20 @@ Los servicios públicos serán prestados en condiciones que aseguren su continui
 
 Los Municipios con el concurso del Estado cuando así fuere necesario, el Estado en el supuesto señalado en el Artículo 21 o los prestadores de los servicios, según sea el caso, serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, conforme a las normas oficiales mexicanas o las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua, de acuerdo con lo establecido en la Ley de Aguas Nacionales y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+
+ARTICULO 14 A.- Los prestadores de los servicios otorgarán el servicio de agua potable en su ámbito de competencia, considerando la siguiente prioridad en los usos:
+
+I. Doméstico;
+
+II. Comercial y de servicios;
+
+III. Industrial;
+
+IV. Agrícola y pecuario; y
+
+V. Los demás que determinen las autoridades del agua.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 15.
@@ -237,7 +283,7 @@ Cuando los servicios públicos sean prestados directamente por los Municipios é
 
 I. Planear y programar la prestación de los servicios públicos a que se refiere la presente Ley, elaborando y actualizando el Proyecto Estratégico de Desarrollo conforme a lo establecido en el Artículo 15;
 
-II. Realizar por si o por terceros las obras requeridas para la prestación de los servicios públicos en su jurisdicción y recibir las que se construyan en la misma para la prestación de dichos servicios;
+II. Realizar por sí o por terceros las obras requeridas para la prestación de los servicios públicos en su jurisdicción y recibir las que se construyan en la misma para la prestación de dichos servicios;
 
 III. Realizar los actos necesarios para la prestación de los servicios públicos dentro de su jurisdicción, atendiendo a la Ley de Aguas Nacionales y su Reglamento, la legislación en materia ambiental, y las normas oficiales mexicanas que se emitan en relación con los mismos;
 
@@ -265,7 +311,7 @@ XIV. Procurar la selección profesional del personal directivo, tomando en consi
 
 XV. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, en los términos de Ley;
 
-XVI. Realizar las visitas de inspección y verificación conforme lo establecido en la Sección Cuarta del Capitulo V del presente Título;
+XVI. Realizar las visitas de inspección y verificación conforme lo establecido en la Sección Cuarta del Capítulo V del presente Título;
 
 XVII. Aplicar las sanciones que se establecen en el Artículo 125, por las infracciones que se cometan;
 
@@ -837,7 +883,7 @@ IV. El Concedente dictará la resolución que corresponda en un plazo no mayor d
 
 ###### ARTICULO 58.
 
-En caso de que la prestación de los servicios públicos se concesionen, se formará un Consejo Consultivo, en los términos del Articulo 32, que participará con voz pero sin voto a través de dos representantes, en las sesiones del Consejo de Administración relacionadas con el objeto del Consejo Consultivo a que se refiere el Artículo 33.
+En caso de que la prestación de los servicios públicos se concesionen, se formará un Consejo Consultivo, en los términos del Artículo 32, que participará con voz pero sin voto a través de dos representantes, en las sesiones del Consejo de Administración relacionadas con el objeto del Consejo Consultivo a que se refiere el Artículo 33.
 
 El concesionario deberá invitar por escrito, al Concedente a las sesiones del consejo de administración mencionadas en el párrafo anterior.
 
@@ -921,7 +967,7 @@ II. Aprobar el contenido de los modelos de contratos a que se refiere el Artícu
 
 III. Resolver las diferencias que le sometan, suscitadas entre los concedentes y los concesionarios de los servicios públicos, así como entre los contratantes y contratistas;
 
-IV. Verificar la correcta aplicación de las fórmulas para la determinación de las cuotas y tarifas en los términos de la Sección Tercera del Capitulo V del Titulo Tercero de esta Ley;
+IV. Verificar la correcta aplicación de las fórmulas para la determinación de las cuotas y tarifas en los términos de la Sección Tercera del Capítulo V del Título Tercero de esta Ley;
 
 V. Vigilar el cumplimiento de los Proyectos Estratégicos de Desarrollo;
 
@@ -935,9 +981,9 @@ VII. Participar como asesor en los procesos de licitación de concesiones para l
 
 VIII. Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los Prestadores de Servicios, en los términos de los Artículos 56 y 57 de esta Ley; y
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
-IX. Garantizar que la distribución del agua potable, para uso personal y doméstico, sea accesible y asequible para todos, así como, facilitar el acceso mínimo y sostenible referido en esta ley, en particular, de los grupos vulnerables y personas menos favorecidas.
+IX. Garantizar que la distribución del agua potable, para uso personal y doméstico, sea accesible para todos; así como, facilitar el acceso mínimo y sostenible referido en esta ley, en particular de las familias y los grupos vulnerables.
 
 ### CAPITULO V. De las Reglas para la Prestación de los Servicios Públicos
 
@@ -1013,7 +1059,7 @@ Cuando el prestador de los servicios no cumpla con la obligación establecida en
 
 Cualquier modificación que se pretenda hacer al inmueble o establecimiento, que afecte las instalaciones correspondientes a los servicios públicos, requerirá de la presentación previa de la solicitud respectiva por los usuarios al prestador de los servicios.
 
-En ningún caso el propietario o poseedor del predio o establecimiento podrá operar por si mismo el cambio del sistema, instalación, supresión o conexión de los servicios públicos.
+En ningún caso el propietario o poseedor del predio o establecimiento podrá operar por sí mismo el cambio del sistema, instalación, supresión o conexión de los servicios públicos.
 
 ###### ARTICULO 80.
 
@@ -1217,7 +1263,7 @@ c) Por conexión de servicio de agua;
 
 d) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de uso doméstico;
 
-e) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga no rebase los limites máximos permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
+e) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga no rebase los límites máximos permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
 
 f) Por conexión al drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga rebase los límites máximos permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descargas vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
 
@@ -1241,9 +1287,9 @@ f) Por otros usos;
 
 g) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de uso doméstico;
 
-h) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga no rebase los limites máximos permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
+h) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga no rebase los límites máximos permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente;
 
-i) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga rebase los limites máximos permisibles conforme a las normas oficiales mexicanos en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente; y
+i) Por servicios de drenaje o alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga rebase los límites máximos permisibles conforme a las normas oficiales mexicanos en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección al ambiente; y
 
 j) Por otros servicios.
 
@@ -1397,7 +1443,7 @@ Cuando no se pueda determinar el volumen de agua, como consecuencia de la descom
 
 Procederá la determinación presuntiva del volumen de consumo del agua, cuando:
 
-I. No se tenga instalado aparato de medición en los términos del Articulo 77;
+I. No se tenga instalado aparato de medición en los términos del Artículo 77;
 
 II. No funcione el medidor;
 
@@ -1801,7 +1847,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 27 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ÓRGANICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1920,3 +1966,15 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado deberá proveer en la esfera administrativa para la exacta observancia del presente Decreto.
+
+P.O. 15 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 137.- SE REFORMA Y ADICIONA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
