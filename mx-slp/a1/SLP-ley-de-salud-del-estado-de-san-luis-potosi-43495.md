@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-06-22"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1349,6 +1349,10 @@ En el caso en que exista convenio entre el Ejecutivo del Estado y el Ejecutivo F
 
 Quienes ejerzan en forma pública o privada las actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado de la licenciatura y la especialidad respectivamente, y, en su caso, el número de su correspondiente cédula profesional; además, el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitarán la opinión de la Secretaría de Salud. Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las autoridades ya señaladas también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+Así mismo, deberá estar a la vista de los pacientes el documento del título, diploma o certificado de la licenciatura; y en caso de ejercer especialidades o subespecialidades, también el documento de la certificación o recertificación correspondiente.
+
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ARTICULO 71 BIS. Los profesionales, técnicos y auxiliares de la salud en el ámbito público y privado, no podrán percibir comisiones, beneficio económico o en especie, o porcentaje alguno, por la celebración de convenios o contratos con personas físicas o morales que presten servicios de salud, y que tengan como finalidad obligar y/o inducir la prescripción de medicamentos, aparatos ortopédicos, lentes, análisis clínicos y de gabinete, servicios funerarios; así como el envío de pacientes a efecto de consumir dichos servicios y/o productos.
@@ -1359,9 +1363,21 @@ La asociación entre médicos y otros profesionales de la salud, debe tener como
 
 ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o instigación, destinados a provocar en una o varias personas la realización de un acto.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
 
-ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma pública o privada las actividades y especialidades referidas en este capítulo, deben contar con cédula profesional que ampare sus estudios como médico general o especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior, y con certificación vigente del registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, de igual forma, deberán de ser autorizados por las autoridades federales sanitarias en los términos que correspondan.
+ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma pública o privada las actividades y especialidades referidas en este capítulo, deben contar con
+
+I. Cédula profesional que ampare sus estudios como médico general o especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior;
+
+II. Certificación vigente del registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, de igual forma;
+
+III. Certificación vigente por el Consejo Mexicano de Medicina General;
+
+IV. En el caso de ejercer una especialidad, sin excepción, certificación vigente por el Consejo de Especialidades Médicas correspondiente, que esté reconocido por el Comité Normativo Nacional de Consejos de Especialidades Médicas, en términos de la Ley General de Salud, y
+
+V. Autorización por las autoridades federales sanitarias en los términos que correspondan.
+
+Para efectos de la validez a que alude la fracción IV, debe acreditarse la recertificación cada cinco años.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4436,3 +4452,11 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0152 BIS.- SE REFORMA EL ARTÍCULO 71 QUÁTER; Y ADICIONA AL ARTÍCULO 71 PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
