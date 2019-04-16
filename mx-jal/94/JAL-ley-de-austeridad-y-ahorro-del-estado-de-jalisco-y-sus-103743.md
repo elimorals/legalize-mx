@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-austeridad-y-ahorro-del-estado-de-jalisco-y-sus-103743"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-22"
-last_updated: "2018-07-14"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 22 de noviembre de 2014.
 
@@ -57,15 +57,19 @@ IV. Los organismos públicos intermunicipales y metropolitanos; y
 
 V. Cualquier instancia que reciba o administre recursos públicos, sólo respecto a dichos recursos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### Artículo 3.
 
-Los sujetos obligados que reciban recursos públicos estatales, deberán remitir en su anteproyecto de presupuesto un informe de austeridad donde se especificará el monto de lo ahorrado durante el ejercicio fiscal que corresponda del gasto operativo, informando a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que ésta contemple el ahorro proyectado por los sujetos obligados en la elaboración del paquete presupuestal para el ejercicio fiscal siguiente, en los términos de la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
+Los sujetos obligados que reciban recursos públicos estatales, deberán remitir en su anteproyecto de presupuesto un informe de austeridad donde se especificará el monto de lo ahorrado durante el ejercicio fiscal que corresponda del gasto operativo, informando a la Secretaría de la Hacienda Pública, para que ésta contemple el ahorro proyectado por los sujetos obligados en la elaboración del paquete presupuestal para el ejercicio fiscal siguiente, en los términos de la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
 
 En el caso de los ayuntamientos, y en apego a su autonomía, se deberán elaborar estos informes de austeridad para ser considerados en el presupuesto de egresos de cada municipio, en los términos de esta Ley y su reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### Artículo 4.
 
-En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría de Planeación, Administración y Finanzas, así como los municipios, podrán preferentemente dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro, al Capítulo de Inversión Pública.
+En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría (sic) la Hacienda Pública, así como los municipios, podrán preferentemente dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro, al Capítulo de Inversión Pública.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE NOVIEMBRE DE 2015)</small>
 
@@ -237,15 +241,19 @@ Toda persona podrá denunciar ante la autoridad correspondiente, cualquier hecho
 
 El incumplimiento de las disposiciones contenidas en la presente ley será sancionado de conformidad con lo dispuesto por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, independientemente de las posibles responsabilidades de tipo penal en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### Artículo 36.
 
-Los sujetos obligados que incumplan con las disposiciones marcadas en la presente Ley, serán sancionados en sus asignaciones presupuestales, para lo cual la Secretaría de Planeación, Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, reducirá las asignaciones presupuestales en los Capítulos de Materiales y Suministros, Servicios Generales y Transferencias de la unidad presupuestal correspondiente.
+Los sujetos obligados que incumplan con las disposiciones marcadas en la presente Ley, serán sancionados en sus asignaciones presupuestales, para lo cual la Secretaría de la Hacienda Pública, en la elaboración del proyecto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, reducirá las asignaciones presupuestales en los Capítulos de Materiales y Suministros, Servicios Generales y Transferencias de la unidad presupuestal correspondiente.
 
 En el caso de los municipios se estará a lo dispuesto en sus disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### Artículo 37.
 
-Los sujetos obligados que cumplan con lo dispuesto en esta ley y apliquen lineamientos y políticas de austeridad y ahorro exitosas, podrán ser beneficiados con programas de capacitación, becas y otros estímulos que definan la Secretaría de Planeación, Administración y Finanzas.
+Los sujetos obligados que cumplan con lo dispuesto en esta ley y apliquen lineamientos y políticas de austeridad y ahorro exitosas, podrán ser beneficiados con programas de capacitación, becas y otros estímulos que definan (sic) la Secretaría de la Hacienda Pública.
 
 En el caso de los municipios se estará a lo dispuesto en sus disposiciones reglamentarias.
 
@@ -326,3 +334,7 @@ P.O. 14 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26840/LXI/18 QUE REFORMA LA LEY DE ENTREGA RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE ABRIL DE 2019.
+
+> <small>[N. DE E. EL “DECRETO 27251/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
