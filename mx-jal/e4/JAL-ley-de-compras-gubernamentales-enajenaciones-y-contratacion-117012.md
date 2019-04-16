@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2018-11-17"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -105,7 +105,9 @@ XVI. Ofertas subsecuentes de descuento: Modalidad utilizada en las licitaciones 
 
 XVII. RUPC: Registro Estatal Único de Proveedores y Contratistas;
 
-XVIII. Secretaria: la Secretaria de Planeación, Administración y Finanzas del Gobierno del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+XVIII. Secretaría: La Secretaría de Administración;
 
 XIX. Sistema Electrónico de Compras Gubernamentales y Contratación de Obra Pública (SECG): Sistema informático de consulta gratuita, integrado por información relevante para los procesos de compras públicas, bajo los principios de transparencia, participación y colaboración ciudadana, máxima publicidad y accesibilidad de uso. Dicho sistema constituye el medio por el cual se desarrollarán procedimientos de contratación;
 
@@ -479,7 +481,9 @@ VII. Consejo Coordinador de Jóvenes Empresarios del Estado de Jalisco.
 
 1. El Comité será presidido, según corresponda, por:
 
-I. El titular de la Secretaría, o de la Subsecretaría de Administración de esta, para el Poder Ejecutivo y sus Dependencias Centralizadas;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+I. El titular de la Secretaría de Administración de esta, para el Poder Ejecutivo y sus Dependencias Centralizadas;
 
 II. El titular del ente público, para las Entidades de la Administración Pública Paraestatal del Poder Ejecutivo, la Administración Pública Municipal Centralizada y Paramunicipal, y los Organismos Constitucionalmente Autónomos;
 
@@ -1768,3 +1772,9 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado contará con el término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, para reformar el reglamento de la presente ley.
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27250/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2 Y 26 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
