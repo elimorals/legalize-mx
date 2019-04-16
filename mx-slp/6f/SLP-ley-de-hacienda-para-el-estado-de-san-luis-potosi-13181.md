@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2018-07-26"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -117,7 +117,9 @@ Se considera que el impuesto se causa y debe pagarse en el Estado, cuando la adq
 
 El impuesto se pagará en las Oficinas Recaudadoras del Estado dentro de los treinta días siguientes a aquél en que se celebró la operación y se cubrirá utilizando las formas oficiales.
 
-Se considera fecha de celebración de la operación la que se indique en el endoso de la factura o contrato respectivo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+Se considera fecha de celebración de la operación la que se indique en la cesión de derechos de la factura o contrato respectivo.
 
 ###### ARTICULO 10.
 
@@ -3319,8 +3321,16 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 26 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1025.- SE REFORMA EL ARTÍCULO 27 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1025.- SE REFORMA EL ARTÍCULO 27 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0154.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9°, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
