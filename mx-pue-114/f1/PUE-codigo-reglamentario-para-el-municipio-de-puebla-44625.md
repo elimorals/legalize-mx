@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-11-15"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2491,9 +2491,9 @@ l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado 
 
 l Bis.) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad y que no acuda al programa de reinserción familiar y social que para tal efecto el Juez Calificador canalizó a alguna comisión, dependencia, institución, órgano o cualquier otra, habiendo sido apercibidos de lo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
 
-m) Que permitan el acceso a centros de entretenimiento, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+m) Que permitan el acceso a Salas con juegos de azar y casinos, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6655,9 +6655,9 @@ III. Elaborar el catálogo de recursos movilizables con base en la información 
 
 IV. Realizar las acciones necesarias para garantizar la protección de las personas, instalaciones y bienes de interés común en caso de riesgo colectivo, catástrofe o calamidad pública;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
-V. Realizar visitas de inspección en todo tipo de establecimientos tanto industriales como comerciales o de servicios, incluyendo a los centros botaneros, bares, cantinas, centros de entretenimiento y cualquier otro que determine la Autoridad competente, con la finalidad de verificar el cumplimiento de las medidas de seguridad dispuestas para los mismos;
+V. Realizar visitas de inspección en todo tipo de establecimientos tanto industriales como comerciales o de servicios, incluyendo a los centros bataneros (sic), bares, cantinas, salas con juegos de azar y casinos, y cualquier otro que determine la Autoridad competente, con la finalidad de verificar el cumplimiento de las medidas de seguridad dispuestas para los mismos;
 
 VI. Proponer medidas que garanticen el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares afectados por desastres;
 
@@ -9383,7 +9383,9 @@ XXI. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimie
 
 XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas; y
 
-XXIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+XXIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDERAL COMPETENTE Y ANUENCIA DEL CABILDO.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -9675,9 +9677,9 @@ XI. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 XII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS; Y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
-XIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLICAS.
+XIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDERAL COMPETENTE Y ANUENCIA DEL CABILDO.
 
 Dichos comercios podrán permitir que sus clientes permanezcan hasta las 3:00 Hrs., sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
@@ -38068,3 +38070,9 @@ SEGUNDO. Se concede un plazo de tres meses para que la Secretaría de Desarrollo
 TERCERO. Para efectos del artículo 829 de este ordenamiento en el que se establece el procedimiento para el reconocimiento de colonias, solo serán susceptibles de esta disposición los Asentamientos Humanos que se hayan fundado antes del día l0 de abril de 2017. Los Asentamiento (sic) Humanos que se establezcan de manera posterior a esta fecha, serán tratados como fraccionamientos y su regularización se permitirá siempre y cuando se cumpla con los requisitos técnicos y administrativos que señale la normativa aplicable.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA EL INCISO M) DE LA FRACCIÓN IV DEL ARTÍCULO 209, LA FRACCIÓN V DEL ARTÍCULO 394, LA FRACCIÓN XXIII DEL ARTÍCULO 611 Y LA FRACCIÓN XIII DEL ARTÍCULO 616 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+ÚNICO. El presente Dictamen deberá enviarse al Periódico Oficial del Estado de Puebla y tendrá efecto al siguiente día hábil de su publicación.
