@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-juicio-politico-y-declaracion-de-procedencia-para-12221
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2017-06-05"
+last_updated: "2019-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "SLP"
 ---
 # LEY DEL JUICIO POLITICO, Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DEL JUICIO POLÍTICO, Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE JUNIO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 0656 PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -556,3 +554,17 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0153.- LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide con este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Juicio Político y Declaración de Procedencia para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado "Plan de San Luis", como Decreto Legislativo número 656, el tres de junio de dos mil diecisiete.
+
+TERCERO Se derogan todas las disposiciones que se opongan a este Decreto.
+
+CUARTO. Los procedimientos de juicio político, o declaración de procedencia que se hayan iniciado durante la vigencia de la Ley de Juicio Político y Declaración de Procedencia para el Estado de San Luis Potosí, continuarán tramitándose conforme lo dispone el Título Segundo y demás aplicables del citado ordenamiento, hasta su total conclusión.
