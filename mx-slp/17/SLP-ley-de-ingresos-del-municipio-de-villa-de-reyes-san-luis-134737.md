@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ingresos-del-municipio-de-villa-de-reyes-san-luis-134737
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-01-10"
-last_updated: "2019-01-12"
+last_updated: "2019-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,17 +25,19 @@ state: "SLP"
 
 LEY DE INGRESOS DEL MUNICIPIO DE VILLA DE REYES, S.L.P. PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de enero de 2019.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y FE DE ERRATAS SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### ARTÍCULO 44.
 
 Constituyen multas administrativas a favor del fisco municipal las siguientes:
 
 Multas de policía y tránsito. Los ingresos de este ramo provienen de las que se impongan por las autoridades correspondientes y en uso de sus facultades, por violación a las leyes, reglamentos y Bando de Policía y Gobierno, relativos, las que no podrán ser mayores a las señaladas en el artículo 21 de la Constitución General de la República, y se cobrarán conforme a los siguientes costos:
+
+> <small>(REFORMADA [N. DE E. ESTA TABLA], P.O. 16 DE ABRIL DE 2019)</small>
 
 a) Por estacionarse en áreas, camellones y otras vías reservadas 2.93
 
@@ -57,95 +59,95 @@ i) Por estacionarse en lugares prohibidos 5.00
 
 j) Por circular sin encender los faros delanteros y luces posteriores durante la noche o cuando no haya suficiente visibilidad 3.85
 
-k) Por circular sin placas
+k) Por circular sin placas 6.86
 
-l) Por no colocar las placas en los lugares establecidos por el fabricante del vehículo
+l) Por no colocar las placas en los lugares establecidos por el fabricante del vehículo 3.19
 
-m) Por transitar sobre las aceras v áreas reservadas para los peatones
+m) Por transitar sobre las aceras v áreas reservadas para los peatones 3.19
 
-n) Por circular con exceso de velocidad
+n) Por circular con exceso de velocidad 6.39
 
-ñ) Por permitir conducir a menores de edad
+ñ) Por permitir conducir a menores de edad 6.50
 
-o) Por no obedecer señalamientos de tránsito
+o) Por no obedecer señalamientos de tránsito 5.00
 
-p) Por influyentismo, insultos y amenazas
+p) Por influyentismo, insultos y amenazas 7.07
 
-q) Por falta de engomado
+q) Por falta de engomado 3.85
 
-r) Por conducir con infracción vencida
+r) Por conducir con infracción vencida 5.00
 
-s) Por conducir en estado de ebriedad
+s) Por conducir en estado de ebriedad 17.52
 
-t) Por no obedecer al oficial de tránsito
+t) Por no obedecer al oficial de tránsito 5.26
 
-u) Por falta de luz parcial
+u) Por falta de luz parcial 3.85
 
-v) Por estacionarse en doble fila
+v) Por estacionarse en doble fila 4.04
 
-w) Por chocar y causar daños materiales
+w) Por chocar y causar daños materiales 12.89
 
-x) Por chocar y causar lesiones
+x) Por chocar y causar lesiones 15.48
 
-y) Por chocar y ocasionar una muerte
+y) Por chocar y ocasionar una muerte 52.00
 
-z) Por negar licencia y tarjeta de circulación al tránsito
+z) Por negar licencia y tarjeta de circulación al tránsito 5.15
 
-aa) Por abandonar vehículo ocasionando hecho de tránsito
+aa) Por abandonar vehículo ocasionando hecho de tránsito 5.15
 
-ab) Por placas que no correspondan al vehículo
+ab) Por placas que no correspondan al vehículo 3.85
 
-ac) Por no esperar boleta de infracción
+ac) Por no esperar boleta de infracción 7.74
 
-ad) Por circular en bicicleta en áreas peatonales
+ad) Por circular en bicicleta en áreas peatonales 5.00
 
-ae) Por intento de fuga
+ae) Por intento de fuga 20.00
 
-af) Falta de precaución en vías de preferencia
+af) Falta de precaución en vías de preferencia 7.74
 
-ag) Falta de permiso de carga
+ag) Falta de permiso de carga 15.00
 
-ah) Intento de cohecho
+ah) Intento de cohecho 30.00
 
-ai) Circular con cuatro personas en cabina
+ai) Circular con cuatro personas en cabina 5.50
 
-aj) Atropellamiento de una persona
+aj) Atropellamiento de una persona 30.00
 
-ak) Daños a propiedad del ayuntamiento
+ak) Daños a propiedad del ayuntamiento 40.00
 
-al) Por conducir con exceso de velocidad en zonas escolares
+al) Por conducir con exceso de velocidad en zonas escolares 15.68
 
-am) Por falta de razón social
+am) Por falta de razón social 2.57
 
-an Por no manifestar cambio de propietario
+an Por no manifestar cambio de propietario 2.57
 
-añ) Por parabrisas en mal estado
+añ) Por parabrisas en mal estado 2.57
 
-ao) Por obstruir circulación
+ao) Por obstruir circulación 5.15
 
-ap) Por falta de abanderamiento en carga que sobresale las dimensiones del vehículo
+ap) Por falta de abanderamiento en carga que sobresale las dimensiones del vehículo 8.00
 
-aq) Peritaje de accidentes
+aq) Peritaje de accidentes 10.00
 
-ar) Por obstruir las entradas de cocheras particulares
+ar) Por obstruir las entradas de cocheras particulares 5.00
 
-as) Ruido excesivo de equipo de audio en general
+as) Ruido excesivo de equipo de audio en general 10.00
 
-at) Por conducir con aliento alcohólico
+at) Por conducir con aliento alcohólico 30.00
 
-au) Arrojar basura
+au) Arrojar basura 5.84
 
-av) Por conducir sin el tipo de licencia específico para el tipo de unidad
+av) Por conducir sin el tipo de licencia específico para el tipo de unidad 8.00
 
-aw) Por ruído de escape
+aw) Por ruido de escape 5.44
 
-ax) Por no obedecer el semáforo
+ax) Por no obedecer el semáforo 8.00
 
-ay) Por exceso de tiempo en estacionamiento
+ay) Por exceso de tiempo en estacionamiento 4.66
 
-) (sic) Por conducir temerariamente poniendo en peligro la seguridad de las personas y los bienes
+az) Por conducir temerariamente poniendo en peligro la seguridad de las personas y los bienes 18.00
 
-) (sic) Por estacionarse en bahías, rampas o estacionamiento para uso exclusivo de personas con discapacidad
+ba) Por estacionarse en bahías, rampas o estacionamiento para uso exclusivo de personas con discapacidad 35
 
 En caso de que el infractor liquide la multa dentro del término de diez días hábiles siguientes a la infracción cometida se le cometida se le un descuento 50%; con excepción de las multas incisos: ñ, s, x, y, ae, aj y al.
 
