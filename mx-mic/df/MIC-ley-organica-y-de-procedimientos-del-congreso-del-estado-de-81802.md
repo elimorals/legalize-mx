@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2018-10-30"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -171,11 +171,15 @@ VII. Presentar declaración patrimonial, en términos de ley;
 
 VIII. No hacer uso de su condición de legislador para el ejercicio de actividad mercantil o profesional;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
-IX. Presentar un informe anual sobre sus labores legislativas dentro del mes de septiembre de cada año; a excepción del último año legislativo que tendrán que hacerlo, dentro del mes de agosto; y,
+IX. Presentar un informe anual sobre sus labores legislativas dentro del mes de septiembre de cada año; a excepción del último año legislativo que tendrán que hacerlo, dentro del mes de agosto;
 
-X. Las demás que señale la Constitución, la presente Ley y los ordenamientos que de ésta deriven.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+X. No alentar, iniciar o promover cualquier acción que ponga en riesgo la seguridad de los legisladores, empleados o ciudadanía en el Recinto o en cualquier lugar en que se desempeñen labores propias del Poder Legislativo del Estado; y,
+
+XI. Las demás que señale la Constitución, la presente Ley y los ordenamientos que de ésta deriven.
 
 ###### ARTÍCULO 8.
 
@@ -351,9 +355,11 @@ En los actos solemnes se podrá sesionar transitoriamente en lugar distinto a la
 
 Si a juicio de las dos terceras partes de los diputados asistentes existe imposibilidad de sesionar en el Recinto, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-El Recinto del Congreso es inviolable. Toda fuerza pública está impedida a tener acceso al mismo, salvo con permiso del Presidente del Congreso, quedando en todo caso bajo su mando.
+El Recinto del Congreso es inviolable. El Presidente del Congreso, en todo momento tendrá bajo su mando personal capacitado y necesario, en materia de seguridad y protección civil, mismo que será designado por él directamente, previo acuerdo de la Junta de Coordinación Política. Toda fuerza pública está impedida a tener acceso al mismo, salvo con permiso del Presidente del Congreso, quedando en todo caso bajo su mando.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2018)</small>
 
@@ -943,7 +949,9 @@ Concluido el análisis de un expediente, el Presidente de la Comisión con apoyo
 
 Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros presentes. El Presidente tendrá voto de calidad en caso de empate.
 
-Cuando alguno de los miembros disienta de la resolución adoptada, podrá solicitar se adicione al proyecto dictamen de minoría o voto particular que deberá ser leído como parte del dictamen respectivo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+Cuando alguno de los miembros disienta de la resolución adoptada, firmará en contra y podrá solicitar se adicione al proyecto dictamen de minoría o voto particular que deberá ser leído como parte del dictamen respectivo.
 
 ###### ARTÍCULO 67.
 
@@ -1721,9 +1729,17 @@ I. Conocer, revisar y aprobar, los programas de trabajo de las áreas administra
 
 II. Proponer a la Junta los presupuestos necesarios para el cumplimiento de los programas de trabajo de las áreas administrativas;
 
-III. Evaluar y supervisar el cumplimiento de los programas de trabajo de las áreas administrativas e informar a la Junta de las acciones administrativas necesarias para su logro; y,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
-IV. Las demás que le establezcan esta Ley, el reglamento, el Pleno o la Junta.
+III. Evaluar y supervisar el cumplimiento de los programas de trabajo de las áreas administrativas e informar a la Junta de las acciones administrativas necesarias para su logro;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+IV. Emitir opinión para el estudio y análisis de aquel asunto que se le haya turnado para tal efecto; y,
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+V. Las demás que le establezcan esta Ley, el Reglamento, el Pleno o la Junta.
 
 ###### ARTÍCULO 100.
 
@@ -2027,9 +2043,7 @@ III. Recursos materiales y generales: que comprende inventario y mantenimiento d
 
 IV. Informática: que comprende apoyo técnico para adquisiciones de bienes informáticos, instalación y mantenimiento del equipo de cómputo, planificación, asesoría y capacitación informática;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-V. Seguridad y protección civil: que comprende la vigilancia y cuidado de los bienes del Poder Legislativo, de su personal y el control de acceso a la sede del Congreso y demás instalaciones; y,
+V. (DEROGADA, P.O. 16 DE ABRIL DE 2019)
 
 VI. Servicio médico y de atención a diputados.
 
@@ -2125,9 +2139,11 @@ En caso de ausencias temporales del titular de la Coordinación de Comunicación
 
 ### CAPÍTULO SÉPTIMO. DE LA COORDINACIÓN DE ATENCIÓN CIUDADANA Y GESTORÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 116.
 
-La Coordinación de Atención Ciudadana y Gestoría depende del Comité de Atención Ciudadana y Gestoría, tiene a su cargo brindar asesoría y orientación profesional en materia jurídica, así como coordinarse con las dependencias federales, estatales, municipales e instituciones privadas de asistencia social para canalizar las demandas ciudadanas; asimismo, previo estudio socioeconómico, apoyar en la medida de las posibilidades presupuestales del Congreso, conforme a la partida que le sea asignada para tal efecto, a las personas que lo soliciten o gestionar ante las dependencias competentes lo concerniente a los mismos, así como dar cuenta del uso y destino de dicha partida al Pleno, por medio del Comité respectivo.
+La Coordinación de Atención Ciudadana y Gestoría depende del Comité de Atención Ciudadana y Gestoría, tiene a su cargo brindar asesoría y orientación profesional en materia jurídica, así como coordinarse con las dependencias federales, estatales, municipales e instituciones privadas de asistencia social para canalizar las demandas o manifestaciones ciudadanas; asimismo, previo estudio socioeconómico, apoyar en la medida de las posibilidades presupuestales del Congreso, conforme a la partida que le sea asignada para tal efecto, a las personas que lo soliciten o gestionar ante las dependencias competentes lo concerniente a los mismos, así como dar cuenta del uso y destino de dicha partida al Pleno, por medio del Comité respectivo.
 
 Los diputados canalizarán sólo por conducto de esta Coordinación los recursos de gestión.
 
@@ -2707,9 +2723,11 @@ En la Sesión constitutiva no se podrá conocer asunto distinto a lo establecido
 
 ### CAPÍTULO PRIMERO. DE LA AGENDA LEGISLATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 212.
 
-La Conferencia, deberá presentar por medio de su Presidente al Pleno del Congreso para su aprobación, el treinta de noviembre del primer año de ejercicio constitucional, la Agenda Legislativa del Congreso del Estado, previa aprobación e integración por la Junta de Coordinación Política.
+La Conferencia, deberá presentar por medio de su Presidente al Pleno del Congreso para su aprobación, a más tardar el treinta de noviembre del primer año de ejercicio constitucional, la Agenda Legislativa del Congreso del Estado, previa aprobación e integración por la Junta de Coordinación Política.
 
 Cada año, la Conferencia en coordinación con la Junta actualizarán de ser necesario, la Agenda Legislativa, dentro de los primeros sesenta días naturales del siguiente año legislativo.
 
@@ -2867,11 +2885,11 @@ IV. La firma autógrafa, o en su caso clave electrónica del Presidente.
 
 La convocatoria deberá ser remitida a sus destinatarios al menos con dos días hábiles de anticipación a la fecha en que haya de celebrarse la sesión, con aviso al Secretario de Servicios Parlamentarios, a efecto de que brinde el apoyo necesario en el ámbito de sus responsabilidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 227.
 
-Para la integración del orden del día de las sesiones ordinarias de Pleno, la Conferencia, considerará exclusivamente los asuntos que hayan sido registrados para tal fin, ante la Secretaría de Servicios Parlamentarios.
+Para la integración del orden del día de las sesiones ordinarias de Pleno, la Conferencia, considerará exclusivamente los asuntos que hayan sido registrados para tal fin, ante la Presidencia de la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -2945,7 +2963,9 @@ Las iniciativas de Ley o de Decreto deben ser dirigidas al Presidente del Congre
 
 Las iniciativas deben presentarse por escrito con firma autógrafa de su promovente y estar acompañada de una versión digital en medio magnético para su reproducción gráfica.
 
-La exposición de motivos de las iniciativas, deberán ser presentadas ante el Pleno por un Diputado ponente. En el caso de iniciativas con carácter de Dictamen, podrán ser leídas indistintamente por un miembro de la Comisión o un Secretario de la Mesa. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+La exposición de motivos de las iniciativas, deberán ser presentadas ante el Pleno por un Diputado ponente hasta por diez minutos. En el caso de iniciativas con carácter de Dictamen, podrán ser leídas indistintamente por un miembro de la Comisión o un Secretario de la Mesa. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa.
 
 Tratándose de iniciativas, el articulado de Ley o de Decreto propuesto, se remitirá sin lectura para su estudio, análisis y dictamen a Comisión.
 
@@ -2957,7 +2977,9 @@ La Propuesta de Acuerdo es aquella que por su naturaleza no tiene el carácter d
 
 I. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener exposición de motivos y proyecto de acuerdo;
 
-II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta. En caso de que el o los presentadores no deseen hacer la exposición de su propuesta, el Presidente del Congreso instruirá a un Secretario de la Mesa Directiva dar lectura al texto del proyecto de acuerdo; y,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta, que no excederá de siete minutos. En caso de que el o los presentadores no deseen hacer la exposición de su propuesta, el Presidente del Congreso instruirá a un Secretario de la Mesa Directiva dar lectura al texto del proyecto de acuerdo; y,
 
 III. El Presidente del Congreso, turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen.
 
@@ -2981,15 +3003,21 @@ c) Violaciones a derechos humanos, desastres naturales, epidemias y alteración 
 
 II. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener en la exposición de motivos la justificación de que el asunto es de urgente y obvia resolución, así como el proyecto de acuerdo;
 
-III. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+III. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta, que no excederá de siete minutos;
 
 IV. El texto del proyecto de acuerdo será leído por un Secretario de la Mesa Directiva;
 
-V. El Presidente someterá a consideración del Pleno en votación económica si el asunto es considerado de urgente y obvia resolución, lo cual requerirá de la aprobación de las dos terceras partes de los diputados presentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
+V. El Presidente someterá a consideración del Pleno en votación nominal, si el asunto es considerado de urgente y obvia resolución, lo cual requerirá de la aprobación de las dos terceras partes de los diputados presentes.
 
 En caso de aprobarse, se iniciará la discusión y votación en términos de la presente Ley; de lo contrario, el Presidente del Congreso turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen; y,
 
-VI. Si durante la discusión se propone la modificación a la exposición de motivos o al texto de la propuesta de acuerdo, el Presidente del Congreso preguntará al presentador si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con la modificación y se someterá para su aprobación, en votación económica. En caso de que el presentador no acepte en sus términos las modificaciones, el Presidente lo someterá para su aprobación, en votación económica en los términos presentados y hará la declaratoria que resulte.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+VI. Si durante la discusión se propone la modificación al texto del proyecto de acuerdo, el Presidente preguntará al proponente si acepta las modificaciones. De aceptar, el Presidente ordenará a un Secretario de la mesa dar lectura a la propuesta de modificación; posteriormente someterá para su aprobación si el asunto se encuentra suficientemente discutido, de resultar aprobado se someterá para su aprobación, en votación económica el proyecto de acuerdo con las modificaciones propuestas. En caso de que el proponente no acepte en sus términos las modificaciones, el Presidente lo someterá para su aprobación, en votación económica en los términos presentados y hará la declaratoria que resulte.
 
 ###### ARTÍCULO 237.
 
@@ -3013,9 +3041,13 @@ Aquellas iniciativas que no fueren dictaminadas durante el ejercicio de la Legis
 
 El posicionamiento es toda aquella participación en tribuna de los diputados para establecer una postura personal o de grupo parlamentario relacionado con algún acontecimiento social, político o histórico, y se sujeta a los trámites siguientes:
 
-I. Deberá presentarse por escrito firmado por su autor, dirigida al Presidente del Congreso; y,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
-II. El Presidente del Congreso dará por enterado al Pleno, los diputados podrán intervenir en términos de la presente Ley.
+I. Deberá presentarse por escrito firmado por su autor, dirigido al Presidente del Congreso y será expuesto en Pleno por un máximo de cinco minutos; y,
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+
+II. El Presidente del Congreso dará por enterado al Pleno y, si así lo considera, podrá conceder el uso de la palabra, desde su curul, hasta por dos minutos a los diputados que lo soliciten.
 
 ### CAPÍTULO SEXTO. DE LOS DICTÁMENES
 
@@ -3079,9 +3111,11 @@ III. Que no se traduzca en afectación a principios o valores democráticos.
 
 Una vez que se ha verificado la primera lectura, el dictamen regresa a la Comisión respectiva, la cual puede profundizar en el estudio de la iniciativa en cuestión, modificando el dictamen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 247.
 
-No podrá discutirse ningún dictamen de Ley, Decreto o propuesta de Acuerdo, sin que previamente se haya distribuido el texto a los diputados, por lo menos con 24 horas de anticipación y publicado en la Gaceta Parlamentaria.
+No podrá discutirse ningún dictamen de Ley, Decreto o Propuesta de Acuerdo, sin que previamente se haya distribuido el texto a los diputados por cualquier medio, por lo menos con 24 horas de anticipación y publicado en la Gaceta Parlamentaria al día de la Sesión.
 
 Asimismo, sólo podrá modificarse la exposición de motivos respectivos, pero en ningún caso el proyecto de articulado normativo o acuerdo, salvo por el procedimiento reservado al Pleno.
 
@@ -3107,15 +3141,23 @@ a) La exposición de motivos de la propuesta; y,
 
 b) La propuesta concreta de acuerdo que se somete al Pleno.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 249.
 
-El Presidente abre el debate inscribiendo una ronda de hasta tres oradores en pro y tres en contra para lo cual se podrá auxiliar del Sistema Electrónico. Debe procurar que la discusión sea alternada en el uso de la palabra, llamándolos por orden y comenzando por el primer orador en contra, pudiendo todos los oradores por una ocasión hacer uso del derecho de réplica. Ningún Diputado podrá hacer uso de la voz, sin que el Presidente del Congreso lo autorice.
+El Presidente abre el debate con una ronda de hasta tres oradores en pro y tres en contra, para lo cual se podrá auxiliar del Sistema Electrónico. Dará el uso de la palabra de manera alternada, hasta por cinco minutos, llamándolos por orden y comenzando por el primer orador en contra. Los oradores podrán, en una ocasión, hacer uso del derecho de réplica y ningún Diputado podrá hacer uso de la voz, sin que el Presidente lo autorice.
 
-Concluida la intervención de los oradores en cada ronda, el Presidente someterá en votación económica si es de considerarse la suficiencia de la discusión, de aprobarse se procederá a la votación; si se desecha se abrirá nueva ronda de discusión consecutivamente hasta que se apruebe la suficiencia. Si agotadas cinco rondas de discusión no se aprueba la suficiencia, el Presidente del Congreso por sí o por moción de cualquier Diputado, podrá suspender la discusión y continuar en la siguiente Sesión.
+Concluida la intervención de los oradores, el Presidente someterá en votación económica si es de considerarse la suficiencia de la discusión, de aprobarse se procederá a la votación del Dictamen; si se desecha, se continuará con el debate, abriéndose una segunda ronda de discusión y así consecutivamente hasta que se apruebe la suficiencia.
+
+En el caso de que se inscriban oradores únicamente para argumentar en un solo sentido, ya sea a favor o en contra, se admitirán hasta seis oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido.
+
+En caso de que se agotaran cinco rondas de participaciones sin aprobar la suficiencia de la discusión, el Presidente por sí o por moción de cualquier Diputado, podrá suspenderla y continuarla en la siguiente Sesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 250.
 
-El Presidente del Congreso pondrá a discusión el Dictamen primero en lo general y después en lo particular.
+El Presidente del Congreso someterá a votación el Dictamen primero en lo general y después en lo particular.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3128,6 +3170,10 @@ Si en la votación particular resultaran aprobados los artículos reservados, se
 ###### ARTÍCULO 251.
 
 Si hay artículos reservados, el Presidente del Congreso, atendiendo al orden secuencial del articulado, concederá el uso de la palabra al Diputado que haya formulado reserva, para que exponga los fundamentos y al término de su intervención deberá entregar por escrito su proyecto de artículo; acto seguido, el Tercer Secretario dará lectura al proyecto, que se pondrá a discusión y votación.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+Si dos o más diputados se reservan un mismo artículo en la misma materia, el Presidente del Congreso preguntará a los diputados si pudieran consensar una sola redacción, de lo contrario se dará lectura a las propuestas de reserva en orden secuencial y se someterán para su aprobación, si la primera propuesta resultare aprobada las demás se declararán sin materia y quedarán desechadas al momento.
 
 Los diputados que voten en contra en lo general, no podrán reservarse artículos en lo particular; quienes voten a favor, no podrán reservarse más del treinta por ciento del articulado.
 
@@ -3234,6 +3280,10 @@ II. En contra; y,
 III. Abstención.
 
 Para la determinación de los resultados correspondientes sólo se computan los votos a favor y en contra; las abstenciones se declaran por separado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2019)</small>
+
+El Presidente del Congreso, cuando resulte necesario, podrá cambiar la modalidad de la votación económica a nominal para dar mayor certeza y claridad jurídica.
 
 ###### ARTÍCULO 266.
 
@@ -3996,3 +4046,13 @@ P.O. 30 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 597.- ARTÍCULO PRIMERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 49 FRACCIÓN XVI, 92 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 29 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 127 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 26, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66, LA FRACCIÓN III DEL ARTÍCULO 99, EL PRIMER PÁRRAFO DEL ARTÍCULO 116, EL PRIMER PÁRRAFO DEL ARTÍCULO 212, EL PRIMER PÁRRAFO DEL ARTÍCULO 227, EL TERCER PÁRRAFO DEL ARTÍCULO 235, LA FRACCIÓN II DEL ARTÍCULO 236, LAS FRACCIONES III, V Y VI DEL ARTÍCULO 236 BIS, LAS FRACCIONES I Y II DEL ARTÍCULO 241, EL PRIMER PÁRRAFO DEL ARTÍCULO 247, EL ARTÍCULO 249, EL PRIMER PÁRRAFO DEL ARTÍCULO 250; SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 7, UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 99, UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTICULO 251, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 265; Y, SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 111, TODOS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+TERCERO. El Congreso del Estado, dispondrá lo conducente a efecto de realizar las modificaciones reglamentarias conforme a lo dispuesto en el presente Decreto.
