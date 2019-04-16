@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2019-03-19"
+last_updated: "2019-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-08-17"
 ---
 # REGLAMENTO DE TRANSITO DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2019.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -232,9 +234,7 @@ XLV. Usuarios vulnerables de la vía, aquellos usuarios que están expuestos a u
 
 XLVI. Vehículo, aparato diseñado para el tránsito terrestre, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna y/o eléctrico, o cualquier otra fuerza motriz, el cual es utilizado para el transporte de personas o bienes;
 
-> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
-
-XLVI Bis. Vehículo de apoyo peatonal, aquellos utilizados por peatones tales como patines, patinetas, patines del diablo y bicicletas de tracción humana, pedaleo asistido o con motor con una velocidad máxima de 10 km/hr.
+XLVI BIS. (DEROGADA, G.O. 16 DE ABRIL DE 2019)
 
 XLVII. Vehículo de emergencia, aquellos destinados a la prestación de servicios médicos, de protección civil, rescate, apoyo vial, bomberos y de policía;
 
@@ -245,6 +245,10 @@ XLVIII. Vehículo motorizado, aquellos vehículos de transporte terrestre de pas
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XLIX. Vehículo no motorizado, aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 km/hr.
+
+> <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2019)</small>
+
+XLIX BIS.- Vehículo recreativo, aquellos utilizados de manera recreativa o lúdica por niñas y niños de hasta doce años de edad, tales como patines, patinetas, patines del diablo sin motor y bicicletas con una velocidad máxima de 10km/h.
 
 L. (DEROGADA, G.O. 19 DE MARZO DE 2019)
 
@@ -304,9 +308,9 @@ I. Obedecer las indicaciones de los agentes, personal de apoyo vial, promotores 
 
 II. Dar preferencia de paso y asistir a aquellos que utilicen ayudas técnicas o a personas con movilidad limitada;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE ABRIL DE 2019)</small>
 
-III. Cuando utilicen vehículos de apoyo peatonal o ayudas técnicas motorizadas en las vías peatonales:
+III.- Cuando utilicen vehículos recreativos o ayudas técnicas motorizadas en las vías peatonales:
 
 a) Dar preferencia a los demás peatones;
 
@@ -674,9 +678,9 @@ II. Detener su vehículo sobre un área de espera para bicicletas o motocicletas
 
 III. Circular o detenerse en áreas restringidas que estén delimitadas por marcas en el pavimento, incluyendo las áreas señaladas para el estacionamiento en vía pública u otros dispositivos para el control del tránsito que establezcan este impedimento, en especial:
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
 
-a) Circular sobre aceras o cualquier otro tipo de vías peatonales a excepción que se trate de un vehículo de apoyo peatonal.
+a) Circular sobre aceras o cualquier otro tipo de vías peatonales a excepción que se trate de un vehículo recreativo o ayuda técnica.
 
 > <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
@@ -1640,13 +1644,17 @@ incorporados
 
 Está prohibido abandonar en la vía pública un vehículo o remolque que se encuentre inservible, destruido o inutilizado. Se entiende por estado de abandono, los vehículos que:
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
 
-I. Que no sean movidos por más de 15 días, o acumulen residuos que generen un foco de infección, malos olores o fauna nociva y
+I. Que no sean movidos por más de 15 días, o acumulen residuos que generen un foco de infección, malos olores o fauna nociva ó
 
-II. Participaron en un hecho de tránsito, no están en posibilidades de circular y no cuenten con el permiso correspondiente.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
+
+II. No están en posibilidades de circular, o participaron en un hecho de tránsito y no cuentan con el permiso correspondiente
 
 El incumplimiento de este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
 
 Sanción con multa Puntos de
 
@@ -1654,11 +1662,11 @@ equivalente en penalización
 
 veces la Unidad en licencia
 
-de Cuenta de para conducir
+de Medida y para conducir
 
-la Ciudad de
+Actualización
 
-México vigente
+vigente
 
 10 a 20 veces No aplica
 
@@ -1784,6 +1792,10 @@ del vehículo
 
 al depósito
 
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II del presente artículo.
+
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 38.
@@ -1896,9 +1908,9 @@ al deposito
 
 VI b) 400 a 600 veces 6 puntos
 
-> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 16 DE ABRIL DE 2019)</small>
 
-Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II incisos C y D del presente artículo.
+Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II del presente artículo.
 
 ###### Artículo 39.
 
@@ -1908,7 +1920,23 @@ Los menores deberán ser transportados en un sistema de retención infantil o as
 
 Únicamente si el vehículo no cuenta con asiento trasero, los niños podrán viajar en el asiento delantero, siempre y cuando cuenten con espacio suficiente para instalar un sistema de retención infantil acordes a su peso o talla y se desactive el sistema de bolsas de aire.
 
-Los conductores que no cumplan con lo establecido en el presente artículo serán sancionados de acuerdo a la tabla de sanciones del artículo 37.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+Los conductores que no cumplan con lo establecido en el presente artículo serán sancionados de acuerdo a la siguiente tabla:
+
+> <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2019)</small>
+
+Sanción con Puntos de penalización Sanción con puntos de
+
+multa equivalente en licencia para conducir penalización en
+
+en veces la Unidad matrícula
+
+de Medida y vehicular (por sistema
+
+Actualización vigente tecnológico)
+
+5 a 10 veces 1 punto 1 punto
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS DE LOS VEHÍCULO
 
@@ -2632,11 +2660,11 @@ i) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2018)
 
 j) En caso de que el infractor insulte o denigre al agente, se sancionará conforme a las disposiciones de este Reglamento y de continuar con una conducta inadecuada se procederá a su remisión ante el Juez Cívico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2019)</small>
 
 ###### Artículo 60.
 
-Las sanciones en materia de tránsito señaladas en este Reglamento y demás disposiciones jurídicas serán impuestas por el agente que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría, por Seguridad Ciudadana y en su caso Medio Ambiente, o recibos emitidos por los equipos electrónicos portátiles (Hand held), que para su validez contendrán:
+Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría y por Seguridad Ciudadana o recibos emitidos por el equipo electrónico, que para su validez contendrán:
 
 a) Artículos de la Ley o del presente Reglamento que prevén la infracción cometida y artículos que establecen la sanción impuesta;
 
@@ -2651,6 +2679,18 @@ e) Nombre, número de placa, adscripción y firma del agente que tenga conocimie
 > <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 Seguridad Ciudadana coadyuvará con la Secretaría para la aplicación de sanciones por el incumplimiento a la Ley y a este Reglamento cuando exista flagrancia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], G.O. 16 DE ABRIL DE 2019)</small>
+
+Cuando se trate de infracciones detectadas a través de sistemas tecnológicos, adicionalmente a lo indicado en los incisos a) al e) del presente artículo, las boletas señalarán:
+
+I. Tecnología utilizada para captar la comisión de la infracción y el lugar en que se encontraba el equipo tecnológico al momento de ser detectada la infracción cometida; y
+
+II. Formato expedido por el propio instrumento tecnológico que captó la infracción o copia de la imagen y/o sonidos y su trascripción en su caso, con la confirmación de que los elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado por el instrumento tecnológico utilizado.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, hará prueba plena en términos de lo que dispone el artículo 34 de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
 
 ###### Artículo 61.
 
@@ -2684,21 +2724,33 @@ Cuando la infracción sea cometida por conductores que manejan un vehículo con 
 
 La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular del Distrito Federal constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2019)</small>
 
 ###### Artículo 64.
 
-Las sanciones establecidas por infringir el presente reglamento serán de carácter monetario, o bien, cuando así lo establezca la sanción correspondiente, de amonestaciones, cursos en línea, sensibilización presencial, trabajos a favor de la comunidad, remisión de vehículos a depósito y puntos de penalización a la licencia.
+Las sanciones establecidas por infringir el presente reglamento serán de carácter monetario, o bien, cuando así lo establezca la sanción correspondiente, de amonestaciones, cursos en línea, sensibilización presencial, actividades a favor de la comunidad, remisión de vehículos a depósito y puntos de penalización a la licencia.
 
-Las sanciones impuestas a los infractores por agentes con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, sensibilización presencial y trabajos a favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matricula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+Las sanciones impuestas a los infractores por agentes con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, sensibilización presencial y actividades a favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matricula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 Las sanciones que se impongan por invasión de carriles confinados e impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país en territorio de la Ciudad de México, por sistema tecnológico, serán siempre de carácter monetario.
 
-Cada infracción registrada por sistemas electrónicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el artículo 9, penúltimo párrafo, de este Reglamento, que tendrán una penalización de 5 puntos cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por sistema tecnológico.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+Cada infracción registrada por sistemas tecnológicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el artículo 9, penúltimo párrafo, de este Reglamento, que tendrán una penalización de 5 puntos cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por el sistema tecnológico.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 Para infracciones con penalización de 5 puntos, las matrículas vehiculares también tendrán amonestación en las dos primeras infracciones que registren en cada ciclo de verificación vehicular, conforme a las dos primeras sanciones contempladas en la tabla del esquema de contabilidad de puntos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
+
 El esquema de contabilidad de puntos se rige por la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
 
 Puntos restantes Sanción
 
@@ -2712,51 +2764,83 @@ Puntos restantes Sanción
 
 5 Sensibilización presencial
 
-4 2 horas de trabajos a favor
+4 2 horas de actividades a favor
 
 de la comunidad
 
-3 2 horas de trabajos a favor
+3 2 horas de actividades a favor
 
 de la comunidad
 
-2 2 horas de trabajos a favor
+2 2 horas de actividades a favor
 
 de la comunidad
 
-1 2 horas de trabajos a favor
+1 2 horas de actividades a favor
 
 de la comunidad
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 El cumplimiento de las sanciones referidas en la tabla anterior sigue una lógica acumulativa cada ciclo de verificación vehicular.
 
-En los casos en que se exceda el demérito de los 10 puntos, las sanciones seguirán contabilizando horas de trabajos a favor de la comunidad inconmutables, cuyo cumplimiento se dará en términos de la Ley de Cultura Cívica de la Ciudad de México.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+En los casos en que se exceda el demérito de los 10 puntos, las sanciones seguirán contabilizando horas de actividades a favor de la comunidad, las cuales no podrán exceder de 36 horas y cuyo cumplimiento será en términos de la Ley de Cultura Cívica de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 El infractor ingresará a la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/ para consultar el esquema de contabilidad de puntos y la forma en que deberá dar cumplimiento a las sanciones correspondientes.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
 Para el caso de los vehículos que se encuentren exentos del programa de verificación obligatoria, los puntos acumulados por infracción serán registrados por la Secretaría de Seguridad Ciudadana, y el cumplimiento de las sanciones estará a cargo de la Consejería Jurídica y de Servicios Legales de manera semestral en cada ejercicio anual.
 
-Los trabajos a favor de la comunidad serán supervisados por la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales, y consistirán de manera enunciativa más no limitativa en las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE ABRIL DE 2019)</small>
+
+Las actividades a favor de la comunidad serán supervisadas por la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales, y consistirán de manera enunciativa más no limitativa en las siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 I. Limpieza, pintura o restauración de centros públicos educativos, de salud o de servicios;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
 II. Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 III. Realización de obras de ornato en lugares de uso común;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
 IV. Realización de obras de balizamiento, limpia o reforestación en lugares de uso común,
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+
 VI. Participación en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organice la Alcaldía en donde se haya cometido la infracción; y;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 VII. Las demás que determine la persona titular de la Jefatura de Gobierno en coordinación con la Secretaría.
 
-Para el cumplimiento de los trabajos a favor de la comunidad inconmutables, los infractores se presentarán ante la unidad administrativa competente de la Consejería Jurídica y de Servicios Legales, para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica de la Ciudad de México. Para ello, consultarán actividades, horarios y espacios disponibles en la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+
+Para el cumplimiento de las actividades a favor de la comunidad, los infractores se presentarán ante la unidad administrativa competente de la Consejería Jurídica y de Servicios Legales, para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica de la Ciudad de México. Para ello, consultarán actividades, horarios, espacios disponibles y agendaran cita en la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 Cumplidas las sanciones correspondientes, se restituirán los puntos mediante el sistema que para tal efecto implemente la Secretaría.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+
 Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente facultado y expedidas mediante equipos electrónicos portátiles, la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
 Las sanciones impuestas por sistemas tecnológicos serán notificadas por correo certificado, por medios electrónicos cuando sea procedente, o con acuse de recibo en el domicilio registrado de la persona física o moral que sea propietaria del vehículo, quien será responsable de su sanción.
 
@@ -2877,3 +2961,11 @@ PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor a los veintidós días del mes de abril del año dos mil diecinueve.
 
 TERCERO.- En todos los casos en que se haga referencia a la Unidad de Cuenta de la Ciudad de México deberá entenderse, en su lugar, la Unidad de Medida y Actualización.
+
+G.O. 16 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
