@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2017-07-13"
+last_updated: "2019-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE ABRIL DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -134,11 +134,11 @@ g) Garantizará, en el ámbito de su competencia, que la educación en todos sus
 
 h) Combatir el bajo rendimiento escolar mediante el diseño de estrategias e implementación de programas de refuerzo escolar, apoyos y demás políticas acorde con las necesidades y los perfiles de los estudiantes, familias y escuelas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 10.
 
-La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo Tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
+La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -184,9 +184,9 @@ XVI. Educar para la preservación de la salud, el conocimiento integral de la se
 
 XVII. Prevenir y combatir el suicidio, la drogadicción, el alcoholismo, el tabaquismo y otros vicios que afecten la salud física y mental del individuo y que dañen las estructuras sociales; realizando anualmente un examen médico integral a sus educandos, al inicio de cada periodo escolar; instrumentando programas que privilegien la educación artística, cívica y físico-deportiva.
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2019)</small>
 
-XVIII. Promover y fortalecer la educación ambiental, que fomente la protección al medio ambiente y el aprovechamiento racional de los recursos naturales, así como las medidas para su conservación, mejoramiento y cuidado que propicien el desarrollo de la calidad de vida de los habitantes de la Ciudad de México.
+XVIII. Promover y fortalecer la educación ambiental a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable y la prevención del cambio climático, además de que se fomente la protección al medio ambiente y el aprovechamiento racional de los recursos naturales, así como las medidas para su conservación, mejoramiento y cuidado, que propicien el desarrollo y la calidad de vida de los habitantes de la Ciudad de México.
 
 XIX. Estimular actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general, así como la adecuada utilización del tiempo libre.
 
@@ -252,7 +252,9 @@ VI. Elaborar el presupuesto general del ramo educativo en la entidad, atendiendo
 
 VII. Administrar los recursos destinados a la educación pública en el Distrito Federal.
 
-VIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica.
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2019)</small>
+
+VIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica. Asimismo, los contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en la educación inicial, preescolar, básica, media superior y normal para la formación de maestros de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, el uso racional de los recursos naturales y la prevención del cambio climático.
 
 IX. Ajustar el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública, cuando ello resulte necesario en atención a requerimientos específicos del Distrito Federal.
 
@@ -1745,3 +1747,13 @@ G.O. 13 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL”.]
 
 ÚNICO - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Dentro de los noventa días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México, a través de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, realizará la actualización y armonización necesaria de los Reglamentos y marco normativo aplicable.
