@@ -1,0 +1,550 @@
+---
+title: "ESTATUTO ORGANICO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MORELOS"
+identifier: "MOR-estatuto-organico-del-colegio-de-estudios-cientificos-y-136661"
+country: "mx"
+rank: "estatuto"
+publication_date: "2019-04-17"
+last_updated: "2019-04-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136661&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "136661"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "ESTATUTO"
+original_gazette_section: "5698"
+reform_count: "1"
+scjn_last_update: "2022-07-27"
+issue_date: "2019-03-11"
+state: "MOR"
+---
+# ESTATUTO ORGANICO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MORELOS
+
+ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Estatuto publicado al Número 5698 del Periódico Oficial del Estado de Morelos, el miércoles 17 de abril de 2019.
+
+Al centro un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- 2018 - 2024 y un logotipo que dice: Morelos Anfitrión del Mundo (sic) Gobierno del Estado 2018-2024.
+
+LA JUNTA DIRECTIVA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 4, FRACCIÓN VIII, 43, 63, FRACCIONES V Y VIII, Y 76, SEGUNDO PÁRRAFO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; ASÍ COMO 1, 10, 11, 12, FRACCIONES I, VI Y VII, 25 Y 27, DEL DECRETO NÚMERO QUINIENTOS SETENTA Y UNO, POR EL QUE SE CREA EL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS, Y CON BASE EN LA SIGUIENTE:
+
+EXPOSICIÓN DE MOTIVOS
+
+[…]
+
+Por lo expuesto y fundado, se tiene a bien expedir el siguiente:
+
+ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
+
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El presente Estatuto Orgánico es de observancia general y tiene como objeto establecer la organización, estructura, atribuciones y funcionamiento del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos.
+
+###### Artículo 2.
+
+Para efectos del presente Estatuto Orgánico se entenderá por:
+
+I. Código de Ética, al Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal;
+
+II. Colegio, al Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos;
+
+III. Comisario Público, a la persona titular del Órgano Interno de Control del Colegio, designado en términos de la Ley Orgánica;
+
+IV. Consejo Consultivo, al Consejo Consultivo de Directores del Colegio;
+
+V. Decreto de creación, al Decreto número quinientos setenta y uno, por el que se crea el Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos;
+
+VI. Director General, a la persona titular de la Dirección General del Colegio;
+
+VII. Estatuto Orgánico, al presente instrumento;
+
+VIII. Junta Directiva, al Órgano de Gobierno del Colegio;
+
+IX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+
+X. Manuales Administrativos,a (sic) los Manuales de Organización, así como de Políticas y Procedimientos del Colegio;
+
+XI. Secretaría, a la Secretaría de Educación del Poder Ejecutivo Estatal;
+
+XII. Subcomité, al Subcomité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos, y
+
+XIII. Unidades Administrativas, a la Dirección Académica, la Dirección Administrativa, la Dirección de Vinculación, la Subdirección de Planeación y las Direcciones de Planteles.
+
+### CAPÍTULO II. DE LA NATURALEZA JURÍDICA Y ATRIBUCIONES DEL COLEGIO
+
+###### Artículo 3.
+
+El Colegio es un Organismo Público Descentralizado del Gobierno del Estado de Morelos dotado de personalidad jurídica, patrimonio propios (sic) y autonomía jerárquica respecto de la Administración Pública Central, sectorizado a la Secretaría de Educación, cuyo objeto y atribuciones se encuentran establecidas en su Decreto de creación.
+
+###### Artículo 4.
+
+El Colegio se sujetará a lo dispuesto en la Ley Orgánica, su Decreto de creación, así como a los ordenamientos legales y administrativos que resulten aplicables.
+
+Asimismo, planeará y realizará sus actividades de manera programada, acorde a los objetivos, principios, estrategias y prioridades establecidas en el Plan Estatal de Desarrollo, la Ley Orgánica, los programas sectoriales, el Presupuesto de Egresos aprobado por el Congreso del Estado y el presupuesto propio autorizado por la Junta Directiva, así como lo previsto en la Ley Estatal de Planeación y demás normativa aplicable.
+
+###### Artículo 5.
+
+Para la atención, trámite, resolución y despacho de las atribuciones de su competencia, el Colegio contará con el personal que se señale en este Estatuto, los Manuales Administrativos y demás normativa aplicable, con base en la suficiencia presupuestal autorizada.
+
+De igual manera, administrará sus ingresos propios y presupuestales en los términos que se fijen en el Presupuesto de Egresos para el ejercicio fiscal que corresponda, con sujeción a la normativa aplicable.
+
+### CAPÍTULO III. DE LA ESTRUCTURA ORGÁNICA DEL COLEGIO
+
+###### Artículo 6.
+
+El gobierno, administración y control interno del Colegio estarán a cargo de:
+
+I. Una Junta Directiva;
+
+II. Una Dirección General, y
+
+III. Un Órgano Interno de Control, de conformidad con lo dispuesto por la Ley Orgánica.
+
+Además, contará con un Consejo Consultivo y podrá contar con un Patronato conforme a lo dispuesto en el Decreto de creación, el presente Estatuto y demás normativa aplicable.
+
+###### Artículo 7.
+
+Para el desempeño de sus funciones el Colegio cuenta con las siguientes Unidades Administrativas:
+
+I. La Dirección Académica;
+
+II. La Dirección Administrativa;
+
+III. La Dirección de Vinculación;
+
+IV. La Subdirección de Planeación, y
+
+V. Las Direcciones de Planteles.
+
+Todas las Unidades Administrativas estarán adscritas directamente a la Dirección General del Colegio.
+
+###### Artículo 8.
+
+Las Unidades Administrativas se integran por las personas titulares respectivas y demás personal técnico y administrativo necesario para la eficaz atención y desempeño de sus atribuciones, de conformidad con lo que disponga la Junta Directiva, con base en la suficiencia presupuestal, siendo sus funciones normadas por los Manuales Administrativos que se aprueben, así como los lineamientos, políticas y programas que la Junta Directiva y la Dirección General establezcan, en términos de la normativa aplicable.
+
+### CAPÍTULO IV. DE LA JUNTA DIRECTIVA
+
+###### Artículo 9.
+
+La Junta Directiva es el máximo Órgano de Gobierno del Colegio el cual tendrá las atribuciones que señala la Ley Orgánica y el Decreto de creación.
+
+Los cargos de los integrantes de la Junta Directiva del Colegio serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+###### Artículo 10.
+
+La Junta Directiva sesionará conforme a lo establecido en la Ley Orgánica, el Decreto de Creación, el Acuerdo por el que se establecen los Lineamientos para la celebración de sesiones de los distintos Órganos Colegiados que actúan y participan en la Administración Pública del Estado de Morelos y demás normativa aplicable.
+
+###### Artículo 11.
+
+Para el cumplimiento de sus objetivos, la Junta Directiva, tendrá las atribuciones que le confiera la Ley Orgánica y el Decreto de creación.
+
+### CAPÍTULO V. DEL DIRECTOR GENERAL
+
+###### Artículo 12.
+
+Además de las atribuciones establecidas en la Ley Orgánica y el Decreto de creación, la persona titular de la Dirección General cuenta con las siguientes facultades:
+
+I. Desempeñar las comisiones y funciones especiales que la Junta Directiva le confiera;
+
+II. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones, los servidores públicos que les estén subordinados, y
+
+III. Someter a la Junta Directiva las dudas que se susciten con motivo de la interpretación o aplicación del presente Estatuto, así como los casos no previstos en él.
+
+Para el mejor desempeño y desarrollo de sus actividades, el Director General podrá delegar en servidores públicos subalternos, la facultad a que se refiere la anterior fracción I.
+
+### CAPÍTULO VI. DE LAS UNIDADES ADMINISTRATIVAS
+
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES GENÉRICAS
+
+###### Artículo 13.
+
+Para el mejor desempeño de sus funciones, las personas titulares de las Unidades Administrativas cuentan con las siguientes atribuciones genéricas:
+
+I. Suscribir, en el ámbito de su competencia, los documentos relativos al ejercicio de sus atribuciones y aquellos que por delegación le correspondan;
+
+II. Planear, organizar y evaluar el desempeño de las funciones encomendadas a la Unidad Administrativa a su cargo;
+
+III. Proponer al Director General las políticas internas, lineamientos y criterios que normarán el funcionamiento de la Unidad Administrativa a su cargo;
+
+IV. Formular los planes de trabajo, informes y opiniones que le requiera el Director General;
+
+V. Ejecutar los programas de su Unidad Administrativa y vigilar la ejecución correspondiente de las demás áreas a su cargo;
+
+VI. Acordar con el Director General el despacho de los asuntos que sean de su competencia;
+
+VII. Representar al Director General en los asuntos que este le encomiende;
+
+VIII. Cumplir y hacer cumplir los Acuerdos del Director General en el ejercicio de sus funciones;
+
+IX. Presidir las reuniones de trabajo que se lleven a cabo en la Unidad Administrativa a su cargo y que sean materia de su competencia;
+
+X. Dar cumplimiento a las metas establecidas en los Programas Institucionales inherentes al área a su cargo;
+
+XI. Coordinar sus actividades con las personas titulares de las demás Unidades Administrativas y de la Dirección General para el mejor desempeño de sus funciones;
+
+XII. Administrar y comprobar el fondo revolvente asignado a la Unidad Administrativa a su cargo;
+
+XIII. Llevar a cabo las facultades y comisiones inherentes al cargo, manteniendo informado al Director General sobre el seguimiento de las mismas;
+
+XIV. Actualizar los Manuales Administrativos de la Unidad Administrativa a su cargo;
+
+XV. Cumplir y hacer cumplir las Leyes, Reglamentos, Acuerdos, Decretos y demás normativa aplicable, así como las normas, políticas y procedimientos administrativos que regulen las actividades de la Unidad Administrativa a su cargo;
+
+XVI. Desempeñar sus funciones de conformidad con lo dispuesto en el Código de Ética y demás normativa aplicable, y
+
+XVII. Las demás que le delegue el Director General o le confiera el Decreto de creación, el presente Estatuto y la normativa aplicable.
+
+#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA DIRECCIÓN ACADÉMICA
+
+###### Artículo 14.
+
+Corresponde a la persona titular de la Dirección Académica las siguientes atribuciones:
+
+I. Implementar y supervisar la correcta aplicación de los Planes y los Programas de estudio;
+
+II. Realizar los estudios de factibilidad para la implementación de nuevas carreras y la pertinencia de la oferta educativa del Colegio;
+
+III. Realizar los procesos de refrendo de las carreras que oferta el Colegio, ante las autoridades educativas federales;
+
+IV. Dirigir, coordinar y supervisar los procesos de ingreso, promoción, reconocimiento y permanencia, de acuerdo a lo señalado en la Ley General del Servicio Profesional Docente;
+
+V. Asignar las horas y plazas docentes en estricto apego al orden de prelación, de acuerdo con lo establecido en la Ley General del Servicio Profesional Docente;
+
+VI. Verificar la idoneidad del personal docente, en el marco del Sistema Nacional de Bachillerato y con apego a la Ley General del Servicio Profesional Docente;
+
+VII. Coordinar, supervisar y dar seguimiento a las reuniones de Academia Estatal de acuerdo con la normativa aplicable en el marco del Sistema Nacional de Bachillerato;
+
+VIII. Revisar las actas circunstanciadas de las reuniones de academias locales y dar seguimiento a los Acuerdos;
+
+IX. Diseñar e implementar el programa de capacitación y formación continua para el personal docente que garantice una formación integral de calidad en los estudiantes;
+
+X. Verificar el registro de las competencias genéricas, disciplinares y profesionales que conforman el perfil de egreso con apego al Sistema Nacional de Bachillerato;
+
+XI. Implementar el Programa de Evaluación Docente para garantizar un correcto desempeño en el proceso de enseñanza-aprendizaje;
+
+XII. Analizar y dar seguimiento a los resultados del Programa de Evaluación Docente;
+
+XIII. Elaborar semestralmente un calendario de actividades académicas del Colegio;
+
+XIV. Verificar el cumplimiento del calendario de actividades académicas;
+
+XV. Aplicar los lineamientos normativos federales y estatales para el pleno cumplimiento del servicio educativo que ofrece el Colegio;
+
+XVI. Organizar y supervisar las condiciones académicas en los planteles para su ingreso, promoción y permanencia en el Sistema Nacional de Bachillerato de acuerdo a las normas y lineamientos establecidos;
+
+XVII. Dar seguimiento a la aplicación de los Programas de Orientación Educativa y Tutorías, y demás programas que atiendan la prevención de riesgos físicos y socioemocionales del adolescente;
+
+XVIII. Administrar el sistema de control escolar;
+
+XIX. Dirigir el proceso de los alumnos de nuevo ingreso al Colegio;
+
+XX. Implementar estrategias para la preparación y aplicación de las pruebas estandarizadas a los alumnos;
+
+XXI. Atender los Programas de Becas para los alumnos;
+
+XXII. Atender el comportamiento de la matrícula a través del área de control escolar;
+
+XXIII. Elaboración y análisis de estadísticas de indicadores académicos del Colegio;
+
+XXIV. Elaborar, expedir y entregar los documentos oficiales de conclusión de estudios de Bachillerato Tecnológico, y
+
+XXV. Actualizar la información en materia de transparencia en la Plataforma Nacional de Transparencia, según corresponda a la Unidad Administrativa a su cargo.
+
+#### SECCIÓN TERCERA. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA DIRECCIÓN ADMINISTRATIVA
+
+###### Artículo 15.
+
+Corresponde a la persona titular de la Dirección Administrativa las siguientes atribuciones:
+
+I. Administrar los recursos presupuestales, financieros, humanos y materiales del Colegio con apego a la normativa aplicable;
+
+II. Realizar los procedimientos de reclutamiento, selección, inducción y contratación del personal administrativo y docente del Colegio, de conformidad con la normativa aplicable;
+
+III. Realizar el pago de las remuneraciones al personal del Colegio;
+
+IV. Realizar movimientos, altas y bajas del personal del Colegio ante el Instituto Mexicano del Seguro Social;
+
+V. Mantener actualizada la plantilla del personal del Colegio;
+
+VI. Realizar la baja o suspensión del trabajador, en términos de la normativa aplicable;
+
+VII. Atender las disposiciones relativas a seguridad e higiene en el trabajo;
+
+VIII. Mantener actualizados los expedientes laborales del personal del Colegio;
+
+IX. Realizar las retenciones correspondientes al personal y enterarlos a las instancias correspondientes;
+
+X. Detectar las necesidades de capacitación y desarrollo de (sic) personal, y coordinar los programas pertinentes de capacitación y formación continua para el personal administrativo;
+
+XI. Coordinar el trámite de la actualización de los Manuales Administrativos;
+
+XII. Elaborar y actualizar los lineamientos administrativos internos del Colegio;
+
+XIII. Elaborar el anteproyecto de presupuesto de ingresos y egresos del Colegio, de conformidad con la normativa aplicable;
+
+XIV. Elaborar los estados financieros y la cuenta pública del Colegio para su presentación y aprobación ante la Junta Directiva, en términos de la normativa aplicable;
+
+XV. Atender las auditorías practicadas al Colegio por parte de las autoridades competentes;
+
+XVI. Realizar los pagos inherentes a la operatividad del Colegio, de conformidad con los procedimientos administrativos correspondientes;
+
+XVII. Asignar el fondo revolvente a las Unidades Administrativas y vigilar su correcta comprobación;
+
+XVIII. Mantener actualizados los inventarios de los bienes muebles del Colegio, de conformidad con las disposiciones legales aplicables;
+
+XIX. Controlar el uso y aprovechamiento de los recursos materiales, suministros y servicios generales;
+
+XX. Dar puntual seguimiento y desahogo a temas inherentes al Subcomité del Colegio, de conformidad con la normativa aplicable, y
+
+XXI. Realizar las adquisiciones y contrataciones de servicios para atender las necesidades del Colegio, con apego a la normativa vigente.
+
+#### SECCIÓN CUARTA. DE LAS ATRIBUCIONES ESPECIFICAS DE LA DIRECCIÓN DE VINCULACIÓN
+
+###### Artículo 16.
+
+Corresponde a la persona titular de la Dirección de Vinculación las siguientes atribuciones:
+
+I. Vincular las acciones sustantivas del subsistema con los sectores gubernamental, privado y social, a través de gestorías, actividades de desarrollo comunitario y fomento de relaciones públicas;
+
+II. Gestionar ante instancias gubernamentales, así como sectores productivos de bienes y servicios, espacios para la realización del servicio social y las prácticas profesionales de los alumnos;
+
+III. Coordinar y fomentar la firma de convenios de colaboración con las instancias gubernamentales y sector privado y social en beneficio del Colegio;
+
+IV. Coordinar la constitución, en su caso, del Patronato del Colegio;
+
+V. Gestionar las acciones necesarias para la aplicación del Modelo Mexicano de Formación Dual;
+
+VI. Fortalecer la educación integral de los alumnos, a través de las artes, la cultura, el deporte, la creatividad e innovación tecnológica y del emprendedurismo;
+
+VII. Ejecutar y supervisar el modelo de emprendedores de la educación media superior en cada uno de los planteles del Colegio;
+
+VIII. Coordinar el programa bicultural del Colegio;
+
+IX. Planear, coordinar y desarrollar el Encuentro Estatal Deportivo de los planteles del Colegio;
+
+X. Coordinar la participación del Colegio en el Encuentro Nacional Deportivo de los Colegios de Estudios Científicos y Tecnológicos de los Estados;
+
+XI. Coordinar y realizar el concurso de creatividad e innovación tecnológica, en sus etapas local y estatal, así como coordinar la participación del Colegio en la etapa nacional;
+
+XII. Coordinar y realizar el Festival de Arte y Cultura, en sus etapas local y estatal, así como coordinar la participación del Colegio en la etapa nacional;
+
+XIII. Coordinar la participación del Colegio en actividades de ciencia y tecnología;
+
+XIV. Operar el programa de seguimiento de egresados y el de bolsa de trabajo;
+
+XV. Diseñar y preservar la imagen institucional del Colegio, así como desarrollar y coordinar el programa de promoción y difusión del mismo;
+
+XVI. Operar y supervisar las redes sociales, así como administrar la página web oficial del Colegio;
+
+XVII. Planear y coordinar la logística y protocolo de los eventos oficiales del Colegio, y
+
+XVIII. Coadyuvar con el Secretario Técnico de la Junta Directiva del Colegio en las acciones necesarias para la celebración de las sesiones ordinarias y extraordinarias, de conformidad con la normativa aplicable.
+
+#### SECCIÓN QUINTA. DE LAS ATRIBUCIONES ESPECIFICAS DE LA SUBDIRECCIÓN DE PLANEACIÓN
+
+###### Artículo 17.
+
+Corresponde a la persona titular de la Subdirección de Planeación las siguientes atribuciones:
+
+I. Planear, organizar y elaborar los anteproyectos de factibilidad para la creación de nuevos centros educativos, conforme a los criterios y lineamientos establecidos por las instancias federales correspondientes;
+
+II. Planear, dirigir y gestionar las propuestas de construcción, ampliación y equipamiento de los planteles para atender las necesidades de la demanda educativa, ante las instancias correspondientes;
+
+III. Dar seguimiento a la ejecución de los proyectos de construcción, ampliación, equipamiento y mantenimiento autorizados en los planteles;
+
+IV. Coordinar, validar y dar seguimiento a los programas de mantenimiento de bienes muebles e inmuebles y de adquisición de mobiliario y equipo de los planteles;
+
+V. Coordinar, integrar y gestionar las propuestas de ampliación de la cobertura y regularización de plazas docentes del Colegio, ante las instancias correspondientes;
+
+VI. Elaborar, administrar y dar seguimiento al sistema de información estadística para una oportuna toma de decisiones del Colegio;
+
+VII. Administrar las tecnologías de la información y comunicación en los planteles y oficinas centrales;
+
+VIII. Organizar y dirigir la formulación de los planes y programas institucionales, conforme a los lineamientos establecidos por las instancias correspondientes;
+
+IX. Evaluar el cumplimiento de los planes y programas institucionales;
+
+X. Elaborar y presentar los informes de obras y acciones relevantes del Colegio ante las instancias correspondientes;
+
+XI. Fungir como Secretario Técnico del Consejo Consultivo del Colegio, de conformidad con la normativa aplicable;
+
+XII. Fungir como Secretario Técnico del Comité de Transparencia del Colegio, de conformidad con la normativa aplicable, y
+
+XIII. Elaborar, analizar e implementar programas de certificación de calidad para la mejora continua y evaluación institucional que permita de manera objetiva conocer el nivel de logro de las metas planteadas.
+
+#### SECCIÓN SEXTA. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS DIRECTORES DE PLANTEL
+
+#### SECCIÓN PRIMERA. DE LAS AUSENCIAS TEMPORALES
+
+###### Artículo 18.
+
+Las personas titulares de las Direcciones de Plantel son los representantes de la Dirección General en sus respectivos planteles y tendrán las siguientes atribuciones:
+
+I. Coadyuvar con la Dirección General en el adecuado desarrollo y funcionamiento de cada plantel, cuidando que se cumpla con la normativa, así como con los lineamientos académicos, administrativos, de vinculación, de gestión y, en general, todos aquellos que se relacionen con las actividades del Colegio;
+
+II. Coadyuvar al logro de los propósitos de los planes y programas de estudio de la institución, conforme a la reforma integral de la educación media superior y del Nuevo Modelo Educativo;
+
+III. Mantener en todo momento el buen prestigio del plantel, tanto en su comunidad y el Estado, así como en los medios electrónicos y de prensa;
+
+IV. Promover, entre los maestros de su plantel, procesos de formación para el desarrollo de las competencias docentes, así como la planeación e implementación de procesos de enseñanza y de aprendizaje por competencias, vigilando que el personal docente cumpla con los programas del plan de estudios, las comisiones especiales, la asistencia, puntualidad y orden;
+
+V. Establecer e implementar criterios y métodos de evaluación integral de la escuela, explicando con claridad a su comunidad educativa el enfoque por competencias, las características del modelo académico del Colegio y objetivos del Sistema Nacional de Bachillerato para su inserción;
+
+VI. Supervisar que los distintos actores de la escuela cumplan con sus responsabilidades de manera efectiva, en el marco de la reforma integral de la educación media superior y demás normativa aplicable;
+
+VII. Formular estadísticas para reportar indicadores a padres de familia, autoridades y la comunidad escolar;
+
+VIII. Propiciar un ambiente escolar conducente al aprendizaje y al desarrollo sano e integral de los estudiantes, incluyendo a la comunidad escolar estudiantes, docentes y padres de familia;
+
+IX. Fomentar estilos de vida saludables y opciones para el desarrollo humano, como el deporte, el arte y diversas actividades complementarias entre los integrantes de la comunidad escolar;
+
+X. Ejercer el liderazgo del plantel, mediante la administración creativa y eficiente de sus recursos, implementando estrategias para el buen uso y optimización de los recursos humanos, materiales y financieros;
+
+XI. Gestionar la obtención de recursos financieros para el adecuado funcionamiento del plantel;
+
+XII. Identificar áreas de oportunidad del plantel y establecer metas con base en ellas, implementando estrategias creativas y factibles de mediano y largo plazo, elaborando el programa de mejora continua del plantel e integrando a los docentes, personal administrativo, estudiantes y padres de familia;
+
+XIII. Participar activamente en el Consejo Consultivo;
+
+XIV. Expedir y suscribir la documentación de certificación oficial de acreditación de estudios y verificar que los registros de control escolar cumplan con las disposiciones oficiales;
+
+XV. Garantizar que la escuela reúna y preserve condiciones físicas e higiénicas satisfactorias para la conservación del inmueble en donde se ubica el plantel a su cargo, para la seguridad de la comunidad estudiantil, estableciendo una vinculación armónica entre la escuela y su entorno;
+
+XVI. Promover y coordinar las actividades de servicio social, prácticas profesionales y titulación de los alumnos;
+
+XVII. Participar en los programas y fondos de apoyo a la educación media superior, conforme a los lineamientos de operación establecidos;
+
+XVIII. Rendir informe de actividades plasmadas en el programa de mejora continua al término de cada ciclo escolar, conforme a los lineamientos establecidos por la autoridad competente;
+
+XIX. Realizar estudios socioeconómicos a los alumnos, y
+
+XX. Ejecutar el Modelo Mexicano de Formación Dual al interior del Plantel.
+
+### CAPÍTULO VII. DEL CONSEJO CONSULTIVO DEL COLEGIO
+
+###### Artículo 19.
+
+El Consejo Consultivo del Colegio estará integrado en los términos señalados en el Decreto de creación.
+
+La persona titular de la Subdirección de Planeación actuará como Secretario Técnico de dicho Consejo y el Comisario Público participará en calidad de invitado permanente con derecho a voz, pero sin voto.
+
+Por cada integrante propietario del Consejo Consultivo se designará un suplente; con excepción de los Directores de Plantel, en cuyo caso, la suplencia siempre recaerá en los Coordinadores Académicos. El suplente tendrá las mismas facultades que el integrante propietario y su designación se deberá realizar de manera escrita ante el Presidente de la Junta Directiva.
+
+###### Artículo 20.
+
+Además de las atribuciones señaladas en el Decreto de creación y demás normativa aplicable, el Consejo Consultivo cuenta con las siguientes:
+
+I. Analizar y proponer estrategias para ejecutar los programas académicos y administrativos que emanen de instancias superiores;
+
+II. Proponer y acordar sobre proyectos de mejora académica, administrativa, de vinculación y de planeación;
+
+III. Proponer, acordar y vigilar las diversas acciones que propicien el crecimiento del Colegio;
+
+IV. Proponer y acordar estrategias para mejorar los indicadores de resultados;
+
+V. Analizar la pertinencia de las carreras que se ofertan en el Colegio;
+
+VI. Proponer y acordar estrategias que permitan posicionar y mantener al Colegio como la mejor opción educativa de nivel medio superior en la zona de influencia de los planteles;
+
+VII. Acordar acciones de gestión que coadyuven en la consolidación de la infraestructura de los planteles del Colegio, y
+
+VIII. Vigilar la correcta operatividad del Colegio.
+
+###### Artículo 21.
+
+El Consejo Consultivo se reunirá cuando menos una vez al mes, de acuerdo con el calendario aprobado en la última sesión del año inmediato anterior y se levantará el acta respectiva de cada Sesión.
+
+### CAPÍTULO VIII. DEL ÓRGANO INTERNO DE CONTROL
+
+###### Artículo 22.
+
+El Órgano Interno de Control del Colegio estará bajo la dirección de un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 65 y 67 de la Ley Orgánica.
+
+###### Artículo 23.
+
+Al Comisario Público le corresponden las atribuciones establecidas por la Ley Orgánica y demás normativa aplicable.
+
+### CAPÍTULO IX. DEL SUBCOMITÉ DE ADQUISICIONES
+
+###### Artículo 24.
+
+De conformidad con lo dispuesto en el Reglamento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, el Subcomité del Colegio se integra de la siguiente forma:
+
+I. La persona titular del Colegio, quien lo presidirá;
+
+II. La persona titular de la Dirección Administrativa, quien fungirá como secretario técnico;
+
+III. Una persona representante del Comité, que será el Secretario Ejecutivo;
+
+IV. Dos vocales, que serán las personas titulares de la Dirección Académica y la Subdirección de Planeación, designadas permanentemente por la persona que presida el Subcomité, y
+
+V. Dos invitados permanentes, que serán el Órgano Interno de Control y del área que, en su caso, desempeñe funciones jurídicas del Colegio.
+
+Todos los integrantes de los Subcomités tendrán voz y voto, con excepción de los invitados permanentes quienes solo tendrán derecho a voz. Así también podrán designar por escrito a sus respectivos suplentes, los que deberán tener el nivel jerárquico inmediato inferior.
+
+###### Artículo 25.
+
+Las funciones, forma de sesionar y demás operatividad del Subcomité se realizará de conformidad con lo dispuesto en la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, su Reglamento y demás normativa aplicable.
+
+### CAPÍTULO X. DE LAS SUPLENCIAS
+
+#### SECCIÓN SEGUNDA. DE LA AUSENCIA ABSOLUTA
+
+###### Artículo 26.
+
+Las ausencias temporales hasta por noventa días del Director General del Colegio serán cubiertas por el servidor público que éste designe, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original, operando la figura de suplencia por ausencia.
+
+###### Artículo 27.
+
+Las personas titulares de las Unidades Administrativas serán suplidas en su ausencia temporal hasta por noventa días por el servidor público que para tal efecto designe el Director General, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original, operando la figura de suplencia por ausencia.
+
+#### SECCIÓN TERCERA. DE LOS ENCARGADOS DE DESPACHO
+
+###### Artículo 28.
+
+En caso de ausencia absoluta del Director General, será facultad del Gobernador nombrar un encargado de despacho, por el tiempo que se estime necesario; sin perjuicio de la designación definitiva que realice al efecto, de conformidad con lo dispuesto por la Ley Orgánica.
+
+Ante la ausencia absoluta de cualquier otro servidor público del Colegio, es facultad del Director General hacer la designación definitiva.
+
+###### Artículo 29.
+
+Cuando por cualquier motivo alguna Unidad Administrativa carezca temporalmente de titular, el Director General podrá encomendarle las funciones propias del cargo al servidor público que determine, mismo que sin dejar de desempeñar su cargo original, será asignado como encargado de despacho de la Unidad Administrativa que temporalmente se encuentre sin titular, hasta en tanto se realice la designación definitiva; pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían a la persona titular de la Unidad Administrativa de que se trate, sin que por ello genere mayores derechos o prestaciones de las que legalmente le corresponden por su cargo original.
+
+DISPOSICIONES TRANSITORIAS
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los 05 días hábiles siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del término de 120 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Estatuto, el Colegio deberá realizar las adecuaciones necesarias a los Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+Dentro de un plazo de 15 días hábiles posteriores a la emisión del Manual de Políticas y Procedimientos, el Colegio deberá gestionar su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 22, fracción XXV, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; así 4, fracción VI, y 15, fracción XXV, del Reglamento Interior de la Secretaría de Gobierno; el Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos, dentro del plazo a que se refiere la Disposición Primera Transitoria, debe informar a la Secretaría de Gobierno, los cambios de denominación de las Unidades Administrativas de aquél, sufridos en virtud de este Estatuto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. La persona titular de la Subdirección de Vinculación del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos que hasta la entrada en vigor del presente instrumento ha venido fungiendo como tal, lo será de la ahora Dirección de Vinculación, cuyo nivel se regulariza por virtud de este Estatuto Orgánico, por lo que deberá expedírsele el nombramiento correspondiente una vez entrado en vigor este instrumento normativo.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Estatuto a cargo de las Unidades Administrativas cuya denominación se modifica, serán continuados en su tramitación por las mismas Unidades Administrativas.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación administrativa del presente Estatuto Orgánico, serán resueltos por la persona titular de la Dirección General del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos.
+
+OCTAVA. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a las Unidades Administrativas cuya denominación se modifica, se entenderá que dicha referencia se hará a la Unidad Administrativa que conforme al presente Estatuto Orgánico resulte competente.
+
+NOVENA. Inscríbase el presente Estatuto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 76, penúltimo párrafo, 83 y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+Dado en las instalaciones que ocupa el Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos, en la ciudad de Cuernavaca, capital del estado de Morelos; a los 11 días del mes de marzo de 2019.
+
+LOS INTEGRANTES DE LA JUNTA DE GOBIERNO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
+
+RÚBRICAS
+
+Lic. Yanet Farías Peralta, Directora General Jurídica, con fundamento en los artículos 9, fracción II y 22, fracción XXVIII, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, 2, fracciones XI y XII, 4, fracción VI, 10, fracción XIV, y 15, fracción, XXVII del Reglamento Interior de la Secretaría de Gobierno, 5, fracción IV y 11, fracción IX, del Reglamento del Periódico Oficial para el Estado de Morelos, CERTIFICO: Que el presente juego de copias fotostáticas, que consta de cuarenta fojas útiles escritas por ambas caras, concuerda fiel y exactamente con la publicación del Periódico Oficial "Tierra y Libertad" número 5698, Sumario, Sexta Época, de fecha 17 de abril del 2019; documento que tuve a la vista para su cotejo y compulsa correspondiente, y se encuentra en los archivos del citado órgano de difusión del Gobierno del Estado.
+
+Conste.
+
+Cuernavaca, Morelos; quince de julio del dos mil diecinueve.
