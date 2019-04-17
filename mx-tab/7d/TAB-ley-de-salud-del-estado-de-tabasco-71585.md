@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2017-07-05"
+last_updated: "2019-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -69,19 +69,13 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VII. El tratamiento integral del dolor, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -172,8 +166,6 @@ XIV. La prevención y el control de enfermedades transmisibles;
 XV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
 XVI. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -279,7 +271,7 @@ III. Apoyar la Coordinación de los programas y servicios de salud de toda depen
 
 IV. Impulsar la desconcentración y descentralización a los municipios de los servicios de salud;
 
-\/. Promover, coordinar y realizar la evaluación permanente de programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal; así como del Programa para la Prevención del Suicidio;
+V. Promover, coordinar y realizar la evaluación permanente de programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal; así como del Programa para la Prevención del Suicidio;
 
 VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
 
@@ -326,8 +318,6 @@ V. Definición de cuotas y fuentes de financiamiento por servicio.
 ###### ARTÍCULO 11.
 
 La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del sistema estatal de salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -484,8 +474,6 @@ Para los efectos del derecho a la protección de la salud se consideran servicio
 I. La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -710,8 +698,6 @@ VIII. Información a las autoridades competentes de las irregularidades o defici
 IX. Otras actividades que coadyuven a la protección de la salud.
 
 Las acciones a que se refiere el presente artículo serán estrictamente voluntarias y no genera derecho laboral a quienes la presten.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -1013,11 +999,23 @@ La vigilancia, prevención y control del Síndrome de Inmunodeficiencia Adquirid
 
 La Secretaría de Salud, deberá informar adecuada y oportunamente a la población en general y particularmente a los sectores más vulnerables, sobre la problemática del Síndrome de Inmunodeficiencia Adquirida con datos científicos actualizados y en cuanto a las formas de prevenir esta enfermedad, entre las que figura el uso del condón.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO XI BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA PLÁSTICA, ESTÉTICA Y RECONSTRUCTIVA
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 101 BIS.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, que cuenten con cédula de especialista y certificado de especialidad vigente, en los términos que establecen los artículos 272 Bis y 272 Bis 1 de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+ARTÍCULO 101 TER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad el nombre y número de la cédula del especialista, así como el nombre de la institución competente que le expidió el título, diploma y certificado de especialidad vigente, y en su caso, el registro correspondiente.
+
+Iguales menciones deberán consignarse en los documentos y papelería que se utilicen en el ejercicio de esta profesión.
 
 ## TÍTULO CUARTO. DE LA PROTECCION SOCIAL EN SALUD
 
-### CAPÍTULO II. APORTACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 102.
 
@@ -1039,7 +1037,7 @@ Corresponde al Ejecutivo del Estado de Tabasco en su ámbito de competencia en m
 
 La Secretaría de Salud a través de sus unidades médicas o de servicios públicos o privados subrogados está obligada a proporcionar la atención médica, los medicamentos y otros insumos médicos para garantizar una atención eficiente y oportuna de acuerdo al paquete de servicios de salud acordado con la Federación, según lo previsto por el artículo 77 bis de la Ley General de Salud.
 
-### CAPÍTULO III. ADMINISTRACION DE LOS RECURSOS PARA LA SALUD
+### CAPÍTULO II. APORTACIONES
 
 ###### ARTÍCULO 107.
 
@@ -1083,7 +1081,7 @@ V. No podrá establecerse copago para la prestación de servicios de urgencias; 
 
 VI. En ningún caso el copago podrá exceder el costo de los servicios prestados.
 
-### CAPÍTULO I. DEL PERSONAL
+### CAPÍTULO III. ADMINISTRACION DE LOS RECURSOS PARA LA SALUD
 
 ###### ARTÍCULO 114.
 
@@ -1115,7 +1113,7 @@ El Gobierno del Estado y los municipios podrán convenir con las instituciones f
 
 ## TÍTULO QUINTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD PROFESIONALES, TÉCNICOS Y AUXILIARES
 
-### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I. DEL PERSONAL
 
 ###### ARTÍCULO 121.
 
@@ -1143,7 +1141,7 @@ En caso que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal 
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTÍCULO 125.
 
@@ -1171,7 +1169,7 @@ El Gobierno del Estado con la participación de las instituciones de educación 
 
 Los pasantes asignados a las instituciones de salud del estado no podrán ser removidos de las mismas por la institución educativa de origen hasta que hayan concluido el periodo del servicio social y recibido el documento correspondiente, salvo acuerdo entre ambas instituciones o cuando por razones justificadas no pueda concluir su servicio en el lugar asignado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### ARTÍCULO 131.
 
@@ -1303,7 +1301,7 @@ La investigación en animales deberá respetar la legislación vigente para evit
 
 ## TÍTULO SEPTIMO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 151.
 
@@ -1323,7 +1321,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD
 
-### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 153.
 
@@ -1343,7 +1341,7 @@ IV. Salud ocupacional; y
 
 V. Fomento sanitario.
 
-### CAPÍTULO III. NUTRICIÓN
+### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
 ###### ARTÍCULO 155.
 
@@ -1353,8 +1351,6 @@ I. Fomentar en la población el desarrollo de actitudes, capacidades y conductas
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud visual, salud auditiva, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, especialmente la hipertensión, diabetes, dislipidemias, y padecimientos oncológicos.
@@ -1363,7 +1359,7 @@ Tratándose de las comunidades indígenas, los programas a los que se refiere el
 
 ###### ARTÍCULO 156.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales, municipales, instituciones de educación superior y las autoridades de las comunidades indígenas, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales serán difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población. La divulgación o emisión de publicaciones, imágenes o escenas vinculadas directamente con el suicidio o pérdida de la vida por cualquier otra causa, deberá realizarse de manera sería, responsable y sin propósitos sensacionalistas.
+Las autoridades sanitarias estatales en coordinación con las autoridades federales, municipales, instituciones de educación superior y las autoridades de las comunidades indígenas, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales serán difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población. La divulgación o emisión de publicaciones, imágenes o escenas vinculadas directamente con el suicidio o pérdida de la vida por cualquier otra causa, deberá realizarse de manera seria, responsable y sin propósitos sensacionalistas.
 
 ###### ARTÍCULO 157.
 
@@ -1373,7 +1369,7 @@ Es atribución de la autoridad sanitaria establecer las normas, y asegurar que l
 
 La Secretaría de Salud dispondrá recursos presupuestales para asegurar la difusión de los programas de educación para la salud.
 
-### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPÍTULO III. NUTRICIÓN
 
 ###### ARTÍCULO 159.
 
@@ -1397,7 +1393,7 @@ La Secretaría de Salud, difundirá, capacitará y dará a conocer los alimentos
 
 Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales que contengan ácidos grasos hidrogenados en su forma trans, en escuelas de todos los niveles educativos, centros de recreación y deporte de niños y adolescentes, y en los alimentos proporcionados en centros de educación inicial y cuidado infantil, incluidas guarderías, centros de desarrollo infantil y estancias infantiles públicas, privadas o asistenciales.
 
-### CAPÍTULO V. SALUD OCUPACIONAL
+### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTÍCULO 164.
 
@@ -1431,7 +1427,7 @@ Las personas que intervengan en el abastecimiento de agua no podrán suprimir la
 
 Queda prohibida la descarga de aguas residuales a cuerpos de agua que se destinen para el uso o consumo humano, sin el tratamiento para satisfacer los criterios sanitarios y la normatividad emitida por las autoridades federales competentes a fin de evitar riesgos para la salud.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO V. SALUD OCUPACIONAL
 
 ###### ARTÍCULO 169.
 
@@ -1449,13 +1445,13 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TÍTULO NOVENO. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 172.
 
 Corresponde a la Secretaría de Salud en coordinación con las autoridades federales, estatales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPÍTULO III. SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTÍCULO 173.
 
@@ -1573,7 +1569,7 @@ El transporte de enfermos de infecciones transmisibles deberán efectuarse en ve
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO IV. ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO III. SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
 
 ###### ARTÍCULO 187.
 
@@ -1599,7 +1595,7 @@ En los establecimientos autorizados para el ejercicio del sexo-servicio, baños 
 
 Todos los centros de salud, públicos o privados, deberán facilitar a sus trabajadores capacitación adecuada acerca del manejo del Síndrome de Inmunodeficiencia Adquirida y de los medios e instrumentos recomendados por la Secretaría de Salud para asegurar el cumplimiento de las medidas de prevención y ofrecerles las condiciones y los recursos necesarios para evitar el contagio.
 
-### CAPÍTULO V. ACCIDENTES Y LESIONES
+### CAPÍTULO IV. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 192.
 
@@ -1637,7 +1633,7 @@ V. Tratamiento de enfermedades diarreicas;
 
 VI. Tratamiento de infección respiratoria aguda; y
 
-VII. Las demás que establezca la Secretaría de Salud.
+VII. las demás que establezca la Secretaría de Salud.
 
 Dichas guías clínicas deberán ser actualizadas periódicamente conforme a los avances científicos.
 
@@ -1653,7 +1649,7 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 Los jefes, encargados, directores, responsables y propietarios de las unidades medicas hospitalarias, tanto públicas como privadas, están obligados a rendir informe a la autoridad sanitaria, acerca de las sospechas de reacciones adversas a los medicamentos y dispositivos médicos en un plazo no mayor de cinco días después de diagnosticada la sospecha.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. ACCIDENTES Y LESIONES
 
 ###### ARTÍCULO 198.
 
@@ -1797,7 +1793,7 @@ La Secretaría de Salud tendrá entre sus objetivos operar establecimientos de r
 
 ## TÍTULO DUODÉCIMO. ASISTENCIA SOCIAL
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 216.
 
@@ -1851,7 +1847,7 @@ El Gobierno del Estado y los municipios promoverán la creación de establecimie
 
 ## TÍTULO DÉCIMO TERCERO. PROGRAMAS CONTRA LAS ADICCIONES
 
-### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 221.
 
@@ -1887,7 +1883,7 @@ III. Hábitos de consumo de alcohol y drogas en los diferentes grupos de poblaci
 
 IV. Efectos del abuso de sustancias adictivas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 223.
 
@@ -1957,11 +1953,7 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 III. Las demás disposiciones contenidas en ésta y otras leyes y en los reglamentos y normas correspondientes.
 
-### CAPITULO IV. DE LOS CENTROS DE TRATAMIENTO Y REHABILITACIÓN CONTRA LAS ADICCIONES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTÍCULO 230.
 
@@ -1981,7 +1973,7 @@ II. Establecerán sistemas de vigilancia en los establecimientos destinados al e
 
 III. Brindarán la atención médica que requieran las personas que consuman inhalantes; y
 
-IV. La prevención de la farmacodependencia y la atención médica de los Farmacodependientes.
+IV. La prevención de la farmacodependencia y la atención médica de los farmacodependientes.
 
 ###### ARTÍCULO 233.
 
@@ -2003,59 +1995,45 @@ Se prohíbe la venta en cualquier presentación comercial, a menores de edad, de
 
 La Secretaría de Salud en coordinación con las autoridades en materia de Seguridad Pública y con la Procuraduría General de la República y del Estado, a fin de prevenir y combatir el uso por inhalación de las substancias con efectos psicotrópicos, mediante los convenios correspondientes, podrá promover o implementar, según corresponda, en los establecimientos que produzcan, utilicen o expendan substancias tóxicas peligrosas o que tengan algún efecto psicotrópico, las medidas que para su control sean necesarias, de acuerdo con la legislación en la materia y demás disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LOS CENTROS DE TRATAMIENTO Y REHABILITACIÓN CONTRA LAS ADICCIONES
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 238.
 
 La Secretaría de Salud, en coordinación con la Secretaría de Salud federal, promoverá el establecimiento y operación de centros certificados públicos, sociales y privados, para el Tratamiento y la Rehabilitación de personas con adicción al alcohol, tabaco, o que usen habitualmente estupefacientes, substancias psicotrópicas u otro tipo de drogas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 1.- Para los efectos de esta Ley se entiende por:
 
-l. Establecimientos especializados en adicciones.- Son los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto, tal y como se definen en la Norma Oficial Mexicana.
+I. Establecimientos especializados en adicciones.- Son los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto, tal y como se definen en la Norma Oficial Mexicana.
 
 II. Grupo de Ayuda Mutua.- Es la agrupación que ofrece servicios, integrada por adictos en recuperación, cuyo propósito fundamental es apoyar al adicto con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de sustancias psicoactivas.
 
 III. Grupo de Alto Riesgo.- Es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, niñas, niños y adolescentes, menores en situación de calle, madres adolescentes, entre otros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 2.- El responsable del establecimiento especializado en adicciones, para el efecto se estará a lo dispuesto en la Ley General de Salud y en el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica. Por lo que se refiere a los grupos de ayuda mutua, éste podrá ser un grupo de adictos en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 3.- Los sectores sociales y privados, podrán prestar los servicios de tratamiento y rehabilitación para personas con adicción al alcohol, tabaco o que usen habitualmente estupefacientes, substancia psicotrópicas u otro tipo de drogas; para lo cual deberá tramitar la autorización o aviso según corresponda de dicho centro ante la Secretaría de Salud del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-ARTÍCULO 238 BIS 4.- El ingreso de los usuarios a los establecimientos especializados en adicciones con modelos profesional y mixto podrá ser voluntario, involuntario u obligatorio, y en el de ayuda mutua será estrictamente voluntario, pudiendo darse el ingreso obligatorio en los establecimientos que operen bajo este modelo que estén reconocidos por el Consejo Nacional contra las Adicciones (CONADlC), debiéndose ajustar a los procedimientos que este requiera.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+ARTÍCULO 238 BIS 4.- El ingreso de los usuarios a los establecimientos especializados en adicciones con modelos profesional y mixto podrá ser voluntario, involuntario u obligatorio, y en el de ayuda mutua será estrictamente voluntario, pudiendo darse el ingreso obligatorio en los establecimientos que operen bajo este modelo que estén reconocidos por el Consejo Nacional contra las Adicciones (CONADIC), debiéndose ajustar a los procedimientos que este requiera.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 5.- Los Centros de Tratamiento y Rehabilitación contra las Adicciones que ofrezcan tratamiento ambulatorio de ayuda mutua deberán cubrir los requisitos que establece la Norma Oficial Mexicana.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 6.- El tratamiento bajo la modalidad residencial, se llevará a cabo en los establecimientos profesionales, de ayuda mutua o mixtos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -2069,13 +2047,11 @@ III. El ingreso y la permanencia del usuario en el establecimiento deberán ser 
 
 Asimismo al ingreso de cada usuario el responsable del establecimiento debe cumplir con lo establecido en la Norma Oficial Mexicana.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 8.- Para operar un Centro de Tratamiento y Rehabilitación contra las Adicciones a los que se refiere el artículo anterior, sin perjuicio de lo que establezca la Ley General de Salud y la presente Ley, así como la (sic) Normas Oficiales Mexicanas, para el tratamiento y control de las adicciones, deberá cumplir con los siguientes requisitos:
 
-l. Disponer de un área física adecuada con mobiliario y equipos funcionales para el tratamiento terapéutico, que permitan la atención individual y proteger la privacidad del usuario, contando con la higiene y condiciones sanitarias adecuadas.
+I. Disponer de un área física adecuada con mobiliario y equipos funcionales para el tratamiento terapéutico, que permitan la atención individual y proteger la privacidad del usuario, contando con la higiene y condiciones sanitarias adecuadas.
 
 II. Los que presten servicios de internamiento, deberán de disponer de cubículos para el tratamiento terapéutico, independiente de las áreas de estancia, de tal manera que se respete la dignidad de las personas.
 
@@ -2089,61 +2065,41 @@ VI. Coordinarse con la Secretaría de Salud, en los programas de tratamiento ter
 
 VII. Los demás que establezca esta Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 9.- El número de usuarios que pueden ser admitidos, dependerá de la capacidad del establecimiento, según las disposiciones legales vigentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 10.- Si el que ingresa es menor de edad, se debe obtener adicionalmente el consentimiento por escrito de quienes ejerzan la patria potestad, del representante legal o tutor. En caso de que el menor se encuentre en situación de abandono, el encargado del establecimiento debe dar aviso al Ministerio Público y al Desarrollo Integral para la Familia más cercano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 11.- En los establecimientos no se deben admitir personas distintas a las que requieran el servicio para el cual fue creado (trastornos relacionados con consumo de sustancias psicoactivas); pero no se negará el ingreso a personas con alguna comorbilidad que ingieran medicamentos y que tengan una condición médica y/o psiquiátrica controlada.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 12.- Durante la estancia se debe cumplir con todo lo establecido en la normatividad sanitaria vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 13.- Al egreso se debe llenar la hoja de egreso con los datos que establece la Norma Oficial Mexicana
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 14.- Los establecimientos que practiquen tratamientos alternativos y/o complementarios, deberán cubrir los requisitos establecidos en la normatividad sanitaria vigente, así como estar registrados y avalados por el Consejo Nacional contra las Adicciones (CONADIC), además de contar con el aviso de funcionamiento respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 15.- Los Centros de Tratamiento y Rehabilitación Contra las Adicciones tendrán la obligación de informar a la Secretaría de Salud, la relación de los usuarios sujetos a rehabilitación informando mensualmente las observaciones en torno a los avances que presenten los mismos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 16.- La Secretaría de Salud, a través del área correspondientes (sic) y de las Jurisdicciones Sanitarias de los municipios, deberán verificar por lo menos trimestralmente las áreas físicas de los Centros de Tratamiento y Rehabilitación Contra las Adicciones y supervisar la implementación de los programas de tratamiento y rehabilitación de los adictos, coadyuvando a salvaguarda de (sic) sus derechos humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 238 BIS 17.- La Secretaría de Salud, previo el procedimiento establecido en este ordenamiento, podrá emitir opiniones técnicas legales, aplicar sanciones, o decretar suspensión parcial o total y la clausura de los Centros de Tratamiento y Rehabilitación contra las Adicciones que no cumplan con lo dispuesto en la presente Ley, independiente de las sanciones que disponga la normatividad aplicable para el caso.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -2153,7 +2109,7 @@ ARTÍCULO 238 BIS 18.- La Secretaría de Salud, Secretaría de Seguridad Publica
 
 ## TÍTULO DÉCIMO CUARTO. DONACION, TRANSPLANTES (SIC), PÉRDIDA DE VIDA, SUSPENSION DE TRATAMIENTO Y CUIDADOS PALIATIVOS A PACIENTES TERMINAL (SIC)
 
-### CAPÍTULO II. DONACION y TRASPLANTE
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 239.
 
@@ -2171,79 +2127,53 @@ V. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos di
 
 VI. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VIII. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 IX. Agonía. Estado que precede a la muerte, en aquellas situaciones en que la vida se extingue gradualmente;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 X. Cuidados Básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XI. Cuidados Paliativos. Es el cuidado activo y total de aquellas enfermedades en estado terminal. El control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales del paciente y sus familiares;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XII. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable a partir del diagnóstico de enfermedad en estado terminal y hasta el deceso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XIII. Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible, a partir de su diagnóstico y hasta su deceso;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XIV. Medidas extraordinarias. Todas aquellas medidas proporcionadas por profesionales de la salud orientada a reducir los sufrimientos físicos y emocionales derivadas de la carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XV. Medidas ordinarias. Son los procedimientos médicos que son útiles para conservar o mejorar la calidad de vida del enfermo en situación terminal y que no constituyen para él una carga grave o desproporcionada a los beneficios que se puedan obtener;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XVI. Muerte natural de un paciente terminal. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XVII. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
 XVIII. Suspensión voluntaria del tratamiento. Se considera la decisión tomada por el paciente, basada en tres criterios: a) El pleno uso de sus facultades mentales; b) La información suficiente y oportuna de su diagnóstico, y c) La información oportuna y suficiente de su plan de tratamiento y pronóstico, y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2276,6 +2206,98 @@ La Secretaría de Salud promoverá la cultura de donación y trasplantes de órg
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 La Secretaría de Salud, en coordinación con las demás dependencias y entidades de gobierno, u otros entes públicos desarrollará programas y acciones de información, promoción y difusión de la cultura de donación de órganos, tejidos y células.
+
+### CAPÍTULO II. DONACION Y TRASPLANTE
+
+###### ARTÍCULO 244.
+
+Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo, cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico.
+
+Está prohibido:
+
+I. El trasplante de gónadas o tejidos gonadales; y
+
+II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos espontáneos o inducidos.
+
+###### ARTÍCULO 245.
+
+La obtención de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
+
+###### ARTÍCULO 246.
+
+La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud Federal.
+
+###### ARTÍCULO 247.
+
+Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
+
+I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
+
+II. Donar un órgano par; en caso de ser impar, que al ser extraído o en parte, sus funciones pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
+
+III. Tener compatibilidad aceptable con el receptor;
+
+IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
+
+V. Haber otorgado su consentimiento en forma expresa, en términos de la normatividad sanitaria, y
+
+VI. Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
+
+a) Obtener resolución favorable del Comité de Trasplantes de la institución hospitalaria, donde se vaya a realizar el trasplante, previa evaluación médica, clínica y psicológica;
+
+b) El interesado en donar deberá otorgar su consentimiento expreso; y
+
+c) Haber cumplido todos los requisitos y procedimientos establecidos por la Secretaría de Salud Federal, para comprobar que no se está lucrando con esta práctica.
+
+###### ARTÍCULO 248.
+
+Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse con los requisitos que establece la normatividad sanitaria federal. Debiendo cumplir con los siguientes requisitos:
+
+I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este Título;
+
+II. Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos; y
+
+III. Asegurarse que no exista riesgo sanitario.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 248 BIS.- Para la disposición de órganos o tejidos para trasplantes, se estará al siguiente procedimiento, según sea el caso, sin perjuicio de lo dispuesto por la Ley General de Salud y el artículo 248 de la presente Ley:
+
+I.- El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá una vigilancia continua en el establecimiento, para detectar el ingreso de pacientes en estado crítico;
+
+II.- Con base en lo anterior, el Titular del Comité Interno de Trasplantes de la institución hospitalaria identificará a los donadores potenciales, con apoyo del personal médico correspondiente, y tomarán las medidas pertinentes para determinar su viabilidad como donador. El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá contacto con el Centro Estatal de Trasplantes para verificar si el donador potencial se encuentra inscrito en los Registros Nacional y Estatal de Trasplantes como donador con consentimiento expreso;
+
+III.- Emitido, en su caso, el diagnóstico clínico de muerte cerebral, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, solicitará y gestionará oportunamente la certificación de pérdida de vida para la disposición de órganos y tejidos en los términos de la Ley General de Salud.
+
+Notificará al Ministerio Público, de manera inmediata la identificación del donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito;
+
+IV.- En caso de no localizar datos o documentos relativos al consentimiento expreso del donador potencial, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, con apoyo en los médicos tratantes, de tener conocimiento de su existencia y localización, acudirá ante los familiares del paciente para notificar la muerte y solicitar la donación;
+
+V.- En todos los casos, para la disposición de órganos, tejidos, o ambos, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, avisará de inmediato al Director General del Centro Estatal de Trasplantes para que, por su conducto, se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
+
+VI.- El Director General del Centro Estatal de Trasplantes consultará el Registro Estatal de Trasplantes a su cargo y establecerá comunicación inmediata con el Registro Nacional de Trasplantes, para verificar en ellos, la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia, para la determinación de la asignación de los órganos y tejidos;
+
+VII.- Una vez determinada la asignación, el Director General del Centro Estatal de Trasplantes establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
+
+VIII.- De presentarse las condiciones óptimas y no existir riesgo sanitario para la intervención, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Titular del Comité Interno de Trasplantes de la institución hospitalaria, en coordinación con el Director General del Centro Estatal de Trasplantes, se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo.
+
+En caso de que el Ministerio Público lo considere procedente, se invitará al médico legista para que presencie la extracción de órganos o tejidos; y
+
+IX.- Habiéndose realizado el trasplante, el Titular del Comité Interno de Trasplantes de la institución hospitalaria dará aviso oportuno por escrito del procedimiento realizado al Centro Nacional de Trasplantes y al Centro Estatal de Trasplantes, para su anotación en los registros correspondientes; y a la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 248 BIS 1.- El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos o tejidos destinados a ser trasplantados, así como a los receptores de la donación, cuando la urgencia del caso así lo amerite.
+
+###### ARTÍCULO 249.
+
+Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
+
+###### ARTÍCULO 250.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO II BIS. DEL CENTRO ESTATAL DE TRASPLANTES
 
@@ -2379,103 +2401,7 @@ XIV.- Aprobar la entrega de reconocimientos al mérito y altruismo a los donador
 
 XV.- Las demás que señale la Ley General de Salud, la Ley de Salud del Estado de Tabasco, el Reglamento Interior del Centro Estatal de Trasplantes, el Secretario de Salud, y otras disposiciones legales.
 
-###### ARTÍCULO 244.
-
-Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo, cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico.
-
-Está prohibido:
-
-I. El trasplante de gónadas o tejidos gonadales; y
-
-II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos espontáneos o inducidos.
-
-###### ARTÍCULO 245.
-
-La obtención de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
-
-###### ARTÍCULO 246.
-
-La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud Federal.
-
-###### ARTÍCULO 247.
-
-Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
-
-I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
-
-II. Donar un órgano par; en caso de ser impar, que al ser extraído o en parte, sus funciones pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
-
-III. Tener compatibilidad aceptable con el receptor;
-
-IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
-
-V. Haber otorgado su consentimiento en forma expresa, en términos de la normatividad sanitaria, y
-
-VI. Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
-
-a) Obtener resolución favorable del Comité de Trasplantes de la institución hospitalaria, donde se vaya a realizar el trasplante, previa evaluación médica, clínica y psicológica;
-
-b) El interesado en donar deberá otorgar su consentimiento expreso; y
-
-c) Haber cumplido todos los requisitos y procedimientos establecidos por la Secretaría de Salud Federal, para comprobar que no se está lucrando con esta práctica.
-
-###### ARTÍCULO 248.
-
-Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse con los requisitos que establece la normatividad sanitaria federal. Debiendo cumplir con los siguientes requisitos:
-
-I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este Título;
-
-II. Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos; y
-
-III. Asegurarse que no exista riesgo sanitario.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
-
-ARTÍCULO 248 BIS.- Para la disposición de órganos o tejidos para trasplantes, se estará al siguiente procedimiento, según sea el caso, sin perjuicio de lo dispuesto por la Ley General de Salud y el artículo 248 de la presente Ley:
-
-I.- El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá una vigilancia continua en el establecimiento, para detectar el ingreso de pacientes en estado crítico;
-
-II.- Con base en lo anterior, el Titular del Comité Interno de Trasplantes de la institución hospitalaria identificará a los donadores potenciales, con apoyo del personal médico correspondiente, y tomarán las medidas pertinentes para determinar su viabilidad como donador. El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá contacto con el Centro Estatal de Trasplantes para verificar si el donador potencial se encuentra inscrito en los Registros Nacional y Estatal de Trasplantes como donador con consentimiento expreso;
-
-III.- Emitido, en su caso, el diagnóstico clínico de muerte cerebral, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, solicitará y gestionará oportunamente la certificación de pérdida de vida para la disposición de órganos y tejidos en los términos de la Ley General de Salud.
-
-Notificará al Ministerio Público, de manera inmediata la identificación del donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito;
-
-IV.- En caso de no localizar datos o documentos relativos al consentimiento expreso del donador potencial, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, con apoyo en los médicos tratantes, de tener conocimiento de su existencia y localización, acudirá ante los familiares del paciente para notificar la muerte y solicitar la donación;
-
-V.- En todos los casos, para la disposición de órganos, tejidos, o ambos, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, avisará de inmediato al Director General del Centro Estatal de Trasplantes para que, por su conducto, se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
-
-VI.- El Director General del Centro Estatal de Trasplantes consultará el Registro Estatal de Trasplantes a su cargo y establecerá comunicación inmediata con el Registro Nacional de Trasplantes, para verificar en ellos, la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia, para la determinación de la asignación de los órganos y tejidos;
-
-VII.- Una vez determinada la asignación, el Director General del Centro Estatal de Trasplantes establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
-
-VIII.- De presentarse las condiciones óptimas y no existir riesgo sanitario para la intervención, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Titular del Comité Interno de Trasplantes de la institución hospitalaria, en coordinación con el Director General del Centro Estatal de Trasplantes, se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo.
-
-En caso de que el Ministerio Público lo considere procedente, se invitará al médico legista para que presencie la extracción de órganos o tejidos; y
-
-IX.- Habiéndose realizado el trasplante, el Titular del Comité Interno de Trasplantes de la institución hospitalaria dará aviso oportuno por escrito del procedimiento realizado al Centro Nacional de Trasplantes y al Centro Estatal de Trasplantes, para su anotación en los registros correspondientes; y a la Fiscalía General del Estado.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
-
-ARTÍCULO 248 BIS 1.- El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos o tejidos destinados a ser trasplantados, así como a los receptores de la donación, cuando la urgencia del caso así lo amerite.
-
-###### ARTÍCULO 249.
-
-Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
-
-###### ARTÍCULO 250.
-
-Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2015)</small>
-
 ### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
-
-### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 251.
 
@@ -2519,7 +2445,9 @@ No existirá impedimento alguno para que a solicitud o autorización de las sigu
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
+### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 254.
 
@@ -2539,15 +2467,11 @@ VI. Establecer los límites entre la defensa de la vida del enfermo en situació
 
 VII. Establecer la corresponsabilidad de los cuidados paliativos a los enfermos en estado terminal, al enfermo, sus familiares y las instituciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 255.
 
 Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan para los enfermos en situación terminal, esta Ley y demás ordenamientos aplicables.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2583,13 +2507,9 @@ XIII. El paciente en situación terminal tiene derecho al inicio del tratamiento
 
 XIV. Los demás que las leyes señalen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTÍCULO 257.
 
 (DEROGADO, P.O. 22 DE MAYO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2599,23 +2519,17 @@ La suspensión voluntaria del tratamiento es la cancelación de todo medicamento
 
 En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 259.
 
 El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento, ratificando su decisión por escrito ante el personal médico correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 260.
 
-Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por eI médico especialista.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2633,8 +2547,6 @@ El cargo de representante es voluntario y gratuito, pero el que lo acepte se con
 
 El representante que presente excusas, deberá hacerlo al momento en que tenga noticia de su designación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 262.
@@ -2651,15 +2563,11 @@ IV. La defensa del documento de voluntad anticipada, en juicio y fuera de él, a
 
 V. Las demás que le imponga la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 263.
 
 Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este capítulo, serán asumidos por los padres o el tutor y a falta de éstos por su representante legal o persona de su confianza mayor de edad, de conformidad con las disposiciones aplicables.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2667,23 +2575,17 @@ Si el enfermo en situación terminal es menor de edad, o se encuentra incapacita
 
 Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome éste, de conformidad con lo establecido en este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 265.
 
 En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista, en su caso, o por el Comité de Bioética de la institución, en los términos previstos por el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 266.
 
 Todos los documentos y disposiciones a que se refiere este capítulo, se regirán de acuerdo a lo que se establezca en esta Ley, el Reglamento y demás ordenamientos aplicables.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2711,17 +2613,13 @@ VIII. Procurarán la existencia de equipo, insumos médicos y medicamentos, prin
 
 IX. Fomentar la creación de unidades ambulatorias de cuidados paliativos, que faciliten la atención de pacientes en situación terminal.
 
-Dichas unidades ambulatorias contarán con equipo multidisciplinario integrado por un médico general, una enfermera, un psicólogo, una trabajadora social y un chofer, y con los insumos médicos y los medicamentos necesarios para realizar su labor; (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Dichas unidades ambulatorias contarán con equipo multidisciplinario integrado por un médico general, una enfermera, un psicólogo, una trabajadora social y un chofer, y con los insumos médicos y los medicamentos necesarios para realizar su labor;
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 268.
 
 Los médicos tratantes y el equipo sanitario que presten los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar acreditados por instituciones autorizadas para ello y que demuestren su capacitación humana y técnica.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2751,8 +2649,6 @@ X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnó
 
 XI. Las demás que le señalen ésta y otras leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ARTÍCULO 269 BIS 1.- Los médicos tratantes podrán suministrar fármacos paliativos a dosis recomendada, a un enfermo en situación terminal, aun cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
@@ -2761,13 +2657,9 @@ Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la presente 
 
 En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ARTÍCULO 269 BIS 2.- Las instituciones, el personal médico y paramédico que dejen de proporcionar los cuidados paliativos a los enfermos en situación terminal, serán sancionados conforme a lo establecido por las leyes aplicables.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2775,7 +2667,7 @@ ARTÍCULO 269 BIS 3.- Las instituciones de salud, el personal médico y paraméd
 
 ## TÍTULO DÉCIMO QUINTO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS, ALCOHÓLICAS, NUTRIENTES VEGETALES, PLAGUICIDAS Y SUBSTANCIAS TÓXICAS
 
-### CAPÍTULO II. SUBSTANCIAS TÓXICAS
+### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
 
 ###### ARTÍCULO 270.
 
@@ -2807,7 +2699,7 @@ V. Cumplir con las disposiciones de higiene general y personal que correspondan.
 
 Se prohíbe la comercialización de bebidas alcohólicas en farmacias, droguerías y boticas, así como de manera ambulante.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. SUBSTANCIAS TÓXICAS
 
 ###### ARTÍCULO 274.
 
@@ -2835,7 +2727,7 @@ La Secretaría de Salud, promoverá y llevará a cabo campañas permanentes de i
 
 ## TÍTULO DÉCIMO SEXTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 279.
 
@@ -2903,7 +2795,7 @@ La Secretaría de Salud, publicará en el periódico oficial, las normas en mate
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 287.
 
@@ -2921,7 +2813,7 @@ La Secretaría de Salud del Gobierno del Estado, verificará que los mercados y 
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas Correspondientes.
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 290.
 
@@ -2951,7 +2843,7 @@ Los propietarios o poseedores de los edificios y locales para uso comercial o de
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargado o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos, sin perjuicio de la sanción administrativa que proceda.
 
-### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
 
 ###### ARTÍCULO 297.
 
@@ -3003,7 +2895,7 @@ III. Cumplir con la normatividad sanitaria y ecológica en el manejo, procedimie
 
 IV. Las demás que se indiquen en las disposiciones reglamentarias y normas emitidas al respecto.
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 304.
 
@@ -3027,7 +2919,7 @@ IV. Los restos de animales encontrados en la vía pública deberán de incinerar
 
 V. Queda prohibido tirar los residuos sólidos a cauces y aguas superficiales (mares, ríos, lagunas o humedales).
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
 
 ###### ARTÍCULO 307.
 
@@ -3049,7 +2941,7 @@ El sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera d
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades municipales, tomando en consideración las condiciones de lugar y los elementos de que dispongan las autoridades sanitarias para realizar las verificaciones necesarias.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 312.
 
@@ -3071,7 +2963,7 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación de sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad municipal con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación de la misma.
 
-### CAPÍTULO IX. SEXO-SERVICIO
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 317.
 
@@ -3091,7 +2983,7 @@ V. Establecimientos similares: Todos aquellos dedicados a la cría, reproducció
 
 Los establecimientos a que se refiere este capítulo no podrán estar ubicados en el centro de los lugares poblados o en lugares contiguos a ellos, en un radio que delimitará la autoridad sanitaria municipal, conforme a las disposiciones legales en vigor, los establecimientos de esta naturaleza que actualmente se localicen en dichos lugares, deberán salir de las poblaciones en el plazo que señalen los Ayuntamientos.
 
-### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO IX. SEXO-SERVICIO
 
 ###### ARTÍCULO 319.
 
@@ -3139,9 +3031,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio del sexo-servicio, para lo cual podrá solicitar la opinión del Gobierno del Estado, de conformidad con las disposiciones legales reglamentarias aplicables. Será obligatorio contar con información visible a los usuarios sobre los condones y su uso.
 
-### CAPITULO XI. BAÑOS PÚBLICOS Y SPA
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 327.
 
@@ -3177,7 +3067,9 @@ En los casos a que se refiere el artículo anterior, la Secretaría de Salud deb
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2011)</small>
 
-### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPITULO XI. BAÑOS PÚBLICOS Y SPA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 335.
 
@@ -3199,7 +3091,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley,
 
 ARTÍCULO 337 BIS.- Queda prohibido en los establecimientos comprendidos en este capítulo; ofertar y aplicar cualquier tipo de procedimiento de riesgo y de medicamentos o substancias administradas por vía intramuscular, intravenosa, oral, ótica, oftálmica, intratecal, intradérmica y subcutánea con fines terapéuticos, estéticos o de cualquier otra índole.
 
-### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
+### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### ARTÍCULO 338.
 
@@ -3209,7 +3101,7 @@ Para efectos de esta Ley, se entiende por centro de reunión y espectáculos, lo
 
 La Secretaría de Salud del Gobierno del Estado, podrá en cualquier momento realizar verificación de los centros públicos de reunión con la finalidad de constatar las condiciones de saneamiento e higiene para garantizar la vida y la salud de las personas que a ellos concurran.
 
-### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
 
 ###### ARTÍCULO 340.
 
@@ -3239,7 +3131,7 @@ La realización de las perforaciones y tatuajes no deberá efectuarse a personas
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
+### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### ARTÍCULO 346.
 
@@ -3255,7 +3147,7 @@ III. Lavadero público.- El establecimiento al cual acuden los interesados para 
 
 Corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
+### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 348.
 
@@ -3273,7 +3165,7 @@ La Secretaría de Salud del Gobierno del Estado, realizará la verificación san
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo dispuesto en la presente Ley en lo relativo a higiene, saneamiento y de ingeniería sanitaria.
 
-### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
+### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
 
 ###### ARTÍCULO 352.
 
@@ -3287,7 +3179,7 @@ La Secretaría de Salud, ejercerá el control y verificación sanitarios de los 
 
 Los establecimientos a que se refiere el artículo 350 de esta Ley, deberán reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales federales y locales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud federal.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
 
 ###### ARTÍCULO 355.
 
@@ -3347,7 +3239,7 @@ El personal que labore en los establecimientos contemplados en este capítulo de
 
 ## TÍTULO DÉCIMO SÉPTIMO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 360.
 
@@ -3395,25 +3287,17 @@ VII. La importación de los productos y materias primas comprendidos en las disp
 
 VIII. La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que las contengan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
 IX. Las modificaciones a las instalaciones de establecimientos que manejan substancias tóxicas o peligrosas determinadas como de alto riesgo para la salud, cuando impliquen nuevos sistemas de seguridad;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA [ADICIONADA, P.O. 8 DE JUNIO DE 2011])</small>
 
 X. La instalación u operación de centros de tratamiento y rehabilitación para personas con adicción al alcohol, tabaco, o que usen habitualmente estupefacientes, substancias psicotrópicas u otros tipo (sic) de drogas, en sus modalidades de profesional y mixto sin perjuicio de los demás requisitos que otras disposiciones señalen y;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
 
 XI. Los responsables de la aplicación de tatuajes y perforaciones incluidos los de tipo estético, sin perjuicio de los requisitos que exijan otras autoridades competentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -3463,7 +3347,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación local, y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 374.
 
@@ -3525,7 +3409,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 382.
 
@@ -3563,7 +3447,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 La Secretaría de Salud, podrá expedir certificados, autorizaciones o cualquier otro documento con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
 
-l. El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+I. El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
 
 II. Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
 
@@ -3575,7 +3459,7 @@ V. La Secretaría de Salud, podrá reconocer centros de investigación y organiz
 
 ## TÍTULO DÉCIMO OCTAVO. VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 388.
 
@@ -3685,7 +3569,7 @@ En el procedimiento administrativo sanitario, los actos de las autoridades se pr
 
 ## TÍTULO DÉCIMO NOVENO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 400.
 
@@ -3783,7 +3667,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casa, edificios, establecimientos y, en general de cualquier predio, se ordenará, previa la observancia de garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 413.
 
@@ -3871,8 +3755,6 @@ La aplicación de las multas serán sin perjuicio de que se dicten las medidas d
 
 Se procederá a la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
 I. Cuando los establecimientos a que se refieren el TÍTULO DECIMO TERCERO y el TÍTULO DECIMO SEXTO de esta Ley, representen un peligro inminente a la salud pública.
@@ -3893,7 +3775,7 @@ En los casos de clausura definitiva quedará (sic) sin efecto las autorizaciones
 
 Se sancionará con arresto hasta por treinta y seis horas, a la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 428.
 
@@ -3969,7 +3851,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 438.
 
@@ -4041,6 +3923,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 
 En la tramitación del recurso de inconformidad se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
+### CAPÍTULO V. PRESCRIPCIÓN
+
 ###### ARTÍCULO 450.
 
 El ejercicio de la facultad para las sanciones administrativas previstas en la presente Ley, prescribirá en el término de cinco años.
@@ -4099,7 +3983,7 @@ Se establece un término de noventa días a partir de la entrada en vigor de la 
 
 En tanto se expidan los Reglamentos y normas que se deriven de esta Ley seguirán aplicándose los reglamentos federales y las normas que la autoridad federal haya expedido.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL NUEVE, DIP. KARINA GONZÁLEZ BALCÁZAR, PRESIDENTA; DIP. ALlPIO OVANDO MAGAÑA, SECRETARIO; RÚBRICAS.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL NUEVE, DIP. KARINA GONZÁLEZ BALCÁZAR, PRESIDENTA; DIP. ALIPIO OVANDO MAGAÑA, SECRETARIO; RÚBRICAS.
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -4137,7 +4021,7 @@ CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitució
 
 P.O. 21 DE MAYO DE 2011.
 
-PRlMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
@@ -4192,3 +4076,15 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 17 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 082 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 101 BIS Y 101 TER, ASÍ COMO EL CAPÍTULO XI BIS, AL TÍTULO TERCERO, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
