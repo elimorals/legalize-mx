@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2018-10-13"
+last_updated: "2019-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -73,11 +73,17 @@ Las disposiciones de la presente Ley se aplicarán sin perjuicio de lo dispuesto
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Secretaría: La Secretaría de Administración;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
 
-II. Contraloría: La Secretaría de Contraloría;
+I. Secretaría: La Secretaría de Administración e Innovación Gubernamental;
 
-III. Dependencias: La Gubernatura y las unidades administrativas a que hace mención el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+II. Función Pública: La Secretaría de la Función Pública;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+III. Dependencias: La Gubernatura y las unidades administrativas a que hace mención el artículo 29 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
 IV. Entidades: Los organismos descentralizados del Poder Ejecutivo del Estado, las empresas de Participación Estatal Mayoritaria y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado;
 
@@ -87,7 +93,9 @@ VI. Órganos: Los órganos desconcentrados de la Administración Pública, adscr
 
 VII. Bien Mueble: Es aquel que por su naturaleza puede trasladarse de un lugar a otro, ya sea que se mueva por sí mismo o por efecto de una fuerza exterior;
 
-VIII. Convocante: la Secretaría de Administración, dependencias, órganos y entidades;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+VIII. Convocante: La Secretaría de Administración e Innovación Gubernamental, dependencias, órganos y entidades;
 
 IX. Ley: Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco;
 
@@ -113,7 +121,9 @@ XVIII. Adquisición: La compra de cualquier bien mueble que realice el Gobierno 
 
 XIX. Arrendamiento: Contrato oneroso por el cual se obtiene el derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto;
 
-XX. Servicio: La actividad organizada que se realiza con el fin de satisfacer determinados requerimientos del gobierno, prestada por personas físicas o jurídico colectivas, excepto la contratación de servicios personales subordinados o bajo el régimen de honorarios;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+XX. Servicio: La actividad organizada que se realiza con el fin de satisfacer determinados requerimientos del gobierno, prestada por personas físicas o jurídicas colectivas, excepto la contratación de servicios profesionales subordinados o bajo el régimen de honorarios;
 
 XXI. Contrato o pedido: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos del Reglamento;
 
@@ -121,11 +131,13 @@ XXII. Tratados: Los convenios celebrados por escrito entre el Gobierno de los Es
 
 XXIII. Entes públicos: Los señalados en el artículo 1 de esta Ley;
 
-XXIV. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídico colectivas, el local en donde se encuentra la administración principal del negocio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
 
-XXV. Investigación de Mercados: la verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia dependencia o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes de información;
+XXIV. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídicas colectivas, el local en donde se encuentra la administración principal del negocio; y
 
-En todos los casos en que la presente Ley haga referencia a las adquisiciones, arrendamientos y servicios se entenderá que se trata, respectivamente, de adquisiciones y arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes, salvo mención expresa en contrario.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+XXV. Investigación de mercado: La verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia dependencia o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes de información.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -137,11 +149,11 @@ Sin perjuicio de lo que esta Ley establece, el gasto de las adquisiciones, los a
 
 Las dependencias, órganos y entidades podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y prestación de servicios, bajo las modalidades que se contemplan en los artículos 21 y 22 de la presente Ley, cuando se ajusten a la disponibilidad de las partidas correspondientes en su presupuesto autorizado. En caso contrario, se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 5.
 
-La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos, así como para dictar las disposiciones administrativas que requieran la adecuada aplicación de la misma y sus disposiciones reglamentarias.
+La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos, así como para dictar las disposiciones administrativas que requieran la adecuada aplicación de la misma y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -185,7 +197,9 @@ Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinar
 
 La Secretaría podrá contratar asesoría técnica y profesional para la realización de investigaciones de mercado; el mejoramiento del sistema de adquisiciones, arrendamientos y servicios; la verificación de precios; pruebas de calidad; y, otras actividades vinculadas con esta Ley.
 
-Asimismo, la Contraloría podrá contratar asesoría técnica y profesional para coadyuvar al mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+Asimismo, la Función Pública podrá contratar asesoría técnica y profesional para coadyuvar al mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
 
 ###### Artículo 12.
 
@@ -255,27 +269,27 @@ La Secretaría podrá autorizar el pago de suscripciones, seguros o de otros ser
 
 Se crea el Comité de Compras del Poder Ejecutivo, el cual tendrá por objeto determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y prestación de servicios; la observancia de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-El Comité de Compras será integrado con voz y voto por el titular de la Secretaría, quien lo presidirá, así como por los titulares de la Secretaría de Planeación y Finanzas y de la Secretaría Técnica de la Gubernatura, mismos que estarán facultados para nombrar a sus respectivos suplentes conforme al Reglamento de esta Ley. La Secretaría de Contraloría, en la persona de su titular o el suplente que designe, deberá estar presente en todos los actos del Comité de Compras y participará con voz pero sin voto.
+El Comité de Compras será integrado con voz y voto por el titular de la Secretaría, quien lo presidirá, así como por los titulares de la Secretaría de Finanzas y de la Coordinación General de Asuntos Jurídicos, mismos que estarán facultados para nombrar a sus respectivos suplentes conforme al Reglamento de esta Ley. La Función Pública, en la persona de su titular o el suplente que designe, deberá estar presente en todos los actos del Comité de Compras y participará con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-En auxilio de las funciones del Comité de compras, previo acuerdo razonado y fundado del propio Comité de compras, se establecerán Subcomités en las dependencias, órganos y entidades conforme a los criterios, estructura y funciones que al efecto se determine en el Reglamento de ese Órgano Colegiado. A las sesiones de los subcomités deberán asistir los representantes de las dependencias que integran el Comité de Compras.
+En auxilio de las funciones del Comité de Compras, previo acuerdo razonado y fundado del propio Comité de Compras, se establecerán Subcomités en las dependencias, órganos y entidades conforme a los criterios, estructura y funciones que al efecto se determine en el Reglamento de ese Órgano Colegiado. A las sesiones de los subcomités deberán asistir los representantes de las dependencias que integran el Comité de Compras.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-El Comité de compras convocará a los representantes de las dependencias, órganos y entidades de la Administración Pública Estatal a sus respectivas sesiones, a las que acudirán obligatoriamente, con voz pero sin voto, cuando se considere pertinente su participación. Dichos representantes serán nombrados por los titulares de las mismas.
+El Comité de Compras convocará a los representantes de las dependencias, órganos y entidades de la Administración Pública Estatal a sus respectivas sesiones, a las que acudirán obligatoriamente, con voz pero sin voto, cuando se considere pertinente su participación. Dichos representantes serán nombrados por los titulares de las mismas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-Los representantes de las cámaras u organismos de los sectores privado o social, que se encuentren legalmente constituidos, serán invitados a participar con voz, pero sin voto, al interior del Comité y a los actos que resulte conducente, como observadores ciudadanos de los procedimientos de licitación en los supuestos y términos que fije el Reglamento del citado Órgano Colegiado.
+Los representantes de las cámaras u organismos de los sectores privado o social, que se encuentren legalmente constituidos, serán invitados a participar con voz, pero sin voto, al interior del Comité de Compras y a los actos que resulte conducente, como observadores ciudadanos de los procedimientos de licitación en los supuestos y términos que fije el Reglamento del citado Órgano Colegiado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 18.
 
-El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, reglamentará la integración y funcionamiento del Comité de compras.
+El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, reglamentará la integración y funcionamiento del Comité de Compras.
 
 ###### Artículo 19.
 
@@ -339,7 +353,9 @@ Cuando por el monto de la adquisición deba realizarse una licitación mediante 
 
 En casos excepcionales y previo acuerdo del Comité de Compras, la Secretaría podrá realizar, sin contar con los recursos presupuestales necesarios, el procedimiento que por el monto de la modalidad en cada caso corresponda, tramitando de inmediato en términos de la normatividad aplicable la transferencia y la recalendarización presupuestales procedentes en el ejercicio fiscal vigente.
 
-Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables de la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 24.
 
@@ -401,7 +417,9 @@ XI. En el caso de arrendamiento, precisar si es con opción a compra; y
 
 XII. La indicación de que no podrán participar aquellas personas físicas o jurídicas colectivas que se encuentren en los supuestos del artículo 51 de esta Ley.
 
-Las convocatorias a que se refiere este artículo, se incorporarán en el Sistema Electrónico de Contrataciones Gubernamentales dependiente de la Contraloría, conforme las disposiciones que se emitan en el ámbito administrativo por los servidores públicos a quienes los ordenamientos legales aplicables les otorguen facultades para ello. En aquellos asuntos que en virtud de obligaciones que contraigan los poderes del Estado, y en su caso, los municipios, para incorporar en dicho sistema las contrataciones que se efectúen con recursos públicos que sean aportados por la Federación, se sujetarán en lo conducente a lo dispuesto por la Ley, en su artículo 7, y a los demás ordenamientos que les fueren obligatorios.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+Las convocatorias a que se refiere este artículo, se incorporarán en el Sistema Electrónico de Contrataciones Gubernamentales dependiente de la Función Pública, conforme las disposiciones que se emitan en el ámbito administrativo por los servidores públicos a quienes los ordenamientos legales aplicables les otorguen facultades para ello. En aquellos asuntos que en virtud de obligaciones que contraigan los poderes del Estado, y en su caso, los municipios, para incorporar en dicho sistema las contrataciones que se efectúen con recursos públicos que sean aportados por la Federación, se sujetarán en lo conducente a lo dispuesto por la Ley, en su artículo 7, y a los demás ordenamientos que les fueren obligatorios.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -457,9 +475,9 @@ XXI. La manifestación del Proveedor, bajo protesta de decir verdad, que tiene l
 
 XXII. La manifestación por escrito, bajo protesta de decir verdad por parte del Proveedor, de no encontrarse en ninguno de los supuestos del artículo 51 de la Ley; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
 
-XXIII. Los demás requisitos que el Comité de compras y la Secretaría consideren pertinentes y viables para asegurar los intereses del Estado
+XXIII. Los demás requisitos que el Comité de Compras y la Secretaría consideren pertinentes y viables para asegurar los intereses del Estado.
 
 ###### Artículo 28.
 
@@ -489,9 +507,9 @@ El Comité de Compras y la Secretaría quedan facultados para expedir criterios 
 
 Las personas físicas o jurídicas colectivas que provean, arrienden bienes o presten servicios de los regulados por esta Ley, deberán garantizar:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
 
-I. La seriedad de las propuestas en los procedimientos de adjudicación, que se hará con un cheque no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tabasco, con un mínimo del cinco por ciento del total de la oferta económica;
+I. La seriedad de las propuestas en los procedimientos de adjudicación, que se hará con un cheque no negociable con la leyenda “para abono en cuenta del beneficiario”, a nombre de la Secretaría de Finanzas del Gobierno del Estado de Tabasco, con un mínimo del cinco por ciento del total de la oferta económica;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -501,19 +519,19 @@ II. La correcta aplicación de los anticipos que reciban, cuando procedan; en ni
 
 III. El cumplimiento del contrato, con un mínimo del veinte por ciento del importe total del documento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-Las garantías a que hace referencia este artículo en sus fracciones II y III, deberán incluir el Impuesto al Valor Agregado, mismas que se constituirán a través de garantías que en forma enunciativa más no limitativa, pueden ser: cheque certificado no negociable con la leyenda “para abono en cuenta del beneficiario”, a nombre de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tabasco; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá estarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable; seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable; así como cualquier otra garantía, siempre que sea de fácil ejecución.
+Las garantías a que hace referencia este artículo en sus fracciones II y III, deberán incluir el Impuesto al Valor Agregado, mismas que se constituirán a través de garantías que en forma enunciativa más no limitativa, pueden ser: cheque certificado no negociable con la leyenda “para abono en cuenta del beneficiario”, a nombre de la Secretaría de Finanzas del Gobierno del Estado de Tabasco; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá estarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable; seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable; así como cualquier otra garantía, siempre que sea de fácil ejecución.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
 Bajo responsabilidad de los servidores públicos encargados del proceso de adquisición, se decidirá el tipo de garantía que al efecto deba constituirse, tomando en consideración el resguardo del patrimonio del Gobierno del Estado y el proceso de ejecución de las garantías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 32.
 
-Las garantías a que se refiere el artículo anterior se constituirán por el proveedor en favor de la Secretaría de Planeación y Finanzas, por actos y contratos que celebre con la Secretaría, dependencias, órganos y entidades, de acuerdo a las consideraciones siguientes:
+Las garantías a que se refiere el artículo anterior se constituirán por el proveedor en favor de la Secretaría de Finanzas, por actos y contratos que celebre con la Secretaría, dependencias, órganos y entidades, de acuerdo a las consideraciones siguientes:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -577,11 +595,11 @@ Contra la resolución que contenga el fallo no procederá recurso alguno, durant
 
 La Secretaría, dependencias, órganos y entidades podrán adjudicar las adquisiciones en favor de proveedores estatales, cuando el precio respecto de la propuesta solvente de un Proveedor que solo tenga sucursales en el Estado, se encuentren en un rango de diferencia no mayor a un diez por ciento respecto a la de un Proveedor inscrito en el Padrón y con domicilio fiscal en el Estado, con la finalidad de fortalecer los sectores prioritarios y estratégicos del Estado y en el municipio de que se trate, siempre y cuando se cumplan con los criterios señalados en el artículo 21 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 35.
 
-Las dependencias, órganos y entidades, previa autorización del Comité de compras, podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedores las partidas de bienes, servicios o arrendamientos, cuando así lo hayan establecido en el procedimiento que corresponda de los señalados en el artículo 22 de esta Ley. En el caso de la Secretaría se le exceptúa de obtener la autorización del Comité de Compras.
+Las dependencias, órganos y entidades, previa autorización del Comité de Compras, podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedores las partidas de bienes, servicios o arrendamientos, cuando así lo hayan establecido en el procedimiento que corresponda de los señalados en el artículo 22 de esta Ley. En el caso de la Secretaría se le exceptúa de obtener la autorización del Comité de Compras.
 
 Las propuestas que gocen de este beneficio serán en todo caso, aquellas que se encuentren en un rango del cinco por ciento respecto de la propuesta solvente más baja, misma que servirá como precio base de los bienes o servicios que se adjudiquen.
 
@@ -637,17 +655,19 @@ III. Cuando sea necesario salvaguardar los intereses del Estado; y
 
 IV. CUANDO SE TRATE DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS, OBRAS Y/O ACCIONES QUE DETONEN EL EMPLEO, MEJOREN LA INFRAESTRUCTURA E IMPULSEN EL DESARROLLO ECONÓMICO Y/O SOCIAL DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 39.
 
-En la modalidad de adjudicación directa, las dependencias, órganos y entidades, mediante solicitud debidamente fundada y motivada, que autorice el Comité de compras, podrán, bajo su responsabilidad, fincar pedidos o celebrar contratos de manera directa sin llevar a cabo las licitaciones que se establecen en los artículos 21 y 22, fracciones I a III, de este ordenamiento, en los casos de excepción que la propia Ley señala y los supuestos que a continuación se indican:
+En la modalidad de adjudicación directa, las dependencias, órganos y entidades, mediante solicitud debidamente fundada y motivada, que autorice el Comité de Compras, podrán, bajo su responsabilidad, fincar pedidos o celebrar contratos de manera directa sin llevar a cabo las licitaciones que se establecen en los artículos 21 y 22, fracciones I a III, de este ordenamiento, en los casos de excepción que la propia Ley señala y los supuestos que a continuación se indican:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 I. Cuando se trate de adquisiciones de bienes perecederos, granos, productos alimenticios básicos o semiprocesados y semovientes;
 
-II. Por casos fortuitos o de fuerza mayor, o bien cuando existan circunstancias que puedan provocar trastornos graves, perdidas o costos adicionales importantes a la Dependencia, Órgano o Entidad;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+II. Por casos fortuitos o de fuerza mayor, o bien cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes a la Dependencia, Órgano o Entidad;
 
 III. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado como consecuencia de desastres producidos por fenómenos naturales o meteorológicos;
 
@@ -699,11 +719,11 @@ XIV.- EN LOS CASOS Y POR EL MONTO QUE DETERMINE EL COMITÉ DE COMPRAS CON LA FIN
 
 Para los casos previstos en las fracciones anteriores, se contratará a la o a las personas cuyas actividades comerciales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse, cuenten con la capacidad de respuesta inmediata y dispongan de los recursos necesarios.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 39 Bis.
 
-De manera excepcional, procede la adjudicación directa, sin la autorización del Comité de compras, para enfrentar de inmediato casos evidentes de extrema urgencia cuando esté en peligro la vida, seguridad e integridad de las personas, derivado de casos fortuitos o de fuerza mayor y en los que no sea posible obtener bienes o servicios mediante el procedimiento de licitación en cualquiera de sus modalidades en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto la adjudicación deberá limitarse a lo estrictamente necesario y darse aviso en cuanto sea posible, al Comité de Compras y a la Contraloría, para los efectos procedentes.
+De manera excepcional, procede la adjudicación directa, sin la autorización del Comité de Compras, para enfrentar de inmediato casos evidentes de extrema urgencia cuando esté en peligro la vida, seguridad e integridad de las personas, derivado de casos fortuitos o de fuerza mayor y en los que no sea posible obtener bienes o servicios mediante el procedimiento de licitación en cualquiera de sus modalidades en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto la adjudicación deberá limitarse a lo estrictamente necesario y darse aviso en cuanto sea posible, al Comité de Compras y a la Función Pública, para los efectos procedentes.
 
 ###### Artículo 40.
 
@@ -841,7 +861,9 @@ II. Las que se encuentren en situación de mora, por causas imputables a ellos m
 
 III. Aquellos proveedores a quienes, por causas imputables a ellos mismos, la Secretaría, Dependencia, Órgano o Entidad les hubiere rescindido administrativamente uno o más contratos, dentro de un lapso de un año calendario, contados a partir de la notificación de la primera rescisión. Dicho impedimento prevalecerá ante la propia Convocante durante dos años calendario, contados a partir de la notificación de la rescisión del segundo Contrato;
 
-IV. Las que se encuentren inhabilitadas o suspendidas por resolución de la Contraloría;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+IV. Las que se encuentren inhabilitadas o suspendidas por resolución de la Función Pública;
 
 V. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
@@ -919,65 +941,71 @@ VI. Destino y baja.
 
 En el caso de bienes que se consideren activos fijo, la documentación soporte de la adquisición deberá conservarse durante el tiempo de vida del bien correspondiente.
 
-La Contraloría realizará la revisión y vigilancia del cumplimiento de las disposiciones del presente Título.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+La Función Pública realizará la revisión y vigilancia del cumplimiento de las disposiciones del presente Título.
 
 ## TÍTULO CUARTO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 58.
 
-La Secretaría, dependencias, órganos y entidades deberán remitir a la Contraloría en la forma y términos que ésta señale, la información relativa a los pedidos y contratos que regule esta Ley.
+La Secretaría, dependencias, órganos y entidades deberán remitir a la Función Pública en la forma y términos que ésta señale, la información relativa a los pedidos y contratos que regule esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos del párrafo anterior, la Secretaría, Dependencias, Órganos y Entidades conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta Ley, por un término no menor de cinco años contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 59.
 
-La Secretaría controlará los procedimientos, actos, pedidos y contratos que en materia de adquisiciones, arrendamientos y prestación de servicios se lleven a cabo. Para tal efecto, establecerá los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el Titular del Poder Ejecutivo Estatal a través de la Contraloría.
+La Secretaría controlará los procedimientos, actos, pedidos y contratos que en materia de adquisiciones, arrendamientos y prestación de servicios se lleven a cabo. Para tal efecto, establecerá los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el Titular del Poder Ejecutivo Estatal a través de la Función Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 60.
 
-La Contraloría, en el ejercicio de sus atribuciones, instrumentará las medidas necesarias para vigilar el cumplimiento de las obligaciones de los proveedores, solicitándoles la información relacionada con las operaciones que realicen.
+La Función Pública, en el ejercicio de sus atribuciones, instrumentará las medidas necesarias para vigilar el cumplimiento de las obligaciones de los proveedores, solicitándoles la información relacionada con las operaciones que realicen.
 
 Asimismo, identificará a aquellos que hayan incurrido en algún incumplimiento respecto de las obligaciones contraídas con las dependencias, entidades u órganos de la Administración Pública Estatal, para evitar la contratación con éstos, en tanto prevalece su incumplimiento; de igual manera, establecerá un registro de proveedores que permita verificar que éstos no se encuentren impedidos por alguna disposición emitida por las dependencias normativas, tanto federales como estatales, protegiendo los intereses del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 61.
 
-La Contraloría podrá realizar las visitas e inspecciones que estime pertinentes a la Secretaría, dependencias, órganos y entidades por la celebración de los actos regulados por esta Ley, así como solicitar de los servidores públicos de las mismas y de los proveedores, en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y prestación de servicios.
+La Función Pública podrá realizar las visitas e inspecciones que estime pertinentes a la Secretaría, dependencias, órganos y entidades por la celebración de los actos regulados por esta Ley, así como solicitar de los servidores públicos de las mismas y de los proveedores, en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y prestación de servicios.
 
-La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y prestación de servicios se realicen conforme a lo establecido por la presente Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
+La Función Pública, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y prestación de servicios se realicen conforme a lo establecido por la presente Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+Para los efectos de lo dispuesto en este artículo, la Secretaría, dependencias, órganos y entidades proporcionarán todas las facilidades necesarias, a fin de que la Función Pública pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios.
 
-Para los efectos de lo dispuesto en este artículo, la Secretaría, dependencias, órganos y entidades proporcionarán todas las facilidades necesarias, a fin de que la Contraloría pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 62.
 
-La verificación de la calidad de las especificaciones de los bienes muebles, se hará en los laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la Secretaría, dependencias, órganos y entidades o cualquier tercero con capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La verificación de la calidad de las especificaciones de los bienes muebles, se hará en los laboratorios que determine la Función Pública y que podrán ser aquellos con los que cuente la Secretaría, dependencias, órganos y entidades o cualquier tercero con capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las verificaciones se hará constar en un dictamen que será firmado por quienes lo hayan efectuado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 63.
 
-La Secretaría, en coordinación con la Contraloría, determinará la información que deberán enviarle las dependencias, órganos y entidades, respecto de los bienes y servicios que adquieran, con el fin de ejercer sus atribuciones y orientar las políticas de precios y adquisiciones de la Administración Pública Estatal.
+La Secretaría, en coordinación con la Función Pública, determinará la información que deberán enviarle las dependencias, órganos y entidades, respecto de los bienes y servicios que adquieran, con el fin de ejercer sus atribuciones y orientar las políticas de precios y adquisiciones de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Los proveedores de estos bienes y servicios deberán informar con la debida oportunidad a las dependencias, órganos y entidades, así como a la Secretaría, los precios vigentes para la venta de sus productos y servicios, en la forma y términos que establezca dicha Dependencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 64.
 
-Con base en el análisis a que se refiere el artículo anterior, la Contraloría dictaminará las circunstancias en que se hubiere celebrado la operación en cuanto al tipo de bienes, precio, características, especificaciones, tiempo de entrega o suministro, calidad y demás condiciones, y hará las observaciones que proceda a la Secretaría y al proveedor de que se trate, a efecto de que se apliquen las medidas correctivas que se requieran.
+Con base en el análisis a que se refiere el artículo anterior, la Función Pública dictaminará las circunstancias en que se hubiere celebrado la operación en cuanto al tipo de bienes, precio, características, especificaciones, tiempo de entrega o suministro, calidad y demás condiciones, y hará las observaciones que proceda a la Secretaría y al proveedor de que se trate, a efecto de que se apliquen las medidas correctivas que se requieran.
 
 Las observaciones a que se refiere este artículo tendrán el carácter de obligatorias.
 
@@ -985,15 +1013,17 @@ Las observaciones a que se refiere este artículo tendrán el carácter de oblig
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
 ###### Artículo 65.
 
-La inobservancia de la Ley por parte de los servidores públicos queda sujeta a lo que al efecto dispone la Ley de Responsabilidades de los Servidores Públicos.
+La inobservancia de la Ley por parte de los servidores públicos queda sujeta a lo que al efecto dispone la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 66.
 
-La Contraloría sancionará con multa equivalente a la cantidad de cien hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización a los licitantes o proveedores que cometan las siguientes infracciones:
+La Función Pública sancionará con multa equivalente a la cantidad de cien hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización a los licitantes o proveedores que cometan las siguientes infracciones:
 
 I. El Proveedor que injustificadamente y por causas imputables al mismo, no formalice el Contrato o pedido adjudicado por la Convocante;
 
@@ -1007,25 +1037,25 @@ V. El Licitante o Proveedor que haya actuado con dolo o mala fe al interponer un
 
 VI. Las infracciones en cualquier forma a las disposiciones de la Ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-Sin perjuicio de lo previsto en este artículo, la Contraloría hará del conocimiento a la Secretaría, dependencias, órganos y entidades, las sanciones que hubiere aplicado en los supuestos anteriores.
+Sin perjuicio de lo previsto en este artículo, la Función Pública hará del conocimiento a la Secretaría, dependencias, órganos y entidades, las sanciones que hubiere aplicado en los supuestos anteriores.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 67.
 
-La Contraloría, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en los procedimientos de contratación o celebrar pedidos o contratos regulados por esta Ley, al Licitante o Proveedor que se ubique en alguno de los supuestos precisados en el artículo anterior.
+La Función Pública, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en los procedimientos de contratación o celebrar pedidos o contratos regulados por esta Ley, al Licitante o Proveedor que se ubique en alguno de los supuestos precisados en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+La inhabilitación que se imponga no será menor de cinco meses ni mayor de dos años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Función Pública haga del conocimiento al Licitante o Proveedor, la resolución emitida; la cual deberá ser notificada de forma inmediata a la Secretaría, dependencias, órganos y entidades, y publicada en el Periódico Oficial del Estado.
 
-La inhabilitación que se imponga no será menor de cinco meses ni mayor de dos años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría haga del conocimiento al Licitante o Proveedor, la resolución emitida; la cual deberá ser notificada de forma inmediata a la Secretaría, dependencias, órganos y entidades, y publicada en el Periódico Oficial del Estado.
+La Secretaría, dependencias, órganos y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción o violación a las disposiciones de la Ley, remitirán a la Función Pública la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-La Secretaría, dependencias, órganos y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción o violación a las disposiciones de la Ley, remitirán a la Contraloría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 68.
 
-La Contraloría impondrá las sanciones, considerando:
+La Función Pública impondrá las sanciones, considerando:
 
 I. Los daños o perjuicios que se hubieren producido o puedan producirse;
 
@@ -1035,11 +1065,15 @@ III. La gravedad de la infracción; y
 
 IV. Las condiciones particulares del infractor.
 
-La Contraloría impondrá las sanciones administrativas de que trata este artículo, con base en las disposiciones relativas de la Ley.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+La Función Pública impondrá las sanciones administrativas de que trata este artículo, con base en las disposiciones relativas de la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 69.
 
-La Contraloría aplicará a los servidores públicos que incurran en responsabilidad, las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos.
+La Función Pública aplicará a los servidores públicos que incurran en responsabilidad, las sanciones que procedan, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 70.
 
@@ -1049,9 +1083,11 @@ Las sanciones y responsabilidades a que se refiere la Ley, serán independientes
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
+
 ###### Artículo 71.
 
-Los licitantes y proveedores que participen en las licitaciones, podrán inconformarse por escrito ante la Contraloría, en relación a cualquier etapa o fase de proceso en que participen antes del fallo de la adjudicación y por actos posteriores al fallo que impliquen la imposición de condiciones diferentes a la de la convocatoria y de las bases, dentro de un plazo de diez días hábiles siguientes al que tenga conocimiento.
+Los licitantes y proveedores que participen en las licitaciones, podrán inconformarse por escrito ante la Función Pública, en relación a cualquier etapa o fase de proceso en que participen antes del fallo de la adjudicación y por actos posteriores al fallo que impliquen la imposición de condiciones diferentes a la de la convocatoria y de las bases, dentro de un plazo de diez días hábiles siguientes al que tenga conocimiento.
 
 Las inconformidades que se interpongan, se presentarán por escrito y bajo protesta de decir verdad, debiéndose indicar los hechos que dan motivo a la inconformidad, los agravios que se le causan, acompañándose las pruebas que acrediten su pretensión, sujetándose a las siguientes reglas:
 
@@ -1059,17 +1095,23 @@ I. En la inconformidad se admitirán toda clase de pruebas, excepto la testimoni
 
 II. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos manifestados, sin el cumplimiento de este requisito serán desechadas;
 
-III. La Contraloría acordará lo que proceda sobre la admisión de la inconformidad y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. El desahogo de las mismas se hará dentro del plazo de diez días hábiles a partir de su aceptación, el que será improrrogable;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+III. La Función Pública acordará lo que proceda sobre la admisión de la inconformidad y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. El desahogo de las mismas se hará dentro del plazo de diez días hábiles a partir de su aceptación, el que será improrrogable;
 
 IV. Se tendrán por no ofrecidas las pruebas de documentos, si éstas no se acompañan al escrito en el que se interponga la inconformidad; en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado el acto recurrido;
 
-V. La Contraloría, según el caso, podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto reclamado; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+V. La Función Pública, según el caso, podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto reclamado; y
 
 VI. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo establecido en la fracción III del presente artículo, la prueba será declarada desierta.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
 ###### Artículo 72.
 
-La Contraloría, en atención a las inconformidades a que se refiere el artículo anterior, substanciará el procedimiento y resolverá en un plazo que no excederá de cuarenta días hábiles contados a partir de la fecha de su presentación.
+La Función Pública, en atención a las inconformidades a que se refiere el artículo anterior, substanciará el procedimiento y resolverá en un plazo que no excederá de cuarenta días hábiles contados a partir de la fecha de su presentación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1081,9 +1123,13 @@ I. Cuando se advierta que existan o pudieran existir las situaciones a que se re
 
 II. Cuando con ella no se siga perjuicio al interés social y no se contravengan disposiciones de orden público, siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la Dependencia, Órgano o Entidad de que se trate.
 
-La suspensión procederá a instancia de parte y previa garantía del interés del Estado, la cual corresponderá determinar a la Contraloría en los términos del Reglamento de la Ley.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
-Sin perjuicio de lo previsto en este artículo, la Contraloría podrá iniciar las investigaciones correspondientes en los procedimientos de licitaciones que realicen las dependencias, órganos y entidades, cuando sea necesario para proteger el interés del Estado.
+La suspensión procederá a instancia de parte y previa garantía del interés del Estado, la cual corresponderá determinar a la Función Pública en los términos del Reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
+Sin perjuicio de lo previsto en este artículo, la Función Pública podrá iniciar las investigaciones correspondientes en los procedimientos de licitaciones que realicen las dependencias, órganos y entidades, cuando sea necesario para proteger el interés del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1091,13 +1137,17 @@ Sin perjuicio de lo previsto en este artículo, la Contraloría podrá iniciar l
 
 Tomada la resolución a que se refiere el artículo 71 de la Ley, y sin perjuicio de la responsabilidad que proceda respecto de los servidores que hayan intervenido, la Secretaría, dependencia Órgano o entidad deberá proceder en los términos de los artículos 34 y 39, de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
+
 ###### Artículo 75.
 
-En contra de la resolución de inconformidad que dicte la Contraloría, se podrá interponer el recurso de revisión que establece la Ley, o bien, impugnarla ante las instancias administrativas competentes.
+En contra de la resolución de inconformidad que dicte la Función Pública, se podrá interponer el recurso de revisión que establece la Ley, o bien, impugnarla ante las instancias administrativas competentes.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 76.
 
-En contra de las resoluciones definitivas que dicte la Contraloría en las materias de la presente Ley, el interesado podrá interponer ante la Contraloría, recurso de revisión dentro del término de diez días hábiles, contados a partir del día siguiente al de la notificación.
+En contra de las resoluciones definitivas que dicte la Función Pública en las materias de la presente Ley, el interesado podrá interponer ante la Función Pública, recurso de revisión dentro del término de diez días hábiles, contados a partir del día siguiente al de la notificación.
 
 ###### Artículo 77.
 
@@ -1107,11 +1157,15 @@ I. Se interpondrá por el recurrente mediante escrito debidamente firmado en el 
 
 II. Deberá acompañar el documento en que se acredite la personalidad, así como las pruebas que se proponga rendir, anexando copia de la resolución impugnada y la constancia de la notificación de esta última, excepto si la notificación se hizo por correo; y
 
-III. La Contraloría dictará resolución en un término que no excederá de veinte días hábiles contados a partir de la admisión del recurso.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+
+III. La Función Pública dictará resolución en un término que no excederá de veinte días hábiles contados a partir de la admisión del recurso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
 ###### Artículo 78.
 
-Transcurridos los plazos establecidos en este Título, precluye para los interesados el derecho de inconformarse y a presentar el recurso de revisión, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de las leyes correspondientes.
+Transcurridos los plazos establecidos en este Título, precluye para los interesados el derecho de inconformarse y a presentar el recurso de revisión, sin perjuicio de que la Función Pública pueda actuar en cualquier tiempo en términos de las leyes correspondientes.
 
 La falta de acreditamiento de la personalidad del promovente será causa de desechamiento de la inconformidad o del recurso de revisión.
 
@@ -1312,3 +1366,19 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Re
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 080 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES I, II, III, VIII, XX, XXIV Y XXV; 5; 11, PÁRRAFO SEGUNDO; 17, PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO; 18; 23, PÁRRAFO TERCERO; 26, PÁRRAFO CUARTO; 27, FRACCIÓN XXIII; 31, FRACCIÓN I, Y PÁRRAFO SEGUNDO; 32, PÁRRAFO PRIMERO; 35, PÁRRAFO PRIMERO; 39, PÁRRAFO PRIMERO, Y LA FRACCIÓN II; 39 BIS; 51, FRACCIÓN IV; 57, PÁRRAFO TERCERO; 58, PÁRRAFO PRIMERO; 59; 60, PÁRRAFO PRIMERO; 61; 62, PÁRRAFO PRIMERO; 63, PÁRRAFO PRIMERO; 64, PÁRRAFO PRIMERO; 65; 66, PÁRRAFOS PRIMERO Y SEGUNDO; 67; 68, PÁRRAFOS PRIMERO Y SEGUNDO; 69; 71, PÁRRAFO PRIMERO, Y FRACCIONES III Y V; 72; 73, PÁRRAFOS SEGUNDO Y TERCERO; 75; 76; 77, FRACCIÓN III; Y, 78, PÁRRAFO PRIMERO; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) al presente Decreto.
+
+TERCERO. En un plazo que no exceda a los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo realizará las adecuaciones conducentes al Reglamento de la Ley que se reforma.
+
+CUARTO. El Comité de Compras realizará las modificaciones que considere necesarias a su
+
+Reglamento, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO. En lo que se realizan las adecuaciones mencionadas en los artículos Transitorios Tercero y Cuarto del presente Decreto, todas las menciones que se refieren a la Secretaría Técnica, se entenderán hechas a la Coordinación General de Asuntos Jurídicos.
