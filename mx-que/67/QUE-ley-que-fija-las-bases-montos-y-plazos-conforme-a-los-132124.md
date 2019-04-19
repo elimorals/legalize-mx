@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-132124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-19"
-last_updated: "2018-12-19"
+last_updated: "2019-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRAN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERETARO, PARA EL EJERCICIO FISCAL 2019
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL UNO DE ENERO DE DOS MIL DIECINUEVE.]</small>
-
 LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 19 de diciembre de 2018.
 
@@ -63,9 +61,11 @@ Así pues, conforme a los artículos 5 y 6 de la Ley de Coordinación Fiscal Est
 
 Para determinar el coeficiente de distribución se debe considerar contar, para la determinación de las variables contenidas en la fórmula, con la siguiente información: el número de habitantes de cada municipio y el total por el Estado en base a la última información oficial que se emita; los ingresos propios por municipio y la suma total por los 18 municipios, conforme a los datos con que cuenta la Entidad Superior de Fiscalización del Estado de Querétaro; la superficie territorial de cada municipio y el total por el Estado, conforme a los últimos datos con que cuente el Instituto Nacional de Estadística y Geografía y la Zona para los municipios del Estado, la que se determina conforme a lo que establece el artículo 12 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
 
-La Zona que a cada municipio corresponde se calcula aplicando la fórmula, cuya principal variable es la suma de Componentes por cada Municipio (CM).
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2019)</small>
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 19 DE DICIEMBRE DE 2018, PÁGINA 42809.]</small>
+La Zona que a cada municipio corresponde se calcula aplicando la siguiente fórmula, cuya principal variable es la suma de Componente por cada Municipio (CM):
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 19 DE ABRIL DE 2019, PÁGINA 8891.]</small>
 
 La determinación de la suma de Componentes por cada Municipio resulta de calcular para cada Municipio los componentes municipales relativos a: el número de Habitantes, la superficie territorial, el Nivel de Marginación y la Región Económica. La determinación de estos componentes se divide para su cálculo, en cuatro partes:
 
@@ -73,7 +73,9 @@ El Componente Municipal de Habitantes (CMH) representa el 20% de la Zonificació
 
 El Componente Municipal de Territorio (CMT) representa el 10% de la Zonificación, su coeficiente resulta de aplicar el 10% al número de kilómetros cuadrado (sic) del territorio de cada municipio y el resultado dividirlo entre el total de extensión territorial del Estado, considerando la información contenida en el último informe oficial emitido por el Instituto Nacional de Estadística y Geografía.
 
-El Componente Municipal de Marginación (CMM1) representa el 30% de la Zonificación, su coeficiente resulta de aplicar el 30% al número asignado por nivel de marginación de cada municipio y el resultado dividirlo entre el entero que resulta de la suma de los números de los niveles de marginación de los 18 municipios del Estado, con base en la información emitida por el Consejo Nacional de Población para cada municipio.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2019)</small>
+
+El Componente Municipal de Marginación (CMM1) representa el 30% de la Zonificación, su coeficiente resulta de aplicar el 30% al número asignado por nivel de marginación de cada municipio y el resultado dividirlo entre el entero que resulta de la suma de los números de los niveles de marginación de los 18 municipios del Estado, con base en la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para cada municipio.
 
 El Componente Municipal de Región Económica (CMR) representa el 40% de la Zonificación, su coeficiente resulta de aplicar el 40% al número asignado que por región económica de cada municipio y el resultado dividirlo entre el total que resulta de la suma de los números asignados a los municipios del Estado, considerando la información emitida por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro.
 
@@ -330,3 +332,15 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2019”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para realizar las adecuaciones presupuestales que resulten necesarias a fin de dar cumplimiento a lo dispuesto en esta Ley, así como para efectuar los ajustes que se requieran a efecto de que la distribución del Fondo de Fomento Municipal y las participaciones federales correspondientes a 2019 entre los municipios del Estado, se realice con arreglo a lo previsto en la presente Ley.
