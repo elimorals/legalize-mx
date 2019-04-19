@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-65023"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2014-12-20"
+last_updated: "2019-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -65,15 +65,17 @@ A los municipios del Estado, les corresponderá el porcentaje que anualmente det
 
 Asimismo, los municipios del Estado, recibirán el cien por ciento del Fondo de Fomento Municipal, contenido en la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2019)</small>
+
 ###### Artículo 5.
 
-El Fondo de Fomento Municipal y las participaciones a que se refiere el primer párrafo del artículo anterior, se determinará de la siguiente manera:
+El Fondo de Fomento Municipal y las Participaciones a que se refiere el artículo anterior, se determinarán de la siguiente manera:
 
-I. El cuarenta por ciento, de acuerdo a la relación porcentual que represente el número de habitantes de cada municipio, respecto del número de habitantes en el Estado. Al inicio de cada ejercicio fiscal, el número de habitantes se tomará de la última información oficial que emita el Consejo Nacional de Población para el año en que se aplicarán los ingresos (RPM);
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2019)</small>
+
+I. El cuarenta por ciento, de acuerdo a la relación porcentual que represente el número de habitantes de cada municipio, respecto del número de habitantes en el Estado. Al inicio de cada ejercicio fiscal, el número de habitantes se tomará de la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad (RPM);
 
 II. El treinta por ciento, de acuerdo a la relación porcentual que representen los ingresos propios por el municipio, del uno de octubre del año anterior al treinta de septiembre del año corriente, conforme a los datos con que cuenta la Entidad Superior de Fiscalización del Estado, en relación al total de los percibidos por todos los municipios (RIM);
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -120,6 +122,36 @@ El Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y F
 ###### Artículo 11.
 
 El Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Estado, deberá proporcionar, por escrito, a cada uno de los municipios del Estado, dentro del mes de noviembre de cada año, el monto anual estimado de sus participaciones para el año siguiente.
+
+###### Artículo 12.
+
+Para los efectos de las leyes de ingresos, fiscales y revisión de las cuentas públicas de los ayuntamientos, se aplicará la zonificación para los municipios del Estado que resulte de aplicar el procedimiento y fórmula que representan una clasificación inversamente proporcional, de la siguiente manera:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2019)</small>
+
+I. El veinte por ciento del número de habitantes de cada municipio dividido entre el total en el Estado, que dará por ende el Componente Municipal de Habitantes (CMH), con base en la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad.
+
+CMH = [(población del municipio) (0.20)] / Población del Estado;
+
+II. El diez por ciento del total de kilómetros cuadrados del territorio de cada municipio, dividido entre el total de extensión territorial del Estado, que por ende dará el Componente Municipal de Territorio (CMT), con base en los datos que indique el último informe oficial emitido por el Instituto Nacional de Estadística y Geografía.
+
+CMT = [(Kilómetro cuadrado del municipio) (0.10)] / Total de extensión territorial del Estado;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2019)</small>
+
+III. El treinta por ciento del número asignado que por nivel de marginación establece el Instituto Nacional de Estadística y Geografía para cada municipio, dividido entre el resultado de la suma de los números de los niveles de marginación de los dieciocho municipios, que dará por ende el Componente Municipal de Marginación (CMM1), asignando los números a cada municipio de la siguiente manera: uno, para los que establece el Instituto Nacional de Estadística y Geografía con "Muy Alta marginación"; dos, para los que califican como "Alta marginación"; tres, para los que tienen "Media marginación"; cuatro, para los que establece con "Baja marginación" y cinco, para los que tiene "Muy Baja marginación".
+
+CMM1 = [(Componente de marginación del municipio) (0.30)] / Suma de los números de los niveles de marginación de los dieciocho municipios;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2019)</small>
+
+IV. El cuarenta por ciento del número asignado que por región económica establezca la Secretaría de Desarrollo Sustentable del Estado, basado en los datos estadísticos que proporcione el Instituto Nacional de Estadística y Geografía, dividido entre la suma de los números asignados a los dieciocho municipios, que dará por ende el Componente Municipal de Región Económica (CMR); asignando los números de la siguiente manera; 1, para los municipios incluidos en la "Región Sierra Gorda", 2, para los incluidos en la "Región Semidesierto", 3, para los incluidos en la "Región Sur" y 4, para los incluidos en la "Región Centro" (CMR).
+
+CMR = [(Región Económica del municipio) (0.40)] / Suma de los números asignados a los municipios.
+
+La zona que a cada municipio corresponde se considerará con seis decimales, para tal efecto el sexto decimal será redondeado, en su caso, como sigue: si el séptimo decimal es igual o mayor a cinco, el sexto decimal será incrementado al número inmediato superior y, si el séptimo decimal es menor a cinco, el sexto decimal permanecerá sin cambio.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, PÁGINA 8592.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -582,3 +614,13 @@ Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y t
 Artículo Quinto. Los asuntos que a la entrada en vigor de la presente Ley se encuentren en trámite, se sustanciarán conforme a las disposiciones del Código Fiscal del Estado de Querétaro, vigentes al momento de su inicio.
 
 Artículo Sexto. Con respecto a la reforma del artículo 142 de la Ley de Hacienda del Estado de Querétaro, las leyes de ingresos de los municipios podrán establecer los derechos correspondientes al traslado del Oficial del Registro Civil, cuando a petición de los interesados, el registro de nacimiento se realice en el domicilio del solicitante, en términos de lo dispuesto por el artículo 120 de la Ley de Hacienda de los Municipios del Estado de Querétaro.
+
+P.O. 19 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2019".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para realizar las adecuaciones presupuestales que resulten necesarias a fin de dar cumplimiento a lo dispuesto en esta Ley, así como para efectuar los ajustes que se requieran a efecto de que la distribución del Fondo de Fomento Municipal y las participaciones federales correspondientes a 2019 entre los municipios del Estado, se realice con arreglo a lo previsto en la presente Ley.
