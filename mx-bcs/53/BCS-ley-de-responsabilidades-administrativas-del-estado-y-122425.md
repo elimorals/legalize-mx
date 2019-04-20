@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2018-12-12"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -1881,9 +1881,11 @@ B.O. 12 DE DICIEMBRE DE 2018.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
 
+> <small>(REFORMADO B.O. 20 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 120 días naturales contados a partir de la vigencia del presente decreto.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1904,3 +1906,11 @@ La Auditoría Superior del Estado de Baja California Sur deberá realizar las mo
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+B.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2598 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 2573, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
