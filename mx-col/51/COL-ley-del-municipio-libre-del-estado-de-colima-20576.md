@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2019-04-06"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -831,9 +831,9 @@ c) Suscribir a nombre del ayuntamiento y en los casos que lo ameriten con autori
 
 d) Conducir las relaciones políticas del ayuntamiento con los poderes federales, estatales y con otros municipios y representar a la institución oficial en todos los actos oficiales;
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
-e) Proponer al Cabildo los nombramientos del secretario, tesorero, oficial mayor, contralor municipal, juez cívico y al titular del área de seguridad pública; así como removerlos en caso justificado;
+e) Proponer al Cabildo los nombramientos del Secretario, Tesorero, Oficial Mayor, Contralor Municipal, Juez Cívico y al titular del área de Seguridad Pública; así como removerlos en caso justificado, fundando y motivando la decisión;
 
 f) Solicitar la publicación en el periódico oficial de reglamentos y demás disposiciones de observancia general concernientes al municipio;
 
@@ -2373,8 +2373,16 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 6 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 49 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 34 BIS, 35 FRACCIÓN IX Y TERCER PÁRRAFO, 36 SEGUNDO Y TERCER PÁRRAFOS, 37 PÁRRAFO PRIMERO Y EL AHORA TERCER PÁRRAFO, 38 SEGUNDO PÁRRAFO, 55, 135 BIS PRIMERO, SEGUNDO, CUARTO Y QUINTO PÁRRAFOS, 135 TER PRIMER PÁRRAFO Y 135 QUÁTER FRACCIÓN III, ASÍ COMO ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 37, HACIENDO EL CORRIMIENTO RESPECTIVO DE LOS PÁRRAFOS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 48, Y SE REUBICA EL TÍTULO CUARTO Y SU CAPÍTULO I, DEL LIBRO PRIMERO DENOMINADO DE LAS PERSONAS, PARA QUE INICIE A PARTIR DEL ARTÍCULO 34 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ASÍ MISMO SE APRUEBA REFORMAR EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 47, DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 49 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 34 BIS, 35 FRACCIÓN IX Y TERCER PÁRRAFO, 36 SEGUNDO Y TERCER PÁRRAFOS, 37 PÁRRAFO PRIMERO Y EL AHORA TERCER PÁRRAFO, 38 SEGUNDO PÁRRAFO, 55, 135 BIS PRIMERO, SEGUNDO, CUARTO Y QUINTO PÁRRAFOS, 135 TER PRIMER PÁRRAFO Y 135 QUÁTER FRACCIÓN III, ASÍ COMO ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 37, HACIENDO EL CORRIMIENTO RESPECTIVO DE LOS PÁRRAFOS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 48, Y SE REUBICA EL TÍTULO CUARTO Y SU CAPÍTULO I, DEL LIBRO PRIMERO DENOMINADO DE LAS PERSONAS, PARA QUE INICIE A PARTIR DEL ARTÍCULO 34 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ASÍ MISMO SE APRUEBA REFORMAR EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 47, DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que proceda con las actualizaciones reglamentarias derivadas de su vigencia.
+
+P.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 64 POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 47 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos de la Entidad deberán adecuar sus reglamento (sic) internos, de conformidad con lo que en el mismo se dispone.
