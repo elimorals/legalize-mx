@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2018-12-31"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -577,9 +577,11 @@ B.O. 12 DE DICIEMBRE DE 2018.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 120 días naturales contados a partir de la vigencia del presente decreto.
 
 ###### ARTÍCULO TERCERO.
 
@@ -604,3 +606,11 @@ B.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2589 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el siguiente (sic) al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2598 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 2573, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
