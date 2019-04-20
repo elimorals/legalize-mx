@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2018-11-10"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -815,15 +815,21 @@ III. Propicien la salvaguarda de las culturas regionales; y
 
 IV. Estimulen la formación, educación y perfeccionamiento de los integrantes de la comunidad cultural y faciliten su proyección en el ámbito local, nacional y regional.
 
-### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN CULTURAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN Y SALVAGUARDA DE LOS CONOCIMIENTOS, CULTURA E IDENTIDAD DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
 ###### Artículo 57.
 
-El Sistema de Información Cultural es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales del Estado.
+El Sistema de Información y salvaguarda de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales, así como de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
 ###### Artículo 58.
 
-Las dependencias y entidades de la Administración Pública Estatal proporcionarán la información necesaria para la conformación y actualización permanente del Sistema, en coordinación con la federación, entidades federativas, municipios del Estado u organismos privados del sector cultural.
+Las dependencias y entidades de la Administración Pública Estatal proporcionarán la información necesaria para la conformación y actualización permanente del Sistema, en coordinación con la federación, entidades federativas, municipios del Estado, organismos de los sectores sociales y privados del sector cultural municipio donde se registre población indígena y afromexicana.
 
 T R A N S I T O R I O S:
 
@@ -895,8 +901,16 @@ P.O. 10 DE AGOSTO DE 2017.
 
 P.O. 10 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 596.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Quedan derogadas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
