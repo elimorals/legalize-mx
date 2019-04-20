@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2017-12-26"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -61,7 +61,9 @@ I. Atender las bases generales de coordinación de las facultades concurrentes e
 
 II. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las Leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos y productos turísticos, en apego al marco jurídico vigente;
 
-III. Dictar bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los Municipios, a corto, mediano y largo plazo, las bases para la política, planeación y programación de la actividad turística en Oaxaca;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+
+III. Dictar bajo criterios de beneficio social, perspectiva de género, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los Municipios, a corto, mediano y largo plazo, las bases para la política, planeación y programación de actividad turística en Oaxaca;
 
 IV. Establecer los lineamientos legales por los cuales se regirá la actividad turística en el Estado de Oaxaca;
 
@@ -257,7 +259,11 @@ XXIII. Implementar y mantener actualizado el Catálogo Turístico Estatal;
 
 XXIV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
 
-XXV. Las demás previstas en éste y otros ordenamientos
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2019)</small>
+
+XXV. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros, y;
+
+XXVI. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -653,7 +659,9 @@ VII. Expedir, factura detallada, nota de consumo o documento fiscal que ampare l
 
 VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las Leyes respectivas, en coordinación con la Secretaría;
 
-IX. Capacitar permanentemente a sus empleados en derechos humanos y no discriminación;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+
+IX. capacitar permanentemente a sus empleados con perspectiva de género, en derechos humanos y no discriminación;
 
 X. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
 
@@ -685,7 +693,11 @@ XXIII. Difundir información de manera ética, profesional y responsable por cua
 
 XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el turista; y
 
-XXV. Las demás que establezca la legislación aplicable en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2019)</small>
+
+XXV. Capacitar a sus empleados para prestar primeros auxilios, y;
+
+XXVI. Las demás que establezca la legislación aplicable en la materia.
 
 ### CAPÍTULO II. DE LOS TURISTAS
 
@@ -755,9 +767,11 @@ La Secretaría participará en la elaboración de programas de profesionalizaci�
 
 ### CAPÍTULO SEGUNDO. DE LOS TRABAJADORES TURÍSTICOS
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
+
 ###### Artículo 60.
 
-La Secretaría, en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Oaxaca y con las demás áreas competentes, establecerá programas permanentes de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico y que tenga como objeto el mejoramiento de la calidad de los servicios. A su vez, serán incluidos en los programas de capacitación, acciones coordinadas para fomentar una cultura de respeto a los derechos humanos, no discriminación y protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en el Turismo.
+La Secretaría, en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Oaxaca, y con las demás áreas competentes, establecerá programas permanentes de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico y que tenga por objeto el mejoramiento de la calidad de los servicios. A su vez, serán incluidas en los programas de capacitación, acciones coordinadas con perspectiva de género que tengan por objeto privilegiar la igualdad laboral en el sector turístico; para fomentar una cultura de respeto a los derechos de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en el Turismo.
 
 ###### Artículo 61.
 
@@ -976,3 +990,9 @@ P.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 726.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE ABRIL DE 2019.
+
+> <small>[N. DE E. TRANSITORIO "DECRETO NÚM. 594.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]</small>
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
