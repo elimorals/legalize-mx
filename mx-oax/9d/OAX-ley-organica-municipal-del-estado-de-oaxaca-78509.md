@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-04-06"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -368,6 +368,10 @@ Los cargos de Presidente Municipal, Síndicos y Regidores del Ayuntamiento será
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
 
 En todos los actos de integración e Instalación del Ayuntamiento se deberá aplicar sin excepción, el principio de paridad de género; en caso de renuncia, el Ayuntamiento garantizará que la sustitución al cargo sea por una persona del mismo género.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2019)</small>
+
+Las renuncias, a que se refiere el párrafo anterior, deberán ratificarse personalmente por él o los miembros del Ayuntamiento ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto correspondiente.
 
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
 
@@ -2309,7 +2313,9 @@ Las infracciones a las normas contenidas en los Bandos de Policía y Gobierno, R
 
 I.- Amonestación;
 
-II.- Multa hasta por doscientos días de salario mínimo general vigente en la zona, con las excepciones y permutaciones que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+
+II.- Multa hasta por doscientas Unidades de Medida y Actualización al momento de cometer la infracción, con las excepciones y permutaciones que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III.- Suspensión o cancelación de permisos y licencias;
 
@@ -2317,9 +2323,13 @@ IV.- Clausura hasta por ochenta días naturales o definitiva;
 
 V.- Arresto hasta por treinta y seis horas; esta sanción podrá conmutarse por la realización de un servicio a favor de la comunidad, en los términos que fije el propio Bando de Policía y Gobierno;
 
-VI.- A los concesionarios de los servicios públicos municipales;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2019)</small>
 
-a) Multa hasta por mil días de salario mínimo o las que se fijen en el instrumento de concesión; y
+VI.- A los concesionarios de los servicios públicos municipales:
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
+
+a) Multa hasta por mil Unidades de Medida y Actualización o las que se fije (sic) en el instrumento de concesión; y
 
 b) Revocación de la concesión.
 
@@ -3286,3 +3296,17 @@ P.O. 6 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 583.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 603.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 604.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
