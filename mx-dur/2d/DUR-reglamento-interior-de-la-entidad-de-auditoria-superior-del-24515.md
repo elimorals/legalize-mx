@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-entidad-de-auditoria-superior-del-245
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-03"
-last_updated: "2002-03-03"
+last_updated: "2019-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORÍA SUPERIOR DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORÍA SUPERIOR DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 3 de marzo de 2002.
 
@@ -31,9 +33,11 @@ ACUERDO QUE CONTIENE LA:
 
 RATIFICACIÓN DEL REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORÍA SUPERIOR DEL ESTADO DE DURANGO
 
-LA COMISIÓN DE VIGILANCIA DE LA CONTADURÍA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE DURANGO, DE CONFORMIDAD A LA DISPUESTO POR EL ARTÍCULO 55 FRACCION X DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; ARTICULO 16 FRACCIÓN IV DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO Y 102 DE LA LEY ORGÁNICA DEL CONGRESO, EN USO DE LAS FACULTADES DE LAS QUE SE ENCUENTRA INVESTIDA, ACUERDA LA RATIFICACIÓN DEL REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO DE DURANGO.
+LA COMISIÓN DE VIGILANCIA DE LA CONTADURÍA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE DURANGO, DE CONFORMIDAD A LA DISPUESTO POR EL ARTÍCULO 55 FRACCION X DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; ARTICULO 16 FRACCIÓN IV DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO Y 102 DE LA LEY ORGÁNICA DEL CONGRESO, EN USO DE LAS FACULTADES DE LAS QUE SE ENCUENTRA INVESTIDA, A C U E R D A LA RATIFICACIÓN DEL REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO DE DURANGO.
 
-CONSIDERANDO:.
+CONSIDERANDO:
+
+[...]
 
 REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO DE DURANGO
 
@@ -109,7 +113,7 @@ II. IV.- De Planeación, Evaluación y Programación Institucional.
 
 3. Departamento de Registro de Situación Patrimonial y Sanciones.
 
-El manual de organización deberán contener las atribuciones y obligaciones a las que se sujetarán las Unidades y Direcciones previstas en el presente artículo.
+El manual de organización deberán (sic) contener las atribuciones y obligaciones a las que se sujetarán las Unidades y Direcciones previstas en el presente artículo.
 
 Los titulares de las Unidades y Direcciones de la entidad, deberán reunir los requisitos mínimos que requiera el ejercicio de sus funciones y estarán a lo que dispone la fracción III del artículo 14 de la Ley y las disposiciones contenidas en el presente reglamento. El Auditor Superior, mediante acuerdo, ratificado por la comisión, podrá disponer de la asesoría y consultoría que permitan el mejor desempeño de su función; la contratación de dichas asesorías y consultorías podrán ser eventuales o permanentes según lo disponga el acuerdo respectivo.
 
@@ -522,3 +526,29 @@ Sufragio Efectivo.- No Reelección
 C.P. RAÚL FLORES SANTILLÁN
 
 AUDITOR SUPERIOR DEL ESTADO DE DURANGO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO.- REGLAMENTO INTERIOR DE LA ENTIDAD DE AUDITORÍA SUPERIOR DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Entidad de Auditoría Superior del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado número 18, de fecha 3 de marzo de 2002.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos pendientes y en trámite al entrar en vigor el presente Reglamento y que conforme al mismo deban pasar de un área a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a quienes se atribuye su competencia en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El presente Reglamento podrá ser modificado total o parcialmente, en todo tiempo, de acuerdo a las necesidades requeridas para el mejor cumplimiento de los objetivos en materia de fiscalización, previa ratificación de la Comisión de Vigilancia y publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO QUINTO.
+
+El Auditor Superior y demás servidores públicos de la Entidad que por sus funciones les corresponda aplicar el presente Reglamento, vigilarán su debida observancia, dictando y/o promoviendo la aplicación de las medidas que al efecto se requieran.
