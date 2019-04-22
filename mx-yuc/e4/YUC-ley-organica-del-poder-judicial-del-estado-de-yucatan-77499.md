@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2018-08-27"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -293,9 +293,11 @@ En el caso de las Salas Unitarias, la modificación de los precedentes obligator
 
 Composición y quórum de funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 28.
 
-El Pleno del Tribunal Superior de Justicia se compondrá de once magistrados, pero bastará la presencia de siete miembros para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada de al menos 8 magistrados. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia los magistrados suplentes.
+El Pleno del Tribunal Superior de Justicia se compondrá de once magistradas y magistrados, pero bastará la presencia de siete miembros para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada de al menos 8 magistrados. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia los magistrados suplentes.
 
 Las sesiones serán presididas por el Presidente del Tribunal y en caso de ausencias accidentales de éste, el Pleno nombrará de entre sus integrantes quien deberá presidirlas.
 
@@ -409,11 +411,13 @@ Las controversias constitucionales, las acciones de inconstitucionalidad, las ac
 
 Duración del cargo de Presidente del Tribunal Superior de Justicia del Estado
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 36.
 
-Cada cuatro años, el Pleno del Tribunal Superior de Justicia del Estado elegirá de entre sus miembros al Presidente del Tribunal, quien podrá ser electo para un período más.
+Cada cuatro años, el Pleno del Tribunal Superior de Justicia del Estado elegirá de entre sus miembros a la Presidenta o Presidente del Tribunal, debiendo alternar los géneros cada período para garantizar la paridad, por lo que no podrán ser electos para un período más.
 
-El Presidente será electo el último día hábil del mes de diciembre en el que concluya el cargo del Presidente saliente, debiendo rendir el Compromiso Constitucional antes de entrar en funciones. El Presidente electo entrará en funciones el primer día natural del mes de enero del año siguiente a la elección.
+La Presidenta o Presidente será electo el último día hábil del mes de diciembre en el que concluya el cargo del Presidente saliente, debiendo rendir el Compromiso Constitucional antes de entrar en funciones. La Presidenta o Presidente electo entrará en funciones el primer día natural del mes de enero del año siguiente a la elección.
 
 Voto del Presidente
 
@@ -827,11 +831,13 @@ Contará con plena autonomía en el dictado de sus resoluciones, las cuales ser�
 
 Integración del tribunal
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 77.
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, estará integrado por un Magistrado al que se le denominará Presidente, y para el cumplimiento de sus atribuciones contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, estará integrado por un Magistrado al que se le denominará Presidenta o Presidente, y para el cumplimiento de sus atribuciones contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
 
-Para conocer de la administración, vigilancia y disciplina en el Tribunal de los Trabajadores al Servicio del Estado y Municipios de Yucatán, éste contará con una Comisión Especial integrada por su Presidente y dos miembros del Consejo de la Judicatura y, en lo conducente, tendrá las atribuciones que esta Ley establece al Pleno del Consejo.
+Para conocer de la administración, vigilancia y disciplina en el Tribunal de los Trabajadores al Servicio del Estado y Municipios de Yucatán, éste contará con una Comisión Especial integrada por su Presidenta o Presidente y dos miembros del Consejo de la Judicatura y, en lo conducente, tendrá las atribuciones que esta Ley establece al Pleno del Consejo.
 
 Disposiciones relativas a los magistrados
 
@@ -927,7 +933,9 @@ Protesta y duración del cargo de los jueces
 
 Los jueces de primera Instancia rendirán su Compromiso Constitucional ante el Pleno del Consejo de la Judicatura, por conducto de su Presidente.
 
-Los jueces de primera Instancia durarán en su cargo cuatro años contados desde el día en que tomen posesión, al término del cual podrán ser ratificados para períodos subsecuentes.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Las juezas y jueces de primera Instancia durarán en su cargo cuatro años contados desde el día en que tomen posesión, al término del cual podrán ser ratificados para períodos subsecuentes.
 
 Sólo podrán ser removidos por causa justificada y previo juicio de responsabilidad respectivo, no se considerará remoción, la promoción de los jueces a otro juzgado de primera instancia o a grado superior.
 
@@ -1129,9 +1137,9 @@ Requisitos adicionales de los jueces de ejecución de sentencia
 
 ###### Artículo 98.
 
-El Pleno del Consejo de la Judicatura nombrará jueces de paz en los municipios del Estado y en las localidades de éstos.
+El Pleno del Consejo de la Judicatura nombrará juezas o jueces de paz en los municipios del Estado y en las localidades de éstos.
 
-En las localidades donde hubiere juez de primera instancia, no podrá haber juez de paz.
+En las localidades donde hubiere jueza o juez de primera instancia, no podrá haber los de paz.
 
 > <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -1223,6 +1231,8 @@ En caso de faltas que excedan de un mes, el Pleno del Consejo de la Judicatura n
 
 Nombramiento
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 105.
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con la Constitución Política del Estado y esta Ley.
@@ -1235,9 +1245,11 @@ El Consejo de la Judicatura tendrá su sede en la ciudad de Mérida, Yucatán, y
 
 Integración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 107.
 
-El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo.
+El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, una será el Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo.
 
 Los miembros de la carrera judicial que sean designados Consejeros de la Judicatura por el Pleno del Tribunal Superior de Justicia, serán comisionados por todo el tiempo que dure el encargo y al término del mismo serán reincorporados a sus funciones jurisdiccionales, o en un cargo que no implique la pérdida de la categoría anterior a la de Consejero.
 
@@ -2544,3 +2556,15 @@ D.O. 27 DE AGOSTO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 62/2019 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUSIVO CON RESPECTO A LA IGUALDAD DE GÉNERO”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
