@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2019-03-26"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 26 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -415,7 +413,9 @@ Apartado D. De los Procesos Electorales.
 
 La ley establecerá las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-La jornada electoral tendrá lugar el primer domingo de junio de cada 6 años para elegir al Gobernador del Estado y de cada 3 años para elegir a los diputados locales, así como presidentes municipales, síndicos y regidores de los Ayuntamientos.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+La jornada electoral tendrá lugar el primer domingo de junio de cada 6 años para elegir a la Gobernadora o Gobernador del Estado y de cada 3 años para elegir a las diputadas o los diputados, así como presidentas o presidentes municipales, síndicos y regidoras o regidores de los Ayuntamientos.
 
 Las mesas directivas de casilla estarán integradas por ciudadanos y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
 
@@ -471,11 +471,11 @@ El Presidente del Congreso en los términos de las leyes garantizará la inviola
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de veinticinco Diputados electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputado Propietario de mayoría relativa, se elegirá un Suplente.
+El Congreso del Estado de Yucatán se compondrá de veinticinco Diputadas y Diputados electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputada o Diputado Propietario de mayoría relativa, se elegirá un Suplente.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -553,11 +553,11 @@ X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para
 
 El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 24.
 
-El Instituto Electoral y Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernador, diputados, regidores y síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional; y expedirá las constancias respectivas a los candidatos electos.
+El Instituto Electoral y Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernadora o Gobernador, diputadas y diputados, regidoras y regidores, y síndicos; efectuará la asignación de las y los diputados y regidores según el principio de representación proporcional; y expedirá las constancias respectivas a los candidatos electos.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -775,9 +775,9 @@ c) Conceder la licencia para separarse de sus funciones por más de 60 días, y
 
 d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XXII.- Nombrar a los Magistrados del Poder Judicial del Estado; así como otorgar el haber de retiro a que se refiere el artículo 64 de esta Constitución;
+XXII.- Nombrar a los Magistrados y Magistradas del Poder Judicial del Estado; así como otorgar el haber de retiro a que se refiere el artículo 64 de esta Constitución;
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -817,9 +817,9 @@ XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 XXX.- Nombrar a la Diputación Permanente que ha de funcionar en el receso del Congreso, antes de la clausura de cada período de sesiones ordinarias;
 
-> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XXXI.- Designar por el voto de sus dos terceras partes, al Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo. Esta elección se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley;
+XXXI.- Designar por el voto de sus dos terceras partes, a la Presidenta o Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo. Esta elección se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley;
 
 > <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
 
@@ -833,9 +833,9 @@ XXXI Ter.- Requerir, a solicitud de la Comisión de Derechos Humanos del Estado 
 
 XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos Humanos del Estado de Yucatán y hacer público el resultado del mismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XXXII.- Nombrar a los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y a los integrantes de su consejo consultivo, en los términos establecidos en esta constitución y en las leyes aplicables;
+XXXII.- Nombrar a las comisionadas y comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y a las personas integrantes de su consejo consultivo, en los términos establecidos en esta constitución y en las leyes aplicables;
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -925,13 +925,13 @@ XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, ate
 
 XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera;
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XLVIII.- Ratificar el nombramiento del secretario responsable del control interno del Poder Ejecutivo, que haga el Gobernador;
+XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del control interno del Poder Ejecutivo, que haga la Gobernadora o Gobernador;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XLIX.- Designar al vicefiscal especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta Constitución para el fiscal general del estado, y
+XLIX.- Designar a la o al vicefiscal especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta Constitución para la o el fiscal general del estado, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -975,9 +975,13 @@ La contabilidad gubernamental y la cuenta pública se regirán por las leyes apl
 
 El derecho de iniciar Leyes o Decretos, compete:
 
-I.- a los Diputados;
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-II.- al Gobernador del Estado;
+I.- A las Diputadas y Diputados;
+
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+II.- A la Gobernadora o Gobernador del Estado;
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -987,9 +991,9 @@ III.- al Tribunal Superior de Justicia en los asuntos de la competencia del Pode
 
 IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-V.- a los ciudadanos, conforme a las modalidades que dispongan las leyes.
+V.- A las y los Ciudadanos, conforme a las modalidades que dispongan las leyes.
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -1141,11 +1145,11 @@ Los servidores públicos estatales y municipales, así como cualquier entidad, p
 
 ### CAPITULO I. Del Gobernador del Estado
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 44.
 
-Se deposita el Poder Ejecutivo del Estado en un ciudadano que se denominará "Gobernador del Estado de Yucatán".
+Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se denominará "Gobernadora o Gobernador del Estado de Yucatán".
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1483,15 +1487,21 @@ La Institución del Ministerio Público, en su carácter de representante de la 
 
 Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán, la cual es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
 
-El Fiscal General del Estado será designado conforme al siguiente procedimiento: el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquél que deba ocupar el cargo, mediante el voto de las dos terceras partes de los integrantes del Congreso.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-En caso de que no se alcance la votación requerida, el titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del estado, para que designe al Fiscal General del Estado en los términos del párrafo anterior.
+La o el Fiscal General del Estado será designado conforme al siguiente procedimiento: la o el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquél que deba ocupar el cargo, mediante el voto de las dos terceras partes de los integrantes del Congreso.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+En caso de que no se alcance la votación requerida, la o el titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del Estado, para que designe a la o al Fiscal General del Estado en los términos del párrafo anterior.
 
 Si el Congreso del estado, nuevamente, no designara al Fiscal General del Estado, ocupará el cargo la persona que designe el titular del Poder Ejecutivo, quien no podrá haber integrado las ternas previamente propuestas.
 
 Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
-El Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+La o el Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
 
 La ley regulará la integración, estructura, funcionamiento, competencia y administración de la Fiscalía General del Estado, y establecerá el servicio profesional de carrera para sus servidores públicos.
 
@@ -1533,13 +1543,13 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de los jueces y los requisitos para su permanencia en el cargo.
+La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo.
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes.
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistradas y Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1557,29 +1567,29 @@ Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas 
 
 El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros al Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
+Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros a la Presidenta o Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-El Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
+La Presidenta o Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-Los Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
+Las Magistradas y Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-Al término de los quince años a que se refiere este artículo, los Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de los Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
+Al término de los quince años a que se refiere este artículo, las Magistradas y Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de las Magistradas y Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Las Magistradas y Magistrados, Juezas y Jueces, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1588,8 +1598,6 @@ La administración, vigilancia y disciplina del Poder Judicial del Estado, con e
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
-
-> <small>(DEROGADO PÁRRAFO DÉCIMO SEXTO, D.O. 20 DE ABRIL DE 2016)</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1631,17 +1639,21 @@ Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán 
 
 Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en la materia.
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 66.
 
-Las propuestas para ocupar el cargo de Magistrado del Poder Judicial deberán considerar a personas que hayan prestado sus servicios con eficiencia y probidad en la procuración o la impartición de justicia o en la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con el siguiente procedimiento.
+Las propuestas para ocupar el cargo de Magistrada y Magistrado del Poder Judicial deberán considerar a personas que hayan prestado sus servicios con eficiencia y probidad en la procuración o la impartición de justicia o en la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con el siguiente procedimiento.
 
-El titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a un Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
+La o el titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a una Magistrada o Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
 
-Los Magistrados podrán ser ratificados por el Congreso del Estado, siempre que durante su ejercicio en el cargo hayan actuado con apego a los principios que rigen la función judicial.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Las Magistradas y Magistrados podrán ser ratificados por el Congreso del Estado, siempre que durante su ejercicio en el cargo hayan actuado con apego a los principios que rigen la función judicial.
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Para tal efecto, el Pleno del Tribunal Superior de Justicia formulará una evaluación de desempeño que acredite la actuación profesional y ética en el cargo, en los términos de la ley. Dicha evaluación deberá ser presentada al Congreso del Estado para que este órgano la considere y dictamine lo procedente, lo cual deberá ser aprobado por mayoría de los Diputados presentes en la sesión relativa, de conformidad con lo que establezca la ley.
 
@@ -1769,7 +1781,9 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
 
-El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo.
 
 Para ser Consejero se requiere:
 
@@ -1911,15 +1925,21 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 Las resoluciones del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionados, quienes serán designados por el Congreso del estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se privilegiará la igualdad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles contados a partir del día de la sesión en que se haya aprobado la designación del comisionado. Cuando el Gobernador no objete el nombramiento, ocupará el cargo la persona nombrada por el Congreso; en caso de objeción, este designará al comisionado de entre las dos propuestas restantes de la terna.
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionadas y comisionados, quienes serán designados por el Congreso del Estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se privilegiará la igualdad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+El nombramiento podrá ser objetado por la Gobernadora o Gobernador en un plazo de diez días hábiles contados a partir del día de la sesión en que se haya aprobado la designación del comisionado. Cuando la Gobernadora o Gobernador no objete el nombramiento, ocupará el cargo la persona nombrada por el Congreso; en caso de objeción, este designará a la o el comisionado de entre las dos propuestas restantes de la terna.
 
 Los comisionados durarán en su cargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 65 de esta Constitución y contar con título y cédula profesional al día de su elección, con antigüedad mínima de cinco años, expedido por autoridad e institución legalmente facultada para ello. Los nombramientos se realizarán escalonadamente para garantizar el principio de autonomía. No podrán ser reelectos ni tener otro empleo, cargo o comisión, con excepción de los que desempeñen instituciones docentes, científicas o de beneficencia. Únicamente podrán ser removidos de su cargo en los términos del título décimo de esta constitución y serán sujetos de juicio político.
 
 El comisionado presidente será designado por los propios comisionados, mediante voto secreto, para un período de dos años, con posibilidad de ser reelecto por un período igual. El comisionado presidente estará obligado a rendir un informe anual ante el Congreso del estado, en la fecha y en los términos que disponga la ley.
 
-Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeros cuyos cargos serán honoríficos. Los consejeros serán elegidos por el Congreso del estado para un período de dos años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la igualdad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos por el Congreso del estado para un período de dos años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la igualdad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
 Toda autoridad o servidor público estará obligado a coadyuvar con el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y sus integrantes para el buen desempeño de sus funciones. La ley establecerá las medidas de apremio que podrá imponer el organismo para asegurar el cumplimiento de sus decisiones.
 
@@ -1963,9 +1983,13 @@ El plebiscito, el referéndum y la iniciativa popular son mecanismos de particip
 
 El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, máxima autoridad jurisdiccional en la materia y órgano especializado, competente para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, cuyas funciones deben cumplirse bajo los principios de certeza, imparcialidad, independencia, objetividad, legalidad, máxima publicidad y probidad; para su adecuado funcionamiento, contará con el personal jurídico y administrativo necesario.
 
-El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-El Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.
+El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistradas o magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+La Magistrada Presidenta o el Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de las y los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1973,9 +1997,9 @@ El Magistrado Presidente será designado de entre sus integrantes, por la votaci
 
 El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, tiene competencia para conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; e imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidades administrativas graves, y a los particulares que participen en actos vinculados con faltas administrativas graves, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos del (sic) estatales o municipales.
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por la Gobernadora o Gobernador y ratificados por el voto de las dos terceras partes de las y los integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
 Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Poder Judicial del Estado. El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
 
@@ -1983,7 +2007,7 @@ Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
@@ -1991,9 +2015,13 @@ Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado
 
 ###### Artículo 76.
 
-El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por un Presidente Municipal, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
+El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, Regidoras, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 El Ayuntamiento tendrá como fin principal, atender las necesidades sociales de sus habitantes dentro de su ámbito jurisdiccional, procurando el desarrollo integral y sustentable del municipio.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 Se adoptará el principio de representación proporcional, como mecanismo complementario del sistema de mayoría relativa, para la elección de los integrantes de los ayuntamientos. La ley reglamentaria determinará el porcentaje de votación que deberán obtener los partidos políticos y la forma para la asignación de las regidurías de representación proporcional.
 
@@ -2007,21 +2035,29 @@ Los municipios se organizarán administrativa y políticamente, conforme a las b
 
 Primera.- Los ayuntamientos entrarán en funciones, el 1 de septiembre inmediato a su elección, y durarán en su encargo tres años.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-Segunda.- El PresidenteMunicipal (sic), los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
+Segunda.- La Presidenta o Presidente Municipal, las regidoras, los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
 
-Tercera.- El primer regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todos los regidores desempeñarán las funciones que la ley respectiva les señale.
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+Tercera.- El primer Regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidenta o Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todas las regidoras y regidores desempeñarán las funciones que la ley respectiva les señale.
 
 Cuarta.- Los ayuntamientos estarán investidos de personalidad jurídica y administrarán libremente su hacienda, conforme lo disponga la ley respectiva.
 
 Quinta.- El Ayuntamiento, es el órgano de gobierno por excelencia en el municipio y creará las dependencias y entidades necesarias de la administración pública municipal, para el cumplimiento de sus atribuciones.
 
-La administración pública municipal será encabezada por el Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
-Sexta.- Los Presidentes Municipales rendirán ante el Ayuntamiento un informe anual sobre la administración municipal, el cual será realizado en forma pública y pormenorizada. Su incumplimiento será causa de responsabilidad.
+La administración pública municipal será encabezada por la Presidenta o Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.
 
-Séptima.- Los Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+Sexta.- Las Presidentas y Presidentes Municipales rendirán ante el Ayuntamiento un informe anual sobre la administración municipal, el cual será realizado en forma pública y pormenorizada. Su incumplimiento será causa de responsabilidad.
+
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+Séptima.- Las Presidentas y Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.
 
 Octava.- Las leyes correspondientes, determinarán el número de regidores de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio.
 
@@ -4298,3 +4334,15 @@ Mérida, Yucatán a 26 de marzo de 2019
 DIP. MARTÍN ENRIQUE CASTILLO RUZ
 
 PRESIDENTE DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO DE YUCATÁN.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 62/2019 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUSIVO CON RESPECTO A LA IGUALDAD DE GÉNERO".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
