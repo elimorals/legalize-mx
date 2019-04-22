@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2018-12-31"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -53,7 +53,9 @@ La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo
 
 Para los efectos de esta Ley se entenderá por:
 
-I. ANFITRIÓN. Persona física que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración en forma total o parcial de manera permanente o eventual a través de plataforma digital.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+I. ANFITRIÓN. Persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración en forma total o parcial, de manera permanente o eventual a través de plataforma digital;
 
 II. CÓDIGO. El Código Fiscal del Estado de Quintana Roo.
 
@@ -93,11 +95,13 @@ II. Áreas de pernoctación destinadas a albergues móviles, tales como campamen
 
 III. Tiempo compartido;
 
-IV. Marinas turísticas, y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IV. Marinas turísticas;
 
-V. Departamentos casas y villas particulares, total o parcialmente.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+V. Departamento, casas y villas particulares, total o parcialmente, y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -105,9 +109,13 @@ VI. Los demás establecimientos en donde se brinde albergue temporal de personas
 
 Para efectos de la causación de este impuesto, solo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma digital y en caso de que se cubra por este medio, está obligada a retener y a enterar el impuesto a las personas a las que se preste el servicio de hospedaje, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta.
+En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma digital y en caso de que se cubra por este medio, está obligada a retener y a enterar el impuesto a las personas a las que se preste el servicio de hospedaje, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, debiendo proporcionar al Anfitrión, constancia de dicha retención.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+Cuando el anfitrión tenga como actividad económica la prestación de servicios de hospedaje o alojamiento, la retención y pago del impuesto ante las oficinas o medios autorizados por la Secretaría, se hará por conducto del propio anfitrión.
 
 ###### ARTÍCULO 5.
 
@@ -284,3 +292,11 @@ SEGUNDO. La obligación de obtener la Constancia de Anfitrión en el Registro de
 TERCERO. Las atribuciones, facultades u obligaciones conferidas en las disposiciones de esta Ley a la Secretaria de Finanzas y Planeación, se entenderán conferidas al Servicio de Administración Tributaria del Estado de Quintana Roo cuando corresponda al ámbito de su competencia conforme a la Ley del Servicio de Administración Tributaria del Estado de Quintana Roo.
 
 CUARTO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+P.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 313 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTICULO 2, LAS FRACCIONES IV, V, Y PÁRRAFO TERCERO DEL ARTICULO 4; Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTICULO 4. TODOS DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Quedan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
