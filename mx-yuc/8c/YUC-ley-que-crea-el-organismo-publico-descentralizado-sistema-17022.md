@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-descentralizado-sistema-17022
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-16"
-last_updated: "2000-05-16"
+last_updated: "2019-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO, SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CHEMAX
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO 58/2019, PUBLICADO EN EL D.O. DE 22 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CHEMAX, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 16 de mayo de 2000.
 
@@ -176,3 +178,27 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 58/2019 POR EL QUE SE ABROGAN LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE KANTUNIL, YUCATÁN, Y LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CHEMAX, YUCATÁN”.]
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO 58/2018 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE,
+
+DECRETO:
+
+Por el que se abroga la Ley que crea el Organismo Público Descentralizado Sistema de Agua Potable y Alcantarillado del Municipio de Kantunil, Yucatán, y la Ley que crea el Organismo Público Descentralizado denominado "Sistema de Agua Potable y Alcantarillado del municipio de Chemax, Yucatán".
+
+Artículo Primero.- Se abroga la Ley que crea el Organismo Público Descentralizado Sistema de Agua Potable y Alcantarillado del Municipio de Kantunil, Yucatán, aprobado el 30 de Agosto de 1999, y publicado en el Diario Oficial del Gobierno del Estado el 31 de Agosto de 1999 mediante el decreto número 220.
+
+Artículo Segundo.- Se abroga la Ley que crea el Organismo Público Descentralizado denominado "Sistema de Agua Potable y Alcantarillado del municipio de Chemax, Yucatán, aprobado el 14 de Mayo del 2000, y publicado en el Diario Oficial del Gobierno del Estado el 16 de Mayo del 2000 mediante el decreto número 262.
+
+Artículo transitorio:
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del Gobierno de (sic) estado de Yucatán.
