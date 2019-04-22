@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2019-01-10"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -125,9 +125,17 @@ X. Seguridad Técnica: Conjunto de disposiciones que tutelan la vida e integrida
 
 La interpretación, aplicación y vigilancia del cumplimiento de esta Ley, será competencia exclusiva del Ejecutivo, a través de la Secretaría y de la Secretaría de Seguridad en el ámbito de sus respectivas competencias.
 
-Los Ayuntamientos únicamente tendrán competencia en lo que corresponda a licencias de funcionamiento, determinación de zonas turísticas y uso de suelo, siendo éste expedido de conformidad con las disposiciones municipales y lo que señale esta Ley.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-Es requisito indispensable el Dictamen de Anuencia para que la Secretaría autorice la extensión de los horarios de la venta de alcohol en los establecimientos contemplados en los giros que contienen las fracciones I, II, III y IV del artículo 17 de esta Ley. Incurrirá en falta administrativa grave con la responsabilidad a que se refiere el párrafo segundo, fracción IV, del artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, el funcionario o autoridad que autorice la extensión de horario para la venta de alcohol sin verificar que el establecimiento cuente con el Dictamen de Anuencia correspondiente.
+Los Ayuntamientos únicamente tendrán competencia en lo que corresponda a licencias de funcionamiento, determinación de zonas turísticas, uso de suelo y autorización de venta de bebidas alcohólicas en horario extraordinario, de conformidad con esta Ley y su Reglamento.
+
+(NOTA: EL 8 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO B), Y IX, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 210/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+Es requisito indispensable el Dictamen de Anuencia para que los Ayuntamientos autoricen la venta de bebidas alcohólicas en horario extraordinario, en los establecimientos contemplados en los giros que contienen las fracciones I y II del artículo 17 de esta Ley. INCURRIRÁ EN FALTA ADMINISTRATIVA GRAVE CON LA RESPONSABILIDAD A QUE SE REFIERE EL PÁRRAFO SEGUNDO, FRACCIÓN IV, DEL ARTÍCULO 160 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EL FUNCIONARIO O AUTORIDAD QUE AUTORICE LA EXTENSIÓN DE HORARIO PARA LA VENTA DE ALCOHOL SIN VERIFICAR QUE EL ESTABLECIMIENTO CUENTE CON EL DICTAMEN DE ANUENCIA CORRESPONDIENTE.
 
 La Secretaría de Seguridad tendrá las facultades para emitir las normas, básicas de Seguridad Técnica, lineamientos y Protocolos de Seguridad Interna.
 
@@ -333,9 +341,9 @@ h) Fotografías del exterior e interior del establecimiento.
 
 i) Cédula catastral del domicilio en el que se pretenda crear el establecimiento con venta de bebidas alcohólicas.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-j) Original y copia simple del Dictamen de Anuencia validado por la Secretaría de Seguridad, únicamente cuando se encuentren en los giros I, II, III, IV del artículo 17 de la Ley;
+j) Original y copia simple del Dictamen de Anuencia validado por la Secretaría de Seguridad, únicamente cuando se encuentren en los giros I y II del artículo 17 de la Ley;
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -477,39 +485,55 @@ II. Restaurante - Bar: Lugar donde se pueden vender bebidas alcohólicas en enva
 
 III. Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
 
-ARTICULO 25 BIS.- Los establecimientos que expenden bebidas alcohólicas se clasifican en dos grupos en razón de su lugar de consumo y deberán observar los horarios ordinarios de funcionamiento establecidos en la presente ley, siendo los siguientes:
+ARTÍCULO 25 BIS.- Los establecimientos que expenden bebidas alcohólicas se clasifican en dos grupos en razón de su lugar de consumo y deberán observar los horarios de funcionamiento establecidos en la presente ley, siendo los siguientes:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ENERO DE 2019)</small>
 
 I. Establecimientos que expenden bebidas alcohólicas para su consumo en otro lugar como:
 
-a) Las vinaterías, licorerías, sub-agencias, minisúper, tienda de autoservicio mayor y tienda de conveniencia, solo podrán ofrecer y vender sus productos de 10:00 a 23:00 horas de lunes a sábado y de 10:00 a 17:00 horas los domingos.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-b) Las fábricas, micro fábricas, agencias, bodegas y depósitos. Los horarios para que los establecimientos contenidos en el presente inciso abastezcan y realicen las maniobras de carga y descarga a los contenidos en el inciso a) del presente artículo, estarán a lo dispuesto por la ley y reglamento en la materia.
+a) Minisúper, tienda de autoservicio mayor y tienda de conveniencia, solo podrán ofrecer y vender sus productos en horario ordinario, de lunes a sábado de las 09:00 horas a las 22:00 horas y el domingo de las 09:00 horas a las 17:00 horas. Y en horario extraordinario de lunes a sábado de las 22:00 horas a las 00:00 horas del día siguiente.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+b) Las fábricas, micro fábricas, agencias y depósitos. Los horarios para que los establecimientos contenidos en el presente inciso abastezcan y realicen las maniobras de carga y descarga a los contenidos en el inciso a) del presente artículo, estarán a lo dispuesto por la ley y reglamento en la materia.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ENERO DE 2019)</small>
 
 II. Establecimientos que expenden u ofrecen bebidas alcohólicas para su consumo en el mismo lugar:
 
-a. Restaurante: De lunes a sábado a partir de las 10:00 horas a las 23:00 horas, y domingo a partir de las 11:00 horas a las 17:00 horas.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-b. Restaurante-Bar: Venta de bebidas alcohólicas con alimentos obligatoriamente de las 11:00 horas a las 23:00 horas de lunes a sábado, y los días domingo a partir de las 11:00 horas a las 17:00 horas.
+a) Restaurante: en horario ordinario, de lunes a domingo de las 10:00 horas a las 23:00 horas. En horario extraordinario, de lunes a domingo de las 23:00 horas a las 01:00 horas del día siguiente.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+b) Restaurante-Bar: Venta de bebidas alcohólicas con alimentos obligatoriamente en horario ordinario, de lunes a sábado de las 10:00 horas a las 23:00 horas, y el domingo de las 10:00 horas a las 17:00 horas. En horario extraordinario, de lunes a sábado de las 23:00 horas a las 03:00 horas del día siguiente, y el domingo de las 17:00 horas a las 23:00 horas.
 
 Cuando operen este tipo de establecimientos en horario extraordinario, no será obligatorio el consumo de alimentos con bebidas alcohólicas, pero el vendedor deberá garantizar la disponibilidad de alimentos al público.
 
-c. Bar: De las 11:00 horas a las 23:00 horas de lunes a sábado, y de las 11:00 horas a las 17:00 horas, el domingo.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-La autorización para la venta de bebidas alcohólicas en horario extraordinario deberá ser solicitado a la Secretaría, quien previa anuencia de la Secretaría de Seguridad, será quien evalúe y en su caso, autorice la viabilidad de la solicitud conforme a lo dispuesto en el Reglamento de la presente ley y demás normas aplicables. La venta de bebidas alcohólicas en horario extraordinario será aplicable a los establecimientos contenidos en la fracción II del presente artículo.
+c) Bar: en horario ordinario, de lunes a domingo de las 12:00 horas a las 23:00 horas. En horario extraordinario, de lunes a sábado de las 23:00 horas a las 03:00 horas del día siguiente.
 
-Para los efectos del párrafo anterior, los horarios extraordinarios deberán autorizarse dentro de los siguientes horarios:
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-a) De las 23:00 horas a las 03:00 horas del día siguientes, de lunes a sábado.
+Los Ayuntamientos podrán autorizar la venta de bebidas alcohólicas en horario extraordinario, previa anuencia de la Secretaría de Seguridad, de conformidad con lo establecido en el Reglamento de la presente Ley y las demás normas aplicables. El documento que al efecto se expida, deberá señalar la cantidad de horas extraordinarias autorizadas para el establecimiento.
 
-b) De las 17:00 horas a las 23:00 horas, el domingo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
 
-Cuando los establecimientos señalados en la fracción II del presente articulo se encuentren ubicados en Zona Turística, la venta de bebidas alcohólicas se sujetará a los siguientes horarios:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 22 DE ABRIL DE 2019)</small>
 
-I. Horario Ordinario: De las 11:00 horas a las 23:00 horas, de lunes a domingo.
+Cuando los establecimientos señalados en la fracción II del presente artículo se encuentren ubicados en Zona Turística, la venta de bebidas alcohólicas se sujetará a los siguientes horarios:
 
-II. Horario Extraordinario: De las 23:00 horas a las 03:00 horas del día siguiente, de lunes a domingo.
+a) Restaurante: en horario ordinario, de lunes a domingo de las 10:00 horas a las 23:00 horas y en horario extraordinario, de lunes a domingo de las 23:00 horas a las 01:00 horas del día siguiente.
+
+b) Restaurante bar: en horario ordinario, de lunes a domingo de las 10:00 horas a las 00:00 horas del día siguiente y en horario extraordinario, de lunes a domingo de las 00:00 horas a las 04:00 horas del día siguiente.
+
+c) Bar: en horario ordinario de lunes a domingo de las 11:00 horas a las 23:00 horas y en horario extraordinario, de lunes a domingo de las 23:00 horas a las 04:00 horas del día siguiente.
 
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
@@ -527,11 +551,11 @@ II.- Cuando el solicitante haya sido sancionado por autoridad competente por ser
 
 III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y haya transferido sus derechos permanentemente a terceras personas; salvo que dicha solicitud, sea presentada con posterioridad a dos años de haberse realizado la transferencia y que el solicitante cumpla con lo señalado en los Artículos 14 y 15 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, subagencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 500 metros radiales de otro del mismo tipo, se encuentre ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamientos. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 500 metros radiales de otro del mismo tipo de establecimiento o giro, cuando se encuentre ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamientos. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
 
-Se exceptuará de lo dispuesto en el presente artículo a los establecimientos ubicados en zonas turísticas y zonas comerciales.
+Se exceptuará de lo dispuesto en el presente artículo a los establecimientos ubicados en zonas turísticas y a las plazas comerciales.
 
 V.- (DEROGADA, P.O. 10 DE ENERO DE 2019)
 
@@ -565,13 +589,13 @@ De igual manera deberá tener en un lugar visible el documento original autoriza
 
 III.- Permitir a los notificadores y/o inspectores designados por las autoridades fiscales competentes el acceso al lugar, así como mantener a su disposición los documentos que le soliciten relacionados con el motivo de la visita. También deberán permitir la verificación de las mercancías que se encuentran en el establecimiento, relacionadas con la venta de bebidas alcohólicas;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que pongan en peligro la seguridad e integridad de los habitantes del área y/o el orden de los establecimientos, así como por no contar en las instalaciones con servicios mínimos para garantizar la Seguridad Técnica tales como interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo y Protocolos de Seguridad Interna de su operación";
+IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que pongan en peligro la seguridad e integridad de los habitantes del área y/o el orden de los establecimientos, así como por no contar en las instalaciones con servicios mínimos para garantizar la Seguridad Técnica tales como interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo y Protocolos de Seguridad Interna de su operación" cuando se trate de los giros comprendidos en las fracciones I y II del artículo 17 de la presente Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley;
+V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones I y II del Artículo 17 de esta Ley.
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -629,9 +653,9 @@ I.- La venta de bebidas alcohólicas sin la Licencia de Bebidas Alcohólicas o e
 
 II.- Transferir la Licencia de Bebidas Alcohólicas en contravención a lo dispuesto en los Artículos 11 y 12 de esta Ley;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a personas físicas y/o morales, que no cuenten con la Licencia de Bebidas Alcohólicas o Permiso correspondiente, hecha por el titular de una Licencia de Bebidas Alcohólicas cuyo giro autorizado sea de lo especificado en las fracciones VIII, IX y X del Artículo 17 de esta Ley;
+III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a personas físicas y/o morales, que no cuenten con la Licencia de Bebidas Alcohólicas o Permiso correspondiente, hecha por el titular de una Licencia de Bebidas Alcohólicas cuyo giro autorizado sea de lo especificado en las fracciones III y V del Artículo 17 de esta Ley.
 
 IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley u otras que lo prohíban expresamente;
 
@@ -675,9 +699,9 @@ XIX.- Permitir el consumo dentro de los limites del establecimiento en los casos
 
 XX.- No tener la licencia de bebidas alcohólicas, el permiso o la autorización de comodato correspondiente en los lugares que señalen las disposiciones fiscales respectivas.
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
-XXI. No contar con el Dictamen de Anuencia, o su refrendo correspondiente.
+XXI.- No contar con el Dictamen de Anuencia, y sus refrendos correspondientes, cuando le sea aplicable.
 
 #### SECCIÓN SEGUNDA. DE LA IMPOSICIÓN DE LAS SANCIONES
 
@@ -805,7 +829,7 @@ I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada
 
 II.- Si la clausura afecta a un establecimiento que además se dedique a fines comerciales distintos de la venta de bebidas alcohólicas, se ejecutará en tal forma que se suspenda únicamente el funcionamiento de venta de bebidas alcohólicas;
 
-II.- En los casos en que no se pueda llevar a cabo la clausura por ser materialmente imposible, dado la distribución física de los accesos del establecimiento, o por que impida el libre acceso a una casa habitación u otro motivo de fuerza mayor, se consignará el hecho en el acta circunstanciada que al efecto se levante y se procederá al decomiso del producto, cuando se cometan las infracciones señaladas en el Articulo 37 de la presente Ley.
+III.- En los casos en que no se pueda llevar a cabo la clausura por ser materialmente imposible, dado la distribución física de los accesos del establecimiento, o por que impida el libre acceso a una casa habitación u otro motivo de fuerza mayor, se consignará el hecho en el acta circunstanciada que al efecto se levante y se procederá al decomiso del producto, cuando se cometan las infracciones señaladas en el Articulo 37 de la presente Ley.
 
 ###### ARTÍCULO 45.
 
@@ -973,9 +997,11 @@ El Consejo Estatal Consultivo, podrá proponer al Ejecutivo políticas en materi
 
 La integración y funcionamiento del Consejo Estatal Consultivo, se contemplará en el Reglamento de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 70.
 
-Los Consejos Municipales Consultivos podrán proponer al Ayuntamiento políticas en materia de expedición y operación de constancias del uso del suelo, licencias de funcionamiento y horarios para los establecimientos que expendan bebidas alcohólicas en el Municipio.
+Los Consejos Municipales Consultivos podrán proponer al Ayuntamiento políticas en materia de expedición y operación de constancias del uso del suelo y licencias de funcionamiento.
 
 La integración y funcionamiento del Consejo Municipal Consultivo, se contemplará en el Reglamento que para tal efecto emitan los Ayuntamientos respectivos.
 
@@ -1366,3 +1392,13 @@ SÉPTIMO. En un plazo no mayor de 30 días posteriores a la expedición del Regl
 OCTAVO. En un plazo no mayor de 60 días hábiles contados a partir de la entrada en vigor del presente decreto, los Municipios actualizarán sus zonas turísticas.
 
 NOVENO. Se dejan sin efectos todas aquellas disposiciones normativas de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 315 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efectos todos los Decretos, Reglamentos, Acuerdos, Circulares y demás disposiciones normativas de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Cuando en otras disposiciones se haga referencia a Patentes, Licencias y Permisos para la Venta de Bebidas Alcohólicas, se entenderá que se trata de la Licencia de Bebidas Alcohólicas que regula la presente Ley.
