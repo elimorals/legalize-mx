@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2017-04-14"
+last_updated: "2019-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -57,7 +57,9 @@ Para los efectos de esta ley se entenderá por:
 
 I.- Alumno: Sinónimo de educando y/o estudiante.
 
-II.- Autoridad Educativa Estatal: Al ejecutivo del Estado, al Secretario (a) de Educación y Cultura, así como a las entidades que en su caso se establezcan para el ejercicio de la función social educativa.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+II.- Autoridad Educativa Estatal: Al Ejecutivo del Estado, al Secretario (a) de Educación, así como a las entidades que en su caso se establezcan para el ejercicio de la función social educativa;
 
 III.- Autoridad Educativa Federal: A la Secretaría de Educación Pública de la Administración Pública Federal.
 
@@ -83,9 +85,21 @@ X.- Ley: Ley de Educación del Estado de Quintana Roo.
 
 XI.- Ley General: Ley General de Educación.
 
-XII.- Plantel Educativo: Sinónimo de escuela y/o centro escolar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
 
-XIII.- Secretaría: A la Secretaría de Educación y Cultura del Estado de Quintana Roo.
+XII.- Marco de Convivencia Escolar: Al Marco para la Convivencia Escolar en Escuelas de Educación Básica del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+XIII.- Plantel Educativo: Sinónimo de escuela y/o centro escolar;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+XIV.- Protocolos: El Protocolo para la Prevención, Actuación y Sanción en casos de Abuso Sexual contra Alumnas (os) de Educación Inicial y Básica del Estado de Quintana Roo; el Protocolo para la Prevención, Actuación y Sanción en casos de Acoso y Maltrato Escolar contra Alumnos(as) de Educación Inicial y Básica del Estado de Quintana Roo; el Protocolo para la Atención Médica, Psicológica y Jurídica a Mujeres, Niñas y Niños Víctimas de Violencia y demás protocolos que resulten aplicables en el ámbito educativo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ABRIL DE 2019)</small>
+
+XV.- Secretaría: A la Secretaría de Educación del Estado de Quintana Roo.
 
 ###### Artículo 3.
 
@@ -403,7 +417,9 @@ IV. Las demás que establezcan las leyes, reglamentos y disposiciones legales ap
 
 Corresponden de manera exclusiva a las autoridades educativas estatales, las atribuciones siguientes:
 
-I. Determinar con fundamento en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General, la presente Ley y demás disposiciones legales aplicables, la política educativa de la entidad;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+I. Determinar con fundamento en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General, la presente Ley, el Marco de Convivencia Escolar, los Protocolos, así como las demás disposiciones legales aplicables, la política educativa de la entidad;
 
 II. Prestar los servicios de educación inicial, básica -incluyendo las modalidades indígena y especial-, así como la normal y demás para la formación de docentes;
 
@@ -451,7 +467,13 @@ XXII. Promover y supervisar la realización de actos cívicos escolares que fort
 
 XXIII. Otorgar reconocimientos y distinciones a los docentes que se destaquen en su labor profesional y a quienes aporten innovaciones para mejorar la calidad de la educación, y
 
-XXIV. Las demás que con tal carácter establezcan esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
+
+XXIV. Promover y vigilar la aplicación del Marco de Convivencia Escolar y los protocolos, siendo éstos de interés social y observancia obligatoria en las escuelas públicas o particulares incorporadas que imparten educación inicial y básica en el Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ABRIL DE 2019)</small>
+
+XXV. Las demás que con tal carácter establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -671,7 +693,9 @@ Dichos recursos son públicos y serán fiscalizados y auditados respecto a su ej
 
 El alumno es sujeto activo en el proceso formativo, tanto en lo individual como en lo social, debido a lo cual deberá desarrollarse en él todas sus capacidades en beneficio propio y de su comunidad, siendo su formación el fin primordial del proceso educativo.
 
-Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espíritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espiritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda.
 
 Se consideran alumnos de una escuela a quienes habiendo cumplido con todos los requisitos para ingresar al plantel educativo, hayan quedado inscritos en la misma.
 
@@ -1355,7 +1379,9 @@ Además, estará sujeto a los fines y criterios dispuestos en los artículos 12 
 
 En la impartición de educación para menores de edad se tomarán medidas que aseguren al alumno la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-Se brindarán cursos a los docentes y al personal que labora en los planteles educativos, sobre los derechos de los alumnos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+Se brindarán cursos a los docentes y al personal que labora en los planteles educativos, sobre los derechos de los alumnos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación. Asimismo, se capacitará a los docentes en el contenido y aplicación del Marco de Convivencia Escolar y los Protocolos.
 
 En caso de que las y los docentes así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los alumnos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
@@ -1783,7 +1809,13 @@ IX. Asegurar la protección de datos personales y por tanto, deberán garantizar
 
 X. Cumplir con lo establecido en las disposiciones fiscales aplicables en el Estado para la prestación del servicio educativo a cargo de particulares, y
 
-XI. Las demás que señalen los ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
+
+XI. Observar, aplicar y vigilar el cumplimiento del Marco de Convivencia Escolar y los protocolos, según corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ABRIL DE 2019)</small>
+
+XII. Las demás que señalen los ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -2093,7 +2125,9 @@ Los medios de comunicación masiva, en el desarrollo de sus actividades, contrib
 
 Son infracciones de quienes presten servicios educativos:
 
-I. Contravenir cualquiera de las disposiciones previstas en la Ley General, la presente ley, así como en las disposiciones jurídicas que de ellas emanen;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+I. Contravenir cualquiera de las disposiciones previstas en la Ley General, la presente ley, el Marco de Convivencia Escolar, Protocolos, así como en las disposiciones jurídicas que de ellas emanen;
 
 II. Contravenir las disposiciones contempladas en los artículos 12, 50, 156, en el tercer párrafo del artículo 102 por lo que corresponde a las autoridades educativas y en el segundo párrafo del artículo 151 de la presente Ley;
 
@@ -2280,3 +2314,9 @@ P.O. 14 DE ABRIL DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se deroga toda disposición contraria a lo dispuesto en el presente decreto.
+
+P.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 312 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
