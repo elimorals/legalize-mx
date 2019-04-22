@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2019-03-01"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -599,7 +599,9 @@ h) Los procedimientos para fincar responsabilidades a los servidores públicos, 
 
 i) Las iniciativas de reformas a la normatividad del Poder Legislativo.
 
-II.- VIGILANCIA DE LA CUENTA PÚBLICA Y TRANSPARENCIA. Tendrá por objeto estudiar, analizar y dictaminar, sobre las atribuciones que le otorga la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán; los asuntos relacionados con la cuenta pública estatal y municipal; lo relacionado con la normatividad de transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia y las demás que le turne la Mesa Directiva.
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+II.- VIGILANCIA DE LA CUENTA PÚBLICA, TRANSPARENCIA Y ANTICORRUPCIÓN. Tendrá por objeto estudiar, analizar y dictaminar, sobre las atribuciones que le otorga la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán; los asuntos relacionados con la cuenta pública estatal y municipal; lo relacionado con la normatividad de transparencia y acceso a la información pública, así como conocer, analizar y dictaminar lo referente a las iniciativas en materia de anticorrupción; organizar foros de consulta con la finalidad de recibir y analizar propuestas que tiendan a mejorar la aplicación o en su caso adecuación de la legislación en materia de transparencia, protección de datos personales y anticorrupción; dar seguimiento al informe anual que rinda el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción a efecto de implementar cambios en la legislación cuando así lo proponga dicho informe; conocer del procedimiento para la elección de los integrantes de la Comisión de Selección del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Estatal Anticorrupción y en general, todo asunto relacionado con la materia y las demás que le turne la Mesa Directiva.
 
 III.- JUSTICIA Y SEGURIDAD PÚBLICA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con la procuración e impartición de justicia y la seguridad pública, para lo cual conocerá de:
 
@@ -1608,3 +1610,15 @@ Artículo Segundo.- La implementación de las reformas contenidas en el presente
 Derogación expresa
 
 Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 56/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación Expresa.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
