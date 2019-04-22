@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2018-07-25"
+last_updated: "2019-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -217,9 +217,13 @@ XII.- Fomentará la educación en materia de nutrición y estimulará la educaci
 
 XIII.- Fomentará la integración e interacción de los diferentes grupos que conforman la sociedad, a través de una educación congruente con las características propias de nuestra región;
 
-> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XIV.- Procurará que los profesores y educandos, con el apoyo de los padres de familia, participen activamente en el desarrollo económico, social y cultural de sus comunidades;
+XIII bis.- Establecer los lineamientos generales de carácter estatal, para la inclusión de la figura del trabajador social en cada una de las instituciones educativas de nivel básico, media superior, superior; y todas aquellas que cuenten con validez oficial;
+
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+XIV.- Procurará que los profesores, educandos y trabajadores sociales con el apoyo de los padres de familia, participen activamente en el desarrollo económico, social y cultural de sus comunidades;
 
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -329,13 +333,17 @@ XV.- Diseñar y ejecutar programas y acciones tendientes a fortalecer la autonom
 
 XVI.- Garantizar que, en las instituciones educativas de nivel básico y media superior, la integración por aula escolar no exceda de los 30 alumnos;
 
-> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XVII.- Garantizar en las instituciones educativas públicas de nivel básico o media superior, la inscripción a todas aquellas personas que deseen recibir educación, lo anterior, sin que el número máximo de 30 alumnos instaurado por aula escolar sea motivo alguno para negar dicha inscripción, y
+XVII.- Garantizar en las instituciones educativas públicas de nivel básico o media superior, la inscripción a todas aquellas personas que deseen recibir educación, lo anterior, sin que el número máximo de 30 alumnos instaurado por aula escolar sea motivo alguno para negar dicha inscripción,
 
-> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-XVIII.- Las demás que emanen del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de la Constitución Política del Estado y de esta Ley.
+XVIII.- Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de la Constitución Política del Estado y de esta Ley, y
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+XIX.- Supervisar que las instituciones y planteles del sistema estatal de educación, den cumplimiento a lo establecido en la fracción XIII bis del artículo 12 de esta ley.
 
 > <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -407,9 +415,17 @@ III.- El ingreso, promoción, reconocimiento y permanencia del personal docente 
 
 IV.- Los directivos y supervisores realicen su tarea ofreciendo los apoyos pedagógicos y administrativos que se requiera para el adecuado funcionamiento de los centros escolares;
 
-V.- Las actividades de otras instituciones o áreas de la administración pública que involucren a las escuelas se integren adecuadamente a los programas de trabajo de cada plantel, para que se realicen de manera productiva y enriquezcan el quehacer educativo, y
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-VI.- Los planteles de educación básica cuenten con su proyecto escolar.
+V.- Las actividades de otras instituciones o áreas de la administración pública que involucren a las escuelas se integren adecuadamente a los programas de trabajo de cada plantel, para que se realicen de manera productiva y enriquezcan el quehacer educativo,
+
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+VI.- Los planteles de educación básica cuenten con su proyecto escolar, y
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+VII.- Los directivos, docentes y trabajadores sociales reciban formación, actualización, capacitación y superación profesional constante.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 16 DE ABRIL DE 2014)</small>
 
@@ -477,7 +493,9 @@ I.- Atender de manera especial las escuelas en que, por estar en localidades ais
 
 II.- En las escuelas públicas, evitar que requisitos fijados por autoridades escolares o cuotas establecidas por asociaciones de padres de familia condicionen la inscripción y asistencia a clases de quien no pueda cumplir con ellos;
 
-III.- Apoyar mediante acciones específicas a los profesores que realicen su labor en localidades rurales aisladas o en zonas urbanas marginadas, así como en aquellas consideradas como de bajo desarrollo;
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+III.- Apoyar mediante acciones específicas a los profesores y trabajadores sociales que realicen su labor en localidades rurales aisladas o en zonas urbanas marginadas, así como en aquellas consideradas como de bajo desarrollo;
 
 IV.- Promover centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
@@ -593,9 +611,9 @@ Los consejos técnicos escolares procurarán la gestión de los recursos necesar
 
 El Sistema Educativo Estatal está constituido por:
 
-> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-I.- Los alumnos, los profesores, el personal de apoyo y asistencia a la educación, y los padres de familia;
+I.- Los alumnos, los profesores, los trabajadores sociales, el personal de apoyo y asistencia a la educación, y los padres de familia;
 
 II.- Las autoridades educativas a que se refiere el artículo 2 de esta ley y la estructura jerárquica de la Secretaría de Educación;
 
@@ -649,6 +667,18 @@ Los planes y programas de estudios, al igual que las normas administrativas y cu
 
 De igual manera, la formación integral del educando se fundamentará en una educación basada en valores, en los principios de tolerancia, de igualdad de género, del cuidado y protección del medio ambiente, así como del aprovechamiento sustentable de los recursos naturales.
 
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Artículo 32 bis.- Cada plantel educativo de nivel básico, medio superior, superior y las que cuenten con validez oficial; contarán con un trabajador social, con título de licenciatura. Será un profesionista con formación teórica interdisciplinaria de carácter humanista, con profundo respeto por la dignidad de todas las personas; deberá contar con capacidad para contribuir al bienestar social del estudiante, su familia y comunidad, favoreciendo su desarrollo sociocultural, económico, humanístico, emocional y psicológico.
+
+El trabajador social será responsable, en cada escuela de la atención de individuos o grupos que presenten o estén en riesgo de presentar, problemas de índole social, emocional, psicológico académico o situaciones de acoso escolar, para potenciar el desarrollo de las capacidades y facultades de las personas, para afrontar futuros problemas e integrarse satisfactoriamente en la vida académica; del mismo modo deberá contribuir al desarrollo integral del educando, en su proceso de adaptación al medio ambiente escolar, social y económico en el que se desenvuelva.
+
+El trabajador social de cada escuela concurrirá con voz, pero sin voto a las asociaciones de padres de familia.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Artículo 32 ter.- Los trabajadores sociales para el desempeño de sus labores deberán contar con un manual de trabajo o protocolo de acción emitido por la Secretaría de Educación pública.
+
 ###### Artículo 33.
 
 El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores, y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia, agrupaciones sociales e instituciones públicas y privadas.
@@ -665,7 +695,11 @@ III.- Garantizar la continuidad que requiere el proceso educativo, respetando el
 
 IV.- Realizar la evaluación formativa del aprovechamiento escolar de sus alumnos, y participar en los ejercicios de evaluación general que se realicen a nivel de la escuela o del sistema;
 
-V.- En el caso de alumnos menores de edad, mantener informados a los padres de familia o tutores del avance escolar de sus hijos o pupilos y promover relaciones de colaboración con ellos;
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+V.- En el caso de alumnos menores de edad, mantener informados a los padres de familia o tutores del avance escolar de sus hijos o pupilos y promover relaciones de colaboración con ellos; asimismo en caso de identificar conductas en los alumnos que requieran de la intervención del trabajador social del plantel, lo comunicará por escrito al responsable de la dirección mencionando el tipo de conducta observada.
+
+El responsable de la dirección dará la atención inmediata correspondiente.
 
 VI.- Participar en el consejo técnico de su escuela, especialmente en la elaboración del proyecto escolar;
 
@@ -705,9 +739,11 @@ La elección de los docentes frente a grupo que desempeñarán las funciones de 
 
 La Secretaría de Educación organizará y financiará una oferta académica para los docentes de la Entidad que destaquen en la evaluación del desempeño. Esta oferta será adicional a la prevista en el artículo 60 de la Ley General del Servicio Profesional Docente. Será un reconocimiento al desempeño y deberá corresponder a los requerimientos de las escuelas y regiones, para favorecer el desarrollo profesional de los maestros y el mejoramiento de la calidad educativa.
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 36.
 
-Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
+Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, trabajadores sociales, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
 
 > <small>(REFORMADO, D.O. 5 DE ENERO DE 2012)</small>
 
@@ -1831,6 +1867,8 @@ Artículo 79 Quaterdecies.- El instituto, por conducto de su junta de gobierno, 
 
 ### CAPÍTULO I. De los Consejos
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 80.
 
 En términos de la Ley General de Educación, la Secretaría de Educación podrá ajustar el calendario escolar establecido por la Secretaría de Educación Pública, de conformidad con las circunstancias del Estado, para cada ciclo lectivo de la educación preescolar, primaria, secundaria, normal y, demás, para la formación de docentes, a efecto de asegurar el tiempo necesario a los fines de la educación y para cumplir con eficacia los planes y programas.
@@ -1959,7 +1997,7 @@ El Estado podrá establecer un sistema de acreditación dirigido a quienes demue
 
 ###### Artículo 94.
 
-Los directores de planteles de educación básica formarán con el equipo docente de la escuela un consejo que tendrá, entre otras atribuciones, propiciar en la escuela un ambiente favorable para el logro de los objetivos formativos de la educación, y que funcionará de conformidad con el reglamento que para tal efecto expida la autoridad educativa.
+Los directores de planteles de educación básica formarán con el equipo docente y los trabajadores sociales de la escuela, un consejo que tendrá, entre otras atribuciones, propiciar en la escuela un ambiente favorable para el logro de los objetivos formativos de la educación, y que funcionará de conformidad con el reglamento que para tal efecto expida la autoridad educativa.
 
 ###### Artículo 95.
 
@@ -2053,9 +2091,9 @@ IV.- Respetar y vigilar que se cumplan los preceptos contenidos en la legislaci�
 
 V.- Cumplir con las disposiciones de la presente ley y demás normas aplicables, y
 
-> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-VI.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica.
+VI.- Colaborar con el personal docente y los trabajadores sociales en el diagnóstico y atención de las dificultades escolares de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica.
 
 ###### Artículo 102.
 
@@ -2374,3 +2412,15 @@ Artículo segundo. El Poder Ejecutivo del Estado de forma gradual desde la entra
 Artículo tercero. Las escuelas de educación básica y nivel medio superior, que cuente con infraestructura reducida y solo puedan prestar atención educativa a 20 o 25 alumnos, estas seguirán funcionando de la misma forma sin aumento de alumnos, en tanto estas, no sean ampliadas en cuanto a su infraestructura y equipamiento adecuado para la atención de hasta 30 alumnos.
 
 Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 59/2019 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE TRABAJADORES SOCIALES”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día 1 de enero de 2020, previa publicación en el diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Educación del Gobierno del Estado dispondrá del periodo comprendido entre la publicación del presente Decreto y el inicio del ciclo escolar 2020-2021 a fin de implementar los mecanismos de evaluación de aptitudes y conocimientos de los trabajadores sociales que se requieran en los planteles educativos del estado de Yucatán.
+
+Artículo Tercero.- El Ejecutivo del Estado deberá prever en su Presupuesto de Egresos de manera paulatina hasta el 2024 las partidas presupuestales necesarias que garanticen la contratación y pago de los trabajadores sociales que se requieran; así como celebrar convenios y acuerdos de colaboración.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente decreto.
