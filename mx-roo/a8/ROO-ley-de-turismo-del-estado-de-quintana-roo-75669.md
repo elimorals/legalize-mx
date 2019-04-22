@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2014-12-22"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -61,7 +61,9 @@ La presente ley tiene por objeto:
 
 I. Atender las bases generales de coordinación de las facultades concurrentes establecidas en la Ley General de Turismo, dictadas para el Ejecutivo Federal, el Ejecutivo del Estado y los Ayuntamientos del Estado, así como la participación de los sectores social y privado;
 
-II. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos nacionales, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+II. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos nacionales, preservando el patrimonio turístico, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
 
 III. Dictar bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los Municipios, a corto, mediano y largo plazo, las bases para la política, planeación y programación de la actividad turística en Quintana Roo;
 
@@ -207,6 +209,10 @@ f) Transporte terrestre o acuático, eventual o programado, para el servicio exc
 
 g) Otros servicios y actividades que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo.
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+XXIII. Patrimonio turístico: Conjunto de bienes, recursos naturales, culturales, históricos y de infraestructura turística que puedan utilizarse mediante un proceso de transformación para satisfacer sus necesidades turísticas.
+
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4 Bis.
@@ -263,7 +269,9 @@ I. Formular, conducir y evaluar la política turística en el Estado;
 
 II. Celebrar convenios en materia turística conforme a lo previsto en la Ley General;
 
-III. Aplicar los instrumentos de política turística previstos en la presente Ley, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas del Estado;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+III. Aplicar los instrumentos de política turística previstos en la presente Ley, así como la planeación, programación, fomento y desarrollo de la actividad y el patrimonio turístico del Estado;
 
 IV. Formular, ejecutar y evaluar las directrices previstas en el Plan Nacional de Desarrollo, en el Plan Estatal de Desarrollo y en el Programa Sectorial de Turismo;
 
@@ -1033,7 +1041,7 @@ IV.- Orientar a los turistas cuando éstos, hayan adquirido un seguro de asisten
 
 ###### Artículo 73.
 
-Bis.- La Secretaría, remitirá a la Comisión de Derechos Humanos del Estado de Quintana Roo, las denuncias relacionadas con presuntas violaciones que sufran los turistas a sus Derechos Humanos, cuando exista probable responsabilidad en lo que respecta a las autoridades y servidores de la administración pública federal, estatal o municipal.
+Bis.- (sic) La Secretaría, remitirá a la Comisión de Derechos Humanos del Estado de Quintana Roo, las denuncias relacionadas con presuntas violaciones que sufran los turistas a sus Derechos Humanos, cuando exista probable responsabilidad en lo que respecta a las autoridades y servidores de la administración pública federal, estatal o municipal.
 
 ###### Artículo 74.
 
@@ -1200,3 +1208,11 @@ P.O. 22 DE DICIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 311 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 3, LA FRACCIÓN III DEL ARTÍCULO 6 Y SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, TODOS DE LA LEY DE TURISMO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
