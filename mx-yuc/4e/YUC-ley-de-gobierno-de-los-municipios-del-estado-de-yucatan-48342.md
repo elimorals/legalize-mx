@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2018-03-28"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1506,6 +1506,18 @@ V.- El índice de contenido.
 ###### Artículo 80.
 
 Para la satisfacción de las necesidades colectivas de los habitantes, cada Ayuntamiento organizará las funciones y medios necesarios a través de una corporación de naturaleza administrativa que se denomina Administración Publica Municipal, cuyo funcionamiento corresponde encabezar de manera directa al Presidente Municipal en su carácter de órgano ejecutivo, quien podrá delegar sus funciones y medios en funcionarios bajo su cargo, en atención al ramo o materia, sin menoscabo de las facultades y atribuciones conferidas al Ayuntamiento.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Los Ayuntamientos destinarán el 3 por ciento de los puestos vacantes y de nueva creación a personas con alguna discapacidad.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Para los efectos del párrafo anterior, deberá de existir la disponibilidad y la solicitud para ocupar las mismas, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad.
 
 ###### Artículo 81.
 
@@ -3558,3 +3570,21 @@ El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prest
 Cuarto. Obligación normativa.
 
 El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 57/2019 POR EL QUE SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN LABORAL DE PERSONAS CON DISCAPACIDAD EN LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL”.]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Implementación.
+
+Para el caso de aquellas dependencias o entidades del Poder Ejecutivo del Estado que no cuenten de inmediato con disponibilidad o suficiencia presupuestal necesaria para la implementación de lo dispuesto en el presente Decreto, este entrará en vigor y comenzará a ser aplicado el día 1 de enero de 2020.
+
+Por lo que se refiere a los Ayuntamientos del Estado, en el supuesto de que no cuenten con disponibilidad o suficiencia presupuestal necesaria para la implementación de lo dispuesto en el presente Decreto, este entrará en vigor y comenzará a ser aplicado el día 1 de enero de 2020.
+
+Tercero. Derogación Expresa.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
