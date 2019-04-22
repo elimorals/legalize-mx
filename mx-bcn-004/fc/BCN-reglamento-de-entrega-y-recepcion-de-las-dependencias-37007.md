@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-entrega-y-recepcion-de-las-dependencias-37007"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-20"
-last_updated: "1998-11-27"
+last_updated: "2019-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,19 @@ state: "BCN"
 ---
 # REGLAMENTO DE ENTREGA Y RECEPCION DE LAS DEPENDENCIAS, DELEGACIONES Y ENTIDADES PARAMUNICIPALES DEL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO DE ENTREGA Y RECEPCION DE LAS DEPENDENCIAS, DELEGACIONES Y ENTIDADES PARAMUNICIPALES DEL GOBIERNO MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 22 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
+REGLAMENTO DE ENTREGA Y RECEPCIÓN DE LAS DEPENDENCIAS, DELEGACIONES Y ENTIDADES PARAMUNICIPALES DEL GOBIERNO MUNICIPAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de octubre de 1992.
 
 REGLAMENTO
 
-C O N S I D E R A N D O :.
+C O N S I D E R A N D O :
+
+[...]
 
 Que para el logro de una Administración agil y oportuna, que cummpla (sic) con los postulados generales del Servicio Público, se hace necesario que los Titulares de las Dependencias de la Administración Pública Municipal, rindan un informe de su gestión al separarse de sus empleos, cargos o comisiones, para que los Servidores Públicos que los sustituyan en sus obligaciones cuentan (sic) con los elementos necesarios que les permitan cumplir cabalmente con sus tareas y compromisos, se expide el siguiente:
 
@@ -277,7 +281,7 @@ designación del titular, se requiere utilizar la siguiente
 
 redacción:
 
-"…Quien ha sido designado por el C. (nombre del
+"Quien ha sido designado por el C. (nombre del
 
 puesto del servidor público responsable) mediante oficio
 
@@ -715,7 +719,7 @@ I. PROGRAMAS PRESUPUESTALES
 
 4.- Estados presupuestales de las asignaciones radiacadas (sic), comprometidas, devengadas (ejercidas), pagadas y disponibles, por programa, subprograma y unidad (en el caso de dependencias, por clave presupuestaria).
 
-5.- Informes de avance físico financieros de los programas presupuesto.
+5.- Informes de avance físico financieros de los programas (sic) presupuesto.
 
 6.- Transferencias de recursos o programas especiales y avances físico-financieros de su ejecución.
 
@@ -891,7 +895,7 @@ C. PROFRA. MA. BELEN MAGALLON C.
 
 Sin Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 27 DE NOVIEMBRE DE 1998.
 
@@ -900,3 +904,15 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO: Quedan derogadas todas aquellas disposiciones u ordenamientos municipales de carácter administrativo que se contrapongan a las presentes reformas.
 
 TERCERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, así mismo deberá publicarse en un diario de los de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+P.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, ASIMISMO SE ABROGA EL REGLAMENTO DE ENTREGA Y RECEPCIÓN DE LAS DEPENDENCIAS, DELEGACIONES Y ENTIDADES PARAMUNICIPALES DEL GOBIERNO MUNICIPAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento de Entrega y Recepción de las Dependencias, Delegaciones y Entidades Paramunicipales del Gobierno Municipal, Publicado en el Periódico Oficial No. 33, de fecha 20 de octubre de 1992, tomo XCIX.
+
+TERCERO.- Se derogan todas las disposiciones administrativas expedidas con anterioridad y que se opongan al presente Reglamento.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Baja California y en un periódico de mayor circulación y/o en la gaceta para conocimiento de los ciudadanos de esta ciudad de Tijuana, Baja California.
