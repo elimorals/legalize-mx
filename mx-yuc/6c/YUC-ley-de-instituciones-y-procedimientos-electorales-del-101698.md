@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-07-18"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -111,17 +111,23 @@ El Instituto, en el ámbito de sus atribuciones, dispondrá lo necesario para as
 
 ### CAPÍTULO I. De la integración
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 7.
 
-El ejercicio del Poder Legislativo se deposita en el Congreso, que se integra con 15 diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y 10 diputados electos por el sistema de representación proporcional.
+El ejercicio del Poder Legislativo se deposita en el Congreso, que se integra con 15 diputadas y diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y 10 diputadas y diputados electos por el sistema de representación proporcional.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 8.
 
-El Poder Ejecutivo se deposita en una persona que se denomina Gobernador del Estado de Yucatán.
+El Poder Ejecutivo se deposita en una persona que se denomina Gobernadora o Gobernador del Estado de Yucatán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 9.
 
-El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Cada Municipio será gobernado por un Ayuntamiento electo en forma directa mediante el voto popular, conforme a lo dispuesto en esta Ley, e integrado por Regidores, entre los cuales, uno será electo con el carácter de Presidente y otro, con el de Síndico.
+El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Cada Municipio será gobernado por un Ayuntamiento electo en forma directa mediante el voto popular, conforme a lo dispuesto en esta Ley, e integrado por Regidoras y Regidores, entre los cuales, uno será electo con el carácter de Presidenta o Presidente, y otro con el de Síndico.
 
 El Congreso determinará el número de Regidores a elegir por el principio de mayoría relativa y de representación proporcional, considerando las circunstancias poblacionales y los fenómenos demográficos establecidos por el Censo General de Población y Vivienda actualizado, y lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán, de la forma siguiente:
 
@@ -1087,7 +1093,9 @@ El Consejo General es el órgano superior de dirección, responsable del cumplim
 
 El Consejo General del Instituto se integra por:
 
-I. Un consejero presidente y seis consejeros electorales con derecho a voz y voto;
+> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+I. Una consejera presidenta o consejero presidente y seis consejeras y consejeros electorales con derecho a voz y voto;
 
 II. Un secretario ejecutivo, únicamente con derecho a voz, y
 
@@ -4435,9 +4443,11 @@ El Consejo General del Instituto expedirá las constancias de asignación a quie
 
 El Consejo General del Instituto, una vez expedida la constancia de mayoría de la elección de Gobernador del Estado, remitirá copia certificada de ésta y el informe circunstanciado del cómputo de la elección de Gobernador al Tribunal.
 
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 348.
 
-El Congreso del Estado expedirá el Decreto en el que declare al Gobernador Constitucional del Estado de Yucatán, conforme a lo dispuesto en la fracción XXI, inciso a), del artículo 30, de la Constitución, enviándolo al Ejecutivo Estatal, para su promulgación, una vez que haya recibido del Tribunal el dictamen que contenga el cómputo final y la declaración de validez de la elección y de Gobernador electo.
+El Congreso del Estado expedirá el Decreto en el que declare a la Gobernadora o Gobernador Constitucional del Estado de Yucatán, conforme a lo dispuesto en la fracción XXI, inciso a), del artículo 30, de la Constitución, enviándolo al Ejecutivo Estatal, para su promulgación, una vez que haya recibido del Tribunal el dictamen que contenga el cómputo final y la declaración de validez de la elección y de Gobernadora o Gobernador electo.
 
 # LIBRO QUINTO. DEL TRIBUNAL ELECTORAL DEL ESTADO DE YUCATÁN
 
@@ -5780,3 +5790,15 @@ El Congreso deberá expedir la convocatoria para la designación de los titulare
 Tercero. Titular del Órgano de Control Interno del Instituto
 
 El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 62/2019 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUSIVO CON RESPECTO A LA IGUALDAD DE GÉNERO".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
