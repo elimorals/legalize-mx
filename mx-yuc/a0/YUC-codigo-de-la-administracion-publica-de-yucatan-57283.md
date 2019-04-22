@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2018-11-23"
+last_updated: "2019-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -117,11 +117,15 @@ Los órganos de control interno, en ejercicio de su función de auditoría, se r
 
 La coordinación con la Administración Pública Federal, respecto de la planeación, programación, presupuestación y ejecución de los programas y proyectos de inversión, cuando proceda, se realizará a través de los órganos del Consejo de Planeación y Evaluación del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 10.
 
-Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la Administración Pública serán formuladas, aplicadas y coordinadas por la Secretaría de Administración y Finanzas.
+Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la administración pública serán formuladas, aplicadas y coordinadas por la Secretaría de Administración y finanzas, la cual en lo que respecta a la contratación de personal para ocupar los puestos vacantes o de nueva creación, destinará cuando menos al 3 por ciento de aquellas, a personas con alguna discapacidad, debiendo existir la disponibilidad y la solicitud para ocupar la misma, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Para los efectos del párrafo anterior, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de Ley General para la Inclusión de las Personas con Discapacidad.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -151,9 +155,11 @@ La delegación de atribuciones y facultades que realice el Gobernador del Estado
 
 La distribución de funciones que este Código establece para servidores públicos subalternos, no impedirá al Gobernador el ejercicio directo de sus atribuciones y facultades cuando así lo considere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+
 ###### Artículo 14.
 
-Son facultades y obligaciones del Gobernador del Estado, las siguientes:
+Son facultades y obligaciones de la Gobernadora o Gobernador del Estado, las siguientes:
 
 I.- Crear mediante decreto consejos, comisiones, comités, órganos normativos, técnicos, coordinadores, órganos de apoyo, por servicio, por función, por territorio o con criterio múltiple, a fin de lograr un funcionamiento y una operación más eficiente de los programas y acciones gubernamentales;
 
@@ -2161,6 +2167,14 @@ I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y
 
 II.- No encontrarse en alguno de los impedimentos señalados por el presente Código.
 
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2019)</small>
+
+III.- Contar con estudios técnicos o profesionales a fines (sic) con el objeto del organismo descentralizado.
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+
+Cuando se trate de organismos descentralizados o su equivalente, cuyo objeto sean de formación académica universitaria, deberá contar con título de maestría y experiencia académica comprobable.
+
 ###### Artículo 76.
 
 Los Directores Generales de los organismos descentralizados o sus equivalentes, en lo tocante a su representación legal, sin perjuicio de las facultades que se le otorguen en otras leyes, ordenamientos o estatutos, estarán facultados para:
@@ -3274,3 +3288,49 @@ Las dependencias correspondientes continuarán ejerciendo las atribuciones en ma
 Vigésimo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 57/2019 POR EL QUE SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN LABORAL DE PERSONAS CON DISCAPACIDAD EN LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL".]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Implementación.
+
+Para el caso de aquellas dependencias o entidades del Poder Ejecutivo del Estado que no cuenten de inmediato con disponibilidad o suficiencia presupuestal necesaria para la implementación de lo dispuesto en el presente Decreto, este entrará en vigor y comenzará a ser aplicado el día 1 de enero de 2020.
+
+Por lo que se refiere a los Ayuntamientos del Estado, en el supuesto de que no cuenten con disponibilidad o suficiencia presupuestal necesaria para la implementación de lo dispuesto en el presente Decreto, este entrará en vigor y comenzará a ser aplicado el día 1 de enero de 2020.
+
+Tercero. Derogación Expresa.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 62/2019 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAJE INCLUSIVO CON RESPECTO A LA IGUALDAD DE GÉNERO".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 22 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 64/2019 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS”.]
+
+Primero.- Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno (sic) Estado.
+
+Segundo.- Obligación normativa
+
+Los organismos descentralizados cuyo objeto sea educativo, en cualquiera de sus ramas o modalidades, de ser necesario deberán realizar las adecuaciones necesarias a sus estatutos orgánicos, dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Tercero.- Derogación
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
