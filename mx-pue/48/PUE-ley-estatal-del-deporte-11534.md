@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2017-03-07"
+last_updated: "2019-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -167,9 +167,11 @@ V.- Formular el Programa Estatal del Deporte y llevar a cabo las acciones que se
 
 VI.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, del presente artículo estableciendo los procedimientos para ello.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 11.
 
-Es de interés social la construcción, conservación y mantenimiento de las instalaciones deportivas que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte en el Estado.
+Es de interés social la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones deportivas que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte en el Estado.
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DEL DEPORTE
 
@@ -229,9 +231,9 @@ VIII. Promover el otorgamiento de estímulo a las personas que destaquen en algu
 
 IX. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-X. Promover las medidas necesarias a fin de prevenir y erradicar la violencia en el deporte; la implementación de sanciones conforme a su competencia a quienes la ejerzan, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas; y
+X.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin de prevenir y erradicar la violencia; Asimismo, implementar sanciones conforme a su competencia a quienes ejerzan violencia, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas; y
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
@@ -599,11 +601,11 @@ Para impugnar la determinación que resuelva el Recurso de Inconformidad, proced
 
 ### CAPITULO UNICO. DE LAS INSTALACIONES DEPORTIVAS
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 35.
 
-Se declara de interés social, la construcción, conservación y mantenimiento de instalaciones deportivas, el Gobierno del Estado a través de la Secretaría de Educación Pública del Estado, promoverá la participación de los sectores social y privado para el logro de los fines mencionados, de acuerdo a lo señalado en el Reglamento de la presente Ley.
+Se declara de interés social, la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de instalaciones deportivas, el Gobierno del Estado a través de la instancia encargada del deporte, promoverá la participación de los sectores social y privado para el logro de los fines mencionados, de acuerdo a lo señalado en el Reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -708,6 +710,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 7 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 1, 12, LAS FRACCIONES I Y VII DEL 14, LA FRACCIÓN XII DEL 18 Y EL ARTÍCULO 22 DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 11, LA FRACCIÓN X DEL 14 Y EL 35 DE LA LEY ESTATAL DEL DEPORTE".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
