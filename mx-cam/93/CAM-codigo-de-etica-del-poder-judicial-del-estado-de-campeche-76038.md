@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-del-poder-judicial-del-estado-de-campeche-76038
 country: "mx"
 rank: "codigo"
 publication_date: "2010-07-14"
-last_updated: "2010-07-14"
+last_updated: "2019-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
+CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el miércoles 14 de julio de 2010.
 
@@ -240,3 +240,19 @@ Así lo acuerdan y firman los Magistrados integrantes del H. Pleno del Tribunal 
 Secretaria Auxiliar Interina del Pleno, encargada de la Secretaría General de Acuerdos, quien certifica y da fe.- Rúbricas.
 
 Atentamente.- La Secretaria Auxiliar Interina del Pleno y Encargada de la Secretaría General de Acuerdos del H. Tribunal Superior de Justicia, Licenciada Beatriz Baqueiro Gutiérrez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE”.]
+
+Primero: Publíquese el presente Código de Ética en el Periódico Oficial del Estado.
+
+Segundo: El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero: Se abroga el Código de Ética del Poder Judicial del Estado de Campeche, publicado el día catorce de julio de dos mil diez en el Periódico Oficial del Estado, y se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
+
+Cuarto: Los Plenos del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local, dentro del ámbito de sus respectivas competencias, proveerán lo conducente para la promoción, difusión y observancia del presente Código, a través del Comité de Ética del Poder Judicial del Estado de Campeche.
+
+Quinto: Dentro de los seis meses siguientes a la publicación de las presentes modificaciones y adiciones, la Dirección de Recursos Humanos, hará llegar a todas y cada una de las áreas jurisdiccionales y administrativas de este Poder Judicial, el documento que contenga la Carta Compromiso a que se hace referencia en el Capítulo Séptimo, para su adhesión por parte de los titulares y del personal a sus cargos (sic), mismo que deberá ser integrado al expediente personal de cada uno de los funcionarios y empleados. Los Magistrados y Consejeros procederán a la suscripción de la Carta Compromiso, conforme a las modalidades que para tal efecto fijen, mediante Acuerdo, los Plenos del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura Local. En los casos de nuevo ingreso del personal, la adhesión correspondiente deberá hacerse de manera simultánea a la entrega del nombramiento o firma del contrato respectivo.
