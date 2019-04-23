@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2019-04-01"
+last_updated: "2019-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -839,9 +839,13 @@ VI.- Dictámenes emitidos por las comisiones y, en su caso, iniciativas con car�
 
 VII.- Discusión y resolución;
 
-VIII.- Otros asuntos;
+> <small>(ADICIONADA, G.G. 23 DE ABRIL DE 2019)</small>
 
-IX.- Clausura de la sesión.
+VIII.- Proposiciones de acuerdo;
+
+IX.- Otros asuntos;
+
+X.- Clausura de la sesión.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
@@ -1049,17 +1053,25 @@ Las iniciativas que el Gobernador del Estado presentare con carácter de prefere
 
 Si las iniciativas carecen del apartado previsto por el inciso c) de la fracción citada, el Presidente solicitará de inmediata (sic) a su autor que subsane la omisión dentro del plazo de 48 horas y ordenará que las iniciativas se turnen a comisiones una vez recibida la información. Si la omisión no es subsanada dentro del plazo citado, podrá presentarlas nuevamente dentro del mismo período de sesiones con el carácter de preferente, si aún se encontrare dentro del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México. Si dicho plazo hubiere transcurrido sin que la omisión hubiere sido subsanada, las iniciativas se tendrán por presentadas sin el carácter de preferente.
 
+> <small>(REFORMADO, G.G. 23 DE ABRIL DE 2019)</small>
+
 ###### Artículo 72.
 
-Las proposiciones que no tengan el carácter de iniciativas de ley o decreto, presentadas por uno o más miembros de la Legislatura, sin formar mayoría quienes la suscriben, se sujetarán a los trámites siguientes:
+Las proposiciones con punto de acuerdo serán presentadas, respecto de asuntos de interés general; cuyos efectos repercutan al Estado de México, así como exhortar respetuosamente en el ámbito de colaboración entre los Poderes del estado, la realización o cesación en la ejecución de determinados actos, el cumplimiento concreto de obligaciones, y se sujetarán a los (sic) siguientes bases:
 
-I.- Deberán presentarse por escrito y firmadas por el diputado o diputados que las proponen y serán leídas durante la sesión en que sean presentadas, pudiendo el autor, o uno de ellos, hacer uso de la palabra a fin de exponer los motivos y fundamentos de la propuesta;
+I. Deberán registrarse ante la presidencia de la Legislatura o la Secretaría de Asuntos Parlamentarios, y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta cinco minutos.
 
-II.- Harán uso de la palabra un diputado en contra de la proposición y otro en pro, por una sola vez;
+II. Ninguna proposición podrá discutirse en el pleno sin que primero pase a la Comisión o Comisiones y éstas dictaminen. En caso de resultar positivo el dictamen, se remitirá a la Directiva a fin de que se enliste en el orden del día de la sesión a fin de que se programe su discusión y votación en el pleno. En caso negativo, se comunicará al autor, y si persiste el interés de discutirse se someterá al pleno de la Legislatura para su resolución.
 
-III.- Agotadas las intervenciones se preguntará a la Asamblea si se admite o no a trámite la proposición, en caso afirmativo se turnará a las comisiones que corresponda y en caso contrario se tendrá por desechada.
+III. Sólo podrá dispensarse el requisito de dictamen de las proposiciones que por acuerdo se califique como de urgente y/o de obvia resolución.
 
-Si los firmantes constituyeren mayoría, el presidente acordará el trámite que corresponda.
+IV. El número de proposiciones que podrán registrarse en cada sesión será el que la Conferencia para la Dirección y Programación de los Trabajos Legislativos determine atendiendo al desahogo eficiente del orden del día.
+
+V. El retiro de una proposición corresponderá sólo a su autor y respecto a las que se presenten a nombre de Grupo Parlamentario, el retiro podrá hacerlo el Coordinador correspondiente, en ambos supuestos, deberá solicitarse a la Directiva antes de iniciar su discusión en el pleno.
+
+VI. La Junta de Coordinación Política o la Legislatura, podrá respaldar previa autorización del proponente la presentación de aquellas proposiciones de acuerdo que se le presenten para su incorporación en el orden del día como asuntos de urgente u obvia resolución, haciendo el reconocimiento que corresponda.
+
+Al finalizar de (sic) cada periodo ordinario, la Directiva presentará un informe al pleno, sobre el estado de las proposiciones de acuerdo, y sobre las respuestas a los acuerdos aprobados en donde se informará de la o las autoridades a la que vayan dirigidas, la fecha en la que se les notificó a éstas, si se (sic) recibieron o no la respuesta, y en su caso una sinopsis de la respuesta emitida.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1985,7 +1997,7 @@ Para ser Director General de Comunicación Social se requiere:
 
 I. Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
 
-ll. No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
+II. No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
 
 III. Poseer conocimiento profesional en cualquier ramo de comunicación o afin a sus funciones.
 
@@ -2125,7 +2137,7 @@ Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatur
 
 I. (DEROGADA, G.G. 20 DE DICIEMBRE DE 2016)
 
-Il. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
+II. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
 
 III. Ser designado por el pleno de la Legislatura, a propuesta de la Junta de Coordinación Política contando con la aprobación del Comité de Estudios Legislativos;
 
@@ -2638,3 +2650,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se instruye a la Dirección General de Comunicación Social para que dé a conocer esta Iniciativa a la ciudadanía mediante los mecanismos correspondientes a fin de cumplir con el principio de máxima publicidad y el derecho de acceso a la información pública;
+
+G.G. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 42.- POR EL QUE SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 42 Y SE REFORMA EL ARTÍCULO 72 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
