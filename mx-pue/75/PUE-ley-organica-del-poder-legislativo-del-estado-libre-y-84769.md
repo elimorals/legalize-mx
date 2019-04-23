@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-03-04"
+last_updated: "2019-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -103,31 +103,49 @@ c) Órgano Técnico Administrativo: El área del Congreso que cumple funciones d
 
 XVI.- Auditoría Superior del Estado de Puebla: Unidad de Fiscalización, Control y Evaluación a que se refiere el artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla y 112 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
 
-XVII.- Permiso: La autorización de un Órgano Legislativo del Congreso del Estado para que alguno de sus integrantes pueda retirarse de una sesión o reunión;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-XVIII.- Pleno: Es la Asamblea de Diputados y máxima autoridad del Poder Legislativo;
+XVII.- Paridad de Género: Principio Constitucional que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que los derechos de las Diputadas y los Diputados se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
 
-XIX.- Punto de Acuerdo: La determinación institucional que el Congreso asume respecto a un asunto que no sean Leyes o Decretos;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-XX.- Quórum: El número de Diputados requerido para que los Órganos Legislativos puedan iniciar y desarrollar sus sesiones;
+XVIII.- Permiso: La autorización de un Órgano Legislativo del Congreso del Estado para que alguno de sus integrantes pueda retirarse de una sesión o reunión;
 
-XXI.- Sesión: La reunión formal de los Órganos Legislativos para desahogar el orden del día;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-XXII.- Suplencia: El mecanismo para poder ejercer a las funciones del cargo de Diputado;
+XIX.- Pleno: Es la Asamblea de Diputados y máxima autoridad del Poder Legislativo;
 
-XXIII.- Turno: La determinación que dicta el Presidente de la Mesa Directiva o de la Comisión Permanente, durante la sesión, para enviar los asuntos a la instancia respectiva, con el fin de darles el curso legal correspondiente;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XX.- Punto de Acuerdo: La determinación institucional que el Congreso asume respecto a un asunto que no sean Leyes o Decretos;
 
-XXIV.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XXI.- Quórum: El número de Diputados requerido para que los Órganos Legislativos puedan iniciar y desarrollar sus sesiones;
 
-XXV.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente, y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XXII.- Sesión: La reunión formal de los Órganos Legislativos para desahogar el orden del día;
 
-XXVI.- IILFS "Gilberto Bosques Saldívar": Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar".
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+XXIII.- Suplencia: El mecanismo para poder ejercer a las funciones del cargo de Diputado;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+XXIV.- Turno: La determinación que dicta el Presidente de la Mesa Directiva o de la Comisión Permanente, durante la sesión, para enviar los asuntos a la instancia respectiva, con el fin de darles el curso legal correspondiente;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+XXV.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+XXVI.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+XXVII.- IILFS "Gilberto Bosques Saldívar": Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar".
 
 ###### ARTÍCULO 3.
 
@@ -297,7 +315,9 @@ La Comisión Permanente de la Legislatura saliente, auxiliada por el Secretario 
 
 Presentes en el recinto de Sesiones, la Comisión Permanente de la Legislatura saliente realizará las siguientes acciones:
 
-I.- Exhortar a los Diputados electos a que en votación secreta y por mayoría de votos, elijan la primera Mesa Directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto en esta Ley; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+I.- Exhortar a los Diputados electos a que en votación secreta y por mayoría de votos, elijan la primera Mesa Directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto en esta Ley, atendiendo el principio de paridad de género en su integración; y
 
 II.- Realizar el escrutinio y comunicar a los Diputados electos la integración de la nueva Mesa Directiva.
 
@@ -379,21 +399,29 @@ Los Órganos Legislativos y los Órganos de Representación darán preferencia a
 
 La Comisión Permanente, será la encargada de recibir la información relativa a la entrega-recepción de los Órganos Legislativos y los Órganos de Representación que concluyen su mandato, y realizar la entrega de la misma a la primera Mesa Directiva, de conformidad con lo dispuesto por el artículo 29 de la presente Ley; salvo lo previsto en el artículo 38 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-La Contraloría Interna del Congreso será la encargada de verificar que los responsables de los Órganos Legislativos y Órganos de Representación realicen la entrega de la información a la Comisión Permanente, para que ésta se encuentre en posibilidades de realizar la entrega de la información a la Mesa Directiva entrante.
+El Órgano Interno de Control del Congreso será el encargado de verificar que los responsables de los Órganos Legislativos y Órganos de Representación realicen la entrega de la información a la Comisión Permanente, para que ésta se encuentre en posibilidades de realizar la entrega de la información a la Mesa Directiva entrante.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 35.
 
-La Comisión Permanente para efecto de la entrega correspondiente, deberá realizar acta de entrega-recepción, con presencia de la Contraloría Interna del Congreso; las actas firmadas por los Diputados, sólo acreditan la recepción material de la información y de los bienes entregados, sin que esto exima a los servidores públicos salientes de las responsabilidades en que puedan incurrir.
+La Comisión Permanente para efecto de la entrega correspondiente, deberá realizar acta de entrega-recepción, con presencia del Órgano Interno de Control del Congreso; las actas firmadas por los Diputados, sólo acreditan la recepción material de la información y de los bienes entregados, sin que esto exima a los servidores públicos salientes de las responsabilidades en que puedan incurrir.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-La primera Mesa Directiva de la Legislatura se encuentra obligada a la recepción de la información por parte de la Comisión Permanente; quien deberá turnar la información a los Órganos Legislativos, Órganos de Representación y Órganos Técnicos Administrativos, previa instalación de los mismos, para que estos sean los responsables de analizar y resguardar la información otorgada y en su caso, dar parte a la Contraloría Interna del Congreso de las irregularidades detectadas.
+La primera Mesa Directiva de la Legislatura se encuentra obligada a la recepción de la información por parte de la Comisión Permanente; quien deberá turnar la información a los Órganos Legislativos, Órganos de Representación y Órganos Técnicos Administrativos, previa instalación de los mismos, para que estos sean los responsables de analizar y resguardar la información otorgada y en su caso, dar parte al Órgano Interno de Control del Congreso de las irregularidades detectadas.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 37.
 
-La Contraloría Interna del Congreso deberá rendir un informe por escrito a la Mesa Directiva, dentro de los noventa días naturales posteriores al acto de entrega-recepción, en el cual se relacionen, en su caso, la existencia de las irregularidades detectadas. La Mesa Directiva hará del conocimiento del Pleno del Congreso el informe en cuestión.
+El Órgano Interno de Control del Congreso deberá rendir un informe por escrito a la Mesa Directiva, dentro de los noventa días naturales posteriores al acto de entrega-recepción, en el cual se relacionen, en su caso, la existencia de las irregularidades detectadas. La Mesa Directiva hará del conocimiento del Pleno del Congreso el informe en cuestión.
 
 ###### ARTÍCULO 38.
 
@@ -479,13 +507,17 @@ El incumplimiento de cualquiera de estas obligaciones, podrá ser causa de respo
 
 En el ejercicio de sus funciones legislativas, fiscalizadoras, de representación y de gestión, todos los Diputados tienen igual derecho de participación, decisión, voz, voto y gozan de los derechos siguientes:
 
-I.- Formar parte de las Comisiones y Comités para los cuales sean nombrados;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+I.- Formar parte de las Comisiones y Comités para los cuales sean nombrados, atendiendo el principio de paridad de género en su integración;
 
 II.- Presentar iniciativas de Ley, Decreto y Acuerdo;
 
 III.- Elegir a los integrantes de la Mesa Directiva, Comisiones y Comités del Congreso del Estado;
 
-IV.- Ser electos para integrar la Mesa Directiva, Comisiones y Comités del Congreso del Estado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+IV.- Ser electos para integrar la Mesa Directiva, Comisiones y Comités del Congreso del Estado, atendiendo el principio de paridad de género en su integración;
 
 V.- Formar parte de un Grupo o Representación Legislativa, siempre que se cumplan los requisitos establecidos en esta Ley;
 
@@ -671,7 +703,9 @@ b) Representaciones Legislativas.
 
 III.- Órganos Técnicos Administrativos:
 
-a) Contraloría Interna del Congreso, dependiente de la Junta de Gobierno y Coordinación Política;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
+a) Órgano Interno de Control del Congreso, dependiente de la Junta de Gobierno y Coordinación Política;
 
 b) Secretaría General, dependiente de la Junta de Gobierno y Coordinación Política;
 
@@ -699,9 +733,11 @@ I.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
 
 II.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 65.
 
-La Mesa Directiva se integra por un Presidente, un Vice-presidente, dos Secretarios y dos Pro-secretarios.
+La Mesa Directiva se integra por un Presidente, un Vice-presidente, dos Secretarios y dos Pro-secretarios, atendiendo el principio de paridad de género en su integración.
 
 ###### ARTÍCULO 66.
 
@@ -723,9 +759,9 @@ A las reuniones de la Mesa Directiva concurrirá el Secretario General quien fun
 
 La elección de la Primera Mesa Directiva de cada legislatura se sujetará al procedimiento dispuesto por el artículo 27 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
-Dentro de los cinco días anteriores al cumplimiento del encargo de la Primera y Segunda Mesa Directiva, el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, procederá a elegir a los integrantes de la Mesa Directiva que corresponda.
+Dentro de los cinco días anteriores al cumplimiento del encargo de la Primera Mesa Directiva, el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, procederá a elegir a los integrantes de la Segunda Mesa Directiva, atendiendo el principio de paridad de género en su integración.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -895,9 +931,11 @@ Los Secretarios serán substituidos en sus ausencias por los Pro-secretarios.
 
 La Comisión Permanente es un Órgano Legislativo que funciona durante los periodos de receso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 80.
 
-La Comisión Permanente se integra por nueve Diputados, cuyos integrantes serán los de la Mesa Directiva correspondiente, asumiendo las funciones de Presidente y Secretario, el Presidente y Vicepresidente, respectivamente, y como miembros los Secretarios y Pro-secretarios. Los tres vocales restantes serán electos por el Pleno, a propuesta de la Junta de Gobierno y Coordinación Política, en la última sesión del periodo ordinario correspondiente.
+La Comisión Permanente se integra por nueve Diputados, cuyos integrantes serán los de la Mesa Directiva correspondiente, asumiendo las funciones de Presidente y Secretario, el Presidente y Vicepresidente, respectivamente, y como miembros los Secretarios y Pro-Secretarios. Los tres vocales restantes serán electos por el Pleno, a propuesta de la Junta de Gobierno y Coordinación Política, en la última sesión del periodo ordinario correspondiente, atendiendo el principio de paridad de género en su integración.
 
 El nombramiento de la Comisión Permanente correspondiente al último periodo de sesiones del tercer año de ejercicio legal, se comunicará al Consejo General del Instituto Electoral del Estado y al Tribunal Electoral del Estado.
 
@@ -951,9 +989,11 @@ I.- Acta en la que se haga constar que la mayoría de los Diputados de un mismo 
 
 II.- Los Diputados con derecho a asumir una Representación Legislativa solicitarán su registro por escrito para tal efecto ante la Mesa Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 88.
 
-Los Grupos Legislativos deberán acreditar su formación y designar Coordinador en la segunda sesión del primer año de ejercicio legal de la Legislatura, quien podrá ser removido en cualquier tiempo por la mayoría de sus integrantes, observando lo dispuesto en el artículo anterior.
+Los Grupos Legislativos deberán acreditar su formación y designar Coordinador en la segunda sesión del primer año de ejercicio legal de la Legislatura, procurando atender el principio de paridad de género en su designación, quien podrá ser removido en cualquier tiempo por la mayoría de sus integrantes.
 
 En el supuesto de que los Diputados pertenecientes a un mismo partido político no lleguen a un acuerdo respecto de quien fungirá como Coordinador del Grupo Legislativo respectivo, comunicarán esta situación a la Mesa Directiva y la designación a que se refiere el párrafo anterior podrá realizarse en cualquier momento.
 
@@ -989,13 +1029,15 @@ II.- El setenta por ciento del monto total de la partida presupuestal será repa
 
 Todos los Grupos y Representaciones Legislativas deberán comprobar el gasto de dichos recursos y en su caso, rendir cuentas de los mismos ante el área competente del Congreso.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 94.
 
-Antes de concluir la Legislatura, los Coordinadores o Representantes Legislativos son responsables dentro del proceso de entrega-recepción de los bienes asignados a su Grupo o Representación Legislativos, mismos que deberán poner a disposición de la Contraloría Interna del Congreso, a fin de que sean entregados al Coordinador entrante del mismo Grupo o Representación Legislativa.
+Antes de concluir la Legislatura, los Coordinadores o Representantes Legislativos son responsables dentro del proceso de entrega-recepción de los bienes asignados a su Grupo o Representación Legislativos, mismos que deberán poner a disposición del Órgano Interno de Control del Congreso, a fin de que sean entregados al Coordinador entrante del mismo Grupo o Representación Legislativa.
 
-Los activos y bienes de un Grupo o Representación Legislativa que no se hayan conformado en la nueva Legislatura, deberán ser puestos por la Contraloría Interna del Congreso a disposición de la Junta de Gobierno y Coordinación Política para su asignación respectiva, por parte de quien fuera Coordinador o Representante.
+Los activos y bienes de un Grupo o Representación Legislativa que no se hayan conformado en la nueva Legislatura, deberán ser puestos por el Órgano Interno de Control del Congreso a disposición de la Junta de Gobierno y Coordinación Política para su asignación respectiva, por parte de quien fuera Coordinador o Representante.
 
-La cuenta anual de las subvenciones asignadas a los Grupos y Representaciones Legislativas, se incorporará a la cuenta pública del Congreso del Estado y se remitirá copia a la Contraloría Interna del Congreso.
+La cuenta anual de las subvenciones asignadas a los Grupos y Representaciones Legislativas, se incorporará a la cuenta pública del Congreso del Estado y se remitirá copia al Órgano Interno de Control del Congreso.
 
 ### CAPÍTULO V. DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA
 
@@ -1045,23 +1087,29 @@ III.- Presentar al Pleno por conducto de la Mesa Directiva, proyectos de puntos 
 
 IV.- Establecer el Programa de Trabajo Legislativo;
 
-V.- Proponer al Pleno los reglamentos, manuales de organización y procedimientos de los Órganos y Dependencias que se encuentren a su cargo, previa opinión de la Contraloría Interna del Congreso;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-VI.- Proponer la integración de las Comisiones Generales y las Especiales, así como de los Comités para su aprobación por el Pleno;
+V.- Proponer al Pleno los reglamentos, manuales de organización y procedimientos de los Órganos y Dependencias que se encuentren a su cargo, previa opinión del Órgano Interno de Control del Congreso;
 
-VII.- Proponer al Pleno la sustitución de los integrantes de las Comisiones y de los Comités, en los supuestos previstos por esta Ley;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+VI.- Proponer la integración de las Comisiones Generales y las Especiales, así como de los Comités para su aprobación por el Pleno, procurando atender el principio de paridad de género en su integración;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+VII.- Proponer al Pleno la sustitución de los integrantes de las Comisiones y de los Comités, en los supuestos previstos por esta Ley, procurando atender el principio de paridad de género en su integración;
 
 VIII.- Coordinar las tareas políticas y administrativas de la Legislatura, que no se encuentren reservadas a ningún otro Órgano Legislativo;
 
 IX.- Establecer las políticas, lineamientos y estrategias de comunicación social del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones del Secretario General del Congreso del Estado, del Auditor Superior del Estado de Puebla, del Contralor Interno y del Titular del Instituto de Investigaciones Legislativos (sic), Financieras y Socioeconómicas; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
+X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones de los Titulares de la Secretaría General del Congreso del Estado, de la Auditoría Superior del Estado de Puebla, del Órgano Interno de Control, así como del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, otorgándoles para el efecto el nombramiento respectivo; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, así como a los de las Unidades, correspondientes, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
+XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política, y cuyos nombramientos serán expedidos por el Presidente de la misma; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, así como a los de las Unidades, correspondientes, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
 XII.- Proponer para su aprobación en el Pleno, el Proyecto de Presupuesto Anual del Congreso, conforme lo dispone la ley de la materia;
 
@@ -1071,9 +1119,17 @@ XIV.- Autorizar la celebración de convenios de coordinación y colaboración co
 
 XV.- Procurar la más amplia difusión a las labores de los Órganos Legislativos y del Pleno, utilizando los avances en materia de tecnologías de la información;
 
-XVI.- Aprobar el anteproyecto elaborado por la Secretaría General relativo a la regulación del Servicio Profesional de Carrera Legislativa del Congreso; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
-XVII.- Las demás que le confiera esta Ley o su Reglamento Interior.
+XVI.- Aprobar el anteproyecto elaborado por la Secretaría General relativo a la regulación del Servicio Profesional de Carrera Legislativa del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2019)</small>
+
+XVII.- Conocer de los procedimientos que tramite y sustancie el Órgano Interno de Control del Congreso del Estado, en materia de responsabilidades administrativas en que llegaren a incurrir los Diputados en el desempeño de sus funciones, a afecto de que los mismos sean turnados al Pleno para su trámite y resolución procedente, de conformidad con las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2019)</small>
+
+XVIII.- Las demás que le confiera esta Ley o su Reglamento Interior.
 
 ###### ARTÍCULO 101.
 
@@ -1089,7 +1145,9 @@ IV.- Someter a la Junta de Gobierno y Coordinación Política, el anteproyecto d
 
 V.- Proponer a la Junta de Gobierno y Coordinación Política la creación de las dependencias administrativas que sean necesarias para el adecuado funcionamiento del Poder Legislativo;
 
-VI.- Conocer de las resoluciones y sanciones que por responsabilidad administrativa imponga la Contraloría Interna del Congreso al personal administrativo del Congreso del Estado, con excepción de aquéllos cuyo nombramiento haya sido aprobado por el Pleno;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+VI.- Conocer de las resoluciones y sanciones que por responsabilidad administrativa imponga el Órgano Interno de Control del Congreso al personal administrativo del Congreso del Estado, con excepción de aquéllos cuyo nombramiento haya sido aprobado por el Pleno;
 
 VII.- Presidir el Comité del Servicio Profesional de Carrera Legislativa a que se refiere el Estatuto correspondiente;
 
@@ -1263,7 +1321,9 @@ Son Comisiones Generales las que tienen como función analizar y discutir las de
 
 La elección de las Comisiones Generales se hará por planilla a propuesta de la Junta de Gobierno y Coordinación Política, por mayoría de votos y en votación secreta durante la tercera sesión del Primer Periodo Ordinario de Sesiones del primer año del ejercicio Constitucional.
 
-La Junta de Gobierno y Coordinación Política hará las propuestas de Presidentes de las Comisiones Generales y de integrantes de cada una de ellas, reflejando de manera proporcional el número de Diputados del Pleno que corresponda a cada Grupo y Representación Legislativa.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
+La Junta de Gobierno y Coordinación Política hará las propuestas de Presidentes de las Comisiones Generales y de integrantes de cada una de ellas, reflejando de manera proporcional el número de Diputados del Pleno que corresponda a cada Grupo y Representación Legislativa, procurando atender el principio de paridad de género en su integración.
 
 ###### ARTÍCULO 121.
 
@@ -1291,7 +1351,9 @@ IV.- Presupuesto y Crédito Público;
 
 V.- Desarrollo Rural;
 
-VI.- Desarrollo Social;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+
+VI.- Bienestar;
 
 VII.- Comunicaciones e Infraestructura;
 
@@ -1387,9 +1449,11 @@ Tendrán el carácter de Especiales, las Comisiones que se integren para tratar 
 
 Para el buen desempeño de sus funciones se regularán conforme a lo establecido en la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 126.
 
-Las Comisiones Especiales conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Junta de Gobierno y Coordinación Política, por acuerdo, a petición de cualquiera de los Diputados, el cual contendrá su objeto, el número de los integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. En su integración deberán reflejar la pluralidad del Congreso.
+Las Comisiones Especiales conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Junta de Gobierno y Coordinación Política, por acuerdo, a petición de cualquiera de los Diputados, el cual contendrá su objeto, el número de los integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. En su integración deberán reflejar la pluralidad del Congreso y el principio de paridad de género.
 
 ###### ARTÍCULO 127.
 
@@ -1413,7 +1477,9 @@ Los Comités están integrados hasta por siete Diputados de los cuales uno funge
 
 La elección de los Comités se hace por planilla a propuesta de la Junta de Gobierno y Coordinación Política, por mayoría de votos y en votación secreta aprobada por el Pleno.
 
-La Junta de Gobierno y Coordinación Política debe cuidar que su propuesta incorpore a los Diputados pertenecientes a los distintos Grupos y Representaciones Legislativas, observando la proporción que éstos representan en el Pleno.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
+La Junta de Gobierno y Coordinación Política debe cuidar que su propuesta incorpore a los Diputados pertenecientes a los distintos Grupos y Representaciones Legislativos, observando la proporción que éstos representan en el Pleno, atendiendo el principio de paridad de género en su integración.
 
 ###### ARTÍCULO 131.
 
@@ -1937,9 +2003,11 @@ El Congreso del Estado establecerá el Servicio Profesional de Carrera Legislati
 
 El Servicio Profesional de Carrera Legislativa tendrá como propósito profesionalizar y hacer más eficiente los servicios legislativos y de orden administrativo, garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación permanente del personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 197.
 
-El Congreso del Estado expedirá el Estatuto del Servicio Profesional de Carrera Legislativa y vigilará su cumplimiento; éste deberá contener por lo menos lo siguiente:
+El Congreso del Estado expedirá el Estatuto del Servicio Profesional de Carrera Legislativa, mismo que deberá contener disposiciones que garanticen la paridad de género y vigilará su cumplimiento; éste deberá contener por lo menos lo siguiente:
 
 I.- El sistema de mérito para la selección, promoción y ascenso de los servidores públicos del Poder Legislativo;
 
@@ -1975,43 +2043,75 @@ El Auditor Superior del Estado de Puebla, será nombrado conforme al procedimien
 
 La Auditoría Superior del Estado de Puebla, tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, el Reglamento Interior de la misma Auditoría Superior del Estado y demás disposiciones aplicables.
 
-### CAPÍTULO III. DE LA CONTRALORÍA INTERNA DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO III. DEL ÓRGANO INTERNO DE CONTROL DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 201.
 
-El Congreso del Estado contará con una Contraloría Interna, Dependencia encargada de recibir quejas, denuncias e inconformidades de orden administrativo y substanciar los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Congreso del Estado, así como intervenir en los procedimientos de entrega-recepción administrativa conforme a ésta y demás leyes de la materia, recibir para su conocimiento los manuales operativos de las Dependencias y, en su caso, auxiliarlas en la elaboración de los mismos.
+El Titular del Órgano Interno de Control del Congreso será nombrado o removido por la mayoría absoluta del Pleno a propuesta de la Junta de Gobierno y Coordinación Política, y desempeñará su encargo por el periodo de una Legislatura, pudiendo ser ratificado.
 
-El Titular de la Contraloría Interna del Congreso será nombrado o removido por la mayoría absoluta del Pleno a propuesta de la Junta de Gobierno y Coordinación Política.
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competan contará con las siguientes Coordinaciones:
 
-El Titular de la Contraloría Interna del Congreso desempeñará su encargo por el periodo de una Legislatura y podrá ser ratificado.
+a) Coordinación de Quejas, Denuncias e Investigaciones quien tendrá a su cargo la investigación de faltas administrativas. La función de la Autoridad Investigadora, en ningún caso podrá ser ejercida por una Autoridad substanciadora;
+
+b) Coordinación de Responsabilidades Administrativas responsable de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial por faltas administrativas no graves. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+
+c) Coordinación de Auditoría Interna y Control, quien tendrá a su cargo coordinar y dirigir las auditorías, revisiones, inspecciones y seguimientos.
+
+Sin perjuicio de lo anterior, el Órgano Interno de Control contará con las jefaturas de departamento y servidores públicos de confianza y aquellos que sean necesarios para el cumplimiento de sus funciones de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 202.
 
-La Contraloría Interna del Congreso orgánicamente dependerá de la Junta de Gobierno y Coordinación Política y tendrá las siguientes atribuciones:
+El Órgano Interno de Control del Congreso dependerá de la Junta de Gobierno y Coordinación Política, y tendrá las siguientes atribuciones:
 
-I.- Proponer y aplicar las normas y criterios internos en materia de revisión, evaluación y control que deban observar los Grupos y Representaciones Legislativas, Dependencias, Órganos, Coordinaciones y Unidades Administrativas que ejerzan recursos del presupuesto de egresos del Congreso del Estado;
+I.- Presentar en el mes de diciembre a la Junta de Gobierno y Coordinación Política, un plan anual de trabajo y de evaluación sobre las auditorías y revisiones de control interno que se practicará a los Grupos y Representaciones Legislativas, Dependencias, Órganos, Coordinaciones y Unidades Administrativas, o cuando le sea requerido el mismo.
 
-II.- Vigilar que las Dependencias y Unidades Administrativas cumplan con las políticas y programas establecidos por la Junta de Gobierno y Coordinación Política;
+II.- Proponer y aplicar las normas y criterios internos en materia de revisión, evaluación y control que deban observar los Grupos y Representaciones Legislativas, Dependencias, Órganos, Coordinaciones y Unidades Administrativas que ejerzan recursos del Presupuesto de Egresos del Congreso del Estado, previa autorización de la Junta de Gobierno y Coordinación Política;
 
-III.- Vigilar los procedimientos, actos y contratos de adquisición de bienes y contratación de servicios que se lleven a cabo de conformidad con la Ley de la materia y su Reglamento Interior;
+III.- Vigilar los procedimientos, actos y contratos de adquisición de bienes y contratación de servicios que se lleven a cabo de conformidad con la normatividad aplicables (sic);
 
-IV.- Presentar a la Junta de Gobierno y Coordinación Política un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido;
+IV.- Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir Faltas Administrativas, en los términos establecidos por el Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas y evaluar anualmente sus resultados;
 
-V.- Proponer recomendaciones y medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Congreso del Estado y darles seguimiento;
+V.- Revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos del Congreso;
 
-VI.- Vigilar la entrega de las declaraciones patrimoniales de los Diputados y servidores públicos del Congreso del Estado, conforme a la Ley de la materia y en su caso, requerir información adicional, así como realizar las investigaciones correspondientes;
+VI.- Programar, ordenar y realizar auditorías y revisiones de control interno y proponer las recomendaciones y medidas preventivas o correctivas que estime convenientes para el correcto desarrollo administrativo del Congreso del Estado y darles seguimiento;
 
-VII.- Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos al Congreso del Estado;
+VII.- Revisar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo, con eficiencia y eficacia, que los registros contables, financieros y presupuestales sean correctos, y se garantice la salvaguarda de los bienes patrimoniales del Congreso;
 
-VIII.- Sustanciar los procedimientos disciplinarios por actos u omisiones de los servidores públicos al servicio del Congreso del Estado, aplicar las sanciones que correspondan en los términos que señale la Ley de Responsabilidades de los Servidores Públicos del Estado, y en su caso, solicitar se formulen las denuncias correspondientes ante el Ministerio Público;
+VIII.- Recibir y dar seguimiento a las quejas y denuncias por presuntas Faltas Administrativas de los Servidores Públicos del Congreso o de los Particulares, en términos de la Ley General en la materia, y turnarlas a la Autoridad Investigadora competente para el inicio del trámite respectivo;
 
-IX.- Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes competen a la Contraloría Interna del Congreso, previa autorización de la Junta de Gobierno y Coordinación Política; y
+IX.- Iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa, cuando se traten de actos u omisiones calificados como Faltas Administrativas no Graves;
 
-X.- Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
+X.- Iniciar, substanciar y remitir al Tribunal de Justicia Administrativa del Estado, los autos originales del expediente para la continuación del procedimiento y su resolución por dicho Tribunal, cuando se traten de Faltas Administrativas Graves de servidores públicos adscritos a los órganos técnicos administrativos o de Particulares por conductas sancionables en términos de la Ley estatal y general de en (sic) la materia;
+
+XI.- Recibir y vigilar la entrega de las declaraciones patrimoniales de los Diputados y demás servidores públicos del Congreso del Estado, conforme a la Ley de la materia y en su caso, requerir información adicional, dar seguimiento a su evolución y turnar para la práctica de las investigaciones correspondientes que permitan identificar la existencia o no de presuntas infracciones;
+
+XII.- Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada de Combate a la Corrupción o, en su caso, instar a la Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos, con conocimiento de la Junta de Gobierno y Coordinación Política, a que formule las querellas respectivas en el supuesto de detectar conductas que puedan ser constitutivas de delitos;
+
+XIII.- Resolver el recurso de revocación que interpongan los Servidores Públicos del Congreso del Estado, respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales;
+
+XIV.- Recibir, tramitar y resolver, las inconformidades que presenten los particulares con motivo de los actos del procedimiento de contratación realizados por los Servidores Públicos del Congreso, así como realizar las intervenciones de oficio que resulten pertinentes a partir de las inconformidades que conozca;
+
+XV.- Resolver los recursos de revisión que se interpongan en contra de las resoluciones dictadas por el encargado del Área de Responsabilidades Administrativas del Órgano Interno de Control del Congreso, respecto de los procedimientos de contratación para la adquisición de bienes y servicios, así como aquéllos otros que le correspondan en términos de las disposiciones jurídicas aplicables;
+
+XVI.- Instruir y participar de manera directa o través (sic) de un representante de acuerdo con las disposiciones normativas aplicables, en los actos de entrega-recepción del Congreso;
+
+XVII.- Llevar los registros de las personas inhabilitadas para el ejercicio del servicio público, de las declaraciones de situación patrimonial y de intereses, y de los demás asuntos de su competencia;
+
+XVIII.- Expedir las copias certificadas de los documentos que se encuentren en su archivo; y
+
+XIX.- Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 203.
 
-Para ocupar el cargo de Contralor del Congreso del Estado, se requiere:
+Para ocupar el cargo de Titular del Órgano Interno de Control del Congreso del Estado, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
@@ -2064,6 +2164,10 @@ VI.- (DEROGADA, P.O. 29 DE JULIO DE 2016)
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 La Secretaría General y las Direcciones Generales contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2019)</small>
+
+En términos de lo dispuesto por el párrafo anterior y con el fin de garantizar la personalidad y certeza de las actuaciones del personal de confianza del Congreso del Estado, el Secretario General emitirá los nombramientos respectivos.
 
 ###### ARTÍCULO 207.
 
@@ -2666,3 +2770,41 @@ P.O. 4 DE MARZO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El Diputado que a la fecha de la publicación del presente Decreto presida la Mesa Directiva de la LX Legislatura del Honorable Congreso del Estado Libre y Soberano de Puebla, lo hará en los términos y condiciones que del mismo se desprenden.
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE INTEGRACIÓN DE LAS COMISIONES GENERALES, ESPECIALES Y COMITÉS, ATENDIENDO EL PRINCIPIO DE PARIDAD DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ COMO LA FRACCIÓN VI Y EL INCISO A) DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Bienestar estará conformada por los mismos integrantes de la Comisión de Desarrollo Social que cambia de denominación.
+
+TERCERO. Los asuntos presentados o turnados que se encuentran en trámite en la Comisión de Desarrollo Social, pasarán para su análisis y resolución procedente a la Comisión de Bienestar.
+
+CUARTO. Todos los actos suscritos por la Comisión de Desarrollo Social y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Bienestar.
+
+QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Desarrollo Social, se entenderá a la Comisión de Bienestar conforme al presente Decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Los procedimientos administrativos iniciados antes de la entrada en vigor del presente Decreto, concluirán su trámite en observancia de la legislación vigente a su inicio.
+
+TERCERO. El Congreso del Estado contará con noventa días hábiles, a partir de la publicación del presente Decreto, para realizar las adecuaciones reglamentarias necesarias en términos del presente Decreto.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Contraloría Interna se entenderá al Órgano Interno de Control.
