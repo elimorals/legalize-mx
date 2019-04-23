@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2018-01-26"
+last_updated: "2019-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -453,9 +453,13 @@ c) Analizar y proponer al Gobierno del Estado la implementación de nuevos avanc
 
 d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-VI.- DESARROLLO SOCIAL:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ABRIL DE 2019)</small>
 
-a) La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población;
+VI.- Bienestar:
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+
+a).- La legislación que en materia de bienestar social sea necesaria para el mejoramiento de la calidad de vida de la población;
 
 b) Adecuación del marco normativo para el establecimiento de acciones o programas tendientes a combatir la pobreza extrema; y
 
@@ -3318,3 +3322,19 @@ P.O. 26 DE ENERO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ COMO LA FRACCIÓN VI Y EL INCISO A) DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Bienestar estará conformada por los mismos integrantes de la Comisión de Desarrollo Social que cambia de denominación.
+
+TERCERO. Los asuntos presentados o turnados que se encuentran en trámite en la Comisión de Desarrollo Social, pasarán para su análisis y resolución procedente a la Comisión de Bienestar.
+
+CUARTO. Todos los actos suscritos por la Comisión de Desarrollo Social y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Bienestar.
+
+QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Desarrollo Social, se entenderá a la Comisión de Bienestar conforme al presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
