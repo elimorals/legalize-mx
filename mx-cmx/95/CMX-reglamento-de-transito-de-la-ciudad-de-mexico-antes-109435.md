@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2019-04-16"
+last_updated: "2019-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-08-17"
 ---
 # REGLAMENTO DE TRANSITO DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2019.]</small>
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -2920,7 +2920,7 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 
 > <small>[N. DE E. VÉASE ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 49 A LA 98.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO EN LA G.O. DE 6 DE DICIEMBRE DE 2018, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO, G.O. 6 DE DICIEMBRE DE 2018, PÁGINA 4; G.O. 23 DE ABRIL DE 2019, PÁGINA 3.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 2 RED VIAL PRIMARIA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 99 A LA 111.]</small>
 
@@ -2968,4 +2968,14 @@ G.O. 16 DE ABRIL DE 2019.
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+> <small>(F. DE E., G.O. 23 DE ABRIL DE 2019)</small>
+
+SEGUNDO.- El presente decreto entrará en vigor el día veintitrés de abril de dos mil diecinueve.
+
+G.O. 23 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
