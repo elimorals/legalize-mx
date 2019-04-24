@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-de-los-servidores-publicos-de-la-117071"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-10-19"
-last_updated: "2016-10-19"
+last_updated: "2019-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2019 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 19 de octubre de 2016.
 
@@ -480,3 +482,17 @@ Segundo.- Corresponde a la Secretaría de la Función Pública, en colaboración
 Tercero.- Para el cumplimiento de sus funciones se apoyará con los recursos humanos financieros y materiales con que cuenten las dependencias y entidades
 
 EN CUMPLIMIENTO DE LO DISPUESTO EN EL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS Y PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA, EXPIDO EL PRESENTE CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL GOBIERNO DEL ESTADO. DADO EN EL DESPACHO DEL PODER EJECUTIVO EN LA CIUDAD DE ZACATECAS, A LOS VEINTINUEVE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISÉIS. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. LA SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. LA SECRETARIA DE LA FUNCIÓN PÚBLICA.- PAULA REY ORTIZ MEDINA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Segundo. Se abroga el Código de Ética de los Servidores Públicos de la Administración Pública del Gobierno del Estado, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 19 de octubre del 2016.
+
+Tercero. Los Comités de Ética que estén conformados previo a la entrada en vigor del presente Código, quedarán vigentes.
+
+Cuarto. Las dependencias y entidades de la administración pública, dentro del plazo de 90 días hábiles deberán emitir sus respectivos Códigos de Conducta.
