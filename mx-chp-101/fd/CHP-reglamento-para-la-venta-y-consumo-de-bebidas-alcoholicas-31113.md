@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-31113
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-12"
-last_updated: "2010-05-12"
+last_updated: "2019-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHP"
 ---
 # REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE VERIFICACIONES Y CLAUSURAS EN EL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS , PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -744,3 +746,15 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
+
+P.O. 24 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE VERIFICACIONES Y CLAUSURAS EN EL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga todo lo establecido en el Reglamento para la Venta y Consumo de Bebidas Alcohólicas en el Municipio de Tuxtla Gutiérrez, Chiapas; así como todas las reformas, adiciones y demás disposiciones que se opongan a lo dispuesto en el presente reglamento.
+
+Artículo Tercero.- El Comité Dictaminador al que se refiere este Reglamento deberá Instalarse de manera inmediata, a partir de la fecha en que este ordenamiento entre en vigor.
+
+Artículo Cuarto.- Publíquese este reglamento en la Gaceta Municipal y dese la difusión debida.
