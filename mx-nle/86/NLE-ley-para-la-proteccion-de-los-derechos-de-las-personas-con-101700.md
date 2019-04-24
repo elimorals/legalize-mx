@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-04-03"
+last_updated: "2019-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -133,9 +133,11 @@ Los sectores público, social y privado, en términos de lo dispuesto por este a
 
 Los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por origen étnico o nacional, género, edad, transtorno (sic) de talla, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquier otra que atente contra su dignidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2019)</small>
+
 ###### Artículo 5.
 
-Los principios que deberán observar las políticas públicas en la materia, son:
+Los principios que deberán observar las políticas públicas en la materia son:
 
 I. La equidad;
 
@@ -161,9 +163,17 @@ XI. La transversalidad;
 
 XII. El diseño universal;
 
-XIII. La igualdad entre mujeres y hombres con discapacidad; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2019)</small>
 
-XIV. La no discriminación por motivos de discapacidad.
+XIII. La igualdad entre mujeres y hombres con discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2019)</small>
+
+XIV. La no discriminación por motivos de discapacidad; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2019)</small>
+
+XV. El de pro persona.
 
 ###### Artículo 6.
 
@@ -1038,3 +1048,9 @@ Segundo.- Las autoridades Estatales y municipales, tendrán tres años a partir 
 Artículo Tercero.- La contratación de personas con discapacidad se realizará preferentemente sin incrementar la plantilla laboral de las administraciones públicas Estatal y municipales.
 
 El Estado y los Municipios, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 24 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 120. SE MODIFICAN LAS FRACCIONES XIII Y XVI, Y SE ADICIONAN (SIC) LA FRACCIÓN XV AL ARTÍCULO 5 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
