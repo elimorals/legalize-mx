@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-financiero-del-instituto-de-seguridad-social-del-873
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-16"
-last_updated: "2012-03-16"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO FINANCIERO DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 16 de marzo de 2012.
 
@@ -197,9 +197,11 @@ Por cada miembro titular del Comité de Inversiones, se nombrará un suplente, q
 
 Todos los miembros del Comité tendrán voz y voto, a excepción de los representantes de la Secretaría de la Contraloría y de la Unidad Jurídica y Consultiva, quienes solo tendrá (sic) derecho a voz.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2019)</small>
+
 ###### Artículo 19.
 
-El Comité, sesionará cuando menos dos veces cada mes de manera ordinaria, de acuerdo al programa que previamente apruebe, y podrá celebrar sesiones extraordinarias cuando los asuntos a tratar así lo ameriten.
+El Comité sesionará cada dos meses de manera ordinaria de acuerdo al programa que previamente apruebe y podrá celebrar sesiones extraordinarias cuando los asuntos a tratar así lo ameriten.
 
 ###### Artículo 20.
 
@@ -502,3 +504,11 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMA EL ARTÍCULO 19 DEL REGLAMENTO FINANCIERO DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
