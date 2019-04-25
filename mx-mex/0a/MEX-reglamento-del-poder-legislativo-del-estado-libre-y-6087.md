@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2019-04-23"
+last_updated: "2019-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1027,6 +1027,10 @@ Si la sesión no pudiera efectuarse por falta de quórum, se girará nuevo citat
 
 El diputado que presente una iniciativa se denominará diputado presentante.
 
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2019)</small>
+
+La presentación de iniciativas será hasta por diez minutos, así como las proposiciones que no tengan tal carácter.
+
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
 
 ###### Artículo 69.
@@ -1034,6 +1038,10 @@ El diputado que presente una iniciativa se denominará diputado presentante.
 Las iniciativas que no provengan de los diputados, serán leídas por uno de los secretarios, sin perjuicio de que puedan darle lectura los tres, o incluso los vicepresidentes, siempre que sea recomendable por la extensión de aquéllas.
 
 Se dará lectura a un documento síntesis de las iniciativas presentadas ante el pleno, salvo disposición expresa en otro sentido.
+
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2019)</small>
+
+La presentación de iniciativas ante el Pleno será hasta por diez minutos.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1137,6 +1145,10 @@ Concluido un dictamen, el presidente de la comisión lo remitirá al Presidente 
 
 El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura únicamente, a la parte introductoria, los antecedentes, y a los puntos resolutivos; y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
 
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2019)</small>
+
+La presentación de dictámenes será hasta por diez minutos.
+
 Lo anterior será aplicable, en lo conducente, a las comisiones y comités.
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
@@ -1239,9 +1251,11 @@ El orador que hubiese solicitado el uso de la palabra y no esté presente al mom
 
 Concedido el uso de la palabra por el presidente, los diputados podrán hacer uso de la misma desde su curul o en la tribuna. Cuando sea concedido al Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, éstas harán uso de la voz desde la tribuna; tratándose de representantes con niveles de mando superior que hubiesen designado para tal fin, éstas harán uso de la misma desde el lugar que les hubiese sido asignado en el salón de sesiones. La tribuna sólo podrá ser utilizada con carácter exclusivo por la persona a quien haya sido concedido el uso de la palabra.
 
+> <small>(REFORMADO, G.G. 25 DE ABRIL DE 2019)</small>
+
 ###### Artículo 100.
 
-En uso de la palabra el orador en turno, dispondrá hasta de quince minutos para exponer su posición respecto al dictamen en discusión y sólo a éste se referirá en su discurso; agotado el tiempo, podrá solicitar una prórroga, hasta por diez minutos. En caso de contravenir las disposiciones de la ley o el reglamento será llamado al orden por el presidente.
+En uso de la palabra, el orador en turno, dispondrá hasta de diez minutos para exponer su posición respecto del dictamen en discusión y sólo a éste se referirá en su discurso. En caso de contravenir las disposiciones de la ley o el reglamento será llamado al orden por la Presidencia de la Directiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MARZO DE 2011)</small>
 
@@ -2662,3 +2676,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 25 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 43.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 68, UN TERCER PÁRRAFO AL ARTÍCULO 69, Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN LO SUBSECUENTE, AL ARTÍCULO 81 Y SE REFORMA EL ARTÍCULO 100 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
