@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-la-80739"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-22"
-last_updated: "2017-04-26"
+last_updated: "2019-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA, DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN LA G.G. DE 25 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 22 de marzo de 2011.
 
@@ -538,3 +540,17 @@ PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial “Gaceta del
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a las establecidas en el presente acuerdo.
+
+G.G. 25 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA".]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto Mexiquense de la Infraestructura Física Educativa, publicado en el Periódico Oficial "Gaceta del Gobierno", el veintidós de marzo de dos mil once.
+
+CUARTO.- Con la entrada en vigor del presente Reglamento, cuando en otros ordenamientos jurídicos o administrativos y demás documentos, se haga referencia a la Dirección de Programación de Obras, se entenderá que es la Coordinación de Programación; a la Dirección Técnica, se entenderá que es la Coordinación de Obra; a la Dirección de Administración y Finanzas, se entenderá que es la Coordinación de Administración y Finanzas; a la Unidad de Asuntos Jurídicos, se entenderá que es la Unidad de Asuntos Jurídicos e Igualdad de Género; y a la Contraloría Interna, se entenderá que es el Órgano Interno de Control.
+
+QUINTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a las establecidas en el presente Reglamento.
