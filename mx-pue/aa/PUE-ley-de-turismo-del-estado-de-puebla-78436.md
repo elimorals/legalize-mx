@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2016-11-10"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -259,9 +259,17 @@ XVII.- Coadyuvar con el Ejecutivo Federal en materia de clasificación de establ
 
 XVIII.- Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en los términos que de estos ordenamientos se desprenda;
 
-XIX.- Emitir opiniones a la Secretaría de Turismo Federal; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
 
-XX.- Las demás previstas en esta Ley y otros ordenamientos aplicables.
+XIX.- Emitir opiniones a la Secretaría de Turismo Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2019)</small>
+
+XX.- Fomentar e implementar la inclusión de las Tecnologías de la Información en materia turística; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ABRIL DE 2019)</small>
+
+XXI.- Las demás previstas en esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 14.
 
@@ -431,7 +439,7 @@ V.- Organización interna; y
 
 VI.- Forma de sesionar.
 
-## TÍTULO SEGUNDO. DE LA POLÍTICA, PLANEACIÓN y PROGRAMACIÓN DE LA ACTIVIDAD TURÍSTICA
+## TÍTULO SEGUNDO. DE LA POLÍTICA, PLANEACIÓN Y PROGRAMACIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ### CAPÍTULO I. DE LA POLÍTICA PÚBLICA DE LA ACTIVIDAD TURÍSTICA
 
@@ -719,7 +727,7 @@ La Secretaría en conjunto con la Secretaría de Educación Pública del Estado,
 
 ###### Artículo 43 Bis.
 
-Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino especifico.
+Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1005,7 +1013,7 @@ I.- Ser considerados en las estrategias de relaciones públicas, difusión y pro
 
 II.- Participar en el Consejo Consultivo de Turismo de conformidad con las reglas de organización del mismo;
 
-III.- Ser incluidos en los catálogos, directorios y guías turísticas elaboradas por la Secretaria, siempre y cuando cumplan con las disposiciones legales en la materia;
+III.- Ser incluidos en los catálogos, directorios y guías turísticas elaboradas por la Secretaría, siempre y cuando cumplan con las disposiciones legales en la materia;
 
 IV.- Recibir información y asesoría técnica de la Secretaría, para elevar la calidad de sus servicios;
 
@@ -1252,3 +1260,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base en los cuáles se otorgue el galardón materia del artículo 70 Bis de la Ley de Turismo del Estado de Puebla.
+
+P.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIX Y XX DEL 13, Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 13 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
