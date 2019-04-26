@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2018-10-02"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -63,6 +63,8 @@ La creación y supresión de municipios y secciones municipales, modificación a
 
 ### CAPÍTULO SEGUNDO. ORGANIZACIÓN TERRITORIAL
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 5º.
 
 Los municipios del Estado se denominan y tienen como cabeceras municipales:
@@ -79,15 +81,19 @@ V. Carmen, con cabecera en la ciudad del Carmen;
 
 VI. Champotón, con cabecera en la ciudad de Champotón;
 
-VII. Escárcega, con cabecera en la ciudad de Escárcega;
+VII. Dzitbalché, con cabecera en la ciudad de Dzitbalché;
 
-VIII. Hecelchakán, con cabecera en la ciudad de Hecelchakán;
+VIII. Escárcega, con cabecera en la ciudad de Escárcega;
 
-IX. Hopelchén, con cabecera en la ciudad de Hopelchén;
+IX. Hecelchakán, con cabecera en la ciudad de Hecelchakán;
 
-X. Palizada, con cabecera en la ciudad de Palizada; y,
+X. Hopelchén, con cabecera en la ciudad de Hopelchén;
 
-XI. Tenabo, con cabecera en la ciudad de Tenabo.
+XI. Palizada, con cabecera en la ciudad de Palizada;
+
+XII. Seybaplaya, con cabecera en la ciudad de Seybaplaya; y
+
+XIII. Tenabo, con cabecera en la ciudad de Tenabo.
 
 ###### ARTÍCULO 6º.
 
@@ -2574,3 +2580,11 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al
 SEGUNDO.- Los Ayuntamientos determinarán, dentro de su estructura orgánica y con el personal con que dispongan, el área encargada de llevar el registro a que se refiere este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 47 POR EL QUE "SE REFORMA EL ARTÍCULO 5º DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas al artículo 4° de la Constitución Política del Estado, con motivo de la creación de los Municipios de Seybaplaya y de Dzitbalché, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
