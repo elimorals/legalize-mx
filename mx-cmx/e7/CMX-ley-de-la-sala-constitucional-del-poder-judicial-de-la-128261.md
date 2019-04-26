@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-sala-constitucional-del-poder-judicial-de-la-128261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128261&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, REGLAMENTARIA DEL ARTÍCULO 36 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE ABRIL DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1068,8 +1068,20 @@ La declaratoria de inconstitucionalidad se remitirá al titular de la Gaceta Ofi
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
-SEGUNDO.- El presente decreto entrará en vigor el 1 de enero de 2019. Respecto a la designación de las y los integrantes de la Sala Constitucional, se deberán nombrar a más tardar el 31 de enero de 2019.
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
+
+SEGUNDO.- El presente decreto entrará en vigor el 1 de julio de 2019. Respecto a la designación de las y los integrantes de la Sala Constitucional, se deberán nombrar a más tardar el 1 de diciembre de 2019.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los tres días del mes de mayo del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente reforma entrará en vigor inmediatamente después de que entre (sic) entren en vigor las reformas correspondientes al articulado transitorio de la Constitución de la Ciudad de México aludido en este decreto.
