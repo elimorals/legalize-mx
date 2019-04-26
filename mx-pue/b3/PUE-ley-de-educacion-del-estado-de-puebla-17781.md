@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2017-12-29"
+last_updated: "2019-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -155,7 +155,9 @@ Estos servicios se ofrecerán en el marco del Nuevo Federalismo y la concurrenci
 
 Todos los habitantes del Estado deben cursar la educación básica y media superior.
 
-En el Estado los padres o tutores tienen la obligación de que sus hijos, hijas o pupilos, hombres y mujeres, menores de edad cursen la educación preescolar, la primaria, la secundaria y media superior.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2019)</small>
+
+En el Estado los padres o tutores tienen la obligación de que sus hijos, hijas o pupilos, hombres y mujeres, menores de edad cursen la educación preescolar, la primaria, la secundaria y media superior; debiéndose considerar de manera primordial en todo momento el interés superior de la niñez en la impartición de la educación.
 
 ###### ARTÍCULO 6.
 
@@ -2088,3 +2090,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
