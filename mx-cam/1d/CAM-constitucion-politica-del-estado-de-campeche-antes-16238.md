@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2018-07-13"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -61,11 +61,11 @@ La porción del Territorio Nacional que corresponde al Estado, es la que ha sido
 
 La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 4.
 
-El territorio del Estado comprende los Municipios que a continuación se expresan: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas Del Real, La Herradura y Las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que para su régimen judicial, fiscal y electoral determinen las leyes secundarias respectivas.
+El territorio del Estado comprende los Municipios que a continuación se expresan: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Dzitbalché, Escárcega, Hecelchakán, Hopelchén, Palizada, Seybaplaya y Tenabo, más el litoral que corresponde a las salinas denominadas Del Real, La Herradura y Las Desconocidas, Islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que para su régimen judicial, fiscal y electoral determinen las leyes secundarias respectivas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -3132,3 +3132,25 @@ Cuarto.- El H. Tribunal Superior de Justicia del Estado deberá promover las ade
 Quinto.- Los Poderes Ejecutivo y Judicial promoverán las adecuaciones presupuestarias ante la autoridad correspondiente, para el cabal cumplimiento de lo dispuesto en el presente decreto.
 
 Sexto.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 46 POR EL QUE “SE REFORMA EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1º de enero del año 2021 previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Entretanto se celebran las elecciones que tendrán lugar el primer domingo de junio del año 2021, fecha en la que se elegirán los primeros ayuntamientos de los Municipios Libres de Seybaplaya y de Dzitbalché, la administración de cada uno de los nuevos municipios quedará a cargo de un Comité Municipal que se constituirá con los miembros que actualmente integran las Juntas Municipales de la Sección Municipal de Seybaplaya y de la Sección Municipal de Dzitbalché que se constituyen como nuevos municipios.
+
+TERCERO.- Los Comités Municipales deberán quedar formalmente instalados el día 15 de noviembre del año 2020, únicamente para el efecto de presentar las iniciativas de Leyes de Ingresos, sus Zonificaciones Catastrales y las Tablas de Valores Unitarios de Suelo y Construcción para el ejercicio fiscal 2021, la aprobación de sus Presupuestos de Egresos para el mismo ejercicio fiscal y cualesquiera otros instrumentos jurídicos necesarios para sus regímenes legales. A partir del 1º de enero del año 2021 los Comités Municipales se harán cargo de la administración de los nuevos municipios de Seybaplaya y de Dzitbalché hasta el 30 de septiembre de ese mismo año.
+
+CUARTO.- Los Poderes Ejecutivo y Legislativo dentro del ámbito de sus respectivas competencias, deberán realizar las reformas necesarias a la legislación estatal para el debido cumplimiento de este decreto, las cuales deberán entrar en vigor en su oportunidad.
+
+Todo lo no previsto en este decreto se estará a lo que las leyes secundarias estatales determinen.
+
+QUINTO.- De manera gradual, el acervo documental, contable, financiero, fiscal, administrativo y legal que se encuentre en trámite, posesión, resguardo o archivo de las Juntas Municipales de Seybaplaya y de Dzitbalché respectivamente, quedarán a cargo de los nuevos Municipios de Seybaplaya y de Dzitbalché. Asimismo, todo lo relacionado con lo anterior que se encuentre actualmente a cargo de los Municipios de Champotón y de Calkiní deberá trasladarse a las autoridades de los nuevos municipios de Seybaplaya y de Dzitbalché. Del mismo modo deberá procederse con los recursos humanos, financieros y materiales que se encuentren asignados a las Juntas Municipales de Seybaplaya y de Dzitbalché para proveer la existencia y operación de los municipios de nueva creación.
+
+SEXTO.- Quedan salvaguardados los derechos adquiridos por los servidores públicos adscritos a las Juntas Municipales de Seybaplaya y de Dzitbalché, que quedarán incorporados con todos sus derechos a la planta laboral de los nuevos Municipios de Seybaplaya y de Dzitbalché.
+
+SÉPTIMO.- El organismo público local electoral preverá, en un plazo contado desde la publicación del presente decreto hasta antes del inicio del proceso electoral, todo lo relativo a la elección de los nuevos Ayuntamientos de los Municipios de Seybaplaya y de Dzitbalché, conforme a lo dispuesto en la legislación general y estatal en materia electoral.
+
+OCTAVO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
