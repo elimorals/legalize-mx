@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-02-08"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -4632,9 +4632,13 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diari
 
 (NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-TERCERO.- DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, LA PRESENTE LEY ENTRARÁ EN VIGOR EL UNO DE JUNIO DEL AÑO DOS MIL DIECINUEVE, CON EXCEPCIÓN A LAS RELATIVAS AL CONSEJO JUDICIAL CIUDADANO Y EL CONSEJO DE LA JUDICATURA, QUE INICIARÁN SU VIGENCIA EL UNO DE OCTUBRE DE DOS MIL DIECIOCHO.
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
 
-CUARTO.- Las normas relativas a la Sala Constitucional empezarán su vigencia el uno de enero del año dos mil diecinueve.
+TERCERO.- DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, LA PRESENTE LEY ENTRARÁ EN VIGOR EL UNO DE JUNIO DEL AÑO DOS MIL DIECINUEVE, CON EXCEPCIÓN A LAS RELATIVAS AL CONSEJO JUDICIAL CIUDADANO Y EL CONSEJO DE LA JUDICATURA, QUE INICIARÁN SU VIGENCIA EN TÉRMINOS DE LO DISPUESTO POR EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO ANTERIORMENTE CITADO.
+
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
+
+CUARTO.- Las normas relativas a la Sala Constitucional empezarán su vigencia el 1 de julio del año 2019.
 
 QUINTO.- Al momento de la entrada en vigor de la Ley Orgánica del Poder Judicial de la Ciudad de México, quedarán abrogadas la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y los ordenamientos legales contrarios al presente Decreto.
 
@@ -4673,3 +4677,11 @@ G.O. 8 DE FEBRERO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor de conformidad con lo dispuesto en el Artículo Décimo Primero Transitorio de la Constitución Política de la Ciudad de México.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente reforma entrará en vigor inmediatamente después de que entre (sic) entren en vigor las reformas correspondientes al articulado transitorio de la Constitución de la Ciudad de México aludido en este decreto.
