@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-04-12"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1577,7 +1577,7 @@ VII. Dictar las resoluciones y ejecutar los actos que resulten necesarios para e
 
 VIII. Conocer del recurso de revisión, en los términos de la presente Ley;
 
-IX. Autorizar, en el mes de diciembre los periodos vacacionales del año siguiente del personal de la Legislatura, de acuerdo a la Ley de los Trabajadores del Estado de Querétaro y convenios laborales suscritos, ordenando su publicación, mediante decreto, en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
+IX. Autorizar, en el mes de diciembre los periodos vacacionales del año siguiente del personal de la Legislatura, de acuerdo a la Ley de los Trabajadores del Estado de Querétaro y convenios laborales suscritos, ordenando su publicación, mediante decreto, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga";
 
 X. Autorizar al Presidente de la Legislatura, abandonar el territorio del Estado por más de treinta días naturales;
 
@@ -1587,11 +1587,15 @@ XI. Habilitar recintos distintos a los declarados oficiales, para que la Legisla
 
 XII. Supervisar y ordenar el trabajo de la Dirección de Investigación y Estadística Legislativa;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
 
-XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Coordinación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares; y
+XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Coordinación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares;
 
-XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
+
+XIV. Conceder, atendiendo a la suficiencia presupuestal del Poder Legislativo del Estado de Querétaro, reconocimientos por la trayectoria, méritos y valores de ciudadanos ejemplares para la sociedad queretana; y
+
+XV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3178,3 +3182,15 @@ Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 124 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se deroga el «Decreto que crea las Medallas de Honor "Ezequiel Montes Ledesma", "Josefa Ortiz de Domínguez" y "Heriberto Jara Corona" del Poder Legislativo del Estado de Querétaro», aprobada por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, el día 18 de enero de 2018 y publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 23 de marzo de 2018.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
