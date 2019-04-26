@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2017-11-02"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 26 DE ABRIL DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -1070,11 +1070,13 @@ Los productores y comercializadores cuyos productos y servicios generen residuos
 
 La Secretaría de Obras y Servicios, en coordinación con la Secretaría y la Secretaría de Desarrollo Económico, en cumplimiento a lo señalado en el programa de Gestión Integral de los Residuos Sólidos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos sólidos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
 
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
+
 ###### Artículo 57.
 
-Las dependencias y entidades del Gobierno del Distrito Federal, de las delegaciones, de la Asamblea Legislativa del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal y demás órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir, minimizar y evitar la generación de residuos y aprovechar su valor.
+Las dependencias y entidades del Gobierno de la Ciudad de México, las Alcaldías, el Congreso de la Ciudad de México, el Tribunal Superior de Justicia de la Ciudad de México y demás órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir, minimizar y evitar la generación de residuos y aprovechar su valor.
 
-Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables, en congruencia con lo que establece la ley de Adquisiciones del Distrito Federal.
+Para tal efecto, se promoverá la adquisición y uso de objetos desechables elaborados a partir de materia orgánica, biodegradable o de bajo impacto ecológico.
 
 ###### Artículo 58.
 
@@ -1411,3 +1413,13 @@ G.O. 2 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 26 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Dentro de un plazo de 90 días naturales, posteriores a la entrada en vigor del presente Decreto, el Gobierno de la Ciudad de México deberá realizar las adecuaciones reglamentarias y normativas con la finalidad de dar cumplimiento al mismo.
+
+TERCERO.- El Gobierno de la Ciudad de México, las Alcaldías, el Congreso de la Ciudad de México, el Tribunal Superior de Justicia de la Ciudad de México y demás órganos autónomos, cubrirán las erogaciones que, en su caso se generen con motivo de la entrada en vigor del presente decreto con cargo al presupuesto aprobado por el Congreso de la Ciudad de México para el presente ejercicio fiscal y los subsecuentes.
