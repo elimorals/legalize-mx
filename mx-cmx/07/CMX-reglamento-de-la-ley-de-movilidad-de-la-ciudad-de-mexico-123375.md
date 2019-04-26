@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2019-04-24"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2017-09-15"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 26 DE ABRIL DE 2019]</small>
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -702,7 +702,9 @@ Las personas morales que operen, administren y/o utilicen aplicaciones o platafo
 
 Para obtener la Constancia de Registro, la Constancia de Registro Vehicular y, en su caso, el Permiso correspondiente, las personas morales descritas en el artículo 57 del presente Reglamento deberán realizar el procedimiento que la Secretaría especifique y cumplir con lo que ésta requiera.
 
-Los vehículos que el Titular de la Constancia de Registro pretenda registrar para obtener la Constancia de Registro Vehicular deberán tener un costo de factura de origen de al menos $250,000.00 (doscientos cincuenta mil pesos 00/100 M.N.) o de conformidad con los lineamientos que para los efectos de actualización emita la Secretaría; además el vehículo no podrá exceder los diez años de antigüedad y deberá cumplir con las condiciones técnicas que la Secretaría determine.
+> <small>(F. DE E., G.O. 26 DE ABRIL DE 2019)</small>
+
+Los vehículos que el Titular de la Constancia de Registro pretenda registrar para obtener la Constancia de Registro Vehicular deberán tener un costo de factura de origen de al menos $200,000.00 (doscientos mil pesos 00/100 M.N.) o de conformidad con los lineamientos que para los efectos de actualización emita la Secretaría; además el vehículo no podrá exceder los diez años de antigüedad y deberá cumplir con las condiciones técnicas que la Secretaría determine.
 
 El Titular de la Constancia de Registro deberá pagar los derechos correspondientes por cada vehículo que registre para obtener una Constancia de Registro Vehicular. Únicamente los vehículos registrados por el Titular de la Constancia de Registro, que cumplan con todos los requisitos y características que determine la Secretaría, podrán obtener la Constancia de Registro Vehicular.
 
@@ -3346,7 +3348,9 @@ Dado en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a lo
 
 G.O. 24 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
+> <small>(F. DE E., G.O. 26 DE ABRIL DE 2019)</small>
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN, REFORMAN, MODIFICAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
 
