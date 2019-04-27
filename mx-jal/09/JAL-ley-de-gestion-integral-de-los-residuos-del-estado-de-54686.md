@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-gestion-integral-de-los-residuos-del-estado-de-54686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2016-10-11"
+last_updated: "2019-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1145,9 +1145,9 @@ IV. Multa por el equivalente de cinco mil uno a diez mil veces el valor diario d
 
 V. Multa por el equivalente de diez mil uno a quince mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones XV, XVI, XVII, XVIII, XIX y XX, del artículo 87 de esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
 
-VI. Multa por el equivalente de quince mil uno a veinte mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones XXI y XXII, del artículo 87 de esta Ley;
+VI. Multa por el equivalente de quince mil uno a cincuenta mil veces el valor diario de la Unidad de Medida y actualización, en tratándose de las infracciones señaladas en las fracciones XXI y XXII, del artículo 87 de esta Ley;
 
 VII. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -1314,3 +1314,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado deberá ajustar las disposiciones reglamentarias necesarias para la aplicación del presente decreto, dentro del término de noventa días naturales posteriores a entrada en vigor de este decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27253/LXII/19 QUE REFORMA LOS ARTÍCULOS 290, 292, 295 Y 296 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 33, 116, 121, 124, 125, 126, 127, 130, 146 Y 153, SE CAMBIA EL NOMBRE AL TÍTULO SEXTO Y A SU CAPÍTULO II Y SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 148 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LA FRACCIÓN VI DEL ARTÍCULO 88 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; FRACCIONES IV Y XXI DEL ARTÍCULO 102, EL ARTÍCULO 103 Y 104 Y PRIMER PÁRRAFO DEL ARTÍCULO 105 DE LA LEY DEL AGUA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
