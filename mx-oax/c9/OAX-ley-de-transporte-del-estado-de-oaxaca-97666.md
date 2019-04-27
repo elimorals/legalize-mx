@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transporte-del-estado-de-oaxaca-97666"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2019-02-09"
+last_updated: "2019-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 27 DE ABRIL DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -1736,3 +1738,37 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERO. Para el caso de personas que actualmente cuentan con una licencia tipo “A” o “B”, vigente, y deseen adquirir la licencia permanente; tendrán que cubrir la diferencia del costo, dentro de los seis meses siguientes a la entrada en vigor de este Decreto.
 
 CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 634.- MEDIANTE EL CUAL APRUEBA LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga el Decreto 2082 de la Ley de Transporte del Estado de Oaxaca, publicado en el tomo XCV, extra del Periódico Oficial del Gobierno del Estado de Oaxaca el día 09 de diciembre de 2013.
+
+TERCERO: Las disposiciones contenidas en la presente ley, por razón de la naturaleza prevalecerán sobre las disposiciones legales y administrativas de igual o menor rango que se le opongan, aun cuando no esté expresamente señalado, previsto (sic), abrogados o derogados.
+
+CUARTO: El Gobernador del Estado, expedirá el reglamento para la ejecución y debida observancia de la presente Ley, dentro de los siguientes sesenta días hábiles siguientes, contados a partir de su entrada en vigor.
+
+Hasta en tanto no sea publicado el Reglamento, serán aplicables en lo conducente las disposiciones legales vigentes en la materia, en todo lo que no contravenga lo dispuesto en la presente Ley.
+
+QUINTO: La Secretaría de Movilidad, dentro del plazo de sesenta días naturales iniciará los programas necesarios para la revisión, integración de expedientes, reordenamiento documental y actualización de concesiones.
+
+Dichos programas tendrán una duración de doce meses contados a partir de su inicio el cual se implementará en forma progresiva en los términos y plazos que en el mismo se establezcan. Los criterios a que se sujeten los Programas deberán publicarse en el Periódico Oficial del Estado.
+
+SEXTO: Los prestadores del servicio tendrán un plazo máximo de doce meses para sustituir los vehículos del servicio público o especial de transporte que no cumplan con las características señaladas en la presente Ley.
+
+SÉPTIMO: Los procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley, continuarán desahogándose conforme a las disposiciones legales vigentes al momento de su inicio.
+
+OCTAVO: Dentro del plazo de doce meses contados a partir de la entrada en vigor de esta Ley, los titulares de más de una concesión darán aviso a la Secretaría a efecto de que manifiesten por escrito su voluntad de transferir o extinguir las concesiones excedentes o para manifestar lo que a sus derechos convenga.
+
+NOVENO: Los concesionarios que aún no hayan designado a sus beneficiarios tienen la obligación de hacerlo en términos de la presente Ley, dentro de los ciento ochenta días naturales contados a partir de su entrada en vigor.
+
+DÉCIMO: Para el caso de personas que actualmente cuenten con una licencia tipo “A” o “B” vigente, y deseen adquirir la licencia permanente, tendrán que cubrir la diferencia del costo, dentro de los seis meses siguientes a la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO: Los Ayuntamientos del Estado de Oaxaca que cuenten con servicio público de transporte concesionado, tienen un plazo obligatorio de seis meses contados a partir del día siguiente de la entrada en vigor de la presente Ley, para instalar su Consejo Municipal de Movilidad y en cada cambio de Autoridad Municipal tres meses posteriores para renovarlo.
+
+DÉCIMO SEGUNDO: Los Ayuntamientos del Estado de Oaxaca, tendrán un plazo de treinta días hábiles contados a partir del día siguiente de la entrada en vigor de la presente Ley para publicar su Programa Municipal de Movilidad y registrarlo ante la Secretaría.
+
+DÉCIMO TERCERO: El Registro Estatal de Transporte de Oaxaca, que se encuentra en proceso de integración por parte de la Secretaría, será concluido en términos de la Ley de Transporte del Estado de Oaxaca y su Reglamento, bajo los cuales se inició.
