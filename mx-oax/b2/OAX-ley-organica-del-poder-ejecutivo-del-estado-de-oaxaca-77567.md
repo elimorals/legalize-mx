@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2018-11-10"
+last_updated: "2019-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -297,7 +297,9 @@ VIII. Secretaría de las Culturas y Artes de Oaxaca;
 
 IX. Secretaría de Desarrollo Social y Humano;
 
-X. Secretaría de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+X. Secretaría de Pueblos Indígenas y Afromexicano;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -987,71 +989,159 @@ XXXI. Difundir la normatividad correspondiente a los programas y acciones de aho
 
 XXXII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 43.
 
-A la Secretaría de Asuntos Indígenas le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Pueblos Indígenas y Afromexicano le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 I. Formular, organizar, promover, vigilar y ejecutar las políticas y acciones para el cumplimiento de las disposiciones constitucionales en materia indígena, tratados internacionales, la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca y demás ordenamientos jurídicos correspondientes;
 
-II. Investigar, estudiar y difundir la problemática y asuntos relativos a los pueblos y comunidades indígenas y afromexicanas del Estado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+II. Establecer las bases para integrar y operar el Sistema Estatal de Información y Estadística de pueblos y comunidades Indígenas y Afromexicano, conteniendo los elementos fundamentales de sus instituciones políticas, jurídicas, económicas, sociales y culturales, sus tierras, territorios y recursos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 III. Formular y someter a la consideración del Gobernador del Estado y las instancias correspondientes, propuestas de reformas legales e institucionales para el pleno reconocimiento e implementación de los derechos de los pueblos indígenas;
 
-IV. Diseñar, normar, impulsar y evaluar las políticas públicas específicas y su aplicación, así como, participar con las demás instancias competentes en el diseño de la política transversal del Gobierno del Estado sobre pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+IV. Diseñar, normar, impulsar y evaluar las políticas gubernamentales específicas y su aplicación, así como participar, en coordinación con las instancias competentes de las Dependencias y Entidades de la Administración Pública Estatal, en la formulación, ejecución y evaluación de los planes, programas y proyectos que realicen sobre pueblos y comunidades indígenas y Afromexicano, garantizando la transversalidad en el diseño de las políticas gubernamentales;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 V. Establecer las bases y mecanismos de colaboración con Dependencias y Entidades de la Administración Pública Estatal y Poderes del Estado; de coordinación con los demás órdenes de gobierno, de interlocución con los pueblos indígenas y comunidades afromexicanas; y de concertación con los sectores social y privado, para dar cumplimiento a los derechos de los pueblos indígenas, así como, sus formas y aspiraciones de desarrollo;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 VI. Instrumentar, coordinar, ejecutar y evaluar planes, programas, proyectos y acciones para el desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 VII. Ser instancia de consulta, asesoría y capacitación de las Dependencias y Entidades de la Administración Pública Estatal y Municipal en materia de derechos y cultura de los pueblos indígenas, con perspectiva intercultural;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 VIII. Proponer instrumentos normativos y acciones jurídicas para el desarrollo, la consolidación y concreción de los derechos de los pueblos y comunidades indígenas y afromexicanas ante la instancia competente;
 
-IX. Promover y ejecutar obras, programas y proyectos de desarrollo integral sustentable para los pueblos y comunidades indígenas y afromexicanas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+IX. Instrumentar, operar, ejecutar y evaluar planes, programas, proyectos, obras y acciones para el desarrollo integral, intercultural y sustentable de pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 X. Realizar, proponer, apoyar y dar seguimiento a las iniciativas y acciones de planeación para el desarrollo integral sustentable de las comunidades, municipios y asociaciones regionales de los pueblos y comunidades indígenas y afromexicanas;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XI. Promover la aplicación de medidas de desarrollo, bienestar y defensa de los pueblos y comunidades indígenas y afromexicanas del Estado;
 
-XII. Formular con los pueblos y comunidades indígenas y afromexicanas, los programas para la defensa de los recursos naturales, conocimientos y preservación de sus sistemas normativos internos, protección de los adultos mayores, personas con capacidades diferentes, mujeres y niños indígenas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XII. Promover, formular e instrumentar los programas y medidas pertinentes, en coordinación con las instancias competentes, para la conservación y protección e (sic) la integridad de la biodiversidad y el medio ambiente de dichos pueblos, así como la defensa de los recursos naturales, con el propósito de generar o mantener su desarrollo sustentable.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XIII. Ser instancia de consulta de las Dependencias y Entidades de la Administración Pública Estatal, con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas para ser incluido en el presupuesto de egresos del Estado;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XIV. Diseñar e implementar un sistema de participación, información y consulta indígena, para promover la participación de las autoridades, representantes e instituciones de los pueblos y comunidades indígenas y afromexicanas, respecto a medidas administrativas y legales susceptibles de afectarles.
 
-XV. Constituir el Consejo Consultivo de los Pueblos Indígenas y Afromexicanas de Oaxaca y formar parte de su órgano de gobierno para constatar su adecuado funcionamiento y el seguimiento de sus acuerdos, teniendo a su cargo la Secretaría Técnica.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XV. Constituir el consejo Consultivo de Pueblos Indígenas y Afromexicano de Oaxaca y formar parte de sus órganos de gobierno para constatar su adecuado funcionamiento y el seguimiento de sus acuerdos, teniendo a su cargo la Secretaría Técnica;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XVI. Coadyuvar al ejercicio de la libre determinación, autonomía y reconstitución de los pueblos indígenas; en particular para constituir y reconocer legalmente la asociación de comunidades y municipios a nivel regional, de conformidad con lo dispuesto en el artículo 113 fracción V de la Constitución Política del Estado;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XVII. Coadyuvar y asesorar en la conciliación y resolución de conflictos de tenencia de la tierra, políticos, electorales y/o relacionados con las formas propias de organización donde exista interés de pueblos indígenas;
 
-XVIII. Coordinar el ejercicio de las funciones de defensa, procurando una eficiente prestación de servicios jurídicos de asistencia, asesoría, representación, coadyuvancia y patrocinio a la población indígena y afromexicana y grupos en condiciones de vulnerabilidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XVIII. Crear enlaces regionales para promover y ejecutar las medidas y programas para la defensa o implementación de los derechos, así como el desarrollo integral y sustentable de pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XIX. Participar en organismos, foros y proyectos de cooperación internacional relativos a los pueblos y comunidades indígenas y afromexicanas;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XX. Establecer acuerdos y convenios de colaboración y coordinación para llevar a cabo programas, proyectos y acciones conjuntas a favor de los pueblos y comunidades indígenas y afromexicanas;
 
-XXI. Promover la preservación del patrimonio cultural e intelectual de los pueblos indígenas y comunidades afromexicanas, el desarrollo de sus formas de organización política, social, económica, sus valores comunitarios y la cultura democrática en cumplimiento de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca, incorporando el principio de equidad de género y especialmente el respeto de los derechos humanos de los adultos mayores, de las personas con capacidades diferentes, las mujeres y el interés superior de la infancia indígenas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
 
-XXII. Rescatar, preservar y fortalecer el uso de las lenguas indígenas en el Estado, en coordinación con las instancias competentes;
+XXI. Promover, adoptar y ejecutar las medidas y programas correspondientes para preservar, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación al patrimonio cultural, material e inmaterial de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXII. Realizar programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del Estado, en coordinación con las instancias competentes, y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XXIII. Coadyuvar en la consolidación de un sistema de educación indígena intercultural en el Estado, en coordinación con las instancias competentes;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XXIV. Promover la práctica de la medicina tradicional desde la cosmovisión de salud-enfermedad de los pueblos indígenas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XXV. Formular y actualizar las estadísticas de los pueblos y comunidades indígenas y afromexicanas del Estado;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 XXVI. Difundir las investigaciones, estudios, promociones y trabajos, cuando estas actividades involucren a los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XXVII. Gestionar e implementar recursos adicionales a los que otorga el Gobierno del Estado para promover la vigencia de derechos y el desarrollo integral de los pueblos y comunidades indígenas y afromexicanas;
 
-XXVIII. Generar reglas de operación de los programas que se diseñen e implementen, orientados a las demandas de pueblos y comunidades indígenas y afromexicanas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXVIII. Generar y expedir las reglas de operación y, en su caso, lineamientos d elos (sic) programas que se diseñen e implementen orientados al desarrollo y demandas de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 XXIX. Diseñar e implementar el programa de pueblos y comunidades indígenas y afromexicanas para la mitigación y adaptación al cambio climático; y
 
-XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2019)</small>
+
+XXX. Promover el desarrollo de las formas de organización política, social, económica, sus valores comunitarios y la cultura democrática de pueblos y comunidades indígenas y afromexicano, incorporando la igualdad de género;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXI. Promover el reconocimiento, respeto y protección de niñas, niños y adolescentes, adultos mayores indígenas y afromexicano con discapacidad de pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXII. Establecer Acuerdos y Convenios de Coordinación con los poderes del Estado, organismos constitucionales autónomos, municipios, organizaciones de la sociedad civil, así como instancias internacionales, para llevar a cabo programas, proyectos y acciones conjuntas en favor de los derechos y el desarrollo de pueblos y comunidades indígenas y Afromexicano, conforme a las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXIII. Promover y adoptar las medidas y programas correspondientes para mantener, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación al patrimonio cultural, material e inmaterial de pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXIV. Promover e instrumentar las medidas y acciones para el reconocimiento, respeto y ejercicio de los derechos y el desarrollo integral de mujeres indígenas y afromexicanas;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXV. Emitir recomendaciones para el debido ejercicio del presupuesto destinado a la atención de pueblos y comunidades indígenas y afromexicano; para lo cual las Dependencias y Entidades de la Administración Pública Estatal informarán semestralmente la asignación presupuestaria otorgada a la política transversal y su ejecución;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXVI. Instrumentar, gestionar, instalar, promover y ejecutar, en coordinación con las instancias competentes, las medidas necesarias para brindar mantenimiento y/o mejoramiento y/o ampliación de la infraestructura comunitaria que permitan la integración y reconstitución territorial de pueblos y comunidades indígenas y afromexicano, así como el fortalecimiento de su gobernanza, organización regional y capacidad económica, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXXVII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -3187,10 +3277,30 @@ TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que se 
 
 P.O. 10 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1674.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1674.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 632.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Cuando en diversas disposiciones legales, se haga referencia a la Secretaría de Asuntos Indígenas, se entenderá que se refiere a la Secretaría de Pueblos Indígenas y Afromexicano.
+
+CUARTO. Los asuntos en trámite que venía desarrollando la Secretaría de Asuntos Indígenas se entenderán y se continuarán ante la Secretaría de Pueblos Indígenas y Afromexicano, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
+
+QUINTO. Los servidores públicos adscritos a la Secretaría de Asuntos Indígenas, que con motivo de este Decreto cambia de denominación, pasarán sin afectar sus derechos laborales y prestaciones sociales, a formar parte de la Secretaría de Pueblos Indígenas y Afromexicano.
+
+SEXTO. El Titular de la Secretaría de Pueblos Indígenas y Afromexicano, deberá constituir el Consejo Consultivo de Pueblos Indígenas y Afromexicano de Oaxaca, en un plazo no mayor a treinta días a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. El Titular del Poder Ejecutivo, expedirá el Reglamento Interno de la Secretaría de Pueblos Indígenas y Afromexicano, en un plazo no mayor a treinta días contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menos jerarquía que se opongan al presente Decreto.
