@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2018-08-02"
+last_updated: "2019-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1877,7 +1877,9 @@ II. Aplicar cuotas y tarifas que excedan las resultantes de la aplicación de lo
 
 III. No cumplir con las condiciones establecidas en los acuerdos de creación de los Organismos Operadores municipales o. intermunicipales, en el título de concesión o en el convenio celebrado entre el municipio y la Comisión;
 
-IV. No cumplir con los dispositivos de seguridad y señalamientos cuando se efectúen reparaciones a la infraestructura hidráulica sanitaria;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+IV. No cumplir con los dispositivos de seguridad y señalamientos cuando se efectúen reparaciones a la infraestructura hidráulica sanitaria o que por motivos de los mismos se generen descargas no autorizadas de aguas residuales;
 
 V. Interrumpir, total o parcialmente la prestación de los servicios públicos de agua sin causa justificada;
 
@@ -1913,7 +1915,9 @@ XIX. Impedir la instalación de los servicios públicos;
 
 XX. Construir y operar sistemas para la prestación de los servicios públicos, sin la concesión correspondiente;
 
-XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias tóxicas, Iodos y otras sustancias que se encuentre en aquellas, o que se deriven de su tratamiento, a los sistemas de alcantarillado o al subsuelo, sin la autorización correspondiente.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias toxicas, lodos y otras sustancias que se encuentre en aquellas, o que se deriven de su tratamiento, a los sistemas de alcantarillado o al subsuelo, sin la autorización correspondiente o fuera de los parámetros o límites máximos permisibles de descarga establecidos por las Normas Oficiales Mexicanas aplicables u otra normatividad aplicable.
 
 ###### Artículo 103.
 
@@ -1931,19 +1935,35 @@ II. Multa por el equivalente de entre cien hasta doscientas veces el valor diari
 
 III. Multa por el equivalente de entre doscientos hasta quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
 
-IV. Multa por el equivalente de entre quinientos hasta mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del artículo 102 de esta Ley; y
+IV. Multa por el equivalente de entre quinientos hasta cincuenta mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en (sic) tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del artículo 102 de esta Ley; y
 
 V. Suspensión o cancelación del titulo de concesión, en tratándose de las infracciones previstas en las fracciones III, IV, V, XX y XXI del artículo 102 de esta Ley, además de la multa que corresponda.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2019)</small>
+
+En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto original impuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2019)</small>
+
+Cuando se trate de infracciones previstas por la fracción XXI del artículo 102 de esta Ley, el infractor además del pago de la multa respectiva, tendrá la obligación de reparar el daño causado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2019)</small>
+
+Lo recaudado por concepto de las multas establecidas por las infracciones de este capítulo se destinará para fortalecer el trabajo de las autoridades competentes para iniciar, imponer y ejecutar el procedimiento sancionador por infracciones a esta Ley, así como para la integración de fondos para el desarrollo de programas ambientales.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
 ###### Artículo 104.
 
-Las sanciones referidas en el artículo anterior serán aplicadas sin que ello implique exclusión de otras sanciones que puedan imponerse conforme a otras leyes y reglamentos.
+Las sanciones referidas en el artículo anterior serán aplicadas sin que ello implique exclusión de otras sanciones que puedan imponerse conforme a otras leyes y reglamentos, además, si las acciones realizadas pudieran ser constitutivas de la comisión de un delito, la autoridad competente tendrá la obligación de presentar la denuncia correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 105.
 
-Los ayuntamientos serán la autoridad competente para iniciar el procedimiento sancionador por infracciones a esta Ley e impondrán y ejecutarán las sanciones respectivas en el ámbito de su competencia.
+Los ayuntamientos y el Estado a través de la Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco, en el ámbito de sus respectivas competencias, serán las autoridades competentes para iniciar el procedimiento sancionador por infracciones a esta Ley e impondrán y ejecutarán las sanciones respectivas.
 
 La Comisión Estatal será la autoridad competente para supervisar, tratándose de materias de su competencia conforme a esta Ley. Asimismo, podrá ejercer las facultades que le deleguen las autoridades federales, incluyendo las relacionadas con los procedimientos sancionadores.
 
@@ -2130,3 +2150,11 @@ P.O. 2 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26842/LXI/18 QUE REFORMA LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27253/LXII/19 QUE REFORMA LOS ARTÍCULOS 290, 292, 295 Y 296 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 33, 116, 121, 124, 125, 126, 127, 130, 146 Y 153, SE CAMBIA EL NOMBRE AL TÍTULO SEXTO Y A SU CAPÍTULO II Y SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 148 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LA FRACCIÓN VI DEL ARTÍCULO 88 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; FRACCIONES IV Y XXI DEL ARTÍCULO 102, EL ARTÍCULO 103 Y 104 Y PRIMER PÁRRAFO DEL ARTÍCULO 105 DE LA LEY DEL AGUA DEL ESTADO DE JASLICO (SIC) Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
