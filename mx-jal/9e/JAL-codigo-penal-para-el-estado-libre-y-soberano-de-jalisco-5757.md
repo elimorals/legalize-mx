@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-04-09"
+last_updated: "2019-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5265,11 +5265,13 @@ Para los efectos del presente Título, se estará a las definiciones establecida
 
 Inmediatamente que el Ministerio Público o el servidor público encargado de practicar diligencias de averiguación previa tenga conocimiento de la probable existencia de uno de los delitos establecidos en el presente título, iniciará sus actuaciones atendiendo las reglas establecidas en el Código de Procedimientos Penales, con el objeto de evitar que se agraven los daños cometidos, dando intervención a la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o al ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, para que determinen la gravedad del daño ambiental y las acciones de su competencia.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Art. 290.
 
-Se impondrá pena de uno a tres años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente la flora, fauna, ecosistemas, el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
+Se impondrá pena de uno a ocho años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente la flora, fauna, ecosistemas, el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 En el caso de que las actividades a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del Gobierno del Estado o de la autoridad municipal, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -5295,11 +5297,11 @@ Las mismas sanciones se aplicarán a quien ilícitamente lleve a cabo las activi
 
 En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área natural protegida que esté bajo la administración del Gobierno del Estado o de la autoridad municipal, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Art. 292.
 
-Se impondrá pena de uno a tres años de prisión y multa de doscientos a dos mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en aguas de jurisdicción estatal, que causen un riesgo de daño o dañe a los recursos naturales, a la flora, a la fauna, a la calidad del agua, a los ecosistemas o al ambiente.
+Se impondrá pena de uno a nueve años de prisión y multa de quinientos a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente descargue, deposite, infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en aguas de jurisdicción estatal, que causen un riesgo de daño o dañe directa o indirectamente a los recursos naturales, a la flora, a la fauna, a la calidad del agua, a los ecosistemas o al ambiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5333,19 +5335,17 @@ Si el daño es ocasionado a un área natural protegida, la pena se incrementará
 
 Se considera que existe daño generalizado cuando por la superficie afectada o la gravedad del daño, tenga como consecuencia que se requiera un tiempo de recuperación de la flora y fauna mayor a un año, se dé una afectación grave o pérdidas de especies de flora o fauna, o se altere el ecosistema.
 
-(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2017 Y SU ACUMULADA 156/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE FEBRERO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 26493/LXI/17, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Art. 295.
 
-Se impondrá pena de uno a tres años de prisión Y MULTA DE CINCO MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN a las personas que promuevan, subsidien o dirijan algunos de los hechos punibles lesivos al ambiente descritos en este ordenamiento, según la gravedad del daño ambiental causado Y LA INHABILITACIÓN DEFINITIVA PARA CONTRATAR CON LA ADMINISTRACIÓN PÚBLICA.
+Se impondrá pena de uno a ocho años de prisión y multa de cinco mil a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización a las personas que promuevan, subsidien o dirijan algunos de los hechos punibles lesivos al ambiente descritos en este ordenamiento, según la gravedad del daño ambiental causado y la inhabilitación definitiva para contratar con la administración pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Art. 296.
 
-Se impondrá pena de uno a tres años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien:
+Se impondrá pena de uno a ocho años de prisión y de trescientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien:
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2005)</small>
 
@@ -6654,3 +6654,11 @@ TERCERO. Los ayuntamientos que operen, subroguen o autoricen Centros de Matanza 
 CUARTO. Los ayuntamientos deberán vigilar que los Centros de Matanza que autoricen, cumplan con las normas en materia de sacrificio de animales para abasto y las disposiciones reglamentarias, previo a la entrada en vigor de este decreto.
 
 QUINTO. El Gobierno del Estado, a través de sus dependencias o entidades, deberá llevar a cabo la supervisión de las condiciones de los rastros respecto de las actividades y cumplimiento de las normas de la materia.
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27253/LXII/19 QUE REFORMA LOS ARTÍCULOS 290, 292, 295 Y 296 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 33, 116, 121, 124, 125, 126, 127, 130, 146 Y 153, SE CAMBIA EL NOMBRE AL TÍTULO SEXTO Y A SU CAPÍTULO II Y SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 148 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LA FRACCIÓN VI DEL ARTÍCULO 88 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; FRACCIONES IV Y XXI DEL ARTÍCULO 102, EL ARTÍCULO 103 Y 104 Y PRIMER PÁRRAFO DEL ARTÍCULO 105 DE LA LEY DEL AGUA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
