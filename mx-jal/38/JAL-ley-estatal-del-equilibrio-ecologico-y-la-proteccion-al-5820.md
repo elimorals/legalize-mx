@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2019-04-09"
+last_updated: "2019-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -75,7 +75,7 @@ Para los efectos de esta ley, se tomarán las definiciones de la Ley General del
 
 I. Actividades riesgosas: Aquellas actividades que conllevan la utilización de materiales peligrosos que de conformidad a la legislación federal y disposiciones aplicables no se consideran actividades altamente riesgosas;
 
-II. Areas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
+II. Áreas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
 
 III. Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad intrínseca que poseen los ecosistemas para recuperar su estructura y función después de sufrir un impacto ambiental negativo;
 
@@ -115,7 +115,7 @@ XIX. Información ambiental: Se considera a cualquier información escrita, visu
 
 XX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
 
-XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la Materia.
+XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la materia.
 
 XXII. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
 
@@ -827,11 +827,23 @@ La Secretaría y los gobiernos municipales, podrán solicitar del gobierno feder
 
 De la normatividad estatal.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 33.
 
-La normatividad reglamentaria que al efecto expida el Titular del Ejecutivo del Estado, determinará los parámetros dentro de los cuales se garanticen las condiciones necesarias de la población, y para asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente en el estado de Jalisco.
+La normativa ambiental reglamentaria que al efecto expida el Titular del Ejecutivo del Estado determinará los parámetros dentro de los cuales se garanticen las condiciones necesarias de la población, y para asegurar la preservación, conservación y restauración del equilibrio ecológico, el desarrollo sustentable y la protección al ambiente en el Estado de Jalisco; y tendrá por objeto:
+
+I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites máximos permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en la producción, uso y destino de bienes, en insumos y en procesos; así como en los productos y subproductos derivados de actividades susceptibles de contaminación en las distintas etapas que integran dichos procesos;
+
+II. Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente, así como prevenir y disminuir los riesgos a la salud pública asociados a factores ambientales;
+
+III. Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del ambiente y al desarrollo sustentable;
+
+IV. Otorgar certidumbre a largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen;
+
+V. Fomentar actividades productivas en un marco de eficiencia y sustentabilidad; y
+
+VI. Fomentar la capacitación y la implementación de programas de apoyo dirigidos a los agentes económicos más vulnerables o ubicados en zonas marginadas, a fin de que realicen sus actividades en apego a la normativa ambiental y garanticen su operación de manera sostenible.
 
 ###### Artículo 34.
 
@@ -1043,7 +1055,7 @@ I. La Secretaría de Medio Ambiente y Desarrollo Territorial, que lo presidirá;
 
 II. La Secretaría de Movilidad;
 
-IV. La Secretaría de Innovación, Ciencia y Tecnología;
+IV (SIC). La Secretaría de Innovación, Ciencia y Tecnología;
 
 V. La Secretaría de Salud;
 
@@ -1119,7 +1131,7 @@ II. Las zonas de preservación ecológica de los centros de población;
 
 III. Formaciones naturales de interés municipal; y
 
-IV. Areas municipales de protección hidrológica.
+IV. Áreas municipales de protección hidrológica.
 
 ###### Artículo 46.
 
@@ -1859,7 +1871,7 @@ Participación Social e Información Ambiental.
 
 Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 104.
 
@@ -1901,11 +1913,9 @@ La Secretaría y los gobiernos municipales, en su esfera de competencias, integr
 
 Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
-### CAPITULO II
+### CAPITULO II. De los Procedimientos Ambientales
 
-Del procedimiento de inspección y vigilancia.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 109.
 
@@ -1953,9 +1963,9 @@ Los actos de la Secretaría y los gobiernos municipales, regulados en este Capí
 
 Quien reciba información ambiental de las autoridades competentes, en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido aprovechamiento.
 
-## TITULO SEXTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2019)</small>
 
-Medidas de Control y Seguridad y Sanciones.
+## TITULO SEXTO. De la Justicia Ambiental
 
 ### CAPITULO III
 
@@ -1965,9 +1975,13 @@ De las medidas de seguridad.
 
 ###### Artículo 116.
 
-Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
+Las disposiciones de este título se aplicarán en la realización de actos de requerimientos administrativos ambientales, inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, por los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata este ordenamiento.
 
-En las materias anteriormente señaladas se aplicará supletoriamente las disposiciones de la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+Corresponde a la Procuraduría ejercer las atribuciones de inspección y vigilancia del cumplimiento de las disposiciones competencia del estado contenidas en la presente Ley, así como en las demás disposiciones legales, normativas y reglamentarias aplicables, incluyendo todas aquellas que se desprendan de los acuerdos o convenios que se suscriban entre el estado, la Federación y/o municipios, que tiendan a la preservación del equilibrio ecológico y a la prevención y disminución de la contaminación ambiental.
+
+El titular de la Procuraduría será designado por el Gobernador del Estado a propuesta del titular de la Secretaría.
+
+En las materias anteriormente señaladas que se encuentren reguladas por las leyes especiales, se aplicarán supletoriamente las disposiciones de la Ley del Procedimiento administrativo del Estado de Jalisco, y el Código de Procedimientos Civiles del Estado de Jalisco en lo que refiere a las pruebas.
 
 ###### Artículo 117.
 
@@ -1997,6 +2011,8 @@ La representación de las personas físicas o morales, públicas o privadas, ant
 
 Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinentes para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fuesen necesarias para la tramitación del procedimiento, incluyendo la interposición del recurso de revisión.
 
+> <small>[N. DE E. VÉASE DECRETO 27253/LXII/19 PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2019, PÁGINA 5.]</small>
+
 ###### Artículo 121.
 
 Las actuaciones y diligencias administrativas, se practicarán en días y horas hábiles.
@@ -2005,7 +2021,9 @@ En los plazos fijados en días no se contarán los inhábiles. No se considerar�
 
 Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundado y motivado por la autoridad competente.
 
-La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
+La autoridad podrá hacerse acompañar en sus actuaciones y diligencias por especialistas o peritos cuando se requiera verificar hechos o circunstancias de carácter técnico o científico según la materia que se trate.
 
 ###### Artículo 122.
 
@@ -2021,15 +2039,17 @@ Las diligencia (sic) o actuaciones de las autoridades se efectuarán conforme a 
 
 La Secretaría y los gobiernos municipales, en caso de urgencia o de existir causa justificada, podrán habilitar horas inhábiles cuando la persona, con quien se vaya a practicar la diligencia realice actividades objeto de investigación en tales horas.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 124.
 
-Sin perjuicio de lo establecido en otras leyes, la Secretaría y los gobiernos municipales, de oficio o a petición de parte interesada, podrán ampliar los términos y plazos establecidos, sin que dicha ampliación exceda en ningún caso, de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
+Sin perjuicio de lo establecido en otras leyes, la Secretaría, la Procuraduría y los gobiernos municipales, de oficio o a petición de parte interesada, podrán ampliar los términos y plazos establecidos, para actuar o para el cumplimiento de medidas correctivas, de urgente aplicación o de seguridad, sin que dicha ampliación exceda, en ningún caso, un tanto igual al previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 125.
 
-Para efectos de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a falta de términos o plazos establecidos en esta ley y demás relativas, para la realización de trámites, aquellos no excederán de diez días hábiles. La autoridad competente deberá de hacer del conocimiento del interesado dicho plazo.
+Para efectos de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a falta de términos o plazos establecidos en esta ley y demás relativas, para la realización de trámites, aquellos no excederán de quince días hábiles si el domicilio del interesado se encuentra dentro del lugar donde tiene sede la autoridad, o treinta días hábiles si está fuera de este.
 
 ###### Artículo 126.
 
@@ -2037,19 +2057,25 @@ Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de inf
 
 I. Personalmente con quien deba de entenderse la diligencia, en el domicilio del interesado;
 
-II. Mediante oficio entregado por mensajería o correo certificado con acuse de recibo, telefax o cualquier otro medio por el que se pueda comprobar fehacientemente la recepción del mismo;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+II. Mediante oficio entregado por mensajería o correo certificado con acuse de recibo, o cualquier otro medio por el que se pueda comprobar fehacientemente la recepción del mismo; o bien por cualquier otro medio de comunicación electrónica, cuando así lo hubiera autorizado expresamente el promovente;
 
 III. Por estrados que se publicarán en las oficinas de la autoridad competente en lugar visible al público, cuando se desconozca el domicilio del interesado o, en caso de que la persona a quien deba de notificarse haya desaparecido, se ignore su paradero o cuando no tenga señalado domicilio dentro de la jurisdicción territorial de la autoridad competente; y
 
 IV. Por edictos, cuando la persona a quien deba de notificarse, se encuentre en el extranjero, sin haber dejado representante legal.
 
-Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o telefax.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o telefax; o bien por cualquier otro medio de comunicación electrónica, cuando así lo hubiera autorizado expresamente el promovente.
 
 ###### Artículo 127.
 
 Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante la autoridad competente en el procedimiento. En todo caso, el notificador deberá cerciorarse del domicilio del interesado y deberá de entregar el acto que se notifique y señalará la fecha y hora en que la notificación se efectúa, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si esta se niega a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-Las notificaciones personales se entenderán con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado se presente en un término no mayor de cinco días hábiles contados a partir del día siguiente en que se haya formulado el citatorio, en las oficinas de la autoridad competente, a fin de que se efectúe la notificación correspondiente. Si el domicilio se encontrase cerrado, el citatorio se dejará con el vecino más inmediato.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
+Las notificaciones personales se entenderán con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado se presente en un término no mayor de tres días hábiles contados a partir del día siguiente en que se haya formulado el citatorio, en las oficinas de la autoridad competente, a fin de que se efectúe la notificación correspondiente. Si el domicilio se encontrase cerrado, el citatorio se dejará fijado en la entrada al sitio, levantándose constancia de ello.
 
 Si la persona a quien deba de notificarse no atiende el citatorio, la notificación surtirá efectos por estrado que se publique y fije en lugar visible al público en las oficinas de la autoridad competente, previo acuerdo que así lo haga constar.
 
@@ -2063,19 +2089,39 @@ Las notificaciones por estrado se fijarán por un término no menor a diez días
 
 Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen del acto por notificar. Dichas publicaciones deberán de efectuarse por tres días consecutivos en el Periódico Oficial El Estado de Jalisco, o en uno de los periódicos diarios de mayor circulación en el estado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
 ###### Artículo 130.
 
-Toda notificación deberá efectuarse en el plazo de diez días hábiles, contados a partir del día siguiente de la emisión del acto que se notifique.
+Toda notificación deberá efectuarse en el plazo de quince días hábiles, contados a partir del día siguiente de la emisión del acto que se notifique, en el caso de que la persona a notificar tenga o hubiera señalado domicilio en lugar donde tiene sede la autoridad que emite el acto a notificar. En caso que la notificación deba realizarse en lugar distinto el plazo será de 30 días hábiles.
+
+El exceso de tiempo previsto en este artículo no afectará la validez ni de la notificación ni del acto notificado.
+
+El incumplimiento con los plazos para realizar las notificaciones da lugar a responsabilidades administrativas del funcionario omiso, siempre y cuando el retraso no sea excusable.
 
 ###### Artículo 131.
 
 Las notificaciones irregularmente practicadas, surtirán efectos a partir de la fecha en que el interesado o su representante legal haga la manifestación expresa de conocer su contenido.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2019)</small>
 
 ### CAPITULO IV
 
 De las sanciones administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+###### Artículo 131 Bis.
+
+Requerimientos Administrativos Ambientales. Este procedimiento es procedente cuando los obligados en la presentación de trámites ambientales sean omisos en presentarlos y se seguirá por las siguientes etapas:
+
+I. El procedimiento se inicia con un acuerdo de requerimiento al obligado para que en un término de quince días hábiles subsane el requisito a (sic) trámite omitido. En caso de que el requisito o trámite requiera la substanciación de un procedimiento administrativo ante autoridad diversa, bastará con la presentación del acuse de recibido del escrito o solicitud con la que se ha iniciado el trámite correspondiente para dar por cumplido el requerimiento;
+
+II. El acuerdo será notificado de manera personal en el domicilio del obligado o aquel que conste en el registro de la Secretaría, aplicando las reglas para las notificaciones establecidas por el artículo 127 de la presente Ley; y
+
+III. en caso de incumplimiento al requerimiento una vez transcurrido el plazo otorgado, sin mayor trámite se impondrá al obligado una de las sanciones establecidas por el artículo 146 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 132.
 
@@ -2175,7 +2221,7 @@ Del recurso de revisión.
 
 ###### Artículo 144.
 
-Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaria y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
+Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaría y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
 
@@ -2207,7 +2253,9 @@ De la comisión de delitos.
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por la Secretaría y los gobiernos municipales, en asuntos de sus respectivas competencias, con una o más de las siguientes sanciones:
 
-I. Amonestación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+
+I. Apercibimiento, amonestación, o en su caso ambas;
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
 
@@ -2231,7 +2279,9 @@ VI. La suspensión o revocación de las concesiones, licencias, permisos o autor
 
 Si una vez vencido el plazo concedido por la autoridad ordenadora para subsanar la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de ellas exceda del monto máximo permitido, conforme a la fracción II de éste artículo.
 
-En caso de reincidencia, el monto de la multa será hasta dos veces de la cantidad originalmente impuesta, sin exceder del doble del máximo permitido, así como la clausura definitiva.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
+En caso de reincidencia, el monto de la multa será hasta dos veces de la cantidad originalmente impuesta, sin exceder del doble del máximo permitido, así como la clausura definitiva, sin perjuicio de la atribución de la autoridad competente de determinar la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2018)</small>
 
@@ -2275,6 +2325,12 @@ Cuando una sanción económica impuesta por emisión de ruido no sea pagada en l
 
 En el caso de infracciones por emisión de ruido, la gravedad de la sanción será calificada atendiendo el número de decibeles que sobrepasen la Norma Oficial aplicable al caso concreto, al número de personas afectadas y, en su caso, a la reincidencia.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
+
+###### Artículo 148 Bis.
+
+Para la determinación de la procedencia de la conmutación de la multa a que hace referencia el artículo 148, tratándose de agentes económicos en condiciones de vulnerabilidad, la autoridad correspondiente podrá asimismo tomar en consideración la participación de éstos en programas de capacitación o políticas encaminadas a la regularización y cumplimiento de sus obligaciones derivadas de la normativa ambiental aplicable.
+
 ###### Artículo 149.
 
 Cuando proceda como sanción el decomiso, o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables para la realización del procedimiento de inspección y vigilancia, previstas en esta ley.
@@ -2311,9 +2367,11 @@ En ningún caso, los responsables de la infracción que hubiese dado lugar al de
 
 La Secretaría y los gobiernos municipales, según corresponda, deberán promover ante la autoridad federal o local correspondiente, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar al ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+
 ###### Artículo 153.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para el desarrollo de programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta ley.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto por esta ley, sus reglamentos y demás disposiciones que de ella deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para el desarrollo de programas ambientales.
 
 ### CAPITULO VII
 
@@ -2553,7 +2611,7 @@ El procedimiento administrativo de atención a la denuncia popular podrá conclu
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-I. Por improcedencia de la denuncia, al no reunirse los requisitos de ley establecidos en el presente capítulo, sin perjuicio de que la Secretaría o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados;
+I. Por improcedencia de la denuncia, al no reunirse los requisitos de ley establecidos en el presente capitulo, sin perjuicio de que la Secretaría o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2843,7 +2901,7 @@ SEXTO. La Secretaría de Innovación, Ciencia y Tecnología instrumentará un pr
 
 SÉPTIMO. A partir del 1° de enero de 2020, los ayuntamientos podrán imponer las sanciones administrativas o económicas correspondientes conforme a la gradualidad que sus reglamentos establezcan para cada unidad económica.
 
-P.O. DE 9 DE ABRIL DE 2019.
+P.O. 9 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 27260/LXII/19 QUE ESTABLECE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 72 Y SE ADICIONA UN ARTÍCULO 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 5° FRACCIÓN XII, 19 FRACCIÓN X, 44 PRIMER PÁRRAFO Y SE AGREGA UN PÁRRAFO CUARTO RECORRIÉNDOSE TODOS LOS DEMÁS, 51, 169 PRIMER PÁRRAFO, FRACCIÓN V, SE CREA UNA FRACCIÓN VI RECORRIÉNDOSE TODAS LAS DEMÁS Y SE AGREGA UN ÚLTIMO PÁRRAFO, 174 PRIMER PÁRRAFO Y SE ELIMINA EL SÉPTIMO PÁRRAFO RECORRIÉNDOSE TODOS LOS DEMÁS, SE CREA EL ARTÍCULO 174 BIS, 185 FRACCIONES II, III, IV, SE ADICIONA UNA FRACCIÓN V Y SE AGREGAN TRES ÚLTIMOS PÁRRAFOS, 188 ADICIONÁNDOLE UN PÁRRAFO TERCERO Y RECORRIÉNDOSE TODOS LOS DEMÁS Y 190 FRACCIÓN IV, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES" Y SE EXPIDE SU LEY ORGÁNICA".]
 
@@ -2862,3 +2920,11 @@ SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169
 SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
 
 OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
+
+P.O. 27 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27253/LXII/19 QUE REFORMA LOS ARTÍCULOS 290, 292, 295 Y 296 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 33, 116, 121, 124, 125, 126, 127, 130, 146 Y 153, SE CAMBIA EL NOMBRE AL TÍTULO SEXTO Y A SU CAPÍTULO II Y SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 148 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LA FRACCIÓN VI DEL ARTÍCULO 88 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; FRACCIONES IV Y XXI DEL ARTÍCULO 102, EL ARTÍCULO 103 Y 104 Y PRIMER PÁRRAFO DEL ARTÍCULO 105 DE LA LEY DEL AGUA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
