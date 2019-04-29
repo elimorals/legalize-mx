@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2019-04-01"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -129,7 +129,19 @@ XIII.- Padrón: La relación oficial de beneficiarios que incluye a las personas
 
 XIV.- PED: Plan Estatal de Desarrollo;
 
-XV.- Pobreza: La carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de un patrimonio;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XV.- Pobreza: La condición de vida de las personas que presentan carencias a partir de los espacios de bienestar económico, derechos sociales y/o contexto territorial.
+
+a).- El espacio del bienestar económico comprende las necesidades asociadas a los bienes y servicios que puede adquirir la población mediante el ingreso;
+
+b).- El espacio de los derechos sociales son las carencias de la población en el ejercicio de sus derechos contemplados en el artículo 4 de esta Ley; y
+
+c).- El espacio del contexto territorial contempla aspectos que trascienden al ámbito individual como características geográficas, sociales y culturales; en específico, aquellos asociados al grado de cohesión social, así como otros considerados relevantes para el desarrollo social.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XV BIS.- Pobreza multidimensional: situación de las personas cuyos ingresos son insuficientes para adquirir los bienes y servicios que requiere para satisfacer sus necesidades, y presenten carencia en al menos uno de los siguientes seis indicadores: rezago educativo, acceso a los servicios de salud, acceso a la seguridad social, calidad y espacios de la vivienda, servicios básicos en la vivienda y acceso a la alimentación;
 
 XVI.- Política Social: El conjunto de políticas, estrategias, programas y acciones de Gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad que se transforme en bienestar y calidad de vida para la sociedad;
 
@@ -227,13 +239,17 @@ IV.- Indígenas;
 
 V.- Jornaleros agrícolas;
 
-VI.- Trabajadores de zonas urbanas y campesinos en condiciones de pobreza alimentaria y patrimonial;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-VII.- Niñas y niños de hasta 5 años, en condición de pobreza alimentaria;
+VI.- Trabajadores de zonas urbanas y campesinos;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-VIII.- Adultos mayores, de 60 años y más, que habiten en localidades de alta y muy alta marginación de zonas urbanas y rurales en condiciones de pobreza.
+VII.- Niñas y niños de hasta 5 años;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+VIII.- Adultos mayores, de 60 años y más;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2010)</small>
 
@@ -371,13 +387,17 @@ XIII.- Perspectiva de género: Visión científica, analítica y política sobre
 
 XIV.- Accesibilidad: Principio cualitativo que permite que todas las personas puedan acceder de manera plena y efectiva a los programas sociales otorgadas (sic) por el gobierno, independientemente de sus cualidades intrínsecas;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XV.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado; y
+XV.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XVI.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas.
+XVI.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XVII. Interés superior de la niñez: En todas las decisiones y actuaciones se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
 ###### Artículo 15.
 
@@ -387,7 +407,13 @@ I.- Políticas compensatorias: Aquellas orientadas a beneficiar a un grupo socia
 
 II.- Políticas de Desarrollo Regional: Aquellas dirigidas a la promoción del desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
 
-III.- Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+III.- Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+IV. Políticas contra la Pobreza: Aquellas que ayudan a superarla a través de educación, salud, alimentación nutritiva y de calidad, generación de empleo, ingreso o autoempleo mediante proyectos productivos, infraestructura social básica y capacitación, entre otras.
 
 ### CAPITULO VII. DE LA PLANEACION, PROGRAMACION Y EJECUCION
 
@@ -411,7 +437,9 @@ En la planeación del Desarrollo Social Estatal y Municipal, deberán tomarse en
 
 Dentro del PED y los Planes Municipales de Desarrollo existirá un apartado para el programa sectorial para el desarrollo social que contendrá, lo siguiente:
 
-I.- El diagnóstico del desarrollo social y de la situación económica así como de los grados de marginación en el Estado o en el Municipio, considerando factores de sexo, edad y entorno socioeconómico;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+I.- El diagnóstico del desarrollo social y de la situación económica, los indicadores y porcentajes de pobreza, así como los índices de marginación en el Estado o en el Municipio, considerando factores de sexo, edad y entorno socioeconómico;
 
 II.- Las determinaciones de otros programas que incidan en el Estado y que estén vinculados con el Desarrollo Social;
 
@@ -905,7 +933,9 @@ I.- Los niveles Estatales de desarrollo social por Municipio y Región;
 
 II.- Indicadores del desarrollo social Nacional e Internacional que tengan relación con los Estatales;
 
-III.- La pobreza y grados de marginación tomando en cuenta factores de sexo, edad, condición migratoria y entorno socioeconómico;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+III.- Los indicadores y porcentajes de pobreza y de marginación tomando en cuenta factores de sexo, edad, condición migratoria y entorno socioeconómico;
 
 IV.- Los resultados de los sondeos de opinión o consultas públicas que tengan relación con el Desarrollo Social;
 
@@ -917,9 +947,11 @@ VI.- Estudios e investigaciones sobre el desarrollo social en el Estado.
 
 La información contenida en el Programa de Investigación e Información para el Desarrollo Social será pública y deberá estar sistematizada.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### Artículo 72.
 
-La Secretaría, revisará las mediciones de la pobreza y el desarrollo social en el Estado con una periodicidad anual, con la finalidad de implementar políticas sociales acorde a las circunstancias que prevalezcan en la Entidad.
+La Secretaria, revisará las mediciones de la pobreza, índices de marginación y el desarrollo social en el Estado con una periodicidad anual, con la finalidad de implementar políticas sociales acorde a las circunstancias que prevalezcan en la Entidad.
 
 ### CAPITULO XX. DE LA DIFUSION DE LOS PROGRAMAS
 
@@ -1154,3 +1186,9 @@ P.O. 1 DE ABRIL DE 2019.
 PRIMERO. El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
 
 SEGUNDO. El Ejecutivo Estatal realizará las adecuaciones al Reglamento de la Ley de Desarrollo Social del Estado de Hidalgo, dentro de los 60 días siguientes a su publicación a efecto de dar cumplimiento al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 181.- QUE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 3; LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 9; LAS FRACCIONES XV Y XVI DEL ARTÍCULO 14; LA FRACCIÓN III DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 19; LA FRACCIÓN III DEL ARTÍCULO 70; Y ARTÍCULO 72; Y SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 3; LA FRACCIÓN XVII DEL ARTÍCULO 14; LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO.”]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
