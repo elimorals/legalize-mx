@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2019-01-18"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2019.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -67,9 +67,13 @@ III. Consejo contra la Discriminación: el órgano ciudadano de opinión y aseso
 
 IV. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
 
-V. Presidencia: la o el Presidente de la Comisión de Derechos Humanos del Estado de México; y
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2019)</small>
 
-VI. Secretaría General: la o el Secretario a que se refiere la fracción III del artículo 15 de la Ley de la Comisión de Derechos Humanos del Estado de México.
+V. Ley de Responsabilidades: la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+VI. Presidencia: la o el Presidente de la Comisión de Derechos Humanos del Estado de México; y
+
+VII. Secretaría General: la o el Secretario a que se refiere la fracción III del artículo 15 de la Ley de la Comisión de Derechos Humanos del Estado de México.
 
 Gaceta de Derechos Humanos
 
@@ -212,6 +216,26 @@ II. Dirección de Recursos Materiales y Servicios;
 III. Dirección de Recursos Financieros; y
 
 IV. Dirección de Tecnologías de la Información y Comunicación.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Órgano Interno de Control
+
+###### Artículo 11 Bis.
+
+El Órgano Interno de Control constituye una unidad administrativa dentro de la estructura orgánica de la Comisión.
+
+El Titular del Órgano Interno de Control, tendrá la representación legal de dicha unidad administrativa.
+
+Para el ejercicio de sus atribuciones el Órgano Interno de Control, cuenta con las áreas siguientes:
+
+I. Subdirección de Control y Evaluación;
+
+II. Unidad Investigadora;
+
+III. Subdirección de Responsabilidades; y
+
+IV. Unidad de Ética y Prevención de la Corrupción.
 
 ### Capítulo III. De las atribuciones genéricas de los titulares de las unidades administrativas
 
@@ -559,77 +583,383 @@ XII. Proponer y ejecutar en su caso, lineamientos, reglas y criterios para el de
 
 XIII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Atribuciones del Órgano Interno de Control
 
 ###### Artículo 25.
 
-Corresponde al Órgano Interno de Control:
+Corresponde al Órgano Interno de Control, a través de su titular ejercer las atribuciones siguientes:
 
-I. Realizar auditorías administrativas, financieras, operativas y de legalidad, así como evaluaciones, supervisiones, inspecciones y testificaciones a las unidades administrativas de la Comisión;
+I. Coadyuvar al funcionamiento del sistema de control interno y la evaluación de la gestión en el Organismo; vigilar el cumplimiento de las normas que en esas materias se expidan, la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y unidades administrativas, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos;
 
-II. Evaluar el desempeño de las unidades administrativas y procesos de la Comisión, a efecto de verificar el cumplimiento de las funciones y atribuciones encomendadas, así como el logro de las metas establecidas;
+II. Impulsar el autocontrol y la autoevaluación en el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos;
 
-III. Verificar el adecuado ejercicio del presupuesto de la Comisión, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establezca la normatividad aplicable;
+III. Promover el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas del Organismo, cuando derivado de la atención de los asuntos de su competencia así se determine;
 
-IV. Dar seguimiento a la solventación de las observaciones derivadas de las auditorías, supervisiones y evaluaciones realizadas, promoviendo ante las instancias competentes, las acciones administrativas y legales correspondientes;
+IV. Coordinar el cumplimiento a las políticas que establezca el Comité Coordinador del Sistema Anticorrupción del Estado de México y Municipios, así como los requerimientos de información que en su caso le solicite, en el marco del Sistema Nacional Anticorrupción;
 
-V. Verificar el cumplimiento por parte de las unidades administrativas a las observaciones, recomendaciones, salvedades o hallazgos derivados de auditorías externas y otros entes fiscalizadores;
+V. Implementar los mecanismos internos que disponga el Sistema Anticorrupción del Estado de México y Municipios, con la finalidad de prevenir actos u omisiones que pudieran constituir faltas administrativas o hechos de corrupción;
 
-VI. Verificar la correcta aplicación de las acciones de mejora derivadas de los resultados de las auditorías, supervisiones y evaluaciones, para el adecuado funcionamiento de las unidades administrativas del Organismo;
+VI. Supervisar el cumplimiento de las recomendaciones que realicen los Comités Coordinadores, Nacional y Estatal Anticorrupción;
 
-VII. Promover acciones de control preventivo tendentes a modernizar la gestión de las unidades administrativas de la Comisión;
+VII. Atender y, en su caso, proporcionar la información y documentación que le soliciten los integrantes del Sistema Anticorrupción del Estado de México y Municipios, en el ámbito de su competencia;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+VIII. Formular dictámenes, opiniones, estudios e informes que le sean solicitados;
 
-VIII. Ejecutar las atribuciones que contempla la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+IX. Proponer modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+X. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y acciones a cargo del Órgano Interno de Control;
 
-IX. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+XI. Formular los proyectos de programas y presupuesto del Órgano Interno de Control y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+XII. Delegar a los servidores públicos adscritos al Órgano Interno de Control de la Comisión, en términos de lo que disponga el Acuerdo Delegatorio que para tales efectos emita el Titular del Órgano Interno de Control o Subdirectores y Jefes de Unidad, cualquiera de sus atribuciones a excepción de las siguientes:
 
-X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+a) Ordenar el inicio de acciones de control y evaluación; emitir los informes que las concluyan y formular observaciones o hallazgos de cualquier naturaleza, incluso aquellos con contenido económico o indemnización resarcitoria;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+b) Determinar la abstención para imponer sanciones por faltas no graves, en términos de lo que dispone la Ley de Responsabilidades;
 
-XI. Recibir quejas y denuncias conforme a las leyes aplicables;
+c) Resolver los procedimientos de responsabilidad administrativa, tratándose de faltas administrativas no graves, en los términos previstos en la Ley de Responsabilidades;
 
-XII. Vigilar el cumplimiento de lo dispuesto en materia de transparencia y acceso a la información pública, de conformidad con lo dispuesto por las disposiciones legales y normativas aplicables;
+d) Resolver los procedimientos administrativos sancionadores, en términos del Libro Décimo Segundo, de la obra pública del Código Administrativo del Estado de México, su Reglamento y demás disposiciones aplicables;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+e) Instruir prácticas de visitas de verificación, acciones encubiertas, y usuario simulado;
 
-XIII. Solicitar la información y efectuar visitas a las áreas de la Comisión para el cumplimento de sus funciones;
+f) Determinar la conclusión de los expedientes de responsabilidad administrativa, en términos de lo que dispone la Ley de Responsabilidades;
 
-XIV. Practicar el análisis contable-financiero de las manifestaciones de bienes presentadas por los servidores públicos de la Comisión, revisando la información asentada, requiriendo las aclaraciones conducentes y en su caso, instruir los procedimientos administrativos que correspondan;
+g) Solicitar información a las autoridades, relacionadas con la materia fiscal, bursátil, fiduciario (sic) o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, en términos de la Ley de Responsabilidades; así como solicitar a cualquier persona física o jurídica colectiva, información o documentación, respecto de la evolución patrimonial y de faltas administrativas graves;
 
-XV. Participar en los actos de entrega y recepción de las Unidades Administrativas de la Comisión, verificando su apego a la normatividad correspondiente;
+h) Remitir al Tribunal de Justicia Administrativa del Estado de México, los autos originales de los expedientes de responsabilidad administrativa para su resolución, cuando se trate de faltas administrativas graves y de faltas de particulares vinculados con éstas;
 
-XVI. Expedir copias certificadas de los documentos en los asuntos de su competencia; y
+i) Resolver el recurso de revocación;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+j) Turnar a la Unidad Investigadora las constancias de probables faltas administrativas que tenga conocimiento para el ejercicio de sus atribuciones de ley; y
 
-XVII. Presentar a la Presidencia los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+k) Las que por disposición de ley o reglamentaria, sean indelegables, sin perjuicio de su ejercicio directo.
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+XIII. Solicitar la información y colaboración de las unidades administrativas del Organismo y de otras autoridades, para el cumplimiento de sus atribuciones, de conformidad con lo dispuesto en la Ley de Responsabilidades;
 
-XVIII. Inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión;
+XIV. Presentar denuncias por los hechos que las leyes señalen como delitos ante la Fiscalía General de Justicia del Estado de México o, en su caso, ante la instancia competente;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+XV. Expedir las copias certificadas de los documentos que se encuentren en los archivos del Órgano Interno de Control;
 
-XIX. Llevar a cabo los procedimientos administrativos de investigación, sustanciación y sancionador, en los términos previstos por la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+XVI. Coordinar y vigilar el cumplimiento de las atribuciones de las áreas a su cargo o en su caso, ejercer las que otorga este Reglamento a dichas áreas, dejando a salvo en este último supuesto, las correspondientes a la Unidad Investigadora;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+XVII. Participar o comisionar a un representante en los procesos de entrega y recepción de las unidades administrativas del Organismo, verificando su apego a la normatividad correspondiente;
 
-XX. Recibir, tramitar y resolver las inconformidades que presenten los particulares en contra de actos del procedimiento de contratación que pudieran contravenir las disposiciones correspondientes;
+XVIII. Establecer lineamientos y políticas que orienten las acciones de coordinación del Organismo con el Sistema Anticorrupción del Estado de México y Municipios y otras instancias de fiscalización;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+XIX. Proponer al Presidente de la Comisión, proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal, así como el Código de Ética de los Servidores Públicos del Organismo, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, y demás disposiciones para propiciar la integridad de los servidores públicos;
 
-XXI. Practicar el análisis contable-financiero de las declaraciones patrimoniales que obren en el Sistema de Evolución Patrimonial; y
+XX. Normar y asesorar, a través del área correspondiente, en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+XXI. Diseñar y promover programas de difusión, capacitación y sensibilización en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses, dirigidos a los servidores públicos del Organismo, considerando las políticas en la materia que emita el Comité Coordinador del Sistema Anticorrupción del Estado de México y Municipios;
 
-XXII. Las demás que le confieren otras disposiciones.
+XXII. Recibir y atender las denuncias sobre la conducta de los servidores públicos, que sean contrarias al Código de Ética y las Reglas de Integridad de la Comisión y darles el cauce correspondiente;
+
+XXIII. Prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas en la gestión gubernamental considerando las políticas que emita el Comité Coordinador del Sistema Anticorrupción del Estado de México y Municipios en estas materias;
+
+XXIV. Implementar diagnósticos en las áreas y unidades administrativas de la Comisión, en materia de ética, integridad pública, prevención de la corrupción y de conflictos de intereses, así como para la atención de denuncias;
+
+XXV. Formular y suscribir las observaciones y recomendaciones de carácter general, a fin de prevenir hechos de corrupción y conflictos de intereses en la Comisión;
+
+XXVI. Supervisar y vigilar la creación, instalación, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+
+XXVII. Analizar los riesgos de corrupción, el nivel de transparencia y rendición de cuentas en el Organismo, y promover las correspondientes acciones de mejora, tendientes al fortalecimiento institucional, para la prevención de faltas administrativas y hechos de corrupción;
+
+XXVIII. Ordenar la incorporación de información del Organismo y sus servidores públicos, a la Plataforma Digital Estatal a que se refiere la Ley del Sistema Anticorrupción del Estado de México y Municipios, a través de los sistemas electrónicos que al efecto se lleven en la Comisión.
+
+Lo anterior será sin perjuicio de administrar los sistemas y utilizar la información que contengan en ejercicio de sus atribuciones;
+
+XXIX. Realizar el seguimiento y verificar la presentación oportuna de las declaraciones de situación patrimonial, intereses, y constancia de presentación de declaración fiscal, de los servidores públicos del Organismo;
+
+XXX. Emitir las constancias de los registros de servidores públicos sancionados;
+
+XXXI. Ordenar el control, vigilancia, fiscalización y evaluación de las políticas, acciones y programas que se establezcan en el Organismo;
+
+XXXII. Autorizar el Programa Anual de Control y Evaluación del Órgano Interno de Control, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a consideración del Presidente de la Comisión;
+
+XXXIII. Coordinar la ejecución del Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan, en el marco del Sistema Estatal de Fiscalización;
+
+XXXIV. Informar al Presidente de la Comisión, así como a los responsables de las unidades administrativas, el resultado de las acciones de control y evaluación.
+
+Las acciones de control y evaluación a que se refiere esta fracción podrán realizarse por el propio titular o por conducto de sus áreas de control y evaluación e investigación, o bien, en coordinación con otras instancias externas de fiscalización;
+
+XXXV. Revisar, a través de acciones de control y evaluación, el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos recibidos por el Organismo, en el ámbito de su competencia; así como el cumplimiento normativo de las unidades administrativas que lo integran;
+
+XXXVI. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con el Organismo, por medio de acciones de control y evaluación;
+
+XXXVII. Formular observaciones y hallazgos por incumplimiento de las atribuciones de los servidores públicos de la Comisión o por violaciones a disposiciones legales, normativas y administrativas que rigen el servicio; así como por inconsistencias en el registro, manejo, ejercicio y comprobación de los recursos financieros, y en su caso, proponer y acordar con la unidad administrativa revisada, las determinaciones de mejora derivadas de acciones de control, y darles seguimiento hasta su total solventación;
+
+XXXVIII. Solicitar información a las autoridades correspondientes, en materia fiscal, bursátil, fiduciario (sic) o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios; relacionada con presuntas faltas administrativas, en términos de la Ley de Responsabilidades;
+
+XXXIX. Substanciar los procedimientos de responsabilidades administrativas e imponer las sanciones respectivas, cuando se trate de faltas administrativas no graves, dando seguimiento de su ejecución, hasta su total conclusión;
+
+XL. Ordenar la realización de diligencias para mejor proveer, cuando resulte pertinente para el conocimiento de los hechos relacionados con la existencia de probables faltas administrativas;
+
+XLI. Substanciar y resolver incidentes que no tengan señalada una tramitación especial;
+
+XLII. Abstenerse de iniciar procedimiento de responsabilidad administrativa o de imponer sanciones administrativas, en los términos dispuestos en la Ley de Responsabilidades;
+
+XLIII. Remitir los autos originales de los expedientes formados con motivo de procedimientos de responsabilidad administrativa, al Tribunal de Justicia Administrativa, para su tramitación, cuando correspondan a faltas administrativas graves y de particulares por conductas sancionables en términos de la Ley de Responsabilidades;
+
+XLIV. Ejecutar, cuando resulte procedente, las sanciones impuestas en el ámbito de su competencia;
+
+XLV. Instruir, tramitar y en su caso, resolver los recursos previstos por la Ley de Responsabilidades y demás disposiciones aplicables en la materia;
+
+XLVI. Emitir las resoluciones que procedan respecto de los recursos de revocación que interpongan los Servidores Públicos;
+
+XLVII. Comparecer ante las instancias jurisdiccionales correspondientes, a efectuar la defensa jurídica de sus resoluciones; así como a través de informes previos y justificados, desahogos de vista y requerimientos que sean ordenados en los juicios de amparo, en que sea parte;
+
+XLVIII. Registrar y recibir para su envío a resguardo, los bienes que hayan recibido los servidores públicos de particulares, a título gratuito y sin haberlo solicitado, con motivo del ejercicio de sus atribuciones, en términos de lo que dispone la Ley de Responsabilidades;
+
+XLIX. Coordinar la práctica de verificaciones aleatorias, de las declaraciones de situación patrimonial presentadas por los servidores públicos, así como la posible existencia de conflicto de intereses, revisando la información asentada y en su caso, remitir a la autoridad investigadora correspondiente; y
+
+L. Las demás que les confieran otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Atribuciones de la Subdirección de Control y Evaluación
+
+###### Artículo 25 Bis.
+
+Corresponde a la Subdirección de Control y Evaluación, a través de su titular ejercer las atribuciones siguientes:
+
+I. Elaborar el Programa Anual de Control y Evaluación del Órgano Interno de Control, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a autorización del Titular del Órgano Interno de Control;
+
+II. Ejecutar el Programa Anual de Control y Evaluación autorizado, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan;
+
+III. Realizar las acciones de control y evaluación, respecto al cumplimiento de la normatividad en la que sustentan su actuación las unidades administrativas del organismo; así como al registro, uso, ejercicio, destino y comprobación de los recursos públicos federales o estatales y la ejecución de acciones derivadas de los programas, convenios o acuerdos;
+
+IV. Proponer al Titular del Órgano Interno de Control, las políticas, normas lineamientos, procedimientos y demás disposiciones que regulen y eficienten los procedimientos, acciones de control y evaluación, y vigilar su cumplimiento por parte de las unidades administrativas del Organismo;
+
+V. Elaborar el proyecto de informe correspondiente a las acciones de control y evaluación practicadas y someterlo a la autorización del Titular del Órgano Interno de Control;
+
+VI. Formular propuesta de observaciones y hallazgos derivados de acciones de control y evaluación, de los cuales se advierta la existencia de presuntas faltas administrativas o actos de particulares vinculados con faltas graves, en términos de la Ley de Responsabilidades;
+
+VII. Dar seguimiento a la solventación y cumplimiento de los convenios y observaciones de mejora determinadas en las acciones de control y evaluación, hasta su total conclusión;
+
+VIII. Realizar por sí o en coordinación con otras instancias externas de fiscalización, las acciones de control y evaluación que se requieran para determinar si el Organismo cumple con las normas, programas y metas establecidos e informar los resultados al Titular del Órgano Interno de Control;
+
+IX. Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las acciones de control y evaluación practicadas, por sí o por las diferentes instancias externas de fiscalización;
+
+X. Requerir a las unidades administrativas del Organismo, la información, documentación y su colaboración para el cumplimiento de sus facultades;
+
+XI. Proponer al Titular del Órgano Interno de Control, las intervenciones que en la materia se deban incorporar al programa anual de control y evaluación de dicho Órgano;
+
+XII. Vigilar que en el Organismo se observen en el ejercicio del gasto, los lineamientos y criterios de transparencia, rendición de cuentas, racionalidad y disciplina presupuestaria, establecidos en las disposiciones jurídicas aplicables;
+
+XIII. Llevar los registros de los asuntos de su competencia;
+
+XIV. Evaluar la eficiencia y eficacia en el cumplimiento de los objetivos del Organismo, además de proponer al Titular del Órgano Interno de Control; las medidas preventivas y correctivas que apoyen el logro de los fines del Organismo, para aprovechar mejor los recursos que tiene asignados, y que el otorgamiento de sus servicios sea oportuno, confiable y completo, vigilando su implementación;
+
+XV. Proponer al Titular del Órgano Interno de Control; las medidas necesarias para fortalecer los mecanismos de control de la gestión del Organismo, así como para impulsar el autocontrol y la autoevaluación en el cumplimiento de planes, programas, objetivos y metas, y la mejora continua de los procesos y servicios;
+
+XVI. Participar en los actos de entrega y recepción de las unidades administrativas del Organismo, así como en los actos de entrega y recepción de obra pública y servicios relacionados con la misma;
+
+XVII. Verificar aleatoriamente, las declaraciones de situación patrimonial presentadas por los servidores públicos, determinar inconsistencias en su evolución patrimonial, así como la posible existencia de Conflicto de Intereses y, en su caso, remitir a la Unidad Investigadora del Órgano Interno de Control; y
+
+XVIII. Las demás que les confieran otras disposiciones jurídicas y aquellas que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Atribuciones de la Unidad Investigadora
+
+###### Artículo 25 Ter.
+
+Corresponde a la Unidad Investigadora, a través de su titular ejercer las atribuciones siguientes:
+
+I. Recibir las denuncias que se formulen por presuntas faltas administrativas cometidas por servidores públicos o particulares por conductas sancionables, de conformidad con la Ley de Responsabilidades, así como los hallazgos que deriven de los resultados de las acciones de control y evaluación practicadas por la Subdirección de Control y Evaluación del Órgano Interno de Control, o en su caso, de auditores externos;
+
+II. Citar, cuando lo estime necesario, al denunciante para la ratificación de la denuncia presentada por actos u omisiones posiblemente constitutivos de faltas administrativas;
+
+III. Realizar las acciones y dictar las medidas necesarias, para garantizar, proteger y reservar la confidencialidad sobre la identidad de los denunciantes;
+
+IV. Calificar las faltas administrativas que detecte, así como llevar a cabo las acciones que en materia de investigación procedan, conforme a la Ley de Responsabilidades;
+
+V. Practicar de oficio, por denuncia o derivado de acciones de control y evaluación efectuadas por las Subdirección de Control y Evaluación del Órgano Interno de Control, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos o de los particulares por conductas sancionables, en términos de la Ley de Responsabilidades;
+
+VI. Solicitar, cuando sea necesario, la colaboración de instituciones públicas o educativas, con objeto de contar con acceso a los instrumentos tecnológicos que se requieran para la realización de investigaciones; así también para determinar la autenticidad de cualquier documento relacionado con hechos motivo del procedimiento de investigación, a través de un perito en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones;
+
+VII. Requerir mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes, así como para realizar las notificaciones que deban llevar a cabo en lugares que se encuentren fuera de su ámbito jurisdiccional;
+
+VIII. Citar y requerir información a servidores públicos que puedan tener conocimiento de hechos relacionados con presuntas faltas administrativas, a fin de obtener datos, indicios y pruebas que coadyuven a determinar la existencia de presunta responsabilidad administrativa de servidores públicos o particulares, por conductas sancionables en términos de la Ley de Responsabilidades;
+
+IX. Establecer los principios, lineamientos, bases, guías, manuales o protocolos en materia de investigación que deban observarse, previa consideración del Titular del Órgano Interno de Control;
+
+X. Practicar las actuaciones y diligencias procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir faltas administrativas o actos de particulares vinculados con las mismas, de conformidad con la Ley de Responsabilidades;
+
+XI. Requerir a las unidades administrativas del organismo u otras autoridades, la información necesaria para esclarecer hechos presuntamente constitutivos de faltas administrativas, en términos de lo dispuesto por la Ley de Responsabilidades; incluyendo aquella que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, con la obligación de mantener la misma con reserva o secrecía, conforme a dichas disposiciones;
+
+XII. Realizar las investigaciones necesarias respecto de empresas, proveedores, contratistas y prestadores de servicios que incurran en actos relacionados con faltas administrativas graves, derivados de los contratos que celebren con el Organismo;
+
+XIII. Practicar visitas de verificación, con sujeción a lo previsto en el Código de Procedimientos Administrativos del Estado de México;
+
+XIV. Formular requerimientos de información a particulares con motivo de investigaciones iniciadas por la existencia de hechos presuntamente constitutivos de faltas administrativas, en términos de la Ley de Responsabilidades;
+
+XV. Practicar las investigaciones para verificar la evolución del patrimonio de los servidores públicos, e integrar el expediente respectivo, de conformidad con el procedimiento de investigación en la Ley de Responsabilidades;
+
+XVI. Solicitar, de ser necesario, la colaboración de la Subdirección de Control y Evaluación cuando durante el desarrollo del procedimiento de investigación, advierta actos u omisiones que puedan ser constitutivos de presuntas faltas administrativas;
+
+XVII. Emitir los acuerdos que correspondan en los procedimientos de investigación que realice, incluido el de conclusión o archivo del expediente cuando así proceda;
+
+XVIII. Analizar la documentación integrada con motivo de las investigaciones a su cargo, para determinar la existencia o inexistencia de actos u omisiones que la ley señale como faltas administrativas y, en su caso, calificarlas como graves o no graves;
+
+XIX. Formular y emitir el Informe de Presunta Responsabilidad Administrativa y turnarlo a la Subdirección de Responsabilidades del Órgano Interno de Control, incluyendo en él, la calificación de la Falta Administrativa;
+
+XX. Recibir, aclarar y dar cumplimento al pronunciamiento de prevención realizado por la Subdirección de Responsabilidades, cuando el informe de Presunta Responsabilidad Administrativa, contenga omisiones, requiere aclaraciones en los hechos narrados o carece de alguno de los requisitos señalados en la Ley de Responsabilidades, y subsanarlos;
+
+XXI. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+XXII. Comparecer en las actuaciones y diligencias de los procedimientos de responsabilidad administrativa, en su calidad de autoridad investigadora, conforme a lo dispuesto en la Ley de Responsabilidades;
+
+XXIII. Impugnar la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas, por parte de la autoridad substanciadora o resolutora, según sea el caso;
+
+XXIV. Promover los recursos que como autoridad investigadora, le otorga la Ley de Responsabilidades y demás disposiciones jurídicas aplicables;
+
+XXV. Imponer las medidas de apremio que establece la Ley de Responsabilidades para hacer cumplir sus determinaciones;
+
+XXVI. Solicitar la aplicación de medidas cautelares en términos de la Ley de Responsabilidades Administrativas;
+
+XXVII. Formular denuncias ante el Ministerio Público, cuando de sus investigaciones advierta hechos que pudieren ser constitutivos de delitos y coadyuvar en el procedimiento penal respectivo;
+
+XXVIII. Elaborar los informes, demandas y contestaciones en los juicios en los que sea parte, así como intervenir en el cumplimiento y defensa de las resoluciones respectivas, en los asuntos de su competencia;
+
+XXIX. Incorporar al sistema electrónico respectivo, la información que se requiera con motivo de las investigaciones que realice; y
+
+XXX. Las demás que le confieran otras disposiciones jurídicas, así como aquellas que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Atribuciones de la Subdirección de Responsabilidades
+
+###### Artículo 25 Quáter.
+
+Corresponde a la Subdirección de Responsabilidades, a través de su titular, ejercer las atribuciones siguientes:
+
+I. Admitir, en su caso, los informes de presunta responsabilidad administrativa, turnados por la autoridad investigadora;
+
+II. Prevenir a la autoridad investigadora para que subsane el Informe de Presunta Responsabilidad Administrativa, cuando éste adolezca de alguno o algunos de los requisitos exigidos por la Ley de Responsabilidades, y en su caso tenerlo por no presentado;
+
+III. Recibir y tramitar la impugnación promovida por la autoridad investigadora o el denunciante, respecto al acuerdo que determine la abstención de iniciar el procedimiento de responsabilidad administrativa, en términos de lo dispuesto en la Ley de Responsabilidades;
+
+IV. Determinar sobre la procedencia, improcedencia o sobreseimiento del procedimiento de responsabilidad administrativa y en su caso, emplazar a la audiencia inicial al presunto responsable y citar a las partes, en términos de la Ley de Responsabilidades;
+
+V. Abstenerse de iniciar el procedimiento de responsabilidad administrativa, de conformidad con lo dispuesto en la Ley de Responsabilidades;
+
+VI. Evaluar y atender de manera oportuna, la solicitud de medidas de protección que resulten razonables, para los servidores públicos del Organismo, que denuncien una falta administrativa grave o faltas de particulares, o sean testigos en el procedimiento;
+
+VII. Iniciar y substanciar los procedimientos de responsabilidades administrativas a partir de la recepción del Informe de Presunta Responsabilidad Administrativa y proponer al Titular del Órgano Interno de Control, las sanciones por conductas que constituyan faltas administrativas no graves;
+
+VIII. Realizar diligencias para mejor proveer, a través de la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien se señale como presunto responsable, en términos de la Ley de Responsabilidades y demás ordenamientos jurídicos aplicables en la materia;
+
+IX. Requerir la información necesaria para llevar a cabo el desarrollo del procedimiento de responsabilidad administrativa, en términos de la Ley de Responsabilidades, incluyendo aquélla que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas a que se refiere la Ley de Responsabilidades, con la obligación de mantener la misma con reserva o secrecía;
+
+X. Emplazar al presunto responsable de falta administrativa para que comparezca a la celebración de la audiencia inicial, citando a las demás partes, en términos de la Ley de Responsabilidades;
+
+XI. Emitir los acuerdos correspondientes en los procedimientos de responsabilidades administrativas que haya substanciado;
+
+XII. Designar a los presuntos responsables de faltas administrativas, en su caso, a un defensor de oficio, cuando no cuenten con un defensor particular;
+
+XIII. Imponer las medidas de apremio que establece la Ley de Responsabilidades para hacer cumplir sus determinaciones;
+
+XIV. Formular requerimientos, llevar a cabo los actos necesarios para la atención de los asuntos en materia de procedimientos de responsabilidades administrativas, así como solicitar a las unidades administrativas del Organismo, la información que se requiera para el cumplimiento de sus facultades;
+
+XV. Imponer las medidas cautelares a que se refiere la Ley de Responsabilidades, a solicitud de la Unidad Investigadora;
+
+XVI. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+XVII. Recibir y tramitar los recursos de revocación interpuestos por los servidores públicos respecto de la imposición de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emita el Titular del Órgano Interno de Control, ante las diversas instancias jurisdiccionales, en su representación;
+
+XVIII. Recibir y tramitar los recursos de reclamación previstos en la Ley de Responsabilidades;
+
+XIX. Administrar el registro y control de los medios de impugnación;
+
+XX. Solicitar mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar en donde deban practicarse actuaciones relativas al procedimiento de responsabilidades administrativas, cuando sea fuera de su ámbito jurisdiccional;
+
+XXI. Ordenar la realización de diligencias en el ámbito de su competencia, para el cumplimiento de sus obligaciones, de conformidad con lo dispuesto en la Ley de Responsabilidades;
+
+XXII. Elaborar los informes previos y justificados, así como desahogos de vista y requerimientos que sean ordenados en los juicios de amparo, en que sea parte;
+
+XXIII. Instruir y tramitar los recursos previstos por la Ley de Responsabilidades y demás disposiciones aplicables en la materia;
+
+XXIV. Tramitar y en su caso, resolver los incidentes promovidos por las partes;
+
+XXV. Substanciar los incidentes que no tengan señalada una tramitación especial;
+
+XXVI. Llevar a cabo las actuaciones y diligencias que requiera la instrucción de los procedimientos de responsabilidades administrativas a su cargo;
+
+XXVII. Administrar el Sistema de Declaración de Situación Patrimonial y de Intereses de los servidores públicos de la Comisión;
+
+XXVIII. Ejecutar las acciones preventivas para la promoción de la presentación de la declaración de situación patrimonial, de intereses y en su caso, constancia de presentación de declaración fiscal, de los Servidores Públicos adscritos al Organismo;
+
+XXIX. Ejecutar las acciones que permitan la integración del padrón de servidores públicos obligados a presentar declaración de situación patrimonial, de intereses y la constancia de la presentación de la declaración fiscal;
+
+XXX. Ejecutar las acciones para que la presentación de la declaración de situación patrimonial, de intereses y en su caso, el acuse de la presentación de la declaración fiscal, se realice conforme a las normas y los formatos en medios magnéticos y electrónicos, así como los manuales e instructivos emitidos por el Comité Coordinador, a propuesta del Comité de Participación Ciudadana del Sistema Nacional Anticorrupción, observando lo dispuesto en la Ley de Responsabilidades;
+
+XXXI. Llevar el registro y resguardo de las declaraciones de situación patrimonial, de intereses y el acuse de la presentación de la fiscal, para su publicitación conforme a las disposiciones jurídicas aplicables, así como para suministrar la información correspondiente a la Plataforma Digital Nacional y Estatal del Sistema Nacional y Estatal Anticorrupción;
+
+XXXII. Detectar a quienes omitieron o presentaron extemporáneamente la declaración de situación patrimonial, de intereses y el acuse de la presentación de la declaración fiscal, conforme a la Ley de Responsabilidades, y en su caso, informar al titular para que lo turne a la Unidad Investigadora, a efecto de que se determine lo conducente;
+
+XXXIII. Presentar las denuncias o querellas sobre hechos probablemente constitutivos de delito de los que tenga conocimiento en el ejercicio de sus atribuciones;
+
+XXXIV. Administrar el sistema de los servidores públicos y particulares sancionados y de las abstenciones que se hayan realizado, de conformidad con la Ley de Responsabilidades, y suministrar la información a la Plataforma Digital Nacional y Estatal del Sistema Nacional y Estatal Anticorrupción;
+
+XXXV. Administrar en términos de las disposiciones aplicables, el registro de los obsequios entregados a los servidores públicos, así como de los bienes que hayan recibido de un particular de manera gratuita y sin haberlos solicitado, con el objeto de que se les transmita su propiedad o se haga el ofrecimiento para su uso, lo anterior, con motivo del ejercicio de sus atribuciones, lo cual deberá ser informado al Órgano Interno de Control, ordenando su remisión a la autoridad que corresponda; y
+
+XXXVI. Las demás que le confieran otras disposiciones jurídicas y aquellas que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Atribuciones de la Unidad de Ética y Prevención de la Corrupción
+
+###### Artículo 25 Quinquies.
+
+Corresponde a la Unidad de Ética y Prevención de la Corrupción, a través de su titular, ejercer las atribuciones siguientes:
+
+I. Formular y proponer al titular del Órgano Interno de Control los proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
+
+II. Analizar y en su caso, someter a la consideración del Titular del Órgano Interno de Control, propuestas de acciones que apoyen a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en la Comisión;
+
+III. Requerir información y documentación a las unidades administrativas de la Comisión, con el objeto de generar diagnósticos en materia anticorrupción;
+
+IV. Formular y proponer al titular del Órgano Interno de Control, los proyectos de políticas, lineamientos, criterios, indicadores, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, reglas de integridad, prevención, así como de disuasión de faltas administrativas, hechos de corrupción y prevención de conflictos de intereses;
+
+V. Elaborar y proponer al titular del Órgano Interno de Control el Código de Ética de los servidores públicos de la Comisión, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, así como lineamientos generales y en su caso, sus modificaciones, para propiciar la integridad de los servidores públicos, difundir su contenido y verificar su cumplimiento;
+
+VI. Emitir observaciones y recomendaciones de carácter general, a fin de prevenir hechos de corrupción y conflictos de intereses en el ejercicio del servicio público;
+
+VII. Coordinar y verificar la creación, instalación, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+
+VIII. Recabar, analizar y evaluar la información para la elaboración de los diagnósticos que realice en materia de ética, integridad pública, prevención de la corrupción y de conflictos de intereses en la Comisión;
+
+IX. Coordinar, registrar y dar seguimiento a las observaciones y recomendaciones emitidas por el Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión; así como crear con base en las mismas un sistema de criterios que sirvan como precedentes aplicables en las materias de ética, integridad pública y prevención de hechos de corrupción;
+
+X. Diseñar, promover y llevar a cabo programas de difusión, capacitación y sensibilización en materia de ética, integridad pública, prevención de hechos de corrupción, y de conflictos de intereses;
+
+XI. Recibir y atender las denuncias sobre la conducta de los servidores públicos, fundadas y motivadas en los Códigos de Ética y Conducta y en las Reglas de Integridad;
+
+XII. Diseñar y desarrollar, en el ámbito de su competencia, mecanismos conciliatorios y aplicarlos en la resolución de denuncias en materia de ética;
+
+XIII. Fomentar y fortalecer los mecanismos que ayuden a estimular la participación de la sociedad civil y de las organizaciones gubernamentales y no gubernamentales en los esfuerzos destinados a prevenir la corrupción;
+
+XIV. Realizar diagnósticos respecto de las denuncias sobre las conductas de los servidores públicos en materia de ética e integridad pública, para dar a conocer el resultado a la autoridad competente;
+
+XV. Fungir como órgano de consulta y asesoría especializada en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses;
+
+XVI. Administrar y operar el sistema informático con el que se da seguimiento a las actividades relativas al Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+
+XVII. Informar con las constancias correspondientes, al titular del Órgano Interno de Control sobre las probables faltas administrativas que tenga conocimiento en el ejercicio de sus atribuciones, para que éste a su vez las remita a la unidad investigadora; y
+
+XVIII. Las demás que le confieran otras disposiciones jurídicas y aquellas que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
+
+Obligaciones de los servidores públicos
+
+###### Artículo 25 Sexies.
+
+Los servidores públicos adscritos a las Unidades Administrativas y áreas que integran la Comisión, están obligados en todo momento, a otorgar la más amplia colaboración para que el Órgano Interno de Control, cumpla con sus atribuciones; así como a dar atención a las observaciones que se les formulen hasta su total solventación.
 
 Atribuciones de la Unidad Jurídica y Consultiva
 
@@ -1728,3 +2058,13 @@ G.G. 18 DE ENERO DE 2019.
 PRIMERO. Publíquese este Acuerdo en el periódico oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+G.G. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 4/2019-10 POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, A EFECTO DE ESTABLECER LAS ATRIBUCIONES DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL, ASÍ COMO DE LOS TITULARES DE LA SUBDIRECCIÓN DE CONTROL Y EVALUACIÓN; DE LA SUBDIRECCIÓN DE RESPONSABILIDADES; DE LA UNIDAD INVESTIGADORA, Y DE LA UNIDAD DE ÉTICA Y PREVENCIÓN DE LA CORRUPCIÓN DEL ORGANISMO".]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+TERCERO. Aquellas disposiciones de igual o menor jerarquía que se opongan a la presente reforma, quedarán sin efectos a partir de su vigencia.
