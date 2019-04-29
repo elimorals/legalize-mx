@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-130614
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-24"
-last_updated: "2018-09-24"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Estatuto publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de septiembre de 2018.
 
@@ -117,7 +117,9 @@ Las relaciones laborales de la Secretaría Ejecutiva y su personal, se rigen por
 
 Los días y horas hábiles para efecto de las actuaciones de la Secretaría Ejecutiva, así como de oficialía de partes, se fijarán en el calendario anual de labores que suscriba el Secretario Técnico, el cual se publicará en los Estrados de la Secretaría Ejecutiva, en portal de internet, y en el Periódico Oficial.
 
-Las notificaciones y citatorios que realice la Secretaría Ejecutiva y/o el Secretario Técnico se realizarán y surtirán sus efectos jurídicos, en los términos que establezca el Manual respectivo.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Las notificaciones y citatorios que realice la Secretaría Ejecutiva o el Secretario Técnico se realizarán y surtirán sus efectos jurídicos, en los términos que establezcan las normas o lineamientos que resulten aplicables.
 
 ## TÍTULO II. LA ESTRUCTURA Y ORGANIZACIÓN ADMINISTRATIVA DE LA SECRETARÍA EJECUTIVA
 
@@ -195,7 +197,9 @@ I.- Expedir el Estatuto Orgánico de la Secretaría Ejecutiva, así como aprobar
 
 II.- Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, en los términos establecidos en la Ley;
 
-III.- Aprobar el calendario anual de sesiones, lo que realizará preferentemente en la primera sesión ordinaria de cada ejercicio;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+III.- Aprobar el calendario anual de sesiones, preferentemente en la última sesión del año anterior al que vaya aplicarse;
 
 IV.- Establecer las políticas generales y definir las prioridades a las que deberá sujetarse la Secretaría Ejecutiva, relativas a su administración general;
 
@@ -207,9 +211,11 @@ El Secretario Técnico y, en su caso, los servidores públicos que deban interve
 
 VII.- Aprobar la estructura básica de la organización de (sic) Secretaría Ejecutiva, así como las modificaciones que procedan a la misma;
 
-VIII.- Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos en el segundo nivel jerárquico inferior al de aquel, esto es, de Directores Generales; así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-IX.- Autorizar los perfiles profesionales que deberán cubrir los cargos de Directores Generales y Jefes de Departamento;
+VIII.- Nombrar y remover a propuesta del Secretario Técnico, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones, conforme a lo previsto en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+
+IX.- (DEROGADA, P.O. 29 DE ABRIL DE 2019)
 
 X.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico;
 
@@ -225,11 +231,15 @@ La Junta de Gobierno celebrará por lo menos cuatro sesiones ordinarias por año
 
 Las sesiones que celebre la Junta de Gobierno, serán convocadas por su Presidente o a propuesta de cuatro de sus integrantes, mediante solicitud que se formule al presidente, quien quedara obligado a convocar a sesión extraordinaria en un término no mayor de tres días.
 
-Para la celebración de las sesiones, la convocatoria se realizará por oficio, deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros de la Junta de Gobierno, con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y de dos días hábiles en el caso de las sesiones extraordinarias. Para el estudio y en su caso aprobación de políticas públicas, la convocatoria siempre será con cinco días de anticipación, con independencia del tipo de sesión a la que se convoque.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Para la celebración de las sesiones, la convocatoria se realizará por oficio, deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros de la Junta de Gobierno, con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y de dos días hábiles en el caso de las sesiones extraordinarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-Para poder sesionar válidamente, la Junta de Gobierno requerirá la asistencia de la mayoría de sus miembros con derecho de voto. En caso de ausencia del Presidente en la sesión, los miembros presentes nombrarán a quien deba conducir la misma.
+Para poder sesionar válidamente, la Junta de Gobierno requerirá la asistencia de la mayoría de sus miembros con derecho de voto, que son los referidos en el artículo 10, párrafo segundo en relación con el 28 de la Ley. En caso de ausencia del Presidente en la sesión, los miembros presentes nombrarán a quien deba conducir la misma.
 
 Sus acuerdos, resoluciones y determinaciones se tomarán siempre por mayoría de votos de los miembros presentes y con derecho a ello; en caso de empate, el que presida tendrá voto de calidad.
 
@@ -237,7 +247,9 @@ Los miembros de la Junta de Gobierno deberán emitir su voto sobre los asuntos q
 
 Podrán participar con voz pero sin voto aquellas personas que la Junta de Gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia.
 
-En caso de que la Junta de Gobierno no pudiera sesionar en la fecha programada por falta de quórum, la reunión deberá celebrarse entre los cinco y quince días hábiles siguientes.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+En caso de que la Junta de Gobierno no pudiera sesionar en la fecha programada por falta de quórum, los presentes podrán acordar nueva fecha, hora y lugar, debiéndose informar a los ausentes con al menos, doce horas de anticipación a la nueva fecha y hora señaladas para el desahogo de la sesión.
 
 ### CAPÍTULO III. EL SECRETARIO TÉCNICO
 
@@ -261,7 +273,9 @@ V.- Tomar las medidas pertinentes a fin de que las funciones de la entidad se re
 
 VI.- Proponer a la Comisión Ejecutiva las evaluaciones que se llevarán a cabo de las políticas integrales a que se refiere la Fracción V del Segundo Párrafo del Artículo 35 de la Ley, y una vez aprobadas realizarlas;
 
-VII.- Proponer a la Junta de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos en el segundo nivel jerárquico inferior al de aquel, esto es, de Directores Generales, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el Congreso del Estado. Así como nombrar y remover a aquellos servidores públicos que no sean competencia de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+VII.- Proponer a la Junta de Gobierno el nombramiento o remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos en el segundo nivel jerárquico inferior al de él, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano. De igual manera, nombrar y remover a aquellos servidores públicos que no sean competencia de la Junta de Gobierno;
 
 VIII.- El otorgamiento de licencias de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con jerarquías administrativas inferiores;
 
@@ -283,7 +297,9 @@ XVI.- Coordinar la elaboración de los anteproyectos de metodologías, indicador
 
 XVII.- Coordinar el trabajo técnico para la preparación de documentos que se llevarán como propuestas de acuerdo al Comité Coordinador, a la Junta de Gobierno y a la Comisión Ejecutiva;
 
-XVIII.- Elaborar el proyecto de calendario de los trabajos del Comité Coordinador, de la Junta de Gobierno y de la Comisión Ejecutiva, para su respectiva aprobación;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XVIII.- Elaborar el proyecto de calendario de sesiones de la Junta de Gobierno para su respectiva aprobación;
 
 XIX.- Elaborar los anteproyectos de informes del Sistema Estatal Anticorrupción, someterlos a la revisión y observación de la Comisión Ejecutiva y remitirlos al Comité Coordinador para su aprobación;
 
@@ -293,13 +309,17 @@ XXI.- Administrar las plataformas digitales que establecerá el Comité Coordina
 
 XXII.- Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción;
 
-XXIII.- Expedir y certificar, en su caso, copia de los documentos o constancias que existan en los archivos de las unidades administrativas adscritas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XXIII.- Autorizar los manuales de organización, así como de procesos y procedimientos, o cualquier otro de naturaleza interna de conformidad con la normatividad aplicable;
 
 XXIV.- Celebrar convenios con las Dependencias y Entidades de la Administración Pública Federal o Estatal, con los Órganos Constitucionalmente Autónomos Federales o Estatales, con los Organismos Públicos Descentralizados, con los gobiernos estatales y municipales, con los Poderes Legislativo y Judicial, federal y estatales y con las organizaciones de los sectores social y privado e instituciones privadas u organismos públicos internacionales;
 
 XXV.- Participar en organismos y foros regionales, nacionales e internacionales a efecto de promover una cultura de prevención y combate a la corrupción y de fiscalización y control de recursos públicos;
 
-XXVI.- Expedir y certificar con fe pública administrativa, en su caso, copia de los documentos o constancias que existan en los archivos de las áreas, y en su caso, unidades administrativas adscritas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente; y llevando el archivo correspondiente en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XXVI.- Expedir y certificar con fe pública administrativa, copia de los documentos o constancias que existan en los archivos de las áreas, y en su caso, unidades administrativas adscritas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente; así como llevar el archivo correspondiente en términos de las disposiciones aplicables;
 
 XXVII.- Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda la Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva, y
 
@@ -323,11 +343,15 @@ IV.- Llevar a cabo el monitoreo legislativo con relación a las iniciativas, pro
 
 V.- Realizar los trámites internos necesarios para la atención de las solicitudes de apoyos, servicios y demás requerimientos de colaboración que realicen los integrantes del Sistema Estatal, y canalizar o coordinar su atención a las áreas, o en su caso, unidades administrativas que correspondan de la Secretaría Ejecutiva, así como dar seguimiento para su debida atención;
 
-VI.- Formular y proponer a la Junta de Gobierno por conducto del Secretario Técnico, el programa para dar cumplimiento a la política y estrategia de comunicación;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+VI.- Elaborar y presentar al Secretario Técnico, los proyectos de programas de la Secretaría Ejecutiva, en términos de la normatividad aplicable;
 
 VII.- Dar seguimiento y procurar el cumplimiento de los acuerdos tomados por el comité coordinador, relativos a las solicitudes de información formuladas a las autoridades, respecto del cumplimiento de la política estatal y las demás políticas integrales implementadas, así como la recopilación (sic) datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación.
 
-VIII.- Elaborar para presentar el (sic) Comité Coordinador, a través del Secretario Técnico, los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+VIII.- Elaborar para presentar al Comité Coordinador, a través del Secretario Técnico, los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
 
 IX.- Presentar los anteproyectos de metodologías, indicadores y políticas integrales que acuerde la Comisión Ejecutiva, para que previa aprobación de dicho órgano colegiado, sean sometidas a la consideración del Comité Coordinador;
 
@@ -407,13 +431,15 @@ V.- Las demás que le confiera el Secretario Técnico, el (sic) Dirección Gener
 
 Para el desahogo de los asuntos de su competencia, el Director General Jurídico contará con las siguientes facultades:
 
-I.- Representar legalmente a la Secretaría Ejecutiva en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas, judiciales y laborales, en los procesos de toda índole, cuando requiera su intervención y para absolver posiciones;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-II.- Rendir los informes previos y justificados que en materia de amparo deban presentarse, promover o desistirse, en su caso, de los juicios de amparo y, en general, ejercitar todas las acciones que a dichos juicios se refieran;
+I.- Representar legalmente a la Secretaría Ejecutiva, mediante los poderes que en su caso, le sean otorgados en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
 
-III.- Presentar denuncias de hechos, querellas, desistimientos y otorgar perdones ante el Ministerio Público u otras autoridades competentes, únicamente en asuntos que afecten los intereses jurídicos o legítimos de la Secretaría Ejecutiva;
+II.- (DEROGADA, P.O. 29 DE ABRIL DE 2019)
 
-IV.- Coadyuvar en el trámite de los procesos judiciales y procedimientos jurisdiccionales ante las autoridades competentes, en los asuntos que la Secretaría Ejecutiva posea interés jurídico o legítimo alguno;
+III.- (DEROGADA, P.O. 29 DE ABRIL DE 2019)
+
+IV.- (DEROGADA, P.O. 29 DE ABRIL DE 2019)
 
 V.- Someter a consideración del Secretario Técnico, las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales de la Secretaría Ejecutiva;
 
@@ -425,9 +451,13 @@ VIII.- Compilar y promover la difusión de normas jurídicas relacionadas con la
 
 IX.- Requerir a los servidores públicos y unidades administrativas de la Secretaría Ejecutiva, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
 
-X.- Dictaminar los aspectos jurídicos de los convenios, contratos, bases de colaboración y acuerdos interinstitucionales, entre otros instrumentos jurídicos, que deba suscribir la Secretaría Ejecutiva, llevar un registro y resguardar un tanto de los mismos en el archivo que al efecto administre;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XI.- Tramitar la publicación de las disposiciones jurídicas que emita la Secretaría Ejecutiva o la Junta de Gobierno en el Periódico Oficial del Estado, que por mandato legal deban publicarse o que instruya el Secretario Técnico;
+X.- Revisar los aspectos jurídicos de los convenios, contratos, bases de colaboración y acuerdos interinstitucionales, entre otros instrumentos jurídicos, que deba suscribir la Secretaría Ejecutiva, llevar un registro y resguardar un tanto de los mismos en el archivo que al efecto administre;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XI.- Tramitar la publicación de las disposiciones jurídicas que emita la Secretaría Ejecutiva o el Comité Coordinador, en el Periódico Oficial del Estado, que por mandato legal deban publicarse o que instruya el Secretario Técnico;
 
 XII.- Coadyuvar con el Secretario Técnico en las funciones que le corresponden como secretario del Comité Coordinador del Sistema Estatal Anticorrupción y como secretario de la Junta de Gobierno de la Secretaría Ejecutiva, tales como proponer los calendarios de las sesiones, preparar las convocatorias, órdenes del día y anexos para las sesiones que celebren; ejecutar y dar seguimiento a los acuerdos y resoluciones que se emitan; elaborar y certificar los acuerdos que se tomen y los instrumentos que se emitan, así como llevar el archivo de éstos;
 
@@ -437,7 +467,9 @@ XIV.- Asesorar en los procedimientos relativos a las adquisiciones, arrendamient
 
 XV.- Participar y emitir las opiniones jurídicas que correspondan en las sesiones que se instauren en el Comité de Adquisiciones, Arrendamientos y Servicios y en el Comité de Bienes Muebles;
 
-XVI.- Dictaminar los proyectos de contratos y convenios específicos que le remita la Secretaría Técnica y la Dirección General de Administración, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XVI.- Revisar los aspectos jurídicos de los proyectos de contratos y convenios específicos que le remita la Secretaría Técnica y la Dirección General de Administración, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable;
 
 XVII.- Actuar como Secretario de Actas de las sesiones de la Comisión Ejecutiva;
 
@@ -469,7 +501,9 @@ VII.- Acordar con su superior jerárquico inmediato, la resolución de los asunt
 
 VIII.- Implementar acciones de coordinación con otras áreas, o en su caso, unidades administrativas, cuando así se requiera, para el mejor funcionamiento de la Secretaría Ejecutiva, previo acuerdo con su superior jerárquico inmediato;
 
-IX.- Fomentar la transparencia al interior del sujeto obligado, de acuerdo a las disposiciones de la materia;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+IX.- Fomentar la transparencia al interior de la Secretaría Ejecutiva, de acuerdo a las disposiciones de la materia;
 
 X.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas, proyectos y acciones encomendados a su cargo, e informar sobre los avances correspondientes a su superior jerárquico inmediato;
 
@@ -479,15 +513,27 @@ XII.- Coadyuvar en la elaboración de los manuales en el ámbito de sus funcione
 
 XIII.- Notificar las resoluciones, acuerdos y otros actos que se emitan en el ámbito de su competencia;
 
-XIV.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la ley de la materia y en las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XV.- Realizar las gestiones necesarias para publicar la información correspondiente a sus obligaciones de transparencia de las áreas a cargo de la Secretaría Ejecutiva, en el portal de Internet de la Secretaría Ejecutiva y en la Plataforma Nacional de Transparencia, de acuerdo a las leyes en la materia;
+XIV.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la normatividad de transparencia;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XV.- Coordinar el cumplimiento de las obligaciones de transparencia a cargo de las áreas de la Secretaría Ejecutiva, en su portal de Internet y en la Plataforma Nacional de Transparencia, de acuerdo a las leyes de la materia;
 
 XVI.- Elaborar e integrar los informes que se requieran, en el ámbito de su competencia, e informar a la Dirección General Jurídica del desarrollo y resultados de las acciones a su cargo;
 
-XVII.- Proporcionar la información necesaria para la integración del informe sobre el cumplimiento de las obligaciones de transparencia y demás disposiciones establecidas en la normatividad de la materia; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XVIII.- Las demás que le confiera el Director General Jurídico, y las que se desprendan de la normatividad aplicable.
+XVII.- Proporcionar la información necesaria para la integración del informe sobre el cumplimiento de las obligaciones de transparencia y demás disposiciones establecidas en la normatividad de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2019)</small>
+
+XVIII.- Elaborar o revisar los convenios, contratos, bases de colaboración, acuerdos interinstitucionales, o cualquier instrumento jurídico, que le solicite el Secretario Técnico o el Director General Jurídico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2019)</small>
+
+XIX.- Las demás que le confiera el Director General Jurídico, y las que se desprendan de la normatividad aplicable.
 
 #### Sección Tercera. El Departamento de Procesos Normativos
 
@@ -495,11 +541,15 @@ XVIII.- Las demás que le confiera el Director General Jurídico, y las que se d
 
 La Dirección General Jurídica contará también con un Departamento de Procesos Normativos, el cual tendrá a su cargo las siguientes funciones:
 
-I.- Poner a consideración del Secretario Técnico los proyectos relativos a los programas institucionales de corto, mediano y largo plazo;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+I.- Coadyuvar en el trámite respectivo, a fin de poner a consideración del Secretario Técnico los proyectos relativos a los programas institucionales de corto, mediano y largo plazo;
 
 II.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Comité Coordinador y de la Junta de Gobierno, de acuerdo a las instrucciones que para tal efecto señale el Secretario Técnico;
 
-III.- Elaborar y poner a consideración del Secretario Técnico los acuerdos que se tomen en el Comité Coordinador y en la Junta de Gobierno, así como el de los instrumentos jurídicos que se generen en el seno de dichos órganos, llevando el archivo correspondiente en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+III.- Elaborar y poner a consideración del Secretario Técnico los proyectos de acuerdo del Comité Coordinador, la Junta de Gobierno y Comisión Ejecutiva, así como los instrumentos jurídicos que se generen en el seno de dichos órganos, llevando el archivo correspondiente en términos de las disposiciones aplicables;
 
 IV.- Elaborar y poner a consideración del Secretario Técnico, todos los insumos técnicos y documentales que le indique el propio Secretario Técnico, a efecto de llevar a cabo las sesiones de la Junta de Gobierno, el Comité Coordinador, la Comisión Ejecutiva, y el Comité de Participación Ciudadana;
 
@@ -637,27 +687,15 @@ XV.- Las que le confiera el Director General de Administración, y las que se de
 
 #### Sección Primera. El Comité de Transparencia
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-La Secretaría Ejecutiva también contará con un Comité de Transparencia, el cual tendrá a su cargo las siguientes funciones:
+El Comité de Transparencia de la Secretaría Ejecutiva, es el órgano a que se refiere el artículo 43 de la Ley General de Transparencia y Acceso a la Información Pública, y tiene a su cargo las funciones que le otorgan la Ley General en cita, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, la Ley, este Estatuto Orgánico y demás normatividad que resulte aplicable.
 
-I.- Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+El Comité de Transparencia emitirá los lineamientos a los que se sujetarán sus sesiones y demás aspectos de su funcionamiento, ajustándose a la normatividad referida en el párrafo anterior.
 
-II.- Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las Áreas de la Secretaría Ejecutiva;
-
-III.- Expedir los lineamientos necesarios para su organización, funcionamiento y procedimientos de deliberación y resolución, conforme a las disposiciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley, y las demás disposiciones aplicables;
-
-IV.- Ordenar, en su caso, a las Áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
-
-V.- Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
-
-VI.- Promover la capacitación y actualización de los Servidores Públicos o integrantes adscritos al Departamento de Asuntos Jurídicos y de Transparencia;
-
-VII.- Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los Servidores Públicos o integrantes de la Secretaría Ejecutiva;
-
-VIII.- Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiere el Artículo 101 de la Ley General de Transparencia y Acceso a la Información Pública; y
-
-IX.- Las demás que se desprendan de la Ley General de Transparencia y Acceso a la Información Pública, la, Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, la Ley, y las demás disposiciones jurídicas que resulten aplicables.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
@@ -667,89 +705,85 @@ I.- El titular de la Dirección General de Vinculación y Políticas Publicas, q
 
 II.- El titular del Departamento de Asuntos Jurídicos y de Transparencia, quien fungirá como Secretario de Actas; y
 
-III.- El titular del Órgano Interno de Control de la Secretaría Ejecutiva.
+III.- Quien funja como Autoridad Auditora, del Órgano Interno de Control de la Secretaría Ejecutiva.
 
-El cargo de miembro del Comité será honorífico, por lo que no se recibirá remuneración adicional por dicho encargo.
+El cargo de miembro de este Comité será honorífico, por lo que no se recibirá remuneración adicional por dicho encargo.
 
-El Comité de Transparencia, se regirán (sic) por lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, (sic) Ley General de Protección de Datos Personales en Posesión de los Sujetos Obligados, la Ley y demás disposiciones jurídicas que resulten aplicables.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 30.
 
-Para el apoyo administrativo del Comité, el Titular del Departamento de Asuntos Jurídicos y de Transparencia, tendrá las obligaciones siguientes:
+Para el apoyo administrativo del Comité de Transparencia, el Titular del Departamento de Asuntos Jurídicos y de Transparencia, tendrá las obligaciones siguientes:
 
-I.- Realizar las actas de las sesiones del Comité;
+I.- Elaborar las actas de las sesiones del Comité de Transparencia;
 
-II.- Llevar el registro de asistencia de los integrantes del Comité;
+II.- Llevar el registro de asistencia de los integrantes del Comité de Transparencia;
 
-III.- Recibir y registrar los asuntos y correspondencia que le sean turnados al Comité;
+III.- Recibir y registrar los asuntos y correspondencia que le sean turnados al Comité de Transparencia;
 
-IV.- Integrar y actualizar de forma permanente los archivos de todos los asuntos y actividades realizados por el Comité;
+IV.- Integrar y actualizar de forma permanente los archivos de todos los asuntos y actividades realizados por el Comité de Transparencia;
 
-V.- A solicitud de los integrantes del Comité, brindar asesoría técnica y jurídica sobre los asuntos turnados a éste;
+V.- A solicitud de los integrantes del Comité de Transparencia, brindar asesoría técnica y jurídica sobre los asuntos turnados a éste;
 
-VI.- A solicitud de los integrantes del Comité, redactar los proyectos de resolución correspondientes, con base en los acuerdos adoptados;
+VI.- A solicitud de los integrantes del Comité de Transparencia, redactar los proyectos de resolución correspondientes, con base en los acuerdos adoptados;
 
-VII.- Apoyar en la contestación de la correspondencia remitida a la comisión, previo acuerdo del Comité;
+VII.- Apoyar en la contestación de la correspondencia remitida al Comité de Transparencia, previo acuerdo del mismo;
 
-VIII.- Auxiliar a los integrantes del Comité en la elaboración de los diversos documentos requeridos para el desempeño de las funciones de éste;
+VIII.- Auxiliar a los integrantes del Comité de Transparencia, en la elaboración de los diversos documentos requeridos para el desempeño de las funciones de éste;
 
-IX.- Realizar las acciones y gestiones que le sean encomendadas por el Comité; así como dar seguimiento a los acuerdos aprobados por el mismo;
+IX.- Realizar las acciones y gestiones que le sean encomendadas por el Comité de Transparencia, así como dar seguimiento a los acuerdos aprobados por el mismo;
 
-X.- Ratificar las actas y resoluciones del Comité, estando investido de fe pública para dar constancia y certificar los actos, y documentos que emita el Comité; y
+X.- Aprobar, junto con los demás miembros del Comité de Transparencia, sus actas y resoluciones, estando investido de fe pública para dar constancia y certificar los actos, y documentos que emita el propio Comité; y
 
-XI.- Las demás que le establezca el Comité, las disposiciones y lineamientos aplicables.
+XI.- Las demás que le establezca el Comité de Transparencia, las disposiciones y lineamientos aplicables.
 
-El Secretario Técnico será invitado permanente y participará exclusivamente con voz, y sin derecho a voto, en las sesiones del Comité.
+El Secretario Técnico será invitado permanente y participará exclusivamente con voz, y sin derecho a voto, en las sesiones del Comité de Transparencia.
 
 #### Sección Segunda. El Comité de Adquisiciones, Arrendamientos y Servicios
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 31.
 
-Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, ésta contará con un Comité de Adquisiciones, Arrendamientos y Servicios, el cual se integrará y desarrollaran (sic) sus atribuciones, en término (sic) del Manual respectivo.
+Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, ésta contará con un Comité de Adquisiciones, Arrendamientos y Servicios, el cual se integrará y desarrollará sus atribuciones, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, y demás normatividad aplicable.
 
 #### Sección Tercera. El Comité de Bienes
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 32.
 
-Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, ésta contará con un Comité de Bienes, el cual se integrará y desarrollaran (sic) sus atribuciones, en término (sic) del Manual respectivo.
+Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, ésta contará con un Comité de Bienes, el cual se integrará y desarrollará sus atribuciones, en términos de la Ley de Bienes del Estado de Aguascalientes, y demás normatividad aplicable.
 
 ### CAPÍTULO VIII. LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 33.
 
-Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, la Junta de Gobierno podrá autorizadas (sic) a las Unidades Administrativas que estime conveniente, a propuesta que para tal efecto ponga a su consideración el Secretario Técnico.
+Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, la Junta de Gobierno podrá autorizar las Unidades Administrativas que estime conveniente, a propuesta que para tal efecto ponga a su consideración el Secretario Técnico.
 
-Las Unidades Administrativas se integrarán y desarrollaran sus atribuciones, en término (sic) del Manual respectivo.
+Las Unidades Administrativas se integrarán y desarrollarán sus atribuciones, en términos de la normatividad aplicable.
 
 ### CAPÍTULO IX. LA COMISIÓN EJECUTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-La Comisión Ejecutiva es el órgano técnico auxiliar de la Secretaría Ejecutiva y estará integrada por:
+La Comisión Ejecutiva es el órgano técnico auxiliar de la Secretaría Ejecutiva, y de conformidad con el artículo 30 de la Ley, está integrada por:
 
 I.- El Secretario Técnico, y
 
 II.- El Comité de Participación Ciudadana, con excepción del miembro que funja en ese momento como su Presidente.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-La Comisión Ejecutiva tendrá a su cargo la generación de los insumos técnicos necesarios para que el Comité Coordinador realice sus funciones, por lo que elaborará las siguientes propuestas para ser sometidas a la aprobación del Comité:
+La Comisión Ejecutiva tendrá a su cargo la generación de los insumos técnicos necesarios para que el Comité Coordinador realice sus funciones, por lo que elaborará las propuestas que refiere el artículo 31 de la Ley, para ser sometidas a la aprobación del Comité Coordinador.
 
-I.- Las políticas a nivel estatal en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción, así como de fiscalización y control de recursos públicos;
-
-II.- La metodología para medir y dar seguimiento, con base en indicadores aceptados y confiables, a los fenómenos de corrupción, así como a las políticas a nivel estatal a que se refiere la Fracción anterior;
-
-III.- Los informes de las evaluaciones que someta a su consideración el Secretario Técnico respecto de las políticas a que se refiere este Artículo;
-
-IV.- Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción;
-
-V.- El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia;
-
-VI.- El establecimiento de los mecanismos que coadyuven a la mejor coordinación con el Sistema Nacional de Información a que hace referencia la Ley General;
-
-VII.- Las recomendaciones no vinculantes que serán dirigidas a las autoridades que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención dada por las autoridades a dichas recomendaciones; y
-
-VIII.- Las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
+La Comisión Ejecutiva emitirá los lineamientos a los que se sujetarán sus sesiones y demás aspectos de su funcionamiento, ajustándose a las disposiciones que al respecto establezca la Ley y este Estatuto Orgánico.
 
 ###### ARTÍCULO 36.
 
@@ -763,7 +797,9 @@ Las sesiones ordinarias se llevarán a cabo cada tres meses, por lo menos. Las s
 
 Para la celebración de las sesiones, la convocatoria se podrá realizar por oficio o a través de correo electrónico que al efecto se remita a la cuenta que proporcionen los integrantes; y deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros la Comisión Ejecutiva con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y con una anticipación no menor de dos días hábiles, en el caso de las sesiones extraordinarias.
 
-Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y diez días hábiles siguientes.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+En caso de que la Comisión Ejecutiva no pudiera sesionar en la fecha programada por falta de quórum, los presentes podrán acordar nueva fecha, hora y lugar, debiéndose informar a los ausentes con al menos, doce horas de anticipación a la nueva fecha y hora señaladas para el desahogo de la sesión.
 
 ###### ARTÍCULO 38.
 
@@ -779,25 +815,27 @@ Por las labores que realicen como miembros de la Comisión Ejecutiva, los integr
 
 ### CAPÍTULO X. EL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 40.
 
-La Secretaría Ejecutiva contará con un Órgano Interno de Control, cuyo titular y estructura será designado en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, y contará con las atribuciones que dispongan las disposiciones jurídicas aplicables, con la salvedad prevista en el Segundo Párrafo del Artículo 36 de la Ley.
+La Secretaría Ejecutiva contará con un Órgano Interno de Control, el cual se integrará en términos de lo establecido en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, y contará con las atribuciones que dispongan las normas aplicables, sujetando su actuación a lo establecido en el artículo 36, párrafo segundo de la Ley.
 
 ## TÍTULO III. LAS AUSENCIAS, LICENCIAS Y SU SUPLENCIA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 41.
 
-En los casos de ausencia temporal menor a quince días hábiles, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
+En los casos de ausencia, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
 
 I.- La ausencia del Secretario Técnico será suplida por el Titular de la Dirección General de Vinculación y Políticas Publicas, por el Director General Jurídico y por el Director General de Administración, en ese orden; y
 
-II.- La ausencia de los Directores Generales, Jefes de Departamento y demás servidores públicos de rango inferior a éstos, será suplida por el servidor público de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior.
+II.- La ausencia de los Directores Generales, Jefes de Departamento y demás servidores públicos de rango inferior a éstos, será suplida por el servidor público de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior. Cuando existan dos o más servidores públicos con un nivel jerárquico inmediato inferior al ausente, la suplencia procederá respecto a cualquiera de ellos conforme a la designación por oficio del Secretario Técnico.
 
-Cuando existan dos o más servidores públicos con un nivel jerárquico inmediato inferior adscritos al ausente, la suplencia procederá conforme a la designación directa de su superior jerárquico respecto a cualquiera de ellos.
-
-Quien supla al Secretario Técnico, durante su ausencia temporal, tendrá todas las facultades inherentes al cargo, salvo las previstas en las Fracciones I, II, III, VII, XVIII, XIX, XXIII y XXIV del Artículo 17 del presente Estatuto Orgánico.
+Quien supla al Secretario Técnico durante su ausencia, tendrá todas las facultades inherentes al cargo, salvo las previstas en las Fracciones I, II, III, VII, XVIII, XIX y XXIV del Artículo 17 del presente Estatuto Orgánico.
 
 ###### ARTÍCULO 42.
 
@@ -866,3 +904,15 @@ AUDITOR SUPERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE AGUASCALIE
 MTRO. AQUILES ROMERO GONZÁLEZ
 
 SECRETARIO TÉCNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA JUNTA DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DE LA PROPIA SECRETARÍA EJECUTIVA".]
+
+PRIMERO.- El presente Acuerdo iniciará su vigencia al momento de su aprobación.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se expide el Perfil de Puestos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, publicado en el Periódico Oficial del Estado el 24 de septiembre de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado de Aguascalientes.
