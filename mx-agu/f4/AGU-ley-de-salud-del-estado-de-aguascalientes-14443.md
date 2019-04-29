@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-04-15"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -879,11 +879,19 @@ Las instituciones que conforman el Sistema Estatal de Salud en coordinación con
 
 Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán Comités de Salud con carácter de honoríficos que podrán ser integrados por núcleos de población urbana o rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
 
-Asimismo, se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Asimismo, se podrán constituir Casas de Salud con el fin de acercar a las comunidades rurales los servicios básicos de salud ofreciendo acciones dirigidas a las personas, la familia y su medio ambiente a través de promotores de la salud, donde los espacios podrán ser proporcionados por la propia comunidad.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 67.
 
-Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités a que se refiere el artículo anterior y de que cumplan los fines para los que sean creados.
+Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités y las Casas de Salud, a que se refiere el artículo anterior y de que cumplan los fines para los que sean creados.
 
 ###### ARTICULO 68.
 
@@ -3628,6 +3636,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 15 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 133.- SE REFORMA EL INCISO V DE LA FRACCIÓN IV APARTADO A DEL ARTÍCULO 28 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 142.- SE REFORMA EL ARTÍCULO 67 Y SE ADICIONA EL ARTÍCULO 66 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
