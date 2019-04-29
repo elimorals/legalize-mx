@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2018-09-03"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -215,9 +215,9 @@ XXXVI. Reglamento: El Reglamento de la Ley de Protección a los Animales para el
 
 XXXVII. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas, estatales o federales expedidas para tal efecto;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XXXVIII. Secretaría: Secretaría de Medio Ambiente;
+XXXVIII. Secretaría: Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
 XXXIX. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
 
@@ -405,7 +405,9 @@ Queda prohibido:
 
 I. El obsequio o la distribución de animales vivos de compañía, para fines de propaganda o promoción comercial, premios, sorteos y loterías;
 
-II. El obsequio o venta de animales vivos a menores de doce años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia y trato digno y respetuoso para el animal;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+II. El obsequio o venta de animales vivos a menores de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia y trato digno y respetuoso para el animal;
 
 III. La venta de animales en la vía pública sin autorización;
 
@@ -461,11 +463,21 @@ D. Domicilio del propietario; y
 
 E. Las demás que establezca el Reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
-Dichos establecimientos están obligados a presentar trimestralmente los certificados expedidos a la Secretaría.
+Dichos establecimientos están obligados a presentar a la Secretaría de manera trimestral los certificados a que hacen referencia las fracciones IV y V del presente Artículo;
 
-Asimismo, están obligados a otorgar a la o el comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar certificado por una o un médico veterinario zootecnista.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Al momento de la entrega física de animales domésticos, los establecimientos están obligados a facilitar al poseedor un manual de salud, cuidado, alimentación, albergue, higiene, precauciones, riesgos y demás consideraciones pertinentes según el tipo de especie o animal adquirido;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+En dicho manual se deberán establecer los riesgos para el animal y para el ambiente en caso de que éste sea liberado al medio natural o urbano, así como las sanciones a que están sujetos por el incumplimiento de las disposiciones de la presente Ley;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Dicho manual deberá estar certificado por el veterinario zootecnista responsable del funcionamiento del establecimiento y del trato adecuado a los animales.
 
 ###### ARTICULO 11.
 
@@ -935,9 +947,9 @@ Son obligaciones del propietario, poseedor o encargado de mascotas, las siguient
 
 I.- Evitar cualquier maltrato, daño o sacrifico innecesario;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-II.- Proveer de alimentos, espacios adecuados para su desarrollo, abrigo contra la intemperie, higiene, luz, agua, aire, atención médica y sanitaria;
+II.- Proveer de alimento, agua, espacios adecuados para su crecimiento y desarrollo, abrigo contra la intemperie, higiene, luz, aire, atención médica y sanitaria, propios para la especie o animal;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1421,11 +1433,21 @@ X.- No contar con instalaciones adecuadas de acuerdo con la especie y la activid
 
 XI.- Realizar experimentos con animales, con fines y condiciones distintas a las previstas en esta Ley;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XII.- Incumplir con cualquiera de las obligaciones previstas en el Artículo 42 de la presente Ley; y
+XII.- Incumplir con cualquiera de las obligaciones previstas en el Artículo 42 de la presente Ley;
 
-XIII.- Organizar, inducir o provocar peleas de cualquier especie animal, salvo las excepciones previstas en esta Ley.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XIII.- Organizar, inducir o provocar peleas de cualquier especie animal, salvo las excepciones previstas en esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XIV.- La venta de animales vivos a menores de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor de la adecuada subsistencia y trato digno y respetuoso para el animal; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XV.- Incumplir total o parcialmente con las disposiciones previstas en el Artículo 10 de la presente Ley.
 
 ###### ARTICULO 80.
 
@@ -1449,21 +1471,23 @@ V.- Los demás que determine la presente Ley y otras disposiciones jurídicas ap
 
 Procede la amonestación por escrito en aquellos casos en que el infractor por primera vez se sitúe en los supuestos previstos en las fracciones III, VIII y XII del artículo 79 de la presente Ley. En el caso de que estas acciones se realicen por segunda vez, se estará a lo dispuesto por el artículo 83 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 82.
 
-A las personas que se dediquen a la cría, expendio, exhibición, venta, entrenamiento, adiestramiento y traslado de animales que incurran en las fracciones I, II, V, VI y X del artículo 79 de la presente Ley, les serán suspendidos temporal, parcial o totalmente las autorizaciones o permisos que correspondan, sin perjuicio de la multa correspondiente u otras sanciones aplicables.
+A las personas que se dediquen a la cría, expendio, exhibición, venta, entrenamiento, adiestramiento y traslado de animales que incurran en las fracciones I, II, V, VI, X, XIV y XV del artículo 79 de la presente Ley, les serán suspendidos temporal, parcial o totalmente las autorizaciones o permisos que correspondan, sin perjuicio de la multa correspondiente u otras sanciones aplicables.
 
 ###### ARTICULO 83.
 
 Las autoridades correspondientes, en el ámbito de sus respectivas competencias, se encargarán de la aplicación de las sanciones previstas en este ordenamiento, de acuerdo con lo siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-I.- De cinco a ciento cincuenta veces el valor diario de la unidad de medida y actualización, por las infracciones señaladas en las fracciones III y XII del artículo 79 de esta Ley;
+I.- De cinco a ciento cincuenta veces el valor diario de la unidad de medida y actualización, por las infracciones señaladas en las fracciones III, XII y XIV del artículo 79 de esta Ley;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-II.- De ciento cincuenta y uno a trescientas veces el valor diario de la unidad de medida y actualización a quienes cometan las infracciones señaladas en las fracciones IV, V, VI, VII, VIII, IX y X del artículo 79 de esta Ley; y
+II.- De ciento cincuenta y uno a trescientas veces el valor diario de la unidad de medida y actualización a quienes cometan las infracciones señaladas en las fracciones IV, V, VI, VII, VIII, IX, X y XV del artículo 79 de esta Ley; y
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1630,3 +1654,11 @@ Se exhorta a la Procuraduría Estatal de Medio Ambiente y a los Municipios del E
 ###### ARTÍCULO TERCERO.
 
 Se exhorta a los Ayuntamientos, para que en caso, realicen las Reformas, Adiciones y/o Derogaciones pertinentes en su marco normativo, a fin de que la infracción contemplada en el Artículo 79 Fracción II de la Ley de Protección a los Animales para el Estado de Aguascalientes, sea considerada respectivamente como falta administrativa, y con ello objeto de sanción.
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 145.- SE REFORMAN LOS ARTÍCULOS 3°, 9° 10, 42, 79, 82 Y 83. ASÍ COMO SE ADICIONAN LOS ARTÍCULOS 10, Y 79, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
