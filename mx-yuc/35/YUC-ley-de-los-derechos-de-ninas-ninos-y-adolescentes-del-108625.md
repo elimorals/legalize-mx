@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108625"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2016-12-28"
+last_updated: "2019-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 12 de junio de 2015.
 
@@ -31,7 +31,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 “EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 Y 34 FRACCIÓN XIII DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE;
 
-E X P O S I C I Ó N D E M O T I V O S:…
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción XIV, inciso b) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -241,9 +243,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Contenido
 
-El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes, el cual contendrá políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de los derechos de niñas, niños y adolescentes, así como los demás elementos establecidos en el artículo 37 de la Ley de Planeación para el Desarrollo del Estado de Yucatán y estará alineado al Programa Nacional de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE ABRIL DE 2019)</small>
 
-El Gobernador podrá prescindir de la expedición del Programa Especial de Protección de Niñas, Niños y Adolescentes siempre que los elementos señalados en el párrafo anterior estén incluidos en otro programa de mediano plazo.
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes, el cual contendrá políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de los derechos de niñas, niños y adolescentes, así como los demás elementos establecidos en el artículo 37 de la Ley de Planeación para el Desarrollo del Estado de Yucatán y estará alineado al Programa Nacional de Protección de Niñas, Niños y Adolescentes, en caso de no haberlo contemplado en su Plan Estatal de Desarrollo.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 29 DE ABRIL DE 2019)</small>
 
 ###### Artículo 19.
 
@@ -518,3 +522,9 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 69/2019 POR EL QUE SE MODIFICA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
