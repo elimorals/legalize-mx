@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-a-migrantes-del-estado-de-hidalgo-80381"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-07"
-last_updated: "2018-07-30"
+last_updated: "2019-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de marzo de 2011.
 
@@ -117,7 +117,9 @@ II.- Mejorar las alternativas de desarrollo y la creación de la infraestructura
 
 III.- Efectuar acciones de coordinación con las Dependencias y Entidades Federales, Estatales y los Ayuntamientos, para la creación y consolidación de oportunidades ocupacionales, la organización y funcionamiento de unidades productivas, cooperativas, integradoras, sociedades de producción y otras organizaciones económicas en las comunidades rurales, que les permitan lograr un mayor aprovechamiento de sus recursos naturales y culturales que generen el arraigo y permanencia de los habitantes de las diversas localidades;
 
-IV.- Proporcionar servicios sobre orientación y gestión de trámites, en materia de registro civil, derechos humanos, migración y servicio exterior, entre otros; en coordinación con las Dependencias, Entidades Federales y Estatales competentes y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+IV. Proporcionar servicios sobre orientación y gestión de trámites, en materia de registro civil, derechos humanos, perspectiva de género, migración, asistencia legal y servicio exterior, entre otros; en coordinación con las Dependencias, Entidades Federales y Estatales competentes y los Ayuntamientos;
 
 V.- Habilitar espacios de interacción con los hidalguenses en el extranjero;
 
@@ -131,9 +133,17 @@ IX.- Promover la realización de obras públicas con la participación de emigra
 
 X.- Establecer una línea telefónica gratuita que facilite la gestión de los trámites relativos al apoyo y protección de los emigrantes;
 
-XI.- Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los emigrantes, así como, facilitar la comunicación electrónica; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-XII.- Promover el establecimiento de mecanismos que permitan las mejores condiciones en calidad, tiempo y precio en la transferencia de fondos provenientes del extranjero.
+XI. Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los emigrantes, así como, facilitar la comunicación electrónica;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XII. Promover el establecimiento de mecanismos que permitan las mejores condiciones en calidad, tiempo y precio en la transferencia de fondos provenientes del extranjero; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+XIII. Brindar asistencia legal a las y los migrantes, dependiendo de cada caso y circunstancia, en coordinación con las Dependencias, Entidades Federales y Estatales competentes y los Ayuntamientos.
 
 ###### ARTÍCULO 7.
 
@@ -203,17 +213,27 @@ I.- Demostrar la condición de hidalguense del beneficiado; y
 
 II.- Acreditar que cuenta con un domicilio en el Estado de Hidalgo, en términos de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-Las autoridades del Estado de Hidalgo brindarán apoyo, en la medida de las disposiciones presupuestales, a los hidalguenses localizados, temporal o definitivamente, en el extranjero que requieran el auxilio de las autoridades para:
+Las autoridades del Estado de Hidalgo brindarán apoyo, en la medida de las disposiciones presupuestales, a las y los hidalguenses localizados, temporal o definitivamente en el extranjero, que requieran el auxilio de las autoridades para:
 
 I.- Ser trasladados a una localidad del Estado en caso de deportación;
 
 II.- El traslado de cadáveres de hidalguenses fallecidos en el extranjero;
 
-III.- Brindar auxilio en caso de situaciones excepcionales; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-IV.- El trámite de documentos oficiales.
+III. Brindar auxilio en caso de situaciones excepcionales;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+IV. El trámite de documentos oficiales; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+V. Contar con asistencia y representación legal en el extranjero.
 
 ###### ARTÍCULO 22.
 
@@ -221,9 +241,11 @@ La solicitud de apoyo o asistencia a un emigrante hidalguense podrá ser tramita
 
 #### SECCIÓN PRIMERA. DEL FONDO ESTATAL DE ASISTENCIA AL INMIGRANTE Y EMIGRANTE
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Se crea el Fondo Estatal de Asistencia al Inmigrante y Emigrante del Estado de Hidalgo, con la aportación de recursos Federales, Estatales, Municipales, del sector privado e Internacionales, y que tendrá como finalidad, brindar asistencia social a los migrantes, según lo establecido en los Artículos 15 y 16 de esta Ley.
+Se crea el Fondo Estatal de Asistencia al Inmigrante y Emigrante del Estado de Hidalgo, con la aportación de recursos Federales, Estatales, Municipales, del sector privado e internacionales, y que tendrá como finalidad, brindar asistencia social y legal a los migrantes, según lo establecido en los Artículos 15 y 16 de esta Ley.
 
 ###### ARTÍCULO 24.
 
@@ -243,9 +265,11 @@ Los Ayuntamientos podrán disponer, conforme a su disposición presupuestal, de 
 
 El emigrante o quien realice la solicitud de apoyo, conforme al Artículo 22 de esta Ley, deberá demostrar que el beneficiario radicaba en el extranjero y no fue deportado por las causales señaladas en el Artículo 17 de este mismo instrumento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-El Estado, a través de la Coordinación, establecerá los mecanismos, conforme a la disponibilidad presupuestal, para brindar asistencia social a los hidalguenses que hayan sido deportados, la que podrá ser:
+El Estado, a través de la Coordinación, establecerá los mecanismos y recursos necesarios para brindar asistencia social y legal a los hidalguenses que hayan sido deportados, la que podrá ser:
 
 I.- En efectivo, cubriendo una parte porcentual del costo de transportación del beneficiario hasta la localidad de residencia dentro del Estado;
 
@@ -494,3 +518,9 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 456 QUE ADICIONA LAS FRACCIONES VII BIS, VII TER Y VII QUATER AL ARTÍCULO 3, Y UN CAPÍTULO VI BIS DE LOS MIGRANTES JORNALEROS AGRÍCOLAS Y LOS ARTÍCULOS 52 BIS, 52 TER Y 52 QUATER A LA LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO.- 180 QUE REFORMA LAS FRACCIONES IV, XI Y XII DEL ARTÍCULO 6; PRIMER PÁRRAFO, FRACCIONES III Y IV DEL ARTÍCULO 21; ARTÍCULO 23; Y PRIMER PÁRRAFO DEL ARTÍCULO 28; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 6; LA FRACCIÓN V AL ARTÍCULO 21 DE LA LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
