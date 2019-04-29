@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2016-12-28"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -408,6 +408,14 @@ En todas las políticas públicas, acciones y actividades relacionadas con niña
 ###### Artículo 26 Bis.
 
 Cuando exista duda o percepción de si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
+
+> <small>(ADICIONADO, D.O. 29 DE ABRIL DE 2019)</small>
+
+###### Artículo 26 Ter.
+
+El Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias, tendrán la obligación de dotar a los parques, jardines o plazas públicas de juegos infantiles que cuenten con el diseño universal, que sean viables, seguros e inclusivos y que permitan la participación de niñas, niños y adolescentes en situación de discapacidad, debiendo garantizar en todo momento el derecho a la accesibilidad en su edificación.
+
+Esta disposición también será aplicable para todos aquellos particulares que cuenten con áreas públicas de recreación infantil en términos de la reglamentación municipal aplicable.
 
 ### CAPÍTULO IV. Derecho a la Accesibilidad y vivienda
 
@@ -1334,3 +1342,13 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 67/2019 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- La disposición establecida en el presente decreto, únicamente será aplicable en aquellos parques, jardines o plazas públicas juegos infantiles que se construyan con posterioridad, en el entendido de que los ya existentes, se adecuarán en forma gradual, conforme a la capacidad presupuestaria
+
+Tercero.- El Poder Ejecutivo y los ayuntamientos del estado deberán adecuar sus disposiciones reglamentarias relacionadas con el presente decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.
