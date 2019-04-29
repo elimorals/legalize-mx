@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2017-07-03"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -57,9 +57,13 @@ El notario está obligado a ejercer sus funciones cuando para ello fuere requeri
 
 I.- Si la intervención en el acto o hecho corresponde exclusivamente a algún otro funcionario;
 
-II.- Si intervinieron por sí, o en representación de tercera persona, la esposa del notario, sus parientes consanguíneos o afines, en línea recta, sin limitación de grados, los consanguíneos en la colateral hasta el cuarto grado inclusive, y los afines en la colateral hasta el segundo grado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
 
-III.- Si el acto o hecho interesa al notario, a su esposa o a alguno de sus parientes en los grados que expresa la fracción anterior;
+II.- Si intervinieron por sí, o en representación de tercera persona, el cónyuge o la cónyuge del notario, sus parientes consanguíneos o afines, en línea recta, sin limitación de grados, los consanguíneos en la colateral hasta el cuarto grado inclusive, y los afines en la colateral hasta el segundo grado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+
+III.- Si el acto o hecho interesa al notario, a su cónyuge o a alguno de sus parientes en los grados que expresa la fracción anterior;
 
 IV.- Si el objeto o fin del acto es contrario a una ley de interés público o a las buenas costumbres; y
 
@@ -75,9 +79,11 @@ II.- Si alguna circunstancia fortuita y transitoria le impide atender con la imp
 
 III.- Si los interesados no le anticipan los gastos y honorarios, excepción hecha de un testamento en caso urgente, el cual será autorizado por el notario, sin tal anticipo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 6o.
 
-Las funciones de notario son incompatibles con todo empleo, cargo o comisión públicos; con los empleos o comisiones de particulares, con la ocupación de comerciantes, agentes de cambio o ministros de cualquier culto; con el desempeño del mandato judicial y con el ejercicio de la profesión de abogado, excepto en los siguientes casos en que sí es permitible (sic):
+Las funciones de notario son incompatibles con todo empleo, cargo o comisión públicos; con los empleos o comisiones de particulares, con la ocupación de comerciantes, agentes de cambio o ministros de cualquier culto; con el desempeño del mandato judicial y con el ejercicio de la profesión de abogado, excepto en los siguientes casos en que sí es permitido:
 
 I.- Tratándose de los negocios propios del notario, de sus ascendientes o descendientes en primer grado;
 
@@ -123,15 +129,19 @@ Los notarios ejercerán sus funciones dentro de los límites del Estado y no pod
 
 Los honorarios y gastos devengados en la prestación de los servicios de la fe notarial serán cubiertos por los solicitantes del servicio, de conformidad con el arancel que para tal efecto expida el Ejecutivo Estatal, y no percibirán sueldo o remuneración alguna con cargo al erario del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 10.
 
-El Poder Ejecutivo podrá requirir (sic), a los Notarios de la propia Entidad, para que colaboren en la prestación de los servicios públicos notariales, cuando se trate de satisfacer demandas inaplazables de interés social; a este efecto, el Ejecutivo fijará las condiciones a las que deberá sujetarse la prestación de dichos servicios.
+El Poder Ejecutivo podrá requerir, a los Notarios de la propia Entidad, para que colaboren en la prestación de los servicios públicos notariales, cuando se trate de satisfacer demandas inaplazables de interés social; a este efecto, el Ejecutivo fijará las condiciones a las que deberá sujetarse la prestación de dichos servicios.
 
 Asimismo, estarán obligados a prestar sus servicios en los casos y términos que establece la Ley Federal de Organizaciones Políticas y Procesos Electorales y la Ley Electoral del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
 ###### ARTICULO 11.
 
-Antes de que se otorgue una escritura relativa a bienes inmuebles, el notario examinará el título o los títulos respectivos que fundamenten la facultad de otorgar el contrato que se pretende formalizar.
+Antes de que se otorgue una escritura relativa a bienes inmuebles, el notario examinará el título o los títulos respectivos que fundamenten la facultad de otorgar el contrato que se pretende formalizar. Además, deberá de solicitar del Registro Público de la Propiedad el certificado sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho, o la libertad de estos, mismo que agregará al respectivo Apéndice.
 
 ###### ARTICULO 12.
 
@@ -694,6 +704,10 @@ e).- Por no ajustarse al arancel aprobado.
 f).- Por recibir y conservar en depósito cantidades de dinero, en contravención a esta Ley.
 
 g).- Por negarse, sin causa justificada, al ejercicio de sus funciones, cuando hubiere sido requerido para ello.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+h).- Por no dar cumplimiento a lo establecido en el artículo 11 de esta Ley.
 
 III.- Suspensión del cargo hasta por un año:
 
@@ -1278,6 +1292,14 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General de la Repú
 P.O. 3 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 146.- SE REFORMAN LOS ARTÍCULOS 4°, 6°, 10, 11; Y SE ADICIONA EL ARTÍCULO 79 DE LA LEY DE NOTARIADO PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
