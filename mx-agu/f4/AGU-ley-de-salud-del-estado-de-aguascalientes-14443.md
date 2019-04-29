@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-04-15"
+last_updated: "2019-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -917,11 +917,19 @@ Las instituciones que conforman el Sistema Estatal de Salud en coordinación con
 
 Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán Comités de Salud con carácter de honoríficos que podrán ser integrados por núcleos de población urbana o rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
 
-Asimismo, se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2019)</small>
+
+Asimismo, se podrán constituir Casas de Salud con el fin de acercar a las comunidades rurales los servicios básicos de salud ofreciendo acciones dirigidas a las personas, la familia y su medio ambiente a través de promotores de la salud, donde los espacios podrán ser proporcionados por la propia comunidad.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 67.
 
-Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités a que se refiere el artículo anterior y de que cumplan los fines para los que sean creados.
+Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités y las Casas de Salud, a que se refiere el artículo anterior y de que cumplan los fines para los que sean creados.
 
 ###### ARTICULO 68.
 
@@ -3673,13 +3681,13 @@ P.O. 15 DE ABRIL DE 2019.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+P.O. 29 DE ABRIL DE 2019.
 
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 142.- SE REFORMA EL ARTÍCULO 67 Y SE ADICIONA EL ARTÍCULO 66 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 13 DE JUNIO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 19/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD Y SEDE MENCIONADAS".]
 
