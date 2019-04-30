@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2018-12-31"
+last_updated: "2019-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2019 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ABRIL DE 2019.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -2083,9 +2083,9 @@ V. Someterse a exámenes para comprobar la ausencia de alcoholismo y para compro
 
 VI. Contar con la certificación y registro actualizados del Registro Nacional de Personal de Seguridad Pública;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018) (F. DE E., B.O. 30 DE ABRIL DE 2019)
 
-VII. Cumplir con las órdenes de rotación y cambio de adscripción que emita el Procurador o el Director de Servicios Periciales, en su caso;
+VII. Cumplir con las órdenes de rotación y cambio de adscripción que emita el Procurador o el Director de la Agencia Estatal de Investigación Criminal, en su caso;
 
 VIII. Cumplir los programas de actualización y profesionalización a que estén obligados;
 
