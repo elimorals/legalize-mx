@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2018-12-15"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2019.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -2057,9 +2057,9 @@ Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves 
 
 El Estado tiene como base de su división territorial y de su organización política administrativa el Municipio Libre, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores que la ley determine. El número de Síndicos se determinará en razón directa de la población del Municipio que represente, aquellos municipios con más de cien mil habitantes contarán con dos síndicos. Todos serán, electos mediante sufragio universal, libre, secreto, directo, personal e intransferible o bajo el principio de representación proporcional, y en su caso, por quienes los sustituyan en términos de esta Constitución. La competencia que la Constitución General de la República y la Constitución local, otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre ésta y el Gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico de Hacienda y el número de regidores que la ley determine. Todos serán electos mediante sufragio universal, libre, secreto, directo, personal e intransferible o bajo el principio de representación proporcional, y en su caso, por quienes los sustituyan en términos de esta Constitución. La competencia que la Constitución General de la República y la Constitución local, otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre ésta y el Gobierno del Estado
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3692,3 +3692,17 @@ SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presen
 TERCERO.- El Congreso del Estado tendrá un plazo de 180 días para realizar las adecuaciones correspondientes a la legislación secundaria.
 
 CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 1 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 084 POR EL QUE “SE REFORMA EL ARTÍCULO 64, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los síndicos de los ayuntamientos, que resultaron electos el 1° de julio de 2018 para el trienio 2018-2021, concluirán su cargo conforme al período establecido, es decir el 4 de octubre de 2021.
+
+TERCERO.- Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, se realizarán las reformas necesarias a la legislación que corresponda, a fin de armonizarlas con las disposiciones aquí establecidas.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+QUINTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los Ayuntamientos de la entidad.
