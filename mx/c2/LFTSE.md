@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2018-06-22"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -682,19 +682,35 @@ Los sindicatos son las asociaciones de trabajadores que laboran en una misma dep
 
 ###### ARTICULO 68.
 
-En cada dependencia sólo habrá un sindicato. En caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal Federal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 69.
 
-Todos los trabajadores tienen derecho a formar parte del sindicato correspondiente, pero una vez que soliciten y obtengan su ingreso, no podrán dejar de formar parte de él, salvo que fueren expulsados.
+Todos los trabajadores tienen derecho a formar parte de un sindicato y a constituir sindicatos, sin necesidad de autorización previa.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El trabajador ejercerá en todo momento de su libertad de adhesión o separación en un sindicato.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Asimismo, a nadie se le puede obligar a formar parte de un sindicato, a no formar parte de él o a permanecer en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
 
 ###### ARTICULO 70.
 
 Los trabajadores de confianza no podrán formar parte de los sindicatos. Cuanlo (sic) los trabajadores sindicalizados desempeñen un puesto de confianza, quedarán en suspenso todas sus obligaciones y derechos sindicales.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 71.
 
-Para que se constituya un sindicato, se requiere que lo formen veinte trabajadores o más, y que no exista dentro de la dependencia otra agrupación sindical que cuente con mayor número de miembros.
+Para que se constituya un sindicato, se requiere que lo formen veinte trabajadores de una misma dependencia.
 
 ###### ARTICULO 72.
 
@@ -710,9 +726,11 @@ IV.- Una lista de los miembros de que se componga el sindicato, con expresión d
 
 El Tribunal Federal de Conciliación y Arbitraje, al recibir la solicitud de registro, comprobará por los medios que estime más prácticos y eficaces, que no existe otra asociación sindical dentro de la dependencia de que se trate y que la peticionaria cuenta con la mayoría de los trabajadores de esa unidad, para proceder, en su caso, al registro.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 73.
 
-El registro de un sindicato se cancelará por disolución del mismo o cuando se registre diversa agrupación sindical que fuere mayoritaria. La solicitud de cancelación podrá hacerse por persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano.
+El registro de un sindicato se cancelará por la disolución del mismo. La solicitud de cancelación podrá hacerse por persona interesada y el Tribunal.
 
 ###### ARTICULO 74.
 
@@ -738,9 +756,11 @@ III.- Facilitar la labor del Tribunal Federal de Conciliación y Arbitraje, en l
 
 IV.- Patrocinar y representar a sus miembros ante las autoridades y ante el Tribunal Federal de Conciliación y Arbitraje cuando les fuere solicitado.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 78.
 
-Los sindicatos podrán adherirse a la Federación de Sindicatos de Trabajadores al Servicio del Estado, única central reconocida por el Estado.
+Los sindicatos podrán adherirse a las Federaciones de Sindicatos de Trabajadores, de acuerdo con sus normas internas.
 
 ###### ARTICULO 79.
 
@@ -754,7 +774,7 @@ III.- Usar la violencia con los trabajadores libres para obligarlos a que se sin
 
 IV.- Fomentar actos delictuosos contra personas o propiedades, y
 
-V.- Adherirse a organizaciones o centrales obreras o campesinas.
+V.- (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 ###### ARTICULO 80.
 
@@ -776,9 +796,11 @@ II.- Porque dejen de reunir los requisitos señalados por el Artículo 71.
 
 En los casos de violación a lo dispuesto en el Artículo 79, el Tribunal Federal de Conciliación y Arbitraje determinará la cancelación del registro de la directiva o del registro del sindicato, según corresponda.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 84.
 
-La Federación de Sindicatos de Trabajadores al Servicio del Estado se regirá por sus estatutos y, en lo conducente, por las disposiciones relativas a los sindicatos que señala esta Ley.
+Las Federaciones de Sindicatos se regirán por sus estatutos y, en lo conducente, por las disposiciones relativas a los sindicatos que señala esta Ley.
 
 En ningún caso podrá decretarse la expulsión de un sindicato del seno de la Federación.
 
@@ -1677,3 +1699,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 
 TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 1 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
