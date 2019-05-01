@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2019-03-30"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 16 de diciembre de 2015.
 
@@ -311,11 +311,13 @@ f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta
 
 El margen de autonomía presupuestaria de dependencias y entidades se sujetará estrictamente a lo dispuesto en esta Ley, su Reglamento y, en su caso, a las disposiciones específicas contenidas en las leyes o decretos de su creación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 7.
 
-El Ejecutivo, por conducto de la Secretaría, estará a cargo de la programación, presupuestación, evaluación y control presupuestario del gasto público correspondiente a las dependencias y entidades. La evaluación la realizará a través de la instancia técnica denominada Unidad de Evaluación del Desempeño. Asimismo, la Función Pública, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto por parte de las dependencias y entidades.
+El Ejecutivo, por conducto de la Secretaría, estará a cargo de la programación, presupuestación y control presupuestario del gasto público correspondiente a las dependencias y entidades.
+
+La evaluación se realizará a través de la instancia técnica denominada Unidad de Evaluación del Desempeño, que para el Poder Ejecutivo del Estado será la Coordinación de Evaluación del Desempeño, dependiente de la Coordinación General Ejecutiva de la Gubernatura. Asimismo, la Función Pública, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto al gasto público por parte de las dependencias y entidades.
 
 Los Poderes Legislativo y Judicial y los órganos autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control del gasto corresponderá al órgano competente, y la evaluación del mismo correrá a cargo de su respectiva Unidad de Evaluación del Desempeño, en los términos previstos en sus respectivas leyes orgánicas o los ordenamientos jurídicos que les sean aplicables.
 
@@ -1501,7 +1503,9 @@ La Secretaría realizará semestralmente la evaluación económica de los ingres
 
 La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores de desempeño que permitan conocer los resultados de la aplicación de los recursos públicos. Para tal efecto, la Unidad de Evaluación del Desempeño se sujetará a lo siguiente:
 
-I. Efectuará las evaluaciones por sí misma o a través de personas físicas y jurídicas colectivas, en cuyo caso la unidad de administración de la Secretaría realizará las contrataciones en apego a la normatividad aplicable, que deberán contar con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los que se establezcan en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2019)</small>
+
+I. Efectuará las evaluaciones por sí misma o a través de personas físicas y jurídicas colectivas, las cuales deberán contar con experiencia probada en la materia que corresponda evaluar y cumplir con los requisitos de independencia, imparcialidad y transparencia, así como los que se establezcan en las disposiciones aplicables. Para tales efectos se realizarán las contrataciones en apego a la normatividad aplicable;
 
 II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
 
@@ -1796,3 +1800,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Reglamento de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios deberá modificarse a más tardar a los 180 días naturales posteriores a la entrada en vigor del presente Decreto, a efectos de armonizarlo con la presente reforma.
+
+P.O. 1 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7 Y 80, PÁRRAFO SEGUNDO, FRACCIÓN I, TODOS DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Evaluación deberá instalarse en un plazo no mayor a cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos relacionados con la evaluación del desempeño que con motivo de este Decreto deban pasar para su atención a la Coordinación de Evaluación del Desempeño permanecerán en el último trámite que hubieren alcanzado, a excepción de los urgentes o sujetos a plazos improrrogables que deberán desahogarse con la inmediatez que se requiera.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en otras disposiciones se dé una denominación distinta a alguna dependencia, entidad o unidad cuyas funciones estén reguladas en las leyes materia de este Decreto, dichas atribuciones se entenderán concedidas para su ejercicio a la dependencia, entidad o unidad que determinan estas leyes en tanto se realizan los ajustes legislativos, reglamentarios o administrativos que correspondan.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
