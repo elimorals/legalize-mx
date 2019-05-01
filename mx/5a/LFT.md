@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2018-06-22"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -58,17 +58,23 @@ Se tutela la igualdad sustantiva o de hecho de trabajadores y trabajadoras frent
 
 La igualdad sustantiva es la que se logra eliminando la discriminación contra las mujeres que menoscaba o anula el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades fundamentales en el ámbito laboral. Supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 3°.
 
-El trabajo es un derecho y un deber sociales. No es artículo de comercio.
+El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre hombres y mujeres para obtener su igualdad ante la ley. Debe efectuarse en condiciones que aseguren la vida digna y la salud para las y los trabajadores y sus familiares dependientes.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 No podrán establecerse condiciones que impliquen discriminación entre los trabajadores por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales, estado civil o cualquier otro que atente contra la dignidad humana.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 No se considerarán discriminatorias las distinciones, exclusiones o preferencias que se sustenten en las calificaciones particulares que exija una labor determinada.
 
-Es de interés social promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los trabajadores como a los patrones.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Es de interés social garantizar un ambiente laboral libre de discriminación y de violencia, promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los trabajadores como a los patrones.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -78,15 +84,35 @@ a) Hostigamiento, el ejercicio del poder en una relación de subordinación real
 
 b) Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 3° Ter.
+
+Para efectos de esta Ley se entenderá por:
+
+I. Autoridad Conciliadora: El Centro Federal de Conciliación y Registro Laboral o los Centros de Conciliación de las entidades federativas, según corresponda;
+
+II. Autoridad Registral: El Centro Federal de Conciliación y Registro Laboral;
+
+III. Centros de Conciliación: Los Centros de conciliación de las entidades federativas o el Centro Federal de Conciliación y Registro Laboral, según corresponda;
+
+IV. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+
+V. Día: Se hace referencia a día hábil, salvo que expresamente se mencione que se trata de días naturales;
+
+VI. Tribunal: El juez laboral, y
+
+VII. Correr traslado: poner a disposición de alguna de las partes algún documento o documentos en el local del Tribunal, salvo los casos previstos en esta Ley.
+
 ###### Artículo 4°.
 
 No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesión, industria o comercio que le acomode, siendo lícitos. El ejercicio de estos derechos sólo podrá vedarse por resolución de la autoridad competente cuando se ataquen los derechos de tercero o se ofendan los de la sociedad:
 
 I. Se atacan los derechos de tercero en los casos previstos en las leyes y en los siguientes:
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-a) Cuando se trate de sustituir o se sustituya definitivamente a un trabajador que reclame la reinstalación en su empleo sin haberse resuelto el caso por la Junta de Conciliación y Arbitraje.
+a) Cuando se trate de sustituir o se sustituya definitivamente a un trabajador que reclame la reinstalación en su empleo sin haberse resuelto el caso por el Tribunal.
 
 b) Cuando se niegue el derecho de ocupar su mismo puesto a un trabajador que haya estado separado de sus labores por causa de enfermedad o de fuerza mayor, o con permiso, al presentarse nuevamente a sus labores; y
 
@@ -106,7 +132,9 @@ I. Trabajos para menores de quince años;
 
 II. Una jornada mayor que la permitida por esta Ley;
 
-III. Una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo, a juicio de la Junta de Conciliación y Arbitraje;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo, a juicio del Tribunal;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
 
@@ -114,7 +142,9 @@ IV. Horas extraordinarias de trabajo para los menores de dieciocho años;
 
 V. Un salario inferior al mínimo;
 
-VI. Un salario que no sea remunerador, a juicio de la Junta de Conciliación y Arbitraje;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Un salario que no sea remunerador, a juicio del Tribunal;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -133,6 +163,14 @@ XI. Un salario menor que el que se pague a otro trabajador en la misma empresa o
 XII. Trabajo nocturno industrial o el trabajo despues de las veintidós horas, para menores de dieciséis años; y
 
 XIII. Renuncia por parte del trabajador de cualquiera de los derechos o prerrogativas consignados en las normas de trabajo.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIV. Encubrir una relación laboral con actos jurídicos simulados para evitar el cumplimiento de obligaciones laborales y/o de seguridad social, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XV. Registrar a un trabajador con un salario menor al que realmente recibe.
 
 En todos estos casos se entenderá que rigen la Ley o las normas supletorias en lugar de las cláusulas nulas.
 
@@ -276,7 +314,9 @@ Se presumen la existencia del contrato y de la relación de trabajo entre el que
 
 Los mayores de quince años pueden prestar libremente sus servicios con las limitaciones establecidas en esta Ley.
 
-Los mayores de quince y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los mayores de quince y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, del Tribunal, del Inspector del Trabajo o de la Autoridad Política.
 
 Los menores trabajadores deben percibir el pago de sus salarios y ejercitar, en su caso, las acciones que les correspondan.
 
@@ -334,6 +374,10 @@ VIII. La indicación de que el trabajador será capacitado o adiestrado en los t
 
 IX. Otras condiciones de trabajo, tales como días de descanso, vacaciones y demás que convengan el trabajador y el patrón.
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+X. La designación de beneficiarios a los que refiere el artículo 501 de esta ley, para el pago de los salarios y prestaciones devengadas y no cobradas a la muerte de los trabajadores o las que se generen por su fallecimiento o desaparición derivada de un acto delincuencial.
+
 ###### Artículo 26.
 
 La falta del escrito a que se refieren los artículos 24 y 25 no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados, pues se imputará al patrón la falta de esa formalidad.
@@ -360,13 +404,17 @@ d) Los mecanismos para informar al trabajador acerca de las autoridades consular
 
 II. El patrón señalará en el contrato de trabajo domicilio dentro de la República para todos los efectos legales;
 
-III. El contrato de trabajo será sometido a la aprobación de la Junta Federal de Conciliación y Arbitraje, la cual, después de comprobar que éste cumple con las disposiciones a que se refieren las fracciones I y II de este artículo lo aprobará.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-En caso de que el patrón no cuente con un establecimiento permanente y domicilio fiscal o de representación comercial en territorio nacional, la Junta Federal de Conciliación y Arbitraje fijará el monto de una fianza o depósito para garantizar el cumplimiento de las obligaciones contraídas. El patrón deberá comprobar ante la misma Junta el otorgamiento de la fianza o la constitución del depósito;
+III. El contrato de trabajo será sometido a la aprobación del Centro Federal de Conciliación y Registro Laboral, el cual, después de comprobar que éste cumple con las disposiciones a que se refieren las fracciones I y II de este artículo lo aprobará.
+
+En caso de que el patrón no cuente con un establecimiento permanente y domicilio fiscal o de representación comercial en territorio nacional, el Centro Federal de Conciliación y Registro Laboral fijará el monto de una fianza o depósito para garantizar el cumplimiento de las obligaciones contraídas. El patrón deberá comprobar ante dicho Centro el otorgamiento de la fianza o la constitución del depósito;
 
 IV. El trabajador y el patrón deberán anexar al contrato de trabajo la visa o permiso de trabajo emitido por las autoridades consulares o migratorias del país donde deban prestarse los servicios; y
 
-V. Una vez que el patrón compruebe ante la Junta que ha cumplido las obligaciones contraídas, se ordenará la cancelación de la fianza o la devolución del depósito que ésta hubiere determinado.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Una vez que el patrón comprueba ante el Centro Federal de Conciliación y Registro Laboral que ha cumplido las obligaciones contraídas, se ordenará la cancelación de la fianza o la devolución del depósito que esta hubiere determinado.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -424,7 +472,13 @@ El incumplimiento de las normas de trabajo por lo que respecta al trabajador só
 
 Es nula la renuncia que los trabajadores hagan de los salarios devengados, de las indemnizaciones y demás prestaciones que deriven de los servicios prestados, cualquiera que sea la forma o denominación que se le dé.
 
-Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante la Junta de Conciliación y Arbitraje, la que lo aprobará siempre que no contenga renuncia de los derechos de los trabajadores.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante los Centros de Conciliación o al Tribunal según corresponda, que lo aprobará siempre que no contenga renuncia de los derechos de los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando el convenio sea celebrado sin la intervención de las autoridades, será susceptible de ser reclamada la nulidad ante el Tribunal, solamente de aquello que contenga renuncia de los derechos de los trabajadores, conservando su validez el resto de las cláusulas convenidas.
 
 ###### Artículo 34.
 
@@ -538,9 +592,9 @@ IV. El arresto del trabajador;
 
 V. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5°. de la Constitución, y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación y Arbitraje, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes;
+VI. La designación de los trabajadores como representantes ante los organismos estatales, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -644,33 +698,93 @@ XV. Las análogas a las establecidas en las fracciones anteriores, de igual mane
 
 El patrón que despida a un trabajador deberá darle aviso escrito en el que refiera claramente la conducta o conductas que motivan la rescisión y la fecha o fechas en que se cometieron.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-El aviso deberá entregarse personalmente al trabajador en el momento mismo del despido o bien, comunicarlo a la Junta de Conciliación y Arbitraje competente, dentro de los cinco días hábiles siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador a fin de que la autoridad se lo notifique en forma personal.
+El aviso deberá entregarse personalmente al trabajador en el momento mismo del despido o bien, comunicarlo al Tribunal competente, dentro de los cinco días hábiles siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador a fin de que la autoridad se lo notifique en forma personal.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 La prescripción para ejercer las acciones derivadas del despido no comenzará a correr sino hasta que el trabajador reciba personalmente el aviso de rescisión.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La falta de aviso al trabajador personalmente o por conducto de la Junta, por sí sola determinará la separación no justificada y, en consecuencia, la nulidad del despido.
+La falta de aviso al trabajador personalmente o por conducto del Tribunal, por sí sola presumirá la separación no justificada, salvo prueba en contrario que acredite que el despido fue justificado.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 48.
 
-El trabajador podrá solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+El trabajador podrá solicitar ante la Autoridad Conciliadora, o ante el Tribunal si no existe arreglo conciliatorio, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago, observando previamente las disposiciones relativas al procedimiento de conciliación previsto en el artículo 684-A y subsiguientes.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
 
-Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
-Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces el salario mínimo general.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+A los servidores públicos del Centro Federal de Conciliación y Registro Laboral cuando retrasen, obstruyan o influyan en el procedimiento de registros sindicales y de contratos colectivos y de reglamentos interiores de trabajo a favor o en contra de una de las partes, así como en el otorgamiento de la constancia de representatividad sin causa justificada se les impondrá una multa de 100 a 1000 veces la Unidad de Medida y Actualización. Por lo que se refiere a los servidores públicos de los Centros de Conciliación locales se le sancionará en los mismos términos, cuando en el desempeño de su función conciliatoria incurran en estas conductas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 48 Bis.
+
+Para efectos del artículo 48 de esta Ley, de manera enunciativa se considerarán actuaciones notoriamente improcedentes las siguientes:
+
+I. Tratándose de las partes, abogados, litigantes, representantes o testigos:
+
+a) Ofrecer algún beneficio personal, dádiva o soborno a funcionarios del Centro Federal de Conciliación y Registro Laboral, Centros de Conciliación Locales o Tribunales; así como a terceros de un procedimiento laboral;
+
+b) Alterar un documento firmado por el trabajador con un fin distinto para incorporar la renuncia;
+
+c) Exigir la firma de papeles en blanco en la contratación o en cualquier momento de la relación laboral;
+
+d) Presentación de hechos notoriamente falsos en el juicio laboral, por cualquiera de las partes o sus representantes, sobre el salario, la jornada de trabajo o la antigüedad de la relación de trabajo;
+
+e) Negar el acceso a un establecimiento o centro de trabajo al actuario o notificador de la autoridad laboral, cuando éste solicite realizar una notificación o diligencia. Asimismo, negarse a recibir los documentos relativos a la notificación ordenada por la autoridad laboral cuando se trate del domicilio de la razón social o de la persona física o moral buscada. También se considera conducta infractora simular con cédulas fiscales o documentación oficial de otras razones sociales, aun cuando tengan el mismo domicilio, con objeto de evadir la citación al procedimiento de conciliación prejudicial, el emplazamiento a juicio o el desahogo de una prueba, y
+
+f) Demandar la titularidad de un contrato colectivo de trabajo sin tener trabajadores afiliados al sindicato que labore en el centro de trabajo de cuyo contrato se reclame.
+
+II. Tratándose de servidores públicos se considerarán actuaciones notoriamente improcedentes:
+
+a) Levantar razón de una notificación haciendo constar que se constituyó en el domicilio que se le ordenó realizar la notificación, sin haberse constituido en el mismo;
+
+b) Levantar razón de una notificación o cédula de emplazamiento sin que éstas se hayan realizado;
+
+c) Omitir efectuar una notificación dentro del plazo establecido por la Ley u ordenado por la autoridad laboral;
+
+d) Dilatar de manera deliberada la notificación de una audiencia de conciliación, el emplazamiento de un juicio laboral o cualquier notificación personal del procedimiento laboral, para beneficiar a alguna de las partes del procedimiento o para recibir un beneficio de alguna de las partes;
+
+e) Recibir una dádiva de alguna de las partes o tercero interesado;
+
+f) Retrasar deliberadamente la ejecución de sentencias y convenios que sean cosa juzgada;
+
+g) Admitir pruebas no relacionadas con la litis que dilaten el procedimiento;
+
+h) Retrasar un acuerdo o resolución más de ocho días de los plazos establecidos en la ley;
+
+i) Ocultar expedientes con el fin de retrasar el juicio o impedir la celebración de una audiencia o diligencia;
+
+j) Retrasar y obstruir la entrega de la constancia de representatividad sin causa justificada, y
+
+k) Negarse a recibir injustificadamente el trabajador de un organismo público o paraestatal una notificación de un Centro de Conciliación o un Tribunal, o bien obstaculizar su realización, en cuyo caso deberá darse vista al Órgano de Control Interno correspondiente, independientemente de las sanciones que se establecen en la presente Ley.
+
+Se considera grave la conducta si la dilación es producto de omisiones o conductas irregulares de los servidores públicos; en estos casos, además de las sanciones que sean aplicables conforme a la Ley General de Responsabilidades Administrativas, se les impondrá a quienes resulten responsables una multa de 100 a 1000 veces la Unidad de Medida y Actualización, y se deberá dar vista al Ministerio Público por la posible comisión de delitos contra la administración de justicia.
 
 ###### Artículo 49.
 
@@ -678,13 +792,25 @@ El patrón quedará eximido de la obligación de reinstalar al trabajador, media
 
 I. Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
-II. Si comprueba ante la Junta de Conciliación y Arbitraje, que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y la Junta estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Si comprueba ante el Tribunal que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
 
 III. En los casos de trabajadores de confianza;
 
-IV. En el servicio doméstico; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. En los casos de trabajadores del hogar, y
 
 V. Cuando se trate de trabajadores eventuales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el artículo 982 de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para tal efecto el patrón aportará al Tribunal la información relacionada con el nombre y domicilio del trabajador, para que se le notifique dicho paraprocesal, debiendo manifestar bajo protesta de decir verdad que en el caso se actualiza alguna de las hipótesis contempladas en el presente artículo. Con el escrito de cuenta y desglose del monto de la indemnización el Tribunal correrá traslado al trabajador para su conocimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si el trabajador no está de acuerdo con la procedencia o los términos de la indemnización, el trabajador tendrá a salvo sus derechos para demandar por la vía jurisdiccional la acción que corresponda; en caso de que en el juicio se resuelva que el trabajador no se encuentra en ninguna de las hipótesis de este artículo, el depósito de la indemnización no surtirá efecto alguno y el Tribunal dispondrá del dinero depositado para ejecutar su sentencia. Si en dicho juicio el Tribunal resuelve que se actualiza alguna de las hipótesis contempladas en este artículo, pero el monto depositado es insuficiente para pagar la indemnización, el Tribunal condenará al patrón a pagar las diferencias e intereses correspondientes.
 
 ###### Artículo 50.
 
@@ -770,9 +896,11 @@ Artículo 56 bis. Los trabajadores podrán desempeñar labores o tareas conexas 
 
 Para los efectos del párrafo anterior, se entenderán como labores o tareas conexas o complementarias, aquellas relacionadas permanente y directamente con las que estén pactadas en los contratos individuales y colectivos de trabajo o, en su caso, las que habitualmente realice el trabajador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 57.
 
-El trabajador podrá solicitar de la Junta de Conciliación y Arbitraje la modificación de las condiciones de trabajo, cuando el salario no sea remunerador o sea excesiva la jornada de trabajo o concurran circunstancias económicas que la justifiquen.
+El trabajador podrá solicitar al Tribunal la modificación de las condiciones de trabajo, cuando el salario no sea remunerador o sea excesiva la jornada de trabajo o concurran circunstancias económicas que la justifiquen.
 
 El patrón podrá solicitar la modificación cuando concurran circunstancias económicas que la justifiquen.
 
@@ -882,9 +1010,11 @@ VIII. El 25 de diciembre, y
 
 IX. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 75.
 
-En los casos del artículo anterior los trabajadores y los patrones determinarán el número de trabajadores que deban prestar sus servicios. Si no se llega a un convenio, resolverá la Junta de Conciliación Permanente o en su defecto la de Conciliación y Arbitraje.
+En los casos del artículo anterior los trabajadores y los patrones determinarán el número de trabajadores que deban prestar sus servicios. Si no se llega a un convenio, resolverá el Tribunal.
 
 Los trabajadores quedarán obligados a prestar los servicios y tendrán derecho a que se les pague, independientemente del salario que les corresponda por el descanso obligatorio, un salario doble por el servicio prestado.
 
@@ -1060,6 +1190,14 @@ El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no
 
 Previo consentimiento del trabajador, el pago del salario podrá efectuarse por medio de depósito en cuenta bancaria, tarjeta de débito, transferencias o cualquier otro medio electrónico. Los gastos o costos que originen estos medios alternativos de pago serán cubiertos por el patrón.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En todos los casos, el trabajador deberá tener acceso a la información detallada de los conceptos y deducciones de pago. Los recibos de pago deberán entregarse al trabajador en forma impresa o por cualquier otro medio, sin perjuicio de que el patrón lo deba entregar en documento impreso cuando el trabajador así lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los recibos impresos deberán contener firma autógrafa del trabajador para su validez; los recibos de pago contenidos en comprobantes fiscales digitales por Internet (CFDI) pueden sustituir a los recibos impresos; el contenido de un CFDI hará prueba si se verifica en el portal de Internet del Servicio de Administración Tributaria, en caso de ser validado se estará a lo dispuesto en la fracción I del artículo 836-D de esta Ley.
+
 ###### Artículo 102.
 
 Las prestaciones en especie deberán ser apropiadas al uso personal del trabajador y de su familia y razonablemente proporcionadas al monto del salario que se pague en efectivo.
@@ -1136,6 +1274,10 @@ En caso de que el trabajador deje de prestar sus servicios en el centro de traba
 
 VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El trabajador podrá manifestar por escrito su voluntad de que no se le aplique la cuota sindical, en cuyo caso el patrón no podrá descontarla;
+
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 VII. Pago de abonos para cubrir créditos garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
@@ -1154,9 +1296,11 @@ Los patrones no están obligados a cumplir ninguna otra orden judicial o adminis
 
 Los salarios devengados en el último año y las indemnizaciones debidas a los trabajadores son preferentes sobre cualquier otro crédito, incluidos los que disfruten de garantía real, los fiscales y los a favor del Instituto Mexicano del Seguro Social, sobre todos los bienes del patrón.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 114.
 
-Los trabajadores no necesitan entrar a concurso, quiebra, suspensión de pagos o sucesión. La Junta de Conciliación y Arbitraje procederá al embargo y remate de los bienes necesarios para el pago de los salarios e indemnizaciones.
+Los trabajadores no necesitan entrar a concurso, quiebra, suspensión de pagos o sucesión. El Tribunal procederá al embargo y remate de los bienes necesarios para el pago de los salarios e indemnizaciones.
 
 ###### Artículo 115.
 
@@ -1206,9 +1350,9 @@ III. La resolución definitiva dictada por la misma Secretaría no podrá ser re
 
 IV. Dentro de los treinta días siguientes a la resolución dictada por la Secretaría de Hacienda y Crédito Público, el patrón dará cumplimiento a la misma independientemente de que la impugne. Si como resultado de la impugnación variara a su favor el sentido de la resolución, los pagos hechos podrán deducirse de las utilidades correspondientes a los trabajadores en el siguiente ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Lo anterior, a excepción de que el patrón hubiese obtenido de la Junta de Conciliación y Arbitraje, la suspensión del reparto adicional de utilidades.
+Lo anterior, a excepción de que el patrón hubiese obtenido del Tribunal, la suspensión del reparto adicional de utilidades.
 
 > <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
 
@@ -1280,7 +1424,9 @@ IV Bis. Los trabajadores del establecimiento de una empresa forman parte de ella
 
 V. En la industria de la construcción, después de determinar qué trabajadores tienen derecho a participar en el reparto, la Comisión a que se refiere el artículo 125 adoptará las medidas que juzgue conveniente para su citación;
 
-VI. Los trabajadores domésticos no participarán en el reparto de utilidades; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Los trabajadores del hogar no participarán en el reparto de utilidades, y
 
 VII. Los trabajadores eventuales tendrán derecho a participar en las utilidades de la empresa cuando hayan trabajado sesenta días durante el año, por lo menos.
 
@@ -1378,9 +1524,9 @@ XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo pract
 
 XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso, al Instituto del Fondo Nacional para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador;
+XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, enterar los descuentos en orden de prelación, primero al Instituto del Fondo Nacional para el Consumo de los Trabajadores y posterior a las otras instituciones. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador;
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1402,6 +1548,22 @@ XXVIII. Participar en la integración y funcionamiento de las Comisiones que deb
 
 XXIX. Otorgar permiso sin goce de sueldo a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XXX. Entregar a sus trabajadores de manera gratuita un ejemplar impreso del contrato colectivo de trabajo inicial o de su revisión dentro de los quince días siguientes a que dicho contrato sea depositado ante el Centro Federal de Conciliación y Registro Laboral; esta obligación se podrá acreditar con la firma de recibido del trabajador;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XXXI. Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 133.
@@ -1416,7 +1578,9 @@ II. Exigir que los trabajadores compren sus artículos de consumo en tienda o lu
 
 III. Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
 
-IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura, así como cualquier acto u omisión que atente contra su derecho a decidir quién debe representarlos en la negociación colectiva;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1457,6 +1621,14 @@ XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que 
 > <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
 XVI. Dar de baja o terminar la relación laboral de un trabajador que tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XVII. Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XVIII. Las demás que establezca esta Ley.
 
 ### CAPITULO II. Obligaciones de los Trabajadores
 
@@ -1622,11 +1794,11 @@ Para tales efectos, se entenderá por incapacidad total permanente la pérdida d
 
 Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 146.
 
-Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta ley por lo que toca a los trabajadores domésticos.
+Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta ley por lo que toca a los trabajadores del hogar.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1684,13 +1856,17 @@ a). Usar la habitación para fines distintos de los señalados en este capítulo
 
 b). Subarrendar las habitaciones.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 152.
 
-Los trabajadores tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje las acciones individuales y colectivas que deriven del incumplimiento de las obligaciones impuestas en este capítulo.
+Los trabajadores tendrán derecho a ejercitar ante el Tribunal las acciones individuales y colectivas que deriven del incumplimiento de las obligaciones impuestas en este capítulo.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153.
 
-Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
+Las empresas tendrán derecho a ejercitar ante el Tribunal, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1842,45 +2018,91 @@ X. Las demás que se acuerden y se consideren pertinentes.
 
 Los programas establecidos en este artículo podrán formularse respecto de varias empresas, por actividad o servicio, una o varias ramas industriales o de servicios, por entidades federativas, región o a nivel nacional.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153-K.
 
-La Secretaría del Trabajo y Previsión Social en conjunto con la Secretaría de Economía, convocarán a los patrones, sindicatos, trabajadores e instituciones académicas para que constituyan el Comité Nacional de Productividad, que tendrán el carácter de órgano consultivo y auxiliar del Ejecutivo Federal y de la planta productiva.
+La Secretaría del Trabajo y Previsión Social en conjunto con la Secretaría de Economía, convocarán a los patrones, sindicatos, trabajadores e instituciones académicas para que constituyan el Comité Nacional de Concertación y Productividad, que tendrán el carácter de órgano consultivo y auxiliar del Ejecutivo Federal y de la planta productiva.
 
-El Comité Nacional de Productividad tendrá las facultades que enseguida se enumeran:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Comité Nacional de Concertación y Productividad se reunirá por lo menos cada dos meses y tendrá las facultades que enseguida se enumeran:
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 I. Realizar el diagnóstico nacional e internacional de los requerimientos necesarios para elevar la productividad y la competitividad en cada sector y rama de la producción, impulsar la capacitación y el adiestramiento, así como la inversión en el equipo y la forma de organización que se requiera para aumentar la productividad, proponiendo planes por rama, y vincular los salarios a la calificación y competencias adquiridas, así como a la evolución de la productividad de la empresa en función de las mejores prácticas tecnológicas y organizativas que incrementen la productividad tomando en cuenta su grado de desarrollo actual;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 II. Colaborar en la elaboración y actualización permanente del Catálogo Nacional de Ocupaciones y en los estudios sobre las características de la tecnología, maquinaria y equipo en existencia y uso, así como de las competencias laborales requeridas en las actividades correspondientes a las ramas industriales o de servicios;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 III. Sugerir alternativas tecnológicas y de organización del trabajo para elevar la productividad en función de las mejores prácticas y en correspondencia con el nivel de desarrollo de las empresas;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 IV. Formular recomendaciones de planes y programas de capacitación y adiestramiento que permitan elevar la productividad;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 V. Estudiar mecanismos y nuevas formas de remuneración que vinculen los salarios y, en general el ingreso de los trabajadores, a los beneficios de la productividad;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 VI. Evaluar los efectos de las acciones de capacitación y adiestramiento en la productividad dentro de las ramas industriales o actividades específicas de que se trate;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 VII. Proponer a la Secretaría del Trabajo y Previsión Social la expedición de normas técnicas de competencia laboral y, en su caso, los procedimientos para su evaluación, acreditación y certificación, respecto de aquellas actividades productivas en las que no exista una norma determinada;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 VIII. Gestionar ante la autoridad laboral el registro de las constancias relativas a conocimientos o habilidades de los trabajadores que hayan satisfecho los requisitos legales exigidos para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 IX. Elaborar e implementar los programas a que hace referencia el artículo anterior;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 X. Participar en la elaboración del Plan Nacional de Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 XI. Emitir opinión y sugerir el destino y aplicación de recursos presupuestales orientados al incremento de la productividad; y
 
-XII. Las demás que se establezcan en esta y otras disposiciones normativas.
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+XII. Emitir opinión respecto del desempeño en los procedimientos de conciliación y proponer metodologías que impulsen su eficacia y reduzcan la conflictividad laboral, con el fin de contribuir al fortalecimiento de los mecanismos alternativos;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIII. Realizar diagnósticos sobre el desempeño de los trámites de registro y legitimación sindical, y sugerir cursos de acción que brinden mayor certeza, transparencia y confiabilidad de las actuaciones de la autoridad registral en materia de acreditación de representatividad sindical;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIV. Realizar diagnósticos respecto de los procedimientos de legitimación y depósito de contratos colectivos de trabajo y su impacto en la productividad de las empresas; asimismo, emitir propuestas para promover la negociación colectiva;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XV. Promover el diálogo social y productivo, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 1 DE MAYO DE 2019)</small>
+
+XVI. Las demás que se establezcan en esta y otras disposiciones normativas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las recomendaciones que emita el Comité serán tomadas en cuenta en el diseño de las políticas públicas, en el ámbito que corresponda, y serán dadas a conocer públicamente.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153-L.
 
-El Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de los miembros de la Comisión Nacional de Productividad, así como las relativas a su organización y funcionamiento. Sujetándose a los principios de representatividad e inclusión en su integración.
+El Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de los miembros de la Comisión Nacional de Concertación y Productividad, así como las relativas a su organización y funcionamiento. Sujetándose a los principios de representatividad e inclusión en su integración.
 
-En la toma de decisiones de la Comisión Nacional de Productividad se privilegiará el consenso.
+En la toma de decisiones de la Comisión Nacional de Concertación y Productividad se privilegiará el consenso.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -1890,13 +2112,11 @@ En los contratos colectivos deberán incluirse cláusulas relativas a la obligac
 
 Además, podrá consignarse en los propios contratos el procedimiento conforme al cual el patrón capacitará y adiestrará a quienes pretendan ingresar a laborar en la empresa, tomando en cuenta, en su caso, la cláusula de admisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153-N.
 
-Para su funcionamiento la Comisión Nacional de Productividad establecerá subcomisiones sectoriales, por rama de actividad, estatales y regionales.
-
-Las subcomisiones elaborarán para el ámbito del respectivo sector, rama de actividad, entidad federativa o región los programas que establece el artículo 153-J de esta Ley.
+Para su funcionamiento la Comisión Nacional de Concertación y Productividad establecerá subcomisiones sectoriales, por rama de actividad, estatales, regionales y las conducentes para cumplir con sus facultades.
 
 ###### Artículo 153-O.
 
@@ -1906,13 +2126,13 @@ Las subcomisiones elaborarán para el ámbito del respectivo sector, rama de act
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153-Q.
 
-A nivel de las entidades federativas y el Distrito Federal se establecerán Comisiones Estatales de Productividad.
+A nivel de las entidades federativas se establecerán Comisiones Estatales de Concertación y Productividad.
 
-Será aplicable a las Comisiones Estatales de Productividad, en el ámbito de las entidades federativas, lo establecido en los artículos 153-I, 153-J, 153-K, 153-L, 153-N y demás relativos.
+Será aplicable a las Comisiones Estatales de Concertación y Productividad, en el ámbito de las entidades federativas, lo establecido en los artículos 153-I, 153-J, 153-K, 153-L, 153-N y demás relativos.
 
 ###### Artículo 153-R.
 
@@ -1960,11 +2180,11 @@ Las constancias de que se trata surtirán plenos efectos, para fines de ascenso,
 
 Los certificados, diplomas, títulos o grados que expidan el Estado, sus organismos descentralizados o los particulares con reconocimiento de validez oficial de estudios, a quienes hayan concluido un tipo de educación con carácter terminal, serán inscritos en los registros de que trata el artículo 539, fracción IV, cuando el puesto y categoría correspondientes figuren en el Catálogo Nacional de Ocupaciones o sean similares a los incluidos en él.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 153-X.
 
-Los trabajadores y patrones tendrán derecho a ejercitar ante las Juntas de Conciliación y Arbitraje las acciones individuales y colectivas que deriven de la obligación de capacitación o adiestramiento impuesta en este Capítulo.
+Los trabajadores y patrones tendrán derecho a ejercitar ante los Tribunales las acciones individuales y colectivas que deriven de la obligación de capacitación o adiestramiento impuesta en este capítulo.
 
 ### CAPITULO IV. Derechos de Preferencia, Antigüedad y Ascenso
 
@@ -1994,17 +2214,19 @@ Los trabajadores que se encuentren en los casos del artículo anterior y que asp
 
 De no existir contrato colectivo o no contener el celebrado la cláusula de admisión, serán aplicables las disposiciones contenidas en el primer párrafo del artículo 154, a los trabajadores que habitualmente, sin tener el carácter de trabajadores de planta, prestan servicios en una empresa o establecimiento, supliendo las vacantes transitorias o temporales y a los que desempeñen trabajos extraordinarios o para obra determinada, que no constituyan una actividad normal o permanente de la empresa.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 157.
 
-El incumplimiento de las obligaciones contenidas en los artículos 154 y 156 da derecho al trabajador para solicitar ante la Junta de Conciliación y Arbitraje, a su elección, que se le otorgue el puesto correspondiente o se le indemnice con el importe de tres meses de salario. Tendrá además derecho a que se le paguen los salarios e intereses, en su caso, a que se refiere el párrafo segundo del artículo 48.
+El incumplimiento de las obligaciones contenidas en los artículos 154 y 156 da derecho al trabajador para solicitar ante el Tribunal, a su elección, que se le otorgue el puesto correspondiente o se le indemnice con el importe de tres meses de salario. Tendrá además derecho a que se le paguen los salarios e intereses, en su caso, a que se refiere el párrafo segundo del artículo 48.
 
 ###### Artículo 158.
 
 Los trabajadores de planta y los mencionados en el artículo 156 tienen derecho en cada empresa o establecimiento a que se determine su antigüedad.
 
-Una comisión integrada con representantes de los trabajadores y del patrón formulará el cuadro general de las antigüedades, distribuido por categorías de cada profesión u oficio y ordenará se le dé publicidad. Los trabajadores inconformes podrán formular objeciones ante la comisión y recurrir la resolución de ésta ante la Junta de Conciliación y Arbitraje.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una comisión integrada con representantes de los trabajadores y del patrón formulará el cuadro general de las antigüedades, distribuido por categorías de cada profesión u oficio y ordenará se le dé publicidad. Los trabajadores inconformes podrán formular objeciones ante la comisión y recurrir la resolución ante el Tribunal.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -2056,9 +2278,9 @@ La atribución de los derechos al nombre y a la propiedad y explotación de las 
 
 I. El inventor tendrá derecho a que su nombre figure como autor de la invención;
 
-> <small>(F. DE E., D.O.F. 30 DE ABRIL DE 1970)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Cuando el trabajador se dedique a trabajos de investigación o de perfeccionamiento de los procedimientos utilizados en la empresa, por cuenta de ésta la propiedad de la invención y el derecho a la explotación de la patente corresponderán al patrón. El inventor, independientemente del salario que hubiese percibido, tendrá derecho a una compensación complementaria, que se fijará por convenio de las partes o por la Junta de Conciliación y Arbitraje cuando la importancia de la invención y los beneficios que puedan reportar al patrón no guarden proporción con el salario percibido por el inventor; y
+II. Cuando el trabajador se dedique a trabajos de investigación o de perfeccionamiento de los procedimientos utilizados en la empresa, por cuenta de ésta la propiedad de la invención y el derecho a la explotación de la patente corresponderán al patrón. El inventor, independientemente del salario que hubiese percibido, tendrá derecho a una compensación complementaria, que se fijará por convenio de las partes o por el Tribunal cuando la importancia de la invención y los beneficios que puedan reportar al patrón no guarden proporción con el salario percibido por el inventor, y
 
 III. En cualquier otro caso, la propiedad de la invención corresponderá a la persona o personas que la realizaron, pero el patrón tendrá un derecho preferente, en igualdad de circunstancias, al uso exclusivo o a la adquisición de la invención y de las correspondientes patentes.
 
@@ -2066,9 +2288,11 @@ III. En cualquier otro caso, la propiedad de la invención corresponderá a la p
 
 ## TITULO QUINTO. Trabajo de las Mujeres
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 164.
 
-Las mujeres disfrutan de los mismos derechos y tienen las mismas obligaciones que los hombres.
+Las mujeres disfrutan de los mismos derechos y tienen las mismas obligaciones que los hombres, garantía que se establece en lo general y específicamente en función de la protección de las trabajadoras y trabajadores con responsabilidades familiares, asegurando la igualdad de trato y oportunidades.
 
 ###### Artículo 165.
 
@@ -2204,11 +2428,13 @@ b) Las actividades que realice el menor no podrán interferir con su educación,
 
 c) Las contraprestaciones que reciba el menor por las actividades que realice nunca serán menores a las que por concepto de salario recibiría un mayor de quince y menor de dieciocho años.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 176.
 
-Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán, como labores peligrosas o insalubres, las que impliquen:
+Para los efectos del trabajo de los menores, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán, como labores peligrosas o insalubres, las que impliquen:
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], D.O.F. 12 DE JUNIO DE 2015)</small>
 
 I. Exposición a:
 
@@ -2219,6 +2445,8 @@ I. Exposición a:
 3. Residuos peligrosos, agentes biológicos o enfermedades infecto contagiosas.
 
 4. Fauna peligrosa o flora nociva.
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], D.O.F. 12 DE JUNIO DE 2015)</small>
 
 II. Labores:
 
@@ -2262,15 +2490,27 @@ II. Labores:
 
 20. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], D.O.F. 12 DE JUNIO DE 2015)</small>
+
 III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema musculo-esquelético.
+
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
 
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 V. Manejo, operación y mantenimiento de maquinaria, equipo o herramientas mecánicas, eléctricas, neumáticas o motorizadas, que puedan generar amputaciones, fracturas o lesiones graves.
+
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 VI. Manejo de vehículos motorizados, incluido su mantenimiento mecánico y eléctrico.
 
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 VII. Uso de herramientas manuales punzo cortantes.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 Las actividades previstas en este artículo, para los menores de dieciocho años y mayores de dieciséis años de edad, se sujetarán a los términos y condiciones consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
@@ -2331,6 +2571,10 @@ Las condiciones de trabajo de los trabajadores de confianza serán proporcionada
 ###### Artículo 183.
 
 Los trabajadores de confianza no podrán formar parte de los sindicatos de los demás trabajadores, ni serán tomados en consideración en los recuentos que se efectúen para determinar la mayoría en los casos de huelga, ni podrán ser representantes de los trabajadores en los organismos que se integren de conformidad con las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Dichos trabajadores de confianza tampoco podrán participar en las pruebas de recuento dentro de los conflictos de titularidad del contrato colectivo de trabajo ni intervenir en las consultas para la firma o revisión de contratos colectivos de trabajo a que hace referencia el artículo 390 Ter, fracción II, de esta Ley.
 
 ###### Artículo 184.
 
@@ -2488,9 +2732,11 @@ Queda prohibido en los expendios de a bordo proporcionar, sin permiso del capit�
 
 Queda igualmente prohibido a los trabajadores introducir drogas y enervantes, salvo lo dispuesto en el artículo 208, fracción III.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 207.
 
-El amarre temporal de un buque que, autorizado por la Junta de Conciliación y Arbitraje, no da por terminadas las relaciones de trabajo, sólo suspende sus efectos hasta que el buque vuelva al servicio.
+El amarre temporal de un buque que, autorizado por el Tribunal, no da por terminadas las relaciones de trabajo, sólo suspende sus efectos hasta que el buque vuelva al servicio.
 
 Las reparaciones a los buques no se considerarán como amarre temporal.
 
@@ -2530,13 +2776,17 @@ V. Cuando el buque se pierda por apresamiento o siniestro, se darán por termina
 
 VI. El cambio de nacionalidad de un buque mexicano es causa de terminación de las relaciones de trabajo. El armador, naviero o fletador, queda obligado a repatriar a los trabajadores y a cubrir el importe de los salarios y prestaciones a que se refiere el párrafo primero de la fracción anterior. Los trabajadores y el patrón podrán convenir en que se proporcione a aquéllos un trabajo de la misma categoría en otro buque del patrón; si no se llega a un convenio, tendrán derecho los trabajadores a que se les indemnice de conformidad con lo dispuesto en el artículo 50.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 210.
 
-En los casos de la fracción V del artículo anterior, si los trabajadores convienen en efectuar trabajos encaminados a la recuperación de los restos del buque o de la carga, se les pagarán sus salarios por los días que trabajen. Si el valor de los objetos salvados excede del importe de los salarios, tendrán derecho los trabajadores a una bonificación adicional, en proporción a los esfuerzos desarrollados y a los peligros arrostrados para el salvamento, la que se fijará por acuerdo de las partes o por decisión de la Junta de Conciliación y Arbitraje, que oirá previamente el parecer de la autoridad marítima.
+En los casos de la fracción V del artículo anterior, si los trabajadores convienen en efectuar trabajos encaminados a la recuperación de los restos del buque o de la carga, se les pagarán sus salarios por los días que trabajen. Si el valor de los objetos salvados excede del importe de los salarios, tendrán derecho los trabajadores a una bonificación adicional, en proporción a los esfuerzos desarrollados y a los peligros arrostrados para el salvamento, la que se fijará por acuerdo de las partes o por decisión del Tribunal, que oirá previamente el parecer de la autoridad marítima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 211.
 
-El Reglamento Interior de Trabajo, depositado en la Junta de Conciliación y Arbitraje, deberá registrarse en la Capitanía de Puerto.
+El Reglamento Interior de Trabajo, depositado ante la Autoridad Registral prevista en esta Ley, deberá registrarse en la Capitanía de Puerto.
 
 Las violaciones al reglamento se denunciarán al Inspector del Trabajo, quien, previa averiguación, las pondrá en conocimiento de la autoridad del trabajo, juntamente con la opinión del Capitán de Puerto.
 
@@ -2770,9 +3020,19 @@ VII. La ejecución, en el desempeño del trabajo, por parte del tripulante, de c
 
 VIII. El incumplimiento de las obligaciones señaladas en el artículo 237 y la violación de la prohibición consignada en el artículo 242, fracción III.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 245.
 
-La Junta Federal de Conciliación y Arbitraje, previamente a la aprobación del reglamento interior de trabajo, recabará la opinión de la Secretaría de Comunicaciones y Transportes a fin de que en el mismo se observen las disposiciones de la Ley de Vías Generales de Comunicaciones y sus reglamentos.
+La Autoridad Registral, previamente a la aprobación del reglamento interior de trabajo, recabará la opinión de la Secretaría de Comunicaciones y Transportes a fin de que en el mismo se observen las disposiciones de la Ley de Vías Generales de Comunicaciones y sus reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 245 Bis.
+
+La existencia de un contrato colectivo de trabajo que abarque a la totalidad de trabajadores no será impedimento para que coexista con otro pacto sindical celebrado con un sindicato gremial de pilotos o sobrecargos, si la mayoría de los trabajadores de la misma profesión manifiestan su voto a favor del sindicato gremial.
+
+El sindicato gremial que afilie pilotos o sobrecargos podrá demandar la titularidad de un contrato que abarque la totalidad de trabajadores, por lo que hace al gremio que represente. La pérdida de la mayoría declarada por los Tribunales, después de consultar a los trabajadores del gremio en disputa mediante voto personal, libre, directo y secreto, produce la de la titularidad del contrato colectivo de trabajo.
 
 ### CAPITULO V. Trabajo Ferrocarrilero
 
@@ -2954,7 +3214,9 @@ En la determinación de la antigüedad de los trabajadores, y del orden en que d
 
 I. La antigüedad se computará a partir de la fecha en que principió el trabajador a prestar sus servicios al patrón;
 
-II. En los contratos colectivos podrá establecerse la antigüedad de cada trabajador. El trabajador inconforme podrá solicitar de la Junta de Conciliación y Arbitraje que rectifique su antigüedad. Si no existen contratos colectivos o falta en ellos la determinación, la antigüedad se fijará de conformidad con lo dispuesto en el artículo 158; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. En los contratos colectivos podrá establecerse la antigüedad de cada trabajador. El trabajador inconforme podrá solicitar al Tribunal que rectifique su antigüedad. Si no existen contratos colectivos o falta en ellos la determinación, la antigüedad se fijará de conformidad con lo dispuesto en el artículo 158, y
 
 III. La distribución del trabajo se hará de conformidad con la antigüedad que corresponda a cada trabajador. En los contratos colectivos se determinarán las modalidades que se estime conveniente para la distribución del trabajo.
 
@@ -2982,11 +3244,15 @@ El trabajador podrá ejercitar la acción de pago de la indemnización contra cu
 
 En los contratos colectivos podrá estipularse que los patrones cubran un porcentaje sobre los salarios, a fin de que se constituya un fondo de pensiones de jubilación o de invalidez que no sea consecuencia de un riesgo de trabajo. En los estatutos del sindicato o en un reglamento especial aprobado por la asamblea, se determinarán los requisitos para el otorgamiento de las pensiones.
 
-Las cantidades correspondientes se entregarán por los patrones al Instituto Mexicano del Seguro Social y en caso de que éste no acepte, a la institución bancaria que se señale en el contrato colectivo. La institución cubrirá las pensiones previa aprobación de la Junta de Conciliación y Arbitraje.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las cantidades correspondientes se entregarán por los patrones al Instituto Mexicano del Seguro Social y en caso de que éste no acepte, a la institución bancaria que se señale en el contrato colectivo. La institución cubrirá las pensiones previa aprobación del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 278.
 
-En los contratos colectivos podrá estipularse la constitución de un fondo afecto al pago de responsabilidades por concepto de pérdidas o averías. La cantidad correspondiente se entregará a la institución bancaria nacional que se señale en el contrato colectivo, la que cubrirá los pagos correspondientes por convenio entre el sindicato y el patrón, o mediante resolución de la Junta de Conciliación y Arbitraje.
+En los contratos colectivos podrá estipularse la constitución de un fondo afecto al pago de responsabilidades por concepto de pérdidas o averías. La cantidad correspondiente se entregará a la institución bancaria nacional que se señale en el contrato colectivo, la que cubrirá los pagos correspondientes por convenio entre el sindicato y el patrón, o mediante resolución del Tribunal.
 
 Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para reponer las cantidades que se paguen.
 
@@ -3014,6 +3280,12 @@ Artículo 279 ter. Los trabajadores estacionales del campo o jornaleros son aque
 
 No se considerarán trabajadores estacionales del campo, los que laboren en empresas agrícolas, ganaderas, forestales, acuícolas o mixtas que adquieran productos del campo, para realizar actividades de empaque, re empaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 279 Quáter.
+
+El patrón llevará un padrón especial de los trabajadores contratados por estacionalidades, para registrar la acumulación de éstas a fin de establecer la antigüedad en el trabajo y, con base en la suma de éstas, calcular las prestaciones y derechos derivados del tiempo sumado de trabajo.
+
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 280.
@@ -3023,6 +3295,18 @@ El trabajador estacional o eventual del campo que labore en forma continua por u
 El patrón llevará un registro especial de los trabajadores eventuales y estacionales que contrate cada año y exhibirlo ante las autoridades del trabajo cuando sea requerido para ello.
 
 Al final de la estación o del ciclo agrícola, el patrón deberá pagar al trabajador las partes proporcionales que correspondan por concepto de vacaciones, prima vacacional, aguinaldo y cualquier otra prestación a la que tenga derecho, y deberá entregar una constancia a cada trabajador en la que se señalen los días laborados y los salarios totales devengados.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 280 Bis.
+
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de las y los trabajadores del campo debiendo tomar en consideración, entre otras las circunstancias siguientes:
+
+I. La naturaleza, cantidad y calidad de los trabajos;
+
+II. El desgate (sic) físico ocasionado por las condiciones del trabajo, y
+
+III. Los salarios y prestaciones percibidas por los trabajadores de establecimientos y empresas dedicadas a la producción de productos agrícolas.
 
 ###### Artículo 281.
 
@@ -3042,9 +3326,9 @@ Los patrones tienen las obligaciones especiales siguientes:
 
 I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus servicios y en períodos de tiempo que no excedan de una semana;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, proporcionales al número de familiares o dependientes económicos que los acompañen y, en su caso, un predio individual o colectivo, para la cría de animales de corral;
+II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, con agua potable, dotadas de piso firme y proporcionales al número de familiares o dependientes económicos que los acompañen y, en su caso, un predio individual o colectivo, para la cría de animales de corral;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -3101,6 +3385,10 @@ XII. Utilizar los servicios de un intérprete cuando los trabajadores no hablen 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 XIII. Brindar servicios de guardería a los hijos de los trabajadores.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIV. Impartirles capacitación en el trabajo para el uso de los medios y equipos de seguridad y protección para el trabajo.
 
 ###### Artículo 284.
 
@@ -3264,7 +3552,9 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XIII. Trabajadores Domésticos
+### CAPITULO XIII. Trabajadores del hogar
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 311.
 
@@ -3430,6 +3720,8 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ### CAPITULO XIII Bis. De Los Trabajadores en Minas
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
@@ -3438,25 +3730,29 @@ VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias d
 
 ###### Artículo 331.
 
-Trabajadores domésticos son los que prestan los servicios de aseo, asistencia y demás propios o inherentes al hogar de una persona o familia.
+Trabajadores del hogar son los que prestan los servicios de aseo, asistencia y demás propios o inherentes al hogar de una persona o familia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 332.
 
-No son trabajadores domésticos y en consecuencia quedan sujetos a las disposiciones generales o particulares de esta Ley:
+No son trabajadores del hogar y en consecuencia quedan sujetos a las disposiciones generales o particulares de esta Ley:
 
 I. Las personas que presten servicios de aseo, asistencia, atención de clientes y otros semejantes, en hoteles, casas de asistencia, restaurantes, fondas, bares, hospitales, sanatorios, colegios, internados y otros establecimientos análogos; y
 
 II. Los porteros y veladores de los establecimientos señalados en la fracción anterior y los de edificios de departamentos y oficinas.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 333.
 
-Los trabajadores domésticos que habitan en el hogar donde prestan sus servicios deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, además de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas.
+Los trabajadores del hogar que habitan en el mismo donde prestan sus servicios deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, además de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 334.
 
-Salvo lo expresamente pactado, la retribución del doméstico comprende, además del pago en efectivo, los alimentos y la habitación. Para los efectos de esta Ley, los alimentos y habitación se estimarán equivalentes al 50% del salario que se pague en efectivo.
+Salvo lo expresamente pactado, la retribución del trabajador del hogar comprende, además del pago en efectivo, los alimentos y la habitación. Para los efectos de esta Ley, los alimentos y habitación se estimarán equivalentes al 50% del salario que se pague en efectivo.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -3464,31 +3760,39 @@ Salvo lo expresamente pactado, la retribución del doméstico comprende, además
 
 La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 336.
 
-Los trabajadores domésticos tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo.
-
-Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
+Los trabajadores del hogar tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo. Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
 
 ###### Artículo 337.
 
 Los patrones tienen las obligaciones especiales siguientes:
 
-I. Guardar consideración al trabajador doméstico, absteniéndose de todo mal trato (sic) de palabra o de obra;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Guardar consideración al trabajador del hogar, absteniéndose de todo mal trato de palabra o de obra.
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 II. Proporcionar al trabajador habitación cómoda e higiénica, alimentación sana y suficiente y condiciones de trabajo que aseguren la vida y la salud; y
 
-III. El patrón deberá cooperar para la instrucción general del trabajador doméstico, de conformidad con las normas que dicten las autoridades correspondientes.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. El patrón deberá cooperar para la instrucción general del trabajador del hogar, de conformidad con las normas que dicten las autoridades correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Inscribir a la parte trabajadora al Instituto Mexicano del Seguro Social y pagar las cuotas correspondientes conforme a las normas aplicables en la materia.
 
 ###### Artículo 338.
 
 Además de las obligaciones a que se refiere el artículo anterior, en los casos de enfermedad que no sea de trabajo, el patrón deberá:
 
-I. Pagar al trabajador doméstico el salario que le corresponda hasta por un mes;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Pagar al trabajador del hogar el salario que le corresponda hasta por un mes;
 
 II. Si la enfermedad no es crónica, proporcionarle asistencia médica entre tanto se logra su curación o se hace cargo del trabajador algún servicio asistencial; y
 
@@ -3498,9 +3802,11 @@ III. Si la enfermedad es crónica y el trabajador ha prestado sus servicios dura
 
 En caso de muerte, el patrón sufragará los gastos del sepelio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 340.
 
-Los trabajadores domésticos tienen las obligaciones especiales siguientes:
+Los trabajadores del hogar tienen las obligaciones especiales siguientes:
 
 I. Guardar al patrón, a su familia y a las personas que concurran al hogar donde presten sus servicios, consideración y respeto; y
 
@@ -3510,9 +3816,11 @@ II. Poner el mayor cuidado en la conservación del menaje de la casa.
 
 Es causa de rescisión de las relaciones de trabajo el incumplimiento de las obligaciones especiales consignadas en este capítulo.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 342.
 
-El trabajador doméstico podrá dar por terminada en cualquier tiempo la relación de trabajo, dando aviso al patrón con ocho días de anticipación.
+El trabajador del hogar podrá dar por terminada en cualquier tiempo la relación de trabajo, dando aviso al patrón con ocho días de anticipación.
 
 ###### Artículo 343.
 
@@ -3582,9 +3890,21 @@ En caso de que un patrón se niegue a recibir a la autoridad laboral, ésta podr
 
 A los responsables y encargados directos de la operación y supervisión de los trabajos y desarrollos mineros, que dolosamente o negligentemente omitan implementar las medidas de seguridad previstas en la normatividad, y que hayan sido previamente identificados por escrito en dictamen fundado y motivado de la autoridad competente, se les aplicarán las penas siguientes:
 
-I. Multa de hasta 2,000 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Multa de hasta 3,500 veces el salario mínimo general vigente en el Distrito Federal, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total.
+I. Multa de hasta 2,000 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Multa de hasta 3,500 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Multa de hasta 5,000 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que provoque la muerte del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Lo anterior, sin perjuicio de que la Oficina de Inspección de Trabajo o el Tribunal que conozca del caso, dé vista de los hechos al Ministerio Público.
 
 ### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
 
@@ -3782,11 +4102,11 @@ II. De personal administrativo, o
 
 III. De institución si comprende a ambos tipos de trabajadores.
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 353-O.
 
-Los sindicatos a que se refiere el artículo anterior deberán registrarse en la Secretaría del Trabajo y Previsión Social o en la Junta de Conciliación y Arbitraje que corresponda, según sea federal o local la ley que creó a la universidad o institución de que se trate.
+Los sindicatos a que se refiere el artículo anterior deberán registrarse ante la Autoridad Registral que establece esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
@@ -3808,19 +4128,17 @@ En ningún caso estos contratos podrán establecer para el personal académico l
 
 En el procedimiento de huelga el aviso para la suspensión de labores deberá darse por lo menos con diez días de anticipación a la fecha señalada para suspender el trabajo.
 
-Además de los casos previstos por el Artículo 935, antes de la suspensión de los trabajos, las partes o en su defecto la Junta de Conciliación y Arbitraje, con audiencia de aquéllas, fijarán el número indispensable de trabajadores que deban continuar trabajando para que sigan ejecutándose las labores cuya suspensión pueda perjudicar irreparablemente la buena marcha de una investigación o un experimento en curso.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Además de los casos previstos por el Artículo 935, antes de la suspensión de los trabajos, las partes o en su defecto el Tribunal, con audiencia de aquéllas, fijarán el número indispensable de trabajadores que deban continuar trabajando para que sigan ejecutándose las labores cuya suspensión pueda perjudicar irreparablemente la buena marcha de una investigación o un experimento en curso.
 
 ###### Artículo 353-S.
 
-En las Juntas de Conciliación y Arbitraje, funcionarán Juntas Especiales que conocerán de los asuntos laborales de las universidades e instituciones de educación superior autónomas por Ley y se integrarán con el presidente respectivo, el representante de cada universidad o institución y el representante de sus trabajadores académicos o administrativos que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 353-T.
 
-Para los efectos del artículo anterior, la autoridad competente expedirá la convocatoria respectiva, estableciendo en ella que cada universidad o institución nombrará su representante, y que deberán celebrarse sendas convenciones para la elección de representantes de los correspondientes trabajadores académicos o administrativos.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
@@ -3846,17 +4164,63 @@ Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para
 
 Sindicato es la asociación de trabajadores o patrones, constituida para el estudio, mejoramiento y defensa de sus respectivos intereses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 357.
 
-Los trabajadores y los patrones tienen el derecho de constituir sindicatos, sin necesidad de autorización previa.
+Los trabajadores y los patrones, sin ninguna distinción y sin autorización previa, tienen el derecho de constituir las organizaciones que estimen convenientes, así como el de afiliarse a éstas, con la sola condición de observar los estatutos de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las organizaciones de trabajadores y de patrones deberán gozar de adecuada protección contra todo acto de injerencia de unas respecto de las otras, ya se realice directamente o por medio de sus representantes en su constitución, funcionamiento o administración.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Se consideran actos de injerencia las acciones o medidas tendientes a fomentar la constitución de organizaciones de trabajadores dominadas por un patrón o una organización de patrones, o a apoyar de cualquier forma a organizaciones de trabajadores con objeto de colocarlas bajo su control. Las prestaciones pactadas en la contratación colectiva no serán consideradas como actos de injerencia.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Cualquier injerencia indebida será sancionada en los términos que disponga la Ley.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 357 Bis.
+
+El reconocimiento de la personalidad jurídica de las organizaciones de trabajadores y patrones, así como sus federaciones y confederaciones no estará sujeta a condiciones que impliquen restricción alguna a sus garantías y derechos, entre ellos a:
+
+I. Redactar sus estatutos y reglamentos administrativos;
+
+II. Elegir libremente sus representantes;
+
+III. Organizar su administración y sus actividades;
+
+IV. Formular su programa de acción;
+
+V. Constituir las organizaciones que estimen convenientes, y
+
+VI. No estarán sujetos a disolución, suspensión o cancelación por vía administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 358.
 
-A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.
+Los miembros de los sindicatos, federaciones y confederaciones, cuentan con los derechos de libre afiliación y de participación al interior de éstas, los cuales implican las siguientes garantías:
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Nadie puede ser obligado a formar o no parte de un sindicato, federación o confederación. Cualquier estipulación que desvirtúe de algún modo esta disposición se tendrá por no puesta;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Los procedimientos de elección de sus directivas deberán salvaguardar el pleno ejercicio del voto personal, libre, directo y secreto de los miembros, así como ajustarse a reglas democráticas y de igualdad de género, en términos del artículo 371 de esta Ley. El periodo de duración de las directivas no podrá ser indefinido o de una temporalidad tal que obstaculice la participación democrática de los afiliados, y tampoco podrá ser lesivo al derecho de votar y ser votado;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Las sanciones que impongan los sindicatos, federaciones y confederaciones a sus miembros deberán ceñirse a lo establecido en la Ley y en los estatutos; para tal efecto se deberá cumplir con los derechos de audiencia y debido proceso del involucrado, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. La directiva de los sindicatos, federaciones y confederaciones deberá rendirles cuenta completa y detallada de la administración de su patrimonio, en términos del artículo 373 de esta Ley.
 
 Cualquier estipulación que establezca multa convencional en caso de separación del sindicato o que desvirtúe de algún modo la disposición contenida en el párrafo anterior, se tendrá por no puesta.
 
@@ -3878,6 +4242,10 @@ IV. Nacionales de industria, los formados por trabajadores que presten sus servi
 
 V. De oficios varios, los formados por trabajadores de diversas profesiones. Estos sindicatos sólo podrán constituirse cuando en el municipio de que se trate, el número de trabajadores de una misma profesión sea menor de veinte.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La anterior clasificación tiene carácter enunciativo, por lo que no será obstáculo para que los trabajadores se organicen en la forma que ellos decidan.
+
 ###### Artículo 361.
 
 Los sindicatos de patrones pueden ser:
@@ -3896,33 +4264,67 @@ Pueden formar parte de los sindicatos, los trabajadores mayores de quince años.
 
 No pueden ingresar en los sindicatos de los demás trabajadores, los trabajadores de confianza. Los estatutos de los sindicatos podrán determinar la condición y los derechos de sus miembros, que sean promovidos a un puesto de confianza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 364.
 
-Los sindicatos deberán constituirse con veinte trabajadores en servicio activo o con tres patrones, por lo menos. Para la determinación del número mínimo de trabajadores, se tomarán en consideración aquellos cuya relación de trabajo hubiese sido rescindida o dada por terminada dentro del período comprendido entre los treinta días anteriores a la fecha de presentación de la solicitud de registro del sindicato y la en que se otorgue éste.
+Los sindicatos deberán constituirse con un mínimo de veinte trabajadores o con tres patrones, por lo menos. En el caso de los sindicatos de trabajadores, cuando se suscite controversia ante los Tribunales, respecto a su constitución, para la determinación del número mínimo, se tomarán en consideración aquellos cuya relación de trabajo hubiese sido rescindida o dada por terminada dentro de los sesenta días naturales anteriores a la fecha de dicha constitución.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Artículo 364 bis. En el registro de los sindicatos se deberán observar los principios de legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
+Las federaciones y confederaciones deberán constituirse por al menos dos organizaciones sindicales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 364 Bis.
+
+En el registro de los sindicatos, federaciones y confederaciones, así como en la actualización de las directivas sindicales, se deberán observar los principios de autonomía, equidad, democracia, legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad sindical y sus garantías.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Tratándose de actualización de la directiva sindical, la Autoridad Registral deberá expedirla dentro de los diez días siguientes a que se realice la solicitud, y se procederá de forma tal que no deje al sindicato en estado de indefensión.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En materia de registro y actualización sindical, la voluntad de los trabajadores y el interés colectivo prevalecerán sobre aspectos de orden formal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 365.
 
-Los sindicatos deben registrarse en la Secretaría del Trabajo y Previsión Social en los casos de competencia federal y en las Juntas de Conciliación y Arbitraje en los de competencia local, a cuyo efecto remitirán por duplicado:
+Los sindicatos deben registrarse en el Centro Federal de Conciliación y Registro Laboral, a cuyo efecto remitirán en original y copia:
 
 I. Copia autorizada del acta de la asamblea constitutiva;
 
-II. Una lista con el número, nombres y domicilios de sus miembros y con el nombre y domicilio de los patrones, empresas o establecimientos en los que se prestan los servicios;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Copia autorizada de los estatutos; y
+II. Una lista o listas autorizadas con el número, nombres, CURP y domicilios de sus miembros, la cual además contendrá:
+
+a) Cuando se trate de aquellos conformados por trabajadores, el nombre y domicilio de los patrones, empresas o establecimientos en los que se prestan los servicios.
+
+b) Cuando se trate de aquellos conformados por patrones, el nombre y domicilios de las empresas, en donde se cuente con trabajadores.
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Copia autorizada de los estatutos, cubriendo los requisitos establecidos en el artículo 371 de esta Ley, y
 
 IV. Copia autorizada del acta de la asamblea en que se hubiese elegido la directiva.
 
-Los documentos a que se refieren las fracciones anteriores serán autorizados por el Secretario General, el de Organización y el de Actas, salvo lo dispuesto en los estatutos.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Los documentos a que se refieren las fracciones anteriores serán autorizados a través de la firma del Secretario General u homólogo, en términos del artículo 376 de esta Ley, salvo lo dispuesto en los estatutos.
 
-Artículo 365 bis. Las autoridades a que se refiere el artículo anterior harán pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos. Asimismo, deberán expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo 8o. constitucional, de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-El texto íntegro de las versiones públicas de los estatutos en los sindicatos deberá estar disponible en los sitios de Internet de la Secretaría del Trabajo y Previsión Social y de las Juntas Locales de Conciliación y Arbitraje, según corresponda.
+###### Artículo 365 Bis.
+
+El Centro Federal de Conciliación y Registro Laboral hará pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos. Asimismo, deberá expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo 8o. constitucional y de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El texto íntegro de los documentos del registro de los sindicatos, las tomas de nota, el estatuto, las actas de asambleas y todos los documentos contenidos en el expediente de registro sindical, deberán estar disponibles en los sitios de Internet del Centro Federal de Conciliación y Registro Laboral.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Los registros de los sindicatos deberán contener, cuando menos, los siguientes datos:
 
@@ -3936,11 +4338,27 @@ IV. Nombre de los integrantes del Comité Ejecutivo;
 
 V. Fecha de vigencia del Comité Ejecutivo;
 
-VI. Número de socios, y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Número de socios;
 
 VII. Central obrera a la que pertenecen, en su caso.
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VIII. Padrón de socios.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial los domicilios y CURP de los trabajadores señalados en los padrones de socios, en términos del último párrafo del artículo 78 de la Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 La actualización de los índices se deberá hacer cada tres meses.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los sindicatos, federaciones y confederaciones podrán solicitar al Centro Federal de Conciliación y Registro Laboral copias certificadas o simples de los documentos que obren en sus respectivos expedientes; también se expedirán a cualquier persona que lo solicite, en términos de la legislación aplicable en materia de acceso a la información.
 
 ###### Artículo 366.
 
@@ -3954,31 +4372,45 @@ II. Si no se constituyó con el número de miembros fijado en el artículo 364; 
 
 III. Si no se exhiben los documentos a que se refiere el artículo 365.
 
-Satisfechos los requisitos que se establecen para el registro de los sindicatos, ninguna de las autoridades correspondientes podrá negarlo.
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Cuando el solicitante no cumpla con alguno de los requisitos anteriores, a fin de salvaguardar el derecho de asociación, la Autoridad Registral lo prevendrá dentro de los cinco días siguientes para que subsane su solicitud, precisando los términos en que deberá hacerlo.
 
-Si la autoridad ante la que se presentó la solicitud de registro, no resuelve dentro de un término de sesenta días naturales, los solicitantes podrán requerirla para que dicte resolución, y si no lo hace dentro de los tres días siguientes a la presentación de la solicitud, se tendrá por hecho el registro para todos los efectos legales, quedando obligada la autoridad, dentro de los tres días siguientes, a expedir la constancia respectiva.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Satisfechos los requisitos que se establecen para el registro de los sindicatos, la Autoridad Registral no podrá negarlo.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si la Autoridad Registral, no resuelve dentro de un término de veinte días, los solicitantes podrán requerirla para que dicte resolución, y si no lo hace dentro de los tres días siguientes a la presentación de la solicitud, se tendrá por hecho el registro para todos los efectos legales, quedando obligada la autoridad, dentro de los tres días siguientes, a expedir la constancia respectiva.
 
 ###### Artículo 367.
 
-La Secretaría del Trabajo y Previsión Social, una vez que haya registrado un sindicato, enviará copia de la resolución a la Junta Federal de Conciliación y Arbitraje.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 368.
 
-El registro del sindicato y de su directiva, otorgado por la Secretaría del Trabajo y Previsión Social o por las Juntas Locales de Conciliación y Arbitraje, produce efectos ante todas las autoridades.
+El registro del sindicato y de su directiva, otorgado por el Centro Federal de Conciliación y Registro Laboral, produce efectos ante todas las autoridades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 369.
 
-El registro del sindicato podrá cancelarse únicamente:
+El registro de los sindicatos, federaciones y confederaciones, podrá cancelarse únicamente:
 
 I. En caso de disolución; y
 
 II. Por dejar de tener los requisitos legales.
 
-La Junta de Conciliación y Arbitraje resolverá acerca de la cancelación del registro.
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Se considerará que un sindicato incumple con su objeto o finalidad cuando sus dirigentes, apoderados o representantes legales incurran en actos de extorsión en contra de los patrones, exigiéndoles un pago en dinero o en especie para desistir de un emplazamiento a huelga o abstenerse de iniciar o continuar un reclamo de titularidad de contrato colectivo de trabajo. En consecuencia, esta conducta comprobada podrá servir de base para que se demande por la vía jurisdiccional la cancelación del registro sindical, independientemente de las responsabilidades que puedan derivarse por la comisión de dichas conductas delictivas.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los Tribunales resolverán acerca de la cancelación de su registro.
 
 ###### Artículo 370.
 
@@ -4022,25 +4454,79 @@ VIII. Forma de convocar a asamblea, época de celebración de las ordinarias y q
 
 Las resoluciones deberán adoptarse por el cincuenta y uno por ciento del total de los miembros del sindicato o de la sección, por lo menos;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], D.O.F. 1 DE MAYO DE 2019)</small>
 
-IX. Procedimiento para la elección de la directiva y número de miembros, salvaguardando el libre ejercicio del voto con las modalidades que acuerde la asamblea general; de votación indirecta y secreta o votación directa y secreta;
+IX. Procedimiento para la elección de la directiva sindical y secciones sindicales, el cual se llevará a cabo mediante el ejercicio del voto directo, personal, libre, directo y secreto.
 
-X. Período de duración de la directiva;
+Para tal efecto, los estatutos deberán observar las normas siguientes:
+
+a) La convocatoria de elección se emitirá con firma autógrafa de las personas facultadas para ello, debiendo precisar fecha, hora, lugar del proceso y demás requisitos estatutariamente exigidos;
+
+b) La convocatoria deberá publicarse en el local sindical y en los lugares de mayor afluencia de los miembros en el centro de trabajo, con una anticipación mínima de diez días;
+
+c) El lugar que se determine para la celebración del proceso electoral, así como la documentación y materiales que se elaboren para la realización, deberán garantizar que la votación se desarrolle de forma segura, directa, personal, libre y secreta;
+
+d) Se integrará un padrón completo y actualizado de los miembros del sindicato con derecho a votar, que deberá publicarse y darse a conocer entre éstos con al menos tres días de antelación a la elección;
+
+e) Establecer un procedimiento que asegure la identificación de los afiliados que tengan derecho a votar, y
+
+f) La documentación, material y boletas para la elección de integración de los órganos internos de los sindicatos a que se refiere este inciso, contendrá cuando menos los siguientes datos y requisitos:
+
+1.- Municipio y entidad federativa en que se realice la votación;
+
+2.- Cargo para el que se postula al candidato o candidatos;
+
+3.- Emblema y color de cada una de las planillas que participan con candidatos en la elección de que se trate;
+
+4.- El nombre completo del candidato o candidatos a elegir, y
+
+5.- Las boletas deberán validarse en el reverso con las firmas de por lo menos dos integrantes de la Comisión Electoral que para tales efectos acuerde el sindicato.
+
+El procedimiento de elección que realicen los miembros de un sindicato respecto al Secretario General o su equivalente a nivel nacional, estatal, seccional, local o municipal, se realizará de manera independiente de la elección de delegados a los congresos o convenciones sindicales, cumpliendo con los requisitos a que se refiere este inciso.
+
+En virtud de que estos requisitos son esenciales para expresar la libre voluntad de los afiliados al sindicato, de incumplirse éstos, el procedimiento de elección carecerá de validez, ya sea a nivel general o seccional, según sea el caso;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IX Bis. En la integración de las directivas sindicales se establecerá la representación proporcional en razón de género;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IX Ter. Normas para la integración y funcionamiento de una instancia de decisión colegiada, que será responsable de organizar y calificar los procedimientos de elección de los órganos internos del sindicato;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+X. Período de duración de la directiva sindical y de las representaciones seccionales. En el caso de reelección, será facultad de la asamblea decidir mediante voto personal, libre, directo y secreto el período de duración y el número de veces que pueden reelegirse los dirigentes sindicales. El período de duración de la directiva y en su caso la reelección, deberán respetar las garantías a que se refiere el artículo 358, fracción II, de esta Ley;
 
 XI. Normas para la administración, adquisición y disposición de los bienes, patrimonio del sindicato;
 
 XII. Forma de pago y monto de las cuotas sindicales;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
 
-XIII. Época de presentación de cuentas y sanciones a sus directivos en caso de incumplimiento.
+XIII. Época y forma de presentación de la cuenta completa y detallada de la administración del patrimonio sindical y sanciones a sus directivos en caso de incumplimiento.
 
 Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales.
 
 XIV. Normas para la liquidación del patrimonio sindical; y
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIV Bis. Procedimiento para llevar a cabo la consulta a los trabajadores mediante voto personal, libre y secreto para la aprobación del contenido de contratos colectivos de trabajo iniciales y de sus revisiones. Para tal efecto, los estatutos deberán observar el procedimiento contemplado en el artículo 390 Ter, fracción II de la presente Ley, y
+
 XV. Las demás normas que apruebe la asamblea.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 371 Bis.
+
+Las elecciones de las directivas de los sindicatos estarán sujetas a un sistema de verificación del cumplimiento de los requisitos previstos en la fracción IX del artículo 371 de esta Ley, conforme a lo siguiente:
+
+I. Los sindicatos podrán solicitar el auxilio del Centro Federal de Conciliación y Registro Laboral o de la Inspección Federal del Trabajo de la Secretaría del Trabajo y Previsión Social, a efecto que certifiquen el cumplimiento de los requisitos antes mencionados. Al concluir la elección, la autoridad que acuda a la verificación deberá formular un acta en la que conste el resultado de la elección y de la forma en que ésta se llevó a cabo, de la que se entregará copia al sindicato solicitante;
+
+II. La solicitud será realizada por los directivos sindicales o por lo menos por el treinta por ciento de los afiliados al sindicato, y
+
+III. El Centro Federal de Conciliación y Registro Laboral podrá desahogar este sistema de verificación de la elección de las directivas sindicales para que se cumpla con los principios constitucionales de certeza, confiabilidad y legalidad, y los señalados en el artículo 364 Bis de esta Ley. En caso de duda razonable sobre la veracidad de la documentación presentada, el Centro podrá convocar y organizar un recuento para consultar mediante voto personal, libre, directo y secreto de los trabajadores el sentido de su decisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
@@ -4052,31 +4538,63 @@ I. (DEROGADA, D.O.F. 12 DE JUNIO DE 2015)
 
 II. (DEROGADA, D.O.F. 12 DE JUNIO DE 2015)
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 373.
 
-La directiva de los sindicatos, en los términos que establezcan sus estatutos, deberá rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. La rendición de cuentas incluirá la situación de los ingresos por cuotas sindicales y otros bienes, así como su destino.
+La directiva de los sindicatos, en los términos que establezcan sus estatutos, deberá rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. La rendición de cuentas incluirá la situación de los ingresos por cuotas sindicales y otros bienes, así como su destino, debiendo levantar acta de dicha asamblea.
 
-La obligación a que se refiere el párrafo anterior no es dispensable.
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-En todo momento cualquier trabajador tendrá el derecho de solicitar información a la directiva, sobre la administración del patrimonio del sindicato.
+El acta de la asamblea en la que se rinda cuenta de la administración del patrimonio sindical deberá ser entregada dentro de los diez días siguientes al Centro Federal de Conciliación y Registro Laboral para su depósito y registro en el expediente de registro sindical; esta obligación podrá cumplirse por vía electrónica.
 
-En caso de que los trabajadores no hubieren recibido la información sobre la administración del patrimonio sindical o estimen la existencia de irregularidades en la gestión de los fondos sindicales, podrán acudir a las instancias y procedimientos internos previstos en los respectivos estatutos, en términos del artículo 371, fracción XIII, de esta Ley.
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-De no existir dichos procedimientos o si agotados éstos, no se proporciona la información o las aclaraciones correspondientes, podrán tramitar ante la Junta de Conciliación y Arbitraje que corresponda, el cumplimiento de dichas obligaciones.
+La información anterior deberá entregarse por escrito a cada miembro del sindicato en forma completa, dejando constancia de su recepción.
 
-El ejercicio de las acciones a que se refiere el párrafo anterior, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las obligaciones a que se refieren los párrafos anteriores no son dispensables.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En todo momento cualquier trabajador tendrá el derecho de solicitar información a la directiva o a la Autoridad Registral, sobre la administración del patrimonio del sindicato.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En caso de que los trabajadores no hubieren recibido la información sobre la administración del patrimonio sindical, o estimen la existencia de irregularidades en la gestión de los fondos sindicales, podrá acudir a las instancias y procedimientos internos previstos en los estatutos, en términos del artículo 371, fracción XIII, de esta Ley. De comprobarse la existencia de las irregularidades referidas, se sancionará a quien o quienes resulten responsables de las mismas, previo desahogo del procedimiento de investigación y resolución establecido en los estatutos; de no prever éstos sanciones eficaces y proporcionales a la gravedad de las conductas u omisiones en que se hubiese incurrido, los responsables podrán ser sancionados por los órganos sindicales competentes con la suspensión o destitución de su cargo, según sea la gravedad de la irregularidad cometida, sin menoscabo de que se ejerzan las demás acciones legales que correspondan.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Con independencia de lo anterior, de no proporcionarse la información o las aclaraciones correspondientes, los trabajadores podrán tramitar ante el Tribunal que corresponda, el cumplimiento de dichas obligaciones.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El trabajador también podrá acudir a la Autoridad Registral para denunciar la omisión anterior a fin de que dicha autoridad requiera al sindicato la entrega de la información de la administración del patrimonio sindical completa, apercibiendo a los secretarios general y de finanzas u homólogos en términos del artículo 731 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El ejercicio de las acciones a que se refieren los párrafos anteriores, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 374.
 
-Los sindicatos legalmente constituidos son personas morales y tienen capacidad para:
+Los sindicatos, federaciones y confederaciones, legalmente constituidos son personas morales y tienen capacidad para:
 
 I. Adquirir bienes muebles;
 
 II. Adquirir los bienes inmuebles destinados inmediata y directamente al objeto de su institución; y
 
 III. Defender ante todas las autoridades sus derechos y ejercitar las acciones correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Establecer mecanismos para fomentar el desarrollo y fortalecimiento de la economía de sus afiliados, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Establecer y gestionar sociedades cooperativas y cajas de ahorro para sus afiliados, así como cualquier otra figura análoga.
 
 ###### Artículo 375.
 
@@ -4086,7 +4604,9 @@ Los sindicatos representan a sus miembros en la defensa de los derechos individu
 
 La representación del sindicato se ejercerá por su secretario general o por la persona que designe su directiva, salvo disposición especial de los estatutos.
 
-Los miembros de la directiva que sean separados por el patrón o que se separen por causa imputable a éste, continuarán ejerciendo sus funciones salvo lo que dispongan los estatutos.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los miembros de la directiva sindical que sean separados por el patrón o que se separen por causa imputable a éste, continuarán ejerciendo sus funciones salvo lo que dispongan los estatutos.
 
 ###### Artículo 377.
 
@@ -4094,13 +4614,15 @@ Son obligaciones de los sindicatos:
 
 I. Proporcionar los informes que les soliciten las autoridades del trabajo, siempre que se refieran exclusivamente a su actuación como sindicatos;
 
-II. Comunicar a la autoridad ante la que estén registrados, dentro de un término de diez días, los cambios de su directiva y las modificaciones de los estatutos, acompañando por duplicado copia autorizada de las actas respectivas; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Comunicar a la Autoridad Registral, dentro de un término de diez días, los cambios de su directiva y las modificaciones de los estatutos, acompañando por duplicado copia autorizada de las actas respectivas, y
 
 III. Informar a la misma autoridad cada tres meses, por lo menos, de las altas y bajas de sus miembros.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Las obligaciones a que se refiere este artículo podrán ser cumplidas a través de medios electrónicos, en los términos que determinen las autoridades correspondientes.
+Las obligaciones a que se refiere este artículo podrán ser cumplidas a través de medios electrónicos, en los términos que determine la Autoridad Registral.
 
 ###### Artículo 378.
 
@@ -4109,6 +4631,34 @@ Queda prohibido a los sindicatos:
 I. Intervenir en asuntos religiosos; y
 
 II. Ejercer la profesión de comerciantes con ánimo de lucro.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Participar en esquemas de evasión de contribuciones o incumplimiento de obligaciones patronales respecto a los trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Ejercer actos de violencia, discriminación, acoso u hostigamiento sexual en contra de sus miembros, el patrón, sus representantes o sus bienes, o en contra de terceros;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Participar en actos de simulación asumiendo el carácter de patrón, con el fin de que el verdadero patrón evada sus responsabilidades;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Hacer constar o utilizar constancias en las que se señalen la realización de votaciones o consultas a los trabajadores sin que estas se hayan efectuado;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VII. Obstaculizar la participación de los trabajadores en los procedimientos de elección de sus directivas sindicales, poniendo condiciones sin fundamento legal o cualquier tipo de obstáculo indebido para ejercer el derecho de votar y ser votado, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VIII. Cometer actos de extorsión u obtener dádivas del patrón, ajenas al contrato colectivo de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Se consideran como violación a derechos fundamentales a la libertad sindical y de negociación colectiva las hipótesis contenidas en las fracciones IV, VI y VII del presente artículo.
 
 ###### Artículo 379.
 
@@ -4140,9 +4690,11 @@ II. Condiciones de adhesión de nuevos miembros; y
 
 III. Forma en que sus miembros estarán representados en la directiva y en las asambleas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 384.
 
-Las federaciones y confederaciones deben registrarse ante la Secretaría del Trabajo y Previsión Social.
+Las federaciones y confederaciones deben registrarse ante la Autoridad Registral.
 
 Es aplicable a las federaciones y confederaciones lo dispuesto en el párrafo final del artículo 366.
 
@@ -4166,31 +4718,169 @@ La documentación se autorizará de conformidad con lo dispuesto en el párrafo 
 
 Contrato colectivo de trabajo es el convenio celebrado entre uno o varios sindicatos de trabajadores y uno o varios patrones, o uno o varios sindicatos de patrones, con objeto de establecer las condiciones según las cuales debe prestarse el trabajo en una o más empresas o establecimientos.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 386 Bis.
+
+El apoyo de los trabajadores mediante el voto personal, libre y secreto constituye una garantía para la protección de la libertad de negociación colectiva y sus legítimos intereses. La demostración de dicho apoyo conforme a los procedimientos establecidos en los artículos 390 Bis y 390 Ter, es de orden público e interés social, por lo que es un requisito para la validez de los contratos colectivos de trabajo. Las autoridades, sindicatos y patrones coadyuvarán para que los procedimientos de consulta se organicen de tal forma que no se afecten las actividades laborales de los centros de trabajo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 387.
 
-El patrón que emplee trabajadores miembros de un sindicato tendrá obligación de celebrar con éste, cuando lo solicite, un contrato colectivo.
+El patrón que emplee trabajadores miembros de un sindicato tendrá obligación de celebrar con éste, cuando lo solicite, un contrato colectivo; para dar cumplimiento a los principios de representatividad en las organizaciones sindicales y de certeza en la firma, registro y depósito de los contratos colectivos de trabajo, el sindicato solicitante deberá contar previamente con la Constancia de Representatividad expedida por el Centro Federal de Conciliación y Registro Laboral, a que hace referencia el artículo 390 Bis.
 
-Si el patrón se niega a firmar el contrato, podrán los trabajadores ejercitar el derecho de huelga consignado en el artículo 450.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si el patrón se niega a firmar el contrato, podrán los trabajadores ejercitar el derecho de huelga consignado en el artículo 450; la Constancia de Representatividad acredita que el sindicato cuenta con la representación de los trabajadores, por lo que deberá ser acompañada al emplazamiento a huelga como requisito en términos del artículo 920 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La Constancia de Representatividad a que se refiere el artículo 390 Bis tendrá una vigencia de seis meses a partir de la fecha en que ésta sea expedida. En caso de que el sindicato emplazante estalle la huelga en el centro de trabajo, la vigencia de dicha constancia se prorrogará hasta en tanto concluya dicho conflicto, por lo que durante su vigencia, no se dará trámite a ninguna otra solicitud, ni se admitirá a otro u otros sindicatos como parte del procedimiento.
 
 ###### Artículo 388.
 
 Si dentro de la misma empresa existen varios sindicatos, se observarán las normas siguientes:
 
-I. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que tenga mayor número de trabajadores dentro de la empresa;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que obtenga el mayor número de votos de los trabajadores dentro de la empresa;
 
 II. Si concurren sindicatos gremiales, el contrato colectivo se celebrará con el conjunto de los sindicatos mayoritarios que representen a las profesiones, siempre que se pongan de acuerdo. En caso contrario, cada sindicato celebrará un contrato colectivo para su profesión; y
 
-III. Si concurren sindicatos gremiales y de empresa o de industria, podrán los primeros celebrar un contrato colectivo para su profesión, siempre que el número de sus afiliados sea mayor que el de los trabajadores de la misma profesión que formen parte del sindicato de empresa o de industria.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Si concurren sindicatos gremiales y de empresa o de industria, podrán los primeros celebrar un contrato colectivo para su profesión, siempre que el número de trabajadores a su favor sea mayor que el de los trabajadores de la misma profesión que voten por el sindicato de empresa o de industria.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El voto de los trabajadores será conforme al procedimiento contemplado en el artículo 390 Bis. El sindicato o sindicatos que conforme a lo dispuesto en el presente capítulo obtengan la mayoría de trabajadores, según sea el caso, obtendrán la Constancia de Representatividad correspondiente a fin de solicitar la celebración y firma del contrato colectivo de trabajo en términos del artículo 387.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 389.
 
-La pérdida de la mayoría a que se refiere el artículo anterior, declarada por la Junta de Conciliación y Arbitraje, produce la de la titularidad del contrato colectivo de trabajo.
+La pérdida de la mayoría a que se refiere el artículo anterior, declarada por los Tribunales, después de consultar a los trabajadores mediante voto personal, libre, directo y secreto, produce la de la titularidad del contrato colectivo de trabajo. Para tal efecto, el sindicato deberá de promover el procedimiento especial colectivo contemplado en el artículo 897 y subsecuentes de la presente Ley ante el Tribunal competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 390.
 
-El contrato colectivo de trabajo deberá celebrarse por escrito, bajo pena de nulidad. Se hará por triplicado, entregándose un ejemplar a cada una de las partes y se depositará el otro tanto en la Junta de Conciliación y Arbitraje o en la Junta Federal o Local de Conciliación, la que después de anotar la fecha y hora de presentación del documento lo remitirá a la Junta Federal o Local de Conciliación y Arbitraje.
+El contrato colectivo de trabajo deberá celebrarse por escrito, bajo pena de nulidad. Se hará por triplicado, entregándose un ejemplar a cada una de las partes y se depositará el otro tanto ante el Centro Federal de Conciliación y Registro Laboral, ante quien cada una de las partes celebrantes debe señalar domicilio. Dicho centro deberá asignarles un buzón electrónico.
 
 El contrato surtirá efectos desde la fecha y hora de presentación del documento, salvo que las partes hubiesen convenido en una fecha distinta.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 1 DE MAYO DE 2019)</small>
+
+Para el registro de un contrato colectivo de trabajo inicial, se presentará ante el Centro Federal de Conciliación y Registro Laboral la siguiente documentación:
+
+a) La documentación con la que las partes contratantes acrediten su personalidad;
+
+b) El contrato colectivo de trabajo;
+
+c) La Constancia de Representatividad a que se refiere el artículo 390 Bis de esta Ley, y
+
+d) El ámbito de aplicación del contrato colectivo de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una vez entregada la documentación anterior, el Centro Federal de Conciliación y Registro Laboral deberá de resolver sobre el registro del contrato colectivo de trabajo dentro de los treinta días siguientes, dicha resolución será notificada a las partes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 390 Bis.
+
+Para solicitar la celebración del contrato colectivo de trabajo inicial será indispensable que el sindicato obtenga del Centro Federal de Conciliación y Registro Laboral la Constancia de Representatividad, a fin de garantizar los principios de representatividad en las organizaciones sindicales y certeza en la firma, registro y depósito de los contratos colectivos de trabajo. Esta constancia será expedida conforme a lo siguiente:
+
+I. La solicitud para obtener la Constancia de Representatividad será presentada por uno o varios sindicatos ante el Centro Federal de Conciliación y Registro Laboral. Dicha solicitud se hará por escrito y contendrá el nombre de la parte solicitante, así como el domicilio en el que se le harán las notificaciones correspondientes; asimismo, deberá señalarse el domicilio y nombre o los datos de identificación del patrón o centro de trabajo, así como la actividad a la que se dedica. Adicionalmente, la solicitud deberá acompañarse de un listado en el que se acredite que el sindicato solicitante cuenta con el respaldo de por lo menos el treinta por ciento de los trabajadores cubiertos por el contrato colectivo; dicho listado deberá incluir el nombre, CURP, fecha de contratación y firma autógrafa de los trabajadores que respalden al sindicato solicitante.
+
+El Centro Federal de Conciliación y Registro Laboral conservará en secreto y cuidará bajo su más estricta responsabilidad la confidencialidad del listado y los anexos que exhiba el solicitante.
+
+De no proporcionarse los datos mencionados, la Autoridad Registral dentro de los tres días siguientes prevendrá al solicitante para que subsane su solicitud, lo que deberá hacer dentro de los tres días siguientes a que sea notificado.
+
+El hecho de que el centro de trabajo opere de manera informal o bajo esquemas de simulación no afectará a los trabajadores en el ejercicio de su libertad de negociación colectiva y la defensa de sus intereses;
+
+II. El Centro Federal de Conciliación y Registro Laboral, en un plazo no mayor a tres días contados a partir de la presentación de la solicitud, publicará en su sitio de Internet el aviso de solicitud de Constancia de Representatividad, fijará dicho aviso en el centro de trabajo y solicitará al patrón que lo coloque al interior del centro laboral en los lugares de mayor afluencia para hacerlo del conocimiento a los trabajadores y a cualquier otro sindicato que desee obtener la Constancia de Representatividad, a fin de que éste pueda promover su adhesión a la solicitud, para lo cual se estará a las normas que establece el artículo 388 de esta Ley; dicha solicitud adhesiva podrá presentarse por escrito ante el Centro Federal de Conciliación y Registro Laboral dentro de los diez días siguientes a la publicación del aviso de solicitud, señalando el nombre de la parte adherente, así como su domicilio para oír y recibir notificaciones, debiendo acompañar el listado que acredite que cuenta con el respaldo de por lo menos el treinta por ciento de los trabajadores cubiertos por el contrato colectivo. No será impedimento para que se admita la solicitud adhesiva que los nombres de los trabajadores aparezcan en dos o más listados presentados por los sindicatos;
+
+III. El Centro Federal de Conciliación y Registro Laboral resolverá sobre la procedencia de la solicitud de la Constancia de Representatividad; de resultar procedente, emitirá la constancia correspondiente. Si sólo un sindicato solicita la constancia, se tendrá por acreditada su representatividad cuando cuente con el respaldo de por lo menos el treinta por ciento de los trabajadores cubiertos por el contrato colectivo. En este caso, el Centro recabará ante las autoridades e instancias pertinentes la información necesaria para verificar que los trabajadores contemplados en el listado que presente el sindicato solicitante representen al menos el treinta por ciento de los trabajadores al servicio del patrón del que se solicita la firma del contrato colectivo de trabajo.
+
+De haber contendido más de un sindicato, el derecho a negociar y celebrar el contrato colectivo corresponderá al que obtenga el mayor número de votos conforme a las reglas contempladas en el artículo 388 de esta Ley. En todo caso, el número de trabajadores votantes deberá de ser de por lo menos del treinta por ciento de los trabajadores cubiertos por el contrato colectivo del que se solicita la firma. Para lo anterior se deberá observar el procedimiento de consulta siguiente:
+
+a) El Centro Federal de Conciliación y Registro Laboral validará que los sindicatos contendientes acrediten el respaldo de por lo menos el treinta por ciento de los trabajadores cubiertos por el contrato colectivo, en cuyo caso procederá a recabar ante las autoridades o instancias correspondientes la información o elementos necesarios para elaborar un padrón, que consistirá en un listado de los trabajadores del centro laboral que serán consultados mediante voto personal, libre, directo y secreto, excluyendo a los trabajadores de confianza o aquellos que ingresen con posterioridad a la presentación de la solicitud. Serán parte del padrón los trabajadores que hayan sido despedidos del trabajo durante los tres meses previos o posteriores a la presentación del escrito de solicitud, a excepción de aquéllos que hayan dado por terminada su relación de trabajo, salvo que se encuentre sub iudice.
+
+En caso de estimarlo necesario, el Centro Federal de Conciliación y Registro Laboral podrá solicitar el apoyo de la oficina de Inspección del Trabajo u otro servidor público que las autoridades del trabajo habiliten para tal efecto. De requerirlo la parte solicitante, éstos deberán constituirse en el centro de trabajo para elaborar el listado en cuestión, con la información o los elementos que disponga al momento. El listado que servirá de base para la consulta a los trabajadores deberá de ser elaborado por el Centro Federal de Conciliación y Registro Laboral a más tardar en el plazo de diez días siguientes al de la presentación de una segunda solicitud de constancia. El patrón no podrá intervenir en este procedimiento;
+
+b) Una vez conformado el padrón que servirá de base para la consulta de los trabajadores, el Centro Federal de Conciliación y Registro Laboral emitirá la convocatoria correspondiente, señalando el lugar, día y hora en que deberá efectuarse la votación; la convocatoria se emitirá por lo menos con diez días de anticipación a ésta sin que exceda de quince días. Dicho Centro deberá garantizar que el lugar que se designe para la votación sea accesible a los trabajadores y reúna las condiciones necesarias para que éstos emitan su voto de forma libre, pacífica, ágil y segura, sin que puedan ser coaccionados de forma alguna.
+
+La convocatoria se notificará a la parte solicitante y será publicada electrónicamente en el sitio de Internet del Centro Federal de Conciliación y Registro Laboral. Asimismo será fijada en el centro laboral para hacerla del conocimiento a los trabajadores que participarán en la votación;
+
+c) Cada parte solicitante podrá acreditar previamente ante la Autoridad Registral a dos representantes por cada lugar de votación, a los que se les deberá permitir estar presentes durante ésta, específicamente en la instalación y acreditación de votantes, así como en los actos de escrutinio y cómputo de votos, sin que puedan estar en el espacio asignado en el que los trabajadores depositen su voto.
+
+Ninguna persona ajena al procedimiento podrá estar presente en la votación, a menos que la autoridad registral lo haya acreditado como observador de la votación. Dicha autoridad cuidará y proveerá lo conducente para que ninguna persona que no esté autorizada, participe o intervenga en el desarrollo del procedimiento de votación;
+
+d) El voto de los trabajadores se hará en forma personal, libre, directa y secreta. Para tal efecto, la Autoridad Registral ordenará hacer previamente tantas boletas de votación como trabajadores se hubieren acreditado conforme a este artículo, las que serán debidamente foliadas, selladas y autorizadas con la firma del funcionario comisionado por dicha autoridad; las boletas deberán contener el o los recuadros suficientes y del mismo tamaño, de acuerdo al número de sindicatos solicitantes, en los que deberá aparecer el nombre del o los sindicatos participantes en la votación;
+
+e) En la hora, fecha y lugar señalados en la convocatoria, se iniciará la consulta con la presencia de las partes que asistan a la misma; previo al ingreso de los trabajadores, el funcionario comisionado por la Autoridad Registral instalará la o las mamparas necesarias para la emisión del voto de los trabajadores en secreto, así como la urna o urnas transparentes en las que se depositarán los votos, debiendo verificar que se encuentren vacías. Acto seguido, previa identificación con documento oficial vigente, se procederá al ingreso de los trabajadores con derecho a voto y se dotará a cada uno con su boleta para ejercerlo.
+
+Durante el procedimiento de votación, ningún trabajador podrá vestir con un color, calcomanías, emblemas o cualquier elemento que lo distinga como miembro o simpatizante de alguno de los sindicatos solicitantes;
+
+f) En la boleta no deberá aparecer el nombre del votante, ni podrá asentarse señal o dato alguno en el listado que haga posible identificar el folio de la boleta que le fue entregada. El funcionario comisionado por la Autoridad Registral proporcionará al trabajador su boleta, quien deberá dirigirse a la mampara colocada para marcarla en absoluto secreto.
+
+Una vez que el trabajador marque su boleta, la doblará para evitar mostrar el sentido de su voto y la depositará en la urna colocada para tal efecto, y deberá salir del lugar de la votación;
+
+g) Concluida la votación, el funcionario facultado de la Autoridad Registral procederá a practicar el escrutinio, abriendo sucesivamente cada urna, extrayendo una a una cada boleta, examinándolas para corroborar su autenticidad y exhibiéndolas a los representantes de las partes. Las boletas no cruzadas y las marcadas en más de un recuadro se considerarán nulas, poniendo las boletas por separado conforme al sentido de cada voto, mientras que las nulas se colocarán por aparte;
+
+h) Acto seguido, el funcionario facultado procederá al cómputo de los votos y anunciará su resultado en voz alta;
+
+i) En caso de suscitarse actos de coacción o intimidación para impedir que los trabajadores ejerzan su voto con plena libertad, o se les pretenda obstaculizar o impedir de cualquier forma acceder al lugar de la diligencia, el funcionario facultado solicitará el auxilio de la fuerza pública y tomará las medidas que estime conducentes para celebrar la votación en las condiciones que establece esta Ley; de presumirse la existencia de algún ilícito, deberá presentar la denuncia correspondiente;
+
+j) Concluida la consulta, el funcionario facultado levantará acta de la misma y solicitará a los representantes de las partes que la suscriban. La negativa a firmarla por parte de éstos no afectará la validez del acta, y
+
+k) El Centro Federal de Conciliación y Registro Laboral resolverá sobre la procedencia de la solicitud de la Constancia de Representatividad; de resultar procedente, emitirá la constancia correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 390 Ter.
+
+Para el registro de un contrato colectivo inicial o un convenio de revisión, el Centro Federal de Conciliación y Registro Laboral verificará que su contenido sea aprobado por la mayoría de los trabajadores cubiertos por el mismo a través del voto personal, libre y secreto. El procedimiento de consulta a los trabajadores se llevará a cabo conforme a lo siguiente:
+
+I. Una vez acordados con el patrón los términos del contrato colectivo inicial o del convenio de revisión respectivo, el sindicato que cuente con la representación de los trabajadores dará aviso al Centro Federal de Conciliación y Registro Laboral, por escrito o vía electrónica, que someterá a consulta de los trabajadores la aprobación del contenido del contrato. El aviso deberá hacerse con un mínimo de diez días de anticipación a que se realice la consulta.
+
+El aviso a que se refiere el párrafo anterior señalará día, hora y lugar en donde se llevará a cabo la consulta a los trabajadores mediante voto personal, libre y secreto, y deberá anexar un ejemplar del contrato o convenio negociado firmado por las partes. Asimismo, el sindicato deberá emitir la convocatoria correspondiente, señalando el lugar, día y hora en que deberá efectuarse la votación; la convocatoria se emitirá por lo menos con diez días de anticipación a ésta sin que exceda de quince días;
+
+II. El procedimiento de consulta que se realice a los trabajadores deberá cubrir los siguientes requisitos:
+
+a) El sindicato deberá poner oportunamente a disposición de los trabajadores un ejemplar impreso o electrónico del contrato colectivo inicial o del convenio de revisión que se someterá a consulta;
+
+b) La votación se llevará a cabo el día, hora y lugar señalados en la convocatoria;
+
+c) Se garantizará que el lugar que se designe para la votación sea accesible a los trabajadores y reúna las condiciones necesarias para que éstos emitan su voto de forma libre, pacífica, ágil y segura, sin que puedan ser coaccionados de forma alguna;
+
+d) El empleador no podrá tener intervención alguna durante el procedimiento de consulta;
+
+e) El resultado de la votación será publicado por la directiva sindical en lugares visibles y de fácil acceso del centro de trabajo y en el local sindical correspondiente en un plazo no mayor a dos días de la fecha que se realice la consulta;
+
+f) El sindicato dará aviso del resultado de la votación al Centro Federal de Conciliación y Registro Laboral dentro de los tres días hábiles siguientes a la fecha en que se realice la consulta, a efecto de que dicho Centro lo publique en su sitio de Internet.
+
+El aviso señalado en el párrafo anterior se hará bajo protesta de decir verdad. En caso de existir inconsistencias en relación con hechos sustantivos del proceso, el Centro Federal de Conciliación y Registro Laboral declarará nula la consulta y ordenará la reposición de la misma;
+
+g) Las actas de votación serán resguardadas durante cinco años para acreditar el cumplimiento de esta obligación, para efectos de verificación de la autoridad laboral o registral. El sindicato promovente deberá manifestar bajo protesta de decir verdad que dio cumplimiento a esta obligación, y
+
+h) El Centro Federal de Conciliación y Registro Laboral podrá verificar que el procedimiento de consulta se realice conforme a los requisitos antes señalados;
+
+III. De contar con el apoyo mayoritario de los trabajadores al contenido del acuerdo, se estará a lo siguiente:
+
+a) Para contratos colectivos de trabajo inicial, el sindicato procederá a realizar la solicitud de registro ante la Autoridad Registral conforme a lo previsto en el artículo 390 de la presente Ley, y
+
+b) Para convenios de revisión o modificaciones del contrato colectivo de trabajo, se estará a lo dispuesto en el artículo 399 Ter;
+
+IV. En caso de que el contrato colectivo de trabajo inicial o el convenio de revisión no cuente con el apoyo mayoritario de los trabajadores cubiertos por el mismo, el sindicato podrá:
+
+a) Ejercer su derecho a huelga, en caso de haber promovido el emplazamiento correspondiente, y
+
+b) Prorrogar o ampliar el periodo de prehuelga con el objeto de continuar con la negociación y someter el acuerdo a nueva consulta, observando lo establecido en la fracción V del artículo 927 de esta Ley.
+
+En el procedimiento de consulta previsto en el presente artículo, el voto personal, libre y secreto de los trabajadores se ejercerá en forma individual y directa.
 
 ###### Artículo 391.
 
@@ -4226,15 +4916,43 @@ IX. Las bases sobre la integración y funcionamiento de las Comisiones que deban
 
 X. Las demás estipulaciones que convengan las partes.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Artículo 391 bis. Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los contratos colectivos de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+Los contratos colectivos no podrán contener cláusula de exclusión por separación, entendiéndose como tal la que establece que aquellos trabajadores que dejen de pertenecer al sindicato por renuncia o expulsión del mismo, puedan ser separados de su empleo sin responsabilidad para el patrón.
 
-De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Centro Federal de Conciliación y Registro Laboral deberá expedir a quien lo solicite por escrito y pague los derechos correspondientes, copia certificada del texto más reciente del contrato colectivo y/o tabuladores que haya sido registrado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 1 DE MAYO DE 2019)</small>
+
+A solicitud de las partes, el Centro Federal de Conciliación y Registro Laboral, dentro de los tres días siguientes a que ésta se presente emitirá el Certificado de Registro del Contrato Colectivo de Trabajo que contendrá:
+
+I. Número o folio del expediente de registro;
+
+II. Las partes celebrantes;
+
+III. Domicilio, y en su caso el buzón electrónico de cada una de las partes;
+
+IV. Ámbito de aplicación del Contrato;
+
+V. Fecha de la última revisión, y
+
+VI. Período de vigencia del contrato colectivo y su tabulador.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 391 Bis.
+
+La Autoridad Registral hará pública, para consulta de cualquier persona, la información de los contratos colectivos de trabajo que se encuentren depositados ante la misma. Asimismo, deberá expedir copias de dichos documentos, en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública.
+
+De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en el sitio de Internet de la Autoridad Registral.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 392.
 
-En los contratos colectivos podrá establecerse la organización de comisiones mixtas para el cumplimiento de determinadas funciones sociales y económicas. Sus resoluciones serán ejecutadas por las Juntas de Conciliación y Arbitraje, en los casos en que las partes las declaren obligatorias.
+En los contratos colectivos podrá establecerse la organización de comisiones mixtas para el cumplimiento de determinadas funciones sociales y económicas. Sus resoluciones serán ejecutadas por los Tribunales, en los casos en que las partes las declaren obligatorias.
 
 ###### Artículo 393.
 
@@ -4244,11 +4962,11 @@ No producirá efectos de contrato colectivo el convenio al que falte la determin
 
 El contrato colectivo no podrá concertarse en condiciones menos favorables para los trabajadores que las contenidas en contratos vigentes en la empresa o establecimiento.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 395.
 
-En el contrato colectivo podrá establecerse que el patrón admitirá exclusivamente como trabajadores a quienes sean miembros del sindicato contratante. Esta cláusula y cualesquiera otras que establezcan privilegios en su favor, no podrán aplicarse en perjuicio de los trabajadores que no formen parte del sindicato y que ya presten sus servicios en la empresa o establecimiento con anterioridad a la fecha en que el sindicato solicite la celebración o revisión del contrato colectivo y la inclusión en él de la cláusula de exclusión.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+En el contrato colectivo, podrá establecerse que el patrón admitirá exclusivamente como trabajadores a quienes sean miembros del sindicato contratante. Esta cláusula y cualesquiera otras que establezcan privilegios en su favor, no podrán aplicarse en perjuicio de los trabajadores que no formen parte del sindicato y que ya presten sus servicios en la empresa o establecimiento con anterioridad a la fecha en que el sindicato solicite la celebración o revisión del contrato colectivo y la inclusión en él de la cláusula de exclusión. La sanción sindical impuesta al trabajador no podrá afectar su permanencia en el empleo o sus condiciones de trabajo.
 
 ###### Artículo 396.
 
@@ -4268,9 +4986,11 @@ II. Si se celebró por varios sindicatos de trabajadores, la revisión se hará 
 
 III. Si se celebró por varios patrones, la revisión se hará siempre que los solicitantes tengan el cincuenta y uno por ciento de la totalidad de los trabajadores afectados por el contrato, por lo menos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 399.
 
-La solicitud de revisión deberá hacerse, por lo menos, sesenta días antes:
+La solicitud de revisión deberá hacerse, por lo menos, sesenta días naturales antes:
 
 I. Del vencimiento del contrato colectivo por tiempo determinado, si éste no es mayor de dos años;
 
@@ -4284,17 +5004,37 @@ Para el cómputo de este término se atenderá a lo establecido en el contrato y
 
 Artículo 399 bis. Sin perjuicio de lo que establece el Artículo 399, los contratos colectivos serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
 
-La solicitud de esta revisión deberá hacerse por lo menos treinta días antes del cumplimiento de un año transcurrido desde la celebración, revisión o prórroga del contrato colectivo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La solicitud de esta revisión deberá hacerse por lo menos treinta días naturales antes del cumplimiento de un año transcurrido desde la celebración, revisión o prórroga del contrato colectivo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 399 Ter.
+
+El convenio de revisión o de modificación del contrato colectivo de trabajo deberá celebrarse ante la Autoridad Registral, el Tribunal o el Centro de Conciliación competente según corresponda. Una vez aprobado por la autoridad, surtirá efectos legales.
+
+Para los efectos de la actualización del expediente de registro del contrato colectivo y de su legal publicidad, el Centro de Conciliación competente o el Tribunal, bajo su más estricta responsabilidad y dentro del término de los tres días siguientes, hará llegar copia autorizada del convenio a la Autoridad Registral.
 
 ###### Artículo 400.
 
 Si ninguna de las partes solicitó la revisión en los términos del artículo 399 o no se ejercitó el derecho de huelga, el contrato colectivo se prorrogará por un período igual al de su duración o continuará por tiempo indeterminado.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 400 Bis.
+
+Cada dos años, en la revisión contractual que corresponda conforme a lo dispuesto en el artículo 399, el convenio de revisión del contrato colectivo deberá someterse a la aprobación de la mayoría de los trabajadores regidos por el mismo a través del voto personal, libre y secreto, conforme al procedimiento de consulta contemplado en el artículo 390 Ter de la presente Ley.
+
+Las referidas revisiones contractuales deberán depositarse ante el Centro Federal de Conciliación y Registro Laboral, el cual podrá verificar que el contenido del contrato colectivo de trabajo se haya hecho del conocimiento de los trabajadores.
+
 ###### Artículo 401.
 
 El contrato colectivo de trabajo termina:
 
-I. Por mutuo consentimiento;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Por mutuo consentimiento, previa aprobación de la mayoría de los trabajadores conforme al procedimiento contemplado en el artículo 390 Ter de esta Ley;
 
 II. Por terminación de la obra; y
 
@@ -4310,6 +5050,8 @@ En los casos de disolución del sindicato de trabajadores titular del contrato c
 
 ### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 404.
 
 Contrato-ley es el convenio celebrado entre uno o varios sindicatos de trabajadores y varios patrones, o uno o varios sindicatos de patrones, con objeto de establecer las condiciones según las cuales debe prestarse el trabajo en una rama determinada de la industria, y declarado obligatorio en una o varias Entidades Federativas, en una o varias zonas económicas que abarquen una o más de dichas Entidades, o en todo el territorio nacional.
@@ -4322,31 +5064,33 @@ Los contratos-ley pueden celebrarse para industrias de jurisdicción federal o l
 
 Pueden solicitar la celebración de un contrato-ley los sindicatos que representen las dos terceras partes de los trabajadores sindicalizados, por lo menos, de una rama de la industria en una o varias Entidades Federativas, en una o más zonas económicas, que abarque una o más de dichas Entidades o en todo el territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 407.
 
-La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, si se refiere a dos o más Entidades Federativas o a industrias de jurisdicción federal, o al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, si se trata de industrias de jurisdicción local.
+La solicitud se presentará al Centro Federal de Conciliación y Registro Laboral.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 408.
 
-Los solicitantes justificarán que satisfacen el requisito de mayoría mencionado en el artículo 406.
+Los solicitantes justificarán que satisfacen el requisito de mayoría mencionado en el artículo 406, acompañando la Constancia de Representatividad obtenida conforme al procedimiento establecido en el artículo 390 Bis, o con el padrón de socios si tienen celebrado contrato colectivo de trabajo o son administradores del contrato-ley.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 409.
 
-La Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Gobierno del Distrito Federal, después de verificar el requisito de mayoría, si a su juicio es oportuna y benéfica para la industria la celebración del contrato-ley, convocará a una convención a los sindicatos de trabajadores y a los patrones que puedan resultar afectados.
+El Centro Federal de Conciliación y Registro Laboral, después de verificar el requisito de mayoría, si a su juicio es oportuna y benéfica para la industria la celebración del contrato-ley, convocará a una convención a los sindicatos de trabajadores y a los patrones que puedan resultar afectados.
 
 ###### Artículo 410.
 
 La convocatoria se publicará en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en los periódicos o por los medios que se juzguen adecuados y señalará el lugar donde haya de celebrarse la convención y la fecha y hora de la reunión inaugural. La fecha de la reunión será señalada dentro de un plazo no menor de treinta días.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 411.
 
-La convención será presidida por el Secretario del Trabajo y Previsión Social, o por el Gobernador del Estado o Territorio o por el Jefe del Gobierno del Distrito Federal, o por el representante que al efecto designen.
+La convención será presidida por el titular del Centro Federal de Conciliación y Registro Laboral o por el representante que al efecto éste designe.
 
 La convención formulará su reglamento e integrará las comisiones que juzgue conveniente.
 
@@ -4358,7 +5102,9 @@ I. Los nombres y domicilios de los sindicatos de trabajadores y de los patrones 
 
 II. La Entidad o Entidades Federativas, la zona o zonas que abarque o la expresión de regir en todo el territorio nacional;
 
-III. Su duración, que no podrá exceder de dos años;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Su vigencia, que no podrá exceder de dos años;
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -4374,45 +5120,65 @@ VI. Las demás estipulaciones que convengan las partes.
 
 En el contrato-ley podrán establecerse las cláusulas a que se refiere el artículo 395. Su aplicación corresponderá al sindicato administrador del contrato-ley en cada empresa.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 414.
 
-El convenio deberá ser aprobado por la mayoría de los trabajadores a que se refiere el artículo 406 y por la mayoría de los patrones que tengan a su servicio la misma mayoría de trabajadores.
+El convenio deberá ser aprobado por la mayoría de los trabajadores que estén representados en la Convención, así como por la mayoría de los patrones que tengan a su servicio la misma mayoría de trabajadores.
 
-Aprobado el convenio en los términos del párrafo anterior, el Presidente de la República o el Gobernador del Estado o Territorio, lo publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa, declarándolo contrato-ley en la rama de la industria considerada, para todas las empresas o establecimientos que existan o se establezcan en el futuro en la Entidad o Entidades Federativas, en la zona o zonas que abarque o en todo el territorio nacional.
+Aprobado el convenio en los términos del párrafo anterior, el Presidente de la República, el Gobernador del Estado o el Jefe de Gobierno de la Ciudad de México, lo publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa, declarándolo contrato-ley en la rama de la industria considerada, para todas las empresas o establecimientos que existan o se establezcan en el futuro en la Entidad o Entidades Federativas, en la zona o zonas que abarque o en todo el territorio nacional.
 
 ###### Artículo 415.
 
 Si el contrato colectivo ha sido celebrado por una mayoría de dos terceras partes de los trabajadores sindicalizados de determinada rama de la industria, en una o varias Entidades Federativas, en una o varias zonas económicas, o en todo el territorio nacional, podrá ser elevado a la categoría de contrato-ley, previo cumplimiento de los requisitos siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 407;
+I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante el Centro Federal de Conciliación y Registro Laboral, de conformidad con lo dispuesto en el artículo 407;
 
 II. Los sindicatos de trabajadores y los patrones comprobarán que satisfacen el requisito de mayoría señalado en el artículo 406;
 
-III. Los peticionarios acompañarán a su solicitud copia del contrato y señalarán la autoridad ante la que esté depositado;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. La autoridad que reciba la solicitud, después de verificar el requisito de mayoría, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa, y señalará un término no menor de quince días para que se formulen oposiciones;
+III. Los peticionarios acompañarán a su solicitud copia del contrato y señalarán los datos de su registro;
 
-V. Si no se formula oposición dentro del término señalado en la convocatoria, el Presidente de la República o el Gobernador del Estado o Territorio, declarará obligatorio el contrato-ley, de conformidad con lo dispuesto en el artículo 414; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. El Centro Federal de Conciliación y Registro Laboral, después de verificar el requisito de mayoría, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa, y señalará un término no menor de quince días para que se formulen oposiciones;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Si no se formula oposición dentro del término señalado en la convocatoria, el Presidente de la República, el Gobernador del Estado o el Jefe de Gobierno de la Ciudad de México, declarará obligatorio el contrato-ley, de conformidad con lo dispuesto en el artículo 414, y
 
 VI. Si dentro del plazo señalado en la convocatoria se formula oposición, se observarán las normas siguientes:
 
 a) Los trabajadores y los patrones dispondrán de un término de quince días para presentar por escrito sus observaciones, acompañadas de las pruebas que las justifiquen.
 
-b) El Presidente de la República o el Gobernador del Estado o Territorio, tomando en consideración los datos del expediente, podrá declarar la obligatoriedad del contrato-ley.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+b) El Presidente de la República, el Gobernador del Estado o el Jefe de Gobierno de la Ciudad de México, tomando en consideración los datos del expediente, podrá declarar la obligatoriedad del contrato-ley.
 
 ###### Artículo 416.
 
 El contrato-ley producirá efectos a partir de la fecha de su publicación en el Diario Oficial de la Federación, o en el periódico oficial de la Entidad Federativa, salvo que la convención señale una fecha distinta.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una vez publicado el contrato-ley, su aplicación será obligatoria para toda la rama industrial que abarque; en consecuencia, los contratos colectivos de trabajo celebrados con anterioridad suspenderán su vigencia, salvo lo dispuesto en el artículo 417, haciéndose la anotación correspondiente por parte del Centro Federal de Conciliación y Registro Laboral.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando exista celebrado un contrato-ley vigente en alguna rama industrial, el Centro Federal de Conciliación y Registro Laboral no dará trámite al depósito de ningún contrato colectivo de trabajo en esa misma rama industrial.
+
 ###### Artículo 417.
 
 El contrato-ley se aplicará, no obstante cualquier disposición en contrario contenida en el contrato colectivo que la empresa tenga celebrado, salvo en aquellos puntos en que estas estipulaciones sean más favorables al trabajador.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 418.
 
-En cada empresa, la administración del contrato-ley corresponderá al sindicato que represente dentro de ella el mayor número de trabajadores. La pérdida de la mayoría declarada por la Junta de Conciliación y Arbitraje produce la de la administración.
+En cada empresa, la administración del contrato-ley corresponderá al sindicato que represente dentro de ella el mayor número de trabajadores conforme a lo señalado en el artículo 408. La pérdida de la mayoría declarada por los Tribunales produce la de la administración.
 
 ###### Artículo 419.
 
@@ -4420,33 +5186,41 @@ En la revisión del contrato-ley se observarán las normas siguientes:
 
 I. Podrán solicitar la revisión los sindicatos de trabajadores o los patrones que representen las mayorías señaladas en el artículo 406;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. La solicitud se presentará a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, noventa días antes del vencimiento del contrato-ley, por lo menos;
+II. La solicitud se presentará ante el Centro Federal de Conciliación y Registro Laboral, noventa días naturales antes del vencimiento del contrato-ley, por lo menos;
 
 III. La autoridad que reciba la solicitud, después de verificar el requisito de mayoría, convocará a los sindicatos de trabajadores y a los patrones afectados a una convención, que se regirá por lo dispuesto en el artículo 411; y
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio, la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe de Gobierno del Distrito Federal, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta.
+IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio que cumpla con lo previsto en el primer párrafo del artículo 414, el titular del Centro Federal de Conciliación y Registro Laboral, lo comunicará al titular de la Secretaría del Trabajo y Previsión Social para su publicación en el Diario Oficial de la Federación o bien al Gobernador de la entidad federativa o al Jefe de Gobierno de la Ciudad de México para que lo publiquen en el periódico oficial de la Entidad Federativa, según corresponda. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, el contrato-ley se tendrá por prorrogado, para todos los efectos legales a que haya lugar.
 
 > <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
 Artículo 419 bis. Los contratos-ley serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
 
-La solicitud de esta revisión deberá hacerse por lo menos sesenta días antes del cumplimiento de un año transcurrido desde la fecha en que surta efectos la celebración, revisión o prórroga del contrato-ley.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La solicitud de esta revisión deberá hacerse por lo menos sesenta días naturales antes del cumplimiento de un año transcurrido desde la fecha en que surta efectos la celebración, revisión o prórroga del contrato-ley.
 
 ###### Artículo 420.
 
 Si ninguna de las partes solicitó la revisión o no se ejercitó el derecho de huelga, el contrato-ley se prorrogará por un período igual al que se hubiese fijado para su duración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 421.
 
-El contrato-ley terminará:
+El contrato-ley terminará únicamente por mutuo consentimiento de las partes que representen la mayoría a que se refiere el artículo 406, previa consulta mediante voto personal, libre y secreto a los trabajadores.
 
-I. Por mutuo consentimiento de las partes que representen la mayoría a que se refiere el artículo 406; y
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-II. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, salvo que aquéllos ejerciten el derecho de huelga.
+II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 ### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
@@ -4490,17 +5264,23 @@ En la formación del reglamento se observarán las normas siguientes:
 
 I. Se formulará por una comisión mixta de representantes de los trabajadores y del patrón;
 
-II. Si las partes se ponen de acuerdo, cualquiera de ellas, dentro de los ocho días siguientes a su firma, lo depositará ante la Junta de Conciliación y Arbitraje;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Si las partes se ponen de acuerdo, cualquiera de ellas, dentro de los ocho días siguientes a su firma, lo depositará ante el Centro Federal de Conciliación y Registro Laboral;
 
 III. No producirán ningún efecto legal las disposiciones contrarias a esta Ley, a sus reglamentos, y a los contratos colectivos y contratos-ley; y
 
-IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la Junta se subsanen las omisiones del reglamento o se revisen sus disposiciones contrarias a esta Ley y demás normas de trabajo.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de los Tribunales federales se subsanen las omisiones del reglamento o se revisen sus disposiciones contrarias a esta Ley y demás normas de trabajo, de conformidad con las disposiciones contenidas en el procedimiento especial colectivo establecido en el artículo 897 y subsecuentes de esta Ley.
 
-Artículo 424 bis. Las Juntas de Conciliación y Arbitraje harán pública, para consulta de cualquier persona, la información de los reglamentos interiores de trabajo que se encuentren depositados ante las mismas. Asimismo, deberán expedir copias de dichos documentos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de las leyes que regulen el acceso a la información gubernamental de las entidades federativas, según corresponda.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-De preferencia, el texto íntegro de las versiones públicas de los reglamentos interiores de trabajo deberá estar disponible en forma gratuita en los sitios de Internet de las Juntas de Conciliación y Arbitraje.
+###### Artículo 424 Bis.
+
+El Centro Federal de Conciliación y Registro Laboral hará pública, para consulta de cualquier persona, el texto íntegro de los reglamentos interiores de trabajo que se encuentren depositados ante dicha Autoridad Registral. Asimismo, deberá expedir copias de dichos documentos, en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública.
+
+El texto íntegro de los reglamentos interiores de trabajo deberá estar disponible en forma gratuita en los sitios de Internet del Centro Federal de Conciliación y Registro Laboral.
 
 ###### Artículo 425.
 
@@ -4510,7 +5290,7 @@ El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imp
 
 ###### Artículo 426.
 
-Los sindicatos de trabajadores o los patrones podrán solicitar de las Juntas de Conciliación y Arbitraje la modificación de las condiciones de trabajo contenidas en los contratos colectivos o en los contratos-ley:
+Los sindicatos de trabajadores o los patrones podrán solicitar de los Tribunales la modificación de las condiciones de trabajo contenidas en los contratos colectivos o en los contratos-ley:
 
 I. Cuando existan circunstancias económicas que la justifiquen; y
 
@@ -4552,33 +5332,39 @@ La suspensión puede afectar a toda una empresa o establecimiento o a parte de e
 
 En los casos señalados en el artículo 427, se observarán las normas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
+I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión al Tribunal, para que éste, previo el procedimiento consignado en el Procedimiento Especial Colectivo establecido en el artículo 897 y subsecuentes de esta Ley, la apruebe o desapruebe;
 
-II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica;
 
-III. Si se trata de las fracciones II y VI, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+III. Si se trata de las fracciones II y VI, el patrón, previamente a la suspensión, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones contenidas en el procedimiento especial colectivo establecido en el artículo 897 y subsecuentes de esta Ley, y
 
-IV. Si se trata de la fracción VII, el patrón no requerirá aprobación o autorización de la Junta de Conciliación y Arbitraje y estará obligado a pagar a sus trabajadores una indemnización equivalente a un día de salario mínimo general vigente, por cada día que dure la suspensión, sin que pueda exceder de un mes.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+IV. Si se trata de la fracción VII, el patrón no requerirá aprobación o autorización del Tribunal y estará obligado a pagar a sus trabajadores una indemnización equivalente a un día de salario mínimo general vigente, por cada día que dure la suspensión, sin que pueda exceder de un mes.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 430.
 
-La Junta de Conciliación y Arbitraje, con excepción de los casos a que se refiere la fracción VII del artículo 427, al sancionar o autorizar la suspensión, fijará la indemnización que deba pagarse a los trabajadores, tomando en consideración, entre otras circunstancias, el tiempo probable de suspensión de los trabajos y la posibilidad de que encuentren nueva ocupación, sin que pueda exceder del importe de un mes de salario.
+El Tribunal, con excepción de los casos a que se refiere la fracción VII del artículo 427, al sancionar o autorizar la suspensión, fijará la indemnización que deba pagarse a los trabajadores, tomando en consideración, entre otras circunstancias, el tiempo probable de suspensión de los trabajos y la posibilidad de que encuentren nueva ocupación, sin que pueda exceder del importe de un mes de salario.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 431.
 
-El sindicato y los trabajadores podrán solicitar cada seis meses de la Junta de Conciliación y Arbitraje que verifique si subsisten las causas que originaron la suspensión. Si la junta resuelve que no subsisten, fijará un término no mayor de treinta días, para la reanudación de los trabajos. Si el patrón no los reanuda, los trabajadores tendrán derecho a la indemnización señalada en el artículo 50.
+El sindicato y los trabajadores podrán solicitar cada seis meses del Tribunal que verifique si subsisten las causas que originaron la suspensión. Sí el Tribunal resuelve que no subsisten, fijará un término no mayor de treinta días, para la reanudación de los trabajos. Si el patrón no los reanuda, los trabajadores tendrán derecho a la indemnización señalada en el artículo 50.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 432.
 
-El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los trabajos. Dará aviso al sindicato, y llamará por los medios que sean adecuados, a juicio de la Junta de Conciliación y Arbitraje, a los trabajadores que prestaban sus servicios en la empresa cuando la suspensión fue decretada, y estará obligado a reponerlos en los puestos que ocupaban con anterioridad, siempre que se presenten dentro del plazo que fije el mismo patrón, que no podrá ser menor de treinta días, contado desde la fecha del último llamamiento.
+El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los trabajos. Dará aviso al sindicato, y llamará por los medios que sean adecuados, a juicio del Tribunal, a los trabajadores que prestaban sus servicios en la empresa cuando la suspensión fue decretada, y estará obligado a reponerlos en los puestos que ocupaban con anterioridad, siempre que se presenten dentro del plazo que fije el mismo patrón, que no podrá ser menor de treinta días, contado desde la fecha del último llamamiento.
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
@@ -4610,15 +5396,17 @@ V. El concurso o la quiebra legalmente declarado, si la autoridad competente o l
 
 En los casos señalados en el artículo anterior, se observarán las normas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Si se trata de las fracciones I y V, se dará aviso de la terminación a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
+I. Si se trata de las fracciones I y V, se dará aviso de la terminación al Tribunal, para que éste, previo el procedimiento especial colectivo establecido en el artículo 897 y subsecuentes de esta Ley, la apruebe o desapruebe;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones contenidas en el artículo 892 y siguientes; y
+II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones contenidas en el procedimiento especial colectivo establecido en el artículo 897 y subsecuentes de esta Ley, y
 
-III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
 ###### Artículo 436.
 
@@ -4634,11 +5422,11 @@ Si el patrón reanuda las actividades de su empresa o crea una semejante, tendr�
 
 Lo dispuesto en el párrafo anterior es aplicable, en el caso de que se reanuden los trabajos de la empresa declarada en estado de concurso o quiebra.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 439.
 
-Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 892 y siguientes. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
+Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización del Tribunal, de conformidad con lo dispuesto en el procedimiento especial colectivo establecido en el artículo 897 y subsecuentes de esta Ley. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
 
 ## TITULO OCTAVO. Huelgas
 
@@ -4680,15 +5468,19 @@ Huelga justificada es aquella cuyos motivos son imputables al patrón.
 
 La huelga es causa legal de suspensión de los efectos de las relaciones de trabajo por todo el tiempo que dure.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 448.
 
-El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica pendientes ante la Junta de Conciliación y Arbitraje, y la de las solicitudes que se presenten, salvo que los trabajadores sometan el conflicto a la decisión de la Junta.
+El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica pendientes ante el Tribunal, y la de las solicitudes que se presenten, salvo que los trabajadores sometan el conflicto a la decisión del Tribunal.
 
 No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por objeto el señalado en el artículo 450, fracción VI.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 449.
 
-La Junta de Conciliación y Arbitraje y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
+El Tribunal y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
 ### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
 
@@ -4720,9 +5512,13 @@ Para suspender los trabajos se requiere:
 
 I. Que la huelga tenga por objeto alguno o algunos de los que señala el artículo anterior;
 
-II. Que la suspensión se realice por la mayoría de los trabajadores de la empresa o establecimiento. La determinación de la mayoría a que se refiere esta fracción, sólo podrá promoverse como causa para solicitar la declaración de inexistencia de la huelga, de conformidad con lo dispuesto en el artículo 460, y en ningún caso como cuestión previa a la suspensión de los trabajos; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Que se cumplan previamente los requisitos señalados en el artículo siguiente.
+II. Que la suspensión se realice por la mayoría de los trabajadores de la empresa o establecimiento. La determinación de la mayoría a que se refiere esta fracción, sólo podrá promoverse como causa para solicitar la declaración de inexistencia de la huelga, de conformidad con lo dispuesto en el artículo 930, y en ningún caso como cuestión previa a la suspensión de los trabajos, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Que se cumplan previamente los requisitos señalados en el artículo 920 de esta Ley.
 
 ###### Artículo 452.
 
@@ -4760,7 +5556,9 @@ I. La suspensión del trabajo se realiza por un número de trabajadores menor al
 
 II. No ha tenido por objeto alguno de los establecidos en el artículo 450; y
 
-III. No se cumplieron los requisitos señalados en el artículo 452.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. No se cumplieron los requisitos señalados en el artículo 920.
 
 No podrá declararse la inexistencia de una huelga por causas distintas a las señaladas en las fracciones anteriores.
 
@@ -4814,7 +5612,9 @@ II. Si el patrón se allana, en cualquier tiempo, a las peticiones contenidas en
 
 III. Por laudo arbitral de la persona o comisión que libremente elijan las partes; y
 
-IV. Por laudo de la Junta de Conciliación y Arbitraje si los trabajadores huelguistas someten el conflicto a su decisión.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Por sentencia del Tribunal si los trabajadores o patrones someten el conflicto a su decisión, en términos de lo previsto en el artículo 937 de esta Ley.
 
 ###### Artículo 470.
 
@@ -4852,11 +5652,11 @@ Artículo 475 bis. El patrón es responsable de la seguridad e higiene y de la p
 
 Es obligación de los trabajadores observar las medidas preventivas de seguridad e higiene que establecen los reglamentos y las normas oficiales mexicanas expedidas por las autoridades competentes, así como las que indiquen los patrones para la prevención de riesgos de trabajo.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 476.
 
-Serán consideradas en todo caso enfermedades de trabajo las que determine esta Ley y, en su caso, la actualización que realice la Secretaría del Trabajo y Previsión Social.
+Serán consideradas enfermedades de trabajo las que determine esta Ley y la actualización que realice la Secretaría del Trabajo y Previsión Social.
 
 ###### Artículo 477.
 
@@ -4902,7 +5702,9 @@ Las consecuencias posteriores de los riesgos de trabajo se tomarán en considera
 
 Las indemnizaciones por riesgos de trabajo que produzcan incapacidades, se pagarán directamente al trabajador.
 
-En los casos de incapacidad mental, comprobados ante la Junta, la indemnización se pagará a la persona o personas, de las señaladas en el artículo 501, a cuyo cuidado quede; en los casos de muerte del trabajador, se observará lo dispuesto en el artículo 115.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En los casos de incapacidad mental, comprobados ante el Tribunal, la indemnización se pagará a la persona o personas, de las señaladas en el artículo 501, a cuyo cuidado quede; en los casos de muerte del trabajador, se observará lo dispuesto en el artículo 115.
 
 ###### Artículo 484.
 
@@ -4958,9 +5760,11 @@ II. Que el accidente ocurra por torpeza o negligencia del trabajador; y
 
 III. Que el accidente sea causado por imprudencia o negligencia de algún compañero de trabajo o de una tercera persona.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 490.
 
-En los casos de falta inexcusable del patrón, la indemnización podrá aumentarse hasta en un veinticinco por ciento, a juicio de la Junta de Conciliación y Arbitraje. Hay falta inexcusable del patrón:
+En los casos de falta inexcusable del patrón, la indemnización podrá aumentarse hasta en un veinticinco por ciento, a juicio del Tribunal. Hay falta inexcusable del patrón:
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -4984,9 +5788,11 @@ Si a los tres meses de iniciada una incapacidad no está el trabajador en aptitu
 
 Si el riesgo produce al trabajador una incapacidad permanente parcial, la indemnización consistirá en el pago del tanto por ciento que fija la tabla de valuación de incapacidades, calculado sobre el importe que debería pagarse si la incapacidad hubiese sido permanente total. Se tomará el tanto por ciento que corresponda entre el máximo y el mínimo establecidos, tomando en consideración la edad del trabajador, la importancia de la incapacidad y la mayor o menor aptitud para ejercer actividades remuneradas, semejantes a su profesión u oficio. Se tomará asimismo en consideración si el patrón se ha preocupado por la reeducación profesional del trabajador.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 493.
 
-Si la incapacidad parcial consiste en la pérdida absoluta de las facultades o aptitudes del trabajador para desempeñar su profesión, la Junta de Conciliación y Arbitraje podrá aumentar la indemnización hasta el monto de la que correspondería por incapacidad permanente total, tomando en consideración la importancia de la profesión y la posibilidad de desempeñar una de categoría similar, susceptible de producirle ingresos semejantes.
+Si la incapacidad parcial consiste en la pérdida absoluta de las facultades o aptitudes del trabajador para desempeñar su profesión, el Tribunal podrá aumentar la indemnización hasta el monto de la que correspondería por incapacidad permanente total, tomando en consideración la importancia de la profesión y la posibilidad de desempeñar una de categoría similar, susceptible de producirle ingresos semejantes.
 
 ###### Artículo 494.
 
@@ -5024,23 +5830,27 @@ I. Dos meses de salario por concepto de gastos funerarios; y
 
 II. El pago de la cantidad que fija el artículo 502.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 501.
 
 Tendrán derecho a recibir indemnización en los casos de muerte o desaparición derivada de un acto delincuencial:
 
-I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora y que tenga una incapacidad de cincuenta por ciento o más, y los hijos menores de dieciséis años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
+I. La viuda o el viudo, los hijos menores de dieciocho años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más, así como los hijos de hasta veinticinco años que se encuentran estudiando en algún plantel del sistema educativo nacional; en ningún caso se efectuará la investigación de dependencia económica, dado que estos reclamantes tienen la presunción a su favor de la dependencia económica;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III.- A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
+II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior sin necesidad de realizar investigación económica, a menos que se pruebe que no dependían económicamente del trabajador;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV.- A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con la persona que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada una dependía de él; y
+III. A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, sin necesidad de realizar investigación económica, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Las personas que dependían económicamente del trabajador concurrirán con quienes estén contemplados en cualquiera de las hipótesis de las fracciones anteriores, debiendo acreditar la dependencia económica, y
 
 V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
 
@@ -5050,33 +5860,25 @@ V. A falta de las personas mencionadas en las fracciones anteriores, el Institut
 
 En caso de muerte o por desaparición derivada de un acto delincuencial del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de cinco mil días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 503.
 
 Para el pago de la indemnización en los casos de muerte o desaparición derivada de actos delincuenciales, por riesgo de trabajo, se observarán las normas siguientes:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+I. La Inspección del Trabajo que reciba el aviso de la muerte o de la desaparición por actos delincuenciales, o el Tribunal ante el que se inicie el reclamo del pago de la indemnización, mandará practicar dentro de las setenta y dos horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante el Tribunal del conocimiento, dentro de un término de treinta días naturales, a ejercitar sus derechos;
 
-I. El Inspector del Trabajo que reciba el aviso de la muerte o de la desaparición por actos delincuenciales, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
+II. Si la residencia del trabajador en el lugar de su muerte o cuando sucedió la desaparición por actos delincuenciales era menor de seis meses, se girará exhorto al Tribunal o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+III. El Tribunal o el Inspector del Trabajo, independientemente del aviso a que se refiere la fracción I, podrán emplear los medios publicitarios que juzguen conveniente para convocar a los beneficiarios;
 
-II. Si la residencia del trabajador en el lugar de su muerte o cuando sucedió la desaparición por actos delincuenciales era menor de seis meses, se girará exhorto a la Junta de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
+IV. El Inspector del Trabajo, concluida la investigación, remitirá el expediente al Tribunal;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+V. Satisfechos los requisitos señalados en las fracciones que anteceden y comprobada la naturaleza del riesgo, el Tribunal procederá de conformidad con lo establecido en el artículo 893 de la Ley, observando el procedimiento especial;
 
-III. La Junta de Conciliación y Arbitraje o el inspector del Trabajo, independientemente del aviso a que se refiere la fracción I, podrán emplear los medios publicitarios que juzguen conveniente para convocar a los beneficiarios;
+VI. El Tribunal apreciará la relación de esposo, esposa, hijos y ascendientes, sin sujetarse a las pruebas legales que acrediten el matrimonio o parentesco, pero no podrá dejar de reconocer lo asentado en las actas del Registro Civil, y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. El Inspector del Trabajo, concluida la investigación, remitirá el expediente a la Junta de Conciliación y Arbitraje;
-
-V. Satisfechos los requisitos señalados en las fracciones que anteceden y comprobada la naturaleza del riesgo, la Junta de Conciliación y Arbitraje, con audiencia de las partes, dictará resolución, determinando qué personas tienen derecho a la indemnización;
-
-VI. La Junta de Conciliación y Arbitraje apreciará la relación de esposo, esposa, hijos y ascendientes, sin sujetarse a las pruebas legales que acrediten el matrimonio o parentesco, pero no podrá dejar de reconocer lo asentado en las actas del Registro Civil; y
-
-VII. El pago hecho en cumplimiento de la resolución de la Junta de Conciliación y Arbitraje libera al patrón de responsabilidad. Las personas que se presenten a deducir sus derechos con posterioridad a la fecha en que se hubiese verificado el pago, sólo podrán deducir su acción en contra de los beneficiarios que lo recibieron.
+VII. El pago hecho en cumplimiento de la resolución del Tribunal libera al patrón de responsabilidad. Las personas que se presenten a deducir sus derechos con posterioridad a la fecha en que se hubiese verificado el pago, sólo podrán deducir su acción en contra de los beneficiarios que lo recibieron.
 
 ###### Artículo 504.
 
@@ -5090,9 +5892,9 @@ III. Cuando tengan a su servicio más de trescientos trabajadores, instalar un h
 
 IV. Previo acuerdo con los trabajadores, podrán los patrones celebrar contratos con sanatorios u hospitales ubicados en el lugar en que se encuentre el establecimiento o a una distancia que permita el traslado rápido y cómodo de los trabajadores, para que presten los servicios a que se refieren las dos fracciones anteriores;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
 
-V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y a la Junta de Conciliación y Arbitraje, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
+V. Dar aviso escrito o por medios electrónicos a la Secretaría del Trabajo y Previsión Social, al Inspector del Trabajo y al Tribunal, dentro de las 72 horas siguientes, de los accidentes que ocurran, proporcionando los siguientes datos y elementos:
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -5124,11 +5926,11 @@ VI. Tan pronto se tenga conocimiento de la muerte de un trabajador por riesgos d
 
 VII. (DEROGADA, D.O.F. 28 DE ABRIL DE 1978)
 
-> <small>(F. DE E., D.O.F. 30 DE ABRIL DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 505.
 
-Los médicos de las empresas serán designados por los patrones. Los trabajadores podrán oponerse a la designación, exponiendo las razones en que se funden. En caso de que las partes no lleguen a un acuerdo, resolverá la Junta de Conciliación y Arbitraje.
+Los médicos de las empresas serán designados por los patrones. Los trabajadores podrán oponerse a la designación, exponiendo las razones en que se funden. En caso de que las partes no lleguen a un acuerdo, resolverá el Tribunal.
 
 ###### Artículo 506.
 
@@ -5196,19 +5998,19 @@ La Comisión deberá mantener comunicación permanente con las autoridades de pr
 
 En cada entidad federativa se constituirá una Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo, cuya finalidad será la de coadyuvar en la definición de la política estatal en materia de seguridad, salud y medio ambiente de trabajo, proponer reformas y adiciones al reglamento y a las normas oficiales mexicanas en la materia, así como estudiar y proponer medidas preventivas para abatir los riesgos en los centros de trabajo establecidos en su jurisdicción.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Dichas Comisiones Consultivas Estatales serán presididas por los Ejecutivos Estatales y el Jefe de Gobierno del Distrito Federal y en su integración participarán representantes de las Secretarías del Trabajo y Previsión Social; de Salud; de Gobernación, y de Medio Ambiente y Recursos Naturales; del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen.
+Dichas Comisiones Consultivas Estatales serán presididas por los Ejecutivos Estatales y el Jefe de Gobierno de la Ciudad de México y en su integración participarán representantes de las Secretarías del Trabajo y Previsión Social, de Salud, de Gobernación y de Medio Ambiente y Recursos Naturales, del Instituto Mexicano del Seguro Social; así como los que designen las organizaciones de trabajadores y de patrones a las que convoquen.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 El representante de la Secretaría del Trabajo y Previsión Social ante la Comisión Consultiva Estatal respectiva, fungirá como Secretario de la misma.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 512-C.
 
-La organización de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y la de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, serán señaladas en el reglamento que se expida en materia de seguridad, salud y medio ambiente de trabajo.
+La organización de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y la de las Comisiones Consultivas Estatales y de la Ciudad de México de Seguridad y Salud en el Trabajo, serán señaladas en el reglamento que se expida en materia de seguridad, salud y medio ambiente de trabajo.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -5256,11 +6058,11 @@ Dicho auxilio será prestado en los términos de los artículos 527-A y 529.
 
 En el supuesto de que los centros de trabajo se encuentren regulados por Leyes o normas especializadas en materia de seguridad y salud, cuya vigilancia corresponda a otras autoridades distintas a las laborales, la Secretaría del Trabajo y Previsión Social o las autoridades del trabajo de las entidades federativas, según el ámbito de competencia, serán auxiliares de aquéllas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 513.
 
-La Secretaría del Trabajo y Previsión Social, previa opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, actualizará las tablas de enfermedades de trabajo y de evaluación de las incapacidades permanentes resultante de los riesgos de trabajo, mismas que se publicarán en el Diario Oficial de la Federación y serán de observancia general en todo el territorio nacional.
+La Secretaría del Trabajo y Previsión Social actualizará las tablas de enfermedades de trabajo y de evaluación de las incapacidades permanentes resultante de los riesgos de trabajo, mismas que se publicarán en el Diario Oficial de la Federación y serán de observancia general en todo el territorio nacional, para este efecto dicha dependencia escuchará la opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, de la Secretaría de Salud, de la Secretaría de Medio Ambiente y Recursos Naturales, así como de especialistas en la materia.
 
 (VÉASE TABLA ANEXA)
 
@@ -5270,7 +6072,9 @@ La Secretaría del Trabajo y Previsión Social, previa opinión de la Comisión 
 
 Las tablas a que se refiere el artículo anterior serán revisadas cada vez que se considere necesario y conveniente para el país, cuando existan estudios e investigaciones que lo justifiquen.
 
-En todo caso la Secretaría del Trabajo y Previsión Social y la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo deberán tomar en cuenta el progreso y los avances de la medicina del trabajo y para tal efecto podrán auxiliarse de los técnicos y médicos especialistas que para ello se requiera, informando al Poder Legislativo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La Secretaría del Trabajo y Previsión Social deberá tomar en cuenta el progreso y los avances de la medicina del trabajo y para tal efecto podrán auxiliarse de los técnicos y médicos especialistas que para ello se requiera, informando al Poder Legislativo.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -5302,6 +6106,14 @@ Prescriben en dos meses las acciones de los trabajadores que sean separados del 
 
 La prescripción corre a partir del día siguiente a la fecha de la separación.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Este término se suspenderá a partir de la fecha de presentación de la solicitud de conciliación a que se refiere el artículo 684-B de esta Ley, y se reanudará al día siguiente en que se actualice cualquiera de las hipótesis previstas en el artículo 521, fracción III de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En lo que se refiere al ejercicio de las acciones jurisdiccionales a que se refiere el primer párrafo, se estará a lo previsto en la fracción III del artículo 521 del presente ordenamiento.
+
 ###### Artículo 519.
 
 Prescriben en dos años:
@@ -5310,9 +6122,13 @@ I. Las acciones de los trabajadores para reclamar el pago de indemnizaciones por
 
 II. Las acciones de los beneficiarios en los casos de muerte por riesgos de trabajo; y
 
-III. Las acciones para solicitar la ejecución de los laudos de las Juntas de Conciliación y Arbitraje y de los convenios celebrados ante ellas.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La prescripción corre, respectivamente, desde el momento en que se determine el grado de la incapacidad para el trabajo; desde la fecha de la muerte del trabajador, y desde el día siguiente al en que hubiese quedado notificado el laudo de la Junta o aprobado el convenio. Cuando el laudo imponga la obligación de reinstalar, el patrón podrá solicitar de la Junta que fije al trabajador un término no mayor de treinta días para que regrese al trabajo, apercibiéndolo que de no hacerlo, podrá el patrón dar por terminada la relación de trabajo.
+III. Las acciones para solicitar la ejecución de la sentencia del Tribunal y de los convenios celebrados ante éste.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La prescripción corre, respectivamente, desde el momento en que se determine el grado de la incapacidad para el trabajo; desde la fecha de la muerte del trabajador, y desde el día siguiente al en que hubiese quedado notificado la sentencia o aprobado el convenio. Cuando la sentencia imponga la obligación de reinstalar, el patrón podrá solicitar al Tribunal que fije al trabajador un término no mayor de treinta días para que regrese al trabajo, apercibiéndolo que de no hacerlo, podrá el patrón dar por terminada la relación de trabajo.
 
 ###### Artículo 520.
 
@@ -5326,11 +6142,15 @@ II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra
 
 La prescripción se interrumpe:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Por la sola presentación de la demanda o de cualquiera promoción ante la Junta de Conciliación y Arbitraje, independientemente de la fecha de la notificación. No es obstáculo para la interrupción que la Junta sea incompetente; y
+I. Por la sola presentación de la demanda o de cualquiera promoción ante el Tribunal, independientemente de la fecha de la notificación. Si quien promueve omitió agotar el procedimiento de conciliación no estando eximido de hacerlo, el Tribunal sin fijar competencia sobre el asunto lo remitirá a la Autoridad Conciliadora competente para que inicie el procedimiento de conciliación establecido en el Título Trece Bis de esta Ley. No es obstáculo para la interrupción que el Tribunal sea incompetente;
 
 II. Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Por la presentación de la solicitud de conciliación a que se refiere el artículo 684-B de esta Ley. La interrupción de la prescripción cesará a partir del día siguiente en que el Centro de Conciliación expida la constancia de no conciliación o en su caso, se determine el archivo del expediente por falta de interés de parte. No es obstáculo para la interrupción que la Autoridad Conciliadora ante la que se promovió sea incompetente.
 
 ###### Artículo 522.
 
@@ -5350,6 +6170,14 @@ I. A la Secretaría del Trabajo y Previsión Social;
 
 II. A las Secretarías de Hacienda y Crédito Público y de Educación Pública;
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II Bis. Al Centro Federal de Conciliación y Registro Laboral;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II Ter. A los Centros de Conciliación en materia local;
+
 III. A las autoridades de las Entidades Federativas, y a sus Direcciones o Departamentos de Trabajo;
 
 IV. A la Procuraduría de la Defensa del Trabajo;
@@ -5368,11 +6196,15 @@ VIII. A la Comisión Nacional para la Participación de los Trabajadores en las 
 
 IX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-X. A la Junta Federal de Conciliación y Arbitraje;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-XI. A las Juntas Locales de Conciliación y Arbitraje; y
+X. A los Tribunales del Poder Judicial de la Federación, y
 
-XII. Al Jurado de Responsabilidades.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XI. A los Tribunales de las Entidades Federativas.
+
+XII. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 524.
 
@@ -5382,9 +6214,11 @@ La Secretaría del Trabajo y Previsión Social y los Departamentos y Direcciones
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Artículo 525 bis. Las Juntas Federal y Locales de Conciliación y Arbitraje establecerán, con sujeción a las disposiciones presupuestales aplicables, un Servicio Profesional de Carrera para el ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro de sus servidores públicos.
+###### Artículo 525 Bis.
+
+El Poder Judicial de la Federación y los poderes judiciales locales establecerán, con sujeción a las disposiciones presupuestales aplicables, un servicio de carrera judicial para el ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro de sus servidores públicos.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -5464,7 +6298,13 @@ II. Empresas:
 
 3.- Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
-También corresponderá a las autoridades federales la aplicación de las normas de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; y, obligaciones patronales en las materias de capacitación y adiestramiento de sus trabajadores y de seguridad e higiene en los centros de trabajo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+También corresponderá a las autoridades federales lo relativo al cumplimiento de las obligaciones patronales en las materias de capacitación y adiestramiento de sus trabajadores y de seguridad e higiene en los centros de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Corresponderá a la Autoridad Registral conocer únicamente los actos y procedimientos relativos al registro de todos los contratos colectivos, reglamentos interiores de trabajo y de los sindicatos.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -5518,17 +6358,23 @@ II. Interponer los recursos ordinarios y extraordinarios procedentes, para la de
 
 III. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Artículo 530 bis. Para el desarrollo de sus funciones, la Procuraduría de la Defensa del Trabajo podrá citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de esta Ley.
+IV. Auxiliar a los Centros de Conciliación, en otorgar información y orientación a los trabajadores que acudan a dichas instancias, y
 
-Si el solicitante del servicio es quien no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+V. Auxiliar en las audiencias de conciliación a las personas que lo soliciten.
+
+###### Artículo 530 Bis.
+
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 531.
 
-La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal.
+La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno de la Ciudad de México.
 
 ###### Artículo 532.
 
@@ -5728,17 +6574,25 @@ El Secretario del Trabajo y Previsión Social podrá invitar a participar en el 
 
 El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social, fungirá como secretario del mismo el funcionario que determine el titular de la propia Secretaría y su funcionamiento se regirá por el reglamento que expida el propio Consejo.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 539-B.
 
-Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Secretaría del Trabajo y Previsión Social será asesorada por Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo.
+Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Secretaría del Trabajo y Previsión Social será asesorada por Consejos Consultivos Estatales y de la Ciudad de México del Servicio Nacional de Empleo.
 
-Los Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo estarán formados por el Gobernador de la Entidad Federativa correspondiente o por el Jefe de Gobierno del Distrito Federal, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda o el Jefe de Gobierno del Distrito Federal expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
+Los Consejos Consultivos Estatales y de la Ciudad de México del Servicio Nacional de Empleo estarán formados por el Gobernador de la Entidad Federativa correspondiente o por el Jefe de Gobierno de la Ciudad de México, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
 
-El Secretario del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa o el Jefe de Gobierno del Distrito Federal, podrán invitar a participar en los Consejos Consultivos Estatales y del Distrito Federal del Servicio Nacional de Empleo, respectivamente, a tres personas con derecho a voz pero sin voto, que por su trayectoria y experiencia puedan hacer aportaciones en la materia.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda o el Jefe de Gobierno de la Ciudad de México expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Secretario del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa o el Jefe de Gobierno de la Ciudad de México, podrán invitar a participar en los Consejos Consultivos Estatales y de la Ciudad de México del Servicio Nacional de Empleo, respectivamente, a tres personas con derecho a voz, pero sin voto, que por su trayectoria y experiencia puedan hacer aportaciones en la materia.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada uno de ellos.
 
@@ -5798,7 +6652,11 @@ III. Interrogar, solos o ante testigos, a los trabajadores y patrones, sobre cua
 
 IV. Exigir la presentación de libros, registros u otros documentos, a que obliguen las normas de trabajo;
 
-V. Sugerir se corrijan las violaciones a las condiciones de trabajo;
+V. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V Bis. Auxiliar a los Centros de Conciliación y Tribunales correspondientes, efectuando las diligencias que le sean solicitadas en materia de normas de trabajo;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -5809,6 +6667,10 @@ VI. Disponer que se eliminen los defectos comprobados en las instalaciones y mé
 VI Bis. Ordenar, previa consulta con la Dirección General de Inspección Federal del Trabajo, la adopción de las medidas de seguridad de aplicación inmediata en caso de peligro inminente para la vida, la salud o la integridad de las personas. En este caso, si así son autorizados, los Inspectores deberán decretar la restricción de acceso o limitar la operación en las áreas de riesgo detectadas. En este supuesto, deberán dar copia de la determinación al patrón para los efectos legales procedentes.
 
 Dentro de las 24 horas siguientes, los Inspectores del Trabajo, bajo su más estricta responsabilidad, harán llegar un informe detallado por escrito a la Secretaría del Trabajo y Previsión Social, con copia del mismo al patrón.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI Ter. Tratándose de la Inspección Federal del Trabajo, auxiliar al Centro Federal de Conciliación y Registro Laboral y al Tribunal federal, en las diligencias que le sean solicitadas en materia de libertad de sindicación, elección de dirigentes y de representatividad en la contratación colectiva;
 
 VII. Examinar las substancias y materiales utilizados en las empresas y establecimientos cuando se trate de trabajos peligrosos; y
 
@@ -5904,9 +6766,9 @@ I. El Director General practicará una investigación con audiencia del interesa
 
 II. El Director General podrá imponer las sanciones señaladas en el artículo anterior, fracciones I y II; y
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Cuando a juicio del Director General la sanción aplicable sea la destitución, dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno del Distrito Federal, para su decisión.
+III. Cuando a juicio del Director General la sanción aplicable sea la destitución, dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe de Gobierno de la Ciudad de México, para su decisión.
 
 ###### Artículo 550.
 
@@ -6216,7 +7078,9 @@ VII. Los demás que le confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO X
+### CAPITULO IX BIS. Del Centro Federal de Conciliación y Registro Laboral
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 570.
 
@@ -6286,7 +7150,9 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO XI
+### CAPITULO IX TER. De los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 575.
 
@@ -6442,17 +7308,145 @@ Los sindicatos, federaciones y confederaciones de trabajadores o los patrones, n
 
 En los procedimientos a que se refiere este capítulo se observarán las normas contenidas en el artículo 574.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO X
+
+###### Artículo 590-A.
+
+Corresponde al Centro Federal de Conciliación y Registro Laboral las siguientes atribuciones:
+
+I. Realizar en materia federal la función conciliadora a que se refiere el párrafo cuarto de la fracción XX del artículo 123 constitucional;
+
+II. Llevar el registro de todos los contratos colectivos de trabajo, reglamentos interiores de trabajo y de las organizaciones sindicales, así como todos los actos y procedimientos a que se refiere el párrafo cuarto de la fracción XX del artículo 123 constitucional;
+
+III. Establecer el Servicio Profesional de Carrera y seleccionar mediante concurso abierto en igualdad de condiciones a su personal;
+
+IV. Establecer planes de capacitación y desarrollo profesional incorporando la perspectiva de género y el enfoque de derechos humanos, y
+
+V. Las demás que de esta Ley y la normatividad aplicable se deriven.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 590-B.
+
+El Centro Federal de Conciliación y Registro Laboral se constituirá y funcionará de conformidad con los siguientes lineamientos:
+
+Será un Organismo Público Descentralizado del Gobierno Federal, con domicilio en la Ciudad de México y contará con oficinas regionales conforme a los lineamientos que establezca el Órgano de Gobierno. Tendrá personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+
+Será competente para substanciar el procedimiento de la conciliación que deberán agotar los trabajadores y patrones, antes de acudir a los Tribunales, conforme lo establece el párrafo quinto de la fracción XX del artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Además, será competente para operar el registro de todos los contratos colectivos de trabajo, reglamentos interiores de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+El titular del organismo será su Director General. El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado, quien además de lo previsto en el artículo 123, apartado A, fracción XX de la Constitución, deberá cumplir con los requisitos que establezca la Ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 590-C.
+
+El Director General del Centro Federal de Conciliación y Registro Laboral tendrá las facultades siguientes:
+
+I. Celebrar actos y otorgar toda clase de documentos inherentes al objeto del Organismo;
+
+II. Tener la representación legal del Centro Federal de Conciliación y Registro Laboral, así como ejercer facultades de dominio, administración, y pleitos y cobranzas, con apego a la Ley y el estatuto orgánico;
+
+III. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de la Propiedad y de Comercio en cada Entidad Federativa y Ciudad de México;
+
+IV. Sustituir y revocar poderes generales o especiales;
+
+V. Previa autorización de la Junta de Gobierno, instalar las Delegaciones u oficinas estatales o regionales, que sean necesarias para el cabal y oportuno cumplimiento de las atribuciones del Organismo Público Descentralizado;
+
+VI. Las demás que se requieran para el adecuado funcionamiento del Organismo, sin contravenir la Ley y el estatuto orgánico, y
+
+VII. Las demás que se deriven de la presente Ley, el estatuto orgánico y demás disposiciones legales aplicables.
+
+El Director General ejercerá las facultades a que se refieren las fracciones I, II y III bajo su responsabilidad y dentro de las limitaciones que señale el estatuto orgánico que autorice la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 590-D.
+
+La Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral estará conformada por:
+
+a) El titular de la Secretaría del Trabajo y Previsión Social como miembro propietario o su suplente, quien fungirá como Presidente de dicha Junta de Gobierno;
+
+b) El titular de la Secretaría de Hacienda y Crédito Público como miembro propietario o su suplente;
+
+c) El titular del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales como miembro propietario o su suplente;
+
+d) El Presidente del Instituto Nacional de Estadística y Geografía como miembro propietario o su suplente, y
+
+e) El Presidente del Instituto Nacional Electoral como miembro propietario o su suplente.
+
+Los suplentes serán designados por los miembros propietarios y deberán tener una jerarquía inmediata inferior a dichos propietarios en la dependencia u organismo público de que se trate.
+
+Sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se encuentre presente el que represente a la Secretaría del Trabajo y Previsión Social. Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de quienes concurran a sus sesiones, en caso de empate el Presidente tendrá voto de calidad.
+
+Para el cumplimiento de todas y cada una de las obligaciones a cargo del Organismo establecidas en esta Ley, la Junta de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de cuatro veces al año.
+
+La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley, y salvo aquellas facultades a que se contrae el artículo 58 de la Ley Federal de Entidades Paraestatales, podrá delegar discrecionalmente sus facultades en el Director General.
+
+La Junta de Gobierno tendrá las siguientes atribuciones indelegables:
+
+I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo relativas a la prestación de los servicios públicos que le corresponden en los términos de la presente Ley, sobre productividad, finanzas, investigación, desarrollo tecnológico y administración general;
+
+II. Aprobar los programas y presupuestos del Organismo, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos Anual de la Federación, bastará con la aprobación de la propia Junta de Gobierno;
+
+III. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+
+IV. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros del Organismo y autorizar la publicación de los mismos;
+
+V. Aprobar la estructura básica de la organización del Organismo, y las modificaciones que procedan a la misma. Aprobar en su caso, el estatuto orgánico de dicho organismo, bajo los siguientes criterios:
+
+a) En la estructura básica del Organismo, deberá contemplar la instalación y funcionamiento de las Delegaciones del mismo en todas las entidades federativas, excepto en la Ciudad de México, en razón de que tiene establecida su Matriz y domicilio legal principal en dicha ciudad;
+
+b) Deberá contar con el personal suficiente y adecuado, así como de una Oficina Especializada de Asesoría a los o las trabajadoras para que los asista en la conciliación;
+
+VI. Nombrar y remover a propuesta del Director General, a los servidores públicos del organismo que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, conforme a las disposiciones legales, presupuestales y administrativas correspondientes;
+
+VII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del Director General de la entidad al Prosecretario de la citada Junta Directiva, quien podrá ser o no miembro de dicho órgano o de la entidad;
+
+VIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios, y
+
+IX. Las demás facultades expresamente establecidas en la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO XI
+
+###### Artículo 590-E.
+
+Corresponde a los Centros de Conciliación locales las siguientes atribuciones:
+
+I. Realizar en materia local la función conciliadora a la que se refiere el párrafo segundo de la fracción XX del artículo 123 constitucional;
+
+II. Poner en práctica el Servicio Profesional de Carrera a que se refiere el numeral tres del artículo 590-A;
+
+III. Capacitar y profesionalizarlo para que realice las funciones conciliadoras referidas en el párrafo anterior, y
+
+IV. Las demás que de esta Ley y su normatividad aplicable se deriven.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 590-F.
+
+Los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México, encargados de la conciliación previa a la demanda jurisdiccional en el orden local, establecidos en el apartado A del artículo 123, fracción XX, párrafo segundo de la Constitución, se integrarán y funcionarán en los términos que determinen las leyes locales, con base a los siguientes lineamientos:
+
+Cada Centro de Conciliación se constituirá como Organismo Público Descentralizado de la respectiva Entidad Federativa, los cuales tendrán el número de delegaciones que se considere necesario constituir y contarán con personalidad jurídica y patrimonio propio, así como plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
+
+Serán competentes para substanciar el procedimiento de la conciliación a la que deberán acudir los trabajadores y patrones, antes de presentar demanda ante los Tribunales, conforme lo establece el párrafo segundo de la fracción XX del artículo 123, apartado A, de la Constitución.
+
+En su actuación se regirán por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en su estatuto orgánico y su respectiva reglamentación, emitidos por el Poder Legislativo de la respectiva Entidad Federativa o de la Ciudad de México, según corresponda.
+
+Cada Centro tendrá un Órgano de Gobierno integrado por los titulares de las dependencias u organismos públicos que señalen las legislaciones locales y que salvaguarden el ejercicio pleno de la autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
+
+La conciliación que imparta deberá ajustarse al procedimiento contemplado en la presente Ley.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
+### CAPITULO XII. De la Competencia de los Tribunales
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
-
-### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 591.
 
@@ -6496,9 +7490,7 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 601.
 
@@ -6512,547 +7504,213 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO I. De los procedimientos de designación de representantes de los trabajadores y de los patrones
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 604.
 
-Corresponden a la Junta Federal de Conciliación y Arbitraje, en el ámbito de su competencia, el conocimiento y la resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
+Corresponden a los Tribunales del Poder Judicial de la Federación o de los Tribunales de las entidades federativas, el conocimiento y la resolución de los conflictos de Trabajo que se susciten entre trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivado de las relaciones de trabajo o de hechos relacionados con ellas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En su actuación, los jueces y secretarios instructores deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 605.
 
-La Junta se integrará con un representante del Gobierno y con representantes de los trabajadores y de los patrones designados por ramas de la industria o de otras actividades, de conformidad con la clasificación y convocatoria que expida la Secretaría del Trabajo y Previsión Social.
+Los Tribunales federales, de las entidades federativas y de la Ciudad de México, estarán a cargo cada uno, de un juez y contarán con los secretarios, funcionarios y empleados que se juzgue conveniente, determinados y designados de conformidad con la Ley Orgánica del Poder Judicial de la Federación o de la Ley Orgánica del Poder Judicial Local según corresponda.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Habrá un secretario general de acuerdos y, de ser necesario, otros secretarios generales y secretarios auxiliares, según se juzgue conveniente, de conformidad con lo que disponga el Reglamento Interior de la Junta.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La designación y separación del personal jurídico de la Junta se realizará conforme a los reglamentos que apruebe el Pleno en materia del servicio profesional de carrera y de evaluación del desempeño de los Presidentes de las Juntas Especiales.
+###### Artículo 605 Bis.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-El Presidente de la Junta será responsable del cumplimiento estricto de este precepto y de las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-Artículo 605 bis. El secretario general de acuerdos actuará como secretario del Pleno. Es el encargado de formular el orden del día que determine el Presidente y de levantar el acta de la sesión, que será aprobada antes de su terminación.
-
-El secretario general de acuerdos auxiliará al Presidente en las funciones que le competen.
-
-Los secretarios generales de la Junta, de acuerdo a sus atribuciones, son los encargados de organizar, vigilar y evaluar el desarrollo, resolución y control oportuno y eficiente de los procedimientos que se llevan a cabo en las Juntas Especiales y en las áreas a su cargo, cuidando que se desarrollen de conformidad con lo dispuesto en los ordenamientos legales aplicables, así como de la evaluación del desempeño de los servidores públicos a los que se refiere la fracción I del artículo 614 de la presente Ley.
-
-Los secretarios generales, vigilarán la tramitación de los procedimientos de su competencia a través de los Auxiliares y Secretarios Auxiliares que les sean adscritos, quienes, bajo su responsabilidad, deberán dictar en debido tiempo y forma, los acuerdos que procedan para asegurar la continuidad del procedimiento.
-
-En el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje se establecerán las competencias y responsabilidades respectivas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 606.
 
-La Junta funcionará en Pleno o en Juntas Especiales, de conformidad con la clasificación de las ramas de la industria y de las actividades a que se refiere el artículo 605.
-
-La Secretaría del Trabajo y Previsión Social, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer Juntas Especiales, fijando el lugar de su residencia y su competencia territorial.
-
-> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 1976)</small>
-
-Las Juntas Especiales establecidas fuera de la capital de la República conforme al párrafo anterior, quedarán integradas en su funcionamiento y régimen jurídico a la Junta Federal de Conciliación y Arbitraje, correspondiéndoles el conocimiento y resolución de los conflictos de trabajo en todas las ramas de la industria y actividades de la competencia federal, comprendidas en la jurisdicción territorial que se les asigne, con excepción de los conflictos colectivos, sin perjuicio del derecho del trabajador, cuando así convenga a sus intereses, a concurrir directamente a la Junta Federal de Conciliación y Arbitraje.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 607.
 
-El Pleno se integrará con el Presidente de la Junta y con todos los representantes de los trabajadores y de los patrones ante las Juntas Especiales del Distrito Federal.
-
-Las resoluciones y sesiones del Pleno se regirán por lo establecido en el artículo 615 de esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 608.
 
-Cuando un conflicto afecte a dos o más ramas de la industria o de las actividades representadas en la Junta, ésta se integrará con el Presidente de la misma y con los respectivos representantes de los trabajadores y de los patrones.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 609.
 
-Las Juntas Especiales se integrarán:
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-I. Con el Presidente de la Junta, cuando se trate de conflictos colectivos, o con el Presidente de la Junta Especial en los demás casos; y
-
-II. Con los respectivos representantes de los trabajadores y de los patrones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 610.
 
-Durante la tramitación de los juicios, hasta formular el proyecto de laudo a que se refieren los artículos 885 y 916 de esta Ley, el Presidente de la Junta Federal de Conciliación y Arbitraje y los de las Juntas Especiales podrán ser sustituidos por auxiliares, pero intervendrán personalmente en la votación de las resoluciones siguientes:
+Durante la tramitación de los juicios y hasta el cierre de su instrucción, el juez a cargo del Tribunal deberá estar presente en el desarrollo de las audiencias. Podrá auxiliarse de un secretario instructor para dictar los acuerdos relativos a la etapa escrita del procedimiento, hasta antes de la audiencia preliminar, quien deberá verificar y, en su caso, certificar que las notificaciones personales se practicaron debidamente.
 
-I. Competencia;
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-II. Personalidad;
+III. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-III. Nulidad de actuaciones;
+V. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. Sustitución de patrón;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. En los casos del artículo 772 de esta Ley; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VI. Cuando se trate de conflictos colectivos de naturaleza económica, en la que designe perito y en la que ordene la práctica de diligencias a que se refiere el artículo 913.
+VI. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 611.
 
-En el Pleno y en las Juntas Especiales habrá el número de Auxiliares que se juzgue conveniente, a fin de que la administración de la justicia del trabajo sea expedita.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 612.
 
-El Presidente de la Junta Federal de Conciliación y Arbitraje será nombrado por el Presidente de la República, y deberá satisfacer los requisitos siguientes:
-
-I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, mayor de treinta años y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
-
-III. Tener cinco años de ejercicio profesional, posteriores a la fecha de adquisición del título a que se refiere la fracción anterior;
-
-IV. Tener experiencia en la materia y haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
-
-V. No ser ministro de culto; y
-
-VI. Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena privativa de la libertad.
-
-Las percepciones del Presidente de la Junta Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 613.
 
-El Presidente de la Junta será substituido en sus faltas temporales y en las definitivas, entre tanto se hace nuevo nombramiento, por el Secretario General de mayor antigüedad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 614.
 
-El Pleno de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Expedir el Reglamento Interior y los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales;
-
-II. Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta;
-
-III. Conocer del recurso de revisión interpuesto en contra de las resoluciones dictadas por el Presidente de la Junta en la ejecución de los laudos del Pleno;
-
-IV. Uniformar los criterios de resolución de la Junta, cuando las Juntas Especiales sustenten tesis contradictorias;
-
-V. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2012)
-
-VI. Informar a la Secretaría del Trabajo y Previsión Social de las deficiencias que observe en el funcionamiento de la Junta y sugerir las medidas que convenga dictar para corregirlas; y
-
-VII. Las demás que le confieran las leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 615.
 
-Para uniformar el criterio de resolución de las Juntas Especiales, se observarán las normas siguientes:
-
-I. El Pleno se reunirá en sesión especial, no pudiendo ocuparse de ningún otro asunto;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Para que pueda sesionar el Pleno, se requiere la presencia de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Los Presidentes de las Juntas Especiales en el Distrito Federal, serán citados a la sesión y tendrán voz informativa. Los representantes de los trabajadores y patrones y los Presidentes de las Juntas Especiales radicadas fuera del Distrito Federal podrán participar como invitados en las sesiones; o bien, formular sus propuestas por escrito, las que se incluirán en el orden del día que corresponda;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. Las resoluciones del Pleno deberán ser aprobadas por la mitad más uno de sus miembros presentes;
-
-V. Las decisiones del Pleno que uniformen el criterio de resolución serán obligatorias para todas las Juntas Especiales;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VI. Las mismas resoluciones podrán revisarse en cualquier tiempo a solicitud de cincuenta y uno por ciento de los representantes de los trabajadores o de los patrones, de cincuenta y uno por ciento de los Presidentes de las Juntas Especiales o del Presidente de la Junta; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VII. El Pleno publicará un boletín cada tres meses, por lo menos, con el criterio uniformado y con los laudos del Pleno y de las Juntas Especiales que juzgue conveniente.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 616.
 
-Las Juntas Especiales tienen las facultades y obligaciones siguientes:
-
-I. Conocer y resolver los conflictos de trabajo que se susciten en las ramas de la industria o de las actividades representadas en ellas;
-
-II. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2012)
-
-III. Practicar la investigación y dictar las resoluciones a que se refiere el artículo 503;
-
-IV. Conocer del recurso de revisión interpuesto en contra de las resoluciones del Presidente en ejecución de los laudos;
-
-V. Recibir en depósito los contratos colectivos y los reglamentos interiores de trabajo.
-
-Decretado el depósito se remitirá el expediente al archivo de la Junta; y
-
-VI. Las demás que le confieran las leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 617.
 
-El Presidente de la Junta Federal de Conciliación y Arbitraje tiene las facultades y obligaciones siguientes:
-
-I. Cuidar del orden y de la disciplina del personal de la Junta;
-
-II. Presidir el Pleno;
-
-III. Presidir las Juntas Especiales en los casos de los artículos 608 y 609, fracción I;
-
-IV. Ejecutar los laudos dictados por el Pleno y por las Juntas Especiales en los casos señalados en la fracción anterior;
-
-V. Revisar los actos de los Actuarios en la ejecución de los laudos que le corresponda ejecutar, a solicitud de cualquiera de las partes;
-
-VI. Cumplimentar los exhortos o turnarlos a los Presidentes de las Juntas Especiales;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VII. Rendir los informes en los amparos que se interpongan contra los laudos y las resoluciones dictados por el Pleno y por las Juntas Especiales que presida;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Conocer y resolver de las providencias cautelares que se promuevan en los conflictos colectivos;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IX. Someter al Pleno los reglamentos del servicio profesional de carrera y el de evaluación del desempeño de los Presidentes de las Juntas Especiales; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-X. Las demás que le confieran las Leyes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 618.
 
-Los Presidentes de las Juntas Especiales tienen las obligaciones y facultades siguientes:
-
-I. Cuidar del orden y de la disciplina del personal de la Junta Especial;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Ordenar la ejecución de los laudos dictados por la Junta Especial;
-
-III. Conocer y resolver las providencias cautelares;
-
-IV. Revisar los actos de los Actuarios en la ejecución de los laudos y de las providencias cautelares, a solicitud de cualquiera de las partes;
-
-V. Cumplimentar los exhortos que le sean turnados por el Presidente de la Junta;
-
-VI. Rendir los informes en los amparos que se interpongan en contra de los laudos y resoluciones dictados por la Junta Especial;
-
-VII. Informar al Presidente de la Junta de las deficiencias que observen en su funcionamiento y sugerir las medidas que convenga dictar para corregirlas; y
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Cumplir y aprobar satisfactoriamente los procedimientos de evaluación de desempeño que se establezcan conforme a lo dispuesto en el reglamento respectivo; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IX. Las demás que les confieran las Leyes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 619.
 
-Los Secretarios Generales de la Junta tienen las facultades y obligaciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Coordinar la integración y manejo de los archivos de la Junta que les competan;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Dar fe de las actuaciones de la Junta en el ámbito de su competencia; y
-
-III. Las demás que les confiera esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 620.
 
-Para el funcionamiento del Pleno y de las Juntas Especiales se observarán las normas siguientes:
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
 
-I. En el Pleno se requiere la presencia del Presidente de la Junta y de la mayoría de los representantes de los trabajadores y de los patrones, respectivamente. En caso de empate, el Presidente tendrá voto de calidad;
-
-II. En las Juntas Especiales se observarán las normas siguientes:
-
-a) Durante la tramitación de los conflictos individuales y de los colectivos de naturaleza jurídica, bastará la presencia de su Presidente o del Auxiliar, quien llevará adelante la audiencia, hasta su terminación.
-
-Si están presentes uno o varios de los representantes, las resoluciones se tomarán por mayoría de votos.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-Si no está presente ninguno de los representantes, el Presidente o el Auxiliar dictará las resoluciones que procedan, salvo que se trate de las que versen sobre personalidad, competencia, aceptación de pruebas, desistimiento de la acción a que se refiere el artículo 773 y sustitución de patrón. El mismo Presidente acordará que se cite a los representantes a una audiencia para la resolución de dichas cuestiones y, si ninguno concurre, dictará la resolución que proceda.
-
-b) La audiencia de discusión y votación del laudo se regirá por lo dispuesto en la fracción siguiente.
-
-c) Cuando se trate de conflictos colectivos de naturaleza económica, además del Presidente se requiere la presencia de uno de los representantes, por lo menos.
-
-d) En los casos de empate, el voto del o de los representantes ausentes se sumará al del Presidente o al del Auxiliar;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o del Presidente especial y de cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos de cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social para que designe a las personas que los sustituyan. En caso de empate, el Presidente tendrá voto de calidad.
-
-### CAPITULO I. Principios Procesales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 621.
 
-Las Juntas Locales de Conciliación y Arbitraje funcionarán en cada una de las Entidades Federativas. Les corresponde el conocimiento y resolución de los conflictos de trabajo que no sean de la competencia de la Junta Federal de Conciliación y Arbitraje.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 622.
 
-El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje fijando el lugar de su residencia y su competencia territorial.
-
-> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 623.
 
-El Pleno se integrará con el Presidente de la Junta y con los representantes de los trabajadores y de los patrones.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe de Gobierno del Distrito Federal, respectivamente.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 624.
 
-Las percepciones de los Presidentes de las Juntas de Conciliación y Arbitraje de los Estados y del Distrito Federal se fijarán anualmente, con sujeción a las disposiciones legales aplicables.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 TITULO DOCE
 
 Personal Jurídico de las Juntas de Conciliación y Arbitraje
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
 ###### Artículo 625.
 
-El personal de las Juntas de Conciliación y Arbitraje se compondrá de actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios auxiliares, secretarios generales y Presidentes de Junta Especial.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-La Secretaría del Trabajo y Previsión Social, los Gobernadores de las Entidades Federativas y el Jefe de Gobierno del Distrito Federal, determinarán el número de personas de que deba componerse cada Junta.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 626.
 
-Los Actuarios deberán satisfacer los requisitos siguientes:
-
-I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Haberse distinguido en estudios de derecho del trabajo;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. No ser ministro de culto; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 627.
 
-Los Secretarios deberán satisfacer los requisitos siguientes:
-
-I. Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Haberse distinguido en estudios de derecho del trabajo;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. No ser ministro de culto; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 627-A.
 
-El servicio público de conciliación se prestará a través de servidores públicos especializados en la función conciliatoria, denominados funcionarios conciliadores; los integrantes de las Juntas o por su personal jurídico.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 627-B.
 
-Los funcionarios conciliadores deberán satisfacer los requisitos siguientes:
-
-I. Ser mexicanos, mayores de treinta años de edad, y estar en pleno ejercicio de sus derechos;
-
-II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
-
-III. Tener dos años de ejercicio profesional en materia laboral, posteriores a la obtención del título de licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y haberse capacitado en materia de conciliación;
-
-IV. No ser ministro de culto; y
-
-V. No haber sido condenados por delito intencional sancionado con pena privativa de la libertad.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 627-C.
 
-Durante todo el procedimiento y hasta antes de dictarse los laudos, las Juntas tendrán la obligación de promover que las partes resuelvan los conflictos mediante la conciliación. Los convenios a que lleguen, en su caso, una vez ratificados y aprobados por aquéllas, producirán los efectos jurídicos inherentes a los laudos ejecutoriados.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 628.
 
-Los Auxiliares deberán satisfacer los requisitos siguientes:
-
-I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Tener título legalmente expedido de abogado o licenciado en derecho y haber obtenido de la autoridad competente la patente de ejercicio;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Tener tres años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, y haberse distinguido en estudios de derecho del trabajo;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. No ser ministro de culto; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Gozar de buena reputación y no haber sido condenados por delito intencional sancionado con pena corporal.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 629.
 
-Los secretarios generales deberán satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo anterior, tener cinco años de ejercicio profesional en materia laboral, posteriores a la obtención del título de abogado o licenciado en derecho, haberse distinguido en estudios de derecho del trabajo y experiencia mínima de un año como servidor público en el ámbito del sector laboral.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 630.
 
-Los Presidentes de las Juntas Especiales y los secretarios auxiliares, deberán satisfacer los requisitos señalados en el artículo anterior.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 631.
 
-Las percepciones de los Presidentes de las Juntas Especiales de la Federal de Conciliación y Arbitraje se fijarán anualmente, con sujeción a las disposiciones presupuestales aplicables.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 632.
 
-El personal jurídico de las Juntas no podrá actuar como apoderado, asesor o abogado patrono en asuntos de trabajo.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 633.
 
-Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador de Estado o por el Jefe de Gobierno del Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 634.
 
-Los nombramientos de los Secretarios Generales y Secretarios Auxiliares serán considerados de libre designación, en atención a las funciones y necesidades propias del puesto.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 635.
 
-Los Presidentes de las Juntas Especiales serán substituidos en sus faltas temporales y en las definitivas, entre tanto se hace nuevo nombramiento, por el Auxiliar que esté conociendo del negocio.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 636.
 
-El incumplimiento de las obligaciones del personal jurídico de las Juntas, que no constituya una causa de destitución, se sancionará con amonestación o suspensión del cargo hasta por tres meses.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 637.
 
-En la imposición de las sanciones a que se refiere el artículo anterior se observarán las normas siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. El Presidente de la Junta practicará una investigación con audiencia del interesado e impondrá la sanción que corresponda a los actuarios, secretarios, auxiliares y funcionarios conciliadores; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Cuando se trate de los secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al gobernador del estado o al Jefe de Gobierno del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 638.
 
-Para imponer las sanciones se tomarán en consideración las circunstancias del caso y los antecedentes del funcionario.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 639.
 
-La imposición de una sanción produce el efecto de inhibir al funcionario en el conocimiento del negocio en que se hubiese cometido la falta.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 640.
 
-Son faltas especiales de los Actuarios:
-
-I. No hacer las notificaciones de conformidad con las disposiciones de esta Ley;
-
-II. No notificar oportunamente a las partes, salvo causa justificada;
-
-III. No practicar oportunamente las diligencias, salvo causa justificada;
-
-IV. Hacer constar hechos falsos en las actas que levanten en ejercicio de sus funciones;
-
-V. No devolver los expedientes inmediatamente después de practicar las diligencias; y
-
-VI. Las demás que establezcan las leyes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 641.
 
-Son faltas especiales de los Secretarios:
-
-I. Retardar la tramitación de un negocio sin causa justificada;
-
-II. No dar cuenta oportunamente a la Junta de las promociones;
-
-III. No dar cuenta inmediata al Presidente de los depósitos hechos por las partes;
-
-IV. No autorizar las diligencias en que intervenga o no hacer las certificaciones que les corresponda;
-
-V. Dar fe de hechos falsos;
-
-VI. Entregar algún expediente a los representantes de los trabajadores o de los patrones, sin exigir el recibo correspondiente;
-
-VII. No requerir oportunamente a los representantes para que firmen las resoluciones;
-
-VIII. No informar oportunamente al Presidente de los hechos a que se refiere la fracción anterior;
-
-IX. No levantar las actas de las diligencias en que intervengan o asentar en ellas hechos falsos;
-
-X. No engrosar los laudos dentro del término señalado en esta Ley;
-
-XI. Engrosar los laudos en términos distintos a los consignados en la votación; y
-
-XII. Las demás que establezcan las leyes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7076,161 +7734,53 @@ VII. Las demás que establezcan las Leyes.
 
 ###### Artículo 642.
 
-Son faltas especiales de los Auxiliares:
-
-I. Conocer de un negocio para el que se encuentren impedidos de conformidad con las disposiciones de esta Ley;
-
-II. Retardar la tramitación de un negocio;
-
-III. Votar una resolución notoriamente ilegal o injusta;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. Dejar de engrosar los laudos dentro del término señalado en esta Ley;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Engrosar los laudos en términos distintos de los consignados en la votación;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VI. Dejar de dictar los acuerdos respectivos dentro de los términos señalados en esta Ley;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VII. Abstenerse de informar oportunamente al Presidente de la Junta Especial acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Las demás que establezcan las Leyes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 643.
 
-Son faltas especiales de los Presidentes de las Juntas Especiales:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Los casos señalados en las fracciones I, II, III y VI del artículo anterior,
-
-II. No proveer oportunamente a la ejecución de los laudos;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. No informar oportunamente al Presidente de la Junta acerca de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones ante la Junta Especial que presidan;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. No denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir a uno o varios de sus trabajadores;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Abstenerse de cumplir con los procesos, métodos y mecanismos de evaluación del desempeño, así como de las obligaciones previstas en los Reglamentos que expida el Pleno de la Junta; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VI. Las demás que establezcan las Leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 644.
 
-Son causas generales de destitución de los actuarios, secretarios, funcionarios conciliadores, auxiliares, secretarios generales, secretarios auxiliares y Presidentes de las Juntas Especiales:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Violar la prohibición del artículo 632 de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Dejar de asistir por más de tres días consecutivos a sus labores sin causa justificada; ausentarse con frecuencia durante las horas de trabajo, e incumplir reiteradamente las obligaciones inherentes al cargo;
-
-III. Recibir directa o indirectamente cualquier dádiva de las partes; y
-
-IV. Cometer cinco faltas, por lo menos, distintas de las causas especiales de destitución, a juicio de la autoridad que hubiese hecho el nombramiento.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 645.
 
-Son causas especiales de destitución:
-
-I. De los Actuarios: hacer constar hechos falsos en las actas que levanten en ejercicio de sus funciones;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. De los funcionarios conciliadores:
-
-a) No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción sobre los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda.
-
-b) Conocer de un negocio para el que se encuentren impedidos de conformidad con las disposiciones de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. De los secretarios: dar fe de hechos falsos y alterar sustancial o dolosamente los hechos en la redacción de las actas que autoricen;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. De los auxiliares:
-
-a) Conocer de algún negocio para el que se encuentren impedidos.
-
-b) Votar una resolución o formular un dictamen notoriamente ilegal o injusto.
-
-c) Retener o retardar indebidamente la tramitación de un expediente; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. De los Secretarios Generales, Secretarios Auxiliares y Presidentes de las Juntas Especiales:
-
-a) Los casos señalados en los incisos a) y c) de la fracción anterior.
-
-b) Votar una resolución notoriamente ilegal o injusta.
-
-c) No proveer oportunamente a la ejecución de los laudos.
-
-d) Los casos señalados en el artículo 643, fracción V de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 646.
 
-La destitución del cargo del personal jurídico de las Juntas Especiales se decretará por la autoridad que hubiese hecho el nombramiento.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 647.
 
-Las sanciones a que se refiere este Título se aplicarán sin perjuicio de la responsabilidad penal.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO II. De la Capacidad, Personalidad y Legitimación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 648.
 
-Los representantes de los trabajadores y de los patrones en las Juntas serán elegidos en convenciones, que se organizarán y funcionarán cada seis años de conformidad con las disposiciones de este Capítulo.
+Los representantes de los trabajadores y de los patrones ante la Comisión Nacional de los Salarios Mínimos serán elegidos en convenciones, que se organizarán y funcionarán cada cuatro años de conformidad con las disposiciones de este capítulo.
 
 ###### Artículo 649.
 
-Se celebrarán tantas convenciones como Juntas Especiales deban funcionar en la Junta de Conciliación y Arbitraje.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 650.
 
-El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
+El Secretario del Trabajo y Previsión Social, publicará en el Diario Oficial de la Federación y en los periódicos de mayor circulación, la convocatoria para la elección de representantes.
 
 ###### Artículo 651.
 
-La convocatoria contendrá:
-
-I. La distribución de las ramas de la industria y de las actividades que deban estar representadas en la Junta;
-
-II. La autoridad ante la que deben presentarse los padrones y credenciales;
-
-III. El lugar y la fecha de presentación de los documentos a que se refiere la fracción anterior; y
-
-IV. El lugar, local, fecha y hora de celebración de las convenciones, de conformidad con lo dispuesto en el artículo 659.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 652.
 
@@ -7290,33 +7840,33 @@ II. Nombres, nacionalidad, edad, sexo y empresa o establecimiento en que presten
 
 III. Nombres del patrón o patrones, domicilio y rama de la industria o actividad a que se dediquen.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
 ###### Artículo 656.
 
-Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 657.
 
 Los Inspectores del Trabajo comprobarán y certificarán la exactitud de los padrones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 658.
 
-Las credenciales deberán registrarse ante la Secretaría del Trabajo y Previsión Social o ante las Direcciones o Departamentos del Trabajo de las Entidades Federativas, el día quince de noviembre del año de la elección, a más tardar.
+Las credenciales deberán registrarse ante la Secretaría del Trabajo y Previsión Social o ante las Direcciones o Departamentos del Trabajo de las Entidades Federativas, conforme a lo dispuesto en el artículo 678 de esta Ley.
 
 La autoridad registradora certificará, con vista de los datos del Inspector del Trabajo, el número de votos que corresponda a cada credencial.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
 ###### Artículo 659.
 
-Las convenciones se celebrarán el día cinco de diciembre de los años pares que correspondan, en las capitales de la República, de los Estados, o en el lugar de residencia de la Junta.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 660.
 
 En el funcionamiento de las convenciones se observarán las normas siguientes:
 
-I. Por cada Junta Especial se celebrará una convención de trabajadores y otra de patrones;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Por cada rama de actividad económica que deba estar representada, se celebrará una convención de trabajadores y otra de patrones;
 
 II. Los delegados y los patrones independientes se presentarán en las convenciones, provistos de sus credenciales;
 
@@ -7324,9 +7874,9 @@ III. Las convenciones funcionarán con el número de delegados y patrones indepe
 
 IV. Los delegados y los patrones independientes, tendrán en las convenciones un número de votos igual al de los trabajadores que aparezca certificado en sus credenciales;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe de Gobierno del Distrito Federal o por la persona que éstos designen;
+V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social o por la persona que éste designe;
 
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
@@ -7334,169 +7884,109 @@ VII. Instalada la Mesa Directiva, se procederá a la revisión de las credencial
 
 VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IX. Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorios o al Jefe de Gobierno del Distrito Federal, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
+IX. Concluida la elección, se levantará un acta; un ejemplar se remitirá a la Secretaría del Trabajo y Previsión Social, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 661.
 
-Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o en el Jefe de Gobierno del Distrito Federal.
+Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 662.
 
-Los representantes electos, provistos de sus credenciales, se presentarán desde luego a la Secretaría del Trabajo y Previsión Social, o a la Dirección o Departamento del Trabajo de la Entidad Federativa, para la revisión de las mismas y para su identificación personal.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+Los representantes electos, provistos de sus credenciales, se presentarán desde luego a la Secretaría del Trabajo y Previsión Social.
 
 ###### Artículo 663.
 
-El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, El Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituida la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 664.
 
-En la designación de los representantes de los trabajadores y de los patrones en las Juntas Especiales establecidas fuera de la capital de la República, se observarán las disposiciones de este Capítulo, con las modalidades siguientes:
-
-I. La convocatoria indicará la competencia territorial de la Junta;
-
-II. Las convenciones se celebrarán en el lugar de residencia de la Junta; y
-
-III. Tendrán derecho a concurrir a la elección de representantes, los trabajadores sindicalizados o los libres y los patrones que deban estar representados en la Junta.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 665.
 
-Los representantes de los trabajadores y de los patrones deberán satisfacer los requisitos siguientes:
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus derechos;
-
-II. Haber terminado la educación obligatoria;
-
-III. No pertenecer al estado eclesiástico; y
-
-IV. No haber sido condenados por delito intencional sancionado con pena corporal.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 666.
 
-Los representantes percibirán las retribuciones que les asignen los presupuestos federal o locales.
+Los representantes percibirán las retribuciones que les asigne el presupuesto federal.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 667.
 
-Los representantes de los trabajadores y de los patrones durarán en su encargo seis años.
+Los representantes de los trabajadores y de los patrones durarán en su encargo cuatro años.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 668.
 
-El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
+La Secretaría del Trabajo y Previsión Social, conocerá de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
 
 ###### Artículo 669.
 
 El cargo de representante es revocable de conformidad con las normas siguientes:
 
-I. Podrán solicitar la revocación las dos terceras partes de los trabajadores de las ramas de la industria o actividades representadas en la Junta Especial o los patrones que tengan a su servicio dicha mayoría de trabajadores;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+I. Podrán solicitar la revocación las dos terceras partes de los trabajadores de las ramas de la industria o actividades representadas en las Comisiones o los patrones que tengan a su servicio dicha mayoría de trabajadores;
 
-II. La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. La solicitud se presentará al Secretario del Trabajo y Previsión Social;
 
 III. La autoridad que reciba la solicitud, después de verificar el requisito de la mayoría, hará la declaratoria correspondiente y llamará al suplente, a fin de que rinda la protesta legal; y
 
 IV. A falta de suplente o cuando la revocación del nombramiento le afecte, al hacerse la solicitud de revocación, deberán señalarse los nombres de los substitutos.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 670.
 
-Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
+Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos, el Secretario del Trabajo y Previsión Social, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
 
 ###### Artículo 671.
 
-Son causas de responsabilidad de los representantes de los trabajadores y de los patrones:
-
-I. Conocer de un negocio para el que se encuentren impedidos, de conformidad con esta Ley;
-
-II. Litigar en alguna otra Junta Especial salvo en causa propia, de sus padres, de su cónyuge o de sus hijos;
-
-III. Faltar sin causa justificada a la celebración de las audiencias;
-
-IV. Negarse a emitir su voto en alguna resolución;
-
-V. Negarse a firmar alguna resolución;
-
-VI. Sustraer de la oficina un expediente, sin otorgar recibo al Secretario;
-
-VII. Sustraer de algún expediente cualquier constancia o modificar el contenido de las actas después de firmadas por las partes, testarlas, o destruir en todo o en parte las fojas de un expediente;
-
-VIII. Retener indebidamente un expediente o negarse a devolverlo al ser requeridos por el Secretario;
-
-IX. Votar una resolución notoriamente ilegal o injusta;
-
-X. Recibir directa o indirectamente cualquier dádiva de las partes en conflicto; y
-
-XI. Litigar un representante suplente en la Junta en la que esté en funciones el propietario o litigar éste estando en funciones el suplente.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 672.
 
-Las sanciones aplicables a los representantes de los trabajadores y de los patrones son:
-
-I. Amonestación;
-
-II. Suspensión hasta por tres meses; y
-
-III. Destitución.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 673.
 
-Son causas de destitución:
-
-I. Las señaladas en el artículo 671, fracciones I, II, VI, VII, IX, X y XI;
-
-II. La no concurrencia a cinco Plenos en un año, sin causa justificada; y
-
-III. La negativa a votar tres resoluciones o la comisión de cinco faltas distintas de las causas de destitución, dentro de un término de un año, sin causa justificada.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 674.
 
-Las sanciones a los representantes de los trabajadores y de los patrones se impondrán por el Jurado de Responsabilidades de los Representantes, que se integrará:
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-I. Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o del Jefe de Gobierno del Distrito Federal, y
-
-II. Con un representante propietario de los trabajadores y otro de los patrones, y sus respectivos suplentes, elegidos cada seis años en las convenciones a que se refiere este capítulo.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 675.
 
-En los procedimientos ante el Jurado se observarán las normas siguientes:
-
-I. El Presidente de la Junta y los Presidentes de las Juntas Especiales deberán denunciar ante el Jurado las faltas de que tengan conocimiento;
-
-II. Las personas que tengan interés en el negocio podrán asimismo denunciar las faltas de que tengan conocimiento;
-
-III. Se pondrán los hechos denunciados en conocimiento del acusado y se le oirá en defensa por sí, por persona de su confianza, o por ambos;
-
-IV. El Jurado tendrá las más amplias facultades para investigar los hechos, debiendo citar al acusado para la práctica de las diligencias;
-
-V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
-
-VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO III. De las Competencias
+### CAPITULO I. Del Procedimiento de Conciliación Prejudicial
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 676.
 
 Son aplicables a la elección de representantes de los trabajadores y de los patrones en la Comisión Nacional de los Salarios Mínimos, las disposiciones contenidas en el Capítulo anterior, con las modalidades de los Artículos siguientes.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 677.
 
-El día quince de mayo del año impar que corresponda, el Secretario del Trabajo y Previsión Social convocará a los trabajadores y patrones para la elección de sus representantes. La convocatoria se publicará en el Diario Oficial de la Federación y en los periódicos de mayor circulación que se juzgue conveniente.
+El día quince de mayo del año impar que corresponda, el Secretario del Trabajo y Previsión Social convocará a los trabajadores y patrones para la elección de sus representantes.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -7520,11 +8010,11 @@ V. El local y la hora en que deban celebrarse las convenciones.
 
 Las Convenciones se celebrarán el día 25 del mes de junio del año impar que corresponda, en la Capital de la República.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 680.
 
-Para la elección de representantes en la Comisión Nacional se celebrarán una Convención de trabajadores y otra de patrones por cada uno de los grupos en que se hubiesen distribuido las ramas de la actividad económica.
+Para la elección de representantes en la Comisión Nacional se celebrarán una Convención de trabajadores y otra de patrones por cada uno de los grupos en que se hubiesen distribuido las ramas de la industria y las actividades económicas.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -7552,9 +8042,9 @@ IV. El término para la designación de representantes, los requisitos que deber
 
 V. El lugar y fecha en el que se iniciarán formalmente los trabajos de la Comisión Consultiva.
 
-### CAPITULO IV. De los Impedimentos y Excusas
+### CAPITULO II. De los Conciliadores
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 683.
 
@@ -7570,35 +8060,369 @@ II. El lugar y la fecha de presentación de los padrones y credenciales; y
 
 III. El lugar, fecha y hora en que deban celebrarse las convenciones.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+TITULO TRECE BIS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO III. Del Procedimiento para la Selección de Conciliadores
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-A.
+
+Las disposiciones de este Título rigen la tramitación de la instancia conciliatoria previa a la de los conflictos ante los Tribunales, salvo que tengan una tramitación especial en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-B.
+
+Antes de acudir a los Tribunales, los trabajadores y patrones deberán asistir al Centro de Conciliación correspondiente para solicitar el inicio del procedimiento de conciliación, con excepción de aquellos supuestos que están eximidos de agotarla, conforme a lo previsto en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-C.
+
+La solicitud de conciliación deberá contener los siguientes datos:
+
+I. Nombre, CURP, identificación oficial del solicitante y domicilio dentro del lugar de residencia del Centro de Conciliación al que acuda, para recibir notificaciones en el procedimiento de conciliación prejudicial; el Centro facilitará los elementos y el personal capacitado a fin de asignarle un buzón electrónico al solicitante. En caso de que el solicitante no cuente con identificación oficial, podrá ser identificado por otros medios de que disponga el Centro;
+
+II. Nombre de la persona, sindicato o empresa a quien se citará para la conciliación prejudicial;
+
+III. Domicilio para notificar a la persona, sindicato o empresa a quien se citará, y
+
+IV. Objeto de la cita a la contraparte.
+
+Si el solicitante es el trabajador e ignora el nombre de su patrón o empresa de la cual se solicita la conciliación, bastará con señalar el domicilio donde prestó sus servicios.
+
+Los elementos aportados por las partes no podrán constituir prueba o indicio en ningún procedimiento administrativo o judicial. La información aportada por las partes en el procedimiento de conciliación, no podrá comunicarse a persona o autoridad alguna, a excepción de la constancia de no conciliación y, en su caso, el convenio de conciliación que se celebre, en cuyo supuesto el Centro de Conciliación deberá remitir en forma electrónica al Tribunal que corresponda los documentos referidos, mismos que deberán contener los nombres y domicilios aportados por las partes, acompañando las constancias relativas a la notificación de la parte citada que haya realizado la Autoridad Conciliadora y los buzones electrónicos asignados.
+
+El tratamiento de los datos proporcionados por los interesados estará sujeto a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y a la Ley General de Transparencia y Acceso a la Información Pública.
+
+El solicitante será notificado de la fecha y hora para la celebración de la audiencia de conciliación o del acuerdo de incompetencia, al momento de presentar su solicitud. Para agilizar el procedimiento de conciliación, el solicitante podrá auxiliar al Centro de Conciliación para llevar a cabo la notificación de la audiencia de conciliación a la persona, sindicato o empresa que se citará.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-D.
+
+El procedimiento de conciliación a que se refiere el presente título no deberá exceder de cuarenta y cinco días naturales. La Autoridad Conciliadora tomará las medidas conducentes para que sus actuaciones se ajusten a dicho plazo.
+
+A efecto de que el personal encargado de realizar las notificaciones, actúe con eficiencia, eficacia e imparcialidad en el desempeño de sus funciones, la Autoridad Conciliadora definirá rutas de notificación con base en la ubicación y proximidad geográfica de los domicilios a los que deberán acudir, así como acorde con la urgencia de las notificaciones a efectuar; la asignación de las rutas se hará diariamente y de forma aleatoria.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-E.
+
+El procedimiento de conciliación se tramitará conforme a las reglas siguientes:
+
+I. Se iniciará con la presentación de la solicitud de conciliación ante el Centro Federal de Conciliación y Registro Laboral o al Centro de Conciliación local que corresponda, firmada por el solicitante, a la que se le agregará copia de la identificación oficial a que hace referencia en la fracción I del artículo 684-C; tratándose de empresas o sindicatos será suscrito por su representante legal;
+
+II. Los Centros de Conciliación podrán recibir las solicitudes de conciliación por comparecencia personal de los interesados, por escrito debidamente firmado, o en su caso, por vía electrónica mediante el sistema informático que para tal efecto se implemente;
+
+III. Los Centros de Conciliación auxiliarán a los interesados que así lo soliciten para elaborar su petición. Deberán proporcionar asesoría jurídica de manera gratuita sobre sus derechos y los plazos de prescripción de los mismos, así como respecto de los procedimientos de conciliación y jurisdiccionales para solucionar los conflictos laborales;
+
+IV. Al momento en que reciba la solicitud, la autoridad conciliatoria señalará día y hora para la celebración de una Audiencia de Conciliación que deberá efectuarse dentro de los quince días siguientes. El citatorio se notificará personalmente al patrón cuando menos con cinco días de anticipación a la audiencia, apercibiéndole que de no comparecer por sí o por conducto de su representante legal, o bien por medio de apoderado con facultades suficientes, se le impondrá una multa entre 50 y 100 veces la Unidad de Medida y Actualización, y se le tendrá por inconforme con todo arreglo conciliatorio;
+
+V. Al recibir la solicitud de conciliación, la autoridad conciliadora le asignará un número de identificación único y un buzón electrónico al interesado, que será creado para comunicaciones en lo que hace al procedimiento de conciliación prejudicial. Finalmente, designará por turno una sala de conciliación.
+
+En caso de no ser competente, la Autoridad Conciliadora deberá remitir la solicitud al Centro de Conciliación competente vía electrónica, dentro de las veinticuatro horas siguientes de recibida la solicitud, lo cual deberá notificar al solicitante para que acuda ante ella a continuar el procedimiento. La Autoridad Conciliadora se pronunciará respecto de la personalidad cuando se trate de solicitudes de personas morales;
+
+VI. Si la solicitud de conciliación se presenta personalmente por ambas partes, la autoridad conciliadora les notificará de inmediato, fecha y hora de la audiencia de conciliación, misma que deberá celebrarse dentro de plazo máximo de cinco días a partir de la fecha de presentación de la solicitud, sin menoscabo de que ésta pueda celebrarse en ese momento;
+
+VII. El trabajador solicitante de la instancia conciliatoria deberá acudir personalmente a la audiencia. Podrá asistir acompañado por una persona de su confianza, pero no se reconocerá a ésta como apoderado, por tratarse de un procedimiento de conciliación y no de un juicio; no obstante, el trabajador también podrá ser asistido por un licenciado en derecho, abogado o un Procurador de la Defensa del Trabajo. El patrón deberá asistir personalmente o por conducto de representante con facultades suficientes para obligarse en su nombre;
+
+VIII. Si las partes acuden a la audiencia, la Autoridad Conciliadora deberá requerirles para que se identifiquen con cualquier documento oficial y, en su caso, verificar que la persona que comparezca en representación de la persona moral acredite su personalidad.
+
+También se le asignará a la parte citada, un buzón electrónico para recibir notificaciones en el procedimiento de conciliación prejudicial; hecho lo anterior formulará una propuesta de contenido y alcances de un arreglo conciliatorio, planteando opciones de solución justas y equitativas que a su juicio sean adecuadas para dar por terminada la controversia; de estar de acuerdo las partes, celebrarán convenio por escrito, que deberá ratificarse en ese acto, entregándose copia autorizada de éste.
+
+De no llegar a un acuerdo, la Autoridad Conciliadora emitirá la constancia de haber agotado la etapa de conciliación prejudicial obligatoria. No obstante, las partes de común acuerdo, podrán solicitar se fije nueva audiencia de conciliación, que deberá celebrarse dentro de los cinco días siguientes;
+
+IX. Cuando alguna de las partes o ambas no comparezcan a la audiencia de conciliación por causa justificada, no obstante estar debidamente notificados, se señalará nueva fecha y hora para la celebración de la audiencia, misma que deberá realizarse dentro de los cinco días siguientes. La parte que acuda será notificada en ese acto, la contraparte que no acuda lo será por el boletín del Centro y, en su caso, por buzón electrónico;
+
+X. Si a la audiencia de conciliación sólo comparece el solicitante, la autoridad conciliadora emitirá la constancia de haber agotado la etapa de conciliación prejudicial obligatoria. Si sólo comparece el citado, se archivará el expediente por falta de interés del solicitante. En ambos casos se reanudarán los plazos de prescripción a partir del día siguiente a la fecha de la audiencia, dejando a salvo los derechos del trabajador para solicitar nuevamente la conciliación;
+
+XI. En el caso de que el notificador no haya logrado notificar a la persona, empresa o sindicato a citar, no obstante haberlo intentado, la Autoridad Conciliadora dará por terminada la instancia y emitirá constancia dejando a salvo los derechos del solicitante de la conciliación para promover juicio ante el Tribunal competente;
+
+XII. Cuando en la solicitud de conciliación se manifieste la existencia de acoso sexual, discriminación u otros actos de violencia contemplados por la ley, en los que exista el riesgo inminente de revictimización, la autoridad conciliadora tomará las medidas conducentes para que en ningún momento se reúna o encare a la persona citada a la que se le atribuyen tales actos. En estos casos el procedimiento de conciliación se llevará con el representante o apoderado del citado, evitando que la presunta víctima y la persona o personas a quienes se atribuyen los actos de violencia se reúnan o encuentren en un mismo espacio;
+
+XIII. Una vez que se celebre el convenio ante los Centros de Conciliación, adquirirá la condición de cosa juzgada, teniendo la calidad de un título para iniciar acciones ejecutivas sin necesidad de ratificación. Cualquiera de las partes podrá promover su cumplimiento mediante el procedimiento de ejecución de sentencia que establece esta Ley, ante el Tribunal competente, y
+
+XIV. Al celebrar convenio, las Autoridades Conciliadoras entregarán copia certificada del mismo para cada una de las partes, asimismo también se les entregará copia certificada de las actas donde conste el cumplimiento del convenio.
+
+Sin perjuicio de lo anterior, cuando así lo requiera el solicitante, el Centro de Conciliación podrá fijar la Audiencia de Conciliación dentro de los cinco días hábiles siguientes a la presentación de la solicitud, para lo cual le proporcionará el citatorio a la audiencia con el fin de que el solicitante se haga cargo de entregarlo directamente a la persona o personas citadas. En este caso, de presentarse ambas partes a la audiencia de conciliación, se procederá a su celebración. Si el solicitante no se presenta a la audiencia, se archivará el asunto por falta de interés, sin emisión de la constancia de haber agotado la conciliación, salvo que justifique su inasistencia, a juicio del conciliador. Si se presenta solamente el solicitante de la conciliación, se señalará nueva fecha y hora para la audiencia de conciliación dentro de los siguientes quince días, ajustándose a las reglas del procedimiento previstas en las fracciones IV y de la VI a la XIV del presente artículo; en dicha audiencia de conciliación, el Centro de Conciliación procederá a geolocalizar el domicilio de la parte citada con auxilio del solicitante; en caso de no poderlo geolocalizar, el Centro de Conciliación fijará una cita para que, acompañado del interesado, se proceda a realizar la citación correspondiente.
+
+La Autoridad Conciliadora es responsable de que el convenio que se celebre cumpla con los requisitos y prestaciones que esta Ley establece, aplicables al caso concreto. Si las partes dan cumplimiento voluntario al convenio celebrado, certificará dicha circunstancia, dando fe de que el trabajador recibe completo y personalmente el pago pactado en el convenio.
+
+En caso de que las partes establezcan pagos diferidos, en una o más parcialidades a cubrir en fecha diversa a la celebración del convenio, deberá fijarse una pena convencional para el caso de incumplimiento, ésta consistirá en una cantidad no menor al salario diario del trabajador por cada día que transcurra sin que se dé cumplimiento cabal al convenio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO I. Principios Procesales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-F.
+
+El conciliador tendrá las siguientes atribuciones y obligaciones:
+
+I. Emitir el citatorio a la audiencia de conciliación, de conformidad con lo dispuesto en esta Ley;
+
+II. Aprobar o desestimar, según sea el caso, las causas de justificación para la inasistencia a la audiencia de conciliación, con base en los elementos que se le aporten;
+
+III. Comunicar a las partes el objeto, alcance y límites de la conciliación;
+
+IV. Exhortar a las partes para que presenten fórmulas de arreglo;
+
+V. Evaluar las solicitudes de los interesados con el fin de determinar la forma más adecuada para formular propuestas de arreglo, sin que ello implique la imposición de acuerdos;
+
+VI. Redactar, revisar y sancionar los acuerdos o convenios a que lleguen las partes;
+
+VII. Elaborar el acta en la que se certificará la celebración de audiencias de conciliación y dar fe, en su caso, de la entrega al trabajador de las cantidades o prestaciones convenidas;
+
+VIII. Expedir las actas de las audiencias de conciliación a su cargo, autorizar los convenios a que lleguen las partes, y las constancias de no conciliación en aquellos casos que ésta no fuere posible. Expedir las copias certificadas de los convenios y las actas de su cumplimiento;
+
+IX. Cuidar y verificar que en los acuerdos a que lleguen las partes no se vulneren los derechos de los trabajadores. Lo anterior sin perjuicio de que busque la potencialización con perspectiva de derechos sociales;
+
+X. Vigilar que los procesos de conciliación en que intervenga, no se afecten derechos de terceros y disposiciones de orden público, y
+
+XI. Las demás que establezca la presente Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-G.
+
+Para desempeñar el cargo de conciliador se deben cubrir los siguientes requisitos:
+
+I. Gozar del pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener preferentemente experiencia de por lo menos tres años en áreas del derecho del trabajo o especialización en las actividades que se vinculen con las atribuciones del Centro de Conciliación que corresponda;
+
+III. Contar con título profesional a nivel licenciatura en una carrera afín a la función del Centro;
+
+IV. Tener preferentemente certificación en conciliación laboral o mediación y mecanismos alternativos de solución de controversias;
+
+V. Tener conocimiento sobre derechos humanos y perspectiva de género;
+
+VI. Aprobar el procedimiento de selección que se establezca para tal efecto, y
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-H.
+
+Los conciliadores en el desempeño de sus atribuciones tendrán las siguientes obligaciones especiales:
+
+I. Salvaguardar los derechos irrenunciables del trabajador;
+
+II. Observar los principios de conciliación, imparcialidad, neutralidad, flexibilidad, legalidad, equidad, buena fe, información, honestidad, y confidencialidad;
+
+III. Tratar con la debida equidad y respeto a los interesados, procurando que todas las conciliaciones que se realicen concluyan en arreglos satisfactorios para los mismos respetando los derechos de las partes;
+
+IV. Cumplir con programas de capacitación y actualización para la renovación de la certificación;
+
+V. Abstenerse de fungir como testigos, representantes jurídicos o abogados de los asuntos relativos a los mecanismos alternativos en los que participen posteriormente en juicio;
+
+VI. Ser proactivo para lograr la conciliación entre las partes, y
+
+VII. Procurar el equilibrio entre los factores de la producción y la justicia social, así como el trabajo digno y decente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-I.
+
+El conciliador tendrá fe pública para certificar:
+
+I. Los instrumentos con los que las partes acrediten la personalidad e identidad con que comparecen a la audiencia, para efecto de conservar una copia en el expediente respectivo;
+
+II. Todo lo que asiente en las actuaciones del procedimiento de conciliación y, en su caso, los convenios a los que lleguen las partes, y
+
+III. Las copias de los convenios que ante su presencia se celebren.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-J.
+
+Los conciliadores y el personal de las Autoridades Conciliadoras no podrán ser llamados a comparecer como testigos en los procedimientos ante los Tribunales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO II. De la Capacidad, Personalidad y Legitimación
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+###### Artículo 684-K.
+
+El presente capítulo establece las disposiciones relativas al procedimiento de selección para la designación de los conciliadores de los Centros de Conciliación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-L.
+
+El procedimiento y los criterios de selección de los conciliadores tienen como fin, garantizar la autonomía de su actuación y el cumplimiento de los principios que rigen la conciliación laboral, así como acreditar su idoneidad a partir de la valoración de las competencias requeridas para el desempeño de sus funciones, con base en la aplicación de instrumentos técnicos, confiables y pertinentes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-M.
+
+El procedimiento de selección de los conciliadores deberá garantizar que los aspirantes cuenten con las destrezas, habilidades y competencias siguientes:
+
+a) Conocimientos generales de derecho y específicos en materia laboral;
+
+b) Análisis y resolución de controversias;
+
+c) Gestión del conflicto, y
+
+d) Aptitudes en la función conciliatoria.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-N.
+
+El procedimiento de selección se llevará a cabo a través de concurso, cuya convocatoria (sic) deberán ser públicas y abiertas.
+
+Las convocatorias deberán publicarse en el Diario Oficial de la Federación o en los órganos oficiales de difusión de las entidades federativas y en el portal de Internet del Centro de Conciliación, en el que deberá estar publicado de manera permanente mientras se desarrolle el concurso.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-O.
+
+El Órgano de Gobierno del Centro de Conciliación, a propuesta del titular de ésta, aprobará la emisión de la convocatoria, que deberá contener:
+
+I. El número de publicación;
+
+II. El número de plazas sujetas a concurso;
+
+III. El lugar y las fechas que comprenderán las etapas del procedimiento;
+
+IV. Los documentos que deberán acompañarse a la solicitud de inscripción al procedimiento, que serán:
+
+a) Formato de inscripción, que se pondrá a disposición en las instalaciones del Centro de Conciliación y en su portal de Internet;
+
+b) Currículum vitae actualizado del aspirante, acompañado con los documentos que soporten la información;
+
+c) Copia certificada del acta de nacimiento;
+
+d) Copia del Título y de la cédula profesional;
+
+e) Escrito en el que, bajo protesta de decir verdad, manifieste encontrarse en pleno goce de sus derechos, y
+
+f) Comprobante de domicilio.
+
+V. El material de apoyo que podrán consultar los participantes en las distintas fases, y
+
+VI. El formato de Conocimiento y Aceptación de las Bases y Lineamientos del Concurso de Selección, en el que el solicitante manifieste que es sabedor de los requisitos de la inscripción, las reglas del procedimiento y su conformidad con ellos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-P.
+
+Para participar en el procedimiento de selección de conciliadores, deberán cumplirse con los requisitos que establece esta Ley. Las Autoridades Conciliadoras elaborarán la lista de los participantes, a los que les asignará un folio de referencia, que será el único medio para identificar a los aspirantes en la etapa de evaluación del procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-Q.
+
+Los participantes tendrán derecho a:
+
+I. Concursar en igualdad de condiciones;
+
+II. Contar con el lugar, equipo y tiempo necesarios para la presentación de los exámenes, y
+
+III. Conocer los resultados del concurso en las publicaciones que realice el Centro de Conciliación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-R.
+
+El Centro de Conciliación garantizará el cumplimiento de los principios de legalidad, imparcialidad, calidad, objetividad, certeza, equidad, competencia por mérito, publicidad y transparencia, en los procedimientos de selección de conciliadores, para lo cual deberá establecer en la convocatoria lo siguiente:
+
+I. Las obligaciones específicas de los participantes durante el concurso y las causales de descalificación o eliminación del mismo;
+
+II. Las reglas del concurso, que deberán incluir el trámite de inscripción o registro, la forma y criterios de evaluación, la ponderación de cada área de competencia a evaluar y su impacto en la calificación final, las calificaciones mínimas aprobatorias y la publicación de resultados. Las reglas deberán contemplar que el desarrollo del examen será público;
+
+III. La integración del comité de evaluación y selección que llevará a cabo el concurso, y
+
+IV. Los lineamientos del proceso de selección de conciliadores, los que contendrán los criterios técnicos de evaluación, la integración de cada instrumento, sus escalas de desempeño y las formalidades para su aplicación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-S.
+
+El Órgano de Gobierno del Centro de Conciliación contará con las siguientes atribuciones en lo que se refiere al procedimiento de selección de conciliadores:
+
+I. Aprobar la emisión de las convocatorias para el procedimiento de selección de conciliadores a propuesta del titular del Centro de Conciliación;
+
+II. Aprobar la propuesta para la calendarización y sedes para llevar a cabo las etapas del concurso que presente el Titular del Centro de Conciliación y autorizar algún cambio en las mismas, cuando éste sea debidamente justificado u obedezca a causas de fuerza mayor, y
+
+III. Aprobar, a propuesta de dicho Titular, los Lineamientos del proceso de selección de conciliadores públicos en materia laboral.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-T.
+
+Los resultados del concurso se publicarán en el Diario Oficial de la Federación o en los órganos oficiales de difusión de las entidades federativas, así como en la página oficial del Centro de Conciliación que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 684-U.
+
+Una vez hecha la publicación a que se refiere el artículo que antecede, el Titular del Centro de Conciliación llevará a cabo la designación de acuerdo con el número de plazas sujetas a concurso. El nombramiento de los conciliadores tendrá una vigencia de tres años y podrá ratificarse por periodos sucesivos de la misma duración. El Centro de Conciliación establecerá el procedimiento para tales efectos, que deberá atender criterios objetivos de desempeño, honestidad, profesionalismo y la actualización profesional del Conciliador. Dicha evaluación se realizará a través de instrumentos públicos, técnicos y objetivos.
+
 TITULO CATORCE
 
 Derecho Procesal del Trabajo
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO V. De la Actuación de las Juntas
+### CAPITULO III. De las Competencias
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-### CAPITULO VI. De los Términos Procesales
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-### CAPITULO VII. De las Notificaciones
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-### CAPITULO VIII. De los Exhortos y Despachos
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 685.
 
-El proceso del derecho del trabajo será público, gratuito, inmediato, predominantemente oral y conciliatorio y se iniciará a instancia de parte. Las Juntas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
+El proceso del derecho del trabajo se rige bajo los principios de inmediación, inmediatez, continuidad, celeridad, veracidad, concentración, economía y sencillez procesal. Asimismo, será público, gratuito, predominantemente oral y conciliatorio.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con esta Ley deriven de la acción intentada o procedente, conforme a los hechos expuestos por el trabajador, la Junta, en el momento de admitir la demanda, subsanará ésta. Lo anterior sin perjuicio de que cuando la demanda sea obscura o vaga se proceda en los términos previstos en el artículo 873 de esta Ley.
+Los Tribunales deben garantizar el cumplimiento de los principios y condiciones citados. El juez deberá atender al principio de realidad sobre los elementos formales que lo contradigan. Asimismo, se privilegiará la solución del conflicto sobre los formalismos procedimentales, sin afectar el debido proceso y los fines del derecho del trabajo.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con esta Ley deriven de la acción intentada o procedente, conforme a los hechos expuestos por el trabajador, el Tribunal, en el momento de admitir la demanda, subsanará ésta. Lo anterior sin perjuicio de que cuando la demanda sea obscura o vaga se proceda en los términos previstos en el artículo 873 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 685 Bis.
+
+Las partes tendrán derecho a que se garantice su debida defensa y representación; en consecuencia, podrán estar asistidos por un apoderado legal quien deberá ser Licenciado en Derecho o abogado titulado con cédula profesional. Cuando el Tribunal advierta que exista una manifiesta y sistemática incapacidad técnica del apoderado legal, prevendrá a la parte afectada para que designe otro, contando con tres días naturales para hacerlo. Los trabajadores o sus beneficiarios tendrán derecho a que les sea asignado un abogado de la Procuraduría de la Defensa del Trabajo competente o de la Defensoría Pública que asuma su representación jurídica.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 685 Ter.
+
+Quedan exceptuados de agotar la instancia conciliatoria, cuando se trate de conflictos inherentes a:
+
+I. Discriminación en el empleo y ocupación por embarazo, así como por razones de sexo, orientación sexual, raza, religión, origen étnico, condición social o acoso u hostigamiento sexual;
+
+II. Designación de beneficiarios por muerte;
+
+III. Prestaciones de seguridad social por riesgos de trabajo, maternidad, enfermedades, invalidez, vida, guarderías y prestaciones en especie y accidentes de trabajo;
+
+IV. La tutela de derechos fundamentales y libertades públicas, ambos de carácter laboral, entendidos en estos rubros los relacionados con:
+
+a) La libertad de asociación, libertad sindical y el reconocimiento efectivo de la negociación colectiva;
+
+b) Trata laboral, así como trabajo forzoso y obligatorio, y
+
+c) Trabajo infantil.
+
+Para la actualización de estas excepciones se debe acreditar la existencia de indicios que generen al tribunal la razonable sospecha, apariencia o presunción de que se están vulnerando alguno de estos derechos;
+
+V. La disputa de la titularidad de contratos colectivos o contratos ley, y
+
+VI. La impugnación de los estatutos de los sindicatos o su modificación.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7606,7 +8430,9 @@ Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda to
 
 El proceso del derecho del trabajo y los procedimientos paraprocesales, se sustanciarán y decidirán en los términos señalados en la presente Ley.
 
-Las Juntas ordenarán que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique que puedan revocar sus propias resoluciones, según lo dispone el artículo 848 de la presente Ley.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los Tribunales ordenarán que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique que puedan revocar sus propias resoluciones, según lo dispone el artículo 848 de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7614,37 +8440,45 @@ Las Juntas ordenarán que se corrija cualquier irregularidad u omisión que nota
 
 En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma determinada; pero las partes deberán precisar los puntos petitorios.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 688.
 
-Las autoridades administrativas y las judiciales están obligadas, en la esfera de sus respectivas competencias, a auxiliar a las Juntas de Conciliación y Arbitraje; si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso. Las Juntas se auxiliarán entre sí en el ejercicio de sus funciones.
+Las autoridades administrativas están obligadas, en la esfera de sus respectivas competencias, a auxiliar a los Tribunales, si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO IX. De los Incidentes
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+### CAPITULO IV. De los Impedimentos y Excusas
 
 ###### Artículo 689.
 
 Son partes en el proceso del trabajo, las personas físicas o morales que acrediten su interés jurídico en el proceso y ejerciten acciones u opongan excepciones.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 690.
 
-Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por la Junta.
+Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por el Tribunal.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia de ofrecimiento y admisión de pruebas, para manifestar lo que a su derecho convenga. La Junta, con suspensión del procedimiento y citación de las partes, dictará acuerdo señalando día y hora para la celebración de la audiencia respectiva, la que deberá celebrarse dentro de los diez días hábiles siguientes a la fecha de la comparecencia o llamamiento del tercero, notificando personalmente al mismo el acuerdo señalado con cinco días hábiles de anticipación.
+Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia preliminar en el caso del procedimiento individual ordinario y de juicio en los demás casos, para manifestar por escrito lo que a su derecho convenga. El Tribunal, sin suspensión del procedimiento dictará el acuerdo respectivo, a fin de que se corra traslado al tercero interesado con los escritos de demanda y su contestación para que dentro de los diez días siguientes a la fecha en que sea notificando (sic) personalmente, presente el escrito en el que manifieste lo que a su derecho convenga; en dicho escrito además de acreditar su personalidad deberá ofrecer las pruebas que a su interés corresponda.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los terceros interesados que comparezcan o sean llamados al procedimiento ordinario previsto en el capítulo XVII del presente Título de esta Ley, se sujetarán a lo establecido en dicho procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La parte que solicite se llame a un tercero interesado, deberá expresar el motivo y circunstancia por el cual debe llamarse a juicio y demostrar las razones por las que le atribuye tal carácter.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 691.
 
-Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna; pero, en caso de no estar asesorados en juicio, la Junta solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante cuando no lo tuvieren.
+Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna; pero, en caso de no estar asesorados en juicio, el Tribunal solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante cuando no lo tuvieren.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Lo previsto en el párrafo anterior se aplicará también tratándose de presuntos beneficiarios de algún trabajador fallecido.
 
@@ -7656,7 +8490,9 @@ Las partes podrán comparecer a juicio en forma directa o por conducto de apoder
 
 Tratándose de apoderado, la personalidad se acreditará conforme a las siguientes reglas:
 
-I. Cuando el compareciente actúe como apoderado de persona física, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante la Junta;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Cuando el compareciente actúe como apoderado de persona física, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante el Tribunal;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7668,17 +8504,17 @@ III. Cuando el compareciente actúe como apoderado de persona moral, podrá acre
 
 IV. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la autoridad registradora correspondiente, de haber quedado inscrita la directiva del sindicato. También podrán comparecer por conducto de apoderado legal, quien en todos los casos deberá ser abogado, licenciado en derecho o pasante.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 693.
 
-Las Juntas podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, federaciones y confederaciones sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que, efectivamente, se representa a la parte interesada.
+Los Tribunales podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, federaciones y confederaciones sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que efectivamente se representa a la parte interesada.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 694.
 
-Los trabajadores, los patrones y las organizaciones sindicales, podrán otorgar poder mediante simple comparecencia, previa identificación, ante las Juntas del lugar de su residencia, para que los representen ante cualquier autoridad del trabajo; la personalidad se acreditará con la copia certificada que se expida de la misma.
+Los trabajadores, los patrones y las organizaciones sindicales, podrán otorgar poder mediante simple comparecencia, previa identificación, ante los Tribunales del lugar de su residencia, para que los representen ante cualquier autoridad del trabajo; la personalidad se acreditará con la copia certificada que se expida de la misma.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7698,31 +8534,31 @@ El poder que otorgue el trabajador para ser representado en juicio, se entender�
 
 Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deben litigar unidas y con una representación común, salvo que los colitigantes tengan intereses opuestos.
 
-Si se trata de las partes actoras, el nombramiento de representante común deberá hacerse en el escrito de demanda, o en la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas; si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención. Si el nombramiento no lo hicieran los interesados dentro de los términos señalados, la Junta de Conciliación y Arbitraje lo hará escogiéndolo de entre los propios interesados.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si se trata de las partes actoras, el nombramiento de representante común deberá hacerse en el escrito de demanda, o en la audiencia preliminar; si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención. Si el nombramiento no lo hicieran los interesados dentro de los términos señalados, el Tribunal lo hará escogiéndolo de entre los propios interesados.
 
 El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO X. De la Acumulación
+### CAPITULO V. De la Actuación de los Tribunales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 698.
 
-Será competencia de las Juntas Locales de Conciliación y de Conciliación y Arbitraje de las Entidades Federativas, conocer de los conflictos que se susciten dentro de su jurisdicción, que no sean de la competencia de las Juntas Federales.
+Será competencia de los Tribunales de las Entidades Federativas, conocer de los conflictos que se susciten dentro de su jurisdicción, que no sean de competencia Federal.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+El Tribunal Federal conocerá de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, apartado A, fracción XXXI, de la Constitución Política y 527 de esta Ley.
 
-La Junta Federal de Conciliación y Arbitraje conocerá de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, apartado A, fracción XXXI, de la Constitución Política y 527 de esta Ley.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 699.
 
-Cuando en los conflictos a que se refiere el párrafo primero del artículo que antecede, se ejerciten en la misma demanda acciones relacionadas con obligaciones en materia de capacitación y adiestramiento o de seguridad e higiene, el conocimiento de estas materias será de la competencia de la Junta Especial de la Federal de Conciliación y Arbitraje, de acuerdo a su jurisdicción.
+Cuando en los conflictos a que se refiere el párrafo primero del artículo que antecede, se ejerciten en la misma demanda acciones relacionadas con obligaciones en materia de capacitación y adiestramiento o de seguridad e higiene, el conocimiento de estas materias será de la competencia del Tribunal Federal, de acuerdo a su jurisdicción.
 
-En el supuesto previsto en el párrafo anterior, la Junta Local, al admitir la demanda, ordenará se saque copia de la misma y de los documentos presentados por el actor, las que remitirá inmediatamente a la Junta Federal para la sustanciación y resolución, exclusivamente, de las cuestiones sobre capacitación y adiestramiento, y de seguridad e higiene, en los términos señalados en esta Ley.
+En el supuesto previsto en el párrafo anterior, el Tribunal, al admitir la demanda, ordenará se saque copia de la misma y de los documentos presentados por el actor, las que remitirá inmediatamente al Tribunal Federal para la sustanciación y resolución, exclusivamente, de las cuestiones sobre capacitación y adiestramiento, y de seguridad e higiene, en los términos señalados en esta Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7736,25 +8572,39 @@ I. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
 II. En los conflictos individuales, el actor puede escoger entre:
 
-a) La Junta del lugar de celebración del contrato.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-b) La Junta del domicilio del demandado.
+a) El Tribunal del lugar de celebración del contrato;
 
-c) La Junta del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será la Junta del último de ellos.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. En los conflictos colectivos de jurisdicción federal, la Junta Federal de Conciliación y Arbitraje, en los términos del artículo 606 de esta Ley; en los conflictos colectivos de jurisdicción local, la del lugar en que esté ubicada la empresa o establecimiento;
+b) El Tribunal del domicilio de cualquiera de los demandados, y
 
-IV. Cuando se trate de la cancelación del registro de un sindicato, la Junta del lugar donde se hizo;
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-V. En los conflictos entre patrones o trabajadores entre sí, la Junta del domicilio del demandado; y
+c) El Tribunal del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será el Tribunal del último de ellos.
 
-VI. Cuando el demandado sea un sindicato, la Junta del domicilio del mismo.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+III. En los conflictos colectivos de jurisdicción federal, será competente el Tribunal Federal; en los conflictos colectivos de jurisdicción local, conocerá el Tribunal Local del lugar en que esté ubicada la empresa o establecimiento;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Cuando se trate de la cancelación del registro de un sindicato, el Tribunal Federal cuya adscripción sea la más cercana a su domicilio;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. En los conflictos entre patrones o trabajadores entre sí, el Tribunal del domicilio del demandado, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Cuando el demandado sea un sindicato, el Tribunal Federal o el Tribunal Local más cercano al domicilio del mismo, según corresponda a la naturaleza de la acción intentada.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 701.
 
-Las Juntas de Conciliación y Arbitraje de oficio deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de desahogo de pruebas, cuando existan en el expediente datos que lo justifiquen. Si la Junta se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la Junta o al tribunal que estime competente; si ésta o aquél, al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 de esta Ley.
+El Tribunal de oficio, deberá declararse incompetente en cualquier estado del proceso, hasta antes de la audiencia de juicio, cuando existan en el expediente datos que lo justifiquen. Si el Tribunal se declara incompetente, con citación de las partes, remitirá de inmediato el expediente al tribunal que estime competente; si éste al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 Bis de esta Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7768,115 +8618,209 @@ No se considerará excepción de incompetencia la defensa consistente en la nega
 
 Las cuestiones de competencia, en materia de trabajo, sólo pueden promoverse por declinatoria.
 
-La declinatoria deberá oponerse al iniciarse el período de demanda y excepciones en la audiencia respectiva, acompañando los elementos en que se funde; en ese momento, la Junta después de oír a las partes y recibir las pruebas que estime convenientes, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+La declinatoria podrá oponerse hasta la audiencia preliminar, acompañando los elementos en que se funde; en ese momento, el Tribunal después de oír a las partes y recibir las pruebas que estime convenientes, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 704.
 
-Cuando una Junta Especial considere que el conflicto de que conoce, es de la competencia de otra de la misma Junta, con citación de las partes, se declarará incompetente y remitirá los autos a la Junta Especial que estime competente. Si ésta al recibir el expediente se declara a su vez incompetente, lo remitirá a la autoridad que deba decidir la cuestión de competencia, para que ésta determine cuál es la Junta Especial que debe continuar conociendo del conflicto.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+Cuando un Tribunal considere que el conflicto de que conoce, es de la competencia de otro, con citación de las partes, se declarará incompetente y remitirá los autos al Tribunal que estime competente. Si éste al recibir el expediente se declara a su vez incompetente, lo remitirá a la autoridad que deba decidir la cuestión de competencia, para que ésta determine cuál es el Tribunal que debe continuar conociendo del conflicto.
 
 ###### Artículo 705.
 
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 705 Bis.
+
 Las competencias se decidirán:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+I. El Poder Judicial Local a través de su pleno u órgano análogo que corresponda de conformidad con su legislación cuando la competencia se suscite entre tribunales pertenecientes a dicho Poder Judicial local.
 
-I. Por el Presidente de la Junta Federal de Conciliación y Arbitraje, cuando se trate de las Juntas Especiales de la misma, entre sí;
+II. El Poder Judicial Federal a través del Tribunal Colegiado de Circuito que corresponda, cuando la controversia se suscite entre:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+a) Tribunales Federales y Locales;
 
-II. Por el Presidente de la Junta Local de Conciliación y Arbitraje, cuando se trate de Juntas Especiales de la misma entidad federativa; y
+b) Tribunales Locales de diversas entidades federativas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+c) Tribunales Locales y otro órgano jurisdiccional federal o de diversa entidad federativa;
 
-III. Por las instancias correspondientes del Poder Judicial de la Federación, cuando se suscite entre:
+d) Tribunales Federales, y
 
-a) Juntas Locales o Federales de Conciliación y Arbitraje y el Tribunal Federal de Conciliación y Arbitraje.
+e) Tribunales Federales y otro órgano jurisdiccional.
 
-b) Juntas Locales y Juntas Federales de Conciliación y Arbitraje.
+Los conflictos competenciales de los Tribunales federales y locales, se substanciarán de conformidad con las leyes orgánicas correspondientes.
 
-c) Juntas Locales de Conciliación y Arbitraje de diversas Entidades Federativas.
-
-d) Juntas Locales o Federal de Conciliación y Arbitraje y otro órgano jurisdiccional.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 706.
 
-Será nulo todo lo actuado ante la Junta incompetente, salvo el acto de admisión de la demanda y lo dispuesto en los artículos 704 y 928 fracción V de esta Ley o, en su caso, cuando se haya celebrado convenio que ponga fin al negocio, en el período de conciliación.
+Será nulo todo lo actuado ante el Tribunal incompetente, salvo el acto de admisión de la demanda y lo dispuesto en los artículos 704 y 928 fracción V de esta Ley o, en su caso, cuando se haya celebrado convenio que ponga fin al negocio, en el período de conciliación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 706 Bis.
+
+Con el propósito de facilitar el acceso a la justicia, los poderes judiciales locales o federal podrán autorizar el funcionamiento, en régimen de movilidad, de uno o más Tribunales conforme a las necesidades de los asuntos que deban conocer. Para esto dispondrá la instalación de la sede correspondiente durante un periodo determinado.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
+### CAPITULO VI. De los Términos Procesales
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 707.
 
-Los representantes del Gobierno, de los trabajadores o de los patrones ante las Juntas y los auxiliares, están impedidos para conocer de los juicios en que intervengan, cuando:
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-I. Tengan parentesco por consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de las partes;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Tengan el mismo parentesco, dentro del segundo grado, con el representante legal, abogado o procurador de cualquiera de las partes;
+###### Artículo 707 Bis.
 
-III. Tengan interés personal directo o indirecto en el juicio;
+Los jueces y secretarios instructores se tendrán por forzosamente impedidos y tendrán el deber de excusarse en el conocimiento de los asuntos en los casos siguientes:
 
-IV. Alguno de los litigantes o abogados haya sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o se haya constituido en parte en causa criminal, seguida contra cualquiera de ellos; siempre que se haya ejercitado la acción penal correspondiente;
+I. En asuntos en los que tenga interés directo o indirecto;
 
-V. Sea apoderado o defensor de alguna de las partes o perito o testigo, en el mismo juicio, o haber emitido opinión sobre el mismo;
+II. En asuntos que interesen a su cónyuge, concubino o concubina, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
 
-VI. Sea socio, arrendatario, trabajador o patrón o que dependa económicamente de alguna de las partes o de sus representantes;
+III. Si entre el funcionario, su cónyuge, concubino o concubina, o sus hijos y alguno de los interesados, haya relación de intimidad nacida de algún acto civil o religioso;
 
-VII. Sea tutor o curador, o haber estado bajo la tutela o curatela de las partes o de sus representantes; y
+IV. Si fuere pariente por consanguinidad o afinidad, del abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
 
-VIII. Sea deudor, acreedor, heredero o legatario de cualquiera de las partes o de sus representantes.
+V. Cuando él, su cónyuge o alguno de sus hijos sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las partes, o administrador actual de sus bienes;
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+VI. Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguna de las partes;
+
+VII. Si asiste o ha asistido a convites que especialmente para él diere o costeare alguna de las partes, después de comenzado el procedimiento, o si se tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, o en una misma casa;
+
+VIII. Cuando después de comenzado el procedimiento, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
+
+IX. Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
+
+X. Si ha conocido del negocio como integrante del Tribunal, árbitro o asesor, resolviendo algún punto que afecte a la sustancia de la cuestión, en la misma instancia o en otra;
+
+XI. Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año de haber seguido un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+
+XII. Cuando alguna de las partes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge, o de alguno de sus expresados parientes o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal;
+
+XIII. Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
+
+XIV. Si él, su cónyuge o alguno de sus parientes sigue algún proceso civil o criminal en que sea integrante el Tribunal, agente del Ministerio Público, árbitro o arbitrador, alguna de las partes;
+
+XV. Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido;
+
+XVI. Cuando haya externado su opinión públicamente antes del fallo, y
+
+XVII. Exista cualquier otro impedimento legal.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 707 Ter.
+
+Los juzgadores y secretarios instructores tendrán la obligación de excusarse inmediatamente que se avoquen al conocimiento de un negocio del que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que lo origine o de que tengan conocimiento de él, expresando concretamente la causa o razón del impedimento.
 
 ###### Artículo 708.
 
-Los representantes del Gobierno, de los trabajadores o de los patrones ante las Juntas, y los auxiliares, no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando se encuentren comprendidos en alguno de los supuestos a que se refiere el artículo anterior. De no hacerlo incurrirán en la responsabilidad a que se refiere esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 709.
 
-Las excusas se calificarán de plano, y en su tramitación se observarán las normas siguientes:
+Procede la recusación cuando, a pesar de existir alguno de los impedimentos expresados, los jueces y secretarios instructores no se excusen. La recusación siempre se fundará en causa legal.
 
-I. Las instruirán y decidirán:
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-a) El Presidente de la Junta, cuando se trate del Presidente de una Junta Especial o de la de Conciliación, del Auxiliar o del Representante de los Trabajadores o de los Patrones.
+II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+III. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-b) El Secretario del Trabajo y Previsión Social, tratándose del Presidente de la Junta Federal y el Gobernador del Estado o el Jefe de Gobierno del Distrito Federal, cuando se trate del Presidente de la Junta Local.
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-II. La excusa se deberá promover por escrito y bajo protesta de decir verdad, ante las autoridades señaladas en la fracción anterior, dentro de las 48 horas siguientes a la en que se tenga conocimiento del impedimento. Al solicitarse se acompañarán las pruebas que lo justifiquen;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. La autoridad que decida sobre la excusa, tan pronto la reciba, resolverá de plano con los elementos que tenga para ello o podrá señalar día y hora para que comparezca ante ella el interesado, para que después de oírlo y recibir pruebas de inmediato dicte resolución; y
+###### Artículo 709-A.
 
-IV. Si la excusa es declarada improcedente, la autoridad competente podrá sancionar, al que se excusó, con amonestación o suspensión del cargo hasta por ocho días y en caso de reincidencia en el mismo asunto, será destituido.
+La recusación se interpondrá ante el Tribunal que conozca del asunto, expresándose con claridad y precisión la causa en que se funde. El Tribunal remitirá de inmediato el testimonio de las actuaciones respectivas a la autoridad competente para resolver, al pleno del superior jerárquico u órgano análogo que corresponda de conformidad con su legislación cuando la competencia sea del orden local y al Tribunal Colegiado de Circuito de (sic) corresponda, cuando se trate de competencia federal.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-B.
+
+La recusación solo podrá admitirse hasta antes de la calificación sobre la admisibilidad de las pruebas en la audiencia preliminar, o hasta antes del cierre de la instrucción cuando:
+
+I. Cambie el personal del Tribunal, y
+
+II. Ocurra un hecho superveniente que funde la causa.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-C.
+
+No se admitirá recusación:
+
+I. Al cumplimentar exhortos, ejecuciones y demás diligencias cuya práctica se encomiende por otros Tribunales;
+
+II. En los procedimientos a los que se refieren los artículos 982 al 991;
+
+III. En los demás en que no se asuma jurisdicción ni impliquen conocimiento de causa, y
+
+IV. En contra de los magistrados y jueces que conozcan de una recusación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-D.
+
+Se desechará de plano toda recusación cuando:
+
+I. Sea extemporánea, y
+
+II. No se funde en alguna de las causas a que se refiere el artículo 707 Bis de esta Ley, o anteriormente se haya declarado improcedente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-E.
+
+La recusación se resolverá sin citación a la parte contraria y se tramitará en forma de incidente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-F.
+
+En tanto se califica la recusación, se continuará con el procedimiento. Si se declara procedente, será nulo todo lo actuado a partir de la fecha en que se interpuso.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-G.
+
+En la recusación son admisibles todos los medios de prueba establecidos por este Título y además la confesión del funcionario recusado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-H.
+
+La resolución será comunicada al recusado.
+
+Si la recusación se declara procedente, terminará su intervención en el asunto de que se trate y remitirá los autos al Tribunal que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-I.
+
+Cuando se declare improcedente, se impondrá al recusante una multa a favor del Fondo de Apoyo a la Administración de Justicia del Poder Judicial que corresponda, la cual no será inferior a 100 ni mayor a 500 Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 709-J.
+
+Una vez interpuesta la recusación, la parte recusante no podrá alzarla en ningún tiempo, ni variar la causa.
 
 ###### Artículo 710.
 
-Cuando alguna de las partes conozca que el representante del Gobierno, de los patrones o de los trabajadores ante la Junta o el Auxiliar se encuentran impedidos para conocer de algún juicio y no se abstengan de hacerlo, podrán ocurrir ante las autoridades señaladas en la fracción I del artículo anterior, haciendo por escrito la denuncia, a la que deberán acompañar las pruebas que acrediten el impedimento y la que se tramitará conforme al procedimiento señalado en la Fracción III del citado precepto.
-
-Si se comprueba el impedimento se le substituirá en la siguiente forma:
-
-a) El Presidente de la Junta por el Secretario General de mayor antigüedad;
-
-b) El Presidente de la Junta Especial por el Auxiliar de la propia Junta, y éste por el Secretario;
-
-c) El Presidente de la Junta Permanente de Conciliación por el Secretario de la misma; y
-
-d) Los representantes de los trabajadores y de los patrones por sus respectivos suplentes.
-
-Independientemente de la substitución, el funcionario impedido será sancionado, en los términos previstos en la fracción IV del artículo 709 de esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7884,17 +8828,45 @@ Independientemente de la substitución, el funcionario impedido será sancionado
 
 El procedimiento no se suspenderá mientras se tramite la denuncia de impedimento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XII. De las Pruebas
+### CAPITULO VII. De las Notificaciones
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 712.
 
-Cuando el trabajador ignore el nombre del patrón o la denominación o razón social de donde labora o laboró, deberá precisar cuando menos en su escrito inicial de demanda el domicilio de la empresa, establecimiento, oficina o lugar en donde prestó o presta el trabajo y la actividad a que se dedica el patrón.
+Cuando el trabajador ignore el nombre del patrón o la denominación o razón social en donde labora o laboró, deberá precisar por lo menos en su escrito de demanda el domicilio de la empresa, establecimiento, oficina o lugar en donde prestó o presta el trabajo y la actividad a que se dedica el patrón.
 
-La sola presentación de la demanda en los términos del párrafo anterior interrumpe la prescripción respecto de quien resulte ser el patrón del trabajador.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La sola presentación de la demanda o de la instancia conciliatoria, en los términos del párrafo anterior interrumpe la prescripción respecto de quien resulte ser el patrón del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si el demandado ya no tiene su domicilio donde se prestaron los servicios, el trabajador lo hará del conocimiento del Tribunal, para que ésta gire oficios a las dependencias que considere pertinente, para localizar el nuevo domicilio del demandado. El Tribunal deberá ordenar el desahogo de cualquier diligencia, entre las cuales podrá girar oficios a instituciones que cuenten con registro oficial de personas a fin de que se obtenga el nombre del demandado y su localización. Una vez obtenida la información necesaria, se realizará el emplazamiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+De no obtener la información que permita al Tribunal conocer el domicilio del demandado, se procederá a la notificación por edictos y en el sitio de Internet que para tal efecto establezca el Poder Judicial federal o local cuando se trate de personas cuyo domicilio se ignora, previo informe de una institución que cuente con registro oficial de personas. En este caso, el procedimiento seguirá su curso y se tendrá por perdido el derecho que debió ejercerse, sin perjuicio de que antes de la audiencia preliminar pueda la parte demandada ofrecer pruebas en contra para demostrar que el actor no era trabajador o patrón; que no existió el despido o que no son ciertos los hechos afirmados por la parte actora.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En este caso, los edictos se publicarán por dos veces, con un lapso de tres días entre uno y otro, haciéndose saber que debe de presentarse el citado, dentro de un término que no será inferior a quince días ni excederá de sesenta días. Asimismo, se publicarán en el medio oficial de difusión del Tribunal, incluyendo su portal de Internet.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 712 Bis.
+
+Los Tribunales tendrán una unidad receptora que proporcionará servicio durante los días señalados en el artículo 715 de esta Ley, y remitirán los escritos que reciba al Tribunal que corresponda, a más tardar al día siguiente.
+
+Tratándose del procedimiento especial de huelga, la unidad receptora proporcionará dicho servicio todos los días del año.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 712 Ter.
+
+En la integración de los expedientes, los Tribunales garantizarán su fidelidad, integridad, reproducción, conservación y resguardo.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7902,17 +8874,17 @@ La sola presentación de la demanda en los términos del párrafo anterior inter
 
 En las audiencias que se celebren se requerirá de la presencia física de las partes o de sus representantes o apoderados, salvo disposición en contrario de la Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 714.
 
-Las actuaciones de las Juntas deben practicarse en días y horas hábiles, bajo pena de nulidad, siempre que esta Ley no disponga otra cosa.
+Las actuaciones de los Tribunales, del Centro Federal de Conciliación y Registro Laboral y de los Centros de Conciliación Locales deben practicarse en días y horas hábiles, bajo pena de nulidad, siempre que esta Ley no disponga otra cosa.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 715.
 
-Son días hábiles todos los del año con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquéllos en que la Junta suspenda sus labores.
+Son días hábiles todos los del año con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquéllos en que las autoridades laborales señaladas en el artículo anterior suspendan sus labores.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7920,81 +8892,149 @@ Son días hábiles todos los del año con excepción de los sábados y domingos,
 
 Son horas hábiles las comprendidas entre las siete y las diecinueve horas, salvo el procedimiento de huelga, en el que todos los días y horas son hábiles.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 717.
 
-Los Presidentes de las Juntas, los de las Juntas Especiales y los Auxiliares, pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
+Los Tribunales, el Centro Federal de Conciliación y Registro Laboral y los Centros de Conciliación Locales pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 718.
 
-La audiencia o diligencia que se inicie en día y hora hábil podrá continuarse hasta su terminación, sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse el siguiente día hábil; la Junta hará constar en autos la razón de la suspensión.
+La audiencia o diligencia que se inicie en día y hora hábil podrá continuarse hasta su terminación, sin suspenderse y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse el siguiente día hábil; el Tribunal hará constar en autos la razón de la suspensión.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 719.
 
-Cuando en la fecha señalada no se llevare a cabo la práctica de alguna diligencia, la Junta hará constar en autos la razón por la cual no se practicó y señalará en el mismo acuerdo, el día y hora para que tenga lugar la misma.
+Cuando en la fecha señalada no se llevare a cabo la práctica de alguna diligencia, el Tribunal hará constar en autos la razón por la cual no se practicó y señalará en el mismo acuerdo, el día y hora para que tenga lugar la misma.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 720.
 
-Las audiencias serán públicas. La Junta podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada, cuando lo exija el mejor despacho de los negocios, la moral o las buenas costumbres.
+Las audiencias serán públicas. El Tribunal podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada, cuando se puedan (sic) transgredir el derecho a la intimidad o tratándose de menores.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las audiencias serán presididas íntegramente por el juez; de incumplirse esta condición las actuaciones respectivas serán nulas de pleno derecho. Al inicio de las audiencias, el secretario instructor del Tribunal hará constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se conducirán con verdad. Para tal efecto, el secretario instructor les tomará protesta, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La intervención de quienes participen en ellas será en forma oral.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez recibirá por sí mismo las declaraciones y presidirá todos los actos de prueba bajo su más estricta y personal responsabilidad; ordenará la práctica de las pruebas, dirigirá el debate, exigirá el cumplimiento de las formalidades que correspondan, moderará la discusión, impedirá que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles y podrá limitar el tiempo y número de ocasiones en que intervengan los interesados con base en criterios de equidad y agilidad procesal.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez determinará el inicio y la conclusión de cada una de las etapas de la audiencia, por lo que se tendrán por precluídos los derechos procesales que debieron ejercerse en cada una de ellas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una vez que los testigos, peritos o partes concluyan su intervención, a petición de ellos podrán retirarse del Tribunal cuando el juez lo autorice.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 1 DE MAYO DE 2019)</small>
+
+Al terminar las audiencias, se levantará acta que deberá contener, cuando menos:
+
+I. El lugar, la fecha y el expediente al que corresponde;
+
+II. El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III. Una relación sucinta del desarrollo de la audiencia, y
+
+IV. La firma del juez y secretario instructor.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El secretario instructor deberá certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las partes podrán solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La conservación y resguardo de los registros estará a cargo del Tribunal que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las correcciones disciplinarias a que se refiere el artículo 729 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 721.
 
-Todas las actuaciones procesales serán autorizadas por el Secretario, excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las audiencias se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervinieron, quieran y sepan hacerlo. Cuando algún integrante de la Junta omitiere firmar las actas de las diligencias en las que estuvo presente se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes comparecientes.
+Todas las actuaciones procesales serán autorizadas por el juez, excepción hecha de las diligencias encomendadas a otros funcionarios.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Para producir fe, las audiencias se registrarán por medios electrónicos, o cualquier otro idóneo a juicio del juez, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes de acuerdo a la ley, tuvieren derecho a ella.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La certificación de las actas que se lleven a través del Sistema Digital del Tribunal deberá realizarla el Funcionario Judicial competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 722.
 
-Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante las Juntas, las harán bajo protesta de decir verdad y bajo apercibimiento de las penas en que incurren si declaran falsamente ante autoridad.
+Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante el Tribunal, las harán bajo protesta de decir verdad y bajo apercibimiento de las penas en que incurren si declaran falsamente ante autoridad.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 Las declaraciones de peritos en derecho, serán rendidas bajo protesta de decir verdad, sin que se requiera apercibimiento alguno.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 723.
 
-La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la parte solicitante, copia certificada de cualquier documento o constancia que obre en el expediente. También deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
+El Tribunal, conforme a lo establecido en esta Ley, está obligado a expedir a la parte solicitante, copia certificada de cualquier documento o constancia que obre en el expediente. También deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 724.
 
-El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar la creación, divulgación y utilización de herramientas tecnológicas en las que se incluyan los sistemas necesarios para la consulta y actuación de las partes en los procedimientos establecidos en el Título Catorce de la presente Ley.
-
-También podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-###### Artículo 725.
-
-En caso de extravío o desaparición del expediente o de alguna constancia, el Secretario, previo informe del archivista, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones. La Junta, de oficio o a petición de parte, lo hará del conocimiento de las partes; procederá a practicar las investigaciones del caso y a tramitar de inmediato la reposición de los autos, en forma incidental.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-###### Artículo 726.
-
-En el caso del artículo anterior, la Junta señalará, dentro de las setenta y dos horas siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. La Junta podrá ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos, teniendo en cuenta, en su caso, lo dispuesto por el artículo 724 de esta Ley.
+El Tribunal, podrá acordar la creación, divulgación y utilización de herramientas tecnológicas en las que se incluyan los sistemas necesarios para la consulta y actuación de las partes en los procedimientos establecidos en el Título Catorce de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
+También podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 725.
+
+En caso de extravío o desaparición del expediente o de alguna constancia, el Secretario, previo informe del archivista, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones del Tribunal, de oficio o a petición de parte, lo hará del conocimiento de las partes; procederá a practicar las investigaciones del caso y a tramitar de inmediato la reposición de los autos, en forma incidental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 726.
+
+En el caso del artículo anterior, el Tribunal señalará dentro de las setenta y dos horas siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. El Tribunal podrá ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos, teniendo en cuenta, en su caso, lo dispuesto por el artículo 724 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Tribunal deberá proporcionar las videograbaciones con que cuente y las actas que existan en el Sistema Digital del Tribunal, a fin de llevar a cabo la reposición de los autos.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 727.
 
-La Junta, de oficio, hará la denuncia correspondiente ante el Ministerio Público competente de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
+El Tribunal, de oficio, hará la denuncia correspondiente ante el Ministerio Público competente de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 728.
 
-Los Presidentes de las Juntas y los Auxiliares, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
+Los Jueces a cargo de los Tribunales, así como los titulares y los conciliadores de los Centros de Conciliación y del Organismo Descentralizado encargado de la conciliación en materia Federal y el Registro de todos los Contratos Colectivos y las Organizaciones Sindicales, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -8006,33 +9046,39 @@ Las correcciones disciplinarias que pueden imponerse son:
 
 I. Amonestación;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Multa, que no podrá exceder de 100 veces del salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometa la violación. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario en un día. Para los efectos de este artículo, no se considera trabajadores a los apoderados; y
+II. Multa, que no podrá exceder de 100 veces la Unidad de Medida y Actualización en el momento en que se cometa la falta. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario en un día. Para los efectos de este artículo, no se considera trabajadores a los apoderados, y
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Expulsión del local de la Junta; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
+III. Expulsión del local del Tribunal; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 730.
 
-Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de un delito, la Junta levantará un acta circunstanciada y la turnará al Ministerio Público, para los efectos conducentes.
+Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de un delito, el Tribunal levantará un acta circunstanciada y la turnará al Ministerio Público, para los efectos conducentes.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 731.
 
-El Presidente de la Junta, los de las Juntas Especiales y los Auxiliares podrán emplear conjunta e indistintamente, cualquiera de los medios de apremio necesarios, para que las personas concurran a las audiencias en las que su presencia es indispensable o para asegurar el cumplimiento de sus resoluciones.
+El juez podrá emplear, cualquiera de los medios de apremio necesarios, para que las personas concurran a las audiencias en las que su presencia es indispensable o para asegurar el cumplimiento de sus resoluciones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ENERO DE 1980)</small>
 
 Los medios de apremio que pueden emplearse son:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Multa, que no podrá exceder de 100 veces el salario mínimo general vigente en el Distrito Federal en el tiempo en que se cometió el desacato. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario de un día. Para los efectos de este artículo, no se considerará trabajadores a los apoderados;
+I. Multa, que no podrá exceder de 200 veces la Unidad de Medida y Actualización en el momento en que se cometió el desacato. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario de un día. Para los efectos de este artículo, no se considerará trabajadores a los apoderados ni a los funcionarios públicos que incumplan o sean omisos con un requerimiento u orden judicial.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 II. Presentación de la persona con auxilio de la fuerza pública; y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 III. Arresto hasta por treinta y seis horas.
 
@@ -8044,19 +9090,19 @@ Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIII. De las Resoluciones Laborales
+### CAPITULO VIII. De los Exhortos y Despachos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 733.
 
 Los términos comenzarán a correr el día siguiente al en que surta efecto la notificación y se contará en ellos el día del vencimiento.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 734.
 
-En los términos no se computarán los días en que en la Junta deje de actuar conforme al calendario de labores aprobado por el Pleno, así como cuando por caso fortuito o de fuerza mayor no puedan llevarse a cabo actuaciones. Los avisos de suspensión de labores se publicarán en el boletín laboral o en los estrados, en su caso.
+En los términos no se computarán los días en que el Tribunal deje de actuar conforme al calendario de labores aprobado por el Pleno, así como cuando por caso fortuito o de fuerza mayor no puedan llevarse a cabo actuaciones. Los avisos de suspensión de labores se publicarán en el boletín laboral o en los estrados, en su caso.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8070,11 +9116,11 @@ Cuando la realización o práctica de algún acto procesal o el ejercicio de un 
 
 Para computar los términos, los meses se regularán por el de treinta días naturales; y los días hábiles se considerarán de veinticuatro horas naturales, contados de las veinticuatro a las veinticuatro horas, salvo disposición contraria en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 737.
 
-Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta ampliará el término de que se trate, en función de la distancia, a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
+Cuando el domicilio de la persona demandada o parte en el procedimiento de conciliación se encuentre fuera del lugar de residencia del Tribunal, o del Centro de Conciliación, éstos ampliarán el término de que se trate en función de la distancia, a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8084,25 +9130,65 @@ Transcurridos los términos fijados a las partes, se tendrá por perdido su dere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIV. De la Revisión de los Actos de Ejecución
+### CAPITULO IX. De los Incidentes
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 739.
 
-Las partes, en su primera comparecencia o escrito, deberán señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones; si no lo hacen, las notificaciones personales se harán por boletín o por estrados, según el caso, en los términos previstos en esta Ley.
+Las partes, en su primera comparecencia o escrito, deberán señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Centro Federal de Conciliación y Registro Laboral, o del Centro de Conciliación Local o bien del Tribunal al que acudan; si no lo hacen, las notificaciones personales se harán por boletín o por estrados, según el caso, en los términos previstos en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Asimismo, deberán señalar el domicilio del demandado para recibir notificaciones, o el último lugar donde el trabajador prestó sus servicios. La notificación es personal y se diligenciará conforme a lo dispuesto en el artículo 743.
+Asimismo, deberán señalar el domicilio del demandado para recibir notificaciones, o el último lugar donde el trabajador prestó sus servicios. La notificación es personal y se diligenciará conforme a lo dispuesto en el artículo 743 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La persona que comparezca como tercero interesado en un juicio, deberá señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones; si no lo hace, se estará a lo dispuesto en la parte final del primer párrafo de este artículo.
+La persona que comparezca como tercero interesado en un juicio, deberá señalar domicilio físico dentro del lugar de residencia del Tribunal para recibir notificaciones; si no lo hace, se estará a lo dispuesto en la parte final del primer párrafo de este artículo. Asimismo, se le asignará un buzón electrónico conforme a lo previsto en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La Autoridad Conciliadora o el Tribunal contará con una plataforma digital para realizar notificaciones por vía electrónica. Para tal efecto, asignará un buzón electrónico a las partes; las que acudan a la audiencia de conciliación y las que fueron notificadas del emplazamiento a juicio, tendrán la opción de señalar que las posteriores notificaciones se realicen vía electrónica en dicho buzón. En este caso, independientemente de las notificaciones que el Tribunal deba realizar por estrados o boletín, todas las notificaciones, aún las personales posteriores en el procedimiento de conciliación o jurisdiccional se realizarán al buzón electrónico asignado, debiendo recabarse el acuse de recibo electrónico respectivo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando se trate del emplazamiento a juicio y de la primera notificación para la audiencia de conciliación prejudicial, las notificaciones deberán ser personales.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 En caso de que las partes señalen terceros interesados, deberán indicar en su promoción inicial el domicilio de éstos para recibir notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Tratándose de conflictos colectivos, la Autoridad Conciliadora o el Tribunal efectuará las notificaciones personales a los sindicatos y los patrones en los domicilios que respectivamente hayan señalado en el contrato colectivo de trabajo, el cual será considerado para oír y recibir notificaciones, salvo que se haya designado otro distinto.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 739 Bis.
+
+Las resoluciones que se dicten en los juicios laborales deben notificarse a más tardar dentro del tercer día hábil siguiente. La razón que corresponda se asentará inmediatamente después de dicha resolución.
+
+Las partes y el tercero interesado podrán autorizar a cualquier persona con capacidad legal para oír y recibir notificaciones aún las de carácter personal e imponerse de los autos.
+
+Cuando las partes y el tercero interesado cuenten con Firma Electrónica y pretendan que los autorizados en términos del párrafo anterior, utilicen o hagan uso de ésta en su representación, deberán comunicarlo a la Autoridad Conciliadora y al órgano jurisdiccional correspondiente, señalando las limitaciones o revocación de facultades en el uso de la misma.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 739 Ter.
+
+Las notificaciones en los procedimientos ante los Centros de Conciliación y en los juicios laborales se harán:
+
+I. En forma personal, las establecidas en el artículo 742 de esta Ley;
+
+II. Por oficio:
+
+a) A las autoridades a que se refiere el artículo 742 Ter de esta Ley, salvo que se trate de la primera notificación, en cuyo caso se observará lo establecido en el artículo 742 de esta Ley, y
+
+b) A la autoridad que tenga el carácter de tercero interesado;
+
+III. Por boletín o lista impresa y electrónica, en los casos no previstos en las fracciones anteriores, y
+
+IV. Por buzón electrónico, a las partes que expresamente así lo soliciten, y que previamente hayan obtenido la firma electrónica.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -8124,19 +9210,27 @@ Se harán personalmente las notificaciones siguientes:
 
 I. El emplazamiento a juicio y cuando se trate del primer proveído que se dicte en el mismo;
 
-II. El auto de radicación del juicio, que dicten las Juntas de Conciliación y Arbitraje en los expedientes que les remitan otras Juntas;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. La resolución en que la Junta se declare incompetente;
+II. El auto de radicación del juicio, que dicten los Tribunales en los expedientes que les remitan los tribunales de otra competencia;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. La resolución en que un Tribunal se declare incompetente;
 
 IV. El auto que recaiga al recibir la sentencia de amparo;
 
 V. La resolución que ordene la reanudación del procedimiento; cuya tramitación estuviese interrumpida o suspendida por cualquier causa legal;
 
-VI. El auto que cite a absolver posiciones;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. El auto que cite a absolver posiciones o responder un interrogatorio, siempre y cuando por causa justificada el absolvente o testigo, a criterio del juez no pueda ser presentado a la audiencia de juicio por las partes;
 
 VII. La resolución que deban conocer los terceros extraños al juicio;
 
-VIII. El laudo;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VIII. La sentencia laboral, cuando ésta no se dicte en la audiencia de juicio;
 
 IX. El auto que conceda término o señale fecha para que el trabajador sea reinstalado;
 
@@ -8146,7 +9240,25 @@ X. El auto por el que se ordena la reposición de actuaciones;
 
 XI. En los casos a que se refieren los artículos 772 y 774 de esta Ley; y
 
-XII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XII. En casos urgentes o cuando concurran circunstancias especiales a juicio del Centro Federal de Conciliación y Registro Laboral, los Centros de Conciliación Locales o los Tribunales, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIII. La primera notificación para comparecer a la audiencia obligatoria de conciliación ante el Centro Federal de Conciliación y Registro Laboral o los Centros de Conciliación Locales competentes, a excepción de lo previsto en el antepenúltimo párrafo del artículo 684-E de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 742 Bis.
+
+Si las partes aceptaron que las notificaciones personales posteriores al emplazamiento a juicio se lleven a cabo mediante el buzón electrónico, éstas se harán por dicho medio, sin necesidad de remitir la orden de notificación al actuario.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 742 Ter.
+
+Tratándose de Dependencias u Organismos Públicos, las notificaciones posteriores al emplazamiento a Juicio, se hará (sic) al buzón electrónico asignado en términos del artículo 739 de esta Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8160,39 +9272,109 @@ I. El actuario se cerciorará de que la persona que deba ser notificada habita, 
 
 II. Si está presente el interesado o su representante, el actuario notificará la resolución, entregando copia de la misma; si se trata de persona moral, el actuario se asegurará de que la persona con quien entiende la diligencia es representante o apoderado legal de aquélla;
 
-III. Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente, a una hora determinada;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+III. Si no está presente el interesado o su representante, la notificación se hará a cualquier persona mayor de edad que se encuentre en la casa o local; el actuario asentará el nombre de la persona con la que se entiende la diligencia y especificará si la persona habita en el domicilio y la relación que ésta tiene con la persona que deba ser notificada y en su caso su puesto de trabajo;
 
-IV. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona mayor de edad que se encuentre en la casa o local; y si estuvieren estos cerrados, se fijará una copia de la resolución en la puerta de entrada;
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-V. Si en la casa o local designado para hacer la notificación se negare el interesado, su representante o la persona con quien se entienda la diligencia, a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. En el caso del artículo 712 de esta Ley, el actuario se cerciorará de que el local designado en autos, es aquel en que se prestan o se prestaron los servicios.
+V. Si en la casa o local señalado para hacer la notificación se negare el interesado, su representante o la persona con quien se entienda la diligencia a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución, asentando en su razón los medios de convicción de que la persona que deba ser notificada indudablemente habita, trabaja o tiene su domicilio en la casa o local señalado en autos para hacer la notificación, y
 
-En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con claridad los elementos de convicción en que se apoye.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+VI. En el caso del artículo 712 de esta Ley, el actuario se constituirá acompañado del trabajador y se cerciorará de que el local designado en autos es aquel en que se prestan o se prestaron los servicios.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con claridad los elementos de convicción en que se apoye, asentando las características exteriores de la casa, inmueble, local, o espacio físico en el que se realice la diligencia de notificación, y los medios por los que se cerciore de ser el domicilio buscado. En caso de no encontrarse la persona buscada asentará el nombre y apellidos de quien recibe la cédula de notificación y la relación que guarda con ésta o en su caso el puesto de trabajo que desempeña; si se rehúsa a dar su nombre o señalar la relación que tiene con la persona buscada, señalará la media filiación. En cualquier caso, los medios de convicción deben evidenciar que el domicilio corresponde al señalado para realizar la notificación y que la persona buscada habita, labora o tiene su domicilio en la casa o local en que se constituye. El actuario podrá anexar fotografías o cualquier otro documento físico o electrónico para robustecer los elementos de convicción de la constancia o razón que al efecto levante.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los Tribunales y los Centros de Conciliación establecerán un sistema de registro voluntario para que las empresas, patrones o personas físicas empleadoras, cuenten con un buzón electrónico al que dichas autoridades deberán comunicarles la existencia de algún procedimiento cuyo emplazamiento no pudo efectuarse. En ningún caso, el aviso que se realice sustituirá las notificaciones procesales; no obstante, deberá constar tal circunstancia en la razón del actuario. Asimismo, llevarán a cabo los acuerdos de colaboración conducentes con organismos públicos, con el fin de facilitar la localización del domicilio de las partes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Tratándose de la primera notificación al trabajador en la instancia prejudicial, se estará a lo dispuesto por el artículo 684 C de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 744.
 
-Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día en que se dicte la resolución si concurre al local de la Junta o en el domicilio que hubiese designado y si no se hallare presente, se le dejará una copia de la resolución autorizada por el Actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo.
+Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día en que se dicte la resolución si concurre al Tribunal o mediante el Sistema Digital o Plataforma Electrónica al buzón electrónico que se haya asignado a las partes. En caso de que la notificación se realice por el actuario, si la parte o persona a notificar no se hallare presente, se le dejará una copia de la resolución autorizada por el actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo.
 
-El actuario asentará razón en autos.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+El actuario asentará razón en autos y en su caso fotos del lugar y la cédula que fije.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haber estado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 744 Bis.
+
+Las notificaciones por oficio se harán conforme a las reglas siguientes:
+
+I. Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar del juicio, el funcionario designado hará la entrega, recabando la constancia de recibo correspondiente.
+
+Si la autoridad se niega a recibir el oficio, el actuario hará del conocimiento del encargado de la oficina correspondiente que no obstante esta circunstancia, se tendrá por hecha la notificación. Si a pesar de esto subsiste la negativa, asentará la razón en autos y se tendrá por hecha, y
+
+II. Si el domicilio de la autoridad se encuentra fuera del lugar del juicio, se enviará el oficio por exhorto a través de la plataforma electrónica para que la autoridad exhortada realice la notificación al día siguiente de su recepción.
+
+Cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 745.
 
-El Pleno de las Juntas Federal y Locales de Conciliación y Arbitraje, podrá acordar la publicación de un boletín que contenga la lista de las notificaciones que no sean personales.
+El Tribunal Federal y los Tribunales Locales, deberán acordar la publicación de un boletín impreso y electrónico que contenga la lista de las notificaciones que no sean personales.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 745 Bis.
+
+Las notificaciones por boletín o lista se fijarán y publicarán en el local del órgano jurisdiccional, en lugar visible y de fácil acceso, así como en el portal de Internet del Poder Judicial de la Federación y de los Poderes Judiciales de las Entidades Federativas; en estos casos los portales de Internet deberán tener la opción de consulta por órgano jurisdiccional y número de juicio o expediente. La fijación y publicación de esta lista se realizará a primera hora hábil del día siguiente al de la fecha de la resolución que la ordena y contendrá:
+
+I. El número del juicio de que se trate;
+
+II. El nombre de las partes;
+
+III. La síntesis de la resolución que se notifica.
+
+El actuario o el funcionario habilitado para tal efecto asentará en el expediente la razón respectiva.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 745 Ter.
+
+Las notificaciones por vía electrónica se sujetarán a las reglas siguientes:
+
+I. Las partes o terceros interesados están obligados a ingresar al buzón electrónico asignado todos los días y obtener la constancia a que se refiere la fracción IV del artículo 747 de esta Ley, en un plazo máximo de dos días a partir de que el órgano jurisdiccional la hubiere enviado.
+
+De no ingresar dentro de los plazos señalados al sistema electrónico establecido para tal efecto, el Tribunal tendrá por hecha la notificación. Cuando éste lo estime conveniente por la naturaleza o trascendencia del acto, podrá ordenar que la notificación a realizar se haga por conducto del actuario, quien hará constar en el expediente cualquiera de las situaciones anteriores, y
+
+II. Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el sistema, haciendo imposible el envío de notificaciones dentro de los plazos establecidos en esta Ley, las partes deberán dar aviso de inmediato por cualquier otra vía al Tribunal, el cual comunicará tal circunstancia a la unidad administrativa encargada de operar el sistema. En tanto dure dicha situación, se suspenderán, por ese mismo lapso los plazos correspondientes.
+
+Una vez que se haya restablecido el sistema, la unidad administrativa encargada de operar el sistema enviará un reporte al o los órganos jurisdiccionales correspondientes en el que deberá señalar la causa y el tiempo de la interrupción del sistema, para efectos del cómputo correspondiente.
+
+El Tribunal deberá notificar a las partes sobre la interrupción del sistema, haciéndoles saber el tiempo de interrupción, desde su inicio hasta su restablecimiento, así como el momento en que reinicie el cómputo de los plazos correspondientes.
+
+En todos los casos la notificación o constancia respectiva se agregará a los autos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 746.
 
-Surtirán sus efectos las notificaciones que se hagan a las partes en el Boletín Laboral, salvo que sean personales. Cuando la Junta no publique boletín, estas notificaciones se harán en los estrados de la Junta.
+Surtirán sus efectos las notificaciones que se hagan a las partes en el Boletín Judicial, y buzón electrónico salvo que sean personales. El Tribunal competente publicará también dichas notificaciones en los estrados de la autoridad.
 
-El Secretario hará constar en autos la fecha de la publicación respectiva y fijará diariamente en lugar visible del local de la Junta, un ejemplar del Boletín Laboral o, en su caso, las listas de las notificaciones por estrados; coleccionando unos y otras, para resolver cualquier cuestión que se suscite sobre la omisión de alguna publicación.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Secretario responsable o en su caso el funcionario que al efecto se designe hará constar en autos la fecha de la publicación respectiva y fijará diariamente en lugar visible del local del Tribunal, un ejemplar del Boletín Laboral o, en su caso, las listas de las notificaciones por estrados; coleccionando unos y otras, para resolver cualquier cuestión que se suscite sobre la omisión de alguna publicación.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 Las listas de notificaciones deberán ser autorizadas y selladas en su fecha por el Secretario. La publicación de las notificaciones contendrá la fecha, el número del expediente y los nombres de las partes en los juicios de que se trate.
 
@@ -8204,7 +9386,21 @@ Las notificaciones surtirán sus efectos de la manera siguiente:
 
 I. Las personales: el día y hora en que se practiquen, contándose de momento a momento, cualquiera que sea la hora en que se haya hecho la notificación, salvo disposición en contrario en la Ley; y
 
-II. Las demás; al día siguiente al de su publicación en el Boletín o en los estrados de la Junta.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Las demás; al día siguiente al de su publicación en el Boletín, o en la lista que se publique en los estrados del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. En dos días las que se realicen al buzón electrónico, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Las realizadas por vía electrónica, se harán al buzón electrónico asignado a cada una de las partes, cuando se genere la constancia de la consulta realizada, la cual, por una parte, el órgano jurisdiccional digitalizará para el expediente electrónico y, por otra, hará una impresión que agregará al expediente impreso correspondiente como constancia de notificación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Se entiende generada la constancia cuando el sistema electrónico del Poder Judicial de la Federación y los Poderes Judiciales locales, produzca (sic) el aviso de la hora en que se recupere la determinación judicial correspondiente, contenida en el archivo electrónico.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8212,11 +9408,11 @@ II. Las demás; al día siguiente al de su publicación en el Boletín o en los 
 
 Las notificaciones deberán hacerse en horas hábiles con una anticipación de veinticuatro horas, por lo menos, del día y hora en que deba efectuarse la diligencia, salvo disposición en contrario de la Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 749.
 
-Las notificaciones hechas al apoderado o a las personas expresamente autorizadas legalmente por las partes, acreditadas ante la Junta, surtirán los mismos efectos que si se hubiesen hecho a ellas.
+Las notificaciones hechas al apoderado o a las personas expresamente autorizadas legalmente por las partes, acreditadas ante el Tribunal, surtirán los mismos efectos que si se hubiesen hecho a ellas.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8248,13 +9444,17 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XV. De las Providencias Cautelares
+### CAPITULO X. De la Acumulación
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 753.
 
-Las diligencias que no puedan practicarse en el lugar de residencia de la Junta que conozca del juicio deberán encomendarse por medio de exhorto al Presidente de la Junta de Conciliación y Arbitraje o al de las Especiales del domicilio en que deban practicarse; y, de no haberlas en dicho lugar, a la autoridad más próxima al lugar que corresponda dentro de la República Mexicana.
+Las diligencias que no puedan practicarse en el lugar de residencia del Tribunal o de la Autoridad Conciliadora que conozca del juicio o del procedimiento conciliatorio, según sea el caso, deberán encomendarse por medio de exhorto al Tribunal o a la Autoridad Conciliadora, del domicilio en que deban practicarse según corresponda; y, de no haberlas en dicho lugar, a la autoridad más próxima al lugar que corresponda dentro de la República Mexicana.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El envío, recepción y devolución de los exhortos excepto en el caso de desahogo de prueba testimonial, se realizará vía plataforma electrónica en la que deben estar enlazadas todas las autoridades de justicia laboral ya sean el Tribunal o a la Autoridad Conciliadora del orden federal y local.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8280,35 +9480,39 @@ II. No será necesaria la legalización de firmas, si las leyes o prácticas del
 
 En los exhortos que deban ser diligenciados dentro de la República Mexicana, no se requiere la legalización de firmas de la autoridad que los expida.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 757.
 
-La Junta deberá expedir los exhortos y despachos, al día siguiente de aquél en que surta sus efectos la resolución que los ordene.
+El Tribunal deberá expedir los exhortos y despachos, al día siguiente de aquél en que surta sus efectos la resolución que los ordene.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 758.
 
-Los exhortos y despachos que reciban las autoridades a que se refiere el artículo 753, se proveerán dentro de las setenta y dos horas siguientes a su recepción y se deberán diligenciar dentro de los cinco días siguientes, salvo en los casos en que por la naturaleza de lo que haya de practicarse, exija necesariamente mayor tiempo; en este caso, la autoridad requerida fijará el que crea conveniente sin que el término fijado pueda exceder de quince días.
+Los exhortos y despachos que reciban los Tribunales a que se refiere el artículo 753, se proveerán y deberán diligenciar dentro de los cinco días siguientes, salvo en los casos en que por la naturaleza de lo que haya de practicarse, exija necesariamente mayor tiempo; en este caso, la autoridad requerida fijará el que crea conveniente sin que el termino fijado pueda exceder de quince días.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 759.
 
-Cuando se demore el cumplimiento de un exhorto, se recordará de oficio o a instancia de parte, a la autoridad exhortada; si a pesar del recordatorio continúa la demora, la autoridad exhortante lo pondrá en conocimiento del superior inmediato del exhortado.
+Cuando se demore el cumplimiento de un exhorto, se recordará de oficio o a instancia de parte, a la autoridad exhortada; si a pesar del recordatorio continúa la demora, la autoridad exhortante lo pondrá en conocimiento del Consejo de la Judicatura que corresponda al ámbito de actuación del exhortado, y se considerará como un acto notoriamente improcedente de dilación por parte de la autoridad exhortada, en los términos del artículo 48 Bis de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 760.
 
-La Junta a solicitud de parte, podrá entregar el exhorto y sus anexos al oferente previa razón que deje en autos, quien bajo su más estricta responsabilidad lo entregará a la autoridad exhortada para su diligenciamiento.
+El Tribunal a solicitud de parte, podrá entregar el exhorto y sus anexos al oferente previa razón que deje en autos, quien bajo su más estricta responsabilidad lo entregará a la autoridad exhortada para su diligenciamiento.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 El oferente devolverá el exhorto diligenciado bajo su más estricta responsabilidad a la exhortante.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVI
+### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 761.
 
@@ -8338,7 +9542,23 @@ Cuando en una audiencia o diligencia se promueva incidente de falta de personali
 
 En los demás casos a que se refiere el artículo anterior, se señalará día y hora para la celebración de la audiencia incidental, que se realizará dentro de las veinticuatro horas siguientes, en la que las partes podrán ofrecer y desahogar pruebas documentales e instrumentales para que de inmediato se resuelva el incidente, continuándose el procedimiento.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Lo establecido en los párrafos anteriores no aplica en lo que se refiere al juicio individual ordinario previsto en el capítulo XVII del presente Título.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Al promoverse un incidente, se señalarán los motivos de este y acompañarse las pruebas en que lo funde; de no cumplir con dichos requisitos, el tribunal lo desechará de plano.
+
 Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 763 Bis.
+
+En lo que se refiere a los incidentes que se promuevan en el Juicio Individual Ordinario, los incidentes se sustanciarán y resolverán en la audiencia preliminar oyendo a las partes, sin suspensión del procedimiento, a excepción del incidente de nulidad, el que deberá promoverse dentro de los tres días siguientes en que se tenga conocimiento del acto irregular, hasta antes que se dicte sentencia. En este caso, el juez señalará día y hora para la celebración de la audiencia incidental que se realizará dentro de las veinticuatro horas siguientes, en la cual se podrán ofrecer y desahogar pruebas documentales, instrumentales y presuncionales para que de inmediato se resuelva el incidente, continuándose el procedimiento.
+
+A quien promueva un incidente notoriamente improcedente, se le impondrá una multa de hasta 100 veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8352,21 +9572,27 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVII
+### CAPITULO XII. De las Pruebas
 
-Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 766.
 
-En los procesos de trabajo que se encuentren en trámite ante las Juntas de Conciliación y Arbitraje, procede la acumulación de oficio o a instancia de parte, en los casos siguientes:
+En los procesos de trabajo que se encuentren en trámite ante los Tribunales, procede la acumulación de oficio o a instancia de parte, en los casos siguientes:
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Cuando se trate de juicios promovidos por el mismo actor contra el mismo demandado, en los que se reclamen las mismas prestaciones;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Cuando sean las mismas partes, aunque las prestaciones sean distintas, pero derivadas de una misma relación de trabajo;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 III. Cuando se trate de juicios promovidos por diversos actores contra el mismo demandado, si el conflicto tuvo su origen en el mismo hecho derivado de la relación de trabajo; y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 IV. En todos aquellos casos, que por su propia naturaleza las prestaciones reclamadas o los hechos que las motivaron, puedan originar resoluciones contradictorias.
 
@@ -8390,7 +9616,9 @@ La acumulación declarada procedente, produce los siguientes efectos:
 
 I. En el caso de la fracción I, del artículo 766, no surtirá efecto alguno lo actuado en el juicio o juicios acumulados y únicamente surtirán efecto las actuaciones del juicio más antiguo; y
 
-II. En los casos previstos por las fracciones II, III y IV del artículo 766, los conflictos se resolverán por la misma Junta en una sola resolución.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. En los casos previstos por las fracciones II, III y IV del artículo 766, los conflictos se resolverán por el mismo Tribunal en una sola resolución.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8398,43 +9626,45 @@ II. En los casos previstos por las fracciones II, III y IV del artículo 766, lo
 
 Para la tramitación y resolución de la acumulación, se observarán las normas contenidas en los artículos 761 al 765.
 
-Será competente para conocer de la acumulación la Junta de Conciliación y Arbitraje que hubiere prevenido; observándose en lo conducente, lo dispuesto en el Capítulo III de este Título.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Será competente para conocer de la acumulación el Tribunal que hubiere prevenido; observándose en lo conducente, lo dispuesto en el capítulo III de este Título.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVIII. De los Procedimientos Especiales
+### CAPITULO XIII. De las Resoluciones Laborales
 
-(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 771.
 
-Los Presidentes de las Juntas y los Auxiliares cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la Ley corresponda hasta dictar laudo, salvo disposición en contrario.
+El Tribunal cuidará, bajo su más estricta responsabilidad, que los juicios que ante él se tramiten no queden inactivos, proveyendo lo que conforme a la Ley corresponda hasta dictar sentencia, salvo disposición en contrario.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 En caso de no cumplir lo anterior, se harán acreedores a las sanciones que establezcan las Leyes de responsabilidades administrativas de los servidores públicos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 772.
 
-Cuando, para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador y éste no la haya efectuado dentro de un lapso de cuarenta y cinco días naturales, el Presidente de la Junta deberá ordenar que se le requiera personalmente para que la presente, apercibiéndolo de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
+Cuando, para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador y éste no la haya efectuado dentro de un lapso de cuarenta y cinco días naturales, el Tribunal deberá ordenar que se le requiera personalmente para que la presente, apercibiéndolo de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
 
-Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata al trabajador y a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
+Si el trabajador está patrocinado por un Procurador del Trabajo, el Tribunal notificará el acuerdo de que se trata al trabajador y a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 773.
 
-La Junta, a petición de parte, tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de cuatro meses, siempre que esa promoción sea necesaria para la continuación del procedimiento y se haya cumplido lo dispuesto en el artículo anterior. No se considerará que dicho término opera si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes a que se refiere este artículo, o la práctica de alguna diligencia, o se encuentre pendiente de acordarse la devolución de un exhorto o la recepción de informes o copias que se hubiesen solicitado a diversa autoridad dentro del procedimiento.
+El Tribunal, a petición de parte, tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de cuatro meses, siempre que esa promoción sea necesaria para la continuación del procedimiento y se haya cumplido lo dispuesto en el artículo anterior. No se considerará que dicho término opera si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes a que se refiere este artículo, o la práctica de alguna diligencia, o se encuentre pendiente de acordarse la devolución de un exhorto o la recepción de informes o copias que se hubiesen solicitado a diversa autoridad dentro del procedimiento.
 
-Para los efectos del párrafo anterior, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
+Para los efectos del párrafo anterior, el Tribunal citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 774.
 
-En caso de muerte del trabajador, mientras tanto comparecen a juicio sus beneficiarios, la Junta hará la solicitud al Procurador de la Defensa del Trabajo, en los términos y para los efectos a que se refiere el artículo 772 de esta Ley.
+En caso de muerte del trabajador, mientras tanto comparecen a juicio sus beneficiarios, el Tribunal hará la solicitud al Procurador de la Defensa del Trabajo, en los términos y para los efectos a que se refiere el artículo 772 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -8450,9 +9680,7 @@ Reunidos los requisitos a que se refieren los artículos que anteceden, cesará 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+### CAPITULO XIV. De la Revisión de los Actos de Ejecución
 
 #### Sección Primera. Reglas Generales
 
@@ -8480,23 +9708,35 @@ VII. Instrumental de actuaciones; y
 
 VIII. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de la información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general, los medios aportados por los descubrimientos de la ciencia.
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IX. Las Constancias de notificación hechas a través del Buzón Electrónico, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+X. Los recibos de nómina con sello digital.
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 777.
 
 Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes.
 
-(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 778.
 
-Las pruebas deberán ofrecerse en la misma audiencia, salvo que se refieran a hechos supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos.
+Las pruebas deberán ofrecerse conforme a lo previsto para cada uno de los procedimientos regulados por esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las pruebas que se refieran a hechos supervenientes, podrán ofrecerse hasta antes de emitir sentencia, dentro de los tres días siguientes en que se tenga conocimiento de los mismos. El Tribunal deberá dar vista con dichas pruebas a las demás partes para que manifiesten lo que a su derecho e interés convenga y en su caso formulen las objeciones correspondientes; de ser necesario, se señalará día y hora para su desahogo en audiencia.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 779.
 
-La Junta desechará aquellas pruebas que no tengan relación con la litis planteada o resulten inútiles o intrascendentes, expresando el motivo de ello.
+El Tribunal desechará aquellas pruebas que no tengan relación con la litis planteada o resulten inútiles o intrascendentes, expresando el motivo de ello.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8510,29 +9750,45 @@ Las pruebas se ofrecerán acompañadas de todos los elementos necesarios para su
 
 Las partes podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes, y examinar los documentos y objetos que se exhiban.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 782.
 
-La Junta podrá ordenar con citación de las partes, el examen de documentos, objetos y lugares, su reconocimiento por actuarios o peritos y, en general, practicar las diligencias que juzgue conveniente para el esclarecimiento de la verdad y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
+El Tribunal podrá ordenar con citación de las partes, el examen de documentos, objetos y lugares, su reconocimiento por actuarios o peritos y, en general, practicar las diligencias que juzgue conveniente para el esclarecimiento de la verdad y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez podrá interrogar libremente a las partes y a todos aquellos que intervengan en el juicio sobre los hechos y circunstancias que sean conducentes para averiguar la verdad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 783.
 
-Toda autoridad o persona ajena al juicio que tenga documentos en su poder que puedan contribuir al esclarecimiento de la verdad deberá aportarlos, a más tardar en la audiencia de ofrecimiento y admisión de pruebas o, hasta antes del cierre de la instrucción, cuando le sean requeridos por la Junta de Conciliación y Arbitraje.
+Toda autoridad o persona ajena al juicio que tenga documentos en su poder que puedan contribuir al esclarecimiento de la verdad deberá aportarlos, a más tardar en la Audiencia de Juicio, hasta antes del cierre de la instrucción, cuando le sean requeridos por el Tribunal.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En lo que hace al juicio individual ordinario a que se refiere el capítulo XVII del Título Catorce de esta Ley, los documentos deberán aportarse en la Audiencia Preliminar o en su defecto hasta antes del cierre de la instrucción. Los Tribunales deberán tomar las medidas pertinentes para cumplir con esta disposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 784.
 
-La Junta eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos, y para tal efecto requerirá al patrón para que exhiba los documentos que, de acuerdo con las leyes, tiene la obligación legal de conservar en la empresa, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá al patrón probar su dicho cuando exista controversia sobre:
+El Tribunal eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos, y para tal efecto a petición del trabajador o de considerarlo necesario requerirá al patrón para que exhiba los documentos que, de acuerdo con las leyes, tiene la obligación legal de conservar en la empresa, bajo el apercibimiento de que, de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá al patrón probar su dicho cuando exista controversia sobre:
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Fecha de ingreso del trabajador;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Antigüedad del trabajador;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 III. Faltas de asistencia del trabajador;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 IV. Causa de rescisión de la relación de trabajo;
 
@@ -8540,9 +9796,19 @@ IV. Causa de rescisión de la relación de trabajo;
 
 V. Terminación de la relación o contrato de trabajo para obra o tiempo determinado, en los términos de los artículos 37, fracción I, y 53, fracción III, de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. Constancia de haber dado aviso por escrito al trabajador o a la Junta de Conciliación y Arbitraje de la fecha y la causa de su despido;
+VI. Constancia de haber dado por escrito al trabajador o al Tribunal de la fecha y la causa del despido.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La negativa lisa y llana del despido, no revierte la carga de la prueba.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Asimismo, la negativa del despido y el ofrecimiento del empleo hecho al trabajador, no exime al patrón de probar su dicho;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 VII. El contrato de trabajo;
 
@@ -8554,11 +9820,19 @@ VIII. Jornada de trabajo ordinaria y extraordinaria, cuando ésta no exceda de n
 
 IX. Pagos de días de descanso y obligatorios, así como del aguinaldo;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 X. Disfrute y pago de las vacaciones;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 XI. Pago de las primas dominical, vacacional y de antigüedad;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 XII. Monto y pago del salario;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 XIII. Pago de la participación de los trabajadores en las utilidades de las empresas; y
 
@@ -8570,11 +9844,21 @@ XIV. Incorporación y aportaciones al Instituto Mexicano del Seguro Social; al F
 
 La pérdida o destrucción de los documentos señalados en este artículo, por caso fortuito o fuerza mayor, no releva al patrón de probar su dicho por otros medios.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 785.
 
-Si alguna persona está imposibilitada por enfermedad u otra causa a concurrir al local de la Junta para absolver posiciones; reconocer el contenido o firma de un documento o rendir testimonio, y lo justifica a juicio de la misma, mediante certificado médico u otra constancia fehaciente que exhiba bajo protesta de decir verdad, señalará nueva fecha para el desahogo de la prueba y, de subsistir el impedimento, podrá ordenar que el secretario, acompañado por los miembros de la Junta que lo deseen, se traslade al lugar donde se encuentra el imposibilitado para el desahogo de la prueba. De no encontrarse la persona, se le declarará confeso o por reconocidos los documentos a que se refiere la diligencia o bien, por desierta la prueba, según sea el caso.
+Si alguna persona está imposibilitada por enfermedad u otra causa para concurrir al local del Tribunal para absolver posiciones; reconocer el contenido o firma de un documento o rendir testimonio, y lo justifica a juicio del mismo, mediante certificado médico u otra constancia fehaciente que exhiba bajo protesta de decir verdad e indicando el domicilio en el que se encuentra la persona imposibilitada, el juez dispondrá lo necesario para desahogar la prueba en la misma audiencia, ya sea en el local del Tribunal o en el domicilio en el que se encuentre dicha persona, a menos que exista imposibilidad para ello, lo que deberá justificarse plenamente; en este caso se deberá señalar nuevo día y hora para desahogar la prueba dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez podrá ordenar que el actuario judicial se traslade de inmediato a efecto de que se cerciore que la persona imposibilitada se encuentra en el domicilio proporcionado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+De no encontrarse ésta en el domicilio se le declarará confeso o por reconocidos los documentos a que se refiere la diligencia o bien, por desierta la prueba, según sea el caso.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Los certificados médicos deberán contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado patológico que impide la comparecencia del citado. Los certificados médicos expedidos por instituciones públicas de seguridad social no requieren ser ratificados.
 
@@ -8582,33 +9866,57 @@ Los certificados médicos deberán contener el nombre y número de cédula profe
 
 #### Sección Segunda. De la Confesional
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 786.
 
-Cada parte podrá solicitar que se cite a su contraparte para que concurra a absolver posiciones.
+Cada parte podrá solicitar que se cite a su contraparte para que concurra a absolver posiciones y responder preguntas.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Tratándose de personas morales, la confesional puede desahogarse por conducto de su representante legal o apoderado con facultades para absolver posiciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 Los sindicatos u organizaciones de trabajadores o patrones absolverán posiciones por conducto de su secretario general o integrante de la representación estatutariamente autorizada o por apoderado con facultades expresas.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 787.
 
-Las partes podrán también solicitar que se cite a absolver posiciones personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
+Las partes podrán también solicitar que se cite a absolver posiciones o responder preguntas personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La presentación de los absolventes a que se refiere el párrafo anterior para el desahogo de su confesional en la audiencia de juicio, quedará a cargo del apoderado legal de la parte patronal, salvo que demuestre causa justificada que lo impida, en cuyo caso el tribunal lo citará por conducto de actuario.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez podrá desechar la confesional o interrogatorio para hechos propios del absolvente que se pretenda comparezca a juicio, cuando:
+
+a) No se cumplan las hipótesis previstas en el primer párrafo del presente artículo;
+
+b) Sea sobreabundante o se trate de absolventes cuya confesión o declaración verse sobre los mismos hechos;
+
+c) Cuando los hechos sobre los que se pretenda que declare, resulten inverosímiles a criterio del juez, y
+
+d) Su comparecencia resulte innecesaria o su desahogo pueda causar una dilación indebida del juicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 788.
 
-La Junta ordenará se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que se les articulen.
+El juez ordenará se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que, si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que se les articulen.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El juez podrá reducir el número de personas de quienes se pida sean citados a desahogar la prueba confesional, cuando estime que sus declaraciones puedan resultar una reiteración inútil sobre los mismos hechos, o cuando advierta que se causará una dilación innecesaria del juicio.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 789.
 
-Si la persona citada para absolver posiciones, no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
+Si la persona citada para responder preguntas y absolver posiciones, no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8616,31 +9924,43 @@ Si la persona citada para absolver posiciones, no concurre en la fecha y hora se
 
 En el desahogo de la prueba confesional se observarán las normas siguientes:
 
-I. Las posiciones podrán formularse en forma oral o por escrito, que exhiba la parte interesada en el momento de la audiencia;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+I. Las preguntas y/o posiciones se formularán en forma oral en el momento de la audiencia mediante interrogatorio abierto, sin presentación de pliegos; deberán referirse a los hechos controvertidos en términos claros y precisos, que puedan ser entendidas sin dificultad, y cuyo fin sea esclarecer la verdad de los hechos;
 
-II. Las posiciones se formularán libremente, pero deberán concretarse a los hechos controvertidos; no deberán ser insidiosas o inútiles. Son insidiosas las posiciones que tiendan a ofuscar la inteligencia del que ha de responder, para obtener una confesión contraria a la verdad; son inútiles aquellas que versan sobre hechos que hayan sido previamente confesados o que no están en contradicción con alguna prueba o hecho fehaciente que conste en autos o sobre los que no exista controversia;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+II. El juez, de oficio o a petición de parte, podrá desechar las preguntas que no cumplan con dichos requisitos, justificando su decisión; también podrá formular a los absolventes las preguntas que estime pertinentes, así como ordenarles que precisen o aclaren sus respuestas;
 
-III. El absolvente deberá identificarse con cualquier documento oficial y, bajo protesta de decir verdad, responder por sí mismo sin asistencia. No podrá valerse de borrador de respuestas, pero sí se le permitirá que consulte notas o apuntes si la Junta, después de conocerlos, resuelve que son necesarios para auxiliar su memoria;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente;
+III. El declarante bajo protesta de decir verdad, responderá por sí mismo, sin ser asistido por persona alguna. No podrá valerse de borrador de respuestas, pero se le permitirá que consulte notas o apuntes, si el juez resuelve que son necesarios para auxiliar su memoria;
 
-V. Las posiciones serán calificadas previamente, y cuando no reúnan los requisitos a que se refiere la fracción II, la Junta las desechará asentando en autos el fundamento y motivo concreto en que apoye su resolución;
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-VI. El absolvente contestará las posiciones afirmando o negando; pudiendo agregar las explicaciones que juzgue convenientes o las que le pida la Junta; las respuestas también se harán constar textualmente en el acta respectiva; y
+V. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-VII. Si el absolvente se niega a responder o sus respuestas son evasivas, la Junta de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso si persiste en ello.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+VI. El declarante contestará las posiciones o preguntas que se le formulen, pudiendo agregar las explicaciones que juzgue convenientes o las que le pida el Tribunal;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VII. Si el declarante se niega a responder o sus respuestas son evasivas, el Tribunal de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso de los hechos que se le atribuyen si persiste en ello.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 790 Bis.
+
+Si fueren varios los declarantes, las diligencias se practicarán evitando que los que declaren primero se comuniquen con los que lo hagan después; éstos últimos permanecerán en una sala distinta a aquélla en donde se desarrolle la audiencia, por lo que serán llamados a declarar en el orden establecido. Esta disposición no aplica para el actor ni el demandado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 791.
 
-Si la persona que deba absolver posiciones tiene su residencia fuera del lugar donde se encuentre la Junta, ésta librará exhorto, acompañando, en sobre cerrado y sellado, el pliego de posiciones previamente calificado; del que deberá sacarse una copia que se guardará en el secreto de la Junta.
+Si la persona que deba absolver posiciones y responder preguntas tiene su residencia fuera del lugar donde se encuentre el Tribunal, éste librará exhorto para que cite al declarante y provea lo necesario para que comparezca ante éste por conducto del Tribunal exhortado el día y hora señalados para tal efecto; dicha prueba se rendirá vía remota a través de videoconferencia, en la que el tribunal exhortante conducirá el desahogo de la confesional.
 
-La Junta exhortada recibirá la confesional en los términos en que se lo solicite la Junta exhortante.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8648,13 +9968,13 @@ La Junta exhortada recibirá la confesional en los términos en que se lo solici
 
 Se tendrán por confesión expresa y espontánea, las afirmaciones contenidas en las posiciones que formule el articulante.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 793.
 
-Cuando la persona a quien se señale para absolver posiciones sobre hechos propios ya no labore para la empresa o establecimiento, previa comprobación del hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento de la Junta antes de la fecha señalada para la celebración de la audiencia de desahogo de pruebas, y la Junta podrá solicitar a la empresa que proporcione el último domicilio que tenga registrado de dicha persona. En el supuesto de que la persona a que se refiere este artículo haya dejado de prestar sus servicios a la empresa por un término mayor de tres meses, la prueba cambiará su naturaleza a testimonial.
+Cuando el declarante para hechos propios ya no labore para la empresa o establecimiento, previa comprobación del hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citado. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal antes de la fecha señalada para la celebración de la audiencia de Juicio en que se desahogue la prueba; el Tribunal podrá solicitar a la empresa que proporcione el último domicilio que tenga registrado de dicha persona. En el supuesto de que la persona a que se refiere este artículo haya dejado de prestar sus servicios a la empresa por un término mayor de tres meses, la prueba cambiará su naturaleza a testimonial.
 
-Si la persona citada no concurre el día y hora señalados, la Junta lo hará presentar mediante el uso de la fuerza pública.
+Si la persona citada no concurre el día y hora señalados, el juez valorará la pertinencia de la prueba en relación con los hechos controvertidos, pudiendo desecharla en caso de considerar que resulta irrelevante para esclarecerlos o la dificultad de su desahogo sea motivo del retraso injustificado del procedimiento.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8666,13 +9986,13 @@ Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de
 
 #### Sección Tercera. De las documentales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 795.
 
-Son documentos públicos aquellos cuya formulación está encomendada por la Ley a un funcionario investido de fe pública, así como los que expida en ejercicio de sus funciones.
+Son documentos públicos aquellos cuya formulación está encomendada por la Ley a un funcionario investido de fe pública, o a aquellos servidores públicos que los expidan en ejercicio de sus funciones.
 
-Los documentos públicos expedidos por las autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios, harán fe en el juicio sin necesidad de legalización.
+Los documentos públicos expedidos por las autoridades de la Federación, de los estados, de la Ciudad de México o de los municipios y alcaldías, así como de los organismos públicos autónomos harán fe en el juicio sin necesidad de legalización.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8686,11 +10006,11 @@ Son documentos privados los que no reúnen las condiciones previstas por el art�
 
 Los originales de los documentos privados se presentarán por la parte oferente que los tenga en su poder; si éstos se objetan en cuanto a contenido y firma se dejarán en autos hasta su perferccionamiento (sic); en caso de no ser objetados, la oferente podrá solicitar la devolución del original, previa copia certificada en autos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 798.
 
-Si el documento privado consiste en copia simple o fotostática se podrá solicitar, en caso de ser objetado, la compulsa o cotejo con el original; para este efecto, la parte oferente deberá precisar el lugar donde el documento original se encuentre.
+Si el documento privado consiste en copia simple o fotostática se podrá solicitar, en caso de ser objetado, la compulsa o cotejo con el original; para este efecto, la parte oferente deberá justificar los motivos o el impedimento para no presentarlo en juicio y precisar el lugar donde el documento original se encuentre. En este caso el juez requerirá al tenedor del mismo su presentación en la audiencia de juicio, de no ser posible ello por disposición legal o impedimento material, podrá comisionar al actuario o secretario para que lo lleve a cabo; a fin de desahogar este medio de perfeccionamiento la diligencia se efectuará, en lo conducente, conforme a lo señalado en los artículos 827 y 829 de esta Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8704,13 +10024,15 @@ Si el documento original sobre el que deba practicarse el cotejo o compulsa se e
 
 Cuando un documento que provenga de tercero ajeno al juicio, resulta impugnado, deberá ser ratificado en su contenido y firma por el suscriptor, para lo cual deberá ser citado en los términos de la fracción VII del artículo 742 de esta Ley.
 
-La contraparte podrá formular las preguntas en relación con los hechos contenidos en el documento.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+La contraparte podrá formular las preguntas en relación a la idoneidad del ratificante así como sobre los elementos circunstanciales de los hechos contenidos en el documento y los de su elaboración, para lo cual se observarán las reglas establecidas en el artículo 815 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 801.
 
-Los interesados presentarán los originales de los documentos privados y, cuando formen parte de un libro, expediente o legajo, exhibirán copia para que se compulse la parte que señalen, indicando el lugar en donde éstos se encuentren.
+Los interesados presentarán los originales de los documentos privados y, cuando formen parte de un libro, expediente o legajo, exhibirán copia para que se compulse la parte que señalen, indicando el lugar en donde éstos se encuentren, debiendo justificar la circunstancia por la cual no puede exhibirlos en el Tribunal; en este caso el juez podrá comisionar a un actuario o secretario para que de fe de los extremos de la prueba, observando en lo conducente lo establecido en los artículos 827 y 829 de esta Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8724,11 +10046,11 @@ Se entiende por suscripción de un escrito la colocación al pie o al margen del
 
 La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 803.
 
-Cada parte exhibirá los documentos u objetos que ofrezca como prueba para que obren en autos. Si se trata de informes, o copias, que deba expedir alguna autoridad, la Junta deberá solicitarlos directamente.
+Cada parte exhibirá los documentos u objetos que ofrezca como prueba para que obren en autos. Si se trata de informes, o copias, que deba expedir alguna autoridad, el Tribunal deberá solicitarlos directamente, asegurándose de recabarlos antes de la audiencia de juicio.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8770,7 +10092,9 @@ Siempre que uno de los litigantes pida copia o testimonio de un documento, pieza
 
 Los documentos existentes en el lugar donde se promueva el juicio, que se encuentren en poder de la contraparte, autoridades o terceros, serán objeto de cotejo o compulsa, a solicitud de la oferente, por conducto del actuario.
 
-Los documentos existentes en lugar distinto del de la residencia de la Junta, que se encuentren en cualquiera de los supuestos mencionados en el párrafo anterior, se cotejarán o compulsarán a solicitud del oferente, mediante exhorto dirigido a la autoridad que corresponda.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los documentos existentes en lugar distinto del de la residencia del Tribunal, que se encuentren en cualquiera de los supuestos mencionados en el párrafo anterior, se cotejarán o compulsarán a solicitud del oferente, mediante exhorto dirigido a la autoridad que corresponda.
 
 Para que proceda la compulsa o cotejo, deberá exhibirse en la audiencia de ofrecimiento de pruebas, copia del documento que por este medio deba ser perfeccionado.
 
@@ -8780,11 +10104,11 @@ Para que proceda la compulsa o cotejo, deberá exhibirse en la audiencia de ofre
 
 Para que hagan fe en la República, los documentos procedentes del extranjero deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las Leyes relativas o los tratados internacionales.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 809.
 
-Los documentos que se presenten en idioma extranjero deberán acompañarse de su traducción; la Junta, de oficio nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días, que podrá ser ampliado por la Junta, cuando a su juicio se justifique.
+Los documentos que se presenten en idioma extranjero deberán acompañarse de su traducción; el tribunal de oficio nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días; el juez deberá tomar las medidas necesarias para que dicha traducción esté lista antes de la audiencia de juicio.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8810,33 +10134,45 @@ Las declaraciones o manifestaciones de que se trate prueban contra quienes las h
 
 #### Sección Cuarta. De la Testimonial
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 813.
 
+Todos los que tengan conocimiento de los hechos que las partes deben probar, están obligados a declarar como testigos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , D.O.F. 4 DE ENERO DE 1980)</small>
+
 La parte que ofrezca prueba testimonial deberá cumplir con los requisitos siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Los testigos deberán ofrecerse en relación con los hechos controvertidos que se pretendan probar con su testimonio, hasta un máximo de cinco testigos para cada hecho, en el entendido de que para su desahogo se estará a lo dispuesto en la fracción X del artículo 815 de esta Ley;
+I. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Indicará los nombres de los testigos; cuando exista impedimento para presentarlos directamente, podrá solicitar a la Junta que los cite, señalando la causa o los motivos justificados que se lo impidan, en cuyo caso deberá proporcionar sus domicilios y, de resultar éstos incorrectos, quedará a cargo del oferente su presentación;
+II. Indicará los nombres y domicilios de los testigos; cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse al Tribunal que los cite, señalando la causa o motivo justificados que se lo impidan, en cuyo caso deberá proporcionar su domicilio y, de resultar éstos incorrectos, quedará a cargo del oferente su presentación;
 
-> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Si el testigo radica fuera del lugar de residencia de la Junta, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser examinado el testigo; de no hacerlo, se declarará desierta. Asimismo, exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presenten su pliego de repreguntas en sobre cerrado; y
+III. Si el testigo radica fuera del lugar de residencia del Tribunal, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser examinado el testigo y exhibir copias para cada una de las partes, de no hacerlo, se declarará desierta. Las copias del interrogatorio, se pondrán a disposición de las demás partes, para que dentro del término de tres días presenten su pliego de repreguntas en sobre cerrado.
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Cuando el testigo sea servidor público de mando superior, a juicio de la Junta, podrá rendir su declaración por medio de oficio, observándose lo dispuesto en este artículo en lo que sea aplicable.
+El Tribunal, librará exhorto, acompañando, en sobre cerrado y sellado, los interrogatorios en su caso previamente calificados; del que deberá sacarse una copia que se guardará en el secreto del Tribunal, para que sea desahogado por el Tribunal exhortado.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+No obstante, lo anterior de no existir impedimento técnico o material, el tribunal podrá ordenar que el desahogo de la prueba se rinda vía remota, a través de videoconferencia, cuando sea posible, para lo cual el tribunal exhortado deberá asegurarse de que el testigo se encuentre en la sala de audiencias que disponga para llevar a cabo dicha prueba;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Cuando el testigo sea servidor público, desde el nivel de Dirección o similar, rendirá su declaración por medio de oficio en vía de informe, observándose lo dispuesto en este artículo en lo que sea aplicable.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 814.
 
-La Junta, en el caso de la fracción II del artículo anterior, ordenará que se cite al testigo para que rinda su declaración en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por medio de la fuerza pública.
+El Tribunal, en el caso de la fracción II del artículo anterior, ordenará que se cite al testigo para que rinda su declaración en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por medio de la fuerza pública.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8844,69 +10180,93 @@ La Junta, en el caso de la fracción II del artículo anterior, ordenará que se
 
 En el desahogo de la prueba testimonial se observarán las normas siguientes:
 
-I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 813, y la Junta procederá a recibir su testimonio;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 813, y el Tribunal procederá a recibir su testimonio;
 
-II. El testigo deberá identificarse ante la Junta en los términos de lo dispuesto en la fracción IV del artículo 884 de esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Previo al inicio de la comparecencia, el Tribunal deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hiciere en el momento de la audiencia, se dejará sin efectos la declaración correspondiente. Podrá dispensarse lo anterior sí las partes reconocen al testigo; se harán constar el nombre, edad, domicilio, ocupación, puesto y lugar en que trabaja, si guarda parentesco por consanguinidad o afinidad de alguna de las partes o sus representantes, si es dependiente o empleado del que lo presente, si tiene con él sociedad o alguna otra relación, si tiene interés directo o indirecto en el procedimiento, si es amigo de alguna de las partes y a continuación se procederá a tomar su declaración;
 
 III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en las fracciones III y IV del artículo 813 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Después de tomar al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se harán constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que se trabaja y a continuación se procederá a tomar su declaración;
+IV. El Tribunal tomará al testigo la protesta de conducirse con verdad y lo advertirá de las penas en que incurren los testigos falsos;
 
-V. Las partes formularán las preguntas en forma verbal y directamente. La Junta admitirá aquellas que tengan relación directa con el asunto de que se trata y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+V. Las partes formularán las preguntas en forma verbal y directamente y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación.
 
-VI. Primero interrogará al oferente de la prueba y posteriormente a las demás partes. La Junta, cuando lo estime pertinente, examinará directamente al testigo;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+No se permitirán preguntas ambiguas, indicativas, ni referirse a hechos y circunstancias ajenas al objeto de la prueba o que pretendan coaccionar a los testigos.
 
-VII. Las preguntas y las respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Las preguntas podrán ser objetadas por la contraparte antes de que el testigo emita su respuesta, para lo cual el juez procederá a calificar la procedencia o desechamiento de la pregunta, fundando su determinación.
 
-VIII. Los testigos están obligados a dar la razón de su dicho, y la Junta deberá solicitarla, respecto de las respuestas que no la lleven ya en sí;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Si a juicio del juez hubiere puntos no suficientemente esclarecidos, podrá ordenar al testigo que lo aclare;
 
-IX. El testigo, enterado de su declaración, firmará al margen de las hojas que la contengan y así se hará constar por el secretario; si no sabe o no puede leer o firmar la declaración, le será leída por el secretario e imprimirá su huella digital y, una vez ratificada, no podrá variarse en la sustancia ni en la redacción;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+VI. Primero interrogará el oferente de la prueba y posteriormente las demás partes. El Tribunal, cuando lo estime pertinente, examinará directamente al testigo;
 
-X. Sólo se recibirá la declaración de tres testigos por cada hecho que se pretenda probar; en el caso que se presentaran más de tres testigos, el oferente de la prueba designará entre ellos quiénes la desahogarán; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+VII. Las preguntas y las respuestas se harán constar en autos a través de medios gráficos, documentales, de audio o audiovisuales. Para ello el tribunal implementará los sistemas que considere necesarios para dejar constancia del desarrollo de la audiencia, privilegiando los principios de inmediatez, concentración y celeridad procesal. En ningún caso se permitirá el dictado de las preguntas y respuestas;
 
-XI. El desahogo de esta prueba será indivisible, salvo que alguno de los testigos radique fuera del lugar de residencia de la Junta y que la prueba tenga que desahogarse por exhorto, en cuyo caso la Junta adoptará las medidas pertinentes para que los otros testigos no tengan conocimiento previo de las declaraciones desahogadas.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+VIII. Los testigos están obligados a dar la razón de su dicho, y el Tribunal deberá solicitarla, respecto de las respuestas que no la lleven ya en sí;
+
+IX. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+X. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XI. El desahogo de esta prueba es indivisible, salvo que alguno de los testigos radique fuera del lugar de residencia del Tribunal y que la prueba tenga que desahogarse por exhorto, en cuyo caso el juzgador adoptará las medidas pertinentes para que los otros testigos no tengan conocimiento previo de las declaraciones desahogadas;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XII. Durante el interrogatorio y contrainterrogatorio, para superar o evidenciar contradicciones, o solicitar las aclaraciones pertinentes, las partes o sus apoderados podrán poner a la vista del testigo documentos elaborados por éste o en los que hubiere participado, así como pedirle que lea parte de los mismos, cuando sea necesario para apoyar su memoria. Solo podrán ponerse a la vista documentos que formen parte de los autos, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XIII. En su oportunidad, las partes podrán manifestar lo que a su interés convenga respecto de las circunstancias personales de los testigos y de la veracidad de sus manifestaciones, conforme lo establece el artículo 818 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Si el testigo lo solicita, se le extenderá una constancia de que asistió a la diligencia.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 816.
 
-Si el testigo no habla el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por la Junta, el que protestará su fiel desempeño. Cuando el testigo lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
+Si el testigo no habla el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el Tribunal, el que protestará su fiel desempeño. Cuando el oferente lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 817.
 
-La Junta, al girar el exhorto para desahogar la prueba testimonial, acompañará los interrogatorios con las preguntas y las repreguntas calificadas, a cuyo tenor deberá desahogarse la prueba, sin que las partes puedan ampliarlos, e indicará a la autoridad exhortada los nombres de las personas que tienen facultad para intervenir en la diligencia.
+El Tribunal, al girar el exhorto para desahogar la prueba testimonial, acompañará los interrogatorios con las preguntas y las repreguntas calificadas, a cuyo tenor deberá desahogarse la prueba, sin que las partes puedan ampliarlos, e indicará a la autoridad exhortada los nombres de las personas que tienen facultad para intervenir en la diligencia.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 818.
 
-Las objeciones o tachas a los testigos se formularán oralmente al concluir el desahogo de la prueba para su apreciación posterior por la Junta.
+Las objeciones a los testigos se formularán oralmente al concluir el desahogo de la prueba para su apreciación por el Tribunal.
 
-Cuando se objetare de falso a un testigo, la Junta recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere el artículo 884 de esta Ley.
+Cuando se objetare de falso un testigo, el Tribunal recibirá las pruebas en la audiencia de juicio. Solo se admitirán las pruebas documentales, las que consten en medios electrónicos, las presuncionales y las que se desahoguen por su propia y especial naturaleza. Desahogadas éstas y después de escuchar a las partes, se resolverá en la misma audiencia de juicio.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 819.
 
-Al testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, y la Junta dictará las medidas necesarias para que comparezca a rendir su declaración, el día y hora señalados.
+Al testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, y el Tribunal dictará las medidas necesarias para que comparezca a rendir su declaración, el día y hora señalados.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8924,29 +10284,39 @@ III. Concurran en el testigo circunstancias que sean garantía de veracidad.
 
 #### Sección Quinta. De la Pericial
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 821.
 
-La prueba pericial versará sobre cuestiones relativas a alguna ciencia, técnica, o arte.
+La prueba pericial sólo será admisible cuando para acreditar un hecho controvertido se requieran conocimientos en la ciencia, arte, profesión, técnica, oficio, o industria de que se trate, y en general cuando se trate de materias que por su naturaleza no sean conocidas por el Tribunal.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 822.
 
-Los peritos deben tener conocimiento en la ciencia, técnica, o arte sobre el cual debe versar su dictamen; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deberán acreditar estar autorizados conforme a la Ley.
+Los peritos deben acreditar que tienen conocimientos en la materia sobre la que deba versar su dictamen; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deben acreditar estar autorizados conforme a la Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 823.
 
-La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes. La omisión del cuestionario dará lugar a que la Junta no admita la prueba.
+La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes. La omisión del cuestionario dará lugar a que el Tribunal no admita la prueba.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 824.
 
-La Junta nombrará los peritos que correspondan al trabajador, cuando éste lo solicite.
+Al admitir la prueba pericial, el Tribunal designará al perito o peritos oficiales que estime necesarios, sin perjuicio de que las partes puedan acompañarse de un asesor que los auxilie durante el desahogo de dicha prueba.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La parte trabajadora podrá solicitar a la Defensoría Pública o a la Procuraduría del Trabajo que le asigne un asesor para que le auxilie en el desahogo de la prueba pericial.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 824 Bis.
+
+Si el perito se encuentra fuera de la jurisdicción del Tribunal, la prueba a su cargo podrá desahogarse mediante los medios electrónicos o tecnológicos de que se disponga; en estos casos, el Tribunal se asegurará que el Perito se identifique plenamente y que acepte y proteste su cargo ante el tribunal exhortado, cuando no lo haya hecho previamente ante el propio Tribunal del juicio.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -8954,47 +10324,55 @@ La Junta nombrará los peritos que correspondan al trabajador, cuando éste lo s
 
 En el desahogo de la prueba pericial se observarán las disposiciones siguientes:
 
-I. Cada parte presentará personalmente a su perito el día de la audiencia, salvo el caso previsto en el artículo anterior;
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-II. Los peritos protestarán de desempeñar su cargo con arreglo a la Ley e inmediatamente rendirán su dictamen; a menos que por causa justificada soliciten se señale nueva fecha para rendir su dictamen;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+II. El o los peritos, una vez que acepten y protesten su cargo con arreglo a la Ley y hacerse sabedores de las penas en que incurren los falsos declarantes, proporcionarán su nombre, edad, ocupación y lugar en que atienden su práctica o prestan sus servicios. Deberán asimismo acreditar que cuentan con los conocimientos en la materia sobre la que rendirán su dictamen con el o los documentos respectivos. Acto seguido deberán rendir su dictamen;
 
-III. El día señalado para que tenga verificativo la audiencia respectiva, el o los peritos que concurran a la misma rendirán su dictamen. Si alguno no concurriera a la audiencia, sin causa justificada a juicio de la Junta, se señalará nueva fecha para que lo rinda, dictando la Junta las medidas para que comparezca;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+III. El dictamen versará sobre los puntos a que se refiere el artículo 823 de esta Ley, y
 
-IV. Las partes y los miembros de la Junta podrán hacer a los peritos las preguntas que juzguen convenientes; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-V. En caso de existir discrepancia en los dictámenes, la Junta designará un perito tercero.
+IV. Las partes y el juez podrán hacer a los peritos las preguntas que juzguen convenientes; así como formular las observaciones sobre las deficiencias o inconsistencias que a su juicio contenga el dictamen, o bien los aspectos que sustenten su idoneidad. Para este efecto será aplicable en lo conducente lo establecido en el artículo 815 de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+V. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 826.
 
-El perito tercero en discordia que designe la Junta debe excusarse dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento, siempre que concurra alguna de las causas a que se refiere el Capítulo Cuarto de este Título.
+El perito que designe el Tribunal debe excusarse dentro de las cuarenta y ocho horas siguientes en que se notifique su nombramiento, siempre que concurra alguna de las causas a que se refiere el Capítulo Cuarto de este Título.
 
-La Junta calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
+El Tribunal calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Artículo 826 bis. Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, la Junta dará vista al Ministerio Público para que determine si existe la comisión de un delito.
+###### Artículo 826 Bis.
+
+Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, el Tribunal dará vista al Ministerio Público para que determine si existe la comisión de un delito.
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Sexta. De la Inspección
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 827.
 
-La parte que ofrezca la inspección deberá precisar el objeto materia de la misma; el lugar donde debe practicarse; los períodos que abarcará y los objetos y documentos que deben ser examinados. Al ofrecerse la prueba, deberá hacerse en sentido afirmativo, fijando los hechos o cuestiones que se pretenden acreditar con la misma.
+La parte que ofrezca la inspección deberá precisar el objeto materia de la misma, los periodos que abarcará y los objetos y documentos que deben ser examinados. Al ofrecerse la prueba, deberá hacerse en sentido afirmativo, fijando los hechos o cuestiones que se pretenden acreditar con la misma.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La prueba de inspección se desahogará en el domicilio del Tribunal, a menos que exista impedimento legal o material para ello. En este caso, la parte que tenga bajo su custodia los elementos a inspeccionar deberá indicar el lugar donde deba practicarse la inspección y los motivos que le impiden exhibirlos en el Tribunal; si a juicio de éste se justifica el impedimento planteado, comisionará al actuario o secretario para que acudan al lugar señalado y se proceda a dar fe de los extremos de la prueba.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 828.
 
-Admitida la prueba de inspección por la Junta, señalará día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, la Junta la apercibirá de que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que tratan de probarse, siempre que se trate de los documentos a que se refiere el artículo 804 de esta Ley. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
+Admitida la prueba de inspección por el Tribunal, señalará día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, el Tribunal la apercibirá de que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que tratan de probarse, siempre que se trate de los documentos a que se refiere el artículo 804 de esta Ley. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -9002,29 +10380,53 @@ Admitida la prueba de inspección por la Junta, señalará día, hora y lugar pa
 
 En el desahogo de la prueba de inspección se observarán las reglas siguientes:
 
-I. El actuario, para el desahogo de la prueba, se ceñirá estrictamente a lo ordenado por la Junta;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. El actuario requerirá se le pongan a la vista los documentos y objetos que deben inspeccionarse;
+I. Sólo para el caso en que deba desahogarse la inspección fuera del local del Tribunal, éste ordenará su práctica previo a la audiencia de Juicio, bajo las siguientes reglas:
 
-III. Las partes y sus apoderados pueden concurrir a la diligencia de inspección y formular las objeciones u observaciones que estimen pertinentes; y
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
+a) Las partes y sus apoderados podrán concurrir a la diligencia de inspección y formular las objeciones u observaciones que estimen pertinentes;
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+b) El juez o el funcionario actuante requerirá se le pongan a la vista los documentos y objetos que deben inspeccionarse, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+c) De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan, la cual se agregará al expediente, previa razón en autos; a la misma podrán anexarse los elementos que se estimen pertinentes para robustecer los medios de convicción del desahogo de la diligencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. En los demás casos, la prueba de inspección se rendirá ante la presencia del juez y en el local del Tribunal en la audiencia de juicio, conforme a las siguientes reglas:
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+a) El juez requerirá se le pongan a la vista los documentos y objetos que deben inspeccionarse, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+b) Las partes podrán formular las objeciones u observaciones que estimen pertinentes.
+
+III. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Séptima. De la Presuncional
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 830.
 
-Presunción es la consecuencia que la Ley o la Junta deducen de un hecho conocido para averiguar la verdad de otro desconocido.
+Presunción es la consecuencia que la Ley o el Tribunal deducen de un hecho conocido para averiguar la verdad de otro desconocido. El Tribunal deberá considerarla aun cuando las partes no la ofrezcan, con objeto de que se cumplan los fines del derecho del trabajo señalados en los artículos 2o. y 3o. de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 831.
 
-Hay presunción legal cuando la Ley la establece expresamente; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia de aquél.
+Hay presunción legal cuando la Ley la establece expresamente o cuando se deriven de la aplicación de alguno de los principios que rigen el derecho del trabajo; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia de aquél.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -9048,17 +10450,17 @@ Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo q
 
 #### Sección Octava. De la Instrumental
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 835.
 
-La instrumental es el conjunto de actuaciones que obren en el expediente, formado con motivo del juicio.
+La instrumental es el conjunto de actuaciones y elementos que obren en el expediente y los anexos formados con motivo del juicio.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 836.
 
-La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expediente del juicio.
+El Tribunal estará obligado a tomar en cuenta las actuaciones y elementos que obren en el expediente y los anexos formados con motivo del juicio.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -9066,13 +10468,13 @@ La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expe
 
 De los Elementos Aportados por los Avances de la Ciencia.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 836-A.
 
-En el caso de que las partes ofrezcan como prueba, las señaladas en la fracción VIII del artículo 776, el oferente deberá proporcionar a la Junta los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los registros y reproducirse los sonidos e imágenes, por el tiempo indispensable para su desahogo.
+En el caso de que las partes ofrezcan como prueba, las señaladas en la fracción VIII del artículo 776, el oferente deberá proporcionar al Tribunal los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los registros y reproducirse los sonidos e imágenes, por el tiempo indispensable para su desahogo.
 
-En caso de que el oferente justifique debidamente su impedimento para proporcionar dichos elementos, la Junta lo proveerá.
+En caso de que el oferente justifique debidamente su impedimento para proporcionar dichos elementos, el Tribunal lo proveerá.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -9114,6 +10516,10 @@ o) Número de identificación personal (NIP): la contraseña que se utiliza en l
 
 p) Sistema de información: conjunto de elementos tecnológicos para generar, enviar, recibir, almacenar o procesar información.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+q) CFDI: Comprobante Fiscal Digital por Internet o documento equivalente en términos de las disposiciones fiscales aplicables.
+
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 836-C.
@@ -9130,27 +10536,39 @@ II. Acompañar los datos mínimos para la localización del documento digital, e
 
 En el desahogo de la prueba de medios electrónicos, se observarán las normas siguientes:
 
-I. La Junta designará el o los peritos que se requieran, a fin de determinar si la información contenida en el documento digital se encuentra íntegra e inalterada, tal y como fue generada desde el primer momento, ubicándola en tiempo y espacio entre el emisor y destinatario.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La Junta podrá comisionar al actuario para que asociado del o los peritos designados, dé fe del lugar, fecha y hora en que se ponga a disposición de éstos el medio en el cual se contenga el documento digital.
+I. El Tribunal designará el o los peritos oficiales que se requieran, a fin de determinar si la información contenida en el documento digital se encuentra íntegra e inalterada, tal y como fue generada desde el primer momento, ubicándola en tiempo y espacio entre el emisor y destinatario.
+
+El Tribunal podrá comisionar al actuario para que asociado del o los peritos designados, dé fe del lugar, fecha y hora en que se ponga a disposición de éstos el medio en el cual se contenga el documento digital.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Tratándose de recibos electrónicos de pago el Tribunal designará a un fedatario para que consulte la liga o ligas proporcionadas por el oferente de la prueba, en donde se encuentran los Comprobantes Fiscales Digitales por Internet o CFDI, compulse su contenido, y en el caso de coincidir, se tendrán por perfeccionados, salvo prueba en contrario.
 
 II. Si el documento digital o medio electrónico, se encuentra en poder del oferente, éste deberá poner a disposición del o los peritos designados, los medios necesarios para emitir su dictamen, apercibido que de no hacerlo se decretará desierta la prueba.
 
 III. Si el documento digital o medio electrónico se encuentra en poder de la contraparte, se deberá poner igualmente a disposición del o los peritos designados, con el apercibimiento de que en caso de no hacerlo, se establecerá la presunción de ser ciertos los hechos que el oferente exprese, en relación con el documento digital.
 
-IV. Si el documento digital o medio electrónico se encuentra en poder de un tercero, éste tiene la obligación de ponerlo a disposición de la Junta, bajo los apercibimientos establecidos en el artículo 731 de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Si el documento digital o medio electrónico se encuentra en poder de un tercero, éste tiene la obligación de ponerlo a disposición del Tribunal, bajo los apercibimientos establecidos en el artículo 731 de esta Ley.
 
 Para los efectos de este artículo, se estará a lo dispuesto en la Sección Quinta del presente Capítulo, relativo a la prueba pericial.
 
-V. Las partes y los miembros de la Junta podrán hacer al o a los peritos designados las preguntas que juzguen convenientes.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Para el desahogo de la prueba a que se refiere este artículo, la Junta en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer.
+V. Las partes y los miembros del Tribunal podrán hacer al o a los peritos designados las preguntas que juzguen convenientes.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XX. Procedimiento de Huelga
+### CAPITULO XV. De las Providencias Cautelares
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 837.
 
@@ -9160,27 +10578,33 @@ I. Acuerdos: si se refieren a simples determinaciones de trámite o cuando decid
 
 II. Autos incidentales o resoluciones interlocutorias: cuando resuelvan dentro o fuera de juicio un incidente; y
 
-III. Laudos: cuando decidan sobre el fondo del conflicto.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+III. Sentencias: cuando decidan sobre el fondo del conflicto.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 838.
 
-La Junta dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
+El Tribunal dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 839.
 
-Las resoluciones de las Juntas deberán ser firmadas por los integrantes de ellas y por el secretario el día en que las voten, en los términos del artículo 620 de esta Ley.
+Las resoluciones que así lo ameriten de los Tribunales deberán ser firmadas por el juez o por el secretario instructor, según corresponda, el día en que se emitan.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 840.
 
-El laudo contendrá:
+La sentencia contendrá:
 
-I. Lugar, fecha y Junta que lo pronuncie;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Lugar, fecha y Tribunal que lo pronuncie;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 II. Nombres y domicilios de las partes y de sus representantes;
 
@@ -9192,175 +10616,149 @@ III. Extracto de la demanda y su contestación; réplica y contrarréplica y, en
 
 IV. Enumeración de las pruebas admitidas y desahogadas y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 V. Extracto de los alegatos;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 VI. Las razones legales o de equidad, la jurisprudencia y doctrina que les sirva de fundamento; y
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 VII. Los puntos resolutivos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 841.
 
-Los laudos se dictarán a verdad sabida y buena fe guardada, y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero las Juntas de Conciliación y Arbitraje están obligadas a estudiar pormenorizadamente las rendidas, haciendo la valoración de las mismas. Asimismo, expresarán los motivos y fundamentos legales en que se apoyan.
+Las sentencias se dictarán a verdad sabida y buena fe guardada, y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero los Tribunales están obligados a estudiar pormenorizadamente las rendidas, haciendo la valoración de las mismas. Asimismo, expresarán los motivos y fundamentos legales en que se apoyan.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 842.
 
-Los laudos deben ser claros, precisos y congruentes con la demanda, contestación, y demás pretensiones deducidas en el juicio oportunamente.
+Las sentencias deben ser claras, precisas y congruentes con la demanda, contestación, y demás pretensiones deducidas en el juicio oportunamente.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 843.
 
-En los laudos, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena; cuantificándose el importe de la prestación se señalarán las medidas con arreglo a las cuales deberá cumplirse con la resolución. Sólo por excepción podrá ordenarse que se abra incidente de liquidación.
+En las sentencias, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena; cuantificándose el importe de la prestación se señalarán las medidas con arreglo a las cuales deberá cumplirse con la resolución. Sólo por excepción, podrá ordenarse que se abra incidente de liquidación.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 844.
 
-Cuando la condena sea de cantidad líquida, se establecerán en el propio laudo, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+Cuando la condena sea de cantidad líquida, se establecerán en la propia sentencia, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
 
 ###### Artículo 845.
 
-Si alguno o todos los representantes de los trabajadores o de los patrones ante la Junta, que concurran a la audiencia o diligencia se nieguen a votar, serán requeridos en el acto por el Secretario quien les indicará las responsabilidades en que incurren si no lo hacen. Si persiste la negativa, el Secretario levantará un acta circunstanciada, a efecto de que se someta a la autoridad respectiva a fin de que se determine la responsabilidad en que hayan incurrido, según los artículos 671 al 675 de esta Ley.
-
-En estos casos se observarán las normas siguientes:
-
-I. Si se trata de acuerdos se tomarán por el presidente o auxiliar y los representantes que la voten. En caso de empate el voto de los representantes ausentes se sumará al del presidente o auxiliar;
-
-II. Si se trata de laudo:
-
-a) Si después del requerimiento insisten en su negativa, quedarán excluidos del conocimiento del negocio y el Presidente de la Junta o de la Junta Especial, llamará a los suplentes.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, el Presidente de la Junta o de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe de Gobierno del Distrito Federal, para que designen las personas que los substituyan; en caso de empate, se entenderá que los ausentes sumarán su voto al del Presidente.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 846.
 
-Si votada una resolución uno o más de los representantes ante la Junta, se niegan a firmarla, serán requeridos en el mismo acto por el Secretario y, si insiste en su negativa previa certificación del mismo Secretario, la resolución producirá sus efectos legales, sin perjuicio de las responsabilidades en que hayan incurrido los omisos.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 847.
 
-Una vez notificado el laudo, cualquiera de las partes, dentro del término de tres días, podrá solicitar a la Junta la aclaración de la resolución, para corregir errores o precisar algún punto. La Junta dentro del mismo plazo resolverá, pero por ningún motivo podrá variarse el sentido de la resolución.
+Una vez notificada la sentencia, cualquiera de las partes, dentro del término de tres días, podrá solicitar al Tribunal la aclaración de la resolución, para corregir errores o precisar algún punto. El Tribunal dentro del mismo plazo resolverá, pero por ningún motivo podrá variarse el sentido de la resolución. El error de mención de fecha, nombre, denominación o de cálculo podrá aclararse de oficio.
 
-La interposición de la aclaración, no interrumpe el término para la impugnación del laudo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 848.
 
-Las resoluciones de las Juntas no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones.
+Los Tribunales no pueden revocar sus propias resoluciones salvo aquellas que se combatan a través del Recurso de Reconsideración que contempla esta Ley.
 
-Las partes pueden exigir la responsabilidad en que incurran los miembros de la Junta.
+Las partes pueden exigir la responsabilidad en que incurran los miembros de los Tribunales.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO I
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+### CAPITULO XVI
 
 ###### Artículo 849.
 
-Contra actos de los presidentes, actuarios o funcionarios, legalmente habilitados, en ejecución de los laudos, convenios, de las resoluciones que ponen fin a las tercerías y de los dictados en las providencias cautelares, procede la revisión.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 850.
 
-De la revisión conocerán:
-
-I. La Junta Especial de la de Conciliación y Arbitraje correspondiente, integrada con los representantes de los patrones y de los trabajadores y con el auxiliar que esté conociendo del asunto, conforme al artículo 635 de esta Ley, cuando se trate de actos de los Presidentes de las mismas;
-
-II. El Presidente de la Junta o el de la Junta Especial correspondiente, cuando se trate de actos de los actuarios o de los funcionarios legalmente habilitados; y
-
-III. La Junta de Conciliación y Arbitraje con la participación del Secretario General de Acuerdos, cuando se trate de actos del Presidente de ésta o cuando se trate de un conflicto que afecte dos o más ramas de la industria.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 851.
 
-La revisión deberá presentarse por escrito ante la autoridad competente, dentro de los tres días siguientes al en que se tenga conocimiento del acto que se impugne.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 852.
 
-En la tramitación de la revisión se observarán las normas siguientes:
-
-I. Al promoverse la revisión se ofrecerán las pruebas respectivas;
-
-II. Del escrito de revisión se dará vista a las otras partes por tres días, para que manifiesten lo que a su derecho convenga y ofrezcan las pruebas que juzguen pertinentes; y
-
-III. Se citará a una audiencia de pruebas y alegatos, dentro de los diez días siguientes a la presentación de la revisión, en la que se admitirán y desahogarán las pruebas procedentes y se dictará resolución.
-
-Declarada procedente la revisión, se modificará el acto que la originó en los términos que procedan y se aplicarán las sanciones disciplinarias a los responsables, conforme lo señalan los artículos 637 al 647 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 853.
 
-Procede la reclamación contra las medidas de apremio que impongan los Presidentes de las Juntas Especiales y de las de Conciliación y Arbitraje, así como de los auxiliares de éstas.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 854.
 
-En la tramitación de la reclamación se observarán las normas siguientes:
-
-I. Dentro de los tres días siguientes al que se tenga conocimiento de la medida, se promoverá por escrito la reclamación, ofreciendo las pruebas correspondientes;
-
-II. Al admitirse la reclamación se solicitará al funcionario que haya dictado la medida impugnada, rinda su informe por escrito fundado y motivado respecto al acto que se impugnó y adjuntando las pruebas correspondientes; y
-
-III. La Junta citará a una audiencia, que deberá llevarse a cabo durante los diez días siguientes de aquél en que se admitió la reclamación, para recibir y admitir pruebas y dictar resolución.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 855.
 
-De resultar procedente la reclamación, se modificará en lo que procede la medida de apremio y se aplicará al funcionario responsable la sanción que previene el artículo 672 de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 856.
 
-Los Presidentes de las Juntas podrán imponer a la parte que promueva la revisión o la reclamación en forma notoriamente improcedente una multa de hasta 100 veces el salario mínimo general que rija en el Distrito Federal en el tiempo en que se presentaron.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-Se entenderá que es notoriamente improcedente cuando a juicio de su Presidente, según el caso, aparezca que se promueva con el propósito de demorar o entorpecer la administración de justicia.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+### CAPITULO XVII. Del procedimiento ordinario
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 857.
 
-Los Presidentes de las Juntas de Conciliación y Arbitraje, o los de las Especiales de las mismas, a petición de parte, podrán decretar las siguientes providencias cautelares:
+El secretario instructor del Tribunal, a petición de parte, podrá decretar las siguientes providencias cautelares:
 
-I. Arraigo, cuando haya temor de que se ausente u oculte la persona contra quien se entable o se haya entablado una demanda; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Prohibición de salir del territorio nacional o de una población determinada cuando haya temor de que se ausente u oculte la persona contra quien se entable o se haya entablado una demanda;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 II. Embargo precautorio, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Requerir al patrón se abstenga de dar de baja de la institución de seguridad social en la que se encuentra afiliada la trabajadora embarazada que haya sido despedida, cuando a juicio del Tribunal existan indicios suficientes para presumir que fue separada en razón de su estado; dicha medida se aplicará siempre y cuando se acompañe a la demanda certificado médico que acredite el embarazo, emitido conforme a los requisitos y formalidades contempladas en la ley, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. En los casos que se reclame discriminación en el empleo, tales como discriminación por embarazo, u orientación sexual, o por identidad de género, así como en los casos de trabajo infantil, el tribunal tomará las providencias necesarias para evitar que se cancele el goce de derechos fundamentales, tales como la seguridad social, en tanto se resuelve el juicio laboral, o bien decretará las medidas de aseguramiento para las personas que así lo ameriten. Para tal efecto, los demandantes deben acreditar la existencia de indicios que generen al Tribunal la razonable sospecha, apariencia o presunción de los actos de discriminación que hagan valer.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 858.
 
-Las providencias cautelares podrán ser solicitadas al presentar la demanda, o posteriormente, ya sea que se formulen por escrito o en comparecencia. En el primer caso, se tramitarán previamente al emplazamiento y en el segundo, por cuerda separada. En ningún caso, se pondrá la solicitud en conocimiento de la persona contra quien se pida la providencia.
+Las providencias cautelares señaladas en las fracciones I y II del artículo anterior podrán ser solicitadas al presentar la demanda, o posteriormente ya sea que se formulen por escrito o en comparecencia. En el primer caso, se tramitarán previamente al emplazamiento y en el segundo, por cuerda separada. En ninguno de los dos casos se pondrá la solicitud en conocimiento de la persona contra quien se pida la providencia.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las providencias cautelares previstas en las fracciones III y IV del artículo 857 de esta Ley, se deberán solicitar al presentar la demanda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las providencias cautelares podrán ser impugnadas mediante el recurso de reconsideración; éste se interpondrá por escrito dentro de los tres días siguientes en que se tenga conocimiento del acto que se impugna, en el que se expresarán los agravios que le cause la providencia impugnada; dándole vista a la contraparte por el término de tres días para que manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una vez transcurrido el término de vista, el recurso se resolverá de plano por el juez del conocimiento en la audiencia preliminar.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En el supuesto que la providencia cautelar sea decretada con posterioridad a la audiencia preliminar, y se interponga el recurso de reconsideración, agotada la vista a la contraparte, el Tribunal resolverá de plano.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -9368,11 +10766,11 @@ Las providencias cautelares podrán ser solicitadas al presentar la demanda, o p
 
 El arraigo se decretará de plano y su efecto consistirá en prevenir al demandado que no se ausente del lugar de su residencia, sin dejar representante legítimo, suficientemente instruido y expensado.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 860.
 
-La persona que quebrante el arraigo decretado, será responsable del delito de desobediencia a un mandato de autoridad. Para este efecto, el Presidente de la Junta hará la denuncia respectiva ante el Ministerio Público respectivo.
+La persona que quebrante el arraigo decretado, será responsable del delito de desobediencia a un mandato de autoridad. Para este efecto, el Tribunal hará la denuncia respectiva ante el Ministerio Público respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -9384,23 +10782,23 @@ Para decretar un embargo precautorio, se observarán las normas siguientes:
 
 I. El solicitante determinará el monto de lo demandado y rendirá las pruebas que juzgue conveniente para acreditar la necesidad de la medida;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a aquella en que se le solicite, podrá decretar el embargo precautorio si, a su juicio, es necesaria la providencia;
+II. El Tribunal, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a aquella en que se le solicite, podrá decretar el embargo precautorio si, a su juicio, es necesaria la providencia;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 III. El auto que ordene el embargo determinará el monto por el cual deba practicarse; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. El Presidente de la Junta dictará las medidas a que se sujetará el embargo, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
+IV. El Tribunal dictará las medidas a que se sujetará el embargo, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 862.
 
-En el caso de la fracción II del artículo anterior, se considerará necesaria la providencia, cuando el solicitante compruebe que el demandado tiene diferentes juicios o reclamaciones ante autoridades judiciales o administrativas promovidos por terceros en su contra, y que por su cuantía, a criterio del Presidente, exista el riesgo de insolvencia.
+En el caso de la fracción II del artículo anterior, se considerará necesaria la providencia, cuando el solicitante compruebe que el demandado tiene diferentes juicios o reclamaciones ante autoridades judiciales o administrativas promovidos por terceros en su contra, y que por su cuantía, a criterio del Tribunal, exista el riesgo de insolvencia.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -9408,19 +10806,19 @@ En el caso de la fracción II del artículo anterior, se considerará necesaria 
 
 La providencia se llevará a cabo aún cuando no esté presente la persona contra quien se dicte. El propietario de los bienes embargados será depositario de los mismos, sin necesidad de que acepte el cargo ni proteste desempeñarlo, con las responsabilidades y atribuciones inherentes al mismo, observándose las disposiciones de esta Ley en lo que sean aplicables. En caso de persona moral, el depositario será el gerente o director general o quien tenga la representación legal de la misma.
 
-Tratándose de inmuebles, a petición del interesado, la Junta solicitará la inscripción del embargo precautorio en el Registro Público de la Propiedad.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+Tratándose de inmuebles, a petición del interesado, el Tribunal solicitará la inscripción del embargo precautorio en el Registro Público de la Propiedad.
 
 ###### Artículo 864.
 
-Si el demandado constituye depósito u otorga fianza bastante, no se llevará a cabo la providencia cautelar o se levantará la que se haya decretado.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO III. Procedimientos paraprocesales o voluntarios
+### CAPITULO XVIII. Del Procedimiento Especial
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 865.
 
@@ -9442,365 +10840,519 @@ Si el demandado constituye depósito u otorga fianza bastante, no se llevará a 
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 870.
 
-Las disposiciones de este Capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
+Las disposiciones de este capítulo rigen para el procedimiento ordinario y en lo que resulte aplicable a los procedimientos especiales.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El procedimiento ordinario aplicará en aquellos conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 870 Bis.
+
+Las partes no podrán invocar en ninguna etapa procesal, antecedente alguno relacionado con la proposición, discusión, aceptación, rechazo o reconocimiento de hechos y derechos que se hayan realizado en el procedimiento de conciliación prejudicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 871.
 
-El procedimiento se iniciará con la presentación del escrito de demanda, ante la Oficialía de Partes o la Unidad Receptora de la Junta competente, la cual lo turnará al Pleno o a la Junta Especial que corresponda, el mismo día antes de que concluyan las labores de la Junta.
+El procedimiento ordinario se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes o la Unidad Receptora del Tribunal competente.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 1 DE MAYO DE 2019)</small>
+
+En los actos procesales de la fase escrita del procedimiento hasta antes de la audiencia preliminar, el Tribunal podrá auxiliarse para el dictado de los acuerdos o providencias de un secretario instructor, el cual podrá dictar los siguientes acuerdos:
+
+a) Admitir o prevenir la demanda y en su caso subsanarla conforme a las normas del trabajo y lo establecido en la presente Ley;
+
+b) Ordenar la notificación al demandado;
+
+c) Ordenar las vistas, traslados y notificaciones;
+
+d) Admitir y en su caso proveer respecto de las pruebas ofrecidas para acreditar las excepciones dilatorias;
+
+e) Dictar las providencias cautelares, y
+
+f) Las demás que el juez le ordene.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Contra los actos u omisiones del secretario instructor, procederá el recurso de reconsideración, que deberá promoverse de forma oral en la audiencia preliminar el cual será resuelto de plano, oyendo a las partes por el juez del conocimiento en dicha audiencia. De resultar fundado el recurso, el juez modificará en lo que proceda el acto impugnado y proveerá lo conducente a efecto de subsanar el acto u omisión recurrido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 872.
 
-La demanda se formulará por escrito, acompañando tantas copias de la misma, como demandados haya. El actor en su escrito inicial de demanda expresará los hechos en que funde sus peticiones, pudiendo acompañar las pruebas que considere pertinentes, para demostrar sus pretensiones.
+La demanda se formulará por escrito, acompañando tantas copias de la misma, como demandados haya. En caso que el demandante sea el trabajador y faltaren copias, ello no será causa para prevención, archivo, o desechamiento. El Tribunal deberá subsanar de oficio dicha falta.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 1 DE MAYO DE 2019)</small>
+
+A. La demanda deberá estar firmada y señalar lo siguiente:
+
+I. El tribunal ante el cual se promueve la demanda;
+
+II. El nombre y domicilio del actor; éste podrá solicitar que le sean notificados en el buzón electrónico que el Tribunal le asigne los subsecuentes acuerdos y resoluciones, incluyendo la sentencia que en el caso se emita;
+
+III. El nombre, denominación o razón social del demandado, así como su domicilio. Cuando el trabajador ignore el nombre del patrón o la denominación o razón social del establecimiento en el que labora o laboró, deberá aportar los datos que establece el artículo 712 de esta Ley; el trabajador podrá acompañar a su demanda cualquier dato o elemento que estime conveniente para facilitar la localización del domicilio del demandado, tales como croquis de localización, fotografías del inmueble o mapa en el que se señale su ubicación exacta;
+
+IV. Las prestaciones que se reclamen;
+
+V. Los hechos en los que funde sus peticiones;
+
+VI. La relación de pruebas que el actor pretende se rindan en juicio, expresando el hecho o hechos que se intentan demostrar con las mismas, y
+
+VII. En caso de existir un juicio anterior promovido por el actor contra el mismo patrón, deberá informarlo en la nueva demanda.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 1 DE MAYO DE 2019)</small>
+
+B. A la demanda deberá anexarse lo siguiente:
+
+I. La constancia expedida por el Organismo de Conciliación que acredite la conclusión del procedimiento de conciliación prejudicial sin acuerdo entre las partes, a excepción de los casos en los que no se requiera dicha constancia, según lo establezca expresamente esta Ley;
+
+II. Los documentos que acrediten la personalidad de su representante conforme al artículo 692, fracción II, si la demanda se promueve a través de éste, y
+
+III. Las pruebas de que disponga el actor, acompañadas de los elementos necesarios para su desahogo. En caso que no pueda aportar directamente alguna prueba que tenga por objeto demostrar los hechos en que funde su demanda, deberá señalar el lugar en que puedan obtenerse y las diligencias cuya práctica solicite con el mismo fin. El ofrecimiento de las pruebas deberá cumplir con lo dispuesto en el capítulo XII del Título Catorce de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 873.
 
-La Junta, dentro de las veinticuatro horas siguientes, contadas a partir del momento en que reciba el escrito de demanda, dictará acuerdo, en el que señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones, que deberá efectuarse dentro de los quince días siguientes a aquél en que se haya recibido el escrito de demanda. Dicho acuerdo se notificará personalmente a las partes, con diez días de anticipación a la audiencia cuando menos, entregando al demandado copia cotejada de la demanda y del acuerdo admisorio, apercibiéndolas de lo dispuesto en el artículo 879 de esta Ley.
+Dentro de las veinticuatro horas siguientes a la presentación de la demanda, deberá turnarse al Tribunal correspondiente; si la demanda se encuentra ajustada a derecho, éste deberá dictar el acuerdo de admisión respectivo dentro de los tres días siguientes a que le sea turnada o de que se haya subsanado ésta en los términos del tercer párrafo del presente artículo.
 
-Cuando el actor sea el trabajador o sus beneficiarios, la Junta, en caso de que notare alguna irregularidad en el escrito de demanda o que estuviere ejercitando acciones contradictorias o no hubiere precisado el salario base de la acción, en el acuerdo le señalará los defectos u omisiones en que haya incurrido y la prevendrá para que los subsane dentro de un término de tres días. Dicho acuerdo deberá notificarse personalmente al actor.
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+Al presentarse la demanda, el Tribunal le asignará al actor un buzón electrónico, proporcionándole el nombre de usuario y la clave de acceso correspondiente, mediante el cual podrá consultar su expediente y revisar los acuerdos que se dicten en éste.
 
-#### Sección Primera. Conflictos Individuales de Seguridad Social
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Cuando el actor sea el trabajador o sus beneficiarios, de advertir el Tribunal alguna irregularidad en el escrito de demanda o se promueven acciones contradictorias o no se haya precisado el salario base de la acción, en el acuerdo le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días. Dicho acuerdo deberá notificarse personalmente al actor.
 
-#### Sección Primera. Disposiciones Generales
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+De no subsanar el actor la demanda en el término concedido, el Tribunal subsanará las omisiones o irregularidades basándose en el material probatorio que el actor acompañe a su demanda y conforme a las normas del trabajo, una vez hecho lo anterior, el Tribunal admitirá la demanda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+No se recibirán pruebas adicionales a las ofrecidas en la demanda, salvo las que se refieran a hechos relacionados con la réplica, siempre que se trate de aquéllos que el actor no hubiese tenido conocimiento al presentar su demanda, así como las que se ofrezcan para sustentar las objeciones hechas a las pruebas de las demás partes, o las que se refieran a la objeción de testigos. Lo anterior sin menoscabo de que se puedan ofrecer pruebas sobre hechos supervenientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Tribunal solo podrá admitir la ampliación de demanda en caso de que en la contestación a la misma se hagan valer hechos novedosos, de los cuales el actor no haya tenido conocimiento al presentar su demanda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-A.
+
+Dentro de los cinco días siguientes a su admisión, el Tribunal emplazará a la parte demandada, entregándole copia cotejada del auto admisorio y del escrito de demanda, así como de las pruebas ofrecidas en ésta, para que produzca su contestación por escrito dentro de los quince días siguientes, ofrezca pruebas y de ser el caso reconvenga, apercibiéndole que de no hacerlo en dicho término se tendrán por admitidas las peticiones de la parte actora, salvo aquéllas que sean contrarias a lo dispuesto por la ley, así como por perdido su derecho a ofrecer pruebas y en su caso a formular reconvención. Asimismo, deberá apercibirlo que de no cumplir con lo previsto en el artículo 739 de esta Ley, las notificaciones personales subsecuentes se le harán por boletín o por estrados, y en su caso por buzón electrónico, conforme a lo establecido en esta Ley.
+
+A toda contestación de demanda deberá anexarse el documento con el que se acredite la personalidad de quien comparezca en representación del demandado.
+
+El escrito de contestación de demanda deberá contener una exposición clara y circunstanciada de los hechos, los fundamentos de derecho en los que se sustenta, las excepciones y defensas que el demandado tuviere a su favor, debiendo referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios, agregando las manifestaciones que estime convenientes y, en su caso, objetar las pruebas ofrecidas por la parte actora, apercibido que en caso de no hacerlo se le tendrá por perdido el derecho de objetar las pruebas de su contraparte.
+
+El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que no se suscite controversia, sin que sea admisible prueba en contrario. La negación pura y simple del derecho, implica la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho. En caso que el demandado niegue la relación de trabajo podrá negar los hechos en forma genérica, sin estar obligado a referirse a cada uno de ellos.
+
+Todas las excepciones procesales que tenga el demandado deberá hacerlas valer al contestar la demanda, y en ningún caso suspenderán el procedimiento; de oponerse éstas, sólo se admitirán como pruebas la documental y pericial, salvo en el caso de la litispendencia y conexidad, de las que se podrá ofrecer también la prueba de inspección de los autos.
+
+La excepción de incompetencia no exime al demandado de contestar la demanda; si no lo hace y el Tribunal se declara competente, se tendrán por admitidas las peticiones de la actora, salvo aquellas que sean contrarias a lo dispuesto por la ley.
+
+Las mismas consecuencias correrán a cargo del demandado si éste no da contestación a la demanda o la formula fuera del plazo concedido para hacerlo, sin perjuicio de que hasta antes de la audiencia preliminar pueda ofrecer pruebas en contrario para demostrar que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados por la parte actora.
+
+La parte demandada deberá ofrecer sus pruebas en el escrito de contestación a la demanda, acompañando las copias respectivas para que se corra traslado con ellas a la parte actora. No se recibirán pruebas adicionales a menos que se refieran a hechos relacionados con la contrarréplica, siempre que se trate de aquellos que el demandado no hubiese tenido conocimiento al contestar la demanda, así como las que se ofrezcan para sustentar las objeciones hechas a las pruebas de las demás partes, o las que se refieran a la objeción de testigos. Lo anterior sin menoscabo de que se puedan ofrecer pruebas sobre hechos supervenientes.
+
+Las pruebas deberán acompañarse de todos los elementos necesarios para su desahogo, para lo cual se estará a lo dispuesto en el capítulo XII del Título Catorce de esta Ley.
+
+En caso de que el demandado se allane a la demanda el Tribunal citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de diez días, en la que se dictará la sentencia respectiva.
+
+Presentada que sea la contestación de demanda, el Tribunal le asignará al demandado un buzón electrónico, proporcionándole el nombre de usuario y la clave de acceso correspondiente, mediante el cual podrá consultar su expediente y revisar los acuerdos que emita el órgano jurisdiccional.
+
+Si el Tribunal admite la reconvención, deberá emplazar a la parte actora corriéndole traslado con ésta y con las pruebas que ofrezca la actora reconvencionista, para que dentro del término de quince días siguientes a su emplazamiento conteste lo que a su derecho e interés corresponda y ofrezca pruebas, y en su caso objete las de la contraria. De no dar contestación a la reconvención la parte trabajadora, se le tendrá por contestada negando los hechos aducidos en la reconvención y por perdido el derecho para ofrecer pruebas. La reconvención seguirá las mismas reglas establecidas para la demanda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-B.
+
+El Tribunal correrá traslado a la actora con la copia de la contestación a la demanda y sus anexos para que en un plazo de ocho días objete las pruebas de su contraparte, formule su réplica y en su caso ofrezca pruebas en relación a dichas objeciones y réplica, acompañando copia de traslado para cada parte; en caso de que se ofrezcan pruebas, la actora deberá acompañar también copia de las mismas.
+
+En caso de que el patrón realice el ofrecimiento del trabajo, el trabajador deberá pronunciarse al respecto al formular su réplica.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-C.
+
+Con el escrito de réplica y sus anexos, el Tribunal correrá traslado a la parte demandada, otorgándole un plazo de cinco días para que formule su contrarréplica por escrito y, en su caso, objete las pruebas que se hayan ofrecido con éste. El demandado al presentar su contrarréplica deberá acompañar copia para traslado a la parte actora. En caso de que la parte demandada ofrezca pruebas en relación a su contrarréplica conforme a lo previsto en el artículo 873-A de esta Ley, deberá acompañar también copia de las mismas, para que se le corra traslado a la parte actora, y ésta en el término de tres días manifieste lo que a su interés corresponda.
+
+Si la réplica o contrarréplica no se formulan dentro del plazo concedido, se tendrá por perdido el derecho según sea el caso y se continuará con el procedimiento.
+
+Transcurridos los plazos señalados en los dos últimos párrafos que anteceden, el Tribunal fijará fecha para celebrar la Audiencia Preliminar, la cual tendrá verificativo dentro de los diez días siguientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-D.
+
+Las partes podrán solicitar, que se llame a juicio a terceros que puedan ser afectados por la resolución que se dicte en el procedimiento, siempre que justifiquen la necesidad de su llamamiento; para ello, deberán proporcionar el domicilio de éste, exhibir las copias necesarias de la demanda y en su caso de la contestación, así como de los documentos exhibidos por las partes, con los que deberá correrse traslado al tercero; de no cumplir con tales requisitos se tendrá por perdido su derecho a solicitar el llamamiento.
+
+El tercero podrá acudir al juicio hasta antes de la audiencia preliminar; de no hacerlo se entenderá que no tiene interés jurídico en el asunto, quedando sujeto al resultado del juicio.
+
+El tercero interesado que acuda a juicio será parte en éste, debiendo sujetarse a las formalidades del procedimiento previstas en el presente capítulo.
+
+El llamamiento a tercero interesado lo deberán hacer las partes en la demanda, contestación, reconvención o contestación a al (sic) reconvención, o bien al emitir la réplica y contrarréplica, según sea el caso; el Tribunal acordará de plano dicha solicitud, la que en caso de admitirse, ordenará se emplace al tercero interesado para que dentro de los quince días siguientes, realice sus manifestaciones por escrito, al cual deberá acompañar las pruebas que estime pertinentes conforme lo establecido en el artículo 780 de esta Ley, con copias de traslado suficientes para las partes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+#### Sección Primera. Audiencia Preliminar
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-E.
+
+La audiencia preliminar tiene por objeto:
+
+a) Depurar el procedimiento y resolver las excepciones dilatorias planteadas por las partes;
+
+b) Establecer los hechos no controvertidos;
+
+c) Admitir o desechar las pruebas ofrecidas por las partes, según sea el caso;
+
+d) Citar para audiencia de juicio;
+
+e) Resolver el recurso de reconsideración contra los actos u omisiones del secretario instructor.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-F.
+
+La audiencia preliminar se desarrollará conforme a lo siguiente:
+
+I. Las partes comparecerán personalmente o por conducto de apoderado ante el Tribunal; en caso de hacerlo por su cuenta deberán estar asistidas por Licenciado en Derecho o abogado titulado con cédula profesional, o pasante de derecho, a fin de garantizar su debida defensa.
+
+Si las partes no comparecen por sí mismas o por conducto de sus apoderados, se tendrán por consentidas las actuaciones judiciales que en cada etapa sucedan y quedarán precluídos los derechos procesales que debieron ejercitarse en cada una de las etapas de la audiencia. El tribunal determinará el inicio y la conclusión de cada una de las etapas de la audiencia;
+
+II. La audiencia preliminar se desahogará con la comparecencia de las partes que se encuentren presentes al inicio. Las que no hayan comparecido en su apertura, podrán hacerlo en el momento en que se presenten, siempre y cuando no se haya emitido el acuerdo de cierre de la audiencia. Si las partes no comparecen se efectuará la audiencia con los elementos que se disponga en autos;
+
+III. El Tribunal examinará las cuestiones relativas a la legitimación procesal y resolverá las excepciones procesales que se hayan hecho valer, con el fin de depurar el procedimiento;
+
+IV. El Tribunal definirá los hechos que no sean motivo de controversia con el fin de que las pruebas que se admitan se dirijan a los hechos sujetos a debate;
+
+V. En seguida, el Tribunal resolverá la admisión de las pruebas ofrecidas por las partes, admitirá las que tengan relación con la litis y desechará las inútiles, intrascendentes o que no guarden relación con los hechos controvertidos, expresando el motivo de ello; asimismo, establecerá la forma en que deberán prepararse las pruebas que admita para su desahogo la audiencia de juicio o las que se realizarán fuera de las instalaciones del Tribunal, cuando proceda en los términos de esta Ley. El Tribunal fijará día y hora para la celebración de la audiencia de juicio, que deberá efectuarse dentro del lapso de veinte días siguientes a la emisión del acuerdo respectivo, si se admiten pruebas que deban desahogarse fuera de las instalaciones del Tribunal, señalará la fecha y hora en que se desarrollarán las diligencias, proveyendo en relación a las mismas;
+
+VI. La preparación de las pruebas será ordenada por el Tribunal, salvo aquellas que queden a cargo de las partes, por lo que la audiencia de juicio no se diferirá por falta de preparación, salvo caso fortuito o fuerza mayor. La citación de los testigos a que se refiere el artículo 813 de esta Ley, quedará a cargo de su oferente, salvo que por causa justificada deba practicarse mediante notificación personal, la que se efectuará con al menos tres días de anticipación a la audiencia, sin contar el día en que reciban la citación, ni el de la audiencia. El Tribunal, a solicitud del oferente, podrá expedir oficios o citaciones a fin de que éste los entregue por su cuenta y bajo su responsabilidad, con el objeto de que se preparen debidamente las pruebas y puedan desahogarse en la audiencia de juicio;
+
+VII. Solamente en casos excepcionales, cuando debido a la naturaleza de las pruebas admitidas el Tribunal considere bajo su más estricta responsabilidad que no es posible su desahogo en una sola audiencia, en el mismo acuerdo en el que las admita, señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando que se reciban primero las del actor y luego las del demandado, y
+
+VIII. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-G.
+
+El tribunal girará los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir terceros ajenos al juicio, que haya solicitado el oferente, con los apercibimientos señalados en esta Ley; asimismo dictará las medidas necesarias a fin de que el día de la audiencia se desahoguen las pruebas admitidas, conforme a lo siguiente:
+
+a) Si se tratare de autoridades, el Tribunal las requerirá para que envíen los documentos o copias; si no cumplieren con ello, el Tribunal dictará las medidas de apremio conducentes, sin perjuicio de dar vista del incumplimiento al superior jerárquico del servidor público omiso, y en su caso al órgano de control competente, y
+
+b) Si se trata de terceros, el Tribunal dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos requeridos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+#### Sección Segunda. Audiencia de Juicio
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-H.
+
+La audiencia de juicio se desahogará con la comparecencia de las partes que estén presentes en su apertura. Las que no hayan comparecido en su inicio, podrán intervenir en el momento en que se presenten, siempre que el juez no la haya dado por concluida. Si las partes no comparecen se efectuará la audiencia con los elementos que se disponga en autos y se harán efectivos los apercibimientos realizados previamente a las partes.
+
+El juez contará con las más amplias facultades para conducir el procedimiento; dará cuenta de la presencia de las partes que comparezcan a la audiencia, así como de los testigos y peritos que intervendrán; De igual forma, verificará la disponibilidad de los documentos a exhibirse y moderará el desarrollo de las manifestaciones de quienes intervengan en la audiencia; en su caso, analizará y calificará las pruebas que presenten las partes como supervenientes para su admisión o desechamiento según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-I.
+
+El Tribunal, abrirá la fase de desahogo de pruebas, conforme a lo siguiente:
+
+I. Se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primero las del actor y luego las del demandado;
+
+II. Si alguna de las pruebas admitidas no se encontrara debidamente preparada y estuviera a cargo de las partes, se declarará la deserción de la misma, salvo causa justificada, en cuyo caso el juez señalará nuevo día y hora para su desahogo dentro de los diez días siguientes; para ello, deberá tomará (sic) las medidas conducentes y podrá hacer uso de las medidas de apremio que estime necesarias para lograr el desahogo de las pruebas admitidas y evitar la dilación del juicio, y
+
+III. El juez deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hace en el momento de la audiencia, se le concederán tres días para ello, apercibiéndola de que en caso contrario se dejará sin efectos la declaración correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-J.
+
+Concluido el desahogo de pruebas, el secretario del Tribunal hará la certificación respectiva. En caso de que las partes señalen que queda alguna prueba pendiente de desahogar, el juez resolverá de plano y de advertir alguna omisión al respecto, ordenará su desahogo. Una vez hecho lo anterior, el juez otorgará sucesivamente el uso de la voz a las partes, para que formulen de manera concisa y breve sus alegatos.
+
+Realizados que sean los alegatos de las partes, el Tribunal declarará cerrada la etapa de juicio y emitirá la sentencia en la misma audiencia, con lo que se pondrá fin al procedimiento. El texto de la resolución deberá ponerse a disposición de las partes en la misma audiencia. Solamente en casos excepcionales y que así se justifique por el cúmulo de hechos controvertidos o bien de las pruebas rendidas, el Tribunal emitirá sentencia dentro de los cinco días siguientes al de la celebración de la audiencia de juicio.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 873-K.
+
+Contra las resoluciones pronunciadas en el procedimiento ordinario laboral, no procederá recurso alguno, salvo el recurso de reconsideración contra los actos del secretario instructor establecido en el artículo 871, de esta Ley. No obstante, ya sea de oficio o a petición de parte, el juez podrá subsanar las omisiones o errores en que hubiere incurrido, o bien podrá precisar algún punto, hasta antes de dictar sentencia; asimismo, podrá aclarar ésta una vez que se haya emitido.
+
+Atendiendo a la naturaleza y fines del derecho laboral, el juez deberá asumir un desempeño proactivo, en el que impulse permanentemente el procedimiento, evitando que las deficiencias o inconsistencias formales cometidas durante su desarrollo trasciendan en perjuicio de las partes provocando su dilación a futuro, por lo que de advertirlas podrá subsanarlas. En todo momento se fomentará la conciliación como la vía privilegiada para la solución del conflicto.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 874.
 
-La falta de notificación de alguno o de todos los demandados, obliga a la Junta a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hayan sido notificados.
+La falta de notificación de alguno o de todos los demandados, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hayan sido notificados.
 
-Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva fecha para su celebración, a las que fueron notificadas y no concurrieron, se les notificará por boletín o en estrados de la Junta; y las que no fueren notificadas se les hará personalmente.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva fecha para su celebración, a las que fueron notificadas y no concurrieron, se les notificará por boletín o en estrados del Tribunal; y las que no fueron notificadas se les hará personalmente.
 
 ###### Artículo 875.
 
-La audiencia a que se refiere el artículo 873 constará de dos etapas:
-
-a) De conciliación;
-
-b) De demanda y excepciones;
-
-c) (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
-
-La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes podrán intervenir en el momento en que se presenten, siempre que la Junta no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 876.
 
-La etapa conciliatoria se desarrollará en la siguiente forma:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Las partes comparecerán personalmente a la Junta y podrán ser asistidas por sus abogados patronos, asesores o apoderados. Si se trata de personas morales, el representante o apoderado deberá tener facultades para asumir una solución conciliatoria que obligue a su representada;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. La Junta, por conducto del funcionario conciliador o de su personal jurídico, intervendrá para la celebración de pláticas entre las partes y las exhortará para que procuren llegar a un arreglo conciliatorio. Les propondrá opciones de solución justas y equitativas que, a su juicio, sean adecuadas para dar por terminada la controversia;
-
-III. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
-
-IV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. La Junta, por conducto del funcionario conciliador o de su personal jurídico, procurará, sin entorpecer el procedimiento y estando en contacto personal con las partes y hasta antes de que se declare cerrada la instrucción, que lleguen a un acuerdo conciliatorio, insistiendo siempre en opciones de solución justas y equitativas para ambas; si las partes no llegan a un acuerdo se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
-
-VI. De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 877.
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
 ###### Artículo 878.
 
-La etapa de demanda y excepciones, se desarrollará conforme a las normas siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. El Presidente o el funcionario conciliador y demás personal jurídico de la Junta exhortará nuevamente a las partes para que resuelvan el conflicto mediante un arreglo conciliatorio y, si éstas persistieran en su actitud, dará la palabra al actor para la exposición de su demanda;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Si el actor es el trabajador o sus beneficiarios y no cumple los requisitos omitidos o no subsana las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, la Junta lo prevendrá para que lo haga en ese momento.
-
-El actor expondrá su demanda, ratificándola, aclarándola o modificándola, precisando los puntos petitorios. En caso de modificación, aclaración o enderezamiento de la demanda, cuando el actor sea el trabajador o sus beneficiarios, podrá hacerlo por una sola vez en esta etapa. Tratándose de aclaración o modificación de la demanda, la Junta, a petición del demandado, señalará nueva fecha, dentro del término de diez días, para la continuación de la audiencia a fin de que pueda contestar la demanda en su totalidad; en caso de enderezamiento, la Junta procederá de igual forma, pero de oficio;
-
-III. Expuesta la demanda por el actor, el demandado procederá en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso estará obligado a entregar copia simple al actor de su contestación; si no lo hace, la Junta la expedirá a costa del demandado;
-
-IV. En su contestación opondrá el demandado sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia y, si no lo hace y la Junta se declara competente, se tendrá por contestada en sentido afirmativo la demanda;
-
-VI. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VII. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, la Junta acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Al concluir el periodo de demanda y excepciones, se citará a la audiencia de ofrecimiento y admisión de pruebas, que tendrá verificativo dentro de los diez días siguientes. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 879.
 
-La audiencia de conciliación, demanda y excepciones se llevará a cabo, aún cuando no concurran las partes.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-Si el actor no comparece al período de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 880.
 
-La audiencia de ofrecimiento y admisión de pruebas se desarrollará conforme a lo dispuesto en el último párrafo del artículo 875 de esta Ley y de acuerdo con las normas siguientes:
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel a su vez podrá objetar las del demandado;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte, así como las que tiendan a justificar sus objeciones a las mismas, en tanto no se haya cerrado la audiencia, y por una sola vez;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del Capítulo XII de este Título; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. Concluido el ofrecimiento, la Junta resolverá inmediatamente sobre las pruebas que admita y las que deseche. En caso contrario, la Junta se podrá reservar para resolver dentro de los cinco días siguientes.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 881.
 
-Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 882.
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
 ###### Artículo 883.
 
-La Junta, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, que se giren los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley; y dictará las medidas necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
-
-Cuando, por la naturaleza de las pruebas admitidas, la Junta considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando que se reciban primero las del actor y después las del demandado. Este periodo no deberá exceder de treinta días.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 884.
 
-La audiencia de desahogo de pruebas se llevará a cabo conforme a las siguientes normas:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primero las del actor e inmediatamente las del demandado o, en su caso, las que hubieren sido señaladas para desahogarse en su fecha;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-II. Si alguna de las pruebas admitidas no estuviere debidamente preparada, se señalará nuevo día y hora para su desahogo dentro de los diez días siguientes, haciéndose uso de los medios de apremio;
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Si las pruebas por desahogar son únicamente copias o documentos que deban remitir autoridades o terceros, la Junta los requerirá en los siguientes términos:
-
-a) Si se tratare de autoridades, la Junta las requerirá para que envíen dichos documentos o copias y, si no lo cumplieren, a solicitud de parte, la Junta lo comunicará al superior inmediato para que se le apliquen las sanciones correspondientes; y
-
-b) Si se trata de terceros, la Junta dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos respectivos;
-
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. La Junta deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hiciere en el momento de la audiencia, se le concederán tres días para ello, apercibiéndola de que, en caso contrario, se dejará sin efectos la declaración correspondiente; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-V. Al concluir el desahogo de las pruebas, la Junta concederá a las partes un término de dos días para que presenten sus alegatos por escrito.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 885.
 
-Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa certificación del secretario de que ya no quedan pruebas por desahogar, se dará vista a las partes por el término de tres días para que expresen su conformidad con dicha certificación, bajo el apercibimiento de que si transcurrido el término señalado no lo hicieren y hubiere pruebas por desahogar, se les tendrá por desistidos de las mismas para todos los efectos legales y se procederá conforme a lo que dispone el párrafo siguiente. En caso de que las partes, al desahogar la vista señalada, acrediten que alguna o algunas pruebas ofrecidas no se desahogaron, la Junta, con citación de las mismas, señalará dentro de los ocho días siguientes día y hora para su desahogo. Desahogadas las pruebas pendientes, las partes formularán alegatos dentro de las veinticuatro horas siguientes.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-Hecho lo anterior, el auxiliar, de oficio, declarará cerrada la instrucción y, dentro de los diez días siguientes, formulará por escrito el proyecto de laudo, que deberá contener los elementos que se señalan en el artículo 840 de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-I. Un extracto de la demanda y de la contestación, réplica y contrarréplica; y en su caso, de la reconvención y contestación de la misma;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-II. El señalamiento de los hechos controvertidos;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-III. Una relación de las pruebas admitidas y desahogadas, y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-IV. Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo alegado y probado; y
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-V. Los puntos resolutivos.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 886.
 
-Del proyecto de laudo se entregará copia a cada uno de los integrantes de la Junta.
-
-Dentro de los cinco días hábiles siguientes a aquel en que se hubiere recibido la copia del proyecto, cualquiera de los integrantes de la Junta podrá solicitar que se practiquen las diligencias que juzgue convenientes para el esclarecimiento de la verdad.
-
-La Junta, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de las pruebas que no se llevaron a cabo o para la práctica de las diligencias solicitadas.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 887.
 
-Transcurrido el término a que se refiere el artículo anterior, concedido a los integrantes de la Junta, o en su caso, desahogadas las diligencias que en este término se hubiesen solicitado, el Presidente de la Junta citará a los miembros de la misma, para la discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que hayan concluido el término fijado o el desahogo de las diligencias respectivas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 888.
 
-La discusión y votación del proyecto de laudo se llevarán a cabo en sesión de la Junta, certificando el secretario la presencia de los participantes que concurran a la votación, de conformidad con las normas siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-I. Se dará lectura al proyecto de resolución y a los alegatos y a las observaciones formulados por las partes;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-II. El Presidente pondrá a discusión el negocio con el resultado de las diligencias practicadas; y
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1980)</small>
-
-III. Terminada la discusión, se procederá a la votación, y el Presidente declarará el resultado.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 889.
 
-Si el proyecto de resolución fuere aprobado, sin adiciones ni modificaciones, se elevará a la categoría de laudo y se firmará de inmediato por los miembros de la Junta.
-
-Si al proyecto se le hicieran modificaciones o adiciones, se ordenará al secretario que de inmediato redacte el laudo, de acuerdo con lo aprobado. En este caso, el resultado se hará constar en acta.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 890.
 
-Engrosado el laudo, el Secretario recogerá, en su caso, las firmas de los miembros de la Junta que votaron en el negocio y, una vez recabadas, turnará el expediente al actuario, para que de inmediato notifique personalmente el laudo a las partes.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 891.
 
-Si la Junta estima que alguna de las partes obró con dolo o mala fe, podrá imponerle en el laudo una multa, en los términos de lo dispuesto en la fracción II del artículo 729 de esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
+
+### CAPITULO XX. Procedimiento de Huelga
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 892.
 
-Las disposiciones de este Capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153, fracción X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III; 389; 418; 425, fracción IV; 427 fracciones I, II y VI; 434, fracciones I, III y V; 439; 503 y 505 de esta Ley y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios.
+Las disposiciones de este capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153-X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III, 484, 503 y 505 de esta Ley, así como los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios, la designación de beneficiarios del trabajador fallecido, con independencia de la causa del deceso, o desaparecido por un acto delincuencial, y los conflictos en materia de seguridad social.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(REFROMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 893.
 
-El procedimiento se iniciará con la presentación del escrito de demanda, en el cual el actor podrá ofrecer sus pruebas ante la Junta competente, la cual con diez días de anticipación, citará a una audiencia de conciliación, demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda o al concluir las investigaciones a que se refiere el artículo 503 de esta Ley.
+Los escritos de demanda y contestación deberán cumplir con los requisitos a que se refieren los artículos 872 y 873-A de esta Ley, en lo que sea aplicable.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Una vez que el Tribunal admita la demanda con los documentos y copias requeridas, se correrá traslado al demandado, quien deberá contestarla por escrito dentro de los diez días siguientes a la fecha del emplazamiento, pudiendo objetar las pruebas del actor, con el apercibimiento de que de no hacerlo se le tendrán por admitidas las peticiones del actor.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Con copia del escrito de contestación y sus anexos se correrá traslado a la parte actora para que en el término de tres días formule réplica y objete pruebas de su contraria. Desahogada ésta, se correrá traslado al demandado para que en el mismo plazo realice su contrarréplica.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En estos procedimientos se privilegiará la substanciación en línea, salvo la imposibilidad material para ello y sin detrimento de los derechos de los trabajadores, asegurados y sus beneficiarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 894.
 
-La Junta, al citar al demandado, lo apercibirá que de no concurrir a la audiencia a que se refiere el artículo siguiente, dará por admitidas las peticiones de la parte actora, salvo que sean contrarias a lo dispuesto por la Ley.
+Una vez formulada la réplica y contrarréplica o transcurridos los términos para ello, dentro de los quince días siguientes, el Tribunal dictará el auto de depuración, que se ocupará de los aspectos que son objeto de la audiencia preliminar en términos del artículo 873-E de esta Ley. Esta actuación se emitirá por escrito fuera de audiencia, y no podrá delegarse en el secretario instructor. El Tribunal podrá emplear el sistema de videoconferencia a fin de formular las prevenciones y aclaraciones que sean necesarias para emitir el auto de depuración.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando el asunto así lo requiera debido a la complejidad de los puntos controvertidos, las excepciones propuestas o la preparación de las pruebas, el Tribunal citará a audiencia preliminar dentro de los diez días siguientes a que concluyan los plazos para la réplica y contrarréplica. La audiencia preliminar se desahogará conforme a lo establecido en el artículo 873-F.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando la controversia se reduzca a puntos de derecho, o bien cuando la única prueba que resulte admitida sea la documental, y ésta ya se hubiera exhibido sin ser objetada, el Tribunal otorgará a las partes un plazo de cinco días para formular alegatos por escrito, y vencido éste dictará sentencia, sin previa celebración de la audiencia de juicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 895.
 
-La audiencia de conciliación, demanda y excepciones, pruebas y resolución, se celebrará de conformidad con las normas siguientes:
+La audiencia de juicio se desahogará en los términos previstos para el procedimiento ordinario.
 
-I. La Junta procurará avenir a las partes, de conformidad con las fracciones I y II del artículo 876 de esta Ley;
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. De no ser posible lo anterior, cada una de las partes expondrá lo que juzgue conveniente, formulará sus peticiones y ofrecerá y rendirá las pruebas que hayan sido admitidas;
+En los procedimientos especiales se observarán las disposiciones de los capítulos XII y XVII de este Título, en lo que sean aplicables.
 
-III. Si se ofrece el recuento de los trabajadores, se observarán las disposiciones contenidas en el artículo 931 de esta Ley; y
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-IV. Concluida la recepción de las pruebas, la Junta oirá los alegatos y dictará resolución.
+II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+III. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+IV. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 896.
 
-Si no concurre el actor o promovente a la audiencia, se tendrá por reproducido su escrito o comparecencia inicial, y en su caso, por ofrecidas las pruebas que hubiere acompañado. Si se trata de la aplicación del artículo 503 de esta Ley, la Junta, dictará su resolución tomando en cuenta los alegatos y pruebas aportadas por las personas que ejercitaron derechos derivados de las prestaciones que generó el trabajador fallecido.
+Para aplicación del artículo 503 de la Ley Federal del Trabajo, con la presentación de la demanda el Tribunal iniciará las investigaciones a que se refiere ese precepto; para ello solicitará al patrón le proporcione los nombres y domicilios de los beneficiarios registrados ante él y en las instituciones oficiales; podrá además ordenar la práctica de cualquier diligencia, o emplear los medios de comunicación que estime pertinentes, para convocar a todas las personas que dependían económicamente del trabajador fallecido a ejercer sus derechos ante el Tribunal.
 
-Cuando se controvierta el derecho de los presuntos beneficiarios, se suspenderá la audiencia y se señalará su reanudación dentro de los quince días siguientes, a fin de que las partes puedan ofrecer y aportar las pruebas relacionadas con los puntos controvertidos.
+De existir controversia entre los interesados, el Tribunal citará a la audiencia preliminar.
 
-Si no concurren las demás partes, se hará efectivo el apercibimiento a que se refiere el artículo 894 de esta Ley.
+El Tribunal dictará su resolución tomando en cuenta los alegatos y pruebas aportadas por las personas que ejercitaron derechos derivados de las prestaciones que generó el trabajador fallecido.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 897.
 
-Para la tramitación y resolución de los conflictos a que se refiere este Capítulo, la Junta se integrará con el Auxiliar, salvo los casos de los artículos 389; 418; 424, fracción IV; 427, fracciones II, III y VI; 434, fracciones I, III y V; y 439, de esta Ley, en los que deberá intervenir el Presidente de la Junta o el de la Junta Especial.
+La tramitación y resolución de los conflictos colectivos a que se refieren los artículos 389; 418; 424, fracción IV; 427, fracciones I, II y VI; 434, fracciones I, III y V; y 439, de esta Ley, así como los casos de violaciones a derechos fundamentales en materia colectiva que atenten contra la libertad de asociación, libertad sindical, derecho de negociación colectiva, o se impugnen procedimientos de elección de directivas sindicales, o bien sanciones sindicales que limiten el derecho a votar y ser votado, se resolverán mediante el Procedimiento Especial Colectivo previsto en los artículos 897-A al 897-G de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-A.
+
+Los escritos de demanda y contestación se presentarán ante el Tribunal competente y deberán cumplir con los requisitos a que se refieren los artículos 872 y 873-A de esta Ley, en lo que sea aplicable.
+
+Los conflictos entre sindicatos a los que se refieren los artículos 389 y 418 de esta Ley se resolverán únicamente a través de la consulta de los trabajadores, quienes manifestarán su voluntad a través del voto personal, libre, directo y secreto, por lo que no puede ser materia de negociación al ser elementos esenciales de la democracia y de los derechos humanos vinculados a ésta. En estos casos y tratándose de violaciones a derechos fundamentales en materia colectiva que atenten contra la libertad de asociación, libertad sindical o al derecho de negociación colectiva, o cuando se impugnen procedimientos de elección de las directivas sindicales, para promover el juicio no será necesario acudir a la conciliación prejudicial ni exhibir la constancia correspondiente.
+
+No podrán acumularse en esta vía pretensiones ajenas al propósito de ésta; de reclamarse, se dejarán a salvo los derechos de las partes para que los ejerzan en la vía que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-B.
+
+Una vez que el Tribunal admita la demanda con los documentos y copias requeridas, se correrá traslado al demandado, quien deberá contestarla por escrito dentro de los diez días siguientes a la fecha del emplazamiento, cubriendo los requisitos señalados en el artículo 873-A de la Ley y objetando las pruebas del actor, apercibido que de no hacerlo se estará a lo establecido en dicho precepto legal. En los conflictos de titularidad de la contratación colectiva, el allanamiento a la demanda no impedirá la continuación del procedimiento.
+
+Con copia del escrito de contestación a la demanda y sus anexos se correrá traslado a la parte actora para que en el término de tres días formule réplica y objete pruebas de su contraria. Desahogada ésta, se correrá traslado a la parte demandada para que en el mismo plazo realice su contrarréplica. Una vez formulada la réplica y contrarréplica o transcurridos los términos para ello, se dictará auto que fije fecha para la celebración de la audiencia de juicio, la cual deberá efectuarse dentro de los cinco días siguientes, salvo lo establecido en el artículo 897-F de esta Ley.
+
+En el mismo auto el juez depurará el procedimiento y, en su caso, resolverá las excepciones procesales que se hubieren opuesto; asimismo, admitirá o desechará las pruebas, según sea el caso. También fijará la forma de preparación de las pruebas y ordenará la expedición de oficios o citaciones que correspondan conforme lo establece el capítulo XII del Título Catorce de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-C.
+
+La audiencia de juicio se desarrollará de la siguiente manera:
+
+I. El juez abrirá la fase de desahogo de pruebas;
+
+II. Se desahogarán ante el juez las pruebas admitidas y preparadas. La audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación de las pruebas admitidas, salvo causa justificada; tratándose de la prueba de recuento se señalará día, hora y lugar para su realización, y
+
+III. Desahogadas las pruebas, las partes formularán alegatos en forma oral; acto seguido el juez declarará cerrada la etapa de juicio y suspenderá la audiencia, citando a las partes para oír sentencia dentro de los tres días posteriores.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-D.
+
+El juez dictará su resolución tomando en cuenta los alegatos y pruebas aportadas por las partes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-E.
+
+En la sesión de lectura de sentencia el Juez expondrá oralmente y de forma breve las consideraciones y motivos de su resolución; leerá únicamente los puntos resolutivos, dejando a disposición de las partes copia de la sentencia y cerrará la audiencia de juicio, con lo que se pondrá fin al procedimiento.
+
+Contra las resoluciones pronunciadas en el procedimiento especial colectivo no procederá recurso alguno. No obstante, de oficio o a petición de parte se podrán subsanar las omisiones o irregularidades que se adviertan para el solo efecto de regularizar el procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-F.
+
+Si se ofrece el recuento de los trabajadores, para preparar su desahogo mediante voto personal, libre, directo y secreto, el Tribunal llevará a cabo las siguientes diligencias:
+
+I. Con objeto de definir los trabajadores que tienen derecho a votar, dentro de los dos días siguientes a la recepción de la demanda, requerirá:
+
+a) Al Instituto Mexicano del Seguro Social o institución de seguridad social homologa, Servicio de Administración Tributaria, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y demás autoridades que por la naturaleza de su actividad puedan tener información de los trabajadores del centro de trabajo, la información necesaria a fin de elaborar el padrón que servirá de base en la prueba de recuento; esta información abarcará el período de tres meses de anticipación a la fecha de presentación de la demanda;
+
+b) Al patrón, para que bajo protesta de decir verdad, informe el nombre de todos sus trabajadores, distinguiendo los de confianza, los sindicalizables y sindicalizados, además de precisar puesto, salario y fecha de ingreso. Asimismo, señalará los nombres de los trabajadores que hayan ingresado a laborar, hayan sido despedidos o dejado de prestar sus servicios con tres meses de anterioridad a la fecha de la presentación de la demanda, y anexará un ejemplar del contrato colectivo de trabajo;
+
+c) Al Centro Federal de Conciliación y Registro Laboral, la documentación e información relativa al registro del contrato colectivo o de la administración del contrato-ley, tabuladores, padrones de trabajadores afiliados a los sindicatos contendientes y toda aquella información que posea.
+
+Esta información deberá ser entregada al Tribunal en el plazo de cinco días. Con copia de la misma se les correrá traslado a las partes a fin de que dentro del plazo de siete días formulen objeciones a los informes recibidos y a los listados de trabajadores, así como para que ofrezcan, en su caso, las pruebas de que dispongan para sustentar sus objeciones;
+
+II. Una vez recibidas las objeciones o transcurrido el plazo para ello, el Tribunal citará a las partes dentro de los tres días siguientes a una audiencia incidental de objeciones y preparación al recuento. En dicha audiencia incidental el Tribunal acordará sobre la admisión y desahogo de las pruebas documentales que hubieran ofrecido las partes.
+
+Una vez desahogadas las pruebas documentales, dentro de los siete días siguientes a que se dicte el acuerdo respectivo, el Tribunal elaborará el padrón que servirá de base para el recuento, y señalará lugar, fecha y hora, así como condiciones bajo las que se desahogará el recuento de los trabajadores mediante voto personal, libre, directo y secreto, conforme al procedimiento establecido en el artículo 390 Bis, fracción II, incisos c) a j), de la presente Ley, con las modalidades contempladas en el presente artículo; en dicho acuerdo el juez facultará a él o los funcionarios o personal que deberá llevar a cabo el procedimiento del recuento.
+
+El juez garantizará que el procedimiento de recuento se realice en los términos y plazos establecidos en este artículo y que las objeciones presentadas no impliquen la dilación del procedimiento;
+
+III. El Tribunal correrá traslado a las partes con el padrón autorizado y con el acuerdo en el que se ordena el desahogo del recuento, y
+
+IV. Desahogado el recuento el Tribunal citará a las partes a la audiencia de juicio prevista en el artículo 897-C de esta Ley, la cual deberá celebrarse a más tardar en los cinco días siguientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 897-G.
+
+Cuando se trate de conflictos entre sindicatos a los que se refieren los artículos 389 y 418 de esta Ley, si en el desarrollo del procedimiento se advierte la injerencia del patrón a favor de alguno de los sindicatos contendientes o la comisión de actos de violencia por algunas de las partes, el Juez tomará las medidas necesarias para que el ejercicio del voto de los trabajadores se realice con plena libertad y seguridad, con independencia de que de vista de los hechos a las autoridades penales y administrativas correspondientes para su sanción.
 
 ###### Artículo 898.
 
-La Junta, para los efectos del artículo 503 de esta Ley, solicitará al patrón le proporcione los nombres y domicilios de los beneficiarios registrados ante él y en las instituciones oficiales; podrá además ordenar la práctica de cualquier diligencia, o emplear los medios de comunicación que estime pertinente, para convocar a todas las personas que dependían económicamente del trabajador fallecido a ejercer sus derechos ante la Junta.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 899.
 
-En los procedimientos especiales se observarán las disposiciones de los Capítulos XII y XVII de este Título, en lo que sean aplicables.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-#### Sección Segunda. Del procedimiento del embargo
+#### Sección Primera. Conflictos Individuales de Seguridad Social
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 899-A.
 
 Los conflictos individuales de seguridad social son los que tienen por objeto reclamar el otorgamiento de prestaciones en dinero o en especie, derivadas de los diversos seguros que componen el régimen obligatorio del Seguro Social, organizado y administrado por el Instituto Mexicano del Seguro Social, y de aquellas que conforme a la Ley del Seguro Social y la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deban cubrir el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las Administradoras de Fondos para el Retiro, así como las que resulten aplicables en virtud de contratos colectivos de trabajo o contratos-Ley que contengan beneficios en materia de seguridad social.
 
-La competencia para conocer de estos conflictos, por razón de territorio corresponderá a la Junta Especial de la Federal de Conciliación y Arbitraje del lugar en el que se encuentre la clínica del Instituto Mexicano del Seguro Social a la cual se encuentren adscritos los asegurados o sus beneficiarios.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-En caso de que se demanden únicamente prestaciones relacionadas con la devolución de fondos para el retiro y vivienda, corresponderá la competencia a la Junta Especial de la Federal de Conciliación y Arbitraje de la entidad federativa donde se encuentre el último centro de trabajo del derechohabiente.
+La competencia para conocer de estos conflictos, por razón de territorio corresponderá al Tribunal del lugar en el que se encuentre la clínica del Instituto Mexicano del Seguro Social a la cual se encuentren adscritos los asegurados o sus beneficiarios.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En caso de que se demanden únicamente prestaciones relacionadas con la devolución de fondos para el retiro y vivienda, corresponderá la competencia al Tribunal federal de la entidad federativa donde se encuentre el último centro de trabajo del derechohabiente.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -9862,19 +11414,23 @@ VII. Vigencia de derechos; y
 
 VIII. Pagos parciales otorgados a los asegurados.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 899-E.
 
-Tratándose de prestaciones derivadas de riesgos de trabajo o enfermedades generales, el procedimiento se sujetará a las siguientes reglas:
+En el procedimiento se observará lo establecido en la sección primera de este capítulo, y en los casos en que se demanden prestaciones derivadas de riesgos de trabajo o enfermedades generales, el procedimiento se sujetará además a las siguientes reglas:
 
-Las partes designarán a sus peritos médicos en la demanda y en la contestación de la misma, los cuales deberán contar con el registro a que se refiere el artículo 899-F.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-En caso de que el actor omita la designación de perito médico o no solicite a la Junta se le designe uno en términos de lo dispuesto por el artículo 824 de esta Ley, ésta lo prevendrá para que subsane la omisión en un término de tres días, apercibiéndolo que en caso de no hacerlo se desechará de plano el escrito de demanda.
+Cuando lo planteado en la demanda exija la designación de peritos, deberá citarse a la audiencia preliminar, y en el auto de citación se designará al perito o peritos médicos oficiales que estime necesarios, sin perjuicio de que las partes puedan acompañarse de un asesor que los auxilie en el desahogo del interrogatorio.
 
-La prueba pericial se integrará con los peritajes que rindan los peritos de las partes, y con el que rinda el perito que designe la Junta Especial del conocimiento.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La Junta, al designar a los peritos, procurará que los mismos dependan de distinta institución que los designados por las partes, salvo que en el cuerpo de peritos médicos a que se refiere el artículo 899-G de esta Ley, no se cuente con alguno que satisfaga esa circunstancia.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES] , D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Los dictámenes deberán contener:
 
@@ -9890,31 +11446,61 @@ V. Los medios de convicción en los cuales se basan las conclusiones del peritaj
 
 VI. En su caso, el porcentaje de valuación, de disminución orgánico funcional, o la determinación del estado de invalidez.
 
-Las partes contarán con un plazo de diez días hábiles contados a partir de la celebración de la audiencia inicial, para que sus peritos acepten y protesten el cargo conferido y expresen a la Junta en forma justificada, los requerimientos necesarios para la emisión del dictamen pericial y, en su caso, para la determinación del nexo causal, tratándose de riesgos de trabajo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La Junta se hará cargo de la notificación de los peritos que ésta designe y dictará las medidas que considere pertinentes para agilizar la emisión de los dictámenes periciales y requerirá al trabajador para que se presente a la realización de los estudios médicos o diligencias que requieran los peritos.
+El Tribunal deberá tomar las medidas conducentes para que el o los peritos médicos oficiales designados acepten y protesten el cargo conferido dentro de los cinco días siguientes a la celebración de la audiencia preparatoria, quienes deberán señalar al Tribunal en forma justificada, los requerimientos necesarios para la emisión del dictamen pericial y, en su caso, para la determinación del nexo causal, tratándose de riesgos de trabajo.
 
-Dentro de los treinta días siguientes a la celebración de la audiencia inicial, la Junta señalará día y hora para la audiencia en que se recibirán los dictámenes periciales con citación de las partes, con el apercibimiento que de no comparecer, se les tendrá por perdido su derecho para formular repreguntas u observaciones.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Si la parte actora no acude a las diligencias ordenadas por la Junta a que se refiere el inciso c) de este artículo, o si abandona los estudios médicos o diligencias ordenadas, se hará constar la falta de interés, a efecto de que se decrete la deserción de la prueba, salvo las causas justificadas a que se refiere el artículo 785 de esta Ley.
+El Tribunal notificará al perito o peritos oficiales y dictará las medidas que considere pertinentes para agilizar la emisión de los dictámenes periciales y requerirá al trabajador para que se presente a la realización de los estudios médicos o diligencias que requieran el o los peritos.
 
-La Junta deberá aplicar a los peritos las medidas de apremio que establece esta Ley, para garantizar la emisión oportuna del dictamen.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Las partes en la audiencia de desahogo de la pericial médica, por sí o a través de un profesionista en medicina, podrán formular las observaciones o preguntas que juzguen convenientes en relación a las consideraciones y conclusiones de la prueba pericial médica.
+Dentro de los treinta días siguientes a la celebración de la audiencia preparatoria, el Tribunal señalará día y hora para la audiencia de juicio, en que se recibirán el o los dictámenes periciales con citación de las partes, con el apercibimiento que de no comparecer, se les tendrá por perdido su derecho para formular repreguntas u observaciones.
 
-Los miembros de la Junta podrán formular preguntas al perito o a los peritos que comparezcan a la diligencia.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-La Junta determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del riesgo de trabajo, para calificarlo como tal.
+Si la parte actora no acude a las diligencias ordenadas por el Tribunal, o si abandona los estudios médicos o diligencias ordenadas, se hará constar la falta de interés, a efecto de que se decrete la deserción de la prueba, salvo las causas justificadas a que se refiere el artículo 785 de esta Ley.
 
-La Junta podrá requerir a las autoridades, instituciones públicas y organismos descentralizados, la información que tengan en su poder y que contribuya al esclarecimiento de los hechos; también podrá solicitar estudios médicos de instituciones de salud públicas o privadas; practicar toda clase de consultas e inspecciones en las empresas o establecimientos en los que el trabajador haya laborado y, de ser necesario, se auxiliará con la opinión de peritos en otras materias.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-En la ejecución del laudo las partes podrán convenir las modalidades de su cumplimiento.
+El Tribunal deberá aplicar a los peritos las medidas de apremio que establece esta Ley, para garantizar la emisión oportuna del dictamen.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las partes en la audiencia de desahogo de la pericial médica, por sí o a través de un especialista en medicina, podrán formular las observaciones o preguntas que juzguen convenientes en relación a las consideraciones y conclusiones de la prueba pericial médica.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Tribunal podrá formular preguntas al perito o a los peritos que comparezcan a la diligencia.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Tribunal determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del presunto riesgo de trabajo, para calificarlo como tal.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El Tribunal podrá requerir a las autoridades, instituciones públicas y organismos descentralizados, la información que posean y que contribuya al esclarecimiento de los hechos; también podrá solicitar estudios médicos de instituciones de salud públicas o privadas; practicar toda clase de consultas e inspecciones en las empresas o establecimientos en los que el trabajador haya laborado y, de ser necesario, se auxiliará con la opinión de peritos en otras materias.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Las instituciones de seguridad social deberán poner a disposición de los tribunales una plataforma informática que permita el acceso a sus bases de datos con el objeto de que el tribunal esté en condiciones de esclarecer los hechos controvertidos.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En la ejecución de la sentencia las partes podrán convenir las modalidades de su cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En el desahogo de la prueba pericial médica, se estará a lo dispuesto en los artículos 822, 823, 824, 824 Bis, 825 y 826 en lo que no se oponga a lo previsto en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 899-F.
 
-Los peritos médicos que intervengan en los conflictos vinculados con la calificación y valuación de riesgos de trabajo y enfermedades generales, deberán estar inscritos en el registro de la Junta Federal de Conciliación y Arbitraje.
+Los peritos médicos que intervengan en los conflictos vinculados con la calificación y valuación de riesgos de trabajo y enfermedades generales, deberán estar inscritos en el registro del Tribunal federal como peritos oficiales conforme a lo previsto en el artículo 899-G.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Para tal efecto, los peritos médicos deberán satisfacer los requisitos siguientes:
 
@@ -9928,31 +11514,39 @@ IV. No haber sido condenado por delito intencional sancionado con pena corporal;
 
 V. Observar lo dispuesto por el artículo 707 de esta Ley, así como las disposiciones de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en lo que respecta a las causas de impedimento y excusa.
 
-Si durante el lapso de seis meses los peritos médicos incumplen en más de tres ocasiones, con la presentación oportuna de los dictámenes médicos que le sean requeridos, sin que medie causa justificada, a juicio del Presidente de la Junta Federal de Conciliación y Arbitraje será dado de baja del registro de peritos médicos y no podrá reingresar sino transcurridos dos años, contados a partir de la fecha de la baja.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Si durante el lapso de seis meses alguno de los peritos médicos incumple en más de tres ocasiones, con la presentación oportuna de los dictámenes médicos que le sean requeridos, sin que medie causa justificada, a juicio del Tribunal será dado de baja del registro de peritos médicos y no podrá reingresar sino transcurridos dos años, contados a partir de la fecha de la baja.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 899-G.
 
-La Junta Federal de Conciliación y Arbitraje integrará un cuerpo de peritos médicos especializados en medicina del trabajo, para lo cual las instituciones públicas que presten servicios de salud, deberán designar a los peritos médicos que les sean solicitados por la Junta, en los términos del Reglamento correspondiente.
+El Consejo de la Judicatura Federal integrará un cuerpo de peritos médicos oficiales especializados en medicina del trabajo y áreas afines que estarán adscritos al Poder Judicial de la Federación. En caso de que por la carga de trabajo o el nivel de especialización así lo requiera, las instituciones públicas que presten servicios de salud, deberán designar a los peritos médicos que les sean solicitados por el Tribunal, en los términos del Reglamento correspondiente, garantizando que el médico designado no tenga conflicto de intereses.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO I
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 900.
 
 Los conflictos colectivos de naturaleza económica, son aquéllos cuyo planteamiento tiene por objeto la modificación o implantación de nuevas condiciones de trabajo, o bien, la suspensión o terminación de las relaciones colectivas de trabajo, salvo que la presente Ley señale otro procedimiento.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 901.
 
-En la tramitación de los conflictos a que se refiere este Capítulo, las Juntas deberán procurar, ante todo, que las partes lleguen a un convenio. A este fin, podrán intentar la conciliación en cualquier estado del procedimiento, siempre que no se haya dictado la resolución que ponga fin al conflicto.
+En la tramitación de los conflictos a que se refiere este capítulo, los Tribunales deberán procurar, ante todo, que las partes lleguen a un convenio. A este fin, podrán intentar la conciliación en cualquier estado del procedimiento, siempre que no se haya dictado la resolución que ponga fin al conflicto.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 902.
 
-El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante la Junta de Conciliación y Arbitraje y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión de la Junta.
+El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante el Tribunal y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión del Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 No es aplicable lo dispuesto en el párrafo anterior, cuando la huelga tenga por objeto lo señalado en el artículo 450, fracción VI.
 
@@ -9984,11 +11578,39 @@ IV. Las pruebas que juzgue conveniente para acreditar sus pretensiones; y
 
 V. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 905.
 
-La Junta, inmediatamente después de recibir la demanda, citará a las partes a una audiencia que deberá efectuarse dentro de los cinco días siguientes.
+El Tribunal, inmediatamente después de recibir la demanda, ordenará emplazar a la parte demandada para que conteste en el término de quince días.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El escrito de contestación deberá reunir los mismos requisitos exigidos para la demanda, incluyendo en su caso la objeción de pruebas de la contraparte, las excepciones procesales y las pruebas con que éstas se acrediten.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Con la contestación se dará vista a la parte actora para que en el término de cinco días manifieste lo que corresponda y, en su caso, objete las pruebas de la demandada. De objetar las pruebas, deberá ofrecer los medios probatorios conducentes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Desahogada la vista o transcurrido el plazo para su desahogo, el Tribunal citará a las partes a una audiencia que deberá efectuarse dentro de los veinticinco días siguientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En el auto que señale día y hora para la celebración de audiencia, el Tribunal se pronunciará respecto de la admisión de pruebas ofrecidas por las partes, ordenando su desahogo dentro de dicha audiencia.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La prueba pericial se rendirá por medio de peritos oficiales, quienes deberán aceptar el cargo dentro de los tres días siguientes a la fecha de su designación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El dictamen de los peritos oficiales deberá presentarse con al menos diez días de anticipación a la fecha de audiencia a fin de que se le corra traslado con copia del mismo a las partes para que éstas puedan realizar por escrito las objeciones y alegatos que estimen convenientes, lo cual deberán hacer en el plazo de los cinco días siguientes a su recepción. Cada parte podrá designar uno o más peritos para que se asocien a los nombrados por el Tribunal o rindan su dictamen por separado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los trabajadores y los patrones podrán designar dos comisiones integradas con el número de personas que determine el Tribunal, para que acompañen a los peritos en la investigación y les indiquen las observaciones y sugerencias que juzguen conveniente (sic).
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10000,45 +11622,63 @@ I. Si el promovente no concurre a la audiencia, se le tendrá por desistido de s
 
 II. Si no concurre la contraparte, se le tendrá por inconforme con todo arreglo. El promovente hará una exposición de los hechos y de las causas que dieron origen al conflicto y ratificará su petición;
 
-III. Si concurren las dos partes, la Junta, después de oír sus alegaciones, las exhortará para que procuren un arreglo conciliatorio. Los miembros de la misma podrán hacer las sugestiones que juzguen convenientes para el arreglo del conflicto;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
+III. Si concurren las dos partes, el Tribunal, después de oír sus alegaciones, las exhortará para que procuren un arreglo conciliatorio. Los miembros del mismo podrán hacer las sugestiones que juzguen convenientes para el arreglo del conflicto;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por el Tribunal, producirá todos los efectos jurídicos inherentes a una sentencia;
 
 V. Si no se llega a un convenio, las partes harán una exposición de los hechos y causas que dieron origen al conflicto y formularán sus peticiones y a las que por su naturaleza no puedan desahogarse, se les señalará día y hora para ello;
 
-VI. Concluidas las exposiciones de las partes y formuladas sus peticiones, se procederá a ofrecerse y en su caso, a desahogarse las pruebas admitidas;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VII. La Junta, dentro de la misma audiencia, designará tres peritos, por lo menos, para que investiguen los hechos y causas que dieron origen al conflicto, otorgándoles un término que no podrá exceder de treinta días, para que emitan su dictamen respecto de la forma en que, según su parecer, puede solucionarse el conflicto, sin perjuicio de que cada parte pueda designar un perito para que se asocie a los nombrados por la Junta o rinda dictamen por separado; y
+VI. Concluidas las exposiciones de las partes y formuladas sus peticiones, se procederá a desahogar las pruebas admitidas, y
 
-VIII. Los trabajadores y los patrones podrán designar dos comisiones, integradas con el número de personas que determine la Junta, para que acompañen a los peritos en la investigación y les indiquen las observaciones y sugestiones que juzguen conveniente.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+VII. Desahogadas las pruebas, se concederá el uso de la voz a las partes para formular alegatos en forma breve y se declararán vistos los autos para sentencia.
+
+VIII. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 907.
 
-Los peritos designados por la Junta deberán satisfacer los requisitos siguientes:
+Los peritos designados por el Tribunal deberán satisfacer los requisitos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Ser mexicanos y estar en pleno ejercicio de sus derechos;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Estar legalmente autorizados y capacitados para ejercer la técnica, ciencia o arte sobre el que verse el peritaje, salvo los casos en que no se requiera autorización, pero deberán tener los conocimientos de la materia de que se trate; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 III. No haber sido condenados por delito intencional.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
 ###### Artículo 908.
 
-Las partes, dentro de los primeros diez días del término a que se refiere la fracción VII del artículo 906, podrán presentar directamente a los peritos, o por conducto de la Junta o a través de la Comisión, las observaciones, informes, estudios y demás elementos que puedan contribuir a la determinación de las causas que dieron origen al conflicto, para que sean tomados en cuenta por los peritos, en sus dictámenes.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 909.
 
-Los peritos nombrados por la Junta, realizarán las investigaciones y estudios que juzguen conveniente, y podrán actuar con la mayor amplitud, teniendo, además de las inherentes a su desempeño, las facultades siguientes:
+El Tribunal, en auxilio de las partes, podrá actuar con la mayor amplitud para que los peritos nombrados, realicen las investigaciones y estudios que juzguen conveniente (sic), y podrán actuar con la mayor amplitud, teniendo, además de las inherentes a su desempeño, las facultades siguientes:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Solicitar toda clase de informes y estudios de las autoridades y de las instituciones oficiales, federales o estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicos, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Practicar toda clase de inspecciones en la empresa o establecimiento y revisar sus libros y documentos; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 III. Examinar a las partes y a las personas relacionadas con los trabajadores o con la empresa, que juzguen conveniente.
 
@@ -10074,19 +11714,19 @@ El dictamen de los peritos se agregará al expediente y se entregará una copia 
 
 El Secretario asentará razón en autos del día y hora en que hizo entrega de las copias a las partes, o de la negativa de éstas para recibirlas.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 912.
 
-Las partes, dentro de las setenta y dos horas de haber recibido copia del dictamen de los peritos, podrán formular las observaciones que juzguen convenientes en relación con los hechos, consideraciones y conclusiones del mismo dictamen.
+En caso de que las partes formulen objeciones al dictamen pericial oficial, el Tribunal citará a una audiencia incidental de objeciones al peritaje oficial dentro de los tres días siguientes a que reciba dichas objeciones. A esta audiencia deberán concurrir los peritos para contestar las preguntas que les formulen las partes y, en relación con los peritajes que rindieron, se podrán ofrecer pruebas que tengan por objeto comprobar la falsedad o inconsistencia de los hechos y consideraciones contenidas en el dictamen.
 
-La Junta, si se formulan objeciones al dictamen, citará a una audiencia a la que deberán concurrir los peritos para contestar las preguntas que les formulen las partes y en relación con los peritajes que rindieron; se podrán ofrecer pruebas, para que tengan por objeto comprobar la falsedad de los hechos y consideraciones contenidas en el dictamen.
+Atendiendo a la naturaleza de este tipo de juicios, la audiencia en cuestión deberá prorrogarse el tiempo necesario para dar oportunidad a las partes de interrogar exhaustivamente a los peritos y desahogar las pruebas que ofrezcan para acreditar sus objeciones.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 913.
 
-La Junta tiene las más amplias facultades para practicar las diligencias que juzgue convenientes, a fin de completar, aclarar o precisar las cuestiones analizadas por los peritos, así como para solicitar nuevos informes a las autoridades, instituciones y particulares a que se refiere el artículo 909, fracción I de este Capítulo, interrogar a los peritos o pedirles algún dictamen complementario o designar comisiones para que practiquen o realicen investigaciones o estudios especiales.
+El Tribunal tiene las más amplias facultades para practicar las diligencias que juzgue convenientes, a fin de completar, aclarar o precisar las cuestiones analizadas por los peritos, así como para solicitar nuevos informes a las autoridades, instituciones y particulares a que se refiere el artículo 909, fracción I de este capítulo, interrogar a los peritos o pedirles algún dictamen complementario o designar comisiones para que practiquen o realicen investigaciones o estudios especiales.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10094,47 +11734,55 @@ La Junta tiene las más amplias facultades para practicar las diligencias que ju
 
 Las autoridades, las instituciones y los particulares a que se refieren los artículos que anteceden, están obligadas a proporcionar los informes, contestar los cuestionarios y rendir las declaraciones que se les soliciten.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
 ###### Artículo 915.
 
-Desahogadas las pruebas, la Junta concederá a las partes un término de setenta y dos horas para que formulen sus alegatos, por escrito, apercibidas que en caso de no hacerlo, se les tendrá por perdido su derecho.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 916.
 
-Transcurrido el término para la presentación de los alegatos, el auxiliar declarará cerrada la instrucción y dentro de los quince días siguientes formulará un dictamen que deberá contener:
+Una vez que se declare cerrada la instrucción, el Tribunal dictará sentencia dentro de los treinta días siguientes, la que deberá contener:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Un extracto de las exposiciones y peticiones de las partes;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Un extracto del dictamen de los peritos y de las observaciones que hubiesen hecho las partes;
 
-III. Una enumeración y apreciación de las pruebas y de las diligencias practicadas por la Junta;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Una enumeración y apreciación de las pruebas y de las diligencias practicadas por el Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 IV. Un extracto de los alegatos; y
 
-V. Señalará los motivos y fundamentos que puedan servir para la solución del conflicto.
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+V. Señalará los motivos y fundamentos que puedan servir para la solución del conflicto.
 
 ###### Artículo 917.
 
-El dictamen se agregará al expediente y se entregará una copia a cada uno de los representantes de los trabajadores y de los patrones, ante la Junta. El Secretario asentará razón en autos del día y hora en que se hizo entrega de las copias o su negativa para recibirlos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 918.
 
-El Presidente de la Junta citará para la audiencia de discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que sean entregadas a los representantes las copias del dictamen, y se celebrará conforme a las reglas establecidas en el artículo 888 de esta Ley.
+(DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 919.
 
-La Junta, a fin de conseguir el equilibrio y la justicia social en las relaciones entre los trabajadores y patrones, en su resolución podrá aumentar o disminuir el personal, la jornada, la semana de trabajo, los salarios y, en general, modificar las condiciones de trabajo de la empresa o establecimiento, sin que en ningún caso pueda reducir los derechos mínimos consignados en las leyes.
+El Tribunal, a fin de conseguir el equilibrio y la justicia social en las relaciones entre los trabajadores y patrones, en su resolución podrá aumentar o disminuir el personal, la jornada, la semana de trabajo, los salarios y, en general, modificar las condiciones de trabajo de la empresa o establecimiento, sin que en ningún caso pueda reducir los derechos mínimos consignados en las leyes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 920.
 
@@ -10142,29 +11790,55 @@ El procedimiento de huelga se iniciará mediante la presentación del pliego de 
 
 I. Se dirigirá por escrito al patrón y en él se formularán las peticiones, anunciarán el propósito de ir a la huelga si no son satisfechas, expresarán concretamente el objeto de la misma y señalarán el día y hora en que se suspenderán las labores, o el término de prehuelga;
 
-II. Se presentará por duplicado a la Junta de Conciliación y Arbitraje. Si la empresa o establecimiento están ubicados en lugar distinto al en que resida la Junta, el escrito podrá presentarse a la autoridad del trabajo más próxima o a la autoridad política de mayor jerarquía del lugar de ubicación de la empresa o establecimiento. La autoridad que haga el emplazamiento remitirá el expediente, dentro de las veinticuatro horas siguientes, a la Junta de Conciliación y Arbitraje; y avisará telegráfica o telefónicamente al Presidente de la Junta.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. Se presentará por duplicado al Tribunal competente. Si la empresa o establecimiento están ubicados en lugar distinto al en que resida el Tribunal, el escrito podrá presentarse al órgano jurisdiccional más próximo o a la autoridad política de mayor jerarquía del lugar de ubicación de la empresa o establecimiento. El órgano o autoridad que haga el emplazamiento remitirá el expediente, dentro de las veinticuatro horas siguientes, al Tribunal competente; y le avisará telefónicamente, o por cualquier medio electrónico;
 
 III. El aviso para la suspensión de las labores deberá darse, por lo menos, con seis días de anticipación a la fecha señalada para suspender el trabajo y con diez días de anticipación cuando se trate de servicios públicos, observándose las disposiciones legales de esta Ley. El término se contará a partir del día y hora en que el patrón quede notificado.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Cuando el procedimiento de huelga tenga por objeto obtener del patrón o patrones la celebración del contrato colectivo de trabajo en términos del artículo 450, fracción II de esta Ley, se deberá anexar al emplazamiento a huelga la Constancia de Representatividad expedida por el Centro Federal de Conciliación y Registro Laboral, conforme al procedimiento establecido en el artículo 390 Bis;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Cuando el procedimiento de huelga tenga por objeto obtener del patrón o patrones la celebración del contrato-ley en términos de la fracción III del artículo 450 de esta Ley, se deberá anexar al emplazamiento a huelga la Constancia de Representatividad, expedida por el Centro Federal de Conciliación y Registro Laboral o deberá de mencionarse que se tiene celebrado contrato colectivo de trabajo en la empresa, señalando el número o folio de su registro ante el Centro Federal de Conciliación y Registro Laboral, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Cuando el procedimiento de huelga tenga por objeto los contemplados en las fracciones I, IV, V, VI o VII del artículo 450 de esta Ley, así como el previsto en la fracción II de dicho artículo en lo que se refiere a la revisión contractual, para acreditar que el sindicato emplazante es el titular del contrato colectivo de trabajo o el administrador del contrato ley, se deberá anexar al emplazamiento a huelga el Certificado de Registro del contrato colectivo expedido por el Centro Federal de Conciliación y Registro Laboral o el acuse de recibo del escrito en el que se solicitó dicho Certificado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 921.
 
-El Presidente de la Junta de Conciliación y Arbitraje o las autoridades mencionadas en la fracción II del artículo anterior, bajo su más estricta responsabilidad harán llegar al patrón la copia del escrito de emplazamiento dentro de las cuarenta y ocho horas siguientes a la de su recibo.
+El Tribunal o las autoridades mencionadas en la fracción II del artículo anterior, bajo su más estricta responsabilidad harán llegar al patrón la copia del escrito de emplazamiento dentro de las cuarenta y ocho horas siguientes a la de su recibo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 La notificación producirá el efecto de constituir al patrón, por todo el término del aviso, en depositario de la empresa o establecimiento afectado por la huelga, con las atribuciones y responsabilidades inherentes al cargo.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+A petición de parte, los Tribunales, dentro de las cuarenta y ocho horas siguientes a que le sea solicitado, expedirán la certificación de la existencia o no de un emplazamiento a huelga promovido contra un centro de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 921 Bis.
+
+Dentro de las veinticuatro horas siguientes a la que sea presentado el emplazamiento a huelga, el Tribunal o las autoridades mencionadas en la fracción II del artículo 920 de esta Ley, notificarán al Centro de Conciliación competente para que intervenga durante el período de prehuelga a fin de avenir a las partes; éste tendrá facultad de citarlas dentro del período de prehuelga para negociar y celebrar pláticas conciliatorias. Para este propósito, podrán asignar conciliadores ante el Tribunal.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 922.
 
-El patrón, dentro de las cuarenta y ocho horas siguientes a la de la notificación, deberá presentar su contestación por escrito ante la Junta de Conciliación y Arbitraje.
+El patrón, dentro de las cuarenta y ocho horas siguientes a la de la notificación, deberá presentar su contestación por escrito ante el Tribunal.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 923.
 
-No se dará trámite al escrito de emplazamiento de huelga cuando éste no sea formulado conforme a los requisitos del artículo 920 o sea presentado por un sindicato que no sea el titular del contrato colectivo de trabajo, o el administrador del contrato ley, o cuando se pretenda exigir la firma de un contrato colectivo, no obstante existir ya uno depositado en la Junta de Conciliación y Arbitraje competente. El Presidente de la Junta, antes de iniciar el trámite de cualquier emplazamiento a huelga, deberá cerciorarse de lo anterior, ordenar la certificación correspondiente y notificarle por escrito la resolución al promovente.
+No se dará trámite al escrito de emplazamiento de huelga cuando éste no sea formulado conforme a los requisitos del artículo 920 o sea presentado por un sindicato que no sea el titular del contrato colectivo de trabajo, o el administrador del contrato ley, o cuando se pretenda exigir la firma de un contrato colectivo, no obstante existir ya uno depositado ante el Centro Federal de Conciliación y Registro Laboral, salvo que dicho contrato no haya sido revisado en los últimos cuatro años. El Tribunal, antes de iniciar el trámite de cualquier emplazamiento a huelga, deberá cerciorarse de lo anterior y notificarle por escrito la resolución al promovente.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10188,11 +11862,11 @@ Siempre serán preferentes los derechos de los trabajadores, sobre los créditos
 
 Para los efectos de este Capítulo, se entiende por servicios públicos los de comunicaciones y transportes, los de luz y energía eléctrica, los de limpia, los de aprovechamiento y distribución de aguas destinadas al servicio de las poblaciones, los de gas, los sanitarios, los de hospitales, los de cementerios y los de alimentación, cuando se refieran a artículos de primera necesidad, siempre que en este último caso se afecte alguna rama completa del servicio.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 926.
 
-La Junta de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, en la que procurará avenirlas, sin hacer declaración que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga. Esta audiencia sólo podrá diferirse a petición de los trabajadores y por una sola vez.
+El Tribunal citará a las partes a una audiencia de conciliación que se celebrará dentro del período de prehuelga, en la que podrá intervenir el conciliador del Centro de Conciliación competente para procurar avenirlas. En esta audiencia no se hará declaración alguna que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga. Esta audiencia podrá ser diferida a petición del sindicato o de ambas partes.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10200,13 +11874,33 @@ La Junta de Conciliación y Arbitraje citará a las partes a una audiencia de co
 
 La audiencia de conciliación se ajustará a las normas siguientes:
 
-I. Si el patrón opuso la excepción de falta de personalidad al contestar el pliego de peticiones, la Junta resolverá previamente esta situación y, en caso de declararla infundada, se continuará con la audiencia en la que se observarán las normas consignadas por el procedimiento conciliatorio ante la Junta de Conciliación y Arbitraje en lo que sean aplicables;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Si el patrón opuso la excepción de falta de personalidad al contestar el pliego de peticiones, el Tribunal resolverá previamente esta situación y, en caso de declararla infundada, se continuará con la audiencia;
 
 II. Si los trabajadores no concurren a la audiencia de conciliación, no correrá el término para la suspensión de las labores;
 
-III. El Presidente de la Junta podrá emplear los medios de apremio para obligar al patrón a que concurra a la audiencia de conciliación; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. El Tribunal podrá emplear los medios de apremio para obligar al patrón a que concurra a la audiencia de conciliación;
 
 IV. Los efectos del aviso a que se refiere el artículo 920 fracción II de la presente Ley, no se suspenderán por la audiencia de conciliación ni por la rebeldía del patrón para concurrir a ella.
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Después de emplazado el patrón, a petición del sindicato se podrá prorrogar o ampliar el período de prehuelga por una sola ocasión hasta por treinta días. Cuando se trate de empresas o instituciones que dependan de recursos públicos, se podrá prorrogar por un plazo mayor. Asimismo, podrán admitirse prórrogas adicionales cuando a criterio del Tribunal exista causa que lo justifique.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, D.O.F. 1 DE MAYO DE 2019]</small>
+
+En caso de que el contrato colectivo de trabajo inicial o el convenio de revisión del contrato colectivo no sea aprobado por los trabajadores en términos de lo previsto por el artículo 390 Ter, fracción II, el sindicato podrá prorrogar el periodo de prehuelga hasta por quince días. No obstante, cuando las circunstancias así lo ameriten, el Tribunal podrá autorizar que la prórroga se extienda hasta por un máximo de treinta días, siempre y cuando el sindicato así lo solicite y justifique al momento de promoverla.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, D.O.F. 1 DE MAYO DE 2019]</small>
+
+Con independencia de lo anterior, las partes de común acuerdo podrán prorrogar o ampliar el período de prehuelga con objeto de llegar a un acuerdo conciliatorio; no obstante, la prórroga no podrá tener una duración que afecte derechos de terceros.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, D.O.F. 1 DE MAYO DE 2019]</small>
+
+Tratándose de emplazamientos a huelga por firma de contrato colectivo de trabajo por obra determinada, el periodo de prehuelga no podrá exceder del término de duración de la obra.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10214,33 +11908,33 @@ IV. Los efectos del aviso a que se refiere el artículo 920 fracción II de la p
 
 En los procedimientos a que se refiere este capítulo se observarán las normas siguientes:
 
-I. Para el funcionamiento del Pleno y de las Juntas Especiales se observará lo dispuesto en el artículo 620, pero el Presidente intervendrá personalmente en las resoluciones siguientes:
-
-a) Falta de personalidad.
-
-b) Incompetencia.
-
-c) Los casos de los artículos 469, 923 y 935.
-
-d) Declaración de inexistencia o ilicitud de huelga.
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 II. No serán aplicables las reglas generales respecto de términos para hacer notificaciones y citaciones. Los (sic) notificaciones surtirán efectos desde el día y hora en que quedan hechas;
 
-III. Todos los días y horas serán hábiles. La Junta tendrá guardias permanentes para tal efecto;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. No serán denunciables en los términos del artículo 710 de esta Ley, los miembros de la Junta, ni se admitirán más incidentes que el de falta de personalidad, que podrá promoverse, por el patrón, en el escrito de contestación al emplazamiento, y por los trabajadores, dentro de las cuarenta y ocho horas siguientes a la en que tengan conocimiento de la primera promoción del patrón. La Junta, dentro de las veinticuatro horas siguientes a la promoción, con audiencia de las partes, dictará resolución; y
+III. Todos los días y horas serán hábiles. El Tribunal tendrá guardias permanentes para tal efecto;
 
-V. No podrá promoverse cuestión alguna de competencia. Si la Junta, una vez hecho el emplazamiento al patrón, observa que el asunto no es de su competencia, hará la declaratoria correspondiente.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Los trabajadores dispondrán de un término de veinticuatro horas para designar la Junta que consideren competente, a fin de que se le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que la Junta designada competente notifique al patrón haber recibido el expediente; lo que se hará saber a las partes en la resolución de incompetencia.
+IV. No serán denunciables tanto el Tribunal como el conciliador del Centro de Conciliación, ni se admitirán más incidentes que el de falta de personalidad, que podrá promoverse, por el patrón, en el escrito de contestación al emplazamiento, y por los trabajadores, dentro de las cuarenta y ocho horas siguientes a la en que tengan conocimiento de la primera promoción del patrón. El Tribunal dentro de las veinticuatro horas siguientes a la promoción, con audiencia de las partes, dictará resolución, y
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. No podrá promoverse cuestión alguna de competencia. Si una vez hecho el emplazamiento al patrón, el Tribunal observa que el asunto no es de su competencia, hará la declaratoria correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los trabajadores dispondrán de un término de veinticuatro horas para designar el Tribunal que consideren competente, a fin de que se le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que el Tribunal designado competente notifique al patrón haber recibido el expediente; lo que se hará saber a las partes en la resolución de incompetencia.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 929.
 
-Los trabajadores y los patrones de la empresa o establecimiento afectado, o terceros interesados, podrán solicitar de la Junta de Conciliación y Arbitraje, dentro de las setenta y dos horas siguientes a la suspensión del trabajo, declare la inexistencia de la huelga por las causas señaladas en el artículo 459 o por no haber cumplido los requisitos establecidos en el artículo 920 de esta Ley.
+Los trabajadores y los patrones de la empresa o establecimiento afectado, o terceros interesados, podrán solicitar del Tribunal, dentro de las setenta y dos horas siguientes a la suspensión del trabajo, declare la inexistencia de la huelga por las causas señaladas en el artículo 459 o por no haber cumplido los requisitos establecidos en el artículo 920 de esta Ley.
 
-Si no se solicita la declaración de inexistencia, la huelga será considerada existente para todos los efectos legales.
+Si no se solicita la declaración de inexistencia, la huelga será considerada existente para todos los efectos legales, por lo que el Tribunal hará la declaratoria correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10248,17 +11942,27 @@ Si no se solicita la declaración de inexistencia, la huelga será considerada e
 
 En el procedimiento de declaración de inexistencia de la huelga, se observarán las normas siguientes:
 
-I. La solicitud para que se declare la inexistencia de la huelga, se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y fundamentos legales para ello. No podrán aducirse posteriormente causas distintas de inexistencia;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. La Junta correrá traslado de la solicitud y oirá a las partes en una audiencia, que será también de ofrecimiento y recepción de pruebas, que deberá celebrarse dentro de un término no mayor de cinco días;
+I. La solicitud para que se declare la inexistencia de la huelga, se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y fundamentos legales para ello. No podrán aducirse posteriormente causas distintas de inexistencia. En caso de que en la solicitud de inexistencia se haga valer la hipótesis señalada en la fracción I del artículo 459 de esta Ley, deberá ofrecerse la prueba de recuento observando lo establecido en su artículo 931;
 
-III. Las pruebas deberán referirse a las causas de inexistencia contenidas en la solicitud mencionada en la fracción I, y cuando la solicitud se hubiere presentado por terceros, las que además tiendan a comprobar su interés. La Junta aceptará únicamente las que satisfagan los requisitos señalados;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Las pruebas se rendirán en la audiencia, salvo lo dispuesto en el artículo siguiente. Solo en casos excepcionales podrá la Junta diferir la recepción de las que por su naturaleza no puedan desahogarse en la audiencia;
+II. El Tribunal correrá traslado de la solicitud con sus anexos y oirá a las partes en una audiencia de calificación de la huelga, que será también de ofrecimiento y recepción de pruebas, la cual deberá celebrarse dentro de un término no mayor de cinco días y ser notificada con anticipación de tres días a su celebración;
 
-V. Concluida la recepción de las pruebas, la Junta, dentro de las veinticuatro horas siguientes, resolverá sobre la existencia o inexistencia del estado legal de la huelga; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. Para la resolución de inexistencia, se citará a los representantes de los trabajadores y de los patrones para que integren la Junta. La resolución se dictará por los que concurran, y en caso de empate, se sumarán al del Presidente los votos de los ausentes.
+III. Las pruebas deberán referirse a las causas de inexistencia contenidas en la solicitud mencionada en la fracción I, y cuando la solicitud se hubiere presentado por terceros, las que además tiendan a comprobar su interés. El Tribunal aceptará únicamente las que satisfagan los requisitos señalados;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Las pruebas se rendirán en la audiencia de calificación de la huelga, salvo lo dispuesto en el artículo 931 de esta Ley. Sólo en casos excepcionales podrá el Tribunal diferir la recepción de las pruebas que por su naturaleza no puedan desahogarse en la audiencia de calificación de la huelga, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. Concluida la recepción de las pruebas, el Tribunal, dentro de las veinticuatro horas siguientes, resolverá sobre la existencia o inexistencia del estado legal de la huelga.
+
+VI. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10266,7 +11970,7 @@ VI. Para la resolución de inexistencia, se citará a los representantes de los 
 
 Si se ofrece como prueba el recuento de los trabajadores, se observarán las normas siguientes:
 
-I. La Junta señalará el lugar, día y hora en que deba efectuarse;
+I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 II. Unicamente tendrán derecho a votar los trabajadores de la empresa que concurran al recuento;
 
@@ -10274,19 +11978,57 @@ III. Serán considerados trabajadores de la empresa los que hubiesen sido desped
 
 IV. No se computarán los votos de los trabajadores de confianza, ni los de los trabajadores que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de emplazamiento de huelga; y
 
-V. Las objeciones a los trabajadores que concurran al recuento, deberán hacerse en el acto mismo de la diligencia, en cuyo caso la Junta citará a una audiencia de ofrecimiento y rendición de pruebas.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+V. El ofrecimiento de la prueba de recuento debe hacerse en el escrito de solicitud de la inexistencia de la huelga contemplado en la fracción I del artículo 930 de esta Ley, al que se acompañará el listado con los nombres de los trabajadores que serán consultados, para que se le corra traslado con éste a la parte contraria;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. La contraparte de quien solicitó la inexistencia de la huelga, al momento de hacer sus manifestaciones sobre las causales de inexistencia, exhibirá en la audiencia de calificación de la huelga el listado con los nombres de los trabajadores que en su opinión tienen derecho a participar en el recuento. La audiencia de calificación de la huelga será diferida en términos de (sic) fracción IV del artículo 930 de esta Ley, a fin de preparar y desahogar la prueba de recuento mediante voto personal, libre, directo y secreto;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VII. En caso de que los listados de trabajadores ofrecidos por las partes y de los elementos recabados se advierta que existe coincidencia en los mismos o de que las partes convengan en elaborar uno sólo, el Tribunal lo tomará para que sirva de padrón. En caso de existir diferencias sobre los listados, se dará vista a las partes en la audiencia de calificación de la huelga para que hagan las objeciones al listado presentado por su contraria, en cuyo caso se abrirá un incidente en el que las partes deberán ofrecer y rendir las pruebas relacionadas con sus objeciones, que se sustanciará en las setenta y dos horas siguientes. Una vez desahogadas las pruebas ofrecidas por las partes, el Juez elaborará el padrón que servirá para el recuento;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VIII. Dentro de los cinco días siguientes el Tribunal señalará el lugar, día y hora en que deba efectuarse el recuento de los trabajadores, el cual deberá llevarse a cabo dentro de un plazo no mayor a diez días; este plazo podrá prorrogarse por un período igual en caso de que a juicio del Tribunal exista imposibilidad material de realizar el recuento dentro de dicho plazo. La consulta a los trabajadores se realizará mediante voto personal, libre, directo y secreto, ante la presencia del juez o la de los funcionarios que éste designe;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IX. El desahogo de la prueba se efectuará el día y hora ordenado, en el lugar o lugares señalados por el Tribunal. Se iniciará con la presencia de las partes que asistan y, previo al ingreso de los trabajadores, el juez o los funcionarios que se designen instalarán la o las mamparas necesarias para el cruce de las boletas en secreto y la urna o urnas transparentes para su depósito, verificando que se encuentran vacías y sin leyenda alguna. Acto seguido, previa identificación, con documento oficial, se procederá al ingreso de los trabajadores con derecho a voto y se dotará a cada uno con su boleta para ejercerlo;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+X. A efecto de asegurar la secrecía del voto, no deberá aparecer en las boletas ni en el listado señal o dato que permita identificar el folio de la boleta que le fue entregada al trabajador; dicha boleta contendrá dos recuadros, uno a favor de la huelga y el otro en contra de la misma. Cada trabajador deberá marcar su boleta, doblarla y depositarla en la urna, retirándose del lugar de la votación. Terminada la diligencia, el juez o los funcionarios designados procederán a practicar el escrutinio, abriendo sucesivamente las urnas, extrayendo una a una las boletas de votación y examinándolas para corroborar su autenticidad y exhibiéndolas a la vista de los representantes de las partes y observadores autorizados asistentes; las boletas no cruzadas o marcadas en más de uno de los recuadros o falsas, serán nulas;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XI. Terminado el escrutinio, el juez o los funcionarios designados procederán al recuento de votos y anunciarán en voz alta el resultado. Terminada la diligencia, se levantará acta de la misma e invitará a los representantes de las partes que deseen hacerlo, a suscribirla, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+XII. En caso de que se susciten actos de presión o intimidación en contra de los trabajadores que tiendan a violentar o impedir su libertad de voto u obstaculizar su ingreso al lugar de la diligencia, el juez o los funcionarios designados solicitarán el auxilio de la fuerza pública y proveerán lo conducente para que el recuento se realice en las condiciones que establece esta Ley y, de presumirse la existencia de algún ilícito penal deberá presentarse la denuncia de hechos ante la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 932.
 
-Si la Junta declara la inexistencia legal del estado de huelga:
+Si el Tribunal declara la inexistencia legal del estado de huelga:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Fijará a los trabajadores un término de veinticuatro horas para que regresen a su trabajo;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Deberá notificar lo anterior por conducto de la representación sindical, apercibiendo a los trabajadores que por el solo hecho de no acatar la resolución, quedarán terminadas las relaciones de trabajo, salvo causa justificada;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 III. Declarará que el patrón no ha incurrido en responsabilidad y que de no presentarse a laborar los trabajadores dentro del término señalado, quedará en libertad para contratar otros; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 IV. Dictará las medidas que juzgue convenientes para que pueda reanudarse el trabajo.
 
@@ -10296,31 +12038,31 @@ IV. Dictará las medidas que juzgue convenientes para que pueda reanudarse el tr
 
 En el procedimiento de calificación de ilicitud de la huelga, se observarán las normas contenidas en el artículo 930 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 934.
 
-Si la Junta de Conciliación y Arbitraje declara que la huelga es ilícita, se darán por terminadas las relaciones de trabajo de los huelguistas.
+Si el Tribunal declara que la huelga es ilícita, se darán por terminadas las relaciones de trabajo de los huelguistas.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 935.
 
-Antes de la suspensión de los trabajos, la Junta de Conciliación y Arbitraje, con audiencia de las partes, fijará el número indispensable de trabajadores que deberá continuar trabajando para que sigan ejecutándose las labores, cuya suspensión perjudique gravemente la seguridad y conservación de los locales, maquinaria y materias primas o la reanudación de los trabajos. Para este efecto, la Junta podrá ordenar la práctica de las diligencias que juzgue conveniente.
+Antes de la suspensión de los trabajos, el Tribunal, con audiencia de las partes, fijará el número indispensable de trabajadores que deberá continuar trabajando para que sigan ejecutándose las labores, cuya suspensión perjudique gravemente la seguridad y conservación de los locales, maquinaria y materias primas o la reanudación de los trabajos. Para este efecto, el Tribunal podrá ordenar la práctica de las diligencias que juzgue conveniente.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 936.
 
-Si los huelguistas se niegan a prestar los servicios mencionados en los artículos 466 y 935 de esta Ley, el patrón podrá utilizar otros trabajadores. La Junta, en caso necesario, solicitará el auxilio de la fuerza pública, a fin de que puedan prestarse dichos servicios.
+Si los huelguistas se niegan a prestar los servicios mencionados en los artículos 466 y 935 de esta Ley, el patrón podrá utilizar otros trabajadores. El Tribunal, en caso necesario, solicitará el auxilio de la fuerza pública, a fin de que puedan prestarse dichos servicios.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 937.
 
-Si el conflicto motivo de la huelga se somete por los trabajadores a la decisión de la Junta, se seguirá el procedimiento ordinario o el procedimiento para conflictos colectivos de naturaleza económica, según el caso.
+Si el conflicto motivo de la huelga se somete por los trabajadores o por el patrón a la decisión del Tribunal, se seguirá el procedimiento ordinario o el procedimiento para conflictos colectivos de naturaleza económica, según el caso. El patrón sólo podrá ejercer este derecho en caso de que la huelga se extienda por más de sesenta días.
 
-Si la Junta declara en el laudo que los motivos de la huelga son imputables al patrón, condenará a éste a la satisfacción de las peticiones de los trabajadores en cuanto sean procedentes, y al pago de los salarios correspondientes a los días que hubiese durado la huelga. En ningún caso será condenado el patrón al pago de los salarios de los trabajadores que hubiesen declarado una huelga en los términos del artículo 450 fracción VI de esta Ley.
+Si el Tribunal declara en la sentencia que los motivos de la huelga son imputables al patrón, condenará a éste a la satisfacción de las peticiones de los trabajadores en cuanto sean procedentes, y al pago de los salarios correspondientes a los días que hubiese durado la huelga. En ningún caso será condenado el patrón al pago de los salarios de los trabajadores que hubiesen declarado una huelga en los términos del artículo 450 fracción VI de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10328,13 +12070,21 @@ Si la Junta declara en el laudo que los motivos de la huelga son imputables al p
 
 Si la huelga tiene por objeto la celebración o revisión del contrato ley, se observarán las disposiciones de este Capítulo, con las modalidades siguientes:
 
-I. El escrito de emplazamiento de huelga se presentará por los sindicatos coaligados, con una copia para cada uno de los patrones emplazados, o por los de cada empresa o establecimiento, ante la Junta de Conciliación y Arbitraje, o ante las autoridades mencionadas en el artículo 920 fracción II de esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. En el escrito de emplazamiento se señalará el día y la hora en que se suspenderán las labores, que deberán ser treinta o más días posteriores a la fecha de su presentación ante la Junta de Conciliación y Arbitraje.
+I. El escrito de emplazamiento de huelga se presentará por los sindicatos coaligados, con una copia para cada uno de los patrones emplazados, o por los de cada empresa o establecimiento, ante el Tribunal, o ante las autoridades mencionadas en el artículo 920 fracción II de esta Ley;
 
-III. Si el escrito se presenta ante la Junta de Conciliación y Arbitraje, el Presidente, bajo su más estricta responsabilidad, hará llegar a los patrones la copia del escrito de emplazamiento directamente dentro de las veinticuatro horas siguientes a la de su recibo, o girará dentro del mismo término los exhortos necesarios, los que deberán desahogarse por la autoridad exhortada, bajo su más estricta responsabilidad, dentro de las veinticuatro horas siguientes a su recepción. Desahogados los exhortos, deberán devolverse dentro del mismo término de veinticuatro horas; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento, dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente a la Junta de Conciliación y Arbitraje dentro del mismo término de veinticuatro horas.
+II. En el escrito de emplazamiento se señalará el día y la hora en que se suspenderán las labores, que deberán ser treinta o más días posteriores a la fecha de su presentación ante el Tribunal;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Si el escrito se presenta ante el Tribunal, bajo su más estricta responsabilidad, hará llegar a los patrones la copia del escrito de emplazamiento directamente dentro de las veinticuatro horas siguientes a la de su recibo, o girará dentro del mismo término los exhortos necesarios, los que deberán desahogarse por la autoridad exhortada, bajo su más estricta responsabilidad, dentro de las veinticuatro horas siguientes a su recepción. Desahogados los exhortos, deberán devolverse dentro del mismo término de veinticuatro horas, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento, dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente al Tribunal dentro del mismo término de veinticuatro horas.
 
 (REUBICADO, D.O.F. 4 DE ENERO DE 1980)
 
@@ -10344,69 +12094,95 @@ Procedimientos de Ejecución
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-#### Sección Tercera. Remates
+### CAPITULO III. Procedimientos paraprocesales o voluntarios
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 939.
 
-Las disposiciones de este Título rigen la ejecución de los laudos dictados por las Juntas de Conciliación y Arbitraje. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica y a los convenios celebrados ante las Juntas.
+Las disposiciones de este Título rigen la ejecución de las sentencias dictadas por los Tribunales. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica, y a los convenios celebrados ante los Centros de Conciliación.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Cuando se trate de laudos arbitrales y convenios celebrados ante los centros de conciliación, que no hayan sido cumplidos en los términos establecidos en los mismos, los trabajadores y en su caso los patrones, acudirán al tribunal para solicitar su ejecución conforme a las disposiciones de este capítulo, dándoles el mismo tratamiento que una sentencia.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 940.
 
-La ejecución de los laudos a que se refiere el artículo anterior corresponde a los Presidentes de las Juntas de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
+La ejecución de las sentencias y convenios a que se refiere el artículo 939 de esta Ley corresponde a los Tribunales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 941.
 
-Cuando el laudo deba ser ejecutado por el Presidente de otra Junta, se le dirigirá exhorto con las inserciones necesarias y se le facultará para hacer uso de los medios de apremio, en caso de oposición a la diligencia de ejecución.
+Cuando la sentencia deba ser ejecutada por otro Tribunal se le dirigirá exhorto con las inserciones necesarias, facultándolo para hacer uso de los medios de apremio y dictar las medidas conducentes en caso de oposición a la diligencia de ejecución.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 942.
 
-El Presidente exhortado no podrá conocer de las excepciones que opongan las partes.
+El Tribunal exhortado no podrá conocer de las excepciones que opongan las partes.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 943.
 
-Si al cumplimentar un exhorto, se opone algún tercero que no hubiese sido oído por el Presidente exhortante, se suspenderá la cumplimentación del exhorto, previa fianza que otorgue para garantizar el monto de la cantidad por la que se despachó ejecución y de los daños y perjuicios que puedan causarse. Otorgada la fianza, se devolverá el exhorto al Presidente exhortante.
+Si al cumplimentar un exhorto, se opone algún tercero que no hubiese sido oído por el Tribunal exhortante, se suspenderá la cumplimentación del exhorto, previa fianza que otorgue para garantizar el monto de la cantidad por la que se despachó ejecución y de los daños y perjuicios que puedan causarse. Otorgada la fianza, se devolverá el exhorto al Tribunal exhortante.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 944.
 
-Los gastos que se originen en la ejecución de los laudos, serán a cargo de la parte que no cumpla.
+Los gastos que se originen en la ejecución de las sentencias, serán a cargo de la parte que no cumpla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 945.
 
-Los laudos deben cumplirse dentro de los quince días siguientes al día en que surta efectos la notificación.
+Las sentencias deben cumplirse dentro de los quince días siguientes al día en que surta efectos la notificación. Vencido el plazo, la parte que obtuvo sentencia favorable podrá solicitar la ejecución de ésta en términos de lo dispuesto en el artículo 950 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-Las partes pueden convenir en las modalidades de su cumplimiento.
+Si el juez advierte que existe riesgo de no ejecutar la sentencia, o si el patrón realiza actos tendientes al incumplimiento de la misma, el juez tomará las medidas necesarias a efecto de lograr el cumplimiento eficaz de la sentencia. Para ello podrá decretar el embargo de cuentas bancarias y/o bienes inmuebles, debiendo girar los oficios respectivos a las instituciones competentes. Asimismo, deberá dar vista a las instituciones de seguridad social a efecto de que se cumplimenten las resoluciones en lo que respecta al pago de las cotizaciones y aportaciones que se contengan en la sentencia.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 1 DE MAYO DE 2019)</small>
+
+La acción para solicitar la ejecución de las sentencias definitivas del Tribunal prescribe en dos años en términos del artículo 519 de esta Ley. La prescripción correrá a partir del día siguiente al que hubiese notificado la sentencia del Tribunal a las partes y solo se interrumpe en los siguientes casos:
+
+a) Por la presentación de la solicitud de ejecución debidamente requisitada, mediante la cual la parte que obtuvo sentencia favorable, solicite al juez dicte el auto de requerimiento y embargo correspondiente, o bien que abra el Incidente de Liquidación, y
+
+b) Cuando alguna de las partes interponga el medio de impugnación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Independientemente de lo anterior, las partes pueden convenir en las modalidades de su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 946.
 
-La ejecución deberá despacharse para el cumplimiento de un derecho o el pago de cantidad líquida, expresamente señalados en el laudo, entendiéndose por ésta, la cuantificada en el mismo.
+La ejecución deberá despacharse para el cumplimiento de un derecho o el pago de cantidad líquida, expresamente señalados en la sentencia o convenio a ejecutar, entendiéndose por ésta, la cuantificada en éstas.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 947.
 
-Si el patrón se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado, la Junta:
+Si el patrón se negare a someter sus diferencias al juicio o a aceptar la sentencia pronunciada, el Tribunal:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Dará por terminada la relación de trabajo;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Condenará a indemnizar al trabajador con el importe de tres meses de salario;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto, de conformidad con lo dispuesto en el artículo 50, fracciones I y II; y
 
@@ -10414,29 +12190,35 @@ III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto,
 
 IV. Además, condenará al pago de los salarios vencidos e intereses, en su caso, conforme a lo establecido en el artículo 48, así como al pago de la prima de antigüedad, en los términos del artículo 162.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
 Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado "A" de la Constitución.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 948.
 
-Si la negativa a aceptar el laudo pronunciado por la Junta fuere de los trabajadores se dará por terminada la relación de trabajo, de conformidad con lo dispuesto por el artículo 519 fracción III, último párrafo de esta Ley.
+Si la negativa a aceptar la sentencia pronunciado (sic) por el Tribunal fuere de los trabajadores se dará por terminada la relación de trabajo, de conformidad con lo dispuesto por el artículo 519 fracción III, último párrafo de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 949.
 
-Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Presidente cuidará que se le otorgue personalmente. En caso de que la parte demandada radique fuera del lugar de residencia de la Junta, se girará exhorto al Presidente de la Junta de Conciliación y Arbitraje o al Juez más próximo a su domicilio para que se cumplimente la ejecución del laudo.
+Siempre que en ejecución de una sentencia o convenio deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Tribunal cuidará que se le otorgue personalmente. En caso de que la parte que haya sido condenada radique fuera del lugar de residencia del Tribunal, se girará exhorto al Tribunal o al Órgano jurisdiccional más próximo a su domicilio para que se cumplimente la ejecución de la sentencia o convenio.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+El trámite del exhorto de ejecución de una sentencia favorable, puede ser realizado por conducto de apoderado, sin que éste pueda recibir cantidad alguna de la condena.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-#### Sección Primera. De las tercerías
+#### Sección Segunda. Del procedimiento del embargo
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 950.
 
-Transcurrido el término señalado en el artículo 945, el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento y embargo.
+Transcurrido el término señalado en el artículo 945, el juez, a petición de la parte que obtuvo, dictará auto de requerimiento y embargo.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10492,29 +12274,29 @@ Las diligencias de embargo no pueden suspenderse. El actuario resolverá las cue
 
 El Actuario, tomando en consideración lo que expongan las partes, determinará los bienes que deban ser objeto del embargo, prefiriendo los que sean de más fácil realización.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 955.
 
-Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, el Actuario se trasladará al local donde manifieste la parte que obtuvo que (sic) se encuentran y previa identificación de los bienes, practicará el embargo.
+Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, la parte que obtuvo sentencia favorable, deberá manifestar al Actuario el local en que se encuentran y previa identificación de los bienes, practicará el embargo.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 956.
 
-Si los bienes embargados fuesen dinero o créditos realizables en el acto, el Actuario trabará embargo y los pondrá a disposición del Presidente de la Junta, quien deberá resolver de inmediato sobre el pago del actor.
+Si los bienes embargados fuesen dinero o créditos realizables en el acto, el Actuario trabará embargo y los pondrá a disposición del Tribunal, quien deberá resolver de inmediato sobre el pago del actor.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 957.
 
-Si los bienes embargados son muebles, se pondrán en depósito de la persona, que bajo su responsabilidad designe la parte que obtuvo. El depositario debe informar al Presidente ejecutor del lugar en que quedarán los bienes embargados bajo su custodia. La parte que obtuvo podrá solicitar el cambio de depositario.
+Si los bienes embargados son muebles, se pondrán en depósito de la persona, que bajo su responsabilidad designe la parte que obtuvo sentencia favorable. El depositario deberá exhibir identificación oficial para que se agregue copia de la misma a los autos, otorgar las generales exigidas a los testigos, proporcionar domicilio de guarda y custodia en que quedarán los bienes embargados dentro de la jurisdicción del Tribunal, protestar el fiel desempeño de su cargo y manifestarse sabedor de las penas en que incurren los depositarios infieles. La parte que obtuvo podrá solicitar el cambio de depositario.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 958.
 
-Si los bienes embargados son créditos, frutos o productos, se notificará al deudor o inquilino, que el importe del pago lo haga al Presidente ejecutor, apercibido de doble pago en caso de desobediencia.
+Si los bienes embargados son cuentas bancarias, valores, créditos, frutos o productos, se notificará al Banco, institución de valores, deudor o inquilino, que el importe del pago lo ponga a disposición del Tribunal, apercibido de doble pago en caso de desobediencia.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10534,11 +12316,11 @@ Si llega a asegurarse un título de crédito, se designará un depositario que l
 
 Si el crédito fuese litigioso, se notificará el embargo a la autoridad que conozca del juicio respectivo, y el nombre del depositario, a fin de que éste pueda desempeñar las obligaciones que le impone la parte final del artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 962.
 
-Si los bienes embargados fueren inmuebles, el Presidente ejecutor, bajo su responsabilidad, ordenará, dentro de las 24 horas siguientes, la inscripción en el Registro Público de la Propiedad.
+Si los bienes embargados fueren inmuebles, el Tribunal, bajo su responsabilidad, ordenará, dentro de las 24 horas siguientes, la inscripción en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10546,7 +12328,9 @@ Si los bienes embargados fueren inmuebles, el Presidente ejecutor, bajo su respo
 
 Si el embargo recae en finca urbana y sus productos o sobre éstos solamente, el depositario tendrá el carácter de administrador con las facultades y obligaciones siguientes:
 
-I. Podrá celebrar contratos de arrendamiento, conforme a estas condiciones: por tiempo voluntario para ambas partes; el importe de la renta no podrá ser menor al fijado en el último contrato; exigir al arrendatario las garantías necesarias de su cumplimiento; y recabar en todos los casos, la autorización del Presidente Ejecutor;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+I. Podrá celebrar contratos de arrendamiento, conforme a estas condiciones: por tiempo voluntario para ambas partes; el importe de la renta no podrá ser menor al fijado en el último contrato; exigir al arrendatario las garantías necesarias de su cumplimiento; y recabar en todos los casos, la autorización del Tribunal;
 
 II. Cobrar oportunamente las rentas en sus términos y plazos, procediendo contra los inquilinos morosos con arreglo a la Ley;
 
@@ -10554,11 +12338,17 @@ III. Hacer sin previa autorización los pagos de los impuestos y derechos que ca
 
 IV. Presentar a la oficina correspondiente, las manifestaciones y declaraciones que la Ley de la materia previene;
 
-V. Presentar para su autorización al Presidente Ejecutor, los presupuestos para hacer los gastos de reparación o de construcción;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. Pagar, previa autorización del Presidente Ejecutor, los gravámenes que reporta la finca; y
+V. Presentar para su autorización al Tribunal, los presupuestos para hacer los gastos de reparación o de construcción;
 
-VII. Rendir cuentas mensuales de su gestión y entregar el remanente en un billete de depósito, que pondrá a disposición del Presidente Ejecutor.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. Pagar, previa autorización del Tribunal, los gravámenes que reporta la finca, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VII. Rendir cuentas mensuales de su gestión y entregar el remanente en un billete de depósito, que pondrá a disposición del Tribunal.
 
 El depositario que falte al cumplimiento de las obligaciones señaladas en este artículo, será acreedor a las sanciones previstas en las leyes respectivas.
 
@@ -10574,9 +12364,21 @@ a) Vigilar la contabilidad;
 
 b) Administrar el manejo de la negociación o empresa y las operaciones que en ella se practiquen, a fin de que produzcan el mejor rendimiento posible; y los demás actos inherentes a su cargo.
 
-II. Si el depositario considera que la administración no se hace convenientemente o que pueda perjudicar los derechos del embargante, lo pondrá en conocimiento del Presidente Ejecutor, para que éste, oyendo a las partes y al interventor en una audiencia, resuelva lo que estime conveniente; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. Siempre que el depositario sea un tercero, otorgará fianza ante el Presidente Ejecutor, por la suma que se determine y rendirá cuenta de su gestión en los términos y forma que señale el mismo.
+II. Si el depositario considera que la administración no se hace convenientemente o que pueda perjudicar los derechos del embargante, lo pondrá en conocimiento del juez, para que éste, oyendo a las partes y al interventor en una audiencia, resuelva lo que estime conveniente, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Siempre que el depositario sea un tercero, otorgará fianza ante el Tribunal, por la suma que se determine y rendirá cuenta de su gestión en los términos y forma que señale el mismo;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. Una vez designado el interventor con cargo a la caja, el Tribunal dentro de los tres días siguientes, comunicará la designación a la Comisión Nacional Bancaría y de Valores, Instituto Mexicano del Seguro Social, Instituto del Fondo Nacional de la Vivienda para los Trabajadores, u homólogos, a la Administradora de Fondos para el Retiro correspondiente, al Sistema de Administración Tributaria, así como a los deudores y acreedores cuyo domicilio proporcione el patrón embargado, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. El embargado dentro de los tres días siguientes, exhibirá al Tribunal la documentación e información necesaria que deba ser del conocimiento del interventor con cargo a la caja.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10590,9 +12392,9 @@ I. Cuando no basten los bienes embargados para cubrir las cantidades por las que
 
 II. Cuando se promueva una tercería y se haya dictado auto admisorio.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-El Presidente ejecutor podrá decretar la ampliación si, a su juicio, concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
+El Tribunal podrá decretar la ampliación si, a su juicio, concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10602,27 +12404,47 @@ Cuando se practiquen varios embargos sobre los mismos bienes, se observarán las
 
 I. Si se practican en ejecución de créditos de trabajo, se pagará en el orden sucesivo de los embargos, salvo el caso de preferencia de derechos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de la Junta de Conciliación y Arbitraje siempre que dicho embargo se practique antes que quede fincado el remate.
+II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas al Tribunal siempre que dicho embargo se practique antes que quede fincado el remate.
 
-Cuando el Presidente Ejecutor tenga conocimiento de la existencia de un embargo, hará saber a la autoridad que lo practicó, que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
+Cuando el Tribunal tenga conocimiento de la existencia de un embargo, hará saber a la autoridad que lo practicó, que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
 
-Las cuestiones de preferencia que se susciten, se tramitarán y resolverán por la Junta que conozca del negocio, con exclusión de cualquiera otra autoridad; y
+Las cuestiones de preferencia que se susciten, se tramitarán y resolverán por el Tribunal que conozca del negocio, con exclusión de cualquiera otra autoridad, y
 
-III. El que haya reembargado puede continuar la ejecución del laudo o convenio, pero rematados los bienes, se pagará al primer embargante el importe de su crédito, salvo el caso de preferencia de derechos.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. El que haya reembargado puede continuar la ejecución de la Sentencia o convenio, pero rematados los bienes, se pagará al primer embargante el importe de su crédito, salvo el caso de preferencia de derechos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 966 Bis.
+
+El Tribunal podrá, a petición de parte, solicitar información ante las autoridades correspondientes sobre la existencia de datos y bienes de la parte que resultará condenada, con la finalidad de cumplimentar la sentencia de manera pronta y expedita. Dicha solicitud procederá únicamente cuando se hubiere acreditado la imposibilidad de llevar a cabo la ejecución de la sentencia.
+
+Tratándose de la investigación de cuentas bancarias y el procedimiento de embargo y ejecución, el Tribunal hará uso del Sistema de Atención a Requerimientos de Información de Autoridad o bien el instrumento que para tales efectos implemente la Comisión Nacional Bancaria y de Valores, para lo cual los Tribunales celebrarán convenio con dicha Comisión. Lo anterior, independientemente de dar vista a las autoridades hacendarias, así como al Instituto Mexicano del Seguro Social, Instituto del Fondo Nacional de la Vivienda para los Trabajadores o instituciones homólogas, con el fin de llevar a cabo el cabal cumplimiento de las sentencias laborales.
+
+Deberá designar perito valuador de los bienes embargados; cuando se trate de bienes inmuebles ordenar la inscripción del embargo ante el Registro Público de la Propiedad que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 966 Ter.
+
+El Tribunal deberá dar vista al Instituto Mexicano del Seguro Social con la sentencia condenatoria, a fin de que dicho organismo actúe conforme a sus atribuciones haga cumplir a la parte condenada respecto de sus obligaciones en materia de seguridad social.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-#### Sección Segunda. De la preferencia de créditos
+#### Sección Tercera. Remates
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 967.
 
 Concluidas las diligencias de embargo, se procederá al remate de los bienes, de conformidad con las normas contenidas en este Capítulo.
 
-Antes de fincarse el remate o declararse la adjudicación, podrá el demandado liberar los bienes embargados, pagando de inmediato y en efectivo el importe de las cantidades fijadas en el laudo y los gastos de ejecución.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Antes de aprobarse el remate o declararse la adjudicación, podrá la parte ejecutada liberar los bienes embargados, pagando de inmediato y en efectivo el importe de las cantidades fijadas en la sentencia y los gastos de ejecución. Después de fincarse el remate, la venta quedará irrevocable.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10632,31 +12454,33 @@ En los embargos se observarán las normas siguientes:
 
 A.- Si los bienes embargados son muebles:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Se efectuará su avalúo por la persona que designe el Presidente ejecutor; en los casos en que el Presidente ejecutor se percate de que el avalúo de los bienes es notoriamente inferior o superior a su valor, podrá ordenar la práctica de otro, razonando los motivos por los cuales considera que el avalúo no corresponde al valor del bien;
+l. Se efectuará su avalúo por la persona que designe el juez; en los casos en que éste se percate de que el avalúo de los bienes es notoriamente inferior o superior a su valor, podrá ordenar la práctica de otro, razonando los motivos por los cuales considera que el avalúo no corresponde al valor real del bien;
 
 II. Servirá de base para el remate el monto del avalúo; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. El remate se anunciará en el boletín laboral o en los estrados de la Junta, en su caso y en el palacio municipal o en la oficina de gobierno que designe el Presidente ejecutor.
+III. El remate se anunciará en el boletín laboral o en los estrados del Tribunal, en su caso y en el palacio municipal o en la oficina de gobierno que designe el Tribunal, el cual podrá utilizar algún otro medio de publicidad.
 
 B.- Si los bienes embargados son inmuebles:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta y en su caso, se procederá conforme a lo dispuesto por la fracción I del apartado A de este artículo;
+l. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el juez y en su caso, se procederá conforme a lo dispuesto por la fracción I del apartado A de este artículo;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de 10 años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, se pedirá al Registro sólo el relativo al periodo o periodos que aquél no abarque; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-III. El proveído que ordene el remate se publicará, por una sola vez, en el boletín laboral o en los estrados de la Junta, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
+III. El proveído que ordene el remate se publicará, por una sola vez, con una anticipación de diez días a la fecha del remate, en el boletín y en los estrados del Tribunal, además de manera potestativa utilizará algún otro medio de publicidad, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
 
-Se citará personalmente a los acreedores que aparezcan en el certificado de gravámenes, a efecto de que hagan valer sus derechos.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Se citará personalmente con una anticipación de diez días a los acreedores que aparezcan en el certificado de gravámenes, así como al poseedor del bien inmueble, a efecto de que hagan valer sus derechos.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10664,9 +12488,9 @@ Se citará personalmente a los acreedores que aparezcan en el certificado de gra
 
 Si los bienes embargados son una empresa o establecimiento se observará el procedimiento siguiente:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. Se efectuará un avalúo por perito que se solicitará por el Presidente de la Junta a Nacional Financiera, SNC, o a alguna otra institución oficial;
+l. Se efectuará un avalúo por perito que se solicitará por el tribunal al Banco del Ahorro Nacional y Servicios Financieros (BANSEFI) u homólogo, o alguna otra institución oficial;
 
 > <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
 
@@ -10680,11 +12504,11 @@ III. Es aplicable lo dispuesto en la fracción III del apartado A del artículo 
 
 IV. Si la empresa o establecimiento se integra con bienes inmuebles, se recabará el certificado de gravámenes a que se refiere la fracción II del apartado B del artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 970.
 
-Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor deberá presentar por escrito su postura y exhibir en un billete de depósito de Nacional Financiera, SNC, el importe de 10 por ciento de su puja.
+Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor deberá presentar por escrito su postura y exhibir en un billete de depósito de Banco del Ahorro Nacional y Servicios Financieros (BANSEFI), u homólogo por el importe de diez por ciento de su puja.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10692,23 +12516,33 @@ Postura legal es la que cubre las dos terceras partes del avalúo. La persona qu
 
 El remate se efectuará de conformidad con las normas siguientes:
 
-I. El día y hora señalados se llevará a cabo en el local de la Junta correspondiente;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Será llevado a cabo por el Presidente de la Junta, quien lo declarará abierto;
+l. El día y hora señalados se llevará a cabo en el local del Tribunal correspondiente;
 
-III. El Presidente concederá un término de espera, que no podrá ser mayor de media hora, para recibir posturas;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. El Presidente calificará las posturas, y concederá un minuto entre puja y puja;
+II. Será llevado a cabo por el juez, quien lo declarará abierto;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. El juez concederá un término de espera, que no podrá ser mayor de media hora, para recibir posturas; transcurrido éste no se admitirán nuevos postores salvo que sea el actor o el propio embargado;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+IV. El juez calificará las posturas, y concederá quince minutos entre puja y puja;
 
 V. El actor podrá concurrir a la almoneda como postor, presentando por escrito su postura, sin necesidad de cumplir el requisito a que se refiere el artículo 974 de esta Ley; y
 
-VI. El Presidente declarará fincado el remate a favor del mejor postor.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+VI. El juez declarará fincado el remate a favor del mejor postor.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 972.
 
-La diligencia de remate no puede suspenderse. El Presidente de la Junta resolverá de inmediato las cuestiones que planteen las partes interesadas.
+La diligencia de remate no puede suspenderse. El Tribunal resolverá de inmediato las cuestiones que planteen las partes interesadas.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10716,49 +12550,63 @@ La diligencia de remate no puede suspenderse. El Presidente de la Junta resolver
 
 Si no se presentan postores, podrá el actor pedir se le adjudiquen los bienes por el precio de su postura, o solicitar la celebración de nuevas almonedas con deducción de un veinte por ciento en cada una de ellas. Las almonedas subsecuentes se celebrarán dentro de los treinta días siguientes a la fecha de la anterior.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 974.
 
-El adjudicatario exhibirá dentro de los tres días siguientes, el importe total de su postura, apercibido de que de no hacerlo, la cantidad exhibida quedará en favor del actor; y el Presidente señalará nueva fecha para la celebración de la almoneda.
+El adjudicatario exhibirá dentro de los tres días siguientes, el importe total de su postura, apercibido de que de no hacerlo, la cantidad exhibida quedará en favor del actor; y el Tribunal señalará nueva fecha para la celebración de la almoneda.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 975.
 
-Exhibido el importe total del precio de la adjudicación, el Presidente declarará fincado el remate y se observará lo siguiente:
+Exhibido el importe total del precio de la adjudicación, el Tribunal declarará fincado el remate y se observará lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 I. Cubrirá de inmediato al actor y a los demás acreedores por su orden; y si hay remanente, se entregará al demandado;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] , D.O.F. 4 DE ENERO DE 1980)</small>
+
 II. Si se trata de bienes inmuebles, se observará:
 
-a) El anterior propietario entregará al Presidente de la Junta, toda la documentación relacionada con el inmueble que se remató.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+a) El anterior propietario entregará al Tribunal, toda la documentación relacionada con el inmueble que se remató.
 
 b) Si se lo adjudica el trabajador, deberá ser libre de todo gravamen, impuestos y derechos fiscales.
 
-c) La escritura deberá firmarla el anterior propietario, dentro de los cinco días siguientes a la notificación que le haga el notario público respectivo. Si no lo hace, el Presidente lo hará en su rebeldía; y
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+c) La escritura deberá firmarla el anterior propietario, dentro de los cinco días siguientes a la notificación que le haga el notario público respectivo. Si no lo hace, el Tribunal lo hará en su rebeldía, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 III. Firmada la escritura, se pondrá al adquirente en posesión del inmueble.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
+#### Sección Primera. De las tercerías
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
 ###### Artículo 976.
 
 Las tercerías pueden ser excluyentes de dominio o de preferencia. Las primeras tienen por objeto conseguir el levantamiento del embargo practicado en bienes de propiedad de terceros; las segundas obtener que se pague preferentemente un crédito con el producto de los bienes embargados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 977.
 
-Las tercerías se tramitarán y resolverán por el Pleno o por la Junta Especial que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
+Las tercerías se tramitarán y resolverán por el Tribunal que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-I. La tercería se interpondrá por escrito, acompañando el título en que se funde y las pruebas pertinentes;
+I. La tercería se interpondrá por escrito, acompañando el título en que se funde y las pruebas pertinentes; si no se cumplen los requisitos anteriores, se desechará de plano;
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. La Junta ordenará se tramite la tercería por cuerda separada y citará a las partes a una audiencia, dentro de los diez días siguientes, en la que las oirá y después de desahogadas las pruebas, dictará resolución;
+II. El Tribunal ordenará se tramite la tercería por cuerda separada y citará a las partes a una audiencia, dentro de los diez días siguientes, en la que las oirá y después de desahogadas las pruebas, dictará resolución;
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10768,23 +12616,27 @@ III. En cuanto al ofrecimiento, admisión y desahogo de las pruebas, se observar
 
 IV. Las tercerías no suspenden la tramitación del procedimiento. La tercería excluyente de dominio suspende únicamente el acto de remate; la de preferencia el pago del crédito; y
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-V. Si se declara procedente la tercería, la Junta ordenará el levantamiento del embargo y, en su caso, ordenará se pague el crédito declarado preferente.
+V. Si se declara procedente la tercería, el Tribunal ordenará el levantamiento del embargo y, en su caso, ordenará se pague el crédito declarado preferente.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 978.
 
-El tercerista podrá presentar la demanda ante la autoridad exhortada que practicó el embargo, debiendo designar domicilio en el lugar de residencia de la Junta exhortante, para que se le hagan las notificaciones personales; si no hace la designación, todas las notificaciones se le harán por boletín o por estrados.
+El tercerista podrá presentar la demanda ante la autoridad exhortada que practicó el embargo, debiendo designar domicilio en el lugar de residencia del Tribunal exhortante dentro del término de cinco días a la fecha en que se practicó, o tuvo conocimiento del mismo, debiendo señalar domicilio dentro de la jurisdicción del exhortante, si no hace la designación, todas las notificaciones se le harán por boletín o por estrados.
 
-La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercería.
+La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercería, dentro del término de tres días a la fecha en que se haya practicado el embargo.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
+#### Sección Segunda. De la preferencia de créditos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 979.
 
-Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar a la Junta, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos contra el patrón para que, antes de llevar a cabo el remate o la adjudicación de los bienes embargados, les notifique para garantizar el derecho preferente que la Ley les concede en dicha disposición.
+Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar al Tribunal, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos contra el patrón para que, antes de llevar a cabo el remate o la adjudicación de los bienes embargados, les notifique para garantizar el derecho preferente que la Ley les concede en dicha disposición, una vez tramitada la tercería excluyente de preferencia correspondiente y determinado el monto del mismo.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10796,17 +12648,25 @@ Si resultan insuficientes los bienes embargados para cubrir los créditos de tod
 
 La preferencia se substanciará conforme a las reglas siguientes:
 
-I. La preferencia deberá solicitarse por el trabajador ante la Junta en que tramite el conflicto en que sea parte, indicando específicamente cuáles son las autoridades ante quienes se sustancian juicios en los que puedan adjudicar o rematar bienes del patrón, acompañando copias suficientes de su petición, para correr traslado a las partes contendientes en los juicios de referencia;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. Si el juicio se tramita ante la autoridad judicial, la Junta la prevendrá haciéndole saber que los bienes embargados están afectos al pago preferente del crédito laboral y que por lo tanto, antes de rematar o adjudicar los bienes del patrón, deberá notificar al trabajador a fin de que comparezca a deducir sus derechos; y
+I. La preferencia deberá solicitarse por el trabajador ante el Tribunal en que tramite el conflicto en que sea parte, indicando específicamente cuáles son las autoridades ante quienes se sustancian juicios en los que puedan adjudicar o rematar bienes del patrón, acompañando copias suficientes de su petición, para correr traslado a las partes contendientes en los juicios de referencia;
 
-III. Tratándose de créditos fiscales, cuotas que se adeuden al Instituto Mexicano del Seguro Social, o aportación al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, bastará con que la Junta remita oficio a la autoridad que corresponda, indicándole la existencia de juicios laborales, cuyas prestaciones están pendientes de cubrirse, para que antes de adjudicar o rematar los bienes del patrón se proceda conforme al artículo anterior.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+II. Si el juicio se tramita ante la autoridad judicial, el Tribunal la prevendrá haciéndole saber que los bienes embargados están afectos al pago preferente del crédito laboral y que por lo tanto, antes de rematar o adjudicar los bienes del patrón, deberá notificar al trabajador a fin de que comparezca a deducir sus derechos, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+III. Tratándose de créditos fiscales, cuotas que se adeuden al Instituto Mexicano del Seguro Social, o aportación al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, bastará con que el Tribunal remita oficio a la autoridad que corresponda, indicándole la existencia de juicios laborales, cuyas prestaciones están pendientes de cubrirse, para que antes de adjudicar o rematar los bienes del patrón se proceda conforme al artículo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 981.
 
-Cuando en los juicios seguidos ante la Junta se haya dictado laudo por cantidad líquida o se haya efectuado la liquidación correspondiente, la Junta lo hará saber a la autoridad judicial o administrativa que haya sido prevenida, en los términos del artículo anterior, remitiéndole copia certificada del laudo, a fin de que se tome en cuenta el mismo al aplicar el producto de los bienes rematados o adjudicados.
+Cuando en los juicios seguidos ante el Tribunal se haya dictado sentencia por cantidad líquida o se haya efectuado la liquidación correspondiente, el Tribunal lo hará saber a la autoridad judicial o administrativa que haya sido prevenida, en los términos del artículo 980 de ésta ley, remitiéndole copia certificada de la sentencia, así como de la resolución de la tercería preferente de crédito a fin de que se tome en cuenta el mismo al aplicar el producto de los bienes rematados o adjudicados.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
 
@@ -10814,29 +12674,29 @@ Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deber�
 
 ###### Artículo 982.
 
-Se tramitarán conforme a las disposiciones de este Capítulo, todos aquellos asuntos que, por mandato de la Ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención de la Junta, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
+Se tramitarán conforme a las disposiciones de este capítulo, todos aquellos asuntos que, por mandato de la Ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención del Tribunal, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 983.
 
-En los procedimientos a que se refiere este Capítulo, el trabajador, sindicato o patrón interesado podrá concurrir a la Junta competente, solicitando oralmente o por escrito la intervención de la misma y señalando expresamente la persona cuya declaración se requiere, la cosa que se pretende se exhiba, o la diligencia que se pide se lleve a cabo.
+En los procedimientos a que se refiere este capítulo, el trabajador, sindicato o patrón interesado podrá concurrir al Tribunal competente, solicitando oralmente o por escrito la intervención del mismo y señalando expresamente la persona cuya declaración se requiere, la cosa que se pretende se exhiba, o la diligencia que se pide se lleve a cabo.
 
-La Junta acordará dentro de las veinticuatro horas siguientes sobre lo solicitado y, en su caso, señalará día y hora para llevar a cabo la diligencia y ordenará, en su caso, la citación de las personas cuya declaración se pretende.
+El Tribunal acordará dentro de las veinticuatro horas siguientes sobre lo solicitado y, en su caso, señalará día y hora para llevar a cabo la diligencia y ordenará, en su caso, la citación de las personas cuya declaración se pretende.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 984.
 
-Cuando por disposición de la Ley o de alguna autoridad o por acuerdo de las partes, se tenga que otorgar depósito o fianza, podrá el interesado o interesados concurrir ante el Presidente de la Junta o de la Junta Especial, el cual la recibirá y, en su caso, lo comunicará a la parte interesada.
+Cuando por disposición de la Ley o de alguna autoridad o por acuerdo de las partes, se tenga que otorgar depósito o fianza, podrá el interesado o interesados concurrir ante el Tribunal a cargo, el cual la recibirá y, en su caso, lo comunicará a la parte interesada.
 
-La cancelación de la fianza o la devolución del depósito, también podrá tramitarse ante el Presidente de la Junta o de la Junta Especial quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantiza la fianza o el depósito, autorizará su cancelación o devolución.
+La cancelación de la fianza o la devolución del depósito, también podrá tramitarse ante el Tribunal a cargo quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantiza la fianza o el depósito, autorizará su cancelación o devolución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 985.
 
-Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar a la Junta de Conciliación y Arbitraje, dentro de los 3 días siguientes a aquel en que haya presentado la impugnación correspondiente, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
+Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar al Tribunal, dentro de los 3 días siguientes a aquel en que haya presentado la impugnación correspondiente, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -10854,51 +12714,59 @@ II. Copia de la resolución dictada por la Secretaría de Hacienda y Crédito P�
 
 III. El nombre y domicilio de los representantes de los trabajadores sindicalizados, no sindicalizados y de confianza.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 986.
 
-La Junta al recibir el escrito del patrón examinará que reúna los requisitos señalados en el artículo anterior, en cuyo caso inmediatamente correrá traslado a los representantes de los trabajadores, para que dentro de 3 días manifiesten lo que a su derecho convenga; transcurrido el plazo acordará lo conducente.
+El Tribunal al recibir el escrito del patrón examinará que reúna los requisitos señalados en el artículo anterior, en cuyo caso inmediatamente correrá traslado a los representantes de los trabajadores, para que dentro de 3 días manifiesten lo que a su derecho convenga; transcurrido el plazo acordará lo conducente.
 
-Si la solicitud del patrón no reúne los requisitos legales, la Junta la desechará de plano.
+Si la solicitud del patrón no reúne los requisitos legales, el Tribunal la desechará de plano.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 987.
 
-Cuando trabajadores y patrones lleguen a un convenio o liquidación de un trabajador, fuera de juicio, podrán concurrir ante las Juntas de Conciliación y Arbitraje y las Especiales, solicitando su aprobación y ratificación, en los términos a que se refiere el párrafo segundo del artículo 33 de esta Ley, para cuyo efecto se identificarán a satisfacción de aquélla.
-
-En los convenios en que se dé por terminada la relación de trabajo deberá desglosarse la cantidad que se entregue al trabajador por concepto de salario, de prestaciones devengadas y de participación de utilidades. En caso de que la Comisión Mixta para la Participación de las Utilidades en la empresa o establecimiento aún no haya determinado la participación individual de los trabajadores, se dejarán a salvo sus derechos, hasta en tanto se formule el proyecto del reparto individual.
-
-Los convenios celebrados en los términos de este artículo serán aprobados por la Junta de Conciliación y Arbitraje competente, cuando no afecten derechos de los trabajadores, y tendrán efectos definitivos, por lo que se elevarán a la categoría de laudo ejecutoriado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
-
-###### Artículo 988.
-
-Los trabajadores mayores de quince años, pero menores de dieciocho, que no hayan terminado su educación básica obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-La Junta de Conciliación y Arbitraje, inmediatamente de recibida la solicitud, acordará lo conducente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-###### Artículo 989.
-
-Los trabajadores podrán solicitar, por conducto de la Junta de Conciliación y Arbitraje correspondiente, que el patrón les expida constancia escrita que contenga el número de días trabajados y el salario percibido, en los términos señalados por el artículo 132 fracción VII de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-###### Artículo 990.
-
-El trabajador o sus beneficiarios que deban recibir alguna cantidad de dinero en virtud de convenio o liquidación, podrán concurrir personalmente a la Junta correspondiente.
+Cuando trabajadores y patrones lleguen a un convenio o liquidación de un trabajador, fuera de juicio, podrán concurrir ante los Centros de Conciliación solicitando su aprobación y ratificación, en los términos a que se refiere el párrafo segundo del artículo 33 de esta Ley, para cuyo efecto se identificarán a satisfacción de la Autoridad Conciliadora.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
+En los convenios en que se dé por terminada la relación de trabajo deberá desglosarse la cantidad que se entregue al trabajador por concepto de salario, de prestaciones devengadas y de participación de utilidades. En caso de que la Comisión Mixta para la Participación de las Utilidades en la empresa o establecimiento aún no haya determinado la participación individual de los trabajadores, se dejarán a salvo sus derechos, hasta en tanto se formule el proyecto del reparto individual.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Los convenios celebrados en los términos de este artículo serán aprobados por el Centro de Conciliación competente, cuando no afecten derechos de los trabajadores, y tendrán efectos definitivos, por lo que se elevarán a la categoría de sentencia ejecutoriada.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 988.
+
+Los trabajadores mayores de quince años, pero menores de dieciocho, que no hayan terminado su educación básica obligatoria, podrán ocurrir ante el Tribunal competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+
+El Tribunal, inmediatamente de recibida la solicitud, acordará lo conducente.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 989.
+
+Los trabajadores podrán solicitar, por conducto del Tribunal correspondiente, que el patrón les expida constancia escrita que contenga el número de días trabajados y el salario percibido, en los términos señalados por el artículo 132 fracción VII de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 990.
+
+El trabajador o sus beneficiarios que deban recibir alguna cantidad de dinero en virtud de convenio o liquidación, podrán concurrir personalmente al Tribunal correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 991.
 
-En los casos de rescisión previstos en el artículo 47, el patrón podrá acudir ante la Junta de Conciliación y Arbitraje competente a solicitar que se notifique al trabajador el aviso a que el citado precepto se refiere, por los medios indicados en el mismo. La Junta, dentro de los cinco días siguientes al recibo de la promoción, deberá proceder a la notificación.
+En los casos de rescisión previstos en el artículo 47, el patrón podrá acudir ante el Tribunal competente a solicitar que se notifique al trabajador el aviso a que el citado precepto se refiere, por los medios indicados en el mismo. El Tribunal, dentro de los cinco días siguientes al recibo de la promoción, deberá proceder a la notificación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+###### Artículo 991 Bis.
+
+El patrón podrá depositar ante el Tribunal la indemnización a la que se refiere el artículo 49 de esta Ley, así como el pago de la prima de antigüedad prevista en el artículo 162 y demás prestaciones.
 
 (REUBICADO, D.O.F. 4 DE ENERO DE 1980)
 
@@ -10906,13 +12774,17 @@ TITULO DIECISEIS
 
 Responsabilidades y Sanciones
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 992.
 
-Las violaciones a las normas de trabajo cometidas por los patrones o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones, sin perjuicio de las sanciones previstas en otros ordenamientos legales y de las consecuencias jurídicas que procedan en materia de bienes y servicios concesionados.
+Las violaciones a las normas de trabajo cometidas por los patrones, directivos sindicales o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones, sin perjuicio de las sanciones previstas en otros ordenamientos legales y de las consecuencias jurídicas que procedan en materia de bienes y servicios concesionados.
 
-La cuantificación de las sanciones pecuniarias que en el presente Título se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente en el Distrito Federal, al momento de cometerse la violación.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+La cuantificación de las sanciones pecuniarias que en el presente Título se establecen, se hará tomando como base de cálculo la Unidad de Medida y Actualización, al momento de cometerse la violación.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Para la imposición de las sanciones, se tomará en cuenta lo siguiente:
 
@@ -10926,19 +12798,27 @@ IV. La capacidad económica del infractor; y
 
 V. La reincidencia del infractor.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 En todos los casos de reincidencia se duplicará la multa impuesta por la infracción anterior.
-
-Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiese sido desvirtuada.
-
-Cuando en un solo acto u omisión se afecten a varios trabajadores, se impondrá sanción por cada uno de los trabajadores afectados. Si con un solo acto u omisión se incurre en diversas infracciones, se aplicarán las sanciones que correspondan a cada una de ellas, de manera independiente.
-
-Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el artículo 21 Constitucional.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
+Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiese sido desvirtuada.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+Cuando en un solo acto u omisión se afecten a varios trabajadores, se impondrá sanción por cada uno de los trabajadores afectados. Si con un solo acto u omisión se incurre en diversas infracciones, se aplicarán las sanciones que correspondan a cada una de ellas, de manera independiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
+Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el artículo 21 Constitucional.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### Artículo 993.
 
-Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 250 a 2500 veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -10946,31 +12826,49 @@ Al patrón que no cumpla las normas que determinan el porcentaje o la utilizaci�
 
 Se impondrá multa, por el equivalente a:
 
-I. De 50 a 250 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. De 250 a 5000 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;
+I. De 50 a 250 Unidades de Medida y Actualización, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
 
-III. De 50 a 1500 veces el salario mínimo general al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-IV. De 250 a 5000 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
+II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;
 
-V. De 250 a 5000 veces el salario mínimo general, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-VI. De 250 a 5000 veces el salario mínimo general, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores; y
+III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
 
-VII. De 250 a 2500 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, V, VI y VII, y 357 segundo párrafo.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VI. De 250 a 5000 Unidades de Medida y Actualización, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores, así como al que viole las prohibiciones establecidas en las fracciones IV y V del artículo 133 de la Ley, o lo dispuesto en el artículo 357, segundo y tercer párrafo de ésta;
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VII. De 250 a 2500 Unidades de Medida y Actualización, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, VI y VII de esta Ley. Asimismo, por incumplir con los requerimientos que le haga la Autoridad Registral y la Autoridad Conciliadora, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+VIII. De 50 a 100 Unidades de Medida y Actualización, al patrón que no comparezca a la audiencia de conciliación, en términos del artículo 684 E fracción IV de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 995.
 
-Al patrón que viole las prohibiciones contenidas en el artículo 133 fracciones XIV y XV, y las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá una multa equivalente de 50 a 2500 veces el salario mínimo general.
+Al patrón que viole las prohibiciones contenidas en el artículo 133 fracciones XIV y XV, y las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá una multa equivalente de 50 a 2500 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 995 Bis.
 
-Al patrón que infrinja lo dispuesto en el artículo 23, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
+Al patrón que infrinja lo dispuesto en el artículo 23, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -10978,99 +12876,93 @@ Al patrón que infrinja lo dispuesto en el artículo 23, primer párrafo de esta
 
 Al armador, naviero o fletador, se le impondrá multa por el equivalente a:
 
-I. De 50 a 500 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II, y 213, fracción II; y
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
-II. De 50 a 2500 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+I. De 50 a 500 veces la Unidad de Medida y Actualización, si no cumple las disposiciones contenidas en los artículos 204, fracción II, y 213, fracción II, y
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
+II. De 50 a 2500 veces la Unidad de Medida y Actualización, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 997.
 
-Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 998.
 
-Al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 50 a 250 veces el salario mínimo general.
+Al patrón que no facilite al trabajador del hogar que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 50 a 250 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 999.
 
-Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 50 a 2500 veces el salario mínimo general.
+Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 50 a 2500 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1000.
 
-El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato Ley, o en un contrato colectivo de trabajo, se sancionará con multa por el equivalente de 250 a 5000 veces el salario mínimo general.
+El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato Ley, o en un contrato colectivo de trabajo, se sancionará con multa por el equivalente de 250 a 5000 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1001.
 
-Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 50 a 500 veces el salario mínimo general.
+Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 50 a 500 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1002.
 
-Por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 50 a 5000 veces el salario mínimo general.
+Por violaciones a las normas de trabajo no sancionadas en este Título o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 50 a 5000 veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1003.
 
 Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+El Tribunal y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
 
-Los Presidentes de las Juntas Especiales y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1004.
 
 Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+I. Con prisión de seis meses a tres años y multa que equivalga hasta 800 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
 
-I. Con prisión de seis meses a tres años y multa que equivalga hasta 800 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
+II. Con prisión de seis meses a tres años y multa que equivalga hasta 1600 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de treinta veces la Unidad de Medida y Actualización, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente, y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
 
-II. Con prisión de seis meses a tres años y multa que equivalga hasta 1600 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente; y
-
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1004-A.
 
-Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento, se le aplicará una multa de 250 a 5000 veces el salario mínimo general.
+Al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento, se le aplicará una multa de 250 a 5000 veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1004-B.
 
-El incumplimiento de las obligaciones a que se refiere el artículo 15-B de la Ley, se sancionará con multa por el equivalente de 250 a 2500 veces el salario mínimo general.
+El incumplimiento de las obligaciones a que se refiere el artículo 15-B de la Ley, se sancionará con multa por el equivalente de 250 a 2500 veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1004-C.
 
-A quien utilice el régimen de subcontratación de personal en forma dolosa, en términos del artículo 15-D de esta Ley, se le impondrá multa por el equivalente de 250 a 5000 veces el salario mínimo general.
+A quien utilice el régimen de subcontratación de personal en forma dolosa, en términos del artículo 15-D de esta Ley, se le impondrá multa por el equivalente de 250 a 5000 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1005.
 
-Al Procurador de la Defensa del Trabajo o al apoderado o representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de 125 a 1250 veces el salario mínimo general vigente en el Distrito Federal en los casos siguientes:
+Al Procurador de la Defensa del Trabajo, al Defensor Público o al representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de 125 a 1250 veces la Unidad de Medida y Actualización en los casos siguientes:
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -11080,11 +12972,19 @@ I. Cuando sin causa justificada se abstengan de concurrir a dos o más audiencia
 
 II. Cuando sin causa justificada se abstengan de promover en el juicio durante el lapso de tres meses.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Por lo que corresponde a servidores públicos, las conductas previstas en este artículo serán consideradas como faltas administrativas graves en términos de lo dispuesto por el capítulo II del Título Tercero de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+En todos los casos, cuando exista la presunción de actos irregulares, las Autoridades del Trabajo o los Tribunales de manera inmediata deberán hacerlo del conocimiento de las autoridades competentes para que éstas procedan conforme a sus atribuciones y facultades.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1006.
 
-A todo el que presente documentos o testigos falsos se le impondrá una pena de seis meses a cuatro años y multa de 125 a 1900 veces el salario mínimo general vigente en el Distrito Federal. Tratándose de trabajadores, la multa será el salario que reciba el trabajador en una semana.
+A todo el que presente documentos o testigos falsos, se le impondrá una pena de seis meses a cuatro años de prisión y multa de 125 a 1900 Unidades de Medida y Actualización. Tratándose de trabajadores, la multa será el salario que reciba el trabajador en una semana.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -11092,11 +12992,11 @@ A todo el que presente documentos o testigos falsos se le impondrá una pena de 
 
 Las penas consignadas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que por daños y perjuicios le resultaren al apoderado o representante.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 1008.
 
-Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
+Las sanciones administrativas de que trata este Título serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe de Gobierno de la Ciudad de México, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -11445,3 +13345,145 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 
 TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 1 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA".]
+
+Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Plazo para expedir (sic) Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.
+
+Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente Decreto, atendiendo a las posibilidades presupuestales.
+
+Al día siguiente en que se suspenda el servicio de registro de las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y en su caso los Poderes Ejecutivos de las Entidades Federativas, iniciará operaciones el Centro Federal de Conciliación y Registro Laboral.
+
+Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas de Conciliación y Arbitraje, al igual que la Secretaría del Trabajo y Previsión Social continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de la entrada en vigor del presente Decreto.
+
+Cuarto. Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro Federal de Conciliación y Registro Laboral una relación completa de todos los expedientes y registros en su poder, con soporte electrónico de cada registro o expediente, con una anticipación mínima de seis meses al inicio de sus funciones.
+
+Para efecto de lo anterior, dichas autoridades establecerán y difundirán las fechas en que suspenderán sus funciones registrales e iniciarán las del Centro Federal referido, garantizando que no se afecten los derechos de los interesados.
+
+El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción.
+
+Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades dentro del plazo máximo de tres años a partir de la entrada en vigor del presente decreto, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centro (sic) de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
+
+Sexto. Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
+
+Séptimo. Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría de (sic) Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje federales y locales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+El Centro Federal de Conciliación y Registro Laboral y los Centros de Conciliación Locales no admitirán a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos que se estén sustanciando ante las Juntas de Conciliación y Arbitraje, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+Octavo. Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje federales y locales, así como la Secretaría del Trabajo y Previsión Social, según corresponda, continuarán conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Tribunales federales y locales y los Centros de Conciliación, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto.
+
+Hasta en tanto entren en funciones los Centros de Conciliación, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes del presente Decreto. Para tales efectos se les dotará de los recursos presupuestales necesarios.
+
+Noveno. Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite conforme a las disposiciones de la Ley Federal del Trabajo vigentes con anterioridad a la entrada en vigor del presente Decreto y otro se sustancie conforme a las disposiciones de este Decreto, no procederá la acumulación de juicios.
+
+Décimo. Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de Conciliación y Tribunales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con el presente Decreto, según corresponda.
+
+Décimo Primero. Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el mandato del artículo 123, apartado A, fracción XVIII, segundo párrafo y XX Bis de la Constitución y los compromisos internacionales asumidos por el Estado mexicano, los contratos colectivos de trabajo existentes deberán revisarse al menos una vez durante los cuatro años posteriores a la entrada en vigor de este Decreto.
+
+Las referidas revisiones contractuales deberán depositarse ante el Centro Federal de Conciliación y Registro Laboral. Dicho Centro verificará que se haya hecho del conocimiento de los trabajadores el contenido del contrato colectivo de trabajo y que se les entregó un ejemplar impreso del mismo por parte del patrón; asimismo, que éste contrato cuenta con el respaldo de la mayoría de los trabajadores mediante voto personal, libre y secreto.
+
+La consulta a los trabajadores se realizará conforme al procedimiento establecido en el artículo 390 Ter de esta Ley.
+
+Si al término del plazo fijado en el primer párrafo de este artículo el contrato colectivo de trabajo sujeto a consulta no cuenta con el apoyo mayoritario de los trabajadores o se omite realizar la consulta mencionada, éste se tendrá por terminado, conservándose en beneficio de los trabajadores las prestaciones y condiciones de trabajo contempladas en el contrato colectivo sujeto a revisión, que sean superiores a las establecidas en esta Ley, las que serán de aplicación obligatoria para el patrón.
+
+Hasta en tanto no entre en funciones el Centro Federal de Conciliación y Registro Laboral, la Secretaría del Trabajo y Previsión Social establecerá el protocolo para efectuar la verificación de la consulta a que se refiere el presente artículo transitorio y dispondrá las medidas necesarias para su instrumentación, dentro de un plazo de tres meses siguientes a la entrada en vigor del presente Decreto. La Junta Federal de Conciliación y Arbitraje tendrá la participación que dicho protocolo le establezca.
+
+Décimo Segundo. Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las Legislaturas de las entidades federativas deberán destinar los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
+
+Décimo Tercero. Implementación y Capacitación. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las Autoridades Conciliadoras y los Tribunales del Poder Judicial Federal y de las entidades federativas, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Décimo Cuarto. Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral convocará a la primera sesión de dicho órgano dentro de los noventa días naturales siguientes a la fecha de designación de su titular.
+
+Décimo Quinto. Concursos de Selección de Personal. Las convocatorias a concurso para la selección de personal del Centro Federal de Conciliación y Registro Laboral, de los Centros de Conciliación Locales y de los Tribunales del Poder Judicial Federal y de las entidades federativas serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+
+Décimo Sexto. Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite. Dentro de los ciento veinte días naturales siguientes a la aprobación del presente Decreto la Junta Federal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje presentarán al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, un plan de trabajo con su respectivo programa para la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+Los planes y programas de trabajo deberán contener indicadores de resultados y desempeño por periodos semestrales. Corresponderá al Órgano Interno de Control de cada Junta de Conciliación y Arbitraje la medición de resultados e impacto a que se refiere el párrafo anterior.
+
+Décimo Séptimo. Coordinación interinstitucional para la implementación de la reforma. Se crea el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral como instancia nacional de consulta, planeación y coordinación que tendrá por objeto establecer la política y la coordinación nacionales necesarias para implementar a nivel federal y local el Sistema de Justicia Laboral en los términos previstos en el presente Decreto, con pleno respeto a las atribuciones de los Poderes Federales y Locales.
+
+Dicho Consejo deberá sesionar de manera ordinaria por lo menos tres veces al año y de manera extraordinaria las ocasiones que sean necesarias para el cumplimiento de sus fines. Las sesiones serán presididas por la persona Titular de la Secretaría del Trabajo y Previsión Social y, en su ausencia temporal por la persona que ésta designe. Los cargos que desempeñen los integrantes del Consejo serán de carácter honorífico, por lo que no recibirán remuneración alguna por su participación en el mismo.
+
+El Consejo se integrará por:
+
+I. Poder Ejecutivo Federal:
+
+a) La persona Titular de la Secretaría del Trabajo y Previsión Social, y
+
+b) La persona Titular de la Secretaría de Hacienda y Crédito Público.
+
+Las ausencias de éstos serán suplidas por los servidores públicos que ellos designen, con un nivel jerárquico inmediato inferior.
+
+II. Un representante del Poder Judicial Federal que designe el Presidente de la Suprema Corte de Justicia de la Nación;
+
+III. Un representante de la Conferencia Nacional de Gobernadores;
+
+IV. Un representante de la Comisión Nacional de Tribunales Superiores de Justicia, y
+
+V. Un representante de la Conferencia Nacional de Secretarios del Trabajo.
+
+Con el propósito de dar cumplimiento a su objeto, el Consejo tendrá las siguientes atribuciones:
+
+I. Emitir los acuerdos, lineamientos, normas, procedimientos y demás instrumentos normativos necesarios para el debido cumplimiento de su objeto, vinculatorios para sus integrantes;
+
+II. Elaborar las políticas, programas y mecanismos necesarios para instrumentar, a nivel federal y local, una estrategia nacional para la implementación del Sistema de Justicia Laboral, que contemple la programación de compromisos y etapas de desarrollo;
+
+III. Diseñar criterios para la implementación de las adecuaciones legales y normativas necesarias para cumplir con su objeto;
+
+IV. Proponer a las instancias correspondientes los cambios organizacionales, la construcción y operación de la infraestructura que se requieran;
+
+V. Emitir los lineamientos para la evaluación y seguimiento de las acciones que se deriven de las políticas, programas y mecanismos señaladas en la fracción II de este artículo;
+
+VI. Auxiliar en la elaboración de los programas de capacitación y difusión sobre el Sistema de Justicia Laboral dirigidos a jueces, procuradores del trabajo, defensores y asesores públicos, conciliadores, peritos, abogados, servidores públicos involucrados, representantes de trabajadores y empleadores, instituciones educativas, así como a la sociedad en general;
+
+VII. Coadyuvar con el Congreso de la Unión, las Legislaturas de las Entidades Federativas, en el seguimiento y evaluación de los recursos presupuestales ejercidos en la implementación y operación del Sistema de Justicia Laboral;
+
+VIII. Elaborar los criterios para la suscripción de convenios de colaboración interinstitucional; así como los acuerdos de coordinación con los gobiernos de las Entidades Federativas y de cooperación internacional;
+
+IX. Analizar los informes que le remita la Secretaría Técnica sobre los avances de sus actividades;
+
+X. Interpretar las disposiciones del presente artículo y su alcance jurídico, así como desahogar las consultas que se susciten con motivo de su aplicación, y
+
+XI. Las demás que se requieran para el cumplimiento de su objeto.
+
+El Consejo contará con una Secretaría Técnica, sectorizado (sic) a la Secretaría del Trabajo y Previsión Social, la cual deberá operar y ejecutar los acuerdos y determinaciones que tome el Consejo, así como coadyuvar y brindar el apoyo que requieran las autoridades e instancias correspondientes para la implementación del Sistema de Justicia Laboral. Dicha Secretaría Técnica estará a cargo de un servidor público con nivel de Titular de Unidad, nombrado y, en su caso, removido por la persona titular de la Secretaría de (sic) Trabajo y Previsión Social.
+
+Dentro de los cuarenta y cinco días posteriores a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social emitirá los lineamientos de operación y la convocatoria para la primera sesión de este Consejo.
+
+Décimo Octavo. Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de Conciliación y Arbitraje.
+
+Décimo Noveno. Disposiciones para la conclusión de conflictos de seguridad social. Los institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se refiere el presente Decreto.
+
+Vigésimo. Protección de derechos de los Trabajadores. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+Vigésimo Primero. Implementación de Tecnologías de la Información. Los Tribunales, así como los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+Vigésimo Segundo. Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390 Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos (sic) en los artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
+
+Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley.
+
+Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las (sic) respectiva Legislatura Local haga la declaratoria correspondiente.
+
+Lo anterior deberá publicarse en los medios de difusión oficial correspondientes.
+
+Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.
+
+Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes.
+
+Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán concentrarse en dicha plataforma para consulta inmediata del Tribunal que lo requiera. Las instituciones de seguridad social y los Poderes Judiciales federales y locales suscribirán los acuerdos de colaboración necesarios para la adecuada operación de la plataforma, así como para la protección de los datos personales que concentre.
+
+La información contenida en la plataforma deberá estar actualizada y debidamente registrada por cada institución de seguridad social.
+
+La plataforma deberá entrar en operación en un plazo no mayor a dos años posteriores a la entrada en vigor del presente Decreto, por lo que las instituciones de seguridad social deberán tomar las medidas apropiadas para su instrumentación en el plazo requerido.
+
+Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
+
+Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
+
+Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
