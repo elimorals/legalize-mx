@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2017-01-24"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -488,9 +488,9 @@ El Director General tendrá las siguientes atribuciones y facultades:
 
 I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
-El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje así como otorgar y revocar poderes generales o especiales.
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante el Centro Federal de Conciliación y Registro Laboral y/o, así como ante los Tribunales federales en materia laboral, así como otorgar y revocar poderes generales o especiales.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -642,7 +642,7 @@ I.- Proceder a inscribirse e inscribir a sus trabajadores en el Instituto y dar 
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
-Los patrones estarán obligados, siempre que contraten un nuevo trabajador, a solicitarle su número de Clave Única de Registro de Población.
+Los patrones estarán obligados, siempre que contraten un nuevo trabajador, a solicitarle su número de Clave Unica de Registro de Población.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -1214,13 +1214,17 @@ En los casos de inconformidad de las empresas, de los trabajadores o sus benefic
 
 El Reglamento correspondiente, determinará la forma y términos en que se podrá interponer el recurso de inconformidad a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 53.
 
-Las controversias entre los trabajadores o sus beneficiarios y el Instituto, sobre derechos de aquéllos se resolverán por la Junta Federal de Conciliación y Arbitraje una vez agotado, en su caso, el recurso que establece el artículo anterior.
+Las controversias entre los trabajadores o sus beneficiarios y el Instituto, sobre derechos de aquéllos se resolverán por los Tribunales federales en materia laboral una vez agotado, en su caso, el recurso que establece el artículo anterior.
 
 Las controversias derivadas de adeudos de los trabajadores al Instituto por créditos que éste les haya concedido, una vez agotado, en su caso, el recurso a que se refiere el artículo anterior, se tramitarán ante los tribunales competentes.
 
-Será optativo para los trabajadores, sus causahabientes o beneficiarios, agotar el recurso de inconformidad o acudir directamente a la Junta Federal de Conciliación y Arbitraje o a los tribunales competentes.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+
+Será optativo para los trabajadores, sus causahabientes o beneficiarios, agotar el recurso de inconformidad o acudir directamente a los Tribunales federales en materia laboral o a los tribunales competentes.
 
 > <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1655,3 +1659,145 @@ D.O.F. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA”.]
+
+Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Plazo para expedir (sic) Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.
+
+Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente Decreto, atendiendo a las posibilidades presupuestales.
+
+Al día siguiente en que se suspenda el servicio de registro de las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y en su caso los Poderes Ejecutivos de las Entidades Federativas, iniciará operaciones el Centro Federal de Conciliación y Registro Laboral.
+
+Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas de Conciliación y Arbitraje, al igual que la Secretaría del Trabajo y Previsión Social continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de la entrada en vigor del presente Decreto.
+
+Cuarto. Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro Federal de Conciliación y Registro Laboral una relación completa de todos los expedientes y registros en su poder, con soporte electrónico de cada registro o expediente, con una anticipación mínima de seis meses al inicio de sus funciones.
+
+Para efecto de lo anterior, dichas autoridades establecerán y difundirán las fechas en que suspenderán sus funciones registrales e iniciarán las del Centro Federal referido, garantizando que no se afecten los derechos de los interesados.
+
+El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción.
+
+Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades dentro del plazo máximo de tres años a partir de la entrada en vigor del presente decreto, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centro (sic) de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
+
+Sexto. Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
+
+Séptimo. Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría de (sic) Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje federales y locales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+El Centro Federal de Conciliación y Registro Laboral y los Centros de Conciliación Locales no admitirán a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos que se estén sustanciando ante las Juntas de Conciliación y Arbitraje, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+Octavo. Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje federales y locales, así como la Secretaría del Trabajo y Previsión Social, según corresponda, continuarán conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Tribunales federales y locales y los Centros de Conciliación, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto.
+
+Hasta en tanto entren en funciones los Centros de Conciliación, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes del presente Decreto. Para tales efectos se les dotará de los recursos presupuestales necesarios.
+
+Noveno. Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite conforme a las disposiciones de la Ley Federal del Trabajo vigentes con anterioridad a la entrada en vigor del presente Decreto y otro se sustancie conforme a las disposiciones de este Decreto, no procederá la acumulación de juicios.
+
+Décimo. Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de Conciliación y Tribunales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con el presente Decreto, según corresponda.
+
+Décimo Primero. Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el mandato del artículo 123, apartado A, fracción XVIII, segundo párrafo y XX Bis de la Constitución y los compromisos internacionales asumidos por el Estado mexicano, los contratos colectivos de trabajo existentes deberán revisarse al menos una vez durante los cuatro años posteriores a la entrada en vigor de este Decreto.
+
+Las referidas revisiones contractuales deberán depositarse ante el Centro Federal de Conciliación y Registro Laboral. Dicho Centro verificará que se haya hecho del conocimiento de los trabajadores el contenido del contrato colectivo de trabajo y que se les entregó un ejemplar impreso del mismo por parte del patrón; asimismo, que éste contrato cuenta con el respaldo de la mayoría de los trabajadores mediante voto personal, libre y secreto.
+
+La consulta a los trabajadores se realizará conforme al procedimiento establecido en el artículo 390 Ter de esta Ley.
+
+Si al término del plazo fijado en el primer párrafo de este artículo el contrato colectivo de trabajo sujeto a consulta no cuenta con el apoyo mayoritario de los trabajadores o se omite realizar la consulta mencionada, éste se tendrá por terminado, conservándose en beneficio de los trabajadores las prestaciones y condiciones de trabajo contempladas en el contrato colectivo sujeto a revisión, que sean superiores a las establecidas en esta Ley, las que serán de aplicación obligatoria para el patrón.
+
+Hasta en tanto no entre en funciones el Centro Federal de Conciliación y Registro Laboral, la Secretaría del Trabajo y Previsión Social establecerá el protocolo para efectuar la verificación de la consulta a que se refiere el presente artículo transitorio y dispondrá las medidas necesarias para su instrumentación, dentro de un plazo de tres meses siguientes a la entrada en vigor del presente Decreto. La Junta Federal de Conciliación y Arbitraje tendrá la participación que dicho protocolo le establezca.
+
+Décimo Segundo. Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las Legislaturas de las entidades federativas deberán destinar los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
+
+Décimo Tercero. Implementación y Capacitación. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las Autoridades Conciliadoras y los Tribunales del Poder Judicial Federal y de las entidades federativas, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Décimo Cuarto. Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral convocará a la primera sesión de dicho órgano dentro de los noventa días naturales siguientes a la fecha de designación de su titular.
+
+Décimo Quinto. Concursos de Selección de Personal. Las convocatorias a concurso para la selección de personal del Centro Federal de Conciliación y Registro Laboral, de los Centros de Conciliación Locales y de los Tribunales del Poder Judicial Federal y de las entidades federativas serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+
+Décimo Sexto. Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite. Dentro de los ciento veinte días naturales siguientes a la aprobación del presente Decreto la Junta Federal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje presentarán al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, un plan de trabajo con su respectivo programa para la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+Los planes y programas de trabajo deberán contener indicadores de resultados y desempeño por periodos semestrales. Corresponderá al Órgano Interno de Control de cada Junta de Conciliación y Arbitraje la medición de resultados e impacto a que se refiere el párrafo anterior.
+
+Décimo Séptimo. Coordinación interinstitucional para la implementación de la reforma. Se crea el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral como instancia nacional de consulta, planeación y coordinación que tendrá por objeto establecer la política y la coordinación nacionales necesarias para implementar a nivel federal y local el Sistema de Justicia Laboral en los términos previstos en el presente Decreto, con pleno respeto a las atribuciones de los Poderes Federales y Locales.
+
+Dicho Consejo deberá sesionar de manera ordinaria por lo menos tres veces al año y de manera extraordinaria las ocasiones que sean necesarias para el cumplimiento de sus fines. Las sesiones serán presididas por la persona Titular de la Secretaría del Trabajo y Previsión Social y, en su ausencia temporal por la persona que ésta designe. Los cargos que desempeñen los integrantes del Consejo serán de carácter honorífico, por lo que no recibirán remuneración alguna por su participación en el mismo.
+
+El Consejo se integrará por:
+
+I. Poder Ejecutivo Federal:
+
+a) La persona Titular de la Secretaría del Trabajo y Previsión Social, y
+
+b) La persona Titular de la Secretaría de Hacienda y Crédito Público.
+
+Las ausencias de éstos serán suplidas por los servidores públicos que ellos designen, con un nivel jerárquico inmediato inferior.
+
+II. Un representante del Poder Judicial Federal que designe el Presidente de la Suprema Corte de Justicia de la Nación;
+
+III. Un representante de la Conferencia Nacional de Gobernadores;
+
+IV. Un representante de la Comisión Nacional de Tribunales Superiores de Justicia, y
+
+V. Un representante de la Conferencia Nacional de Secretarios del Trabajo.
+
+Con el propósito de dar cumplimiento a su objeto, el Consejo tendrá las siguientes atribuciones:
+
+I. Emitir los acuerdos, lineamientos, normas, procedimientos y demás instrumentos normativos necesarios para el debido cumplimiento de su objeto, vinculatorios para sus integrantes;
+
+II. Elaborar las políticas, programas y mecanismos necesarios para instrumentar, a nivel federal y local, una estrategia nacional para la implementación del Sistema de Justicia Laboral, que contemple la programación de compromisos y etapas de desarrollo;
+
+III. Diseñar criterios para la implementación de las adecuaciones legales y normativas necesarias para cumplir con su objeto;
+
+IV. Proponer a las instancias correspondientes los cambios organizacionales, la construcción y operación de la infraestructura que se requieran;
+
+V. Emitir los lineamientos para la evaluación y seguimiento de las acciones que se deriven de las políticas, programas y mecanismos señaladas en la fracción II de este artículo;
+
+VI. Auxiliar en la elaboración de los programas de capacitación y difusión sobre el Sistema de Justicia Laboral dirigidos a jueces, procuradores del trabajo, defensores y asesores públicos, conciliadores, peritos, abogados, servidores públicos involucrados, representantes de trabajadores y empleadores, instituciones educativas, así como a la sociedad en general;
+
+VII. Coadyuvar con el Congreso de la Unión, las Legislaturas de las Entidades Federativas, en el seguimiento y evaluación de los recursos presupuestales ejercidos en la implementación y operación del Sistema de Justicia Laboral;
+
+VIII. Elaborar los criterios para la suscripción de convenios de colaboración interinstitucional; así como los acuerdos de coordinación con los gobiernos de las Entidades Federativas y de cooperación internacional;
+
+IX. Analizar los informes que le remita la Secretaría Técnica sobre los avances de sus actividades;
+
+X. Interpretar las disposiciones del presente artículo y su alcance jurídico, así como desahogar las consultas que se susciten con motivo de su aplicación, y
+
+XI. Las demás que se requieran para el cumplimiento de su objeto.
+
+El Consejo contará con una Secretaría Técnica, sectorizado (sic) a la Secretaría del Trabajo y Previsión Social, la cual deberá operar y ejecutar los acuerdos y determinaciones que tome el Consejo, así como coadyuvar y brindar el apoyo que requieran las autoridades e instancias correspondientes para la implementación del Sistema de Justicia Laboral. Dicha Secretaría Técnica estará a cargo de un servidor público con nivel de Titular de Unidad, nombrado y, en su caso, removido por la persona titular de la Secretaría de (sic) Trabajo y Previsión Social.
+
+Dentro de los cuarenta y cinco días posteriores a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social emitirá los lineamientos de operación y la convocatoria para la primera sesión de este Consejo.
+
+Décimo Octavo. Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de Conciliación y Arbitraje.
+
+Décimo Noveno. Disposiciones para la conclusión de conflictos de seguridad social. Los institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se refiere el presente Decreto.
+
+Vigésimo. Protección de derechos de los Trabajadores. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+Vigésimo Primero. Implementación de Tecnologías de la Información. Los Tribunales, así como los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+Vigésimo Segundo. Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390 Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos (sic) en los artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
+
+Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley.
+
+Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las (sic) respectiva Legislatura Local haga la declaratoria correspondiente.
+
+Lo anterior deberá publicarse en los medios de difusión oficial correspondientes.
+
+Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.
+
+Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes.
+
+Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán concentrarse en dicha plataforma para consulta inmediata del Tribunal que lo requiera. Las instituciones de seguridad social y los Poderes Judiciales federales y locales suscribirán los acuerdos de colaboración necesarios para la adecuada operación de la plataforma, así como para la protección de los datos personales que concentre.
+
+La información contenida en la plataforma deberá estar actualizada y debidamente registrada por cada institución de seguridad social.
+
+La plataforma deberá entrar en operación en un plazo no mayor a dos años posteriores a la entrada en vigor del presente Decreto, por lo que las instituciones de seguridad social deberán tomar las medidas apropiadas para su instrumentación en el plazo requerido.
+
+Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
+
+Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
+
+Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
