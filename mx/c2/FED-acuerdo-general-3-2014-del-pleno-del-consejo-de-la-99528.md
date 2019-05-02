@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2014-del-pleno-del-consejo-de-la-99528"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-03-12"
-last_updated: "2014-03-12"
+last_updated: "2019-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-03-04"
 ---
 # ACUERDO GENERAL 3/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE MODIFICA EL DIVERSO 15/2010, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARIAS Y AUXILIAR EN TODA LA REPUBLICA, PARA ESTABLECER LA REDISTRIBUCION DE LA PLANTILLA LABORAL DEL JUZGADO OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA QUINTA REGION, CON SEDE EN MAZATLAN, SINALOA, Y DE LA OFICINA DE ENLACE Y NOTIFICACIONES DEL PODER JUDICIAL DE LA FEDERACION EN ISLAS MARIAS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 3/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 3/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO 15/2010, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS Y AUXILIAR EN TODA LA REPÚBLICA, PARA ESTABLECER LA REDISTRIBUCIÓN DE LA PLANTILLA LABORAL DEL JUZGADO OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON SEDE EN MAZATLÁN, SINALOA, Y DE LA OFICINA DE ENLACE Y NOTIFICACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN EN ISLAS MARÍAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 12 de marzo de 2014.
 
@@ -82,3 +84,21 @@ TERCERO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo qu
 CUARTA. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de las reformas, al Acuerdo General 15/2010, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 3/2014, del Pleno del Consejo de la Judicatura Federal, que modifica el diverso 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y auxiliar en toda la república, para establecer la redistribución de la plantilla laboral del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, y de la oficina de enlace y notificaciones del Poder Judicial de la Federación en Islas Marías, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diecinueve de febrero de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a cuatro de marzo de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 3/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE ENLACE Y NOTIFICACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN EN ISLAS MARÍAS Y DE LA SALA REMOTA EN ISLA MARÍA MADRE, DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT; Y QUE REFORMA LOS SIMILARES 15/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS Y AUXILIAR EN TODA LA REPÚBLICA; 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; Y ABROGA EL ACUERDO GENERAL 3/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO 15/2010, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS Y AUXILIAR EN TODA LA REPÚBLICA, PARA ESTABLECER LA REDISTRIBUCIÓN DE LA PLANTILLA LABORAL DEL JUZGADO OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON SEDE EN MAZATLÁN, SINALOA, Y DE LA OFICINA DE ENLACE Y NOTIFICACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN EN ISLAS MARÍAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, así como el Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic, publicarán en la ventanilla de su oficialía de partes el aviso correspondiente, a fin de hacer del conocimiento del público lo dispuesto en el presente Acuerdo.
+
+TERCERO. El personal adscrito a las entidades que concluyen funciones deberá incorporarse al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, y al Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en Tepic, según corresponda, hasta en tanto se determine lo conducente por el Grupo de Trabajo de Plantillas Justificadas.
+
+CUARTO. La Contraloría del Poder Judicial de la Federación, la Secretaría Ejecutiva de Administración, la Coordinación de Seguridad del Poder Judicial de la Federación y la Dirección General de Asuntos Jurídicos atenderán en forma coordinada con las autoridades administrativas federales que correspondan, lo relativo al inmueble cuyo decreto para su uso y aprovechamiento fue abrogado, así como lo relativo al resguardo y eventual traslado al continente del archivo, mobiliario, equipo y demás bienes.
+
+QUINTO. Se abroga el Acuerdo 3/2014, del Pleno del Consejo de la Judicatura Federal, que modifica el diverso 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República, para establecer la redistribución de la plantilla laboral del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, y de la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías.
+
+SEXTO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en internet.
