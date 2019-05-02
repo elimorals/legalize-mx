@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2018-11-18"
+last_updated: "2019-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -109,7 +109,7 @@ X.- Eficientar la coordinación interinstitucional de las distintas dependencias
 
 XI.- Gestionar la concurrencia de recursos económicos y de acciones en favor del desarrollo rural; y
 
-XII.- Incentivar la inversión privada en los diferentes proyectos productivos agropecuarios; (sic)
+XII.- Incentivar la inversión privada en los diferentes proyectos productivos agropecuarios;
 
 ###### ARTÍCULO 5.
 
@@ -299,9 +299,11 @@ Los compromisos y responsabilidades que en materia de esta Ley, el Gobierno del 
 
 El Gobierno del Estado considerará las adecuaciones presupuestales aprobadas por el Congreso del Estado, en términos reales, que de manera progresiva se requieran en cada periodo para propiciar el cumplimiento de los objetivos y metas de mediano plazo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 12.
 
-Para impulsar el desarrollo rural sustentable, los órdenes de Gobierno promoverán la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción, así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad.
+Para impulsar el desarrollo rural sustentable, los órdenes de Gobierno promoverán la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción, así como a través de apoyos directos a los productores y pequeños productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad.
 
 El Gobierno del Estado y el de los municipios fomentarán la inversión en infraestructura a fin de alcanzar los siguientes objetivos:
 
@@ -313,9 +315,17 @@ III.- Incrementar, diversificar y reconvertir la producción para atender la dem
 
 IV.- Aumentar la capacidad productiva para fortalecer la economía campesina, el autoabasto y el desarrollo de mercados regionales que mejoren el acceso de la población rural a la alimentación y los términos de intercambio;
 
-V.- Fomentar la protección y el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso, conforme con las disposiciones legales aplicables; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
 
-VI.- Mejorar la cantidad y la calidad de los servicios a la población.
+V.- Fomentar la protección y el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso, conforme con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
+
+VI.- Mejorar la cantidad y la calidad de los servicios a la población; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2019)</small>
+
+VII.- Procurar que, a través de servicios de extensión, innovación y capacitación, se logre incrementar la producción de alimentos y fortalecer el desarrollo comunitario en las zonas rurales del Estado.
 
 ###### ARTÍCULO 13.
 
@@ -701,7 +711,7 @@ XII.- Apoyar la incorporación de cambios para revertir el deterioro de los recu
 
 XIII.- Proteger la biodiversidad y el paisaje para restablecer los ecosistemas, conservado y restaurando el medio ambiente a través del establecimiento de plantaciones, dendroenergéticas, cortinas rompevientos, cercos vivos, plantaciones agroforestales o cualquier otra acción que contribuya con este fin; y
 
-XIV.- Implantar cambios tecnológicos y de procesos que contribuyan y darle el valor agregado a las materias primas; (sic)
+XIV.- Implantar cambios tecnológicos y de procesos que contribuyan y darle el valor agregado a las materias primas;
 
 ###### ARTÍCULO 49.
 
@@ -811,7 +821,9 @@ Para tal fin, concertará con el Gobierno Federal y ayuntamientos, organizacione
 
 El Gobierno del Estado, a través de las dependencias y entidades competentes de la Administración Pública Estatal, en coordinación con los ayuntamientos, promoverán el desarrollo de la electrificación a base de las energías alternativas, de los caminos rurales, obras de conservación, restauración de suelos y agua considerándolos como elementos básicos para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
 
-La infraestructura de comunicación rural, buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con las cabeceras municipales. Para ello, promoverá la construcción y mantenimiento de caminos rurales, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2019)</small>
+
+La infraestructura de comunicación rural, buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con las cabeceras municipales. Para ello, promoverá la construcción y mantenimiento de caminos rurales y brechas agropecuarias, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
 
 ###### ARTÍCULO 61.
 
@@ -2102,6 +2114,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE NOVIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 005.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 83.- SE REFORMA EL ARTÍCULO 12 Y 60 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO.”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
