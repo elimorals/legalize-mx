@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2018-10-02"
+last_updated: "2019-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -213,7 +213,9 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
+
+VI. Elegir, en los términos de la Constitución Política Estatal, al Fiscal General del Estado; al Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y al Fiscal Especializado en Delitos Electorales; así como a oponerse con el voto de por lo menos las dos terceras partes de sus miembros, a la remoción de estos fiscales;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -343,9 +345,11 @@ La Diputación Permanente será electa por el Pleno a propuesta de la planilla q
 
 El Presidente de la Directiva lo será también de la Diputación Permanente; ésta se integrará además, con cuatro diputados propietarios y dos suplentes. Los diputados propietarios, conforme al orden propuesto en la planilla respectiva, ocuparán los cargos de Vicepresidente, Secretario y primer y segundo vocales. Los suplentes se integrarán en ausencia de los propietarios en el orden de su elección.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 25.
 
-El día de la clausura de cada periodo ordinario de sesiones del Congreso del Estado, inmediatamente después de la Sesión Solemne, los integrantes de la Diputación Permanente se reunirán en el Salón de Pleno para tomar posesión de sus cargos y su Presidente la declarará instalada; comunicándolo de inmediato por escrito al Ejecutivo y al Supremo Tribunal de Justicia del Estado, a los ayuntamientos de la Entidad, al Congreso de la Unión, a los poderes legislativos estatales y a la Asamblea Legislativa del Distrito Federal.
+El día de la clausura de cada periodo ordinario de sesiones del Congreso del Estado, inmediatamente después de la Sesión Solemne, los integrantes de la Diputación Permanente se reunirán en el Salón de Pleno “Ponciano Arriaga Leija”, para tomar posesión de sus cargos y su Presidente la declarará instalada; comunicándolo de inmediato por escrito al Ejecutivo y al Supremo Tribunal de Justicia del Estado; a los ayuntamientos de la Entidad; al Congreso de la Unión; a los poderes legislativos estatales, y Congreso de la Ciudad de México.
 
 ###### ARTICULO 26.
 
@@ -791,7 +795,9 @@ b) Hacer respetar la inmunidad de los diputados y velar por la inviolabilidad de
 
 c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento.
 
-d) Conducir en cumplimiento de las determinaciones del Pleno, las relaciones institucionales con el Gobierno Federal, los otros dos poderes del Estado, con los órganos estatales constitucionalmente dotados de autonomía, con las cámaras de diputados y senadores del Congreso de la Unión, con las legislaturas de los Estados de la República y la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2019)</small>
+
+d) Conducir en cumplimiento de las determinaciones del Pleno, las relaciones institucionales con, el Gobierno Federal; los otros dos poderes del Estado; los órganos estatales constitucionalmente dotados de autonomía; las cámaras de diputados y senadores del Congreso de la Unión; las legislaturas de los Estados de la República; y el Congreso de la Ciudad de México;
 
 e) Cuidar que los debates en la tribuna del Congreso se den con libertad.
 
@@ -1455,13 +1461,17 @@ Es competencia de la Comisión de Justicia, la atención, análisis, discusión 
 
 I. Los concernientes a la legislación civil o penal;
 
-II. Los relacionados con las leyes orgánicas del Poder Judicial, y de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
+
+II. Los relacionados con las leyes orgánicas, del Poder Judicial; y de la Fiscalía General del Estado;
 
 III. Los tocantes a justicia administrativa y laboral del Estado;
 
 IV. Los relativos a nombramientos, de los magistrados del Poder Judicial, y de los tribunales autónomos de la Entidad;
 
-V. Lo referente a la ratificación del Procurador del Estado;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
+
+V. Lo referente a la elección del Fiscal General del Estado;
 
 VI. Los relativos a la calificación de las renuncias de los magistrados del Poder Judicial, y de los tribunales autónomos;
 
@@ -1475,7 +1485,9 @@ X. Los referentes a la fijación y modificación de la división judicial de la 
 
 XI. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común;
 
-XII. Los relacionados con la coordinación con el Supremo Tribunal de Justicia, y la Procuraduría General de Justicia del Estado, para la actualización y perfeccionamiento de la legislación en materia de procuración e impartición de justicia, y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2019)</small>
+
+XII. Los relacionados con la coordinación con el Supremo Tribunal de Justicia, y la Fiscalía General del Estado, para la actualización y perfeccionamiento de la legislación en materia de procuración e impartición de justicia, y
 
 XIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
@@ -1957,9 +1969,9 @@ Los puntos de acuerdo aprobados, en ningún caso tendrán efectos vinculatorios.
 
 El Reglamento para el Gobierno Interior del Congreso prescribirá la forma en que deben presentarse las iniciativas, y el modo de proceder a su admisión y votación.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2019)</small>
 
-Dentro de los asuntos generales del orden del día, no podrán presentarse ante el Pleno las iniciativas a que se refiere el artículo 131 de esta Ley, que no hayan sido incluidas previamente en la Gaceta Parlamentaria; con la salvedad que establece el artículo 134 de esta Ley.
+Dentro de los asuntos generales del orden del día no podrán presentarse ante el Pleno, iniciativas o puntos de acuerdo a que se refieren los artículos, 131, y 132 de esta Ley, que no estén incluidas e incluidos previamente en la Gaceta Parlamentaria; con la excepción que establece el artículo 134 de este Ordenamiento.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2578,5 +2590,21 @@ P.O. 2 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1210.- SE REFORMA EL ARTÍCULO 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0157.- SE REFORMAN LOS ARTÍCULOS 16, 25, 71 Y 111 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0158.- SE REFORMA EL ARTÍCULO 133 EN SU PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 74 EN SU PÁRRAFO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
