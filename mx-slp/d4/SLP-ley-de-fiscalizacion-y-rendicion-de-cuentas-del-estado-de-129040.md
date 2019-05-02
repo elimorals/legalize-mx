@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2018-06-22"
+last_updated: "2019-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -573,9 +573,11 @@ Cualquier persona podrá presentar denuncias fundadas cuando se presuma el manej
 
 Las denuncias podrán presentarse al Congreso del Estado, a la Comisión o directamente a la Auditoría Superior del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 48.
 
-Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
+Las denuncias que se presenten deberán estar fundadas con evidencias, mediante las cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos establecidos en esta Ley.
 
 El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
 
@@ -1093,9 +1095,9 @@ Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electr�
 
 T R A N S I T O R I O S
 
-PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el 1 de abril de 2017.
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado "Plan de San Luis" el 1 de abril de 2017.
 
 TERCERO. Se abroga el Decreto Legislativo No. 639 de fecha 23 de mayo de 2017. En consecuencia, la persona electa mediante dicho Decreto Legislativo, pasa a formar parte de la estructura de la Unidad de Evaluación y Control. Los procedimientos administrativos, así como los asuntos en trámite iniciados por la contraloría interna, con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio. En un plazo no mayor de treinta días hábiles aquellos que no lo fueren así, la Unidad de Evaluación y Control de la Comisión de Vigilancia, continuará con el trámite de los mismos de conformidad con lo establecido en esta Ley y su reglamento.
 
@@ -1113,7 +1115,7 @@ En lo relativo a la presentación de los informes generales e individuales prese
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
+D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
 
 Por la Directiva. Presidente, Legislador Fernando Chávez Méndez; Segunda Prosecretaria, Legisladora Martha Orta Rodríguez; Segundo Secretario, Legislador Jorge Luis Miranda Torres (rúbricas).
 
@@ -1140,5 +1142,13 @@ P.O. 22 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 978.- SE ADICIONA EL ARTÍCULO SEXTO TRANSITORIO A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0156.- SE REFORMA EL ARTÍCULO 48 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
