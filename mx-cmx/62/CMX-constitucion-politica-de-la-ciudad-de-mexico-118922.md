@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2019-03-21"
+last_updated: "2019-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2019.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -3878,7 +3878,9 @@ OCTAVO.- Los derechos humanos reconocidos en la Ciudad de México antes de la en
 
 La ley constitucional en materia de derechos humanos y sus garantías desarrollará los derechos humanos, principios y mecanismos de exigibilidad reconocidos por esta Constitución. Esta ley deberá entrar en vigor el 1 de febrero de 2019.
 
-El Congreso expedirá la ley para la organización, funcionamiento y atribuciones de la Comisión de Derechos Humanos, así como la ley para regular el Sistema Integral de Derechos Humanos a que se refiere el artículo 5, apartado A, numeral 6, a más tardar el 30 de abril de 2019.
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2019)</small>
+
+El Congreso expedirá la ley para la organización, funcionamiento y atribuciones de la Comisión de Derechos Humanos, así como la ley para regular el Sistema Integral de Derechos Humanos a que se refiere el artículo 5, apartado A, numeral 6, a más tardar el 5 de septiembre de 2019.
 
 NOVENO.- La educación media superior y superior de la Ciudad de México deberá prever la ampliación progresiva de los recursos presupuestales destinados a eliminar la exclusión y falta de acceso a estos niveles educativos.
 
@@ -3904,13 +3906,19 @@ DÉCIMO CUARTO.- El Congreso tendrá un plazo de 180 días posteriores a la entr
 
 El Gobierno de la Ciudad de México deberá presentar la propuesta educativa correspondiente a los servicios de educación inicial, comunitaria, técnica, profesional, educación especial y complementaria o de extensión académica, y de atención a la diversidad étnica o cultural, en un plazo que no exceda los dieciocho meses a partir de la entrada en vigor de las leyes en la materia.
 
-DÉCIMO QUINTO.- El Congreso de la Ciudad de México expedirá la legislación en materia de planeación, la cual entrará en vigor a más tardar el 30 de abril de 2019, a fin de que el Instituto de Planeación Democrática y Prospectiva de la Ciudad de México se instale, como máximo, el 1 de julio de ese año.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MAYO DE 2019)</small>
 
-La ley de planeación establecerá el calendario para la elaboración del Plan General de Desarrollo, el Programa General de Ordenamiento Territorial y los Programas de Ordenamiento Territorial de cada demarcación; el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías; así como los programas sectoriales, especiales e institucionales; y los programas parciales de las colonias, pueblos y barrios originarios y comunidades indígenas, sobre la base de que el Plan General de Desarrollo entre en vigor el 1 de enero de 2020, el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías lo hagan el 1 de abril de 2020, y el Programa de Ordenamiento Territorial y los programas de ordenamiento territorial de cada una de las demarcaciones el 1 de enero de 2021.
+DÉCIMO QUINTO.- El Congreso de la Ciudad de México expedirá la legislación en materia de planeación, la cual entrará en vigor a más tardar el 5 de septiembre de 2019, y la Ley del Instituto de Planeación, el 5 de diciembre de ese año.
+
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2019)</small>
+
+La ley de planeación establecerá el calendario para la elaboración del Plan General de Desarrollo, el Programa General de Ordenamiento Territorial y los Programas de Ordenamiento Territorial de cada demarcación; el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías; así como los programas sectoriales, especiales e institucionales; y los programas parciales de las colonias, pueblos y barrios originarios y comunidades indígenas, sobre la base de que el Plan General de Desarrollo entre en vigor el 1 de octubre de 2020, el Programa de Gobierno de la Ciudad de México y los programas de gobierno de las alcaldías lo hagan el 1 de enero de 2021, y el Programa de Ordenamiento Territorial y los programas de ordenamiento territorial de cada una de las demarcaciones el 1 de abril de 2021.
 
 El comité de selección al que se refiere el artículo 15 de esta Constitución se conformará por convocatoria de la o el Jefe de Gobierno a las universidades públicas y privadas de mayor reconocimiento en la Ciudad, los colegios de profesionales, los institutos de investigación, organizaciones de la sociedad civil y las cámaras relacionadas con las materias de planeación y serán designados, de forma escalonada, por las dos terceras partes de las y los miembros presentes del Congreso de la Ciudad. Será de carácter honorífico y sólo sesionará cuando se requiera llevar a cabo un proceso de nombramiento. La ley establecerá los lineamientos y mecanismos para el ejercicio de sus funciones.
 
-La o el Jefe de Gobierno que entre en funciones el 5 de diciembre de 2018 elaborará un programa provisional de gobierno que estará vigente hasta el 31 de marzo de 2020.
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2019)</small>
+
+La o el Jefe de Gobierno que entre en funciones el 5 de diciembre de 2018 elaborará un programa provisional de gobierno que estará vigente hasta el 31 de diciembre de 2020.
 
 DÉCIMO SEXTO.- La Ley Orgánica de la Administración Pública de la Ciudad de México y la legislación de la materia regularán al órgano garante de la gestión integral de riesgos, con la participación que corresponda al Heroico Cuerpo de Bomberos de la Ciudad de México, en colaboración con los cuerpos de primera respuesta y los demás organismos que corresponda.
 
@@ -3938,7 +3946,9 @@ Todas las averiguaciones previas y carpetas de investigación iniciadas por la P
 
 La ley de la Fiscalía General de Justicia entrará en vigor el 5 de diciembre de 2019. La o el Fiscal General de Justicia será designado por el Congreso de la Ciudad de México a más tardar el 15 de diciembre de 2019.
 
-DÉCIMO OCTAVO.- El Congreso de la Ciudad de México expedirá las leyes o realizará las modificaciones a los ordenamientos que rigen a los organismos autónomos establecidos en esta Constitución, a más tardar el 30 de abril de 2019.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MAYO DE 2019)</small>
+
+DÉCIMO OCTAVO.- El Congreso de la Ciudad de México expedirá las leyes o realizará las modificaciones a los ordenamientos que rigen a los organismos autónomos establecidos en esta Constitución, a más tardar el 5 de diciembre de 2019.
 
 Los consejos ciudadanos encargados de la integración de los organismos autónomos deberán constituirse para atender la función específica que les otorga esta Constitución.
 
@@ -4018,7 +4028,9 @@ VIGÉSIMO SEXTO.- Las personas trabajadoras de la Ciudad preservan el derecho a 
 
 VIGÉSIMO SÉPTIMO.- El Congreso de la Ciudad de México tendrá hasta un año posterior a la entrada en vigor de esta Constitución para expedir la legislación a que se refiere el artículo 10, apartado B, numerales 12 y 13.
 
-VIGÉSIMO OCTAVO.- La I Legislatura del Congreso de la Ciudad de México deberá aprobar la ley reglamentaria de los artículos 57, 58 y 59, y las demás leyes reglamentarias que correspondan, en un plazo máximo de dos años contado a partir de la fecha en que sea promulgada la presente Constitución.
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2019)</small>
+
+VIGÉSIMO OCTAVO.- La I Legislatura del Congreso de la Ciudad de México deberá aprobar la ley reglamentaria de los artículos 57, 58 y 59, y las demás leyes reglamentarias que correspondan, a más tardar el 15 de diciembre de 2019.
 
 VIGÉSIMO NOVENO.- A partir del inicio de la vigencia de esta Constitución, todas las autoridades de la Ciudad de México, en el ámbito de sus competencias, estarán obligadas a adecuar su actuación conforme a los principios y derechos reconocidos por la misma.
 
@@ -4073,6 +4085,14 @@ Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de 
 G.O. 21 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO PRIMERO, PÁRRAFO TERCERO; DÉCIMO SÉPTIMO, PÁRRAFOS SÉPTIMO Y DÉCIMO Y VIGÉSIMO TERCERO, PÁRRAFOS SEGUNDO, TERCERO Y SEXTO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS OCTAVO, PÁRRAFO TERCERO; DÉCIMO QUINTO, PÁRRAFOS PRIMERO Y SEGUNDO; Y DÉCIMO OCTAVO, PÁRRAFO PRIMERO Y VIGÉSIMO OCTAVO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
