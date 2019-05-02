@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-04-15"
+last_updated: "2019-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -155,9 +155,9 @@ b) Lectura del informe del Consejo Estatal Electoral, respecto a las constancias
 
 c) Toma de protesta a los diputados.
 
-d) Entrega de la documentación que formaliza la integración de los grupos, y representaciones parlamentarias.
+d) (DEROGADO, P.O. 2 DE MAYO DE 2019)
 
-e) Integración de la Junta conforme a lo estipulado en la Ley Orgánica.
+e) (DEROGADO, P.O. 2 DE MAYO DE 2019)
 
 f) Propuesta de la Junta para integrar la Directiva.
 
@@ -399,7 +399,9 @@ Los periodos ordinarios de sesiones se sujetarán a lo siguiente:
 
 I. En el primero, que inicia el quince de septiembre y concluye el quince de diciembre, se ocupará de preferencia, entre otros asuntos, de examinar y aprobar la Ley de Ingresos del Estado; la Ley del Presupuesto de Egresos del Gobierno del Estado; y las leyes de ingresos de los municipios, correspondientes al siguiente año, y
 
-II. En el segundo, que se inicia el uno de marzo y termina el treinta de junio, con la misma preferencia, examinará, calificará y en su caso, aprobará las cuentas públicas de recaudación y distribución de caudales, que le presente la Auditoría Superior del Estado, relativas al año próximo anterior.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE MAYO DE 2019)</small>
+
+II. En el segundo, que inicia el uno de febrero y termina el treinta de junio, con la misma preferencia se sujetará a los términos del artículo 53 párrafo segundo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 Para tal efecto, el Congreso del Estado recibirá de la Auditoría Superior del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el último día de mayo del año de su presentación. Dentro de dichos informes se incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
 
@@ -773,9 +775,11 @@ Los diputados del Congreso podrán presentar ante el Pleno puntos de acuerdo con
 
 Los puntos de acuerdo deben contener los antecedentes, justificación, conclusiones y puntos específicos del acuerdo que se proponga aprobar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 74.
 
-Los puntos de acuerdo deben ser entregados a la Directiva, con la antelación necesaria para su inclusión en la Gaceta Parlamentaria, con la finalidad de que puedan ser aprobados preferentemente en la misma sesión.
+Los puntos de acuerdo deben ser entregados a la Directiva con la antelación necesaria para su inclusión en la Gaceta Parlamentaria, con la finalidad de que puedan ser aprobados preferentemente en la misma Sesión cuando sean de urgente y obvia resolución, así calificada por el Pleno, de lo contrario se turnarán a la comisión correspondiente. Cuando éstos no se incluyan en la Gaceta Parlamentaria debido a la urgencia ante alguna situación, riesgo, o peligro en la demora de acción, podrán ser incluidos en el orden del día debiendo ser calificada la urgencia por el Pleno.
 
 Sólo aquellos puntos de acuerdo cuya materia no sea de urgente y obvia resolución, o aquéllos cuya propuesta no pierda vigencia en razón del transcurso del tiempo, o que no se refieran a situaciones coyunturales, podrán ser turnados a las comisiones si así se estima necesario, para su estudio y dictamen.
 
@@ -2712,3 +2716,27 @@ P.O. 15 DE ABRIL DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0158.- SE REFORMA EL ARTÍCULO 133 EN SU PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 74 EN SU PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0159.- SE REFORMA EL ARTÍCULO 23 EN SU FRACCIÓN II EL PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0160.- SE DEROGA EN EL ARTÍCULO 7° EN SU FRACCIÓN III LOS INCISOS, D), Y E), DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
