@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2018-06-01"
+last_updated: "2019-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -113,6 +113,26 @@ d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono,
 
 e) Pensionados: cuando en virtud de un sistema de seguridad social, tengan otorgada pensión.
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2019)</small>
+
+X.- Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que le cause daño o sufrimiento, psicológico, físico, sexual, patrimonial o económico.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2019)</small>
+
+###### Artículo 3° Bis.
+
+Los tipos de violencia contra las Personas Adultas Mayores son:
+
+I.- Violencia Psicológica: El trastorno mental que provoque modificaciones a la personalidad, o a la conducta, o ambas, resultante de la agresión;
+
+II.- Violencia Física: El acto que causa daño corporal no accidental a la víctima, usando la fuerza física o algún otro medio que pueda provocar o no lesiones, ya sean internas o externas o ambas, en base al dictamen emitido por los especialistas en la materia;
+
+III.- Violencia Sexual: el acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la víctima, denigrándola y considerándola como de menor valía o como objeto; en base del dictamen emitido por los especialistas en la materia;
+
+IV.- Violencia Patrimonial: La acción u omisión que daña intencionalmente el patrimonio o afecta la supervivencia de la víctima; puede consistir en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes;
+
+V.- Violencia Económica: es toda acción u omisión del agresor que controle o este encaminada a controlar u ocultar el ingreso de sus percepciones económica (sic) o de la víctima.
+
 ## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
 ### CAPÍTULO I. DE LOS PRINCIPIOS
@@ -143,7 +163,9 @@ a) La vida con calidad, siendo obligación de la familia, de los órganos estata
 
 b) La no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna;
 
-c) Una vida libre de violencia física y moral;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2019)</small>
+
+c) Una vida libre de violencia física, psicológica, sexual, económica, patrimonial o de cualquier otro tipo.
 
 d) Ser respetados en su persona y en su integridad física, psicoemocional y sexual;
 
@@ -727,6 +749,10 @@ La Administración Pública del Estado, a través de los órganos competentes, e
 
 Las Personas Adultas Mayores, tendrán derecho a obtener tarifas preferenciales al hacer uso del servicio público de transporte colectivo, de conformidad con las disposiciones aplicables de la materia.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2019)</small>
+
+Las tarifas preferenciales a las que las Personas Adultas Mayores tienen derecho, no podrán ser aumentadas por el Poder Ejecutivo del Estado hasta que transcurra por lo menos un periodo de seis años contados a partir de la última modificación.
+
 ###### Artículo 35.
 
 La Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, promoverá la celebración de convenios de colaboración con los concesionarios para que las unidades de transporte público se adapten a las necesidades de las Personas Adultas Mayores.
@@ -755,9 +781,9 @@ La Administración Pública Estatal y Municipal, de conformidad con las disposic
 
 Las Secretarías y demás Dependencias que integran las Administración Pública Estatal, los Organismos Públicos Descentralizados de Participación Ciudadana y demás Entidades Paraestatales del Estado, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las Personas Adultas Mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2019)</small>
 
-Para ello, deberán implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones; así como mecanismos para la atención inmediata, como ventanillas o filas especiales, que deberán estar adecuadamente señalados para su fácil identificación.
+Para ello, deberán adecuarse espacios e implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones, sillas de ruedas; así como mecanismos para la atención inmediata, e instalación ventanillas preferentes o filas especiales que deberán estar adecuadamente señaladas para su fácil identificación y acceso, debiéndose de implementar acciones o estrategias que garanticen que por cada persona menor de sesenta años que se atienda, se le dé preferencia de atención a cuando menos dos Personas Adultas Mayores.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1036,3 +1062,11 @@ P.O. 1 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 398. SE REFORMA EL INCISO A) Y SE ADICIONAN LOS INCISOS B), C) Y D) A LA FRACCIÓN V DEL ARTÍCULO 5º DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 119. SE REFORMA POR ADICIÓN X AL ARTÍCULO 3°; SE ADICIONA EL ARTÍCULO 3° BIS; POR MODIFICACIÓN EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 5°; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34; POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 39, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
