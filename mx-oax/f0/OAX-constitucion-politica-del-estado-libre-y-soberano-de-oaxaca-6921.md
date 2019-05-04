@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-04-13"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES, POR LO QUE SE RESTITIUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DECRETO NÚM, 1539 AL DE LA FECHA ANTERIOR AL DE DICHO DECRETO DE REFORMA.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2307,9 +2309,11 @@ XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva;
 
 XXIII. Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-XXIV. Solicitar ante el Pleno del Tribunal Superior de Justicia, por conducto de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca y con causa justificada, la destitución de jueces y funcionarios judiciales.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+XXIV. Solicitar ante el Consejo de la Judicatura y con causa justificada, la destitución de jueces y funcionarios judiciales;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2667,9 +2671,11 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 El Poder Judicial se ejerce por el Tribunal Superior de Justicia y por los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2689,53 +2695,27 @@ Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas
 
 La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-El Pleno del Tribunal Superior de Justicia a través de la Junta de Administración, Vigilancia y Disciplina será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es la encargada de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
+El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-La Junta de Administración, Vigilancia y Disciplina se integrará por el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será de dicha Junta; así como por un Magistrado y un Juez, estos últimos designados por el Pleno del Tribunal a propuesta de las respectivas ternas enviadas por el Presidente del mismo, bajo los criterios de evaluación y antigüedad. De los miembros de la Junta de Administración, Vigilancia y Disciplina se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en el Presidente del Tribunal Superior de Justicia. Habrá un Consejero Magistrado y un Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa, por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
-La Ley Orgánica del Poder Judicial del Estado de Oaxaca determinará la forma y mecanismos para la designación de los integrantes de la Junta de Administración, Vigilancia y Disciplina, quienes sin excepción deberán ser funcionarios del Poder Judicial del Estado que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+La Ley Orgánica de cada uno de los poderes que participan en la integración del Consejo de la Judicatura determinará la forma y mecanismos para la designación de los Consejeros, quienes sin excepción deberán tener el título de licenciado en derecho y acreditar cinco años de experiencia en la materia.
 
-Los integrantes de la Junta de Administración, Vigilancia y Disciplina, con excepción del Presidente, durarán en su cargo cuatro años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo periodo. Durante su encargo, sólo podrán ser removidos por causas graves legalmente acreditadas por el Pleno del Tribunal Superior de Justicia del Estado.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+Los consejeros, con excepción del presidente, durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período. Durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
 
-La integración y facultades de la Junta de Administración, Vigilancia y Disciplina se regirán por las disposiciones de la Ley Orgánica del Poder Judicial del Estado de Oaxaca; de igual forma fijará las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se ajustará a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2018)</small>
-
-La Junta de Administración, Vigilancia y Disciplina gozará de independencia de gestión y técnica, así como para emitir sus resoluciones, a las cuales deberá dar máxima publicidad y transparencia en los términos de la ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 1 DE AGOSTO DE 2018)</small>
-
-A la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca le compete:
-
-I.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial. Los Jueces y los que con cualquier otra denominación se designen, serán adscritos y removidos del cargo por el voto de la mayoría de los miembros de la Junta de Administración, Vigilancia y Disciplina, conforme a lo previsto en la ley;
-
-II.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley;
-
-III.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
-
-IV.- Iniciar la investigación sobre la conducta de algún otro funcionario o empleado del Poder Judicial en los términos que señale la ley;
-
-V.- Participar con su opinión técnico - presupuestal en la elaboración que haga el Pleno del presupuesto del Poder Judicial para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
-
-VI.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, según el caso y de acuerdo con lo que la ley establezca;
-
-VII.- Determinar la creación de los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal;
-
-VIII.- Rendir y difundir ampliamente los informes que le solicite el Pleno del Tribunal Superior de Justicia del Estado y, participar en la elaboración del informe anual que el Presidente deba rendir ante el Congreso del Estado;
-
-IX.- Participar en el Sistema Estatal de Combate a la Corrupción, en los términos establecidos por la ley; y
-
-X.- Las demás que le confiera la ley.
+El Consejo de la Judicatura establecerá la configuración territorial de las Salas y Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, equidad de género, apartidismo y no discriminación, así mismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -2781,27 +2761,35 @@ Los impedimentos de este artículo serán aplicables a los funcionarios judicial
 
 Para nombrar a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Laboral, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-La Junta de Administración, Vigilancia y Disciplina certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Pleno del Tribunal Superior de Justicia del Estado para su validez y este a su vez enviará al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+El Consejo de la Judicatura certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 La elección se hará por el voto de las dos terceras partes de los diputados del Congreso del Estado que se hallen presentes, dentro del improrrogable plazo de veinte días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por la Junta de Administración, Vigilancia y Disciplina, y aprobada por el Pleno, designe el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por el Consejo de la Judicatura designe el Gobernador del Estado.
 
-Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado de la Junta de Administración, Vigilancia y Disciplina, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; deberán jubilarse en los términos que señale la ley respectiva.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE ARTÍCULO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 103.
 
-La Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Oaxaca será presidida por el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años pudiendo ser reelecto por un periodo más. Para ser Magistrado Presidente se requiere un mínimo de tres años integrando sala. El Magistrado Presidente tendrá la representación legal del Poder Judicial.
+El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y que durará en ejercicio de sus funciones cuatro años pudiendo ser reelecto por un periodo más. Para ser Magistrado Presidente se requiere un mínimo de tres años integrando sala. El Magistrado Presidente tendrá la representación legal del Poder Judicial.
 
 REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3627,9 +3615,11 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Órgano Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; por el Presidente del Tribunal de Justicia Administrativa; el Presidente del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca; así como por un representante de la Junta de Administración, Vigilancia y Disciplina del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa del Estado de Oaxaca; del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -5119,6 +5109,8 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO. El Congreso del Estado contará con el plazo de un año, a partir de la entrada en vigor del presente Decreto, para expedir la Ley reglamentaria respectiva.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES, POR LO QUE POR LO QUE ÉSTOS TRANSITORIOS QUEDAN SIN EFECTO.]</small>
+
 P.O. 1 DE AGOSTO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1539.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
@@ -5218,3 +5210,13 @@ P.O. 13 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 598.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO; Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES; Y EN EJERCICIO DE LAS FACULTADES CONSTITUCIONALES Y LEGALES, CON QUE ESTÁ INVESTIDA LA COMISIÓN DE ESTUDIOS CONSTITUCIONALES DEL HONORABLE CONGRESO DEL ESTADO, UNA VEZ QUE RECEPCIONE EN LA COMISIÓN LA INICIATIVA A LA REFORMA A LA CONSTITUCIÓN DEL ESTADO MATERIA DEL PRESENTE, DEBERÁ REALIZARSE EL TRÁMITE LEGISLATIVO OBSERVANDO EL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Publíquese en el periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzgado Décimo Primero de Distrito en el Estado, para los efectos legales a que haya lugar.
