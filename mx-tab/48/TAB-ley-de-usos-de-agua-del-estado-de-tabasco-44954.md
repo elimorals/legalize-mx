@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-usos-de-agua-del-estado-de-tabasco-44954"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2017-07-05"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE USOS DE AGUA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de mayo de 2005.
 
@@ -456,6 +456,10 @@ XXI. Las demás que señalen expresamente esta Ley y demás ordenamientos aplica
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
 Articulo 6 nonies. La Comisión contará con un órgano de control interno integrado por la figura de un Comisario; designado por el Consejo de Administración a propuesta del Titular de la Secretaría de Contraloría.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2019)</small>
+
+Las relaciones laborales entre la Comisión y sus trabajadores se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las condiciones generales de trabajo, las disposiciones que expida el Consejo de Administración y demás ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
 
@@ -1910,3 +1914,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 6 NONIES DE LA LEY DE USOS DE AGUA DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
