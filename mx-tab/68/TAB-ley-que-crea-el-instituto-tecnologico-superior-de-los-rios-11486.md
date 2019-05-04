@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-los-rios-1148
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-23"
-last_updated: "2011-09-28"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "TAB"
 ---
 # LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE LOS RIOS
 
-LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE LOS RIOS
+LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS RÍOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE SEPTIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 23 de noviembre de 1996.
 
@@ -35,7 +33,7 @@ QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME LO SIGUIENTE:
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 36 FRACCIONES I Y VI DE LA CONSTITUCIÓN POLÍTICA LOCAL, 14 FRACCIÓN I, Y 25 PRIMER PÁRRAFO DE LA LEY GENERAL DE EDUCACIÓN; Y
 
-...
+[...]
 
 Ha tenido a bien emitir el siguiente:
 
@@ -411,11 +409,11 @@ I. Poseer título a nivel licenciatura; y
 
 II. Contar con experiencia docente o profesional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2019)</small>
 
 ###### Artículo 23.
 
-Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por la Ley Federal del Trabajo, el Reglamento Interior de Trabajo, las disposiciones que expida la Junta Directiva y demás ordenamientos jurídicos aplicables.
+Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las disposiciones que expida la Junta Directiva y demás ordenamientos jurídicos aplicables.
 
 Todos los servidores públicos de base y de confianza del Instituto gozarán de la seguridad social que otorga la Ley del Instituto de Seguridad Social del Estado de Tabasco (ISSET), quedando incorporados a dicho régimen.
 
@@ -462,3 +460,19 @@ P.O. 27 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE "SE REFORMA EL ARTÍCULO 23, PÁRRAFO PRIMERO DE LA LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS RÍOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
