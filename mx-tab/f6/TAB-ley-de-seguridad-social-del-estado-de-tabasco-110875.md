@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-social-del-estado-de-tabasco-110875"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-07-05"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 31 de diciembre de 2015.
 
@@ -186,6 +186,10 @@ Serán supletorias de esta Ley, en lo que corresponda las disposiciones de la Le
 ###### Artículo 13.
 
 Se crea el Instituto de Seguridad Social del Estado de Tabasco, como un Organismo Público Descentralizado del Poder Ejecutivo del Estado de Tabasco, dotado de personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Planeación y Finanzas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2019)</small>
+
+Las relaciones laborales entre el Instituto y sus trabajadores se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las condiciones generales de trabajo, las disposiciones que expida la Junta de Gobierno y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 14.
 
@@ -1270,3 +1274,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 13 DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
