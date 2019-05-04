@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-civil-del-estado-de-tabasco-105710"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2015-07-29"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 31 de diciembre de 2014.
 
@@ -402,6 +402,10 @@ El Consejo Estatal sesionará ordinariamente en pleno por lo menos dos veces al 
 ###### Artículo 21.
 
 El Instituto de Protección Civil del Estado de Tabasco es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, domiciliado en la ciudad de Villahermosa, Tabasco; sin perjuicio de establecer Coordinaciones Regionales en función de los requerimientos de atención en los Municipios del Estado; con autonomía administrativa, presupuestal, técnica, de gestión, operación y ejecución para el adecuado desarrollo de sus funciones, con base en las facultades que le confiere la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2019)</small>
+
+Las relaciones laborales entre el Instituto y sus trabajadores se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, el Reglamento Interior de Trabajo, las condiciones generales de trabajo, las disposiciones que expida la Junta de Gobierno y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 22.
 
@@ -1154,3 +1158,19 @@ SEGUNDO. Se derogan las demás disposiciones legales de igual naturaleza que se 
 TERCERO. El Titular del Poder Ejecutivo, así como los ayuntamientos, conforme a sus respectivas competencias, procederán a realizar las adecuaciones reglamentarias correspondientes de conformidad con el presente Decreto, en un término no mayor a ciento veinte días naturales, a partir de la entrada en vigor de este Decreto.
 
 En tanto se expidan los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose en lo conducente y en todo lo que no se oponga al mismo, las disposiciones reglamentarias y administrativas que regulaban los aspectos previstos en el presente.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 21 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
