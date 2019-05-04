@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-25050"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-23"
-last_updated: "2008-12-13"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE MEDICO
 
-LEY DE LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE MEDICO
+LEY DE LA COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de marzo de 2002.
 
@@ -293,7 +293,7 @@ IV. Sustituir conforme a sus disposiciones internas, las ausencias del comisiona
 
 V. Las demás que les sean conferidas en el Estatuto Interior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO IV. DE LA CONCILIACIÓN Y ARBITRAJE
 
@@ -591,9 +591,11 @@ El personal que labore en la CECAMET, con exclusión de los Consejeros, que por 
 
 La remuneración del personal que preste sus servicios en el CECAMET, será conforme a las partidas establecidas en el Presupuesto anual de Egresos del Estado aprobado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2019)</small>
+
 ###### Artículo 48.
 
-Las relaciones laborales entre la CECAMET y sus trabajadores, se regirán por el apartado "A" del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, por las leyes secundarias aplicables en la materia y en su caso por las condiciones generales de trabajo y demás disposiciones que emita el Consejo.
+Las relaciones laborales entre la CECAMET y sus trabajadores, se regirán por el apartado "B'' del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, por la Ley de los Trabajadores al Servicio del Estado de Tabasco, en su caso por las condiciones generales de trabajo y demás disposiciones que emita el Consejo.
 
 Para estos efectos, se entenderá como titular de la relación laboral al Comisionado. El mismo, tratándose del cumplimiento de la Ley de Responsabilidades de los Servidores Públicos, se considerará como superior jerárquico.
 
@@ -647,7 +649,7 @@ LIC. JAIME HUMBERTO LASTRA BATAR
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY".]</small>
 
 P.O. 13 DE DICIEMBRE DE 2008.
 
@@ -656,3 +658,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El titular del Poder Ejecutivo del Estado, expedirá el Reglamento respectivo de esta Ley, en un periodo no mayor a 60 días a partir de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE “SE REFORMA EL ARTÍCULO 48, PÁRRAFO PRIMERO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MÉDICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
