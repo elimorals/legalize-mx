@@ -4,7 +4,7 @@ identifier: "TAB-decreto-por-el-que-se-crea-el-instituto-tecnologico-18778"
 country: "mx"
 rank: "decreto"
 publication_date: "2000-11-29"
-last_updated: "2011-08-27"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 DECRETO No. 394 SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE MACUSPANA, COMO ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, SECTORIZADO A LA SECRETARIA DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2019.
 
 Decreto publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, el 29 de noviembre de 2000.
 
@@ -419,9 +419,11 @@ I. Poseer título a nivel licenciatura, legalmente expedido y registrado; y
 
 II. Contar con experiencia docente o profesional.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2019)</small>
+
 ###### Artículo 23.
 
-Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por las leyes aplicables en la materia, por las condiciones generales de trabajo y demás disposiciones que expida la Junta Directiva.
+Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, por las condiciones generales de trabajo y demás disposiciones que expida la Junta Directiva.
 
 ###### Artículo 24.
 
@@ -472,3 +474,19 @@ P.O. 27 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE “SE REFORMA EL ARTÍCULO 23 DE LA LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE MACUSPANA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
