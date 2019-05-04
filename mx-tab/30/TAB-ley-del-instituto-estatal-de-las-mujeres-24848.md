@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-estatal-de-las-mujeres-24848"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-22"
-last_updated: "2018-05-30"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
+LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2001.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36 FRACCIONES I Y XXXIX DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
 
-....
+[...]
 
 DECRETO 044
 
@@ -461,9 +461,11 @@ II. De confianza.
 
 Serán considerados trabajadores de confianza: la Directora General, Directores, Sub-Directores, Jefes de Departamento, Administradores y aquellos otros cargos que con tal carácter determine la ley de la materia, en general todo aquel que realice funciones de dirección, inspección, investigación, supervisión, vigilancia, fiscalización y manejo de valores.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2019)</small>
+
 ###### Artículo 28.
 
-Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por el apartado "A" del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, por las leyes secundarias aplicables en la materia y en su caso por las condiciones generales de trabajo y demás disposiciones que emita el Consejo Directivo. Para estos efectos, se entenderá como titular de la relación laboral a la Directora General del Instituto. La misma, tratándose del cumplimiento de la Ley de Responsabilidades de los Servidores Públicos, se considerará como superior jerárquico.
+Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por el apartado "B" del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, por la Ley de los Trabajadores al Servicio del Estado de Tabasco, en su caso por las condiciones generales de trabajo y demás disposiciones que emita el Consejo Directivo. Para estos efectos, se entenderá como titular de la Entidad Pública a la Directora General del Instituto. La misma, tratándose del cumplimiento de la Ley General de Responsabilidades Administrativas, tendrá las obligaciones que le correspondan como superior jerárquico.
 
 ## TRANSITORIOS
 
@@ -493,7 +495,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 12 DE OCTUBRE DE 2005.
 
@@ -518,3 +520,19 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE “SE REFORMA EL ARTÍCULO 28 DE LA LEY QUE CREA EL INSTITUTO ESTATAL DE LAS MUJERES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
