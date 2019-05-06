@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2018-12-26"
+last_updated: "2019-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ abbreviation: "LFISAN"
 ---
 # LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "LA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA DESDE LA SEGUNDA A LA CUARTA SECCIÓN, DEL D.O.F. 26 DE DICIEMBRE DE 2018.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2019", PUBLICADA DESDE LA SEGUNDA A LA QUINTA SECCIÓN, DEL D.O.F. 6 DE MAYO DE 2019.]</small>
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE LA “MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018”, PUBLICADA EN LA SEGUNDA SECCIÓN A LA CUARTA SECCIÓN DEL D.O.F. DE 26 DE DICIEMBRE DE 2018.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2019", PUBLICADA EN LA SEGUNDA SECCIÓN A LA QUINTA SECCIÓN DEL D.O.F. DE 6 DE MAYO DE 2019.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE LA “MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018”, PUBLICADA EN LA SEGUNDA SECCIÓN A LA CUARTA SECCIÓN DEL D.O.F. DE 26 DE DICIEMBRE DE 2018.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2019", PUBLICADA EN LA SEGUNDA SECCIÓN A LA QUINTA SECCIÓN DEL D.O.F. DE 6 DE MAYO DE 2019.]</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2650,7 +2650,7 @@ fracción II primer párrafo: $193,231.20
 
 ###### Artículo 8o.
 
-fracción II segúndo párrafo: $193,231.21 y hasta $244,759.53
+fracción II segundo párrafo: $193,231.21 y hasta $244,759.53
 
 C. Código de Claves Vehiculares:
 
@@ -2680,7 +2680,7 @@ fracción II primer párrafo: $201,288.94
 
 ###### Artículo 8o.
 
-fracción II segúndo párrafo: $201,288.95 y hasta $254,966.00
+fracción II segundo párrafo: $201,288.95 y hasta $254,966.00
 
 C. Código de Claves Vehiculares:
 
@@ -2919,3 +2919,61 @@ fracción II segundo párrafo: $256,084.83 y hasta $324,374.11
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES DESDE LA PÁGINA 1 DE LA SEGUNDA SECCIÓN A LA PÁGINA 128 DE LA CUARTA SECCIÓN , DEL D.O.F. 26 DE DICIEMBRE DE 2018.]</small>
+
+D.O.F. 6 DE MAYO DE 2019.
+
+> <small>[N. DE E. LA MODIFICACIÓN DEL "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2019, PUBLICADA EL 6 DE MAYO DE 2019", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2019.]</small>
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2019
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2019.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2019.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 274,964.76 0.00 2.0
+
+274,964.77 329,957.65 5,499.20 5.0
+
+329,957.66 384,950.76 8,248.98 10.0
+
+384,950.77 494,936.36 13,748.26 15.0
+
+494,936.37 En adelante 30,246.07 17.0
+
+Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2019.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $256,084.82
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $256,084.83 y hasta $324,374.11
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES DESDE LA PÁGINA 1 DE LA SEGUNDA SECCIÓN A LA PÁGINA 112 DE LA QUINTA SECCIÓN, DEL D.O.F. 6 DE MAYO DE 2019.]</small>
