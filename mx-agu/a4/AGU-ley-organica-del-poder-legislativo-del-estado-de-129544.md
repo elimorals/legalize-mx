@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2018-08-13"
+last_updated: "2019-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección al Número 28 del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de Julio de 2018.
 
@@ -977,9 +975,17 @@ II. Las que se relacionen o afecten a los Jóvenes;
 
 III. Lo referente a las acciones que realice el Gobierno del Estado, respecto de la promoción, vinculación, fomento y difusión de las actividades relacionadas con los Jóvenes;
 
-IV. Atender lo relativo a la atención integral y prioritaria de los jóvenes que se encuentren en algún supuesto de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2019)</small>
 
-V. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+IV. Atender lo relativo a la atención integral y prioritaria de los jóvenes que se encuentren en algún supuesto de vulnerabilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2019)</small>
+
+V. La planificación, convocatoria, organización y realización de las Jornadas del Parlamento Juvenil del Congreso; mismas que habrán de celebrarse anualmente y como un evento en el que participen veintisiete jóvenes representantes y residentes en el Estado de Aguascalientes, los cuales serán elegidos según lo disponga la misma Comisión de Juventud; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE MAYO DE 2019)</small>
+
+VI. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 70.
 
@@ -1617,7 +1623,7 @@ Todos los documentos que expida el Congreso del Estado y las versiones electrón
 
 Queda prohibido que la papelería del Congreso del Estado y en toda impresión, publicación o representación que para efectos visuales se refiera al mismo, se haga uso de colores o de su combinación, que de cualquier manera impliquen referencia o similitud con los colores de identificación de los partidos políticos.
 
-## TÍTULO QUINTO (SIC). LOS PROCEDIMIENTOS ESPECIALES
+## TÍTULO QUINTO. LOS PROCEDIMIENTOS ESPECIALES
 
 ### CAPÍTULO I. EL COLEGIO ELECTORAL
 
@@ -2102,3 +2108,13 @@ EN FUNCIONES DE PRIMER SECRETARIO
 MA. ESTELA CORTÉS MELÉNDEZ
 
 DIPUTADA SEGUNDA SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 152.- SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
