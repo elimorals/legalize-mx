@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-135187"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2019-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -73,8 +73,18 @@ PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Fede
 
 SEGUNDO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión extraordinaria de doce de febrero del año dos mil diecinueve, estarán disponibles en el siguiente link: www.dof.gob.mx/2019/CJF/Acuerdo_Bases_Generales_IFDP.pdf
 
+> <small>[N. DE E. VÉASE REFORMAS POR MEDIO DEL CUAL SE MODIFICAN LOS ARTÍCULOS 2, FRACCIONES XIII Y XIX; 5, FRACCIONES IV, IX, XIV, XV, XXI Y XXIII; 8, FRACCIONES I, III Y IV; 10, FRACCIONES IV Y V; 11, ÚLTIMO PÁRRAFO; 12, FRACCIONES I Y II; 16, FRACCIONES VII, VIII, X, XIV, XXI Y XXIX; 18, ÚLTIMO PÁRRAFO; 28, PRIMER PÁRRAFO; 29, FRACCIÓN I; 30, FRACCIONES III, INCISO B) Y V; 38, FRACCIÓN I; 43, ÚLTIMO PÁRRAFO; 54, FRACCIÓN II; 56, FRACCIÓN IV; 61, FRACCIONES I Y V; 67, PRIMER PÁRRAFO; 90 Y 94, PRIMER PÁRRAFO, PUBLICADAS POR EL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, CORRESPONDIENTE A LA SEGUNDA SESIÓN EXTRAORDINARIA CELEBRADA EL 29 DE ABRIL DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA VIGENTES"; EN LA PRIMERA SECCIÓN DEL D.O.F. DE 6 DE MAYO DE 2019, PÁGINAS DE LA 44 A LA 47.]</small>
+
 ## TRANSITORIO
 
 ÚNICO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión extraordinaria de doce de febrero del año dos mil diecinueve, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
 
 El Director General del Instituto Federal de Defensoría Pública, Netzaí Sandoval Ballesteros.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, CORRESPONDIENTE A LA SEGUNDA SESIÓN EXTRAORDINARIA CELEBRADA EL 29 DE ABRIL DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA VIGENTES”.]
+
+ÚNICO. Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública vigentes, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
