@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-movilidad-y-desarrollo-13584
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-25"
-last_updated: "2019-04-25"
+last_updated: "2019-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2019 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATÁN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN EL 6 DE MAYO DE 2019.]</small>
 
 Estatuto publicado en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 25 de abril de 2019.
 
@@ -565,11 +565,13 @@ Las funciones de vigilancia del instituto estarán a cargo de un comisario públ
 
 ### Capítulo VI. Relaciones laborales
 
+> <small>(F. DE E., D.O. 6 DE MAYO DE 2019)</small>
+
 ###### Artículo 35.
 
 Relaciones laborales
 
-Las relaciones laborales entre el instituto y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+Las relaciones laborales entre el instituto y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y normativas aplicables.
 
 ### Capítulo VII. Suplencias
 
