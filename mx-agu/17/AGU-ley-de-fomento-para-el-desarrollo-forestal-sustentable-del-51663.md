@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2017-07-03"
+last_updated: "2019-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de septiembre de 2006.
 
@@ -351,7 +351,11 @@ XI. Participar y coadyuvar con la Federación y el Gobierno del Estado, en los p
 
 XII. Crear el Consejo Municipal Forestal, de acuerdo al Reglamento de esta Ley que para el efecto se expida;
 
-XIII. Aplicar las disposiciones jurídicas establecidas en la presente Ley y su Reglamento, en relación a la tala y remoción de vegetación arbórea y arbustiva, no considerada como forestal, dentro de áreas urbanas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2019)</small>
+
+XIII. Autorizar a particulares la tala y remoción de vegetación arbórea y arbustiva, no considerable como forestal, dentro de áreas urbanas y agropecuarias y expedir la guía de traslado de leña seca o viva generada en el municipio; debiendo necesariamente existir un convenio de colaboración entre el Ayuntamiento y las dependencias Estatales y Federales para el correcto funcionamiento en la tala y emisión de guías correspondientes, los lineamientos para la expedición de dicha guía será de acuerdo a lo dispuesto en el reglamento de esta ley.
+
+Para el caso de traslado de hasta un metro cúbico de leña muerta, no se requerirá autorización ni expedición de la guía respectiva;
 
 XIV Aplicar las disposiciones jurídicas relativas y en su caso, efectuar la reforestación dentro de las áreas urbanas y suburbanas; y
 
@@ -1445,7 +1449,7 @@ El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE JULIO DE 2011.
 
@@ -1460,3 +1464,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 150.- SE REFORMA LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se Derogan las disposiciones que se opongan a los (sic) establecido en el presente Decreto.
