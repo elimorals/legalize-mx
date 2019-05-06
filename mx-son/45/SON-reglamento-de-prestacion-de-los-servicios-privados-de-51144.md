@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-prestacion-de-los-servicios-privados-de-51144"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-10"
-last_updated: "2006-07-10"
+last_updated: "2019-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "SON"
 ---
 # REGLAMENTO DE PRESTACION DE LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE SONORA
 
-REGLAMENTO DE PRESTACION DE LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 6 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PRESTACIÓN DE LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MAYO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 10 de julio de 2006.
 
 EDUARDO BOURS CASTELO, Gobernador Constitucional de Sonora, en ejercicio de la facultad que me otorga el artículo 79, fracción I de la Constitución Política del Estado de Sonora, y con fundamento en el artículo 6° de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y 174 de la Ley de Seguridad Publica para el Estado de Sonora, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Que por lo antes expuesto y fundado he tenido a bien expedir el siguiente
 
@@ -510,3 +514,21 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY
 
 ENRIQUE PALAFOX PAZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 6 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Prestación de los Servicios Privados de Seguridad en el Estado de Sonora publicado en el Boletín Oficial del Gobierno del Estado de Sonora con fecha 10 de Julio del año 2006.
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Reglamento de Ley.
