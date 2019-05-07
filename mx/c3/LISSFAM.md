@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2017-05-24"
+last_updated: "2019-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -1800,6 +1800,14 @@ El personal militar femenino y la esposa o la concubina en su caso, del individu
 
 El personal militar femenino tendrá derecho a disfrutar de un mes de licencia anterior a la fecha probable del parto, que se fijará de acuerdo con la consulta prenatal, y de dos meses posteriores al mismo para la atención del infante. En ambos casos con goce de haberes.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2019)</small>
+
+A solicitud expresa del personal militar femenino, previa autorización escrita del médico responsable de la paciente y tomando en cuenta la naturaleza del trabajo que desempeñe, se podrá transferir hasta medio mes de licencia anterior a la fecha probable del parto para después del mismo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2019)</small>
+
+La licencia posterior al parto aumentará dos meses adicionales, en caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, previa presentación del certificado o dictamen correspondiente expedido por médicos militares o navales especialistas en servicio activo.
+
 ###### Artículo 153.
 
 Los familiares de un militar en activo o en situación de retiro comprendidos en el artículo 142 de esta Ley y los pensionistas, tendrán derecho a que se les proporcione gratuitamente el servicio médico.
@@ -3029,3 +3037,9 @@ D.O.F. 24 DE MAYO DE 2017.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Dentro del término de 45 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y la Secretaría del ramo competente, deberán realizar las adecuaciones normativas al Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas.
+
+D.O.F. 7 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 152 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
