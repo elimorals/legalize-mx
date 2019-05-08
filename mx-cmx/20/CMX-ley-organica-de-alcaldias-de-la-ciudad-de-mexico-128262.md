@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-10-12"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MAYO DE 2019.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -508,6 +508,20 @@ I. Diseñar e instrumentar políticas públicas que promuevan la educación, la 
 
 II. Desarrollar, de manera permanente, programas dirigidos al fortalecimiento de la cultura cívica, la democracia participativa, y los derechos humanos en la demarcación territorial;
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 36 Bis.
+
+Las atribuciones exclusivas de las personas titulares de las Alcaldías en materia de Juventud, son las siguientes:
+
+I. Contribuir al desarrollo integral de la juventud en su demarcación;
+
+II. Vincular las políticas públicas, programas, planes, proyectos y acciones del Gobierno dirigidas a las personas jóvenes, en coordinación con las distintas instancias de gobierno y la sociedad en general mediante convenios, tomando en cuenta la situación que vive en ese momento la juventud en cada demarcación territorial;
+
+III. Diseñar el Plan General de Trabajo Territorial en materia de Juventud desde una perspectiva transversal e incluyente en su demarcación y que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud.
+
+IV. Deberán procurar en el ámbito de sus atribuciones, los derechos de las personas jóvenes en materia de: salud, salud sexual y reproductiva, recreación, deporte, participación política, acceso a la cultura, ciencia, empleo y demás derechos que se expresen en la Constitución Política de la Ciudad de México, así como la Ley de los derechos de las personas jóvenes de la Ciudad de México.
+
 ###### Artículo 37.
 
 Las atribuciones exclusivas de las personas titulares de las Alcaldías en materia de asuntos jurídicos, son las siguientes:
@@ -842,7 +856,9 @@ V. Servicios Urbanos;
 
 VI. Planeación del Desarrollo;
 
-VII. Desarrollo Social.
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
+
+VII. Desarrollo Social;
 
 VIII. Desarrollo y Fomento Económico;
 
@@ -852,9 +868,15 @@ X. Participación Ciudadana;
 
 XI. Sustentabilidad;
 
-XII. Derechos Culturales, Recreativos y Educativos.
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
+
+XII. Derechos Culturales, Recreativos y Educativos;
 
 XIII. Fomento a la Equidad de Género;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2019)</small>
+
+XIV. Juventud.
 
 > <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
 
@@ -2177,3 +2199,15 @@ CUARTO. La Alcaldesa o Alcalde tendrá como fecha límite el 31 de octubre de 20
 QUINTO. El o la titular de la Alcaldía contará con un plazo no mayor a 30 días naturales a partir de la publicación del presente decreto, para expedir el manual señalado en el Artículo 71, y deberá armonizarlo a las disposiciones que establezca el Reglamento de esta Ley, que expida el o la titular de la Jefatura de Gobierno de la Ciudad de México, de conformidad con lo dispuesto con el artículo Decimosegundo transitorio del Decreto por el que se expide la Ley Orgánica de Alcaldías de la Ciudad de México.
 
 SEXTO. La adecuación de los espacios físicos de la sede del Concejo deberá realizarse en un periodo no mayor a 60 días naturales a partir de la publicación del presente decreto.
+
+G.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES, ASÍ COMO DE LA LEY ORGÁNICA DE LAS ALCALDÍAS, AMBOS ORDENAMIENTOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO: Para los efectos del artículo 71 de la Ley Orgánica de las Alcaldía (sic) de la Ciudad de México, las 16 Alcaldías tendrán que contemplar en el Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2020 con fecha límite 15 de enero, la creación de por lo menos una Jefatura de Unidad Departamental en materia de juventud.
+
+TERCERO: Para efectos de la Ley de los Derechos de las Personas Jóvenes de la Ciudad de México, los Órganos Político Administrativos de cada una de las demarcaciones territoriales denominadas “Delegaciones”, ahora se deberán entender como “Alcaldías” de la Ciudad de México, en tanto se armonice integralmente su contenido con lo dispuesto en la Constitución Política de la Ciudad de México.
+
+CUARTO: El presente Decreto entrará en vigor al día siguiente de su publicación.
