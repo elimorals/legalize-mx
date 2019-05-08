@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-para-las-y-los-integrantes-de-la-policia-126
 country: "mx"
 rank: "codigo"
 publication_date: "2018-02-26"
-last_updated: "2018-02-26"
+last_updated: "2019-05-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126686&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-02-09"
 ---
 # CODIGO DE CONDUCTA PARA LAS Y LOS INTEGRANTES DE LA POLICIA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO 27/2019 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 8 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS Y LOS INTEGRANTES DE LA POLICÍA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MAYO DE 2009 (SIN EFECTOS).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el lunes 26 de febrero de 2018.
 
@@ -171,3 +173,15 @@ DE LA INTEGRIDAD DE LAS Y LOS INTEGRANTES DE LA POLICÍA DE LA CIUDAD DE MÉXICO
 21.- Abstenerse de utilizar el uniforme, insignias, identificación o cualquier otro elemento institucional para fines ajenos o distintos al ejercicio del servicio que se les encomiende.
 
 22.- La inobservancia a lo ordenado en el presente Código generará las responsabilidades de índole administrativa o las que correspondan en el caso concreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 27/2019, POR EL QUE EXPIDE SU CÓDIGO DE CONDUCTA”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Código entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se deja sin efectos el ACUERDO 06/2018 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA PARA LAS Y LOS INTEGRANTES DE LA POLICÍA DE LA CIUDAD DE MÉXICO, publicado en la Gaceta Oficial de la Ciudad de México, el 26 de febrero de 2018.
