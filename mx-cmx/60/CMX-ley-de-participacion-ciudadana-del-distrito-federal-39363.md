@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2019-04-01"
+last_updated: "2019-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -972,6 +972,10 @@ IV. Participar con voz y voto en las decisiones de los órganos colegiados de la
 
 V. En caso de tener conocimiento de actos que contravengan las normas que rigen la administración o de actos que afecten el presupuesto, hacer las denuncias ante las autoridades correspondientes.
 
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2019)</small>
+
+VI. Recibir la gratuidad en los Sistemas de Transporte Público de la Ciudad de México en lo que dura su encargo como integrante de la Red de Contralorías Ciudadanas para el desarrollo de sus actividades.
+
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 66.
@@ -1568,7 +1572,9 @@ IV. Presentar propuestas relativas al ejercicio de las funciones del Comité Ciu
 
 V. Recibir capacitación, asesoría y educación de conformidad con lo establecido en los artículos 15 y 16 de esta Ley;
 
-VI. Recibir los apoyos materiales que requiera para el ejercicio de sus funciones y con arreglo a lo dispuesto en la fracción XX del artículo 93 de la presente Ley, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 8 DE MAYO DE 2019)</small>
+
+VI. Recibir los apoyos materiales que requiera para el ejercicio de sus funciones, incluida la gratuidad en los Sistemas de Transporte Público de la Ciudad de México en lo que dura su encargo como integrante del Comité Ciudadano y con arreglo a lo dispuesto en la fracción XX del artículo 93 de la presente Ley.
 
 VII. Las demás que ésta y otras disposiciones jurídicas les señalen.
 
@@ -4485,3 +4491,11 @@ PRIMERO.- Túrnese el presente dictamen a la Presidencia de la Mesa Directiva de
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión;
 
 TERCERO.- El presente Decreto entrará en vigor en el momento de su publicación en la Gaceta Oficial de la Ciudad de México;
+
+G.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 102 Y LA FRACCIÓN VI AL ARTÍCULO 65 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión;
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México;
