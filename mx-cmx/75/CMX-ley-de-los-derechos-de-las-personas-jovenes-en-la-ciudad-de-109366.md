@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2019-02-19"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -1622,27 +1622,49 @@ II. Las subdirecciones de área; y
 
 III. Las jefaturas de Unidad Departamental.
 
-### CAPÍTULO V (SIC). DE LA ATENCIÓN Y ORIENTACIÓN DE LAS DELEGACIONES A LA JUVENTUD
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2019)</small>
+
+### CAPÍTULO V (SIC). DE LA PROTECCIÓN, ATENCIÓN Y ORIENTACIÓN DE LAS ALCALDÍAS A LA JUVENTUD
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2019)</small>
 
 ###### Artículo 150.
 
-Las Delegaciones, contarán dentro de su estructura de gobierno con un área en materia de juventud cuyo responsable será designado por el titular de la Jefatura Delegacional, el cual deberá:
+Las Alcaldías, contarán dentro de su estructura de gobierno con una Unidad Administrativa en materia de juventud, que por lo menos será una Jefatura de Unidad Departamental cuyo responsable será designado por el titular de la Alcaldía, el cual deberá:
 
-I. Contar con estudios concluidos de nivel superior; y
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
 
-II. Tener experiencia y prestigio reconocido en el tema de trabajo con personas jóvenes.
+I. Contar con estudios concluidos o en curso a nivel medio superior;
 
-El titular del área contará con un nombramiento dentro de la estructura de la Delegación.
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
+
+II. Tener experiencia en el tema de trabajo con personas jóvenes;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2019)</small>
+
+III. Tener un máximo de 29 años de edad al momento de ser designado;
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2019)</small>
+
+El titular del área contará con un nombramiento dentro de la estructura de la Alcaldía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2019)</small>
 
 ###### Artículo 151.
 
-Los titulares de áreas delegacionales en materia de juventud tienen las atribuciones siguientes:
+Los titulares de áreas en las Alcaldías, en materia de juventud tienen las atribuciones siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 8 DE MAYO DE 2019)</small>
 
 I. Contribuir al desarrollo integral de la juventud en su demarcación;
 
-II. Planear, organizar, desarrollar, administrar, supervisar y dar seguimiento (sic) los servicios de la Atención, Orientación y Quejas de la Juventud, en el ámbito de su competencia, y vincular las políticas públicas, programas, planes, proyectos y acciones del Gobierno dirigidas a las personas jóvenes, en coordinación con las distintas instancias de gobierno y la sociedad en general mediante convenios, tomando en cuenta la situación que vive en ese momento la juventud en cada demarcación territorial; y
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
 
-III. Presentar, ejecutar y dar seguimiento (sic) un plan de trabajo transversal e incluyente para su demarcación, que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud;
+II. Planear, organizar, desarrollar, administrar, supervisar y dar seguimiento a los servicios de Atención, Orientación y Quejas de la Juventud, en el ámbito de su competencia, y vincular las políticas públicas, programas, planes, proyectos y acciones del Gobierno dirigidas a las personas jóvenes, en coordinación con las distintas instancias de gobierno y la sociedad en general mediante convenios, tomando en cuenta la situación que vive en ese momento la juventud en cada demarcación territorial;
+
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
+
+III. Ejecutar y dar seguimiento al Plan General de Trabajo Territorial en materia de Juventud desde una perspectiva transversal e incluyente en su demarcación y que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud.
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN CIUDADANA EN LAS POLÍTICAS DE JUVENTUD
 
@@ -1911,3 +1933,15 @@ G.O. 19 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 159, 160, SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 161, Y SE REFORMA DEL (SIC) ARTÍCULO 164 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES, ASÍ COMO DE LA LEY ORGÁNICA DE LAS ALCALDÍAS, AMBOS ORDENAMIENTOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO: Para los efectos del artículo 71 de la Ley Orgánica de las Alcaldía (sic) de la Ciudad de México, las 16 Alcaldías tendrán que contemplar en el Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2020 con fecha límite 15 de enero, la creación de por lo menos una Jefatura de Unidad Departamental en materia de juventud.
+
+TERCERO: Para efectos de la Ley de los Derechos de las Personas Jóvenes de la Ciudad de México, los Órganos Político Administrativos de cada una de las demarcaciones territoriales denominadas "Delegaciones", ahora se deberán entender como "Alcaldías" de la Ciudad de México, en tanto se armonice integralmente su contenido con lo dispuesto en la Constitución Política de la Ciudad de México.
+
+CUARTO: El presente Decreto entrará en vigor al día siguiente de su publicación.
