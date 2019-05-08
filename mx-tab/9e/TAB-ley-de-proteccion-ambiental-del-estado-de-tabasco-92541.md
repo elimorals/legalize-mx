@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-92541"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2017-07-05"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2012.
 
@@ -61,7 +63,9 @@ Son elementos de base del ambiente el aire, el agua, el suelo y la diversidad bi
 
 Para los efectos de esta Ley se entiende por:
 
-I. Actividad riesgosa: Toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales que se manejen en cualquier obra o actividad, que sean definidas como tales en las normas ambientales estatales o en los criterios emitidos por la Secretaría de Recursos Naturales y Protección Ambiental y publicados en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+I. Actividad riesgosa: Toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales que se manejen en cualquier obra o actividad, que sean definidas como tales en las normas ambientales estatales o en los criterios emitidos por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático y publicados en el Periódico Oficial del Estado;
 
 II. Áreas naturales protegidas estatales: Zonas del territorio estatal sobre las que la Entidad ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas; que han sido acordadas y están sujetas al régimen previsto en la presente Ley;
 
@@ -141,7 +145,9 @@ XXXIX. Ordenamiento ecológico: Instrumento de política ambiental que tiene por
 
 XL. Pasivo ambiental: Concepto que puede materializarse o no en un sitio geográfico contaminado por la liberación de materiales, residuos extraños o aleatorios, que no fueron remediados oportunamente y siguen causando efectos negativos al ambiente. Frente a la existencia de pasivos ambientales, es necesario recurrir a una remediación o mitigación;
 
-XLI. Registro de emisiones y transferencia de contaminantes: Registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Recursos Naturales y Protección Ambiental, a través de la unidad administrativa correspondiente;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XLI. Registro de emisiones y transferencia de contaminantes: Registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, a través de la unidad administrativa correspondiente;
 
 XLII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final, conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
@@ -155,7 +161,9 @@ XLVI. Restauración: Conjunto de actividades tendientes a la recuperación y res
 
 XLVII. Riesgo Ambiental: La posibilidad inminente de daño ambiental;
 
-XLVIII. Secretaría: La Secretaría de Recursos Naturales y Protección Ambiental;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XLVIII. Secretaría: La Secretaría de Bienestar, Sustentabilidad y Cambio Climático;
 
 XLIX. Sistema de gestión ambiental: Medidas y acciones de carácter administrativo, tendientes a incorporar criterios ambientales en los procesos y estilos de trabajo de las organizaciones públicas o privadas, con el objeto de minimizar el impacto negativo sobre el ambiente;
 
@@ -2619,11 +2627,31 @@ V. La producción orgánica e inorgánica y las redes de comercio sustentables;
 
 VI. El enfoque integrado de la elaboración de políticas a nivel estatal, regional y municipal de sistemas destinados a promover el desarrollo sustentable;
 
-VII. El desarrollo de mecanismos que induzcan el uso racional y diversificado de recursos naturales; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
 
-VIII. La reducción y minimización en la generación de residuos y emisión de contaminantes, así como en el uso de materias tóxicas y energía proveniente de combustibles fósiles.
+VII. El desarrollo de mecanismos que induzcan el uso racional y diversificado de recursos naturales;
 
-Con la finalidad de reducir la generación de residuos, queda prohibido otorgar de manera gratuita bolsas de plástico a los consumidores, que no sean consideradas biodegradables, por parte de cualquier tienda departamental, de servicio o comercio, conforme a los lineamientos que emita la secretaria.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+VIII. La reducción y minimización en la generación de residuos y emisión de contaminantes, así como en el uso de materias tóxicas y energía proveniente de combustibles fósiles;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+IX. Prohibir se otorgue de manera gratuita bolsas de plástico a los consumidores, que no sean consideradas biodegradables, por parte de cualquier tienda departamental, de servicio o comercio, conforme a los lineamientos que emita la secretaria;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+X. Prohibir que, en los sitios de venta de alimentos y bebidas, se ofrezca u otorgue a los consumidores popotes de plástico;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XI. Prohibir que, en los establecimientos comerciales y mercantiles la venta de alimentos y bebidas se sirva en recipientes de poliestireno expandido, conocido como unicel; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XII. Vigilar que en los establecimientos se deban colocar en lugares visibles, información relacionada a la contaminación generada por el uso de bolsas de plástico, popotes y unicel al ser desechados.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 8 DE MAYO DE 2019)</small>
 
 Los sujetos obligados que no cumplan con lo señalado en el presente capitulo y demás normatividad correspondiente serán sancionados de conformidad con la presente Ley.
 
@@ -3595,9 +3623,11 @@ A petición del presunto infractor, debidamente justificada, se podrán levantar
 
 ### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 301.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos, las normas ambientales estatales o demás disposiciones que de ella emanen, serán sancionados administrativamente por la Secretaría o la autoridad ambiental respectiva, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos, las normas ambientales estatales o demás disposiciones, serán sancionados administrativamente por la Secretaría o la autoridad ambiental respectiva, con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -3870,3 +3900,15 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 086 POR EL QUE “SE REFORMAN LAS FRACCIONES I, XLI Y XLVIII DEL ARTÍCULO 3; LAS FRACCIONES VII Y VIII DEL ARTÍCULO 196; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 301; SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII AL PÁRRAFO TERCERO DEL ARTÍCULO 196; Y SE DEROGA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 196, TODOS DE LA LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático, emitirá dentro de los 180 días siguientes a la publicación del presente Decreto, los lineamientos y las normas ambientales estatales que regulen las prohibiciones correspondientes.
+
+TERCERO. Los municipios del Estado de Tabasco tendrán hasta el 31 de diciembre de 2019, para efectos (sic) de reformar sus reglamentos en la materia y armonizarlos al presente Decreto.
+
+CUARTO. Tratándose de las sanciones que se originen por el incumplimiento de la prohibición contenida en la presente reforma, se aplicarán a partir del 01 de enero de 2020.
