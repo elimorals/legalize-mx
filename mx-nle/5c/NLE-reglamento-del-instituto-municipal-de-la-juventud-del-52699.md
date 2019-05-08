@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-juventud-del-52699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-29"
-last_updated: "2016-08-19"
+last_updated: "2019-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,17 @@ state: "NLE"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL AYUNTAMIENTO DE GUADALUPE, NUEVO LEON -- ANTES REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEON -- ANTES REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE --
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEÓN
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de diciembre de 2006.
 
 La C. Lic. María Cristina Díaz Salazar, Presidenta Municipal, de Ciudad Guadalupe, Nuevo León, en los términos de lo señalado en el artículo 27 fracción IV, de la Ley Orgánica de la Administración Pública Municipal en vigor, hace saber a sus habitantes: Que el R. Ayuntamiento de Ciudad Guadalupe, Nuevo León, en sesión ordinaria celebrada en las fechas 12-doce y 13-trece de Diciembre del año 2006-dos mil seis, con fundamento en lo señalado por los artículos 10, 26, inciso a), fracción VII, inciso b), fracción XI, inciso c), fracción VI, 27 fracción IV, 29, fracción IV, 30, fracción VI, 32, 76, 77, 160, 161, 162, 163, 164, 165, 166 y 167 de la Ley Orgánica de la Administración Pública del Estado de Nuevo León, aprobó y autorizó el Reglamento del Instituto de la juventud de Guadalupe; al tenor siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2019)</small>
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEÓN.
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL AYUNTAMIENTO DE GUADALUPE, NUEVOLEÓN (SIC)
 
 ### CAPITULO PRIMERO.
 
@@ -167,19 +167,31 @@ III.- 5 vocales, que serán:
 
 a) Secretario del Ayuntamiento Municipal.
 
-b) Secretario de Finanzas y Tesorería Municipal.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ABRIL DE 2008)</small>
+b) Secretario de Finanzas y Tesorería Municipal,
 
-c) Secretaría de Bienestar Social y Desarrollo Comunitario.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ABRIL DE 2008)</small>
+c) Secretario de Bienestar Social.
 
-d) Secretaría de Fomento Económico y Productivo.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
+
+d) Secretario de Desarrollo Económico.
 
 e) Dirección General del Sistema para el Desarrollo Integral de la Familia (DIF).
 
-Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo enviar previamente a las sesiones de la Junta de Gobierno, el documento en el que se informe de su designación. En caso de ausencia del Presidente Municipal, presidirá las sesiones el Secretario de Desarrollo Social o en su defecto el Secretario de Desarrollo Económico.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+f) Secretaria de Prevención Social
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+g) Presidente de la Comisión de juventud del R. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
+
+Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo enviar previamente a las sesiones de la Junta de Gobierno, el documento en el que se informe de su designación. En caso de ausencia del Presidente Municipal, presidirá las sesiones el Secretario de Bienestar Social o en su defecto el Secretario de Desarrollo Económico.
 
 ###### ARTÍCULO 11.
 
@@ -219,11 +231,11 @@ DE LA DIRECCION GENERAL.
 
 La Dirección General tiene a su cargo la representación y la administración del Instituto Municipal de la juventud y para el ejercicio de sus atribuciones y responsabilidades, se auxiliará de las áreas administrativas que se creen para el mejor cumplimiento de sus objetivos.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-La Dirección General estará a cargo de un joven de nacionalidad mexicana debiendo tener 18 años o un máximo de 29 años cumplidos al momento de su nombramiento como Director General del Instituto Municipal de la Juventud, sin distinción de sexo o estado civil, y este será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, tomando protesta en sesión del Ayuntamiento.
+La Dirección General estará a cargo de un joven, sin distinción de su estado civil o sexo, de nacionalidad mexicana, debiendo tener 18 y no más de 35 años cumplidos al momento de su nombramiento como Director General del Instituto Municipal de la Juventud, con residencia en el municipio mínimo de 3 años, debiendo así mismo tener mínimo el grado profesional de licenciatura, y será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, rindiendo la protesta de Ley en Sesión del máximo órgano colegiado de gobierno municipal.
 
 ###### ARTÍCULO 15.
 
@@ -277,23 +289,43 @@ II.- Un Presidente del Consejo, que será el Director general del Instituto, con
 
 III.- Un Secretario Técnico, que será designado por el Director General del Instituto;
 
-IV.- 27 Vocales Consejeros, con voz y voto, que serán los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MAYO DE 2019)</small>
 
-a) 4 Vocales, que serán los titulares de tas siguientes dependencias administrativas:
+IV.- 32 Vocales Consejeros, con voz y voto, que serán los siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MAYO DE 2019)</small>
+
+a) 5 Vocales, que serán los titulares de las siguientes dependencias administrativas:
 
 1) Secretaria del Ayuntamiento.
 
 2) Dirección General del Sistema para el Desarrollo integral de la Familia (DIF).
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
 
-3) Secretaria de Bienestar Social y Desarrollo Comunitario.
+3) Secretario de Bienestar Social
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
 
-4) Secretaría de Fomento Económico y Productivo.
+4) Secretario de Desarrollo Económico.
 
-Los referidos vocales integrantes del Consejo de Participación Juvenil, serán ejercidos por las personas que ocupen los cargos correspondientes en el Gobierno Municipal y son permanentes y durarán en funciones por el período del desempeño en su cargo. Por cada vocal consejero se podrá designar su respectivo suplente.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
+
+5) Secretario De Prevención Social
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+Un vocal representante del R. Ayuntamiento
+
+Que será el Presidente de la Comisión de Juventud.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+Un representante de las instituciones educativas de Nivel Medio Superior y Superior con sede en el municipio.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
+
+Los referidos vocales integrantes del Consejo de Participación Juvenil, serán ejercidos por las personas que ocupen los cargos correspondientes en el Gobierno Municipal y son permanentes y durarán en funciones por el período del desempeño en su cargo. Por cada vocal consejero se podrá designar su respectivo suplente,
 
 b) Tres representantes de universidades o instituciones de educación superior en el Municipio, públicas o privadas;
 
@@ -496,3 +528,13 @@ PRIMERO.- El presente acuerdo de reforma al "Reglamento del Instituto Municipal 
 SEGUNDO.- Quedan sin efecto todas las disposiciones que contravengan el presente acuerdo.
 
 TERCERO.- Instrúyase por parte del Presidente Municipal al titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial del Internet del Municipio.
+
+P.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE”.]
+
+PRIMERO.- Las presentes reformas al Reglamento del Instituto Municipal de la Juventud de Guadalupe, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones que contravengan las presentes reformas.
+
+TERCERO.- Dado en el Recinto Oficial de Sesiones del R. Ayuntamiento de Guadalupe, Nuevo León, publíquese y cúmplase el presente ordenamiento, una vez promulgado y publicado en el Periódico Oficial del Estado de Nuevo León.
