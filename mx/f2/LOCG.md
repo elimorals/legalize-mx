@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2018-10-05"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1728,15 +1728,19 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 ###### ARTICULO 104.
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la Legislatura. Ningún senador pertenecerá a más de cinco de ellas.
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la Legislatura. Ningún senador pertenecerá a más de cinco comisiones ordinarias, salvo Acuerdo de la Junta.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones. Al efecto, los grupos parlamentarios formularán los planteamientos que estimen pertinentes.
 
 3. Al plantear la integración de las comisiones, la Junta de Coordinación Política propondrá también a quienes deban integrar sus juntas directivas. Al hacerlo, cuidará que su propuesta incorpore a los senadores pertenecientes a los distintos grupos parlamentarios, de forma tal que se refleje la proporción que representen en el Pleno.
 
-4. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas.
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+4. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta de Coordinación Política y sea aprobado por el Pleno.
+
+5. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas.
 
 #### Sección Tercera. De su Organización
 
@@ -2837,3 +2841,9 @@ b) En caso de que se presenten controversias sobre la distribución de las compe
 Tercero.- Las diputadas o diputados que al momento de constituirse la legislatura no se hubieren integrado a algún Grupo Parlamentario, podrán integrarse a las comisiones que acuerde la Junta de Coordinación Política, las cuales podrán incrementar sus miembros para que los Grupos Parlamentarios mantengan su representación proporcional en ellas.
 
 Cuarto.- Una vez que el presente Decreto entre en vigor se procederá a instalar las Comisiones cuya conformación haya aprobado el Pleno.
+
+D.O.F. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
