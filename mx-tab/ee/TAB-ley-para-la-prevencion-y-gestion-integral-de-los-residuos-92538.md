@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-92538
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LO SIGUIENTE:
 
-ANTECEDENTES.
+ANTECEDENTES
+
+[...]
 
 OCTAVO.- Por las anteriores consideraciones y tomando en cuenta que el Honorable Congreso del Estado, está facultado para expedir, reformar, adicionar, derogar y abrogar Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social, de conformidad con lo establecido en el artículo 36, fracción I, de la Constitución Política del Estado Libre y Soberano de Tabasco, ha tenido a bien emitir el siguiente:
 
@@ -65,7 +67,9 @@ III. Aprovechamiento de los residuos: Conjunto de acciones cuyo objetivo es recu
 
 IV. Cédula de operación anual: Instrumento de reporte y recopilación de información de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de manejo especial empleado para la actualización de la base de datos del Registro Estatal de Emisiones y Transferencia de Contaminantes;
 
-V. Centro de acopio: Instalación autorizada por la Secretaría de Recursos Naturales y Protección Ambiental para la prestación de servicios a terceros en donde se reciben, reúnen, trasvasan y acumulan temporalmente residuos de manejo especial para después ser enviados a instalaciones autorizadas para su tratamiento, reciclaje, reutilización, co-procesamiento o disposición final;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+V. Centro de acopio: Instalación autorizada por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático para la prestación de servicios a terceros en donde se reciben, reúnen, trasvasan y acumulan temporalmente residuos de manejo especial para después ser enviados a instalaciones autorizadas para su tratamiento, reciclaje, reutilización, co-procesamiento o disposición final;
 
 VI. Composteo: Proceso de descomposición de la materia orgánica mediante la acción de microorganismos;
 
@@ -143,7 +147,9 @@ XLII. Reutilización: El empleo de residuos o materiales previamente usados, sin
 
 XLIII. Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
 
-XLIV. Secretaría: La Secretaría de Recursos Naturales y Protección Ambiental;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XLIV. Secretaría: Secretaría de Bienestar, Sustentabilidad y Cambio Climático;
 
 XLV. Sistema de Información Ambiental: Conjunto de bases de datos estadísticos, cartográficos, gráficos, documentales, informáticos, humanos, programas y procedimientos dedicados a recopilar, organizar y difundir la información acerca del ambiente y los recursos naturales del Estado;
 
@@ -191,7 +197,7 @@ I. El derecho de toda persona a vivir en un ambiente adecuado para su desarrollo
 
 II. Sujetar las actividades relacionadas con la generación y manejo integral de los residuos a las modalidades que dicten el orden e interés público para lograr el desarrollo sustentable en el Estado;
 
-III. La prevención y minimización de la generación de los residuos, de su liberación al ambiente, y su transferencia de un medio a otro, así como su manejo integral para evitar riesgo a la salud y daños a los ecosistemas;
+III. La prevención y minimización de la generación de los residuos, de su liberación al ambiente, y su transferencia de un medio a otro, así como su manejo integral para evitar riesgos a la salud y daños a los ecosistemas;
 
 IV. Corresponde a quien genere residuos, asumir los costos derivados del manejo integral de los mismos y, en su caso, de la reparación de los daños;
 
@@ -203,7 +209,7 @@ VII. El acceso público a la información, la educación ambiental y la capacita
 
 VIII. La disposición final de residuos limitada sólo a aquellos cuya valorización o tratamiento no sea económicamente viable, tecnológicamente factible y ambientalmente adecuada;
 
-IX. La selección de sitios para la disposición final de residuos, de conformidad con las normas oficiales mexicanas, los programas de ordenamiento ecológico y desarrollo urbano del estado y municipales según corresponda;
+IX. La selección de sitios para la disposición final de residuos, de conformidad con las normas oficiales mexicanas, los programas de ordenamiento ecológico y desarrollo urbano del Estado y municipales según corresponda;
 
 X. La promoción de la realización de acciones de remediación de los sitios contaminados, para prevenir o reducir los riesgos inminentes a la salud y al ambiente;
 
@@ -251,7 +257,9 @@ Son autoridades competentes para aplicar la presente Ley las siguientes:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. La Secretaría de Recursos Naturales y Protección Ambiental y sus unidades administrativas respectivas; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+II. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático y sus unidades administrativas respectivas; y
 
 III. Los Municipios de la Entidad, a través de su Dirección de Protección Ambiental y Desarrollo Sustentable.
 
@@ -359,7 +367,7 @@ XXXIV. Las demás que se establezcan en esta Ley, su Reglamento y otros ordenami
 
 Corresponde a los Municipios el ejercicio de las siguientes atribuciones:
 
-I. Elaborar, ejecutar, evaluar, difundir y actualizar los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa Estatal para la Prevención y Gestión Integral de los Residuos;
+I. Elaborar, ejecutar, evaluar, difundir y actualizar los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
 
 II. Formular y actualizar la normatividad municipal en materia de manejo de residuos sólidos urbanos, en concordancia con la presente Ley y demás disposiciones aplicables;
 
@@ -391,7 +399,7 @@ XV. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la pr
 
 XVI. Efectuar el cobro de los servicios públicos referidos en la fracción anterior y destinar los ingresos a la operación y el fortalecimiento de los mismos;
 
-XVII. Prevenir y erradicar la existencia de tiraderos a cielo abierto clandestinos o sitios no Controlados de disposición final de residuos sólidos urbanos y sancionar a los responsables de los mismos;
+XVII. Prevenir y erradicar la existencia de tiraderos a cielo abierto clandestinos o sitios no controlados de disposición final de residuos sólidos urbanos y sancionar a los responsables de los mismos;
 
 XVIII. Realizar campañas, programas y difundir entre la población prácticas de separación, reutilización y reciclaje de residuos;
 
@@ -511,7 +519,7 @@ VII. Residuos de la construcción, mantenimiento y demolición en general, tales
 
 VIII. Residuos tecnológicos provenientes de establecimientos comerciales o industriales, así como aquellos producidos en las industrias de informática, fabricantes de electrónicos o de vehículos automotores, equipos electrónicos u otros que al transcurrir su vida útil, por sus características requieren de un manejo específico, tales como computadoras personales de escritorio, portátiles y sus accesorios, teléfonos celulares, monitores con tubos de rayos catódicos (incluyendo televisores), pantallas de luz emisora de diodo, cristal líquido y plasma (incluyendo televisores), reproductores de audio y video portátiles, cables para equipos electrónicos, impresoras, fotocopiadoras y multifuncionales, fax, escáners; vehículos al final de su vida útil; refrigeradores, aire acondicionado, lavadoras, secadoras, hornos de microondas; neumáticos de desecho; artículos de plástico como: politereftalato de etileno (PET), polietileno de alta y baja densidad (PEAD y PEBD), poli cloruro de vinilo (PVC), polipropileno (PP), poliestireno (PS) y policarbonato (PC), bolsas de polietileno, envases, embalajes y artículos de madera, envases, embalajes y perfiles de aluminio, envases, embalajes y perfiles de metal ferroso, envases, embalajes y perfiles de metal no ferroso, entre otros;
 
-IX. Residuos de origen industrial y agroindustrial que por sus características no sean considerados peligrosos, tales como recortes de perforación impregnados con fluidos base agua y base aceite, aguas residuales aceitosas y líquidos remanentes, alúmina gastada, hidróxido de calcio, carbón activado; cascarilla de arroz, de cacao, de concha de coco, cáscara de piña y cítricos, bagazo de caña, pedúnculo de plátano, entre otros;
+IX. Residuos de origen industrial y agroindustrial que por sus características no sean considerados peligrosos, tales como recortes de perforación impregnados con fluidos base agua y base aceite, aguas residuales aceitosas y líquidos remanentes, alúmina gastada, hidróxido de calcio, carbón activado; cascarilla de arroz, de cacao, de concha de coco, cascara de piña y cítricos, bagazo de caña, pedúnculo de plátano, entre otros;
 
 X. Residuos de tiendas de autoservicios, departamentales, restaurantes, hoteles, moteles, establecimientos comerciales y de servicio, tales como envases metálicos, de vidrio, de tereftalato de polietileno (PET), de poliestireno expandido (unicel), envases y embalajes de papel y cartón, tarimas de madera y plástico, residuos orgánicos (restos de alimentos), película de polietileno para embalaje (playo), aceite vegetal usado, entre otros; y
 
@@ -709,7 +717,7 @@ Los planes de manejo para residuos de manejo especial, se podrán formular y eje
 
 I. Individuales: Aquellos en los cuales un solo sujeto establece en un único plan el manejo integral que dará a uno o varios residuos que genere; y
 
-II. Colectivos: aquellos en los cuales varios sujetos establecen en un único plan el manejo integral que darán a uno o varios residuos. Este incluirá la elaboración del instrumento jurídico correspondiente que señale las responsabilidades y obligaciones a la que se sujeten los participantes. Incluirán los mecanismos de incorporación para nuevos participantes, así como de evaluación y seguimiento.
+II. Colectivos: Aquellos en los cuales varios sujetos establecen en un único plan el manejo integral que darán a uno o varios residuos. Este incluirá la elaboración del instrumento jurídico correspondiente que señale las responsabilidades y obligaciones a la que se sujeten los participantes. Incluirán los mecanismos de incorporación para nuevos participantes, así como de evaluación y seguimiento.
 
 ###### ARTÍCULO 29.
 
@@ -785,7 +793,7 @@ II. Incentivar la valorización de los residuos;
 
 III. Integrarse a planes de manejo de alcance nacional o regional en el país;
 
-IV. facilitar el aprovechamiento de los residuos;
+IV. Facilitar el aprovechamiento de los residuos;
 
 V. Fomentar la compra de productos comercializados que contengan materiales reciclables o cuyos envases sean retornables o ambientalmente sustentables; y
 
@@ -955,7 +963,7 @@ Las personas que generen residuos de manejo especial, están obligadas a proporc
 
 ###### ARTÍCULO 56.
 
-Los grandes generadores, además de lo señalado en el artículo anterior, dentro del periodo que comprende del uno de enero al treinta de abril de cada año, deberán presentar ante la secretaría un informe anual acerca de la generación y modalidades de manejo a las que se sujetaron los residuos del año inmediato anterior, debiendo utilizar el formato que emita la Secretaría.
+Los grandes generadores, además de lo señalado en el artículo anterior, dentro del periodo que comprende del uno de enero al treinta de abril de cada año, deberán presentar ante la Secretaría un informe anual acerca de la generación y modalidades de manejo a las que se sujetaron los residuos del año inmediato anterior, debiendo utilizar el formato que emita la Secretaría.
 
 ###### ARTÍCULO 57.
 
@@ -1023,7 +1031,7 @@ IX. Solicitar previo a su ejecución por escrito, cualquier modificación relaci
 
 X. Notificar por escrito a la Secretaría, la finalización de sus procesos o actividades de manejo de residuos de manejo especial;
 
-XI. Los prestadores de servicios foráneos que realicen la recolección y transporte de residuos de manejo especial, deberán contar con un seguro ambiental y con domicilio en el territorio estatal; en caso de no contar con este último, deberá celebrar convenio o acuerdo con persona física, jurídica colectiva o prestador de servicio que los represente en el Estado ante la Secretaría, con domicilio en el mismo: (sic)
+XI. Los prestadores de servicios foráneos que realicen la recolección y transporte de residuos de manejo especial, deberán contar con un seguro ambiental y con domicilio en el territorio estatal; en caso de no contar con este último, deberá celebrar convenio o acuerdo con persona física, jurídica colectiva o prestador de servicio que los represente en el Estado ante la Secretaría, con domicilio en el mismo;
 
 XII. En caso de ocurrir una contingencia o emergencia ambiental, el prestador de servicio en un plazo de veinticuatro horas deberá informar por escrito a la Secretaría de la misma, así como realizar las acciones necesarias para recuperar y restablecer las condiciones del sitio afectado, conforme al plan de respuesta a contingencias, emergencias ambientales y accidentes;
 
@@ -1441,11 +1449,35 @@ VIII. Diluir residuos en cualquier medio, cuando no sea parte de un tratamiento 
 
 IX. Mezclar residuos de manejo especial que sean incompatibles entre sí;
 
-X. Establecer y operar sitios de disposición final sin autorización emitida por la Secretaría; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
 
-XI. Almacenar en el mismo lugar o celda, residuos de manejo especial incompatibles o en cantidades que rebasen la capacidad instalada, de acuerdo a lo autorizado por la Secretaría.
+X. Establecer y operar sitios de disposición final sin autorización emitida por la Secretaría;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XI. Almacenar en el mismo lugar o celda, residuos de manejo especial incompatibles o en cantidades que rebasen la capacidad instalada, de acuerdo a lo autorizado por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XII. Otorgar de manera gratuita bolsas de plástico, que no sean consideradas biodegradables, a los consumidores por parte de cualquier tienda departamental, de servicio o comercio, conforme a los lineamientos que emita la secretaria;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XIII. Que en los sitios de venta de alimentos y bebidas, se ofrezca u otorgue a los consumidores popotes de plástico; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XIV. Que en los establecimientos comerciales y mercantiles la venta de alimentos y bebidas se sirva en recipientes de poliestireno expandido, conocido como unicel.
 
 La Secretaría y los Municipios en el ámbito de su competencia, vigilarán el cumplimiento de las anteriores disposiciones.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+En los establecimientos a que se refieren las fracciones XII, XIII y XIV del presente artículo, se deberá colocar en lugares visibles, información relacionada con la contaminación generada por el uso de bolsas de plástico, popotes y poliestireno expandido conocido como unicel al ser desechados.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+Las prohibiciones no serán aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, uso médico, bolsas reutilizables, biodegradables y compostables.
 
 ### CAPÍTULO IX. DE LA VALORIZACIÓN DE LOS RESIDUOS
 
@@ -1565,7 +1597,7 @@ IX. Transportar residuos de manejo especial sin las condiciones necesarias que e
 
 X. Ingresar al Estado residuos de manejo especial sin autorización;
 
-XI. Mezclar residuos de manejo especial que sean incompatibles entre sí: (sic)
+XI. Mezclar residuos de manejo especial que sean incompatibles entre sí;
 
 XII. Disponer los residuos de manejo especial en estado líquido o semisólido, sin que hayan sido previamente neutralizados o tratados;
 
@@ -1636,3 +1668,17 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 086 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y XLIV DEL ARTÍCULO 2, LA FRACCIÓN II DEL ARTÍCULO 7, Y LAS FRACCIONES X Y XI DEL ARTÍCULO 101; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL PÁRRAFO PRIMERO, Y LOS PÁRRAFO (SIC) TERCERO Y CUARTO AL ARTÍCULO 101, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático, emitirá dentro de los 180 días siguientes a la publicación del presente Decreto, los lineamientos y las normas ambientales estatales que regulen las prohibiciones correspondientes.
+
+TERCERO. Los municipios del Estado de Tabasco tendrán hasta el 31 de diciembre de 2019, para efectos de reformar sus reglamentos en la materia y armonizarlos al presente Decreto.
+
+CUARTO. Tratándose de las sanciones que se originen por el incumplimiento de la prohibición contenida en la presente reforma, se aplicarán a partir del 01 de enero de 2020.
