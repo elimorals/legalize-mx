@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2018-01-31"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
 
 Ley publicada en la Tercera Sección al Número 346 del Periódico Oficial de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -826,6 +826,14 @@ XIII.- De equidad de género;
 XIV.- De Planeación para el Desarrollo, y;
 
 XV.- De Protección Civil.
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XVI.- De atención a los Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
+
+XVII.- De Población y Asuntos Migratorios.
 
 ###### Artículo 63.
 
@@ -2213,6 +2221,100 @@ El objeto del Defensor Municipal de los Derechos Humanos es la promoción del re
 
 Impulsará en el Municipio, el fortalecimiento de la cultura de la legalidad por el respeto, defensa y promoción de los derechos de la niñez, las personas de la tercera edad, los indígenas, las mujeres, los migrantes y sus familias, así como combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad o de las personas en el servicio público municipal en contra de cualquier persona o grupo social.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 212 Bis.
+
+Para ser Defensor Municipal de Derechos Humanos se requiere:
+
+I. Ser ciudadano chiapaneco en pleno goce y ejercicio de sus derechos políticos y civiles;
+
+II. Tener residencia efectiva en el municipio no menor a tres años;
+
+III. Acreditar preferentemente licenciatura, así como experiencia o estudios en materia (sic) derechos humanos;
+
+IV. Tener más de 25 años al momento de su designación;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 57/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. Gozar de buena fama pública Y NO HABER SIDO CONDENADO POR SENTENCIA EJECUTORIADA POR DELITO INTENCIONAL;
+
+(NOTA: EL 7 DE DICIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 57/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VI. NO HABER SIDO SANCIONADO EN EL DESEMPEÑO DE EMPLEO, CARGO O COMISIÓN EN LOS SERVICIOS PÚBLICOS FEDERAL, ESTATAL O MUNICIPAL, O CON MOTIVO DE ALGUNA RECOMENDACIÓN EMITIDA POR ORGANISMOS PÚBLICOS DE DERECHOS HUMANOS; Y
+
+VII. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
+
+Durante el tiempo de su encargo, el Defensor Municipal de Derechos Humanos no podrá desempeñar otro empleo cargo o comisión públicos, ni realizar cualquier actividad proselitista, excluyéndose las tareas académicas que no riñan con su quehacer.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 212 Ter.
+
+El Defensor Municipal de Derechos Humanos, dejará de ejercer su encargo por alguna de las causas siguientes:
+
+I. Término del periodo para el que fue designado o ratificado;
+
+II. Renuncia;
+
+III. Incapacidad permanente que le impida el desempeño de sus funciones;
+
+IV. Haber sido condenado mediante sentencia ejecutoriada por delito doloso;
+
+V. Haber sido sancionado en el desempeño de empleo, cargo o comisión en el servicio público, o con motivo de recomendación emitida por organismos públicos de derechos humanos;
+
+VI. Transgreda o incurra, en ejercicio de sus funciones, en conductas graves que sean contrarias a los derechos humanos;
+
+VII. Desempeñe actividades incompatibles con su encargo, en términos de esta Ley.
+
+En los supuestos a que se refieren las fracciones V, VI y VII, el Ayuntamiento correspondiente, citará en sesión de Cabildo al Defensor Municipal de Derechos Humanos, en la que se le informará de la o las causas de su separación del cargo; se garantizará el que sea escuchado y se recibirán las pruebas que en su favor aporte. El Ayuntamiento acordará lo conducente en presencia del Defensor Municipal de Derechos Humanos.
+
+En caso de que el Defensor Municipal de Derechos Humanos, sea separado de su cargo, por causas distintas a las establecidas en el presente artículo y/o por otro procedimiento, será motivo de responsabilidad administrativa, para quien aplique uno u otro.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 212 Quater.
+
+La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de Cabildo, a la que podrá asistir un representante de (sic) Comisión Estatal de Derechos Humanos.
+
+La Secretaría del Ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo, que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión Estatal de los Derechos Humanos copia certificada del Acta de la Sesión de Cabildo correspondiente al nombramiento.
+
+El Defensor Municipal de Derechos Humanos estará sujeto al régimen de responsabilidades administrativas de los servidores públicos, previsto en la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 212 Quinquies.
+
+Son atribuciones del Defensor Municipal de Derechos Humanos:
+
+I. Promover y difundir la práctica de los derechos humanos al interior del Ayuntamiento;
+
+II. Supervisar que los actos de autoridad municipal tengan un enfoque de derechos humanos;
+
+III. Participar en las conciliaciones y mediaciones para la solución de conflictos en donde exista una presunta violación a los derechos humanos;
+
+IV. Promover la vinculación del Ayuntamiento con organizaciones de la sociedad civil, en temas de derechos humanos;
+
+V. Asesorar y orientar a la población en general, en temas de derechos humanos;
+
+VI. Fungir como enlace entre la Comisión Estatal de los Derechos Humanos y el Ayuntamiento;
+
+VII. Dar seguimiento al cumplimiento de solicitud de informes que realice la Comisión Estatal de los Derechos Humanos;
+
+VIII. Brindar acompañamiento al cumplimiento de las medidas precautorias o cautelares solicitadas por la Comisión Estatal de los Derechos Humanos;
+
+IX. Coadyuvar en el seguimiento a las recomendaciones que emitan las Comisiones Nacional y Estatal de los Derechos Humanos al Ayuntamiento y atender las solicitudes de información o medidas cautelares de la Comisión Interamericana de Derechos Humanos.
+
+X. Supervisar la efectividad de los módulos de atención inmediata para erradicar la violencia de género. Coadyuvar con la procuraduría de protección de derechos de niñas, niños y adolescentes municipal; y con el Secretario Ejecutivo del Sistema Municipal de Protección a los Derechos de Niñas, Niños y Adolescentes.
+
+XI. Las demás que les confiera el marco constitucional, las Convenciones Internacionales de Derechos Humanos, las Leyes Generales en Materia de Derechos Humanos, emanadas de la Constitución, esta Ley, reglamentos, los acuerdos del Ayuntamiento o demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2019)</small>
+
+###### Artículo 212 Sexies.
+
+El Defensor Municipal de Derechos Humanos presentará por escrito a la Comisión para la atención de los Derechos Humanos del Cabildo, un informe anual de actividades.
+
 ## Titulo Décimo Segundo. De la Reglamentación Municipal
 
 ###### Artículo 213.
@@ -2225,9 +2327,11 @@ Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con la Ley, los B
 
 El Municipio como persona jurídica de Derecho Público, debe regular, entre otras cosas, su organización administrativa, estableciendo la forma en que las autoridades municipales deberán conducirse durante su encargo.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2019)</small>
+
 ###### Artículo 215.
 
-El bando de policía y buen gobierno lo constituye el conjunto de normas que regulan de manera específica, el funcionamiento del Gobierno Municipal, así como todo lo relativo a la vida comunitaria municipal, que garanticen la tranquilidad y seguridad de los habitantes del Municipio.
+El bando de policía y buen gobierno lo constituye el conjunto de normas que regulan de manera específica, el funcionamiento del Gobierno Municipal, así como todo lo relativo a la vida comunitaria municipal, que garanticen la tranquilidad, inclusión y seguridad de los habitantes del Municipio.
 
 ### Capítulo I. De las Suplencias
 
@@ -2342,3 +2446,21 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández, del Honorable Con
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 30 días del mes de enero del año dos mil dieciocho.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 173 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 180 POR EL QUE SE ADICIONA LA FRACCIÓN XVII, AL ARTÍCULO 62 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
