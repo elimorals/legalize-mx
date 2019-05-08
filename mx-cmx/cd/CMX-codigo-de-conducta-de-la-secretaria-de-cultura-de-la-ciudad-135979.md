@@ -1,0 +1,245 @@
+---
+title: "CODIGO DE CONDUCTA DE LA SECRETARIA DE CULTURA DE LA CIUDAD DE MEXICO"
+identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-cultura-de-la-ciudad-135979"
+country: "mx"
+rank: "codigo"
+publication_date: "2019-05-08"
+last_updated: "2019-05-08"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135979&Vig=1&TPub=6"
+department: "Gaceta Oficial de la Ciudad de México"
+jurisdiction: "mx-cmx"
+scjn_id: "135979"
+scjn_status: "VIGENTE"
+gazette: "Gaceta Oficial de la Ciudad de México"
+original_category: "CODIGO"
+original_gazette_section: "86"
+reform_count: "0"
+scjn_last_update: "2019-05-08"
+issue_date: "2019-05-03"
+---
+# CODIGO DE CONDUCTA DE LA SECRETARIA DE CULTURA DE LA CIUDAD DE MEXICO
+
+CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE CULTURA DE LA CIUDAD DE MÉXICO
+
+TEXTO ORIGINAL.
+
+Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 8 de mayo de 2019.
+
+José Alfonso Suárez del Real y Aguilera, Secretario de Cultura de la Ciudad de México, con fundamento en los artículos; 109 de la Constitución Política de los Estados Unidos Mexicanos; 3 de la Constitución Política de la Ciudad de México; 47 de la Ley Federal de Responsabilidades de los Servidores Públicos; 3, fracciones I y II, 11 fracción I, 16 fracción IV, 20 fracción IX de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 7 y 16 de la Ley de Responsabilidades Administrativas de la Ciudad de México; 7 fracción IV y 20 fracción VI del Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México
+
+I. El artículo 109 de la Constitución Política de los Estados Unidos Mexicanos especifica que se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el ejercicio de sus funciones.
+
+II. El artículo 3 de la Constitución Política de la Ciudad de México, establece los principios rectores de la Ciudad de México, entre los que se encuentran, la dignidad humana como elemento rector supremo y sustento de los derechos humanos. Asimismo, refiere que la rectoría del ejercicio de la función pública, debe apegarse a la ética, la austeridad, la racionalidad, la transparencia, la apertura, la responsabilidad, la participación ciudadana y la rendición de cuentas con control de la gestión y evaluación.
+
+III. El artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos indica que es responsabilidad de los servidores públicos salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia.
+
+IV. Que de conformidad con lo dispuesto en el artículo 7 de la Ley de Responsabilidades Administrativas de la Ciudad de México, las personas servidoras públicas de la Administración Pública de la Ciudad de México, deben observar en el desempeño de su empleo, cargo o comisión, los principios de transparencia como principio rector, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, de conformidad con las directrices establecidas en la referida Ley.
+
+V. Que de conformidad con lo dispuesto en el artículo 16 de la Ley de Responsabilidades Administrativas de la Ciudad de México, las personas servidoras públicas deberán observar el Código de Ética que al efecto sea emitido por la Secretaría de la Contraloría General y los Órganos Internos de Control de los poderes y órganos autónomos, conforme a los Lineamientos que emita el Sistema Anticorrupción de la Ciudad de México, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño; Código que deberá hacerse del conocimiento de las personas servidoras públicas, así como darle la máxima publicidad y mediante la publicación en la Gaceta Oficial de la Ciudad de México.
+
+VI. Que el 7 de febrero del 2019 se publicó en la Gaceta Oficial de la Ciudad de México, el Código de Ética de la Administración Pública de la Ciudad de México, a efecto de que los servidores públicos contaran con principios y valores éticos para el desempeño de sus funciones, además de que contiene reglas de integridad y delimita conductas de los servidores públicos en situaciones específicas para evitar incurrir en faltas administrativas.
+
+VII. Que el artículo segundo transitorio del Código de Ética precisado en el considerando que antecede, estableció un plazo a los entes públicos de la Administración Pública de la Ciudad de México, para publicar en la Gaceta Oficial de la Ciudad de México su respectivo Código de Conducta dentro de los 90 días naturales siguientes a la entrada en vigor del citado Código de Ética. Por lo que he tenido a bien emitir el siguiente:
+
+AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARIA DE CULTURA DE LA CIUDAD DE MÉXICO
+
+La Secretaria de Cultura de la Ciudad de México, es una dependencia que tiene como misión la de garantizar el ejercicio pleno de los derechos culturales con base en el diseño y desarrollo de políticas públicas y la coordinación y ejecución de acciones con la participación activa de las comunidades que permita fomentar el desarrollo cultural y contribuir a la sostenibilidad de la ciudad y el cuidado de su patrimonio.
+
+Asimismo, la Secretaría de Cultura de la Ciudad de México tiene como visión ser la instancia de la política cultural en la Ciudad de México un territorio de libertades y ejemplar en el diseño y ejecución de políticas públicas vinculadas al desarrollo cultural con el propósito de lograr el fortalecimiento de la identidad y el bienestar social y contribuir a la formación de una sociedad humanista altamente responsable participativa y solidaria.
+
+GENERALIDADES
+
+En el presente Código de Conducta se especificarán de manera puntual y concreta la forma en que los servidores públicos deberán aplicar los principios, valores y reglas de integridad contenidas en el Código de Ética de la Administración Pública de la Ciudad de México.
+
+Es aplicable para todo el personal que colabora dentro de la Secretaría de Cultura de la Ciudad de México sin importar el tipo de contratación a la que se encuentre sujeto.
+
+El propósito principal es que las reglas que se determinen sean una herramienta que genere un ambiente laboral de calidad, eficiencia y eficacia que se verá reflejado en actuar de forma coherente y pacífica en los servidores públicos de la Secretaria de Cultura de la Ciudad de México.
+
+ACUERDOS GENERALES
+
+PRIMERO. Las disposiciones de este Código de Conducta constituyen un catálogo de valores y principios aplicables a todos los servidores públicos de la Secretaría de Cultura de la Ciudad de México que participan y coadyuvan en la función del ejercicio público.
+
+SEGUNDO. El presente código deberá fortalecer el carácter de los servidores públicos, a través de una cultura de transparencia, honestidad y objetividad al desarrollo de actitudes y compromiso consigo mismos, la sociedad y con las instituciones a las que están vinculadas.
+
+TERCERO. El lenguaje empleado en el presente Código no busca generar ninguna distinción ni marcar diferencias entre hombre (sic) y mujeres, por lo que las referencias o alusiones de redacción están hechas hacia un género que representa ambos sexos.
+
+PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
+
+Principios que todo servidor público perteneciente debe cumplir en el desempeño de sus funciones en los cuales se establecen valores éticos y sociales que rigen el servicio público constituyendo el deber ser en la actuación del personal de la Secretaria de Cultura de la Ciudad de México.
+
+1. Legalidad. Las personas servidoras públicas hacen sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+2. Honradez. Las personas servidoras públicas se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+
+3. Lealtad. Las personas servidoras públicas corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+
+4. Imparcialidad. Las personas servidoras públicas dan a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+
+5. Eficiencia. Las personas servidoras públicas actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+
+6. Economía. Las personas servidoras públicas en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
+
+7. Disciplina. Las personas servidoras públicas desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
+
+8. Profesionalismo. Las personas servidoras públicas deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+
+9. Objetividad. Las personas servidoras públicas deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
+
+10. Transparencia. Las personas servidoras públicas en el ejercicio de sus funciones y conforme a las disposiciones jurídicas aplicables, privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+
+11. Rendición de Cuentas. Las personas servidoras públicas asumen plenamente ante la sociedad y autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que en términos de las disposiciones jurídicas aplicables, informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+12. Competencia por mérito. Las personas servidoras públicas deberán ser seleccionados (sic) para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos, conforme a las disposiciones jurídicas aplicables.
+
+13. Eficacia. Las personas servidoras públicas actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+
+14. Integridad. Las personas servidoras públicas actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+
+15. Equidad. Las personas servidoras públicas procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
+
+VALORES
+
+Por otra parte existen valores que van encaminados a la relación de los servidores públicos de la Secretaria de Cultura de la Ciudad de México con el personal y el público en general.
+
+1. Interés Público. Actuar en todo momento respecto a la atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares.
+
+2. Respeto. Conducirse con un trato digno, cortes, cordial y tolerante. Está obligado a reconocer y considerar en todo momento los derechos, libertades y cualidades inherentes a la condición humana
+
+3. Respeto a los Derechos Humanos. Ejercer prudente y mesuradamente las facultades, respetar las garantías y los derechos fundamentales de las personas promoviendo la igualdad de oportunidades entre todos los colaboradores directos o indirectos, omitiendo toda clase de discriminación (raza, sexo, edad, posición social, origen, creencias religiosas, discapacidad etc.).
+
+4. Igualdad y No discriminación. Cumplir con el servicio por el cual se fue contratado sin hacer distinción, restricción o preferencia basada en el origen étnico, color de piel, cultura, sexo, género, edad, discapacidad, condición social, económica, de salud, religiosa, embarazo, preferencias sexuales, estado civil, etc.
+
+5. Equidad de Género. Promover la participación equitativa de hombre (sic) y mujeres en la realización de las funciones de la Secretaria de Cultura de la Ciudad de México, procurando que se acceda con justicia e igualdad el uso de bienes, recursos y toma de decisiones.
+
+6. Entorno Cultural y Ecológico. Las personas servidoras públicas en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+
+7. Cooperación. Las personas servidoras públicas colaboran entre sí y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
+
+8. Liderazgo. Las personas servidoras públicas son guía, ejemplo y promotoras del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución Federal, la Constitución Política de la Ciudad de México y la ley les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+
+CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE CULTURA
+
+El propósito del Código de Conducta de la Secretaría de Cultura de la Ciudad de México está orientado a fortalecer los valores y principios éticos que dirigen a todos los servidores públicos, el personal deberá estar consciente de que su actuación ética profesional impactará de manera positiva en la imagen institucional, por tanto los principios de este código consisten en:
+
+Conducirse con un trato amable y digno con todo el personal tanto interno como externo de la Secretaria de Cultura de la Ciudad de México con el fin de propiciar la armonía y el dialogo respetuoso.
+
+a) No se deberá solicitar o recibir bajo ninguna modalidad y de ninguna índole favores, ayudas, bienes, obsequios, beneficios o similares para sí, su cónyuge o parientes consanguíneos, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades en que las personas servidoras públicas o las personas antes referidas formen o hayan formado parte.
+
+b) Evitar en el desempeño de las funciones encomendadas cualquier tipo de acoso y/o hostigamiento (sexual, físico, psicológico o laboral) o cualquier otra conducta que ponga en entre dicho la confianza que una persona tiene en su propia dignidad.
+
+c) Poseer los conocimientos, la capacidad, y la experiencia necesarios para llevar a un buen término las tareas encomendadas.
+
+d) Corresponde al personal de estructura ejercer el liderazgo en la procuración de un ambiente laboral armonioso y profesional basado en el respeto mutuo.
+
+e) Cumplir responsablemente con las labores cotidianas que formen parte del quehacer de puesto y así contribuir al logro de metas y objetivos dé cada área de la Secretaría de Cultura de la Ciudad de México.
+
+f) Mantener un espíritu positivo de respeto y de colaboración con los compañeros de trabajo, así como los superiores jerárquicos en donde la actitud de servicio sea una constante.
+
+g) Ajustarse a tiempo y horarios establecidos así como a los imprevistos que surjan del compromiso con la institución.
+
+h) Por ningún motivo se deberán provocar conflictos con y entre los compañeros de trabajo.
+
+i) No deberá presentarse al lugar de trabajo bajo los efectos el alcohol o cualquier otra sustancia tóxica.
+
+j) Tomar ventaja del nombramiento del puesto para solicitar servicios personales a través de colaboradores propios o ajenos.
+
+k) Proponer el nombramiento o contratación del personal que cuente con la preparación académica, experiencia y coherencia con los Principios, Valores y Directrices del Servicio Público.
+
+l) Dar a las personas servidoras públicas un trato justo, observando prácticas laborales basadas en la equidad y en la mutua cooperación dentro del marco de los Principios, Valores y Directrices del Servicio Público.
+
+m) Proporcionar a toda persona un trato igualitario y respetuoso, sin preferencias o discriminación de ningún tipo; exceptuando las personas con discapacidad y en situación de vulnerabilidad, a quienes conforme a la ley se les otorgará atención prioritaria en la realización de trámites y la prestación de servicios.
+
+n) Utilizar los recursos humanos asignados para los fines legales correspondientes, y en su caso, denunciar los actos u omisiones de éstos, que puedan ser causas de responsabilidad administrativa o penal.
+
+o) Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohíba.
+
+p) Se reconoce y respeta el derecho de las personas servidoras públicas de participar e involucrarse en actividades políticas y procesos de elección, siendo necesario preservar en favor del Interés Público, la independencia, objetividad e imparcialidad de su condición de funcionarios públicos y evitar cualquier interferencia o conflicto con sus funciones, por lo que para la participación como precandidato o candidato a un puesto de elección popular o puesto con intervención del Legislativo, deberá renunciar a su empleo, cargo o comisión en la Administración Pública, salvo los casos en que esté legalmente permitida la ausencia temporal o licencia, en cuyo caso no podrá instruir o promover el uso de recursos públicos en beneficio de su candidatura o partido político.
+
+q) Abstenerse o excusarse de intervenir en la atención, trámite, resolución de asuntos, así como en la celebración o autorización de pedidos o contratos en materia de adquisiciones, obra pública y enajenación de bienes cuando tenga conflicto de intereses.
+
+r) Es obligación de toda persona servidora pública respetar la persona, familia, domicilio, papeles o posesiones de la ciudanía bajo el principio de Legalidad; en caso de la existencia de un mandamiento, hacerlo de conocimiento por escrito debidamente fundado y motivado.
+
+s) Los bienes, insumos y herramientas de trabajo propiedad de la Secretaría de Cultura del Gobierno de la Ciudad de México y asignados al personal de la Administración Pública de la Ciudad, se deberán utilizar con disciplina y austeridad, sólo para lograr los fines legales y objetivos institucionales, de manera responsable y apropiada conforme a la Norma y con conciencia de la Integridad que al efecto la ciudadanía espera.
+
+t) Observar el debido respeto a los Derechos Humanos y evitar en todo momento y lugar comportamientos que impacten de manera negativa sobre su integridad, la imagen institucional de la Secretaría de Cultura del Gobierno de la Ciudad de México y el interés público.
+
+u) En toda opinión, documento o intervención que se realice en su calidad de persona servidora pública, se deberá mostrar competencia profesional, fundamento y motivación en beneficio del Interés Público y al mismo tiempo respeto por los Derechos Humanos, por la Igualdad y No Discriminación, por la Equidad de Género y por el Entorno Cultural y Ecológico, evitando al efecto posiciones a título personal.
+
+v) No utilizar la información confidencial o a la que tiene acceso con motivo de su empleo, cargo o comisión, como medio para obtener provecho propio.
+
+w) No procurar beneficios o ventajas, para sí o para otro, mediante el uso del cargo o comisión, invocando al Ente Público al que está adscrito o al Gobierno de la Ciudad de México.
+
+x) Proporcionar en el ámbito de sus atribuciones, información transparente y suficiente sobre el estado que guardan los asuntos que haya tramitado cualquier persona ante el Ente Público.
+
+y) No seleccionar, contratar, nombrar, designar, promover a personas cuando pueda generar ventaja o beneficio personal, familiar o de negocios, en términos de las disposiciones jurídicas aplicables.
+
+z) Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, salvo en los casos en que las leyes en materia de responsabilidades administrativas, adquisiciones y de obra pública lo permitan, previo cumplimiento de las condiciones establecidas para tal efecto.
+
+aa) Formular y ejecutar los planes, programas y presupuestos correspondientes conforme a las normas en materia de gasto público, austeridad y disciplina presupuestaria.
+
+bb) Abstenerse de utilizar, suspender, condicionar o prometer el otorgamiento de apoyos de los programas o acciones sociales con fines político-electorales.
+
+cc) Responder con prontitud, eficiencia y de manera completa las peticiones de los ciudadanos.
+
+dd) Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+
+ee) Dar a las personas servidoras públicas un trato justo, observando prácticas laborales basadas en la equidad y en la mutua cooperación dentro del marco de los Principios, Valores y Directrices del Servicio Público.
+
+ff) Utilizar los recursos humanos asignados para los fines legales correspondientes, y en su caso, denunciar los actos u omisiones de éstos, que puedan ser causas de responsabilidad administrativa o penal.
+
+gg) Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones.
+
+hh) Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo, tampoco se podrán otorgar otras percepciones, cuando las necesidades del servicio público no lo exijan o no estén previstas en las disposiciones jurídicas aplicables.
+
+ii) Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohíba.
+
+jj) Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas con quienes tenga relación personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+
+kk) Utilizar los bienes muebles o inmuebles que tengan asignados para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos.
+
+ll) Conceder el uso, aprovechamiento y explotación de los bienes inmuebles en términos de las disposiciones aplicables y con apego a los principios de honradez, transparencia e imparcialidad, evitando en todo momento condiciones desfavorables para la Ciudad de México o ventajosas para los particulares.
+
+mm) Las personas servidoras públicas en el ámbito de sus atribuciones, deberán verificar el cumplimiento de las normas y procedimientos aplicables para la selección, designación y contratación del personal que ingrese a la Administración Pública, así como para su evaluación permanente, que al efecto emitan las autoridades competentes de la Administración Pública.
+
+nn) Las personas servidoras públicas conjuntamente con la Secretaría de la Contraloría General de la Ciudad de México, en la planeación, programación, verificación, resultados, conclusión, dictaminación, así como plazos, procedimientos y forma en la implementación y aplicación del control interno, deberán ajustarse a los Lineamientos de Control Interno de la Administración Pública de la Ciudad de México, lo que contribuirá al cumplimiento de metas y fines del Ente Público, así como en la prevención y mitigación de riesgos en la gestión pública de cada Ente Público.
+
+oo) Proporcionar a toda persona un trato igualitario y respetuoso, sin preferencias o discriminación de ningún tipo; exceptuando las personas con discapacidad y en situación de vulnerabilidad, a quienes conforme a la ley se les otorgará atención prioritaria en la realización de trámites y la prestación de servicios.
+
+pp) Orientar, proporcionar información correcta y suficiente y dar atención adecuada cuando se reciban o se pretendan presentar escritos o solicitudes que corresponda su atención a una autoridad distinta.
+
+qq) Es obligación de toda persona servidora pública respetar la persona, familia, domicilio, papeles o posesiones de la ciudanía bajo el principio de Legalidad; en caso de la existencia de un mandamiento, hacerlo de conocimiento por escrito debidamente fundado y motivado.
+
+rr) Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas servidoras públicas o particulares con las que tenga relación con motivo de éste.
+
+ss) Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad.
+
+tt) Observar respeto y subordinación legítimas con respeto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones.
+
+uu) No aceptar ninguna clase de regalo, estímulo, gratificación, invitación, beneficio o similar de personas servidoras públicas o de particular, proveedor, contratista, concesionario, permisionario alguno, para preservar la lealtad institucional, el interés público, la independencia, objetividad e imparcialidad de las decisiones y demás actuaciones que le corresponden por su empleo, cargo o comisión. En su caso deberán atenderse los lineamientos que al efecto emita la Secretaría de la Contraloría General de la Ciudad de México.
+
+vv) Denunciar posibles faltas administrativas o hechos de corrupción en cualquier momento en que se descubran.
+
+ww) Informar y canalizar a la ciudadanía con la autoridad y medios competentes, cuando decida interponer alguna denuncia en contra de algún o algunas personas servidoras públicas.
+
+xx) Dirigir al personal a su cargo con las debidas reglas de trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad, así como autorizarles inasistencias sin causa justificada o indebidas licencias, permisos o comisiones.
+
+yy) Observar buena conducta, trato respetuoso, diligente, imparcial y con rectitud para con los ciudadanos.
+
+zz) No se deberá solicitar o recibir bajo ninguna modalidad y de ninguna índole favores, ayudas, bienes, obsequios, beneficios o similares para sí, su cónyuge o parientes consanguíneos, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades en que las personas servidoras públicas o las personas antes referidas formen o hayan formado parte.
+
+aaa) En la atención o resolución de las materias o asuntos de su competencia, las personas servidoras públicas deberán abstenerse de recibir o actuar por orden, instrucción, petición, favor, recomendación o similares de persona particular o servidora pública distinta a aquellas que forman su cadena de mando organizacional.
+
+## TRANSITORIOS
+
+Primero.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Aviso entrará en vigor el día (sic) su publicación en la Gaceta Oficial de la Ciudad de México.
+
+En la Ciudad de México a los tres días del mes de mayo de dos mil diecinueve.
+
+(Firma)
+
+JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA
+
+SECRETARIO DE CULTURA DE LA CIUDAD DE MÉXICO
