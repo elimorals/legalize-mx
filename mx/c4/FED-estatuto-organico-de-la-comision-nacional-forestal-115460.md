@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-115460"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-05"
-last_updated: "2018-07-06"
+last_updated: "2019-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-06-01"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MAYO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2019.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 5 de julio de 2016.
 
@@ -73,7 +75,9 @@ B. Unidades Administrativas:
 
 I. Dirección General;
 
-II. Coordinación General Jurídica;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
+
+II. Coordinación de Apoyo y Proyectos Especiales
 
 III. Coordinación General de Producción y Productividad;
 
@@ -81,17 +85,23 @@ IV. Coordinación General de Conservación y Restauración;
 
 V. Coordinación General de Administración;
 
-VI. Coordinación General de Planeación e Información;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
+
+VI. Unidad de Administración y Finanzas;
 
 VII. Coordinación General de Educación y Desarrollo Tecnológico;
 
 VIII. Coordinación General de Gerencias Estatales;
 
-IX. Unidad de Asuntos Internacionales y Fomento Financiero, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
+
+IX. Unidad de Vinculación Sectorial.
 
 X. Unidad de Comunicación Social.
 
 C. Órgano Interno de Control.
+
+> <small>[N. DE E. EL ACUERDO QUE MODIFICA AL ESTATUTO DE LA CONAFOR, PUBLICADO EN EL D.O.F DE 8 DE MAYO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE X FRACCIONES A IX.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JULIO DE 2018)</small>
 
@@ -107,45 +117,81 @@ b) Gerencias Estatales, y
 
 c) Coordinación en la Ciudad de México.
 
-II. Coordinación General Jurídica
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
 
-a) Dirección de Normatividad y Consulta, y
+II. Coordinación de Apoyo y Proyectos Especiales
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+a) Gerencia de Comunicación y Producción
 
 b) Dirección de lo Contencioso, Administrativo y Judicial.
 
 III. Coordinación General de Producción y Productividad:
 
-a) Gerencia de Fomento a la Producción Forestal Sustentable;
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-b) Gerencia de Desarrollo de Plantaciones Forestales Comerciales, y
+a) Gerencia de Normatividad y Consulta, y
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+b) Gerencia de lo Contencioso, Administrativo y Judicial.
 
 c) Gerencia de Servicios Ambientales del Bosque.
 
 IV. Coordinación General de Conservación y Restauración:
 
-a) Gerencia de Restauración Forestal;
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-b) Gerencia de Sanidad, y
+a) Gerencia de Manejo Forestal Comunitario;
 
-c) Gerencia del manejo del fuego.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+b) Gerencia de Plantaciones Forestales Comerciales;
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+c) Gerencia de Abasto, Transformación y Mercados;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+
+d) Unidad de Educación y Desarrollo Tecnológico y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+
+e) Gerencia de Desarrollo y Transferencia de Tecnología
 
 V. Coordinación General de Administración:
 
-a) Gerencia de Recursos Financieros;
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+a) Gerencia de Reforestación y Restauración de Cuencas Hidrográficas;
 
 b) Gerencia de Recursos Humanos, y
 
-c) Gerencia de Recursos Materiales y Obras.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-VI. Coordinación General de Planeación e Información:
+c) Gerencia de Manejo del Fuego y
 
-a) Gerencia de Planeación y Evaluación;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+
+d) Gerencia de Servicios Ambientales del Bosque y Conservación de la Biodiversidad
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
+
+VI. Unidad de Administración y Finanzas:
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+a) Gerencia de Programación y Presupuesto;
 
 b) Gerencia de Informática;
 
 c) Gerencia de Sistema Nacional de Monitoreo Forestal, y
 
-d) Gerencia de Información Forestal.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+d) Gerencia de Tecnologías de la Información y Comunicación
 
 VII. Coordinación General de Educación y Desarrollo Tecnológico:
 
@@ -153,27 +199,43 @@ a) Gerencia de Desarrollo y Transferencia de Tecnología, y
 
 b) Gerencia de Educación Capacitación y Cultura Forestal.
 
-VIII. Coordinación General de Gerencias Estatales.
+c) ... (sic)
 
-a) Gerencia de Control Operativo, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
 
-b) Gerencia Técnica y de Participación Social.
+d) Unidad de Operación Regional.
 
-IX. Unidad de Asuntos Internacionales y Fomento Financiero:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
 
-a) Dirección de Cooperación Internacional y Acuerdos Multilaterales, y
+VIII. Unidad de Asuntos Internacionales y Fomento Financiero:
 
-b) Dirección de Financiamiento.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-X. Unidad de Comunicación Social:
+a) Gerencia de Cooperación Internacional;
 
-a) Dirección de Comunicación y Producción.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
-El Director General de la Comisión Nacional Forestal podrá delegar sus facultades en los servidores públicos adscritos a la Coordinación General Jurídica, así como en los servidores públicos adscritos a las áreas jurídicas de las Gerencias Estatales de la CONAFOR.
+b) Gerencia de Financiamiento y
 
-> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
 
-Los titulares de las unidades administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos adscritos a su unidad.
+c) Gerencia de Bosques y Cambio Climático
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
+
+IX. Unidad de Vinculación Sectorial
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+Las personas titulares de las unidades administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos adscritos a su unidad.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+La persona titular de la Coordinación en la Ciudad de México tendrá las facultades de representación de la Dirección General ante entidades Públicas o Privadas, nacionales o internacionales de cualquier nivel de gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+
+La persona titular de la Coordinación General Jurídica será nombrada y en su caso, removida, por la persona titular de la Consejería Jurídica del Ejecutivo Federal, en concordancia con lo establecido en el artículo 43, fracción VII de la Ley Orgánica de la Administración Pública Federal.
 
 ###### ARTÍCULO 6.
 
@@ -187,11 +249,11 @@ La CONAFOR contará con las unidades subalternas que se requieran y le sean auto
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-La Dirección General estará a cargo de un Director General, a quien le corresponde originalmente el trámite y resolución de los asuntos de la competencia de dicho órgano y ejercerá, además de las facultades que se señalan en la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Desarrollo Forestal Sustentable, su Reglamento y demás disposiciones legales aplicables, las que se señalan para las diversas Unidades Administrativas que integran a la Comisión Nacional Forestal, así como las siguientes:
+La Dirección General estará a cargo de un Titular de la Dirección General, a quien le corresponde originalmente el trámite y resolución de los asuntos de la competencia de dicho órgano y ejercerá, además de las facultades que se señalan en la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Desarrollo Forestal Sustentable, su Reglamento y demás disposiciones legales aplicables, las que se señalan para las diversas Unidades Administrativas que integran a la Comisión Nacional Forestal, así como las siguientes:
 
 I. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de carácter administrativo;
 
@@ -199,15 +261,15 @@ I. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de car�
 
 II. Previo el Visto Bueno de la Junta de Gobierno, establecer las Gerencias Estatales para cumplir los fines de la Comisión Nacional Forestal, determinar su estructura administrativa y mediante Acuerdo que se publicará en el Diario Oficial de la Federación, determinar su ámbito territorial de Competencia.
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
 
-III. El Director General de la Comisión Nacional Forestal, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente, podrá delegar mediante Acuerdo que se publicará en el Diario Oficial de la Federación, las facultades que de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a éste, en los servidores públicos de las unidades administrativas o subalternas de este organismo. Lo anterior, sin perjuicio de ejercerlas directamente.
+III. La persona titular de la Dirección General de la Comisión Nacional Forestal, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente, podrá delegar mediante Acuerdo que se publicará en el Diario Oficial de la Federación, las facultades que de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a éste, en los servidores públicos de las unidades administrativas o subalternas de este organismo. Lo anterior, sin perjuicio de ejercerlas directamente.
 
-Los titulares de las unidades administrativas y de las subalternas de CONAFOR podrán seguir ejerciendo las facultades que les correspondan conforme a este Estatuto, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior.
+Las personas titulares de las unidades administrativas y de las subalternas de CONAFOR podrán seguir ejerciendo las facultades que les correspondan conforme a este Estatuto, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior.
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
 
-IV. El Director General podrá otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
+IV. La persona titular de la Dirección General podrá otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por la persona titular de la Dirección General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 V. Suscribir las condiciones generales de trabajo de la CONAFOR;
 
@@ -223,15 +285,19 @@ IX. Resolver lo conducente en caso de duda sobre la interpretación del presente
 
 X. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y de obra pública, así como de los servicios relacionados con las mismas.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-La CONAFOR para el ejercicio de las atribuciones que le han sido asignadas, contará con Gerencias Estatales con la estructura administrativa que determine el Director General.
+La CONAFOR para el ejercicio de las atribuciones que le han sido asignadas, contará con Gerencias Estatales con la estructura administrativa que determine la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 10.
 
-A cargo de cada Gerencia Estatal habrá un Gerente Estatal, quien para el debido cumplimiento de sus funciones contará con el personal requerido conforme a las necesidades propias del servicio, previstas y autorizadas en el presupuesto, asimismo, contará dentro de la entidad federativa a la que se encuentre adscrito con las siguientes atribuciones:
+A cargo de cada Gerencia Estatal habrá un titular de la Gerencia Estatal, quien para el debido cumplimiento de sus funciones contará con el personal requerido conforme a las necesidades propias del servicio, previstas y autorizadas en el presupuesto, asimismo, contará dentro de la entidad federativa a la que se encuentre adscrito con las siguientes atribuciones:
 
-I. Coordinar la ejecución, supervisión, control y seguimiento de los programas operativos de la CONAFOR, establecidos en las Reglas o Lineamientos de Operación de cada Programa y bajo los esquemas y procedimientos que se establezcan por las Coordinaciones Generales de la CONAFOR;
+I. Coordinar la ejecución, supervisión, control y seguimiento de los programas operativos de la CONAFOR, establecidos en las Reglas, Mecanismos o Lineamientos de Operación de cada Programa y bajo los esquemas y procedimientos que se establezcan por las Coordinaciones Generales de la CONAFOR;
 
 II. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación;
 
@@ -239,73 +305,71 @@ III. Autorizar las erogaciones, vigilar el ejercicio del presupuesto asignado a 
 
 IV. Elaborar diagnósticos relativos a la problemática estatal en materia forestal y planes que den perspectiva al desarrollo del sector;
 
-V. Contribuir en las acciones que la CONAFOR acuerde con la federación, el gobierno estatal y los gobiernos municipales para el desarrollo forestal integral del estado;
+V. Contribuir en las acciones que la CONAFOR acuerde con la Federación, el gobierno estatal y los gobiernos municipales para el desarrollo forestal integral del estado;
 
-VI. Proponer y gestionar a través del Coordinador General de Gerencias Estatales y el titular de la unidad administrativa correspondiente, la coordinación y concertación de los programas y proyectos de la CONAFOR;
+VI. Proponer y gestionar a través de la Coordinación General de Planeación e Información y el titular de la unidad administrativa correspondiente, la coordinación y concertación de los programas y proyectos de la CONAFOR;
 
 VII. Proponer, elaborar, controlar y resguardar a través de su área jurídica, así como suscribir, previa opinión legal favorable de la Coordinación General Jurídica, los acuerdos y convenios que deba celebrarse con el gobierno estatal y los gobiernos municipales, así como con los sectores privado y social. Igualmente, participar en los mecanismos de coordinación y concertación que se establezcan;
 
-VIII. Solicitar la opinión de la Coordinación General de Administración a través de la Gerencia de Recursos Materiales y Obras, y en su caso, elaborar, resguardar y suscribir los contratos de comodato necesarios respecto de los bienes muebles e inmuebles dentro de su ámbito territorial;
+VIII. Solicitar la opinión de la Unidad de Administración y Finanzas a través de la Gerencia de Recursos Materiales, y en su caso, elaborar, resguardar y suscribir los contratos de comodato necesarios respecto de los bienes muebles e inmuebles dentro de su ámbito territorial;
 
-IX. Informar a la Coordinación General de Gerencias Estatales y dar seguimiento a las acciones de desconcentración y descentralización del sector forestal en el ámbito estatal y dentro de las facultades establecidas en la Ley de la materia;
+IX. Informar a la Coordinación General de Planeación e Información y dar seguimiento a las acciones de desconcentración y descentralización del sector forestal en el ámbito estatal y dentro de las facultades establecidas en la Ley de la materia;
 
 X. Proporcionar la información y datos técnicos que les sean solicitados por las autoridades superiores, dependencias y entidades de la Administración Pública Federal, previo el visto bueno de la Coordinación General de Planeación e Información;
 
-XI. Contratar las obras, estudios y servicios relacionados con éstas, que figuren en el presupuesto de la gerencia, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución;
+XI. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la gerencia;
 
-XII. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la gerencia;
+XII. Promover los mecanismos de coordinación y concertación con las entidades federativas y municipales, organismos no gubernamentales y profesionales de su estado en términos de los criterios establecidos por la Coordinación General de Planeación e Información;
 
-XIII. Promover los mecanismos de coordinación y concertación con las entidades federativas y municipales, organismos no gubernamentales y profesionales de su estado en términos de los criterios establecidos por la Coordinación General de Gerencias Estatales;
+XIII. Recibir las solicitudes e integrar los expedientes relativos a los servicios competencia de la CONAFOR, así como entregar las resoluciones emanadas de las unidades administrativas correspondientes, de conformidad con los lineamientos de carácter técnico y administrativo aplicables;
 
-XIV. Recibir las solicitudes e integrar los expedientes relativos a los servicios competencia de la CONAFOR, así como entregar las resoluciones emanadas de las unidades administrativas correspondientes, de conformidad con los lineamientos de carácter técnico y administrativo aplicables;
+XIV. Participar en la operación y supervisión del muestreo de campo y monitoreo de ecosistemas forestales;
 
-XV. Participar en la operación y supervisión del muestreo de campo y monitoreo de ecosistemas forestales;
+XV. Operar los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR, de acuerdo a las instrucciones que emita para tal efecto la Coordinación General de Conservación y Restauración;
 
-XVI. Operar los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR, de acuerdo a las instrucciones que emita para tal efecto la Coordinación General de Conservación y Restauración;
+XVI. Auxiliar a las unidades administrativas, siguiendo los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la CONAFOR;
 
-XVII. Auxiliar a las unidades administrativas, siguiendo los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la CONAFOR;
+XVII. Realizar la certificación y el cotejo de los documentos que obren en original, en sus archivos;
 
-XVIII. Realizar la certificación y el cotejo de los documentos que obren en original, en sus archivos;
+XVIII. Elaborar y entregar de manera oportuna, informes periódicos de avances y resultados de la aplicación de los programas anuales de trabajo en su respectiva entidad federativa, a las Unidades Administrativas encargadas del seguimiento de los mismos, y
 
-XIX. Elaborar y entregar de manera oportuna, informes periódicos de avances y resultados de la aplicación de los programas operativos en su respectiva entidad federativa, a las Gerencias de Programa encargadas del seguimiento de los mismos, y
+XIX. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y de obras públicas y servicios relacionados con las mismas. Asimismo, elaborar, controlar y resguardar los contratos y convenios que deriven de esos procedimientos y suscribirlos en representación de la CONAFOR, en los términos que determinen las Políticas, Bases y Lineamientos en Contrataciones Públicas y de Obras Públicas y servicios relacionados con las mismas.
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2018)</small>
+XX. Solicitar a la Coordinación General Jurídica, la rescisión de los contratos y convenios, cuando a su juicio se haya actualizado alguna causal de rescisión.
 
-XX. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y de obras públicas y servicios relacionados con las mismas. Asimismo, elaborar, controlar y resguardar los contratos y convenios que deriven de esos procedimientos y suscribirlos en representación de la CONAFOR, en los términos que determinen las Políticas, Bases y Lineamientos en Contrataciones Públicas y de Obras Públicas y servicios relacionados con las mismas.
+XXI. Coordinar los procesos de planeación, operación y evaluación de las Promotorías de Desarrollo Forestal en el ámbito territorial que les corresponda
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2018)</small>
+XXII. Dar trámite y, en su caso, resolver los trámites a que hace referencia los artículos 70, 71, 83, 92, 113, 114, 132 y Tercero de los Transitorios, de la Ley General de Desarrollo Forestal Sustentable.
 
-XXI. Solicitar a la Coordinación General Jurídica, la rescisión de los contratos y convenios, cuando a su juicio se haya actualizado alguna causal de rescisión.
+XXII (SIC). Los demás que le confiere por escrito la Dirección General.
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
-
-XXII. Los demás que le confiere por escrito el Director General.
-
-Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con un Jefe de Departamento Jurídico el que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 12 fracciones I, III, IV, V, VII, X, XIV, XVII, XIX, XX, XXI, XXII, XXIII y XXV del presente estatuto, así como efectuar todo tipo de notificaciones que requieran los asuntos y procedimientos legales que lleve a cabo la Coordinación General Jurídica, siguiendo los lineamientos que ésta determine.
+Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con personal para brindarles apoyo jurídico, el cual ejercerá las atribuciones que le sean delegadas por la Coordinación General Jurídica, siguiendo los lineamientos que ésta determine.
 
 #### SECCIÓN II. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-Los titulares de las unidades administrativas tendrán las facultades siguientes:
+Las personas titulares de las unidades administrativas tendrán las facultades siguientes:
 
 I. Fomentar y favorecer el desarrollo forestal sustentable y de los recursos asociados para que incidan en la calidad de vida de las comunidades rurales;
 
-II. Acordar con el Director General, el despacho de los asuntos que les competen;
+II. Acordar con la persona titular de la Dirección General, el despacho de los asuntos que les competen;
 
-III. Instrumentar y dictaminar la transferencia de funciones y de recursos de la CONAFOR hacia los gobiernos de las entidades federativas y municipales, de acuerdo a las facultades establecidas en la Ley de la materia;
+III. Instrumentar y dictaminar la transferencia de funciones y de recursos de la CONAFOR hacia los gobiernos de las entidades federativas y municipales, de acuerdo a las facultades establecidas en la ley de la materia;
 
-IV. Planear, organizar, dirigir y evaluar el funcionamiento de las unidades subalternas que tengan adscritas, informando al Director General de las actividades que éstas realicen;
+IV. Planear, organizar, dirigir y evaluar el funcionamiento de las unidades subalternas que tengan adscritas, informando a la Dirección General de las actividades que éstas realicen;
 
-V. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa y de las unidades subalternas de su adscripción y remitirlo a la Coordinación General de Administración para su análisis y, una vez aprobado, autorizar su aplicación y ejercerlo conforme a la normatividad;
+V. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa y de las unidades subalternas de su adscripción y remitirlo a la Unidad de Administración y Finanzas para su análisis y, una vez aprobado, autorizar su aplicación y ejercerlo conforme a la normatividad;
 
 VI. Coordinarse con las demás unidades administrativas para el mejor desempeño de sus atribuciones;
 
-VII. Someter a la aprobación del Director General, los proyectos y estudios que se elaboren en su ámbito de competencia, así como las propuestas de modernización, desconcentración y simplificación administrativa de la unidad administrativa y de las unidades subalternas de su adscripción;
+VII. Someter a la aprobación de la Dirección General, los proyectos y estudios que se elaboren en su ámbito de competencia, así como las propuestas de modernización, desconcentración y simplificación administrativa de la unidad administrativa y de las unidades subalternas de su adscripción;
 
 VIII. Vigilar que se cumpla con las disposiciones legales concernientes a los asuntos de su competencia;
 
-IX. Someter a la consideración del Director General los convenios, contratos, acuerdos, bases de colaboración y anexos de ejecución a celebrarse en el desempeño de sus funciones, en las materias de su competencia y suscribirlos previa validación de la Coordinación General Jurídica;
+IX. Someter a la consideración la Dirección General los convenios, contratos, acuerdos, bases de colaboración y anexos de ejecución a celebrarse en el desempeño de sus funciones, en las materias de su competencia y suscribirlos previa validación de la Coordinación General Jurídica;
 
 X. Realizar la certificación y el cotejo de los documentos que obren en original, en los archivos de la unidad administrativa a su cargo;
 
@@ -313,17 +377,49 @@ XI. Fungir como representantes de la CONAFOR a nivel nacional, en el ámbito de 
 
 XII. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o les correspondan por suplencia, y
 
-XIII. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+XIII. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya la Dirección General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
-El titular de la Coordinación General Jurídica tendrá las atribuciones siguientes:
+La persona titular de la Coordinación de Apoyo y Proyectos Especiales tendrá las atribuciones siguientes:
+
+I. Proponer estrategias, métodos y procedimientos en materia de proyectos especiales y otros que determine la Dirección General, para contribuir en la operación y funcionamiento de las áreas sustantivas de la institución y apoyar en la coordinación y seguimiento de temas transversales, para contribuir al cumplimiento de las metas y objetivos de la CONAFOR;
+
+II. Asesorar a la Dirección General de la CONAFOR en los asuntos y temas que éste considere necesarios, para coadyuvar en el cumplimiento de las metas y objetivos institucionales;
+
+III. Asesorar en aspectos técnicos forestales a la Coordinación General Jurídica y demás unidades administrativas;
+
+IV. Participar en eventos nacionales e internacionales en representación de la institución y dar seguimiento a los asuntos, programas y eventos que determine el Titular de la Dirección General, para contribuir al logro de los objetivos institucionales;
+
+V. Colaborar en grupos de trabajo internos para la evaluación y seguimiento de los programas institucionales;
+
+VI. Coordinar los informes sobre temas instruidos por la Dirección General y apoyar en la elaboración de publicaciones especiales sobre asuntos de interés de la CONAFOR, para contribuir en el seguimiento y difusión de los avances y resultados de los programas institucionales;
+
+VII. Participar en las acciones dirigidas a mejorar la coordinación de las áreas sustantivas de la Comisión, para fortalecer acciones conjuntas que contribuyan en el cumplimiento de acuerdos y compromisos establecidos;
+
+VIII. Apoyar en la identificación y seguimiento de las obligaciones establecidas en la Ley General de Desarrollo Forestal Sustentable, su Reglamento y Normas Oficiales de las áreas sustantivas de la CONAFOR; y sugerir medidas para su atención y cumplimiento desde el punto de vista técnico;
+
+IX. Contribuir en la elaboración de diagnósticos de los programas prioritarios de la CONAFOR, para identificar sus fortalezas y debilidades y coadyuvar en la identificación de estrategias y mecanismos de financiamiento nacional e internacional para el sector forestal, para mejorar el desempeño institucional y promover nuevas alternativas de financiamiento;
+
+X. Diseñar, proponer, desarrollar y evaluar las estrategias, políticas y programas de información y comunicación de la CONAFOR;
+
+XI. Difundir periódicamente los programas y actividades en general que realice la CONAFOR a los medios de comunicación, a las instituciones involucradas con el sector forestal y a la sociedad en general;
+
+XII. Colaborar con la Dirección General, así como con las unidades administrativas en la divulgación y amplia difusión de las actividades que realicen en el desempeño de sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 13.
+
+La persona titular de la Coordinación General Jurídica tendrá las atribuciones siguientes:
 
 I. Dirigir y coordinar los asuntos jurídicos de la CONAFOR;
 
 II. Proponer las normas, establecer, desarrollar y evaluar las políticas y lineamientos de orden jurídico;
 
-III. Asesorar, coordinar y establecer los mecanismos de asistencia y apoyo que se otorguen en materia jurídica al Director General y a las unidades administrativas, actuando como órgano de consulta;
+III. Asesorar, coordinar y establecer los mecanismos de asistencia y apoyo que se otorguen en materia jurídica a la Dirección General y a las unidades administrativas, actuando como órgano de consulta;
 
 IV. Representar a la CONAFOR en sus asuntos jurídicos ante las dependencias y entidades de la Administración Pública Federal, estatal y municipal, así como de la Ciudad de México, y ante los consejos, comisiones, comités y demás grupos de trabajo;
 
@@ -345,13 +441,11 @@ XII. Formular opiniones y recomendaciones a los proyectos de normas oficiales me
 
 XIII. Compilar y promover la difusión de las disposiciones legales relacionadas con las actividades de la CONAFOR;
 
-XIV. Revisar y determinar la procedencia jurídica de los convenios, contratos y demás actos jurídicos que vaya a suscribir el Director General de la CONAFOR, así como llevar el control y registro de los mismos;
+XIV. Revisar y determinar la procedencia jurídica de los convenios, contratos y demás actos jurídicos que vaya a suscribir la persona titular de la Dirección General de la CONAFOR, así como llevar el control y registro de los mismos;
 
 XV. Tramitar la publicación en el Diario Oficial de la Federación de los acuerdos que así lo requieran y, en su caso, gestionar su inscripción en los registros públicos correspondientes;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
-
-XVI. Ejecutar a petición de la Coordinación General de Administración o de las unidades subalternas, los procedimientos de rescisión, según corresponda, de los contratos y convenios, tramitarlo y emitir la resolución correspondiente; o en su caso, emitir el dictamen u opinión por escrito, en aquellos supuestos en los que lo solicitado no sea posible, conveniente o viable ejecutar, expresando los motivos y fundamentos respectivos.
+XVI. Ejecutar a petición de la Unidad de Administración y Finanzas o de las unidades subalternas, los procedimientos de rescisión, según corresponda, de los contratos y convenios, tramitarlo y emitir la resolución correspondiente; o en su caso, emitir el dictamen u opinión por escrito, en aquellos supuestos en los que lo solicitado no sea posible, conveniente o viable ejecutar, expresando los motivos y fundamentos respectivos;
 
 XVII. Asesorar en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles o inmuebles, arrendamientos y contratación de servicios que realice la CONAFOR;
 
@@ -371,113 +465,137 @@ XXIV. Realizar todo tipo de actos jurídicos tendientes a la defensa de los inte
 
 XXV. Asesorar jurídicamente en los recursos administrativos que se interpongan en contra de los actos de la CONAFOR, en los términos que dispone la Ley Federal de Procedimiento Administrativo, y
 
-XXVI. Coordinar el cumplimiento de la normatividad en materia de Transparencia, Acceso a la Información y Datos Personales.
+XXVI. Coordinar el cumplimiento de la normatividad en materia de Transparencia, Acceso a la Información y Datos Personales y fungir como responsable de la Unidad de Transparencia de la CONAFOR.
 
-###### ARTÍCULO 13.
-
-El titular de la Coordinación General de Producción y Productividad tendrá las atribuciones siguientes:
-
-I. Promover, impulsar y facilitar la integración de las cadenas productivas en la actividad forestal, mediante la operación de los programas correspondientes;
-
-II. Operar los programas institucionales en materia de producción forestal que establezcan los mecanismos de apoyo para impulsar el desarrollo forestal sustentable, tales como el de plantaciones forestales comerciales, desarrollo forestal, y los demás que se establezcan, buscando el mejoramiento constante de sus respectivos esquemas de asignación y evaluación, preferentemente con base en las necesidades y prioridades de las Unidades de Manejo Forestal y de los propietarios o poseedores de terrenos forestales.
-
-III. Ejecutar y participar en coordinación con las dependencias de la Administración Pública Federal en la formulación de la política de manejo y aprovechamiento sustentable de la vida silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como del aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
-
-IV. Proponer la celebración de acuerdos y colaborar en su ejecución con los gobiernos de las entidades federativas y municipales que soliciten la descentralización de la administración y promoción de acciones y funciones de la CONAFOR en materia de manejo y aprovechamiento sustentable de la vida silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como del aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
-
-V. Realizar por sí o por medio de terceros debidamente autorizados y acreditados las auditorías técnicas preventivas;
-
-VI. Promover y participar en organismos interinstitucionales, comités o consejos nacionales e internacionales en la definición y asignación de estímulos, apoyos directos e incentivos económicos destinados al establecimiento y mantenimiento de plantaciones forestales comerciales y del desarrollo forestal sustentable;
-
-VII. Asesorar técnicamente a los gobiernos de las entidades federativas y municipales que lo soliciten, sobre la adopción de políticas y acciones para el aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
-
-VIII. Impulsar y promover la certificación del buen manejo forestal, así como, el establecimiento y actualización de los criterios e indicadores del manejo forestal sustentable;
-
-IX. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Conservación y Restauración en las propuestas y evaluación de los sistemas y procedimientos relativos a la prestación de los servicios técnicos forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
-
-X. Impulsar el aprovechamiento integral y sustentable de la biomasa proveniente del aprovechamiento y transformación de las materias primas forestales, incluyendo la generación de energía;
-
-XI. Promover y fomentar, coadyuvando con la Coordinación General de Educación y Desarrollo Tecnológico, la asistencia técnica y capacitación forestal para fortalecer la capacidad y calidad de la prestación de servicios técnicos forestales, así como la capacidad técnica de los ejidos y comunidades para mejorar los conocimientos, la cultura forestal, el manejo y conservación de los recursos forestales y de sus recursos asociados;
-
-XII. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Conservación y Restauración en la creación, promoción y fomento de un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamientos como a prestadores de servicios técnicos forestales, que cumplan los compromisos adquiridos en los programas de manejo y en las auditorías técnicas preventivas;
-
-XIII. Promover y fomentar proyectos en materia de servicios ambientales, que generan los ecosistemas forestales, para alcanzar en el corto plazo el mercado de estos servicios;
-
-XIV. Promover y participar en el proyecto de profesionalización de los servicios técnicos forestales para alcanzar el manejo forestal sustentable;
-
-XV. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Conservación y Restauración en la creación, operación y evaluación del programa de profesionalización de los servicios técnicos forestales para impulsar el manejo forestal sustentable;
-
-XVI. Participar con otras unidades administrativas y dependencias de la Administración Pública Federal en la federalización y municipalización en materia forestal;
-
-XVII. Ejecutar y promover los programas que mejoren la productividad y fomenten el aprovechamiento sustentable en los ecosistemas forestales;
-
-XVIII. Participar en la instrumentación y ejecución de los planes estratégicos forestales y los estudios de manejo forestal a nivel regional;
-
-XIX. Formular e instrumentar conjuntamente con la Coordinación General de Conservación y Restauración y la Coordinación General de Planeación e Información, el seguimiento, control y evaluación externa de cada uno de los programas operativos;
-
-XX. Fomentar la exportación de productos forestales procesados y semiprocesados;
-
-XXI. Servir de contraparte operativa cuando exista un componente de manejo forestal sustentable en los acuerdos internacionales;
-
-XXII. Formular propuestas de normas oficiales mexicanas o normas mexicanas en materia de: programas de manejo, servicios técnicos forestales, productos no maderables y cualquier otro que corresponda conforme a las funciones de la CONAFOR, así como participar en los Comités Consultivos o Grupos de Trabajo de Normalización correspondientes;
-
-XXIII. Formular y proponer en coordinación con el sector productivo del país, programas que promuevan una cultura de productividad sustentable con base en el desarrollo de proyectos que impulsen el desarrollo de los ecosistemas forestales en las diversas regiones del país;
-
-XXIV. Promover en coordinación con las instancias correspondientes, acciones que despierten el interés por desarrollar nuevas actividades productivas de los grupos sociales de menores ingresos que habitan en las unidades de manejo forestal en regiones y microrregiones forestales, para generar mejores ingresos y calidad de vida;
-
-XXV. Promover acuerdos o convenios con la industria, comercializadores y consumidores, para privilegiar el uso y comercialización de productos forestales nacionales, promoviendo además, un mercado responsable que incentive el consumo de productos provenientes de áreas con aprovechamiento forestal certificado;
-
-XXVI. Elaborar programas estratégicos forestales, que respondan a segmentos específicos de productos del sector, de alto flujo comercial y valor agregado;
-
-XXVII. Coadyuvar en coordinación con las diversas entidades y dependencias de la administración pública federal, así como con los gobiernos de las entidades federativas y municipales, cámaras, asociaciones, instituciones privadas o mixtas y la Unidad de Asuntos Internacionales y Fomento Financiero en la defensa de los intereses del sector forestal en materia de comercio internacional;
-
-XXVIII. Coadyuvar en el ámbito de su competencia en actividades de manejo forestal sustentable de las áreas naturales protegidas, y
-
-XXIX. Con la colaboración de la Coordinación General de Conservación y Restauración, la Coordinación General de Planeación e Información y de los Gobiernos Estatales, elaborar y actualizar la delimitación de las Unidades de Manejo Forestal Regional y promover la elaboración y actualización de los Estudios Regionales Forestales.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-El titular de la Coordinación General de Conservación y Restauración tendrá las atribuciones siguientes:
+La persona titular de la Coordinación General de Producción y Productividad tendrá las atribuciones siguientes:
+
+I. Operar los programas institucionales en materia de organización, producción, productividad y competitividad forestal para impulsar el desarrollo forestal sustentable del país;
+
+II. Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas;
+
+III. Promover el desarrollo forestal sustentable, a través del manejo forestal comunitario, que contribuya a mejorar el ingreso y la calidad de vida de las personas que participan en la actividad forestal;
+
+IV. Promover el manejo integrado del paisaje, considerando los componentes de protección, conservación, restauración y producción;
+
+V. Ejecutar y promover los programas que mejoren la productividad y fomenten el aprovechamiento sustentable en los ecosistemas forestales;
+
+VI. Diseñar, promover, implementar y evaluar estrategias para la formación y fortalecimiento de redes de valor, a fin de contribuir a la integración productiva, el comercio justo y el cooperativismo entre los principales actores del sector;
+
+VII. Coordinar, con la participación que corresponda a la Coordinación General de Planeación e Información, la atención y en su caso, resolución de los trámites a que hace referencia los artículos 70, 71, 83, 92, 132 y Tercero de los Transitorios de la Ley General de Desarrollo Forestal Sustentable;
+
+VIII. Proponer la celebración de acuerdos y colaborar en su ejecución con los gobiernos de las entidades federativas y municipales que soliciten la descentralización de la administración y promoción de acciones y funciones de la CONAFOR en materia de manejo y aprovechamiento sustentable de los recursos forestales y sus recursos asociados en zonas forestales o de aptitud preferentemente forestal;
+
+IX. Asesorar técnicamente a los gobiernos de las entidades federativas y municipales que lo soliciten, sobre la adopción de políticas y acciones para el aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
+
+X. Participar con otras unidades administrativas y dependencias de la Administración Pública Federal en la federalización y municipalización en materia forestal;
+
+XI. Participar en la planeación, ejecución y evaluación de los planes estratégicos forestales y los estudios de manejo forestal a nivel regional;
+
+XII. Formular e instrumentar conjuntamente con la Coordinación General de Conservación y Restauración y la Coordinación General de Planeación e Información, el seguimiento, control y evaluación externa de cada uno de los programas operativos;
+
+XIII. Formular propuestas de normas oficiales mexicanas o normas mexicanas en materia forestal conforme a la misión y funciones de la CONAFOR, así como participar en los Comités Consultivos o Grupos de Trabajo de Normalización correspondientes;
+
+XIV. Formular y proponer en coordinación con el sector productivo del país, acciones que promuevan una cultura de productividad sustentable a través de proyectos que impulsen el desarrollo de los ecosistemas forestales;
+
+XV. Promover actividades de diversificación productiva forestal para los grupos sociales de menores ingresos a fin de mejorar su calidad de vida y detonar el desarrollo económico;
+
+XVI. Coadyuvar en coordinación con las diversas dependencias de los sectores público, privado y social en la defensa de los intereses del sector forestal nacional en materia de comercio internacional;
+
+XVII. Coadyuvar con las Coordinaciones Generales de Conservación y Restauración, Planeación e Información de la CONAFOR y los Gobiernos Estatales en la delimitación de las Unidades de Manejo Forestal Regional;
+
+XVIII. Servir de contraparte operativa cuando exista un componente de manejo forestal sustentable en los acuerdos internacionales;
+
+XIX. Definir, coordinar y dar seguimiento a las políticas y acciones de investigación, desarrollo, transferencia de tecnología y divulgación del conocimiento científico para generar sinergias que potencialicen las acciones y los recursos que contribuyan a la solución de problemas del sector forestal y permitan orientar el desarrollo humano y forestal sustentable y apoyar a elevar la competitividad del sector forestal de México;
+
+XX. Participar con la Coordinación General de Conservación y Restauración en las propuestas y evaluación de los sistemas y procedimientos relativos a la prestación y mejora de los servicios forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
+
+XXI. Promover y fomentar la calidad de la asistencia técnica en la prestación de los servicios forestales;
+
+XXII. Participar conjuntamente con la Coordinación General de Conservación y Restauración en el diseño, operación y evaluación de un sistema de acreditación para la prestación de los servicios forestales;
+
+XXIII. Participar conjuntamente con la Coordinación General de Conservación y Restauración en la creación y operación de un sistema de estímulos que reconozca actores y acciones destacadas en el ámbito forestal nacional;
+
+XXIV. Diseñar, coordinar, gestionar y desarrollar acciones de educación, capacitación y cultura forestal dirigida a generar aptitudes, habilidades y capacidades de los diferentes actores del sector forestal para lograr un desempeño eficiente y con calidad del desarrollo forestal sustentable, así como promover eventos y espacios orientados a la participación de la sociedad en la divulgación de la cultura forestal;
+
+XXV. Colaborar con las entidades responsables en el manejo forestal sustentable de las áreas naturales protegidas;
+
+XXVI. Fomentar acciones para la rehabilitación, mantenimiento y ampliación de la infraestructura caminera forestal en coordinaciones con otras dependencias;
+
+XXVII. Ejecutar y participar en coordinación con las dependencias de la Administración Pública Federal en la formulación de la política en materia de manejo y aprovechamiento sustentable de los recursos forestales y sus recursos asociados en zonas forestales o preferentemente forestales, fomentando la silvicultura y la gobernanza comunitarias;
+
+XXVIII. Promover y participar en organismos interinstitucionales, comités o consejos nacionales e internacionales en la definición y asignación de estímulos, apoyos directos e incentivos económicos destinados al establecimiento y mantenimiento de plantaciones forestales comerciales y del desarrollo forestal sustentable;
+
+XXIX. Promover el desarrollo de plantaciones forestales comerciales a fin de disminuir la presión excesiva sobre los bosques naturales, incrementar la oferta de productos forestales, disminuir el déficit de la balanza comercial y elevar la producción, productividad y competitividad forestal;
+
+XXX. Realizar por sí o por medio de terceros debidamente autorizados y acreditados las auditorías técnicas preventivas;
+
+XXXI. Impulsar y promover la certificación del buen manejo forestal y de la cadena de custodia, así como el establecimiento y actualización de sus criterios e indicadores;
+
+XXXII. Coadyuvar en acciones para facilitar la trazabilidad de materias primas y productos forestales;
+
+XXXIII. Desarrollar acciones para impulsar e incrementar la competitividad del sector forestal mediante la mejora continua de los procesos de abastecimiento y transformación de los productos forestales, así como promover esquemas innovadores para su comercialización;
+
+XXXIV. Impulsar el aprovechamiento integral y sustentable de la biomasa proveniente del aprovechamiento y transformación de las materias primas forestales, incluyendo la generación de energía;
+
+XXXV. Elaborar programas estratégicos forestales, que respondan a segmentos específicos de productos del sector, de alto flujo comercial y valor agregado;
+
+XXXVI. Promover acuerdos o convenios con los sectores público y privado para privilegiar el uso y comercialización de productos forestales nacionales, promoviendo además, un mercado responsable que incentive el consumo de productos certificados;
+
+XXXVII. Promover el desarrollo de proveedores como un mecanismo para el fortalecimiento de la cadena productiva forestal.
+
+XXXVIII. Fomentar la exportación de productos forestales
+
+XXXIX. Promover estrategias para la inclusión financiera del sector forestal a través de la colaboración y coordinación con diversas instituciones financieras nacionales e internacionales, así como desarrollar instrumentos que faciliten el acceso al crédito de los productores forestales.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 15.
+
+La persona titular de la Coordinación General de Conservación y Restauración tendrá las atribuciones siguientes:
 
 I. Proponer la celebración de convenios con instituciones de enseñanza e investigación y organizaciones de la sociedad civil, nacionales e internacionales y fomentar con instituciones de los diferentes Sectores la conservación, protección y restauración de los ecosistemas forestales;
 
-II. Elaborar y difundir documentos técnicos y materiales de apoyo, así como capacitar al personal responsable de la operación de los programas y proyectos de restauración de suelos y reforestación y sus beneficiarios a nivel estatal;
+II. Elaborar y difundir documentos técnicos y materiales de apoyo, así como capacitar al personal responsable de la operación de los programas y proyectos de reforestación y restauración de cuencas hidrográficas;
 
-III. Dirigir, coordinar, evaluar y monitorear los programas de forestación y reforestación, y restauración de suelos, así como fomentar y promover la producción de planta de calidad para la forestación y reforestación en los ecosistemas forestales;
+III. Dirigir, coordinar, evaluar y monitorear los programas de forestación y reforestación, y restauración de cuencas hidrográficas, así como fomentar y promover la producción de planta de calidad para la forestación y reforestación en los ecosistemas forestales;
 
-IV. Formular programas de restauración y evaluar los programas para la restauración de zonas degradadas y/o en proceso de desertificación en los terrenos forestales o preferentemente forestales;
+IV. Formular o evaluar programas de restauración de zonas degradadas y/o en proceso de desertificación en los terrenos forestales o preferentemente forestales;
 
-V. Promover la canalización de recursos y apoyos destinados a la protección y restauración de los suelos en zonas forestales degradadas o en proceso de desertificación;
+V. Promover la canalización de recursos y apoyos destinados a la protección y restauración de cuencas hidrográficas en zonas forestales degradadas o en proceso de desertificación;
 
-VI. Dar seguimiento a los acuerdos y compromisos del Sistema Nacional de Lucha contra la Desertificación;
+VI. Participar con las dependencias correspondientes en el seguimiento a los acuerdos y compromisos del Sistema Nacional de Lucha contra la Desertificación;
 
 VII. Participar en la definición de indicadores, para la actualización, del Inventario Nacional Forestal y de Suelos y los inventarios estatales, en coordinación con las instituciones responsables;
 
-VIII. Promover ante las autoridades competentes, la elaboración de normas oficiales mexicanas y normas mexicanas, lineamientos técnicos, sistemas y procedimientos para la restauración de los de suelos forestales;
+VIII. Promover ante las autoridades competentes, la elaboración de normas oficiales mexicanas y normas mexicanas, lineamientos técnicos, sistemas y procedimientos para la restauración de las cuencas hidrográficas en terrenos forestales y preferentemente forestales;
 
 IX. Promover ante las autoridades correspondientes la expedición de declaratorias, programas, proyectos y evaluaciones de áreas afectadas por desastres naturales y antrópicos, para la conservación, rehabilitación, restauración y uso sustentable de los suelos forestales;
 
 X. Realizar directamente o a través de terceros actividades de restauración y/o reforestación y mantenimiento por concepto de compensación ambiental;
 
-XI. Establecer y revisar periódicamente los costos de referencia para las acciones de conservación y restauración de suelos, reforestación, y su mantenimiento;
+XI. Establecer y revisar periódicamente los costos de referencia para la producción de planta, acciones de conservación y restauración de suelos, reforestación, y su mantenimiento;
 
-XII. Capacitar y apoyar a las Gerencias Estatales, acerca del manejo de los viveros forestales, bancos de germoplasma y otras infraestructuras a cargo de la CONAFOR;
+XII. Capacitar y apoyar al personal de las Gerencias Estatales, acerca del manejo de los viveros forestales, bancos de germoplasma y otras infraestructuras propiedad y/o a cargo de la CONAFOR;
 
-XIII. Promover la operación de los viveros forestales y bancos de germoplasma a través de los gobiernos de los estados y municipios y organizaciones sociales, así como por los propietarios y poseedores de terrenos forestales organizados;
+XIII. Promover la operación de los viveros forestales y bancos de germoplasma a través de los gobiernos de los estados, municipios y organizaciones sociales, así como por los propietarios y poseedores de terrenos forestales;
 
-XIV. Promover ante las autoridades competentes de elaborar normas oficiales mexicanas y normas mexicanas lineamientos técnicos y procedimientos para la producción de planta y obtención de germoplasma forestal;
+XIV. Promover ante las autoridades competentes la elaboración o la actualización de las normas oficiales mexicanas y normas mexicanas lineamientos técnicos y procedimientos para la producción de planta y obtención de germoplasma forestal; así mismo fomentar la aplicación de las normas y lineamientos por los dueños de los terrenos forestales con Unidades Productoras de germoplasma forestal, huertos semilleros y los productores de planta;
 
-XV. Promover la protección y conservación de los recursos genéticos forestales;
+XV. Promover el aprovechamiento legal y sustentable así como la protección y conservación de los recursos genéticos forestales;
 
-XVI. Promover el registro, establecimiento y manejo de unidades productoras de germoplasma forestal;
+XVI. Promover el registro, establecimiento y manejo de unidades productoras de germoplasma forestal así como su certificación;
 
-XVII. Formular, coordinar y evaluar el Programa Nacional de Prevención de Incendios Forestales;
+XVII. Formular, coordinar y evaluar el Programa Nacional de Manejo del Fuego;
 
 XVIII. Promover la integración de los programas estatales y municipales del manejo del fuego;
 
-XIX. Establecer los mecanismos de coordinación pertinentes con el Sistema Nacional de Protección Civil y las demás instituciones correspondientes para atender las emergencias y/o desastres ocasionados por incendios forestales;
+XIX. Establecer los mecanismos de coordinación pertinentes con el Sistema Nacional de Protección Civil y las demás instituciones correspondientes para atender las emergencias y/o desastres ocasionados por incendios, plagas y enfermedades forestales;
 
-XX. Definir y desarrollar las estrategias y acciones que aseguren la restauración de las áreas afectadas por incendios forestales;
+XX. Definir y desarrollar las estrategias y acciones que aseguren la restauración de las áreas afectadas por incendios, plagas y enfermedades forestales;
 
 XXI. Formular, coordinar y evaluar los programas y acciones de saneamiento forestal;
 
@@ -489,11 +607,11 @@ XXIV. Establecer instrumentos para fomentar la correcta aplicación de medidas f
 
 XXV. Promover la creación de fondos de contingencia sanitaria forestal, para la atención oportuna de las plagas y enfermedades forestales que pongan en riesgo la salud forestal, de conformidad con las disposiciones aplicables;
 
-XXVI. Promover el establecimiento de programas, medidas e instrumentos para apoyar a los propietarios y poseedores de terrenos forestales en el combate y control de plagas y enfermedades;
+XXVI. Promover el establecimiento de programas, medidas e instrumentos para apoyar a los propietarios y poseedores de terrenos forestales en la prevención, en el combate y control de plagas y enfermedades forestales;
 
-XXVII. Establecer el sistema permanente de evaluación y alerta temprana de la condición sanitaria de los terrenos forestales y difundir sus resultados;
+XXVII. Establecer el Sistema permanente de evaluación y alerta temprana de la condición sanitaria de los terrenos forestales y difundir sus resultados;
 
-XXVIII. Promover y apoyar los programas de investigación necesarios para resolver los problemas fitosanitarios forestales, en el marco del Programa Nacional de Investigación y Desarrollo Tecnológico Forestal;
+XXVIII. Promover proyectos de investigación necesarios para resolver los problemas fitosanitarios forestales, en el marco del Programa Nacional de Investigación y Desarrollo Tecnológico Forestal;
 
 XXIX. Difundir, a través de las Gerencias Estatales con el apoyo de los gobiernos de las entidades federativas, de los municipios y de los Consejos Estatales Forestales, las medidas de prevención y manejo de plagas y enfermedades forestales;
 
@@ -503,61 +621,83 @@ XXXI. Realizar los trabajos de sanidad forestal cuando éstos no se ejecuten por
 
 XXXII. Promover y coordinar el desarrollo de un Sistema Nacional de Mejoramiento Genético Forestal;
 
-XXXIII. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Producción y Productividad en las propuestas y evaluación de los sistemas y procedimientos relativos a la prestación de los servicios técnicos forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
+XXXIII. Participar con la Coordinación General de Producción y Productividad en las propuestas y evaluación de los sistemas y procedimientos relativos a la prestación de los servicios técnicos forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
 
-XXXIV. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Producción y Productividad en la creación, promoción y fomento de un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamientos como a prestadores de servicios técnicos forestales, que cumplan los compromisos adquiridos en los programas de manejo y en las auditorías técnicas preventivas;
+XXXIV. Participar con la Coordinación General de Producción y Productividad en la creación, promoción y fomento de un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamientos como a prestadores de servicios técnicos forestales, que cumplan los compromisos adquiridos en los programas de manejo y en las auditorías técnicas preventivas;
 
-XXXV. Participar con la Coordinación General de Educación y Desarrollo Tecnológico, así como con la Coordinación General de Producción y Productividad en la creación, operación y evaluación del programa de profesionalización de los servicios técnicos forestales para impulsar el manejo forestal sustentable, y
+XXXV. Participar con la Coordinación General de Producción y Productividad en la creación, operación y evaluación del programa de profesionalización de los servicios técnicos forestales para impulsar el manejo forestal sustentable, y
 
 XXXVI. Coadyuvar en el ámbito de su competencia en actividades de protección, conservación y restauración, emanadas de los programas de manejo en áreas naturales protegidas.
 
-###### ARTÍCULO 15.
+XXXVII. Promover y fomentar acciones en materia de servicios ambientales, mediante el otorgamiento de incentivos económicos dirigidos a las personas dueñas o poseedoras de terrenos forestales;
 
-El titular de la Coordinación General de Administración tendrá las atribuciones siguientes:
+XXXVIII. Fomentar la creación de mecanismos de financiamiento para el pago por servicios ambientales.
 
-I. Proponer, difundir y aplicar la normatividad sobre la administración de recursos financieros, humanos y materiales, y demás servicios de carácter administrativo necesarios para el desarrollo de las actividades de la CONAFOR;
+XXXIX. Promover la elaboración y desarrollo de proyectos con aportación de recursos económicos por donadores y terceros interesados en participar en esquemas de pago de servicios ambientales mediante fondos concurrentes y el fondo patrimonial con aportaciones al Fondo Forestal Mexicano.
 
-II. Definir los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuesto, evaluación y control de la CONAFOR;
-
-III. Someter a la aprobación del Director General el proyecto de presupuesto anual de la CONAFOR, así como autorizar las erogaciones, vigilar el ejercicio del presupuesto asignado a la misma. Coordinar y asesorar la formulación del anteproyecto de presupuesto y de los programas de las unidades administrativas;
-
-IV. Determinar los sistemas de contabilidad de los ingresos federales y propios, de los movimientos de fondos y de la deuda pública federal; así como validar y someter para su autorización a la Junta de Gobierno los estados financieros, y los informes del ejercicio presupuestal de la CONAFOR;
-
-V. Fijar las directrices y ejecutar las acciones necesarias para implantar, operar, controlar y evaluar el sistema de administración de personal de la CONAFOR y vigilar su permanente actualización, así como validar la situación contractual entre la CONAFOR y los servidores públicos que laboran en ella, emitiendo los nombramientos correspondientes;
-
-VI. Implementar, coordinar y dirigir el servicio civil de carrera en la CONAFOR;
-
-VII. Coordinar y participar en la definición de las condiciones generales de trabajo, y en general en las relaciones laborales, así como darles difusión;
-
-VIII. Proponer para aprobación del Director General la designación de representantes de la CONAFOR, ante la Comisión Mixta de Escalafón, así como actualizar el escalafón y difundirlo permanentemente entre los trabajadores;
-
-IX. Fomentar y dirigir la difusión de los sistemas de motivación al personal de la CONAFOR, coordinar el otorgamiento de estímulos y recompensas establecidos por la ley en la materia y demás ordenamientos aplicables, así como aplicar, las medidas disciplinarias y sanciones por incumplimiento a las obligaciones laborales;
-
-X. Proporcionar asesoría a las unidades administrativas de la CONAFOR en lo relativo a asuntos laborales de su personal;
-
-XI. Proponer, fomentar y difundir programas de seguridad e higiene en el ámbito de la CONAFOR, así como evaluar sus resultados;
-
-XII. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y obras públicas. Asimismo, elaborar, controlar y resguardar los contratos y convenios que deriven de esos procedimientos y suscribirlos en representación de la CONAFOR;
-
-XIII. Mantener y conservar los bienes inmuebles que tenga en propiedad o posesión la CONAFOR;
-
-XIV. Llevar el control y registro de derechos adquiridos, así como realizar los trámites legales para la adquisición, regularización, desincorporación y protección jurídica de los bienes muebles o inmuebles administrados por la CONAFOR o destinados a ésta;
-
-XV. Conocer, elaborar y tramitar las actas administrativas, procedimientos y recursos administrativos, respecto a la rescisiones de relaciones laborales, bajas o sanciones al personal de base o de confianza de la CONAFOR; siendo el responsable y representante de la CONAFOR en la relación laboral hasta en tanto ésta, no se vuelva contenciosa, estando facultado para promover procedimientos paraprocesales;
-
-XVI. Definir, dirigir y ser el responsable de las relaciones sindicales;
-
-XVII. Solicitar a la Coordinación General Jurídica, a petición de las unidades administrativas de la CONAFOR la rescisión de los contratos y convenios, cuando a su juicio se haya actualizado alguna causal de rescisión;
-
-XVIII. Fungir como responsable inmobiliario de la CONAFOR, pudiendo delegar dicha responsabilidad, atendiendo al contenido del artículo 32 de la Ley General de Bienes Nacionales, y
-
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
-
-XIX. Determinar la metodología para la elaboración del Manual de Organización General de la CONAFOR y de procedimientos, y someterlos a la aprobación del Director General, así como la elaboración del mismo, con el apoyo y colaboración de las unidades administrativas correspondientes.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-El titular de la Coordinación General de Planeación e Información tendrá las atribuciones siguientes:
+La persona titular de la Unidad de Administración y Finanzas tendrá las atribuciones siguientes:
+
+I. Proponer, difundir y aplicar la normatividad sobre la administración de recursos financieros, humanos, materiales, tecnologías de la información y comunicaciones y demás servicios de carácter administrativo necesarios para el desarrollo de las actividades de la CONAFOR;
+
+II. Definir los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuestación, evaluación y control de los recursos de la CONAFOR;
+
+III. Someter a la aprobación de la Dirección General el proyecto de presupuesto anual de la CONAFOR, así como autorizar las erogaciones y vigilar el ejercicio del presupuesto asignado. Coordinar y asesorar la formulación del anteproyecto de presupuesto y de los programas de las unidades administrativas;
+
+IV. Determinar los sistemas de contabilidad de los ingresos y egresos federales y propios, de los movimientos de fondos y de la deuda pública federal; así como validar y someter para su autorización a la Junta de Gobierno los estados financieros, y los informes del ejercicio del presupuesto de la CONAFOR;
+
+V. Determinar los sistemas para la operación y control de los recursos depositados en mandatos y fideicomisos
+
+VI. Fijar las directrices y ejecutar las acciones necesarias para establecer, operar, controlar y evaluar el sistema de administración de personal de la CONAFOR y vigilar su permanente actualización, así como validar la situación contractual entre la CONAFOR y los servidores públicos que laboran en ella, emitiendo los nombramientos correspondientes;
+
+VII. Implementar, coordinar y dirigir el servicio civil de carrera en la CONAFOR;
+
+VIII. Coordinar y participar en la definición de las condiciones generales de trabajo, y en general en las relaciones laborales, así como darles difusión;
+
+IX. Formar parte y/o designar servidores públicos para participar en las comisiones mixtas que se integren por mandato de ley o por condiciones generales de trabajo;
+
+X. Fomentar y dirigir la difusión de los sistemas de motivación al personal de la CONAFOR, coordinar el otorgamiento de estímulos y recompensas establecidos por la ley en la materia y demás ordenamientos aplicables, así como aplicar, las medidas disciplinarias y sanciones por incumplimiento a las obligaciones laborales;
+
+XI. Proporcionar asesoría a las unidades administrativas de la CONAFOR en lo relativo a incidencias del personal;
+
+XII. Proponer, fomentar y difundir programas de seguridad e higiene en el ámbito de la CONAFOR, así como evaluar sus resultados;
+
+XIII. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y obras públicas. Asimismo, elaborar, controlar y resguardar los contratos y convenios que deriven de esos procedimientos y suscribirlos en representación de la CONAFOR;
+
+XIV. Mantener y conservar los bienes muebles e inmuebles que tenga en propiedad o posesión la CONAFOR;
+
+XV. Llevar el control y registro de derechos adquiridos, así como realizar los trámites legales para la adquisición, regularización, desincorporación y protección jurídica de los bienes muebles e inmuebles administrados por la CONAFOR o destinados a ésta;
+
+XVI. Conocer, elaborar y tramitar las actas administrativas, procedimientos y recursos administrativos, respecto a las rescisiones de relaciones laborales, bajas o sanciones al personal de base o de confianza de la CONAFOR; siendo el responsable y representante de la CONAFOR en la relación laboral hasta en tanto ésta, no se vuelva contenciosa, estando facultado para promover procedimientos paraprocesales;
+
+XVII. Definir, dirigir y ser el responsable de las relaciones sindicales;
+
+XVIII. Solicitar a la Coordinación General Jurídica, a petición de las unidades administrativas de la CONAFOR la rescisión de los contratos y convenios, cuando a su juicio se haya actualizado alguna causal de rescisión;
+
+XIX. Fungir como responsable inmobiliario de la CONAFOR, pudiendo delegar dicha responsabilidad, atendiendo al contenido del artículo 32 de la Ley General de Bienes Nacionales, y
+
+XX. Determinar la metodología para la elaboración de los Manuales de Organización y de Procedimientos de la CONAFOR, y someterlos a la aprobación de la Dirección General, con el apoyo y colaboración de las unidades administrativas correspondientes.
+
+Los servidores públicos de base o de confianza de CONAFOR estarán obligados a aplicar los Manuales de procedimientos, de operación, de organización y de servicios al público que al efecto emita, así como las disposiciones que emitan las unidades administrativas competentes.
+
+Se considerará que dichos manuales y disposiciones son obligatorios cuando los mismos se hayan dado a conocer a los citados servidores públicos y exista la constancia correspondiente o, en su caso, se hayan incorporado en los sistemas electrónicos establecidos por CONAFOR.
+
+Se exceptúa de lo previsto en el párrafo anterior, los casos en que los manuales o las disposiciones se publiquen en el Diario Oficial de la Federación.
+
+XXI. Proveer las tecnologías de la información y comunicaciones que requiera la CONAFOR para el eficaz cumplimiento de sus funciones;
+
+XXII. Proporcionar el soporte tecnológico en materia de tecnologías de información y comunicaciones a los instrumentos de política nacional en materia forestal que son competencia de la CONAFOR;
+
+XXIII. Participar en grupos especializados, asociaciones, consejos, comités y atender compromisos nacionales e internacionales en materias de recursos financierons, humano, materiales y tecnologías de información y comunicaciones.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 17.
+
+La persona titular de la Coordinación General de Planeación e Información tendrá las atribuciones siguientes:
 
 I. Coordinar la participación de la CONAFOR en los procesos de formulación y evaluación del modelo de planeación del desarrollo forestal;
 
@@ -605,263 +745,185 @@ XXII. Estandarizar e integrar la información geográfica que se produzca en la 
 
 XXIII. Integrar y mantener el acervo cartográfico, de imágenes de satélite y fotografía aérea en materia forestal;
 
-XXIV. Colaborar con la Coordinación General de Educación y Desarrollo Tecnológico en la formulación de programas de capacitación e investigación para el inventario forestal y la geomática;
+XXIV. Colaborar en la formulación de programas de capacitación e investigación para el inventario forestal y la geomática;
 
-XXV. Proveer las tecnologías de información y comunicaciones que requiera la CONAFOR para el eficaz cumplimiento de sus funciones;
+XXV. Diseñar, operar y mantener actualizado el Portal Web de la CONAFOR, manteniéndolo siempre disponible en Internet a fin de propiciar la transparencia de la información alineado a los requerimientos de la legislación aplicable en materia de transparencia y acceso a la información pública
 
-XXVI. Diseñar, operar y mantener actualizado el Portal Web de la CONAFOR, manteniéndolo siempre disponible en Internet a fin de propiciar la transparencia de la información alineado a los requerimientos de la legislación aplicable en materia de transparencia y acceso a la información pública;
+XXVI. Proponer convenios de colaboración para la generación, intercambio e integración de información forestal y tecnología, con entidades públicas y de los sectores privado y social; así como con instituciones de educación superior;
 
-XXVII. Proporcionar el soporte tecnológico en materia de tecnologías de información y comunicaciones a los instrumentos de política nacional en materia forestal que son competencia de la CONAFOR;
+XXVII. Participar en grupos especializados, asociaciones, consejos, comités y atender compromisos nacionales e internacionales en materias de planeación, evaluación, información forestal, inventario forestal y geomática;
 
-XXVIII. Proponer convenios de colaboración para la generación, intercambio e integración de información forestal y tecnología, con entidades públicas y de los sectores privado y social; así como con instituciones de educación superior;
+XXVIII. Coordinar, en colaboración con las unidades administrativas de la CONAFOR, la integralidad y alineación de programas y proyectos;
 
-XXIX. Participar en grupos especializados, asociaciones, consejos, comités y atender compromisos nacionales e internacionales en materias de planeación, evaluación, tecnologías de información y comunicaciones, información forestal, inventario forestal y geomática;
+XXIX. Coordinar el diseño e implementación de los mecanismos institucionales para la puesta en marcha de las políticas públicas en materia forestal;
 
-XXX. Coordinar, en colaboración con las unidades administrativas de la CONAFOR, la integralidad y alineación de programas y proyectos, así como coordinar con otras dependencias de los tres órdenes de gobierno, la alineación de programas para el manejo integrado del territorio para para (sic) el desarrollo forestal sustentable;
+XXX. Establecer, operar y mantener el sistema nacional de monitoreo forestal y construir el nivel de referencia de emisiones del sector forestal del país;
 
-XXXI. Coordinar el diseño e implementación de los mecanismos institucionales para la puesta en marcha de las políticas públicas en materia forestal;
+XXXI. Coordinar acciones con los gobiernos estatales para asegurar la consistencia en el monitoreo y reporte de emisiones en el sector forestal;
 
-XXXII. Coordinar la incorporación de criterios y acciones de adaptación y mitigación al cambio climático a través del Programa Nacional Forestal, que fomenten el manejo forestal sustentable y el incremento y la conservación de sumideros de carbono;
+XXXII. Fungir como enlace con otras dependencias de la administración pública federal para el intercambio de información en materia de monitoreo forestal y de gases de efecto invernadero provenientes del sector forestal.
 
-XXXIII. Establecer, operar y mantener el sistema nacional de monitoreo forestal y construir el nivel de referencia de emisiones del sector forestal del país;
+XXXIII. Coordinar y supervisar en los términos que instruya la Dirección General y con las facultades previstas en el presente ordenamiento legal, las acciones operativas de la CONAFOR en el ámbito de las Gerencias Estatales, en concordancia con los lineamientos y criterios emitidos por las unidades administrativas.
 
-XXXIV. Coordinar acciones con los gobiernos estatales para asegurar la consistencia en el monitoreo y reporte de emisiones en el sector forestal, y
+XXXIV. Generar, en concordancia con las unidades administrativas, una estrategia administrativa y operativa que garantice la ejecución de los programas forestales;
 
-XXXV. Fungir como enlace con otras dependencias de la administración pública federal para el intercambio de información en materia de monitoreo forestal y de gases de efecto invernadero provenientes del sector forestal.
+XXXV. Diseñar y operar esquemas de planeación y seguimiento en el ámbito estatal para garantizar una eficiente operación de los programas;
 
-###### ARTÍCULO 17.
+XXXVI. Promover de acuerdo a la Ley de la materia, la desconcentración y descentralización de funciones forestales a las entidades federativas y municipales, en estrecha coordinación con los lineamientos de las unidades administrativas de la CONAFOR;
 
-El titular de la Coordinación General de Educación y Desarrollo Tecnológico tendrá las atribuciones siguientes:
+XXXVII. Promover, apoyar, organizar, la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política forestal, a través de los órganos consultivos y de participación ciudadana que determinen las disposiciones jurídicas correspondientes, en coordinación con las unidades administrativas;
 
-I. Promover y dirigir programas nacionales de educación, capacitación y cultura, investigación y desarrollo tecnológico en materia forestal, orientados a la conservación y aprovechamiento sustentable de los recursos naturales, fomentando la participación del sistema educativo nacional, así como de las comunidades indígenas, propietarios y poseedores de terrenos forestales, empresarios e industriales, instituciones, organismos, asociaciones de profesionales y la sociedad civil, reconociendo y respetando costumbres, tradiciones y prácticas culturales propias;
+XXXVIII. Diseñar, coordinar y evaluar, las políticas, lineamientos y programas en materia igualdad de género, jóvenes y comunidades y pueblos indígenas;
 
-II. Fortalecer y orientar la participación organizada de la sociedad civil, en programas de educación, capacitación, investigación y cultura forestal;
+XXXIX. Apoyar con la Información requerida, actualizada y detallada de las Gerencias Estatales en las giras de la Dirección General.
 
-III. Promover y participar con el Sistema Educativo Nacional, el Consejo Nacional de Ciencia y Tecnología, las asociaciones académicas, profesionales e industriales, el sector privado y las organizaciones no gubernamentales, con el propósito de canalizar adecuadamente experiencias, investigaciones, recursos y desarrollar actividades conjuntas orientadas a definir y coordinar la política de investigación forestal, alentar y mejorar la educación forestal y la capacitación técnica, así como recomendar la actualización de los planes y programas de estudio en licenciaturas, ingenierías, especialidades y postgrados en materia forestal para la formación continua de cuadros profesionales que el sector requiere;
-
-IV. Formular y coordinar los Programas Sectoriales en materia de investigación y desarrollo tecnológico, educación y capacitación forestal y cultura forestal apoyándose en los centros de investigación, instituciones de educación superior y el sector productivo forestal;
-
-V. Identificar e impulsar las áreas y proyectos prioritarios en materia forestal en las que sea necesario apoyar actividades de investigación, desarrollo, innovación y transferencia tecnológica forestal;
-
-VI. Impulsar la investigación participativa con los campesinos, productores, prestadores de servicios técnicos forestales e industriales;
-
-VII. Operar el mecanismo para la realización de cursos de capacitación, adiestramiento y transferencia de tecnologías, que el sector forestal requiera en las comunidades y regiones forestales y a través de las sociedades organizadas y de las cadenas productivas del sector, con la participación de instituciones públicas y privadas estrechamente relacionadas a la investigación en el sector forestal;
-
-VIII. Establecer, promover y apoyar programas que permitan la formación, capacitación y actualización, de los prestadores de servicios técnicos forestales y de los asesores técnicos forestales;
-
-IX. Participar con la Coordinación General de Conservación y Restauración, así como con la Coordinación General de Producción y Productividad en la promoción de un sistema de actualización, capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamientos como a prestadores de servicios técnicos forestales, que cumplan los compromisos en los programas de manejo y en las auditorías técnicas preventivas;
-
-X. Participar con la Coordinación General de Conservación y Restauración, así como con la Coordinación General de Producción y Productividad en las propuestas y evaluación de los sistemas y procedimientos relativos a la prestación de los servicios técnicos forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
-
-XI. Participar con la Coordinación General de Conservación y Restauración, así como con la Coordinación General de Producción y Productividad en la creación, operación y evaluación del programa de profesionalización de los servicios técnicos forestales para impulsar el manejo forestal sustentable;
-
-XII. Dirigir y operar los Centros de Educación y Capacitación Forestal pertenecientes a la CONAFOR, diseñar estrategias y desarrollar acciones que permitan formar recursos humanos capacitados en el nivel medio superior;
-
-XIII. Dirigir y operar el Centro de Formación Forestal; difundir proyectos forestales, alternativas productivas y ecotecnias que apoyen el aprovechamiento sustentable de los recursos naturales y promuevan el desarrollo rural;
-
-XIV. Dirigir y operar el Lineamiento de Becas y el Programa Anual de Capacitación interna para los servidores públicos de la CONAFOR;
-
-XV. Formular programas de becas externas para la formación y capacitación forestal;
-
-XVI. Promover el intercambio científico y tecnológico entre los investigadores e instituciones académicas, centros de investigación e instituciones de educación superior del país, así como con otros países;
-
-XVII. Coadyuvar con la Unidad de Comunicación Social en la formulación de estrategias de comunicación educativa, para el fortalecimiento de la cultura forestal, la divulgación de información forestal especializada y la promoción de programas de material educativo y de concursos y premios de cultura forestal;
-
-XVIII. Coadyuvar con la Unidad de Asuntos Internacionales y Fomento Financiero en la obtención de recursos financieros y materiales, y en la implementación de mecanismos adecuados de financiamiento para impulsar todo tipo de actividades de investigación, capacitación y culturales, que tengan vinculación con la causa del bosque y su desarrollo sustentable;
-
-XIX. Fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales;
-
-XX. Promover y organizar la entrega de reconocimientos y estímulos a las personas que han sobresalido en acciones de protección, conservación y aprovechamiento sustentable para el desarrollo forestal sustentable;
-
-XXI. Promover la creación de eventos y espacios recreativo-culturales orientados a incrementar el nivel de cultura, educación y capacitación forestal en la sociedad;
-
-XXII. Fomentar la formación de formadores y divulgadores de la cultura forestal voluntarios que ayuden a prevenir la destrucción de los recursos forestales, así como dar a conocer el valor científico, ambiental, económico y estratégico de éstos como factor de desarrollo comunitario, integral y sustentable;
-
-XXIII. Contribuir al diseño, formulación, elaboración y publicación de guías técnicas o manuales que reorienten la relación entre la sociedad y lo forestal;
-
-XXIV. Promover, organizar y coordinar la integración de un sistema que reúna, analice, clasifique y divulgue por los medios más idóneos, los frutos de las investigaciones forestales exitosas que se han dado en el ámbito regional, nacional e internacional;
-
-XXV. Propiciar la participación responsable de los líderes de opinión en el sector del medio ambiente en acciones orientadas al desarrollo forestal sustentable, como son: (a) el respeto y cuidado de los recursos naturales; (b) la prevención de incendios forestales; (c) la protección de los recursos forestales contra plagas, enfermedades y todos aquellos factores naturales y humanos que incidan en su deterioro y destrucción; (d) la difusión de las acciones de la propia CONAFOR; (e) las acciones de aprovechamiento y manejo silvícola sustentable y (f) el reconocimiento a los esfuerzos personales e institucionales de los miembros del sector forestal;
-
-XXVI. Coordinar las acciones de capacitación necesarias para la implementación de sistemas de gestión por calidad de conformidad con las disposiciones gubernamentales en la materia;
-
-XXVII. Representar a la CONAFOR y a su titular ante los comités, comisiones u organismos públicos, privados, nacionales o internacionales relativos a educación, capacitación, investigación y cultura forestales, y
-
-XXVIII. Promover y fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales entre los pueblos y comunidades indígenas, mediante programas de educación, capacitación, investigación y cultura forestal.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
-El titular de la Coordinación General de Gerencias Estatales tendrá las atribuciones siguientes:
+La persona titular de la Unidad de Asuntos Internacionales y Fomento Financiero tendrá las atribuciones siguientes:
 
-I. Coordinar y supervisar en los términos que instruya el Director General y con las facultades previstas en el presente ordenamiento legal, las acciones operativas de la CONAFOR en el ámbito de las Gerencias Estatales, en concordancia con los lineamientos y criterios emitidos por las unidades administrativas;
+I. Diseñar, proponer, desarrollar, evaluar y dar seguimiento a las políticas y estrategias de negociación, cooperación y financiamiento y negociación internacional de la CONAFOR;
 
-II. Generar en concordancia con las unidades administrativas, una estrategia administrativa y operativa que garantice la ejecución de los programas forestales;
-
-III. Diseñar y operar esquemas de planeación y seguimiento en el ámbito regional para garantizar una eficiente operación de los programas;
-
-IV. Operar el esquema de planeación y seguimiento institucional, en términos de los criterios y lineamientos de las unidades administrativas, en el ámbito regional para garantizar una eficiente operación de los programas;
-
-V. Promover de acuerdo a la Ley de la materia, la desconcentración y descentralización de funciones forestales a las entidades federativas y municipales, en estrecha coordinación con los lineamientos de las unidades administrativas de la CONAFOR;
-
-VI. Facilitar las relaciones con el entorno político administrativo de las áreas operativas, de acuerdo a los lineamientos señalados por la Dirección General;
-
-VII. Promover en coordinación con la Unidad de Asuntos Internacionales y Fomento Financiero la concertación y la celebración de convenios de coparticipación y cofinanciamiento entre la CONAFOR y los gobiernos de las entidades federativas y municipales, para la ejecución de los programas;
-
-VIII. Diseñar e instrumentar esquemas coparticipativos en la actividad forestal para potenciar acciones y recursos mediante alianzas entre la CONAFOR con los sectores social y privado, con los Gobiernos Estatales y las dependencias del gobierno federal vinculadas al sector forestal;
-
-IX. Promover, apoyar, organizar, dar seguimiento y evaluar en el marco del Plan Nacional de Desarrollo y la Normatividad vigente en la materia, la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política forestal, a través de los órganos consultivos y de participación ciudadana que determinen las disposiciones jurídicas correspondientes, en coordinación con las unidades administrativas;
-
-X. Elaborar y difundir los lineamientos, guías, procedimientos y documentos normativos que fomenten la participación ciudadana en el Sector Forestal;
-
-XI. Diseñar, coordinar y evaluar, en el marco del Plan Nacional de Desarrollo y la Normatividad vigente en la materia, los programas especiales de la CONAFOR, las políticas, lineamientos y programas en materia de derechos humanos, igualdad de género, jóvenes y comunidades y pueblos indígenas;
-
-XII. Apoyar con la Información requerida, actualizada y detallada de las Gerencias Estatales en las giras del Director General;
-
-XIII. Coadyuvar con las unidades administrativas responsables, en el diseño y aplicación de instrumentos y mecanismos de apoyos económicos, que incentiven la inversión en actividades productivas, de restauración y de conservación en materia forestal;
-
-XIV. Garantizar la operación eficiente de las Gerencias Estatales por medio de la coordinación, diseño y operación de esquemas de planeación, seguimiento, control, evaluación y de coordinación interinstitucional orientada a la gestión de los recursos financieros, humanos y materiales asignados para el cumplimiento de los objetivos y metas establecidos en los instrumentos de planeación institucional en las Gerencias Estatales;
-
-XV. Impulsar, fortalecer y apoyar el funcionamiento de las Promotorías de Desarrollo Forestal;
-
-XVI. Coadyuvar con las unidades administrativas correspondientes en la integración y seguimiento de los casos de Asesores Técnicos incumplidos, presentados por las Gerencias Estatales, y
-
-XVII. Contribuir al cumplimiento de un ejercicio oportuno y eficiente del presupuesto, procedente de las Ampliaciones al Ramo 16 Medio Ambiente y Recursos Naturales asignados al Programa de Fortalecimiento Ambiental de las entidades federativas del Decreto de Presupuesto de Egresos de la Federación (DPEF) aprobados por la Cámara de Diputados, de acuerdo a los Lineamientos emitidos por la Comisión de Medio Ambiente de la Cámara de Diputados, a través de la gestión y apoyo con las unidades administrativas, coordinaciones generales responsables y Gerencias Estatales correspondientes.
-
-###### ARTÍCULO 19.
-
-El titular de la Unidad de Asuntos Internacionales y Fomento Financiero tendrá las atribuciones siguientes:
-
-I. Diseñar, proponer, desarrollar, evaluar y dar seguimiento a las políticas y estrategias de cooperación, financiamiento y negociación internacional de la CONAFOR;
-
-II. Promover y concertar acuerdos de coordinación y cooperación en materia forestal internacional;
+II. Promover y concertar acuerdos de coordinación y cooperación internacional; en materia forestal que contribuya a promover el desarrollo de capacidades técnicas e institucionales para el fomento del desarrollo forestal sustentable
 
 III. Coordinar, gestionar, negociar, supervisar, implementar y dar seguimiento a la obtención de recursos en dinero o en especie, de instituciones públicas, privadas, sociales, personas físicas, morales y organismos nacionales e internacionales, para impulsar el desarrollo forestal sustentable del país;
 
-IV. Identificar, gestionar y colaborar con la banca de desarrollo y otras instancias de financiamiento, en la formulación de nuevos esquemas, instrumentos e incentivos al financiamiento, así como en el mejoramiento de los existentes, respondiendo a las necesidades del sector para fomentar el desarrollo forestal sustentable en México;
+IV. Identificar, gestionar y colaborar con la banca de desarrollo, y otras instancias de financiamiento y el sector privado la formulación de nuevos esquemas, instrumentos e incentivos al financiamiento, así como en el mejoramiento de los existentes, respondiendo a las necesidades del sector para fomentar el desarrollo forestal sustentable en México;
 
 V. Gestionar, planear y dar seguimiento a la implementación de proyectos e iniciativas financiadas con recursos internacionales, en alineación con la política nacional de desarrollo forestal sustentable, fomentando un mayor presupuesto al sector;
 
-VI. Intervenir en el ámbito de su competencia ante organismos, consejos, comisiones, comités, foros y demás grupos de trabajo a nivel nacional e internacional;
+VI. Intervenir en el ámbito de su competencia ante organismos, consejos, comisiones, comités, foros y demás grupos de trabajo a nivel nacional e internacional para establecer y defender la posición de México en temas de interés para el sector forestal nacional;
 
-VII. Establecer en términos de los compromisos nacionales e internacionales, la coordinación necesaria entre la CONAFOR y las autoridades de competencia nacional e internacional, respecto al tema de financiamiento, negociación y cooperación para el desarrollo forestal sustentable;
+VII. Establecer en términos de los compromisos nacionales e internacionales, la coordinación necesaria entre la CONAFOR y las autoridades de competencia nacional e internacional, respecto al tema de cambio climático, financiamiento, negociación, cooperación para el desarrollo forestal sustentable;
 
-VIII. Planear, coordinar y apoyar en el plano nacional e internacional, la participación del Director General y de las demás unidades administrativas en los asuntos de financiamiento, negociación y cooperación y efectuar el seguimiento de los mismos;
+VIII. Planear, coordinar y apoyar en el plano nacional e internacional, la participación de la Dirección General y de las demás unidades administrativas en los asuntos de financiamiento, negociación y cooperación y efectuar el seguimiento de los mismos;
 
-IX. Coordinar y dar seguimiento al cumplimiento de los convenios y demás actos o acuerdos nacionales e internacionales que incluyan compromisos o proyectos sobre cooperación, negociación y financiamiento en los que tenga participación la CONAFOR;
+IX. Coordinar y dar seguimiento al cumplimiento de los convenios y demás actos o acuerdos nacionales e internacionales que incluyan compromisos de mitigación y/o adaptación al cambio climático, proyectos sobre cooperación, negociación y financiamiento en los que tenga participación la CONAFOR;
 
-X. Coordinar la atención a consultas, reportes a organismos internacionales, integración de posiciones sobre aspectos de cooperación, negociación y financiamiento que presenten agentes económicos nacionales y extranjeros;
+X. Coordinar la atención a consultas, reportes a organismos internacionales, integración de posiciones sobre aspectos relativos a compromisos establecidos en materia de bosques y cambio climático la cooperación internacional, y financiamiento para establecer la posición de México en materia forestal;
 
-XI. Evaluar y dar seguimiento a los compromisos derivados de la agenda internacional de la CONAFOR coordinándose con la unidad administrativa relativa a la materia internacional de que se trate;
+XI. Evaluar y dar seguimiento a los compromisos derivados de la agenda internacional de la CONAFOR coordinándose con la unidad administrativa relativa a la materia internacional de que se trate, para su oportuno cumplimiento;
 
-XII. Coordinarse con las diversas dependencias y entidades de la Administración Pública Federal, con los gobiernos de las entidades federativas y municipales, así como con los organismos públicos y privados, nacionales e internacionales, para desarrollar acciones y programas que fomenten el financiamiento al sector y el acceso al sector bancario;
+XII. Promover y coordinarse con las diversas dependencias y entidades de la Administración Pública Federal, con los gobiernos de las entidades federativas y municipales y el sector privado, a fin de desarrollar las acciones y programas encaminados a obtener financiamiento que responda a las necesidades del sector con el objeto de fomentar el desarrollo forestal sustentable en México de baja emisiones de carbono;
 
-XIII. Representar al sector forestal mexicano en las negociaciones internacionales en las que México suscriba acuerdos o tratados relacionados con la agenda forestal del país;
+XIII. Representar al sector forestal mexicano en coordinación con las áreas de la CONAFOR en las negociaciones internacionales en las que México suscriba acuerdos o tratados relacionados con la agenda forestal del país;
 
 XIV. Coadyuvar en coordinación con las diversas entidades y dependencias de la administración pública federal, así como con los gobiernos de las entidades federativas y municipales, cámaras, asociaciones, instituciones privadas o mixtas en la defensa de los intereses del sector forestal en materia de comercio internacional, y
 
-XV. Las demás que le señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades.
+XV. Analizar y dar seguimiento a la agenda internacional en materia forestal y de cambio climático, con el fin determinar los compromisos y acciones de cooperación internacional derivados de los acuerdos, convenios, programas y proyectos suscritos por la CONAFOR, así como de los acuerdos multilaterales suscritos por el Gobierno de México;
+
+XVI. Coordinar la elaboración y presentación de informes, reportes y similares relativos al cumplimiento de los compromisos y acciones establecidos en los acuerdos, convenios, programas y proyectos de cooperación suscritos por la CONAFOR y/o el Gobierno de México en materia de bosques y cambio climático;
+
+XVII. Diseñar y coordinar con las unidades administrativas el seguimiento de proyectos específicos de la institución en materia de adaptación y mitigación al cambio climático;
+
+XVIII. Contribuir a la implementación de los proyectos e iniciativas de reducción de emisiones por deforestación y degradación en alineación con la política nacional de desarrollo forestal sustentable y de acuerdo a las salvaguardas sociales y ambientales requeridas por organismos financieros internacionales;
+
+XIX. Coordinar la ejecución de acciones estratégicas de cooperación con la colaboración de áreas técnicas e instituciones relevantes, según corresponda, para dar cumplimiento a los acuerdos, convenios, programas, proyectos y similares en materia de reducción de emisiones por deforestación y degradación, mercados de carbono y adaptación al cambio climático;
+
+XX. Coadyuvar en la promoción del diálogo entre las partes participantes en los acuerdos estatales de reducción de emisiones con el fin de avanzar en el cumplimiento de los objetivos de dichos acuerdos, conforme a los lineamientos establecidos por las instituciones competentes;
+
+XXI. Fungir como enlace entre la Unidad y la Secretaria de Relaciones Exteriores, la Unidad de Coordinación de Asuntos Internacionales de la Secretaría de Medio Ambiente y Recursos Naturales y otras instituciones u oficinas gubernamentales que atienden asuntos y compromisos derivados de la agenda de cooperación internacional en materia de cambio climático;
+
+XXII. Coordinar la incorporación de criterios y acciones de adaptación y mitigación al cambio climático a través de instrumentos que fomenten el manejo forestal sustentable y el incremento y la conservación de sumideros de carbono;
+
+XXIII. Las demás que le señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya la persona titular de la Dirección General dentro del ámbito de sus facultades.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 19.
+
+La persona titular de la Unidad de Vinculación Sectorial tendrá las atribuciones siguientes:
+
+I. Colaborar con la Dirección General para fortalecer los mecanismos de vinculación entre la CONAFOR y la Secretaria de Medio Ambiente y Recursos Naturales, así como con el resto de sus organismos desconcentrados y descentralizados, para alcanzar el debido cumplimiento de los objetivos y metas en común;
+
+II. Diseñar, establecer, dar seguimiento y evaluar los avances y resultados en la implementación del Convenio de Coordinación y anexos específicos que se suscriban con la Secretaría de Agricultura y Desarrollo Rural, con el propósito de impulsar y facilitar una gestión pública con un enfoque territorial que permita la integración y alineación de políticas públicas agropecuarias y forestales, así como para promover el desarrollo de programas y estrategias de cambio climático que den viabilidad a las actividades económicas y mejoren la calidad de vida de los habitantes de las áreas rurales;
+
+III. Fortalecer los mecanismos de vinculación entre la CONAFOR y otras instituciones de la Administración Pública Federal que, en el término de sus competencias y objetivos, requieran la coordinación y apoyo de la Comisión Nacional Forestal;
+
+IV. Apoyar a la Dirección General a dar seguimiento a los distintos convenios que firma la CONAFOR con la Secretaria de Medio Ambiente y Recursos Naturales, y otras dependencias de la Administración Pública Federal, además de ayudar a que se cumplan los acuerdos en tiempo y forma;
+
+V. Ampliar los vínculos de la Comisión Nacional Forestal con los distintos sectores de la sociedad con el objetivo de promover un crecimiento y desarrollo del sector forestal de forma sustentable;
+
+VI. Fomentar y consolidar acuerdos entre los distintos sectores de la sociedad para fomentar un desarrollo forestal sustentable, considerando las atribuciones y facultades de la CONAFOR;
+
+VII. Coordinar, diseñar e implementar una estrategia de participación, transparencia y rendición de cuentas que permita a los distintos sectores de la sociedad conocer las actividades de la Comisión Nacional Forestal, con el debido apego a la normatividad correspondiente;
+
+VIII. Construir, coordinar e implementar mecanismos de participación y vinculación con distintos sectores de la sociedad que estén vinculados con temas forestales y,
+
+IX. Las demás tareas que así designe la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 20.
 
-El titular de la Unidad de Comunicación Social tendrá las atribuciones siguientes:
+El órgano de vigilancia de la CONAFOR, estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
 
-I. Diseñar, proponer, desarrollar y evaluar las estrategias, políticas y programas de información y comunicación de la CONAFOR;
-
-II. Difundir periódicamente los programas y actividades en general que realice la CONAFOR a los medios de comunicación, a las instituciones involucradas con el sector forestal y a la sociedad en general;
-
-III. Colaborar con la Dirección General, así como con las unidades administrativas en la divulgación y amplia difusión de las actividades que realicen en el desempeño de sus atribuciones;
-
-IV. Elaborar y difundir boletines y comunicados de prensa que permitan dar a conocer a la opinión pública, los programas y las actividades de la CONAFOR;
-
-V. Apoyar al personal de la CONAFOR para difundir información que consideren importante, así como en su relación con periodistas y medios de comunicación;
-
-VI. Ejercer la coordinación y cooperación con las instituciones, empresas y organismos del sector forestal, a través de la generación y difusión de información de la CONAFOR;
-
-VII. Dar seguimiento, analizar y seleccionar la información que publican y difunden los medios de comunicación respecto del sector forestal, contactarse con los mismos y mantener informados a los miembros de la CONAFOR a fin de llevar a cabo la toma de decisiones;
-
-VIII. Establecer y coordinar la relación de la CONAFOR con los medios de comunicación del país para atender sus demandas de información;
-
-IX. Dar cobertura informativa y difusión de la agenda de trabajo del Director General, así como apoyar en la elaboración de tarjetas informativas sobre el tema;
-
-X. Supervisar y dar cobertura a las agendas de comunicación de los titulares de las diversas unidades administrativas;
-
-XI. Coordinar el diseño y la aplicación de la imagen institucional de la CONAFOR;
-
-XII. Colaborar con la Coordinación General de Planeación e Información en el diseño, y supervisar los contenidos de las páginas del sitio en Internet, además de desarrollar material informativo para redes sociales en sus direcciones institucionales;
-
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
-
-XIII. Llevar a cabo campañas de comunicación social que permitan difundir los objetivos de la CONAFOR, así como contribuir a la creación de una nueva cultura forestal en nuestro país;
-
-XIV. Elaborar material gráfico de difusión de la CONAFOR, tales como revistas, folletos, trípticos o cualquier otro de naturaleza análoga o similar, con el fin de informar y generar conciencia de la función productiva social y ambiental de la actividad forestal y cultura de respeto ambiental en toda la población;
-
-XV. Establecer y mantener relación con las áreas responsables de comunicación y difusión del gobierno federal y de los gobiernos estatales del país con el fin de difundir y obtener información relevante para la CONAFOR;
-
-XVI. Organizar ruedas de prensa para los medios de comunicación con el fin de mantenerlos informados del trabajo de la CONAFOR;
-
-XVII. Elaborar las inserciones en prensa necesarias para la CONAFOR ante asuntos de relevancia y la contratación de espacios en medios masivos de comunicación, y
-
-XVIII. Conformar un archivo de comunicación social con los boletines, declaraciones, comunicados y monitoreo que la propia unidad genere.
+La persona que ostente el cargo de comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta de Gobierno de la CONAFOR.
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS DE VIGILANCIA Y DE CONTROL INTERNO
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-El órgano de vigilancia de la CONAFOR, estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
+La CONAFOR contará con un órgano interno de control con competencia en todo el territorio nacional que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública, tanto su titular como los de las áreas que lo integren serán designados en los términos establecidos en la Ley Orgánica de la Administración Pública Federal y ejercerán las funciones que le son conferidas en el Reglamento Interior de la Secretaría de la Función Pública y demás normas legales, reglamentarias y administrativas.
 
-El comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno de la CONAFOR.
+La CONAFOR proporcionará al Órgano Interno de Control los recursos humanos, materiales y financieros que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la CONAFOR estarán obligados a proporcionar el auxilio que requiera el Órgano Interno de Control para el desempeño de sus atribuciones.
 
-> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
-La CONAFOR contará con un Órgano Interno de Control, su titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal.
+La CONAFOR impulsará la contraloría social y facilitará el acceso a la información para el desempeño de las funciones de dicha contraloría.
 
-En el ejercicio de sus facultades el Titular del Órgano Interno de Control se auxiliará por las áreas de Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública, Quejas y Responsabilidades.
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 23.
 
-La CONAFOR impulsará la contraloría social y facilitará el acceso a la información para el desempeño de las funciones de dicha contraloría.
+La CONAFOR contará para el desempeño de sus funciones con los comités o subcomités técnicos especializados que determine la Junta de Gobierno, los cuales tendrán la estructura y funciones que determine la misma.
 
 ### CAPÍTULO QUINTO. DE LOS COMITÉS O SUBCOMITÉS
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 24.
 
-La CONAFOR contará para el desempeño de sus funciones con los comités o subcomités técnicos especializados que determine la Junta de Gobierno, los cuales tendrán la estructura y funciones que determine la misma.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Servidor Público que designe mediante la expedición del oficio correspondiente; o a falta de designación, por la persona titular de la Coordinación de Apoyo y Proyectos Especiales; y a falta de ambos, por la persona titular de la Coordinación General Jurídica.
+
+Para el caso de que la persona titular de la Dirección General deje el cargo por cualquier causa, y hasta en tanto el Titular del Ejecutivo Federal designe otro, el despacho y resolución de los asuntos de la Dirección General estará a cargo de la persona titular de la Coordinación de Apoyo y Proyectos Especiales y, a falta de éste, de la persona titular de la Coordinación General Jurídica.
 
 ### CAPÍTULO SEXTO. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 25.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Servidor Público que designe mediante la expedición del oficio correspondiente; o a falta de designación, por el Director General Adjunto; y a falta de ambos, por el Coordinador General Jurídico.
+Los titulares de las unidades administrativas en sus ausencias temporales serán suplidos, indistintamente, por los Jefes de Unidad, o en su caso, los Gerentes que de ellos dependan. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por el titular de la unidad administrativa, o en su caso, por la Dirección General, en el que se señale quién será el suplente.
 
-Para el caso de que el Director General deje el cargo por cualquier causa, y hasta en tanto el Titular del Ejecutivo Federal designe otro, el despacho y resolución de los asuntos de la Dirección General estará a cargo del Director General Adjunto y, a falta de éste, del Coordinador General Jurídico.
+Para el caso de que el titular de la unidad administrativa deje de prestar sus servicios por cualquier causa, éste será suplido por el servidor público que designe la persona titular de la Dirección General, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
 
-Los servidores públicos de base o de confianza de CONAFOR estarán obligados a aplicar los Manuales de procedimientos, de operación, de organización y de servicios al público que al efecto emita, así como las disposiciones que emitan las unidades administrativas competentes. Se considerará que dichos manuales y disposiciones son obligatorios cuando los mismos se hayan dado a conocer a los citados servidores públicos y exista la constancia correspondiente o, en su caso, se hayan incorporado en los sistemas electrónicos establecidos por CONAFOR.
-
-Se exceptúa de lo previsto en el párrafo anterior, los casos en que los manuales o las disposiciones se publiquen en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 26.
 
-Los titulares de las unidades administrativas en sus ausencias temporales serán suplidos, indistintamente, por los Directores o Gerentes que de ellos dependan. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por el titular de la unidad administrativa, o en su caso, por el Director General, en el que se señale quién será el suplente.
+Las personas titulares de las Gerencias, en sus ausencias temporales, serán suplidos, indistintamente, por el servidor público que para tal efecto se designe. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por la persona titular de la Dirección General, Gerente, o en su caso, por el titular de la unidad administrativa, en el que se señale quién será el suplente.
 
-Para el caso de que el titular de la unidad administrativa deje de prestar sus servicios por cualquier causa, éste será suplido por el servidor público que designe el Director General, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
+Para el caso de que las personas titulares de las Gerencias adscritos a las diferentes unidades administrativas dejen de prestar sus servicios por cualquier causa, éstos serán suplidos por el servidor público que designe la persona titular de la Dirección General o el titular de la unidad administrativa que se trate, en este último caso, previo el visto bueno la Dirección General, quien deberá contar con el cargo inmediato inferior, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 27.
 
-Los Directores o Gerentes, en sus ausencias temporales, serán suplidos, indistintamente, por los Subdirectores o Subgerentes que de ellos dependan. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por el Director o Gerente, o en su caso, por el titular de la unidad administrativa, en el que se señale quién será el suplente.
-
-Para el caso de que los Directores o Gerentes adscritos a las diferentes unidades administrativas dejen de prestar sus servicios por cualquier causa, éstos serán suplidos por el servidor público que designe el titular de la unidad administrativa que se trate, previo el visto bueno del Director General, quien deberá contar con el cargo inmediato inferior, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
+Las modificaciones al presente Estatuto Orgánico, serán facultad exclusiva de la Junta de Gobierno.
 
 ### CAPÍTULO SÉPTIMO. DE LAS MODIFICACIONES AL ESTATUTO ORGÁNICO
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-Las modificaciones al presente Estatuto Orgánico, serán facultad exclusiva de la Junta de Gobierno.
+La Dirección General tendrá la facultad de presentar ante la Junta de Gobierno, las iniciativas para la modificación del presente Estatuto Orgánico.
 
 ###### ARTÍCULO 29.
 
@@ -898,3 +960,15 @@ PRIMERO.- Para el caso de las Gerencias Estatales que no cuenten con la estructu
 SEGUNDO.- La presente modificación al Estatuto Orgánico de la Comisión Nacional Forestal, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 8 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN DE LOS ARTÍCULOS 4, INCISO B, FRACCIONES II, VI Y IX; 5, FRACCIÓN II Y SU INCISO A); FRACCIÓN III, INCISOS A) Y B); FRACCIÓN IV, INCISOS A), C), D) Y E); FRACCIÓN V, INCISOS A), C), D); FRACCIÓN VI INCISOS A) Y D); FRACCIÓN VII, INCISO D); FRACCIÓN VIII Y SUS INCISOS A), B), C); FRACCIÓN IX; Y SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; 8, PRIMER PÁRRAFO Y LAS FRACCIONES III Y IV; 9 Y 11, PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV, V, VII, IX Y XIII; Y, LAS REFORMAS DEL CONTENIDO DE LOS ARTÍCULOS 10, Y DEL 12 AL 28; Y, SE ADICIONA EL ARTÍCULO CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL".]
+
+PRIMERO.- Para el caso de las Gerencias Estatales que no cuenten con la estructura establecida en el Manual de Organización, continuarán realizando sus facultades, obligaciones y actividades conforme a la estructura con la que cuenten a la entrada en vigor de la presente modificación, hasta en tanto ésta se normalice, sin que ello constituya una falta o incumplimiento alguno.
+
+SEGUNDO.- La presente modificación al Estatuto Orgánico de la Comisión Nacional Forestal, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- Todas las obligaciones atribuidas en manuales, lineamientos, políticas, normas, reglas de operación o cualquier otra normatividad administrativa, a las áreas que en virtud de la emisión de este Estatuto cambian de denominación o se integran a una nueva, se entenderán conferidas a las unidades administrativas o subalternas que derivado del presente Estatuto tengan conferidas las funciones o atribuciones de que se trate; hasta en tanto se realizan las modificaciones conducentes.
