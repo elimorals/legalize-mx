@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-02-05"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2019.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1452,7 +1452,9 @@ XV. Desarrollo Metropolitano;
 
 XVI. Desarrollo Rural;
 
-XVII. Desarrollo Social y Exigibilidad de Derechos Sociales;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+
+XVII. Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales;
 
 XVIII. Educación;
 
@@ -1472,7 +1474,9 @@ XXV. Participación Ciudadana;
 
 XXVI. Planeación del Desarrollo;
 
-XXVII. Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+
+XXVII. Preservación del Medio Ambiente, Cambio Climático, Protección Ecológica y Animal;
 
 XXVIII. Presupuesto y Cuenta Pública;
 
@@ -2526,9 +2530,13 @@ Las remuneraciones que a la entrada en vigor de la Constitución Local sean supe
 
 DÉCIMO NOVENO.- En cumplimiento a lo mandatado en el artículo Trigésimo Noveno Transitorio de la Constitución de la Ciudad de México, en las materias de su competencia, el Congreso deberá adecuar la totalidad del orden jurídico de la Ciudad de México a esta Constitución, a más tardar el 31 de diciembre de 2020.
 
-VIGÉSIMO.- El Congreso tendrá un plazo de 180 días posteriores a la entrada en vigor de esta Ley para expedir la Ley de Patrimonio Histórico, Cultural, Inmaterial y Material, Natural, Rural y Urbano Territorial de la Ciudad de México.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
 
-VIGÉSIMO PRIMERO.- El Congreso tendrá un plazo de 180 días posteriores a la entrada en vigor de esta Ley para expedir la Ley del Registro de la Memoria Oral Histórica de la Ciudad de México.
+VIGÉSIMO.- El Congreso deberá expedir a más tardar durante el Primer Periodo Ordinario de Sesiones del Segundo año Legislativo, la Ley de Patrimonio Histórico, Cultural, Inmaterial y Material, Natural, Rural y Urbano Territorial de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
+
+VIGÉSIMO PRIMERO.- El Congreso deberá expedir a más tardar durante el Primer Periodo Ordinario de Sesiones del Segundo año Legislativo, la Ley del Registro de la Memoria Oral Histórica de la Ciudad de México.
 
 VIGÉSIMO SEGUNDO.- De conformidad con el artículo 25 de la Constitución Política de la Ciudad de México y la fracción XVIII del artículo 13 de la Presente Ley, serán sometidas a consulta las disposiciones que sean aplicables a los pueblos y barrios y comunidades indígenas de la Ciudad de México.
 
@@ -2619,3 +2627,31 @@ G.O. 5 DE FEBRERO DE 2019.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- Las convocatorias que hayan emitido las Comisiones Legislativas señaladas en el artículo 371 del Reglamento del Congreso de la Ciudad de México, previo a la entrada en vigor del presente decreto, se regirán bajo las bases de su convocatoria y de conformidad con las disposiciones aplicables al momento de su emisión.
+
+G.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 74 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, todas las referencias que en los ordenamientos jurídicos se hagan de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, deberán entenderse hechas a la Comisión de (sic) Medio Ambiente, Cambio Climático, Protección Ecológica y Animal.
+
+G.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS VIGÉSIMO Y VIGÉSIMO PRIMERO TRANSITORIOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LA FRACCIÓN XVII, DEL ARTÍCULO 74, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias que en los ordenamientos jurídicos se hagan a la Comisión de Desarrollo Social y Exigibilidad de Derechos Sociales, deberán entenderse hechas a la Comisión de Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales
