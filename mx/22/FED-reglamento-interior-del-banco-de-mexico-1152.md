@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2018-11-15"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -51,17 +51,21 @@ III. Comunicar y dar seguimiento a los acuerdos de la Junta;
 
 IV. Recibir todas las propuestas y documentos dirigidos a la Junta, y
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-V. Certificar los extractos o copias de las actas de las sesiones, con la previa autorización de la Junta;
+V. Certificar los extractos o copias de las actas de las sesiones, e informar de ello a los miembros de la Junta;
 
 > <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 VI. Proporcionar a la Unidad de Transparencia la información de la Junta con la que cuente para el desahogo de solicitudes de información, y
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-VII. Proporcionar asesoría jurídica a los miembros de la Junta de Gobierno que así lo soliciten en los asuntos materia de la competencia de ese órgano colegiado.
+VII. Proporcionar asesoría jurídica a los miembros de la Junta de Gobierno en los asuntos materia de la competencia de ese órgano colegiado, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2019)</small>
+
+VIII. Las demás que establezca la Ley o este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -71,11 +75,15 @@ El Secretario será asistido en sus funciones por un Secretario Adjunto quien pa
 
 La Junta de Gobierno y sus miembros contarán con los investigadores técnicos que la propia Junta determine y que el Banco contratará en los términos que esta establezca. Dichos investigadores técnicos no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 3o.
 
-Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
+Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas, para su validez, al menos por la mayoría de los miembros de la Junta de Gobierno, incluido el Gobernador, que hayan asistido a la sesión y por el Secretario.
+
+El miembro de la Junta de Gobierno que desee abstenerse de firmar algún acta, podrá solicitar al Secretario que se acompañe como apéndice de la misma un documento que contenga las consideraciones particulares de su abstención.
+
+Asimismo, se deberá conservar en un apéndice del acta respectiva un ejemplar de cada uno de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -207,45 +215,19 @@ El Banco contará con un Comité de Transparencia para los efectos de la Ley Gen
 
 El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría de votos y será presidido por el titular de la Unidad de Transparencia, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con invitados permanentes con voz, pero sin voto, quienes serán el Director de Vinculación Institucional y Comunicación y el Director de Administración de Riesgos. Asimismo, contará con una Secretaría y Prosecretaría, cuyos titulares serán designados de conformidad con lo establecido en las reglas de operación del propio Comité.
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
+(DEROGADO DÉCIMO SEGUNDO (SIC) PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)
 
-Adicionalmente, el Banco contará con un Comité de Auditoría con las atribuciones que señala el artículo 29 Bis 2 del presente Reglamento, que estará integrado por un miembro de la Junta de Gobierno que esta designe, cargo que no podrán ocupar el Gobernador, ni el Subgobernador que presida la Comisión de Responsabilidades, así como por dos miembros que no deberán ser integrantes de la Junta de Gobierno, ni empleados de la Institución, igualmente designados por la propia Junta. Los integrantes del Comité no tendrán suplentes.
+> <small>(DEROGADO DÉCIMO TERCERO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
+> <small>(DEROGADO DÉCIMO CUARTO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-El presidente del Comité de Auditoría será el Subgobernador que lo integre.
+> <small>(DEROGADO DÉCIMO QUINTO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MARZO DE 2017)</small>
+> <small>(DEROGADO DÉCIMO SEXTO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-La designación de cada uno de los miembros no institucionales que integren el Comité de Auditoría deberá recaer en un profesional que reúna los requisitos siguientes:
+> <small>(DEROGADO DÉCIMO SÉPTIMO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
-
-I. Gozar de reconocida competencia en materia económica, financiera, contable o jurídica, que cuente con amplia experiencia como miembro de consejos de administración, de comités de auditoría, o que haya desempeñado funciones de auditoría o contraloría, en instituciones financieras de reconocido prestigio;
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
-
-II. Ser de reconocida probidad y contar con excelente reputación y honorabilidad, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
-
-III. No haber sido sentenciado por delitos intencionales; inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano.
-
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
-
-El Comité de Auditoría deberá reunirse cuando menos tres veces al año. El titular de la Unidad de Auditoría, el Director General de Contraloría y Administración de Riesgos, y el auditor externo, podrán asistir a las sesiones y contarán con voz, pero sin voto.
-
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
-
-Con el propósito de dar seguimiento al desempeño de las funciones de auditoría interna y externa del Banco, el Presidente del Comité, podrá reunirse en sesiones privadas con el titular de la Unidad de Auditoría y el auditor externo.
-
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
-
-El Comité de Auditoría podrá solicitar la contratación de expertos independientes que cuenten con prestigio profesional en auditoría, economía, finanzas, contabilidad, control interno o cualquier otra materia que estime conveniente el propio Comité.
-
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
-
-Los honorarios de los miembros no institucionales del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que esta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad deberá quedar establecida en los contratos que al efecto se celebren.
+> <small>(DEROGADO DÉCIMO OCTAVO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
 
@@ -1201,13 +1183,17 @@ La Dirección de Recursos Humanos tendrá las atribuciones siguientes:
 
 I. Emitir disposiciones de carácter administrativo, aplicables a la institución y a su personal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-II. Contratar personal, llevar registro de sus promociones, rotaciones y sanciones, ejecutar los procedimientos y aplicar las sanciones, previstos por las disposiciones laborales, así como en general administrar el pago de salarios y demás prestaciones.
+II. Contratar personal, llevar registro de sus promociones, rotaciones y medidas disciplinarias, así como, en general, administrar el pago de salarios y demás prestaciones;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-En caso que, derivado de la ejecución de los procedimientos y de la aplicación de las sanciones a que se refiere el párrafo anterior, la Dirección de Recursos Humanos detecte posibles faltas administrativas, dará vista a la Dirección de Control Interno o, en su caso, a la Unidad de Auditoría, para que inicie la investigación respectiva y promueva las acciones que procedan;
+II Bis. Ejecutar los procedimientos y aplicar las medidas disciplinarias previstos por las disposiciones laborales.
+
+Para la determinación y, en su caso, aplicación de las medidas disciplinarias a que se refiere el párrafo anterior, la Dirección de Recursos Humanos recabará la información necesaria en términos de las disposiciones aplicables, para lo cual se auxiliará de la Unidad de Investigación en términos del protocolo que para tal efecto establezcan ambas Unidades Administrativas.
+
+Con independencia de lo anterior, la Dirección de Recursos Humanos informará a la Dirección de Control Interno y a la propia Unidad de Investigación de cualquier denuncia o queja que reciba sobre presuntos incumplimientos a las Condiciones Generales de Trabajo, a efecto de que dichas Unidades Administrativas estén en posibilidad de actuar en el ámbito de sus respectivas atribuciones. Asimismo, la Dirección de Recursos Humanos remitirá a la Comisión de Responsabilidades un informe sobre la atención que se haya dado a los casos referidos, con la periodicidad que determine dicho órgano colegiado;
 
 III. Formalizar los actos relativos a la terminación y suspensión de relaciones laborales;
 
@@ -1459,9 +1445,11 @@ IX. Proporcionar la información y documentación que requieran la Dirección de
 
 ARTICULO 29 BIS 1.- La Unidad de Auditoría tendrá, además de las atribuciones señaladas en el artículo 37, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario, fideicomitente o fideicomisario, lo que incluye la revisión del ingreso, egreso, manejo, custodia y aplicación de sus recursos, a fin de verificar el cumplimiento de las disposiciones aplicables al propio Banco o a su personal;
+I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario, fideicomitente o fideicomisario, lo que incluye la revisión del ingreso, egreso, manejo, custodia y aplicación de sus recursos, a fin de verificar el cumplimiento de las disposiciones aplicables al propio Banco o a su personal.
+
+En caso de que, derivado de la práctica de auditorías, advierta conductas o hechos que pudieran implicar faltas administrativas o infracciones a las Condiciones Generales de Trabajo, lo hará del conocimiento de la Unidad de Investigación o de la Dirección de Recursos Humanos, según corresponda en el ámbito de sus respectivas atribuciones. Asimismo, la Unidad de Auditoría remitirá a la Comisión de Responsabilidades un informe sobre los casos referidos, con la periodicidad que determine dicho órgano colegiado;
 
 > <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1475,23 +1463,21 @@ III. Desahogar las solicitudes planteadas al Banco en materia de confirmación d
 
 IV. Verificar a través de auditorías, la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, así como de la información en general;
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+V. (DEROGADA, D.O.F. 9 DE MAYO DE 2019)
 
-V. Evaluar, mediante auditorías e investigaciones administrativas, la gestión de los trabajadores del Banco denunciados por presuntas deficiencias en el desempeño de su empleo, cargo o comisión y, en su caso, llevar a cabo las acciones que correspondan como Autoridad Investigadora, para la investigación de faltas administrativas de dichos trabajadores, incluyendo la elaboración y presentación de los informes de presunta responsabilidad o las denuncias que procedan conforme a derecho;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación, tanto las propias, como las emitidas por las autoridades competentes del Sistema Nacional de Fiscalización, la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas, así como continuar, en su caso, con la investigación respectiva;
+VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación emitidas por las autoridades competentes del Sistema Nacional de Fiscalización, la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas;
 
 > <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
 VII. Suscribir, en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal y con las autoridades competentes del Sistema Nacional de Fiscalización, convenios, acuerdos o programas con fines de cooperación en materia de auditoría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-VIII. Acceder a cualquier tipo de información del Banco incluyendo la clasificada como reservada, confidencial o la sujeta a obligaciones legales de secrecía en materia fiscal, bancaria, fiduciaria, bursátil o de cualquier otra, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fiduciario, exclusivamente para el ejercicio de las facultades que le corresponden en su carácter de Autoridad Investigadora, conforme a las leyes en materia de responsabilidades administrativas y combate a la corrupción.
+VIII. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fideicomitente, fiduciario y fideicomisario. Lo anterior no aplicará a la información sobre la situación patrimonial de los servidores públicos del Banco ni a los expedientes médicos de los mencionados servidores y pensionados del Banco, así como de sus Derechohabientes. Esto con excepción de aquellos casos en que la Junta de Gobierno expresamente lo autorice y así lo instruya a los titulares de las áreas que resguarden dicha información. A efecto de obtener esa autorización, la Unidad de Auditoría habrá de justificar ante la Junta de Gobierno la necesidad de revisar el expediente médico o la situación patrimonial.
 
-El personal de la Unidad de Auditoría que intervenga en la práctica de auditorías y realización de investigaciones de faltas administrativas, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
+El personal de la Unidad de Auditoría que intervenga en la práctica de auditorías deberá guardar estricta reserva sobre la información y documentos que conozca con motivo de sus funciones, así como de sus actuaciones y observaciones;
 
 IX. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
@@ -1503,9 +1489,7 @@ X. Fungir como enlace con la Auditoría Superior de la Federación y demás auto
 
 XI. Atender los requerimientos, observaciones, recomendaciones y solicitudes de la Auditoría Superior de la Federación y demás instancias fiscalizadoras, internas y externas, y proporcionar el auxilio que requieran dichas instancias y las autoridades competentes del Sistema Nacional de Fiscalización para el ejercicio de las atribuciones;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-XII. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como fiscalización y rendición de cuentas, otorguen a la Autoridad Investigadora en el Órgano Interno de Control, incluyendo la interposición de los recursos correspondientes y el otorgamiento de medidas de protección a los testigos o denunciantes, sin perjuicio de las atribuciones que como tal autoridad correspondan a la Dirección de Control Interno conforme al presente Reglamento, y
+XII. (DEROGADA, D.O.F. 9 DE MAYO DE 2019)
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1515,27 +1499,7 @@ XIII. Expedir constancias y certificar copias de los registros o documentos que 
 
 Para efectos de las fracciones X y XI de este artículo, el titular de la Unidad de Auditoría representará al Órgano Interno de Control del Banco.
 
-ARTICULO 29 BIS 2.- El Comité de Auditoría tendrá las atribuciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-I. Aprobar el programa anual de revisiones que le presente el titular de la Unidad de Auditoría y, una vez hecho lo anterior, este último deberá someterlo a la autorización de la Junta;
-
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-II. Analizar los principales resultados y acciones derivadas de las observaciones y oportunidades de mejora detectadas por la Unidad de Auditoría, así como por el auditor externo;
-
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-III. Coordinar reuniones con el titular de la Unidad de Auditoría y con el auditor externo con el objeto de dar seguimiento a las acciones derivadas de las observaciones detectadas por ambas instancias;
-
-IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la atención y seguimiento de los hallazgos y recomendaciones comunicadas por los auditores internos y externo;
-
-V. Elaborar y expedir las reglas necesarias para su operación, y
-
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
-
-VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Unidad de Auditoría, a la Dirección General de Contraloría y Administración de Riesgos o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado, o bien, un investigador técnico de la Junta de Gobierno o de alguno de sus miembros distintos a aquel que presida la Comisión de Responsabilidades.
+ARTICULO 29 BIS 2.- (DEROGADO, D.O.F. 9 DE MAYO DE 2019)
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1575,9 +1539,9 @@ III. Evaluar la gestión de la Coordinación Ejecutiva y su personal, y
 
 IV. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones que realice con motivo del ejercicio de sus facultades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en los artículos 30 Bis 1, 30 Bis 3 y 37, las siguientes:
+ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en los artículos 30 Bis 1 y 30 Bis 3, las siguientes:
 
 > <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1595,17 +1559,9 @@ III. Proponer a la Junta las normas a que se refiere el artículo 46, fracción 
 
 IV. Vigilar la actualización y suficiencia normativa en el Banco, para lo cual llevará el registro de las normas internas que expidan sus Unidades Administrativas, así como supervisar la actualización de las normas, políticas, estándares y procedimientos que conforman el sistema de control interno institucional;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-V. Recibir y atender las quejas y denuncias que presente cualquier persona conforme a lo previsto por la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, los Códigos de Ética y de Conducta del Banco de México, u otras disposiciones relacionadas.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
-
-En los supuestos a que se refiere el párrafo anterior, la Dirección de Control Interno dará vista a la Unidad de Auditoría de las quejas y denuncias que reciba, para que dichas Unidades Administrativas determinen cuál de ellas realizará la investigación correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
-
-En los supuestos que impliquen una posible infracción a las Condiciones Generales de Trabajo, la Dirección de Control Interno dará vista a la Dirección de Recursos Humanos;
+V. Recibir, por medio de la infraestructura tecnológica que administre, las quejas y denuncias que presente cualquier persona en relación con presuntos actos u omisiones que pudieran constituir faltas administrativas, u otras infracciones a la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, los Códigos de Ética y de Conducta del Banco de México, las Condiciones Generales de Trabajo u otras disposiciones relacionadas, y en su caso, turnarlas a la Unidad Administrativa competente para su atención;
 
 > <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1627,13 +1583,11 @@ IX. Proponer al Gobernador las normas, políticas, estándares, procedimientos y
 
 X. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, incluidos aquellos correspondientes a los fideicomisos en los que el Banco actúe como fiduciario y que no cuenten con unidades administrativas especializadas en verificar el cumplimiento de las obligaciones a su cargo, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos, realizando las pruebas de análisis y comprobación requeridas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-XI. Acceder y requerir cualquier tipo de información y documentación del Banco, incluyendo la clasificada como reservada o confidencial o la sujeta a obligaciones legales de secrecía en materia fiscal, bancaria, fiduciaria, bursátil o de cualquier otra, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fiduciario, para el ejercicio de las facultades que le corresponden en su carácter de Autoridad Investigadora, conforme a las leyes en materia de responsabilidades administrativas y combate a la corrupción, así como para promover, evaluar y fortalecer el buen funcionamiento del control interno, incluyendo los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes.
+XI. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fideicomitente, fiduciario o fideicomisario. Lo anterior no aplicará a la información relativa a los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus Derechohabientes, salvo aquellos casos en que la Junta de Gobierno expresamente lo autorice y así lo instruya a los titulares de las áreas que resguarden dicha información. A efecto de obtener esa autorización, la Dirección de Control Interno habrá de justificar ante la Junta de Gobierno la necesidad de revisar el expediente respectivo.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
-
-El personal de la Dirección de Control Interno que intervenga en la realización de investigaciones de faltas administrativas, así como en aquellos actos relacionados con el control interno, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
+El personal de la Dirección de Control Interno que intervenga en aquellos actos relacionados con el control interno, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1653,9 +1607,11 @@ XV. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
 XVI. Llevar los registros de los servidores públicos del Banco que correspondan en términos de la Ley General de Responsabilidades Administrativas y de la Ley General del Sistema Nacional Anticorrupción, así como publicar y mantener actualizada la información de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, para lo cual podrá auxiliarse de las Unidades Administrativas que cuenten con la información correspondiente;
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MAYO DE 2019)</small>
 
-XVII. Recibir, registrar, administrar y, en su caso, inscribir en la Plataforma Digital Nacional las declaraciones de situación patrimonial, curricular y de intereses, así como la constancia de presentación de declaración fiscal, que presenten los servidores públicos en términos de las leyes en materia de responsabilidades administrativas de servidores públicos y combate a la corrupción, así como aplicar los procedimientos de verificación y sistemas para dar seguimiento a las referidas declaraciones, de acuerdo con las disposiciones que al respecto emita el Sistema Nacional Anticorrupción y la Comisión de Responsabilidades y, en su caso, informar a las instancias competentes de la omisión de la presentación de las citadas declaraciones, en términos de la legislación aplicable. De no existir anomalías, expedirá la certificación correspondiente, o en caso contrario, iniciará la investigación respectiva. Las actividades para la verificación y el seguimiento de la situación patrimonial y sobre la posible actualización de conflicto de intereses de los servidores públicos, así como las relativas a la Plataforma Digital Nacional, serán ejecutadas por los trabajadores que designe el Director General de Contraloría y Administración de Riesgos, quienes tendrán el acceso exclusivo a los registros individuales.
+XVII. Recibir, registrar, administrar y, en su caso, inscribir en la Plataforma Digital Nacional las declaraciones de situación patrimonial, curricular y de intereses, así como la constancia de presentación de declaración fiscal, que presenten los servidores públicos en términos de las leyes en materia de responsabilidades administrativas de servidores públicos y combate a la corrupción, así como aplicar los procedimientos de verificación y sistemas para dar seguimiento a las referidas declaraciones, de acuerdo con las disposiciones que al respecto emita el Sistema Nacional Anticorrupción y la Comisión de Responsabilidades y, en su caso, informar a las instancias competentes de la omisión de la presentación de las citadas declaraciones, en términos de la legislación aplicable. De no existir anomalías, expedirá la certificación correspondiente, o en caso contrario, informará a la Unidad de Investigación para que esta actúe en el ámbito de sus atribuciones. Las actividades para la verificación y el seguimiento de la situación patrimonial y sobre la posible actualización de conflicto de intereses de los servidores públicos, así como las relativas a la Plataforma Digital Nacional, serán ejecutadas por los trabajadores que designe el Director General de Contraloría y Administración de Riesgos, quienes tendrán el acceso exclusivo a los registros individuales.
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
 Las personas sujetas a presentar declaraciones de situación patrimonial, curricular, de intereses, así como la constancia de presentación de declaración fiscal, serán las que determinen las leyes y las disposiciones aplicables en la materia, conforme a los lineamientos, criterios y demás resoluciones que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
@@ -1663,9 +1619,9 @@ Las personas sujetas a presentar declaraciones de situación patrimonial, curric
 
 XVIII. Supervisar la ejecución de los procedimientos de contratación pública en términos de la Ley General de Responsabilidades Administrativas;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2019)</small>
 
-XIX. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como fiscalización y rendición de cuentas, otorguen a la Autoridad Investigadora en el Órgano Interno de Control, incluyendo la interposición de los recursos correspondientes y el otorgamiento de medidas de protección a los testigos o denunciantes, sin perjuicio de las atribuciones que como tal autoridad correspondan a la Unidad de Auditoría conforme al presente Reglamento;
+XIX. Resolver, en el ámbito de su competencia, las consultas que le formulen las Unidades Administrativas o los servidores públicos del Banco y emitir las opiniones correspondientes, de conformidad con las disposiciones aplicables;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1849,7 +1805,11 @@ XXIX. Las demás que deriven de la Ley General de Transparencia y Acceso a la In
 
 ### CAPITULO II. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 31 TER.- El Órgano Interno de Control estará integrado por la Junta de Gobierno, la Comisión prevista en el artículo 61 de la Ley, la Dirección de Control Interno, la Unidad de Auditoría, la Unidad de Investigación adscrita a esta última y la Dirección Jurídica, cada una en el ámbito de las atribuciones que, como parte del referido Órgano, les confiere el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 31 Ter.
 
@@ -1913,7 +1873,7 @@ Compete a la Comisión de Responsabilidades, con excepción de los procedimiento
 
 I. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, otorguen a la Autoridad Substanciadora en el Órgano Interno de Control con respecto a las presuntas faltas administrativas cuya resolución corresponda a la Junta de Gobierno o al Tribunal Federal de Justicia Administrativa en términos de las disposiciones legales aplicables, así como ejercer las atribuciones que le correspondan como Autoridad Resolutora, conforme a lo dispuesto en el artículo 61, fracción I, de la Ley.
 
-En aquellos casos de responsabilidad administrativa en que la Dirección de Control Interno haya intervenido como Autoridad Investigadora, el Director General de Contraloría y Administración de Riesgos deberá excusarse de participar en las funciones que correspondan a la Comisión de Responsabilidades, en su carácter de Autoridad Substanciadora;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
 
 II. Coordinar la implementación de las bases, disposiciones, mecanismos de coordinación, protocolos de actuación y políticas públicas que emitan las instancias competentes del Sistema Nacional Anticorrupción, así como la atención de exhortos públicos, recomendaciones no vinculantes y requerimientos de información que emitan dichas instancias, y rendir los informes correspondientes, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes;
 
@@ -1923,21 +1883,153 @@ IV. Emitir, en su carácter de Órgano Interno de Control para los efectos de la
 
 V. Las demás atribuciones que las leyes establezcan únicamente en materia de responsabilidades administrativas de servidores públicos y anticorrupción para los órganos internos de control, que no correspondan a la Junta de Gobierno o a las Unidades Administrativas previstas en el presente Reglamento, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes.
 
-El Secretario de la Comisión recibirá toda la documentación e información relacionada con las atribuciones de la Comisión, excepto tratándose de las denuncias de actos u omisiones que puedan constituir faltas administrativas de los servidores públicos del Banco, las cuales serán recibidas por la Dirección de Control Interno, en su carácter de Autoridad Investigadora.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+El Secretario de la Comisión recibirá toda la documentación e información relacionada con las atribuciones de la Comisión, excepto tratándose de las denuncias de actos u omisiones que puedan constituir faltas administrativas de los servidores públicos del Banco, las cuales serán recibidas por la Unidad de Investigación a través de la infraestructura tecnológica implementada por la Dirección de Control Interno, o los medios que establezca en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 37.
 
-La Dirección de Control Interno y la Unidad de Auditoría, en el ámbito de sus respectivas competencias conforme a lo previsto en el presente Reglamento, realizarán las investigaciones que procedan por actos u omisiones que puedan constituir faltas administrativas en aquellos supuestos que corresponda conocer a dichas Unidades Administrativas de conformidad con dichas competencias, con respecto a los cuales integrarán los expedientes respectivos y, en su caso, calificarán las conductas como faltas administrativas graves o no graves, y elaborarán y emitirán los Informes de Presunta Responsabilidad Administrativa a que se refiere la Ley General de Responsabilidades Administrativas, que deberán presentar a la Dirección Jurídica o a la Comisión de Responsabilidades, según corresponda, en su carácter de Autoridad Substanciadora, en términos de las disposiciones aplicables. En el ejercicio de sus atribuciones como Autoridad Investigadora, las Unidades Administrativas previstas en este párrafo podrán auxiliarse de las Unidades Administrativas que estimen convenientes.
+El Banco contará con una Unidad de Investigación, adscrita a la Unidad de Auditoría, a la cual corresponderá actuar con el carácter de Autoridad Investigadora en el Órgano Interno de Control, sin perjuicio de las demás atribuciones que le confiere el presente Reglamento.
 
-Tratándose de las presuntas infracciones administrativas de los miembros de la Junta de Gobierno y los funcionarios que ocupen puestos comprendidos en los tres primeros niveles más altos del personal del Banco, una vez concluida la investigación, la Dirección de Control Interno o la Unidad de Auditoría, en su ámbito de competencia, remitirá el Informe de Presunta Responsabilidad Administrativa a la Comisión de Responsabilidades, en su carácter de Autoridad Substanciadora, para que, con apoyo de la Dirección Jurídica, lleve a cabo la substanciación y, en su caso, envíe los autos originales del expediente a la Junta de Gobierno o al Tribunal Federal de Justicia Administrativa, según corresponda, para su resolución conforme a la Ley General de Responsabilidades Administrativas.
+Con el referido carácter de Autoridad Investigadora la Unidad de Investigación ejercitará sus atribuciones de conformidad con las fracciones siguientes:
+
+I. Recibirá a través de la infraestructura tecnológica a que se refiere el artículo 30 Bis, fracción V, o por el medio que establezca en términos de las normas aplicables, las quejas y denuncias que presente cualquier persona conforme a lo previsto por la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, los Códigos de Ética y de Conducta del Banco de México, u otras disposiciones relacionadas. En su caso, les dará la atención que corresponda o las turnará a la Unidad Administrativa competente para su atención.
+
+II. Realizará las investigaciones que procedan por actos u omisiones que puedan constituir faltas administrativas de servidores públicos o de particulares, con respecto a los cuales integrará los expedientes respectivos y, en su caso, calificará las conductas como faltas administrativas graves o no graves, y elaborará y emitirá los Informes de Presunta Responsabilidad Administrativa a que se refiere la Ley General de Responsabilidades Administrativas, que deberá presentar a la Dirección Jurídica o a la Comisión de Responsabilidades, según corresponda, en su carácter de Autoridad Substanciadora, en términos de las disposiciones aplicables. En el ejercicio de sus atribuciones como Autoridad Investigadora, la Unidad de Investigación podrá auxiliarse de las Unidades Administrativas del Banco que estime convenientes.
+
+III. Tratándose de las presuntas infracciones administrativas de los miembros de la Junta de Gobierno y los funcionarios que ocupen puestos comprendidos en los tres primeros niveles más altos del personal del Banco, una vez concluida la investigación, la Unidad de Investigación remitirá el Informe de Presunta Responsabilidad Administrativa a la Comisión de Responsabilidades, en su carácter de Autoridad Substanciadora, para que, con apoyo de la Dirección Jurídica, lleve a cabo la substanciación y, en su caso, envíe los autos originales del expediente a la Junta de Gobierno o al Tribunal Federal de Justicia Administrativa, según corresponda, para su resolución conforme a la Ley General de Responsabilidades Administrativas.
+
+IV. La Unidad de Investigación tendrá todas las facultades que las leyes en materia de responsabilidades administrativas y anticorrupción, así como fiscalización y rendición de cuentas, confieren a la Autoridad Investigadora en el Órgano Interno de Control, incluyendo la interposición de los recursos correspondientes y el otorgamiento de medidas de protección a los testigos o denunciantes.
+
+V. En toda investigación se observarán los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos, incorporando las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales.
+
+VI. La Unidad de Investigación podrá formular requerimientos de información a cualquier ente público, persona física o moral y acceder a cualquier tipo de información y documentación del Banco incluyendo la clasificada como reservada, confidencial o la sujeta a obligaciones legales de secrecía en materia fiscal, bancaria, fiduciaria, bursátil o de cualquier otra, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fiduciario, fideicomitente o fideicomisario, conforme a las leyes en materia de responsabilidades administrativas y combate a la corrupción.
+
+VII. La Unidad de Investigación será responsable de la oportunidad, exhaustividad y eficiencia en la investigación, la integralidad de los datos y documentos, así como el resguardo del expediente en su conjunto. Dicha Unidad hará del conocimiento de la Dirección de Control Interno las investigaciones administrativas que conozca para el ejercicio de las atribuciones de esta última. Asimismo, cuando proceda, dará vista a la Dirección de Recursos Humanos.
+
+VIII. El titular de la Unidad de Auditoría designará a los notificadores de entre el personal adscrito a la Unidad de Investigación, para que practiquen las notificaciones que se requieran en las investigaciones administrativas que se realicen, y solicitará a la Dirección de Recursos Humanos la expedición de las credenciales que los identifiquen, de conformidad con las disposiciones aplicables.
+
+IX. La Unidad de Investigación podrá citar a comparecencia, cuando lo estime necesario, al denunciante para la ratificación o ampliación de la denuncia, así como a servidores públicos o particulares que puedan tener conocimiento de los hechos, a fin de constatar la veracidad de los mismos. Además, ordenará la práctica de las actuaciones y diligencias que se requieran en la investigación correspondiente, en términos de las disposiciones aplicables.
+
+X. Para efectos de las atribuciones de este artículo dictará los acuerdos que correspondan, incluido el de conclusión y archivo del expediente.
+
+La Unidad de Investigación podrá expedir constancias y certificar copias de los registros o documentos que sean de su competencia conforme al presente Reglamento o cualquier disposición.
+
+El titular de la Unidad de Investigación podrá suscribir de manera individual los actos correspondientes al ejercicio de sus atribuciones. En sus ausencias, las atribuciones previstas en este artículo serán ejercidas por el titular de la Unidad de Auditoría.
+
+El personal de la Unidad de Investigación deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca.
+
+La Unidad de Investigación elaborará en coordinación con las Unidades Administrativas competentes, protocolos de actuación para asegurar que las investigaciones a su cargo cumplan también con los principios establecidos en este artículo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE MAYO DE 2019)</small>
+
+### CAPITULO II BIS. DEL COMITE DE AUDITORIA
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 1.- La Junta de Gobierno contará con un órgano de asesoría y apoyo denominado Comité de Auditoría, el cual podrá emitir recomendaciones a la propia Junta. La implementación de la decisión que, en su caso, adopte la Junta será supervisada por la Dirección General de Contraloría y Administración de Riesgos y por la Unidad de Auditoría, en ejercicio de sus respectivas atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 2.- El Comité de Auditoría estará integrado por un miembro de la Junta de Gobierno que esta designe, quien lo presidirá, y por dos profesionales que no laboren en el Banco, a quienes se les denominará miembros independientes, cuya contratación apruebe la Junta de Gobierno.
+
+El Presidente del Comité no podrá ser el Gobernador ni el Subgobernador que presida la Comisión de Responsabilidades y no podrá tener suplente.
+
+Los miembros independientes deberán prestar sus servicios personalmente y no deberán ser servidores públicos en otras instituciones, con excepción de quienes presten servicios de carácter docente, científico o cultural en instituciones públicas de ese mismo carácter.
+
+El Subgobernador que presida el Comité de Auditoría durará en este cargo el tiempo que determine la Junta de Gobierno, el cual no podrá ser mayor a cuatro años en un primer periodo y podrá ser prorrogado, por decisión de la propia Junta, hasta por cuatro años adicionales. Los miembros independientes deberán ser contratados por tres años, con posibilidad de contratarlos por un nuevo periodo de tres años adicionales, si la Junta de Gobierno considera que la ampliación de la temporalidad de sus servicios representa una ventaja institucional, tomando en cuenta su desempeño en el Comité y la retroalimentación recibida.
+
+El plazo de los servicios de los miembros independientes será de forma escalonada. Cuando se dé por terminado en forma anticipada el contrato de un miembro independiente, la duración del nuevo que se contrate será sólo por el tiempo que faltare en el contrato terminado.
+
+Los miembros independientes que se contraten para la celebración de las sesiones del Comité de Auditoría deberán reunir los requisitos siguientes:
+
+I. Gozar de reconocida competencia en materia económica, financiera, contable o jurídica, que cuente con amplia experiencia como miembro de consejos de administración o de comités de auditoría, o que haya desempeñado funciones de auditoría o contraloría, en instituciones financieras de reconocido prestigio.
+
+II. Ser de reconocida probidad y contar con excelente reputación y honorabilidad.
+
+III. No haber sido sentenciado por delitos intencionales o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
+
+IV. No tener parentesco por consanguinidad o afinidad hasta el cuarto grado con algún servidor público del Banco; no haber sido servidor público de este, ni ser o haber sido proveedor o prestador de servicios del propio Banco, ni socio, accionista, tenedor de partes sociales, asociado o empleado de alguna persona moral proveedora o prestadora de servicios del Banco, dentro de los cinco años anteriores a su contratación. Dicha prohibición será extensiva para las personas físicas que forman parte de dichos proveedores o prestadores de servicios.
+
+Los honorarios y demás términos que se pacten entre el Banco y los miembros independientes atenderán a que el Comité de Auditoría cuente con servicios idóneos y calificados. Los honorarios serán determinados por la propia Junta de Gobierno tomando en cuenta los que reciban los miembros independientes de los comités de auditoría de las instituciones de banca múltiple y de banca de desarrollo. Al efecto, la Dirección General de Administración deberá presentar a la Junta de Gobierno en el mes de noviembre de cada año un análisis con la información disponible para determinar el monto máximo de honorarios a que se refiere este párrafo.
+
+En los contratos que al efecto se celebren, se deberá establecer que los miembros independientes deberán guardar confidencialidad de los asuntos e información que tengan conocimiento por la prestación de sus servicios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 3.- Las personas titulares de la Unidad de Auditoría, la Dirección General de Contraloría y Administración de Riesgos, y quien funja como auditor externo serán invitados permanentes a las sesiones del Comité de Auditoría y contarán con voz, pero sin voto. Con la finalidad de coadyuvar en el desempeño de sus funciones, el Comité podrá invitar a sus sesiones a las personas que estime conveniente.
+
+El Comité de Auditoría podrá solicitar la contratación de expertos independientes que cuenten con prestigio profesional en auditoría, economía, finanzas, contabilidad, riesgos, control interno o cualquier otra materia que estime conveniente el propio Comité. En los contratos que al efecto se celebren, se deberá establecer que los expertos independientes deberán guardar confidencialidad de los asuntos e información que tengan conocimiento por la prestación de sus servicios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 4.- El Comité de Auditoría tendrá las atribuciones siguientes:
+
+I. Emitir opinión respecto al programa anual de revisiones que le presente la persona titular de la Unidad de Auditoría, a fin de que, con dicha opinión favorable, esta persona lo someta a la autorización de la Junta.
+
+II. Analizar los principales resultados y acciones derivados de las observaciones, recomendaciones y oportunidades de mejora detectadas o emitidas por la Unidad de Auditoría, la Auditoría Superior de la Federación y el auditor externo.
+
+III. Proponer acciones preventivas o correctivas a la Unidad de Auditoría o a la Dirección General de Contraloría y Administración de Riesgos, con base en los hallazgos detectados en las auditorías e informar a la Junta de Gobierno dichas propuestas.
+
+IV. Requerir a las Unidades Administrativas auditadas informes respecto de la atención y seguimiento de los hallazgos, observaciones y recomendaciones comunicados por la Unidad de Auditoría, los auditores externos o la Auditoría Superior de la Federación.
+
+V. Evaluar, en coordinación con las Unidades Administrativas competentes, por lo menos cada dos años, la implementación del Sistema de Control Interno del Banco, la calidad del marco de administración de riesgos no financieros y de las políticas de elaboración de reportes financieros, así como los procesos de publicación de información financiera.
+
+VI. Rendir por escrito, en enero de cada año, un informe anual de actividades a la Junta de Gobierno. Asimismo, deberá rendir a esta, por escrito, en la fecha que el Comité determine, una evaluación del ejercicio de las atribuciones que el artículo 29 Bis 1 de este Reglamento atribuye a la Unidad de Auditoría.
+
+VII. Retroalimentar anualmente y por escrito, con fines de mejora continua, al auditor externo del Banco respecto a su desempeño, en los términos que, al efecto, se establezcan en el contrato de prestación de servicios que se celebre con el citado auditor, y enviar los resultados a la Junta de Gobierno. Asimismo, previa autorización de esta última, podrá enviar los resultados de la retroalimentación a la Secretaría de Hacienda y Crédito Público y al colegio o instituto de contadores públicos que, de conformidad con el artículo 50 de la Ley, haya propuesto la terna correspondiente a dicho auditor, para los efectos de sus respectivos ámbitos de competencia.
+
+VIII. Dar seguimiento anualmente y para efectos de su competencia a la información que le presente la Dirección General de Contraloría y Administración de Riesgos respecto al trámite y atención de denuncias por presuntas faltas administrativas o laborales atribuidas a servidores públicos del Banco o posibles incumplimientos a los Códigos de Ética o de Conducta.
+
+IX. Elaborar y expedir las reglas necesarias para su operación.
+
+X. Emitir opinión respecto al marco normativo aplicable a la Unidad de Auditoría antes de su aprobación por el órgano competente.
+
+XI. Analizar los estados financieros anuales del Banco de México dictaminados por el auditor externo con las Unidades Administrativas responsables de su elaboración y revisión, y con base en ello recomendar a la Junta de Gobierno su aprobación.
+
+XII. Las demás que sean conexas a las anteriormente establecidas que presente a su consideración el Presidente del Comité, previa autorización de la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 5.- El Comité de Auditoría se someterá a una autoevaluación anual, en el mes que el Comité determine y dará a conocer sus resultados por escrito a la Junta de Gobierno, por conducto de quien presida el Comité.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 6.- El Secretario de la Junta de Gobierno y su suplente lo serán también del Comité de Auditoría, quienes contarán con las siguientes atribuciones:
+
+I. Dar asesoría jurídica al Comité de Auditoría en temas relacionados con la competencia de este último.
+
+II. Verificar que las sesiones del Comité se realicen válidamente.
+
+III. Comunicar las convocatorias a los integrantes del Comité por medios físicos o electrónicos, previa instrucción de quien ocupe la Presidencia.
+
+IV. Comunicar los acuerdos del Comité a las instancias competentes inmediatamente después de cerrada la sesión, dar seguimiento a dichos acuerdos y expedir las certificaciones de las constancias que se requieran.
+
+V. Elaborar las actas de las sesiones del Comité que contendrán al menos día, hora, lugar; nombres de los asistentes; temas desahogados y firma de la mayoría de los integrantes del Comité y de su Secretario.
+
+VI. Proporcionar a la Unidad de Transparencia la información del Comité de Auditoría con la que cuente para el desahogo de solicitudes de información y cumplimiento de obligaciones en materia de transparencia y protección de datos personales.
+
+VII. Recibir las propuestas y los documentos dirigidos al Comité.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2019)</small>
+
+ARTICULO 37 BIS 7.- El Comité de Auditoría deberá sesionar, cuando menos, cuatro veces al año, preferentemente en los meses de enero, abril, julio y noviembre.
+
+Las sesiones se celebrarán de manera presencial y, para su validez, será necesaria la comparecencia de cuando menos dos de sus miembros, uno de los cuales deberá ser la persona que tenga a su cargo la Presidencia del propio Comité.
+
+En caso fortuito o fuerza mayor, así calificado por quien ocupe la Presidencia previa opinión del Secretario, podrán celebrarse sesiones a través de los enlaces tecnológicos que el Banco determine.
+
+En casos extraordinarios o de urgencia, dos de los integrantes del Comité podrán convocar a sesión por conducto de la Secretaría.
+
+Las resoluciones del Comité serán válidas con la mayoría de votos de los miembros asistentes a la sesión y, en caso de empate, la Presidencia contará con voto de calidad.
+
+Los integrantes del Comité, junto con la Unidad de Auditoría, se podrán reunir en grupos de trabajo con cualquiera de las Unidades Administrativas del Banco o con los auditores externos. Estas reuniones no se considerarán sesiones formales, por lo que no deben cumplir con los requisitos de forma que prevé este Capítulo.
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
-
-### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### Artículo 38.
 
@@ -2029,9 +2121,11 @@ Los estados financieros de cada ejercicio y los estados de cuenta consolidados m
 
 Al publicarse el balance general se deberá insertar el dictamen del auditor externo del Banco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 40.
 
-Dentro de los treinta días hábiles que sigan a la terminación del ejercicio, se presentarán los correspondientes estados financieros al auditor externo del Banco, para que, dentro de los treinta días hábiles siguientes, los revise y dictamine, hecho lo cual, serán sometidos, por el Gobernador, al examen y, en su caso, a la aprobación de la Junta.
+Dentro de los treinta días hábiles que sigan a la terminación del ejercicio, se presentarán los correspondientes estados financieros al auditor externo del Banco, para que, dentro de los treinta días hábiles siguientes, los revise y dictamine, hecho lo cual, serán sometidos, por el Gobernador, al examen y, en su caso, a la aprobación de la Junta, previa opinión del Comité de Auditoría.
 
 El balance general deberá publicarse dentro de los cinco días hábiles siguientes a la fecha de su aprobación.
 
@@ -2045,9 +2139,7 @@ Dado a conocer el balance general, el Banco publicará, dentro de los quince dí
 
 El Banco publicará semanalmente, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad, Planeación y Presupuesto y, en las ausencias de este, por el Gerente de Contabilidad e Información Financiera.
 
-### CAPÍTULO V. DEL RECURSO DE REVISIÓN
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
+### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 42.
 
@@ -2141,9 +2233,9 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VI. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL RECURSO DE REVISIÓN
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 53.
 
@@ -2254,6 +2346,10 @@ En la sustanciación y resolución del recurso de revisión se aplicará supleto
 En contra de la resolución del recurso de revisión procederá el juicio de amparo, en términos del artículo 107, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y la ley reglamentaria respectiva.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VI. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 65.
 
@@ -2784,3 +2880,23 @@ SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de l
 TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el 10 de mayo de 2019, con excepción de lo previsto en los artículos Segundo, Cuarto y Sexto Transitorios siguientes.
+
+SEGUNDO. Las modificaciones a los artículos 26, 29 Bis 1, 30 Bis, 31 Ter, 36 y 37 de este Reglamento Interior relacionadas con las funciones de la Unidad de Investigación, entrarán en vigor el 12 de agosto de 2019.
+
+TERCERO. La prestación de servicios del miembro independiente del Comité de Auditoría con mayor antigüedad concluirá el 31 de diciembre de 2019. El otro miembro independiente concluirá sus servicios el 31 de diciembre de 2021. Asimismo, el Subgobernador que actualmente preside el Comité concluirá su designación el 31 de diciembre de 2022; sin embargo, la Junta de Gobierno podrá decidir prorrogarla por un periodo adicional de hasta cuatro años.
+
+CUARTO. El artículo 37 Bis 2 relativo a los honorarios de los miembros independientes del Comité de Auditoría, entrará en vigor a partir del 1 de enero de 2020.
+
+QUINTO. A la entrada en vigor de las modificaciones a que se refiere el artículo Primero Transitorio, queda sin efectos cualquier disposición que se oponga a las mismas. Las Reglas de Operación del Comité de Auditoría, en lo que no se opongan a las presentes modificaciones, continuarán en vigor hasta en tanto el Comité expida nuevas Reglas.
+
+SEXTO. A la entrada en vigor de las modificaciones referidas en el artículo Segundo Transitorio, todas las referencias a la Autoridad Investigadora del Órgano Interno de Control del Banco de México, que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a la Unidad de Investigación a que se refiere el artículo 37 del presente ordenamiento.
+
+SÉPTIMO. Las investigaciones que se encuentren en trámite a la entrada en vigor de las reformas a que se refiere el artículo Segundo Transitorio, serán continuadas por la Unidad de Investigación, la cual deberá notificarlo a los investigados.
+
+OCTAVO. La totalidad de los actos jurídicos realizados por el Comité de Auditoría, así como por las demás Unidades Administrativas durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
