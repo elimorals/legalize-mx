@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2019-03-22"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -33,7 +33,7 @@ DECRETO 360
 
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -49,9 +49,11 @@ La presente Ley es de interés social y sus disposiciones son de orden público;
 
 Es de utilidad pública la protección del patrimonio cultural en el Estado; entendiéndose por ésta el conjunto de actividades que hagan posible la investigación, registro, resguardo, conservación, restauración, recuperación, puesta en valor, promoción y difusión del mismo.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 3º.
 
-Para efectos de esta Ley se considera patrimonio cultural estatal, el conjunto de manifestaciones tangibles e intangibles generadas a través del tiempo, desde la prehistoria hasta cincuenta años antes de la fecha que transcurre al momento de su aplicación, por los diferentes grupos sociales que se han asentado en territorio del Estado y que por sus cualidades de significación social o documental, constituyen valores de identidad y autenticidad de la sociedad de donde surgen.
+Para efectos de esta Ley se considera patrimonio cultural estatal, el conjunto de manifestaciones materiales e inmateriales generadas a través del tiempo, desde la prehistoria hasta cincuenta años antes de la fecha que transcurre al momento de su aplicación, por los diferentes grupos sociales que se han asentado en territorio del Estado y que por sus cualidades de significación social o documental, constituyen valores de identidad y autenticidad de la sociedad de donde surgen.
 
 ###### ARTICULO 4º.
 
@@ -87,13 +89,13 @@ XI. Ayuntamiento: los ayuntamientos del Estado de San Luis Potosí;
 
 XII. Organismos auxiliares: las organizaciones civiles cuyo objeto esencial sea la protección del patrimonio cultural en el Estado;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo;
+XIII. Patrimonio cultural material: es el conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
+XIV. Patrimonio cultural inmaterial: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
 
 XV. (DEROGADA, P.O. 22 DE MARZO DE 2018)
 
@@ -115,9 +117,13 @@ Los convenios y tratados internacionales de los que México forme parte, serán 
 
 El patrimonio cultural del Estado de San Luis Potosí estará integrado por los siguientes bienes, que se localicen en su territorio:
 
-I. Patrimonio cultural tangible;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-II. Patrimonio cultural intangible, y
+I. Patrimonio cultural material;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
+
+II. Patrimonio cultural inmaterial, y
 
 III. Todos aquellos que con motivo de convenios y tratados internacionales de los cuales México forme parte, sean susceptibles de ser considerados como tal.
 
@@ -351,7 +357,9 @@ III. Zonas de protección del patrimonio cultural y natural;
 
 IV. Patrimonio documental histórico, y
 
-V. Patrimonio cultural intangible.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
+
+V. Patrimonio cultural inmaterial.
 
 ###### ARTICULO 24.
 
@@ -477,11 +485,15 @@ La revocación deberá ser expedida con un acto de la misma naturaleza jurídica
 
 ## TITULO QUINTO. DEL PATRIMONIO CULTURAL, SISTEMA ESTATAL DE DOCUMENTACION Y DEL REGISTRO ESTATAL DEL PATRIMONIO CUTURAL (SIC)
 
-### CAPITULO I. Del Patrimonio Cultural Tangible
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2019)</small>
+
+### CAPITULO I. Del Patrimonio Cultural Material
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 40.
 
-Se considera patrimonio cultural tangible en el Estado, al conjunto de bienes materiales públicos y privados que se generan en una sociedad, en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
+Se considera patrimonio cultural material en el Estado, al conjunto de bienes materiales públicos y privados que se generan en una sociedad, en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
 
 ###### ARTICULO 41.
 
@@ -511,7 +523,9 @@ III. Sitios de protección del patrimonio cultural: el área urbana o rural susc
 
 a) Sitios históricos: los lugares con características formales y espaciales unitarias, que conjuntan a dos o más bienes inmuebles culturales.
 
-b) Paisajes culturales: los espacios físicos determinados, que asocian dentro de su contexto aspectos naturales y culturales tangibles o intangibles, incluyendo las rutas o trayectos hacia un destino específico, generados por aspectos económicos, sociales, religiosos o de defensa del territorio;
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
+
+b) Paisajes culturales: los espacios físicos determinados, que asocian dentro de su contexto aspectos naturales y culturales materiales o inmateriales, incluyendo las rutas o trayectos hacia un destino específico, generados por aspectos económicos, sociales, religiosos o de defensa del territorio;
 
 IV. Zonas de protección del patrimonio cultural: son los sitios de protección del patrimonio cultural, declarados como tales por el titular del Ejecutivo del Estado;
 
@@ -525,15 +539,21 @@ VI. Las obras literarias de gran significación cultural y social para el Estado
 
 VII. Todos aquellos bienes culturales cuya conservación y salvaguarda representen un interés colectivo.
 
-### CAPITULO II. Del Patrimonio Cultural Intangible
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2019)</small>
+
+### CAPITULO II. Del Patrimonio Cultural Inmaterial
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 42.
 
-Se considera patrimonio cultural intangible, al conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión y simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
+Se considera patrimonio cultural inmaterial, al conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión y simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, de acuerdo a la Declaratoria Estatal o por determinación de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 43.
 
-Por determinación de esta Ley, el patrimonio cultural intangible en el Estado se integra por:
+Por determinación de esta Ley, el patrimonio cultural inmaterial en el Estado se integra por:
 
 I. Ceremonias, fiestas, tradiciones y costumbres de carácter público;
 
@@ -657,7 +677,9 @@ V. Para casos de destrucción total o parcial de bienes culturales, el responsab
 
 Para efectos de este Capítulo, serán solidariamente responsables de las omisiones o acciones violatorias de las disposiciones de esta Ley:
 
-I. Los propietarios o poseedores de los bienes del patrimonio cultural tangible involucrados, cuando las modificaciones a éstos se hagan con su consentimiento;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
+
+I. Los propietarios o poseedores de los bienes del patrimonio cultural material involucrados, cuando las modificaciones a éstos se hagan con su consentimiento;
 
 II. Quienes ordenen o realicen las acciones u omisiones constitutivas de violación;
 
@@ -665,9 +687,11 @@ III. Los notarios públicos que intervengan con motivo de actos traslativos de d
 
 IV. Los técnicos o profesionistas autores de proyectos, directores de obras o actuaciones, que contribuyan por negligencia o dolo a la pérdida de bienes culturales o sus valores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 65.
 
-De conformidad con lo preceptuado en este Ordenamiento, al que por voluntad propia y sin la autorización de la autoridad competente, realice trabajos materiales por excavación, remoción o por cualquier otro medio que dañe, destruya o deteriore el patrimonio tangible en el Estado, la sanción pecuniaria que señala la fracción III del artículo 63 de esta ley, se calculará de la siguiente manera:
+De conformidad con lo preceptuado en este Ordenamiento, al que por voluntad propia y sin la autorización de la autoridad competente, realice trabajos materiales por excavación, remoción o por cualquier otro medio que dañe, destruya o deteriore el patrimonio material en el Estado, la sanción pecuniaria que señala la fracción III del artículo 63 de esta Ley, se calculará de la siguiente manera:
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
@@ -792,5 +816,13 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0140.- SE REFORMA EL ARTÍCULO 41 Y ADICIONA AL MISMO ARTÍCULO 41 UNA FRACCIÓN, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0162.- SE REFORMAN LOS ARTÍCULOS, 3°, 5°, 7°, 23, 40, 41, 42, 43, 64 Y 65 DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
