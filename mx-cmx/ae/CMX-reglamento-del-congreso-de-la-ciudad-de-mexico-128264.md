@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2019-04-03"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE MAYO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -644,9 +644,11 @@ Durante los primeros 15 días del mes de septiembre, la Coordinación de Servici
 
 #### Sección Primera. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MAYO DE 2019)</small>
+
 ###### Artículo 46.
 
-Las sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias, privadas, solemnes o permanentes, todas serán públicas, con excepción de las privadas que serán económicas. Se requiere de la asistencia de la mitad más uno de las y los Diputados que integran el Congreso para abrir cada sesión.
+Las sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias, solemnes o permanentes, todas serán públicas. Se requiere de la asistencia de la mitad más uno de las y los Diputados que integran el Congreso para abrir cada sesión.
 
 Para el desarrollo de las sesiones, deberá permanecer en un lugar visible en el salón de sesiones del Recinto, una o un intérprete traductor de Lenguaje de Señas Mexicanas, o en su caso los necesarios, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
 
@@ -752,17 +754,11 @@ La sesión permanente podrá darse por terminada cuando así lo acuerde el Pleno
 
 ###### Artículo 56.
 
-Se presentarán en sesión privada:
-
-I. Los asuntos puramente económicos del Congreso, y
-
-II. Los demás que determine la Mesa Directiva.
+(DEROGADO, G.O. 9 DE MAYO DE 2019)
 
 ###### Artículo 57.
 
-Durante la sesión privada permanecerán en el Recinto únicamente las y los Diputados, las y los empleados y funcionarios administrativos del Congreso, y cualquier otra persona que la o el Presidente de la Mesa Directiva autorice
-
-Las y los concurrentes están obligados a guardar la más absoluta reserva sobre los asuntos tratados en la sesión.
+(DEROGADO, G.O. 9 DE MAYO DE 2019)
 
 #### Sección séptima. De la Realización de los Parlamentos
 
@@ -1844,7 +1840,9 @@ Las personas físicas o morales de nacionalidad mexicana podrán presentar petic
 
 Las peticiones se clasifican de la siguiente forma:
 
-I. Legislativas, las que contienen una opinión o propuesta de modificación a las normas legales vigentes;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+
+I. Legislativas, las que contienen una opinión de iniciativas a que se refiere el artículo 25, numeral 4, de la Constitución Política del Ciudad de México, así como el artículo 107, tercer párrafo, de la Ley Orgánica del Congreso de la Ciudad de México o propuesta de modificación a las normas legales vigentes;
 
 II. De gestión, las que soliciten un trámite o mediación ante otra instancia;
 
@@ -2408,7 +2406,9 @@ VII. Distribución del orden del día;
 
 a) Elaboración de las actas de las sesiones;
 
-b) Cuidar que las iniciativas, dictámenes o documentos que vayan a ser discutidos en las reuniones de trabajo de la Comisión se distribuyan y entreguen a las y los Diputados integrantes con un mínimo de 48 horas anteriores a la celebración de la misma, lo anterior con excepción de caso urgente cuyo término de distribución será en un mínimo de 24 horas.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
+
+b) Cuidar que las iniciativas, dictámenes o documentos que vayan a ser discutidos en las reuniones de trabajo de la Comisión se distribuyan y entreguen a las y los Diputados integrantes con un mínimo de 72 horas anteriores a la celebración de la misma, lo anterior con excepción de caso urgente cuyo término de distribución será en un mínimo de 24 horas
 
 c) Coordinar los trabajos de las y los asesores asignados a la Comisión;
 
@@ -2486,7 +2486,7 @@ III. Emitir su voto en los puntos que se sometan a su consideración, cuando as�
 
 IV. Justificar por escrito las inasistencias a las reuniones de trabajo de la Comisión o Comité;
 
-V. Mantener la confidencialidad de los asuntos que se discutan en las reuniones de trabajo de carácter privado de la Comisión o Comité, y
+V. (DEROGADA, G.O. 9 DE MAYO DE 2019)
 
 VI. Observar las medidas necesarias para conservar el orden y respeto debidos durante las reuniones de trabajo.
 
@@ -2724,7 +2724,9 @@ VI. Para llevarse a cabo las sesiones de las Comisiones se deberá de contar con
 
 VII. La versión estenográfica será puesta a consideración de las y los integrantes de la Comisión en la siguiente sesión, en su caso tendrá valor probatorio pleno, salvo lo anterior, sin perjuicio de que los acuerdos adoptados por la Comisión en la sesión respectiva obliguen desde el momento que fueron tomados, y
 
-VIII. Cualquier de las y (sic) Diputados podrán solicitar copia de las versiones estenográficas de las Comisiones o Comités, aún y cuando no sean integrantes de las mismas, excepto cuando se trate de sesiones secretas. El Congreso a través de las unidades administrativas competentes, garantizará que las y los Diputados y la población en general tenga acceso a esta información a través de sistemas de cómputo, mecanismos, instrumentos expeditos, ágiles, eficientes y económicos.
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+
+VIII. Cualquiera de las Diputadas y Diputados podrán solicitar copia de las versiones estenográficas de las Comisiones o Comités, aún y cuando no sean integrantes de las mismas. El Congreso a través de las unidades administrativas competentes, garantizará que las y los Diputados y la población en general tenga acceso a esta información a través de sistemas de cómputo, mecanismos, instrumentos expeditos, ágiles, eficientes y económicos.
 
 ###### Artículo 234.
 
@@ -2758,9 +2760,11 @@ A la comunicación que no amerite mayor trámite, se responderá de enterado.
 
 #### Sección Cuarta. Del Carácter de las Reuniones
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
+
 ###### Artículo 237.
 
-Las reuniones de trabajo de la Comisión podrán ser públicas o privadas. Las reuniones serán privadas cuando por la naturaleza de los temas a tratar, la Junta Directiva así lo acuerde, y preferentemente no deberán sesionar los días que exista sesión del Pleno, a menos que se trate de un asunto urgente.
+Las reuniones de trabajo de la Comisión deberán ser públicas.
 
 ###### Artículo 238.
 
@@ -2930,7 +2934,9 @@ Los puntos resolutivos deberán expresar el sentido del dictamen, mediante propo
 
 Todos los dictámenes deberán ser dirigidos al Honorable Congreso de la Ciudad de México en hojas membretadas que contengan la leyenda de la o las Comisiones de las cuales se forme parte y deberán contar con la firma de la mayoría de las y los integrantes. Las y los Diputados que disientan del contenido pueden suscribir el dictamen agregando la leyenda "en contra" o "en abstención". De igual forma, podrán expresar la reserva de artículos que así consideren o bien podrán anunciar la presentación de un voto particular.
 
-La o el Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, junto con la convocatoria a la reunión en que se discuta y se vote. Tratándose de una iniciativa preferente se deberá circular con un mínimo de 24 horas previas a su discusión y votación.
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
+
+La o el Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, junto con la convocatoria a la reunión en que se discuta y se vote, con un mínimo de 72 horas anteriores a la celebración de la misma lo anterior con excepción de caso urgente cuyo término de distribución será en un mínimo de 24 horas.
 
 ###### Artículo 258.
 
@@ -3996,7 +4002,7 @@ XV. Registro de asistencia e inasistencia de las y los Diputados a las sesiones 
 
 XVI. Significado de las siglas y abreviaturas incluidas.
 
-No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, G.O. 9 DE MAYO DE 2019)</small>
 
 El Congreso a través de las unidades administrativas competentes, garantizará que las y los Diputados y el público en general tengan acceso al Diario de los Debates, a las versiones estenográficas y a la información que se genere en las sesiones, a través del sitio oficial de Internet del Congreso, de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos.
 
@@ -5096,7 +5102,13 @@ XIII. Servicios del Diario de los Debates, que comprende los de la elaboración 
 
 XIV. Elaborar un Sistema de Información Legislativa, a través de la Coordinación de Servicios Parlamentarios, a efecto de integrar, recopilar, actualizar, mantener, sistematizar y publicar la información relevante dentro del proceso legislativo con las actualizaciones de las modificaciones a la legislación de la Ciudad;
 
-XV. Las demás que señale la ley, y el presente Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE MAYO DE 2019)</small>
+
+XV. Generar de manera coordinada con la Unidad de Transparencia una aplicación para dispositivos móviles denominada "CONGRESO DIGITAL CIUDAD DE MÉXICO", se publiquen a la brevedad las iniciativas, proyectos de dictamen, versiones estenográficas, acuerdos, orden del día y el marco jurídico vigente para la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE MAYO DE 2019)</small>
+
+XVI. Las demás que señale la ley y el presente Reglamento.
 
 ###### Artículo 488.
 
@@ -5933,3 +5945,21 @@ G.O. 3 DE ABRIL DE 2019.
 PRIMERO: El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO: Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 487 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+TERCERO. La Oficialía Mayor del H. Congreso de la Ciudad de México hará las adecuaciones y ajustes de carácter administrativo para dar cumplimiento al presente decreto.
+
+G.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 46, FRACCIÓN I DEL ARTÍCULO 165, INCISO B), FRACCIÓN VII DEL ARTÍCULO 215, FRACCIÓN VIII DEL ARTÍCULO 233, ARTÍCULO 237 Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 257; Y SE DEROGAN LOS ARTÍCULOS 56, 57, FRACCIÓN V DEL ARTÍCULO 220 Y ANTEPENÚLTIMO PÁRRAFO DEL ARTÍCULO 358, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
