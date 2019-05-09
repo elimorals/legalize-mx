@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-03-05"
+last_updated: "2019-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -779,9 +779,9 @@ IX. Equidad de género, la protección de la familia, el impulso a los programas
 
 X. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-XI. Impulso a la cultura y al desarrollo de las formas específicas de organización social y/o económica, constituidos en figuras asociativas, con la capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo rural sustentable del Estado;
+XI. Impulso a la cultura y al desarrollo de las formas específicas de organización social y/o económica, constituidos en figuras asociativas, con la capacidad productiva de los pueblos indígenas, unidades productivas familiares y grupos de trabajo de mujeres y jóvenes rurales, particularmente para su integración al desarrollo rural sustentable del Estado;
 
 XII. Promoción del empleo productivo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo en las áreas agropecuaria, comercial, industrial y de servicios;
 
@@ -1322,6 +1322,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 5 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0126.- SE REFORMAN LOS ARTÍCULOS 3°, Y 20; Y ADICIONA AL ARTÍCULO 20 LA FRACCIÓN VIII, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0161.- SE REFORMA EL ARTÍCULO 35 EN SU FRACCIÓN XI, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
