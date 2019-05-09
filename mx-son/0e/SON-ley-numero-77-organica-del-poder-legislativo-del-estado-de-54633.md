@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2019-03-14"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE MAYO DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2069,29 +2069,49 @@ El Parlamento Juvenil del Estado de Sonora estará integrado por:
 
 I.- El Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, quien lo presidirá.
 
-II.- El Director General del Instituto Sonorense de la Juventud.
+II.- (DEROGADA, B.O. 9 DE MAYO DE 2019)
 
 III.- El Secretario Técnico, que recaerá en el Director General Jurídico del Congreso del Estado.
 
-IV.- Treinta y tres jóvenes que fungirán como parlamentarios juveniles, con sus respectivos suplentes, y serán nombrados por tres años, en el primer periodo de sesiones de cada legislatura, por un comité de selección integrado por cinco personas. Este Comité de Selección concluirá sus funciones una vez que el Congreso apruebe a los treinta y tres parlamentarios juveniles.
+> <small>(REFORMADA, B.O. 9 DE MAYO DE 2019)</small>
+
+IV.- Treinta y tres jóvenes que fungirán como parlamentarios juveniles, con sus respectivos suplentes, y serán nombrados cada año, en el segundo periodo de sesiones ordinarias de cada legislatura, por un comité de selección integrado por cinco personas. Este Comité de Selección concluirá sus funciones una vez que el Congreso apruebe a los treinta y tres parlamentarios juveniles.
 
 La designación de (sic) Parlamentario Juvenil será honorífica, por lo que no se percibirá remuneración alguna por su desempeño.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 206.
 
-El Presidente del Parlamento será el responsable de proponer al Congreso del Estado el Comité Seleccionador, debiendo incluir:
+El Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, será el responsable de proponer al Congreso del Estado el Comité Seleccionador, debiendo incluir:
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
 
 I.- Una persona con experiencia en el tema deportivo.
 
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
 II.- Una persona con experiencia en el tema de Derechos Humanos.
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
 
 III.- Una persona con experiencia en el tema de salud.
 
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
 IV.- Una persona con experiencia en el tema de Economía.
 
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
 V.- Una persona con experiencia en el tema de igualdad de género.
+
+> <small>(ADICIONADA, B.O. 9 DE MAYO DE 2019)</small>
+
+VI.- Una persona con experiencia en el tema de Ciencia y Tecnología.
+
+> <small>(ADICIONADO, B.O. 9 DE MAYO DE 2019)</small>
+
+Los jóvenes que hayan integrado el Parlamento Juvenil, podrán ser llamados para ser parte del comité seleccionador para posteriores parlamentos, con la finalidad de considerar la opinión y experiencia desarrollada por los mismos, esto a efecto de enriquecer y fortalecer la figura en cuestión.
 
 > <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
@@ -2103,27 +2123,41 @@ I.- Elaborar y presentar propuestas para implementar políticas públicas ante e
 
 II.- Elaborar y presentar iniciativas ante el Poder Legislativo del Estado.
 
-III.- Sesionar en el pleno del Congreso del Estado de manera ordinara (sic) cada seis meses, y de manera extraordinaria cuando sea necesario.
+> <small>(REFORMADA, B.O. 9 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+III.- Sesionar en el pleno del Congreso del Estado una vez al año, en la fecha señalada en la convocatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 208.
 
-La convocatoria para la integración del Parlamento Juvenil del Estado será emitida por el Congreso, en coordinación con el Instituto Sonorense de la Juventud, dentro de los dos meses del primer periodo ordinario de sesiones de cada legislatura, debiéndose publicar en la página electrónica del Congreso del Estado y en medios de comunicación, y deberá contener al menos:
+La convocatoria para la integración del Parlamento Juvenil del Estado será emitida por el Congreso, por conducto de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud, en coordinación con el Instituto Sonorense de la Juventud, dentro de los dos meses del segundo periodo de sesiones ordinarias de cada legislatura, debiéndose publicar en la página electrónica del Congreso del Estado y en medios de comunicación, y deberá contener al menos:
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
 
 I.- Las bases y requisitos para participar en el proceso de selección.
 
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
 II.- Las fechas de registro y de elección.
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
 
 III.- El proceso o mecanismo de selección.
 
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
 IV.- Del mecanismo para que se privilegie la igualdad de género en la elección.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, B.O. 9 DE MAYO DE 2019)</small>
+
+V.- La edad para integrar el Parlamento Juvenil del Estado, oscilará entre los 12 y 24 años de edad.
+
+> <small>(REFORMADO, B.O. 9 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 209.
 
-Los acuerdos que se aprueben en las sesiones del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes. De cada sesión se levantará el acta correspondiente y será publicada en el Boletín Oficial del Estado.
+Los acuerdos que se aprueben en la sesión del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes. En la sesión se levantará el acta correspondiente y será publicada en el Boletín Oficial del Estado.
 
 En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absoluta de sus integrantes la mesa directiva que fungirá para esa sesión, así como el orden del día correspondiente.
 
@@ -2561,11 +2595,13 @@ B.O. 14 DE MARZO DE 2019.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+B.O. 9 DE MAYO DE 2019.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 14, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 18 DE MAYO DE 2020.
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 1° de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LOS TRABAJADORES DE LA SALUD”.]
 
