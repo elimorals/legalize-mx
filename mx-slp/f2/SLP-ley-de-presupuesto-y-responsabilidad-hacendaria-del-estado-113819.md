@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2018-12-27"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -34,7 +34,9 @@ DECRETO 0181
 
 La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -408,7 +410,9 @@ La Secretaría queda facultada para elaborar los calendarios de presupuesto de l
 
 La Secretaría cumplirá los calendarios de presupuesto autorizados a los ejecutores del gasto, en los términos de las disposiciones aplicables, de acuerdo con la disponibilidad de los recursos financieros.
 
-La Secretaría podrá establecer plazos para que las dependencias y entidades subsanen subejercicios en sus presupuestos; también podrá reasignar dichos subejercicios a programas sociales y de inversión en infraestructura aprobados en el Presupuesto de Egresos, cuando las dependencias y entidades no sean capaces de ejercer los recursos.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
+
+La Secretaría deberá establecer plazos para que las dependencias y entidades subsanen subejercicios en sus presupuestos; o en su defecto, y justificadamente, deberá reasignar dichos subejercicios a programas sociales y de inversión en infraestructura aprobados en el Presupuesto de Egresos, cuando las dependencias y entidades no sean capaces de ejercer los recursos.
 
 Tratándose de municipios, las unidades de administración deberán elaborar los respectivos calendarios de gasto y someterlos a la consideración del cabildo, dentro de los primeros quince días del ejercicio.
 
@@ -1164,9 +1168,17 @@ VI. Incumplan con la obligación de proporcionar en tiempo y forma la informaci�
 
 VII. Realicen actos que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de los ejecutores del gasto, unidades responsables y programas;
 
-VIII. Realicen acciones que deliberadamente generen subejercicios por incumplimiento de los objetivos y metas anuales en sus presupuestos, y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
 
-IX. Infrinjan las disposiciones generales que emitan la Secretaría, la Contraloría, los órganos de control interno de los ejecutores del gasto, y la Auditoría, en el ámbito de sus respectivas atribuciones.
+VIII. Realicen acciones que deliberadamente generen subejercicios por incumplimiento de los objetivos y metas anuales en sus presupuestos;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2019)</small>
+
+IX. Infrinjan las disposiciones generales que emitan la Secretaría, la Contraloría, los órganos de control interno de los ejecutores del gasto, y la Auditoría, en el ámbito de sus respectivas atribuciones, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2019)</small>
+
+X. No subsanar los subejercicios presupuestales en los plazos que la Secretaría determine, en términos del artículo 23 de esta Ley.
 
 ###### ARTÍCULO 83.
 
@@ -1297,6 +1309,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0024.- SE REFORMAN LOS ARTÍCULOS 19 Y 20; Y ADICIONA AL ARTÍCULO 20 DOS PÁRRAFOS, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0164.- SE REFORMAN LOS ARTÍCULOS 23 Y 82; Y ADICIONA AL ARTÍCULO 82 LA FRACCIÓN X, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
