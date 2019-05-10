@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2017-12-01"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -152,6 +152,18 @@ XIV.- Fomentar en el individuo la cultura de la informática y alfabetización d
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
 
 XV.- Todas las escuelas sin excepción alguna incluirán en sus diversos programas de estudios el lenguaje no discriminatorio y con perspectiva de género, para que los educandos en cualquiera de sus niveles lo utilicen en los diversos ámbitos de su vida cotidiana y que esto permita el uso del mismo en todos los ámbitos sociales.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE MAYO DE 2019)</small>
+
+XVI. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera entre los educandos, conforme a cada etapa de su vida, bajo las siguientes bases:
+
+a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+
+b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+
+c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos; y
+
+d) Promover la generosidad en el uso de los recursos, en vistas de promover la solidaridad social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -1890,3 +1902,11 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 254.- SE ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
