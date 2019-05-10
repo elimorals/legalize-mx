@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-instituciones-asistenciales-publicas-y-privadas-para-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2018-01-17"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de marzo de 2015.
 
@@ -261,9 +261,11 @@ Los expedientes individuales, podrán ser consultados en cualquier tiempo por lo
 
 ### CAPÍTULO ÚNICO. REQUISITOS PARA OBTENER EL AVISO DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### Artículo 17.
 
-Las Instituciones Asistenciales para su legal funcionamiento deberán formar parte del Registro Estatal de Instituciones Asistenciales que para efectos de control y vigilancia elabore la Secretaría de Salud. Esta a su vez otorgará, en su caso, el Aviso de Funcionamiento Respectivo dentro de un plazo que no podrá exceder de treinta días hábiles, contados a partir del día siguiente de la fecha en que se presente la solicitud del mismo.
+Las instituciones Asistenciales para su legal funcionamiento deberán formar parte del Registro Estatal de Instituciones Asistenciales que para efectos de control y vigilancia elabore la Secretaría de Salud. Esta a su vez, otorgará, en su caso, el Aviso de Funcionamiento Respectivo dentro de un plazo que no podrá exceder de treinta días hábiles, contados a partir del día siguiente de la fecha en que se presenta la solicitud del mismo. El Aviso de Funcionamiento, deberá ser refrendado cada 5 años, por la misma autoridad emisora.
 
 ###### Artículo 18.
 
@@ -273,9 +275,11 @@ Para obtener el Aviso de Funcionamiento a que se refiere el artículo anterior, 
 
 ### CAPÍTULO PRIMERO. DE LAS INSTALACIONES
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### Artículo 19.
 
-Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales deberán contar con los servicios indispensables para proporcionar a los Residentes el bienestar, la comodidad, seguridad e higiene necesarias.
+Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales deberán contar con los servicios e instalaciones indispensables para proporcionar a los Residentes el bienestar, la comodidad, seguridad e higiene necesarias.
 
 ###### Artículo 20.
 
@@ -295,25 +299,71 @@ Las Instituciones Asistenciales deberán de realizar simulacros periódicamente 
 
 ### CAPÍTULO SEGUNDO. DEL PERSONAL
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### Artículo 24.
 
-El personal de las Instituciones Asistenciales, independientemente de su categoría y con el objeto del mejoramiento constante de sus funciones, deberá asistir a cursos, capacitaciones, exhibiciones, seminarios, conferencias, mesas de diálogo o diplomados, que en relación con cada una de sus áreas de trabajo organicen las Autoridades respectivas.
+El personal de las Instituciones Asistenciales, independientemente de su categoría y con el objetivo de mejoramiento constante de sus funciones, deberá asistir a cursos, capacitaciones, exhibiciones, seminarios, conferencias, mesas de diálogo o diplomados, así como en temas relacionados con el proceso de envejecimiento, la educación continua en la materia, plan de contingencias, preferentemente una vez al año.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 25.
 
-Para pertenecer al personal de una Institución Asistencial, será obligatorio cumplir con los siguientes requisitos:
+Las Instituciones Asistenciales con establecimientos de asistencia social permanente para personas adultas mayores, deberán de contar preferentemente con el siguiente personal:
 
-a) Contar con una edad mínima de 18 años cumplidos;
+I. Responsable sanitario del establecimiento;
 
-b) Acreditar el grado de estudios que solicite la propia Institución Asistencial;
+II. Médico o Médico Especialista en Geriatría;
 
-c) Asistir a una reunión informativa impartida por personal de la propia Institución Asistencial, o por quien ésta designe;
+III. Psicólogo(a);
 
-d) Aplicar una evaluación psicológica;
+IV. Terapeuta ocupacional;
 
-e) Presentar carta de no antecedentes penales; y
+V. Enfermera(o);
 
-f) Las demás que requiera la propia Institución Asistencial.
+VI. Cuidador(a);
+
+VII. Trabajador(a) social, solo para los establecimientos de los sectores público y social;
+
+VIII. Dentista;
+
+IX. Cocinera(o);
+
+X. Intendente;
+
+XI. Vigilante, las 24 horas.
+
+Las Instituciones Asistenciales con establecimientos de asistencia social temporal para personas adultas mayores, deberán de contar preferentemente con el siguiente personal:
+
+I.- Responsable sanitario del establecimiento;
+
+II.- Trabajador(a) social, solo para los establecimientos de los sectores público y social;
+
+III.- Terapeuta ocupacional;
+
+IV.- Promotor(a) de salud;
+
+V.- Cocinera(o);
+
+VI.- Intendente;
+
+VII.- Cuidador(a);
+
+VIII.- Vigilante, las 24 horas.
+
+Independientemente de las profesiones u oficios que se mencionan en los párrafos anteriores, para ser personal de una Institución Asistencial, es obligatorio que la persona cumpla con los requisitos siguientes:
+
+I.- Contar con una edad mínima de 18 años cumplidos;
+
+II.- Acreditar el grado de estudios profesionales que se mencionan en los párrafos anteriores del presente artículo.
+
+III.- Asistir a una reunión informativa impartida por personal de la propia Institución Asistencial, o por quien ésta designe;
+
+IV.- Aplicar una evaluación psicológica;
+
+V.- Presentar constancia de no antecedentes penales; y
+
+VI.- Las demás que requiera la propia Institución Asistencial.
 
 ###### Artículo 26.
 
@@ -456,3 +506,11 @@ Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en 
 Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
 
 Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 117. SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 17, 19, 24 Y 25 TODOS DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
