@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2018-01-23"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -15763,6 +15763,10 @@ Asimismo, se prohibe a los encargados de los establecimientos paraestatales y or
 
 El contrato de arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe de quinientas unidades de medida y actualización, el contrato se otorgará en escritura pública.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2019)</small>
+
+El arrendador no podrá exigir la firma de pagarés por cada mensualidad a cubrir por el arrendatario.
+
 ###### ARTÍCULO 2843.
 
 El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
@@ -21208,3 +21212,11 @@ P.O. 23 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1160.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3009 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 251.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2842 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
