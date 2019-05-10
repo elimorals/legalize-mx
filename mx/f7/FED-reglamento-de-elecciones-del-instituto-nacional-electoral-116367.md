@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2019-02-08"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2019.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7926,5 +7926,33 @@ Tercero: El modelo de planeación y visión estratégica institucional se propon
 Cuarto: Respecto del Comité de Planeación Institucional, hasta en tanto se realicen los ajustes a las normas que rigen su integración y funcionamiento, el Secretario Ejecutivo designará de entre el personal a su cargo a quien ocupará la Secretaría Técnica de dicho Comité, a fin (sic) posibilitar la continuidad en las funciones de ese órgano.
 
 Quinto: La DEA dará seguimiento a los procedimientos para la creación, gestión, control y cierre de los proyectos específicos incorporados en la Cartera Institucional de Proyectos, así como los ajustes que se requieran a los mismos, de conformidad con los Lineamientos para la Administración de la Cartera Institucional de Proyectos.
+
+D.O.F. 10 DE MAYO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DE LA COMISIÓN DE FISCALIZACIÓN DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ANEXO 10.1 DEL REGLAMENTO DE ELECCIONES RELATIVO AL PROCEDIMIENTO PARA LA CAPTURA EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS".]</small>
+
+PRIMERO. Se aprueba el presente Acuerdo por el que se modifica el Anexo 10.1 del Reglamento de Elecciones "Procedimiento para la operación del Sistema Nacional de Registro de Precandidatos y Candidatos", que se encuentra adjunto al presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir de su aprobación.
+
+[…]
+
+SEXTO. Publíquese el presente Acuerdo y la modificación del Anexo 10.1 del Reglamento de Elecciones en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del anexo en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+Primero. Las modificaciones al Anexo 10.1 del Reglamento de Elecciones descrito en el presente Acuerdo serán aplicables a partir del periodo de campaña del proceso electoral local 2018-2019 y para los procesos electorales posteriores
+
+El Acuerdo completo y anexos que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica:
+
+Página INE:
+
+https://www.ine.mx/reglamento-de-elecciones/
+
+Página DOF:
+
+www.dof.gob.mx/2019/INE/CF_005_2019.pdf
+
+Ciudad de México, 26 de marzo de 2019.- El Encargado del Despacho de la Unidad Técnica de Fiscalización, Carlos Alberto Morales Domínguez.- Rúbrica.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
