@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-03-25"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -2671,19 +2671,19 @@ IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan dismin
 
 V. El aprovechamiento sustentable de minerales y sustancias no reservadas a la Federación.
 
-(ADICIONADO, P.O. 26 DE ENERO DE 2018) (F. DE E., P.O. 9 DE FEBRERO DE 2018)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 168 Bis.
 
-Para la protección ambiental del Estado de Nuevo León y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+Para la protección ambiental del Estado de Nuevo León y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se prohíbe la venta y la dadiva de bolsas en las cajas de cobro en supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados, comercios, y demás similares, elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, para fines de envoltura, transportación, carga o traslado de alimentos, bebidas o productos que ahí se expendan.
 
-> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 10 DE MAYO DE 2019)</small>
 
-Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sean con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E-267 o las que la sustituyan.
+Queda prohibida la venta y la dádiva de bolsas de plástico, dentro de los establecimientos, fuera del área de cajas de cobro, de los supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados, comercios y demás similares, elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados que en su elaboración no cuenten con al menos el cincuenta por ciento de material reciclado, y que las fabricación de dichas bolsas de plástico sean con materiales y procesos de tecnología que permitan su ágil degradación acorde con la norma NMX-E-267-CNCP-2019 o las que las sustituyan.
 
-> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 10 DE MAYO DE 2019)</small>
 
-El Porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
+El porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias, las cuales anualmente deberán ajustarse
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2019)</small>
 
@@ -3976,3 +3976,13 @@ P.O. 25 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I A XCVI DEL ARTÍCULO 3; LAS FRACCIONES VI Y VII DEL ARTÍCULO 190; Y POR ADICIÓN LAS FRACCIONES XCVII, XCVIII, XCIX, C DEL ARTÍCULO 3, Y LA FRACCIÓN VIII DEL ARTÍCULO 190 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 170 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 116. SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO Y POR DEROGACIÓN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 168 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Todos los establecimientos señalados en el Artículo 168 Bis de la Ley Ambiental del Estado de Nuevo León, tendrán un plazo de 365 días naturales, contados a partir de la entrada en vigor de la presente reforma, para hacer efectiva (sic) dichas prohibiciones.
+
+Tercero.- El Ejecutivo del Estado, deberá realizar las modificaciones necesarias a sus reglamentos y a las normas jurídicas que correspondan, dentro de un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
