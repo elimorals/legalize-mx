@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-04-12"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1027,6 +1027,10 @@ VII. En materia de educación y cultura, asistencia y salud públicas:
 
 8. Contar con una instancia municipal de la mujer, con el fin de institucionalizar la perspectiva de género y crear criterios de igualdad, fortaleciendo la ciudadanía de las mujeres y asegurar igualdad de oportunidades al eliminar las desventajas por la condición de género.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2019)</small>
+
+9. Promover planes transversales con perspectiva de género para fomentar el respeto a la equidad e igualdad sustantiva entre mujeres y hombres.
+
 VIII. En materia de participación ciudadana y vecinal:
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2018)</small>
@@ -1281,6 +1285,10 @@ VII. Las demás que determinen las leyes y reglamentos aplicables en materia de 
 
 El Ayuntamiento, a propuesta del presidente municipal o de sus regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y, para tal efecto, los analizarán y emitirán un dictamen que someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2019)</small>
+
+Las comisiones a las que refieren los artículos 112, 113, 113 BIS, 113 BIS-1 y 113 BIS-2, serán de forzosa conformación por los ayuntamientos, justificándose mediante la importancia que dichas ramas requieren. De igual manera, será libertad de cada ayuntamiento la integración de comisiones bajo libre criterio.
+
 ###### ARTÍCULO 108.
 
 Las comisiones se integrarán y funcionarán de manera colegiada con el número de miembros que establezca el reglamento interno o el acuerdo del Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario.
@@ -1295,11 +1303,11 @@ Las sesiones de las comisiones podrán ser públicas, cuando la divulgación de 
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información; y la de reglamentación.
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación y la de Igualdad de Género.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -1374,6 +1382,18 @@ IV.- Cuando así lo considere y resulte procedente conforme a derecho, solicitar
 V.- Recabar la opinión ciudadana sobre los reglamentos municipales mediante mecanismos de consulta aprobados por el cabildo en los términos de la legislación aplicable, y;
 
 VI. Revisar que la reglamentación municipal cumpla con lo establecido en los artículos 175 y 176 del presente Código, procediendo a realizar las observaciones pertinentes cuando resulte necesario.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2019)</small>
+
+ARTÍCULO 113 BIS-2. La Comisión de Igualdad de Género, tendrá, las Siguientes facultades y obligaciones:
+
+I.- Crear la política pública encaminada a la igualdad sustantiva y a una equidad de género en la población.
+
+II.- Vigilar la administración pública en cuanto a su reglamentación y actuación con perspectiva de género.
+
+III.- Tutelar en cada momento la paridad de género en el desarrollo de la función pública municipal.
+
+IV.- Implementar un plan transversal de acción en materia de derechos humanos e igualdad de género, donde se garantice la proporcionalidad de prerrogativas a la ciudadanía en aras del crecimiento por igual de mujeres y hombres en el campo laboral y profesional.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -4656,3 +4676,13 @@ P.O. 12 DE ABRIL DE 2019.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los titulares de los órganos internos de control de los municipios, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 253.- SE ADICIONA EL NUMERAL 9 A LA FRACCIÓN VII DEL ARTÍCULO 102, UN PÁRRAFO AL ARTÍCULO 107 Y EL ARTÍCULO 113 BIS-2 Y SE REFORMA EL ARTÍCULO 111, DEL CÓDIGO MUNICIPAL”
+
+Primero. El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+Segundo. La conformación de la Comisión de Igualdad de Género propuesta en el presente decreto deberá realizarse de manera obligatoria para antes de terminado el primer año de gestión de las administraciones municipales actuales.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente decreto.
