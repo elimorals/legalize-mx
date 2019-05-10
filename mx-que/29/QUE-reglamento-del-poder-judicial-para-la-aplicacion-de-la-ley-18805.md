@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-judicial-para-la-aplicacion-de-la-ley-1880
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2018-02-23"
+last_updated: "2019-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACIÓN DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de noviembre de 2000.
 
@@ -49,53 +47,77 @@ Para los efectos de este reglamento, se entenderá por:
 
 I. Ley: La Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro.
 
-II. Tribunal: El Tribunal Superior de Justicia del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
 
-III. Pleno: El Pleno del Tribunal Superior de Justicia del Estado de Querétaro.
+II. Poder Judicial: Poder Judicial del Estado de Querétaro.
 
-IV. Consejo: El Consejo de la Judicatura del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+III. Presidente: El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Querétaro.
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+IV. Consejo: El Consejo del Poder Judicial del Estado de Querétaro.
 
 V. Comité: El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Tribunal Superior de Justicia del Estado de Querétaro.
 
-VI. Organo de Control Interno: El Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
 
-VII. Oficialía Mayor: La Oficialía Mayor del Tribunal Superior de Justicia del Estado.
+VI. Órgano de Control Interno: Consejo de la Judicatura del Poder Judicial del Estado de Querétaro o el órgano que en su caso establezca la Ley Orgánica del Poder Judicial del Estado de Querétaro.
 
-VIII. Proveedor: La persona física o moral interesada en realizar cualquier operación contractual sobre enajenación, arrendamiento y prestación de servicios con relación al Poder Judicial.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+VII. Oficialía Mayor: La Oficialía Mayor del Poder Judicial del Estado de Querétaro.
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+VIII. Proveedor: La persona física o moral interesada en realizar cualquier operación contractual sobre enajenación, arrendamiento y prestación de servicios, inscrito en el padrón de proveedores del Poder Judicial del Estado de Querétaro o autorizados por el Consejo.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 3.
 
-El Comité es el órgano administrativo del Poder Judicial encargado de realizar las acciones relacionadas con los procedimientos de adquisición, enajenación, arrendamiento, contratación de servicios, donación, comodato y demás actos de disposición de bienes del Poder Judicial del Estado de Querétaro, con las facultades que le confiere la Ley, este Reglamento, las disposiciones aplicables y las asignadas por el Consejo y Pleno del Tribunal Superior de Justicia.
+El Comité es el órgano administrativo del Poder Judicial encargado de realizar las acciones relacionadas con los procedimientos de adquisición, enajenación, arrendamiento, contratación de servicios, donación, comodato y demás actos de disposición de bienes del Poder Judicial del Estado de Querétaro, con las facultades que le confiere la Ley, este Reglamento, las disposiciones aplicables y las asignadas por el Consejo y el Presidente.
 
 ###### ARTICULO 4.
 
 Toda adquisición, enajenación, arrendamiento o contratación de servicios será realizada conforme a lo dispuesto por la Ley, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 5.
 
-El Comité, de acuerdo con la importancia, naturaleza y monto de los bienes y servicios requeridos, contará con la aprobación del Pleno, Consejo o Presidente del Tribunal Superior de Justicia para desarrollar cualquier acción u operación relacionada con su función.
+El Comité, de acuerdo con la importancia, naturaleza y monto de los bienes y servicios requeridos, contará con la aprobación del Consejo o Presidente para desarrollar cualquier acción u operación relacionada con su función.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 6.
 
-Los aspectos no previstos en la Ley y el presente Reglamento, serán resueltos por el Comité quien, en todo caso, asegurará para el Tribunal las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias que beneficien a la institución y no implique favorecer indebidamente a un proveedor participante.
+Los aspectos no previstos en la Ley y el presente Reglamento, serán resueltos por el Comité quien, en todo caso, asegurará para el Poder Judicial las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias que beneficien a la institución y no implique favorecer indebidamente a un proveedor participante.
 
 ## TITULO SEGUNDO. DEL COMITE DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS
 
 ### Capítulo I. Integración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 7.
 
-El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Tribunal Superior de Justicia del Estado de Querétaro, estará integrado por los siguientes servidores públicos del Tribunal, como propietarios:
+El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Poder Judicial, estará integrado por los siguientes servidores públicos del Poder Judicial, como propietarios:
 
 I. El Oficial Mayor, como Presidente;
 
-II. El Jefe de Adquisiciones de la Oficialía Mayor, como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+II. El Jefe del Departamento de Compras, como Secretario Ejecutivo;
 
 III. El Director de Contabilidad y Finanzas, como primer vocal;
 
 IV. El Contralor Interno, como segundo vocal, y
 
-V. Un Secretario Jurídico nombrado por el Presidente del Tribunal, como tercer vocal.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+V. El Director Jurídico, como tercer vocal.
 
 ###### ARTICULO 8.
 
@@ -133,9 +155,11 @@ El Comité podrá aclarar o modificar las bases de la licitación o invitación 
 
 La asistencia de los proveedores a la junta de aclaraciones será opcional, pero en todo caso asumirán las obligaciones de participación que se acuerden durante ésta.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 14.
 
-El acto de recepción de propuestas se verificará en el lugar y tiempo que determine el Comité en la convocatoria respectiva, quedando excluido de toda participación el proveedor que no se apegue a estas condiciones.
+El acto de recepción de propuesta técnica y propuesta económica se verificará en el lugar y tiempo que determine el Comité en la convocatoria respectiva, quedando excluido de toda participación el proveedor que no se apegue a estas condiciones.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
@@ -143,9 +167,11 @@ El acto de recepción de propuestas se verificará en el lugar y tiempo que dete
 
 Las propuestas técnicas y económicas, así como los sobres que las contengan, serán firmadas por los integrantes del Comité y el representante del órgano de control interno, conforme a las etapas del procedimiento de que se trate.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 16.
 
-El Jefe de Adquisiciones de Oficialía Mayor y, en su caso, el representante del área solicitante de la adquisición, enajenación, arrendamiento o contratación de servicio, elaborarán tablas comparativas sobre los aspectos técnicos específicos, emitiendo un dictamen al respecto.
+El Jefe del Departamento de Compras y, en su caso, el representante del área solicitante de la adquisición, enajenación, arrendamiento o contratación de servicio, elaborarán tablas comparativas sobre los aspectos técnicos específicos, emitiendo un dictamen al respecto.
 
 ###### ARTICULO 17.
 
@@ -267,9 +293,11 @@ XIV. Las demás condiciones que a criterio del Comité tutelen los intereses de 
 
 Las garantías presentadas por los proveedores consistirán en cheque de caja, cheque certificado o fianza otorgada por una institución legalmente reconocida.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 36.
 
-Atendiendo a la naturaleza de la documentación solicitada, el proveedor participante deberá presentarla a nombre del Tribunal Superior de Justicia del Estado de Querétaro, con la referencia del número de licitación pública en que participa o concurso por invitación restringida de que se trate.
+Atendiendo a la naturaleza de la documentación solicitada, el proveedor participante deberá presentarla a nombre del Poder Judicial del Estado de Querétaro, con la referencia del número de licitación pública en que participa o concurso por invitación restringida de que se trate.
 
 ###### ARTICULO 37.
 
@@ -277,25 +305,29 @@ Cuando existan razones justificadas para la adquisición o arrendamiento de bien
 
 ### Capítulo II. Invitación Restringida
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 38.
 
-La invitación restringida se realizará a cuando menos tres proveedores, a través del Departamento de Adquisiciones de Oficialía Mayor; en tratándose de concursantes no registrados en el padrón de proveedores, deberá solicitarse a éstos curricula para ponderar la pertinencia de invitarlos o no a concursar, sin perjuicio de que el Comité confirme la información curricular proporcionada.
+La invitación restringida se realizará a cuando menos tres proveedores, a través del Departamento de Adquisiciones de Oficialía Mayor; en tratándose de concursantes no registrados en el padrón de proveedores, deberá justificarse su ingreso solicitarse a éstos curricula para ponderar la pertinencia de invitarlos o no a concursar, sin perjuicio de que el Comité confirme la información curricular proporcionada.
 
 ###### ARTICULO 39.
 
 La invitación restringida de proveedores, se hará preferentemente de entre aquellos que tengan su domicilio fiscal en el Estado de Querétaro, con el propósito de incentivar el sector económico de la Entidad.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 40.
 
-Son aplicables en lo conducente las disposiciones relativas a la licitación pública, así como la normatividad del Manual Operativo del Departamento de Adquisiciones de Oficialía Mayor del Tribunal Superior de Justicia del Estado.
+Son aplicables en lo conducente las disposiciones relativas a la licitación pública, así como la normatividad del Manual Operativo del Departamento de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial del Estado de Querétaro.
 
 ### Capítulo III. Adjudicación Directa
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 41.
 
-La adjudicación directa a proveedores de bienes y servicios, se sujetará a lo dispuesto en el artículo 4 fracción XIII de la Ley y normatividad establecida en el Manual Operativo del Departamento de Adquisiciones de Oficialía Mayor del Tribunal Superior de Justicia del Estado.
+La adjudicación directa a proveedores de bienes y servicios, se sujetará a lo dispuesto en el artículo 4 fracción XIII de la Ley y normatividad establecida en el Manual Operativo del Departamento de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial del Estado de Querétaro.
 
 ## TITULO CUARTO. DE LOS ACTOS DE ENAJENACION, ARRENDAMIENTO Y CONTRATACION DE SERVICIOS
 
@@ -313,7 +345,9 @@ El Comité examinará y, en su caso, aprobará el dictamen que Oficialía Mayor 
 
 El dictamen que proponga la enajenación de algún bien mueble o inmueble, deberá expresar y contener, según el caso, la acreditación siguiente:
 
-I. Que ya no es utilizable o adecuado para satisfacer las necesidades del Tribunal;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2019)</small>
+
+I. Que ya no es utilizable o adecuado para satisfacer las necesidades del Poder Judicial;
 
 II. Que resulta más costeable su enajenación que su rehabilitación, o
 
@@ -359,9 +393,11 @@ La donación, comodato o cualquier otra disposición de bienes diferente a la ad
 
 ### Capítulo Unico. Disposiciones Complementarias
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 51.
 
-El Comité deberá revisar que los contratos salvaguarden los intereses del Tribunal y que éstos se apeguen a las disposiciones de la Ley de la materia.
+El Comité deberá revisar que los contratos salvaguarden los intereses del Poder Judicial.
 
 ###### ARTICULO 52.
 
@@ -488,3 +524,11 @@ PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente acuerdo surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO DE LA JUDICATURA QUE REFORMA EL REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACIÓN DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO".]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. El presente acuerdo surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
