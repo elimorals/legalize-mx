@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-de-la-122970"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-05"
-last_updated: "2017-12-08"
+last_updated: "2019-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA MUNICIPAL DENOMINADO "INSTITUTO MUNICIPAL DE MUSICA DE TORREON, COAHUILA DE ZARAGOZA"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 250, PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO “INSTITUTO MUNICIPAL DE MÚSICA DE TORREÓN, COAHUILA DE ZARAGOZA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019 (ABROGADO).
 
 Ley publicada en el Número 36 del Periódico Oficial del Estado de Coahuila, el viernes 5 de mayo de 2017.
 
@@ -348,3 +350,9 @@ P.O. 8 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 250.- SE ABROGA EL DECRETO DE CREACIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “INSTITUTO MUNICIPAL DE MÚSICA DE TORREÓN, COAHUILA DE ZARAGOZA”, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 05 DE MAYO DE 2017”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
