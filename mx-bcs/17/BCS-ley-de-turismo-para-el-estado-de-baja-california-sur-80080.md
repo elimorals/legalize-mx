@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2016-10-31"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2019.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -103,9 +103,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Actividad Turística: La que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su domicilio o residencia habitual, con fines de recreación, diversión, negocios, etcétera.
 
-> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
 
-I Bis.- Atlas Turístico Estatal.- El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo dentro del estado;
+I Bis.- Atlas Turístico Estatal.- El registro sistemático de carácter público de todos los bienes, recursos naturales, gastronómicos y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo dentro del estado;
 
 II.- Consejo Consultivo Estatal de Turismo: Órgano de consulta, asesoría y participación para la formulación de estrategias y acciones para un desarrollo integral del turismo en el Estado de Baja California Sur;
 
@@ -153,7 +153,9 @@ XX.- Sustentabilidad: Preservación del equilibrio ecológico, protección del a
 
 XXI.- Zona de Desarrollo Turístico Sustentable.- Aquellas fracciones de territorio nacional declaradas por el Presidente de la República, claramente ubicadas y delimitadas geográficamente que por sus características naturales o culturales, constituyen un atractivo turístico;
 
-XXII.- Zona de Desarrollo Turístico Local.- Aquellas fracciones de territorio, claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyan un atractivo turístico, declaradas por el Ejecutivo Estatal a propuesta del Secretario de Turismo.
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
+
+XXII.- Zona de Desarrollo Turístico Local.- Aquellas fracciones de territorio, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales, gastronómicas y culturales, constituyan un atractivo turístico, declaradas por el Ejecutivo Estatal a propuesta del Secretario de Turismo.
 
 > <small>(ADICIONADA, B.O. 31 DE JULIO DE 2012)</small>
 
@@ -163,7 +165,9 @@ XXIII.- Turismo Alternativo: La categoría de turismo que tiene como fin realiza
 
 a).- Turismo Natural o Ecoturismo: La categoría de turismo alternativo basada en que la motivación principal de los turistas sea la observación, el conocimiento, interacción y apreciación de la naturaleza y de las manifestaciones culturales tradicionales de los habitantes históricos de las zonas rurales, lo que implica tomar conciencia con respecto al aprovechamiento, conservación y restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades anfitrionas, y que genera beneficios económicos a dichas comunidades, ofreciendo oportunidades y alternativas de empleo;
 
-b).- Turismo Rural y Comunitario: La categoría del turismo alternativo en la cual el turista participa en actividades propias de las comunidades rurales, ejidos y pueblos originarios con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo de recursos agrícolas y naturales, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural ya la conservación de los ambientes en los que habitan;
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
+
+b).- Turismo Rural y Comunitario: La categoría del turismo alternativo en la cual el turista participa en actividades propias de las comunidades rurales, ejidos y pueblos originarios con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo de recursos agrícolas y naturales, gastronomía, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
 
 c).- Turismo de Aventura: La categoría de turismo alternativo en la que se incluyen diferentes actividades deportivo-recreativas donde se participa en integración con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico;
 
@@ -181,9 +185,13 @@ XXV.- Turismo Religioso: Es la actividad turística que comprende la visita a es
 
 XXVI.- Turismo de deporte motor fuera de camino: La actividad turística relacionada con la práctica de campeonatos, seriales, exposiciones y demostraciones relativas a las carreras con vehículos acondicionados para transitar fuera de camino en ambiente de terreno natural ya sea en desierto, dunas, trepadores en rocas, arrancones en pista de arena caracterizados por no circular sobre carreteras de concreto o caminos de asfalto; y
 
-> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
 
-XXVII.- Ruta Turística.- Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas. La Secretaría constituirá las rutas turísticas tomando en cuenta a los municipios.
+XXVII.- Ruta Turística.- Es un circuito temático o geográfico que se basa en un patrimonio natural, gastronómico y cultural de una zona y se marca sobre el terreno o aparece en los mapas. La Secretaría constituirá las rutas turísticas tomando en cuenta a los municipios, y
+
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 2019)</small>
+
+XXVIII.- Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades y regiones del estado, con el fin de probar la cocina del lugar y/o realizar actividades relacionadas con la gastronomía.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -497,7 +505,9 @@ I.- La participación de la Secretaría en eventos, congresos y exposiciones est
 
 II.- El manejo del Atlas Turístico Estatal;
 
-III.- La promoción de los atractivos naturales y culturales, destinos, rutas turísticas y servicios y productos turísticos que se ofrezcan en el Estado de Baja California Sur y sus Municipios, a nivel nacional o internacional;
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
+
+III.- La promoción de los atractivos naturales, gastronómicos y culturales, destinos, rutas turísticas y servicios y productos turísticos que se ofrezcan en el Estado de Baja California Sur y sus Municipios, a nivel nacional o internacional;
 
 IV.- La creación, diseño y elaboración de material informativo, promocional y publicitario de manera corresponsable entre los integrantes del sector;
 
@@ -511,9 +521,11 @@ VI.- El apoyo, información y asesoría a los turistas en el estado.
 
 La promoción turística deberá incluir los sitios del Estado que no cuenten con un posicionamiento en la actividad; sin embargo, deberán priorizarse aquellos con mayores posibilidades de aprovechamiento turístico, reconocidos en el programa estatal de turismo, incluyendo las localidades que cuentan con la declaratoria de pueblos mágicos.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
+
 ###### Artículo 23.
 
-La Secretaría, promoverá en coordinación con las Instituciones públicas e iniciativa privada con la periodicidad requerida, viajes de convivencia, festivales, exposiciones, eventos o ferias turísticas, en los que se difundan las bellezas naturales, los centros turísticos, artesanías, la cultura y los servicios que se presten en la materia.
+La Secretaría, promoverá en coordinación con las Instituciones públicas e iniciativa privada con la periodicidad requerida, viajes de convivencia, festivales, exposiciones, eventos o ferias turísticas, en los que se difundan las bellezas naturales, los centros turísticos, artesanías, gastronomía, la cultura y los servicios que se presten en la materia.
 
 ###### Artículo 24.
 
@@ -527,7 +539,7 @@ La Secretaría participará en las campañas de promoción turística que ofrece
 
 ### CAPÍTULO IV. Turismo Social
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 26.
 
@@ -551,19 +563,25 @@ V.- Turismo de Reuniones;
 
 VI.- Turismo Social;
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
 
-VII.- Turismo Religioso, y
+VII.- Turismo Religioso,
 
-> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2019)</small>
 
-VIII.- Turismo de deporte motor fuera de camino.
+VIII.- Turismo de deporte motor fuera de camino, y
 
-> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 2019)</small>
+
+IX.- Turismo gastronómico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 28.
 
-La Secretaría en coordinación con la Secretaría de Promoción y Desarrollo Económico del Gobierno del Estado, con los Municipios y con las agrupaciones de productores agrícolas, artesanos y artistas, estimularán, promoverán e impulsarán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos existentes y nuevos, con el fin de detonar la economía local, regionales y municipales.
+La Secretaría en coordinación con los Municipios y con las agrupaciones de productores agrícolas, proveedores de servicios alimenticios, mercados, tiendas, restaurantes y agrupaciones gastronómicas, artesanos y artistas, estimularán, promoverán e impulsarán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos existentes y nuevos, con el fin de detonar la economía local, regionales y municipales.
+
+> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
 Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información nacional y estatal básica y estratégica del sector Turismo.
 
@@ -597,7 +615,7 @@ V.- La innovación tecnológica en la prestación de servicios turísticos.
 
 ###### Artículo 31.
 
-El Turismo Social comprende todos aquellos instrumentos y medios a través de los cuales, los grupos de estudiantes, trabajadores del campo y de la ciudad, jubilados, pensionados, de la tercera edad y otros similares, tengan acceso a sitios de interés turístico estatal, histórico, artístico y cultural con el objeto de lograr el descanso y el esparcimiento familiar en condiciones adecuadas de economía, seguridad y comodidad. Las dependencias y las entidades de la administración pública estatal, coordinarán y promoverán esfuerzos entre ellas y con los gobiernos Federal y Municipales, para concertar e inducir la acción social y privada para el desarrollo ordenado del turismo social.
+El Turismo Social comprende todos aquellos instrumentos y medios a través de los cuales, los grupos de estudiantes, trabajadores del campo y de la ciudad, jubilados, pensionados, de la tercera edad y otros similares, tengan acceso a sitios de interés turístico estatal, histórico, artístico, gastronómico y cultural con el objeto de lograr el descanso y el esparcimiento familiar en condiciones adecuadas de economía, seguridad y comodidad. Las dependencias y las entidades de la administración pública estatal coordinarán y promoverán esfuerzos entre ellas y con los gobiernos Federal y Municipales, para concertar e inducir la acción social y privada para el desarrollo ordenado del turismo social.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -976,3 +994,19 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2597 SE REFORMAN DEL ARTÍCULO 5 LAS FRACCIONES I BIS, XXII, XXIII INCISO B), XXVII, DEL ARTÍCULO 21 TER LA FRACCIÓN III, EL ARTÍCULO 23, DEL ARTÍCULO 27 LAS FRACCIONES VII Y VIII, EL ARTÍCULO 28 PRIMER PÁRRAFO, Y EL ARTÍCULO 31; Y SE ADICIONAN LA FRACCIÓN XXVIII AL ARTÍCULO 5, Y LA FRACCIÓN IX AL ARTÍCULO 27 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de este Decreto, la Secretaria de Turismo, Economía y Sustentabilidad del Gobierno del Estado de Baja California Sur, dentro del plazo de 90 días naturales, llevara a cabo el inicio de los trabajos de consulta con las autoridades de los niveles federal y municipal, cámaras gastronómicas y prestadoras de servicios turísticos, a fin de elaborar las rutas gastronómicas que serán sujetas al impulso y promoción turística. Con énfasis en iniciar dichos trabajos en los municipios de Mulegé, Loreto y Comondú.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
