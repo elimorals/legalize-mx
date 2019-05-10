@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2019-03-19"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -55,7 +55,7 @@ La aplicación de esta Ley corresponde al titular del Ejecutivo Estatal por cond
 
 Para los efectos de esta Ley se entiende por:
 
-I. Adultos mayores: Las personas de sesenta años o más de edad;
+I. Adultos mayores: Las personas de sesenta años o más de edad.
 
 II. Certificado: Certificado de Empresa Coahuilense;
 
@@ -89,19 +89,23 @@ XIV. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con ba
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE MARZO DE 2015, PÁGINA 34.]</small>
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2019)</small>
+
+XV. Personas con discapacidad: las personas que presentan algún tipo de discapacidad en los términos que define la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza.
+
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XV. Secretaría: Secretaría de Economía y Turismo del Estado de Coahuila de Zaragoza;
+XVI. Secretaría: Secretaría de Economía y Turismo del Estado de Coahuila de Zaragoza;
 
-XVI. Región Carbonífera: Aquella que por su territorio comprende los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas;
+XVII. Región Carbonífera: Aquella que por su territorio comprende los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas;
 
-XVII. Región Centro - Desierto: Aquella que por su territorio comprende los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada;
+XVIII. Región Centro - Desierto: Aquella que por su territorio comprende los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada;
 
-XVIII. Región Laguna: Aquella que por su territorio comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca;
+XIX. Región Laguna: Aquella que por su territorio comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca;
 
-XIX. Región Norte: Aquella que por su territorio comprende los municipios de Allende, Acuña, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza;
+XX. Región Norte: Aquella que por su territorio comprende los municipios de Allende, Acuña, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza;
 
-XX. Región Sureste: Aquella que por su territorio comprende los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
+XXI. Región Sureste: Aquella que por su territorio comprende los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
 
 ###### Artículo 4.
 
@@ -752,3 +756,9 @@ P.O. 19 DE MARZO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los Consejos Regionales deberán ser instalados dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 10 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 255.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XV, RECORRIENDO EL CONTENIDO ACTUAL A LA XVI, HACIENDO LO MISMO CON EL RESTO DE LAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
