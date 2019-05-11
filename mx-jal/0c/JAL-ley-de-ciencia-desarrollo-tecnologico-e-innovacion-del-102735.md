@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2018-12-25"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -545,21 +545,31 @@ a) Del Poder Ejecutivo del Estado:
 
 a.1. Secretaría de Desarrollo Económico;
 
-a.2. Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+a.2. Secretaría de Administración;
 
 a.3. Secretaría de Educación;
 
-a.4. Secretaría de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+a.4. Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE MAYO DE 2019)</small>
 
 a.5. Secretaría de Salud;
 
-a.6. Secretaría del Medio Ambiente para el Desarrollo Territorial; y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+a.6. Secretaría de Medio Ambiente y Desarrollo Territorial; y
 
 a.7. La Universidad de Guadalajara;
 
 b) Del Poder Legislativo del Estado:
 
-b.1. La Comisión de Ciencia y Tecnología.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+b.1. La Comisión de Competitividad, Desarrollo Económico, Innovación y Trabajo.
 
 c) Del Poder Ejecutivo Federal:
 
@@ -962,3 +972,11 @@ P.O. 25 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27226/LXII/18 QUE REFORMA EL ARTÍCULO 60 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27259/LXII/19, QUE REFORMA LOS ARTÍCULOS DE LA LEY DEL INSTITUTO DE PENSIONES, LEY PARA LOS SERVIDORES PÚBLICOS, LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN, LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS, LEY DE MEJORA REGULATORIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
