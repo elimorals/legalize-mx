@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2017-10-21"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -91,7 +91,7 @@ j) Principio de celeridad: Quienes participan en el procedimiento deben ajustar 
 
 k) Principio de eficacia: Los sujetos del procedimiento administrativo deben hacer prevalecer el cumplimiento de la finalidad del acto procedimental, sobre aquellos formalismos cuya realización no incida en su validez, no determinen aspectos importantes en la decisión final, no disminuyan las garantías del procedimiento, ni causen indefensión a los administrados. En todos los supuestos de aplicación de este principio, la finalidad del acto que se privilegie sobre las formalidades no esenciales deberá ajustarse al marco normativo aplicable y su validez será una garantía de la finalidad pública que se busca satisfacer con la aplicación de este principio;
 
-I) Principio de verdad material: En el procedimiento, la autoridad administrativa competente deberá verificar plenamente los hechos que sirven de motivo a sus decisiones, para lo cual deberá adoptar todas las medidas probatorias necesarias autorizadas por las leyes y reglamentos, aun cuando no hayan sido propuestas por los administrados o hayan acordado eximirse de ellas. En el caso de procedimientos multilaterales, la autoridad administrativa estará facultada a verificar por todos los medios disponibles la verdad de los hechos que le son propuestos por las partes, sin que ello signifique una sustitución del deber probatorio que corresponde a éstas. Sin embargo, la autoridad administrativa estará obligada a ejercer dicha facultad cuando su pronunciamiento pudiera involucrar también al interés público;
+l) Principio de verdad material: En el procedimiento, la autoridad administrativa competente deberá verificar plenamente los hechos que sirven de motivo a sus decisiones, para lo cual deberá adoptar todas las medidas probatorias necesarias autorizadas por las leyes y reglamentos, aun cuando no hayan sido propuestas por los administrados o hayan acordado eximirse de ellas. En el caso de procedimientos multilaterales, la autoridad administrativa estará facultada a verificar por todos los medios disponibles la verdad de los hechos que le son propuestos por las partes, sin que ello signifique una sustitución del deber probatorio que corresponde a éstas. Sin embargo, la autoridad administrativa estará obligada a ejercer dicha facultad cuando su pronunciamiento pudiera involucrar también al interés público;
 
 m) Principio de participación: Las entidades deben brindar las condiciones necesarias a todos los administrados para acceder a la información que administren, sin expresión de causa, salvo aquellas que afectan la intimidad personal, las vinculadas a la seguridad nacional o las que expresamente sean excluidas por ley; y extender las posibilidades de participación de los administrados y de sus representantes, en aquellas decisiones públicas que les puedan afectar, mediante cualquier sistema que permita la difusión, el servicio de acceso a la información y la presentación de opinión;
 
@@ -119,7 +119,9 @@ Las autoridades administrativas, únicamente pueden ejercer las facultades y atr
 
 Las autoridades administrativas están obligadas a recibir las solicitudes o peticiones que sean de forma escrita y respetuosa que les presenten los administrados y por ningún motivo pueden negar su recepción, aún cuando presuntamente sean improcedentes; así mismo, deben dar respuesta fundada y motivada, en los términos que se establecen en el presente ordenamiento y demás aplicables según la materia.
 
-En el supuesto de que el servidor público se niegue a recibir la solicitud o petición a que se refiere el párrafo anterior, el particular podrá acudir ante el Tribunal de lo Administrativo y consignar la solicitud, asentando, bajo protesta de decir verdad, la negativa del servidor; el Tribunal de lo Administrativo recibirá la solicitud remitiéndola a la autoridad para que la tenga por recibida.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+En el supuesto de que el servidor público se niegue a recibir la solicitud o petición a que se refiere el párrafo anterior, el particular podrá acudir ante el Tribunal de Justicia Administrativa y consignar la solicitud, asentando, bajo protesta de decir verdad, la negativa del servidor; el Tribunal de Justicia Administrativa recibirá la solicitud remitiéndola a la autoridad para que la tenga por recibida.
 
 ## TÍTULO SEGUNDO. RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -215,11 +217,13 @@ La autoridad administrativa que emita el acto afectado de nulidad relativa, pued
 
 La nulidad absoluta o relativa puede ser invocada por el administrado a través del recurso de revisión, de conformidad con lo establecido en el artículo 133 de esta ley.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 18.
 
-La nulidad absoluta o relativa puede ser demandada por la autoridad administrativa ante el Tribunal de lo Administrativo.
+La nulidad absoluta o relativa puede ser demandada por la autoridad administrativa ante el Tribunal de Justicia Administrativa.
 
-Todo acto administrativo dictado por la autoridad competente que sea favorable al particular debe ser cumplido y respetado en todo momento, siendo necesaria la decisión del Tribunal de lo Administrativo mediante el debido procedimiento legal para declarar su nulidad.
+Todo acto administrativo dictado por la autoridad competente que sea favorable al particular debe ser cumplido y respetado en todo momento, siendo necesaria la decisión del Tribunal de Justicia Administrativa mediante el debido procedimiento legal para declarar su nulidad.
 
 ###### Artículo 19.
 
@@ -289,9 +293,11 @@ Transcurrido el plazo mencionado en los artículos 24 y 25 de esta ley sin que s
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2008)
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 28.
 
-La negativa ficta puede ser combatida mediante el recurso de revisión o el juicio ante el Tribunal de lo Administrativo por el simple cumplimiento del plazo, acompañando como documento fundatorio el escrito de petición con la fecha de recibido; o en su caso el documento en el que conste el cumplimiento del requerimiento de la autoridad y el documento en que conste la solicitud hecha al superior jerárquico.
+La negativa ficta puede ser combatida mediante el recurso de revisión o el juicio ante el Tribunal de Justicia Administrativa por el simple cumplimiento del plazo, acompañando como documento fundatorio el escrito de petición con la fecha de recibido; o en su caso, el documento en el que conste el cumplimiento del requerimiento de la autoridad y el documento en que conste la solicitud hecha al superior jerárquico.
 
 ### Capítulo Tercero. De la Afirmativa Ficta
 
@@ -1011,7 +1017,9 @@ Ponen fin al procedimiento administrativo:
 
 I. La resolución expresa que emita la autoridad administrativa.
 
-II. La resolución ficta positiva o negativa, cuando sea declarada por el Tribunal de lo Administrativo.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+II. La resolución ficta positiva o negativa, cuando sea declarada por el Tribunal de Justicia Administrativa;
 
 III. La renuncia expresa del particular.
 
@@ -1225,11 +1233,15 @@ a) Cuando el promovente se desista expresamente.
 
 b) Por falta de objeto, materia o existencia del acto reclamado.
 
-c) El promovente interponga el medio de defensa legal por el mismo acto ante el Tribunal de lo Administrativo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+c) El promovente interponga el medio de defensa legal por el mismo acto ante el Tribunal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 141.
 
-En contra de la resolución que resuelve el recurso de revisión interpuesto, procede el juicio ante el Tribunal de lo Administrativo.
+En contra de la resolución que resuelve el recurso de revisión interpuesto, procede el juicio ante el Tribunal de Justicia Administrativa.
 
 ### Capítulo Segundo. Del Recurso de Inconformidad
 
@@ -1237,7 +1249,9 @@ En contra de la resolución que resuelve el recurso de revisión interpuesto, pr
 
 El recurso de inconformidad procede en contra de multas impuestas por las autoridades administrativas y tiene como objeto confirmar o modificar el monto de la multa.
 
-Será optativo para el particular agotar el recurso de inconformidad o promover el juicio ante el Tribunal de lo Administrativo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Será optativo para el particular agotar el recurso de inconformidad o promover el juicio ante el Tribunal de Justicia Administrativa.
 
 ###### Artículo 143.
 
@@ -1452,3 +1466,9 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26437/LXI/17 QUE REFORMA LOS ARTÍCULOS 89, 108, 109, 110, 111 Y 114 DE LA LEY DE JUSTICIA ADMINISTRATIVA; Y REFORMA EL ARTÍCULO 33 Y DEROGA EL ARTÍCULO 33 BIS DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, AMBAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
