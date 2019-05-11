@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2018-03-10"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -717,27 +717,23 @@ II. Un Secretario General, que será el Secretario General de Gobierno;
 
 III. Un Secretario Técnico, que será el titular de la Unidad Estatal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2019)</small>
 
 IV. Los presidentes de las siguientes comisiones legislativas permanentes del Congreso del Estado de:
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-a) Seguridad Pública y Protección Civil;
+a) Comisión de Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia;
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-b) Desarrollo Humano;
+b) Asistencia social, familia y niñez;
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+c) (DEROGADO, P.O. 11 DE MAYO DE 2019)
 
-c) Desarrollo Urbano;
+d) (DEROGADO, P.O. 11 DE MAYO DE 2019); y
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
-
-d) Medio ambiente, Desarrollo Sustentable y Recursos hidráulicos; y
-
-e) (DEROGADO, P.O. 3 DE JULIO DE 2004)
+e) (DEROGADO, P.O. 11 DE MAYO DE 2019)
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -2143,15 +2139,11 @@ P.O. 10 DE MARZO DE 2018.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+P.O. 11 DE MAYO DE 2019.
 
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIO DEL "DECRETO 27266/LXII/19, QUE REFORMA EL ARTÍCULO 8° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA"; EL ARTÍCULO 26 FRACCIÓN IV DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; EL ARTÍCULO 5° FRACCIÓN IV DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO".]
 
-SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
-
-TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
-
-D.O.F. 20 DE DICIEMBRE DE 2024.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
