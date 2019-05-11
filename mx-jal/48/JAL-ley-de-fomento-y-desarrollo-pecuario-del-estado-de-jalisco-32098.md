@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2017-12-07"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -1511,11 +1511,11 @@ En el escrito de reconsideración se expresarán: nombre, domicilio de quien pro
 
 Admitido el recurso por la autoridad, se dictará la resolución que corresponda en un plazo de diez días hábiles, misma que se deberá notificar en forma personal al interesado.
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 136.
 
-Conforme lo dispone la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, la persona afectada por la resolución administrativa, puede optar por interponer el recurso de reconsideración o iniciar el juicio correspondiente ante el Tribunal de lo Administrativo del Estado.
+Conforme lo dispone la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, la persona afectada por la resolución administrativa, puede optar por interponer el recurso de reconsideración o iniciar el juicio correspondiente ante el Tribunal de Justicia Administrativa.
 
 ## TRANSITORIOS
 
@@ -1648,5 +1648,11 @@ P.O. 8 DE AGOSTO DE 2017.
 P.O. 7 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26505/LXI/17 QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
