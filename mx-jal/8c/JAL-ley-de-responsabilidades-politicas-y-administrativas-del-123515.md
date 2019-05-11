@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2019-03-21"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -623,6 +623,10 @@ XIII. Las demás que le otorguen la legislación general y estatal aplicable.
 
 2. Las salas unitarias también estarán facultadas para resolver el procedimiento para fincar las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2019)</small>
+
+3. La persona que haya realizado alguna de las faltas administrativas graves o faltas de particulares, que establece la Ley General de Responsabilidades Administrativas, o bien, se encuentre participando en su realización, podrá confesar su responsabilidad con el objeto de acogerse al beneficio de reducción de sanciones que se establece en la citada Ley General. Esta confesión se podrá hacer ante la autoridad investigadora.
+
 ###### Artículo 57.
 
 1. Las salas de primera instancia del Tribunal de Justicia Administrativa serán especializadas para resolver de manera definitiva, el recurso de inconformidad para impugnar la calificación de la gravedad de las faltas administrativas y la abstención de iniciar el procedimiento de responsabilidad administrativa.
@@ -764,3 +768,9 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
