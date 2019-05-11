@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-apicola-y-proteccion-de-agentes-110446"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-20"
-last_updated: "2016-10-11"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley Publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el martes 20 de octubre de 2015.
 
@@ -81,7 +79,9 @@ IV. Apicultor: Es toda persona física o jurídica que se dedique a la cría, ma
 
 V. Apicultura: Conjunto de actividades concerniente (sic) a la cría, cuidado y aprovechamiento racional de las colonias de abejas;
 
-VI. Certificado Zoosanitario: Documento oficial expedido por personal de la SAGARPA ó por un profesionista aprobado y que avala la sanidad de las colmenas;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+VI. Certificado Zoosanitario: Documento oficial expedido por personal de la SADER ó por un profesionista aprobado y que avala la sanidad de las colmenas;
 
 VII. Colmena: Caja de madera que en su interior aloja una colonia de abejas que consta de unos cuadros o bastidores con cera estampada y que se utiliza para que las abejas se multipliquen, construyan sus panales, y almacenen la miel, el polen, los propóleos y produzcan cera y jalea real;
 
@@ -91,7 +91,9 @@ IX. Comisión Intersecretarial: Comisión Intersecretarial del Estado de Jalisco
 
 X. CESPA: Comité Estatal del Sistema Producto Apícola;
 
-XI. Comité Estatal para el Fomento y Protección Pecuaria: Organismo auxiliar de Sanidad Animal de la Secretaría de Desarrollo Rural, integrado por productores pecuarios que cuenten con autorización y registro oficial que llevan a cabo la operación de campañas y programas de sanidad en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XI. Comité Estatal para el Fomento y Protección Pecuaria: Organismo auxiliar de Sanidad Animal de la Secretaría, integrado por productores pecuarios que cuenten con autorización y registro oficial que llevan a cabo la operación de campañas y programas de sanidad en el Estado de Jalisco;
 
 XII. Comité Nacional: Comité Nacional del Sistema Producto;
 
@@ -105,7 +107,9 @@ XVI. Jalea Real: Sustancia segregada por las abejas obreras, por medio de las gl
 
 XVII. Miel: Es el producto final restante de la recolección del néctar de las flores, al ser transportado, modificado y almacenado en las celdas de los panales por las abejas;
 
-XVIII. Médico Veterinario Oficial: Persona acreditada para el ejercicio de la profesión con registro oficial de la SAGARPA para realizar actividades en materia zoosanitaria;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XVIII. Médico Veterinario Oficial: Persona acreditada para el ejercicio de la profesión con registro oficial de la SADER para realizar actividades en materia zoosanitaria;
 
 XIX. Movilización: Transportación de colmenas pobladas de abejas reinas, núcleos de abejas y material apícola, a otra región dentro de la entidad ó fuera de ella;
 
@@ -119,11 +123,17 @@ XXIII. Polinizadores: Agentes estratégicos de los ecosistemas que permiten obte
 
 XXIV. Ruta y Zona Apícola: Las carreteras, los caminos, veredas, zonas o lugares susceptibles de explotación apícola y sitios permitidos para la instalación de apiarios;
 
-XXV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-XXVI. Secretaría: Secretaría de Desarrollo Rural del Estado de Jalisco;
+XXV. SADER: Secretaría de Agricultura y Desarrollo Rural del Gobierno de México;
 
-XXVII. SINIGA: Sistema de Identificación Individual de Ganado, programa de la SAGARPA; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXVI. Secretaría: Secretaría de Agricultura y Desarrollo Rural de Jalisco;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXVII. SINIGA: Sistema de Identificación Individual de Ganado, programa de la SADER; y
 
 XXVIII: UGREAPIJ: Unión Ganadera Regional Especializada de Apicultores, de conformidad con la Ley de Organizaciones Ganaderas.
 
@@ -181,7 +191,9 @@ X. Las demás que les confieran las leyes aplicables y sus reglamentos.
 
 Son autoridades competentes para la aplicación de esta Ley, en los términos que la misma y otras disposiciones aplicables les confieren:
 
-I. La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+I. La Secretaría;
 
 II. La Secretaría de Salud;
 
@@ -229,7 +241,9 @@ XIV. Vigilar y aplicar, en coordinación con la Secretaría de Salud, las dispos
 
 XV. Dictar las disposiciones necesarias para el control de plagas y enfermedades de las abejas y actividades del hombre que dañen a la apicultura, en coordinación con las instancias del Gobierno Federales (sic) para la aplicación de las normas federales en la materia;
 
-XVI. Llevar conjuntamente con la SAGARPA datos estadísticos referentes a la actividad apícola;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XVI. Llevar conjuntamente con la SADER datos estadísticos referentes a la actividad apícola;
 
 XVII. Llevar el registro de las organizaciones de los apicultores del Estado;
 
@@ -283,7 +297,9 @@ II. Un integrante del Comité Estatal para el Fomento y Protección Pecuaria, qu
 
 III. Los vocales, un representante de las siguientes dependencias e instituciones:
 
-a) SAGARPA
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+a) SADER
 
 b) Financiera Rural;
 
@@ -549,9 +565,11 @@ El Reglamento de la presente Ley regulará el procedimiento para la instalación
 
 ### CAPÍTULO IX. DE LA MOVILIZACIÓN DE COLMENAS Y SUS PRODUCTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 36.
 
-Para la movilización y transportación de colmenas y sus productos, deberá contarse con las guías de tránsito, la constancia de origen para la movilización de los productos del campo, expedidas por la Secretaría; el certificado zoosanitario expedido por las instancias oficialmente autorizadas por la SAGARPA así como los siguientes requerimientos:
+Para la movilización y transportación de colmenas y sus productos, deberá contarse con las guías de tránsito, la constancia de origen para la movilización de los productos del campo, expedidas por la Secretaría; el certificado zoosanitario expedido por las instancias oficialmente autorizadas por la SADER así como los siguientes requerimientos:
 
 I. Presentar una solicitud de ingreso al Estado ante la Secretaría, misma que debe contener los siguientes datos:
 
@@ -563,7 +581,9 @@ c) Raza, variedad ó tipo de abeja;
 
 d) Municipio, comunidad y sitio a donde se trasladará, el o los apiarios;
 
-e) Constancia de la SAGARPA en donde se certifica que las reinas son europeas y están marcadas;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+e) Constancia de la SADER en donde se certifica que las reinas son europeas y están marcadas;
 
 f) Croquis de macro y micro localización, del lugar donde se colocará el apiario; y
 
@@ -575,7 +595,9 @@ a) En su caso, opinión favorable por escrito de la organización local de apicu
 
 b) Permiso del propietario del terreno, donde se ubicará el apiario;
 
-c) Certificado zoosanitario suscrito por médico veterinario zootecnista de la delegación de la SAGARPA del Estado de procedencia;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+c) Certificado zoosanitario suscrito por médico veterinario zootecnista de la delegación de la SADER del Estado de procedencia.
 
 d) Guía de tránsito cumpliendo, lo señalado en esta Ley; y
 
@@ -595,7 +617,9 @@ Como medida de protección a la apicultura en la entidad, contra enfermedades y 
 
 La movilización de miel, polen, jalea real, y productos derivados de éstos dentro del Estado, deberá contar con las guías sanitarias y de tránsito de conformidad con la normatividad vigente, la presente ley y su reglamento.
 
-Cuando se pretenda importar núcleos de abejas y material genético se requerirá del permiso que para tal efecto expida la SAGARPA y se deberá notificar a la Secretaría y a las asociaciones apícolas, de conformidad con la presente ley y su reglamento.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Cuando se pretenda importar núcleos de abejas y material genético se requerirá del permiso que para tal efecto expida la SADER y se deberá notificar a la Secretaría y a las asociaciones apícolas, de conformidad con la presente ley y su reglamento.
 
 ###### Artículo 39.
 
@@ -633,13 +657,17 @@ Los apicultores y las asociaciones apícolas, están obligados a participar en l
 
 Para efectos de la presente Ley, se declara de interés público la protección, conservación y fomento de la flora melífera, así como la alta calidad genética de reproducción de abeja reina.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 45.
 
-La Secretaría, en coordinación con la SAGARPA, UGREAPIJ, las Organizaciones de Apicultores, el Comité Estatal del Sistema Producto Apícola, las Instituciones de Investigación y de Educación Superior en el Estado, los técnicos especializados en materia apícola, el Comité Estatal para el Fomento y Protección Pecuaria, promoverán y fomentarán el intercambio tecnológico de la producción de miel de abeja, así como la introducción y la cría de abeja reina de razas europeas.
+La Secretaría, en coordinación con la SADER, UGREAPIJ, las Organizaciones de Apicultores, el Comité Estatal del Sistema Producto Apícola, las Instituciones de Investigación y de Educación Superior en el Estado, los técnicos especializados en materia apícola, el Comité Estatal para el Fomento y Protección Pecuaria, promoverán y fomentarán el intercambio tecnológico de la producción de miel de abeja, así como la introducción y la cría de abeja reina de razas europeas.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 46.
 
-Coordinadamente la Secretaría, la SAGARPA, la Secretaría de Desarrollo Económico del Gobierno del Estado, el CESPA y la UGREAPIJ, organizarán eventos que contribuyan a mejorar la técnica de producción en materia apícola en el Estado.
+Coordinadamente la Secretaría, la SADER, la Secretaría de Desarrollo Económico del Gobierno del Estado, el CESPA y la UGREAPIJ, organizarán eventos que contribuyan a mejorar la técnica de producción en materia apícola en el Estado.
 
 ###### Artículo 47.
 
@@ -739,9 +767,11 @@ Se prohíbe toda movilización de colmenas, abejas reinas, núcleos de abejas, d
 
 Es obligatorio el cambio de abejas reinas mejoradas, en todas y cada una de las colmenas de los apicultores del Estado, cuando menos una vez al año.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 62.
 
-Toda sospecha de la presencia de enfermedades en una colmena, deberá reportarse a la SAGARPA, al Comité Estatal para el Fomento y Protección Pecuaria, a la Secretaría y a los Organismos oficiales y privados que cooperan con el programa de sanidad apícola.
+Toda sospecha de la presencia de enfermedades en una colmena, deberá reportarse a la SADER, al Comité Estatal para el Fomento y Protección Pecuaria, a la Secretaría y a los Organismos oficiales y privados que cooperan con el programa de sanidad apícola.
 
 ### CAPÍTULO XIV. DE LOS CRIADEROS DE REINAS
 
@@ -753,9 +783,11 @@ Cualquier apicultor podrá dedicarse al giro zootécnico de cría de reinas cump
 
 Los apicultores que se dediquen al giro zootécnico de cría, movilización y comercialización de abejas reinas y zánganos en el Estado, están obligados a registrarse en la Secretaría.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 65.
 
-La producción de abejas reina deberá basarse en las normas que establezca la SAGARPA, para favorecer la producción de abejas en cuanto a prolificidad, docilidad, productividad y resistencia a enfermedades.
+La producción de abejas reina deberá basarse en las normas que establezca la SADER, para favorecer la producción de abejas en cuanto a prolificidad, docilidad, productividad y resistencia a enfermedades.
 
 ###### Artículo 66.
 
@@ -811,11 +843,15 @@ Si se impidiera al inspector efectuar la visita ordenada, a pesar de cubrir las 
 
 En caso de infracción a las disposiciones de esta ley se levantará acta circunstanciada, en la que se consignarán pormenorizadamente los hechos que constituyen la infracción, expresando los datos del inspector, los generales, los nombres y domicilios de los infractores y de los testigos, así como los pormenores que revelen la gravedad de la infracción.
 
-La Secretaría deberá informar a la SAGARPA de las infracciones a la Ley Federal de Sanidad Animal y su Reglamento que observe durante las visitas de inspección que realice, a efecto de que se proceda conforme a las mismas.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+La Secretaría deberá informar a la SADER de las infracciones a la Ley Federal de Sanidad Animal y su Reglamento que observe durante las visitas de inspección que realice, a efecto de que se proceda conforme a las mismas.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 73.
 
-Las medidas preventivas o de combate tendientes a evitar la propagación de plagas y enfermedades que afecten a las abejas que dicte la SAGARPA, serán de carácter obligatorio para los apicultores del Estado.
+Las medidas preventivas o de combate tendientes a evitar la propagación de plagas y enfermedades que afecten a las abejas que dicte la SADER, serán de carácter obligatorio para los apicultores del Estado.
 
 ### CAPÍTULO XVI. DE LAS SANCIONES Y AMONESTACIONES
 
@@ -996,3 +1032,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27267/LXII/19, QUE REFORMA LOS ARTÍCULOS 5° FRACCIONES VI, XI, XVIII, XXV, XXVI Y XXVII; 8° FRACCIÓN I; 10 FRACCIÓN XVI; 12 FRACCIÓN III INCISO A), 36 FRACCIÓN I INCISO E), FRACCIÓN II INCISO C); 38, 45, 46, 62, 65, 72 Y 73 DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
