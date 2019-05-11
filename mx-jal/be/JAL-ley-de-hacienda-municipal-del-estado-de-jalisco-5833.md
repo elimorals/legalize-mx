@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2018-12-22"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -493,11 +493,9 @@ Los interesados directamente en situaciones reales y concretas que planteen cons
 
 Las instancias o peticiones que formulen a las autoridades fiscales deberán ser resueltas en los términos que la Ley fije o, a falta de término establecido, dentro del plazo de 3 meses. El silencio de las autoridades fiscales se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-###### Art. 36.
-
-Las resoluciones favorables a los particulares, excepto la autorización para funcionamiento de giros, no podrán ser revocadas o nulificadas por las autoridades administrativas. Cuando deban ser nulificadas, será necesario promover su nulidad ante el Tribunal de lo Administrativo.
+Art 36. Las resoluciones favorables a los particulares, excepto la autorización para (sic) funcionamiento de giros, no podrán ser revocadas o nulificadas por las autoridades administrativas. Cuando deban ser nulificadas, será necesario promover su nulidad ante el Tribunal de Justicia Administrativa.
 
 ###### Art. 37.
 
@@ -779,9 +777,9 @@ La Tesorería Municipal de oficio podrá declarar o los particulares podrán sol
 
 Para que la Tesorería Municipal pueda llevar a cabo la declaración de la prescripción de algún crédito deberá obrar constancia de que el contribuyente no haya podido ser requerido o no lo puedan localizar en el domicilio del giro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de lo Administrativo.
+Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de Justicia Administrativa.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
 
@@ -3413,11 +3411,9 @@ Contra la revocación de Licencias, no procederá el Recurso de Reconsideración
 
 ### CAPITULO UNICO. De su Procedencia y Tramitación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
-###### Art. 318.
-
-En contra de los actos y procedimientos precisados en el artículo siguiente, y que emanen de las autoridades fiscales municipales, sólo procederá el recurso administrativo de reconsideración; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este capítulo, o demandar su nulidad ante el Tribunal de lo Administrativo, siguiendo el procedimiento establecido para ese efecto en la Ley Orgánica del Poder Judicial y en la Ley de Justicia Administrativa, ambos ordenamientos del Estado de Jalisco.
+Art 318. En contra de los actos y procedimientos precisados en el artículo siguiente, y que emanen de las autoridades fiscales municipales, sólo procederá el recurso administrativo de reconsideración; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este capítulo, o demandar su nulidad ante el Tribunal de Justicia Administrativa, siguiendo el procedimiento establecido para ese efecto en la Ley Orgánica del Tribunal de Justicia Administrativa y en la Ley de Justicia Administrativa, ambos ordenamientos del Estado de Jalisco.
 
 La resolución que se dicte en el recurso de Reconsideración será también impugnable ante el citado Tribunal.
 
@@ -3439,9 +3435,9 @@ III. En los casos en que las notificaciones se hicieren en contravención a las 
 
 La declaratoria de nulidad de notificación traerá como consecuencia la de las actuaciones posteriores a la notificación anulada, que tengan relación con ella.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-Cuando se haya interpuesto algún medio de defensa ante el Tribunal de lo Administrativo, será improcedente la solicitud de nulidad de notificaciones ante la autoridad administrativa, mediante el recurso de reconsideración, y se hará valer mediante ampliación de la demanda respectiva.
+Cuando se haya interpuesto algún medio de defensa ante el Tribunal de Justicia Administrativa, será improcedente la solicitud de nulidad de notificaciones ante la autoridad administrativa, mediante el recurso de reconsideración, y se hará valer mediante ampliación de la demanda respectiva.
 
 ###### Art. 320.
 
@@ -3467,9 +3463,9 @@ VI. La autoridad encargada de resolver el recurso acordará lo que proceda, sobr
 
 VII. Vencido el plazo para la rendición de las pruebas, la Tesorería Municipal dictará resolución en un término, que no excederá de treinta días. El silencio de la autoridad significará que la Resolución es negativa.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-El recurrente podrá decidir esperar la resolución expresa o impugnar la negativa ficta ante el Tribunal de lo Administrativo.
+El recurrente podrá decidir esperar la resolución expresa o impugnar la negativa ficta ante el Tribunal de Justicia Administrativa.
 
 ###### Art. 321.
 
@@ -3962,5 +3958,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 22 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27221/LXII/18 QUE REFORMA EL ARTÍCULO 106 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27256/LXII/19 QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
