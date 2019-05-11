@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2017-03-23"
+last_updated: "2019-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -95,15 +95,29 @@ XIX. Sanidad: el conjunto de acciones, procedimientos, prácticas y medidas que 
 
 XX. Sanitización: el tratamiento que se aplica a los recursos hidrobiológicos, así como a las instalaciones, equipos y transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos y plagas causantes de enfermedades o reducir el número de éstos cuando se advierta su presencia por encima del nivel considerado seguro;
 
-XXI. La Secretaría: la Secretaría de Desarrollo Rural del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-XXII. SIROPA: el Sistema Integral de Registro de Operación Pesquera y Acuícola;
+XXI. La Secretaría: la Secretaría de Agricultura y Desarrollo Rural; del Gobierno de Jalisco;
 
-XXIII. Sistema Estatal: el Sistema Estatal de Información Pesquera y Acuícola;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2019)</small>
 
-XXIV. Rastreabilidad: conjunto de procedimientos preestablecidos que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena o red de valor en un momento dado, y
+XXII. SADER: Secretaría de Agricultura y Desarrollo Rural; de la Administración Pública Federal.
 
-XXV. Verificación sanitaria: las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen cumplen con las disposiciones legales aplicables en materia de sanidad.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2019)</small>
+
+XXIII. SIROPA: el Sistema Integral de Registro de Operación Pesquera y Acuícola;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2019)</small>
+
+XXIV. Sistema Estatal: el Sistema Estatal de Información Pesquera y Acuícola;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXV. Rastreabilidad: conjunto de procedimientos preestablecidos que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena o red de valor en un momento dado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2019)</small>
+
+XXVI. Verificación sanitaria: las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen cumplen con las disposiciones legales aplicables en materia de sanidad.
 
 ###### Artículo 3.
 
@@ -161,7 +175,9 @@ XVII. Coordinar la organización y desarrollo de exposiciones, ferias y eventos 
 
 XVIII. Promover la organización y capacitación en las actividades del sector acuícola y pesquero, así como las medidas para incrementar la productividad, y la prestación de servicios de asesoría y capacitación;
 
-XIX. Participar con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en la formulación y ejecución de los programas de ordenamiento pesquero y acuícola;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XIX. Participar con la SADER, en la formulación y ejecución de los programas de ordenamiento pesquero y acuícola;
 
 XX. Promover el consumo de una mayor variedad de productos pesqueros y acuícolas;
 
@@ -183,7 +199,9 @@ XXVIII. Dictar, de conformidad con las normas oficiales aplicables, medidas de s
 
 XXIX. Determinar los niveles de incidencia de enfermedades y plagas de las especies y organismos acuáticos;
 
-XXX. Establecer, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los periodos de pesca y veda; de siembra y cosecha para el cultivo y producción de recursos hidrobiológicos, así como, de acuerdo con las condiciones técnicas y naturales, las zonas de veda, captura, cultivo y recolección;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXX. Establecer, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales y la SADER, los períodos de pesca y veda; de siembra y cosecha para el cultivo y producción de recursos hidrobiológicos, así como, de acuerdo con las condiciones técnicas y naturales, las zonas de veda, captura, cultivo y recolección;
 
 XXXI. Establecer viveros, criaderos y reservas de especies hidrobiológicas, así como la administración y operación de los ya existentes;
 
@@ -199,7 +217,9 @@ XXXV. Brindar, directamente o en coordinación con otras instancias competentes,
 
 XXXVI. Imponer las sanciones que les correspondan a las infracciones cometidas a la presente ley, su reglamento y los planes de manejo correspondientes, y resolver los recursos que se interpongan en contra de las mismas;
 
-XXXVII. Promover ante las autoridades competentes acciones de saneamiento acuícola en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de conformidad con la Ley General;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXXVII. Promover ante las autoridades competentes acciones de saneamiento acuícola en coordinación con la SADER, de conformidad con la Ley General;
 
 XXXVIII. Expedir, en los términos del convenio que al efecto se celebre con la Federación, las guías de tránsito para el traslado de productos pesqueros referidos en la Ley General, provenientes de la pesca o la acuacultura;
 
@@ -305,11 +325,11 @@ Las secretarías, dependencias, organismos y entidades que por razón de materia
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA EL DESARROLLO SUSTENTABLE ACUÍCOLA Y PESQUERO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 13.
 
-El Programa Estatal para el desarrollo sustentable Acuícola y Pesquero, deberá emitirse por parte de la Secretaría, en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Pesca y Acuacultura, y será autorizado por el Ejecutivo del Estado, previo análisis de las secretarías de Planeación, Administración y Finanzas y de Medio Ambiente y Desarrollo Territorial del Estado.
+El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero, deberá emitirse por parte de la Secretaría, en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Pesca y Acuacultura, y será autorizado por el Ejecutivo del Estado, previo análisis de las Secretarías de Planeación y Participación Ciudadana, y de Medio Ambiente y Desarrollo Territorial del Estado.
 
 El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero deberá comprender:
 
@@ -1403,9 +1423,11 @@ Ninguna autoridad o persona física o jurídica, que tenga acceso a información
 
 ### CAPÍTULO IV. DE LOS PERMISOS PARA LA PESCA DEPORTIVO-RECREATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 138.
 
-La Secretaría, a través del IAPEJ, podrá celebrar convenios o acuerdos de coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y los municipios para la administración de los permisos para la realización de pesca deportivo-recreativa. Para tales efectos, el IAPEJ reconocerá los permisos expedidos por la autoridad federal.
+La Secretaría, a través del IAPEJ, podrá celebrar convenios o acuerdos de coordinación con la SADER y los municipios para la administración de los permisos para la realización de pesca deportivo-recreativa. Para tales efectos, el IAPEJ reconocerá los permisos expedidos por la autoridad federal.
 
 Los interesados en obtener un permiso para realizar la pesca deportivo-recreativa deberán presentar ante la Secretaría, a través del IAPEJ, la solicitud respectiva en formato expedido al efecto por la (sic) el mismo Instituto, acompañándola de una identificación oficial del solicitante.
 
@@ -1561,7 +1583,9 @@ Para garantizar la sanidad de los recursos pesqueros o acuícolas, los permision
 
 Los puntos de verificación sanitaria son instalaciones fijas o móviles establecidas en coordinación con las autoridades federales, estatales y con apoyo, en su caso, de las autoridades municipales correspondientes, para verificar que el ingreso al estado y el traslado de los recursos pesqueros o acuícolas cumplan con los requisitos establecidos en la presente ley y en las demás disposiciones aplicables y, en su caso, aplicar las medidas sanitarias conducentes.
 
-Los puntos de verificación estarán a cargo del personal designado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el apoyo que corresponda según convenio que se celebre al respecto con la Secretaría.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
+Los puntos de verificación estarán a cargo del personal designado por la SADER y el apoyo que corresponda según convenio que se celebre al respecto con la Secretaría.
 
 ###### Artículo 158.
 
@@ -1787,9 +1811,11 @@ El Comité Asesor Técnico Científico se integrará, organizará y funcionará 
 
 Para fomentar la integración del sector acuícola y pesquero dentro de los programas a desarrollar por el Ejecutivo del Estado, la Secretaría podrá contar con el Fondo Estatal de Acuacultura y Pesca. El Fondo será el instrumento para promover la operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros para la comunidad productiva del sector acuícola y pesquero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 187.
 
-El Fondo Estatal de Acuacultura y Pesca operará a través de un Comité Técnico, integrado por el Secretario de Desarrollo Rural del Estado, el Subsecretario, un representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los titulares de las dependencias estatales que incidan en el sector y, en todo caso, un representante por municipio o municipios que estén conveniados.
+El Fondo Estatal de Acuacultura y Pesca operará a través de un Comité Técnico, integrado por el Secretario de Agricultura y Desarrollo Rural del Estado, el Subsecretario, un representante de la SADER, los titulares de las dependencias estatales que incidan en el sector y, en todo caso, un representante por municipio o municipios que estén conveniados.
 
 La existencia del fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con el desarrollo del sector acuícola y pesquero.
 
@@ -1835,9 +1861,11 @@ De igual manera, la Secretaría promoverá e impulsará el valor agregado a los 
 
 Para los efectos de esta ley, las actividades pesqueras y acuícolas serán consideradas como esenciales de los planes parciales de desarrollo urbano, donde las autoridades competentes, estatales y municipales al autorizarlos deberán asegurar el respeto irrestricto a los lugares e instalaciones, edificaciones y estructuras de cualquier tipo donde se realicen dichas actividades, resultando de ello una vinculación armónica con las actividades económicas y de servicios que implican aquellos desarrollos urbanísticos.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
+
 ###### Artículo 193.
 
-El Estado y los municipios, dentro de los ámbitos de su competencia podrán coordinarse con la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con otras dependencias federales competentes, como cabezas de sector, a efecto de proteger los recursos hidrobiológicos y naturales, evitando cualquier actividad o presencia de elementos que conduzcan al deterioro, alteración o degradación en zonas tales como el mar territorial frente a las costas del estado, los sistemas lagunariosestuarinos, así como en las aguas que sirvan de límite a dos entidades federativas o que pasen de una a otra.
+El Estado y los municipios, dentro de los ámbitos de su competencia podrán coordinarse con la Secretaría de Medio Ambiente y Recursos Naturales, la SADER y con otras dependencias federales competentes, como cabezas de sector, a efecto de proteger los recursos hidrobiológicos y naturales, evitando cualquier actividad o presencia de elementos que conduzcan al deterioro, alteración o degradación en zonas tales como el mar territorial frente a las costas del estado, los sistemas lagunariosestuarinos, así como en las aguas que sirvan de límite a dos entidades federativas o que pasen de una a otra.
 
 ###### Artículo 194.
 
@@ -2178,3 +2206,9 @@ P.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015”]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27267/LXII/19, QUE REFORMA LOS ARTÍCULOS 5° FRACCIONES VI, XI, XVIII, XXV, XXVI Y XXVII; 8° FRACCIÓN I; 10 FRACCIÓN XVI; 12 FRACCIÓN III INCISO A), 36 FRACCIÓN I INCISO E), FRACCIÓN II INCISO C); 38, 45, 46, 62, 65, 72 Y 73 DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
