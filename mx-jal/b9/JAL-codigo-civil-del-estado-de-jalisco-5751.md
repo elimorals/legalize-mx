@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-03-21"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2485,7 +2485,7 @@ III. Los cónyuges no tengan hijos vivos o concebidos dentro de matrimonio, o te
 
 IV. Hubieren liquidado la sociedad conyugal o legal; y
 
-V. Tengan más de un año de casados.
+V. (DEROGADA, P.O. 11 DE MAYO DE 2019)
 
 (ADICIONADO, P.O. 2 DE ENERO DE 2007) (REPUBLICADO, P.O. 16 DE FEBRERO DE 2016)
 
@@ -2499,9 +2499,9 @@ El Oficial del Registro Civil, previa identificación de los cónyuges, levantar
 
 Los cónyuges podrán acudir ante Notario Público de la región notarial correspondiente al lugar donde se celebró el matrimonio a tramitar su divorcio bajo el mismo procedimiento al que se sujetarían ante el Oficial del Registro Civil. El Notario Público hará constar en escritura pública la solicitud de divorcio, que medió ante los cónyuges procurando avenirlos y, si estos ratifican dicha solicitud, así se expresará en el instrumento público y declarará la disolución del vínculo matrimonial. Satisfechos los requisitos de ley, el Notario expedirá testimonios que remitirá tanto al Oficial del Registro Civil ante quien se celebró el matrimonio y al Director del Archivo de Registro Civil del Estado, para que el primero levante el acta de divorcio correspondiente y ambos realicen las anotaciones a que hubiere lugar.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-Las personas así divorciadas podrán volver a contraer matrimonio civil transcurrido un año de que se haya levantado el acta de divorcio.
+Las personas así divorciadas podrán volver a contraer matrimonio civil una vez que se haya levantado el acta de divorcio.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -2513,11 +2513,11 @@ Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divo
 
 El trámite previsto en el artículo anterior se podrá llevar a cabo mediante método alterno, conforme a la Ley de Justicia Alternativa del Estado de Jalisco.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Art. 406.
 
-Cuando ambos cónyuges convengan en divorciarse y tengan más de un año de casados, presentarán al juzgado certificado expedido por la Secretaría de Salud en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a 30 días naturales a la fecha de presentación de la solicitud y un convenio en donde fijen los siguientes puntos:
+Cuando ambos cónyuges convengan en divorciarse, presentarán al juzgado, certificado expedido por la Secretaría de Salud en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a 30 días naturales a la fecha de presentación de la solicitud y un convenio en donde fijen los siguientes puntos:
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -9281,7 +9281,7 @@ La obligación contraída bajo la condición de que un acontecimiento suceda en 
 
 La obligación contraída bajo la condición de que un acontecimiento no se verifique en un tiempo fijo, será exigible si pasa el tiempo sin verificarse.
 
-Si no hubiere tiempo fijado, la condición deberá reputarse cumplida transcurrido el que verosímilmente se hubiere querido señalar, atenta la naturaleza de la obligación.
+Si no hubiere tiempo fijado, la condición deberá reputarse cumplida transcurrido el que verosimilmente se hubiere querido señalar, atenta la naturaleza de la obligación.
 
 ###### Art. 1457.
 
@@ -17651,7 +17651,7 @@ La herencia dejada a niñas, niños y adolescentes o incapaces, será aceptada p
 
 ###### Art. 2996.
 
-La aceptación puede ser expresa o tácita: Es expresa la aceptación, si el heredero acepta con palabras terminantes en forma oral o escrita; y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar o aquellos que no podría ejecutar sino en su calidad de heredero.
+La aceptación puede ser expresa o tácita: Es expresa la aceptación, si el heredero acepta con palabras terminantes en forma oral o escrita; y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar o aquéllos que no podría ejecutar sino en su calidad de heredero.
 
 ###### Art. 2997.
 
@@ -18259,7 +18259,7 @@ En el proyecto de partición se expresará la parte que del capital o fundo afec
 
 ###### Art. 3118.
 
-Cuando todos los herederos sean mayores de edad, no existan herederos incapaces, exista testamento público abierto, o se trate de sucesión legitima, podrán los interesados tramitar, desde su inicio, el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, iniciada ante la autoridad judicial, o cuando exista testamento público cerrado u ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaria para la prosecución del negocio.
+Cuando todos los herederos sean mayores de edad, no existan herederos incapaces, exista testamento público abierto, o se trate de sucesión legitima, podrán los interesados tramitar, desde su inicio, el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, iniciada ante la autoridad judicial, o cuando exista testamento público cerrado u ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -19076,3 +19076,9 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27264/LXII/19, QUE REFORMA LOS ARTÍCULOS 405 BIS Y 406 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
