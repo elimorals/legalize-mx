@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2018-12-27"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -309,9 +309,17 @@ XXVI. Diseñar e implementar proyectos, estudios y programas permanentes de info
 
 XXVII. Decidir sobre el destino de los recursos que le sean asignados, de conformidad con las leyes aplicables; y
 
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXVIII. Diseñar e implementar una plataforma digital de servidores públicos y proveedores Inhabilitados, ya sean personas físicas o jurídicas, con motivo de delitos por hechos de corrupción, teniendo como soporte las sentencias dictadas por la autoridad judicial, que hayan causado estado y que le sean notificadas, con información clara, accesible y actualizada, de conformidad a la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
+
+XXIX. Dar aviso oportunamente a los diversos entes públicos, cuando se inhabilite mediante sentencia ejecutoriada, a cualquier servidor público, proveedor o contratista, sea persona física o jurídica por haber cometido hechos de corrupción, dictadas por la autoridad judicial, que le sean notificadas acompañando al informe copia certificada de la sentencia ejecutoriada; y
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-XXVIII. Las demás que en su caso le confieran otras disposiciones aplicables.
+XXX. Las demás que en su caso le confieran otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -918,3 +926,9 @@ P.O. 27 DE DICIEMBRE DE 2018.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
 
 Segundo. Para las áreas de la Fiscalía del Estado que se prevén en este decreto, no se autoriza la creación de nuevas plazas ni contratación de más personal, por lo que para tal efecto se deberá llevar a cabo una reingeniería al interior de dicha dependencia.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
