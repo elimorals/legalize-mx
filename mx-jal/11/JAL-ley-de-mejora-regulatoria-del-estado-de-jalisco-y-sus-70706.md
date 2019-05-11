@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mejora-regulatoria-del-estado-de-jalisco-y-sus-70706"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2016-10-11"
+last_updated: "2019-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 24 de octubre de 2009.
 
@@ -355,39 +355,43 @@ p. Dirección General de Asuntos Agrarios.
 
 III. Del Poder Legislativo, el Presidente de la Mesa Directiva del Congreso del Estado de Jalisco y un Diputado representante de las siguientes comisiones:
 
-a. Desarrollo Económico;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+a. Competitividad, Desarrollo Económico, Innovación y Trabajo;
 
 b. Hacienda y Presupuestos;
 
-c. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-d. Desarrollo Municipal;
+c. Estudios Legislativo y Reglamentos;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-e. Gobernación;
+d. Gobernación y Fortalecimiento Municipal;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
+e. (DEROGADO, P.O. 11 DE MAYO DE 2019)
 
-f. Medio Ambiente y Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
+f. Medio Ambiente, sostenibilidad, Protección Civil y Resiliencia;
 
-g. Asuntos Metropolitanos;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+g. Gestión Metropolitana;
 
-h. Desarrollo Regional;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+h. Desarrollo Productivo Regional;
 
-i. Desarrollo Urbano;
+i. (DEROGADO, P.O. 11 DE MAYO DE 2019)
 
-j. Justicia, y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+j. Seguridad y Justicia; y
 
-k. Planeación para el Desarrollo;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+k. Planeación, Ordenamiento Territorial y de la Gestión del Agua.
 
 IV. Del Poder Judicial, el Presidente del Supremo Tribunal de Justicia del Estado de Jalisco, el Presidente del Tribunal de lo Administrativo y un consejero del Consejo de la Judicatura;
 
@@ -936,3 +940,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25876/LXI/16 QUE REFORMA EL ARTÍCULO 16 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA; EL ARTÍCULO 8 DEL DECRETO NÚMERO 13555, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TREN ELÉCTRICO URBANO; EL ARTÍCULO 7 DEL DECRETO NÚMERO 14139, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO, SERVICIOS Y TRANSPORTES; Y LA DENOMINACIÓN DEL CAPÍTULO X DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27259/LXII/19, QUE REFORMA LOS ARTÍCULOS DE LA LEY DEL INSTITUTO DE PENSIONES, LEY PARA LOS SERVIDORES PÚBLICOS, LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN, LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS, LEY DE MEJORA REGULATORIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
