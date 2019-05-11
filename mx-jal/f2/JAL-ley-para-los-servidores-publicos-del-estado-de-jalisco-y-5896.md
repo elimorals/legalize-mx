@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2019-03-21"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -159,15 +159,15 @@ La figura de prórroga contemplada en el artículo 39 de la Ley Federal del Trab
 
 Los empleados públicos y los servidores públicos de base podrán ser cesados en los términos del artículo 22, fracción V, de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Art. 9.
 
-Para los efectos de esta Ley, se entenderán como Titulares:
+Para los efectos de esta Ley, se entenderán como titulares:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-I. En el Poder Legislativo, el Congreso del Estado, representado por la Comisión de Administración;
+I. En el Poder Legislativo, el Congreso del Estado, representado por la Comisión de Administración y Planeación Legislativa;
 
 II. En el Poder Ejecutivo, el Gobernador del Estado y, en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo disponga la Ley Orgánica de este Poder;
 
@@ -423,7 +423,7 @@ k) Por falta comprobada al cumplimiento de las condiciones generales de trabajo 
 
 l) Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la Entidad Pública.
 
-ll) Las análogas a las establecidas en los incisos anteriores.
+II) Las análogas a las establecidas en los incisos anteriores.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2900,3 +2900,11 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27259/LXII/19, QUE REFORMA LOS ARTÍCULOS DE LA LEY DEL INSTITUTO DE PENSIONES, LEY PARA LOS SERVIDORES PÚBLICOS, LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN, LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS, LEY DE MEJORA REGULATORIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
