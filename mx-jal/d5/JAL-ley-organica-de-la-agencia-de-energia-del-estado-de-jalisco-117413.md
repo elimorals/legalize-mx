@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-de-energia-del-estado-de-jalisco-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-26"
-last_updated: "2016-11-26"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección LIII del Periódico Oficial del Estado de Jalisco, el sábado 26 de noviembre de 2016.
 
@@ -193,7 +193,9 @@ a) Del Ejecutivo del Gobierno del Estado:
 
 2. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-3. Secretaría de Planeación, Administración y Finanzas; y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+3. Secretaría de la Hacienda Pública; y
 
 4. Contraloría del Estado.
 
@@ -201,7 +203,9 @@ b) Del Consejo Consultivo:
 
 1. Tres representantes del Consejo Consultivo, que serán: el representante de la Universidad de Guadalajara, el del Centro Nacional de Control de Energía y el del Consejo de Cámaras Industriales de Jalisco.
 
-IV. Un representante del Poder Legislativo, que será el presidente de la Comisión de Medio Ambiente y Desarrollo Sustentable, sólo con derecho a voz.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+IV. Un representante del Poder Legislativo, que será el presidente de la Comisión de Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia, sólo con derecho a voz.
 
 Podrá contar además con un representante de la Secretaría de Energía, como invitado permanente.
 
@@ -584,3 +588,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27266/LXII/19, QUE REFORMA EL ARTÍCULO 8° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “BOSQUE LA PRIMAVERA”; EL ARTÍCULO 26 FRACCIÓN IV DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; EL ARTÍCULO 5° FRACCIÓN IV DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
