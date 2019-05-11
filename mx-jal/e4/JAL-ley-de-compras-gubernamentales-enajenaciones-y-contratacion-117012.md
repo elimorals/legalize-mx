@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2019-04-16"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -805,7 +805,9 @@ II. Aquellas en cuyas empresas participe algún servidor público, miembro del C
 
 III. Aquellos proveedores que por causas imputables a ellos mismos, la dependencia, entidad o unidad administrativa convocante les hubiere rescindido administrativamente más de un contrato, dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión;
 
-IV. Las que se encuentren inhabilitadas por resolución de autoridad competente;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+IV. Las que se encuentren inhabilitadas por resolución ejecutoriada de autoridad competente, o en su caso, cuenten con capitales de sujetos previamente inhabilitados.
 
 V. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la propia (sic) ente público, siempre y cuando éstas hayan resultado gravemente perjudicadas;
 
@@ -1497,9 +1499,13 @@ IV. El daño causado.
 
 3. Se considerará como falta grave por parte del proveedor, y en su caso, del adquirente, la falsificación de documentos.
 
+(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### Artículo 117.
 
-1. Los proveedores o participantes que hubieran sido sancionados por faltas graves quedarán inhabilitados para ser contratados por al menos tres meses y no más de 5 años, contando a partir de la fecha en que se emitió la sanción.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+1. Los proveedores o participantes que hubieran sido sancionados por faltas graves previstas por la Ley General de Responsabilidades Administrativas quedarán inhabilitados para ser contratados por al menos tres meses y no más de 5 años, contando a partir de la fecha en que se emitió la sanción; CON EXCEPCIÓN DE LA INHABILITACIÓN PERPETUA POR RESOLUCIÓN ADMINISTRATIVA O EN SU CASO PENAL EJECUTORIADA EMITIDA POR HABER COMETIDO ACTOS DE CORRUPCIÓN.
 
 ###### Artículo 118.
 
@@ -1778,3 +1784,9 @@ P.O. 16 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27250/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2 Y 26 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASIMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
