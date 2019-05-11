@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2016-11-10"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -31,7 +31,7 @@ Al margen un sello que dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Se
 
 Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
-NÚMERO.-18770 EL CONGRESO DEL ESTADO DECRETA:
+NÚMERO.- 18770 EL CONGRESO DEL ESTADO DECRETA:
 
 SE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE (SIC) LIBRE Y SOBERANO DE JALISCO.
 
@@ -427,7 +427,7 @@ XVII. Turnar a la Dirección de Administración las solicitudes de permisos even
 
 XVIII. Dar cuenta a la Dirección Jurídica de las faltas administrativas de los servidores públicos a su cargo que pudieren dar causa a procedimientos administrativos;
 
-XIX. Excusarse de ejercer la función registral cuando él, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso turnará al Director de Propiedad el asunto para su calificación y registro, en su caso; y
+XIX. Excusarse de ejercer la función registral cuando él, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso turnará al Director de Propiedad al (sic) asunto para su calificación y registro, en su caso; y
 
 XX. Las demás que le impongan las leyes y las que deriven de la naturaleza de su cargo o se les encomienden.
 
@@ -795,7 +795,7 @@ El registro de personas jurídicas comprende:
 
 I. Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles, sus estatutos, los nombramientos de directores, administradores y mandatarios, en su caso, por éstas otorgados, así como su liquidación;
 
-II. Los instrumentos que contengan la protocolización de los estatutos de las asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando hayan comprobado el Registrador que existe la autorización correspondiente de la Secretaría de Relaciones Exteriores;
+II. Los instrumentos que contengan la protocolización de los estatutos de las asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el Registrador que existe la autorización correspondiente de la Secretaría de Relaciones Exteriores;
 
 III. Las fundaciones;
 
@@ -807,7 +807,7 @@ V. La inscripción de poderes de personas jurídicas y su revocación cumpliendo
 
 ###### Artículo 53.
 
-Se inscribirán en la Sección Auxiliar a que se refiere esta Ley y el Reglamento, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo, tanto en los intestados como en las testamentarías y, cuando lo haya, el auto de reconocimiento de legatarios, así como los demás actos relativos a la sucesión que deban ser objeto de registro conforme al Código y al Código de Procedimientos.
+Se inscribirán en la Sección Auxiliar a que se refiere esta Ley y el Reglamento, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo, tanto en los intestados como en las testamentarias y, cuando lo haya, el auto de reconocimiento de legatarios, así como los demás actos relativos a la sucesión que deban ser objeto de registro conforme al Código y al Código de Procedimientos.
 
 Se inscribirán en esta sección todos los actos o hechos jurídicos que por su naturaleza o disposición de la ley así se señale, además, las declaraciones, capitulaciones y modificaciones relativas a la sociedad conyugal así como la liquidación de la sociedad legal o sociedad conyugal las cuales deberán registrarse observando los requisitos que establece el Código y las normas que especifique el Reglamento.
 
@@ -963,9 +963,11 @@ II. Cuando el acto jurídico contenido en el documento presentado no es de los q
 
 III. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 70.
 
-Cuando el funcionario con fe pública registral determine denegar el registro de un documento sin causa justificada que funde y motive, el interesado podrá interponer el recurso administrativo de reconsideración previsto en esta Ley o acudir ante el Tribunal Administrativo del Estado, siendo, en su caso, necesaria la orden del Magistrado correspondiente, para que se practique su registro.
+Cuando el funcionario con fe pública registral determine denegar el registro de un documento sin causa justificada que funde y motive, el interesado podrá interponer el recurso administrativo de reconsideración previsto en esta Ley o acudir ante el Tribunal de Justicia Administrativa, siendo, en su caso, necesaria la orden del Magistrado correspondiente, para que se practique su registro.
 
 ###### Artículo 71.
 
@@ -1025,7 +1027,7 @@ La preferencia o prelación en los derechos, se determinará por la prioridad de
 
 La preferencia entre derechos que sean registrables sobre un mismo bien, se determina en la siguiente forma:
 
-I. Tratándose de derechos reales, por la prioridad en su registro independientemente de cuando se hubieren adquirido siempre que la controversia se dé entre adquirientes de la misma calidad.
+I. Tratándose de derechos reales, por la prioridad en su registro independientemente de cuándo se hubieren adquirido siempre que la controversia se dé entre adquirientes de la misma calidad.
 
 La afectación de bienes en fideicomiso se equipara a una transmisión de derechos reales;
 
@@ -1521,7 +1523,7 @@ I. Las escrituras se realizarán insertando certificado de libertad o gravamen, 
 
 II. Se realizarán insertando el certificado de libertad o gravamen con cautelar inserto que se hubiere expedido en términos del artículo 87 que se reforma; y
 
-III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un solo certificado de libertad de gravamen o bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
+III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un sólo certificado de libertad de gravamen o bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
 
 El Titular del Ejecutivo, a través de la Secretaria General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.
 
@@ -1602,3 +1604,9 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25898/LXI/16 QUE REFORMA LOS ARTÍCULOS 127 Y 131 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
