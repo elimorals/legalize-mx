@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2019-04-27"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -285,9 +285,9 @@ IV. Proponer la normatividad reglamentaria y criterios ambientales estatales, qu
 
 V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-VI. Elaborar en el ámbito de su respectiva competencia, programas para la prevención y control de contingencias ambientales y coordinarse con autoridades federales y municipales, para su aplicación y cumplimiento;
+VI. Declarar las contingencias o emergencias ambientales y coordinar los protocolos para su atención, así como elaborar en el ámbito de su respectiva competencia, programas y protocolos para la prevención y control de contingencias ambientales y coordinarse con autoridades federales y municipales, para su aplicación y cumplimiento;
 
 VII. Elaborar el ordenamiento ecológico regional del estado, en las escalas necesarias para la planeación estatal y municipal del uso sustentable del territorio en las diferentes regiones de la entidad, en coordinación con la federación y los gobiernos municipales, en sus respectivas esferas de competencia, y asegurarse que los ordenamientos ecológicos locales que al efecto expidan los gobiernos municipales, sean congruentes con el ordenamiento ecológico regional del estado;
 
@@ -1583,9 +1583,7 @@ Las autoridades estatales y municipales, en su caso, promoverán en las zonas qu
 
 En los programas de desarrollo urbano estatal y planes parciales municipales, se considerarán las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO IV
-
-De las actividades riesgosas.
+### CAPITULO IV. De las actividades riesgosas y contingencias o emergencias ambientales
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1755,6 +1753,8 @@ Toda descarga, depósito o infiltraciones de substancias o materiales contaminan
 
 Los procesos industriales que generen residuos de lenta degradación, para los cuales no existan alternativas, se llevarán a cabo con arreglo a lo que dispongan las leyes y reglamentos correspondientes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2019)</small>
+
 ### CAPITULO VI
 
 Del ruido, vibraciones, energía térmica y lumínica y olores.
@@ -1770,6 +1770,24 @@ La Secretaría regulará y vigilará la realización de actividades riesgosas qu
 ###### Artículo 95.
 
 La vigilancia del cumplimiento de la regulación a que se refiere el artículo anterior, corresponderá a los gobiernos municipales, únicamente cuando en la realización de las actividades riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población, o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos sólidos urbanos generados en servicios públicos y privados cuya regulación corresponda a los propios gobiernos municipales o se relacionen con dichos servicios.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Artículo 95 bis. Cuando se tenga conocimiento y se acredite una contingencia o emergencia ambiental la Secretaría de oficio o a petición (sic) parte, declarará la contingencia e instrumentará un protocolo de actuación para la atención oportuna del siniestro, dicho protocolo deberá contener acciones inmediatas para la atención de los riegos y la protección a los ecosistemas, a la fauna, la flora y los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Artículo 95 ter. Una vez declarada la contingencia la Secretaría establecerá un comando de emergencia ambiental, quien supervisará en campo la atención de cada una de las medidas establecidas en los protocolos y la ejecución de aquellas medidas contingentes adicionales que sean necesarias.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Articulo 95 cuater. Dicho comando se coordinará en el mismo nivel con las demás autoridades cuando la emergencia conlleve riesgos de otra naturaleza como son en materia de protección civil, riegos sanitarios o de seguridad.
+
+La integración del comando estará determinada por la Secretaría en los protocolos de atención.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Articulo 95 quinquies. La operación de este comando de emergencias ambientales tiene como finalidad prioritaria la preservación de áreas naturales, ecosistemas, protección y en su caso rescate de flora y fauna, la supervisión de medidas de contingencia y de remediación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -2928,3 +2946,13 @@ P.O. 27 DE ABRIL DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27271/LXII/19, QUE REFORMA LOS ARTÍCULOS 6° FRACCIÓN V Y ADICIONA LOS ARTÍCULOS 95 BIS, 95 TER, 95 QUÁTER, 95 QUINQUIES Y MODIFICA LA DENOMINACIÓN DEL CAPITULO IV CORRESPONDIENTE AL TÍTULO CUARTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Artículo Segundo. La Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, en un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto debe realizar las modificaciones a los reglamentos y disposiciones administrativas que resulten aplicables; así como emitir los protocolos necesarios para la atención de contingencias o emergencias necesarias y para la operación de comando de emergencias ambientales.
+
+Artículo Tercero. Entretanto se realizan las modificaciones a los reglamentos y disposiciones administrativas que resulten aplicables yse (sic) emiten los protocolos necesarios para la atención de contingencias o emergencias necesarias para la operación de comando de emergencias ambientales, la Secretaría de Medio Ambiente y Desarrollo Territorial atenderá las contingencias y emergencias ambientales de conformidad a la (sic) presente decreto, a las normas y protocolos que se encuentren vigentes.
