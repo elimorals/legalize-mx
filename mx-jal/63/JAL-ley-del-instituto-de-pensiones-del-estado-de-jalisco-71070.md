@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2013-07-27"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -97,9 +97,11 @@ XVI. Sueldo tabular: aquél que se estipula en el tabulador de cada entidad púb
 
 Las disposiciones de esta Ley que se refieran a la base y porcentaje de las aportaciones de las entidades públicas patronales y de los afiliados, son de aplicación estricta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 5.
 
-Las controversias entre el Instituto y las entidades públicas patronales serán resueltas por el Tribunal de lo Administrativo del Estado de Jalisco.
+Las controversias entre el Instituto y las entidades públicas patronales serán resueltas por el Tribunal de Justicia Administrativa del Estado de Jalisco.
 
 Para los efectos del párrafo anterior, en lo no previsto por esta Ley y sus reglamentos se aplicarán supletoriamente:
 
@@ -143,9 +145,9 @@ Quien haga el pago de aportaciones o retenciones deberá obtener del Instituto l
 
 También podrán determinarse otros medios de pago y documentación del mismo, conforme a las bases que de forma general establezca el Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-La falta de pago de aportaciones, retenciones, actualizaciones o recargos dará lugar a la ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, que se efectuará a petición del Instituto y se aplicará por la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado.
+La falta de pago de aportaciones, retenciones, actualizaciones o recargos dará lugar a la ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, que se efectuará a petición del Instituto y se aplicará por la Secretaría de la Hacienda Pública del Estado.
 
 ###### Artículo 11.
 
@@ -1419,7 +1421,9 @@ II. Realizar las actividades de servicio y de autoridad tendientes a cumplir y h
 
 III. Verificar y requerir el cumplimiento de las obligaciones de las entidades públicas patronales y de los afiliados, dictando medidas correctivas, determinando los créditos y requiriendo su pago. Para tal efecto podrá ordenar las visitas de verificación establecidas en esta Ley;
 
-IV. Requerir a la Secretaría de Finanzas la afectación, retención y entero de cuotas omitidas con cargo a subsidios, aportaciones, participaciones y demás recursos de la hacienda federal, estatal o municipal;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+IV. Requerir a la Secretaría de la Hacienda Pública la afectación, retención y entero de cuotas omitidas con cargo a subsidios, aportaciones, participaciones y demás recursos de la hacienda federal, estatal o municipal;
 
 V. Realizar la determinación presuntiva de las cotizaciones omitidas en los casos en que esta Ley lo permita;
 
@@ -1826,3 +1830,11 @@ P.O. 27 DE JULIO DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los delitos cometidos antes de la entrada en vigor del presente decreto, en los términos de los artículos 167, 168, 169 y 170 de la Ley del Instituto de Pensiones del Estado de Jalisco, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de este decreto.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27259/LXII/19, QUE REFORMA LOS ARTÍCULOS DE LA LEY DEL INSTITUTO DE PENSIONES, LEY PARA LOS SERVIDORES PÚBLICOS, LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN, LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS, LEY DE MEJORA REGULATORIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
