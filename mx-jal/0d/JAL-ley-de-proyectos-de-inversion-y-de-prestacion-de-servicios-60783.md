@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proyectos-de-inversion-y-de-prestacion-de-servicios-6078
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2016-10-11"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 2008.
 
@@ -73,6 +71,8 @@ Con el propósito de promover el desarrollo de estos esquemas de asociación, se
 
 Además de los estudios y/o análisis indicados en el artículo que precede, para este tipo de proyectos, se necesita contar con la autorización previa del Consejo Directivo del Consejo Estatal de Ciencia y Tecnología de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 2°.
 
 Para los fines de esta ley se entiende por:
@@ -103,9 +103,9 @@ X. Proyecto: cualquier proyecto desarrollado por una entidad bajo la modalidad d
 
 XI. Proyecto de referencia: proyecto ejecutivo de inversión o desarrollo, distinto al de asociación público-privada, que contenga los elementos técnicos y financieros necesarios para confrontarlo con el proyecto, en aras de determinar la manera más eficiente, eficaz y efectiva posible para la solución a los problemas y servicios que pretenden atender; y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-XII. Secretaría: la Secretaría de Planeación, Administración y Finanzas.
+XII. Secretaría: la Secretaría de Administración.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -113,7 +113,9 @@ XII. Secretaría: la Secretaría de Planeación, Administración y Finanzas.
 
 Son de aplicación supletoria a esta Ley:
 
-I. La Ley de Adquisiciones y Enajenaciones del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+I. Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
 
 II. La Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco;
 
@@ -121,11 +123,17 @@ III. La Ley de Planeación para el Estado de Jalisco y sus Municipios;
 
 IV. Código Urbano para el Estado de Jalisco;
 
-V. La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
 
-VI. La Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
+V. La Ley del Procedimiento Administrativo del Estado de Jalisco; y
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de la presente Ley, durante las etapas de planeación, proyección y proceso de adjudicación de un proyecto, serán resueltas por el Tribunal de lo Administrativo del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+VI. La Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Las controversias que se susciten con motivo de la interpretación o aplicación de la presente Ley, durante las etapas de planeación, proyección y proceso de adjudicación de un proyecto, serán resueltas por el Tribunal de Justicia Administrativa.
 
 Las controversias como motivo del cumplimiento, ejecución y terminación de los contratos celebrados en términos del presente ordenamiento se sujetarán a los procedimientos que, para la solución de controversias, pacten expresamente las partes.
 
@@ -179,7 +187,7 @@ IV. Maximizar los beneficios que se obtienen de un presupuesto limitado, al dist
 
 La entidad que pretenda realizar un proyecto, deberá integrar un expediente técnico que contenga al menos lo siguiente, que le permita realizar un análisis sobre su viabilidad y pertinencia:
 
-l. Descripción del proyecto, con los requerimientos de servicios que se pretende contratar y la viabilidad técnica;
+I. Descripción del proyecto, con los requerimientos de servicios que se pretende contratar y la viabilidad técnica;
 
 II. La justificación y congruencia con el Plan Estatal de Desarrollo y el programa sectorial, institucional, regional o especial que corresponda;
 
@@ -235,37 +243,59 @@ Además de los estudios y análisis indicados en este artículo, para los proyec
 
 El Reglamento de esta Ley y los Lineamientos y Metodologías que para tal efecto emita la Secretaría y a falta de éstos, los pronunciados por la Secretaría de Hacienda y Crédito Público, establecerán los demás aspectos que deberán cubrir: el índice de elegibilidad, el análisis del comparador público privado - valor por dinero, el análisis costo beneficio (rentabilidad social o evaluación socioeconómica) y el análisis de riesgos y sus respectivos montos.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 9°.
 
-Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades que pretendan realizar un proyecto deberán contar, en el caso de las entidades estatales con el dictamen favorable de la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco y en el caso de las entidades Municipales con el dictamen favorable del Tesorero Municipal o Encargado de la Hacienda Municipal, y la aprobación por la mayoría calificada de su Ayuntamiento; Los dictámenes se elaborarán con base en:
+Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades que pretendan realizar un proyecto deberán contar, en el caso de las entidades estatales con el dictamen favorable de la Secretaría de Administración del Estado de Jalisco y en el caso de las entidades Municipales con el dictamen favorable del Tesorero Municipal o Encargado de la Hacienda Municipal, y la aprobación por la mayoría calificada de su Ayuntamiento; Los dictámenes se elaborarán con base en:
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I. El expediente técnico integrado conforme al artículo 8° de la presente ley;
 
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 II. La evaluación socioeconómica del proyecto;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 III. El impacto que en las finanzas públicas tendrán las obligaciones de pago que pretendan establecerse en el contrato; y
 
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 IV. La congruencia del proyecto con las directrices establecidas en el Plan Estatal de Desarrollo o en su caso en el Plan Municipal de Desarrollo.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 9° Bis.
 
-Toda persona inscrita en el padrón de proveedores y/o contratistas del Estado de Jalisco o en caso de las entidades municipales en el padrón de proveedores y/o de contratista del municipio correspondiente tendrá derecho a proponer al Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, o a los Municipios por conducto de sus Tesorerías Municipales, la realización de uno o más proyectos bajo la modalidad de Asociación Público Privada; en cuyo caso, acreditará además de las previsiones anteriores las economías, ventajas y beneficio directo en aumento de cobertura o calidad de servicios públicos de su propuesta.
+Toda persona inscrita en el padrón de proveedores y/o contratistas del Estado de Jalisco o en caso de las entidades municipales en el padrón de proveedores y/o de contratista (sic) del municipio correspondiente tendrá derecho a proponer al Estado, por conducto de la Secretaría de Administración del Estado de Jalisco, o a los Municipios por conducto de sus Tesorerías Municipales, la realización de uno o más proyectos bajo la modalidad de Asociación Público Privada; en cuyo caso, acreditará además de las previsiones anteriores las economías, ventajas y beneficio directo en aumento de cobertura o calidad de servicios públicos de su propuesta.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Formalizada la presentación de una oferta no solicitada, la persona de que se trate podrá requerir y obtener la información pública necesaria para la elaboración del proyecto y análisis financiero de prefactibilidad que sea necesario del sector público, así como a participar con voz, pero sin voto, en las reuniones de Grupo de trabajo Administrador del proyecto que se conforme para el análisis y evaluación de las mismas.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 La recepción de una oferta no solicitada, su análisis, estudio, proyección, presupuestación y presentación para aprobación no generará derecho alguno a la persona promovente ni obligaciones de ningún tipo para el Estado o entidades que reciban la misma ni se entenderá vinculante o sujeto a afirmativa o negativa ficta alguna.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 La inversión que en estudios, proyecciones técnicas financieras, anteproyectos constructivos, arquitectónicos o de cualquier otra índole correrán a cargo del ofertante, por lo que no le serán reembolsables, sin perjuicio del derecho a incluir su monto dentro del monto total del financiamiento del proyecto y de la contraprestación planteada.
 
-En caso de las entidades estatales la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, emitirá lineamientos generales para la recepción de ofertas no solicitadas, su registro, su análisis objetivo e imparcial, así como, en su caso, su desechamiento o reserva, así como solución de controversias entre los ofertantes para el caso de prelación en proyectos con objeto (sic) similares o complementarios, en el caso de las entidades Municipales los lineamientos generales los emitirán sus Ayuntamientos con aprobación de mayoría calificada.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+En caso de las entidades estatales la Secretaría de Administración del Estado de Jalisco, emitirá lineamientos generales para la recepción de ofertas no solicitadas, su registro, su análisis objetivo e imparcial, así como, en su caso, su desechamiento o reserva, así como solución de controversias entre los ofertantes para el caso de prelación en proyectos con objeto (sic) similares o complementarios, en el caso de las entidades Municipales los lineamientos generales los emitirán sus Ayuntamientos con aprobación de mayoría calificada.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Cualquier modificación a un contrato de prestación de servicios, requerirá de la autorización previa de la Secretaría, tratándose de dependencias y entidades estatales.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 Tratándose de Ayuntamientos, las modificaciones deberán ser autorizadas con mayoría calificada, contando con la opinión previa del Tesorero municipal o encargado de la Hacienda Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 En caso de que la modificación implique exceder la afectación patrimonial plurianual establecida a través del decreto aprobatorio, a que se refiere el artículo 15 de esta ley, se requerirá de la aprobación previa del Congreso del Estado.
 
@@ -381,11 +411,11 @@ Una vez autorizado el proyecto por el Pleno del Congreso, se publicará en el pe
 
 ### Capítulo VI. Del Comité de Adjudicación
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
 ###### Artículo 16.
 
-Cuando en el Presupuesto de Egresos del Poder Ejecutivo o por Decreto específico, el Congreso del Estado autorice la contratación de un proyecto, para el caso de las entidades estatales la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, constituirá un Comité de Adjudicación, que funcionará como órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución en el procedimiento de licitación y adjudicación de los proyectos autorizados, en caso de las Entidades Municipales dichos comités de adjudicación serán constituidos por el Presidente Municipal.
+Cuando en el Presupuesto de Egresos del Poder Ejecutivo o por Decreto específico, el Congreso del Estado autorice la contratación de un proyecto, para el caso de las entidades estatales la Secretaría de Administración del Estado de Jalisco, constituirá un Comité de Adjudicación, que funcionará como órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución en el procedimiento de licitación y adjudicación de los proyectos autorizados, en caso de las Entidades Municipales dichos comités de adjudicación serán constituidos por el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -419,7 +449,9 @@ X. Las demás que sean conferidas por la normatividad aplicable o acuerdo del ti
 
 El Comité de Adjudicación, para el cumplimiento de sus atribuciones, funciones y objetivos, estará conformado por un representante de las entidades públicas y los organismos del sector privado siguientes:
 
-A.- En el caso de las entidades estatales por el titular de la Secretaría de Planeación, Administración y Finanzas, quien fungirá como Presidente, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2019)</small>
+
+A.- En el caso de las entidades estatales por el titular de la Secretaría de Administración, quien fungirá como Presidente, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
 
 I. Secretaria de Infraestructura y Obra Pública;
 
@@ -433,7 +465,7 @@ V. Consejo de Cámaras Industriales de Jalisco;
 
 VI. Centro Empresarial de Jalisco, S.P.;
 
-VII. Consejo Económico y Social de Jalisco; y
+VII. (DEROGADA, P.O. 11 DE MAYO DE 2019)
 
 B.- Los Comités de Adjudicación constituidos por sus Ayuntamientos estarán conformados por el Tesorero Municipal o encargado de a (sic) Hacienda Municipal, quien fungirá como Presidente del Comité, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
 
@@ -447,7 +479,7 @@ IV. Consejo de Cámaras Industriales de Jalisco;
 
 V. Centro Empresarial de Jalisco, S.P.; y
 
-VI. Consejo Económico y Social de Jalisco.
+VI. (DEROGADA, P.O. 11 DE MAYO DE 2019)
 
 El Comité de Adjudicación, a petición de cualquiera de sus integrantes, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias para el mejor cumplimiento de sus actividades.
 
@@ -537,7 +569,9 @@ El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutora c
 
 I. La publicación del decreto de aprobación del Congreso del Estado en el Periódico Oficial "El Estado de Jalisco"; y
 
-II. La opinión y el dictamen favorable emitidos por la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, en el caso de entidades estatales y del Tesorero Municipal o encargado de la Hacienda municipal en el caso de las Entidades Municipales.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+II. La opinión y el dictamen favorable emitidos por la Secretaría de Administración del Estado de Jalisco, en el caso de entidades estatales y del Tesorero Municipal o encargado de la Hacienda municipal en el caso de las Entidades Municipales.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -575,13 +609,13 @@ III. De adjudicarse el Contrato, se especifique en el mismo, las obligaciones de
 
 En la evaluación de las propuestas, serán considerados como parte de la solvencia de la propuesta, en los términos de la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado, los siguientes aspectos:
 
-l. La situación personal: que el proponente no haya sido condenado, mediante sentencia firme, por delitos relacionados con delincuencia organizada, corrupción, operaciones con recursos de procedencia ilícita o fraude;
+I. La situación personal: que el proponente no haya sido condenado, mediante sentencia firme, por delitos relacionados con delincuencia organizada, corrupción, operaciones con recursos de procedencia ilícita o fraude;
 
 II. La capacidad económica y financiera: que no se encuentre en estado de quiebra, concurso de acreedores, liquidación o cualquier otro de naturaleza similar;
 
 III. La solvencia profesional: se tomará en cuenta su trayectoria, y que no haya sido condenado por situaciones que pongan en duda su solvencia y capacidad profesional;
 
-IV. La situación fiscal: estar al corriente en el pago de sus obligaciones tributarías, y
+IV. La situación fiscal: estar al corriente en el pago de sus obligaciones tributarias, y
 
 V. Capacidad técnica: se deberá evaluar la calidad de las obras y servicios efectuados en los últimos años, el personal técnico que les sirve de apoyo y las medidas empleadas para garantizar la calidad y los medios de estudio e investigación utilizados para el desarrollo de sus actividades.
 
@@ -659,7 +693,9 @@ II. La realización de infraestructura pública y/o su equipamiento; o
 
 III. La concesión de servicios públicos.
 
-Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, en el caso de las entidades estatales y al Tesorero Municipal o encargado de la Hacienda municipal en el caso de las entidades municipales, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios y de la posibilidad de celebrar posteriores adecuaciones jurídicas, financieras y técnicas al contrato o al proyecto en general, sin exceder las condiciones generales de contratación autorizadas y previa justificación.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría de Administración del Estado de Jalisco, en el caso de las entidades estatales y al Tesorero Municipal o encargado de la Hacienda municipal en el caso de las entidades municipales, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios y de la posibilidad de celebrar posteriores adecuaciones jurídicas, financieras y técnicas al contrato o al proyecto en general, sin exceder las condiciones generales de contratación autorizadas y previa justificación.
 
 El contrato deberá elaborarse con base en los elementos materia de la aprobación del proyecto. Todos los elementos del contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la aprobación del proyecto.
 
@@ -707,7 +743,7 @@ V. La forma, plazo, términos y condiciones de pago;
 
 VI. Las fórmulas y metodologías generales para la evaluación del cumplimiento de las obligaciones del proveedor bajo el contrato, incluyendo la aplicación de deducciones a los pagos que realice el organismo contratante; y
 
-VII. La obligación del proveedor de proporcionar la información relacionada con el contrato que le solicite la Auditoria Superior del Estado, así como la que le solicite cualquier gobernado en ejercicio de su derecho de acceso a la información pública, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales o por disposición de la Ley de Transparencia del Estado de Jalisco que esté obligado el proveedor a no divulgar.
+VII. La obligación del proveedor de proporcionar la información relacionada con el contrato que le solicite la Auditoría Superior del Estado, así como la que le solicite cualquier gobernado en ejercicio de su derecho de acceso a la información pública, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales o por disposición de la Ley de Transparencia del Estado de Jalisco que esté obligado el proveedor a no divulgar.
 
 El contrato podrá prever la posibilidad de que el proveedor subcontrate alguno o varios de los servicios materia del proyecto, especificando, en su caso, las garantías de cumplimiento que los contratistas o subcontratistas deban otorgar.
 
@@ -833,7 +869,9 @@ La dependencia o entidad contratante tendrá opción de compra en relación con 
 
 La entidad contratante y el adjudicatario del proyecto podrán dar por terminado anticipadamente el contrato de común acuerdo, previa autorización de la Secretaría, en el caso de las entidades estatales y del Tesorero o encargado de la Hacienda Municipal en caso de las entidades municipales, mediante la suscripción de un acuerdo que así lo determine. En dicho acuerdo se fijarán las condiciones en las que las partes se liberarán de cualquier responsabilidad derivada del contrato, así como, en su caso, la situación jurídica de los bienes empleados para el cumplimiento del mismo.
 
-Las partes podrán demandar ante el Tribunal de lo Administrativo del Estado la rescisión del contrato ante su incumplimiento, en los casos y con las condiciones señaladas por las leyes aplicables o en el contrato mismo, siempre que tal incumplimiento no sea a cargo de quien pretenda demandar.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+Las partes podrán demandar ante el Tribunal de Justicia Administrativa la rescisión del contrato ante su incumplimiento, en los casos y con las condiciones señaladas por las leyes aplicables o en el contrato mismo, siempre que tal incumplimiento no sea a cargo de quien pretenda demandar.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -905,7 +943,7 @@ No será objeto de publicación información de los inversionistas proveedores q
 
 ###### Artículo 67.
 
-La entidad ejecutora deberá remitir a la Auditoria Superior del Estado, la información relativa a los actos y contratos materia de esta ley, con independencia de los procedimientos de control interno contemplados en el ámbito de sus respectivas competencias.
+La entidad ejecutora deberá remitir a la Auditoría Superior del Estado, la información relativa a los actos y contratos materia de esta ley, con independencia de los procedimientos de control interno contemplados en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -931,7 +969,7 @@ Los oferentes o inversionistas proveedores que infrinjan las disposiciones de es
 
 ###### Artículo 71.
 
-Además de la sanción a que se refiere el articulo anterior, las entidades de control o fiscalización, de acuerdo a las facultades que la ley o los reglamentos les confieren, podrán determinar la inhabilitación temporal para participar en procedimientos de contratación de proyectos o celebrar contratos a los oferentes o inversionistas proveedores que se ubiquen en alguno de los supuestos siguientes:
+Además de la sanción a que se refiere el artículo anterior, las entidades de control o fiscalización, de acuerdo a las facultades que la ley o los reglamentos les confieren, podrán determinar la inhabilitación temporal para participar en procedimientos de contratación de proyectos o celebrar contratos a los oferentes o inversionistas proveedores que se ubiquen en alguno de los supuestos siguientes:
 
 I. Los oferentes que injustificadamente y por causas imputables a los mismos no formalicen un contrato adjudicado;
 
@@ -1038,3 +1076,17 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27259/LXII/19, QUE REFORMA LOS ARTÍCULOS DE LA LEY DEL INSTITUTO DE PENSIONES, LEY PARA LOS SERVIDORES PÚBLICOS, LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN, LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS, LEY DE MEJORA REGULATORIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
