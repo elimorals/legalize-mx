@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidad-patrimonial-del-estado-de-jalisco-y-3383
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-11"
-last_updated: "2016-10-11"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 11 de septiembre de 2003.
 
@@ -251,9 +249,11 @@ III. La existencia o no de la relación de causalidad entre la actividad adminis
 
 IV. La valoración del daño causado, así como el monto en dinero o en especie de la indemnización, explicando los criterios utilizados para la cuantificación, en su caso.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 28.
 
-Las resoluciones de la entidad que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse mediante juicio ante el Pleno del Tribunal de lo Administrativo, que substanciará con las formalidades del juicio de nulidad. La sentencia no admitirá recurso.
+Las resoluciones de la entidad que niegue la indemnización o que no satisfagan al interesado, podrán impugnarse mediante juicio ante la Sala Superior del Tribunal de Justicia Administrativa, que substanciará con las formalidades del juicio de nulidad. La sentencia no admitirá recurso.
 
 ###### Artículo 29.
 
@@ -299,13 +299,17 @@ En el supuesto de que las reclamaciones deriven de hechos o actos producidos com
 
 En caso contrario, cuando el daño reclamado haya sido ocasionado por la actividad del concesionario y no se derive de una determinación impuesta por el concesionante, la reparación correrá a cargo del concesionario, y de ser éste insolvente, la entidad la cubrirá subsidiariamente. En estos casos la entidad tendrá acción para repetir contra el concesionario por la indemnización cubierta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+
 ###### Artículo 35.
 
-En los casos de concurrencia de dos o más o (sic) entidades en la producción de los daños reclamados, será el Pleno del Tribunal de lo Administrativo quien conozca y resuelva la distribución de la indemnización.
+En los casos de concurrencia de dos o más entidades en la producción de los daños reclamados, será la Sala Superior del Tribunal de Justicia administrativa quien conozca y resuelva la distribución de la indemnización.
 
 Cuando una entidad presuntamente responsable reciba una reclamación que suponga concurrencia de agentes causantes del daño patrimonial, notificará a las entidades involucradas para que, en caso de que así lo decidan y sea procedente la reclamación hecha, lleguen a un acuerdo en el pago de la indemnización correspondiente.
 
-En caso contrario, deberán remitir la reclamación al Tribunal de lo Administrativo para los efectos mencionados en el primer párrafo del presente artículo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+En caso contrario, deberán remitir la reclamación al Tribunal de Justicia Administrativa para los efectos mencionados en el primer párrafo del presente artículo.
 
 ### CAPÍTULO V. Del Derecho del Estado y Municipios de Repetir contra los Servidores Públicos
 
@@ -402,3 +406,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27268/LXII/19, QUE REFORMA (SIC) LOS ARTÍCULOS 28 Y 35 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
