@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-denominado-bosque-962
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-10-12"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA" DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -161,7 +161,9 @@ c. El Secretario de Desarrollo Rural;
 
 d. El Secretario de Infraestructura y Obra Pública;
 
-e. El Presidente de la Comisión legislativa de Desarrollo Forestal del H. Congreso del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+e. El Presidente de la Comisión Legislativa Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia del H. Congreso del Estado de Jalisco;
 
 f. El Presidente Municipal de Tala;
 
@@ -331,7 +333,7 @@ XIX. Fungir como testigo en las sesiones del Comité Ciudadano y del Comité Cie
 
 XX Fungir como testigo en las reuniones en que se designen los representantes a que se hace referencia en los incisos q) y r) del Artículo 8 de esta ley;
 
-XXI. Asesorar y apoyar a los Comités referidos en la fracción anterior, en la celebración, contenido del orden del día y otros aspectos administrativos y legales de sus sesiones, en caso de que los mismos se lo soliciten; y (sic)
+XXI. Asesorar y apoyar a los Comités referidos en la fracción anterior, en la celebración, contenido del orden del día y otros aspectos administrativos y legales de sus sesiones, en caso de que los mismos se lo soliciten; y
 
 XXII. Promover el desarrollo comunitario participativo en el Área de Protección y su zona de influencia, en lo relativo a los programas de subsidios y proyectos de conservación para el desarrollo, y de manejo para el uso y aprovechamiento de los ecosistemas y su biodiversidad; y
 
@@ -447,7 +449,7 @@ IX. Participar en la elaboración de diagnósticos o de investigaciones vinculad
 
 ###### Artículo 21.
 
-El Comité Ciudadano Fungirá también como Consejo Asesor en términos del Artículo 20 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas.
+El Comité Ciudadano Fungirá también como Consejo Asesor en términos del Articulo 20 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas.
 
 Para llevar a cabo las funciones del citado Consejo Asesor, el Comité Ciudadano deberá de invitar a las autoridades establecidas en las fracciones I, III y IV del artículo señalado en el párrafo precedente y diferenciar claramente el carácter con el que actúa en el ejercicio de sus funciones.
 
@@ -517,7 +519,7 @@ En cualquier caso, los terrenos que se adquieran por parte del Organismo por cua
 
 Los fondos que recibe el Organismo serán destinados únicamente al cumplimiento de su objeto y se manejaran de la forma siguiente:
 
-I. Las aportaciones que reciba por parte de las Entidades Públicas de Índole Federal, Estatal, o Municipal destinadas al gasto operativo del Organismo, para la contratación de personal necesario para lograr sus fines se depositaran en una o varias instituciones de crédito, cuyas cuentas e inversiones serán manejadas mancomunadamente por el Director General y por un Tesorero que será designado por la Junta de Gobierno; y
+I. Las aportaciones que reciba por parte de las Entidades Públicas de índole Federal, Estatal, o Municipal destinadas al gasto operativo del Organismo, para la contratación de personal necesario para lograr sus fines se depositaran en una o varias instituciones de crédito, cuyas cuentas e inversiones serán manejadas mancomunadamente por el Director General y por un Tesorero que será designado por la Junta de Gobierno; y
 
 II. Las aportaciones que se reciban por cualquier Entidad distinta a las señaladas en la fracción anterior o aquellas que específicamente se aporten confines (sic) diversos a los establecidos en la fracción que antecede deberán ser depositadas en el Fideicomiso que para tal efecto se establezca por el Titular del Ejecutivo.
 
@@ -632,3 +634,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27266/LXII/19, QUE REFORMA EL ARTÍCULO 8° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “BOSQUE LA PRIMAVERA”; EL ARTÍCULO 26 FRACCIÓN IV DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; EL ARTÍCULO 5° FRACCIÓN IV DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
