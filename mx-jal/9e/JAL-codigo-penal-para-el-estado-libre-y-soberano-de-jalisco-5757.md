@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-04-27"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -321,23 +321,27 @@ VIII. Obtención ilícita de información electrónica previsto en el artículo 
 
 IX. Utilización ilícita de información confidencial previsto en el artículo 143-Ter;
 
-X. Falsificación de documentos expedidos por los Poderes del Estado, Organismos Autónomos, Ayuntamientos o de los documentos de crédito previsto en el artículo 162;
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
 
-XI. Falsificación y uso indebido de sellos, marcas, llaves y troqueles previsto en el artículo 163;
+X. Delitos por hechos de corrupción previstos en el Título Séptimo de este Código.
 
-XII. Fraude previsto en los artículos 250 al 252;
+XI. Falsificación de documentos expedidos por los Poderes del Estado, Organismos Autónomos, Ayuntamientos o de los documentos de crédito previsto en el artículo 162;
 
-XIII. Delitos contra el desarrollo urbano previsto en los artículos 253 y 253 Ter;
+XII. Falsificación y uso indebido de sellos, marcas, llaves y troqueles previsto en el artículo 163;
 
-XIV. Administración fraudulenta previsto en el artículo (sic) 254-Bis y 254-Ter;
+XIII. Fraude previsto en los artículos 250 al 252;
 
-XV. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores previsto en el artículo 255;
+XIV. Delitos contra el desarrollo urbano previsto en los artículos 253 y 253 Ter;
 
-XVI. Adquisición ilegítima de bienes materia de un delito o una infracción penal previsto en el artículo 265;
+XV. Administración fraudulenta previsto en el artículo (sic) 254-Bis y 254-Ter;
 
-XVII. Defraudación fiscal previsto en los artículos 286 al 288; y
+XVI. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores previsto en el artículo 255;
 
-XVIII. Delitos contra el ambiente previstos en los artículos 289 al 297.
+XVII. Adquisición ilegítima de bienes materia de un delito o una infracción penal previsto en el artículo 265;
+
+XVIII. Defraudación fiscal previsto en los artículos 286 al 288; y
+
+XIX. Delitos contra el ambiente previstos en los artículos 289 al 297.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -876,6 +880,10 @@ III. Prohibición de realizar determinados negocios u operaciones: se refiere ex
 IV. Remoción: consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años. Para hacer la designación, el juez de control o el tribunal podrán atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluye el periodo previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos; e
 
 V. Intervención: consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona jurídica, intervenir en su funcionamiento y ejercer las atribuciones que la ley confiere al interventor, hasta por tres años.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2019)</small>
+
+VI. Inhabilitación temporal o perpetua consistente en la suspensión de derechos para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, de manera directa, por interpósita persona o con capital proveniente de persona o personas sancionadas.
 
 El juez de control o el tribunal tomarán las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica sancionada.
 
@@ -2297,21 +2305,33 @@ II. Para la individualización de las sanciones previstas en este título, el ju
 
 III. Salvo los casos establecidos en el artículo 145, fracción II, excepto que se encuentre suspendido el servidor público, y la V, de este Código, en todos los demás casos, se impondrá al responsable la sanción de destitución de su empleo, cargo o comisión;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2019)</small>
 
-IV. A los responsables de alguno de los delitos a que se refiere este título, independientemente de otras sanciones, se les inhabilitará para trabajar como servidores públicos, notificando tal resolución al órgano del poder público que corresponda, de acuerdo a los siguientes criterios:
+IV. A los responsables de alguno de los delitos a que se refiere este título, independientemente de otras sanciones, se les inhabilitará para trabajar en el servicio público y para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, notificando tal resolución a la Fiscalía Especializada en Combate a la Corrupción, como Órgano encargado del Registro Estatal de Inhabilitaciones, con motivo del dictado de sentencias penales ejecutoriadas de inhabilitación, de acuerdo a los siguientes criterios:
 
-a) Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
-b) Será por un plazo de diez a veinte años si dicho monto excede del límite de la afectación o beneficio señalado en el inciso anterior.
+a) Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio, ni exista beneficio o lucro alguno, para sí o para diversa persona o cuando el monto de la afectación o beneficio obtenido para sí o para diversa persona por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MAYO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27265/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+
+b) CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO EXCEDA EL LÍMITE SEÑALADO EN EL INCISO ANTERIOR, SE APLICARÁ LA INHABILITACIÓN (SIC) SERÁ DESDE LOS TREINTA AÑOS HASTA LA INHABILITACIÓN PERPETUA.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 Cuando los delitos a que se refieren los artículos 145, 147, 148, 152 y 153 sean cometidos por servidores públicos electos popularmente o cuyo cargo se encuentre sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentas (sic) hasta en un tercio;
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
 Cuando los delitos a los que se refiere el presente título, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 12 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2019 Y SU ACUMULADA 60/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MAYO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27265/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-V. Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente: Los daños y perjuicios patrimoniales causados por los actos u omisiones; las circunstancias socioeconómicas del responsable, las condiciones exteriores y los medios de ejecución; y el monto del beneficio obtenido por el responsable.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+
+V. Cuando el responsable tenga el carácter de particular, sea persona física o jurídica, EL JUEZ DEBERÁ IMPONER LA SANCIÓN DE INHABILITACIÓN PERPETUA BAJO LOS TÉRMINOS ESTABLECIDOS EN LA FRACCIÓN IV DE ESTE ARTÍCULO.
 
 ### CAPITULO II. Ejercicio indebido y abandono del servicio público
 
@@ -6662,3 +6682,9 @@ P.O. 27 DE ABRIL DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
+
+P.O. 11 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
