@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-12290
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-09-14"
+last_updated: "2019-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122905&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y RENDICION DE CUENTAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, PUBLICADO EN LA G.O. DE 13 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 14 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE MAYO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -1153,3 +1153,17 @@ G.O. 14 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADOS EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el “Reglamento del Instituto Electoral de la Ciudad de México en Materia de Transparencia y Acceso a la Información Pública”, aprobado por el Consejo General mediante Acuerdo IECM/ACU-CG-019/2017, de fecha 17 de agosto de 2017.
+
+TERCERO Se derogan las disposiciones que se opongan a este Reglamento.
+
+CUARTO. Todos los procedimientos iniciados previos a la entrada en vigor del presente Reglamento deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
+
+QUINTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
