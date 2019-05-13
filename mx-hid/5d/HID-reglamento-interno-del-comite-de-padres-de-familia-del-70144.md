@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interno-del-comite-de-padres-de-familia-del-70144"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-07"
-last_updated: "2009-09-07"
+last_updated: "2019-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO
 
-REGLAMENTO INTERNO DEL COMITE DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO
+REGLAMENTO INTERNO DEL COMITÉ DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de septiembre de 2009.
 
@@ -59,317 +59,433 @@ Que en apego a la Ley del Colegio de Bachilleres, donde se consignan las atribuc
 
 REGLAMENTO INTERNO DEL COMITÉ DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto regir la organización y funcionamiento de los Comités de Padres de Familia que se constituyan en los centros educativos del Colegio de Bachilleres del Estado de Hidalgo.
+EL PRESENTE REGLAMENTO TIENE POR OBJETO REGIR LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS COMITÉS DE PADRES DE FAMILIA QUE SE CONSTITUYAN EN LOS CENTROS EDUCATIVOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO, POR LO QUE, DEBERÁ SER DEL CONOCIMIENTO PLENO PARA TODOS AQUELLOS QUE QUIERAN FORMAR PARTE DE LOS COMITÉS, ASÍ COMO PARA LOS RESPONSABLES DE LOS CENTROS EDUCATIVOS.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos del presente Reglamento se entenderá por:
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO SE ENTENDERÁ POR:
 
-I.- Comité: El Comité de Padres de Familia de los diversos Centros Educativos del Colegio;
+I. ASAMBLEA: LA ASAMBLEA DE PADRES DE FAMILIA;
 
-II.- Colegio: Al Colegio de Bachilleres del Estado de Hidalgo;
+II. COMITÉ: EL COMITÉ DE PADRES DE FAMILIA DE LOS DIVERSOS CENTROS EDUCATIVOS DEL COLEGIO;
 
-III.- Asamblea: A la Asamblea de Padres de Familia;
+III. COLEGIO: EL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO;
 
-IV.- Centro Educativo: Toda instalación, donde el Colegio de Bachilleres del Estado de Hidalgo, imparta la Educación Media Superior en cualquiera de sus modalidades; y
+IV. CENTRO EDUCATIVO: TODA INSTALACIÓN, DONDE EL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO, IMPARTA LA EDUCACIÓN MEDIA SUPERIOR EN CUALQUIERA DE SUS MODALIDADES; Y
 
-V.- Responsable del Centro Educativo: La máxima autoridad en el Centro Educativo en donde el Colegio imparte la Educación Media Superior en cualquiera de sus modalidades.
+V. RESPONSABLE DEL CENTRO EDUCATIVO: LA MÁXIMA AUTORIDAD EN EL CENTRO EDUCATIVO EN DONDE EL COLEGIO IMPARTA EDUCACIÓN MEDIA SUPERIOR EN CUALQUIERA DE SUS MODALIDADES.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 3.
 
-La interpretación y aplicación del presente Reglamento corresponde a la Dirección General del Colegio de Bachilleres.
+LA INTERPRETACIÓN Y APLICACIÓN DEL PRESENTE REGLAMENTO CORRESPONDE ÚNICA Y EXCLUSIVAMENTE A LA DIRECCIÓN GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 4.
 
-Tendrán derecho a formar parte del Comité de los Centros Educativos, los Padres de Familia, los tutores y quienes ejerzan la patria potestad de los alumnos inscritos.
+TENDRÁN DERECHO A FORMAR PARTE DE LOS COMITÉS DE LOS CENTROS EDUCATIVOS, LOS PADRES DE FAMILIA, LOS TUTORES Y QUIENES EJERZAN LA PATRIA POTESTAD DE LOS ALUMNOS INSCRITOS, EXCEPTUANDO A LOS PADRES DE FAMILIA QUE OSTENTEN ALGÚN OTRO CARGO RELACIONADO CON EL COLEGIO, LOS CUALES TENDRÁN DERECHO A VOZ Y VOTO COMO PARTE INTEGRANTE DE LA ASAMBLEA, MAS NO A SER VOTADOS PARA FORMAR PARTE DEL COMITÉ.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
-Para efectos legales, su denominación será: Comité de Padres de Familia del Centro Educativo respectivo del Colegio de Bachilleres del Estado de Hidalgo.
+PARA EFECTOS LEGALES, SU DENOMINACIÓN SERÁ: COMITÉ DE PADRES DE FAMILIA DEL CENTRO EDUCATIVO RESPECTIVO DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 6.
 
-El Comité, tendrá las siguientes facultades y obligaciones:
+EL COMITÉ, TENDRÁ LAS SIGUIENTES FACULTADES Y OBLIGACIONES:
 
-I.- Representar a los Padres de Familia, tutores y quienes ejercen la Patria Potestad de los alumnos del Centro Educativo;
+I.- REPRESENTAR A LOS PADRES DE FAMILIA, TUTORES Y QUIENES EJERCEN LA PATRIA POTESTAD DE LOS ALUMNOS DEL CENTRO EDUCATIVO;
 
-II.- Representar ante las autoridades del Colegio, los intereses que en materia educativa les sean comunes;
+II.- REPRESENTAR ANTE LAS AUTORIDADES DEL COLEGIO, LOS INTERESES QUE EN MATERIA EDUCATIVA LES SEAN COMUNES;
 
-III.- Colaborar con las autoridades e Instituciones Educativas del Colegio en las actividades que realicen y en el mejoramiento, sugiriendo las medidas que estime convenientes;
+III.- COLABORAR CON LAS AUTORIDADES E INSTITUCIONES EDUCATIVAS DEL COLEGIO EN LAS ACTIVIDADES QUE REALICEN Y EN EL MEJORAMIENTO DE ÉSTAS, SUGIRIENDO LAS MEDIDAS QUE ESTIME CONVENIENTES;
 
-IV.- Reunir fondos con aportaciones voluntarias de sus representados para los fines propios de los Comités;
+IV.- REUNIR FONDOS CON APORTACIONES VOLUNTARIAS DE SUS REPRESENTADOS PARA LOS FINES PROPIOS DE LOS COMITÉS, LOS CUALES DEBERÁN SER ENCAMINADOS A LAS NECESIDADES Y MEJORAS DEL PROPIO CENTRO EDUCATIVO;
 
-V.- Participar en la aplicación de las cooperaciones que en numerario, bienes y servicios se hagan por el Comité en beneficio del Centro Educativo;
+V.- PARTICIPAR EN LA APLICACIÓN DE LAS COOPERACIONES QUE, EN NUMERARIO, BIENES Y SERVICIOS, SE HAGAN POR EL COMITÉ, EN BENEFICIO DEL CENTRO EDUCATIVO;
 
-VI.- Proponer y promover, en coordinación con los Responsables de los centros educativos, ante las Autoridades Federales, Estatales, Municipales y de la comunidad las acciones y obras necesarias para el mejoramiento de los Centros Educativos y de su funcionamiento;
+VI.- PROPONER Y PROMOVER, EN COORDINACIÓN CON LOS RESPONSABLES DE LOS CENTROS EDUCATIVOS, ANTE LAS AUTORIDADES FEDERALES, ESTATALES, MUNICIPALES Y DE LA COMUNIDAD, LAS ACCIONES Y OBRAS NECESARIAS PARA EL MEJORAMIENTO DE LOS CENTROS EDUCATIVOS Y DE SU FUNCIONAMIENTO;
 
-VII.- Fomentar la relación entre los Maestros y los Padres de Familia, para un mejor aprovechamiento de los educandos y del cumplimiento de los planes y programas educativos;
+VII.- FOMENTAR LA RELACIÓN ENTRE LOS MAESTROS Y LOS PADRES DE FAMILIA, PARA UN MEJOR APROVECHAMIENTO DE LOS EDUCANDOS Y DEL CUMPLIMIENTO DE LOS PLANES Y PROGRAMAS EDUCATIVOS;
 
-VIII.- Proporcionar a las Autoridades del Colegio, la información que se les solicite en relación con su actuación, bajo los formatos establecidos para tal efecto;
+VIII.- PROPORCIONAR A LAS AUTORIDADES DEL COLEGIO, LA INFORMACIÓN QUE SE LES SOLICITE EN RELACIÓN CON SU ACTUACIÓN, BAJO LOS FORMATOS ESTABLECIDOS PARA TAL EFECTO;
 
-IX.- Cooperar en los programas que a través de Convenios con otras Autoridades desarrolle el Colegio en beneficio de la comunidad escolar, cuando su intervención sea necesaria;
+IX.- COOPERAR EN LOS PROGRAMAS QUE A TRAVÉS DE CONVENIOS CON OTRAS AUTORIDADES DESARROLLE EL COLEGIO EN BENEFICIO DE LA COMUNIDAD ESCOLAR, CUANDO SU INTERVENCIÓN SEA NECESARIA;
 
-X.- Tratar los problemas, propuestas de solución y ofertas de colaboración con el Responsable del Centro Educativo y demás autoridades del Colegio;
+X.- TRATAR LOS PROBLEMAS, PROPUESTAS DE SOLUCIÓN Y OFERTAS DE COLABORACIÓN CON EL RESPONSABLE DEL CENTRO EDUCATIVO Y DEMÁS AUTORIDADES DEL COLEGIO;
 
-XI.- Plantear y ejecutar ante las autoridades del Colegio los planes de cooperación en beneficio del centro educativo y los alumnos;
+XI.- PLANTEAR Y EJECUTAR ANTE LAS AUTORIDADES DEL COLEGIO LOS PLANES DE COOPERACIÓN EN BENEFICIO DEL CENTRO EDUCATIVO Y LOS ALUMNOS;
 
-XII.- Velar por el cumplimiento de los acuerdos generados en Asamblea General de Padres, siempre y cuando no se contrapongan al objeto y a la normatividad del Colegio;
+XII.- VELAR POR EL CUMPLIMIENTO DE LOS ACUERDOS GENERADOS EN ASAMBLEA GENERAL DE PADRES, SIEMPRE Y CUANDO NO SE CONTRAPONGAN AL OBJETO Y A LA NORMATIVIDAD DEL COLEGIO;
 
-XIII.- Desarrollar sus respectivos programas de trabajo y cooperación en coordinación con el Responsable del Centro Educativo y Autoridades de la Dirección General del COBAEH;
+XIII.- DESARROLLAR SUS RESPECTIVOS PROGRAMAS DE TRABAJO Y COOPERACIÓN EN COORDINACIÓN CON EL RESPONSABLE DEL CENTRO EDUCATIVO Y AUTORIDADES DE LA DIRECCIÓN GENERAL DEL COBAEH;
 
-XIV.- Vigilar que los planes de trabajo y cooperaciones sean estrictamente en beneficio de los alumnos y del Centro Educativo;
+XIV.- VIGILAR QUE LOS PLANES DE TRABAJO Y COOPERACIÓN SEAN EN BENEFICIO DE LOS ALUMNOS Y DEL CENTRO EDUCATIVO;
 
-XV.- Rendir informe de sus actividades a la Asamblea, a la Comunidad y a las Autoridades del Colegio cada semestre;
+XV.- RENDIR INFORME SEMESTRAL DE SUS ACTIVIDADES A LA ASAMBLEA, A LA COMUNIDAD Y A LAS AUTORIDADES DEL COLEGIO;
 
-XVI.- Evitar participar en los asuntos de carácter exclusivo del Colegio;
+XVI.- EVITAR PARTICIPAR EN LOS ASUNTOS DE CARÁCTER EXCLUSIVO DEL COLEGIO;
 
-XVII.- Convocar a la Asamblea de Padres de Familia de acuerdo a las necesidades propias del Centro Educativo; y
+XVII.- CONVOCAR A LA ASAMBLEA DE PADRES DE FAMILIA DE ACUERDO A LAS NECESIDADES PROPIAS DEL CENTRO EDUCATIVO; Y
 
-XVIII.- Las facultades a que se refiere este Artículo, se ejercerán en forma coordinada con el Responsable del Centro Educativo y con las Autoridades de la Dirección General del Colegio.
+XVIII.- LAS FACULTADES A QUE SE REFIERE ESTE ARTÍCULO, SE EJERCERÁN EN FORMA COORDINADA CON EL RESPONSABLE DEL CENTRO EDUCATIVO Y CON LAS AUTORIDADES DE LA DIRECCIÓN GENERAL DEL COLEGIO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
-El domicilio de los Comités de Padres de Familia será el mismo que el del Centro Educativo al que corresponda.
+EL DOMICILIO DE LOS COMITÉS DE PADRES DE FAMILIA SERÁ EL MISMO QUE EL DEL CENTRO EDUCATIVO AL QUE CORRESPONDA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-El Comité se abstendrá de realizar cualquier acción que obstaculice el normal desarrollo de las actividades de los Centros Educativos y Dirección General de Colegio, ello sin menoscabo de las acciones administrativas; civiles o penales que el Colegio pudiese ejercer en tal caso.
+EL COMITÉ SE ABSTENDRÁ DE REALIZAR CUALQUIER ACCIÓN QUE OBSTACULICE EL NORMAL DESARROLLO DE LAS ACTIVIDADES DE LOS CENTROS EDUCATIVOS Y DIRECCIÓN GENERAL DE COLEGIO, SIN MENOSCABO DE LAS ACCIONES ADMINISTRATIVAS, CIVILES O PENALES QUE EL COLEGIO PUDIESE EJERCER.
 
-Para efectos de un cabal cumplimiento de las actividades encomendadas, los Padres de Familia que integren el Comité no deberán ostentar algún otro cargo relacionado con el Colegio.
+PARA EFECTOS DE UN CABAL CUMPLIMIENTO DE LAS ACTIVIDADES ENCOMENDADAS, LOS PADRES DE FAMILIA QUE INTEGREN EL COMITÉ NO DEBERÁN OSTENTAR ALGÚN OTRO CARGO RELACIONADO CON EL COLEGIO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO II. DE SU CONSTITUCIÓN
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-Cada Centro Educativo sólo podrá constituir un Comité integrado por los Padres de Familia, tutores o quienes ejerzan la patria potestad de los alumnos.
+CADA CENTRO EDUCATIVO PODRÁ CONSTITUIR UN COMITÉ INTEGRADO POR LOS PADRES DE FAMILIA, TUTORES O QUIENES EJERZAN LA PATRIA POTESTAD DE LOS ALUMNOS, LOS CUALES NO DEBERÁN OSTENTAR ALGÚN OTRO CARGO RELACIONADO CON EL COLEGIO, DICHO COMITÉ PODRÁ OPERAR SIEMPRE Y CUANDO TENGA EN SU PODER EL REGISTRO EMITIDO POR LA DIRECCIÓN GENERAL DEL COLEGIO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 10.
 
-El Comité se constituirá en una Asamblea General mediante convocatoria a las personas a que se refiere el Artículo anterior, dentro de los treinta días siguientes a la iniciación de cada ciclo escolar. La convocatoria será expedida por única vez por el Responsable del Centro Educativo, en virtud que si se está constituyendo el Comité, todavía no hay Presidente.
+EL COMITÉ SE CONSTITUIRÁ EN ASAMBLEA GENERAL, MEDIANTE CONVOCATORIA A LAS PERSONAS A QUE SE REFIERE EL ARTÍCULO ANTERIOR, LA CUAL SERÁ EXPEDIDA POR ESCRITO POR EL PRESIDENTE DEL COMITÉ CON CINCO DÍAS HÁBILES DE ANTICIPACIÓN AL DÍA DE SU CELEBRACIÓN, DENTRO DE LOS QUINCE DÍAS SIGUIENTES A LA INICIACIÓN DE CADA CICLO ESCOLAR. LA CONVOCATORIA SE DEBERÁ ELABORAR CON EL FORMATO ESTABLECIDO PARA TAL EFECTO, TENDRÁ QUE SER FIRMADA POR EL PRESIDENTE SALIENTE DEL COMITÉ DE PADRES DE FAMILIA Y SERÁ EXPEDIDA POR ÚNICA VEZ POR EL RESPONSABLE DEL CENTRO EDUCATIVO EN VIRTUD QUE SI SE ESTÁ CONSTITUYENDO EL COMITÉ, TODAVÍA NO HAY PRESIDENTE.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 11.
 
-En la Asamblea que se celebre para elegir al Comité, se designará una mesa de debates provisional integrada por un Presidente, un Secretario, dos Escrutadores y tres Vocales, pudiendo éstos ser electos como integrantes del Comité; se declararán electos como integrantes de la mesa de debates, quienes obtengan la mayoría de votos debiendo asumir de inmediato sus funciones.
+EN LA ASAMBLEA QUE SE CELEBRE PARA ELEGIR AL COMITÉ, SE DESIGNARÁ UNA MESA DE DEBATES INTEGRADA POR UN PRESIDENTE, UN SECRETARIO, DOS ESCRUTADORES Y UN VOCAL, PUDIENDO ÉSTOS SER ELECTOS COMO INTEGRANTES DEL COMITÉ; SE DECLARARÁN ELECTOS COMO INTEGRANTES DE LA MESA DE DEBATES, QUIENES OBTENGAN LA MAYORÍA DE VOTOS DEBIENDO ASUMIR DE INMEDIATO SUS FUNCIONES.
+
+ANTES DE INICIAR LA ASAMBLEA, EL DIRECTOR DARÁ A CONOCER EL PRESENTE REGLAMENTO INTERNO DE COMITÉS DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO A LOS PRESENTES.
+
+LOS INTEGRANTES DEL COMITÉ SALIENTE NO PODRÁN PARTICIPAR EN LA MESA DE DEBATES.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
-El Comité establecerá mediante acuerdo especial, el financiamiento para su operación, en su caso.
+EL COMITÉ ESTABLECERÁ MEDIANTE ACUERDO ESPECIAL, EL FINANCIAMIENTO PARA SU OPERACIÓN, CUANDO PROCEDA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-El Comité se integrará de la siguiente manera:
+EL COMITÉ SE INTEGRARÁ DE LA SIGUIENTE MANERA:
 
-I.- Un Presidente;
+I. UN PRESIDENTE (A);
 
-II.- Un Secretario;
+II. UN SECRETARIO (A);
 
-III.- Un Tesorero;
+III. UN TESORERO (A);
 
-IV.- Vocal A;
+IV. VOCAL; Y
 
-V.- Vocal B;
+V. UN SUPLENTE POR CADA MIEMBRO INTEGRANTE DEL COMITÉ.
 
-VI.- Vocal C; y
-
-VII.- Un Suplente por cada miembro propietario existente.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-El nombramiento de los miembros del Comité será de carácter honorífico por lo que no recibirán retribución alguna por el desarrollo de sus funciones.
+EL NOMBRAMIENTO DE LOS MIEMBROS DEL COMITÉ SERÁ DE CARÁCTER HONORÍFICO, POR LO QUE NO RECIBIRÁN RETRIBUCIÓN ALGUNA POR EL DESARROLLO DE SUS FUNCIONES.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-Los miembros del Comité durarán en su cargo un periodo máximo de un año escolar, existiendo la posibilidad de reelección, para el año inmediato, cuando la asamblea así lo determine.
+LOS MIEMBROS DEL COMITÉ DURARÁN EN SU CARGO UN PERÍODO MÁXIMO DE UN AÑO ESCOLAR, EXISTIENDO LA POSIBILIDAD DE REELECCIÓN, PARA EL AÑO INMEDIATO SIGUIENTE, CUANDO LA ASAMBLEA ASÍ LO DETERMINE Y SIEMPRE Y CUANDO CUMPLAN CON LOS REQUISITOS PARA SEGUIR FORMANDO PARTE DEL MISMO, DE CONFORMIDAD AL PRESENTE REGLAMENTO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO IV. DEL FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 16.
 
-El máximo Órgano de Gobierno del Comité será la Asamblea de Padres de Familia.
+EL MÁXIMO ÓRGANO DE GOBIERNO DEL COMITÉ SERÁ LA ASAMBLEA DE PADRES DE FAMILIA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
-El Quórum de la Asamblea se integrará con la mayoría de sus miembros.
+EL QUÓRUM DE LA ASAMBLEA SE INTEGRARÁ CON LA MAYORÍA DE SUS MIEMBROS, ENTENDIENDO POR MAYORÍA LA ASISTENCIA DEL CINCUENTA POR CIENTO MÁS UNO DEL TOTAL DE PADRES Y MADRES DE FAMILIA, TUTORES Y QUIENES EJERZAN LA PATRIA POTESTAD DEL ALUMNADO. EN CASO DE SESIONAR DE MANERA ORDINARIA Y/O EXTRAORDINARIA DEBERÁN CONTAR CON LISTA DE ASISTENCIA DE LA ASAMBLEA, LA CUAL DEBERÁ DE CONTENER NOMBRE DEL ALUMNO O ALUMNA; ASÍ COMO NOMBRE Y FIRMA DE LOS PADRES Y MADRES DE FAMILIA, DE LOS TUTORES Y DE QUIENES EJERZAN LA PATRIA POTESTAD DEL ALUMNO O ALUMNA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
-Los Padres y Madres de Familia, los tutores y quienes ejerzan la patria potestad, tendrán cada uno un voto en la Asamblea de Padres de Familia.
+LOS PADRES Y MADRES DE FAMILIA, LOS TUTORES Y QUIENES EJERZAN LA PATRIA POTESTAD, TENDRÁN CADA UNO UN VOTO EN LA ASAMBLEA DE PADRES DE FAMILIA, INDEPENDIENTEMENTE DE LA CANTIDAD DE HIJOS E HIJAS QUE TENGAN INSCRITOS EN EL CENTRO EDUCATIVO.
 
-Los acuerdos del Comité se tomarán por mayoría de votos, en caso de empate, el Presidente del Comité tendrá voto de calidad.
+LOS ACUERDOS DEL COMITÉ SE TOMARÁN POR MAYORÍA DE VOTOS, EN CASO DE EMPATE, EL PRESIDENTE DEL COMITÉ TENDRÁ VOTO DE CALIDAD.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 19.
 
-La Asamblea de Padres de Familia del Centro Educativo, se reunirá para conocer los siguientes asuntos:
+EL RESPONSABLE DEL CENTRO EDUCATIVO REMITIRÁ AL COMITÉ, OFICIO CON COPIA AL DEPARTAMENTO DE ASUNTOS JURÍDICOS DEL COLEGIO, DENTRO DEL CUAL SE EXPONDRÁ EL PROGRAMA DE APOYO Y MEJORAS EN BENEFICIO AL CENTRO EDUCATIVO.
 
-I.- Elegir a los integrantes del Comité que los represente;
-
-II.- Conocer los asuntos propios del Centro Educativo;
-
-III.- Proponer y acordar las aportaciones voluntarias en numerario, bienes y servicios de los Padres de Familia;
-
-IV.- Sancionar los informes semestrales de los representantes del Comité, en su caso; y
-
-V.- Resolver los demás asuntos que, de acuerdo con el objeto del Comité, se sometan a su consideración.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 20.
 
-La Asamblea de Padres de Familia sesionará en forma ordinaria dos veces al año, cuando menos, y extraordinaria cuando lo solicite el Comité o a solicitud de una cuarta parte de los miembros de la Asamblea de Padres de Familia. Las asambleas se celebrarán en el domicilio oficial del Comité.
+LA ASAMBLEA DE PADRES DE FAMILIA DEL CENTRO EDUCATIVO, SE REUNIRÁ PARA CONOCER LOS SIGUIENTES ASUNTOS:
+
+I. ELEGIR, REELEGIR O RETIRAR DEL CARGO A LOS INTEGRANTES DEL COMITÉ.
+
+II. CONOCER LOS ASUNTOS PROPIOS DEL CENTRO EDUCATIVO;
+
+III. PROPONER Y ACORDAR LAS APORTACIONES VOLUNTARIAS EN NUMERARIO, BIENES Y SERVICIOS DE LOS PADRES DE FAMILIA;
+
+IV. VIGILAR QUE EL DINERO QUE SE OBTENGA DE APORTACIONES VOLUNTARIAS DE PADRES DE FAMILIA O EVENTOS, SEA APLICADO PARA LOS FINES CONVENIDOS POR LA ASAMBLEA Y EN FAVOR DEL CENTRO EDUCATIVO;
+
+V. EL COMITÉ DEBERÁ CONTAR CON UN SELLO, LIBRO DE ACTAS, DE INGRESOS Y EGRESOS, CUADERNO DE NOTAS Y TALONARIO DE RECIBOS;
+
+VI. VERIFICAR LOS INFORMES SEMESTRALES DE LOS REPRESENTANTES DEL COMITÉ, EN SU CASO; Y
+
+VII. RESOLVER LOS DEMÁS ASUNTOS, QUE, DE ACUERDO CON EL OBJETO DEL COMITÉ, SE SOMETAN A SU CONSIDERACIÓN.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 21.
 
-El Presidente y el Tesorero del Comité saliente, para efectos del cambio del mismo, entregarán al nuevo Presidente y Tesorero electos, la documentación comprobatoria de ingresos y egresos del periodo correspondiente a su gestión.
+LA ASAMBLEA DE PADRES DE FAMILIA, SESIONARÁ EN FORMA ORDINARIA DOS VECES AL AÑO, CUANDO MENOS, DENTRO DE LOS TREINTA DÍAS SIGUIENTES A LA INICIACIÓN DE CADA PERIODO ESCOLAR Y, EXTRAORDINARIA, CUANDO LO SOLICITE EL COMITÉ O A SOLICITUD DE UNA CUARTA PARTE DE LOS MIEMBROS DE LA ASAMBLEA DE PADRES DE FAMILIA, SIGUIENDO LA MISMA MECÁNICA PARA CONVOCAR A SESIÓN DE ASAMBLEA ORDINARIA.
+
+LAS ASAMBLEAS SE CELEBRARÁN EN EL DOMICILIO OFICIAL DEL COMITÉ, EL CUAL SERÁ EL DE LA UBICACIÓN DEL CENTRO EDUCATIVO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
-La convocatoria a las Asambleas de Padres de Familia, será expedida por escrito por parte del Presidente del Comité con cinco días hábiles de anticipación al día de su celebración.
+EL PRESIDENTE (A) Y EL TESORERO (A) DEL COMITÉ SALIENTE, PARA EFECTOS DEL CAMBIO DEL MISMO, ENTREGARÁN AL NUEVO PRESIDENTE (A) Y TESORERO (A) ELECTOS, LA DOCUMENTACIÓN COMPROBATORIA DE ACTIVIDADES, INGRESOS Y EGRESOS DEL PERÍODO CORRESPONDIENTE A SU GESTIÓN.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 23.
 
-Si se presenta renuncia o se abandona el cargo para el que hubiere sido electo cualquier miembro del Comité, se procederá bajo los siguientes lineamientos:
+LA CONVOCATORIA A LAS ASAMBLEAS DE PADRES DE FAMILIA, SERÁ EXPEDIDA POR ESCRITO POR EL PRESIDENTE (A) DEL COMITÉ CON UN MÍNIMO DE CINCO DÍAS HÁBILES DE ANTICIPACIÓN AL DÍA DE SU CELEBRACIÓN Y DEBERÁ SER PUBLICADA EN LA PUERTA PRINCIPAL Y DIRECCIÓN DEL CENTRO EDUCATIVO.
 
-I.- La renuncia será por escrito, dirigida a la Asamblea y al responsable del Centro Educativo; y
+DE IGUAL FORMA, EL RESPONSABLE DEL CENTRO EDUCATIVO, APOYARÁ LA DIFUSIÓN DE LA MISMA, OTORGANDO CITATORIOS AL ALUMNADO, MEDIANTE LOS CUALES SE CONVOQUE A LOS PADRES Y MADRES DE FAMILIA, LOS TUTORES Y QUIENES EJERZAN LA PATRIA POTESTAD DE LOS ALUMNO(A)S, PARA HACER DE SU CONOCIMIENTO LA FECHA Y HORA EN QUE TENDRÁ LUGAR LA ASAMBLEA.
 
-II.- Se considera abandono del cargo el no presentarse a dos sesiones de Asamblea sin causa justificada.
-
-Para tales efectos, será sustituido por el suplente; y en caso de que éste sea quien renuncie o abandone, la Asamblea lo suplirá, eligiendo a uno de los asistentes.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 24.
 
-Los Responsables de los Centros Educativos, sin menoscabo de sus funciones, participarán en calidad de asesores, en las Asambleas de Padres de Familia.
+SI SE PRESENTA RENUNCIA O ABANDONA EL CARGO PARA EL QUE HUBIERE SIDO ELECTO, DE CUALQUIER MIEMBRO DEL COMITÉ, SE PROCEDERÁ BAJO LOS SIGUIENTES LINEAMIENTOS:
+
+I.- LA RENUNCIA SERÁ POR ESCRITO, DIRIGIDA A LA ASAMBLEA Y AL RESPONSABLE DEL CENTRO EDUCATIVO; Y
+
+II.- SE CONSIDERARÁ ABANDONO DEL CARGO EL NO PRESENTARSE A DOS SESIONES DE ASAMBLEA SIN, CAUSA JUSTIFICADA.
+
+PARA TAL EFECTO, SERÁ SUSTITUIDO POR EL SUPLENTE Y, EN CASO DE QUE ÉSTE SEA QUIEN RENUNCIE O ABANDONE, LA ASAMBLEA LO SUPLIRÁ, ELIGIENDO A UNO DE LOS ASISTENTES, DE LO CUAL SE TENDRÁ QUE NOTIFICAR A LA DIRECCIÓN GENERAL DEL COLEGIO Y AL DEPARTAMENTO DE ASUNTOS JURÍDICOS.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 25.
 
-El Coordinador de la Zona del Colegio, fungirá como asesor y coadyuvante del Comité y cooperará con el para el mejor cumplimiento de su objeto.
+LOS RESPONSABLES DE LOS CENTROS EDUCATIVOS, SIN MENOSCABO DE SUS FUNCIONES, PARTICIPARÁN EN CALIDAD DE ASESORES, EN LAS ASAMBLEAS DE PADRES DE FAMILIA, EN ATENCIÓN AL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO, SIN TENER MAYOR PARTICIPACIÓN EN EL DESARROLLO DE LA ASAMBLEA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 26.
 
-El Comité se registrará ante el responsable del Centro Educativo, quien lo hará del conocimiento de las Autoridades del Colegio, bajo los formatos establecidos para tal efecto.
+EL COORDINADOR DE LA ZONA DEL COLEGIO, FUNGIRÁ COMO ASESOR Y COADYUVANTE DEL COMITÉ Y COOPERARÁ CON ÉL PARA EL MEJOR CUMPLIMIENTO DE SU OBJETO, EN ATENCIÓN AL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO, SIN TENER MAYOR PARTICIPACIÓN EN EL DESARROLLO DE LA ASAMBLEA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 27.
 
-Los miembros del Comité podrán ser suspendidos en sus derechos, cuando así lo determine la Asamblea en los casos siguientes:
+EL COMITÉ SE REGISTRARÁ ANTE EL RESPONSABLE DEL CENTRO EDUCATIVO, QUIEN LO HARÁ DEL CONOCIMIENTO DE LAS AUTORIDADES DEL COLEGIO, BAJO LOS FORMATOS ESTABLECIDOS, PARA EFECTO DE QUE LA DIRECCIÓN GENERAL ESTÉ EN POSIBILIDAD DE EMITIR EL REGISTRO CORRESPONDIENTE.
 
-I.- Cometan infracciones al presente Reglamento;
-
-II.- Por estar sujetos a procesos penales por delito doloso;
-
-III.- Suplantar o actuar en nombre de cualquier Autoridad del Colegio o del Comité sin autorización previa;
-
-IV.- Falsificar documentación oficial del Colegio o del Comité;
-
-V.- Que dejen de ejercer la Patria Potestad por Resolución Judicial;
-
-VI.- Que sus acciones dañen la imagen del Colegio; y
-
-VII.- Sus hijos o tutelados dejen de ser alumnos del Colegio, ya sea por voluntad propia, por ser sujetos a sanciones Reglamentarias o bien, concluyan sus estudios en la Institución.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
-El Comité se limitará a realizar sus labores dentro de sus objetivos; se abstendrá de intervenir en los aspectos administrativos y docentes del Centro Educativo; no efectuarán actividades lucrativas en beneficio de sus miembros y ajustarán su actividad a lo establecido en la Ley Federal y Estatal de Educación, así como en la normatividad relativa del Colegio.
+LOS MIEMBROS DEL COMITÉ PODRÁN SER SUSPENDIDOS EN SUS DERECHOS, EN LOS CASOS SIGUIENTES:
+
+I. POR COMETER INFRACCIONES AL PRESENTE REGLAMENTO;
+
+II. POR ESTAR SUJETOS A CUALQUIER PROCESO JUDICIAL Y/O ADMINISTRATIVO EN SU CONTRA;
+
+III. POR SUPLANTAR O ACTUAR EN NOMBRE DE CUALQUIER AUTORIDAD DEL COLEGIO O DEL COMITÉ, SIN AUTORIZACIÓN PREVIA;
+
+IV. POR FALSIFICAR DOCUMENTACIÓN OFICIAL DEL COLEGIO O DEL COMITÉ;
+
+V. POR DEJAR DE EJERCER LA PATRIA POTESTAD POR RESOLUCIÓN JUDICIAL;
+
+VI. POR REALIZAR ACCIONES QUE DAÑEN LA IMAGEN Y ESTABILIDAD DEL COLEGIO;
+
+VII. POR DEJAR DE SER ALUMNOS DEL COLEGIO SUS HIJOS TUTELADOS, YA SEA POR VOLUNTAD PROPIA, POR SER SUJETOS A SANCIONES REGLAMENTARIAS; O BIEN, POR CONCLUIR SUS ESTUDIOS EN LA INSTITUCIÓN; Y
+
+VIII. POR OSTENTAR ALGÚN CARGO RELACIONADO CON EL COLEGIO.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
-Son obligaciones y facultades del Presidente del Comité las siguientes:
+EL COMITÉ SE LIMITARÁ A REALIZAR LABORES DENTRO DE SUS OBJETIVOS; SE ABSTENDRÁ DE INTERVENIR EN LOS ASPECTOS ADMINISTRATIVOS Y DOCENTES DEL CENTRO EDUCATIVO; NO EFECTUARÁN ACTIVIDADES LUCRATIVAS EN BENEFICIO DE SUS MIEMBROS Y AJUSTARÁN SU ACTIVIDAD A LO ESTABLECIDO EN LA LEY FEDERAL Y ESTATAL DE EDUCACIÓN, ASÍ COMO EN LA NORMATIVIDAD DEL COLEGIO.
 
-I.- Presidir las reuniones del Comité;
-
-II.- En coordinación con el Responsable del Centro Educativo, convocar a reunión tanto del Comité como de la Asamblea;
-
-III.- Representar al Comité de Padres ante Autoridades Federales, Estatales, de la Comunidad y del Colegio;
-
-IV.- Establecer junto con el resto de los miembros del Comité los programas de trabajo de acuerdo al objeto del mismo;
-
-V.- Vigilar que los miembros del Comité cumplan con las funciones asignadas a su encargo;
-
-VI.- Firmar todas y cada una de las Actas de Asamblea y de sesiones del Comité a fin de otorgarles validez oficial;
-
-VII.- Mantener junto con el Tesorero, el control de los fondos del Comité; y
-
-VIII.- Todas aquellas que le sean encomendadas por la Asamblea.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES Y FACULTADES DE LOS MIEMBROS DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 30.
 
-Son obligaciones y facultades del Secretario del Comité las siguientes:
+SON OBLIGACIONES Y FACULTADES DEL PRESIDENTE (A) DEL COMITÉ, LAS SIGUIENTES:
 
-I.- Girar citatorios para las reuniones del Comité;
+I.- PRESIDIR LAS REUNIONES DEL COMITÉ;
 
-II.- Levantar acta de cada una de las sesiones;
+II.- CONVOCAR A REUNIÓN, TANTO DEL COMITÉ COMO DE LA ASAMBLEA, EN COORDINACIÓN CON EL RESPONSABLE DEL CENTRO EDUCATIVO;
 
-III.- Dar lectura las actas cuando le sea requerido;
+III.- REPRESENTAR AL COMITÉ, ANTE AUTORIDADES FEDERALES, ESTATALES, DE LA COMUNIDAD Y DEL COLEGIO;
 
-IV.- Mantener actualizado el directorio de los miembros del Comité;
+IV.- ESTABLECER CON EL RESTO DE LOS MIEMBROS DEL COMITÉ, LOS PROGRAMAS DE TRABAJO DE ACUERDO AL OBJETO DEL MISMO;
 
-V.- Sustituir al Presidente en sus funciones cuando éste se ausente; y
+V.- VIGILAR QUE LOS MIEMBROS DEL COMITÉ CUMPLAN CON LAS FUNCIONES ASIGNADAS A SU CARGO;
 
-VI.- Las que le sean asignadas por la Asamblea.
+VI.- FIRMAR TODAS Y CADA UNA DE LAS ACTAS DE ASAMBLEA Y DE SESIONES DEL COMITÉ, A FIN DE OTORGARLES VALIDEZ OFICIAL;
+
+VII.- ADMINISTRAR JUNTO CON EL TESORERO (A), EL CONTROL DE LOS FONDOS DEL COMITÉ; Y
+
+VIII.- TODAS AQUELLAS QUE LE SEAN ENCOMENDADAS POR LA ASAMBLEA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 31.
 
-Son obligaciones y facultades del Tesorero del Comité las siguientes:
+SON OBLIGACIONES Y FACULTADES DEL SECRETARIO (A) DEL COMITÉ LAS SIGUIENTES:
 
-I.- Encargarse de la custodia de los fondos del Comité;
+I. ELABORAR Y GIRAR CITATORIOS PARA LAS REUNIONES DEL COMITÉ;
 
-II.- Encargarse del cobro de las cuotas establecidas;
+1. LEVANTAR ACTA DE CADA UNA DE LAS SESIONES;
 
-III.- Llevar un registro de los ingresos y egresos, teniendo bajo su custodia los comprobantes correspondientes;
+III (SIC).- DAR LECTURA A LAS ACTAS CUANDO SEA REQUERIDO;
 
-IV.- Al final de cada semestre escolar o cuando le sea requerido, presentar el estado financiero, tanto a la Asamblea, como a las Autoridades del Colegio; y
+IV. MANTENER ACTUALIZADO EL DIRECTORIO DE LOS MIEMBROS DEL COMITÉ;
 
-V.- Las demás que le sean asignadas por la asamblea.
+I. SUSTITUIR AL PRESIDENTE (A) EN SUS FUNCIONES, CUANDO ÉSTE SE AUSENTE; Y
+
+VI. LAS QUE LE SEAN ASIGNADAS POR LA ASAMBLEA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-Son derechos, y obligaciones de los miembros de la Asamblea:
+SON OBLIGACIONES Y FACULTADES DEL TESORERO (A) DEL COMITÉ LAS SIGUIENTES:
 
-I.- Solicitar la intervención del Comité para el planteamiento ante las Autoridades del Colegio, de problemas relacionados con la Educación de sus hijos o representados;
+I. CUSTODIAR LOS FONDOS DEL COMITÉ;
 
-II.- Ejercer el voto en las Asambleas;
+II. COBRAR LAS CUOTAS ESTABLECIDAS;
 
-III.- Ser electos para formar parte de la Mesa Directiva del Comité;
+III. LLEVAR UN REGISTRO DE LOS INGRESOS Y EGRESOS, TENIENDO BAJO SU CUSTODIA LOS COMPROBANTES CORRESPONDIENTES;
 
-IV.- Cooperar para el mejor funcionamiento del Comité;
+IV. PRESENTAR EL ESTADO FINANCIERO, TANTO A LA ASAMBLEA, COMO A LAS AUTORIDADES DEL COLEGIO AL FINAL DE CADA SEMESTRE O CUANDO LE SEA REQUERIDO; Y
 
-V.- Desempeñar las comisiones que sean conferidas por el Comité y/o Asamblea;
+V. LAS DEMÁS QUE LE SEAN ASIGNADAS POR LA ASAMBLEA.
 
-VI.- Colaborar a solicitud de las Autoridades del Colegio en las actividades culturales y sociales que se realicen intramuros y extramuros en los Centros Educativos; y
-
-VII.- Participar de acuerdo con los asesores y orientadores escolares y vocacionales, en el tratamiento de los problemas de conducta y aprendizaje de sus hijos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
-Los miembros de la Asamblea, podrán ser suspendidos en sus derechos, cuando así lo determine la Asamblea de Padres de Familia por infracciones graves al presente Reglamento, previamente escuchados en lo que tuvieran que alegar en su defensa y, a la vez, podrán ser restablecidos en sus derechos por acuerdo de la propia asamblea.
+SON OBLIGACIONES Y FACULTADES DEL VOCAL DEL COMITÉ LAS SIGUIENTES:
+
+I. APOYAR EN LA INTEGRACIÓN DE LA MESA DE DEBATES;
+
+II. APOYAR AL SECRETARIO PARA LA TOMA DEL ACTA CORRESPONDIENTE;
+
+III. PROPORCIONARA SU OPINIÓN CUANDO ASÍ SE LE REQUIERA; Y
+
+IV. TENDRÁ USO DE LA VOZ EN LA TOMA DE DECISIONES
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO VI. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS DE LA ASAMBLEA
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-La Dirección General del Colegio llevará y mantendrá actualizados los registros del Comité de acuerdo a los formatos establecidos por el Colegio, para tal efecto, los cuales serán remitidos al Departamento de Asuntos Jurídicos del Colegio.
+SON DERECHOS Y OBLIGACIONES DE LOS MIEMBROS DE LA ASAMBLEA:
+
+I. SOLICITAR LA INTERVENCIÓN DEL COMITÉ PARA EL PLANTEAMIENTO ANTE LAS AUTORIDADES DEL COLEGIO, DE PROBLEMAS RELACIONADOS CON LA EDUCACIÓN DE SUS HIJOS O REPRESENTADOS;
+
+II. EJERCER EL VOTO EN LAS ASAMBLEAS;
+
+III. SER ELECTOS PARA FORMAR PARTE DE LA MESA DIRECTIVA DEL COMITÉ;
+
+IV. COOPERAR PARA EL MEJOR FUNCIONAMIENTO DEL COMITÉ;
+
+V. DESEMPEÑAR LAS COMISIONES QUE LES SEAN CONFERIDAS POR EL COMITÉ Y POR LA ASAMBLEA;
+
+VI. COLABORAR, A SOLICITUD DE LAS AUTORIDADES DEL COLEGIO, EN LAS ACTIVIDADES CULTURALES Y SOCIALES QUE SE REALICEN INTRAMUROS Y EXTRAMUROS EN LOS CENTROS EDUCATIVOS; Y
+
+VII. PARTICIPAR DE ACUERDO CON LOS ASESORES Y ORIENTADORES ESCOLARES Y VOCACIONALES, EN EL TRATAMIENTO DE LOS PROBLEMAS DE CONDUCTA Y APRENDIZAJE DE SUS HIJOS.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 35.
 
-Para registrar oficialmente a los miembros del Comité ante la Dirección General del Colegio, el Presidente del Comité deberá enviar a través del responsable del Centro Educativo la siguiente información; Acta en que conste la elección del Comité; así como los nombres y cargos, su aceptación, su protesta y los cambios posteriores que por cualquier causa tengan lugar.
+LOS MIEMBROS DE LA ASAMBLEA PODRÁN SER SUSPENDIDOS EN SUS DERECHOS, CUANDO ASÍ LO DETERMINE LA ASAMBLEA DE PADRES DE FAMILIA, POR INFRACCIONES GRAVES AL PRESENTE REGLAMENTO, LOS QUE PREVIAMENTE SERÁN ESCUCHADOS EN LO QUE TUVIERAN QUE ALEGAR EN SU DEFENSA Y, A LA VEZ, PODRÁN SER RESTABLECIDOS EN SUS DERECHOS POR ACUERDO DE LA PROPIA ASAMBLEA.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO VII. DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 36.
 
-La Dirección General podrá negar o cancelar el registro, según el caso por cualquiera de las siguientes causas:
+LA DIRECCIÓN GENERAL DEL COLEGIO LLEVARÁ Y MANTENDRÁ ACTUALIZADOS LOS REGISTROS DEL COMITÉ, DE ACUERDO A LOS FORMATOS ESTABLECIDOS; PARA TAL EFECTO. LOS FORMATOS TALES COMO CONVOCATORIAS, LISTAS DE ASISTENCIA Y ACTAS DE ASAMBLEA, SERÁN REMITIDOS POR EL DEPARTAMENTO DE ASUNTOS JURÍDICOS DEL COLEGIO, PARA SER DEBIDAMENTE REQUISITADOS Y ENVIADOS DE MANERA ORIGINAL AL MISMO.
 
-I.- Por incumplimiento de las disposiciones relativas a este Reglamento;
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2019)</small>
 
-II.- Por falta de requisitos de la documentación que se presente;
+###### ARTÍCULO 37.
 
-III.- Por falsedad en los documentos que se ofrezcan para el registro; y
+PARA REGISTRAR OFICIALMENTE A LOS MIEMBROS DEL COMITÉ ANTE LA DIRECCIÓN GENERAL DEL COLEGIO, EL PRESIDENTE DEL COMITÉ DEBERÁ ENVIAR A TRAVÉS DEL RESPONSABLE DEL CENTRO EDUCATIVO LA SIGUIENTE INFORMACIÓN; ACTA EN QUE CONSTE LA ELECCIÓN DEL COMITÉ, ASÍ COMO LOS NOMBRES Y CARGOS, SU ACEPTACIÓN, SU PROTESTA Y LOS CAMBIOS POSTERIORES QUE POR CUALQUIER CAUSA TENGAN LUGAR.
 
-IV.- Por clausura del establecimiento escolar.
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 38.
+
+LA DIRECCIÓN GENERAL PODRÁ NEGAR O CANCELAR EL REGISTRO, SEGÚN EL CASO POR CUALQUIERA DE LAS SIGUIENTES CAUSAS:
+
+I. POR INCUMPLIMIENTO DE LAS DISPOSICIONES RELATIVAS A ESTE REGLAMENTO;
+
+II. POR FALTA DE REQUISITOS DE LA DOCUMENTACIÓN QUE SE PRESENTE;
+
+III. POR FALSEDAD EN LOS DOCUMENTOS QUE SE OFREZCAN EN LOS REGISTROS Y;
+
+IV. POR CLAUSURA DEL ESTABLECIMIENTO ESCOLAR.
 
 T R A N S I T O R I O
 
@@ -406,3 +522,11 @@ TITULAR DE LA OFICINA DE SERVICIOS FEDERALES DE APOYO A LA EDUCACIÓN EN EL ESTA
 LIC. ROSA MARÍA JUÁREZ ROJAS
 
 PRESIDENTE DEL CONSEJO COORDINADOR EMPRESARIAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE MODIFICA EL REGLAMENTO INTERNO DEL COMITÉ DE PADRES DE FAMILIA DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. - EL PRESENTE REGLAMENTO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO.
