@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2018-09-10"
+last_updated: "2019-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -231,7 +231,7 @@ II. Contar con credencial para votar con fotografía, vigente.
 
 Son requisitos para ser Diputado, Gobernador o miembro de un Ayuntamiento, además de los que señalan los artículos 19, 20, 37, 38, 39 y 66 de la Constitución, los siguientes:
 
-I. Estar inscrito en el Padrón Electoral y contar con credencial para votar con fotografía,vigente;
+I. Estar inscrito en el Padrón Electoral y contar con credencial para votar con fotografía,vigente (sic);
 
 II. Los Presidentes, Consejeros Electorales, Secretario Ejecutivo del Consejo o Secretariode (sic) los consejos distritales y municipales electorales, miembros del Instituto o del Servicio Profesional Electoral,durante los tres años posteriores al término de su encargo, no podrán ser postulados a un cargo de elección popular;
 
@@ -607,9 +607,9 @@ En caso de que sea delegada al Instituto la función de fiscalización a que se 
 
 El Consejo establecerá en las disposiciones reglamentarias del Instituto, procedimientos acordes a la legislación federal en materia de fiscalización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MAYO DE 2019)</small>
 
-El titular de la Contraloría Interna durará en su encargo 4 años, será electo y removido por el Congreso del Estado mediante el voto de la mayoría de los diputados presentes, y deberá cumplir con lo dispuesto en el artículo 80 del presente Código a excepción de su fracción VII; además de reunir los siguientes requisitos:
+El Contralor durará en su encargo 4 años, será electo y removido por el Congreso del Estado mediante el voto que establezca la Constitución Política del Estado de Aguascalientes, y deberá cumplir con lo dispuesto en el artículo 80 del presente Código a excepción de su fracción VII; además de reunir los siguientes requisitos:
 
 I. No ser consejero electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
 
@@ -1011,7 +1011,9 @@ Los consejeros electorales tendrán un período de desempeño de siete años y n
 
 Los consejeros electorales, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-El Instituto contará, además, con el personal administrativo y profesional necesario para el cumplimiento de sus funciones, el cual se nombrará bajo los criterios del Servicio Profesional Electoral Nacional, a excepción del Secretario Ejecutivo, el Director Administrativo; el Director de Capacitación y Organización Electoral; el Director Jurídico y el Contralor, los cuales serán nombrados conforme al procedimiento establecido en este Código.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2019)</small>
+
+El Instituto contará, además, con el personal administrativo y profesional necesario para el cumplimiento de sus funciones, el cual se nombrará bajo los criterios del Servicio Profesional Electoral Nacional, a excepción del Secretario Ejecutivo, el Director Administrativo; el Director de Capacitación y Organización Electoral; el Director Jurídico y el Contralor, los cuales serán nombrados conforme al procedimiento establecido en la Constitución y en este Código.
 
 ###### ARTÍCULO 70.
 
@@ -5089,7 +5091,19 @@ La integración del Tribunal; elección, requisitos y remociones de los magistra
 
 El Tribunal se integrará por tres magistrados propietarios. El Magistrado Presidente será designado por votación mayoritaria de los magistrados del propio Tribunal, durará en ese encargo dos años y no podrá ser reelecto en el periodo inmediato siguiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2019)</small>
+
+El Tribunal contará con una Contraloría Interna, como su Órgano Interno de Control, la cual tendrá el carácter de órgano auxiliar, y no podrá encontrarse administrativamente adscrita a (sic) área, unidad administrativa, y/o servidor público alguno de la estructura jurisdiccional y administrativa; así como será la encargada de vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de responsabilidades administrativas, a través de la realización de auditorías y revisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2019)</small>
+
+El Contralor Interno del Tribunal será designado por el Congreso del Estado, conforme a lo previsto en el artículo 27 fracción XXXVIII de la Constitución, y durará en su encargo 4 años. Para su elección deberá reunir los mismos requisitos que el presente Código le establece al Contralor Interno del Instituto Estatal Electoral; y las facultades del titular y del personal de la Contraloría Interna del Tribunal estarán previstas en el Reglamento Interior del Tribunal.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE MAYO DE 2019)</small>
+
 Las licencias de los magistrados que no excedan de tres meses, las concederá el Pleno del Tribunal, sin que puedan coincidir las de dos o más magistrados. Los magistrados serán suplidos en sus faltas temporales por el Secretario General de Acuerdos; la del Presidente por el segundo Magistrado y en las faltas definitivas se hará del conocimiento del Senado de la República, para que haga nueva designación.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE MAYO DE 2019)</small>
 
 La remuneración de los magistrados será establecida en el Presupuesto de Egresos del Estado, la cual no podrá disminuirse durante el ejercicio de su cargo.
 
@@ -5121,7 +5135,9 @@ II. Conceder licencias a los Magistrados hasta por tres meses existiendo causa j
 
 III. Establecer las reglas para la distribución de los asuntos entre los Magistrados;
 
-IV. Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio, Actuariosy (sic) al personal administrativo del Tribunal;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2019)</small>
+
+IV. Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio, Actuarios y al personal administrativo del Tribunal; con excepción del Titular de la Contraloría Interna del Tribunal, mismo que será nombrado y removido por el Congreso del Estado;
 
 V. Aprobar el proyecto del Presupuesto de Egresos del Tribunal, que deberá elaborar el Presidente del Tribunal;
 
@@ -5888,3 +5904,23 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de Enero de 2020.
+
+P.O. 13 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- SE REFORMA EL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto es publicado en el Periódico Oficial del Estado de Aguascalientes en términos del Cuarto Párrafo de la Fracción II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, e iniciará su vigencia el 15 de octubre de 2019, por lo que sus disposiciones no serán aplicativas de manera alguna para el Proceso Electoral Local 2018-2019 que se encuentra en curso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Electoral deberá Reformar, Adicionar y/o Derogar el Reglamento Interior del Tribunal Electoral del Estado de Aguascalientes, de conformidad con este primero.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que entre en vigencia el presente Decreto, y que a su vez cese en sus funciones el actual Contralor Interno del Tribunal Electoral del Estado de Aguascalientes, el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Contralor Interno de dicho órgano constitucional autónomo.
