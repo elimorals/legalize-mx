@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-01-21"
+last_updated: "2019-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3855,9 +3855,11 @@ I. Al término del periodo constitucional de la administración pública municip
 
 II. Por cualquier otra causa distinta al término del periodo constitucional que implique separación temporal o definitiva del cargo y cese de sus funciones de los servidores públicos señalados en el Artículo 148 del presente Código.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 150.
 
-La entrega-recepción se formalizará mediante acta administrativa que se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por el servidor público saliente y el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal.
+La entrega-recepción se formalizará mediante acta administrativa que se acompañará de un informe escrito de la o el servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por la o el servidor público saliente y la o el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal y señalará los documentos con posible valor histórico de acuerdo con el catálogo de disposición documental.
 
 Cuando así proceda, los servidores públicos salientes harán constar en el acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
 
@@ -3932,6 +3934,12 @@ El resguardante de estos bienes lo será el Presidente Municipal electo.
 II. Los gastos menores e imprevistos que con cargo a la partida especial asignada realice la administración electa quedan sujetos a las disposiciones que al efecto emita la Contraloría.
 
 III. El personal requerido, será dado de alta en la nómina municipal, con cargo a la partida especial asignada.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 161
+
+BIS.- Tratándose de la fusión, liquidación o extinción de una Dependencia o Entidad de la Administración Pública Municipal, el liquidador remitirá copia del inventario documental del fondo correspondiente al Archivo General Municipal.
 
 ### CAPÍTULO V. Del Archivo General Municipal
 
@@ -14599,6 +14607,10 @@ En casos excepcionales, a juicio de la Secretaría, se pedirá al propietario y 
 
 El propietario u ocupante de un inmueble tiene la obligación de denunciar ante la Secretaría los daños que se presenten en el mismo, como pueden ser los debidos a efectos de sismo, viento, explosión, incendio, hundimiento de la cimentación, cargas verticales u horizontales actuando sobre la estructura, asentamientos diferenciales y daños debidos a grietas, fallas, fracturas, discontinuidades en el subsuelo o deterioro de los materiales de la construcción.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2019)</small>
+
+Los propietarios u ocupantes de edificaciones catalogadas como monumentos históricos por el INAH; aquellas ubicadas dentro del centro histórico de la ciudad hechas con adobe o materiales similares de baja capacidad estructural, están obligados a obtener un dictamen estructural emitido por un perito especializado en estructuras, registrado en la Secretaría de Desarrollo Urbano, como mínimo cada cinco años, sobre la estabilidad y conservación de su finca, cuando ésta se encuentre destinada al uso de vivienda unifamiliar. En el caso de estar destinado a usos comerciales o de servicios o al habitacional multifamiliar, el dictamen de estabilidad estructural debe obtenerse cada año o cada vez que se hagan ampliaciones o modificaciones al inmueble o se pretenda cambiar su uso del suelo.
+
 ###### ARTÍCULO 955.
 
 En todos aquellos predios que se encuentran afectados por alguna discontinuidad en el subsuelo, entendiéndose por éstas, las fallas, grietas o fisuramientos del terreno, se deberán de tomar medidas especiales tanto para la estructuración como para la cimentación con el objeto de evitar que los asentamientos diferenciales entre ambos lados de la discontinuidad en el subsuelo afecten a la estructura y provoquen daños en la construcción. Tanto en la memoria de cálculo como en los planos estructurales deberá mostrarse específicamente la solución que pretenda adoptarse para cada caso en particular, con el objeto de que sea revisada y avalada por los Peritos Responsables de Obra y Especializados en Mecánica de Suelos, Geología o Geofísica según lo establece este Libro. Así mismo se deberá realizar un Estudio Geológico o Geofísico de la zona en la que se encuentre un predio, donde no se cuente con registros cartográficos de grietas, fallas, fracturas o discontinuidades en el subsuelo, mismo que deberá ser elaborado por Peritos Especializados en Mecánica de Suelos o por Ingenieros Geólogos o Geofísicos; esto será privativo de desarrollos correspondientes a colonias o fraccionamientos populares o de interés social o en áreas o comunidades suburbanas cuya edificación se desarrolle por autoconstrucción con las limitantes que para este caso determina el presente Libro.
@@ -15515,6 +15527,10 @@ VI. Los demás que se establezcan en la Legislación Federal y Estatal de la mat
 
 La Secretaría podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2019)</small>
+
+En las fincas catalogadas como monumentos históricos por el INAH o aquellas edificaciones, que se pretendan destinar a usos diferentes al habitacional unifamiliar, deberán contar con un dictamen de seguridad estructural emitido por perito especializado en estructuras, con una vigencia no mayor a los seis meses. Obtenido el cambio de uso del suelo y ejercido éste, será requisito indispensable que el propietario o poseedor del inmueble, para la renovación anual de la licencia de funcionamiento, presente un dictamen de estabilidad estructural actualizado. De lo contrario no podrá ser expedida ésta.
+
 ###### ARTÍCULO 1091.
 
 En construcciones ya ejecutadas, la Secretaría podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
@@ -15814,6 +15830,10 @@ IX. Cuando se trate de solicitudes que señalen como uso del suelo propuesto fra
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
 
 X. Cuando se trate de solicitudes que señalen como uso de suelo propuesto 'tiendas de conveniencia' o cualquier comercio similar, se deberá presentar el correspondiente estudio de impacto socio - económico el cual será expedido por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a través del que se dará a conocer el impacto o posibles repercusiones que pudiera generar la actividad solicitada respecto a las diversas tiendas de abarrotes o análogas que se encuentren dentro de una circunferencia de hasta tres cuadras.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2019)</small>
+
+XI. Dictamen de seguridad estructural con vigencia máxima de 6 meses, emitido por perito especializado en estructuras, registrado en la Secretaria, que debe contener todos los elementos técnicos de valoración de la estructura; en aquellos casos en que el inmueble objeto de la solicitud, sea una finca catalogada con valor artístico o histórico, o se trate de edificaciones hechas antes del año 1950; y se les pretenda destinar a un uso diferente al habitacional unifamiliar.
 
 ###### ARTÍCULO 1110.
 
@@ -24342,3 +24362,17 @@ P.O. 21 DE ENERO DE 2019.
 > <small>[N. DE E. TRANSITORIO POR EL QUE SE “REFORMA A LOS ARTÍCULOS 107 Y 107 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
 
 ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 954, SEGUNDO PÁRRAFO DEL ARTÍCULO 1109, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA ARTÍCULO 150, SE ADICIONA EL ARTÍCULO 161-BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, REFORMA AL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el 16 de junio de 2019, salvo las relativas a actualizar el Registro Nacional de Archivos, cuyo cumplimiento estará sujeto a la disponibilidad de la plataforma correspondiente por parte del Archivo General de la Nación.
+
+SEGUNDO.- La o el Jefe del Archivo elaborará un programa de administración de riesgos a desarrollar en el segundo semestre del año 2019. En el transcurso de los primeros 30 días a partir de la entrada en vigor de las presentes reformas al Reglamento del Archivo General Municipal de Aguascalientes, presentará dicho programa al Director de Recursos Materiales quien gestionará su financiamiento y supervisará su ejecución.
