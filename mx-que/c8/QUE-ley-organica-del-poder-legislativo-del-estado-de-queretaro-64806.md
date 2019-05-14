@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-04-26"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -196,6 +196,12 @@ Los órganos del Poder Legislativo podrán enriquecer con sus experiencias las p
 (Portal en internet) La Legislatura del Estado contará con un portal en internet, cuyo contenido básico será presentar de manera clara, oportuna, accesible, sencilla e institucional aquella información del Poder Legislativo, diputados, órganos y dependencias que se requiera en materia de transparencia, agenda política, consulta, contenido, proceso legislativo y aquella que la Presidencia de la Legislatura determine periódicamente.
 
 El Portal en internet de la Legislatura estará a cargo de la Presidencia de la Legislatura, debiendo colaborar todas (sic) dependencias y órganos de la Legislatura en el ámbito de su competencia para su correcto funcionamiento y actualización constante.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+###### Artículo 15 Bis.
+
+(Máxima publicidad de las actividades de la Legislatura) La Legislatura del Estado realizará la más amplia difusión de los actos con los cuales dé cumplimiento a las funciones que constitucional y legalmente tiene encomendadas. Lo anterior, por conducto del portal de internet a que se refiere el artículo anterior, de acuerdo con lo establecido en la legislación vigente.
 
 ### Capítulo Segundo. Derechos y obligaciones de los diputados
 
@@ -1145,9 +1151,11 @@ Los proyectos observados por el titular del Poder Ejecutivo del Estado deberán 
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 89.
 
-(Sesiones del Pleno) Todas las sesiones del Pleno serán públicas.
+(Sesiones del Pleno) Todas las sesiones del Pleno serán públicas y se transmitirán en tiempo real.
 
 Se considerarán solemnes las que se celebren:
 
@@ -1207,9 +1215,11 @@ Las dependencias del Poder Legislativo deberán brindar el apoyo necesario en el
 
 El Pleno, a solicitud de cualquier diputado y por mayoría de votos de los presentes, podrá agregar o retirar asuntos del orden del día de la sesión, hasta antes de abrir el punto de asuntos generales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 93.
 
-(Publicidad del orden del día) El orden del día de las sesiones del Pleno se publicará en la Gaceta Legislativa.
+(Publicidad del orden del día) El orden del día de las sesiones del Pleno se publicará en la Gaceta Legislativa y se integrará al portal de internet de la Legislatura, en los términos en que se haya circulado a los diputados.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2157,6 +2167,14 @@ El Presidente tendrá voto de calidad en caso de empate en la votación de los a
 
 (Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a Servicios Parlamentarios, Servicios Administrativos, Comunicación Social e Investigación y Estadística Legislativa para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Las sesiones de las comisiones ordinarias o especiales del Poder Legislativo deberán ser transmitidas en tiempo real en el portal institucional en internet o plataformas de las redes sociales con mayor número de usuarios en el País y en el Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Se exceptúan de lo anterior las sesiones de la comisión instructora.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 153.
@@ -2190,6 +2208,10 @@ El defecto en las formalidades y el plazo de la convocatoria, no impedirá que s
 ###### Artículo 155.
 
 (Programación de las sesiones) Se implementará un sistema informático que permitirá reservar anticipadamente las salas de sesiones, programar reuniones y sesiones de los órganos y dependencias, las salas que se ubiquen en el recinto legislativo serán utilizadas exclusivamente para trabajos relacionados con la función legislativa de los órganos y dependencias.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+En el supuesto de que varias comisiones sesionen en mismo día y hora, se dará preferencia a aquella que hubiera convocado en primer término.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2713,9 +2735,13 @@ VII. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y r
 
 VIII. Gestionar y mantener actualizado el portal institucional en internet de la Legislatura, en la parte que corresponde a (sic) información periodísticas del Poder Legislativo y sus integrantes;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-IX. Ejecutar las demás instrucciones que en materia de comunicación social reciba de la Junta de Coordinación Política o, en su caso, del Pleno de la Legislatura.
+IX. Crear y administrar las cuentas oficiales de la Legislatura en las plataformas de redes sociales con mayor número de usuarios en el País y en el Estado, como canal para la transmisión de las sesiones de Comisiones y del Pleno y como medio para la publicación del orden del día de las sesiones del Pleno, y para la difusión de otra información relevante de la Legislatura; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+X. Elaborar la estrategia anual de Comunicación Social y difundir la información a que se refiere el Título IV, de la Ley General de Comunicación Social, y demás atribuciones y obligaciones contenidas en la propia Ley General. Asimismo, ejecutar las instrucciones que en materia de comunicación social dicten la Presidencia de la Junta de Coordinación Política y el Pleno de la Legislatura; cumplir las demás disposiciones aplicables.
 
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
@@ -3194,3 +3220,11 @@ Artículo Segundo. Se deroga el «Decreto que crea las Medallas de Honor "Ezequi
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley, en lo que corresponde a la Ley Orgánica del Poder Legislativo, entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del estado de Querétaro, salvo lo dispuesto en el artículo 152 de la Ley Orgánica del Poder Legislativo señalado en la presente ley, el cual entrará en vigor el día 01 de enero de 2020 atendiendo a la suficiencia presupuestal aprobada. Lo relativo en la presente Ley a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
