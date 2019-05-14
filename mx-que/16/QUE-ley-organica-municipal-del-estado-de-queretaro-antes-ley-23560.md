@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2019-03-06"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -207,7 +207,7 @@ Los planes de desarrollo municipal, deberán contener programas y acciones tendi
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-i(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 14.
 
@@ -573,13 +573,15 @@ XXXIII. Aprobar y delegar el ejercicio de la representación legal del Ayuntamie
 
 XXXIV. Coadyuvar con los Sistemas Nacional y Estatal Anticorrupción, así como con el Sistema Nacional de Fiscalización, en términos de las disposiciones e instrumentos aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XXXV. Designar al titular del Órgano Interno de Control del Municipio; y
+XXXV. Designar al titular del Órgano Interno de Control del Municipio;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XXXVI. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
+XXXVI. Coadyuvar con el aprovisionamiento a los cuerpos voluntarios de bomberos que comprueben estar legalmente constituidos en el Estado y operen en su territorio, de acuerdo a las necesidades que acrediten éstos y atendiendo a las condiciones y suficiencia presupuestal con que cuente el Municipio; y
+
+XXXVII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2916,3 +2918,13 @@ P.O. 6 DE MARZO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 30 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las acciones a que se refiere la presente Ley se podrán realizar conforme a la suficiencia y disponibilidad presupuestal con que cuenten los municipios para su aplicación, así como atendiendo a las propias condiciones de cada uno de los municipios, quienes deberán reglamentar el método de asignación de recursos destinados, a partir del siguiente ejercicio fiscal.
