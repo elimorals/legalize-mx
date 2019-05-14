@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2018-05-18"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -896,6 +896,10 @@ Tratándose de menores de edad con discapacidades, está educación propiciará 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
 
 Esta forma de educación incluye la orientación a los padres o tutores, así como también a los docentes y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+La Secretaría, de acuerdo a la suficiencia presupuestaria, fomentará y promoverá la creación de grupos en las instituciones educativas para que, en caso de ser necesario, se utilicen métodos alternativos de comunicación en la impartición de los programas que se desarrollen dentro de las mismas.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1860,3 +1864,11 @@ P.O. 18 DE MAYO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN PÁRRAFO CUARTO AL INCISO D) DE LA FRACCIÓN III DEL ARTÍCULO 34 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
