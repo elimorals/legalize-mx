@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-04-02"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -179,7 +179,9 @@ c) La votación se efectuará mediante cédula y será electa la propuesta que o
 
 1. Los actos de instalación de la Legislatura, así como de apertura y conclusión de los períodos ordinarios de sesiones y de apertura y conclusión de sesiones extraordinarias se formalizarán mediante la expedición del Decreto correspondiente.
 
-2. Los actos a que se refiere el párrafo 1 de este artículo se comunicarán al titular del Poder Ejecutivo del Estado y al Supremo Tribunal de Justicia. A su vez, se harán del conocimiento de los Ayuntamientos del Estado, de las Cámaras del Congreso de la Unión, del Ejecutivo Federal por conducto de la Secretaría de Gobernación, de las Legislaturas de los Estados y de la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+2. Los actos a que se refiere el párrafo 1 de este artículo se comunicarán al titular del Poder Ejecutivo del Estado y al Supremo Tribunal de Justicia. A su vez, se harán del conocimiento de los Ayuntamientos del Estado, de las Cámaras del Congreso de la Unión, del Ejecutivo Federal por conducto de la Secretaría de Gobernación, de las Legislaturas de los Estados y del Congreso de la Ciudad de México.
 
 ###### ARTICULO 14.
 
@@ -227,7 +229,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 4. En caso de que por cualquier causa no pudiere llevarse a cabo la elección, la misma se realizará en junta previa celebrada en la fecha en que deba sesionar el Congreso en el mes siguiente; dicha junta será encabezada por el presidente electo para el mes precedente.
 
-5. La elección de los integrantes de la Mesa Directiva del Congreso se comunicará al titular del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, a los Ayuntamientos del Estado, a las Cámaras del Congreso de la Unión, al Ejecutivo Federal por conducto de la Secretaría de Gobernación, a las Legislaturas de los Estados y a la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+5. La elección de los integrantes de la Mesa Directiva del Congreso se comunicará al titular del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, a los Ayuntamientos del Estado, a las Cámaras del Congreso de la Unión, al Ejecutivo Federal por conducto de la Secretaría de Gobernación, a las legislaturas de los Estados y al Congreso de la Ciudad de México.
 
 ###### ARTICULO 19.
 
@@ -269,7 +273,9 @@ h) Las demás que le atribuyen esta ley, los ordenamientos relativos a la activi
 
 1. El presidente de la Mesa Directiva expresa la unidad del Congreso. Le corresponde garantizar el fuero constitucional de los diputados y velar por la inviolabilidad del recinto del Congreso.
 
-2. En materia de dirección parlamentaria, el presidente de la Mesa Directiva conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno del Distrito Federal. También le corresponde la representación protocolaria del Congreso en encuentros con instituciones parlamentarias nacionales y del exterior.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+2. En materia de dirección parlamentaria, el Presidente de la Mesa Directiva conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México. También le corresponde la representación protocolaria del Congreso en encuentros con instituciones parlamentarias nacionales y del exterior.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -489,7 +495,9 @@ j) Las demás que le atribuye esta ley o los ordenamientos relativos a la activi
 
 ###### ARTICULO 34.
 
-1. En materia de dirección política, el presidente de la Junta de Coordinación Política conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno del Distrito Federal.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+1. En materia de dirección política, el Presidente de la Junta de Coordinación Política conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México.
 
 2. Son atribuciones del presidente de la Junta de Coordinación Política:
 
@@ -1623,11 +1631,15 @@ d) Asista a ellas el Presidente de los Estados Unidos Mexicanos;
 
 e) Presente el titular del Poder Ejecutivo del Estado el informe a que se refiere la parte final de la fracción XXXIII del artículo 91 de la Constitución Política del Estado;
 
-f) Realicen visitas delegaciones parlamentarias del Congreso de la Unión, de las Legislaturas de los Estados, de la Asamblea Legislativa del Distrito Federal o de otros países;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+f) Realicen visitas delegaciones parlamentarias del Congreso de la Unión, de las legislaturas de los Estados, Congreso de la Ciudad de México o de otros países;
 
 g) Se abran los períodos ordinarios de sesiones;
 
-h) Se imponga la Medalla al Mérito "Luis García de Arellano" del Congreso del Estado, e
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+h) Se imponga la Medalla al Mérito “Luis García de Arellano” del Congreso del Estado;
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
 
@@ -2241,9 +2253,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas; del Procurador General de Justicia; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas; del Fiscal General de Justicia del Estado; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
@@ -2561,7 +2573,9 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 
 2. En dicha sesión se presentará la minuta de la sesión, la cual contendrá una relación sucinta del desahogo del orden del día, los procedimientos desplegados y las resoluciones adoptadas. La minuta será puesta a discusión y votación de inmediato.
 
-3. Una vez aprobada la minuta, el presidente de la Mesa Directiva dispondrá se participe la clausura del periodo al titular del Poder Ejecutivo, al Supremo Tribunal de Justicia, a los Ayuntamientos del Estado, a los Poderes Federales, a las Legislaturas de los Estados y a la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+3. Una vez aprobada la minuta, el Presidente de la Mesa Directiva dispondrá se participe la clausura del periodo al titular del Poder Ejecutivo, al Supremo Tribunal de Justicia, a los Ayuntamientos del Estado, a los Poderes Federales, a las Legislaturas de los Estados y al Congreso (sic) la Ciudad de México.
 
 4. Acto continuo, puestos de pie todos los presentes, el presidente de la Mesa Directiva hará la Declaratoria siguiente:
 
@@ -3262,6 +3276,14 @@ El presente Decreto entrará en vigor al momento de su expedición, y se publica
 P.O. 2 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-791 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-803 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
